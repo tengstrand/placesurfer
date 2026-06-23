@@ -1,12 +1,12 @@
 goog.provide('placesurfer.web_app.keyboard');
 placesurfer.web_app.keyboard.typing_in_field_QMARK_ = (function placesurfer$web_app$keyboard$typing_in_field_QMARK_(e){
 var el = e.target;
-var tag = (function (){var G__40997 = el;
-var G__40997__$1 = (((G__40997 == null))?null:G__40997.tagName);
-if((G__40997__$1 == null)){
+var tag = (function (){var G__43683 = el;
+var G__43683__$1 = (((G__43683 == null))?null:G__43683.tagName);
+if((G__43683__$1 == null)){
 return null;
 } else {
-return G__40997__$1.toUpperCase();
+return G__43683__$1.toUpperCase();
 }
 })();
 return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"INPUT")) || (((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"TEXTAREA")) || (el.isContentEditable === true))));
@@ -28,8 +28,8 @@ placesurfer.web_app.keyboard.update_pins_mode_QMARK_ = (function placesurfer$web
 return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(s))) && (cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pins","pins",1725193285),new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(s))));
 });
 placesurfer.web_app.keyboard.pin_row_nav_delta = (function placesurfer$web_app$keyboard$pin_row_nav_delta(e){
-var G__41008 = e.key;
-switch (G__41008) {
+var G__43684 = e.key;
+switch (G__43684) {
 case "ArrowDown":
 return (1);
 
@@ -88,12 +88,18 @@ e.preventDefault();
 
 return placesurfer.web_app.nav.navigate_to_pin_BANG_();
 } else {
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("g",key)){
+e.preventDefault();
+
+return placesurfer.web_app.nav.navigate_BANG_(new cljs.core.Keyword(null,"groups","groups",-136896102));
+} else {
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("a",key)){
 e.preventDefault();
 
 return placesurfer.web_app.nav.navigate_BANG_(new cljs.core.Keyword(null,"about","about",1423892543));
 } else {
 return null;
+}
 }
 }
 }
