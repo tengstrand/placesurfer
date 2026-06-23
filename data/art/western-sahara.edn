@@ -1,0 +1,23 @@
+{:count 2,
+ :country "western-sahara",
+ :country-code "EH",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:55.139919Z",
+ :positions
+ [{:name "Mirane Association - Rock Art Museum",
+   :longitude -11.7727322,
+   :latitude 26.6977365,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "الراهب ختم الحماية",
+   :longitude -17.0499699,
+   :latitude 20.7706932,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

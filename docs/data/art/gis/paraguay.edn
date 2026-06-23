@@ -1,0 +1,412 @@
+{:count 93,
+ :country "paraguay",
+ :country-code "PY",
+ :dataset :art,
+ :generated-at "2026-05-26T06:47:05.976399Z",
+ :positions
+ [{:name "Artelier D'Art",
+   :longitude -57.5942936,
+   :latitude -25.2676402,
+   :source :openstreetmap}
+  {:name "Artisan Center, Japanese Immigration Museum",
+   :longitude -55.0034203,
+   :latitude -25.4615364,
+   :source :openstreetmap}
+  {:name "Arts",
+   :longitude -54.6092324,
+   :latitude -25.5433694,
+   :source :openstreetmap,
+   :locality "Ciudad del Este"}
+  {:name "Capilla Loreto",
+   :longitude -56.8486518,
+   :latitude -26.8869932,
+   :source :openstreetmap}
+  {:name "Casa Bicentenario de la Literatura “Augusto Roa Bastos”",
+   :longitude -57.6311876,
+   :latitude -25.2846433,
+   :source :openstreetmap,
+   :homepage
+   "https://visitaparaguay.com.py/lugar/555/casa-bicentenario-de-la-literatura-augusto-roa-bastos",
+   :locality "Asuncion"}
+  {:name "Casa Bicentenario del Teatro \"Edda de los Ríos\"",
+   :longitude -57.6266535,
+   :latitude -25.2874439,
+   :source :openstreetmap,
+   :homepage "https://alianzafrancesa.edu.py/#/"}
+  {:name "Casa de Artes Municipal",
+   :longitude -55.5541054,
+   :latitude -26.8616835,
+   :source :openstreetmap,
+   :locality "Pirapó"}
+  {:name "Casa de la Cultura",
+   :longitude -57.5460037,
+   :latitude -25.3937102,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura",
+   :longitude -55.8691327,
+   :latitude -27.3390204,
+   :source :openstreetmap,
+   :locality "Encarnación"}
+  {:name "Casa de la Cultura Municipal",
+   :longitude -55.3466655,
+   :latitude -26.7213389,
+   :source :openstreetmap}
+  {:name "Casa Museo José Asunción Flores",
+   :longitude -57.6289867,
+   :latitude -25.2814322,
+   :source :openstreetmap,
+   :locality "Asunción"}
+  {:name "Casa Raatz",
+   :longitude -55.561224,
+   :latitude -27.0586144,
+   :source :openstreetmap}
+  {:name "Centro Cultural de la República \"El Cabildo\"",
+   :longitude -57.633579,
+   :latitude -25.2797637,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Lago",
+   :longitude -57.381034,
+   :latitude -25.3105174,
+   :source :openstreetmap}
+  {:name "Centro Cultural Edwin Krug",
+   :longitude -55.6523445,
+   :latitude -27.0836399,
+   :source :openstreetmap}
+  {:name "Centro Cultural Maqueda",
+   :longitude -57.3844945,
+   :latitude -25.3090334,
+   :source :openstreetmap}
+  {:name "Centro de Artes Cascanueces",
+   :longitude -57.4930553,
+   :latitude -25.2663293,
+   :source :openstreetmap}
+  {:name "Centro de Interpretación del Gran Chaco Americano",
+   :longitude -60.0091729,
+   :latitude -22.4761894,
+   :source :openstreetmap}
+  {:name "edificio Victoria",
+   :longitude -57.6360107,
+   :latitude -25.2829161,
+   :source :openstreetmap,
+   :locality "Asuncion"}
+  {:name "Eric Artes",
+   :longitude -57.5317716,
+   :latitude -25.2121403,
+   :source :openstreetmap}
+  {:name "Escuela Municipal de Arte Agustin Pio Barrios",
+   :longitude -57.1305043,
+   :latitude -26.6671578,
+   :source :openstreetmap}
+  {:name "Espacio Cultural Gobau",
+   :longitude -56.4399705,
+   :latitude -25.444934,
+   :source :openstreetmap,
+   :locality "Coronel Oviedo"}
+  {:name "Estacion del Tren",
+   :longitude -56.9555834,
+   :latitude -25.6674295,
+   :source :openstreetmap}
+  {:name "Ferrocarril",
+   :longitude -56.1518303,
+   :latitude -27.2178303,
+   :source :openstreetmap}
+  {:name "Fundación Texo",
+   :longitude -57.6329939,
+   :latitude -25.288959,
+   :source :openstreetmap,
+   :homepage "https://www.juandesalazar.org.py/",
+   :locality "Asunción"}
+  {:name "GALERIA CREANDO ARTE",
+   :longitude -57.6476958,
+   :latitude -25.2904002,
+   :source :openstreetmap}
+  {:name "Galeria Multi-Arte",
+   :longitude -57.6344839,
+   :latitude -25.2930181,
+   :source :openstreetmap,
+   :locality "Asuncion"}
+  {:name "Galería Exaedro",
+   :longitude -57.6024828,
+   :latitude -25.2973759,
+   :source :openstreetmap}
+  {:name "Guggiari Arte",
+   :longitude -57.5620776,
+   :latitude -25.282128,
+   :source :openstreetmap}
+  {:name "Instituto Superior de Artes Visuales VERONIKA KOOP",
+   :longitude -57.5861929,
+   :latitude -25.2891904,
+   :source :openstreetmap,
+   :locality "VILLA MORRA"}
+  {:name "JARA GIL ARTES",
+   :longitude -57.6474362,
+   :latitude -25.3011587,
+   :source :openstreetmap}
+  {:name "La Caosfera",
+   :longitude -57.6442366,
+   :latitude -25.2795125,
+   :source :openstreetmap,
+   :locality "Asunción"}
+  {:name "La casa embrujada",
+   :longitude -57.3801195,
+   :latitude -25.3066326,
+   :source :openstreetmap}
+  {:name "La Obradora Cultural",
+   :longitude -57.6433665,
+   :latitude -25.2837831,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/obradoracultural/",
+   :locality "Asuncion"}
+  {:name "Los Fundadores",
+   :longitude -55.5828473,
+   :latitude -27.0401461,
+   :source :openstreetmap}
+  {:name "Menno Museum",
+   :longitude -59.8367267,
+   :latitude -22.3798627,
+   :source :openstreetmap}
+  {:name "Modelo Reducido de la Represa de Itaipú",
+   :longitude -54.6356474,
+   :latitude -25.4417592,
+   :source :openstreetmap}
+  {:name "MUSA - Museo de Sillas de Asunción",
+   :longitude -57.5794826,
+   :latitude -25.252793,
+   :source :openstreetmap,
+   :locality "Asunción"}
+  {:name "Museo Bella Vista",
+   :longitude -55.5671671,
+   :latitude -27.0529,
+   :source :openstreetmap}
+  {:name "museo Bernardino Caballero",
+   :longitude -57.6217578,
+   :latitude -25.2819279,
+   :source :openstreetmap}
+  {:name "Museo Cabañas",
+   :longitude -57.1425533,
+   :latitude -26.3368817,
+   :source :openstreetmap}
+  {:name "Museo Cabildo de Pilar",
+   :longitude -58.3055586,
+   :latitude -26.8556883,
+   :source :openstreetmap}
+  {:name "Museo Casa de la Victoria",
+   :longitude -55.8691161,
+   :latitude -27.3342947,
+   :source :openstreetmap,
+   :locality "Encarnación"}
+  {:name "Museo de Curuguaty",
+   :longitude -55.6945841,
+   :latitude -24.4720885,
+   :source :openstreetmap}
+  {:name "Museo de Historia de Chaco'i",
+   :longitude -57.6532988,
+   :latitude -25.2469884,
+   :source :openstreetmap}
+  {:name "Museo de Historia Natural",
+   :longitude -57.5749802,
+   :latitude -25.2496081,
+   :source :openstreetmap}
+  {:name "museo de la electricidad",
+   :longitude -57.6677996,
+   :latitude -25.288783,
+   :source :openstreetmap}
+  {:name "Museo de la Fundicion de Hierro",
+   :longitude -56.8384405,
+   :latitude -26.0959981,
+   :source :openstreetmap}
+  {:name "Museo de las memorias",
+   :longitude -57.6397417,
+   :latitude -25.2886409,
+   :source :openstreetmap,
+   :locality "Asunción"}
+  {:name "Museo de Santiago Misiones",
+   :longitude -56.7636168,
+   :latitude -27.1413317,
+   :source :openstreetmap}
+  {:name "Museo del Dr. Francia",
+   :longitude -57.2831358,
+   :latitude -25.5588593,
+   :source :openstreetmap}
+  {:name "Museo del Ferrocarril",
+   :longitude -55.8734615,
+   :latitude -27.3345025,
+   :source :openstreetmap,
+   :locality "Encarnación"}
+  {:name "Museo del Vino",
+   :longitude -57.2584207,
+   :latitude -25.3815859,
+   :source :openstreetmap}
+  {:name "Museo Etnográfico Andrés Barbero",
+   :longitude -57.6259273,
+   :latitude -25.2839743,
+   :source :openstreetmap,
+   :homepage "https://museobarbero.org.py/"}
+  {:name "Museo ferroviaria talleres Zapucai",
+   :longitude -56.958867,
+   :latitude -25.6671118,
+   :source :openstreetmap}
+  {:name "Museo Fortin Boqueron",
+   :longitude -59.9415014,
+   :latitude -22.773482,
+   :source :openstreetmap}
+  {:name "Museo Fortín Toledo",
+   :longitude -60.3407212,
+   :latitude -22.3538358,
+   :source :openstreetmap}
+  {:name "Museo historico ex cuartel Mariscal Franciaco Solano Lopez",
+   :longitude -56.4417333,
+   :latitude -24.6634575,
+   :source :openstreetmap}
+  {:name "Museo histórico",
+   :longitude -60.127931,
+   :latitude -22.6523168,
+   :source :openstreetmap}
+  {:name "Museo Histórico \"Comandante Pedro Pablo Caballero\"",
+   :longitude -57.0442204,
+   :latitude -25.4646223,
+   :source :openstreetmap}
+  {:name "Museo Histórico Coronel Pedro Hermosa",
+   :longitude -58.2712124,
+   :latitude -26.9824095,
+   :source :openstreetmap}
+  {:name "museo hospital de clinicasrr",
+   :longitude -57.6521913,
+   :latitude -25.2798515,
+   :source :openstreetmap}
+  {:name "Museo Jakob Unger",
+   :longitude -60.0352136,
+   :latitude -22.3539848,
+   :source :openstreetmap}
+  {:name "Museo Ka i Puente Ex Ferrocarril",
+   :longitude -56.240309,
+   :latitude -27.160374,
+   :source :openstreetmap}
+  {:name "Museo Mangoré",
+   :longitude -57.1475487,
+   :latitude -26.6687676,
+   :source :openstreetmap}
+  {:name "Museo Memoria de la Ciudad de Asuncion",
+   :longitude -57.6379642,
+   :latitude -25.2778323,
+   :source :openstreetmap,
+   :homepage "https://cultura.asuncion.gov.py/manzana"}
+  {:name "Museo mensú",
+   :longitude -54.6145883,
+   :latitude -25.5131505,
+   :source :openstreetmap}
+  {:name "Museo Mitológico Ramón Elias",
+   :longitude -57.4487295,
+   :latitude -25.3506761,
+   :source :openstreetmap}
+  {:name "Museo Moises Bertoni",
+   :longitude -54.5843017,
+   :latitude -25.659671,
+   :source :openstreetmap}
+  {:name "Museo Municipal del Cuartel de la Villa Real",
+   :longitude -57.4508635,
+   :latitude -23.4087079,
+   :source :openstreetmap}
+  {:name "Museo Municipal Guerra del Chaco 1932-1935",
+   :longitude -57.0232047,
+   :latitude -26.8891544,
+   :source :openstreetmap}
+  {:name "Museo Municipal Salvador Garozzo",
+   :longitude -57.5205648,
+   :latitude -25.0999368,
+   :source :openstreetmap}
+  {:name "Museo Nacional de Bellas Artes",
+   :longitude -57.6211441,
+   :latitude -25.2886388,
+   :source :openstreetmap}
+  {:name "Museo Paolo Alberzoni",
+   :longitude -58.310789,
+   :latitude -26.8514019,
+   :source :openstreetmap}
+  {:name "Museo Paratodo",
+   :longitude -59.6028236,
+   :latitude -23.2261869,
+   :source :openstreetmap}
+  {:name "museo Siete Miteos - Yaguaron",
+   :longitude -57.293309,
+   :latitude -25.5681258,
+   :source :openstreetmap}
+  {:name "Museo Tierra Guaraní (Itaipú)",
+   :longitude -54.6338234,
+   :latitude -25.4456571,
+   :source :openstreetmap}
+  {:name "Museum Basilicae de Caacupé",
+   :longitude -57.1407413,
+   :latitude -25.3862112,
+   :source :openstreetmap}
+  {:name "Orquesta Sinfónica Nacional \"OSN\"",
+   :longitude -57.606943,
+   :latitude -25.2898782,
+   :source :openstreetmap,
+   :homepage "https://www.osn.gov.py/",
+   :locality "Asuncion"}
+  {:name "Parque Ecológico Ingeniero Alfredo Sitzmann",
+   :longitude -55.6514352,
+   :latitude -27.0680726,
+   :source :openstreetmap}
+  {:name "Paseo del Barro",
+   :longitude -57.6128179,
+   :latitude -25.3310144,
+   :source :openstreetmap}
+  {:name "Pombero Róga",
+   :longitude -57.1497264,
+   :latitude -25.2786564,
+   :source :openstreetmap}
+  {:name "Quinta Maravilla",
+   :longitude -57.0612506,
+   :latitude -25.3749064,
+   :source :openstreetmap}
+  {:name "ROCHA Espacio de Arte",
+   :longitude -57.6053194,
+   :latitude -25.2850485,
+   :source :openstreetmap}
+  {:name "RUIZ BENITEZ GALERIA DE ARTE Y ENMARCADOS",
+   :longitude -57.6362935,
+   :latitude -25.2895731,
+   :source :openstreetmap}
+  {:name "SALA DE ARTE GOYA",
+   :longitude -57.6531733,
+   :latitude -25.2872879,
+   :source :openstreetmap}
+  {:name "Sala Goya",
+   :longitude -57.62995,
+   :latitude -25.2887379,
+   :source :openstreetmap,
+   :homepage "https://www.juandesalazar.org.py/",
+   :locality "Asunción"}
+  {:name "Salón Padre Guillermo Hütte",
+   :longitude -55.6377228,
+   :latitude -27.061932,
+   :source :openstreetmap}
+  {:name "Tacuru pucu",
+   :longitude -54.6354407,
+   :latitude -25.4106267,
+   :source :openstreetmap}
+  {:name "TatakuaLab | Un espacio MuCi",
+   :longitude -57.6080191,
+   :latitude -25.2813073,
+   :source :openstreetmap,
+   :homepage "https://muci.org",
+   :locality "Asunción"}
+  {:name "Tecnica",
+   :longitude -57.5776678,
+   :latitude -25.2876713,
+   :source :openstreetmap}
+  {:name "UPV- Chaco",
+   :longitude -57.5580037,
+   :latitude -25.3209886,
+   :source :openstreetmap}
+  {:name "UTIC Caaguazú",
+   :longitude -56.0054856,
+   :latitude -25.4609023,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

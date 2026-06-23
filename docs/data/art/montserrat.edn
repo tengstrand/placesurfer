@@ -1,0 +1,23 @@
+{:count 2,
+ :country "montserrat",
+ :country-code "MS",
+ :dataset :art,
+ :generated-at "2026-05-26T06:22:22.981443Z",
+ :positions
+ [{:name "Brades Arts and Education Center",
+   :longitude -62.2074911,
+   :latitude 16.7836597,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "National Museum of Montserrat",
+   :longitude -62.2018783,
+   :latitude 16.8002312,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

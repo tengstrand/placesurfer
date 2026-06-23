@@ -1,0 +1,54 @@
+{:count 8,
+ :country "japan",
+ :country-code "JP",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:15:03.704947Z",
+ :positions
+ [{:name "Misawa",
+   :longitude 141.3454673330171,
+   :latitude 40.712839024627954,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/25967",
+   :locality "Japan"}
+  {:name "Saiki Golf Course",
+   :longitude 131.90620391396834,
+   :latitude 32.95470698163395,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/26498",
+   :locality "Saiki, Oita"}
+  {:name "Showa Kinen Koen",
+   :longitude 139.39139418250755,
+   :latitude 35.711116973203985,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35641",
+   :locality "Tokyo"}
+  {:name "ひるがのピクニックガーデン",
+   :longitude 136.9077841,
+   :latitude 36.0055521,
+   :source :openstreetmap}
+  {:name "ディスクゴルフ",
+   :longitude 139.8137602,
+   :latitude 35.6491682,
+   :source :openstreetmap}
+  {:name "ディスクゴルフコース",
+   :longitude 139.4893698,
+   :latitude 35.5626607,
+   :source :openstreetmap}
+  {:name "フライングディスクゴルフコース",
+   :longitude 137.9226011,
+   :latitude 36.1569364,
+   :source :openstreetmap}
+  {:name "原村御山マレットゴルフ場",
+   :longitude 138.2622635,
+   :latitude 35.9622079,
+   :source :openstreetmap,
+   :homepage "https://www.vill.hara.lg.jp/docs/3689.html"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

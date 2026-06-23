@@ -1,0 +1,21 @@
+{:count 1,
+ :country "kenya",
+ :country-code "KE",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T10:01:06.895431Z",
+ :positions
+ [{:name "Rimpa Estates Wildlife Conservancy",
+   :longitude 36.733025548394664,
+   :latitude -1.4323265610495355,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/31745",
+   :locality "Kajiado"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

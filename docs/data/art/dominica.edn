@@ -1,0 +1,29 @@
+{:count 3,
+ :country "dominica",
+ :country-code "DM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:21.703781Z",
+ :positions
+ [{:name "Dominica Museum",
+   :longitude -61.3875527,
+   :latitude 15.2964902,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Interpretation room",
+   :longitude -61.309494,
+   :latitude 15.3411576,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Old Mill Cultural Centre",
+   :longitude -61.3893549,
+   :latitude 15.3333425,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

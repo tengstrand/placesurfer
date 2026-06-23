@@ -1,0 +1,49 @@
+{:count 6,
+ :country "vanuatu",
+ :country-code "VU",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:30.648151Z",
+ :positions
+ [{:name "Diana Tam Memorial Gallery",
+   :longitude 168.3055912,
+   :latitude -17.7689315,
+   :source :openstreetmap,
+   :locality "Port Vila",
+   :image "",
+   :description ""}
+  {:name "Musée National de Vanuatu",
+   :longitude 168.3174667,
+   :latitude -17.7453168,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "South Pacific WWII Museum",
+   :longitude 167.1732364,
+   :latitude -15.5155701,
+   :source :openstreetmap,
+   :homepage "https://southpacificwwiimuseum.com/",
+   :image "",
+   :description ""}
+  {:name "World War II museum and relics",
+   :longitude 168.4124847,
+   :latitude -17.5365839,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "WW II Museum",
+   :longitude 168.2597727,
+   :latitude -17.5686698,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "WWII Museum",
+   :longitude 168.4146265,
+   :latitude -17.5318516,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,16 @@
+{:count 1,
+ :country "kiribati",
+ :country-code "KI",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:09.107723Z",
+ :positions
+ [{:name "Te Umwanibong",
+   :longitude 173.1207258,
+   :latitude 1.3657276,
+   :source :openstreetmap,
+   :locality "Bikenibeu"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

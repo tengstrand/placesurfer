@@ -1,0 +1,130 @@
+{:count 29,
+ :country "togo",
+ :country-code "TG",
+ :dataset :art,
+ :generated-at "2026-05-26T06:36:52.265631Z",
+ :positions
+ [{:name "Atelier de Tapicier",
+   :longitude 0.9130133,
+   :latitude 6.4513628,
+   :source :openstreetmap}
+  {:name "Boutique d'Exposition CENATIS",
+   :longitude 1.1385533,
+   :latitude 8.9818117,
+   :source :openstreetmap}
+  {:name "Centre Artisanal CEAA-Kpalimé",
+   :longitude 0.6176188,
+   :latitude 6.9230473,
+   :source :openstreetmap}
+  {:name "Centre artisanal Tayé-Tayé",
+   :longitude 1.2246365,
+   :latitude 6.1423117,
+   :source :openstreetmap}
+  {:name "Centre Atebai",
+   :longitude 1.208724,
+   :latitude 6.1207562,
+   :source :openstreetmap}
+  {:name "Centre culturel de Blitta Village",
+   :longitude 1.0100314,
+   :latitude 8.3450647,
+   :source :openstreetmap}
+  {:name "Centre Culturel et de Loisir de Sotouboua",
+   :longitude 0.9755415,
+   :latitude 8.5624009,
+   :source :openstreetmap}
+  {:name "Centre d'IYF Aného",
+   :longitude 1.5860847,
+   :latitude 6.2310886,
+   :source :openstreetmap}
+  {:name "Centre Padre Francisco",
+   :longitude 1.1584015,
+   :latitude 8.9750097,
+   :source :openstreetmap}
+  {:name "Centre Sculpture d'art",
+   :longitude 1.209031,
+   :latitude 6.1412166,
+   :source :openstreetmap}
+  {:name "CRJ Centre des Rêves pour Jeunes",
+   :longitude 1.599219,
+   :latitude 6.2284753,
+   :source :openstreetmap}
+  {:name "Dream",
+   :longitude 1.2393,
+   :latitude 6.1520433,
+   :source :openstreetmap}
+  {:name "Espace Culturel MIDJO-Togo",
+   :longitude 1.191305,
+   :latitude 6.1917286,
+   :source :openstreetmap}
+  {:name "Ets Soir au Village",
+   :longitude 1.1977787,
+   :latitude 6.1699219,
+   :source :openstreetmap}
+  {:name "Filebleu-AREMA",
+   :longitude 1.1923842,
+   :latitude 6.1708621,
+   :source :openstreetmap}
+  {:name "Foyer des Jeunes",
+   :longitude 0.6330946,
+   :latitude 6.9049676,
+   :source :openstreetmap}
+  {:name "Galerie Africa Ligth",
+   :longitude 1.6034265,
+   :latitude 6.2292806,
+   :source :openstreetmap}
+  {:name "Gamessou art",
+   :longitude 1.1866324,
+   :latitude 6.1896918,
+   :source :openstreetmap}
+  {:name "Goethe-Institut",
+   :longitude 1.2255191,
+   :latitude 6.1281327,
+   :source :openstreetmap}
+  {:name "Ikad design",
+   :longitude 1.2204263,
+   :latitude 6.2327396,
+   :source :openstreetmap}
+  {:name "Institut Français du Togo",
+   :longitude 1.2161147,
+   :latitude 6.1243341,
+   :source :openstreetmap}
+  {:name "Maison des esclaves",
+   :longitude 1.4768456,
+   :latitude 6.2037924,
+   :source :openstreetmap,
+   :locality "Agbodrafo"}
+  {:name "Maison des jeunes et de la culture de Pagouda",
+   :longitude 1.3258159,
+   :latitude 9.7503084,
+   :source :openstreetmap}
+  {:name "Musée des Betammariba",
+   :longitude 1.0834854,
+   :latitude 10.1332714,
+   :source :openstreetmap}
+  {:name
+   "Musée International d'Art d'Afrique du Golfe de Guinée (MIAA)",
+   :longitude 1.2505853,
+   :latitude 6.1326652,
+   :source :openstreetmap,
+   :homepage "http://www.miaa-togo.com"}
+  {:name "Musée National",
+   :longitude 1.2179661,
+   :latitude 6.1306727,
+   :source :openstreetmap}
+  {:name "Musée régional des savanes",
+   :longitude 0.2031394,
+   :latitude 10.8636066,
+   :source :openstreetmap}
+  {:name "Salle de spectacle",
+   :longitude 0.9775535,
+   :latitude 8.3246421,
+   :source :openstreetmap}
+  {:name "SMAT",
+   :longitude 1.2958314,
+   :latitude 6.1560701,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

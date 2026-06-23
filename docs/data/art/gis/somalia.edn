@@ -1,0 +1,28 @@
+{:count 4,
+ :country "somalia",
+ :country-code "SO",
+ :dataset :art,
+ :generated-at "2026-05-26T06:32:29.493893Z",
+ :positions
+ [{:name "Masjidka Ali Geedi",
+   :longitude 45.3741884,
+   :latitude 2.0612118,
+   :source :openstreetmap}
+  {:name "Museum متحف",
+   :longitude 44.0726318,
+   :latitude 9.5621863,
+   :source :openstreetmap,
+   :locality "هرجيسا"}
+  {:name "Shuceyb Center",
+   :longitude 45.2997072,
+   :latitude 2.0413736,
+   :source :openstreetmap}
+  {:name "Somali National Museum",
+   :longitude 45.3381688,
+   :latitude 2.0377193,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

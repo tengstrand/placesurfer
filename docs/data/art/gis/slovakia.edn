@@ -1,0 +1,2861 @@
+{:count 569,
+ :country "slovakia",
+ :country-code "SK",
+ :dataset :art,
+ :generated-at "2026-05-26T06:46:43.916934Z",
+ :positions
+ [{:name "5 Paľce, o.z. - Hudba v meste",
+   :longitude 21.2480336,
+   :latitude 48.9961131,
+   :source :openstreetmap,
+   :homepage "https://www.hudbavmeste.sk/#/",
+   :locality "Prešov"}
+  {:name "A4 – Priestor súčasnej kultúry",
+   :longitude 17.1136456,
+   :latitude 48.1568164,
+   :source :openstreetmap,
+   :homepage "http://www.a4.sk/"}
+  {:name "Aeromúzeum Martin",
+   :longitude 18.9459537,
+   :latitude 49.063194,
+   :source :openstreetmap}
+  {:name "Althandel",
+   :longitude 18.6430463,
+   :latitude 48.4289423,
+   :source :openstreetmap,
+   :homepage "https://althandel.sk/index.html"}
+  {:name "Altitude",
+   :longitude 17.0947917,
+   :latitude 48.1825557,
+   :source :openstreetmap,
+   :homepage "https://veza.sk/"}
+  {:name "Amfiteáter vo Východnej",
+   :longitude 19.9002868,
+   :latitude 49.0611009,
+   :source :openstreetmap}
+  {:name "Andrássyho obrazáreň",
+   :longitude 20.5966427,
+   :latitude 48.654729,
+   :source :openstreetmap,
+   :homepage "https://www.banmuz.sk/expozicie/andrassyho-obrazaren",
+   :locality "Krásnohorské Podhradie"}
+  {:name "Antická Gerulata Rusovce",
+   :longitude 17.1494761,
+   :latitude 48.0558632,
+   :source :openstreetmap,
+   :homepage "https://muzeumbratislava.sk/anticka-gerulata"}
+  {:name "Apponyiho múzeum",
+   :longitude 18.1455056,
+   :latitude 48.47044,
+   :source :openstreetmap,
+   :homepage "https://apponyihomuzeum.webnode.sk/"}
+  {:name "Archeologická expozícia",
+   :longitude 18.8633289,
+   :latitude 48.5850886,
+   :source :openstreetmap,
+   :homepage
+   "https://www.mskcentrum.sk/archeologicka-expozicia-v-kastieli/"}
+  {:name "Archeologické múzeum",
+   :longitude 21.2590719,
+   :latitude 48.7187236,
+   :source :openstreetmap,
+   :homepage "https://k13.sk/kulturne-centra/dolna-brana/"}
+  {:name "Archeologické múzeum v prírode NKP Liptovská Mara-Havránok",
+   :longitude 19.4822184,
+   :latitude 49.1053311,
+   :source :openstreetmap,
+   :homepage "https://liptovskemuzeum.sk/expozicia/havranok/"}
+  {:name "Archeologické múzeum Veľkej Moravy",
+   :longitude 18.0565738,
+   :latitude 48.5755372,
+   :source :openstreetmap,
+   :homepage "www.muzeumbojna.sk"}
+  {:name "Archeopark Bošácka dolina",
+   :longitude 17.8584474,
+   :latitude 48.8175391,
+   :source :openstreetmap,
+   :homepage "https://www.archeoparkbosackadolina.sk/"}
+  {:name "Archeopark Cífer",
+   :longitude 17.5143499,
+   :latitude 48.3028199,
+   :source :openstreetmap,
+   :homepage "https://www.archeoparkcifer.sk/"}
+  {:name "Archeopark Hanušovce",
+   :longitude 21.4979489,
+   :latitude 49.0254953,
+   :source :openstreetmap,
+   :homepage "http://tripolitana.sk/archeopark-hanusovce/"}
+  {:name "Archeopark Liptovia",
+   :longitude 19.4252089,
+   :latitude 49.0435901,
+   :source :openstreetmap}
+  {:name "Archeopark Veľký Šariš",
+   :longitude 21.1812773,
+   :latitude 49.0437248,
+   :source :openstreetmap,
+   :homepage "https://www.hradsaris.sk/archeopark-saris"}
+  {:name "Archeoskanzen Nižná Myšľa",
+   :longitude 21.3689239,
+   :latitude 48.6166236,
+   :source :openstreetmap,
+   :homepage "https://www.archeoskanzen.sk/"}
+  {:name "ARS Studio",
+   :longitude 18.0653704,
+   :latitude 48.2984367,
+   :source :openstreetmap}
+  {:name "ART GALÉRIA MÁRIE ŠEFFEROVEJ",
+   :longitude 18.1037568,
+   :latitude 48.317329,
+   :source :openstreetmap}
+  {:name "Art Galéria Schürger",
+   :longitude 19.5536251,
+   :latitude 49.3346681,
+   :source :openstreetmap,
+   :homepage "http://www.art-galeria.sk/"}
+  {:name "ART.4G.PARK Gánovce",
+   :longitude 20.325295,
+   :latitude 49.0294851,
+   :source :openstreetmap}
+  {:name "Arte Atelier",
+   :longitude 17.1230364,
+   :latitude 48.1508523,
+   :source :openstreetmap,
+   :homepage "https://arteatelier.sk/"}
+  {:name "Asmolovova chata",
+   :longitude 19.4743613,
+   :latitude 48.9166367,
+   :source :openstreetmap,
+   :locality "Jasenie"}
+  {:name "At Home Gallery",
+   :longitude 17.3136246,
+   :latitude 48.0259919,
+   :source :openstreetmap,
+   :homepage
+   "http://www.athomegallery.org/www.athomegallery.org/Home_1.html"}
+  {:name "Atelier keramiky, výtvarného umenia a tvorby - Katy",
+   :longitude 17.0391221,
+   :latitude 48.1873241,
+   :source :openstreetmap,
+   :locality "Bratislava"}
+  {:name "Ateliér LUNA",
+   :longitude 19.8003039,
+   :latitude 49.10374,
+   :source :openstreetmap,
+   :homepage "https://www.atelierluna.sk/"}
+  {:name "Atlantis Levice",
+   :longitude 18.5840939,
+   :latitude 48.2093202,
+   :source :openstreetmap,
+   :homepage "https://atlantiscenter.eu/",
+   :locality "Levice"}
+  {:name "Aurelium Zážitkové centrum vedy",
+   :longitude 17.1654513,
+   :latitude 48.1822839,
+   :source :openstreetmap,
+   :homepage "http://aurelium.sk"}
+  {:name "Automúzeum Neubeller",
+   :longitude 21.2626093,
+   :latitude 48.7325024,
+   :source :openstreetmap}
+  {:name "Bajzíkov mlyn",
+   :longitude 18.0799433,
+   :latitude 48.6426879,
+   :source :openstreetmap}
+  {:name "Balneologické múzeum",
+   :longitude 17.8380501,
+   :latitude 48.5906543,
+   :source :openstreetmap,
+   :homepage "https://www.balneomuzeum.sk/"}
+  {:name "Banské múzeum",
+   :longitude 18.8956749,
+   :latitude 48.458092,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumbs.sk/"}
+  {:name "Banské múzeum",
+   :longitude 18.9082755,
+   :latitude 48.7120653,
+   :source :openstreetmap,
+   :homepage "http://www.banske-muzeum.sk"}
+  {:name "Banské múzeum Hnúšťa",
+   :longitude 19.9556105,
+   :latitude 48.6108148,
+   :source :openstreetmap,
+   :homepage
+   "https://www.regiongemer.sk/objavuj/banske-muzeum-hnusta-s-moznostou-vstupu-do-podzemia/"}
+  {:name "Banské múzeum v prírode",
+   :longitude 18.888656,
+   :latitude 48.4508163,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumbs.sk/sk/banske-muzeum-v-prirode"}
+  {:name "Banský dom",
+   :longitude 19.7534582,
+   :latitude 48.9249296,
+   :source :openstreetmap}
+  {:name "Banský skanzen Gelnica",
+   :longitude 20.9102802,
+   :latitude 48.85883,
+   :source :openstreetmap}
+  {:name "Banský skanzen Hnilčík",
+   :longitude 20.5706824,
+   :latitude 48.8561979,
+   :source :openstreetmap}
+  {:name "Banícka expozícia Rákošská Baňa",
+   :longitude 20.1299699,
+   :latitude 48.604211,
+   :source :openstreetmap,
+   :homepage
+   "https://oz-rakosska-cacha.estranky.sk/clanky/aktuality/banicka-expozicia-v-rakosskej-bani.html"}
+  {:name "Banícke múzeum",
+   :longitude 20.9330838,
+   :latitude 48.8513322,
+   :source :openstreetmap,
+   :homepage "https://www.gelnica.sk/banicke-muzeum-.phtml?id3=48695"}
+  {:name "Banícke múzeum Staré hory",
+   :longitude 19.1153352,
+   :latitude 48.8389232,
+   :source :openstreetmap}
+  {:name "Baňa Starovšechsvätých - Banská a geologická expozícia",
+   :longitude 18.8288398,
+   :latitude 48.4644112,
+   :source :openstreetmap,
+   :homepage "http://hodrusskehlbiny.sk/index.php"}
+  {:name "Bašta",
+   :longitude 18.8749992,
+   :latitude 48.4411815,
+   :source :openstreetmap,
+   :locality "Štiavnické Bane"}
+  {:name "Budmerická izbička",
+   :longitude 17.4068182,
+   :latitude 48.3585093,
+   :source :openstreetmap,
+   :homepage "https://matica.budmerice.net/"}
+  {:name "Bukovina - Roľnícka usadlosť",
+   :longitude 19.4670687,
+   :latitude 49.1382276,
+   :source :openstreetmap}
+  {:name "Bulharský kultúrny inštitút",
+   :longitude 17.1124426,
+   :latitude 48.1432262,
+   :source :openstreetmap,
+   :homepage "https://www.bulkis.sk/",
+   :locality "Bratislava"}
+  {:name "Centrum tradičnej kultúry",
+   :longitude 20.9608525,
+   :latitude 49.1930527,
+   :source :openstreetmap,
+   :homepage
+   "https://kamenica.sk/sk/content/obecne-muzeum-centrum-tradicnej-kultury"}
+  {:name "Centrum volného času Domino",
+   :longitude 18.1063291,
+   :latitude 48.3126223,
+   :source :openstreetmap,
+   :locality "Nitra"}
+  {:name "Centrum voľného času Ahoj",
+   :longitude 17.8292478,
+   :latitude 48.5906374,
+   :source :openstreetmap,
+   :homepage "https://www.cvcahoj.sk/"}
+  {:name "Centrum voľného času DOMINO",
+   :longitude 18.0855768,
+   :latitude 48.3060787,
+   :source :openstreetmap,
+   :locality "Nitra"}
+  {:name "Cesta do minulosti zeme",
+   :longitude 21.2072558,
+   :latitude 48.7897859,
+   :source :openstreetmap}
+  {:name "Chorus Via Musica",
+   :longitude 21.2239383,
+   :latitude 49.0123426,
+   :source :openstreetmap,
+   :homepage "https://chorusviamusica.sk/"}
+  {:name "Cirkevné regionálne vlastivedné múzeum S. Godru",
+   :longitude 19.2970549,
+   :latitude 48.2242144,
+   :source :openstreetmap}
+  {:name "Classic car museum",
+   :longitude 17.8595043,
+   :latitude 48.6019417,
+   :source :openstreetmap}
+  {:name "Coop Art Gallery",
+   :longitude 21.8948549,
+   :latitude 48.9299029,
+   :source :openstreetmap,
+   :locality "Humenné"}
+  {:name "Creative Design Gallery",
+   :longitude 21.2392238,
+   :latitude 48.9910665,
+   :source :openstreetmap,
+   :homepage "http://www.cdgallery.sk/",
+   :locality "Prešov"}
+  {:name "Dalova galéria",
+   :longitude 19.7191702,
+   :latitude 49.036784,
+   :source :openstreetmap,
+   :homepage "https://www.vopz.sk/dalova-galeria-naivneho-umenia/"}
+  {:name "Danubiana Meulensteen Art Museum",
+   :longitude 17.2316129,
+   :latitude 48.0350639,
+   :source :openstreetmap,
+   :homepage "https://www.danubiana.sk/",
+   :locality "Hamuliakovo"}
+  {:name "Dedinské múzeum",
+   :longitude 18.8138446,
+   :latitude 47.828013,
+   :source :openstreetmap}
+  {:name "Dedinské múzeum",
+   :longitude 18.9236263,
+   :latitude 48.3616541,
+   :source :openstreetmap}
+  {:name "Dedinské múzeum",
+   :longitude 18.9574899,
+   :latitude 48.3213825,
+   :source :openstreetmap}
+  {:name "Dedinské múzeum",
+   :longitude 21.7942002,
+   :latitude 49.319242,
+   :source :openstreetmap,
+   :locality "Vladiča"}
+  {:name "Dedinské múzeum",
+   :longitude 19.6489083,
+   :latitude 49.1199292,
+   :source :openstreetmap,
+   :locality "Smrečany"}
+  {:name "Dedinské múzeum",
+   :longitude 18.8993728,
+   :latitude 48.4159595,
+   :source :openstreetmap}
+  {:name "Dedinský skanzen",
+   :longitude 18.0846004,
+   :latitude 48.8634252,
+   :source :openstreetmap}
+  {:name "Demova kupieľka",
+   :longitude 20.1119212,
+   :latitude 48.8444141,
+   :source :openstreetmap,
+   :homepage
+   "https://www.horehronie.sk/demova-kupielka-muzeum-sauny-tipy-na-vylety",
+   :locality "Šumiac"}
+  {:name "Der Dreiländer Skulpturenpark",
+   :longitude 17.1609409,
+   :latitude 48.0066656,
+   :source :openstreetmap}
+  {:name "Diecézne múzeum",
+   :longitude 18.0865316,
+   :latitude 48.3180055,
+   :source :openstreetmap}
+  {:name "DIELO.EU - umenie doma, predajná galéria",
+   :longitude 21.1729219,
+   :latitude 48.980474,
+   :source :openstreetmap,
+   :homepage "https://dielo.eu/",
+   :locality "Prešov"}
+  {:name "Dom baníckych tradícií",
+   :longitude 20.457997,
+   :latitude 48.6559812,
+   :source :openstreetmap,
+   :locality "Rakovnica"}
+  {:name "Dom bojovej slávy",
+   :longitude 18.5241266,
+   :latitude 48.2016078,
+   :source :openstreetmap,
+   :locality "Kalná nad Hronom"}
+  {:name "Dom bojových a revolučných tradícií",
+   :longitude 17.4809887,
+   :latitude 48.6621926,
+   :source :openstreetmap,
+   :homepage "https://www.zahorskemuzeum.sk/expozicia-dejin-prietrze/"}
+  {:name "Dom Hany Hegerovej",
+   :longitude 18.1949044,
+   :latitude 47.8766579,
+   :source :openstreetmap,
+   :homepage "https://www.apartmanyhana.sk/"}
+  {:name "Dom hore nohami",
+   :longitude 19.5750702,
+   :latitude 49.1018387,
+   :source :openstreetmap,
+   :homepage "http://www.domnastreche.sk/"}
+  {:name "Dom Majstra Pavla z Levoče",
+   :longitude 20.5898357,
+   :latitude 49.0258859,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/muzea-snm/spisske-muzeum/dom-majstra-pavla/navstivte"}
+  {:name "Dom Mešťana",
+   :longitude 20.6903638,
+   :latitude 49.3019512,
+   :source :openstreetmap,
+   :homepage "http://www.marmon.sk/dom-lubovnianskeho-mestana/"}
+  {:name "Dom Mikuláša Galandu",
+   :longitude 18.8582716,
+   :latitude 48.8572142,
+   :source :openstreetmap,
+   :homepage "https://www.galanda.sk/"}
+  {:name "Dom Milana Rúfusa",
+   :longitude 19.6492371,
+   :latitude 49.0555681,
+   :source :openstreetmap,
+   :homepage
+   "https://www.zavaznaporuba.sk/kam-v-obci/majster-milan-rufus/dom-milana-rufusa/",
+   :locality "Závažná Poruba"}
+  {:name "Dom Spomienok",
+   :longitude 18.6766911,
+   :latitude 49.1531658,
+   :source :openstreetmap}
+  {:name "Dom tradícií",
+   :longitude 20.4753734,
+   :latitude 48.7110516,
+   :source :openstreetmap,
+   :homepage
+   "https://www.gemerskapoloma.sk/aktuality-v-obci/dejepis-trochu-inak-1216sk.html"}
+  {:name "Dom ľudového bývania",
+   :longitude 17.7333553,
+   :latitude 48.1670863,
+   :source :openstreetmap}
+  {:name "Dom ľudového bývania",
+   :longitude 17.8739642,
+   :latitude 48.152377,
+   :source :openstreetmap,
+   :homepage "http://www.domludovehobyvania.sk/"}
+  {:name "Dom ľudového bývania",
+   :longitude 18.337874,
+   :latitude 48.0623408,
+   :source :openstreetmap,
+   :homepage
+   "http://www.visitpodhajska.sk/zaujimavost/51_dom-ludoveho-byvania"}
+  {:name "Dom ľudových tradícií",
+   :longitude 21.6477085,
+   :latitude 48.4641789,
+   :source :openstreetmap,
+   :homepage
+   "https://tokajregion.sk/body-zaujmu/dom-ludovych-tradicii/"}
+  {:name "Dom ľudových tradícií",
+   :longitude 18.1237668,
+   :latitude 47.9267685,
+   :source :openstreetmap,
+   :homepage "https://www.nesvady.sk/obcan/kultura/",
+   :locality "Nesvady"}
+  {:name "Dom ľudových tradícií Zámutov",
+   :longitude 21.5611495,
+   :latitude 48.9006891,
+   :source :openstreetmap,
+   :homepage "https://nostrazamutov.business.site/"}
+  {:name "Dominika Lehocká",
+   :longitude 18.0910644,
+   :latitude 48.3003982,
+   :source :openstreetmap,
+   :homepage "https://www.dominikaamarylis.sk/",
+   :locality "Nitra"}
+  {:name "Dot",
+   :longitude 17.1252648,
+   :latitude 48.1437799,
+   :source :openstreetmap,
+   :homepage "https://www.dotgallery.sk/"}
+  {:name "DOUBLE RED Cars Museum",
+   :longitude 19.631743,
+   :latitude 48.798761,
+   :source :openstreetmap,
+   :homepage "https://doubleredcars.sk/"}
+  {:name "Drotárske múzeum Jozefa Holánika Bakeľa",
+   :longitude 18.6295442,
+   :latitude 49.2993831,
+   :source :openstreetmap,
+   :homepage "http://www.obecdlhepole.sk/section/default/2572",
+   :locality "Dlhé Pole"}
+  {:name "Dubnické múzeum",
+   :longitude 18.1693695,
+   :latitude 48.9627687,
+   :source :openstreetmap}
+  {:name "Dúbravské múzeum",
+   :longitude 17.0308424,
+   :latitude 48.1881752,
+   :source :openstreetmap,
+   :homepage
+   "https://www.dubravka.sk/sk/kam-v-dubravke/organizacie/dubravske-muzeum.html"}
+  {:name "Ekocentrum Čunovo",
+   :longitude 17.1970662,
+   :latitude 48.0259905,
+   :source :openstreetmap,
+   :homepage "https://www.kastielcunovo.sk/",
+   :locality "Čunovo"}
+  {:name "Etnografické múzeum",
+   :longitude 18.9284292,
+   :latitude 49.0639088,
+   :source :openstreetmap}
+  {:name "Európske centrum gajdošskej kultúry",
+   :longitude 19.4471893,
+   :latitude 49.5200351,
+   :source :openstreetmap,
+   :locality "Oravská Polhora"}
+  {:name "Európske Centrum Výtvarných Umení Bratislava",
+   :longitude 17.1913435,
+   :latitude 48.1733466,
+   :source :openstreetmap,
+   :homepage "http://aircraftgallery.eu/",
+   :locality "Bratislava"}
+  {:name "Expozicia Hrad Lietava",
+   :longitude 18.6847284,
+   :latitude 49.160604,
+   :source :openstreetmap,
+   :homepage "https://www.hradlietava.sk/"}
+  {:name "Expozícia baníctva a hutníctva Gemera",
+   :longitude 20.5298505,
+   :latitude 48.654997,
+   :source :openstreetmap,
+   :homepage
+   "https://www.banmuz.sk/expozicie/expozicia-banictva-a-hutnictva-gemera"}
+  {:name "Expozícia Ferdinanda Coburga",
+   :longitude 20.1079407,
+   :latitude 48.7686228,
+   :source :openstreetmap,
+   :homepage
+   "https://spoluprelepsizivot.sk/expozicia-ferdinanda-coburga/"}
+  {:name "Expozícia historických hodín",
+   :longitude 21.3067266,
+   :latitude 48.7956632,
+   :source :openstreetmap,
+   :homepage
+   "https://stm-ke.sk/sk/pobocky/kastiel-v-budimire/zakladne-informacie"}
+  {:name "Expozícia Hviezdoslavovej Hájnikovej Ženy",
+   :longitude 19.4998627,
+   :latitude 49.5411555,
+   :source :openstreetmap,
+   :homepage
+   "http://www.oravskemuzeum.sk/?get=qmT3zI5Wq[9MG1gG5}qmw1z5YWi}qHGLVg5Wq[g5}q9Vi5Wq0G[95}qJ3l[9MG1gG5W99}q0M05W9QMiQ",
+   :locality "Oravská Polhora"}
+  {:name "Expozícia nálezov",
+   :longitude 21.831921,
+   :latitude 48.9018269,
+   :source :openstreetmap}
+  {:name "Expozícia tradičných remesiel",
+   :longitude 18.7198741,
+   :latitude 48.352586,
+   :source :openstreetmap}
+  {:name "Expozícia vo Vile Dr. Lisku",
+   :longitude 17.8332208,
+   :latitude 48.5935839,
+   :source :openstreetmap}
+  {:name "Expozícia zvonov",
+   :longitude 19.0205228,
+   :latitude 49.0825699,
+   :source :openstreetmap}
+  {:name "Exteriérová galéria historického Prešova",
+   :longitude 21.2364969,
+   :latitude 48.9968937,
+   :source :openstreetmap,
+   :homepage "https://jd-galeria-jl.sk/",
+   :locality "Prešov"}
+  {:name "Flowe",
+   :longitude 17.1272351,
+   :latitude 48.1607122,
+   :source :openstreetmap}
+  {:name "Gagarinka",
+   :longitude 17.1727395,
+   :latitude 48.1504375,
+   :source :openstreetmap,
+   :homepage "http://galeria.gagarinka.sk/"}
+  {:name "GALERIE cafe",
+   :longitude 20.8921881,
+   :latitude 48.7001557,
+   :source :openstreetmap,
+   :homepage "http://bistika.sk/GALERIE.php"}
+  {:name "Galéria",
+   :longitude 18.7237436,
+   :latitude 47.7985896,
+   :source :openstreetmap}
+  {:name "Galéria 19",
+   :longitude 17.1204211,
+   :latitude 48.1451768,
+   :source :openstreetmap,
+   :homepage "https://www.galeria19.sk/",
+   :locality "Bratislava"}
+  {:name "Galéria a múzeum ľudového umenia",
+   :longitude 21.2847354,
+   :latitude 49.0522808,
+   :source :openstreetmap}
+  {:name "Galéria Baníckeho múzea",
+   :longitude 20.5332649,
+   :latitude 48.6631748,
+   :source :openstreetmap,
+   :homepage "https://www.banmuz.sk/expozicie/galeria",
+   :locality "Rožňava"}
+  {:name "Galéria Bořek Šípek",
+   :longitude 17.1093853,
+   :latitude 48.1404161,
+   :source :openstreetmap,
+   :homepage "http://www.palaceoffice.sk/galeria-borek-sipek/",
+   :locality "Bratislava"}
+  {:name "Galéria Dezidera Millyho",
+   :longitude 21.579222,
+   :latitude 49.3042434,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/muzea-snm/muzeum-ukrajinskej-kultury/galeria-dezidera-millyho/navstivte/expozicie?clanok=umelecko-historicka-expozicia-galeria-dezidera-millyho-snm-muk"}
+  {:name "Galéria Encián",
+   :longitude 20.2333148,
+   :latitude 49.1875502,
+   :source :openstreetmap,
+   :homepage "http://krajsietatry.sk/galeria-encian/"}
+  {:name "Galéria Hniezdne",
+   :longitude 20.6300544,
+   :latitude 49.3030425,
+   :source :openstreetmap}
+  {:name "Galéria Horský park",
+   :longitude 17.0945751,
+   :latitude 48.1563982,
+   :source :openstreetmap,
+   :homepage
+   "http://2011.sng.sk/sk/uvod/vystavy/mimo-sng/archiv/galeria-horsky-park"}
+  {:name "Galéria Igora Pančuka",
+   :longitude 20.301031,
+   :latitude 49.055701,
+   :source :openstreetmap,
+   :homepage "www.pancuk.sk"}
+  {:name "Galéria ILUSIA",
+   :longitude 19.6251176,
+   :latitude 49.0861315,
+   :source :openstreetmap,
+   :homepage "https://ilusia.sk/"}
+  {:name "Galéria Jozefa Kollára",
+   :longitude 18.8923368,
+   :latitude 48.4601354,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumbs.sk/sk/galeria-jozefa-kollara"}
+  {:name "Galéria Jána Kulicha",
+   :longitude 19.2589367,
+   :latitude 48.5615217,
+   :source :openstreetmap,
+   :homepage "https://www.galeriajanakulicha.sk/",
+   :locality "Zvolenská Slatina"}
+  {:name "Galéria Karola Kállaya",
+   :longitude 17.1119986,
+   :latitude 48.1073236,
+   :source :openstreetmap,
+   :homepage
+   "https://www.paneurouni.com/sk/fakulty/fakulta-masmedii/o-fakulte/aktuality-podujatia/aktuality/2013/galeria-karola-kallaya-fakulty-masmedii-pevs.html"}
+  {:name "Galéria Kolomana Sokola",
+   :longitude 19.6120161,
+   :latitude 49.0832674,
+   :source :openstreetmap,
+   :homepage "https://www.galerialm.sk/"}
+  {:name "Galéria Limes",
+   :longitude 18.1326006,
+   :latitude 47.7596175,
+   :source :openstreetmap,
+   :homepage "https://galerialimes.sk"}
+  {:name "Galéria Lomnica",
+   :longitude 20.280227,
+   :latitude 49.1656835,
+   :source :openstreetmap,
+   :homepage "https://uluv.sk/"}
+  {:name "Galéria M++",
+   :longitude 17.1113003,
+   :latitude 48.1372206,
+   :source :openstreetmap,
+   :homepage "http://www.galeriamplusplus.sk"}
+  {:name "Galéria mesta Topoľčany",
+   :longitude 18.1744917,
+   :latitude 48.5589427,
+   :source :openstreetmap}
+  {:name "Galéria Mikuláša Klimčáka",
+   :longitude 21.0457007,
+   :latitude 49.1664912,
+   :source :openstreetmap}
+  {:name "Galéria Miloša Alexandra Bazovského",
+   :longitude 18.0421397,
+   :latitude 48.8960566,
+   :source :openstreetmap,
+   :homepage "https://www.gmab.sk/"}
+  {:name "Galéria na povale",
+   :longitude 18.0810151,
+   :latitude 48.8632876,
+   :source :openstreetmap}
+  {:name "Galéria PF 01",
+   :longitude 17.1058344,
+   :latitude 48.1481597,
+   :source :openstreetmap,
+   :homepage
+   "https://www.minv.sk/?muzeum-policie-slovenskej-republiky"}
+  {:name "Galéria RD 21",
+   :longitude 17.08955,
+   :latitude 48.1414169,
+   :source :openstreetmap,
+   :homepage "https://www.gallery21-fineart.com/",
+   :locality "Bratislava"}
+  {:name "Galéria RegionArt",
+   :longitude 18.6282047,
+   :latitude 48.7714837,
+   :source :openstreetmap,
+   :homepage
+   "https://www.rkcpd.sk/galeria-regionart-pri-rkc.html?page_id=302"}
+  {:name "Galéria Smolák",
+   :longitude 22.1514322,
+   :latitude 48.9881953,
+   :source :openstreetmap}
+  {:name "Galéria Starý Avion",
+   :longitude 17.1189871,
+   :latitude 48.1516438,
+   :source :openstreetmap}
+  {:name "Galéria SVÚ",
+   :longitude 17.1173848,
+   :latitude 48.1409726,
+   :source :openstreetmap,
+   :homepage "https://www.svu.sk/index.php?rain=sk/content/21"}
+  {:name "Galéria Tatry",
+   :longitude 20.1519942,
+   :latitude 49.1197773,
+   :source :openstreetmap,
+   :homepage "https://www.pedalplanet.sk/"}
+  {:name "Galéria umeleckého skla",
+   :longitude 17.2686,
+   :latitude 48.2909651,
+   :source :openstreetmap,
+   :homepage "http://www.galeriaskla.sk/"}
+  {:name "Galéria umenia Ernesta Zmetáka v Nových Zámkoch",
+   :longitude 18.1636687,
+   :latitude 47.984369,
+   :source :openstreetmap,
+   :homepage "https://www.galerianz.eu/"}
+  {:name "Galéria záhrada",
+   :longitude 17.0939829,
+   :latitude 48.1616469,
+   :source :openstreetmap}
+  {:name "Galéria ÚĽUV",
+   :longitude 17.1125831,
+   :latitude 48.1483736,
+   :source :openstreetmap,
+   :homepage
+   "https://www.uluv.sk/sk/web/kam-v-uluve/galerie-uluv/galeria-uluv-bratislava/"}
+  {:name "Galéria úžitkového umenia Mariston",
+   :longitude 21.2430872,
+   :latitude 49.0006879,
+   :source :openstreetmap,
+   :homepage "https://www.stromoradie.sk/",
+   :locality "Prešov"}
+  {:name "Galéria ľudového umenia",
+   :longitude 19.2795722,
+   :latitude 49.0390952,
+   :source :openstreetmap,
+   :homepage "https://www.vlkolinec.sk/"}
+  {:name "Garáže",
+   :longitude 17.1451731,
+   :latitude 48.1420411,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/pg/koncertynagarazach/"}
+  {:name "Gemersko-malohontské múzeum",
+   :longitude 20.0216979,
+   :latitude 48.3841668,
+   :source :openstreetmap}
+  {:name "Gitarové múzeum",
+   :longitude 22.1816197,
+   :latitude 48.7418765,
+   :source :openstreetmap,
+   :homepage "http://gitarovemuzeum.sk",
+   :locality "Sobrance"}
+  {:name "Goralská drevenica",
+   :longitude 19.1270095,
+   :latitude 49.3896682,
+   :source :openstreetmap,
+   :homepage
+   "https://www.oravskemuzeum.sk/expozicie/oravska-lesna-zeleznica/",
+   :locality "Oravská Lesná"}
+  {:name "Habánske múzeum",
+   :longitude 16.9942531,
+   :latitude 48.5017642,
+   :source :openstreetmap,
+   :homepage
+   "https://www.levare.sk/o-obci/informacie-o-obci/kultura/habanske-muzeum"}
+  {:name "Hangár X",
+   :longitude 18.0177728,
+   :latitude 48.8720557,
+   :source :openstreetmap,
+   :homepage "https://www.hangarx.sk/"}
+  {:name "Hasičské múzeum",
+   :longitude 18.9428387,
+   :latitude 49.1052588,
+   :source :openstreetmap,
+   :homepage "https://www.priekopa.sk/muzeum"}
+  {:name "Heimatstube",
+   :longitude 20.7741112,
+   :latitude 48.7460785,
+   :source :openstreetmap,
+   :homepage "https://www.smolnickahuta.sk/obec/heimatstube/"}
+  {:name "Historická dedinka Hradová",
+   :longitude 21.2380612,
+   :latitude 48.7612833,
+   :source :openstreetmap}
+  {:name "Historická hasičská výstava",
+   :longitude 17.3120655,
+   :latitude 48.0308007,
+   :source :openstreetmap}
+  {:name "Historická miestnosť Smolník",
+   :longitude 20.7391125,
+   :latitude 48.7295144,
+   :source :openstreetmap}
+  {:name "Historická škola",
+   :longitude 18.429076,
+   :latitude 49.2109334,
+   :source :openstreetmap,
+   :locality "Brvnište"}
+  {:name "Horehronské múzeum",
+   :longitude 19.6437557,
+   :latitude 48.8067015,
+   :source :openstreetmap,
+   :homepage "https://www.horehronskemuzeum.sk"}
+  {:name "Hornonitrianske múzeu v Prievidzi",
+   :longitude 18.6202356,
+   :latitude 48.7699537,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumpd.sk/"}
+  {:name "Hotdock Gallery",
+   :longitude 17.115514,
+   :latitude 48.1442253,
+   :source :openstreetmap,
+   :homepage "https://www.hotdock.sk/"}
+  {:name "Hradné múzeum",
+   :longitude 19.8247231,
+   :latitude 48.2715332,
+   :source :openstreetmap,
+   :homepage "https://www.hradfilakovo.sk/",
+   :locality "Fiľakovo"}
+  {:name "Hradný kat, expozícia mučiarne",
+   :longitude 21.1757067,
+   :latitude 49.0534761,
+   :source :openstreetmap}
+  {:name "Hudobné múzeum SNM",
+   :longitude 17.1021415,
+   :latitude 48.1435234,
+   :source :openstreetmap,
+   :homepage "https://www.snm.sk/",
+   :locality "Bratislava - Staré Mesto"}
+  {:name "Hutnícky skanzen",
+   :longitude 19.5673048,
+   :latitude 48.8126325,
+   :source :openstreetmap,
+   :homepage "http://hutnickyskanzen.sk"}
+  {:name "Hámor - národná kultúrna pamiatka",
+   :longitude 20.9064733,
+   :latitude 48.6879007,
+   :source :openstreetmap,
+   :homepage "http://www.medzev.info/mesto/zaujimavosti/hamor/"}
+  {:name "Hřbitov",
+   :longitude 17.0815073,
+   :latitude 48.1078059,
+   :source :openstreetmap,
+   :homepage "https://bunker.bs8.sk/"}
+  {:name "Imricha Vysočana",
+   :longitude 18.6242599,
+   :latitude 48.7723224,
+   :source :openstreetmap,
+   :homepage "https://kasspd.sk/galeria-imricha-vysocana/"}
+  {:name "Izba tradícií",
+   :longitude 20.64016,
+   :latitude 48.9998465,
+   :source :openstreetmap}
+  {:name "Izba ľudových tradícií",
+   :longitude 18.3283259,
+   :latitude 49.0638061,
+   :source :openstreetmap}
+  {:name "Ján Nálepka",
+   :longitude 20.5141286,
+   :latitude 48.9574048,
+   :source :openstreetmap}
+  {:name "Jánošíkov dom",
+   :longitude 19.0685584,
+   :latitude 49.2803217,
+   :source :openstreetmap,
+   :homepage "https://www.janosikovdom.sk",
+   :locality "Terchová"}
+  {:name
+   "Kasigarda – Múzeum vysťahovalectva z územia Slovenska do Severnej Ameriky",
+   :longitude 22.0610214,
+   :latitude 48.5980342,
+   :source :openstreetmap,
+   :homepage "https://www.kasigarda.sk/",
+   :locality "Pavlovce nad Uhom"}
+  {:name "Kačenáreň",
+   :longitude 17.1112253,
+   :latitude 48.7983683,
+   :source :openstreetmap,
+   :homepage "https://www.zahorskemuzeum.sk/muzeum-v-kopcanoch/",
+   :locality "Kopčany"}
+  {:name "Kaštiel Divín",
+   :longitude 19.53438,
+   :latitude 48.44898,
+   :source :openstreetmap,
+   :homepage "https://www.divin.sk/"}
+  {:name "Kaštieľ Markušovce",
+   :longitude 20.6240986,
+   :latitude 48.9155977,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumspisa.com/"}
+  {:name "Kaštieľ Radoľa",
+   :longitude 18.7882085,
+   :latitude 49.2954702,
+   :source :openstreetmap,
+   :homepage "https://www.kysuckemuzeum.sk/kastiel-radola"}
+  {:name "Kaštieľ Strážky",
+   :longitude 20.4539016,
+   :latitude 49.171967,
+   :source :openstreetmap,
+   :homepage "https://www.sng.sk/strazky",
+   :locality "Spišská Belá"}
+  {:name "Klub histórie polície, armády a silových zložiek",
+   :longitude 17.1711413,
+   :latitude 48.2030141,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/khpasz/",
+   :locality "Bratislava"}
+  {:name "Klubovňa PUZZLE",
+   :longitude 21.2442386,
+   :latitude 48.9959249,
+   :source :openstreetmap,
+   :homepage "https://www.relevant.sk/"}
+  {:name "KOCKY",
+   :longitude 17.1041742,
+   :latitude 48.1181518,
+   :source :openstreetmap,
+   :homepage "https://www.kockylega.sk/"}
+  {:name "Kohlov dom - Hrnčiarske múzeum",
+   :longitude 18.6508266,
+   :latitude 48.4065742,
+   :source :openstreetmap,
+   :locality "Brehy"}
+  {:name "Kortárs Magyar Galéria",
+   :longitude 17.6132642,
+   :latitude 47.9983649,
+   :source :openstreetmap,
+   :homepage "https://www.kmgaleria.eu/"}
+  {:name "Kostol Klarisiek",
+   :longitude 17.1055188,
+   :latitude 48.1438722,
+   :source :openstreetmap,
+   :homepage "https://www.bkis.sk/klarisky/",
+   :locality "Bratislava"}
+  {:name "Kostol Všetkých svätých",
+   :longitude 19.329502,
+   :latitude 49.0636346,
+   :source :openstreetmap,
+   :homepage "https://liptovskemuzeum.sk/expozicia/ludrova/",
+   :locality "Ludrová"}
+  {:name "Kováčska vyhňa",
+   :longitude 19.3706477,
+   :latitude 48.338165,
+   :source :openstreetmap}
+  {:name "Kočiarové múzeum Pavla Baláža",
+   :longitude 20.3382206,
+   :latitude 49.0964696,
+   :source :openstreetmap,
+   :homepage "https://kociarovemuzeum.webnode.sk/"}
+  {:name "Košická detská historická železnica",
+   :longitude 21.228402,
+   :latitude 48.74973,
+   :source :openstreetmap,
+   :homepage "https://www.detskazeleznica.sk/"}
+  {:name "Krajská Hvezdáreň a planetárium M. Hella",
+   :longitude 20.0051394,
+   :latitude 48.3742043,
+   :source :openstreetmap,
+   :locality "Rimavská Sobota"}
+  {:name "Krajské osvetové stredisko v Nitre",
+   :longitude 18.1095747,
+   :latitude 48.3087248,
+   :source :openstreetmap}
+  {:name "Krokus Galéria",
+   :longitude 17.1094009,
+   :latitude 48.1493778,
+   :source :openstreetmap,
+   :homepage "http://www.krokusgaleria.sk/",
+   :locality "Bratislava"}
+  {:name "Králikov mlyn - múzeum mlynárskeho remesla",
+   :longitude 18.1137581,
+   :latitude 48.9702214,
+   :source :openstreetmap,
+   :homepage "https://www.kralikovmlyn.sk/"}
+  {:name "Kubašský ľemhalz",
+   :longitude 20.2423797,
+   :latitude 48.992416,
+   :source :openstreetmap,
+   :homepage
+   "https://www.spisskebystre.sk/zivot-v-obci/kubassky-lemhalz/"}
+  {:name "Kvantarium",
+   :longitude 20.2240657,
+   :latitude 49.1588835,
+   :source :openstreetmap,
+   :homepage "https://www.kvantarium.sk/"}
+  {:name "Kysucká galéria v Oščadnici",
+   :longitude 18.8410334,
+   :latitude 49.4228159,
+   :source :openstreetmap,
+   :homepage "https://www.kysuckagaleria.sk/"}
+  {:name "Kysucké múzeum",
+   :longitude 18.7895543,
+   :latitude 49.4399725,
+   :source :openstreetmap,
+   :homepage "https://www.kysuckemuzeum.sk/kysucke-muzeum-cadca"}
+  {:name "Kúdeľná izba",
+   :longitude 18.8625407,
+   :latitude 49.1885093,
+   :source :openstreetmap,
+   :homepage "https://kudelnaizba.webnode.sk/"}
+  {:name "Kúria Ambrovec- Múzeum dejín",
+   :longitude 17.8967865,
+   :latitude 48.7917536,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeumtn.sk/hlavna-stranka/expozicie/kuria-ambrovec.html?page_id=304"}
+  {:name "Lesnícke a drevárske múzeum",
+   :longitude 19.125236,
+   :latitude 48.5771321,
+   :source :openstreetmap,
+   :homepage
+   "https://www.lesy.sk/pre-verejnost/lesnicke-drevarske-muzeum/"}
+  {:name "Lesnícke múzeum",
+   :longitude 21.4154339,
+   :latitude 49.018942,
+   :source :openstreetmap}
+  {:name "Lesnícky skanzen Vydrovo",
+   :longitude 19.6430507,
+   :latitude 48.7329554,
+   :source :openstreetmap,
+   :homepage "https://www.lesy.sk/pre-verejnost/lesnicky-skanzen/"}
+  {:name "Letecké múzeum Slavnica",
+   :longitude 18.1901155,
+   :latitude 48.9979332,
+   :source :openstreetmap}
+  {:name "Levická mestská pivnica",
+   :longitude 18.6080906,
+   :latitude 48.220081,
+   :source :openstreetmap,
+   :homepage "https://regionvino.weebly.com/expoziacutecia.html"}
+  {:name "Litterra",
+   :longitude 20.1122026,
+   :latitude 48.6807599,
+   :source :openstreetmap,
+   :homepage "https://www.litterra.sk/"}
+  {:name "Lišovská izba",
+   :longitude 18.8674787,
+   :latitude 48.228369,
+   :source :openstreetmap}
+  {:name "Malokarpatská galéria a Regionálne núzeum Chtelnica",
+   :longitude 17.6228428,
+   :latitude 48.5681701,
+   :source :openstreetmap,
+   :homepage "http://www.kastielchtelnica.sk/",
+   :locality "Chtelnica"}
+  {:name "Malé Podbielanské etnografické múzeum",
+   :longitude 19.4846951,
+   :latitude 49.3070847,
+   :source :openstreetmap,
+   :homepage "https://www.muzeum.sk/?obj=muzeum&ix=mpem",
+   :locality "Podbiel"}
+  {:name "Malé Technické Múzeum",
+   :longitude 17.9955577,
+   :latitude 47.9855486,
+   :source :openstreetmap,
+   :locality "Zemné"}
+  {:name "Maša - Múzeum hutníctva",
+   :longitude 19.769094,
+   :latitude 49.0343443,
+   :source :openstreetmap}
+  {:name "Medzinárodné sochárske sympózium",
+   :longitude 20.5589688,
+   :latitude 49.2993693,
+   :source :openstreetmap}
+  {:name "Menora Saag Centrum Artis",
+   :longitude 18.9485598,
+   :latitude 48.0714748,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sahy.sk/vseobecne-informacie.phtml?id3=20253"}
+  {:name "Mestská galéria",
+   :longitude 21.9207441,
+   :latitude 48.7571066,
+   :source :openstreetmap}
+  {:name "Mestská galéria",
+   :longitude 20.0186886,
+   :latitude 48.3835914,
+   :source :openstreetmap}
+  {:name "Mestské múzeum",
+   :longitude 17.2704185,
+   :latitude 48.2867109,
+   :source :openstreetmap,
+   :homepage "https://www.mestskemuzeumpk.sk/"}
+  {:name "Mestské múzeum",
+   :longitude 17.7379942,
+   :latitude 48.2864995,
+   :source :openstreetmap}
+  {:name "Mestské múzeum",
+   :longitude 18.2339831,
+   :latitude 48.9970562,
+   :source :openstreetmap}
+  {:name "Mestské múzeum",
+   :longitude 21.1005465,
+   :latitude 49.1028197,
+   :source :openstreetmap,
+   :homepage "https://www.kulturnestredisko.sk/muzeum.html"}
+  {:name "Mestské múzeum a galéria Veľký Šariš",
+   :longitude 21.192438,
+   :latitude 49.0392075,
+   :source :openstreetmap}
+  {:name "Mestské múzeum a pamätná izba Franza Schuberta",
+   :longitude 18.6589253,
+   :latitude 48.0461743,
+   :source :openstreetmap,
+   :homepage
+   "https://www.zeliezovce.sk/hlavne-menu/samosprava/mestske-muzeum/"}
+  {:name "Mestské múzeum Jelšava",
+   :longitude 20.2350753,
+   :latitude 48.6312393,
+   :source :openstreetmap,
+   :homepage "https://poi.oma.sk/n4206889996"}
+  {:name "Mestské múzeum Karola Točíka",
+   :longitude 18.624709,
+   :latitude 49.4040373,
+   :source :openstreetmap}
+  {:name "Mestské Múzeum Nemšová",
+   :longitude 18.1149977,
+   :latitude 48.9636499,
+   :source :openstreetmap,
+   :homepage "https://www.nemsova.sk/kultura/mestske_muzeum"}
+  {:name "Mestské múzeum Partizánske",
+   :longitude 18.3681014,
+   :latitude 48.6246185,
+   :source :openstreetmap,
+   :homepage "http://muzeumpe.sk/"}
+  {:name "Mestské múzeum Stará Turá",
+   :longitude 17.6949405,
+   :latitude 48.7801715,
+   :source :openstreetmap}
+  {:name "Mestské múzeum Zlaté Moravce",
+   :longitude 18.396494,
+   :latitude 48.3825217,
+   :source :openstreetmap,
+   :homepage
+   "http://www.muzeumnitra.sk/mestske_muzeum_v_zlatych_moravciach.html"}
+  {:name "MG Art Galeria",
+   :longitude 18.4401864,
+   :latitude 49.1168841,
+   :source :openstreetmap}
+  {:name "Mihalgallery",
+   :longitude 21.2495259,
+   :latitude 48.6992573,
+   :source :openstreetmap,
+   :homepage "https://www.mihalgallery.sk/"}
+  {:name "Miklušova väznica",
+   :longitude 21.2596341,
+   :latitude 48.7228107,
+   :source :openstreetmap,
+   :homepage "https://www.vsmuzeum.sk/"}
+  {:name "Military Museum Kolárovo",
+   :longitude 17.9797669,
+   :latitude 47.9267788,
+   :source :openstreetmap,
+   :homepage "http://www.militarymuseum.sk/"}
+  {:name "Minimúzeum ľudovej kultúry",
+   :longitude 21.1264953,
+   :latitude 48.7439951,
+   :source :openstreetmap}
+  {:name "Miniskanzen",
+   :longitude 21.9006919,
+   :latitude 49.2742921,
+   :source :openstreetmap}
+  {:name "Muzeum Mincovne",
+   :longitude 18.9164604,
+   :latitude 48.7052844,
+   :source :openstreetmap,
+   :homepage "https://www.gyc.sk/"}
+  {:name "Myšľanské obecné múzeum",
+   :longitude 21.3683371,
+   :latitude 48.6230793,
+   :source :openstreetmap,
+   :homepage
+   "https://www.niznamysla.sk/titulna-strana/kultura/myslanske-obecne-muzeum/"}
+  {:name "Múzeum",
+   :longitude 17.6161167,
+   :latitude 48.250708,
+   :source :openstreetmap}
+  {:name "Múzeum",
+   :longitude 18.2608894,
+   :latitude 48.397676,
+   :source :openstreetmap,
+   :homepage "https://www.ladice.sk/sk/historia.html",
+   :locality "Ladice"}
+  {:name "Múzeum",
+   :longitude 18.4549399,
+   :latitude 49.0740293,
+   :source :openstreetmap,
+   :locality "Považská Bystrica"}
+  {:name "Múzeum",
+   :longitude 18.7978209,
+   :latitude 48.0861681,
+   :source :openstreetmap,
+   :locality "Sazdice"}
+  {:name "Múzeum a komunitné centrum",
+   :longitude 17.0132514,
+   :latitude 48.6537076,
+   :source :openstreetmap,
+   :homepage "https://kuty.media/pjekne_mjestecko",
+   :locality "Kúty"}
+  {:name "Múzeum a Kultúrne centrum južného Zemplína",
+   :longitude 21.7208957,
+   :latitude 48.6197037,
+   :source :openstreetmap,
+   :homepage "http://www.muzeumtv.sk/"}
+  {:name "Múzeum Ako sa žilo kedysi",
+   :longitude 18.8946382,
+   :latitude 48.3509137,
+   :source :openstreetmap}
+  {:name "Múzeum Andreja Sládkoviča",
+   :longitude 19.0660014,
+   :latitude 48.3524858,
+   :source :openstreetmap,
+   :homepage "https://krupina.sk/muzeum-andreja-sladkovica-v-krupine"}
+  {:name "Múzeum Baťa pod Tatrami",
+   :longitude 20.1980126,
+   :latitude 49.0613781,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/batapodtatrami/"}
+  {:name "Múzeum Betliar",
+   :longitude 20.5102239,
+   :latitude 48.7061181,
+   :source :openstreetmap,
+   :homepage "http://muzeumbetliar.sk/"}
+  {:name "Múzeum bitky pri Rozhanovciach",
+   :longitude 21.3432231,
+   :latitude 48.7512582,
+   :source :openstreetmap}
+  {:name "Múzeum bitky pri Vavrišove",
+   :longitude 19.761086,
+   :latitude 49.0684878,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vavrisovo.sk/obec-2/muzeum-bitky-pri-vavrisove/"}
+  {:name "Múzeum bošáckej doliny",
+   :longitude 17.8411984,
+   :latitude 48.827844,
+   :source :openstreetmap,
+   :homepage "https://bosaca.sk/nasa-obec/pamiatky/"}
+  {:name "Múzeum bytovej kultúry",
+   :longitude 20.4314705,
+   :latitude 49.1376259,
+   :source :openstreetmap,
+   :homepage "https://www.galeriauanjela.sk/sk/o-nas"}
+  {:name "Múzeum bábik",
+   :longitude 18.4419618,
+   :latitude 47.8096747,
+   :source :openstreetmap,
+   :locality "Búč"}
+  {:name "Múzeum bábkarských kultúr a hračiek",
+   :longitude 19.3329076,
+   :latitude 48.2436149,
+   :source :openstreetmap,
+   :homepage "https://hradmodrykamen.sk/"}
+  {:name "Múzeum Cesty predkov",
+   :longitude 20.0888983,
+   :latitude 48.9662648,
+   :source :openstreetmap,
+   :homepage
+   "https://www.liptovskateplicka.sk/turista/informacie-pre-navstevnikov/informacne-centrum-vyhliadkova-veza-rozhladna-muzeum-cesty-predkov/"}
+  {:name "Múzeum chemického vojska",
+   :longitude 18.4964833,
+   :latitude 48.6550499,
+   :source :openstreetmap,
+   :locality "Čereňany"}
+  {:name "Múzeum colníctva a finančnej správy",
+   :longitude 16.9727663,
+   :latitude 48.2102727,
+   :source :openstreetmap,
+   :homepage "https://tikdnv.sk/"}
+  {:name "Múzeum Csontváry",
+   :longitude 19.5731775,
+   :latitude 48.3543776,
+   :source :openstreetmap}
+  {:name "Múzeum dediny",
+   :longitude 20.2500098,
+   :latitude 49.0471615,
+   :source :openstreetmap}
+  {:name "Múzeum dediny",
+   :longitude 21.5444793,
+   :latitude 49.3747314,
+   :source :openstreetmap}
+  {:name "Múzeum dopravy",
+   :longitude 18.6787781,
+   :latitude 49.1292634,
+   :source :openstreetmap,
+   :homepage "https://pmza.sk/expozicie/muzeum-dopravy/"}
+  {:name "Múzeum Dušana Samuela Jurkoviča v Brezovej pod Bradlom",
+   :longitude 17.5405322,
+   :latitude 48.6650062,
+   :source :openstreetmap,
+   :homepage "https://muzeumjurkovic.sk/",
+   :locality "Brezová pod Bradlom"}
+  {:name "Múzeum Ferdiša Kostku",
+   :longitude 17.0289569,
+   :latitude 48.2780004,
+   :source :openstreetmap}
+  {:name "Múzeum gitár",
+   :longitude 21.2662133,
+   :latitude 48.7188081,
+   :source :openstreetmap,
+   :homepage "https://www.guitarcafe.sk/"}
+  {:name "Múzeum habánov",
+   :longitude 17.4037931,
+   :latitude 48.7330499,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumhabanov.sk/"}
+  {:name "Múzeum historických vozidiel",
+   :longitude 17.7388727,
+   :latitude 48.1922947,
+   :source :openstreetmap,
+   :homepage
+   "https://www.matusovazem.eu/informacna-kancelaria/prehliadky-juznej-veze/",
+   :locality "Galanta"}
+  {:name "Múzeum historických vozidiel a motocyklov",
+   :longitude 17.0661972,
+   :latitude 48.3299414,
+   :source :openstreetmap}
+  {:name "Múzeum holokaustu",
+   :longitude 17.7245653,
+   :latitude 48.2888627,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeum.sk/muzeum-holokaustu-v-seredi-snm.html"}
+  {:name "Múzeum hradu Sklabiňa",
+   :longitude 19.0184706,
+   :latitude 49.0551298,
+   :source :openstreetmap}
+  {:name "Múzeum hrnčiarstva Beluja",
+   :longitude 18.890259,
+   :latitude 48.3523688,
+   :source :openstreetmap}
+  {:name "Múzeum Imre Madácha",
+   :longitude 19.4910299,
+   :latitude 48.249488,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/muzea-snm/muzeum-kultury-madarov-na-slovensku/kastiel-imre-madacha"}
+  {:name "múzeum J. Hálu",
+   :longitude 19.9800814,
+   :latitude 49.0603043,
+   :source :openstreetmap}
+  {:name "Múzeum Jozefa Maximiliána Petzvala",
+   :longitude 20.4583979,
+   :latitude 49.1875745,
+   :source :openstreetmap,
+   :homepage "https://www.muzeum.sk/?obj=muzeum&ix=mdmg"}
+  {:name "Múzeum Juraja Jánošíka",
+   :longitude 19.0299524,
+   :latitude 49.2575105,
+   :source :openstreetmap,
+   :homepage "https://pmza.sk/expozicie/expozicia-janosik-a-terchova/"}
+  {:name "Múzeum Jána Cikkera",
+   :longitude 17.09302,
+   :latitude 48.1450574,
+   :source :openstreetmap,
+   :homepage "https://www.jan-cikker.org/muzeum.html",
+   :locality "Bratislava"}
+  {:name "Múzeum Jána Kollára",
+   :longitude 18.8861027,
+   :latitude 48.9121169,
+   :source :openstreetmap,
+   :locality "Mošovce"}
+  {:name "Múzeum Jána Thaina",
+   :longitude 18.1633933,
+   :latitude 47.9891177,
+   :source :openstreetmap,
+   :homepage "http://www.muzeumnz.sk/"}
+  {:name "Múzeum Jána Thaina - výstavná miestnosť",
+   :longitude 18.1725867,
+   :latitude 47.9897652,
+   :source :openstreetmap}
+  {:name "Múzeum Jánosa Esterházyho",
+   :longitude 18.2108138,
+   :latitude 48.306878,
+   :source :openstreetmap,
+   :homepage "https://esterhazyjanos.eu/"}
+  {:name "Múzeum keramiky",
+   :longitude 17.3093859,
+   :latitude 48.3327118,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/muzea-snm/muzeum-ludovita-stura/muzeum-slovenskej-keramickej-plastiky"}
+  {:name "Múzeum kinematografie rodiny Schusterovej",
+   :longitude 20.8888287,
+   :latitude 48.7009006,
+   :source :openstreetmap,
+   :homepage
+   "https://stm-ke.sk/sk/pobocky/muzeum-kinematografie-r-schusterovej-v-medzeve/zakladne-informacie",
+   :locality "Medzev"}
+  {:name "Múzeum knižnej kultúry",
+   :longitude 17.5912627,
+   :latitude 48.379234,
+   :source :openstreetmap}
+  {:name "Múzeum kultúry karpatských Nemcov",
+   :longitude 18.6333333,
+   :latitude 48.870589,
+   :source :openstreetmap}
+  {:name "Múzeum Kysuckej dediny",
+   :longitude 19.0983842,
+   :latitude 49.3836701,
+   :source :openstreetmap,
+   :homepage "https://www.kysuckemuzeum.sk/muzeum-kysuckej-dediny"}
+  {:name "Múzeum kávy",
+   :longitude 19.3400533,
+   :latitude 49.3750323,
+   :source :openstreetmap,
+   :homepage "http://www.oravakafe.sk/"}
+  {:name "Múzeum Lanovky",
+   :longitude 19.5974227,
+   :latitude 48.9325714,
+   :source :openstreetmap}
+  {:name "Múzeum lesnej železničky",
+   :longitude 19.025622,
+   :latitude 49.0859252,
+   :source :openstreetmap}
+  {:name "Múzeum letectva",
+   :longitude 21.2356245,
+   :latitude 48.6682858,
+   :source :openstreetmap,
+   :homepage
+   "https://stm-ke.sk/sk/pobocky/muzeum-letectva-v-kosiciach/zakladne-informacie"}
+  {:name "Múzeum liptovskej dediny",
+   :longitude 19.8006719,
+   :latitude 49.1105381,
+   :source :openstreetmap,
+   :homepage "https://www.skanzenpribylina.sk/"}
+  {:name "Múzeum Majolika",
+   :longitude 17.3162532,
+   :latitude 48.3266999,
+   :source :openstreetmap}
+  {:name "Múzeum Malofatranskej operácie",
+   :longitude 18.820349,
+   :latitude 49.1597656,
+   :source :openstreetmap,
+   :homepage
+   "https://www.stranavy.sk/obec-2/informacie-o-obci/o-obci/",
+   :locality "Stráňavy"}
+  {:name "Múzeum Martina Benku",
+   :longitude 18.9189326,
+   :latitude 49.0675786,
+   :source :openstreetmap,
+   :homepage "https://www.snm.sk/?muzeum-martina-benku-uvodna-stranka",
+   :locality "Martin"}
+  {:name "Múzeum medi",
+   :longitude 19.1321912,
+   :latitude 48.8074985,
+   :source :openstreetmap,
+   :homepage "http://www.herrengrund.sk",
+   :locality "Špania Dolina"}
+  {:name "Múzeum mesta Bratislavy",
+   :longitude 17.1087497,
+   :latitude 48.1437932,
+   :source :openstreetmap,
+   :homepage "https://www.muzeum.bratislava.sk/",
+   :locality "Bratislava"}
+  {:name "Múzeum Michala Tillnera",
+   :longitude 17.0127709,
+   :latitude 48.4395257,
+   :source :openstreetmap,
+   :homepage "http://muzeum-malacky.blogspot.com/"}
+  {:name "Múzeum Mikuláša Thegeho Konkolyho",
+   :longitude 18.1898335,
+   :latitude 47.8734132,
+   :source :openstreetmap,
+   :homepage "https://www.suh.sk/",
+   :locality "Hurbanovo"}
+  {:name "Múzeum Milana Rastislava Štefánika",
+   :longitude 17.5969615,
+   :latitude 48.6701333,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/muzea-snm/muzeum-slovenskych-narodnych-rad/muzeum-m-r-stefanika/navstivte/otvaracie-hodiny"}
+  {:name "Múzeum Mobilov Dobšiná",
+   :longitude 20.3625288,
+   :latitude 48.8213043,
+   :source :openstreetmap,
+   :homepage "https://mobilephonemuseum.org/"}
+  {:name "Múzeum moderného umenia A. Warhola Medzilaborce",
+   :longitude 21.9048055,
+   :latitude 49.2684378,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumaw.sk/",
+   :locality "Medzilaborce"}
+  {:name "Múzeum Mojmírovce",
+   :longitude 18.0584556,
+   :latitude 48.2080388,
+   :source :openstreetmap,
+   :homepage "https://www.muzeummojmirovce.sk/"}
+  {:name "Múzeum Molpír",
+   :longitude 17.432044,
+   :latitude 48.5083113,
+   :source :openstreetmap,
+   :homepage
+   "https://smolenice.com/navstevnik/turistika/muzeum-molpir/"}
+  {:name "Múzeum Muráň",
+   :longitude 20.0476027,
+   :latitude 48.7398323,
+   :source :openstreetmap,
+   :locality "Muráň"}
+  {:name "Múzeum Na dreve maľované",
+   :longitude 18.5160754,
+   :latitude 48.9550503,
+   :source :openstreetmap,
+   :homepage "https://pmza.sk/cicmany/"}
+  {:name "Múzeum obce Ostrá Lúka",
+   :longitude 19.0523382,
+   :latitude 48.5452056,
+   :source :openstreetmap}
+  {:name "Múzeum obce Stakčín",
+   :longitude 22.2255361,
+   :latitude 48.9998564,
+   :source :openstreetmap,
+   :locality "Stakčín"}
+  {:name "Múzeum obchodu Bratislava",
+   :longitude 17.2047,
+   :latitude 48.1290237,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumobchoduba.sk/"}
+  {:name "Múzeum obetí komunizmu",
+   :longitude 21.2520304,
+   :latitude 48.7229539,
+   :source :openstreetmap,
+   :homepage "https://mok.sk/"}
+  {:name "Múzeum obuvi",
+   :longitude 20.9395362,
+   :latitude 48.9232642,
+   :source :openstreetmap,
+   :homepage "https://spoznajslovensko.eu/muzeum-obuvi/"}
+  {:name "Múzeum oravskej dediny",
+   :longitude 19.6613054,
+   :latitude 49.2606078,
+   :source :openstreetmap,
+   :homepage "https://muzeum.zuberec.sk/"}
+  {:name "Múzeum P. E. Dobšinského",
+   :longitude 20.0730187,
+   :latitude 48.482376,
+   :source :openstreetmap,
+   :homepage "https://www.driencany.sk/muzeum-p-e-dobsinskeho.html",
+   :locality "Drienčany"}
+  {:name "Múzeum Partizánskej brigády Jana Žižku",
+   :longitude 18.2631474,
+   :latitude 48.7174372,
+   :source :openstreetmap}
+  {:name "Múzeum Podzoboria",
+   :longitude 18.2057222,
+   :latitude 48.3095833,
+   :source :openstreetmap}
+  {:name "Múzeum praveku",
+   :longitude 18.5834625,
+   :latitude 48.7774186,
+   :source :openstreetmap,
+   :homepage "https://muzeumpraveku.sk/"}
+  {:name "Múzeum prvého slovenského gymnázia",
+   :longitude 20.1112635,
+   :latitude 48.6855466,
+   :source :openstreetmap,
+   :homepage "https://muzeum.revuca.sk/"}
+  {:name "Múzeum regiónu Bielych Karpát",
+   :longitude 18.1981423,
+   :latitude 49.0190784,
+   :source :openstreetmap,
+   :homepage
+   "https://www.obecbohunice.sk/muzeum-regionu-bielych-karpat.phtml?id3=76907"}
+  {:name "Múzeum Rišňovce, M. I. Kutuzova",
+   :longitude 17.8986615,
+   :latitude 48.3686557,
+   :source :openstreetmap,
+   :homepage
+   "https://www.risnovce.sk/pamiatky/muzeum-m-i-kutuzova.html"}
+  {:name "Múzeum rodu Forgách",
+   :longitude 18.2299983,
+   :latitude 48.3753786,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jelenec.sk/obec-2/kultura/muzeum-rodu-forgach/"}
+  {:name "Múzeum rusínskej kultúry (Filial SNM)",
+   :longitude 21.2484746,
+   :latitude 48.9879401,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/?muzeum-rusinskej-kultury-uvodna-stranka"}
+  {:name "Múzeum ručnej výroby papiera",
+   :longitude 19.3366019,
+   :latitude 49.0402853,
+   :source :openstreetmap}
+  {:name "Múzeum rádiotechniky a komunikačnej techniky",
+   :longitude 21.238543,
+   :latitude 48.9576358,
+   :source :openstreetmap}
+  {:name "Múzeum Senica",
+   :longitude 17.3731387,
+   :latitude 48.680689,
+   :source :openstreetmap,
+   :homepage "https://muzeum.senica.sk/",
+   :locality "Senica"}
+  {:name "Múzeum sestier Royových",
+   :longitude 17.6888526,
+   :latitude 48.7827869,
+   :source :openstreetmap,
+   :homepage "https://www.centrumhistorie.ecav.sk/"}
+  {:name "Múzeum slovenskej dediny",
+   :longitude 18.9285942,
+   :latitude 49.0384634,
+   :source :openstreetmap,
+   :homepage "https://www.skanzenmartin.sk/"}
+  {:name "Múzeum slovenskej rozprávky",
+   :longitude 20.0692326,
+   :latitude 48.4828862,
+   :source :openstreetmap,
+   :homepage "https://www.vypadni.sk/sk/muzeum-slovenskej-rozpravky"}
+  {:name "Múzeum SNP",
+   :longitude 19.2185171,
+   :latitude 48.835997,
+   :source :openstreetmap,
+   :homepage
+   "http://www.muzeumsnp.sk/expozicie/narodna-kulturna-pamiatka-kaliste/"}
+  {:name "Múzeum SNP",
+   :longitude 19.1497748,
+   :latitude 48.7353311,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumsnp.sk/"}
+  {:name "Múzeum SNR",
+   :longitude 17.5671856,
+   :latitude 48.7558457,
+   :source :openstreetmap}
+  {:name "Múzeum socialistických kuriozít",
+   :longitude 19.9506386,
+   :latitude 48.581637,
+   :source :openstreetmap,
+   :homepage "https://musoku.sk/"}
+  {:name "Múzeum socializmu a studenej vojny",
+   :longitude 17.9358409,
+   :latitude 48.3577403,
+   :source :openstreetmap,
+   :homepage
+   "http://www.vypadni.sk/sk/muzeum-socializmu-a-studenej-vojny"}
+  {:name "Múzeum Spiša",
+   :longitude 20.5684877,
+   :latitude 48.9445502,
+   :source :openstreetmap,
+   :homepage "https://muzeumspisa.com/"}
+  {:name "Múzeum TANAPu",
+   :longitude 20.2843273,
+   :latitude 49.1665064,
+   :source :openstreetmap,
+   :homepage "https://www.tanap.sk/muzeum/",
+   :locality "Vysoké Tatry"}
+  {:name "Múzeum Tokajíckej tragédie",
+   :longitude 21.7052105,
+   :latitude 49.1040426,
+   :source :openstreetmap}
+  {:name "Múzeum tradičnej ľudovej kultúry",
+   :longitude 17.9552103,
+   :latitude 48.2761871,
+   :source :openstreetmap,
+   :locality "Jarok"}
+  {:name "Múzeum tradičnej ľudovej kultúry",
+   :longitude 20.2843009,
+   :latitude 48.7897032,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kosiceregion.com/sk/poi/muzeum-tradicnej-ludovej-kultury-rejdova/",
+   :locality "Rejdová"}
+  {:name "Múzeum Turany",
+   :longitude 19.0359776,
+   :latitude 49.1066414,
+   :source :openstreetmap,
+   :homepage "https://www.turany.sk/miestne-muzeum.html"}
+  {:name "Múzeum ukrajinskej kultúry",
+   :longitude 21.5582991,
+   :latitude 49.304214,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/muzea-snm/muzeum-ukrajinskej-kultury/narodopisna-expozicia-v-prirode/o-muzeu"}
+  {:name "Múzeum ukrajinsko-rusínskej kultúry",
+   :longitude 21.5708435,
+   :latitude 49.3057855,
+   :source :openstreetmap,
+   :locality "Svidník"}
+  {:name "Múzeum v Kopčanoch",
+   :longitude 17.1042139,
+   :latitude 48.7827268,
+   :source :openstreetmap,
+   :homepage "https://www.zahorskemuzeum.sk/muzeum-v-kopcanoch/"}
+  {:name "Múzeum Veľká Mača",
+   :longitude 17.6937264,
+   :latitude 48.2436392,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeumgalanta.sk/vysunute-expozicie/muzeum-velka-maca/"}
+  {:name "Múzeum vila ateliér Mathé",
+   :longitude 21.242491,
+   :latitude 48.7429334,
+   :source :openstreetmap,
+   :homepage "https://www.kosice.sk/mesto/muzeum-vila-atelier-mathe",
+   :locality "Košice"}
+  {:name "Múzeum Vlachovo",
+   :longitude 20.4117915,
+   :latitude 48.7718427,
+   :source :openstreetmap,
+   :homepage "https://www.vlachovo.eu/expozicia.php"}
+  {:name "Múzeum Vojtecha Löfflera",
+   :longitude 21.2555876,
+   :latitude 48.7196625,
+   :source :openstreetmap,
+   :homepage "https://www.lofflermuzeum.sk"}
+  {:name "Múzeum vín",
+   :longitude 21.2398052,
+   :latitude 48.9973444,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumvin.sk/"}
+  {:name "Múzeum zberateľských lyžičiek",
+   :longitude 20.2853848,
+   :latitude 49.1482681,
+   :source :openstreetmap}
+  {:name "Múzeum zločinov a obetí komunizmu",
+   :longitude 17.1096849,
+   :latitude 48.153967,
+   :source :openstreetmap}
+  {:name "Múzeum Zoltána Fábryho",
+   :longitude 20.7908368,
+   :latitude 48.7084019,
+   :source :openstreetmap,
+   :locality "Štós"}
+  {:name "Múzeum zvoncov a spiežovcov",
+   :longitude 20.1313824,
+   :latitude 48.8383995,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sumiac.sk/sumiac/oplati-sa-navstivit-vidiet/muzeum-zvoncov/",
+   :locality "Šumiac"}
+  {:name "Múzeum Zádiel",
+   :longitude 20.8326012,
+   :latitude 48.6147739,
+   :source :openstreetmap}
+  {:name "Múzeum Červený kameň",
+   :longitude 17.3354146,
+   :latitude 48.3915018,
+   :source :openstreetmap}
+  {:name "Múzeum Ľ. Štúra",
+   :longitude 17.3105646,
+   :latitude 48.3367958,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/muzea-snm/muzeum-ludovita-stura/muzeum-slovenskej-keramickej-plastiky"}
+  {:name "Múzeum ľudovej architektúry - Skanzen Bardejov",
+   :longitude 21.2665715,
+   :latitude 49.3299109,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumbardejov.sk/expozic/skanzen.htm"}
+  {:name "Múzeum ľudovej kultúry",
+   :longitude 19.5667206,
+   :latitude 48.475071,
+   :source :openstreetmap}
+  {:name "Múzeum ľudovej kultúry Lendak",
+   :longitude 20.3510307,
+   :latitude 49.2370485,
+   :source :openstreetmap}
+  {:name "múzeum ľudových tradícií",
+   :longitude 19.9857369,
+   :latitude 49.0574784,
+   :source :openstreetmap}
+  {:name "Múzeum školstva a pedagogiky",
+   :longitude 16.9772086,
+   :latitude 48.2115054,
+   :source :openstreetmap,
+   :homepage "http://www.msap.sk/",
+   :locality "Bratislava"}
+  {:name "Múzeum Šurany Veterán M+T",
+   :longitude 18.1857651,
+   :latitude 48.0836048,
+   :source :openstreetmap,
+   :locality "Šurany"}
+  {:name "Múzeum šľachtických kočiarov a saní",
+   :longitude 19.3575155,
+   :latitude 49.2604509,
+   :source :openstreetmap,
+   :homepage "http://www.muzeumkociarov.sk/"}
+  {:name "Na čiare",
+   :longitude 22.15538,
+   :latitude 48.6034766,
+   :source :openstreetmap}
+  {:name "Nemčianske múzeum v Turčanovom mlyne",
+   :longitude 18.9852267,
+   :latitude 48.2889823,
+   :source :openstreetmap}
+  {:name "NERV Platforma",
+   :longitude 21.9154219,
+   :latitude 48.9337264,
+   :source :openstreetmap,
+   :homepage "https://www.nerv.sk/"}
+  {:name "Novohradské múzeum a galéria",
+   :longitude 19.6698987,
+   :latitude 48.328038,
+   :source :openstreetmap,
+   :homepage "https://www.lukus.sk/radnica/rekonstrukcia/"}
+  {:name "Nová vlna",
+   :longitude 18.0556693,
+   :latitude 48.8940525,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/nova.vlna.1/"}
+  {:name "Nálezisko obydlia človeka kyjatickej kultúry",
+   :longitude 20.004192,
+   :latitude 48.5336796,
+   :source :openstreetmap}
+  {:name "Národopisné múzeum Topoľčianky",
+   :longitude 18.4122571,
+   :latitude 48.4186971,
+   :source :openstreetmap,
+   :homepage "http://www.muzeum.sk/?obj=muzeum&ix=hipom"}
+  {:name "Obecná múzeum Notariát",
+   :longitude 18.9662625,
+   :latitude 48.9866216,
+   :source :openstreetmap}
+  {:name "Obecné múzeum",
+   :longitude 18.2662255,
+   :latitude 47.9938745,
+   :source :openstreetmap}
+  {:name "Obecné múzeum",
+   :longitude 19.2001706,
+   :latitude 48.0663388,
+   :source :openstreetmap}
+  {:name "Obecné múzeum",
+   :longitude 18.4930286,
+   :latitude 48.7649269,
+   :source :openstreetmap}
+  {:name "Obecné múzeum",
+   :longitude 19.6811441,
+   :latitude 48.4964831,
+   :source :openstreetmap,
+   :homepage "https://malinec.sk/kultura/2/"}
+  {:name "Obecné múzeum",
+   :longitude 21.6215938,
+   :latitude 48.7392833,
+   :source :openstreetmap}
+  {:name "Obecné múzeum",
+   :longitude 20.0802049,
+   :latitude 48.2931127,
+   :source :openstreetmap}
+  {:name "Obecné múzeum",
+   :longitude 20.4855061,
+   :latitude 48.4926678,
+   :source :openstreetmap}
+  {:name "Obecné múzeum Leváre",
+   :longitude 20.2567645,
+   :latitude 48.5143301,
+   :source :openstreetmap,
+   :locality "Leváre"}
+  {:name
+   "Obecné múzeum miestnych dejín. Pamätná izba Daniela Maróthyho a Eleny Maróthy Šoltésovej",
+   :longitude 19.515876,
+   :latitude 48.3109234,
+   :source :openstreetmap}
+  {:name "Obecné múzeum Šenkvice",
+   :longitude 17.3486415,
+   :latitude 48.2971725,
+   :source :openstreetmap}
+  {:name "Oldtimer - múzeum Sereď",
+   :longitude 17.7520589,
+   :latitude 48.2905233,
+   :source :openstreetmap,
+   :homepage "https://www.oldtimersered.sk/"}
+  {:name "Oldtimer Gallery",
+   :longitude 17.226554,
+   :latitude 48.1882023,
+   :source :openstreetmap,
+   :homepage "https://oldtimergallery.sk/"}
+  {:name "Olympijský klub Gemer - sieň slávy",
+   :longitude 20.5304925,
+   :latitude 48.6598181,
+   :source :openstreetmap}
+  {:name "Oravská galéria",
+   :longitude 19.2964777,
+   :latitude 49.2070289,
+   :source :openstreetmap,
+   :locality "Dolný Kubín"}
+  {:name "Oravské múzeum",
+   :longitude 19.4121485,
+   :latitude 49.3586563,
+   :source :openstreetmap,
+   :homepage "https://www.oravskemuzeum.sk/"}
+  {:name "PAKT Kultúrne centrum",
+   :longitude 17.1249913,
+   :latitude 48.1691941,
+   :source :openstreetmap,
+   :homepage "https://pakt.sk/"}
+  {:name "Pamiatková rezervácia ľudovej architektúry Brhlovce",
+   :longitude 18.7375597,
+   :latitude 48.2147615,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeumlevice.sk/index.php/sk/allcategories-sk-sk/45-podujatia/expozicia-muzeum/119-vysunuta-expozicia-tm-brhlovce"}
+  {:name "Pamiatková rezervácia ľudovej architektúry Stará Hora",
+   :longitude 18.9125046,
+   :latitude 48.282199,
+   :source :openstreetmap,
+   :homepage "https://www.starahora.sk/"}
+  {:name "Pamätná izba",
+   :longitude 18.8972685,
+   :latitude 48.5787325,
+   :source :openstreetmap}
+  {:name "Pamätná izba",
+   :longitude 18.7073548,
+   :latitude 48.3242089,
+   :source :openstreetmap}
+  {:name "Pamätná izba A. Zsélyiho",
+   :longitude 19.5014588,
+   :latitude 48.1726856,
+   :source :openstreetmap}
+  {:name "Pamätná izba Andreja Kmeťa",
+   :longitude 18.9234557,
+   :latitude 48.3584076,
+   :source :openstreetmap}
+  {:name "Pamätná izba Andreja Kmeťa",
+   :longitude 18.7419512,
+   :latitude 48.5289061,
+   :source :openstreetmap}
+  {:name "Pamätná izba Andreja Radlinského",
+   :longitude 17.0200753,
+   :latitude 48.6588389,
+   :source :openstreetmap,
+   :homepage "https://www.farakuty.sk/"}
+  {:name "Pamätná izba astronauta E. A. Cernana",
+   :longitude 18.5474761,
+   :latitude 49.3807522,
+   :source :openstreetmap,
+   :homepage "https://cernan.vysokanadkysucou.sk/sk/pamatna-izba"}
+  {:name "Pamätná izba bojov počas Druhej svetovej vojny",
+   :longitude 19.5470244,
+   :latitude 48.8760895,
+   :source :openstreetmap}
+  {:name "Pamätná izba Dominika Tatarku",
+   :longitude 18.5002162,
+   :latitude 49.1687925,
+   :source :openstreetmap}
+  {:name "Pamätná izba Ivana Krasku",
+   :longitude 17.8367258,
+   :latitude 48.5869148,
+   :source :openstreetmap}
+  {:name "Pamätná izba Jozefa Miloslava Hurbana",
+   :longitude 17.4100482,
+   :latitude 48.6595602,
+   :source :openstreetmap,
+   :homepage
+   "https://www.zahorskemuzeum.sk/pamatna-izba-jozefa-miloslava-hurbana/",
+   :locality "Hlboké"}
+  {:name "Pamätná izba Jána Hollého",
+   :longitude 17.5362031,
+   :latitude 48.6001444,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vitajtevtrnave.sk/sk/register/pamatna-izba-jana-holleho"}
+  {:name "Pamätná izba Martina Hamuljaka",
+   :longitude 19.436242,
+   :latitude 49.388473,
+   :source :openstreetmap,
+   :homepage
+   "https://www.zilinskazupa.sk/sk/info-zurnal-zsk/aktualitky-z-odborov-uradu-zsk/tlacove-spravy-z-odboru-kultury/tlacove-spravy/oravska-jasenica-ma-vlastne-muzeum.html"}
+  {:name "Pamätná izba obce - Nový Tekov",
+   :longitude 18.5137573,
+   :latitude 48.2506657,
+   :source :openstreetmap}
+  {:name "Pamätná izba Pavla Dobšinského",
+   :longitude 20.2835735,
+   :latitude 48.7127546,
+   :source :openstreetmap,
+   :homepage "https://www.muzeum.sk/slavosovce.html"}
+  {:name "Pamätná izba Sama Chalupku",
+   :longitude 19.5455333,
+   :latitude 48.8373527,
+   :source :openstreetmap,
+   :homepage
+   "https://www.horna-lehota.sk/obec-2/zaujimavosti-v-obci/pamatna-izba-sama-chalupku/"}
+  {:name "Pamätná izba Sama Tomášika",
+   :longitude 20.2013021,
+   :latitude 48.6635612,
+   :source :openstreetmap,
+   :locality "Chyžné"}
+  {:name "Pamätná izba Vrbu a Wetzlera",
+   :longitude 18.7386063,
+   :latitude 49.2274201,
+   :source :openstreetmap,
+   :homepage
+   "https://www.tikzilina.eu/prehliadka-pamatnej-izby-vrbu-a-wetzlera/"}
+  {:name "Pamätná izba Štefana Onderča",
+   :longitude 21.0832056,
+   :latitude 49.0804758,
+   :source :openstreetmap,
+   :homepage "https://www.raznany.sk/obsah/izba-stefana-ondercu"}
+  {:name "Pamätná miestnosť Miková Warhola",
+   :longitude 21.8257816,
+   :latitude 49.2914263,
+   :source :openstreetmap,
+   :locality "Miková"}
+  {:name "Pamätná sieň Milana Rastislava Štefánika",
+   :longitude 17.2554981,
+   :latitude 48.1895964,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ivankapridunaji.sk/informacne-centrum-a-pamatna-sien-m--r--stefanika.html"}
+  {:name "Pamätník Ludwiga van Beethovena",
+   :longitude 17.5468414,
+   :latitude 48.4838931,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snm.sk/?kastiel-v-dolnej-krupej-stale-expozicie&clanok=pamatnik-ludwiga-van-beethovena"}
+  {:name "Pamätník Nemecká",
+   :longitude 19.4036337,
+   :latitude 48.8101149,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeumsnp.sk/expozicie/kulturna-pamiatka-nemecka/"}
+  {:name "Pamätný dom J.G.Tajovského",
+   :longitude 19.0690981,
+   :latitude 48.7461611,
+   :source :openstreetmap}
+  {:name "Pamätný dom Jozefa Ľ. Holubyho a Ľudovíta Riznera",
+   :longitude 17.8358121,
+   :latitude 48.8392986,
+   :source :openstreetmap,
+   :locality "Zemianske Podhradie"}
+  {:name "Pamätný dom Kálmána Mikszátha",
+   :longitude 19.3581069,
+   :latitude 48.1567736,
+   :source :openstreetmap,
+   :homepage "https://www.snm.sk/?uvodna-stranka-mikszath"}
+  {:name "Pamätný dom P. J. Šafárika",
+   :longitude 20.3715083,
+   :latitude 48.7445357,
+   :source :openstreetmap}
+  {:name "Panteón Slovenských dejateľov",
+   :longitude 18.0369301,
+   :latitude 48.3708197,
+   :source :openstreetmap}
+  {:name "Park mini Slovensko",
+   :longitude 19.6741935,
+   :latitude 49.0329039,
+   :source :openstreetmap,
+   :homepage "https://www.minislovensko.sk/"}
+  {:name "Park miniatúr",
+   :longitude 17.7709319,
+   :latitude 48.6766193,
+   :source :openstreetmap,
+   :homepage "https://www.parkminiatur.sk"}
+  {:name "Parný mlyn",
+   :longitude 17.7844497,
+   :latitude 48.1073437,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumgalanta.sk/",
+   :locality "Dolné Saliby"}
+  {:name "Petrivaldského vila",
+   :longitude 19.9533037,
+   :latitude 48.5758112,
+   :source :openstreetmap,
+   :homepage
+   "https://mesto.hnusta.sk/navstevnik/muzea-stale-expozicie/petrivaldskeho-vila-1/"}
+  {:name "PHOTOPORT – Centrum vizuálneho umenia",
+   :longitude 17.1048412,
+   :latitude 48.1568888,
+   :source :openstreetmap,
+   :homepage "http://www.photoportgallery.com/"}
+  {:name "Podjavorinské múzeum",
+   :longitude 17.8303831,
+   :latitude 48.7577526,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeumtn.sk/expozicie/podjavorinske-muzeum.html?page_id=305/"}
+  {:name "Podpolianske múzeum",
+   :longitude 19.4186428,
+   :latitude 48.5610298,
+   :source :openstreetmap,
+   :locality "Detva"}
+  {:name "Podpolianske osvetové stredisko",
+   :longitude 19.1314985,
+   :latitude 48.5777188,
+   :source :openstreetmap,
+   :homepage "https://www.osvetazvolen.sk/",
+   :locality "Zvolen"}
+  {:name "Podtatranské múzeum",
+   :longitude 20.2972391,
+   :latitude 49.0535375,
+   :source :openstreetmap}
+  {:name "Podtatranské múzeum, pobočka Spišská Sobota",
+   :longitude 20.3160469,
+   :latitude 49.065529,
+   :source :openstreetmap}
+  {:name "Podunajský remeselný dvor",
+   :longitude 17.3158388,
+   :latitude 48.085926,
+   :source :openstreetmap,
+   :homepage
+   "https://bratislavaregion.travel/poi/6602/remeselny-dvor-miloslavov"}
+  {:name "Podzemie pod vežami",
+   :longitude 19.6771386,
+   :latitude 49.0447039,
+   :source :openstreetmap,
+   :homepage "https://www.podvezami.sk/"}
+  {:name "Pohronské múzeum",
+   :longitude 18.639862,
+   :latitude 48.4238384,
+   :source :openstreetmap,
+   :homepage "https://www.pohronskemuzeum.sk/"}
+  {:name "Poliankovo",
+   :longitude 20.1856372,
+   :latitude 49.1236707,
+   :source :openstreetmap,
+   :homepage "https://www.poliankovo.sk/"}
+  {:name "Poma",
+   :longitude 21.2647471,
+   :latitude 48.7222937,
+   :source :openstreetmap}
+  {:name "Ponitrianske múzeum",
+   :longitude 18.0881342,
+   :latitude 48.3132523,
+   :source :openstreetmap,
+   :homepage "https://www.nitrianskagaleria.sk/"}
+  {:name "Považská galéria",
+   :longitude 18.7427139,
+   :latitude 49.2246087,
+   :source :openstreetmap,
+   :homepage "https://www.pgu.sk/"}
+  {:name "Považská lesná železnica",
+   :longitude 19.9406745,
+   :latitude 49.0146436,
+   :source :openstreetmap}
+  {:name "Považské múzeum",
+   :longitude 18.7349751,
+   :latitude 49.2362693,
+   :source :openstreetmap}
+  {:name "Poľnohospodárske stroje",
+   :longitude 19.1610558,
+   :latitude 49.3858424,
+   :source :openstreetmap,
+   :homepage
+   "https://www.oravskemuzeum.sk/en/exhibition/orava-forest-railway/"}
+  {:name "Praveká kniežatská mohyla",
+   :longitude 17.7580058,
+   :latitude 48.6601659,
+   :source :openstreetmap}
+  {:name "Prírodná záhradka",
+   :longitude 20.3383836,
+   :latitude 48.766716,
+   :source :openstreetmap}
+  {:name "Refinery Gallery",
+   :longitude 17.1802185,
+   :latitude 48.1274418,
+   :source :openstreetmap,
+   :homepage "https://refinerygallery.sk/",
+   :locality "Bratislava"}
+  {:name "Regionálna muzeálna expozícia Jozefa Mailátha",
+   :longitude 21.9786651,
+   :latitude 48.4214656,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kcmap.sk/regionalna-muzealna-expozicia-jozefa-mailatha"}
+  {:name "Renesančný kaštieľ",
+   :longitude 17.7332537,
+   :latitude 48.1951407,
+   :source :openstreetmap,
+   :homepage "http://www.domkulturyga.sk/page/1342/renesancny-kastiel",
+   :locality "Galanta"}
+  {:name "Rezbárska galéria v parku",
+   :longitude 17.2591403,
+   :latitude 48.0787186,
+   :source :openstreetmap}
+  {:name "Rodinné centrum Ráčik",
+   :longitude 17.1402533,
+   :latitude 48.1962112,
+   :source :openstreetmap,
+   :homepage "https://racik.sk/"}
+  {:name "Rodný dom Boženy Slančíkovej Timravy",
+   :longitude 19.4967438,
+   :latitude 48.4059209,
+   :source :openstreetmap}
+  {:name "Rodný dom Dr. Vladimíra Clementisa",
+   :longitude 19.9416087,
+   :latitude 48.6815643,
+   :source :openstreetmap}
+  {:name "Rodný dom Jozefa Kronera",
+   :longitude 18.6892854,
+   :latitude 49.4235173,
+   :source :openstreetmap,
+   :homepage "https://www.staskov.sk/sk/dom-jozefa-kronera"}
+  {:name "Rodný dom Jura Hronca",
+   :longitude 20.4177247,
+   :latitude 48.7593389,
+   :source :openstreetmap}
+  {:name "Rodný dom Jána Hollého",
+   :longitude 17.2037773,
+   :latitude 48.6280735,
+   :source :openstreetmap,
+   :homepage "https://www.zahorskemuzeum.sk/rodny-dom-jana-holleho/",
+   :locality "Borský Mikuláš"}
+  {:name "Rodný dom Martina Kukučína",
+   :longitude 19.2950148,
+   :latitude 49.1760681,
+   :source :openstreetmap,
+   :homepage
+   "https://www.oravskemuzeum.sk/expozicie/literarne-expozicie/martin-kukucin/#"}
+  {:name "Rodný dom Ľudovíta Štúra a Alexandra Dubčeka",
+   :longitude 18.3366938,
+   :latitude 48.744641,
+   :source :openstreetmap,
+   :homepage
+   "http://www.muzeumtn.sk/expozicie/rodny-dom-l.-stura-a-alexandra-dubceka.html?page_id=301"}
+  {:name "Rodný dům Samuela Štúra a muzeum Ľudovíta Holubyho",
+   :longitude 17.7360331,
+   :latitude 48.7838962,
+   :source :openstreetmap,
+   :homepage
+   "https://www.obeclubina.sk/index.php/kultura/muzeum-rodny-dom-samuela-tura"}
+  {:name "ROS Levice",
+   :longitude 18.6045541,
+   :latitude 48.2171129,
+   :source :openstreetmap}
+  {:name "Rozprávková kancelária Meseiroda",
+   :longitude 20.3442698,
+   :latitude 48.4881233,
+   :source :openstreetmap,
+   :locality "Bretka"}
+  {:name "Roľnícky dom v Martovciach",
+   :longitude 18.1327951,
+   :latitude 47.8556122,
+   :source :openstreetmap,
+   :homepage "http://www.muzeumkn.sk/index.php?cat"}
+  {:name "Rákócziho výstava",
+   :longitude 21.7057094,
+   :latitude 48.3893128,
+   :source :openstreetmap,
+   :homepage "https://www.borsikastely.eu/"}
+  {:name "Rázusovie dom",
+   :longitude 19.6190971,
+   :latitude 49.0772834,
+   :source :openstreetmap,
+   :homepage
+   "https://www.razus.sk/martin-razus/rodny-dom-martina-razusa/",
+   :locality "Liptovský Mikuláš"}
+  {:name "RÉV",
+   :longitude 18.1295111,
+   :latitude 47.7560513,
+   :source :openstreetmap,
+   :homepage "https://www.rev.sk/"}
+  {:name "Rímske Lapidárium",
+   :longitude 18.1290884,
+   :latitude 47.7772671,
+   :source :openstreetmap,
+   :homepage "http://www.muzeumkn.sk/index.php?cat=18&page=article"}
+  {:name "Samuela Timona",
+   :longitude 18.020792,
+   :latitude 48.8499321,
+   :source :openstreetmap}
+  {:name "Schaubmarov mlyn",
+   :longitude 17.2644742,
+   :latitude 48.3111729,
+   :source :openstreetmap,
+   :homepage "https://sng.sk/pezinok"}
+  {:name "Sieň bojovej slávy",
+   :longitude 21.5349598,
+   :latitude 48.7384212,
+   :source :openstreetmap,
+   :locality "Košický Klečenov"}
+  {:name "Skanzen Adam",
+   :longitude 21.6203965,
+   :latitude 48.8726072,
+   :source :openstreetmap}
+  {:name "Skanzen baníckej ľudovej architektúry",
+   :longitude 18.890481,
+   :latitude 48.4455696,
+   :source :openstreetmap}
+  {:name "Skanzen Pribylina - úzkorozchodná železnička - expozícia",
+   :longitude 19.7974317,
+   :latitude 49.1135647,
+   :source :openstreetmap}
+  {:name "Skautské múzeum Václava Rubeša v Ružomberku",
+   :longitude 19.2974642,
+   :latitude 49.0834056,
+   :source :openstreetmap,
+   :homepage "http://www.skauti-ruzomberok.sk/skautske-muzeum.html"}
+  {:name "Sklený sen",
+   :longitude 18.3930192,
+   :latitude 48.8873318,
+   :source :openstreetmap,
+   :homepage "https://www.sklenysen.sk/",
+   :locality "Valaská Belá"}
+  {:name "slachta.gallery",
+   :longitude 17.5851758,
+   :latitude 48.378563,
+   :source :openstreetmap,
+   :homepage "https://www.slachta.gallery/"}
+  {:name "Slanický ostrov umenia – Oravská galéria",
+   :longitude 19.5169371,
+   :latitude 49.4072064,
+   :source :openstreetmap,
+   :homepage
+   "http://www.oravskagaleria.sk/slanicky_ostrov_umenia.html",
+   :locality "Námestovo"}
+  {:name "Slovanské múzeum A. S. Puškina",
+   :longitude 18.3436441,
+   :latitude 48.6083194,
+   :source :openstreetmap,
+   :homepage
+   "https://www.snk.sk/sk/navstivte-nas/slovanske-muzeum-a-s-puskina.html"}
+  {:name "Slovenská národná galéria",
+   :longitude 19.1276698,
+   :latitude 48.572953,
+   :source :openstreetmap}
+  {:name "Slovenské banské múzeum",
+   :longitude 18.7561935,
+   :latitude 48.7278912,
+   :source :openstreetmap,
+   :locality "Handlová"}
+  {:name "Slovenské múzeum máp",
+   :longitude 19.1869748,
+   :latitude 48.7521828,
+   :source :openstreetmap,
+   :homepage "https://www.muzeummap.sk"}
+  {:name "Slovenské múzeum ochrany prírody a jaskyniarstva",
+   :longitude 19.617049,
+   :latitude 49.0823624,
+   :source :openstreetmap,
+   :homepage "https://www.smopaj.sk"}
+  {:name "Slovenské olympijské a športové múzeum",
+   :longitude 17.1396652,
+   :latitude 48.166967,
+   :source :openstreetmap,
+   :homepage "https://starsauditorium.sk/auditorium"}
+  {:name "Slovenské plynárenské múzeum",
+   :longitude 17.1376426,
+   :latitude 48.1433119,
+   :source :openstreetmap,
+   :homepage
+   "https://www.spp.sk/sk/vsetky-segmenty/o-spp/podporujeme/slovenske-plynarenske-muzeum/",
+   :locality "Bratislava"}
+  {:name "Slovenské poľnohospodárske múzeum",
+   :longitude 18.114768,
+   :latitude 48.30224,
+   :source :openstreetmap,
+   :homepage "http://spmnitra.sk/"}
+  {:name "Slovenské technické múzeum",
+   :longitude 21.2558415,
+   :latitude 48.7242178,
+   :source :openstreetmap,
+   :homepage "http://www.stm-ke.sk/"}
+  {:name "SNK - Literárne múzeum",
+   :longitude 18.9229296,
+   :latitude 49.0669567,
+   :source :openstreetmap,
+   :homepage "https://www.snk.sk/"}
+  {:name "Sobášny palác",
+   :longitude 18.5582926,
+   :latitude 49.2206076,
+   :source :openstreetmap,
+   :homepage "https://pmza.sk/expozicie/sobasny-palac/",
+   :locality "Bytča"}
+  {:name "Sochársky ateliér Franz Xaver Messerschmidt",
+   :longitude 17.081612,
+   :latitude 48.1911757,
+   :source :openstreetmap}
+  {:name "Spoločenské centrum",
+   :longitude 17.8481726,
+   :latitude 48.593917,
+   :source :openstreetmap}
+  {:name "Stanica konskej železnice",
+   :longitude 17.1249063,
+   :latitude 48.1560211,
+   :source :openstreetmap,
+   :locality "Bratislava"}
+  {:name "Stanica svet Martina Sabaku",
+   :longitude 19.8961116,
+   :latitude 49.0671614,
+   :source :openstreetmap}
+  {:name "Stanica Žilina-Záriečie",
+   :longitude 18.7308709,
+   :latitude 49.2182877,
+   :source :openstreetmap,
+   :homepage "https://www.stanica.sk/"}
+  {:name "Stara hyža",
+   :longitude 20.3388714,
+   :latitude 48.8715562,
+   :source :openstreetmap,
+   :homepage
+   "https://gemer.vucke.sk/trip/gemer/gemer/kultura/kulturne-dedicstvo/stara-hyza.html"}
+  {:name "Starý minoritský kláštor",
+   :longitude 20.5848899,
+   :latitude 49.0250408,
+   :source :openstreetmap,
+   :homepage
+   "https://www.spisskemuzeum.com/stredoveky-klastor-minoritov-v-levoci/"}
+  {:name "Steelpark",
+   :longitude 21.2554203,
+   :latitude 48.7137834,
+   :source :openstreetmap,
+   :homepage "https://steelpark.sk/"}
+  {:name "Stredoveká dedina Paseka",
+   :longitude 18.8614612,
+   :latitude 49.1752235,
+   :source :openstreetmap}
+  {:name "Strojové múzeum Širkovce",
+   :longitude 20.0836448,
+   :latitude 48.2916703,
+   :source :openstreetmap,
+   :homepage
+   "https://my.sme.sk/novohrad/c/farari-si-na-dvore-zriadili-strojne-muzeum"}
+  {:name "Strojovňa orloja",
+   :longitude 18.9368308,
+   :latitude 49.3460855,
+   :source :openstreetmap}
+  {:name "Stála expozícia železničného mesta Vrútky",
+   :longitude 18.9242098,
+   :latitude 49.1128729,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vrutky.sk/stala-expozicia-zeleznicneho-mesta-vrutky.html"}
+  {:name "Stála výstava dejín výpočtovej techniky na Slovensku",
+   :longitude 17.068748,
+   :latitude 48.1718113,
+   :source :openstreetmap,
+   :homepage "https://vystava.sav.sk/",
+   :locality "Bratislava"}
+  {:name "Súkromné vojenské múzeum B-S 6 Vrba",
+   :longitude 17.0811734,
+   :latitude 48.1166639,
+   :source :openstreetmap,
+   :homepage "http://www.bs6.eu"}
+  {:name "Tatranská galéria - Elektráreň",
+   :longitude 20.2978838,
+   :latitude 49.0583397,
+   :source :openstreetmap,
+   :homepage "https://www.tatragaleria.sk/",
+   :locality "Poprad"}
+  {:name "Technické moto múzeum",
+   :longitude 18.5792291,
+   :latitude 48.7141603,
+   :source :openstreetmap,
+   :locality "Nováky"}
+  {:name "Technické múzeum Košice, Hámor - Medzev",
+   :longitude 20.8859743,
+   :latitude 48.7046263,
+   :source :openstreetmap,
+   :homepage
+   "https://stm-ke.sk/sk/pobocky/hamor-v-medzeve/zakladne-informacie",
+   :locality "Medzev"}
+  {:name "Tekovské múzeum",
+   :longitude 18.6005873,
+   :latitude 48.2214082,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumlevice.sk/index.php/sk/"}
+  {:name "Thurzov Dom",
+   :longitude 19.1455954,
+   :latitude 48.7351155,
+   :source :openstreetmap,
+   :homepage "http://ssmuzeum.sk/"}
+  {:name "Tihányiovský kaštieľ",
+   :longitude 19.1370031,
+   :latitude 48.7191019,
+   :source :openstreetmap,
+   :homepage "https://ssmuzeum.sk/tihanyiovsky-kastiel/"}
+  {:name "Timravin dom",
+   :longitude 19.4314412,
+   :latitude 48.4096008,
+   :source :openstreetmap,
+   :locality "Ábelová"}
+  {:name "TK Deep",
+   :longitude 18.9250488,
+   :latitude 49.0546041,
+   :source :openstreetmap,
+   :homepage "https://www.tkdeep.sk/",
+   :locality "Martin"}
+  {:name "Trenčianske múzeum - expozícia Čachtice",
+   :longitude 17.7857804,
+   :latitude 48.7151876,
+   :source :openstreetmap}
+  {:name "TREŽ",
+   :longitude 18.1116083,
+   :latitude 48.9354937,
+   :source :openstreetmap,
+   :homepage "https://trez.sk/trez/depo-trez/"}
+  {:name "Tri Kamene Galéria",
+   :longitude 17.13245,
+   :latitude 48.1566484,
+   :source :openstreetmap}
+  {:name "Tribečské múzeum minerálov",
+   :longitude 18.2253591,
+   :latitude 48.3745633,
+   :source :openstreetmap,
+   :homepage "https://www.mineralium.sk/"}
+  {:name "Tricklandia",
+   :longitude 20.2243328,
+   :latitude 49.141335,
+   :source :openstreetmap,
+   :homepage "http://www.tricklandia.sk/"}
+  {:name "Turecký dom",
+   :longitude 17.3996305,
+   :latitude 48.22077,
+   :source :openstreetmap,
+   :homepage "http://msks-senec.sk/turecky-dom/"}
+  {:name "Turčianska galéria",
+   :longitude 18.9207096,
+   :latitude 49.0628544,
+   :source :openstreetmap,
+   :homepage "https://www.snm.sk/"}
+  {:name "Tutanchamón",
+   :longitude 17.0399515,
+   :latitude 48.2079918,
+   :source :openstreetmap}
+  {:name "Uhranské múzeum",
+   :longitude 16.836102,
+   :latitude 48.3825868,
+   :source :openstreetmap}
+  {:name "Underbridge Gallery",
+   :longitude 21.9074472,
+   :latitude 48.9331243,
+   :source :openstreetmap}
+  {:name "Valalska chiža",
+   :longitude 21.7250211,
+   :latitude 48.9046396,
+   :source :openstreetmap,
+   :locality "Sedliská"}
+  {:name "Varňa František",
+   :longitude 21.2750061,
+   :latitude 48.9785868,
+   :source :openstreetmap,
+   :homepage "https://muzeumsolivar.sk/",
+   :locality "Prešov"}
+  {:name "Vidiecky dom",
+   :longitude 21.7867641,
+   :latitude 48.3499216,
+   :source :openstreetmap,
+   :locality "Malý Kamenec"}
+  {:name "Vihorlatské múzeum",
+   :longitude 21.907486,
+   :latitude 48.9391694,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumhumenne.sk/",
+   :locality "Humenné"}
+  {:name "Vinohradnícky skanzen",
+   :longitude 17.2046395,
+   :latitude 48.2510617,
+   :source :openstreetmap}
+  {:name "Vlastivedné múzeum",
+   :longitude 17.8048064,
+   :latitude 48.4300205,
+   :source :openstreetmap}
+  {:name "Vlastivedné múzeum",
+   :longitude 18.4453272,
+   :latitude 49.1134085,
+   :source :openstreetmap}
+  {:name "Vlastivedné múzeum",
+   :longitude 18.8301721,
+   :latitude 49.3949948,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kysuckemuzeum.sk/sk/vlastivedne-muzeum-v-krasne-nad-kysucou/"}
+  {:name "Vlastivedné múzeum Galanta",
+   :longitude 17.7316801,
+   :latitude 48.1911817,
+   :source :openstreetmap,
+   :homepage "http://www.muzeum.sk/?obj=muzeum&ix=vmga",
+   :locality "Galanta"}
+  {:name "Vlastivedné múzeum Hlohovec",
+   :longitude 17.8009097,
+   :latitude 48.4321543,
+   :source :openstreetmap,
+   :homepage "http://muzeumhlohovec.sk/",
+   :locality "Hlohovec"}
+  {:name "Vlastivedný dom",
+   :longitude 17.3063925,
+   :latitude 48.0321366,
+   :source :openstreetmap,
+   :locality "Šamorín"}
+  {:name "Vodný kolový mlyn a skanzen v Jelke",
+   :longitude 17.5047746,
+   :latitude 48.1246838,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeumgalanta.sk/vystavy-a-expozicie/vysunute-expozicie/vodny-kolovy-mlyn-jelka-1/"}
+  {:name "Vodný mlyn Bohunice",
+   :longitude 18.7493843,
+   :latitude 48.3492645,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeumlevice.sk/index.php/sk/expozicie/vodny-mlyn-bohunice"}
+  {:name "Vodný mlyn Kolárovo",
+   :longitude 18.0017011,
+   :latitude 47.9205227,
+   :source :openstreetmap,
+   :homepage "https://www.vodnymlyn.sk/"}
+  {:name "Vodný mlyn Kováčová",
+   :longitude 20.6990019,
+   :latitude 48.641362,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/profile.php?id=100057448599293",
+   :locality "Kováčová"}
+  {:name "Vodárenské múzeum",
+   :longitude 17.0627652,
+   :latitude 48.1476906,
+   :source :openstreetmap,
+   :homepage "https://www.bvsas.sk/vodarenske-muzeum/",
+   :locality "Bratislava"}
+  {:name "Vojenská expozícia Michala Strenka",
+   :longitude 20.6972887,
+   :latitude 49.3161303,
+   :source :openstreetmap,
+   :homepage "https://www.noms.sk"}
+  {:name "Vojenské historické múzeum",
+   :longitude 17.8290963,
+   :latitude 48.6078869,
+   :source :openstreetmap,
+   :homepage "https://www.vhu.sk/muzejne-oddelenie-piestany/"}
+  {:name "Vojenské historické múzeum",
+   :longitude 21.7082733,
+   :latitude 49.4146851,
+   :source :openstreetmap}
+  {:name "Vojenské historické múzeum",
+   :longitude 18.647165,
+   :latitude 47.969423,
+   :source :openstreetmap,
+   :homepage "https://militarymuseum.eu/"}
+  {:name "Vojenské múzeum",
+   :longitude 17.5750763,
+   :latitude 48.0598954,
+   :source :openstreetmap,
+   :homepage "https://slovakiaring.sk/sk/military-museum"}
+  {:name "Vojenské múzeum",
+   :longitude 21.5658854,
+   :latitude 49.3078917,
+   :source :openstreetmap,
+   :homepage "https://www.vhu.sk/muzejne-oddelenie-svidnik/",
+   :locality "Svidník"}
+  {:name "Vrakuňa v čase - stála expozícia farského múzea",
+   :longitude 17.2075498,
+   :latitude 48.1472212,
+   :source :openstreetmap,
+   :locality "Bratislava"}
+  {:name "Vrbovčianska izba",
+   :longitude 17.4696762,
+   :latitude 48.7984506,
+   :source :openstreetmap,
+   :homepage "https://www.vrbovce.sk/p/3793/vrbovcianska-izba.html",
+   :locality "Vrbovce"}
+  {:name "Vtedy",
+   :longitude 18.6083332,
+   :latitude 48.7762254,
+   :source :openstreetmap,
+   :homepage "https://muzeumvtedy.sk/"}
+  {:name "Vtáčí raj",
+   :longitude 19.2640585,
+   :latitude 49.1345991,
+   :source :openstreetmap}
+  {:name "Východoslovenské múzeum",
+   :longitude 21.2545752,
+   :latitude 48.727315,
+   :source :openstreetmap,
+   :homepage "https://www.vsmuzeum.sk/"}
+  {:name "Výstava historických traktorov",
+   :longitude 19.2304143,
+   :latitude 49.1080233,
+   :source :openstreetmap}
+  {:name "Výstava motocyklov",
+   :longitude 21.9156463,
+   :latitude 48.5613525,
+   :source :openstreetmap}
+  {:name "Výstava oznamovacej a zabezpečovacej techniky",
+   :longitude 19.1201136,
+   :latitude 48.5699973,
+   :source :openstreetmap}
+  {:name "Výstavná sieň v Napoleonských kúpeľoch",
+   :longitude 17.8436428,
+   :latitude 48.587004,
+   :source :openstreetmap}
+  {:name "Výstavný pavilón",
+   :longitude 16.9795625,
+   :latitude 48.1739708,
+   :source :openstreetmap}
+  {:name "Výstavný pavilón Podhradie",
+   :longitude 17.0971551,
+   :latitude 48.1405966,
+   :source :openstreetmap,
+   :homepage "https://www.snm.sk/"}
+  {:name "Včelárska paseka",
+   :longitude 17.5122047,
+   :latitude 48.1992015,
+   :source :openstreetmap,
+   :homepage "https://www.vcelarskapaseka.sk/",
+   :locality "Kráľová pri Senci"}
+  {:name "Včelársky skanzen",
+   :longitude 18.5244673,
+   :latitude 49.0152803,
+   :source :openstreetmap}
+  {:name "Wave - Centrum nezávislej kultúry",
+   :longitude 21.2234335,
+   :latitude 49.0067623,
+   :source :openstreetmap,
+   :homepage "https://www.wave.sk"}
+  {:name "Zemplínske múzeum",
+   :longitude 21.9247177,
+   :latitude 48.7578463,
+   :source :openstreetmap,
+   :homepage "https://www.zemplinskemuzeum.sk/"}
+  {:name "Zrnko",
+   :longitude 17.8211021,
+   :latitude 48.5972381,
+   :source :openstreetmap}
+  {:name "Záhorske múzeum",
+   :longitude 17.2298426,
+   :latitude 48.8462489,
+   :source :openstreetmap}
+  {:name "Záhorská galéria Jána Mudrocha",
+   :longitude 17.3689059,
+   :latitude 48.6835792,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muzeum.sk/zahorska-galeria-jana-mudrocha-v-senici.html"}
+  {:name "Záhorský ľudový dom 1890",
+   :longitude 17.0340258,
+   :latitude 48.5427959,
+   :source :openstreetmap,
+   :homepage "https://www.dom1890.sk/",
+   :locality "Závod"}
+  {:name "Západoslovenské múzeum",
+   :longitude 17.5931121,
+   :latitude 48.3754991,
+   :source :openstreetmap,
+   :locality "Trnava"}
+  {:name "Átrium Klub",
+   :longitude 21.2374031,
+   :latitude 48.7188951,
+   :source :openstreetmap,
+   :locality "Košice"}
+  {:name "Údolie smrti",
+   :longitude 21.5938854,
+   :latitude 49.3617605,
+   :source :openstreetmap}
+  {:name "Červený kláštor",
+   :longitude 20.417217,
+   :latitude 49.398666,
+   :source :openstreetmap,
+   :homepage "http://www.muzeumcervenyklastor.sk/klastor/"}
+  {:name "Človek a život",
+   :longitude 21.6864843,
+   :latitude 48.8905796,
+   :source :openstreetmap}
+  {:name "Ľud pod Marhátom v dávnej minulosti",
+   :longitude 17.9705363,
+   :latitude 48.5546944,
+   :source :openstreetmap,
+   :homepage "https://nitrianskablatnica.sk/muzeum/"}
+  {:name "Ľudové múzeum",
+   :longitude 20.8536519,
+   :latitude 49.0726864,
+   :source :openstreetmap}
+  {:name "Ľudové múzeum",
+   :longitude 18.9274627,
+   :latitude 48.4970867,
+   :source :openstreetmap,
+   :locality "Podhorie"}
+  {:name "Ľudový dom",
+   :longitude 20.4185569,
+   :latitude 48.5332502,
+   :source :openstreetmap,
+   :homepage
+   "https://www.slovensky-kras.eu/info/kam-za-pamiatkami/narodna-kulturna-pamiatka-murovany-rolnicky-dom-v-ardove/"}
+  {:name "Ľudový dom",
+   :longitude 17.7120889,
+   :latitude 47.9324989,
+   :source :openstreetmap,
+   :locality "Dolný Štál"}
+  {:name "Ľudový dom",
+   :longitude 18.5606247,
+   :latitude 48.2960378,
+   :source :openstreetmap,
+   :locality "Rybník"}
+  {:name "Šachta Leopold a Gápeľ",
+   :longitude 21.2786867,
+   :latitude 48.9768233,
+   :source :openstreetmap,
+   :homepage
+   "https://muzeumsolivar.sk/;https://www.severovychod.sk/vylet/gapel-v-presove",
+   :locality "Prešov"}
+  {:name "Šarišské múzeum",
+   :longitude 21.2763333,
+   :latitude 49.2925675,
+   :source :openstreetmap,
+   :homepage "https://www.muzeumbardejov.sk/"}
+  {:name "Škoda Classic Cars",
+   :longitude 18.0457324,
+   :latitude 48.8962025,
+   :source :openstreetmap,
+   :homepage "https://skodaclassiccars.sk/",
+   :locality "Trenčín"}
+  {:name "Šrot park",
+   :longitude 16.9708917,
+   :latitude 48.214799,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/galeria.srotpark"}
+  {:name "Štrbská drevenica",
+   :longitude 20.0810784,
+   :latitude 49.0532679,
+   :source :openstreetmap,
+   :homepage
+   "https://www.strba.sk/ine/tipy-na-vylety/strbska-drevenica/"}
+  {:name "Ždiarsky dom",
+   :longitude 20.2647794,
+   :latitude 49.2706288,
+   :source :openstreetmap,
+   :homepage "https://www.gorali.zdiar.eu/",
+   :locality "Ždiar"}
+  {:name "Železničné múzeum",
+   :longitude 18.9469908,
+   :latitude 49.1060315,
+   :source :openstreetmap,
+   :homepage "https://kzmvrutky.eu/expozicia-sim/"}
+  {:name "Železničné múzeum",
+   :longitude 17.1606664,
+   :latitude 48.1995158,
+   :source :openstreetmap,
+   :homepage "https://www.zeleznicnemuzeum.sk/"}
+  {:name "Železničné múzeum Lubeník",
+   :longitude 20.1952281,
+   :latitude 48.6530984,
+   :source :openstreetmap}
+  {:name "Železničné múzeum OZ Zubačka",
+   :longitude 19.9357686,
+   :latitude 48.6910238,
+   :source :openstreetmap}
+  {:name "Železničné múzeum Stará Turá",
+   :longitude 17.7001009,
+   :latitude 48.7730126,
+   :source :openstreetmap,
+   :homepage "https://zmst.webnode.sk/"}
+  {:name "Železničný domček",
+   :longitude 19.5864715,
+   :latitude 48.3506869,
+   :source :openstreetmap,
+   :homepage
+   "https://www.halic.sk/obec-1/o-obci/pamiatky/strazny-domcek-611sk.html",
+   :locality "Halič"}
+  {:name "Židovská škola Levice",
+   :longitude 18.6039165,
+   :latitude 48.2210083,
+   :source :openstreetmap,
+   :homepage "https://zidovskaskolalevice.sk/"}
+  {:name "Židovské suburbium",
+   :longitude 21.2685002,
+   :latitude 49.2939623,
+   :source :openstreetmap}
+  {:name "Žitnoostrovské múzeum",
+   :longitude 17.6217203,
+   :latitude 47.9942701,
+   :source :openstreetmap,
+   :homepage "https://zmds.eu/"}
+  {:name "Župný dom",
+   :longitude 18.3252408,
+   :latitude 49.1198131,
+   :source :openstreetmap,
+   :homepage "http://www.zupnydom.sk/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

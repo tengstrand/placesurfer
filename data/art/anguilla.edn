@@ -1,0 +1,30 @@
+{:count 3,
+ :country "anguilla",
+ :country-code "AI",
+ :dataset :art,
+ :generated-at "2026-05-26T06:00:49.253173Z",
+ :positions
+ [{:name "Carnival Village",
+   :longitude -63.0562337,
+   :latitude 18.215639,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Heritage Collection Museum",
+   :longitude -62.996783,
+   :latitude 18.2361585,
+   :source :openstreetmap,
+   :locality "East End",
+   :image "",
+   :description ""}
+  {:name "Lynne Bernbaum Art Gallery",
+   :longitude -63.0895858,
+   :latitude 18.1995982,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

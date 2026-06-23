@@ -1,0 +1,76 @@
+{:count 10,
+ :country "bahamas",
+ :country-code "BS",
+ :dataset :art,
+ :generated-at "2026-05-26T06:02:56.052166Z",
+ :positions
+ [{:name "Cetacean Museum",
+   :longitude -76.9569849,
+   :latitude 26.5369882,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Doongalik Studios Art Gallery",
+   :longitude -77.3096695,
+   :latitude 25.0675806,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Erickson Museum",
+   :longitude -73.6771274,
+   :latitude 20.9514406,
+   :source :openstreetmap,
+   :homepage
+   "https://www.travelmuse.com/pois/BS/attractions/erickson-museum-and-library",
+   :locality "Matthew Town",
+   :image "",
+   :description ""}
+  {:name "Heritage Museum",
+   :longitude -77.3465569,
+   :latitude 25.0766177,
+   :source :openstreetmap,
+   :homepage "https://nagb.org.bs/",
+   :image "",
+   :description ""}
+  {:name "Heritage Museum",
+   :longitude -77.0054547,
+   :latitude 26.5962725,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Island Diva",
+   :longitude -78.6426,
+   :latitude 26.5124681,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Mosaic",
+   :longitude -78.6812971,
+   :latitude 26.5170298,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Museum of Junkanoo",
+   :longitude -77.3404841,
+   :latitude 25.0789966,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "popop studios",
+   :longitude -77.3598728,
+   :latitude 25.0731558,
+   :source :openstreetmap,
+   :homepage "https://www.popopstudios.com/",
+   :image "",
+   :description ""}
+  {:name "Wenshua Art Gallary",
+   :longitude -75.7923208,
+   :latitude 23.5251875,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

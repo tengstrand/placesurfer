@@ -1,0 +1,475 @@
+{:count 107,
+ :country "iraq",
+ :country-code "IQ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:15:02.337121Z",
+ :positions
+ [{:name "@بلدية الكحلاء… .nasser",
+   :longitude 47.2887295,
+   :latitude 31.6726746,
+   :source :openstreetmap}
+  {:name "Duhok Gallery for Plastic Arts",
+   :longitude 42.9967518,
+   :latitude 36.8642955,
+   :source :openstreetmap,
+   :locality "دهۆک"}
+  {:name "HaMo Artist",
+   :longitude 44.0543226,
+   :latitude 36.1863544,
+   :source :openstreetmap,
+   :homepage
+   "https://www.instagram.com/hamo__artist?igsh=dzFiN3JwOGFnem5h&utm_source=qr",
+   :locality "أربيل"}
+  {:name "Ibn Khalakan Museum",
+   :longitude 44.0106966,
+   :latitude 36.1868622,
+   :source :openstreetmap,
+   :locality "أربيل"}
+  {:name "ILLUSION MUSEUM DUHOK",
+   :longitude 42.9999046,
+   :latitude 36.8672752,
+   :source :openstreetmap,
+   :locality "دهۆک"}
+  {:name "Luqman's creations",
+   :longitude 42.9711555,
+   :latitude 36.8687978,
+   :source :openstreetmap,
+   :locality "دهۆک"}
+  {:name "Minaret Gallery",
+   :longitude 43.9999748,
+   :latitude 36.1876076,
+   :source :openstreetmap,
+   :locality "أربيل"}
+  {:name "Mozaxana",
+   :longitude 44.6574088,
+   :latitude 36.0921442,
+   :source :openstreetmap}
+  {:name "Qachakh culture museum",
+   :longitude 42.9888357,
+   :latitude 36.8731024,
+   :source :openstreetmap}
+  {:name "Shanidar Gallery",
+   :longitude 44.0021687,
+   :latitude 36.1829624,
+   :source :openstreetmap}
+  {:name "Sheikh Hasani Gala Zarda Mosque",
+   :longitude 45.4474097,
+   :latitude 35.546267,
+   :source :openstreetmap}
+  {:name "Zakho Musem",
+   :longitude 42.6961158,
+   :latitude 37.1369031,
+   :source :openstreetmap}
+  {:name "آل حنتوش",
+   :longitude 43.9876364,
+   :latitude 33.292419,
+   :source :openstreetmap}
+  {:name "اثار الصاجعة",
+   :longitude 42.4852883,
+   :latitude 36.4866599,
+   :source :openstreetmap}
+  {:name "ال حمد",
+   :longitude 45.2480331,
+   :latitude 31.3840138,
+   :source :openstreetmap}
+  {:name "الجوهرة للتسوق المنزلي (متجر سلع منزلية )",
+   :longitude 45.2677407,
+   :latitude 31.3133534,
+   :source :openstreetmap}
+  {:name "المتحف البغدادي",
+   :longitude 44.3895903,
+   :latitude 33.3401277,
+   :source :openstreetmap}
+  {:name "المتحف التربوي",
+   :longitude 44.3845756,
+   :latitude 33.3541283,
+   :source :openstreetmap}
+  {:name "المتحف الجيولوجي العراقي",
+   :longitude 44.4278727,
+   :latitude 33.3197135,
+   :source :openstreetmap,
+   :homepage "http://geosurviraq.iq/pages?id=50"}
+  {:name "المتحف الحياوي",
+   :longitude 46.0440725,
+   :latitude 32.1707058,
+   :source :openstreetmap,
+   :locality "كوت الحي"}
+  {:name "المتحف الوطني العراقي",
+   :longitude 44.3849937,
+   :latitude 33.3281672,
+   :source :openstreetmap,
+   :homepage "https://www.theiraqmuseum.com/"}
+  {:name "المتحف الوطني للفن الحديث",
+   :longitude 44.4114327,
+   :latitude 33.3306494,
+   :source :openstreetmap}
+  {:name "المركز العالمي للثقافة والفنون",
+   :longitude 44.018326,
+   :latitude 32.609284,
+   :source :openstreetmap}
+  {:name "ام القرى",
+   :longitude 44.2962568,
+   :latitude 33.3378368,
+   :source :openstreetmap}
+  {:name "اوقاف",
+   :longitude 42.6750583,
+   :latitude 37.149604,
+   :source :openstreetmap}
+  {:name "بستان محمد وائل",
+   :longitude 44.0155093,
+   :latitude 32.6457405,
+   :source :openstreetmap}
+  {:name "بيت التراث البصري",
+   :longitude 47.8166351,
+   :latitude 30.5017276,
+   :source :openstreetmap,
+   :locality "البصرة"}
+  {:name "بيت الغناء الريفي ذي قار",
+   :longitude 46.2465481,
+   :latitude 31.0421116,
+   :source :openstreetmap,
+   :locality "الناصرية"}
+  {:name "بيت المقام العراقي ديالى",
+   :longitude 44.6217343,
+   :latitude 33.7447259,
+   :source :openstreetmap,
+   :locality "بعقوبة"}
+  {:name "بيت المقام العراقي كركوك",
+   :longitude 44.3882645,
+   :latitude 35.4711453,
+   :source :openstreetmap,
+   :locality "كركوك"}
+  {:name "تەلاری هونەر",
+   :longitude 45.3911667,
+   :latitude 35.5705772,
+   :source :openstreetmap,
+   :locality "سلێمانی"}
+  {:name "جامع",
+   :longitude 45.2946046,
+   :latitude 32.7552364,
+   :source :openstreetmap}
+  {:name "جامع",
+   :longitude 45.814821,
+   :latitude 32.5194976,
+   :source :openstreetmap}
+  {:name "جامع ابو بكر الصديق",
+   :longitude 44.7543959,
+   :latitude 33.0038889,
+   :source :openstreetmap}
+  {:name "جامع اسراء والمعراج",
+   :longitude 44.0551517,
+   :latitude 36.1494001,
+   :source :openstreetmap}
+  {:name "جامع الامام المهدي ع",
+   :longitude 44.1408508,
+   :latitude 34.0115418,
+   :source :openstreetmap}
+  {:name "جامع جبله",
+   :longitude 44.6141987,
+   :latitude 32.7551632,
+   :source :openstreetmap}
+  {:name "جامع كوردستان",
+   :longitude 44.1309004,
+   :latitude 35.7596646,
+   :source :openstreetmap}
+  {:name "دائرة الثقافة والفنون",
+   :longitude 44.3846109,
+   :latitude 33.3625154,
+   :source :openstreetmap}
+  {:name "دائرة الفنون الموسيقيه",
+   :longitude 44.3779435,
+   :latitude 33.3631228,
+   :source :openstreetmap,
+   :locality "بغداد"}
+  {:name "دار الثقافة والفنون",
+   :longitude 44.0224838,
+   :latitude 32.6036909,
+   :source :openstreetmap}
+  {:name "دیوەخانی بەحرکە ئاخا",
+   :longitude 44.0402146,
+   :latitude 36.3204744,
+   :source :openstreetmap}
+  {:name "راديو ده نگی اسلام (رادیو صوت الاسلام)",
+   :longitude 44.028711,
+   :latitude 36.1838322,
+   :source :openstreetmap}
+  {:name "سوبر ماركت علي",
+   :longitude 44.4303339,
+   :latitude 32.4615966,
+   :source :openstreetmap}
+  {:name "سەرای کفری",
+   :longitude 44.963049,
+   :latitude 34.696539,
+   :source :openstreetmap}
+  {:name "شهيد مغديد هركي",
+   :longitude 43.770531,
+   :latitude 36.6783988,
+   :source :openstreetmap}
+  {:name "قاعة الفنانين التشكيليين",
+   :longitude 44.3682392,
+   :latitude 33.3168701,
+   :source :openstreetmap}
+  {:name "قصر الثقافة",
+   :longitude 44.3621292,
+   :latitude 32.0397299,
+   :source :openstreetmap}
+  {:name "قصر الرئيس صدام حسين",
+   :longitude 43.6931596,
+   :latitude 34.6026669,
+   :source :openstreetmap}
+  {:name "قصر صلاح الدين",
+   :longitude 43.6892315,
+   :latitude 34.605026,
+   :source :openstreetmap}
+  {:name "قصر عدنان",
+   :longitude 44.3784208,
+   :latitude 33.3045581,
+   :source :openstreetmap}
+  {:name "م.شعلان ساهي",
+   :longitude 44.9839111,
+   :latitude 31.7234758,
+   :source :openstreetmap}
+  {:name "مؤسسة تراث الموصل",
+   :longitude 43.1247529,
+   :latitude 36.3528861,
+   :source :openstreetmap,
+   :homepage "http://mosulhertage.org"}
+  {:name "متح",
+   :longitude 43.997641,
+   :latitude 36.2176674,
+   :source :openstreetmap,
+   :locality "هەولێر"}
+  {:name "متحف الأسلاف",
+   :longitude 43.3786067,
+   :latitude 36.2673788,
+   :source :openstreetmap}
+  {:name "متحف الامام الحسين",
+   :longitude 44.0319299,
+   :latitude 32.6159843,
+   :source :openstreetmap}
+  {:name "متحف البصرة الحضاري",
+   :longitude 47.8609538,
+   :latitude 30.4973688,
+   :source :openstreetmap,
+   :locality "العشار"}
+  {:name "متحف التاريخ الطبيعي",
+   :longitude 43.1424925,
+   :latitude 36.3741991,
+   :source :openstreetmap}
+  {:name "متحف التاريخ الطبيعي",
+   :longitude 44.3928597,
+   :latitude 33.3547813,
+   :source :openstreetmap,
+   :homepage "https://nhm.uobaghdad.edu.iq/",
+   :locality "Baghdad"}
+  {:name "متحف التاريخ الطبيعي في البصرة",
+   :longitude 47.8583185,
+   :latitude 30.500371,
+   :source :openstreetmap}
+  {:name "متحف التراث الموصلي",
+   :longitude 43.1251617,
+   :latitude 36.3430684,
+   :source :openstreetmap}
+  {:name "متحف الجواهري",
+   :longitude 44.3555487,
+   :latitude 33.2977823,
+   :source :openstreetmap}
+  {:name "متحف الحلة المعاصر",
+   :longitude 44.4385295,
+   :latitude 32.4837636,
+   :source :openstreetmap}
+  {:name "متحف الديوانية",
+   :longitude 44.9108793,
+   :latitude 31.9969889,
+   :source :openstreetmap}
+  {:name "متحف الطيران الحربي العراقي",
+   :longitude 44.3882489,
+   :latitude 33.3110828,
+   :source :openstreetmap}
+  {:name "متحف الموصل",
+   :longitude 43.1392446,
+   :latitude 36.3377594,
+   :source :openstreetmap}
+  {:name "متحف النجف الأشرف",
+   :longitude 44.3093951,
+   :latitude 31.9947961,
+   :source :openstreetmap}
+  {:name "متحف النفائس والمخطوطات",
+   :longitude 44.0362904,
+   :latitude 32.6135786,
+   :source :openstreetmap}
+  {:name "متحف جامعة واسط",
+   :longitude 45.8389523,
+   :latitude 32.5013053,
+   :source :openstreetmap}
+  {:name "متحف خان الشيلان",
+   :longitude 44.3197596,
+   :latitude 31.9946196,
+   :source :openstreetmap}
+  {:name "متحف خان ضاري",
+   :longitude 44.0583847,
+   :latitude 33.2986954,
+   :source :openstreetmap}
+  {:name "متحف ذاكرة الاسلام",
+   :longitude 44.0420089,
+   :latitude 32.6224902,
+   :source :openstreetmap}
+  {:name "متحف سامراء",
+   :longitude 43.8764546,
+   :latitude 34.1992067,
+   :source :openstreetmap}
+  {:name "متحف صلاح حيثاني",
+   :longitude 44.0002976,
+   :latitude 32.6194412,
+   :source :openstreetmap}
+  {:name "متحف طائرات الهليكوبتر",
+   :longitude 44.3829641,
+   :latitude 33.3181563,
+   :source :openstreetmap}
+  {:name "متحف عبد الكريم قاسم",
+   :longitude 44.4048227,
+   :latitude 33.3279332,
+   :source :openstreetmap}
+  {:name "مدينة البصرة الضوئية",
+   :longitude 47.7661872,
+   :latitude 30.4459958,
+   :source :openstreetmap,
+   :locality "البصرة"}
+  {:name "مدينة الفن",
+   :longitude 44.384491,
+   :latitude 33.3594019,
+   :source :openstreetmap}
+  {:name "مزگەوتی حاجی خورشیدە",
+   :longitude 45.8637063,
+   :latitude 35.3473617,
+   :source :openstreetmap}
+  {:name "مزگەوتی رووناكی",
+   :longitude 44.2252968,
+   :latitude 36.3945283,
+   :source :openstreetmap}
+  {:name "مسجد المصطفى",
+   :longitude 46.2452376,
+   :latitude 31.0823605,
+   :source :openstreetmap}
+  {:name "مسجيد حسين ماوه تى",
+   :longitude 45.3911579,
+   :latitude 35.3083014,
+   :source :openstreetmap}
+  {:name "مسرح متنزة الناصرية",
+   :longitude 46.2344499,
+   :latitude 31.0473099,
+   :source :openstreetmap}
+  {:name "معرض 30×30",
+   :longitude 47.8280161,
+   :latitude 30.5076466,
+   :source :openstreetmap}
+  {:name "معرض ايدول",
+   :longitude 45.2775881,
+   :latitude 31.318517,
+   :source :openstreetmap}
+  {:name "معرض تاج الأمير",
+   :longitude 45.2699569,
+   :latitude 31.3178278,
+   :source :openstreetmap}
+  {:name "مفتشية اثار ذي قار",
+   :longitude 46.2374833,
+   :latitude 31.0469488,
+   :source :openstreetmap}
+  {:name "مقبرة العلم",
+   :longitude 43.6974578,
+   :latitude 34.7139245,
+   :source :openstreetmap}
+  {:name "مكتبة آشور بانيبال",
+   :longitude 43.1522495,
+   :latitude 36.3573506,
+   :source :openstreetmap}
+  {:name "منارة سنجار القديمة",
+   :longitude 41.8539632,
+   :latitude 36.3240532,
+   :source :openstreetmap}
+  {:name "منتدى المسرح",
+   :longitude 44.4008475,
+   :latitude 33.3306766,
+   :source :openstreetmap}
+  {:name "منطقة الطاقة(حي الطاقة)",
+   :longitude 43.966548,
+   :latitude 32.6360789,
+   :source :openstreetmap}
+  {:name "منطقة عشائر حمير",
+   :longitude 44.488672,
+   :latitude 32.4990103,
+   :source :openstreetmap}
+  {:name "مۆزەخانە",
+   :longitude 45.3577365,
+   :latitude 35.5761879,
+   :source :openstreetmap,
+   :locality "سلێمانی"}
+  {:name "مۆزەخانەی ئەمنە سوورەکە",
+   :longitude 45.4254457,
+   :latitude 35.5621857,
+   :source :openstreetmap,
+   :locality "سلێمانی"}
+  {:name "مۆزەخانەی جلوبەرگی ڕەسەنی کوردی",
+   :longitude 44.0100212,
+   :latitude 36.1916766,
+   :source :openstreetmap,
+   :homepage "http://kurdishtextilemuseum.com/",
+   :locality "أربيل"}
+  {:name "مۆزەخانەی سلێمانی",
+   :longitude 45.4257152,
+   :latitude 35.5574215,
+   :source :openstreetmap,
+   :homepage "https://slemanimuseum.org/",
+   :locality "Sulaymaniyah"}
+  {:name "مۆزەخانەی شارستانی هەولێر",
+   :longitude 44.0134996,
+   :latitude 36.1773437,
+   :source :openstreetmap,
+   :locality "أربيل"}
+  {:name "مۆزەخانەی مۆم",
+   :longitude 45.4695653,
+   :latitude 35.5822414,
+   :source :openstreetmap}
+  {:name "مۆزەخانەی کەلەپووری سریانی",
+   :longitude 43.9889889,
+   :latitude 36.2343556,
+   :source :openstreetmap,
+   :locality "أربيل"}
+  {:name "نووسینگەی گواستنەوەی باکووری هەولێر",
+   :longitude 44.0462554,
+   :latitude 36.2113611,
+   :source :openstreetmap,
+   :locality "أربيل"}
+  {:name "هيبار",
+   :longitude 42.6725811,
+   :latitude 37.1444871,
+   :source :openstreetmap}
+  {:name "ورشة فن",
+   :longitude 44.3565152,
+   :latitude 33.2793659,
+   :source :openstreetmap}
+  {:name "وزارة الثقافة لحكومة اقليم كوردستان(وه زاره تى روشنبيرى)",
+   :longitude 44.0277452,
+   :latitude 36.1927137,
+   :source :openstreetmap}
+  {:name "پەیمانگای عێراقی بۆ پاراستنی شوێنەوار و کەلتور",
+   :longitude 44.0133696,
+   :latitude 36.1932234,
+   :source :openstreetmap,
+   :homepage "https://iraqi-institute.business.site/",
+   :locality "أربيل"}
+  {:name "گوندی ماجید",
+   :longitude 43.6725527,
+   :latitude 35.9348128,
+   :source :openstreetmap}
+  {:name "گەلەری زاموا",
+   :longitude 45.4414962,
+   :latitude 35.5558235,
+   :source :openstreetmap,
+   :homepage "https://zamwagallery.business.site",
+   :locality "سلێمانی"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

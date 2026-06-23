@@ -1,0 +1,40 @@
+{:count 2,
+ :country "india",
+ :country-code "IN",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:14:01.651187Z",
+ :positions
+ [{:description "",
+   :locality "Hisar",
+   :homepage "https://discgolfmetrix.com/course/33563",
+   :name "Ajay",
+   :longitude 5.9521665155012045,
+   :source :discgolfmetrix,
+   :latitude 21.76021145761655,
+   :image "",
+   :action :deleted}
+  {:name "ashok mali",
+   :longitude 76.40942138537758,
+   :latitude 19.172676359916437,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/22274",
+   :locality "Pathri",
+   :image "",
+   :description ""}
+  {:name "RAJENDER KUMAR SAINI",
+   :longitude 75.61434591571606,
+   :latitude 25.425694535719245,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/18123",
+   :locality "Bundi Sub-District",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

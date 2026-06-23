@@ -1,0 +1,40 @@
+{:count 7,
+ :country "grenada",
+ :country-code "GD",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:19.609240Z",
+ :positions
+ [{:name "Belmont Estate",
+   :longitude -61.6269269,
+   :latitude 12.1745671,
+   :source :openstreetmap}
+  {:name "Carriacou Museum",
+   :longitude -61.4574993,
+   :latitude 12.4832204,
+   :source :openstreetmap}
+  {:name "Grand Etang Forest Museum",
+   :longitude -61.6940685,
+   :latitude 12.0939652,
+   :source :openstreetmap}
+  {:name "Grenada Chocolate Factory",
+   :longitude -61.6380869,
+   :latitude 12.1754446,
+   :source :openstreetmap}
+  {:name "Grenada National Museum",
+   :longitude -61.7526227,
+   :latitude 12.050575,
+   :source :openstreetmap}
+  {:name "Spice Basket",
+   :longitude -61.7300491,
+   :latitude 12.0742634,
+   :source :openstreetmap,
+   :homepage "spicebasketgrenada.com"}
+  {:name "Westerhall Rum Estate",
+   :longitude -61.7036926,
+   :latitude 12.0191259,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

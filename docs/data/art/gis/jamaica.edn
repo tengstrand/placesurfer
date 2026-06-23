@@ -1,0 +1,100 @@
+{:count 21,
+ :country "jamaica",
+ :country-code "JM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:17:40.588340Z",
+ :positions
+ [{:name "Alfred's Ocean Place Stage",
+   :longitude -78.3397811,
+   :latitude 18.292553,
+   :source :openstreetmap}
+  {:name "Bob Marley Mausoleum",
+   :longitude -77.2782774,
+   :latitude 18.2976479,
+   :source :openstreetmap}
+  {:name "Bob Marley museum",
+   :longitude -76.7797644,
+   :latitude 18.0198223,
+   :source :openstreetmap,
+   :homepage "https://www.bobmarleymuseum.com/",
+   :locality "Kingston"}
+  {:name "Charles Town Museum and Safu (Asafu) Yard",
+   :longitude -76.6714341,
+   :latitude 18.2133818,
+   :source :openstreetmap}
+  {:name "Firefly Estate, Noel Coward's House",
+   :longitude -76.9001798,
+   :latitude 18.3922479,
+   :source :openstreetmap}
+  {:name "Flagstaff Heritage Center",
+   :longitude -77.7792137,
+   :latitude 18.3412793,
+   :source :openstreetmap}
+  {:name "German Town Imigration Museum",
+   :longitude -77.9086272,
+   :latitude 18.2528144,
+   :source :openstreetmap}
+  {:name "Hanover Museum",
+   :longitude -78.1701389,
+   :latitude 18.4526128,
+   :source :openstreetmap}
+  {:name "Harmony Hall",
+   :longitude -77.0462106,
+   :latitude 18.4220756,
+   :source :openstreetmap,
+   :locality "Ocho Rios"}
+  {:name "Institute of Jamaica Museum",
+   :longitude -77.9233707,
+   :latitude 18.4735888,
+   :source :openstreetmap}
+  {:name "Liberty Hall, Marcus Garvey Museum",
+   :longitude -76.7922025,
+   :latitude 17.973234,
+   :source :openstreetmap}
+  {:name "Money Museum",
+   :longitude -76.7908448,
+   :latitude 17.9645017,
+   :source :openstreetmap}
+  {:name "National Gallery of Jamaica",
+   :longitude -76.7946857,
+   :latitude 17.9647847,
+   :source :openstreetmap}
+  {:name "Natural History Museum",
+   :longitude -77.7931072,
+   :latitude 17.9004414,
+   :source :openstreetmap}
+  {:name "People's Museum of Craft & Technology",
+   :longitude -76.9548052,
+   :latitude 17.9956453,
+   :source :openstreetmap,
+   :locality "Spanish Town"}
+  {:name "Peter tosh museum",
+   :longitude -76.7893495,
+   :latitude 18.0114992,
+   :source :openstreetmap}
+  {:name "Scott's Hall Maroon Museum",
+   :longitude -76.8347955,
+   :latitude 18.1840123,
+   :source :openstreetmap}
+  {:name "Taino Hut (1965)",
+   :longitude -76.9109414,
+   :latitude 17.9977143,
+   :source :openstreetmap}
+  {:name "The Maidstone Museum",
+   :longitude -77.5857458,
+   :latitude 18.1107305,
+   :source :openstreetmap}
+  {:name "The Mud Palace Gallery",
+   :longitude -77.7576076,
+   :latitude 17.8750505,
+   :source :openstreetmap,
+   :homepage "https://www.sharonmartini.com/"}
+  {:name "Trench Town Culture Yard Museum",
+   :longitude -76.8053878,
+   :latitude 17.9817148,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,53 @@
+{:count 9,
+ :country "virgin-islands",
+ :country-code "VI",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:51.761441Z",
+ :positions
+ [{:name "Alexander Hamilton House Museum",
+   :longitude -64.704031,
+   :latitude 17.7463619,
+   :source :openstreetmap,
+   :homepage
+   "https://www.stcroixlandmarks.org/preservation/apothecary-hall-museum/"}
+  {:name "Benjamin House Museum",
+   :longitude -64.8815352,
+   :latitude 17.7102525,
+   :source :openstreetmap}
+  {:name "Cinnamon Bay Museum",
+   :longitude -64.7540262,
+   :latitude 18.3513426,
+   :source :openstreetmap}
+  {:name "Estate Whim Plantation Museum",
+   :longitude -64.8613848,
+   :latitude 17.6999959,
+   :source :openstreetmap,
+   :homepage
+   "https://stcroixlandmarks.org/preservation/estate-whim-museum"}
+  {:name "Reichhold Center for the Arts",
+   :longitude -64.9737985,
+   :latitude 18.3450078,
+   :source :openstreetmap,
+   :homepage "https://www.uvi.edu/reichhold/"}
+  {:name "Saint Croix Aquarium",
+   :longitude -64.7095554,
+   :latitude 17.7467041,
+   :source :openstreetmap}
+  {:name "Saint Croix Aquarium and Marine Education Center",
+   :longitude -64.8840352,
+   :latitude 17.7152523,
+   :source :openstreetmap}
+  {:name "Seven Arches Museum",
+   :longitude -64.9287562,
+   :latitude 18.343567,
+   :source :openstreetmap,
+   :homepage "www.sevenarchesmuseum.com"}
+  {:name "Weibel Museum",
+   :longitude -64.9326561,
+   :latitude 18.3427968,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,41 @@
+{:count 6,
+ :country "saint-kitts-and-nevis",
+ :country-code "KN",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:05.322688Z",
+ :positions
+ [{:name "Caribbean Cove",
+   :longitude -62.6218187,
+   :latitude 17.1322574,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/caribbeancovenevis",
+   :locality "Charlestown"}
+  {:name "Eva Wilkin Galleria",
+   :longitude -62.5776582,
+   :latitude 17.1284481,
+   :source :openstreetmap}
+  {:name "National Museum",
+   :longitude -62.7236882,
+   :latitude 17.2945525,
+   :source :openstreetmap,
+   :locality "Basseterre"}
+  {:name "Nevis Performing Arts Center",
+   :longitude -62.6230681,
+   :latitude 17.1456151,
+   :source :openstreetmap,
+   :locality "Charlestown"}
+  {:name "Nevis Sports Museum",
+   :longitude -62.629118,
+   :latitude 17.1386273,
+   :source :openstreetmap,
+   :homepage "https://www.nevisheritage.org/",
+   :locality "Charlestown"}
+  {:name "Sandy Point Hard Court",
+   :longitude -62.8487138,
+   :latitude 17.3589267,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

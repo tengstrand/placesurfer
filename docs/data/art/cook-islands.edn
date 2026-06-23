@@ -1,0 +1,48 @@
+{:count 6,
+ :country "cook-islands",
+ :country-code "CK",
+ :dataset :art,
+ :generated-at "2026-05-26T06:08:11.456325Z",
+ :positions
+ [{:name "Discover Marine & Wildlife Eco Center",
+   :longitude -159.8277558,
+   :latitude -21.2318088,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Discover Marine & Wildlife Eco Center",
+   :longitude -159.8273643,
+   :latitude -21.2357243,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "National Museum",
+   :longitude -159.7697626,
+   :latitude -21.2067895,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Te Ara Museum",
+   :longitude -159.7339251,
+   :latitude -21.2592185,
+   :source :openstreetmap,
+   :homepage "https://www.tearacimce.com/",
+   :image "",
+   :description ""}
+  {:name "Te Aranui",
+   :longitude -159.7950797,
+   :latitude -21.1995802,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "The Little Red Gallery",
+   :longitude -159.7829209,
+   :latitude -21.2055939,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,72 @@
+{:count 10,
+ :country "afghanistan",
+ :country-code "AF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:00:18.847815Z",
+ :positions
+ [{:name "Centre Culturel Français",
+   :longitude 69.1755211,
+   :latitude 34.5227354,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Ghulam Mohammad Maimanagi Art Course",
+   :longitude 69.198192,
+   :latitude 34.5328757,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "The National museum of Nuristan",
+   :longitude 69.1609228,
+   :latitude 34.526293,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "د افغانستان ملي اریشف",
+   :longitude 69.1677784,
+   :latitude 34.5246612,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "موزه جنگ",
+   :longitude 70.5243856,
+   :latitude 37.108859,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "موزه جنگ",
+   :longitude 62.2090165,
+   :latitude 34.3742884,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "موزه ملی هرات",
+   :longitude 62.1877057,
+   :latitude 34.3458129,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "موزه کابل",
+   :longitude 69.1201581,
+   :latitude 34.4676286,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "کندهار ولایتي موزیم",
+   :longitude 65.711898,
+   :latitude 31.6203714,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "گالری ملی افغانستان",
+   :longitude 69.1711322,
+   :latitude 34.517508,
+   :source :openstreetmap,
+   :homepage "https://ang.af/",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

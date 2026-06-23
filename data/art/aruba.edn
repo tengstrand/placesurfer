@@ -1,0 +1,47 @@
+{:count 5,
+ :country "aruba",
+ :country-code "AW",
+ :dataset :art,
+ :generated-at "2026-05-26T06:01:32.285731Z",
+ :positions
+ [{:name "Ateliers '89",
+   :longitude -70.0312696,
+   :latitude 12.521802,
+   :source :openstreetmap,
+   :homepage "https://ateliers89.org/",
+   :locality "Oranjestad",
+   :image "",
+   :description ""}
+  {:name "Community Museum",
+   :longitude -69.9081416,
+   :latitude 12.4337568,
+   :source :openstreetmap,
+   :homepage "https://artisaruba.com/",
+   :locality "Savaneta",
+   :image "",
+   :description ""}
+  {:name "Historical Museum",
+   :longitude -70.0357433,
+   :latitude 12.5177849,
+   :source :openstreetmap,
+   :homepage "http://facebook/beamyourselves",
+   :image "",
+   :description ""}
+  {:name "Model Train Museum",
+   :longitude -69.8874706,
+   :latitude 12.434485,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "National Archeological Museum Aruba",
+   :longitude -70.0381623,
+   :latitude 12.5210702,
+   :source :openstreetmap,
+   :locality "Oranjestad",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

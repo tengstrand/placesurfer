@@ -1,0 +1,105 @@
+{:count 23,
+ :country "sudan",
+ :country-code "SD",
+ :dataset :art,
+ :generated-at "2026-05-26T06:34:42.923521Z",
+ :positions
+ [{:name "Abu Hadab Museum",
+   :longitude 37.2873059,
+   :latitude 19.0988851,
+   :source :openstreetmap}
+  {:name "Dabanga Gallery",
+   :longitude 32.5391462,
+   :latitude 15.5889343,
+   :source :openstreetmap}
+  {:name "Dongola Cathedrals",
+   :longitude 30.7423347,
+   :latitude 18.2256348,
+   :source :openstreetmap}
+  {:name "Khaish Art Studio",
+   :longitude 32.5345731,
+   :latitude 15.6106323,
+   :source :openstreetmap}
+  {:name "Kubbas and islamic cemetery",
+   :longitude 30.7546781,
+   :latitude 18.2226966,
+   :source :openstreetmap}
+  {:name "Majestic hall",
+   :longitude 32.5571376,
+   :latitude 15.5598367,
+   :source :openstreetmap}
+  {:name "Military Museum",
+   :longitude 32.5428682,
+   :latitude 15.6197072,
+   :source :openstreetmap}
+  {:name "Museo",
+   :longitude 31.8309846,
+   :latitude 18.5394915,
+   :source :openstreetmap}
+  {:name "Museum Kerma",
+   :longitude 30.4118371,
+   :latitude 19.6007864,
+   :source :openstreetmap}
+  {:name "Rachid Diab Arts Centre",
+   :longitude 32.5815922,
+   :latitude 15.5675628,
+   :source :openstreetmap}
+  {:name "Railway Museum Atbara",
+   :longitude 33.9724223,
+   :latitude 17.6955792,
+   :source :openstreetmap}
+  {:name "Someet Gallery",
+   :longitude 32.5705683,
+   :latitude 15.5838221,
+   :source :openstreetmap}
+  {:name "Tickets and entrance",
+   :longitude 33.7538715,
+   :latitude 16.932185,
+   :source :openstreetmap}
+  {:name "أتنيه",
+   :longitude 32.5287835,
+   :latitude 15.6059772,
+   :source :openstreetmap}
+  {:name "المركز الثقافي الإيراني",
+   :longitude 32.5501724,
+   :latitude 15.5762852,
+   :source :openstreetmap,
+   :locality "الخرطوم"}
+  {:name "بلاك كرافتر",
+   :longitude 32.5300643,
+   :latitude 15.6408402,
+   :source :openstreetmap}
+  {:name "تيراس النيل",
+   :longitude 32.5154532,
+   :latitude 15.6075825,
+   :source :openstreetmap}
+  {:name "متحف التاريخ الطبيعي",
+   :longitude 32.5398026,
+   :latitude 15.6088551,
+   :source :openstreetmap}
+  {:name "متحف الخليفة",
+   :longitude 32.4882894,
+   :latitude 15.6387546,
+   :source :openstreetmap}
+  {:name "متحف السودان",
+   :longitude 32.5083485,
+   :latitude 15.606077,
+   :source :openstreetmap,
+   :locality "الخرطوم"}
+  {:name "مسجد الحيف",
+   :longitude 32.5005348,
+   :latitude 15.6938603,
+   :source :openstreetmap}
+  {:name "معرض ارت طتش",
+   :longitude 32.5359383,
+   :latitude 15.6328125,
+   :source :openstreetmap}
+  {:name "معهد جوته الالماني",
+   :longitude 32.5353965,
+   :latitude 15.6037142,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

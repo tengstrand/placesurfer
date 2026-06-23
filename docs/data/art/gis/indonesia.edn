@@ -1,0 +1,3428 @@
+{:count 745,
+ :country "indonesia",
+ :country-code "ID",
+ :dataset :art,
+ :generated-at "2026-05-26T06:14:49.512533Z",
+ :positions
+ [{:name "1000 moko museum",
+   :longitude 124.526199,
+   :latitude -8.2163264,
+   :source :openstreetmap}
+  {:name "3D Art Magic Eye Museum",
+   :longitude 98.8310447,
+   :latitude 3.5976939,
+   :source :openstreetmap,
+   :locality "Deli Serdang"}
+  {:name "88",
+   :longitude 115.1669957,
+   :latitude -8.6623828,
+   :source :openstreetmap}
+  {:name "A Museum of Vintage Bags",
+   :longitude 115.2577455,
+   :latitude -8.7050785,
+   :source :openstreetmap}
+  {:name "Abiden Galeri",
+   :longitude 106.9289941,
+   :latitude -6.9289307,
+   :source :openstreetmap,
+   :locality "Tipar"}
+  {:name "Affandi Museum",
+   :longitude 110.3963433,
+   :latitude -7.7827665,
+   :source :openstreetmap,
+   :homepage "https://www.affandi.org/"}
+  {:name "Agung Rai Museum of Art (ARMA)",
+   :longitude 115.2645727,
+   :latitude -8.5229923,
+   :source :openstreetmap,
+   :homepage "https://www.armabali.com/",
+   :locality "Ubud, Kabupaten Gianyar, Bali"}
+  {:name "Ajoart creative",
+   :longitude 100.3533954,
+   :latitude -0.9114369,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Amazing Art World",
+   :longitude 107.5963601,
+   :latitude -6.8516724,
+   :source :openstreetmap,
+   :homepage "https://m.facebook.com/AmazingArtWorld.Bandung/"}
+  {:name "Andi Bayou Museum",
+   :longitude 110.3485871,
+   :latitude -7.7758076,
+   :source :openstreetmap,
+   :locality "Kota Yogyakarta"}
+  {:name "APLI Studio Musik",
+   :longitude 123.6005858,
+   :latitude -10.1732273,
+   :source :openstreetmap}
+  {:name "Art Center Arts Council Malang",
+   :longitude 112.6317107,
+   :latitude -7.97891,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Art Center Garut",
+   :longitude 107.900706,
+   :latitude -7.1920375,
+   :source :openstreetmap}
+  {:name "Art Sastra",
+   :longitude 100.4050118,
+   :latitude -0.9135805,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Art Shop Wahyu",
+   :longitude 115.1734897,
+   :latitude -8.7244936,
+   :source :openstreetmap}
+  {:name "Art Zoo",
+   :longitude 115.2641408,
+   :latitude -8.0888687,
+   :source :openstreetmap,
+   :homepage "http://www.symonbali.com"}
+  {:name "Art1 Museum of Art",
+   :longitude 106.8402043,
+   :latitude -6.1469392,
+   :source :openstreetmap}
+  {:name "Artissimo Gallery",
+   :longitude 115.1644876,
+   :latitude -8.6719908,
+   :source :openstreetmap,
+   :locality "North Kuta"}
+  {:name "Artsphere",
+   :longitude 106.8015325,
+   :latitude -6.2530452,
+   :source :openstreetmap,
+   :locality "Kebayoran Baru, South Jakarta"}
+  {:name "Aula Santu Josep Manado",
+   :longitude 124.8321029,
+   :latitude 1.4642134,
+   :source :openstreetmap}
+  {:name "Azhara Gallery",
+   :longitude 100.3628506,
+   :latitude -0.940688,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Balai Adat Melayu Pulau Penyengat",
+   :longitude 104.4146953,
+   :latitude 0.9273128,
+   :source :openstreetmap}
+  {:name "Balai Pelestarian Kebudayaan Wilayah III",
+   :longitude 100.6235357,
+   :latitude -0.4794537,
+   :source :openstreetmap}
+  {:name "Balai Pemuda",
+   :longitude 112.7452851,
+   :latitude -7.2639334,
+   :source :openstreetmap,
+   :locality "Embong Kaliasin, Genteng,Surabaya"}
+  {:name "Bale Art",
+   :longitude 116.0588108,
+   :latitude -8.349103,
+   :source :openstreetmap}
+  {:name "bale banjar sangkring art space",
+   :longitude 110.3430449,
+   :latitude -7.8122685,
+   :source :openstreetmap,
+   :homepage "https://www.sangkringart.com/"}
+  {:name "BALE BELEQ",
+   :longitude 116.3519817,
+   :latitude -8.6324347,
+   :source :openstreetmap}
+  {:name "Bale Indung Rahayu",
+   :longitude 107.4434617,
+   :latitude -6.5521704,
+   :source :openstreetmap}
+  {:name "Bale Kanem ꧋ꦧꦭꦺꦏꦤꦺꦩ꧀",
+   :longitude 109.9327796,
+   :latitude -7.7780469,
+   :source :openstreetmap,
+   :locality "Purworejo"}
+  {:name "Bale' Barudak Gallery",
+   :longitude 106.9339225,
+   :latitude -6.9362713,
+   :source :openstreetmap,
+   :homepage
+   "http://balebarudakgallery.blogspot.com/2011/12/seputar-bale-barudak.html",
+   :locality "Sukabumi"}
+  {:name "Bali Culture Centre",
+   :longitude 115.2578826,
+   :latitude -8.5280555,
+   :source :openstreetmap,
+   :homepage "https://baliculturecentre.com"}
+  {:name "Bali Music Centre",
+   :longitude 115.2331014,
+   :latitude -8.6736702,
+   :source :openstreetmap,
+   :locality "Denpasar"}
+  {:name "Bali Shell Museum",
+   :longitude 115.1867151,
+   :latitude -8.7142647,
+   :source :openstreetmap}
+  {:name "Balinese Paintings",
+   :longitude 115.2619258,
+   :latitude -8.5001252,
+   :source :openstreetmap,
+   :locality "Ubud"}
+  {:name "Baloy Mayo Adat Tidung",
+   :longitude 117.55458,
+   :latitude 3.3326797,
+   :source :openstreetmap}
+  {:name "Bandung Creative Hub",
+   :longitude 107.6315045,
+   :latitude -6.9182095,
+   :source :openstreetmap}
+  {:name "Bandung Planning Gallery",
+   :longitude 107.6098121,
+   :latitude -6.9103103,
+   :source :openstreetmap}
+  {:name "Bandung Science Center",
+   :longitude 107.5947081,
+   :latitude -6.8773023,
+   :source :openstreetmap}
+  {:name "Baruga Somba Opu",
+   :longitude 119.4052579,
+   :latitude -5.1912188,
+   :source :openstreetmap}
+  {:name "Basecamp Pendakian Gunung Agung via Pura Lawangan Nangka",
+   :longitude 115.5365747,
+   :latitude -8.3771643,
+   :source :openstreetmap}
+  {:name "Batik Museum",
+   :longitude 110.3773503,
+   :latitude -7.795401,
+   :source :openstreetmap}
+  {:name "Battle of Margarana History Museum",
+   :longitude 115.1644779,
+   :latitude -8.4652902,
+   :source :openstreetmap}
+  {:name "Batu City Art Center",
+   :longitude 112.5325037,
+   :latitude -7.8902889,
+   :source :openstreetmap,
+   :locality "Batu"}
+  {:name "Batu Makikie",
+   :longitude 119.6595238,
+   :latitude -4.0548352,
+   :source :openstreetmap}
+  {:name "Bayt Al Quran dan Museum Islam Istiqlal",
+   :longitude 106.8879491,
+   :latitude -6.3034847,
+   :source :openstreetmap}
+  {:name "Becak museum",
+   :longitude 115.1838827,
+   :latitude -8.7093439,
+   :source :openstreetmap}
+  {:name "bengkel lukis solimin",
+   :longitude 114.5906641,
+   :latitude -3.2979658,
+   :source :openstreetmap}
+  {:name "Bengkel Sastra",
+   :longitude 119.4285132,
+   :latitude -5.1854763,
+   :source :openstreetmap}
+  {:name "Bentara Budaya",
+   :longitude 106.7954748,
+   :latitude -6.2102426,
+   :source :openstreetmap,
+   :homepage "https://www.bentarabudaya.com",
+   :locality "Palmerah, Central Jakarta"}
+  {:name "Benteng Balanipa",
+   :longitude 120.2629777,
+   :latitude -5.1171377,
+   :source :openstreetmap}
+  {:name "Benteng Jepang Gunung Pangilun",
+   :longitude 100.3642224,
+   :latitude -0.9156098,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Benteng Marlborough",
+   :longitude 102.2518126,
+   :latitude -3.787138,
+   :source :openstreetmap}
+  {:name "Benteng Pendem",
+   :longitude 109.0172992,
+   :latitude -7.7491122,
+   :source :openstreetmap}
+  {:name "Benteng sejarah Bombonawulu",
+   :longitude 122.5664436,
+   :latitude -5.2917295,
+   :source :openstreetmap}
+  {:name "Benteng Tuntuntari",
+   :longitude 121.9286122,
+   :latitude -5.273263,
+   :source :openstreetmap}
+  {:name "Benteng VOC Kota Tuban",
+   :longitude 111.9190401,
+   :latitude -6.7807892,
+   :source :openstreetmap,
+   :locality "Tuban"}
+  {:name "BFE Management",
+   :longitude 104.736298,
+   :latitude -2.9688645,
+   :source :openstreetmap}
+  {:name "Big gallery Bali Arts & Goods",
+   :longitude 115.1674775,
+   :latitude -8.7363374,
+   :source :openstreetmap}
+  {:name "Bio-Paleoanthropology Museum",
+   :longitude 110.3753765,
+   :latitude -7.7704411,
+   :source :openstreetmap}
+  {:name "Boloi Adat Tidung Malinau Seberang",
+   :longitude 116.6212347,
+   :latitude 3.5962796,
+   :source :openstreetmap}
+  {:name "Bonsai Amry Ashil Amretadje",
+   :longitude 113.313474,
+   :latitude -8.0601025,
+   :source :openstreetmap,
+   :locality "Lumajang"}
+  {:name "Budaya Sumba - Sumba Cultural Centre & Museum",
+   :longitude 119.2151222,
+   :latitude -9.4333064,
+   :source :openstreetmap}
+  {:name "Bungun Barania galesong",
+   :longitude 119.3614935,
+   :latitude -5.3188385,
+   :source :openstreetmap}
+  {:name "Cagar Budaya Ambar Ketawang",
+   :longitude 110.3237515,
+   :latitude -7.8035408,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Cagar Budaya Bulurejo",
+   :longitude 110.1645281,
+   :latitude -7.8431516,
+   :source :openstreetmap}
+  {:name "Cagar Budaya Joglo",
+   :longitude 110.3757342,
+   :latitude -7.711242,
+   :source :openstreetmap}
+  {:name "Cagar Budaya Rumah Asisten Wedana",
+   :longitude 105.3079071,
+   :latitude -5.1135893,
+   :source :openstreetmap}
+  {:name "CAN'S Gallery",
+   :longitude 106.8171784,
+   :latitude -6.1758489,
+   :source :openstreetmap,
+   :locality "Petojo Selatan"}
+  {:name "candi",
+   :longitude 110.2582938,
+   :latitude -7.9546198,
+   :source :openstreetmap,
+   :locality "bantul"}
+  {:name "CCF Wijaya",
+   :longitude 106.8109454,
+   :latitude -6.2440139,
+   :source :openstreetmap}
+  {:name "Cemara 6",
+   :longitude 106.8294315,
+   :latitude -6.1882869,
+   :source :openstreetmap}
+  {:name "City Gallery Kota Tangerang Selatan",
+   :longitude 106.7081711,
+   :latitude -6.3215397,
+   :source :openstreetmap}
+  {:name "Cut Nyak Din Museum",
+   :longitude 95.2716191,
+   :latitude 5.516687,
+   :source :openstreetmap}
+  {:name "CV Adsekav( Gallery Seni)",
+   :longitude 100.3956058,
+   :latitude -0.9351542,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "D Gallerie",
+   :longitude 106.7931621,
+   :latitude -6.2419354,
+   :source :openstreetmap,
+   :homepage "https://dgalleriejakarta.com/",
+   :locality "DKI Jakarta"}
+  {:name "Dahor Heritage Balikpapan",
+   :longitude 116.8259312,
+   :latitude -1.2355159,
+   :source :openstreetmap,
+   :locality "Balikpapan"}
+  {:name "Dalam Loka",
+   :longitude 117.4273157,
+   :latitude -8.5043582,
+   :source :openstreetmap}
+  {:name "Danastiti Painting",
+   :longitude 115.2866212,
+   :latitude -8.5741107,
+   :source :openstreetmap,
+   :locality "Kemenuh"}
+  {:name "De Javasche Bank",
+   :longitude 112.7368332,
+   :latitude -7.2353355,
+   :source :openstreetmap,
+   :locality "Surabaya"}
+  {:name "De Karanganjar Koffieplantage",
+   :longitude 112.2404167,
+   :latitude -7.9966875,
+   :source :openstreetmap}
+  {:name "Dhanis Gallery",
+   :longitude 100.390201,
+   :latitude -0.9172589,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Diorama Arsip Jogja",
+   :longitude 110.4068913,
+   :latitude -7.8003718,
+   :source :openstreetmap,
+   :homepage "https://arsipjogja.id"}
+  {:name "Display Arsib Kutab",
+   :longitude 102.0480024,
+   :latitude 0.7949744,
+   :source :openstreetmap}
+  {:name "DMZ Dream Museum Zone",
+   :longitude 115.1767288,
+   :latitude -8.6995022,
+   :source :openstreetmap,
+   :locality "Legian, Kuta, Kabupaten Badung, Bali"}
+  {:name "Doellapangan Jodog Art Gallery",
+   :longitude 110.3127276,
+   :latitude -7.9088628,
+   :source :openstreetmap}
+  {:name "Don Antonio Blanco Museum",
+   :longitude 115.253963,
+   :latitude -8.5048652,
+   :source :openstreetmap,
+   :homepage "http://blancomuseum.com"}
+  {:name "Edwin's Gallery",
+   :longitude 106.8154163,
+   :latitude -6.2589507,
+   :source :openstreetmap,
+   :homepage "http://edwinsgallery.com/",
+   :locality "DKI Jakarta"}
+  {:name "Eks-Markas Tentara PETA Blitar",
+   :longitude 112.1769767,
+   :latitude -8.0945251,
+   :source :openstreetmap}
+  {:name "Entrance",
+   :longitude 100.355961,
+   :latitude -0.9569228,
+   :source :openstreetmap,
+   :homepage "https://alekmandeh.id/"}
+  {:name "Ethnobotany Museum",
+   :longitude 115.1553636,
+   :latitude -8.271743,
+   :source :openstreetmap}
+  {:name "Fernanda Painting Gallery",
+   :longitude 100.3840974,
+   :latitude -0.960036,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Five Art Studio",
+   :longitude 115.2607819,
+   :latitude -8.4545298,
+   :source :openstreetmap,
+   :homepage "https://fiveartubud.com/"}
+  {:name "FLEUR - Café - Atelier d’artistes",
+   :longitude 115.125362,
+   :latitude -8.815555,
+   :source :openstreetmap}
+  {:name "Freedom Batik Art Exposition",
+   :longitude 110.365011,
+   :latitude -7.7942302,
+   :source :openstreetmap}
+  {:name
+   "Galeri Arsip Statis Dinas Perpustakaan dan Kearsipan Kota Padang",
+   :longitude 100.3622826,
+   :latitude -0.9478243,
+   :source :openstreetmap}
+  {:name "Galeri Cinde",
+   :longitude 107.6346884,
+   :latitude -6.8965886,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Galeri Gambir",
+   :longitude 110.3770169,
+   :latitude -7.7332952,
+   :source :openstreetmap,
+   :locality "Sleman"}
+  {:name "Galeri Gendang Hadroh",
+   :longitude 100.4202566,
+   :latitude -0.9014691,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Galeri Hasil Hutan Provinsi Kalimantan Barat",
+   :longitude 109.3433992,
+   :latitude -0.0453139,
+   :source :openstreetmap,
+   :locality "Pontianak"}
+  {:name "Galeri Kahangnan",
+   :longitude 110.3040364,
+   :latitude -7.8543629,
+   :source :openstreetmap}
+  {:name "Galeri Kamones",
+   :longitude 107.6229861,
+   :latitude -6.8734303,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Galeri Kasih Romo Janssen CM",
+   :longitude 112.6114927,
+   :latitude -7.9720747,
+   :source :openstreetmap}
+  {:name "Galeri Kebun Seni Tamansari Bandung",
+   :longitude 107.6078554,
+   :latitude -6.8887947,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Galeri Kepresidenan",
+   :longitude 106.8266577,
+   :latitude -6.1811095,
+   :source :openstreetmap}
+  {:name "Galeri Ki Klungsu",
+   :longitude 112.5278152,
+   :latitude -7.8047121,
+   :source :openstreetmap,
+   :locality "Batu"}
+  {:name "Galeri Lorong",
+   :longitude 110.3433389,
+   :latitude -7.819686,
+   :source :openstreetmap,
+   :homepage "https://galerilorong.com",
+   :locality "Yogyakarta"}
+  {:name "Galeri Matahati Keramik",
+   :longitude 112.5344228,
+   :latitude -7.8644378,
+   :source :openstreetmap,
+   :locality "Batu"}
+  {:name "Galeri Museum Kota Tomohon",
+   :longitude 124.841656,
+   :latitude 1.3252309,
+   :source :openstreetmap,
+   :locality "Tomohon"}
+  {:name "Galeri Nasional",
+   :longitude 106.8329348,
+   :latitude -6.1783823,
+   :source :openstreetmap,
+   :homepage "http://galeri-nasional.or.id"}
+  {:name "Galeri Rasulullah",
+   :longitude 107.7035885,
+   :latitude -6.9481559,
+   :source :openstreetmap}
+  {:name "Galeri Sejarah Tionghoa Sumut",
+   :longitude 98.6696588,
+   :latitude 3.614481,
+   :source :openstreetmap}
+  {:name "Galeri Seni Kontemporer",
+   :longitude 106.8919485,
+   :latitude -6.3020725,
+   :source :openstreetmap}
+  {:name "Galeri Soermardja",
+   :longitude 107.6115175,
+   :latitude -6.8924546,
+   :source :openstreetmap}
+  {:name "Galeri Zen1",
+   :longitude 115.1803561,
+   :latitude -8.7385233,
+   :source :openstreetmap,
+   :locality "Tuban, Kuta, Kabupaten Badung, Bali, Indonesia"}
+  {:name "Galerie Karja",
+   :longitude 115.2506452,
+   :latitude -8.5031346,
+   :source :openstreetmap}
+  {:name "Galery 88",
+   :longitude 100.396564,
+   :latitude -0.9609655,
+   :source :openstreetmap,
+   :locality "padang"}
+  {:name "Galery Al Sanakha Light",
+   :longitude 100.4155693,
+   :latitude -0.9654549,
+   :source :openstreetmap,
+   :homepage "https://alsanakhacraft0820.blogspot.com",
+   :locality "Padang"}
+  {:name "Gallery 2 Putri",
+   :longitude 100.3957017,
+   :latitude -0.984583,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Gallery Balanjo",
+   :longitude 100.3548678,
+   :latitude -0.9497863,
+   :source :openstreetmap,
+   :homepage "https://gallery-balanjo-business.site/",
+   :locality "Padang"}
+  {:name "Gallery Distro",
+   :longitude 100.3579808,
+   :latitude -0.9458555,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Gallery Hias",
+   :longitude 100.3935773,
+   :latitude -0.9452467,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Gallery Padussie",
+   :longitude 100.3721874,
+   :latitude -0.9478326,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Gallery Ruang Pameran SMSR",
+   :longitude 110.3492132,
+   :latitude -7.8154822,
+   :source :openstreetmap}
+  {:name "Gallery UMSU",
+   :longitude 98.6746737,
+   :latitude 3.6139326,
+   :source :openstreetmap}
+  {:name "Gardu Papak",
+   :longitude 112.2359695,
+   :latitude -7.5643516,
+   :source :openstreetmap}
+  {:name "Gayo Gallery",
+   :longitude 107.5972125,
+   :latitude -6.8242706,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Gedong Kertya",
+   :longitude 115.0969474,
+   :latitude -8.1246992,
+   :source :openstreetmap}
+  {:name "Gedong Papak",
+   :longitude 107.0058451,
+   :latitude -6.2440995,
+   :source :openstreetmap}
+  {:name "Gedung",
+   :longitude 118.6359747,
+   :latitude -8.5086731,
+   :source :openstreetmap}
+  {:name "Gedung",
+   :longitude 124.833994,
+   :latitude 1.4825832,
+   :source :openstreetmap}
+  {:name "Gedung",
+   :longitude 124.8400932,
+   :latitude 1.4626469,
+   :source :openstreetmap}
+  {:name "Gedung",
+   :longitude 124.8393307,
+   :latitude 1.4671096,
+   :source :openstreetmap}
+  {:name "Gedung",
+   :longitude 124.8364371,
+   :latitude 1.4750006,
+   :source :openstreetmap}
+  {:name "Gedung",
+   :longitude 124.8395072,
+   :latitude 1.493692,
+   :source :openstreetmap}
+  {:name "Gedung Anjung Seni Idrus Tintin",
+   :longitude 101.4558379,
+   :latitude 0.4779176,
+   :source :openstreetmap}
+  {:name "Gedung Baktya Graha",
+   :longitude 111.9985509,
+   :latitude -7.0647331,
+   :source :openstreetmap}
+  {:name "Gedung Budaya dan Kesenian & Dago Tea House",
+   :longitude 107.6164354,
+   :latitude -6.8701141,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Gedung bulutangkis Angkasa",
+   :longitude 123.0819164,
+   :latitude 0.5368453,
+   :source :openstreetmap}
+  {:name "Gedung Indonesia Menggugat",
+   :longitude 107.6079414,
+   :latitude -6.9134169,
+   :source :openstreetmap}
+  {:name "Gedung Joang 45",
+   :longitude 106.8366544,
+   :latitude -6.1862361,
+   :source :openstreetmap,
+   :homepage "https://id.wikipedia.org/wiki/Gedung_Joang_'45"}
+  {:name "Gedung Juang '45",
+   :longitude 106.9275327,
+   :latitude -6.9189372,
+   :source :openstreetmap,
+   :locality "Kota Sukabumi"}
+  {:name "Gedung Juang 45",
+   :longitude 111.8962322,
+   :latitude -7.6038475,
+   :source :openstreetmap}
+  {:name "Gedung Juang 45",
+   :longitude 107.7612429,
+   :latitude -6.557661,
+   :source :openstreetmap}
+  {:name "Gedung Kebudayaan Kab. Konawe",
+   :longitude 122.0516544,
+   :latitude -3.8666101,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian",
+   :longitude 132.3005217,
+   :latitude -2.9201876,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Desa Sukarara",
+   :longitude 116.2279572,
+   :latitude -8.6938911,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Dr. Ir. Soekarno",
+   :longitude 114.6362695,
+   :latitude -8.3594719,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Gde Manik",
+   :longitude 115.0868964,
+   :latitude -8.1172893,
+   :source :openstreetmap,
+   :locality "Singaraja"}
+  {:name "Gedung Kesenian I Ketut Maria",
+   :longitude 115.1255871,
+   :latitude -8.5375291,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Kabupaten Ciamis",
+   :longitude 108.3406516,
+   :latitude -7.327018,
+   :source :openstreetmap,
+   :locality "Ciamis"}
+  {:name "GEDUNG KESENIAN KEC.MANGGENG",
+   :longitude 96.9379769,
+   :latitude 3.6190827,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Miss Tji Tjih",
+   :longitude 106.8606831,
+   :latitude -6.1719293,
+   :source :openstreetmap,
+   :locality "DKI Jakarta"}
+  {:name "Gedung Kesenian Nyi Mas Rara Santang",
+   :longitude 108.536916,
+   :latitude -6.7296859,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Purworejo",
+   :longitude 110.0122229,
+   :latitude -7.7112366,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Rakyat Tanjung Palas",
+   :longitude 117.3571883,
+   :latitude 2.8317395,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Sabang",
+   :longitude 95.3189279,
+   :latitude 5.8914168,
+   :source :openstreetmap}
+  {:name "Gedung Kesenian Sunan Ambu",
+   :longitude 107.6280733,
+   :latitude -6.9431173,
+   :source :openstreetmap}
+  {:name "Gedung Krida Bhakti",
+   :longitude 111.3178088,
+   :latitude -8.2208927,
+   :source :openstreetmap}
+  {:name "Gedung legiun vetran",
+   :longitude 114.5901277,
+   :latitude -3.2887903,
+   :source :openstreetmap}
+  {:name "Gedung Mulo",
+   :longitude 119.4155993,
+   :latitude -5.1455841,
+   :source :openstreetmap}
+  {:name "Gedung Seni Desa Pegatan Besar",
+   :longitude 114.604544,
+   :latitude -3.8112407,
+   :source :openstreetmap}
+  {:name "Gedung Seni Mawasangka",
+   :longitude 122.2883425,
+   :latitude -5.2843657,
+   :source :openstreetmap}
+  {:name "Gedung Seni Sampang",
+   :longitude 113.2400712,
+   :latitude -7.1875723,
+   :source :openstreetmap}
+  {:name "Gedung Serbaguna RRI",
+   :longitude 106.8601204,
+   :latitude -6.3976152,
+   :source :openstreetmap}
+  {:name "Gedung Theater & Museum Wisata G. Kelud",
+   :longitude 112.2357042,
+   :latitude -7.9268592,
+   :source :openstreetmap}
+  {:name "Gedung Warisan Melayu Riau Abdurrab",
+   :longitude 101.4248404,
+   :latitude 0.4822884,
+   :source :openstreetmap}
+  {:name "Gedung/Balai Serba Guna",
+   :longitude 120.5416809,
+   :latitude 0.7696949,
+   :source :openstreetmap}
+  {:name "Gempar Creative",
+   :longitude 106.9313932,
+   :latitude -6.9394611,
+   :source :openstreetmap,
+   :locality "Sukabumi"}
+  {:name "Gereja Kristen Oelbiteno",
+   :longitude 123.8455877,
+   :latitude -9.9260189,
+   :source :openstreetmap}
+  {:name "GlobalArt",
+   :longitude 110.4062005,
+   :latitude -7.7830337,
+   :source :openstreetmap}
+  {:name "Gloya by Krida Nusantara",
+   :longitude 107.612598,
+   :latitude -6.9010128,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Graha Budaya Lotring",
+   :longitude 115.1782515,
+   :latitude -8.7258466,
+   :source :openstreetmap,
+   :locality "Kuta"}
+  {:name "Graphy Music Studio Silaberanti",
+   :longitude 104.7747614,
+   :latitude -3.0032883,
+   :source :openstreetmap}
+  {:name "Gudang Gambar Art Warehouse",
+   :longitude 106.8089691,
+   :latitude -6.2734789,
+   :source :openstreetmap,
+   :homepage "https://gudanggambar.co.id",
+   :locality "South Jakarta"}
+  {:name "Gudskul",
+   :longitude 106.8154253,
+   :latitude -6.3186,
+   :source :openstreetmap,
+   :locality "DKI Jakarta"}
+  {:name "Gunongan",
+   :longitude 95.3162002,
+   :latitude 5.5457804,
+   :source :openstreetmap,
+   :homepage "https://museumtsunami.acehprov.go.id/"}
+  {:name "Hall of Fame Jawa Barat",
+   :longitude 107.6632081,
+   :latitude -6.9348098,
+   :source :openstreetmap}
+  {:name "Han Snel",
+   :longitude 115.2617525,
+   :latitude -8.5052673,
+   :source :openstreetmap,
+   :homepage "http://museumpurilukisan.com/"}
+  {:name "Historical House Of Rumsom",
+   :longitude 130.6019708,
+   :latitude -0.5891559,
+   :source :openstreetmap}
+  {:name "History Museum of Sultan Suriansyah",
+   :longitude 114.5727774,
+   :latitude -3.2934074,
+   :source :openstreetmap}
+  {:name "House of Lempad",
+   :longitude 115.2663426,
+   :latitude -8.5084848,
+   :source :openstreetmap,
+   :homepage "https://balicultureworkshop.com"}
+  {:name "Ikat",
+   :longitude 115.1646196,
+   :latitude -8.6755493,
+   :source :openstreetmap}
+  {:name "Indonesian heritage museum",
+   :longitude 112.519358,
+   :latitude -7.8784873,
+   :source :openstreetmap}
+  {:name "Indonesian Old Cinema Museum",
+   :longitude 112.6277378,
+   :latitude -7.9371936,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Infinite Studio Batam",
+   :longitude 104.0994422,
+   :latitude 1.1866157,
+   :source :openstreetmap}
+  {:name "Institut Français d'Indonésie",
+   :longitude 112.7453005,
+   :latitude -7.291493,
+   :source :openstreetmap,
+   :homepage "https://www.ifi-id.com/surabaya"}
+  {:name "ISA Art Gallery",
+   :longitude 106.8204569,
+   :latitude -6.2036407,
+   :source :openstreetmap,
+   :homepage "https://www.isaartanddesign.com/",
+   :locality "DKI Jakarta"}
+  {:name "ISA Art Gallery Wijaya",
+   :longitude 106.8155558,
+   :latitude -6.2408516,
+   :source :openstreetmap,
+   :locality "South Jakarta"}
+  {:name "Istana Bung Hatta",
+   :longitude 100.3688665,
+   :latitude -0.3062945,
+   :source :openstreetmap}
+  {:name "Istana Gebang",
+   :longitude 112.1762799,
+   :latitude -8.0980819,
+   :source :openstreetmap}
+  {:name "Istana Maimun",
+   :longitude 98.683831,
+   :latitude 3.5752371,
+   :source :openstreetmap}
+  {:name "Istana Mini",
+   :longitude 129.9005643,
+   :latitude -4.5287301,
+   :source :openstreetmap}
+  {:name "JAMBO RAPAI DEBUS",
+   :longitude 96.8514386,
+   :latitude 3.7523095,
+   :source :openstreetmap}
+  {:name "Jaya Adi Art Gallery",
+   :longitude 110.749833,
+   :latitude -7.5582963,
+   :source :openstreetmap,
+   :locality "Sukoharjo"}
+  {:name "Jembatan Pelangi Art",
+   :longitude 100.3584438,
+   :latitude -0.9037372,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "JMd. Rajing, painter & collection",
+   :longitude 115.2482494,
+   :latitude -8.5070258,
+   :source :openstreetmap}
+  {:name "Joglo Jeep",
+   :longitude 110.27839,
+   :latitude -7.5937409,
+   :source :openstreetmap}
+  {:name "Kampung Aman (Wisata Mujizat Air menjadi Anggur)",
+   :longitude 124.2778896,
+   :latitude -9.8667443,
+   :source :openstreetmap}
+  {:name "Kampung Tradisional",
+   :longitude 124.5551609,
+   :latitude -8.1880114,
+   :source :openstreetmap}
+  {:name "Kawedanan Ambarawa",
+   :longitude 110.4045404,
+   :latitude -7.2556408,
+   :source :openstreetmap}
+  {:name "Kawedanan Lorog",
+   :longitude 111.3233489,
+   :latitude -8.2137023,
+   :source :openstreetmap,
+   :locality "Pacitan"}
+  {:name "Kerajinan Daur Ulang Sampah",
+   :longitude 106.6012844,
+   :latitude -5.7379713,
+   :source :openstreetmap}
+  {:name "Keraton Malige",
+   :longitude 122.606776,
+   :latitude -5.4578074,
+   :source :openstreetmap}
+  {:name "Keraton Sultan Ternate",
+   :longitude 127.3840254,
+   :latitude 0.8004433,
+   :source :openstreetmap}
+  {:name "Keraton Sumenep",
+   :longitude 113.8628729,
+   :latitude -7.0083138,
+   :source :openstreetmap}
+  {:name "Keraton Tayan",
+   :longitude 110.1210239,
+   :latitude -0.0378716,
+   :source :openstreetmap}
+  {:name "Ki Paharé Museum",
+   :longitude 106.9397349,
+   :latitude -6.9642762,
+   :source :openstreetmap,
+   :locality "Sukabumi"}
+  {:name "Kilang Kayu",
+   :longitude 96.7477221,
+   :latitude 3.7433832,
+   :source :openstreetmap}
+  {:name "Kios",
+   :longitude 124.8369102,
+   :latitude 1.4710532,
+   :source :openstreetmap}
+  {:name "Komaneka Fine Art Gallery",
+   :longitude 115.261289,
+   :latitude -8.5125505,
+   :source :openstreetmap,
+   :locality "Ubud"}
+  {:name "Komplek Museum Asi Mbojo",
+   :longitude 118.7276978,
+   :latitude -8.4537336,
+   :source :openstreetmap}
+  {:name "Komunitas Salihara",
+   :longitude 106.8382448,
+   :latitude -6.2836727,
+   :source :openstreetmap,
+   :homepage "https://salihara.org/",
+   :locality "Jakarta"}
+  {:name "Konservasi Penyu,pasir Putih",
+   :longitude 100.302373,
+   :latitude -0.8276172,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Kredawala Art Gallery",
+   :longitude 116.8650749,
+   :latitude -1.2751652,
+   :source :openstreetmap,
+   :locality "Balikpapan"}
+  {:name "KUA Air Dingin",
+   :longitude 101.4633908,
+   :latitude 0.4488205,
+   :source :openstreetmap}
+  {:name "Lab Studio",
+   :longitude 113.8930391,
+   :latitude -2.2352246,
+   :source :openstreetmap,
+   :locality "Palangkaraya"}
+  {:name "Labyrinth Arts Centre",
+   :longitude 115.0961532,
+   :latitude -8.6281118,
+   :source :openstreetmap}
+  {:name "Ladang Budaya Lanjong",
+   :longitude 116.9801788,
+   :latitude -0.3902851,
+   :source :openstreetmap}
+  {:name "Lake Gallery",
+   :longitude 116.0553483,
+   :latitude -8.350591,
+   :source :openstreetmap}
+  {:name "Lamin Adat Pemung Tawai",
+   :longitude 116.8201564,
+   :latitude -0.3069344,
+   :source :openstreetmap}
+  {:name "Langgeng Art Foundation",
+   :longitude 110.3595464,
+   :latitude -7.8179393,
+   :source :openstreetmap,
+   :homepage "https://cemeti.art/"}
+  {:name "LATAR Art Space",
+   :longitude 106.827858,
+   :latitude -6.2285028,
+   :source :openstreetmap,
+   :homepage "https://latar.id/",
+   :locality "DKI Jakarta"}
+  {:name "Lawi-lawi Souvenir",
+   :longitude 106.6132325,
+   :latitude -5.7450158,
+   :source :openstreetmap}
+  {:name "Leka Art Space",
+   :longitude 115.1546762,
+   :latitude -8.8014874,
+   :source :openstreetmap}
+  {:name "Leksa Ganesha Batik",
+   :longitude 110.3535169,
+   :latitude -7.8717893,
+   :source :openstreetmap,
+   :homepage "https://tembi.net/"}
+  {:name "Liang Bua Museum",
+   :longitude 120.444202,
+   :latitude -8.5306018,
+   :source :openstreetmap,
+   :homepage "http://floreshobbit.com"}
+  {:name "Lingga Yoni Kedung Benda",
+   :longitude 109.3428865,
+   :latitude -7.4741141,
+   :source :openstreetmap,
+   :locality "Purbalingga"}
+  {:name "Loji Tondano",
+   :longitude 124.9045395,
+   :latitude 1.3003091,
+   :source :openstreetmap}
+  {:name "Lotte Alley",
+   :longitude 106.8228332,
+   :latitude -6.2243158,
+   :source :openstreetmap,
+   :homepage "https://www.lottemall.co.id/"}
+  {:name "Majelis Adat Budaya Melayu",
+   :longitude 112.9258087,
+   :latitude 0.8461691,
+   :source :openstreetmap}
+  {:name "Makam Mbah SEMENDI",
+   :longitude 112.9665563,
+   :latitude -7.7277698,
+   :source :openstreetmap}
+  {:name "Malang Creative Center",
+   :longitude 112.6420412,
+   :latitude -7.940695,
+   :source :openstreetmap,
+   :homepage "https://mcc.malangkota.go.id/"}
+  {:name "Malang Stoomtram Maatschappij",
+   :longitude 112.6303554,
+   :latitude -7.9819152,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Maltaaaf Studio",
+   :longitude 106.9222216,
+   :latitude -6.9164414,
+   :source :openstreetmap,
+   :homepage "https://maltafaturrizal.com/"}
+  {:name "Markas Gerunduk",
+   :longitude 100.3555079,
+   :latitude -0.953546,
+   :source :openstreetmap,
+   :homepage "http://museumadityawarman.sumbar.go.id/",
+   :locality "Padang"}
+  {:name "MBV Gallery",
+   :longitude 115.106411,
+   :latitude -8.8124522,
+   :source :openstreetmap}
+  {:name "Merry Henna art padang",
+   :longitude 100.3643845,
+   :latitude -0.923342,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Meseum Labangengnge Bacukiki",
+   :longitude 119.6264535,
+   :latitude -4.0365704,
+   :source :openstreetmap,
+   :locality "parepare"}
+  {:name "Minimaniez Art Space",
+   :longitude 112.6335537,
+   :latitude -7.9599536,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Miwiti Space",
+   :longitude 110.4260084,
+   :latitude -6.9687533,
+   :source :openstreetmap,
+   :locality "Semarang"}
+  {:name "MOJA",
+   :longitude 106.803402,
+   :latitude -6.2176566,
+   :source :openstreetmap}
+  {:name "Mongolian Culture Center",
+   :longitude 105.6727615,
+   :latitude -6.4943286,
+   :source :openstreetmap}
+  {:name "Monumen Bank Dagang Negara",
+   :longitude 100.3507843,
+   :latitude -0.9007274,
+   :source :openstreetmap,
+   :locality "padang"}
+  {:name "Monumen Jogja Kembali",
+   :longitude 110.3696356,
+   :latitude -7.7496182,
+   :source :openstreetmap}
+  {:name "Monumen Pancasila Sakti",
+   :longitude 106.9069547,
+   :latitude -6.2883452,
+   :source :openstreetmap}
+  {:name "Muarasuara",
+   :longitude 117.1225171,
+   :latitude -0.4941846,
+   :source :openstreetmap,
+   :homepage "https://muarasuara.id/",
+   :locality "Samarinda"}
+  {:name "Muaro Jambi",
+   :longitude 103.6669021,
+   :latitude -1.4781958,
+   :source :openstreetmap}
+  {:name "Mus",
+   :longitude 110.3410209,
+   :latitude -7.8056213,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "musalla",
+   :longitude 96.9204651,
+   :latitude 3.6128258,
+   :source :openstreetmap}
+  {:name "museum",
+   :longitude 119.6067066,
+   :latitude -4.4823834,
+   :source :openstreetmap}
+  {:name "Museum Aceh",
+   :longitude 95.3209836,
+   :latitude 5.5488323,
+   :source :openstreetmap,
+   :locality "Kota Banda Aceh"}
+  {:name "Museum Agung Bung Karno",
+   :longitude 115.2254265,
+   :latitude -8.6723201,
+   :source :openstreetmap,
+   :locality "Denpasar"}
+  {:name "Museum Airlangga",
+   :longitude 111.9739636,
+   :latitude -7.807351,
+   :source :openstreetmap,
+   :locality "Kediri"}
+  {:name "Museum Al-Qur'an Al-akbar",
+   :longitude 104.7041252,
+   :latitude -3.0114717,
+   :source :openstreetmap,
+   :locality "Palembang"}
+  {:name "Museum Ali Hasjmy",
+   :longitude 95.3035569,
+   :latitude 5.5314122,
+   :source :openstreetmap,
+   :locality "Banda Aceh"}
+  {:name "Museum Anatomi Fakultas Kedokteran Universitas Indonesia",
+   :longitude 106.830634,
+   :latitude -6.3699977,
+   :source :openstreetmap,
+   :locality "West Java"}
+  {:name "Museum Anjuk Ladang",
+   :longitude 111.893933,
+   :latitude -7.5931622,
+   :source :openstreetmap,
+   :locality "Nganjuk"}
+  {:name "Museum Arca Sonokridanggo",
+   :longitude 110.5966339,
+   :latitude -7.53108,
+   :source :openstreetmap}
+  {:name "Museum Asmat",
+   :longitude 138.1340109,
+   :latitude -5.5403427,
+   :source :openstreetmap,
+   :locality "Kabupaten Asmat"}
+  {:name "Museum Bahari",
+   :longitude 106.8083185,
+   :latitude -6.1268288,
+   :source :openstreetmap,
+   :locality "North Jakarta"}
+  {:name "Museum Bahari Pantai Alam Indah",
+   :longitude 109.1424439,
+   :latitude -6.8494958,
+   :source :openstreetmap,
+   :locality "Tegal"}
+  {:name "Museum Bahari Sarwajala",
+   :longitude 108.5751975,
+   :latitude -6.7177436,
+   :source :openstreetmap,
+   :locality "Kota Cirebon"}
+  {:name "Museum Balai Rung Sri",
+   :longitude 102.0448103,
+   :latitude 0.796651,
+   :source :openstreetmap,
+   :locality "Siak Sri Indrapura"}
+  {:name "Museum Balanga Kalimantan Tengah",
+   :longitude 113.9016325,
+   :latitude -2.1955999,
+   :source :openstreetmap,
+   :locality "Palangka Raya"}
+  {:name "Museum Balaputera Dewa",
+   :longitude 104.7303375,
+   :latitude -2.9504091,
+   :source :openstreetmap,
+   :locality "Kota Palembang"}
+  {:name "Museum Bali",
+   :longitude 115.2186801,
+   :latitude -8.6575584,
+   :source :openstreetmap}
+  {:name "Museum Ballaʼ Lompoa",
+   :longitude 119.4527796,
+   :latitude -5.2067185,
+   :source :openstreetmap,
+   :locality "Kabupaten Gowa"}
+  {:name "Museum Bank Indonesia Padang",
+   :longitude 100.3582427,
+   :latitude -0.964448,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Museum Bank Mandiri",
+   :longitude 106.8131585,
+   :latitude -6.1381259,
+   :source :openstreetmap,
+   :locality "Jakarta Barat"}
+  {:name "Museum Bank Rakyat Indonesia",
+   :longitude 109.2255359,
+   :latitude -7.4237667,
+   :source :openstreetmap,
+   :locality "Purwokerto"}
+  {:name "Museum Bantul Masa Belanda",
+   :longitude 110.3196047,
+   :latitude -7.9189332,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Barli",
+   :longitude 107.5875461,
+   :latitude -6.878398,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Museum Basuki Abdoellah",
+   :longitude 106.7932691,
+   :latitude -6.2897697,
+   :source :openstreetmap,
+   :homepage "https://museumbasoekiabdullah.or.id/",
+   :locality "South Jakarta"}
+  {:name "Museum Batak",
+   :longitude 98.86019,
+   :latitude 2.6507906,
+   :source :openstreetmap}
+  {:name "Museum Batak T.B. Silalahi ( T.B. Silalahi Center )",
+   :longitude 99.051287,
+   :latitude 2.3314221,
+   :source :openstreetmap}
+  {:name "Museum Batara Guru",
+   :longitude 120.196061,
+   :latitude -2.9944756,
+   :source :openstreetmap,
+   :locality "Kabupaten Luwu"}
+  {:name "Museum Batik Gumelem",
+   :longitude 109.4233741,
+   :latitude -7.4974981,
+   :source :openstreetmap,
+   :locality "Banjarnegara"}
+  {:name "Museum Batik Pekalongan",
+   :longitude 109.6755769,
+   :latitude -6.878656,
+   :source :openstreetmap,
+   :locality "Pekalongan"}
+  {:name "Museum Batiwakkal",
+   :longitude 117.4919848,
+   :latitude 2.1599239,
+   :source :openstreetmap}
+  {:name "Museum Bendungan Rolak Songo",
+   :longitude 112.4658531,
+   :latitude -7.4459637,
+   :source :openstreetmap,
+   :locality "Mojokerto"}
+  {:name "Museum Benteng Heritage",
+   :longitude 106.6296454,
+   :latitude -6.1786614,
+   :source :openstreetmap}
+  {:name "Museum Benteng Van den Bosch",
+   :longitude 111.4545403,
+   :latitude -7.3898615,
+   :source :openstreetmap}
+  {:name "Museum Betawi",
+   :longitude 106.8252179,
+   :latitude -6.3384843,
+   :source :openstreetmap}
+  {:name "Museum Bhakti TNI",
+   :longitude 106.9134671,
+   :latitude -6.3172068,
+   :source :openstreetmap}
+  {:name "Museum Bharugano Wuna",
+   :longitude 122.7275432,
+   :latitude -4.8325581,
+   :source :openstreetmap,
+   :locality "Kabupaten Muna"}
+  {:name "Museum Bikon Blewut",
+   :longitude 122.1843617,
+   :latitude -8.6665933,
+   :source :openstreetmap}
+  {:name "Museum Biologi Sultan Agung",
+   :longitude 110.3744042,
+   :latitude -7.801859,
+   :source :openstreetmap}
+  {:name "Museum Bj. Habibie",
+   :longitude 119.6211524,
+   :latitude -4.0125221,
+   :source :openstreetmap,
+   :locality "Parepare"}
+  {:name "Museum Blambangan",
+   :longitude 114.3681615,
+   :latitude -8.2208632,
+   :source :openstreetmap,
+   :locality "Kabupaten Banyuwangi"}
+  {:name "Museum BPK RI",
+   :longitude 110.2140458,
+   :latitude -7.4740922,
+   :source :openstreetmap}
+  {:name "Museum Brawijaya",
+   :longitude 112.6208005,
+   :latitude -7.9719755,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Museum Budaya, Sains, dan Teknologi Bengawan Solo",
+   :longitude 110.8495091,
+   :latitude -7.5557024,
+   :source :openstreetmap}
+  {:name "Museum Bumi Ageung Cikidang",
+   :longitude 107.1431751,
+   :latitude -6.822431,
+   :source :openstreetmap}
+  {:name "Museum Bumi Alit",
+   :longitude 108.1948436,
+   :latitude -7.4523223,
+   :source :openstreetmap,
+   :locality "Tasikmalaya"}
+  {:name "museum Buya Hamka",
+   :longitude 100.2182597,
+   :latitude -0.3558169,
+   :source :openstreetmap}
+  {:name "Museum Candi Agung",
+   :longitude 115.2489073,
+   :latitude -2.4140634,
+   :source :openstreetmap}
+  {:name "Museum Colliq Pujie",
+   :longitude 119.6193599,
+   :latitude -4.414335,
+   :source :openstreetmap}
+  {:name "Museum Cual",
+   :longitude 106.1075462,
+   :latitude -2.1246702,
+   :source :openstreetmap}
+  {:name "Museum Daerah Kabupaten Lumajang",
+   :longitude 113.2362509,
+   :latitude -8.0753217,
+   :source :openstreetmap,
+   :locality "Lumajang"}
+  {:name "Museum Daerah Kabupaten Sambas",
+   :longitude 109.2971823,
+   :latitude 1.3647927,
+   :source :openstreetmap,
+   :locality "Kabupaten Sambas"}
+  {:name "Museum Daerah Maros",
+   :longitude 119.574708,
+   :latitude -5.0059484,
+   :source :openstreetmap,
+   :locality "Kabupaten Maros"}
+  {:name "Museum Daerah Nusa Tenggara Timur",
+   :longitude 123.6196018,
+   :latitude -10.1589581,
+   :source :openstreetmap,
+   :locality "Kota Kupang"}
+  {:name "Museum Daerah Sang Nila Utama",
+   :longitude 101.4542082,
+   :latitude 0.4942294,
+   :source :openstreetmap}
+  {:name "Museum Daerah Sumatera Utara",
+   :longitude 98.6962956,
+   :latitude 3.5679356,
+   :source :openstreetmap,
+   :locality "Medan"}
+  {:name "Museum dan Galeri Seni SBY ANI Pacitan",
+   :longitude 111.0929554,
+   :latitude -8.2098889,
+   :source :openstreetmap}
+  {:name "Museum dan Kampung Seni Borobudur",
+   :longitude 110.1973155,
+   :latitude -7.6031753,
+   :source :openstreetmap}
+  {:name "Museum dan Tanah Liat",
+   :longitude 110.3395997,
+   :latitude -7.8200044,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum dan Wisata Budaya Umah Wayang Kemukusan",
+   :longitude 109.4289525,
+   :latitude -7.3627252,
+   :source :openstreetmap,
+   :homepage
+   "https://jadesta.kemenparekraf.go.id/desa/umah_wayang_selakambang",
+   :locality "Purbalingga"}
+  {:name "Museum Dara Juanti",
+   :longitude 111.4914579,
+   :latitude 0.0833652,
+   :source :openstreetmap,
+   :locality "Kabupaten Sintang"}
+  {:name "Museum Deli Serdang",
+   :longitude 98.8663664,
+   :latitude 3.5522469,
+   :source :openstreetmap}
+  {:name "Museum Dem Matande",
+   :longitude 119.3783133,
+   :latitude -2.94289,
+   :source :openstreetmap}
+  {:name "Museum Dewantara Kirti Griya",
+   :longitude 110.3784127,
+   :latitude -7.8054562,
+   :source :openstreetmap,
+   :locality "Yogyakarta"}
+  {:name "Museum di Tengah Kebun",
+   :longitude 106.8246783,
+   :latitude -6.2676541,
+   :source :openstreetmap,
+   :locality "South Jakarta"}
+  {:name "Museum Dr. A.K. Gani",
+   :longitude 104.7695488,
+   :latitude -2.9298709,
+   :source :openstreetmap,
+   :locality "Palembang"}
+  {:name "Museum Dr. K.R.T. Radjiman Wedyodiningrat",
+   :longitude 111.2030869,
+   :latitude -7.4072547,
+   :source :openstreetmap,
+   :locality "Ngawi"}
+  {:name "Museum Dr. Soetomo",
+   :longitude 112.7353452,
+   :latitude -7.2509058,
+   :source :openstreetmap}
+  {:name "Museum Eman",
+   :longitude 119.6521657,
+   :latitude -3.7874816,
+   :source :openstreetmap}
+  {:name "Museum Empu Tantular",
+   :longitude 112.7196326,
+   :latitude -7.4336872,
+   :source :openstreetmap,
+   :locality "Sidoarjo"}
+  {:name "Museum Engine R. Ahmad Imanullah",
+   :longitude 110.4177802,
+   :latitude -7.7897855,
+   :source :openstreetmap}
+  {:name "Museum Etnografi",
+   :longitude 112.7595332,
+   :latitude -7.2725027,
+   :source :openstreetmap}
+  {:name "Museum Etnografi Sendawar",
+   :longitude 115.7015076,
+   :latitude -0.2332542,
+   :source :openstreetmap,
+   :locality "Kabupaten Kutai Barat"}
+  {:name "Museum Fauna Indonesia Komodo dan Taman Reptil",
+   :longitude 106.9010234,
+   :latitude -6.3040682,
+   :source :openstreetmap}
+  {:name "Museum Flora dan Fauna Kota Tarakan",
+   :longitude 117.5946917,
+   :latitude 3.3113741,
+   :source :openstreetmap}
+  {:name "Museum Fohorai",
+   :longitude 124.861273,
+   :latitude -9.1010737,
+   :source :openstreetmap,
+   :locality "Kabupaten Belu"}
+  {:name "Museum Fotografi Kediri",
+   :longitude 112.0297652,
+   :latitude -7.8475932,
+   :source :openstreetmap,
+   :locality "Kediri"}
+  {:name "Museum Galuh Imbanagara",
+   :longitude 108.3058002,
+   :latitude -7.3175007,
+   :source :openstreetmap,
+   :locality "Ciamis"}
+  {:name "Museum Galuh Pakuan",
+   :longitude 108.3493981,
+   :latitude -7.3328587,
+   :source :openstreetmap,
+   :locality "Ciamis"}
+  {:name "Museum Gedong Arca",
+   :longitude 115.293056,
+   :latitude -8.5193214,
+   :source :openstreetmap,
+   :locality "Desa Bedulu, Kecamatan Balhbatuh, Kabupaten Gianyar"}
+  {:name "Museum Gedung Pusaka Keraton Kanoman Cirebon",
+   :longitude 108.5681084,
+   :latitude -6.7227708,
+   :source :openstreetmap}
+  {:name "Museum Gedung Sate",
+   :longitude 107.6190825,
+   :latitude -6.9025816,
+   :source :openstreetmap,
+   :homepage "http://museumgedungsate.jabarprov.go.id"}
+  {:name "Museum Geoteknologi Mineral",
+   :longitude 110.4146188,
+   :latitude -7.7816777,
+   :source :openstreetmap}
+  {:name "Museum Golok Abah Jack",
+   :longitude 106.0599246,
+   :latitude -5.9987069,
+   :source :openstreetmap,
+   :locality "Cilegon"}
+  {:name "Museum Gubug Wayang Mojokerto",
+   :longitude 112.4301909,
+   :latitude -7.4657101,
+   :source :openstreetmap,
+   :homepage "https://gubug-wayang.com/",
+   :locality "Mentikan"}
+  {:name "Museum Gudang Ransum",
+   :longitude 100.7810307,
+   :latitude -0.6789612,
+   :source :openstreetmap,
+   :locality "Sawahlunto"}
+  {:name "Museum Gula",
+   :longitude 110.5615259,
+   :latitude -7.7211986,
+   :source :openstreetmap}
+  {:name "Museum Gumuk Pasir Parangtritis",
+   :longitude 110.3021438,
+   :latitude -8.0092878,
+   :source :openstreetmap}
+  {:name "Museum Gunung Batur (Volcano Batur)",
+   :longitude 115.3644705,
+   :latitude -8.2838776,
+   :source :openstreetmap,
+   :homepage
+   "http://www.facebook.com/pages/Museum-Gunung-Api-Batur-MGAB/246683745430216"}
+  {:name "Museum Haji Muhammad Sattar (MHMS)",
+   :longitude 112.6154861,
+   :latitude -7.9570039,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Museum HAM Omah Munir",
+   :longitude 112.5284237,
+   :latitude -7.8458304,
+   :source :openstreetmap,
+   :locality "Batu"}
+  {:name "Museum Hamong Wardoyo",
+   :longitude 110.6167653,
+   :latitude -7.5388398,
+   :source :openstreetmap,
+   :locality "Boyolali"}
+  {:name "Museum Harry Darsono",
+   :longitude 106.8018858,
+   :latitude -6.289216,
+   :source :openstreetmap,
+   :locality "South Jakarta"}
+  {:name "Museum Herbarium dan Zoologi ITB",
+   :longitude 107.771293,
+   :latitude -6.9320057,
+   :source :openstreetmap}
+  {:name "Museum Historia 24249",
+   :longitude 110.4686931,
+   :latitude -7.7276601,
+   :source :openstreetmap,
+   :locality "Sleman"}
+  {:name "Museum Holocaust Indonesia",
+   :longitude 124.9074394,
+   :latitude 1.3082507,
+   :source :openstreetmap}
+  {:name "Museum Huruf Jember",
+   :longitude 113.7092033,
+   :latitude -8.1679436,
+   :source :openstreetmap,
+   :locality "Jember"}
+  {:name "Museum Huta Bolon Simanindo",
+   :longitude 98.7441232,
+   :latitude 2.7523751,
+   :source :openstreetmap}
+  {:name "Museum Inggil",
+   :longitude 112.6348324,
+   :latitude -7.9787792,
+   :source :openstreetmap}
+  {:name "Museum Ir.H. Juanda",
+   :longitude 107.6291737,
+   :latitude -6.8576071,
+   :source :openstreetmap}
+  {:name "Museum Islam Indonesia KH Hasyim Asy'ari Tebuireng",
+   :longitude 112.234609,
+   :latitude -7.6086496,
+   :source :openstreetmap,
+   :locality "Jombang"}
+  {:name "Museum Islam Prabu Siliwangi",
+   :longitude 106.913327,
+   :latitude -6.9065926,
+   :source :openstreetmap,
+   :locality "Sukabumi"}
+  {:name "Museum Islam Samudra Pasai",
+   :longitude 97.2017582,
+   :latitude 5.1326562,
+   :source :openstreetmap,
+   :locality "Beuringen"}
+  {:name "Museum Istana Kepresidenan Cipanas",
+   :longitude 107.0394538,
+   :latitude -6.7320152,
+   :source :openstreetmap}
+  {:name "Museum Istana Yogyakarta",
+   :longitude 110.3642119,
+   :latitude -7.8009419,
+   :source :openstreetmap}
+  {:name "Museum Jawi Sukoharjo",
+   :longitude 110.8254862,
+   :latitude -7.7256615,
+   :source :openstreetmap,
+   :locality "Sukoharjo"}
+  {:name "Museum Jenderal Besar Dr. A. H. Nasution",
+   :longitude 106.8326369,
+   :latitude -6.1928977,
+   :source :openstreetmap,
+   :locality "Central Jakarta"}
+  {:name "Museum Juang Kabupaten Bungo",
+   :longitude 102.1178623,
+   :latitude -1.4823016,
+   :source :openstreetmap}
+  {:name "Museum Kailasa",
+   :longitude 109.9053608,
+   :latitude -7.2083585,
+   :source :openstreetmap}
+  {:name "Museum Kambang Putih",
+   :longitude 112.064226,
+   :latitude -6.8960511,
+   :source :openstreetmap,
+   :locality "Tuban"}
+  {:name "Museum Kampung Hilang",
+   :longitude 110.4582379,
+   :latitude -7.6380708,
+   :source :openstreetmap}
+  {:name "Museum Kanjeng Sepuh Sidayu",
+   :longitude 112.5658567,
+   :latitude -6.9915981,
+   :source :openstreetmap,
+   :locality "Gresik"}
+  {:name "Museum Kanker Indonesia",
+   :longitude 112.7489576,
+   :latitude -7.2674444,
+   :source :openstreetmap,
+   :homepage "https://www.museumkankerindonesia.com/",
+   :locality "Surabaya"}
+  {:name "Museum Kapal",
+   :longitude 110.3496168,
+   :latitude -7.8012112,
+   :source :openstreetmap}
+  {:name "Museum Kapal Samudraraksa",
+   :longitude 110.2033713,
+   :latitude -7.604765,
+   :source :openstreetmap,
+   :locality "Magelang"}
+  {:name "Museum Karst Indonesia",
+   :longitude 110.7831589,
+   :latitude -8.0414072,
+   :source :openstreetmap,
+   :locality "Wonogiri"}
+  {:name "Museum Kata Andrea Hirata",
+   :longitude 108.1641602,
+   :latitude -2.9669796,
+   :source :openstreetmap,
+   :homepage "http://www.museumkataandreahirata.com"}
+  {:name "Museum Kavaleri",
+   :longitude 107.6302176,
+   :latitude -6.9254976,
+   :source :openstreetmap}
+  {:name "Museum Kayu",
+   :longitude 117.2081455,
+   :latitude -0.4504135,
+   :source :openstreetmap}
+  {:name "Museum Kayu Sampit",
+   :longitude 112.9587139,
+   :latitude -2.5386366,
+   :source :openstreetmap,
+   :locality "Kabupaten Kotawaringin Timur"}
+  {:name "Museum Kayu Tuah Himba",
+   :longitude 116.9708866,
+   :latitude -0.4056501,
+   :source :openstreetmap,
+   :locality "Kutai Kartanegara"}
+  {:name "Museum Kayu Wanagama",
+   :longitude 110.5469901,
+   :latitude -7.8934805,
+   :source :openstreetmap,
+   :locality "Gunungkidul"}
+  {:name "Museum Kebangkitan Nasional",
+   :longitude 106.8380412,
+   :latitude -6.1787409,
+   :source :openstreetmap,
+   :locality "Central Jakarta"}
+  {:name "Museum Kebudayaan Tionghoa",
+   :longitude 107.5773807,
+   :latitude -6.9217089,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Museum Kehutanan",
+   :longitude 106.798535,
+   :latitude -6.2071155,
+   :source :openstreetmap,
+   :locality "DKI Jakarta"}
+  {:name "Museum Kemanunggalan TNI dan Rakyat Baruga Pak Letnan",
+   :longitude 119.7868683,
+   :latitude -3.6623893,
+   :source :openstreetmap}
+  {:name "Museum Keprajuritan Indonesia",
+   :longitude 106.8968077,
+   :latitude -6.3055332,
+   :source :openstreetmap}
+  {:name "Museum Kepresidenan Balai Kirti",
+   :longitude 106.7955949,
+   :latitude -6.5980801,
+   :source :openstreetmap,
+   :homepage "https://museumkepresidenan.id/"}
+  {:name "Museum Kerajinan Amai Setia",
+   :longitude 100.3547534,
+   :latitude -0.3134659,
+   :source :openstreetmap}
+  {:name "Museum Kerajinan Kulit Manding",
+   :longitude 110.3500234,
+   :latitude -7.8949128,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Keraton Surakarta",
+   :longitude 110.8284856,
+   :latitude -7.5785873,
+   :source :openstreetmap}
+  {:name "Museum Kereta Api Bondowoso",
+   :longitude 113.8293486,
+   :latitude -7.9168731,
+   :source :openstreetmap,
+   :homepage "https://heritage.kai.id/page/museum-bondowoso",
+   :locality "Bondowoso"}
+  {:name "Museum Kereta Api Sawahlunto",
+   :longitude 100.7769464,
+   :latitude -0.682885,
+   :source :openstreetmap}
+  {:name "Museum Kereta Singa Barong",
+   :longitude 108.5712348,
+   :latitude -6.7271788,
+   :source :openstreetmap}
+  {:name "Museum Kerinci",
+   :longitude 101.5236665,
+   :latitude -2.1278017,
+   :source :openstreetmap,
+   :locality "Kabupaten Kerinci"}
+  {:name "Museum Keris Nusantara",
+   :longitude 110.8109422,
+   :latitude -7.5689752,
+   :source :openstreetmap,
+   :locality "Sriwedari"}
+  {:name "Museum Kesehatan Jiwa",
+   :longitude 112.7143943,
+   :latitude -7.825223,
+   :source :openstreetmap}
+  {:name "Museum Ki Amri Yahya",
+   :longitude 110.3538235,
+   :latitude -7.7992032,
+   :source :openstreetmap}
+  {:name "Museum Kodam VI/MLW",
+   :longitude 116.8178544,
+   :latitude -1.2340509,
+   :source :openstreetmap,
+   :locality "Kota Balikpapan"}
+  {:name "Museum Konferensi Asia-Afrika",
+   :longitude 107.6095551,
+   :latitude -6.9210718,
+   :source :openstreetmap,
+   :homepage "https://www.asiafricamuseum.org/",
+   :locality "Bandung"}
+  {:name "Museum Kota Lama",
+   :longitude 110.4308266,
+   :latitude -6.9694441,
+   :source :openstreetmap,
+   :locality "Semarang"}
+  {:name "Museum Kota Langsa",
+   :longitude 97.9677837,
+   :latitude 4.4712842,
+   :source :openstreetmap}
+  {:name "Museum Kota Lhokseumawe",
+   :longitude 97.1403806,
+   :latitude 5.1804769,
+   :source :openstreetmap,
+   :homepage
+   "https://museum-kota-lhokseumawe.business.site/?utm_source=gmb&utm_medium=referral",
+   :locality "Lhokseumawe"}
+  {:name "Museum Kota Makassar",
+   :longitude 119.4086196,
+   :latitude -5.1346471,
+   :source :openstreetmap}
+  {:name "Museum Kretek",
+   :longitude 110.8377134,
+   :latitude -6.8263339,
+   :source :openstreetmap,
+   :locality "Kudus"}
+  {:name "Museum La Galigo",
+   :longitude 119.4053659,
+   :latitude -5.1335306,
+   :source :openstreetmap,
+   :locality "Kota Makassar"}
+  {:name "Museum Lambung Mangkurat",
+   :longitude 114.8381438,
+   :latitude -3.4423161,
+   :source :openstreetmap,
+   :locality "Banjarbaru"}
+  {:name "Museum Layang-layang Indonesia",
+   :longitude 106.7906265,
+   :latitude -6.3078393,
+   :source :openstreetmap}
+  {:name "Museum Lembaga Tembakau Jember",
+   :longitude 113.7146069,
+   :latitude -8.1588738,
+   :source :openstreetmap,
+   :locality "Jember"}
+  {:name "Museum Letjen Jamin Gintings",
+   :longitude 98.5205113,
+   :latitude 3.0609233,
+   :source :openstreetmap,
+   :locality "Kabupaten Karo"}
+  {:name "Museum Lewu Hante",
+   :longitude 115.2401583,
+   :latitude -2.1986437,
+   :source :openstreetmap}
+  {:name "Museum Literasi Gol A Gong",
+   :longitude 106.1798136,
+   :latitude -6.1289064,
+   :source :openstreetmap,
+   :locality "Sumurpecung"}
+  {:name "Museum Literasi KH TB Ahmad Khotib",
+   :longitude 106.1572738,
+   :latitude -6.1215395,
+   :source :openstreetmap,
+   :locality "Serang"}
+  {:name "Museum Lokabudaya Uncen",
+   :longitude 140.6604184,
+   :latitude -2.6104677,
+   :source :openstreetmap}
+  {:name "Museum Lukisan dan Etno Kayu",
+   :longitude 100.7767928,
+   :latitude -0.6792,
+   :source :openstreetmap,
+   :locality "Sawahlunto"}
+  {:name "Museum MACAN",
+   :longitude 106.7676685,
+   :latitude -6.191158,
+   :source :openstreetmap}
+  {:name "Museum Majapahit Trowulan",
+   :longitude 112.3805253,
+   :latitude -7.5600584,
+   :source :openstreetmap}
+  {:name "Museum Makam Mbah Lebaiduda",
+   :longitude 109.5984515,
+   :latitude -7.747476,
+   :source :openstreetmap}
+  {:name "Museum Malenge Karangsambung",
+   :longitude 109.6735289,
+   :latitude -7.5463888,
+   :source :openstreetmap,
+   :homepage "http://karangsambung.lipi.go.id/",
+   :locality "Karangsambung"}
+  {:name "Museum Malinau",
+   :longitude 116.6101263,
+   :latitude 3.5280142,
+   :source :openstreetmap}
+  {:name "Museum Mandala Bhakti",
+   :longitude 110.4087995,
+   :latitude -6.9847963,
+   :source :openstreetmap,
+   :homepage "http://semarang.yogyes.com/id/places/129/",
+   :locality "Semarang"}
+  {:name "Museum Mandala Wangsit Siliwangi",
+   :longitude 107.6111022,
+   :latitude -6.917316,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Museum Manusia Purba Sangiran",
+   :longitude 110.8341358,
+   :latitude -7.4559503,
+   :source :openstreetmap}
+  {:name "Museum Manusia Purba Sangiran Kluster Ngebung",
+   :longitude 110.8403613,
+   :latitude -7.4411863,
+   :source :openstreetmap}
+  {:name "Museum Masjid Agung Demak",
+   :longitude 110.6376224,
+   :latitude -6.8942285,
+   :source :openstreetmap,
+   :locality "Demak"}
+  {:name "Museum Megalitikum Bondowoso",
+   :longitude 113.794864,
+   :latitude -7.996403,
+   :source :openstreetmap}
+  {:name "Museum Memorial HM Soeharto",
+   :longitude 110.2804672,
+   :latitude -7.7914096,
+   :source :openstreetmap,
+   :homepage "http://hmsoeharto.com/"}
+  {:name "Museum Mini Didi Kempot",
+   :longitude 110.8080772,
+   :latitude -7.5482465,
+   :source :openstreetmap,
+   :locality "Surakarta"}
+  {:name "Museum Mini Merapi Sisa Hartaku",
+   :longitude 110.4491062,
+   :latitude -7.6004719,
+   :source :openstreetmap,
+   :locality "Sleman"}
+  {:name "Museum Minyak dan Gas Graha Widya Patra",
+   :longitude 106.9051803,
+   :latitude -6.3022146,
+   :source :openstreetmap}
+  {:name "Museum Mohammad Hoesni Thamrin",
+   :longitude 106.8452349,
+   :latitude -6.193229,
+   :source :openstreetmap,
+   :locality "Central Jakarta"}
+  {:name "Museum Mpu Purwa",
+   :longitude 112.6208568,
+   :latitude -7.9403178,
+   :source :openstreetmap,
+   :homepage "https://www.mpupurwamalang.org/",
+   :locality "Malang"}
+  {:name "Museum Muhammadiyah",
+   :longitude 110.383814,
+   :latitude -7.8341771,
+   :source :openstreetmap,
+   :locality "Yogyakarta"}
+  {:name "Museum Mulawarman",
+   :longitude 116.990094,
+   :latitude -0.413269,
+   :source :openstreetmap,
+   :homepage "http://disbudpar.kutaikartanegarakab.go.id/",
+   :locality "Kabupaten Kutai Kartanegara"}
+  {:name "Museum Multatuli",
+   :longitude 106.247259,
+   :latitude -6.360525,
+   :source :openstreetmap,
+   :homepage "https://museummultatuli.id/",
+   :locality "Lebak"}
+  {:name "Museum Musik Indonesia",
+   :longitude 112.6266642,
+   :latitude -7.9883338,
+   :source :openstreetmap,
+   :locality "Kota Malang"}
+  {:name "Museum Nasional",
+   :longitude 106.8215894,
+   :latitude -6.176146,
+   :source :openstreetmap,
+   :homepage "https://www.museumnasional.or.id/",
+   :locality "DKI Jakarta"}
+  {:name "Museum Negeri Banten",
+   :longitude 106.1585941,
+   :latitude -6.0381864,
+   :source :openstreetmap}
+  {:name "Museum Negeri Banten",
+   :longitude 106.1500355,
+   :latitude -6.1162359,
+   :source :openstreetmap,
+   :locality "Serang"}
+  {:name "Museum Negeri NTB",
+   :longitude 116.0858857,
+   :latitude -8.585067,
+   :source :openstreetmap}
+  {:name "Museum Negeri Provinsi Sulawesi Tengah",
+   :longitude 119.8539365,
+   :latitude -0.9019804,
+   :source :openstreetmap,
+   :locality "Kota Palu"}
+  {:name "Museum Negeri Provinsi Sulawesi Tenggara",
+   :longitude 122.5177415,
+   :latitude -3.977189,
+   :source :openstreetmap,
+   :locality "Kota Kendari"}
+  {:name "Museum Negeri Sulawesi Utara",
+   :longitude 124.8446911,
+   :latitude 1.4880491,
+   :source :openstreetmap}
+  {:name "Museum Nekara",
+   :longitude 120.4539774,
+   :latitude -6.1494487,
+   :source :openstreetmap}
+  {:name "Museum Nelayan",
+   :longitude 116.9906164,
+   :latitude -8.4767487,
+   :source :openstreetmap}
+  {:name "Museum Nelayan Pela",
+   :longitude 116.5414527,
+   :latitude -0.2403273,
+   :source :openstreetmap}
+  {:name "Museum Nike Ardilla",
+   :longitude 107.6725146,
+   :latitude -6.9405148,
+   :source :openstreetmap,
+   :locality "Bandung"}
+  {:name "Museum Nyoman Gunarsa",
+   :longitude 115.3868897,
+   :latitude -8.5518639,
+   :source :openstreetmap,
+   :locality
+   "Takmung, Banjarangkan, Takmung, Kec. Klungkung, Kabupaten Klungkung, Bali"}
+  {:name "Museum Olahraga Surabaya",
+   :longitude 112.7310688,
+   :latitude -7.2867273,
+   :source :openstreetmap,
+   :locality "Surabaya"}
+  {:name "Museum Padepokan Sumber Karahayon",
+   :longitude 110.4093142,
+   :latitude -7.8595973,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Pagatan",
+   :longitude 115.9335293,
+   :latitude -3.6084864,
+   :source :openstreetmap}
+  {:name "Museum Pangeran Cakrabuwana Kabupaten Cirebon",
+   :longitude 108.4775875,
+   :latitude -6.7625885,
+   :source :openstreetmap,
+   :locality "Cirebon"}
+  {:name "Museum Pangeran Diponegoro",
+   :longitude 110.351519,
+   :latitude -7.7872136,
+   :source :openstreetmap}
+  {:name "Museum Panji",
+   :longitude 112.7300195,
+   :latitude -8.0027646,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "museum Pasemuan",
+   :longitude 109.1758505,
+   :latitude -7.6672654,
+   :source :openstreetmap}
+  {:name "Museum Pasifika",
+   :longitude 115.2305614,
+   :latitude -8.7999121,
+   :source :openstreetmap,
+   :homepage "https://museum-pasifika.com/",
+   :locality "BTDC Complex Nusa Dua"}
+  {:name "Museum PDAM Intan Banjar",
+   :longitude 114.8398151,
+   :latitude -3.430848,
+   :source :openstreetmap,
+   :locality "Banjarbaru"}
+  {:name "Museum Pedaratan Pesawat Ampibi Bung Karno",
+   :longitude 122.9948817,
+   :latitude 0.5516152,
+   :source :openstreetmap,
+   :locality "Kabupaten Gorontalo"}
+  {:name "Museum Pembela Tanah Air",
+   :longitude 106.7963526,
+   :latitude -6.5851929,
+   :source :openstreetmap,
+   :locality "Bogor"}
+  {:name "Museum Penataran",
+   :longitude 112.2089505,
+   :latitude -8.0126082,
+   :source :openstreetmap,
+   :locality "Blitar"}
+  {:name "Museum Pendet",
+   :longitude 115.2570676,
+   :latitude -8.5229011,
+   :source :openstreetmap}
+  {:name "Museum Pendidikan",
+   :longitude 112.7429642,
+   :latitude -7.256217,
+   :source :openstreetmap}
+  {:name "Museum Pendidikan Indonesia Kota Malang",
+   :longitude 112.64949,
+   :latitude -8.0344195,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Museum Pendidikan Indonesia. MPI UNY",
+   :longitude 110.3871783,
+   :latitude -7.774818,
+   :source :openstreetmap,
+   :locality "Sleman"}
+  {:name "Museum Pendidikan Nasional UPI",
+   :longitude 107.5941633,
+   :latitude -6.8597763,
+   :source :openstreetmap,
+   :homepage "https://museumpendidikannasional.upi.edu/",
+   :locality "Bandung"}
+  {:name "Museum Penerbangan Lanud Suryadarma",
+   :longitude 107.6662185,
+   :latitude -6.5355561,
+   :source :openstreetmap,
+   :locality "Subang"}
+  {:name "Museum Penyiaran LPP RRI Pekanbaru",
+   :longitude 101.4434046,
+   :latitude 0.5355888,
+   :source :openstreetmap}
+  {:name "Museum Perbendaharaan",
+   :longitude 107.6228648,
+   :latitude -6.9006473,
+   :source :openstreetmap,
+   :homepage "http://museum.geology.esdm.go.id"}
+  {:name "Museum Perjuangan",
+   :longitude 106.7881253,
+   :latitude -6.5930464,
+   :source :openstreetmap,
+   :homepage "http://www.commoning.com/node/74"}
+  {:name "Museum Perjuangan",
+   :longitude 124.8392558,
+   :latitude 1.4903508,
+   :source :openstreetmap,
+   :locality "Manado"}
+  {:name "Museum Perjuangan Pers Sumatera Utara",
+   :longitude 98.6520628,
+   :latitude 3.5858335,
+   :source :openstreetmap,
+   :locality "Medan"}
+  {:name "Museum Perjuangan Rakyat Jambi",
+   :longitude 103.606836,
+   :latitude -1.5963425,
+   :source :openstreetmap,
+   :locality "Jambi"}
+  {:name "Museum Perjuangan Sanga-Sanga",
+   :longitude 117.23331,
+   :latitude -0.6588425,
+   :source :openstreetmap}
+  {:name "Museum Perjuangan TNI",
+   :longitude 98.6740148,
+   :latitude 3.5838746,
+   :source :openstreetmap,
+   :locality "Medan"}
+  {:name "Museum Perjuangan Yogyakarta",
+   :longitude 110.3718316,
+   :latitude -7.8164706,
+   :source :openstreetmap,
+   :locality "Yogyakarta"}
+  {:name "Museum Perkebunan Indonesia",
+   :longitude 98.6889838,
+   :latitude 3.5565191,
+   :source :openstreetmap,
+   :homepage
+   "https://museum-perkebunan-indonesia.business.site/?utm_source=gmb&utm_medium=referral",
+   :locality "Medan"}
+  {:name "Museum Perumusan Naskah Proklamasi",
+   :longitude 106.8310836,
+   :latitude -6.200436,
+   :source :openstreetmap,
+   :locality "Central Jakarta"}
+  {:name "Museum Pesemuan",
+   :longitude 109.1766183,
+   :latitude -7.6707585,
+   :source :openstreetmap}
+  {:name "Museum Pidie Jaya",
+   :longitude 96.2426105,
+   :latitude 5.2295095,
+   :source :openstreetmap,
+   :locality "Pijay"}
+  {:name "Museum Pinawetengan",
+   :longitude 124.7934413,
+   :latitude 1.1830242,
+   :source :openstreetmap}
+  {:name "Museum Plataran",
+   :longitude 110.4634079,
+   :latitude -7.7146662,
+   :source :openstreetmap,
+   :locality "Sleman"}
+  {:name "Museum Polri",
+   :longitude 106.8027684,
+   :latitude -6.2394013,
+   :source :openstreetmap,
+   :homepage "https://museumpolri.org/"}
+  {:name "Museum Pongtiku Toraja Utara",
+   :longitude 119.8979688,
+   :latitude -2.9697207,
+   :source :openstreetmap}
+  {:name "Museum Prabu Geusan Ulun",
+   :longitude 107.9212507,
+   :latitude -6.8612581,
+   :source :openstreetmap}
+  {:name "Museum Prambanan",
+   :longitude 110.4934268,
+   :latitude -7.7494023,
+   :source :openstreetmap}
+  {:name "Museum Probolinggo",
+   :longitude 113.2157874,
+   :latitude -7.7511129,
+   :source :openstreetmap,
+   :locality "Probolinggo"}
+  {:name "Museum Prof. Dr. R. Soegarda Poerbakawatja",
+   :longitude 109.3630545,
+   :latitude -7.3884651,
+   :source :openstreetmap,
+   :homepage "https://museumsoegarda.purbalinggakab.go.id/",
+   :locality "Purbalingga"}
+  {:name "Museum Provinsi Gorontalo",
+   :longitude 123.0787988,
+   :latitude 0.5360681,
+   :source :openstreetmap,
+   :locality "Gorontalo"}
+  {:name "Museum Provinsi Kalimantan Barat",
+   :longitude 109.3428003,
+   :latitude -0.0484792,
+   :source :openstreetmap,
+   :locality "Pontianak"}
+  {:name "Museum Pura Mangkunegaran",
+   :longitude 110.8230954,
+   :latitude -7.5660015,
+   :source :openstreetmap,
+   :locality "Solo"}
+  {:name "Museum Purabaya",
+   :longitude 111.5409856,
+   :latitude -7.5773212,
+   :source :openstreetmap,
+   :locality "Madiun"}
+  {:name "Museum Purbakala",
+   :longitude 115.2997459,
+   :latitude -8.5119445,
+   :source :openstreetmap}
+  {:name "Museum Purbakala Muara Kaman",
+   :longitude 116.7259386,
+   :latitude -0.1471367,
+   :source :openstreetmap}
+  {:name "Museum Purbakala Patiayam",
+   :longitude 110.9384831,
+   :latitude -6.7937044,
+   :source :openstreetmap,
+   :locality "Kudus"}
+  {:name "Museum Pusaka Karo",
+   :longitude 98.5084135,
+   :latitude 3.1947164,
+   :source :openstreetmap}
+  {:name "Museum Pusaka Nias",
+   :longitude 97.6087097,
+   :latitude 1.2982269,
+   :source :openstreetmap}
+  {:name "Museum Pusaka Tempurharjo",
+   :longitude 110.8043843,
+   :latitude -7.9085739,
+   :source :openstreetmap,
+   :locality "Wonogiri"}
+  {:name "Museum Pusat Perkembangan Islam Jawa Tengah",
+   :longitude 110.4466383,
+   :latitude -6.9847396,
+   :source :openstreetmap,
+   :locality "Semarang"}
+  {:name "Museum Pusat TNI AD \"Dharma Wiratama\"",
+   :longitude 110.3754535,
+   :latitude -7.782439,
+   :source :openstreetmap,
+   :locality "Yogyakarta"}
+  {:name "Museum Pustaka Lontar",
+   :longitude 115.6120183,
+   :latitude -8.4212728,
+   :source :openstreetmap}
+  {:name "Museum Pustaka Peranakan Tionghoa",
+   :longitude 106.6639236,
+   :latitude -6.2888465,
+   :source :openstreetmap}
+  {:name "Museum R.A. Kartini",
+   :longitude 111.3503199,
+   :latitude -6.707067,
+   :source :openstreetmap,
+   :homepage "https://museumkartinirembang.id/",
+   :locality "Rembang"}
+  {:name "Museum RA.Kartini",
+   :longitude 110.667249,
+   :latitude -6.5885648,
+   :source :openstreetmap}
+  {:name "Museum Radio AURI PC 2",
+   :longitude 110.5432199,
+   :latitude -7.9508357,
+   :source :openstreetmap,
+   :locality "Gunung Kidul"}
+  {:name "Museum Raja Ali Haji",
+   :longitude 104.0537745,
+   :latitude 1.1293907,
+   :source :openstreetmap}
+  {:name "Museum Rakyat HSS",
+   :longitude 115.2610615,
+   :latitude -2.798136,
+   :source :openstreetmap,
+   :locality "Kabupaten Hulu Sungai Selatan"}
+  {:name "Museum Reenactor Ngalam",
+   :longitude 112.6080485,
+   :latitude -7.9548437,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Museum Rudana",
+   :longitude 115.2715408,
+   :latitude -8.5294046,
+   :source :openstreetmap,
+   :homepage "http://www.therudana.org"}
+  {:name "Museum Rumah Gadang Kinantan",
+   :longitude 100.3695846,
+   :latitude -0.3007043,
+   :source :openstreetmap}
+  {:name "Museum Rumah Garuda",
+   :longitude 110.3418229,
+   :latitude -7.9090434,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Rumah Kelahiran Bung Hatta",
+   :longitude 100.3731247,
+   :latitude -0.300736,
+   :source :openstreetmap,
+   :locality "Bukittinggi"}
+  {:name "Museum Sadurengas",
+   :longitude 116.2107364,
+   :latitude -1.9481028,
+   :source :openstreetmap,
+   :locality "Kabupaten Paser"}
+  {:name "Museum Samanhoedi",
+   :longitude 110.7973069,
+   :latitude -7.5667123,
+   :source :openstreetmap,
+   :locality "Surakarta"}
+  {:name "Museum Samarinda",
+   :longitude 117.1443885,
+   :latitude -0.4958856,
+   :source :openstreetmap}
+  {:name "Museum Samparaja",
+   :longitude 118.7388731,
+   :latitude -8.4551518,
+   :source :openstreetmap}
+  {:name "Museum Sang Timur",
+   :longitude 112.5969384,
+   :latitude -7.9778994,
+   :source :openstreetmap,
+   :locality "Kota Malang"}
+  {:name "Museum Saoraja",
+   :longitude 120.3289295,
+   :latitude -4.5376955,
+   :source :openstreetmap,
+   :homepage
+   "https://disbud.bone.go.id/%20%20%20%20%20https://asosiasimuseumindonesia.org/anggota/290-museum-la-pawawoi.html",
+   :locality "Watampone"}
+  {:name "Museum Sarwo Edhie Wibowo - Kodam XVII Cendrawasih",
+   :longitude 140.7166727,
+   :latitude -2.5290526,
+   :source :openstreetmap,
+   :locality "Jayapura"}
+  {:name "Museum Sasmita Loka Ahmad Yani",
+   :longitude 106.8365455,
+   :latitude -6.2045356,
+   :source :openstreetmap}
+  {:name "Museum Satria Mandala",
+   :longitude 106.8186467,
+   :latitude -6.2314101,
+   :source :openstreetmap,
+   :locality "South Jakarta"}
+  {:name "Museum Satwa Gembira Loka Zoo",
+   :longitude 110.398027,
+   :latitude -7.8053392,
+   :source :openstreetmap}
+  {:name "Museum Sejarah Jawa",
+   :longitude 110.3622929,
+   :latitude -7.8438823,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Sejarah Perang Dunia II Kota Tarakan",
+   :longitude 117.6203055,
+   :latitude 3.2990777,
+   :source :openstreetmap,
+   :locality "Tarakan"}
+  {:name "Museum Sejarah Purbakala Pleret",
+   :longitude 110.4052982,
+   :latitude -7.8685259,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Sekolah Slawi",
+   :longitude 109.139771,
+   :latitude -6.9731735,
+   :source :openstreetmap,
+   :locality "Tegal"}
+  {:name "Museum Semarajaya",
+   :longitude 115.4026697,
+   :latitude -8.5355506,
+   :source :openstreetmap,
+   :locality "Semarapura"}
+  {:name "Museum Semedo",
+   :longitude 109.2861002,
+   :latitude -6.9576804,
+   :source :openstreetmap}
+  {:name "Museum Seniman Giri Sapto",
+   :longitude 110.3919982,
+   :latitude -7.9197465,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Senjata Tradisional Guma",
+   :longitude 119.8717419,
+   :latitude -0.8979682,
+   :source :openstreetmap,
+   :locality "Palu"}
+  {:name "Museum Sepeda Pramuka Keliling Dunia",
+   :longitude 106.1597516,
+   :latitude -6.1529582,
+   :source :openstreetmap,
+   :locality "Karundang"}
+  {:name "Museum Serangga UGM",
+   :longitude 110.3824043,
+   :latitude -7.7689714,
+   :source :openstreetmap,
+   :locality "Kota Yogyakarta"}
+  {:name "Museum Sidik Jari",
+   :longitude 115.2406592,
+   :latitude -8.6632327,
+   :source :openstreetmap,
+   :locality "Denpasar"}
+  {:name "Museum Siginjei",
+   :longitude 103.5928418,
+   :latitude -1.6080926,
+   :source :openstreetmap,
+   :locality "Jambi"}
+  {:name "Museum Singhasari",
+   :longitude 112.6412949,
+   :latitude -7.8813749,
+   :source :openstreetmap,
+   :homepage "https://museum-singhasari.site/id/about-us/",
+   :locality "Malang"}
+  {:name "Museum Sitaro",
+   :longitude 125.4073036,
+   :latitude 2.731431,
+   :source :openstreetmap}
+  {:name "Museum Situs Ciungwanara",
+   :longitude 108.4897512,
+   :latitude -7.348568,
+   :source :openstreetmap}
+  {:name "Museum Situs Kota China",
+   :longitude 98.6567375,
+   :latitude 3.7230332,
+   :source :openstreetmap,
+   :locality "Medan"}
+  {:name "Museum Situs Purbakala",
+   :longitude 114.4406786,
+   :latitude -8.1673086,
+   :source :openstreetmap}
+  {:name "Museum Siwalima",
+   :longitude 128.1519337,
+   :latitude -3.7123683,
+   :source :openstreetmap}
+  {:name "Museum Soesilo Soedarman",
+   :longitude 109.2120063,
+   :latitude -7.6005302,
+   :source :openstreetmap,
+   :locality "Cilacap"}
+  {:name "Museum Songket",
+   :longitude 104.7496852,
+   :latitude -3.0009229,
+   :source :openstreetmap,
+   :locality "Palembang"}
+  {:name "Museum Sonobudoyo Unit II",
+   :longitude 110.3662283,
+   :latitude -7.8041536,
+   :source :openstreetmap}
+  {:name "Museum Sri Baduga",
+   :longitude 107.6035642,
+   :latitude -6.9377464,
+   :source :openstreetmap,
+   :locality "Kota Bandung"}
+  {:name "Museum Sri Sultan Hamengkubuwono IX",
+   :longitude 110.3644231,
+   :latitude -7.8083192,
+   :source :openstreetmap,
+   :homepage "https://www.kratonjogja.id/",
+   :locality "Yogyakarta"}
+  {:name "Museum Srihadi Soedarsono",
+   :longitude 107.6050527,
+   :latitude -6.8717203,
+   :source :openstreetmap,
+   :homepage "https://www.museumsrihadisoedarsono.com/"}
+  {:name "Museum Sriwijaya",
+   :longitude 104.7344284,
+   :latitude -3.0150336,
+   :source :openstreetmap,
+   :locality "Palembang"}
+  {:name "Museum Subak",
+   :longitude 115.1384002,
+   :latitude -8.5444662,
+   :source :openstreetmap}
+  {:name "Museum Sultan Agung Hanyokro Kusumo",
+   :longitude 110.7721195,
+   :latitude -7.7059517,
+   :source :openstreetmap}
+  {:name "Museum Sultan Mahmud Badaruddin II",
+   :longitude 104.7610612,
+   :latitude -2.9902795,
+   :source :openstreetmap}
+  {:name "Museum Sultan Sulaiman Badrul Alamsyah",
+   :longitude 104.4440401,
+   :latitude 0.9295953,
+   :source :openstreetmap}
+  {:name "Museum Sultan Syarif Kasim Parit Bangkong",
+   :longitude 102.1033171,
+   :latitude 1.4729233,
+   :source :openstreetmap,
+   :locality "Bengkalis"}
+  {:name "Museum Sumpah Pemuda",
+   :longitude 106.8430278,
+   :latitude -6.1838377,
+   :source :openstreetmap}
+  {:name "Museum Sunan Giri",
+   :longitude 112.6306295,
+   :latitude -7.1701362,
+   :source :openstreetmap,
+   :locality "Gresik"}
+  {:name "Museum Surabaya (Gedung Siola)",
+   :longitude 112.7375682,
+   :latitude -7.256344,
+   :source :openstreetmap,
+   :locality "Surabaya"}
+  {:name "Museum Syeh Jangkung",
+   :longitude 110.9800872,
+   :latitude -6.8994844,
+   :source :openstreetmap}
+  {:name "Museum Taman Prasasti",
+   :longitude 106.8195429,
+   :latitude -6.1723713,
+   :source :openstreetmap,
+   :locality "Central Jakarta"}
+  {:name "Museum Tani Jawa Indonesia",
+   :longitude 110.3715199,
+   :latitude -7.9243964,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Tanjung Pandan",
+   :longitude 107.6283447,
+   :latitude -2.7399622,
+   :source :openstreetmap,
+   :locality "Belitung"}
+  {:name "Museum Tekstil",
+   :longitude 106.8096115,
+   :latitude -6.1879683,
+   :source :openstreetmap,
+   :locality "DKI Jakarta"}
+  {:name "Museum Tekstil Provinsi Sumatera Selatan",
+   :longitude 104.7495722,
+   :latitude -2.9896406,
+   :source :openstreetmap,
+   :locality "Palembang"}
+  {:name "Museum Tengger",
+   :longitude 112.983849,
+   :latitude -7.9157192,
+   :source :openstreetmap}
+  {:name "Museum Timah",
+   :longitude 106.1094297,
+   :latitude -2.1182827,
+   :source :openstreetmap}
+  {:name "Museum Tionghoa",
+   :longitude 100.8264638,
+   :latitude 2.1062822,
+   :source :openstreetmap,
+   :locality "Rokan Hilir"}
+  {:name "Museum Tionghoa Soekaboemi",
+   :longitude 106.9255413,
+   :latitude -6.926377,
+   :source :openstreetmap,
+   :locality "Sukabumi"}
+  {:name "Museum Tjok Agung Tresna Ayunan",
+   :longitude 115.2007837,
+   :latitude -8.5103488,
+   :source :openstreetmap,
+   :locality "Kabupaten Badung"}
+  {:name "Museum Topeng Cirebon",
+   :longitude 108.5576007,
+   :latitude -6.7068298,
+   :source :openstreetmap}
+  {:name "Museum Topeng Sewu Rai",
+   :longitude 111.0572777,
+   :latitude -7.8584156,
+   :source :openstreetmap,
+   :locality "Wonogiri"}
+  {:name "Museum Transmigrasi",
+   :longitude 105.1071594,
+   :latitude -5.377649,
+   :source :openstreetmap}
+  {:name "Museum Trikora",
+   :longitude 128.2956849,
+   :latitude 2.0343944,
+   :source :openstreetmap}
+  {:name "Museum Trinil Ngawi",
+   :longitude 111.357806,
+   :latitude -7.3743213,
+   :source :openstreetmap}
+  {:name "Museum Tsunami Kota Sigli",
+   :longitude 95.9637349,
+   :latitude 5.3875494,
+   :source :openstreetmap}
+  {:name "Museum Tuanku Imam Bonjol",
+   :longitude 100.2211126,
+   :latitude 0.0013883,
+   :source :openstreetmap,
+   :locality "Kabupaten Pasaman"}
+  {:name "Museum Tulang Bawang",
+   :longitude 105.2638064,
+   :latitude -4.482178,
+   :source :openstreetmap}
+  {:name "Museum Uang Sumatera",
+   :longitude 98.6823629,
+   :latitude 3.5820045,
+   :source :openstreetmap,
+   :locality "Medan"}
+  {:name "Museum UGM",
+   :longitude 110.3779852,
+   :latitude -7.7738342,
+   :source :openstreetmap}
+  {:name "Museum UII",
+   :longitude 110.4147306,
+   :latitude -7.6882076,
+   :source :openstreetmap,
+   :locality "Sleman"}
+  {:name "Museum UIN AR-RANIRY Banda Aceh",
+   :longitude 95.3684534,
+   :latitude 5.5762634,
+   :source :openstreetmap,
+   :locality "Banda Aceh"}
+  {:name "Museum Ullen Sentalu",
+   :longitude 110.4233974,
+   :latitude -7.5976483,
+   :source :openstreetmap,
+   :homepage "http://ullensentalu.com"}
+  {:name "Museum Universitas Negeri Malang",
+   :longitude 112.6188107,
+   :latitude -7.963375,
+   :source :openstreetmap,
+   :homepage
+   "https://museum.um.ac.id/index.php/profil/http://museum.um.ac.id/index.php/profil/",
+   :locality "Malang"}
+  {:name "Museum Usman Janatin",
+   :longitude 109.3967353,
+   :latitude -7.4026686,
+   :source :openstreetmap,
+   :locality "Purbalingga"}
+  {:name "Museum Villa Yuliana",
+   :longitude 119.8868141,
+   :latitude -4.3487285,
+   :source :openstreetmap,
+   :locality "Kabupaten Soppeng"}
+  {:name "Museum Wajakensis Tulungagung",
+   :longitude 111.8965697,
+   :latitude -8.1023072,
+   :source :openstreetmap,
+   :locality "Tulungagung"}
+  {:name "Museum Wasaka",
+   :longitude 114.6090856,
+   :latitude -3.303851,
+   :source :openstreetmap,
+   :locality "Banjarmasin"}
+  {:name "Museum Wayang",
+   :longitude 110.4130774,
+   :latitude -7.8148117,
+   :source :openstreetmap}
+  {:name "Museum Wayang Banyumas",
+   :longitude 109.2943648,
+   :latitude -7.5149152,
+   :source :openstreetmap,
+   :locality "Banyumas"}
+  {:name "Museum Wayang Beber Sekartaji",
+   :longitude 110.3082443,
+   :latitude -7.924677,
+   :source :openstreetmap,
+   :locality "Bantul"}
+  {:name "Museum Wayang dan Artefak Purbalingga",
+   :longitude 109.3299769,
+   :latitude -7.3564198,
+   :source :openstreetmap,
+   :locality "Purbalingga"}
+  {:name "Museum Wayang Sendang Mas",
+   :longitude 109.2930759,
+   :latitude -7.5107238,
+   :source :openstreetmap}
+  {:name "Museum WR Soepratman",
+   :longitude 112.753797,
+   :latitude -7.2506178,
+   :source :openstreetmap,
+   :homepage
+   "https://bappeko.surabaya.go.id/ecobis/wisata/kategori-detail/161",
+   :locality "Surabaya"}
+  {:name "Museum Zoologi Bogor",
+   :longitude 106.796922,
+   :latitude -6.603568,
+   :source :openstreetmap,
+   :locality "Bogor"}
+  {:name "Museun Macan",
+   :longitude 110.8271074,
+   :latitude -7.5674898,
+   :source :openstreetmap}
+  {:name "Musium Provinsi Bengkulu",
+   :longitude 102.2873248,
+   :latitude -3.8156133,
+   :source :openstreetmap}
+  {:name "musuem le mayeur",
+   :longitude 115.2636183,
+   :latitude -8.675089,
+   :source :openstreetmap,
+   :locality "Sanur"}
+  {:name "Musyafiq Art Gallery",
+   :longitude 110.6322589,
+   :latitude -7.6793132,
+   :source :openstreetmap,
+   :locality "Klaten"}
+  {:name "Nadi Gallery",
+   :longitude 106.7441702,
+   :latitude -6.1874357,
+   :source :openstreetmap,
+   :homepage "http://www.nadigallery.net",
+   :locality "DKI Jakarta"}
+  {:name "Naka Contemporary Art Gallery",
+   :longitude 115.2536825,
+   :latitude -8.4889518,
+   :source :openstreetmap}
+  {:name "Naya Veda Vastu",
+   :longitude 115.3021663,
+   :latitude -8.5006333,
+   :source :openstreetmap,
+   :homepage "http://naya.earth/",
+   :locality "Gianyar"}
+  {:name "Ndalem Kaneman",
+   :longitude 110.3571027,
+   :latitude -7.8081953,
+   :source :openstreetmap}
+  {:name "Negandeng",
+   :longitude 119.9485894,
+   :latitude -2.9295299,
+   :source :openstreetmap}
+  {:name "Neka Art Museum",
+   :longitude 115.2537333,
+   :latitude -8.4919773,
+   :source :openstreetmap,
+   :locality "Gianyar"}
+  {:name "Njana Tilem Museum",
+   :longitude 115.2718111,
+   :latitude -8.5362423,
+   :source :openstreetmap}
+  {:name "NKRI Gallery",
+   :longitude 115.2335962,
+   :latitude -8.4494573,
+   :source :openstreetmap,
+   :homepage "https://www.ayungresortubud.com/en-gb/art-gallery"}
+  {:name "Nonblok Ekosistem",
+   :longitude 101.4567386,
+   :latitude 0.4664057,
+   :source :openstreetmap,
+   :locality "pekanbaru"}
+  {:name "Novanto Center",
+   :longitude 123.6057137,
+   :latitude -10.15309,
+   :source :openstreetmap}
+  {:name "NuArt Sculpture Park",
+   :longitude 107.5727365,
+   :latitude -6.8771762,
+   :source :openstreetmap,
+   :homepage "https://nuartsculpturepark.com"}
+  {:name "Nyaman Gallery",
+   :longitude 115.1668504,
+   :latitude -8.6845152,
+   :source :openstreetmap,
+   :locality "Seminyak, Kabupaten Badung, Bali, Indonesia"}
+  {:name "Omah Budaya Slamet Batu",
+   :longitude 112.534366,
+   :latitude -7.8593244,
+   :source :openstreetmap,
+   :locality "Batu"}
+  {:name "On-Site Museum Leang Leang",
+   :longitude 119.6743549,
+   :latitude -4.9778034,
+   :source :openstreetmap}
+  {:name "Orbital Dago Gallery",
+   :longitude 107.6279631,
+   :latitude -6.8682045,
+   :source :openstreetmap,
+   :locality "Bandung, Jawa Barat"}
+  {:name "Orgen Tunggal Pho Pay Duku",
+   :longitude 104.7730648,
+   :latitude -2.9738411,
+   :source :openstreetmap}
+  {:name "Pabrik Gula Colomadu",
+   :longitude 110.7498034,
+   :latitude -7.5344982,
+   :source :openstreetmap,
+   :locality "Colomadu"}
+  {:name "Padepokan Bagong Kusudihardjo",
+   :longitude 110.3321958,
+   :latitude -7.830455,
+   :source :openstreetmap}
+  {:name "Padepokan Pencaksilat Indonesia",
+   :longitude 106.8836454,
+   :latitude -6.2960729,
+   :source :openstreetmap}
+  {:name "Padepokan Sangiang Maung Ujung Kulon",
+   :longitude 105.5125772,
+   :latitude -6.8070907,
+   :source :openstreetmap,
+   :locality "Pandeglang"}
+  {:name "Panggung Seni",
+   :longitude 107.3951012,
+   :latitude -6.5294375,
+   :source :openstreetmap}
+  {:name "Panggung Seni SD Negeri 1 Maleber",
+   :longitude 108.3474514,
+   :latitude -7.3246335,
+   :source :openstreetmap}
+  {:name "Pasar Seni Gabusan",
+   :longitude 110.3496586,
+   :latitude -7.8766832,
+   :source :openstreetmap}
+  {:name "Pasraman Rwa Bhineda Bali",
+   :longitude 115.2269565,
+   :latitude -8.6575238,
+   :source :openstreetmap}
+  {:name "Patapan Sultan Banten",
+   :longitude 106.2890549,
+   :latitude -6.1896502,
+   :source :openstreetmap,
+   :locality "Serang"}
+  {:name "Pedir Museum",
+   :longitude 96.0715861,
+   :latitude 5.2580856,
+   :source :openstreetmap,
+   :homepage "https://pedirmuseum.blogspot.com/",
+   :locality "Bandar Baru"}
+  {:name "Pelabuhan Nusantara",
+   :longitude 119.621943,
+   :latitude -4.0027569,
+   :source :openstreetmap}
+  {:name "Pemakaman",
+   :longitude 114.6310329,
+   :latitude -3.9693457,
+   :source :openstreetmap}
+  {:name "Pendhapa Art Space",
+   :longitude 110.357321,
+   :latitude -7.828542,
+   :source :openstreetmap,
+   :homepage "pendhapaartspace.com",
+   :locality "Kota Yogyakarta"}
+  {:name "Pendopo Kesenian",
+   :longitude 111.4453359,
+   :latitude -7.4008797,
+   :source :openstreetmap}
+  {:name "Pesanggrahan Ambarukmo",
+   :longitude 110.4021937,
+   :latitude -7.7819319,
+   :source :openstreetmap}
+  {:name "Pesanggrahan Srigati, Alas Ketonggo",
+   :longitude 111.3274246,
+   :latitude -7.5052073,
+   :source :openstreetmap}
+  {:name "Peter Wongso Auditorium",
+   :longitude 112.5971868,
+   :latitude -7.9558889,
+   :source :openstreetmap}
+  {:name "Pethak Art Space",
+   :longitude 112.5600784,
+   :latitude -7.9111022,
+   :source :openstreetmap,
+   :locality "Batu"}
+  {:name "Prasasti Batu Tulis Batu",
+   :longitude 106.8090083,
+   :latitude -6.6236515,
+   :source :openstreetmap}
+  {:name "Prasasti Tugu Pagar Nusa Pandantoyo",
+   :longitude 111.9206643,
+   :latitude -7.3250497,
+   :source :openstreetmap}
+  {:name "Proyek Museum EX .Pabrik Indaruang 1",
+   :longitude 100.4766327,
+   :latitude -0.9516659,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Pucung",
+   :longitude 110.3407041,
+   :latitude -7.8531707,
+   :source :openstreetmap}
+  {:name "Pulo Kenanga (highest building in Tamansari, ruins)",
+   :longitude 110.3605495,
+   :latitude -7.8079032,
+   :source :openstreetmap}
+  {:name "Puri Agung Peliatan",
+   :longitude 115.269403,
+   :latitude -8.5177346,
+   :source :openstreetmap,
+   :homepage "https://www.mpl-ubud.com/"}
+  {:name "Puri Ayodya",
+   :longitude 115.0296651,
+   :latitude -8.1604897,
+   :source :openstreetmap}
+  {:name "Purnomo Batik art group (likely scam)",
+   :longitude 110.3609039,
+   :latitude -7.7946327,
+   :source :openstreetmap}
+  {:name "Pusat Kerajinan Tenun Sarung Samarinda",
+   :longitude 117.1512452,
+   :latitude -0.5145038,
+   :source :openstreetmap}
+  {:name "Pusat Promosi Kerajinan dan Informasi Industri",
+   :longitude 124.251897,
+   :latitude -9.8709404,
+   :source :openstreetmap}
+  {:name "Puspa Iptek Sundial",
+   :longitude 107.4939926,
+   :latitude -6.8522473,
+   :source :openstreetmap,
+   :homepage "https://thebiggestsundial.com/"}
+  {:name "Putrawan Museum of Art (PUMA)",
+   :longitude 115.2380955,
+   :latitude -8.6084966,
+   :source :openstreetmap,
+   :locality "Denpasar"}
+  {:name "R. School Net",
+   :longitude 101.4189729,
+   :latitude 0.4606369,
+   :source :openstreetmap}
+  {:name "Rahmat International Wildlife Museum and Gallery",
+   :longitude 98.6677098,
+   :latitude 3.5791574,
+   :source :openstreetmap,
+   :locality "Medan"}
+  {:name "Rasamadu Heritage",
+   :longitude 110.755026,
+   :latitude -7.5548511,
+   :source :openstreetmap,
+   :locality "Sukoharjo"}
+  {:name "RAZ MUSEUM & GALLERY",
+   :longitude 98.6435736,
+   :latitude 3.5682311,
+   :source :openstreetmap,
+   :locality "Medan"}
+  {:name "Redbase",
+   :longitude 110.3629096,
+   :latitude -7.8546774,
+   :source :openstreetmap}
+  {:name "Riau Creative Hub",
+   :longitude 101.4316999,
+   :latitude 0.4789773,
+   :source :openstreetmap}
+  {:name "rismunika astuti art shop",
+   :longitude 116.1234248,
+   :latitude -8.6485173,
+   :source :openstreetmap}
+  {:name "Roemah Martha Tilaar Gombong",
+   :longitude 109.5096643,
+   :latitude -7.6069442,
+   :source :openstreetmap}
+  {:name "ROH Project",
+   :longitude 106.841812,
+   :latitude -6.2032972,
+   :source :openstreetmap,
+   :locality "DKI Jakarta"}
+  {:name "ROLLING DOOR art gallery",
+   :longitude 106.8143174,
+   :latitude -6.3218508,
+   :source :openstreetmap}
+  {:name "Romo Mangun Museum",
+   :longitude 110.3709444,
+   :latitude -7.7842568,
+   :source :openstreetmap,
+   :locality "Yogyakarta"}
+  {:name "Ronggo Warsito Museum",
+   :longitude 110.3840845,
+   :latitude -6.9858903,
+   :source :openstreetmap}
+  {:name "Ruang Budaya Anton Yustian JR",
+   :longitude 107.6190764,
+   :latitude -6.8747179,
+   :source :openstreetmap}
+  {:name "Ruang Fine Art",
+   :longitude 100.3445297,
+   :latitude -0.9023379,
+   :source :openstreetmap,
+   :homepage "https://www.instagram.com/ruangfine/",
+   :locality "Padang"}
+  {:name "Ruang MES 56",
+   :longitude 110.3577233,
+   :latitude -7.8117665,
+   :source :openstreetmap}
+  {:name "Ruang Mes 56",
+   :longitude 110.3668668,
+   :latitude -7.8215003,
+   :source :openstreetmap}
+  {:name "Ruang Sanggar",
+   :longitude 112.0686553,
+   :latitude -6.9016737,
+   :source :openstreetmap}
+  {:name "RUBANAH Underground Hub",
+   :longitude 106.8239454,
+   :latitude -6.1888138,
+   :source :openstreetmap,
+   :homepage "https://rubanahundergroundhub.art",
+   :locality "Central Jakarta"}
+  {:name "RUCI Art Space",
+   :longitude 106.7986229,
+   :latitude -6.2446409,
+   :source :openstreetmap,
+   :homepage "https://ruciart.com/",
+   :locality "DKI Jakarta"}
+  {:name "Rumah Adat",
+   :longitude 119.416861,
+   :latitude -5.4647625,
+   :source :openstreetmap}
+  {:name "Rumah Adat",
+   :longitude 119.8947299,
+   :latitude -0.9838108,
+   :source :openstreetmap}
+  {:name "Rumah Adat Kaum Koto",
+   :longitude 100.4869863,
+   :latitude -0.1728225,
+   :source :openstreetmap}
+  {:name "Rumah Adat Keraton Kaberanrai",
+   :longitude 124.9208627,
+   :latitude -9.6500888,
+   :source :openstreetmap}
+  {:name "Rumah Bersejarah Inggit Garnasih",
+   :longitude 107.6024885,
+   :latitude -6.9314629,
+   :source :openstreetmap}
+  {:name "Rumah Betang Tahujan Ontu",
+   :longitude 114.5441012,
+   :latitude -0.6644334,
+   :source :openstreetmap}
+  {:name "Rumah Budaya Banda Neira",
+   :longitude 129.8974242,
+   :latitude -4.5256256,
+   :source :openstreetmap,
+   :locality "Banda Neira"}
+  {:name "Rumah Crystal Kebumen",
+   :longitude 109.6646188,
+   :latitude -7.6876149,
+   :source :openstreetmap}
+  {:name "Rumah Fatmawati",
+   :longitude 102.2653878,
+   :latitude -3.7982819,
+   :source :openstreetmap}
+  {:name "Rumah Gadang Minangkabau",
+   :longitude 100.3787945,
+   :latitude -0.4703043,
+   :source :openstreetmap}
+  {:name "Rumah Gendang",
+   :longitude 120.5153317,
+   :latitude -8.6146448,
+   :source :openstreetmap}
+  {:name "Rumah Gendang",
+   :longitude 120.4882682,
+   :latitude -8.5592203,
+   :source :openstreetmap}
+  {:name "Rumah Gendang",
+   :longitude 120.5205365,
+   :latitude -8.6136417,
+   :source :openstreetmap}
+  {:name "Rumah Gendang Gapong",
+   :longitude 120.4855255,
+   :latitude -8.4732708,
+   :source :openstreetmap}
+  {:name "Rumah Gendang Lada",
+   :longitude 120.4921735,
+   :latitude -8.5602023,
+   :source :openstreetmap}
+  {:name "Rumah Gendang Wela",
+   :longitude 120.4849586,
+   :latitude -8.4864625,
+   :source :openstreetmap}
+  {:name "Rumah Kreatif",
+   :longitude 108.4635785,
+   :latitude -7.3500892,
+   :source :openstreetmap}
+  {:name "Rumah Sejarah Kalijati",
+   :longitude 107.6609024,
+   :latitude -6.524053,
+   :source :openstreetmap,
+   :locality "Subang"}
+  {:name "Rumah Seni",
+   :longitude 123.6305441,
+   :latitude -10.1558187,
+   :source :openstreetmap}
+  {:name "Rumah Seni Kasumba",
+   :longitude 119.4556502,
+   :latitude -5.1975119,
+   :source :openstreetmap}
+  {:name "Rumah si Pitung",
+   :longitude 106.9588836,
+   :latitude -6.0969219,
+   :source :openstreetmap}
+  {:name "Rumah Soekarno",
+   :longitude 102.2612646,
+   :latitude -3.7990282,
+   :source :openstreetmap}
+  {:name "Rumah Sraddha Semesta",
+   :longitude 106.8207724,
+   :latitude -6.2811402,
+   :source :openstreetmap,
+   :locality "Jakarta"}
+  {:name "Sadikin Pard Gallery",
+   :longitude 112.6567987,
+   :latitude -7.9817414,
+   :source :openstreetmap,
+   :locality "Malang"}
+  {:name "Samsara Living Museum",
+   :longitude 115.5342958,
+   :latitude -8.4292395,
+   :source :openstreetmap,
+   :homepage "https://samsarabali.com/"}
+  {:name "Sanggar",
+   :longitude 124.8495296,
+   :latitude 1.5400269,
+   :source :openstreetmap}
+  {:name "Sanggar Candi Busana",
+   :longitude 112.528294,
+   :latitude -7.8655359,
+   :source :openstreetmap}
+  {:name "Sanggar Kidz & Tanna",
+   :longitude 110.8223428,
+   :latitude -7.5615071,
+   :source :openstreetmap}
+  {:name "Sanggar Olah Seni Babakan Siliwangi",
+   :longitude 107.6105402,
+   :latitude -6.8848947,
+   :source :openstreetmap}
+  {:name "Sanggar Pramuka",
+   :longitude 112.0547958,
+   :latitude -6.8974848,
+   :source :openstreetmap}
+  {:name "Sanggar Seni Celebes Indonesia",
+   :longitude 119.4477148,
+   :latitude -5.1834793,
+   :source :openstreetmap}
+  {:name "Sanggar Seni Dimas",
+   :longitude 114.102354,
+   :latitude -8.3032606,
+   :source :openstreetmap}
+  {:name "Sanggar Tari Musthika",
+   :longitude 110.8422364,
+   :latitude -7.5773755,
+   :source :openstreetmap}
+  {:name "Sanggar Tari Pharamitha",
+   :longitude 116.1062539,
+   :latitude -8.5850014,
+   :source :openstreetmap}
+  {:name "Sanggar Teater",
+   :longitude 112.0437642,
+   :latitude -6.9018573,
+   :source :openstreetmap}
+  {:name "Sanggar Timbang Stress",
+   :longitude 110.2359199,
+   :latitude -7.8739356,
+   :source :openstreetmap}
+  {:name "Sanggar Tresno Boedaya Moeda",
+   :longitude 110.7860593,
+   :latitude -7.5478354,
+   :source :openstreetmap,
+   :locality "Surakarta"}
+  {:name "Sanggar Wadian Tambai",
+   :longitude 115.660089,
+   :latitude -2.257439,
+   :source :openstreetmap}
+  {:name "Saoraja Mallangga",
+   :longitude 120.0326461,
+   :latitude -4.1378326,
+   :source :openstreetmap}
+  {:name "Sapto Sugiyo Art Studio",
+   :longitude 110.7446377,
+   :latitude -7.5625839,
+   :source :openstreetmap,
+   :locality "Sukoharjo"}
+  {:name "Sasha Gallery",
+   :longitude 100.3637164,
+   :latitude -0.9346024,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Saung Palakali Creative ART",
+   :longitude 106.8047417,
+   :latitude -6.3746677,
+   :source :openstreetmap,
+   :locality "beji"}
+  {:name "Selasar Sunaryo Art Space",
+   :longitude 107.6365204,
+   :latitude -6.8586315,
+   :source :openstreetmap}
+  {:name "Seni Abadi",
+   :longitude 107.6056955,
+   :latitude -6.9042507,
+   :source :openstreetmap}
+  {:name "Setia Darma",
+   :longitude 115.2795977,
+   :latitude -8.533909,
+   :source :openstreetmap,
+   :homepage "https://www.maskandpuppets.com/"}
+  {:name "Shankari's Artist Sanctuary",
+   :longitude 114.9680134,
+   :latitude -8.4996292,
+   :source :openstreetmap}
+  {:name "SIKU Ruang Terpadu",
+   :longitude 119.4284662,
+   :latitude -5.1709702,
+   :source :openstreetmap,
+   :locality "Makassar"}
+  {:name "Silungkang Art Center",
+   :longitude 100.3613831,
+   :latitude -0.9533869,
+   :source :openstreetmap,
+   :homepage "https://silungkang-art-center.business.site/",
+   :locality "Kota Padang"}
+  {:name "Simalungun",
+   :longitude 99.0610684,
+   :latitude 2.9545411,
+   :source :openstreetmap}
+  {:name "Singkawang Cultural Center",
+   :longitude 108.9849961,
+   :latitude 0.9125276,
+   :source :openstreetmap}
+  {:name "Situs Arca Pejambon",
+   :longitude 108.5023927,
+   :latitude -6.7375483,
+   :source :openstreetmap,
+   :locality "Watubelah"}
+  {:name "Situs Kubur Kalang 3",
+   :longitude 111.7615258,
+   :latitude -7.0911521,
+   :source :openstreetmap}
+  {:name "Situs Malin Kundang",
+   :longitude 100.365293,
+   :latitude -0.997374,
+   :source :openstreetmap}
+  {:name "Situs Perahu Kuno Punjulharjo",
+   :longitude 111.4085935,
+   :latitude -6.6931867,
+   :source :openstreetmap}
+  {:name "Situs Petilasan Makam Nyi Mas Gamparan",
+   :longitude 105.7523427,
+   :latitude -6.523033,
+   :source :openstreetmap,
+   :locality "Pandeglang"}
+  {:name "Studio Galeri Project",
+   :longitude 100.4071013,
+   :latitude -0.9453103,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Studio Patung & Taman",
+   :longitude 110.4544489,
+   :latitude -7.0068523,
+   :source :openstreetmap}
+  {:name "Studio Patung Ungaran",
+   :longitude 110.4092671,
+   :latitude -7.1329798,
+   :source :openstreetmap}
+  {:name "studiohanafi - galerikertas",
+   :longitude 106.7665016,
+   :latitude -6.3902355,
+   :source :openstreetmap}
+  {:name "Sultan's Memorial Museum",
+   :longitude 127.4429057,
+   :latitude 0.6516446,
+   :source :openstreetmap}
+  {:name "Taman Budaya Arts Center",
+   :longitude 115.2346829,
+   :latitude -8.6555877,
+   :source :openstreetmap,
+   :locality "Denpasar"}
+  {:name "Taman Budaya Samarinda",
+   :longitude 117.1639403,
+   :latitude -0.4782834,
+   :source :openstreetmap}
+  {:name "Taman Budaya Sendawar",
+   :longitude 115.7042914,
+   :latitude -0.2209804,
+   :source :openstreetmap}
+  {:name "Taman Ismail Marzuki",
+   :longitude 106.8395113,
+   :latitude -6.1895772,
+   :source :openstreetmap,
+   :locality "DKI Jakarta"}
+  {:name "Taman Kenangan",
+   :longitude 124.8331609,
+   :latitude 1.3357985,
+   :source :openstreetmap,
+   :locality "Tomohon"}
+  {:name "Taman Makam Tokoh Bangsa",
+   :longitude 106.8137452,
+   :latitude -6.2015121,
+   :source :openstreetmap}
+  {:name "Taman Museum Kereta Api Ambarawa",
+   :longitude 110.4023739,
+   :latitude -7.2651921,
+   :source :openstreetmap}
+  {:name "Taman Nusa Bali",
+   :longitude 115.3563257,
+   :latitude -8.5288026,
+   :source :openstreetmap,
+   :homepage "https://www.taman-nusa.com/",
+   :locality "Gianyar"}
+  {:name "Taman Setia Studio Seni",
+   :longitude 100.4042281,
+   :latitude -0.9391497,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "Tari Barong & Keris",
+   :longitude 115.1924346,
+   :latitude -8.7186239,
+   :source :openstreetmap,
+   :locality "Denpasar"}
+  {:name "TB SILALAHI Center",
+   :longitude 99.0443655,
+   :latitude 2.3307312,
+   :source :openstreetmap,
+   :homepage "http://tbsilahicenter.com"}
+  {:name "Tempat Umum",
+   :longitude 111.3206398,
+   :latitude -6.6992311,
+   :source :openstreetmap}
+  {:name "Tenda Biru Art House",
+   :longitude 110.363579,
+   :latitude -7.8171239,
+   :source :openstreetmap}
+  {:name "Tenun Ikat Museum",
+   :longitude 121.6436275,
+   :latitude -8.8425161,
+   :source :openstreetmap}
+  {:name "Teras Gallery Padang",
+   :longitude 100.3744057,
+   :latitude -0.9784053,
+   :source :openstreetmap,
+   :homepage "https://teras-gallery-padang.business.site/",
+   :locality "Padang"}
+  {:name "Teras Lakon",
+   :longitude 106.6105627,
+   :latitude -6.275862,
+   :source :openstreetmap,
+   :homepage "https://www.lakonindonesia.com/"}
+  {:name "The Bagong Adventure Museum Tubuh",
+   :longitude 112.5238118,
+   :latitude -7.8837086,
+   :source :openstreetmap,
+   :homepage "https://www.dtopengkingdommuseum.com/",
+   :locality "Batu"}
+  {:name "The Legend of Kemaro Island",
+   :longitude 104.8123969,
+   :latitude -2.9809704,
+   :source :openstreetmap}
+  {:name "The Ogoh Ogoh Bali Museum",
+   :longitude 115.1706193,
+   :latitude -8.5437371,
+   :source :openstreetmap,
+   :homepage "https://youtu.be/srT6NLp51-o",
+   :locality "Kabupaten Badung"}
+  {:name "TORAJA ART CENTRE+",
+   :longitude 119.8532601,
+   :latitude -3.1056144,
+   :source :openstreetmap}
+  {:name "Train Museum",
+   :longitude 115.3598685,
+   :latitude -8.5303966,
+   :source :openstreetmap}
+  {:name "Trupark Museum",
+   :longitude 108.507531,
+   :latitude -6.7009002,
+   :source :openstreetmap,
+   :locality "Cirebon"}
+  {:name "Tugu Garuda",
+   :longitude 110.3854798,
+   :latitude -7.8473979,
+   :source :openstreetmap}
+  {:name "Tugu Raja Mataniari Tambun",
+   :longitude 99.1258373,
+   :latitude 2.5175939,
+   :source :openstreetmap,
+   :locality "Toba Samosir"}
+  {:name "Tumurun Private Museum",
+   :longitude 110.8162221,
+   :latitude -7.5703443,
+   :source :openstreetmap,
+   :homepage "https://danarhadibatik.com/",
+   :locality "Surakarta"}
+  {:name "UD Wiradana Ukir",
+   :longitude 115.5973829,
+   :latitude -8.4367636,
+   :source :openstreetmap}
+  {:name "UPT Galeri Institut Seni Indonesia Yogyakarta",
+   :longitude 110.3553388,
+   :latitude -7.851972,
+   :source :openstreetmap}
+  {:name "UPTD Monumen Tugu Pahlawan Dan Museum Sepuluh Nopember",
+   :longitude 112.7379015,
+   :latitude -7.2454411,
+   :source :openstreetmap}
+  {:name "Vemoza",
+   :longitude 119.4326521,
+   :latitude -5.1798239,
+   :source :openstreetmap}
+  {:name "Waduk Simo",
+   :longitude 111.097344,
+   :latitude -7.202903,
+   :source :openstreetmap}
+  {:name "Wahyu Art House",
+   :longitude 100.3405676,
+   :latitude -0.8548653,
+   :source :openstreetmap,
+   :locality "Padang"}
+  {:name "War Museum",
+   :longitude 99.0932007,
+   :latitude 2.9662735,
+   :source :openstreetmap}
+  {:name "Warung Happy",
+   :longitude 119.4206913,
+   :latitude -5.1783118,
+   :source :openstreetmap}
+  {:name "Wayang Museum",
+   :longitude 106.8125091,
+   :latitude -6.1348145,
+   :source :openstreetmap,
+   :locality "West Jakarta"}
+  {:name "Widya Batik Class",
+   :longitude 115.2691529,
+   :latitude -8.4820845,
+   :source :openstreetmap,
+   :locality "Ubud"}
+  {:name "Wisma Karya Subang",
+   :longitude 107.7587787,
+   :latitude -6.5721318,
+   :source :openstreetmap,
+   :homepage "https://disparbud.jabarprov.go.id/",
+   :locality "Subang"}
+  {:name "Wisma Persis",
+   :longitude 110.8186286,
+   :latitude -7.5652395,
+   :source :openstreetmap,
+   :locality "Surakarta"}
+  {:name "Zerotoys Museum Mainan",
+   :longitude 107.6176886,
+   :latitude -6.9199749,
+   :source :openstreetmap,
+   :homepage "https://m.facebook.com/zerotoys"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

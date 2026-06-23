@@ -1,0 +1,19 @@
+{:count 1,
+ :country "el-salvador",
+ :country-code "SV",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:55:06.458879Z",
+ :positions
+ [{:name "Disc Golf 503",
+   :longitude -89.8112053,
+   :latitude 14.0394455,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

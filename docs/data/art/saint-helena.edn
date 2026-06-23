@@ -1,0 +1,51 @@
+{:count 6,
+ :country "saint-helena",
+ :country-code "SH",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:04.912996Z",
+ :positions
+ [{:name "Ascension Island Museum",
+   :longitude -14.4145408,
+   :latitude -7.9292763,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Domaine français de Saint-Hélène",
+   :longitude -5.6830212,
+   :latitude -15.9502524,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Longboat Museum",
+   :longitude -12.3137231,
+   :latitude -37.0666482,
+   :source :openstreetmap,
+   :locality "Edinburgh of the Seven Seas",
+   :image "",
+   :description ""}
+  {:name "Museum of St Helena",
+   :longitude -5.7186106,
+   :latitude -15.9250216,
+   :source :openstreetmap,
+   :homepage "https://www.museumofsainthelena.org",
+   :image "",
+   :description ""}
+  {:name "Plantation House",
+   :longitude -5.7207932,
+   :latitude -15.9555952,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Thatched House Museum",
+   :longitude -12.3059972,
+   :latitude -37.066744,
+   :source :openstreetmap,
+   :homepage "https://tristandc.com/tourism.php",
+   :locality "Edinburgh of the Seven Seas",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

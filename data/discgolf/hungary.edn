@@ -1,0 +1,47 @@
+{:count 4,
+ :country "hungary",
+ :country-code "HU",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:13:42.432827Z",
+ :positions
+ [{:name "Frizbi Golf Pálya Sportliget",
+   :longitude 19.1710779331425,
+   :latitude 47.46513129377661,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/30027",
+   :locality "Budapest",
+   :image "",
+   :description ""}
+  {:name "Nagyerdei Training Course",
+   :longitude 21.63159388325704,
+   :latitude 47.55279104225869,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/21279",
+   :locality "Q",
+   :image "",
+   :description ""}
+  {:name "Sportliget",
+   :longitude 19.17116403579712,
+   :latitude 47.46536677992529,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/8242",
+   :locality "Budapest",
+   :image "",
+   :description ""}
+  {:name "Sportliget 2016",
+   :longitude 19.171228408813477,
+   :latitude 47.465236224383645,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/5957",
+   :locality "Budapest",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

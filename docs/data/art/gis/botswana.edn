@@ -1,0 +1,81 @@
+{:count 16,
+ :country "botswana",
+ :country-code "BW",
+ :dataset :art,
+ :generated-at "2026-05-26T06:04:29.631005Z",
+ :positions
+ [{:name "Adrian Gale Diamond Musem",
+   :longitude 25.3804793,
+   :latitude -21.3346992,
+   :source :openstreetmap}
+  {:name "Botswana National Museum",
+   :longitude 25.9197043,
+   :latitude -24.6568021,
+   :source :openstreetmap,
+   :locality "Gaborone"}
+  {:name "Douma's Crocodile Farm",
+   :longitude 27.4741331,
+   :latitude -21.1014698,
+   :source :openstreetmap}
+  {:name "Francistown Records Centre",
+   :longitude 27.5157319,
+   :latitude -21.171925,
+   :source :openstreetmap}
+  {:name "Kasane Arts Centre",
+   :longitude 25.1484338,
+   :latitude -17.80417,
+   :source :openstreetmap,
+   :locality "Kasane"}
+  {:name "Kgosi Bathoen II Museum",
+   :longitude 25.3404664,
+   :latitude -24.9825093,
+   :source :openstreetmap,
+   :locality "Kanye"}
+  {:name "Khama III Memorial Museum",
+   :longitude 26.7080896,
+   :latitude -22.3821068,
+   :source :openstreetmap}
+  {:name "Nhabe Museum",
+   :longitude 23.4287562,
+   :latitude -19.9788392,
+   :source :openstreetmap}
+  {:name "Otse Wildlife Visitor Centre",
+   :longitude 25.7519939,
+   :latitude -25.0427204,
+   :source :openstreetmap}
+  {:name "Philatelic Museum",
+   :longitude 25.9113759,
+   :latitude -24.661231,
+   :source :openstreetmap}
+  {:name "Phuthadikobo Museum",
+   :longitude 26.1520004,
+   :latitude -24.3874315,
+   :source :openstreetmap}
+  {:name "San Cultural Museum",
+   :longitude 21.9449721,
+   :latitude -21.5198599,
+   :source :openstreetmap,
+   :locality "D'kar"}
+  {:name "SISO Afro Gallery",
+   :longitude 23.4205378,
+   :latitude -19.9804094,
+   :source :openstreetmap}
+  {:name "Supa Ngwao Museum",
+   :longitude 27.50818,
+   :latitude -21.15846,
+   :source :openstreetmap}
+  {:name "Thapong Visual Arts Centre",
+   :longitude 25.9397247,
+   :latitude -24.6686818,
+   :source :openstreetmap}
+  {:name "The Space Gallery",
+   :longitude 23.50537,
+   :latitude -19.9426741,
+   :source :openstreetmap,
+   :homepage "https://thespacebotswana.com",
+   :locality "Maun"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,22 @@
+{:count 1,
+ :country "taiwan",
+ :country-code "TW",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T13:24:23.661077Z",
+ :positions
+ [{:name "St. Ignatius HS",
+   :longitude 121.48007206585959,
+   :latitude 25.07979239649579,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/41336",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

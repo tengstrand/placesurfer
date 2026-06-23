@@ -1,0 +1,1 @@
+{"version":3,"sources":["hitteri/nav_ui/interface/flags.cljs"],"mappings":";AAGA,+CAAA,/CAAMA,qGACHC;AADH,AAEE,OAACC,kCAAgBD","names":["hitteri.nav-ui.interface.flags/iso->flag","iso","hitteri.nav-ui.flags/iso->flag"],"sourcesContent":["(ns hitteri.nav-ui.interface.flags\n  (:require [hitteri.nav-ui.flags :as flags]))\n\n(defn iso->flag\n  [iso]\n  (flags/iso->flag iso))\n"]}

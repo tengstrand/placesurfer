@@ -1,0 +1,169 @@
+{:count 39,
+ :country "haiti",
+ :country-code "HT",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:36.411135Z",
+ :positions
+ [{:name "(Projet) Maison du Café",
+   :longitude -73.9580746,
+   :latitude 18.4804292,
+   :source :openstreetmap}
+  {:name "Art Centre De Les Caye",
+   :longitude -73.7542334,
+   :latitude 18.1990188,
+   :source :openstreetmap}
+  {:name "Art Creation Fondation For Children (ACFFC)",
+   :longitude -72.5278192,
+   :latitude 18.2319991,
+   :source :openstreetmap}
+  {:name "Atelier Atis Rezistans",
+   :longitude -72.3448658,
+   :latitude 18.5398534,
+   :source :openstreetmap}
+  {:name "Auditorium EFACAP",
+   :longitude -72.1016849,
+   :latitude 18.8319349,
+   :source :openstreetmap}
+  {:name "base horison et young blood",
+   :longitude -72.2580956,
+   :latitude 18.505994,
+   :source :openstreetmap}
+  {:name "Bureau de danse Bresil",
+   :longitude -73.7484321,
+   :latitude 18.1951579,
+   :source :openstreetmap}
+  {:name "Centre Anne Marie Morisette",
+   :longitude -72.2945545,
+   :latitude 18.5492241,
+   :source :openstreetmap}
+  {:name "centre communautaire",
+   :longitude -72.3201435,
+   :latitude 18.6316473,
+   :source :openstreetmap}
+  {:name "Centre Culturel Brésilien Celso Ortega Terra",
+   :longitude -72.2813034,
+   :latitude 18.5134298,
+   :source :openstreetmap}
+  {:name "Centre Culturel de Marceline",
+   :longitude -73.8664803,
+   :latitude 18.3582792,
+   :source :openstreetmap}
+  {:name "Centre D'Art",
+   :longitude -72.2547148,
+   :latitude 18.6623165,
+   :source :openstreetmap}
+  {:name
+   "Centre kreyolololo de Communication et deConsultation musicale",
+   :longitude -72.2931386,
+   :latitude 18.538152,
+   :source :openstreetmap}
+  {:name "Chateau des pelerins Night Club",
+   :longitude -72.269494,
+   :latitude 19.6793355,
+   :source :openstreetmap}
+  {:name "Clac de Fort-Liberté",
+   :longitude -71.8365269,
+   :latitude 19.6609854,
+   :source :openstreetmap}
+  {:name "Club Indigo",
+   :longitude -72.7267876,
+   :latitude 18.9537379,
+   :source :openstreetmap}
+  {:name "ecole de danse folchlorique",
+   :longitude -72.5086178,
+   :latitude 18.2316732,
+   :source :openstreetmap}
+  {:name "Espace probable Musee Taino",
+   :longitude -72.7648153,
+   :latitude 19.0158555,
+   :source :openstreetmap}
+  {:name "Fondation Pasteur Soy- Kind Buffet Educatif de Soy",
+   :longitude -72.2410604,
+   :latitude 18.666383,
+   :source :openstreetmap}
+  {:name "Galerie Art Nègre",
+   :longitude -73.8644873,
+   :latitude 18.3025138,
+   :source :openstreetmap}
+  {:name "Gymnasium de Champ de Mars",
+   :longitude -72.2050789,
+   :latitude 19.7636238,
+   :source :openstreetmap}
+  {:name "Kokiyaj",
+   :longitude -73.7533532,
+   :latitude 18.1951406,
+   :source :openstreetmap}
+  {:name "Le Centre d’Art",
+   :longitude -72.3345864,
+   :latitude 18.5338492,
+   :source :openstreetmap}
+  {:name "L´oiseau Art Gallerie",
+   :longitude -72.1819212,
+   :latitude 19.7281232,
+   :source :openstreetmap}
+  {:name "Magigridji Acteur d'Art",
+   :longitude -72.2500909,
+   :latitude 18.6581718,
+   :source :openstreetmap}
+  {:name "maison de tourisme",
+   :longitude -72.5387499,
+   :latitude 18.2393775,
+   :source :openstreetmap}
+  {:name "Maison Du Tourisme Association du Sud-Est d'Haiti",
+   :longitude -72.5379917,
+   :latitude 18.2347936,
+   :source :openstreetmap}
+  {:name "Musée de Guahaba",
+   :longitude -72.4048426,
+   :latitude 19.7032433,
+   :source :openstreetmap}
+  {:name "Musée du Panteón National",
+   :longitude -72.3372089,
+   :latitude 18.5432227,
+   :source :openstreetmap}
+  {:name "Musée Liautaud",
+   :longitude -72.2298023,
+   :latitude 18.5728891,
+   :source :openstreetmap}
+  {:name "Musée National d'Art d'Haïti",
+   :longitude -72.3360337,
+   :latitude 18.539111,
+   :source :openstreetmap}
+  {:name "Musée Ogier-Fombrun",
+   :longitude -72.7168569,
+   :latitude 18.9549883,
+   :source :openstreetmap}
+  {:name "Oeuvre d'Art",
+   :longitude -72.259689,
+   :latitude 18.6519263,
+   :source :openstreetmap}
+  {:name "progressif timouyaj (atelier artisanat)",
+   :longitude -72.385193,
+   :latitude 18.2328579,
+   :source :openstreetmap,
+   :locality "cayes jacmel"}
+  {:name "Salle de rencontre",
+   :longitude -71.7852327,
+   :latitude 19.5659125,
+   :source :openstreetmap}
+  {:name "service d'art",
+   :longitude -72.6964596,
+   :latitude 19.1052185,
+   :source :openstreetmap}
+  {:name "VDH Fort-Liberté",
+   :longitude -71.8386575,
+   :latitude 19.6654763,
+   :source :openstreetmap}
+  {:name "Villa Kalewes",
+   :longitude -72.285891,
+   :latitude 18.5070222,
+   :source :openstreetmap}
+  {:name "Waiting For God",
+   :longitude -72.2518274,
+   :latitude 18.6542317,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

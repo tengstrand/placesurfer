@@ -1,0 +1,38 @@
+{:count 3,
+ :country "malaysia",
+ :country-code "MY",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:17:26.441900Z",
+ :positions
+ [{:name "Ara Damansara Park",
+   :longitude 101.58419947503506,
+   :latitude 3.118418711927646,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/41741",
+   :image "",
+   :description ""}
+  {:name "Bukit Indah Roundabout dgc",
+   :longitude 103.66056505395801,
+   :latitude 1.4794707792373458,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/41701",
+   :locality "Johor Bahru",
+   :image "",
+   :description ""}
+  {:name "Lake Valley DGC",
+   :longitude 101.7623773303456,
+   :latitude 3.045162050240563,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/32935",
+   :locality "Cheras",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

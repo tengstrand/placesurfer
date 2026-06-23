@@ -1,0 +1,23 @@
+{:count 1,
+ :country "cameroon",
+ :country-code "CM",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:52:12.775294Z",
+ :positions
+ [{:name "Fysciologiest",
+   :longitude 13.183593750013017,
+   :latitude 5.615985819148108,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/22386",
+   :locality "Lom-et-Djérem",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

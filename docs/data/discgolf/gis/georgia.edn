@@ -1,0 +1,26 @@
+{:count 2,
+ :country "georgia",
+ :country-code "GE",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:57:00.304063Z",
+ :positions
+ [{:name "Dighomi park",
+   :longitude 44.77291059122106,
+   :latitude 41.766835043376034,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/43215",
+   :locality "Tbilisi"}
+  {:name "Mziuri Valley",
+   :longitude 45.00570246311858,
+   :latitude 41.76337530645171,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/45128"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

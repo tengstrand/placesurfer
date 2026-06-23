@@ -1,0 +1,68 @@
+{:count 13,
+ :country "jersey",
+ :country-code "JE",
+ :dataset :art,
+ :generated-at "2026-05-26T06:19:46.125689Z",
+ :positions
+ [{:name "Botanical garden at Samarès Manor",
+   :longitude -2.0788407,
+   :latitude 49.1737552,
+   :source :openstreetmap}
+  {:name "Channel Islands Military Museum",
+   :longitude -2.2343313,
+   :latitude 49.2291856,
+   :source :openstreetmap}
+  {:name "Hamptonne House",
+   :longitude -2.1357778,
+   :latitude 49.2242887,
+   :source :openstreetmap}
+  {:name "Harbour Gallery",
+   :longitude -2.1699281,
+   :latitude 49.1859548,
+   :source :openstreetmap}
+  {:name "Jersey War Tunnels",
+   :longitude -2.153949,
+   :latitude 49.2104029,
+   :source :openstreetmap}
+  {:name "La Hougue Bie",
+   :longitude -2.0641676,
+   :latitude 49.2004999,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jerseyheritage.org/places-to-visit/la-hougue-bie-museum"}
+  {:name "Maritime Museum",
+   :longitude -2.1097799,
+   :latitude 49.1815754,
+   :source :openstreetmap,
+   :homepage "http://www.maritime.je/"}
+  {:name "Pallot Steam and Motor Museum",
+   :longitude -2.1067031,
+   :latitude 49.224604,
+   :source :openstreetmap,
+   :homepage "https://www.pallotmuseum.co.uk/"}
+  {:name "Quetivel Mill (NT-J)",
+   :longitude -2.1614179,
+   :latitude 49.2086647,
+   :source :openstreetmap}
+  {:name "Studio 18",
+   :longitude -2.1026331,
+   :latitude 49.1852522,
+   :source :openstreetmap}
+  {:name "The Mansell Collection",
+   :longitude -2.1254676,
+   :latitude 49.1936754,
+   :source :openstreetmap}
+  {:name "The Space",
+   :longitude -2.1086164,
+   :latitude 49.1853326,
+   :source :openstreetmap,
+   :homepage "http://www.thespace.je/"}
+  {:name "Victoria Art Gallery",
+   :longitude -2.1047992,
+   :latitude 49.1888403,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,29 @@
+{:count 4,
+ :country "sierra-leone",
+ :country-code "SL",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:39.727360Z",
+ :positions
+ [{:name "Bob Art",
+   :longitude -13.2488685,
+   :latitude 8.4744432,
+   :source :openstreetmap}
+  {:name "Kent Slave House",
+   :longitude -13.1633409,
+   :latitude 8.1753414,
+   :source :openstreetmap}
+  {:name "National Museum",
+   :longitude -13.2359032,
+   :latitude 8.4867692,
+   :source :openstreetmap,
+   :homepage "https://www.sierraleoneheritage.org/museum/",
+   :locality "Freetown"}
+  {:name "National Railway Museum",
+   :longitude -13.2088469,
+   :latitude 8.489415,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,1020 @@
+{:count 232,
+ :country "ecuador",
+ :country-code "EC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:34.885267Z",
+ :positions
+ [{:name "AC Decor",
+   :longitude -79.0292826,
+   :latitude -2.8934578,
+   :source :openstreetmap}
+  {:name "Academia de Arte Alvarado",
+   :longitude -79.0148683,
+   :latitude -2.9049774,
+   :source :openstreetmap}
+  {:name "Acuario Valdivia",
+   :longitude -80.7263603,
+   :latitude -1.9423231,
+   :source :openstreetmap}
+  {:name "Agencia de matriculación vehicular",
+   :longitude -77.7008182,
+   :latitude 0.8162837,
+   :source :openstreetmap}
+  {:name "Antena",
+   :longitude -77.7503042,
+   :latitude 0.7893373,
+   :source :openstreetmap}
+  {:name "Antigua Fábrica Textil Imbabura",
+   :longitude -78.2129236,
+   :latitude 0.3220316,
+   :source :openstreetmap}
+  {:name "Archivo Histórico del Guayas",
+   :longitude -79.8924352,
+   :latitude -2.1649267,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Art Studio",
+   :longitude -78.5001332,
+   :latitude -0.1034457,
+   :source :openstreetmap,
+   :locality "El Condado"}
+  {:name "Arte Negro \"GAEN\"  Mascarilla",
+   :longitude -78.0731551,
+   :latitude 0.4851385,
+   :source :openstreetmap,
+   :locality "Mira"}
+  {:name "Arte Prado Marcos para cuadros",
+   :longitude -78.4801837,
+   :latitude -0.1703661,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Artesanía en Jade",
+   :longitude -77.7127934,
+   :latitude 0.807156,
+   :source :openstreetmap}
+  {:name "Artesanías en Barro",
+   :longitude -78.2436791,
+   :latitude 0.7481703,
+   :source :openstreetmap}
+  {:name "Arutam Wakam",
+   :longitude -78.612182,
+   :latitude -3.7427086,
+   :source :openstreetmap}
+  {:name "Auto Clásico",
+   :longitude -78.6382697,
+   :latitude -1.2519824,
+   :source :openstreetmap,
+   :locality "Ambato"}
+  {:name "Bella de París",
+   :longitude -79.1514666,
+   :latitude -3.4730163,
+   :source :openstreetmap}
+  {:name "Casa Agave",
+   :longitude -78.455816,
+   :latitude -0.0483417,
+   :source :openstreetmap}
+  {:name "Casa Cultural Museo Agua Blanca",
+   :longitude -80.7407642,
+   :latitude -1.5305636,
+   :source :openstreetmap,
+   :homepage
+   "https://ec.viajandox.com/puerto-lopez/comuna-de-agua-blanca-A262"}
+  {:name "Casa cultural Trude Sojka",
+   :longitude -78.4827617,
+   :latitude -0.2053333,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Casa De Artes Enrique Males",
+   :longitude -78.1836341,
+   :latitude 0.324504,
+   :source :openstreetmap}
+  {:name "Casa De Carlota Jaramillo",
+   :longitude -78.4589262,
+   :latitude 0.0013517,
+   :source :openstreetmap}
+  {:name "Casa de Chaguarchimbana",
+   :longitude -78.9944889,
+   :latitude -2.9134794,
+   :source :openstreetmap}
+  {:name "Casa de Cultura Ecuatoriana",
+   :longitude -80.004296,
+   :latitude -3.2696074,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura",
+   :longitude -79.8886339,
+   :latitude -2.1893128,
+   :source :openstreetmap,
+   :homepage "http://www.casadelaculturaguayas.org/",
+   :locality "Guayaquil"}
+  {:name "Casa de la Cultura",
+   :longitude -78.6184111,
+   :latitude -0.934722,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura de Pózul",
+   :longitude -80.0552758,
+   :latitude -4.1207771,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura Ecuatoriana Núcleo de Imbabura",
+   :longitude -78.1219496,
+   :latitude 0.3525969,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura Ecuatoriana Núcleo de Manabí",
+   :longitude -80.4542268,
+   :latitude -1.0605626,
+   :source :openstreetmap}
+  {:name "Casa de la Ibarreñidad",
+   :longitude -78.1186518,
+   :latitude 0.350732,
+   :source :openstreetmap}
+  {:name "Casa de la Música Gi & Hans Neustätter",
+   :longitude -78.5019802,
+   :latitude -0.1811702,
+   :source :openstreetmap}
+  {:name "Casa de los Titeres",
+   :longitude -79.8990802,
+   :latitude -2.1862966,
+   :source :openstreetmap}
+  {:name "Casa del Arte",
+   :longitude -78.56643,
+   :latitude -0.5038514,
+   :source :openstreetmap}
+  {:name "Casa Madre",
+   :longitude -78.644669,
+   :latitude -1.6732531,
+   :source :openstreetmap,
+   :homepage
+   "https://www.marianitas.org/index.php/nuestra-presencia/137-ecuador"}
+  {:name "Casa Mitómana, invernadero cultural + Coworking",
+   :longitude -78.4988753,
+   :latitude -0.1854799,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Casa Museo",
+   :longitude -78.106045,
+   :latitude 0.2098062,
+   :source :openstreetmap}
+  {:name "Casa Museo de la Makana",
+   :longitude -78.8009233,
+   :latitude -2.8636449,
+   :source :openstreetmap,
+   :homepage "http://www.casadelamacana.com"}
+  {:name "Casa Patrimonial Municipal Las Posadas",
+   :longitude -79.0131661,
+   :latitude -2.8934263,
+   :source :openstreetmap}
+  {:name "Centro Arqueologico Gualiman",
+   :longitude -78.5439765,
+   :latitude 0.3342614,
+   :source :openstreetmap,
+   :homepage "http://www.gualiman.com"}
+  {:name "Centro Artesanal",
+   :longitude -76.8521468,
+   :latitude -0.2891992,
+   :source :openstreetmap}
+  {:name "Centro Artístico Don Bosco",
+   :longitude -78.4924469,
+   :latitude -0.1876682,
+   :source :openstreetmap}
+  {:name "Centro Cultural El Triangulo",
+   :longitude -78.4887574,
+   :latitude -0.1057102,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Centro Cultural José Mejía Lequerica",
+   :longitude -78.5126643,
+   :latitude -0.2251764,
+   :source :openstreetmap,
+   :homepage "https://ninashunku.org/"}
+  {:name "Centro cultural Museo Orígenes Arte Café",
+   :longitude -80.4567873,
+   :latitude -0.4620282,
+   :source :openstreetmap}
+  {:name "Centro Cultural Waka",
+   :longitude -79.2410943,
+   :latitude -3.6248484,
+   :source :openstreetmap}
+  {:name "Centro de Arte Contemporáneo de Quito",
+   :longitude -78.5069653,
+   :latitude -0.2113842,
+   :source :openstreetmap}
+  {:name "Centro de arte y cultura",
+   :longitude -78.6576489,
+   :latitude -1.6663317,
+   :source :openstreetmap,
+   :locality "Riobamba"}
+  {:name "Centro de Arte y Cultura \"Luz Victoria Rivera de Mora\"",
+   :longitude -79.9584241,
+   :latitude -3.2597532,
+   :source :openstreetmap,
+   :locality "Machala"}
+  {:name "Centro de Artesanía",
+   :longitude -79.1899659,
+   :latitude -1.7680058,
+   :source :openstreetmap}
+  {:name "Centro de cultura Atice",
+   :longitude -79.262378,
+   :latitude -1.6356771,
+   :source :openstreetmap}
+  {:name "Centro de Cultura Municipal",
+   :longitude -78.8517889,
+   :latitude -2.7358272,
+   :source :openstreetmap}
+  {:name "CENTRO DE INTERPRETACION",
+   :longitude -78.1090466,
+   :latitude 0.913302,
+   :source :openstreetmap}
+  {:name "Centro de Interpretacion La Toreadora",
+   :longitude -79.2218138,
+   :latitude -2.7832327,
+   :source :openstreetmap}
+  {:name "Centro de Interpretaciones",
+   :longitude -89.6092793,
+   :latitude -0.8934636,
+   :source :openstreetmap}
+  {:name "Centro de Interpretación Van Straelen",
+   :longitude -90.3048237,
+   :latitude -0.7416384,
+   :source :openstreetmap}
+  {:name "Centro de interpretación y cafetería",
+   :longitude -78.5192589,
+   :latitude -0.4224198,
+   :source :openstreetmap}
+  {:name "Centro de Visitantes",
+   :longitude -78.4960033,
+   :latitude -0.6430087,
+   :source :openstreetmap}
+  {:name "CINEARTEDIGITALL",
+   :longitude -78.7959312,
+   :latitude -3.0503465,
+   :source :openstreetmap,
+   :homepage "https://cineartedigitall.blogspot.com/",
+   :locality "Sigsig"}
+  {:name "CINEARTEDIGITALL",
+   :longitude -79.0242403,
+   :latitude -2.8966158,
+   :source :openstreetmap,
+   :homepage "https://cineartedigitall.blogspot.com/",
+   :locality "Cuenca"}
+  {:name "Club Coleccionistas STAR WARS Los CHILLOS",
+   :longitude -78.445369,
+   :latitude -0.2849735,
+   :source :openstreetmap}
+  {:name "Club de Leones de la Alborada",
+   :longitude -79.8987316,
+   :latitude -2.1429578,
+   :source :openstreetmap}
+  {:name "Colección Particular Blas Ángel",
+   :longitude -77.9386948,
+   :latitude 0.6209567,
+   :source :openstreetmap}
+  {:name "Coliseo Parroquial",
+   :longitude -77.7935121,
+   :latitude -1.4332974,
+   :source :openstreetmap}
+  {:name "Concha Acústica",
+   :longitude -79.0940309,
+   :latitude -1.6791844,
+   :source :openstreetmap}
+  {:name "Concha Acústica",
+   :longitude -79.0679941,
+   :latitude -1.6635137,
+   :source :openstreetmap}
+  {:name "cueva wiñatare",
+   :longitude -77.2884097,
+   :latitude -1.3864829,
+   :source :openstreetmap}
+  {:name "Cursos Gratuitos de Guayarte",
+   :longitude -79.9028101,
+   :latitude -2.1803507,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "D'La Cabeza Estudios",
+   :longitude -78.4863564,
+   :latitude -0.170216,
+   :source :openstreetmap,
+   :homepage "https://www.dlacabeza.com/",
+   :locality "Quito"}
+  {:name "Degat",
+   :longitude -79.6819002,
+   :latitude -3.6811595,
+   :source :openstreetmap}
+  {:name "Dheras Art",
+   :longitude -90.3317797,
+   :latitude -0.7178119,
+   :source :openstreetmap}
+  {:name "Dinosaurus Park",
+   :longitude -78.4107582,
+   :latitude -1.4007018,
+   :source :openstreetmap}
+  {:name "E. Vega Galería y Talleres de Cerámica Artística",
+   :longitude -79.0087316,
+   :latitude -2.9223587,
+   :source :openstreetmap}
+  {:name "Ecomuseo del Yanuncay",
+   :longitude -79.0922537,
+   :latitude -2.9239087,
+   :source :openstreetmap}
+  {:name "El  Cedacero",
+   :longitude -78.4520933,
+   :latitude -0.2603071,
+   :source :openstreetmap}
+  {:name "El Cisne",
+   :longitude -79.4264183,
+   :latitude -3.8511747,
+   :source :openstreetmap}
+  {:name "El Escampadero",
+   :longitude -78.7746861,
+   :latitude -0.0536229,
+   :source :openstreetmap}
+  {:name "Eloy Alfaro Museum",
+   :longitude -78.4910235,
+   :latitude -0.1964663,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Escenario",
+   :longitude -79.1651267,
+   :latitude -0.248854,
+   :source :openstreetmap}
+  {:name "Escuela de artes Moisés Erazo",
+   :longitude -77.8357054,
+   :latitude 0.5978359,
+   :source :openstreetmap}
+  {:name "Escuela de baile",
+   :longitude -78.6232874,
+   :latitude -1.2383799,
+   :source :openstreetmap}
+  {:name "Fundacion Guayasamin",
+   :longitude -79.144828,
+   :latitude -0.2544332,
+   :source :openstreetmap}
+  {:name "Galapagos Naval Museum",
+   :longitude -89.6092644,
+   :latitude -0.8999945,
+   :source :openstreetmap}
+  {:name "Galeria",
+   :longitude -79.8984301,
+   :latitude -2.1596429,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Galeria Huellas de la Tierra",
+   :longitude -78.7728543,
+   :latitude -2.9205967,
+   :source :openstreetmap}
+  {:name "Galeria Latina",
+   :longitude -78.4929648,
+   :latitude -0.2028047,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Galeria Pintor de Tigua, Alfredo Toaquiza",
+   :longitude -78.8677015,
+   :latitude -0.9512597,
+   :source :openstreetmap}
+  {:name "Galerias Contemporaneas",
+   :longitude -79.9107348,
+   :latitude -2.1672464,
+   :source :openstreetmap}
+  {:name "Galerias Rosero",
+   :longitude -78.4910274,
+   :latitude -0.1566544,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Galería de Arte Miguel Illescas C.",
+   :longitude -78.9983575,
+   :latitude -2.9052925,
+   :source :openstreetmap,
+   :homepage "https://www.miguelillescas.com.ec/"}
+  {:name "Galería Náutica",
+   :longitude -80.860692,
+   :latitude -2.1985626,
+   :source :openstreetmap}
+  {:name "HM Group",
+   :longitude -78.5037636,
+   :latitude -0.2115994,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Hojas Jaboncillo",
+   :longitude -80.5037009,
+   :latitude -1.0438807,
+   :source :openstreetmap}
+  {:name "Huellas Paleontológicas",
+   :longitude -78.6335393,
+   :latitude -1.7767893,
+   :source :openstreetmap}
+  {:name "Imaginar",
+   :longitude -78.4898503,
+   :latitude -0.1633143,
+   :source :openstreetmap}
+  {:name "Indigenous traps",
+   :longitude -77.5914649,
+   :latitude -1.0387361,
+   :source :openstreetmap}
+  {:name "Insectario del parque Unasur",
+   :longitude -78.4518454,
+   :latitude -0.0043218,
+   :source :openstreetmap}
+  {:name "Instituto Geografico Militar",
+   :longitude -78.4933241,
+   :latitude -0.2144932,
+   :source :openstreetmap}
+  {:name "Jeroglíficos Del Catazho",
+   :longitude -78.4715224,
+   :latitude -3.0865086,
+   :source :openstreetmap}
+  {:name "Kamak Maki",
+   :longitude -77.6353302,
+   :latitude -1.0661226,
+   :source :openstreetmap,
+   :locality "Misahualli"}
+  {:name "La casa de los sueños",
+   :longitude -90.3197652,
+   :latitude -0.7427226,
+   :source :openstreetmap}
+  {:name "La Casa de Olmedo",
+   :longitude -79.5436807,
+   :latitude -1.8007865,
+   :source :openstreetmap}
+  {:name "La cueva de GUS",
+   :longitude -90.3135321,
+   :latitude -0.7551402,
+   :source :openstreetmap}
+  {:name "Lorencia",
+   :longitude -78.4963477,
+   :latitude -0.1433079,
+   :source :openstreetmap}
+  {:name "Los Amantes de Sumpa",
+   :longitude -80.8673979,
+   :latitude -2.2335005,
+   :source :openstreetmap}
+  {:name "Man-Ging Art Gallery",
+   :longitude -79.9067336,
+   :latitude -2.174904,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Maqui",
+   :longitude -78.4806227,
+   :latitude -0.2007212,
+   :source :openstreetmap}
+  {:name "Marsuarte",
+   :longitude -78.4288517,
+   :latitude -0.2008892,
+   :source :openstreetmap,
+   :homepage "https://www.tcclub.art/en/"}
+  {:name "Mas Pinturas",
+   :longitude -78.4829306,
+   :latitude -0.2116616,
+   :source :openstreetmap}
+  {:name "Millennium Gallery",
+   :longitude -79.8977789,
+   :latitude -2.1639554,
+   :source :openstreetmap}
+  {:name "Moz Arte",
+   :longitude -78.4781749,
+   :latitude -0.183819,
+   :source :openstreetmap}
+  {:name "Muebles Artísticos Tello",
+   :longitude -77.5920157,
+   :latitude 0.6704535,
+   :source :openstreetmap,
+   :locality "El Carmelo"}
+  {:name "Muestra geográfica casa García Moreno",
+   :longitude -78.5104926,
+   :latitude -0.2174451,
+   :source :openstreetmap}
+  {:name "Museo",
+   :longitude -79.0603002,
+   :latitude -1.6696073,
+   :source :openstreetmap}
+  {:name "Museo",
+   :longitude -78.7761408,
+   :latitude -2.9226973,
+   :source :openstreetmap,
+   :homepage "http://www.chordelegencantado.gov.ec"}
+  {:name "Museo Aeronáutico y del Espacio FAE",
+   :longitude -78.4930964,
+   :latitude -0.1355708,
+   :source :openstreetmap}
+  {:name "Museo Antropológico Amazónico Quito",
+   :longitude -78.489026,
+   :latitude -0.2077361,
+   :source :openstreetmap}
+  {:name "Museo Antropológico y de Arte Contemporáneo",
+   :longitude -79.875528,
+   :latitude -2.184774,
+   :source :openstreetmap,
+   :locality "Guayaquil, Guayas, Ecuador"}
+  {:name "Museo arqueologico provincia Chinchipe",
+   :longitude -79.1314063,
+   :latitude -4.86317,
+   :source :openstreetmap,
+   :locality "Zumba"}
+  {:name "Museo Arqueológico",
+   :longitude -77.7242369,
+   :latitude 0.6455826,
+   :source :openstreetmap}
+  {:name
+   "Museo Arqueológico de Arte Moderno y Contemporáneo Germán Bastidas Vaca",
+   :longitude -77.7163089,
+   :latitude 0.8173683,
+   :source :openstreetmap,
+   :homepage "https://web.casadelacultura.gob.ec/"}
+  {:name "Museo Arqueológico de Chobshi",
+   :longitude -78.8041846,
+   :latitude -3.0285169,
+   :source :openstreetmap}
+  {:name "Museo Arqueológico Manaquer",
+   :longitude -77.8542309,
+   :latitude 0.8019131,
+   :source :openstreetmap,
+   :locality "Tufiño"}
+  {:name "Museo Arqueológico y Centro Cultural Orellana (MACCO)",
+   :longitude -76.9851218,
+   :latitude -0.4742288,
+   :source :openstreetmap}
+  {:name "Museo Arqueológico y Etnográfico Atahualpa",
+   :longitude -78.1226673,
+   :latitude 0.3230315,
+   :source :openstreetmap}
+  {:name "Museo Arqueológico y Etnológico de Guantug",
+   :longitude -78.9441558,
+   :latitude -2.5550188,
+   :source :openstreetmap}
+  {:name "Museo Bahia de Caraquez",
+   :longitude -80.4236091,
+   :latitude -0.6045174,
+   :source :openstreetmap,
+   :homepage
+   "http://viajeserraticos.net/museo-bahia-de-caraquez-manabi-ecuador/"}
+  {:name "Museo Bosque Puyango",
+   :longitude -80.0807141,
+   :latitude -3.882115,
+   :source :openstreetmap}
+  {:name "Museo Capilla del Hombre",
+   :longitude -78.4694694,
+   :latitude -0.1908144,
+   :source :openstreetmap}
+  {:name "Museo Casa Carlota Jaramillo",
+   :longitude -78.5132033,
+   :latitude -0.0014241,
+   :source :openstreetmap,
+   :locality "Calacalí"}
+  {:name "Museo Casaleón",
+   :longitude -80.9157569,
+   :latitude -2.2208696,
+   :source :openstreetmap}
+  {:name "Museo Centro Cultural Manta",
+   :longitude -80.7304124,
+   :latitude -0.9418757,
+   :source :openstreetmap}
+  {:name "Museo Centro de Investigaciones",
+   :longitude -80.8429653,
+   :latitude -1.5911525,
+   :source :openstreetmap}
+  {:name "Museo Cultural de la Llama",
+   :longitude -78.7468898,
+   :latitude -1.6272671,
+   :source :openstreetmap}
+  {:name "Museo de Arquitectura",
+   :longitude -78.5089058,
+   :latitude -0.2237406,
+   :source :openstreetmap}
+  {:name "Museo de Arte Manuel Serrano",
+   :longitude -79.3551914,
+   :latitude -3.9991091,
+   :source :openstreetmap}
+  {:name "Museo de Arte Precolombino Casa del Alabado",
+   :longitude -78.5159465,
+   :latitude -0.2213963,
+   :source :openstreetmap,
+   :homepage "https://alabado.org/"}
+  {:name "Museo de Arte Religioso",
+   :longitude -78.6485747,
+   :latitude -1.670263,
+   :source :openstreetmap}
+  {:name "Museo de arte religioso y colonial El Valle",
+   :longitude -79.2011531,
+   :latitude -3.9814912,
+   :source :openstreetmap,
+   :locality "Loja, Ecuador"}
+  {:name "Museo de Ballenas (se necesita previa cita)",
+   :longitude -80.9613413,
+   :latitude -2.2048302,
+   :source :openstreetmap,
+   :homepage "https://www.museodeballenas.org/"}
+  {:name "Museo de Cotacachi",
+   :longitude -78.2650041,
+   :latitude 0.300423,
+   :source :openstreetmap}
+  {:name "Museo de Eloy Alfaro",
+   :longitude -80.6631285,
+   :latitude -1.0548794,
+   :source :openstreetmap}
+  {:name "Museo de la Arcilla \"María Eugenia Puig Lince\"",
+   :longitude -79.907571,
+   :latitude -2.188506,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Museo de la Catedral",
+   :longitude -78.5123798,
+   :latitude -0.2209221,
+   :source :openstreetmap,
+   :homepage "http://www.bce.fin.cc"}
+  {:name "Museo de la Ciudad / Antigua Escuela Central",
+   :longitude -79.0044142,
+   :latitude -2.8960922,
+   :source :openstreetmap,
+   :locality "Cuenca"}
+  {:name "Museo de la ciudad de Guano",
+   :longitude -78.6471413,
+   :latitude -1.6085238,
+   :source :openstreetmap}
+  {:name "Museo de la Defensa \"Casa de los Tratados\"",
+   :longitude -79.1476476,
+   :latitude -3.159066,
+   :source :openstreetmap,
+   :locality "Girón"}
+  {:name "Museo de la Música",
+   :longitude -79.2007697,
+   :latitude -3.9985353,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/museoconceptasLoja",
+   :locality "Loja, Ecuador"}
+  {:name "Museo de la Virgen de El Quinche",
+   :longitude -78.2960327,
+   :latitude -0.110497,
+   :source :openstreetmap}
+  {:name "Museo de las Conceptas",
+   :longitude -79.0025257,
+   :latitude -2.900144,
+   :source :openstreetmap,
+   :locality "Cuenca"}
+  {:name "Museo de los Metales",
+   :longitude -79.0096721,
+   :latitude -2.913158,
+   :source :openstreetmap,
+   :locality "Cuenca"}
+  {:name "Museo de Perucho",
+   :longitude -78.423603,
+   :latitude 0.1093482,
+   :source :openstreetmap}
+  {:name "Museo de Piedra",
+   :longitude -78.2538007,
+   :latitude 0.7638307,
+   :source :openstreetmap}
+  {:name "Museo de sitio La Florida",
+   :longitude -78.5073416,
+   :latitude -0.1468956,
+   :source :openstreetmap,
+   :homepage "www.patrimonio.quito.gob.ec"}
+  {:name "Museo de Sitio Tulipe",
+   :longitude -78.7367884,
+   :latitude 0.087278,
+   :source :openstreetmap}
+  {:name "Museo de Zoología",
+   :longitude -78.491139,
+   :latitude -0.2108655,
+   :source :openstreetmap}
+  {:name "Museo de Zoología",
+   :longitude -78.4352962,
+   :latitude -0.1963864,
+   :source :openstreetmap}
+  {:name "Museo de Zoología (MUTPL)",
+   :longitude -79.1977332,
+   :latitude -3.9870242,
+   :source :openstreetmap}
+  {:name "Museo del Agua - Yaku",
+   :longitude -78.5189442,
+   :latitude -0.2175184,
+   :source :openstreetmap}
+  {:name "Museo del Banco Central",
+   :longitude -78.4954683,
+   :latitude -0.2096882,
+   :source :openstreetmap,
+   :homepage "https://muna.culturaypatrimonio.gob.ec/"}
+  {:name "Museo del Banco Central",
+   :longitude -80.7211092,
+   :latitude -0.9504676,
+   :source :openstreetmap}
+  {:name "Museo del Bombero \"Félix Luque Plata\"",
+   :longitude -79.89738,
+   :latitude -2.2040953,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Museo del cacao",
+   :longitude -78.4551385,
+   :latitude -0.0014746,
+   :source :openstreetmap,
+   :homepage "https://mitaddelmundo.gob.ec/experiencia-del-cacao/"}
+  {:name "Museo del cacao",
+   :longitude -79.8789638,
+   :latitude -2.1881815,
+   :source :openstreetmap}
+  {:name "Museo del Carnaval (La Guitarra)",
+   :longitude -79.0058115,
+   :latitude -1.5983407,
+   :source :openstreetmap}
+  {:name "Museo del Colegio Bolívar",
+   :longitude -78.6273809,
+   :latitude -1.2408138,
+   :source :openstreetmap}
+  {:name "Museo del Indio Guaranga",
+   :longitude -79.0068627,
+   :latitude -1.5882401,
+   :source :openstreetmap}
+  {:name "Museo del Libertador General Eloy Alfaro",
+   :longitude -78.4854498,
+   :latitude -0.0845426,
+   :source :openstreetmap}
+  {:name "Museo del Mar",
+   :longitude -90.3104127,
+   :latitude -0.7426684,
+   :source :openstreetmap}
+  {:name "Museo del Mar",
+   :longitude -80.7094925,
+   :latitude -0.9512168,
+   :source :openstreetmap}
+  {:name "Museo del Pueblo Kichwa Otavalo",
+   :longitude -78.2675196,
+   :latitude 0.2420506,
+   :source :openstreetmap}
+  {:name "Museo del Sombrero \"Homero Ortega\"",
+   :longitude -78.9928745,
+   :latitude -2.891018,
+   :source :openstreetmap}
+  {:name "Museo Ecologica Cotachi Cayapas",
+   :longitude -78.3545966,
+   :latitude 0.2929145,
+   :source :openstreetmap}
+  {:name "Museo Eduardo Kingman",
+   :longitude -78.4534375,
+   :latitude -0.3090171,
+   :source :openstreetmap}
+  {:name "Museo El Tambo",
+   :longitude -78.9249288,
+   :latitude -2.5121052,
+   :source :openstreetmap}
+  {:name "Museo Energía",
+   :longitude -76.8645295,
+   :latitude 0.1063898,
+   :source :openstreetmap}
+  {:name "Museo etno - arqueológico",
+   :longitude -77.9977164,
+   :latitude -1.4869938,
+   :source :openstreetmap}
+  {:name "Museo Etnografico Tsáchila",
+   :longitude -79.21183,
+   :latitude -0.3201525,
+   :source :openstreetmap}
+  {:name "Museo Fray Enrique Mideros",
+   :longitude -78.4209114,
+   :latitude -1.3973316,
+   :source :openstreetmap}
+  {:name "Museo Historia de la Medicina",
+   :longitude -79.0048824,
+   :latitude -2.9032455,
+   :source :openstreetmap,
+   :locality "Cuenca"}
+  {:name "Museo Interactivo de Ciencias",
+   :longitude -78.5159924,
+   :latitude -0.2360676,
+   :source :openstreetmap,
+   :homepage "http://www.museo-ciencia.gob.ec/"}
+  {:name "Museo Julio Viteri Gamboa",
+   :longitude -79.6011257,
+   :latitude -2.1338951,
+   :source :openstreetmap}
+  {:name "Museo Magner Turner",
+   :longitude -79.6168524,
+   :latitude -3.7116733,
+   :source :openstreetmap}
+  {:name "Museo Matilde Hidalgo de Procel",
+   :longitude -79.2058538,
+   :latitude -3.9943681,
+   :source :openstreetmap,
+   :locality "Loja, Ecuador"}
+  {:name "Museo Mindalae",
+   :longitude -78.4876633,
+   :latitude -0.1989768,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Museo Municipal",
+   :longitude -79.9893092,
+   :latitude -1.7147958,
+   :source :openstreetmap,
+   :locality "Santa Lucá"}
+  {:name "Museo Municipal",
+   :longitude -79.6100552,
+   :latitude -3.6927764,
+   :source :openstreetmap}
+  {:name "Museo Municipal de Guayaquil",
+   :longitude -79.8826065,
+   :latitude -2.1958569,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Museo Municipal de Jama",
+   :longitude -80.2650929,
+   :latitude -0.2017964,
+   :source :openstreetmap}
+  {:name "Museo Naval - El Fortín de Santa Ana",
+   :longitude -79.875653,
+   :latitude -2.1813136,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Museo Naval Almirante Illingworth",
+   :longitude -79.8864949,
+   :latitude -2.2148518,
+   :source :openstreetmap,
+   :homepage "https://turismo.guayaquil.gob.ec/",
+   :locality "Guayaquil"}
+  {:name "Museo Paleontológico",
+   :longitude -77.9020864,
+   :latitude 0.5079146,
+   :source :openstreetmap}
+  {:name "Museo Paleontológico de San José de Chalán",
+   :longitude -78.6400909,
+   :latitude -1.776359,
+   :source :openstreetmap}
+  {:name "Museo Paleontológico “Megaterio”",
+   :longitude -80.8780354,
+   :latitude -2.2321927,
+   :source :openstreetmap,
+   :homepage "https://www.upse.edu.ec/megaterio/"}
+  {:name "Museo pictórico Luis Edmundo Martinez Mera",
+   :longitude -78.6313419,
+   :latitude -1.2430633,
+   :source :openstreetmap}
+  {:name "Museo Portoviejo",
+   :longitude -80.4509566,
+   :latitude -1.0571521,
+   :source :openstreetmap}
+  {:name "Museo Presley Norton",
+   :longitude -79.8952953,
+   :latitude -2.1876036,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Museo Puerta de la Cuidad",
+   :longitude -79.2042649,
+   :latitude -3.9896853,
+   :source :openstreetmap,
+   :locality "Loja, Ecuador"}
+  {:name "Museo Regional de Arqueologia",
+   :longitude -79.6518812,
+   :latitude 0.9653938,
+   :source :openstreetmap,
+   :locality "Esmeraldas"}
+  {:name "Museo Salinas Siglo XXI",
+   :longitude -80.9668827,
+   :latitude -2.2059097,
+   :source :openstreetmap}
+  {:name "Museo Samay Huasi",
+   :longitude -78.0792176,
+   :latitude 0.2365322,
+   :source :openstreetmap}
+  {:name "Museo Shuar",
+   :longitude -78.8860001,
+   :latitude -4.0268036,
+   :source :openstreetmap}
+  {:name "Museo Solar",
+   :longitude -78.1750406,
+   :latitude 9.99E-5,
+   :source :openstreetmap}
+  {:name "Museo Soloma",
+   :longitude -79.2805635,
+   :latitude -1.4315667,
+   :source :openstreetmap}
+  {:name "Museo Templo del Sol",
+   :longitude -78.4810708,
+   :latitude 0.0233712,
+   :source :openstreetmap}
+  {:name "Museo Turístico Isla Santay",
+   :longitude -79.8695026,
+   :latitude -2.2283739,
+   :source :openstreetmap}
+  {:name "Museo volcanico",
+   :longitude -78.4145331,
+   :latitude -1.3997893,
+   :source :openstreetmap}
+  {:name "Museo y cueva Inca",
+   :longitude -78.2398334,
+   :latitude 0.2391139,
+   :source :openstreetmap}
+  {:name "Museo-Convento del Buen Pastor de La Recoleta",
+   :longitude -78.5133849,
+   :latitude -0.2317319,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Museos Casa de la Cultura",
+   :longitude -78.6528398,
+   :latitude -1.6704053,
+   :source :openstreetmap}
+  {:name "Museum Sucre",
+   :longitude -78.4977711,
+   :latitude -1.2659543,
+   :source :openstreetmap}
+  {:name "Musée histoire et patrimoine",
+   :longitude -79.3436895,
+   :latitude -3.8431851,
+   :source :openstreetmap}
+  {:name "Novartes Centro Cultural",
+   :longitude -78.6699159,
+   :latitude -1.646159,
+   :source :openstreetmap}
+  {:name "Organoléptica de Cacao",
+   :longitude -78.4915652,
+   :latitude -0.1527478,
+   :source :openstreetmap,
+   :homepage "http://www.organoleptica.com"}
+  {:name "Palacio de Cristal Centro cultural Itchimbia",
+   :longitude -78.501779,
+   :latitude -0.21998,
+   :source :openstreetmap,
+   :homepage "https://www.centrocultural-quito.com/"}
+  {:name "Parque Arqueológico Cochasqui",
+   :longitude -78.304401,
+   :latitude 0.0547308,
+   :source :openstreetmap}
+  {:name "Parque Histórico",
+   :longitude -79.8679761,
+   :latitude -2.1444721,
+   :source :openstreetmap,
+   :locality "Guayaquil"}
+  {:name "Posada de Artes Kingman",
+   :longitude -78.4845022,
+   :latitude -0.1966014,
+   :source :openstreetmap}
+  {:name "Prohibido Centro Cultural",
+   :longitude -79.008922,
+   :latitude -2.8990331,
+   :source :openstreetmap}
+  {:name "Quinta de Montalvo",
+   :longitude -78.6462774,
+   :latitude -1.2507714,
+   :source :openstreetmap}
+  {:name "Radio Pillaro",
+   :longitude -78.5420719,
+   :latitude -1.1708111,
+   :source :openstreetmap}
+  {:name "Registro Civil",
+   :longitude -77.70917,
+   :latitude 0.8151502,
+   :source :openstreetmap}
+  {:name "RESTOS ARQUEOLOGICOS.",
+   :longitude -78.0499853,
+   :latitude 0.865104,
+   :source :openstreetmap}
+  {:name "Réplicas de Figuras Precolombinas en Arcilla",
+   :longitude -77.716996,
+   :latitude 0.8105743,
+   :source :openstreetmap}
+  {:name "Sara Palacios",
+   :longitude -78.4326976,
+   :latitude -0.1683878,
+   :source :openstreetmap,
+   :locality "Quito"}
+  {:name "Shaolin",
+   :longitude -78.461923,
+   :latitude -0.3269545,
+   :source :openstreetmap}
+  {:name "Sol De Quito",
+   :longitude -78.4913579,
+   :latitude -0.1919771,
+   :source :openstreetmap}
+  {:name "Stoned Riders",
+   :longitude -78.5398254,
+   :latitude -0.2790368,
+   :source :openstreetmap,
+   :homepage "http://www.stonedriders.com",
+   :locality "Quito"}
+  {:name "Su Marmoleria Espiritu Santo",
+   :longitude -78.521123,
+   :latitude -0.2261199,
+   :source :openstreetmap}
+  {:name "Tejidos de lana",
+   :longitude -78.0417889,
+   :latitude 0.5491949,
+   :source :openstreetmap}
+  {:name "Templo de la Patria",
+   :longitude -78.5272568,
+   :latitude -0.2192994,
+   :source :openstreetmap}
+  {:name "VIEJO AVIÓN",
+   :longitude -78.6226204,
+   :latitude -0.8492161,
+   :source :openstreetmap}
+  {:name "Viena",
+   :longitude -79.0084524,
+   :latitude -2.8945365,
+   :source :openstreetmap}
+  {:name "Visitors Center Parque Nacional Machalilla",
+   :longitude -81.0658757,
+   :latitude -1.2686107,
+   :source :openstreetmap}
+  {:name "Ñaño casa museo",
+   :longitude -79.2111425,
+   :latitude -3.999108,
+   :source :openstreetmap,
+   :locality "Loja, Ecuador"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

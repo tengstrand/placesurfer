@@ -1,0 +1,1 @@
+{"version":3,"sources":["placesurfer/app_ui/ui/core.cljs"],"mappings":";AAGA,kCAAA,lCAAMA,4EAAMC;AAAZ,AACE,OAACC,gCAAUD","names":["placesurfer.app-ui.ui.core/view","props","placesurfer.app-ui.ui.view/view"],"sourcesContent":["(ns placesurfer.app-ui.ui.core\n  (:require [placesurfer.app-ui.ui.view :as view]))\n\n(defn view [props]\n  (view/view props))\n"]}

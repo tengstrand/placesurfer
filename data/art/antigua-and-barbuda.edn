@@ -1,0 +1,42 @@
+{:count 5,
+ :country "antigua-and-barbuda",
+ :country-code "AG",
+ :dataset :art,
+ :generated-at "2026-05-26T06:01:01.788629Z",
+ :positions
+ [{:name "Ali and Associates Mas Camp",
+   :longitude -61.8406379,
+   :latitude 17.121528,
+   :source :openstreetmap,
+   :locality "St. John's",
+   :image "",
+   :description ""}
+  {:name "Betty's Hope Museum",
+   :longitude -61.7457651,
+   :latitude 17.0816654,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Dockyard Museum",
+   :longitude -61.7653471,
+   :latitude 17.0078852,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Dow's hill interpretation center",
+   :longitude -61.7575487,
+   :latitude 17.0109674,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Zemi",
+   :longitude -61.8456305,
+   :latitude 17.1201593,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

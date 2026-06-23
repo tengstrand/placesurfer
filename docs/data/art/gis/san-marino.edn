@@ -1,0 +1,30 @@
+{:count 4,
+ :country "san-marino",
+ :country-code "SM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:12.442730Z",
+ :positions
+ [{:name "Kursaal Sala Congressi",
+   :longitude 12.4520549,
+   :latitude 43.9283474,
+   :source :openstreetmap}
+  {:name "Maranello Rosso Musei",
+   :longitude 12.5130671,
+   :latitude 43.9906508,
+   :source :openstreetmap,
+   :locality "Falciano"}
+  {:name "Museo Armi Moderne",
+   :longitude 12.4469589,
+   :latitude 43.9366549,
+   :source :openstreetmap,
+   :homepage "https://www.museodeivampiri.com/"}
+  {:name "Museo delle Armi Antiche",
+   :longitude 12.4514172,
+   :latitude 43.9325333,
+   :source :openstreetmap,
+   :homepage "https://www.museodellecerersm.com/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

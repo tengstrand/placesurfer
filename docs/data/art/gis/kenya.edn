@@ -1,0 +1,315 @@
+{:count 69,
+ :country "kenya",
+ :country-code "KE",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:08.371787Z",
+ :positions
+ [{:name "Abasuba Community Peace Museum",
+   :longitude 34.0579129,
+   :latitude -0.4527729,
+   :source :openstreetmap}
+  {:name "African Adventist Heritage Musuem",
+   :longitude 36.7282637,
+   :latitude -1.402664,
+   :source :openstreetmap}
+  {:name "African Heritage House",
+   :longitude 36.9391632,
+   :latitude -1.4007172,
+   :source :openstreetmap,
+   :locality "Mlolongo"}
+  {:name "anselm Kitengela Hot Glass",
+   :longitude 36.8178198,
+   :latitude -1.3922429,
+   :source :openstreetmap}
+  {:name "Art Enterprise",
+   :longitude 36.7774217,
+   :latitude -1.3131811,
+   :source :openstreetmap}
+  {:name "Athletics Museum",
+   :longitude 36.8236504,
+   :latitude -1.3002891,
+   :source :openstreetmap}
+  {:name "B68",
+   :longitude 39.8845195,
+   :latitude -3.6009282,
+   :source :openstreetmap}
+  {:name "Beads Museum",
+   :longitude 35.3380003,
+   :latitude -1.5203628,
+   :source :openstreetmap,
+   :locality "Maasai-Mara"}
+  {:name "Chandaria Centre for Performing Arts",
+   :longitude 36.8163078,
+   :latitude -1.2790999,
+   :source :openstreetmap,
+   :homepage
+   "https://dca.uonbi.ac.ke/basic-page/chandaria-centre-performing-arts"}
+  {:name "Circle Art Agency",
+   :longitude 36.7597743,
+   :latitude -1.2963124,
+   :source :openstreetmap}
+  {:name "Colobus Conservation",
+   :longitude 39.5642141,
+   :latitude -4.3465792,
+   :source :openstreetmap,
+   :locality "Diani Beach"}
+  {:name "Creative Garage",
+   :longitude 36.7825413,
+   :latitude -1.2971535,
+   :source :openstreetmap}
+  {:name "Crescent Island Museum",
+   :longitude 36.4061222,
+   :latitude -0.7750012,
+   :source :openstreetmap}
+  {:name "Desert Museum - Loiyangalani",
+   :longitude 36.6990859,
+   :latitude 2.7840414,
+   :source :openstreetmap,
+   :homepage "https://www.museums.or.ke/desert-museum/",
+   :locality "Loiyangalani"}
+  {:name "Diani Beach Art Gallery",
+   :longitude 39.5808771,
+   :latitude -4.2989912,
+   :source :openstreetmap,
+   :locality "Kwale"}
+  {:name "Elben Historical Site",
+   :longitude 40.1855554,
+   :latitude 2.3051624,
+   :source :openstreetmap}
+  {:name "Fort Jesus Museum",
+   :longitude 39.6798017,
+   :latitude -4.0628545,
+   :source :openstreetmap}
+  {:name "Fundii Centre for the Arts",
+   :longitude 36.8148642,
+   :latitude -1.2517497,
+   :source :openstreetmap}
+  {:name "Gaoal",
+   :longitude 36.8443914,
+   :latitude -1.3124356,
+   :source :openstreetmap}
+  {:name "Gede Ruins",
+   :longitude 40.0179067,
+   :latitude -3.3067514,
+   :source :openstreetmap}
+  {:name "German Post Office",
+   :longitude 40.9025953,
+   :latitude -2.2698111,
+   :source :openstreetmap}
+  {:name "House of Columns",
+   :longitude 40.1248278,
+   :latitude -3.2178582,
+   :source :openstreetmap,
+   :locality "Malindi"}
+  {:name "Hyrax Hill Museum",
+   :longitude 36.1054642,
+   :latitude -0.2796002,
+   :source :openstreetmap}
+  {:name "Kabarnet Museum",
+   :longitude 35.7445494,
+   :latitude 0.4898944,
+   :source :openstreetmap}
+  {:name "Kakapel",
+   :longitude 34.359024,
+   :latitude 0.6679963,
+   :source :openstreetmap}
+  {:name "Karen Blixen Museum",
+   :longitude 36.7125131,
+   :latitude -1.3519707,
+   :source :openstreetmap}
+  {:name "Karen Village",
+   :longitude 36.6806998,
+   :latitude -1.330975,
+   :source :openstreetmap,
+   :locality "Nairobi"}
+  {:name "Kariandusi Museum",
+   :longitude 36.2838847,
+   :latitude -0.4514038,
+   :source :openstreetmap}
+  {:name "Kenya heven of hope myto youth group",
+   :longitude 36.8591267,
+   :latitude -1.2610813,
+   :source :openstreetmap}
+  {:name "kibera group",
+   :longitude 36.7992087,
+   :latitude -1.3153513,
+   :source :openstreetmap}
+  {:name "Kibra Art Institute",
+   :longitude 36.7730221,
+   :latitude -1.3106636,
+   :source :openstreetmap}
+  {:name "Kioki Mwitiki",
+   :longitude 36.7700391,
+   :latitude -1.2795264,
+   :source :openstreetmap}
+  {:name "Kipsaraman Museum",
+   :longitude 35.8365141,
+   :latitude 0.7434383,
+   :source :openstreetmap}
+  {:name "Kisumu National Museum",
+   :longitude 34.7627097,
+   :latitude -0.1073721,
+   :source :openstreetmap,
+   :homepage "https://museums.or.ke/kisumu-museum/"}
+  {:name "Kitale Museum",
+   :longitude 35.0052964,
+   :latitude 1.0135069,
+   :source :openstreetmap,
+   :locality "Kitale"}
+  {:name "Kwa Waita",
+   :longitude 37.5196064,
+   :latitude -1.8983626,
+   :source :openstreetmap}
+  {:name "KWS gallery",
+   :longitude 34.8574093,
+   :latitude 0.3643624,
+   :source :openstreetmap}
+  {:name "Maharia gallery",
+   :longitude 40.9147434,
+   :latitude -2.2936436,
+   :source :openstreetmap}
+  {:name "Malindi Museum",
+   :longitude 40.1215876,
+   :latitude -3.2159933,
+   :source :openstreetmap}
+  {:name "Marsabit Cultural Museum",
+   :longitude 37.9845184,
+   :latitude 2.3217768,
+   :source :openstreetmap}
+  {:name "Meru Museum",
+   :longitude 37.6507355,
+   :latitude 0.0476226,
+   :source :openstreetmap,
+   :locality "Meru"}
+  {:name "Mukuru Arts",
+   :longitude 36.8652014,
+   :latitude -1.3116447,
+   :source :openstreetmap}
+  {:name "Mumias Arts",
+   :longitude 34.4902073,
+   :latitude 0.3446756,
+   :source :openstreetmap,
+   :locality "Mumias"}
+  {:name "Mumias Cultural Center",
+   :longitude 34.4943278,
+   :latitude 0.3383446,
+   :source :openstreetmap,
+   :locality "Mumias"}
+  {:name "Muralpaintings",
+   :longitude 36.8129137,
+   :latitude -1.2133595,
+   :source :openstreetmap}
+  {:name "Nabongo Cultural Centre",
+   :longitude 34.4772239,
+   :latitude 0.3916242,
+   :source :openstreetmap}
+  {:name "Nairobi Gallery",
+   :longitude 36.8178958,
+   :latitude -1.2867687,
+   :source :openstreetmap,
+   :locality "Nairobi"}
+  {:name "Nairobi National Museum",
+   :longitude 36.8149772,
+   :latitude -1.273995,
+   :source :openstreetmap,
+   :homepage "https://www.museums.or.ke/",
+   :locality "Nairobi"}
+  {:name "Nairobi Railway Museum",
+   :longitude 36.8225011,
+   :latitude -1.2936209,
+   :source :openstreetmap,
+   :locality "Nairobi"}
+  {:name "Narok Museum",
+   :longitude 35.8743808,
+   :latitude -1.0895039,
+   :source :openstreetmap,
+   :locality "Narok"}
+  {:name "National Museum of Kenya- Coastal Forest Conservation Unit",
+   :longitude 39.5557306,
+   :latitude -4.3039158,
+   :source :openstreetmap}
+  {:name "Nyeri Museum",
+   :longitude 36.9640498,
+   :latitude -0.4400491,
+   :source :openstreetmap,
+   :locality "Ruring'u Ward"}
+  {:name "Nyota Studio",
+   :longitude 36.7882047,
+   :latitude -1.3116072,
+   :source :openstreetmap}
+  {:name "NZUMARI AFRICA ART CENTER",
+   :longitude 36.874946,
+   :latitude -1.2600369,
+   :source :openstreetmap}
+  {:name "Olorgesailie Prehistoric Site",
+   :longitude 36.4444724,
+   :latitude -1.577817,
+   :source :openstreetmap}
+  {:name "Play Station Point",
+   :longitude 36.7938829,
+   :latitude -1.3120331,
+   :source :openstreetmap}
+  {:name "Ramogi Achieng Oneko Meseum",
+   :longitude 34.3994974,
+   :latitude -0.286519,
+   :source :openstreetmap}
+  {:name "Savannah Art Gallery",
+   :longitude 37.4813435,
+   :latitude -2.0900504,
+   :source :openstreetmap,
+   :locality "Emali"}
+  {:name "Shimba Hills National Reserve",
+   :longitude 39.3878444,
+   :latitude -4.2571024,
+   :source :openstreetmap}
+  {:name "SLUM SANAA ART CENTER",
+   :longitude 36.8652681,
+   :latitude -1.2604778,
+   :source :openstreetmap}
+  {:name "The Art Space Kenya",
+   :longitude 36.8043903,
+   :latitude -1.2728769,
+   :source :openstreetmap,
+   :homepage "https://theartspace.co.ke/"}
+  {:name "The GoDown Arts Centre",
+   :longitude 36.8293886,
+   :latitude -1.2989783,
+   :source :openstreetmap,
+   :homepage "https://thegodownartscentre.com"}
+  {:name "The Judiciary Museum",
+   :longitude 36.8233358,
+   :latitude -1.2876028,
+   :source :openstreetmap,
+   :locality "Nairobi"}
+  {:name "The Village Exhibition",
+   :longitude 36.7992076,
+   :latitude -1.3116382,
+   :source :openstreetmap}
+  {:name "Tribal Gallery",
+   :longitude 36.7657403,
+   :latitude -1.250264,
+   :source :openstreetmap,
+   :locality "Nairobi"}
+  {:name "Uhuru Park Museum",
+   :longitude 36.8164282,
+   :latitude -1.2904452,
+   :source :openstreetmap,
+   :locality "Nairobi"}
+  {:name "Wajukuuu",
+   :longitude 36.8712863,
+   :latitude -1.3140606,
+   :source :openstreetmap}
+  {:name "Wastah Villa",
+   :longitude 36.6799908,
+   :latitude -1.3874194,
+   :source :openstreetmap,
+   :locality "Matasia"}
+  {:name "Workshop",
+   :longitude 39.3124475,
+   :latitude -4.1359454,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

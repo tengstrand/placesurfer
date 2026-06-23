@@ -1,0 +1,74 @@
+{:count 15,
+ :country "bahrain",
+ :country-code "BH",
+ :dataset :art,
+ :generated-at "2026-05-26T06:02:56.579446Z",
+ :positions
+ [{:name "Abdulla Al Zayed House for Bahrain Press Heritage",
+   :longitude 50.6107133,
+   :latitude 26.2538977,
+   :source :openstreetmap}
+  {:name "Bashar Gallery",
+   :longitude 50.5925489,
+   :latitude 26.2067876,
+   :source :openstreetmap}
+  {:name "Golden Gallery",
+   :longitude 50.5967341,
+   :latitude 26.2017784,
+   :source :openstreetmap}
+  {:name "Hend Gallery",
+   :longitude 50.6194775,
+   :latitude 26.2604397,
+   :source :openstreetmap}
+  {:name "Jallawi Gallery جلاوي جالري",
+   :longitude 50.5645157,
+   :latitude 26.2094148,
+   :source :openstreetmap,
+   :locality "Zinj"}
+  {:name "Khamis Mosque Visitor Centre",
+   :longitude 50.5492455,
+   :latitude 26.2083244,
+   :source :openstreetmap}
+  {:name "Oil Museum",
+   :longitude 50.5524045,
+   :latitude 26.0274522,
+   :source :openstreetmap,
+   :homepage "https://www.bahrain.com/en/history-and-culture"}
+  {:name "Qal'at al-Bahrain Fort",
+   :longitude 50.5225814,
+   :latitude 26.2351564,
+   :source :openstreetmap}
+  {:name "Rashid Al-Oraifi Museum",
+   :longitude 50.6179086,
+   :latitude 26.2641686,
+   :source :openstreetmap}
+  {:name "YQ Art Center",
+   :longitude 50.5637401,
+   :latitude 26.1366006,
+   :source :openstreetmap}
+  {:name "المتحف العسكري",
+   :longitude 50.5629233,
+   :latitude 26.1200098,
+   :source :openstreetmap}
+  {:name "بيت القرآن",
+   :longitude 50.5915301,
+   :latitude 26.2397552,
+   :source :openstreetmap}
+  {:name "مأتم الإمام علي",
+   :longitude 50.6266518,
+   :latitude 26.286225,
+   :source :openstreetmap}
+  {:name "متحف البحرين الوطني",
+   :longitude 50.597778,
+   :latitude 26.2406686,
+   :source :openstreetmap,
+   :homepage "https://youtu.be/mwwVI-dVX9g?si=Fdl58RXxnGfdAv0x"}
+  {:name "نواف",
+   :longitude 50.5013598,
+   :latitude 26.1066702,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

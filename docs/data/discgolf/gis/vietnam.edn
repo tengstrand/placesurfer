@@ -1,0 +1,21 @@
+{:count 1,
+ :country "vietnam",
+ :country-code "VN",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T13:27:07.605555Z",
+ :positions
+ [{:name "skylake",
+   :longitude 105.47326090283008,
+   :latitude 20.963308774152495,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/25205",
+   :locality "Hà Nội"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

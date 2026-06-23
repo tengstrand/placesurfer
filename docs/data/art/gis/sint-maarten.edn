@@ -1,0 +1,35 @@
+{:count 5,
+ :country "sint-maarten",
+ :country-code "SX",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:43.530621Z",
+ :positions
+ [{:name "Artistic Drive",
+   :longitude -63.0512844,
+   :latitude 18.0255393,
+   :source :openstreetmap,
+   :locality "Philipsburg"}
+  {:name "J.W. Sloan Gallery",
+   :longitude -63.0776962,
+   :latitude 18.0336191,
+   :source :openstreetmap,
+   :locality "Koolbaai"}
+  {:name "John Larmonie Center",
+   :longitude -63.0546473,
+   :latitude 18.0280429,
+   :source :openstreetmap,
+   :locality "Philipsburg"}
+  {:name "Meotti Artist Painter",
+   :longitude -63.0830531,
+   :latitude 18.0433581,
+   :source :openstreetmap}
+  {:name "Sint Maarten Museum",
+   :longitude -63.0425886,
+   :latitude 18.0215372,
+   :source :openstreetmap,
+   :homepage "http://netdwellers.com/mo/ygme/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

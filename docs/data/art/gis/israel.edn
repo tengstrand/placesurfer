@@ -1,0 +1,924 @@
+{:count 206,
+ :country "israel",
+ :country-code "IL",
+ :dataset :art,
+ :generated-at "2026-05-26T06:15:26.843211Z",
+ :positions
+ [{:name "AlHoash Art Court",
+   :longitude 35.2301021,
+   :latitude 31.7859836,
+   :source :openstreetmap}
+  {:name "Art studio RIMONIM Workroom",
+   :longitude 35.0430252,
+   :latitude 32.7761632,
+   :source :openstreetmap,
+   :locality "Nesher"}
+  {:name "Artist's House",
+   :longitude 35.2144479,
+   :latitude 31.7799463,
+   :source :openstreetmap}
+  {:name "Beit Shturman",
+   :longitude 35.3949967,
+   :latitude 32.5596394,
+   :source :openstreetmap,
+   :homepage "https://www.beit-shturman.co.il/"}
+  {:name "Beit Theresienstadt",
+   :longitude 34.9324699,
+   :latitude 32.397477,
+   :source :openstreetmap}
+  {:name "Caphernaum The Town of Jesus",
+   :longitude 35.5749256,
+   :latitude 32.8805992,
+   :source :openstreetmap}
+  {:name "Circassian heritage museum",
+   :longitude 35.4867924,
+   :latitude 33.0493502,
+   :source :openstreetmap}
+  {:name "circassian museum",
+   :longitude 35.4431764,
+   :latitude 32.7212373,
+   :source :openstreetmap}
+  {:name "issaf nashashebe instituation",
+   :longitude 35.2321054,
+   :latitude 31.7927899,
+   :source :openstreetmap}
+  {:name "Keren Bar Gil",
+   :longitude 34.8450319,
+   :latitude 32.1346646,
+   :source :openstreetmap,
+   :locality "רמת השרון"}
+  {:name "Kimaron Hall",
+   :longitude 35.5147094,
+   :latitude 32.4950393,
+   :source :openstreetmap}
+  {:name "Lod Mosaic Center",
+   :longitude 34.9034126,
+   :latitude 31.9558133,
+   :source :openstreetmap}
+  {:name "Madatech",
+   :longitude 34.9957979,
+   :latitude 32.8096829,
+   :source :openstreetmap}
+  {:name "Memorial of Father Joseph Germer-Durand (1845-1917)",
+   :longitude 35.2319415,
+   :latitude 31.7710848,
+   :source :openstreetmap}
+  {:name "Mitzpe Revivim",
+   :longitude 34.7177854,
+   :latitude 31.0382801,
+   :source :openstreetmap}
+  {:name "Nisco Museum",
+   :longitude 34.9791978,
+   :latitude 32.7019531,
+   :source :openstreetmap,
+   :homepage "https://ein-hod.info/nisco/"}
+  {:name "Palestinian Heritage Museum of Dar al-Tifel",
+   :longitude 35.2308733,
+   :latitude 31.7897225,
+   :source :openstreetmap}
+  {:name "Privates Phönizier-Museum Achziv-Land",
+   :longitude 35.1017297,
+   :latitude 33.0495596,
+   :source :openstreetmap}
+  {:name "Saxum Visitor Center",
+   :longitude 35.1051415,
+   :latitude 31.8141994,
+   :source :openstreetmap}
+  {:name "Sommer Contemporary Art",
+   :longitude 34.7436304,
+   :latitude 32.0268388,
+   :source :openstreetmap,
+   :homepage "https://www.sommergallery.com/"}
+  {:name "Time Trek",
+   :longitude 34.8903622,
+   :latitude 32.5017089,
+   :source :openstreetmap}
+  {:name "White Dove Hall",
+   :longitude 34.9765012,
+   :latitude 31.8172089,
+   :source :openstreetmap}
+  {:name "Изготовление картин и рам",
+   :longitude 34.99953,
+   :latitude 32.808212,
+   :source :openstreetmap}
+  {:name "אודיטוריום חיפה",
+   :longitude 34.985017,
+   :latitude 32.8035188,
+   :source :openstreetmap}
+  {:name "אולם הספורט העירוני,סניף רמת הדר",
+   :longitude 34.8537556,
+   :latitude 32.0712844,
+   :source :openstreetmap,
+   :locality "גבעת שמואל"}
+  {:name "אולם ספורט רוזמרין",
+   :longitude 34.8707053,
+   :latitude 32.0753665,
+   :source :openstreetmap}
+  {:name "אולם תרבות מגידו",
+   :longitude 35.0992111,
+   :latitude 32.5986514,
+   :source :openstreetmap}
+  {:name "אוצרות בחומה",
+   :longitude 35.0732502,
+   :latitude 32.9239551,
+   :source :openstreetmap}
+  {:name "אנו - מוזיאון העם היהודי",
+   :longitude 34.8053582,
+   :latitude 32.1139737,
+   :source :openstreetmap}
+  {:name "אתר הפרדסאות ע\"ש מינקוב",
+   :longitude 34.8142044,
+   :latitude 31.911491,
+   :source :openstreetmap}
+  {:name "בית אמוני ראשון לציון",
+   :longitude 34.8173556,
+   :latitude 31.9655774,
+   :source :openstreetmap}
+  {:name "בית ביאליק",
+   :longitude 34.7709561,
+   :latitude 32.0729245,
+   :source :openstreetmap}
+  {:name "בית בן גוריון",
+   :longitude 34.7717148,
+   :latitude 32.0853654,
+   :source :openstreetmap}
+  {:name "בית דונדיקוב",
+   :longitude 34.8135415,
+   :latitude 31.8957665,
+   :source :openstreetmap}
+  {:name "בית האומנויות",
+   :longitude 35.0284235,
+   :latitude 30.0496106,
+   :source :openstreetmap}
+  {:name "בית האומנים",
+   :longitude 35.0170246,
+   :latitude 31.885171,
+   :source :openstreetmap}
+  {:name "בית האמנים",
+   :longitude 34.8198468,
+   :latitude 31.9056111,
+   :source :openstreetmap}
+  {:name "בית הבאר",
+   :longitude 34.8606966,
+   :latitude 32.3422404,
+   :source :openstreetmap,
+   :homepage "https://biltiformali.org.il/"}
+  {:name "בית הגבורה",
+   :longitude 34.5883797,
+   :latitude 31.525237,
+   :source :openstreetmap}
+  {:name "בית הגמלאי",
+   :longitude 34.8883764,
+   :latitude 32.1514142,
+   :source :openstreetmap}
+  {:name "בית הדפוס",
+   :longitude 34.8832468,
+   :latitude 32.0875648,
+   :source :openstreetmap}
+  {:name "בית הלורד",
+   :longitude 34.9187742,
+   :latitude 32.2512811,
+   :source :openstreetmap,
+   :locality "תל מונד"}
+  {:name "בית העדות",
+   :longitude 34.6830529,
+   :latitude 31.825771,
+   :source :openstreetmap}
+  {:name "בית הפיס לדור הצעיר",
+   :longitude 35.5306085,
+   :latitude 32.7974992,
+   :source :openstreetmap,
+   :locality "טבריה"}
+  {:name "בית הרצל",
+   :longitude 34.8925579,
+   :latitude 31.8237624,
+   :source :openstreetmap}
+  {:name "בית ווהלין",
+   :longitude 34.8168374,
+   :latitude 32.0607015,
+   :source :openstreetmap,
+   :locality "גבעתיים"}
+  {:name "בית ז'בוטינסקי",
+   :longitude 34.7749019,
+   :latitude 32.0728816,
+   :source :openstreetmap}
+  {:name "בית זינאתי",
+   :longitude 35.3357558,
+   :latitude 32.9768926,
+   :source :openstreetmap,
+   :homepage "https://www.pekiin.org.il/"}
+  {:name "בית טיכו",
+   :longitude 35.2197165,
+   :latitude 31.7834669,
+   :source :openstreetmap,
+   :homepage "https://www.imj.org.il/en/wings/arts/ticho-house/"}
+  {:name "בית יגאל אלון",
+   :longitude 35.5251191,
+   :latitude 32.8444152,
+   :source :openstreetmap,
+   :homepage "https://yigal-allon-centre.org.il/"}
+  {:name "בית מרים",
+   :longitude 34.7038554,
+   :latitude 31.9341951,
+   :source :openstreetmap}
+  {:name "בית עגנון",
+   :longitude 35.2238491,
+   :latitude 31.7486205,
+   :source :openstreetmap,
+   :homepage "https://agnonhouse.org.il/"}
+  {:name "בית פיינברג",
+   :longitude 34.9216292,
+   :latitude 32.4320091,
+   :source :openstreetmap,
+   :locality "חדרה"}
+  {:name "בית ציוני אמריקה",
+   :longitude 34.7823229,
+   :latitude 32.0745982,
+   :source :openstreetmap}
+  {:name "בית ראשונים",
+   :longitude 34.7957062,
+   :latitude 31.9271195,
+   :source :openstreetmap}
+  {:name "בית ראשונים",
+   :longitude 34.8406604,
+   :latitude 32.1687151,
+   :source :openstreetmap}
+  {:name "ג'וערה",
+   :longitude 35.1085516,
+   :latitude 32.5998804,
+   :source :openstreetmap}
+  {:name "גלריה כפיים",
+   :longitude 35.5907914,
+   :latitude 33.2207695,
+   :source :openstreetmap}
+  {:name "גלריה שלוש לאומנות עכשווית",
+   :longitude 34.7725798,
+   :latitude 32.0674059,
+   :source :openstreetmap,
+   :homepage "https://chelouchegallery.com/",
+   :locality "תל אביב-יפו"}
+  {:name "גלרייה ברונו",
+   :longitude 34.7694653,
+   :latitude 32.079232,
+   :source :openstreetmap}
+  {:name "הגלריה העירונית",
+   :longitude 34.8998381,
+   :latitude 32.175909,
+   :source :openstreetmap,
+   :locality "כפר סבא"}
+  {:name "הגלרייה על האגם",
+   :longitude 34.846846,
+   :latitude 32.1880447,
+   :source :openstreetmap}
+  {:name "הגן הארכיאולוגי",
+   :longitude 34.9369287,
+   :latitude 32.1817737,
+   :source :openstreetmap,
+   :homepage "https://kfar-saba-museum.org/sites/archaeology_garden/"}
+  {:name "היכל העצמאות",
+   :longitude 34.7709175,
+   :latitude 32.0628337,
+   :source :openstreetmap,
+   :homepage "http://www.eng.ihi.org.il",
+   :locality "תל אביב-יפו"}
+  {:name "היכל התרבות",
+   :longitude 34.7574815,
+   :latitude 32.0204526,
+   :source :openstreetmap}
+  {:name "היכל התרבות",
+   :longitude 35.5692027,
+   :latitude 33.206382,
+   :source :openstreetmap}
+  {:name "היכל התרבות ראשון לציון",
+   :longitude 34.8005625,
+   :latitude 31.9627676,
+   :source :openstreetmap,
+   :homepage "https://www.htrl.co.il/",
+   :locality "ראשון לציון"}
+  {:name "המוזיאון הישראלי",
+   :longitude 34.7994782,
+   :latitude 32.1028912,
+   :source :openstreetmap}
+  {:name "המוזיאון הפתוח לצילום גן התעשייה תל-חי",
+   :longitude 35.5827422,
+   :latitude 33.2353966,
+   :source :openstreetmap,
+   :homepage
+   "https://www.iparks.co.il/Museum/DefaultPlace.aspx?Place=2"}
+  {:name "המוזיאון הפתוח עומר",
+   :longitude 34.8363469,
+   :latitude 31.2695627,
+   :source :openstreetmap,
+   :homepage "https://www.omuseums.org.il/DefaultPlace.aspx?Place=3"}
+  {:name "המוזיאון והארכיון לתולדות חולון",
+   :longitude 34.7702857,
+   :latitude 32.0204283,
+   :source :openstreetmap,
+   :homepage "https://holonet.co.il/museum",
+   :locality "חולון"}
+  {:name "המוזיאון לארכיאולוגיה אזורית וים תיכונית",
+   :longitude 35.4517081,
+   :latitude 32.5046094,
+   :source :openstreetmap,
+   :locality "גן-השלושה (הסחנה("}
+  {:name "המוזיאון לעתיקות יפו",
+   :longitude 34.7542136,
+   :latitude 32.0546646,
+   :source :openstreetmap}
+  {:name "המוזיאון לתולדות ראשון לציון",
+   :longitude 34.8072472,
+   :latitude 31.9638726,
+   :source :openstreetmap,
+   :homepage "http://www.rishonlezion-museum.org.il/"}
+  {:name "המכון האפיפיורי למקרא",
+   :longitude 35.2230679,
+   :latitude 31.7753097,
+   :source :openstreetmap,
+   :homepage "https://www.biblico.it/jerusalem.html",
+   :locality "Jerusalem"}
+  {:name "המרכז לתיאטרון בובות",
+   :longitude 34.767031,
+   :latitude 32.0102456,
+   :source :openstreetmap,
+   :locality "חולון"}
+  {:name "המשכן העירוני למוזיקה ואמנויות",
+   :longitude 34.8772187,
+   :latitude 32.1888937,
+   :source :openstreetmap,
+   :homepage
+   "https://www.raanana.muni.il/Lists/List16/DispForm.aspx?ID=22",
+   :locality "רעננה"}
+  {:name "המשכן לאמנות יהודית על שם דוד לבקובסקי",
+   :longitude 34.8213228,
+   :latitude 32.0772067,
+   :source :openstreetmap}
+  {:name "הסטודיו של אסתי",
+   :longitude 35.3802348,
+   :latitude 30.9355273,
+   :source :openstreetmap}
+  {:name "הפיגוע בצומת בית ליד",
+   :longitude 34.9106933,
+   :latitude 32.3217385,
+   :source :openstreetmap}
+  {:name "הצריף הראשון",
+   :longitude 34.9028397,
+   :latitude 32.1619281,
+   :source :openstreetmap}
+  {:name "הקונסרבטוריון העירוני",
+   :longitude 34.8675822,
+   :latitude 31.9378447,
+   :source :openstreetmap}
+  {:name "הר הרצל",
+   :longitude 35.1815258,
+   :latitude 31.7723682,
+   :source :openstreetmap}
+  {:name "חוות כנרת",
+   :longitude 35.5680967,
+   :latitude 32.7222399,
+   :source :openstreetmap}
+  {:name "חומה ומגדל",
+   :longitude 35.1717924,
+   :latitude 33.0884734,
+   :source :openstreetmap}
+  {:name "חפציבה",
+   :longitude 34.9002205,
+   :latitude 32.4637173,
+   :source :openstreetmap}
+  {:name "יד ושם",
+   :longitude 35.1751977,
+   :latitude 31.7740842,
+   :source :openstreetmap,
+   :homepage "https://www.yadvashem.org/"}
+  {:name "יד לשריון",
+   :longitude 34.9796222,
+   :latitude 31.8384112,
+   :source :openstreetmap,
+   :homepage "https://yadlashiryon.com/"}
+  {:name "לוחמי הגטאות",
+   :longitude 35.0954187,
+   :latitude 32.9606201,
+   :source :openstreetmap}
+  {:name "לונדע",
+   :longitude 34.763234,
+   :latitude 31.2625787,
+   :source :openstreetmap}
+  {:name "ליאם גלריה לעיצוב הבית",
+   :longitude 35.5562567,
+   :latitude 32.9811015,
+   :source :openstreetmap}
+  {:name "מוזאון ארכיאולוגי גולן",
+   :longitude 35.6883275,
+   :latitude 32.9953996,
+   :source :openstreetmap}
+  {:name "מוזאון הישראלי לעיצוב חולון",
+   :longitude 34.7776111,
+   :latitude 32.0109161,
+   :source :openstreetmap,
+   :locality "חולון"}
+  {:name "מוזאון הרעות נבי יושע",
+   :longitude 35.5565608,
+   :latitude 33.1152833,
+   :source :openstreetmap}
+  {:name "מוזאון מכון איילון",
+   :longitude 34.8097838,
+   :latitude 31.9161467,
+   :source :openstreetmap}
+  {:name "מוזיאון אבן יהודה",
+   :longitude 34.8858546,
+   :latitude 32.2698933,
+   :source :openstreetmap}
+  {:name "מוזיאון אגד",
+   :longitude 34.7599103,
+   :latitude 31.9973901,
+   :source :openstreetmap}
+  {:name "מוזיאון אזור",
+   :longitude 34.8037745,
+   :latitude 32.0256539,
+   :source :openstreetmap}
+  {:name "מוזיאון אסירי המחתרות",
+   :longitude 35.0691381,
+   :latitude 32.9235259,
+   :source :openstreetmap,
+   :homepage
+   "https://www.akko.org.il/en/Old-Acre-The-Underground-Prisoners-Museum-"}
+  {:name "מוזיאון אצ\"ל",
+   :longitude 34.9482534,
+   :latitude 32.5344575,
+   :source :openstreetmap}
+  {:name "מוזיאון ארץ ישראל",
+   :longitude 34.7959911,
+   :latitude 32.1021036,
+   :source :openstreetmap,
+   :homepage "https://www.eretzmuseum.org.il/"}
+  {:name "מוזיאון אשדוד קורין ממן",
+   :longitude 34.6403614,
+   :latitude 31.7989774,
+   :source :openstreetmap}
+  {:name "מוזיאון בית אוסישקין",
+   :longitude 35.6556557,
+   :latitude 33.2410775,
+   :source :openstreetmap,
+   :homepage "https://shimur.org/sites/מוזיאון-בית-אוסישקין/"}
+  {:name "מוזיאון בית הגדודים",
+   :longitude 34.8754789,
+   :latitude 32.3521156,
+   :source :openstreetmap}
+  {:name "מוזיאון בית יוסף באו",
+   :longitude 34.7799079,
+   :latitude 32.0712548,
+   :source :openstreetmap,
+   :homepage "https://www.josephbau.com/"}
+  {:name "מוזיאון בית פישר",
+   :longitude 35.1058659,
+   :latitude 32.8048037,
+   :source :openstreetmap}
+  {:name "מוזיאון גבעתי",
+   :longitude 34.6818939,
+   :latitude 31.6476695,
+   :source :openstreetmap,
+   :homepage
+   "https://givati.gal-ed.co.il/Web/He/MetzudatYoav/340.aspx"}
+  {:name "מוזיאון גולני",
+   :longitude 35.4096558,
+   :latitude 32.7765195,
+   :source :openstreetmap,
+   :homepage "https://amuta-golani.co.il/memorial-site/"}
+  {:name "מוזיאון גוש קטיף",
+   :longitude 35.2091474,
+   :latitude 31.7860503,
+   :source :openstreetmap}
+  {:name "מוזיאון גיאולוגי",
+   :longitude 34.8431306,
+   :latitude 32.1466687,
+   :source :openstreetmap,
+   :locality "רמת השרון"}
+  {:name "מוזיאון דגון",
+   :longitude 34.9961516,
+   :latitude 32.8224435,
+   :source :openstreetmap}
+  {:name "מוזיאון האדם הקדמון",
+   :longitude 35.6086572,
+   :latitude 33.2379692,
+   :source :openstreetmap}
+  {:name "מוזיאון האדם והחי",
+   :longitude 34.8239094,
+   :latitude 32.0465684,
+   :source :openstreetmap}
+  {:name "מוזיאון האופניים של אלון וולף",
+   :longitude 34.924364,
+   :latitude 32.4006388,
+   :source :openstreetmap,
+   :homepage "https://bikemu.com/"}
+  {:name "מוזיאון האצ\"ל בתש\"ח",
+   :longitude 34.7586982,
+   :latitude 32.0593321,
+   :source :openstreetmap,
+   :homepage "https://www.harelart.com/"}
+  {:name "מוזיאון הבית השרוף",
+   :longitude 35.2326983,
+   :latitude 31.7755933,
+   :source :openstreetmap}
+  {:name "מוזיאון ההעפלה וחיל הים",
+   :longitude 34.9714206,
+   :latitude 32.8300751,
+   :source :openstreetmap}
+  {:name "מוזיאון הטבע",
+   :longitude 35.2200108,
+   :latitude 31.7662398,
+   :source :openstreetmap,
+   :homepage "https://muzteva.org.il/",
+   :locality "ירושלים"}
+  {:name "מוזיאון הטבע התנ\"כי",
+   :longitude 34.9954937,
+   :latitude 31.754565,
+   :source :openstreetmap}
+  {:name "מוזיאון הטרקטורים",
+   :longitude 34.940696,
+   :latitude 32.2667279,
+   :source :openstreetmap,
+   :homepage "https://tractor.org.il/"}
+  {:name "מוזיאון הילדים",
+   :longitude 34.798108,
+   :latitude 32.0034323,
+   :source :openstreetmap}
+  {:name "מוזיאון הכט לארכאולוגיה של א\"י",
+   :longitude 35.018062,
+   :latitude 32.7632182,
+   :source :openstreetmap}
+  {:name "מוזיאון המדע ע\"ש ברנרד בלומפילד",
+   :longitude 35.2002244,
+   :latitude 31.7783825,
+   :source :openstreetmap}
+  {:name "מוזיאון המושבה ע\"ש ערן שמיר",
+   :longitude 34.8383927,
+   :latitude 31.8542639,
+   :source :openstreetmap,
+   :homepage "https://mazkeret-batya.muni.il/"}
+  {:name "מוזיאון המזגגה",
+   :longitude 34.9194804,
+   :latitude 32.6127276,
+   :source :openstreetmap}
+  {:name "מוזיאון המרציפן",
+   :longitude 35.4287442,
+   :latitude 32.6867141,
+   :source :openstreetmap}
+  {:name "מוזיאון המשאיות והתובלה",
+   :longitude 34.8801967,
+   :latitude 31.9281846,
+   :source :openstreetmap}
+  {:name "מוזיאון הנגב",
+   :longitude 34.7889536,
+   :latitude 31.2412781,
+   :source :openstreetmap}
+  {:name "מוזיאון העיר נתניה",
+   :longitude 34.8526876,
+   :latitude 32.3326619,
+   :source :openstreetmap,
+   :homepage "https://gonetanya.com/?p=14888&lang=en"}
+  {:name "מוזיאון הרכבת",
+   :longitude 35.0066882,
+   :latitude 32.8111717,
+   :source :openstreetmap}
+  {:name "מוזיאון הרצליה לאומנות",
+   :longitude 34.8442421,
+   :latitude 32.1619921,
+   :source :openstreetmap}
+  {:name "מוזיאון וילפריד",
+   :longitude 35.117615,
+   :latitude 32.6444501,
+   :source :openstreetmap,
+   :homepage "https://www.wilfrid.org.il/"}
+  {:name "מוזיאון חוסמסה יד ל\"הגנה\"",
+   :longitude 34.785304,
+   :latitude 32.0074389,
+   :source :openstreetmap,
+   :homepage "https://holonet.co.il/?CategoryID=1048&ArticleID=5445",
+   :locality "חולון"}
+  {:name "מוזיאון חיל האוויר",
+   :longitude 34.6950358,
+   :latitude 31.2385364,
+   :source :openstreetmap}
+  {:name "מוזיאון חיפה לאמנות",
+   :longitude 34.9926973,
+   :latitude 32.8151043,
+   :source :openstreetmap,
+   :homepage "https://www.hms.org.il/"}
+  {:name "מוזיאון טיקוטין לאמנות יפנית",
+   :longitude 34.985385,
+   :latitude 32.8093486,
+   :source :openstreetmap}
+  {:name "מוזיאון יהדות איטליה",
+   :longitude 35.2185984,
+   :latitude 31.780396,
+   :source :openstreetmap,
+   :homepage "http://www.ijamuseum.org"}
+  {:name "מוזיאון יעקב אגם לאמנות",
+   :longitude 34.7822347,
+   :latitude 31.9680701,
+   :source :openstreetmap,
+   :locality "ראשון לציון"}
+  {:name "מוזיאון ישראל",
+   :longitude 35.2032447,
+   :latitude 31.7722901,
+   :source :openstreetmap,
+   :homepage "https://www.imj.org.il",
+   :locality "ירושלים"}
+  {:name "מוזיאון לאומנות האיסלאם",
+   :longitude 35.2130238,
+   :latitude 31.7686041,
+   :source :openstreetmap,
+   :homepage "https://www.islamicart.co.il/"}
+  {:name "מוזיאון לאמנות רמת גן",
+   :longitude 34.8191168,
+   :latitude 32.0944905,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ramat-gan.muni.il/going_out/museums/aharon_kahana/",
+   :locality "רמת גן"}
+  {:name "מוזיאון להסטוריה אילת",
+   :longitude 34.9529603,
+   :latitude 29.5517662,
+   :source :openstreetmap,
+   :homepage "https://www.eilat-history.co.il/",
+   :locality "אילת"}
+  {:name "מוזיאון לח\"י",
+   :longitude 34.7694866,
+   :latitude 32.0565606,
+   :source :openstreetmap}
+  {:name "מוזיאון מורשת החשמונאים",
+   :longitude 35.0057016,
+   :latitude 31.9069097,
+   :source :openstreetmap}
+  {:name "מוזיאון מורשת יהדות בבל",
+   :longitude 34.8543147,
+   :latitude 32.0261079,
+   :source :openstreetmap}
+  {:name "מוזיאון מורשת יהדות הודו",
+   :longitude 35.0341049,
+   :latitude 31.0734153,
+   :source :openstreetmap}
+  {:name "מוזיאון מורשת יהדות לוב",
+   :longitude 34.84526,
+   :latitude 32.029358,
+   :source :openstreetmap}
+  {:name "מוזיאון מראה במדבר",
+   :longitude 35.1939376,
+   :latitude 31.2482385,
+   :source :openstreetmap,
+   :homepage "http://www.desertvision.org/"}
+  {:name "מוזיאון נחום גוטמן",
+   :longitude 34.7665146,
+   :latitude 32.0610063,
+   :source :openstreetmap,
+   :homepage "https://www.levysart.com"}
+  {:name "מוזיאון ניל\"י",
+   :longitude 34.9542081,
+   :latitude 32.5723598,
+   :source :openstreetmap}
+  {:name "מוזיאון על התפר",
+   :longitude 35.226854,
+   :latitude 31.7863468,
+   :source :openstreetmap,
+   :homepage "https://www.mots.org.il/"}
+  {:name "מוזיאון ערד",
+   :longitude 35.2092951,
+   :latitude 31.2585095,
+   :source :openstreetmap}
+  {:name "מוזיאון עתיקות חצור",
+   :longitude 35.5726127,
+   :latitude 33.0224688,
+   :source :openstreetmap}
+  {:name "מוזיאון פעיל עין יעל",
+   :longitude 35.1777225,
+   :latitude 31.7432765,
+   :source :openstreetmap}
+  {:name "מוזיאון פרה-היסטורי",
+   :longitude 35.6054823,
+   :latitude 32.6856811,
+   :source :openstreetmap}
+  {:name "מוזיאון פתח תקווה לאמנות",
+   :longitude 34.8724939,
+   :latitude 32.085465,
+   :source :openstreetmap}
+  {:name "מוזיאון ראלי לאמנויות",
+   :longitude 34.9072236,
+   :latitude 32.5154909,
+   :source :openstreetmap}
+  {:name "מוזיאון רוקפלר",
+   :longitude 35.2358518,
+   :latitude 31.7843419,
+   :source :openstreetmap}
+  {:name "מוזיאון של קיבוץ",
+   :longitude 34.5581477,
+   :latitude 31.5865854,
+   :source :openstreetmap,
+   :locality "יד מרדכי"}
+  {:name "מוזיאון תולדות השאיבה",
+   :longitude 34.9001754,
+   :latitude 32.4668838,
+   :source :openstreetmap}
+  {:name "מוזיאון תל אביב לאומנות",
+   :longitude 34.7863257,
+   :latitude 32.0775311,
+   :source :openstreetmap,
+   :homepage "https://www.tamuseum.org.il/",
+   :locality "תל אביב-יפו"}
+  {:name "מוזיאון תל חי",
+   :longitude 35.5774378,
+   :latitude 33.233819,
+   :source :openstreetmap}
+  {:name "מחנה עתלית",
+   :longitude 34.9491673,
+   :latitude 32.7126963,
+   :source :openstreetmap}
+  {:name "מעוז מול עזה",
+   :longitude 34.5318652,
+   :latitude 31.4782536,
+   :source :openstreetmap}
+  {:name "מערת צדקיהו",
+   :longitude 35.2312642,
+   :latitude 31.7822915,
+   :source :openstreetmap,
+   :homepage "https://www.terrasanctamuseum.org/",
+   :locality "ירושלים"}
+  {:name "מרכז אדמונד דה רוטשילד",
+   :longitude 34.7783095,
+   :latitude 32.0680233,
+   :source :openstreetmap}
+  {:name "מרכז אומנויות אלמא",
+   :longitude 34.9455585,
+   :latitude 32.5782869,
+   :source :openstreetmap,
+   :homepage "https://www.elma-hotel.com/"}
+  {:name "מרכז אומנויות משה מאיר",
+   :longitude 34.9699344,
+   :latitude 32.4724132,
+   :source :openstreetmap}
+  {:name "מרכז אומנויות ע\"ש אפטר-ברר",
+   :longitude 35.2867768,
+   :latitude 33.0137543,
+   :source :openstreetmap}
+  {:name "מרכז אומני העתיד",
+   :longitude 35.0628855,
+   :latitude 32.6951764,
+   :source :openstreetmap}
+  {:name "מרכז אמנים",
+   :longitude 34.8194704,
+   :latitude 31.9550476,
+   :source :openstreetmap}
+  {:name "מרכז אריסון לאומנויות",
+   :longitude 34.7816521,
+   :latitude 32.0657741,
+   :source :openstreetmap}
+  {:name "מרכז בגין",
+   :longitude 35.2254383,
+   :latitude 31.7692694,
+   :source :openstreetmap,
+   :homepage "https://www.begincenter.org.il/",
+   :locality "Jerusalem"}
+  {:name "מרכז ג'ו אלון",
+   :longitude 34.8652207,
+   :latitude 31.3794247,
+   :source :openstreetmap}
+  {:name "מרכז המבקרים על-שם אילן רמון",
+   :longitude 34.8066806,
+   :latitude 30.6082145,
+   :source :openstreetmap}
+  {:name "מרכז העשרה פר\"ח טכניון",
+   :longitude 35.0264195,
+   :latitude 32.7742335,
+   :source :openstreetmap}
+  {:name "מרכז למידע, טכנולוגיות ואמנויות - תפוח פיס",
+   :longitude 34.8592625,
+   :latitude 32.0269323,
+   :source :openstreetmap}
+  {:name "מרכז מבקרים - חיריה",
+   :longitude 34.8204123,
+   :latitude 32.0304015,
+   :source :openstreetmap}
+  {:name "מרכז מבקרים באר אברהם",
+   :longitude 34.7930788,
+   :latitude 31.2372105,
+   :source :openstreetmap,
+   :homepage "http://www.abraham.org.il/",
+   :locality "באר שבע"}
+  {:name "מרכז מורשת יהדות טורקיה",
+   :longitude 34.895344,
+   :latitude 32.0353379,
+   :source :openstreetmap}
+  {:name "מרכז מורשת יהדות תימן",
+   :longitude 34.8155206,
+   :latitude 31.8869669,
+   :source :openstreetmap,
+   :homepage "https://www.bet-moreshet.co.il/"}
+  {:name "מרכז קהילתי",
+   :longitude 35.1864221,
+   :latitude 31.7762209,
+   :source :openstreetmap}
+  {:name "מרכז רפפורט למוסיקה",
+   :longitude 34.9205736,
+   :latitude 32.5037491,
+   :source :openstreetmap}
+  {:name "מרכז שרובר לתרבות",
+   :longitude 35.2260675,
+   :latitude 31.7618635,
+   :source :openstreetmap}
+  {:name "מרכז תרבות",
+   :longitude 34.9462787,
+   :latitude 32.0001053,
+   :source :openstreetmap}
+  {:name "מרכז תרבות מונארט",
+   :longitude 34.6372233,
+   :latitude 31.7919091,
+   :source :openstreetmap}
+  {:name "מרכז תרבות ע\"ש שרגא גורן",
+   :longitude 34.8862807,
+   :latitude 32.4395793,
+   :source :openstreetmap}
+  {:name "מתנ\"ס גבעת שמואל",
+   :longitude 34.8481121,
+   :latitude 32.0792245,
+   :source :openstreetmap}
+  {:name "מתנ\"ס זינמן",
+   :longitude 34.9844619,
+   :latitude 31.7487001,
+   :source :openstreetmap}
+  {:name "מתנ\"ס מאירהוף",
+   :longitude 34.9808773,
+   :latitude 31.7411378,
+   :source :openstreetmap}
+  {:name "מתנ\"ס מוסררה",
+   :longitude 35.2250628,
+   :latitude 31.7817041,
+   :source :openstreetmap}
+  {:name "מתנ\"ס פסגות השבע",
+   :longitude 34.9941785,
+   :latitude 31.7443776,
+   :source :openstreetmap}
+  {:name "נחלת ראובן",
+   :longitude 34.7965333,
+   :latitude 31.9224593,
+   :source :openstreetmap}
+  {:name "סטודיו לפיסול",
+   :longitude 34.9039142,
+   :latitude 31.8192675,
+   :source :openstreetmap}
+  {:name "עץ הזית",
+   :longitude 35.493157,
+   :latitude 32.9679485,
+   :source :openstreetmap}
+  {:name "פארק קרסו למדע",
+   :longitude 34.7859363,
+   :latitude 31.2418391,
+   :source :openstreetmap,
+   :homepage "https://www.sci-park.co.il/",
+   :locality "באר שבע"}
+  {:name "ציאורים - גלרייה לאומנות",
+   :longitude 34.5219871,
+   :latitude 31.3052138,
+   :source :openstreetmap}
+  {:name "קונסרבטוריום",
+   :longitude 34.7965553,
+   :latitude 31.2518828,
+   :source :openstreetmap,
+   :locality "באר שבע"}
+  {:name "קונסרבטוריון",
+   :longitude 35.1065276,
+   :latitude 32.654783,
+   :source :openstreetmap}
+  {:name "קונסרבטוריון ענבלים",
+   :longitude 34.8162475,
+   :latitude 31.3728801,
+   :source :openstreetmap}
+  {:name "קונסרבטוריון ראש העין",
+   :longitude 34.9449563,
+   :latitude 32.0978703,
+   :source :openstreetmap}
+  {:name "קריית התרבות",
+   :longitude 34.7961495,
+   :latitude 31.9308567,
+   :source :openstreetmap}
+  {:name "תל סאקי",
+   :longitude 35.8306447,
+   :latitude 32.8660485,
+   :source :openstreetmap}
+  {:name "اليونانية الأسقف الأرثوذكسية (القلعي) الكهوف",
+   :longitude 35.2993539,
+   :latitude 32.7053171,
+   :source :openstreetmap,
+   :locality "الناصرة"}
+  {:name "بيت الفن الفلسطيني",
+   :longitude 35.2496805,
+   :latitude 31.8091898,
+   :source :openstreetmap}
+  {:name "قرية الناصرة",
+   :longitude 35.2917217,
+   :latitude 32.7000733,
+   :source :openstreetmap,
+   :homepage "https://nazarethvillage.com/",
+   :locality "الناصرة"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

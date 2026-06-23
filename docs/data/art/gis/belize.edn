@@ -1,0 +1,96 @@
+{:count 20,
+ :country "belize",
+ :country-code "BZ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:04:01.255871Z",
+ :positions
+ [{:name "Art Center",
+   :longitude -88.1988808,
+   :latitude 17.5129068,
+   :source :openstreetmap}
+  {:name "Banquitas House of Culture",
+   :longitude -88.5589473,
+   :latitude 18.0833365,
+   :source :openstreetmap}
+  {:name "Barranco Cultural Center",
+   :longitude -88.9176085,
+   :latitude 16.0010475,
+   :source :openstreetmap,
+   :locality "Barranco"}
+  {:name "Belize Natural History Archive",
+   :longitude -89.0603924,
+   :latitude 17.1701052,
+   :source :openstreetmap}
+  {:name "Benque House of Culture",
+   :longitude -89.1403437,
+   :latitude 17.0727971,
+   :source :openstreetmap}
+  {:name "Bliss Institute for Performing Arts",
+   :longitude -88.1860525,
+   :latitude 17.4933984,
+   :source :openstreetmap,
+   :locality "Belize City"}
+  {:name "Cahal Pech Visitor Center",
+   :longitude -89.0747296,
+   :latitude 17.1472488,
+   :source :openstreetmap}
+  {:name "Caracol Museum",
+   :longitude -89.1148476,
+   :latitude 16.7626653,
+   :source :openstreetmap}
+  {:name "Gulisi Garifuna Museum",
+   :longitude -88.2407614,
+   :latitude 16.9625707,
+   :source :openstreetmap}
+  {:name "House of Culture",
+   :longitude -88.3864466,
+   :latitude 18.3897516,
+   :source :openstreetmap}
+  {:name "House of Culture",
+   :longitude -88.1870883,
+   :latitude 17.4885915,
+   :source :openstreetmap}
+  {:name "Lamanai Museum",
+   :longitude -88.6529154,
+   :latitude 17.7634418,
+   :source :openstreetmap,
+   :homepage "https://lamanai.bz"}
+  {:name "Miniature Spanish Lookout Village",
+   :longitude -89.029768,
+   :latitude 17.2739805,
+   :source :openstreetmap}
+  {:name "Museum of Belize",
+   :longitude -88.1834714,
+   :latitude 17.4980859,
+   :source :openstreetmap,
+   :locality "Belize City"}
+  {:name "Nim Li Punit Visitor Center",
+   :longitude -88.8237037,
+   :latitude 16.3216819,
+   :source :openstreetmap}
+  {:name "Old Belize Exhibit",
+   :longitude -88.2488753,
+   :latitude 17.471814,
+   :source :openstreetmap}
+  {:name "Site Museum",
+   :longitude -88.3551356,
+   :latitude 18.3559083,
+   :source :openstreetmap}
+  {:name "Soul Project",
+   :longitude -89.0696833,
+   :latitude 17.155961,
+   :source :openstreetmap}
+  {:name "Timber Cube Gallery",
+   :longitude -88.9422168,
+   :latitude 17.208809,
+   :source :openstreetmap,
+   :locality "Unitedville"}
+  {:name "Xunantunich Visitor's Center",
+   :longitude -89.1401929,
+   :latitude 17.0893042,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

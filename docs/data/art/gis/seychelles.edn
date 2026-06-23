@@ -1,0 +1,55 @@
+{:count 10,
+ :country "seychelles",
+ :country-code "SC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:36.750348Z",
+ :positions
+ [{:name "Bird Island Museum",
+   :longitude 55.2041989,
+   :latitude -3.723283,
+   :source :openstreetmap}
+  {:name "Domaine de Val des Pres (Craft Village)",
+   :longitude 55.5192017,
+   :latitude -4.7110076,
+   :source :openstreetmap}
+  {:name "George Camille Art Gallery",
+   :longitude 55.8407124,
+   :latitude -4.3434745,
+   :source :openstreetmap}
+  {:name "George Camille Gallery",
+   :longitude 55.4493279,
+   :latitude -4.6222677,
+   :source :openstreetmap}
+  {:name "La Grande Maison",
+   :longitude 55.5230931,
+   :latitude -4.7194432,
+   :source :openstreetmap}
+  {:name "Lazare Souvenir Museum Gallery",
+   :longitude 55.4803582,
+   :latitude -4.7508851,
+   :source :openstreetmap}
+  {:name "L’Union Estate Farm",
+   :longitude 55.8256779,
+   :latitude -4.3637306,
+   :source :openstreetmap}
+  {:name "Michael Adams Art Studio",
+   :longitude 55.4762675,
+   :latitude -4.7457903,
+   :source :openstreetmap,
+   :homepage "https://www.michaeladamsart.com"}
+  {:name "Museum of Natural History",
+   :longitude 55.4530468,
+   :latitude -4.6229567,
+   :source :openstreetmap,
+   :homepage
+   "http://seychellesnationalmuseums.org/about-the-museum-of-history/"}
+  {:name "Praslin Museum",
+   :longitude 55.7494005,
+   :latitude -4.3205912,
+   :source :openstreetmap,
+   :homepage "http://praslinmuseum.29sud.com/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

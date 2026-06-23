@@ -1,0 +1,4185 @@
+{:count 869,
+ :country "denmark",
+ :country-code "DK",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:20.411741Z",
+ :positions
+ [{:name "Aa Mølle",
+   :longitude 8.5032515,
+   :latitude 56.5416109,
+   :source :openstreetmap}
+  {:name "Aalborg Forsvars- og Garnisonsmuseum",
+   :longitude 9.8826963,
+   :latitude 57.0558095,
+   :source :openstreetmap,
+   :homepage "https://www.forsvarsmuseum.dk/"}
+  {:name "Aalborg Historiske Museum",
+   :longitude 9.9179582,
+   :latitude 57.0481554,
+   :source :openstreetmap,
+   :homepage "https://www.nordmus.dk/aalborg-historiske-museum"}
+  {:name "Aalborg Søfarts- og Marinemuseum",
+   :longitude 9.8929057,
+   :latitude 57.0585629,
+   :source :openstreetmap,
+   :homepage "https://springeren-maritimt.dk/"}
+  {:name "Aarhus Søfartsmuseum",
+   :longitude 10.2211711,
+   :latitude 56.1623177,
+   :source :openstreetmap,
+   :homepage "https://www.aarhussoefartsmuseum.dk/"}
+  {:name "Aarhus Øje",
+   :longitude 10.2320589,
+   :latitude 56.1656447,
+   :source :openstreetmap,
+   :homepage "https://aarhusoeje.dk/"}
+  {:name "Agerupgård Grafisk Værksted",
+   :longitude 10.5947773,
+   :latitude 55.8328252,
+   :source :openstreetmap}
+  {:name "Aggersborg Udstilling",
+   :longitude 9.2554497,
+   :latitude 56.9973714,
+   :source :openstreetmap,
+   :homepage "https://www.aggersborg.com"}
+  {:name "Allerød Kunstforening",
+   :longitude 12.3467199,
+   :latitude 55.8728204,
+   :source :openstreetmap,
+   :homepage "https://www.alleroedkunst.dk/"}
+  {:name "Almas Hus og Have",
+   :longitude 10.6716769,
+   :latitude 55.2544197,
+   :source :openstreetmap}
+  {:name "Amagermuseet",
+   :longitude 12.6355992,
+   :latitude 55.6006445,
+   :source :openstreetmap,
+   :homepage "https://museumamager.dk/"}
+  {:name "Anchers Hus",
+   :longitude 10.5969077,
+   :latitude 57.7261155,
+   :source :openstreetmap,
+   :homepage "https://skagenskunstmuseer.dk/"}
+  {:name "Andersen Nexøs Hus",
+   :longitude 15.1276158,
+   :latitude 55.057702,
+   :source :openstreetmap}
+  {:name "Angantyr",
+   :longitude 14.8006535,
+   :latitude 55.2785516,
+   :source :openstreetmap}
+  {:name "Anholt Museum",
+   :longitude 11.5422851,
+   :latitude 56.7036604,
+   :source :openstreetmap}
+  {:name "Annaborg",
+   :longitude 12.2965484,
+   :latitude 55.9350912,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hillerodkunstforening.dk/kunsthuset-annaborg.html"}
+  {:name "Anne Hvides Gård",
+   :longitude 10.6090322,
+   :latitude 55.0602052,
+   :source :openstreetmap}
+  {:name "Annette Falk Lund",
+   :longitude 8.910588,
+   :latitude 56.9871703,
+   :source :openstreetmap}
+  {:name "Annika Nuttall Gallery",
+   :longitude 10.211247,
+   :latitude 56.1498717,
+   :source :openstreetmap,
+   :homepage "https://www.annikanuttallgallery.com/"}
+  {:name "Ansager Lokalhistoriske Arkiv",
+   :longitude 8.7497376,
+   :latitude 55.7051427,
+   :source :openstreetmap,
+   :homepage "http://www.ansager-arkiv.dk/"}
+  {:name "Antikmuseet",
+   :longitude 10.2002605,
+   :latitude 56.1705668,
+   :source :openstreetmap,
+   :homepage "https://antikmuseet.au.dk/"}
+  {:name "Arken",
+   :longitude 12.3875068,
+   :latitude 55.6062232,
+   :source :openstreetmap,
+   :homepage "https://www.arken.dk/"}
+  {:name "Arnagergaard",
+   :longitude 14.7783078,
+   :latitude 55.0543616,
+   :source :openstreetmap,
+   :homepage "http://www.arnagergaard.dk"}
+  {:name "Arnoldsen",
+   :longitude 8.3198378,
+   :latitude 56.27209,
+   :source :openstreetmap,
+   :homepage "http://www.arnoldsen.dk/hus/"}
+  {:name "ARoS Kunstmuseum",
+   :longitude 10.1996046,
+   :latitude 56.1538876,
+   :source :openstreetmap,
+   :homepage "https://www.aros.dk/"}
+  {:name "Arresten",
+   :longitude 10.2418724,
+   :latitude 55.0951024,
+   :source :openstreetmap,
+   :homepage "https://dengamlegaardfaaborg.dk"}
+  {:name "Art Nova",
+   :longitude 12.4853798,
+   :latitude 55.792695,
+   :source :openstreetmap,
+   :homepage "https://www.artnova.dk/"}
+  {:name "Artbreak Hotel Nils Sloths Værkstedsgalleri",
+   :longitude 9.922508,
+   :latitude 57.0450688,
+   :source :openstreetmap,
+   :homepage "https://nordjyskemuseer.dk/u/graabroedekloster-museet/"}
+  {:name "Artillerimagasinet",
+   :longitude 12.4290924,
+   :latitude 55.6788586,
+   :source :openstreetmap,
+   :homepage "https://vestvolden.dk/artillerimagasinet/"}
+  {:name "Asaa Havnemuseum",
+   :longitude 10.4243919,
+   :latitude 57.1445173,
+   :source :openstreetmap,
+   :homepage
+   "http://www.asaahavn.dk/index.php/havnens-brugere/asaa-havnemuseum"}
+  {:name "Askø Museum",
+   :longitude 11.4917492,
+   :latitude 54.8969524,
+   :source :openstreetmap,
+   :homepage "https://askoe-museum.dk/"}
+  {:name "Assens Miniby",
+   :longitude 9.8927215,
+   :latitude 55.2731082,
+   :source :openstreetmap,
+   :homepage "http://www.toldbodhus.info/"}
+  {:name "Astrid Noacks atelier",
+   :longitude 12.5512444,
+   :latitude 55.6996782,
+   :source :openstreetmap}
+  {:name "Atelier",
+   :longitude 10.5249205,
+   :latitude 56.2320131,
+   :source :openstreetmap}
+  {:name "Atelier & Galleri - Birgitte Valentin",
+   :longitude 8.6988119,
+   :latitude 54.9632227,
+   :source :openstreetmap,
+   :homepage "https://birgitte-valentin.dk/"}
+  {:name "Atelier Gitte Reinwald - maleskole.dk",
+   :longitude 12.5757631,
+   :latitude 55.6907573,
+   :source :openstreetmap,
+   :homepage "https://maleskole.dk/"}
+  {:name "Auto Galleriet",
+   :longitude 9.0457014,
+   :latitude 56.132777,
+   :source :openstreetmap,
+   :homepage "https://www.autogalleriet.dk/"}
+  {:name "Avnø Naturcenter",
+   :longitude 11.7627429,
+   :latitude 55.084449,
+   :source :openstreetmap,
+   :homepage
+   "https://naturstyrelsen.dk/naturoplevelser/naturskoler/sjaelland-lolland-og-falster/avnoe-naturcenter/"}
+  {:name "Ballerup Museum",
+   :longitude 12.3384153,
+   :latitude 55.7341835,
+   :source :openstreetmap,
+   :homepage "https://www.ballerupmuseum.dk/"}
+  {:name "Baltic Sea Glass",
+   :longitude 14.9979066,
+   :latitude 55.1892719,
+   :source :openstreetmap,
+   :homepage "https://www.balticseaglass.com/"}
+  {:name "BaneGården Kunst & Kultur",
+   :longitude 9.4182455,
+   :latitude 55.0491433,
+   :source :openstreetmap,
+   :homepage "http://www.banegaarden.dk"}
+  {:name "Bangsbo Museum",
+   :longitude 10.5041758,
+   :latitude 57.4202279,
+   :source :openstreetmap,
+   :homepage "https://www.kystmuseet.dk/bangsbo-frederikshavn/"}
+  {:name "Barbie Museum",
+   :longitude 12.5255698,
+   :latitude 55.6972662,
+   :source :openstreetmap,
+   :homepage "http://barbiemuseum.dk"}
+  {:name "Baunhøj Mølle",
+   :longitude 10.8637954,
+   :latitude 56.421507,
+   :source :openstreetmap,
+   :homepage "https://www.baunhoej-moelle.dk/"}
+  {:name "Besættelsesmuseum Fyn",
+   :longitude 10.3305122,
+   :latitude 55.4734408,
+   :source :openstreetmap,
+   :homepage "http://besaettelsesmuseumfyn.dk/"}
+  {:name "Betina Jung Art Studio",
+   :longitude 9.9373124,
+   :latitude 57.0477267,
+   :source :openstreetmap}
+  {:name "Bibiana",
+   :longitude 12.5822242,
+   :latitude 55.6349303,
+   :source :openstreetmap,
+   :homepage "https://bibianacopenhagen.dk/"}
+  {:name "Billedmager Værkstedet",
+   :longitude 12.4935495,
+   :latitude 55.6935672,
+   :source :openstreetmap}
+  {:name "billund",
+   :longitude 9.756535,
+   :latitude 55.5665601,
+   :source :openstreetmap}
+  {:name "Bindeballe Købmandsgaard",
+   :longitude 9.2600837,
+   :latitude 55.6567024,
+   :source :openstreetmap,
+   :homepage "http://www.bindeballekoebmandsgaard.dk/"}
+  {:name "Bindslev Gamle Elværk",
+   :longitude 10.1868355,
+   :latitude 57.5388742,
+   :source :openstreetmap,
+   :homepage "http://bindslevglel.dk"}
+  {:name "Birkelev Naturkunst",
+   :longitude 8.8062254,
+   :latitude 55.2117053,
+   :source :openstreetmap,
+   :homepage "https://www.birkelevnaturkunst.dk/"}
+  {:name "Birkerød Kunstforening",
+   :longitude 12.4291421,
+   :latitude 55.8399007,
+   :source :openstreetmap,
+   :homepage "https://www.birkeroed-kunstforening.dk/"}
+  {:name "Blicheregnens Museum",
+   :longitude 9.3336376,
+   :latitude 56.2853535,
+   :source :openstreetmap,
+   :homepage "https://www.museumsilkeborg.dk/forside-blicheregnen"}
+  {:name "Blok X",
+   :longitude 9.9337127,
+   :latitude 57.0443364,
+   :source :openstreetmap}
+  {:name "BM-Volvo Samlingen",
+   :longitude 9.6292844,
+   :latitude 56.9492852,
+   :source :openstreetmap,
+   :homepage "https://www.bm-volvo-keld.dk/"}
+  {:name "bogbylangeland.dk",
+   :longitude 10.8850321,
+   :latitude 55.0279606,
+   :source :openstreetmap,
+   :homepage "https://www.bogbylangeland.dk/"}
+  {:name "Boldrup Museum",
+   :longitude 9.6317239,
+   :latitude 56.6788531,
+   :source :openstreetmap,
+   :homepage "https://nordmus.dk/boldrup-museum"}
+  {:name "Bonbonmuseum 2.0",
+   :longitude 8.3463686,
+   :latitude 56.8332457,
+   :source :openstreetmap,
+   :homepage "https://bonbonmuseum.dk"}
+  {:name "Borgmestergården",
+   :longitude 10.7885194,
+   :latitude 55.3115581,
+   :source :openstreetmap,
+   :homepage "https://www.ostfynsmuseer.dk/museer/borgmestergaarden/"}
+  {:name "Bork Vikingehavn",
+   :longitude 8.2670696,
+   :latitude 55.8372733,
+   :source :openstreetmap,
+   :homepage
+   "https://ringkobingfjordmuseer.dk/museer/bork-vikingehavn/"}
+  {:name "Bornholmertårnet",
+   :longitude 15.0730317,
+   :latitude 55.0020132,
+   :source :openstreetmap,
+   :homepage "https://www.bornholmertaarnet.dk/"}
+  {:name "Bornholms Automobilmuseum",
+   :longitude 14.9327701,
+   :latitude 55.0585914,
+   :source :openstreetmap,
+   :homepage "http://www.bornholmsautomobilmuseum.dk/"}
+  {:name "Bornholms Forsvarsmuseum",
+   :longitude 14.7005557,
+   :latitude 55.0924335,
+   :source :openstreetmap,
+   :homepage "https://bornholmsforsvarsmuseum.dk/"}
+  {:name "Bornholms Kunstmuseum",
+   :longitude 14.894047,
+   :latitude 55.2234526,
+   :source :openstreetmap,
+   :homepage "http://www.bornholms-kunstmuseum.dk"}
+  {:name "Bornholms Museum",
+   :longitude 14.7031877,
+   :latitude 55.1027439,
+   :source :openstreetmap}
+  {:name "Bornholms Tekniske Samling",
+   :longitude 14.7645633,
+   :latitude 55.2499407,
+   :source :openstreetmap,
+   :homepage "https://www.bornteksamling.dk/"}
+  {:name "Botanisk Museum",
+   :longitude 12.572774,
+   :latitude 55.6851475,
+   :source :openstreetmap,
+   :homepage "https://www.arbejdermuseet.dk/"}
+  {:name "Bovbjerg Minimuseum",
+   :longitude 8.1182699,
+   :latitude 56.5250148,
+   :source :openstreetmap,
+   :homepage "http://jenssoendergaard.dk/"}
+  {:name "BRA Kunstudstilling",
+   :longitude 8.4577652,
+   :latitude 55.4660898,
+   :source :openstreetmap,
+   :homepage "http://www.braart.dk/"}
+  {:name "Bramming Byhistoriske Arkiv",
+   :longitude 8.700424,
+   :latitude 55.4666097,
+   :source :openstreetmap,
+   :homepage "https://brammingby.dk/"}
+  {:name "Brandts",
+   :longitude 10.3808033,
+   :latitude 55.3960533,
+   :source :openstreetmap,
+   :homepage "https://brandts.dk"}
+  {:name "Brandts 13",
+   :longitude 10.3855598,
+   :latitude 55.3976755,
+   :source :openstreetmap}
+  {:name "Brede Værk",
+   :longitude 12.4987866,
+   :latitude 55.7949907,
+   :source :openstreetmap}
+  {:name "Brorfelde Observatorium",
+   :longitude 11.6646202,
+   :latitude 55.6247311,
+   :source :openstreetmap,
+   :homepage "https://observatoriet.dk/"}
+  {:name "Brumleby Museum",
+   :longitude 12.5756085,
+   :latitude 55.7019168,
+   :source :openstreetmap,
+   :homepage "http://www.brumlebymuseum.dk/"}
+  {:name "Bruunshaab Gamle Papfabrik",
+   :longitude 9.4452417,
+   :latitude 56.4228614,
+   :source :openstreetmap,
+   :homepage "https://www.papfabrik.dk/"}
+  {:name "Bryggeri- & egns-museum",
+   :longitude 9.2659737,
+   :latitude 57.0883012,
+   :source :openstreetmap,
+   :homepage "https://www.fjerritslevmuseum.dk/"}
+  {:name "Bundgarnsmuseum",
+   :longitude 10.6052395,
+   :latitude 56.5184615,
+   :source :openstreetmap}
+  {:name "Bundsbæk Møllegård",
+   :longitude 8.4764235,
+   :latitude 56.0051658,
+   :source :openstreetmap,
+   :homepage
+   "https://ringkobingfjordmuseer.dk/en/museer/bundsbaek-molle/"}
+  {:name "Bunker",
+   :longitude 8.2416192,
+   :latitude 56.0956846,
+   :source :openstreetmap}
+  {:name "Bunkermuseet",
+   :longitude 10.5364247,
+   :latitude 57.4599637,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kystmuseet.dk/besoeg-os/kystmuseet-bangsbo-fort/bunkermuseet/"}
+  {:name "Bunkermuseet",
+   :longitude 9.7619363,
+   :latitude 55.5701988,
+   :source :openstreetmap}
+  {:name "Bunkermuseum",
+   :longitude 9.9428073,
+   :latitude 57.5849514,
+   :source :openstreetmap,
+   :homepage "https://www.hirtshalsbunkermuseum.dk"}
+  {:name "Bunkermuseum Hanstholm",
+   :longitude 8.6164063,
+   :latitude 57.1208359,
+   :source :openstreetmap,
+   :homepage "https://bunkermuseumhanstholm.dk/"}
+  {:name "By og Overfartsmuseet",
+   :longitude 11.1370466,
+   :latitude 55.3340849,
+   :source :openstreetmap,
+   :homepage "https://www.byogoverfartsmuseet.dk/"}
+  {:name "Byhistorisk Hus",
+   :longitude 12.3941718,
+   :latitude 55.6659069,
+   :source :openstreetmap,
+   :homepage "https://byhistoriskhus.dk/"}
+  {:name "Byhistorisk Samling",
+   :longitude 12.3080221,
+   :latitude 55.6435085,
+   :source :openstreetmap}
+  {:name "Bymuseet",
+   :longitude 8.4914196,
+   :latitude 55.9486534,
+   :source :openstreetmap}
+  {:name "Bådemotorklubben Columbus",
+   :longitude 14.7025215,
+   :latitude 55.184015,
+   :source :openstreetmap}
+  {:name "Bådfolk ved Vidåen",
+   :longitude 8.6851212,
+   :latitude 54.9563483,
+   :source :openstreetmap}
+  {:name "Bælum Mølle",
+   :longitude 10.1084558,
+   :latitude 56.83533,
+   :source :openstreetmap,
+   :homepage "https://www.baelum.dk/lokalt/historie/moellen/"}
+  {:name "Børglum Kloster",
+   :longitude 9.800152,
+   :latitude 57.3685751,
+   :source :openstreetmap}
+  {:name "Børnemuseet",
+   :longitude 12.5504716,
+   :latitude 55.6754011,
+   :source :openstreetmap,
+   :homepage "https://boernemuseet.dk/"}
+  {:name "Bøtø Nor Gl. Pumpestation",
+   :longitude 11.9086032,
+   :latitude 54.6824178,
+   :source :openstreetmap,
+   :homepage "https://www.pumpemuseum.dk/"}
+  {:name "Cantina",
+   :longitude 10.1947333,
+   :latitude 56.1540705,
+   :source :openstreetmap,
+   :homepage "https://www.cancancantina.xyz/"}
+  {:name "Carl Nielsens Barndomshjem",
+   :longitude 10.3887199,
+   :latitude 55.2926916,
+   :source :openstreetmap}
+  {:name "Carl-Henning Pedersen og Else Alfelts Museum",
+   :longitude 9.0224064,
+   :latitude 56.133381,
+   :source :openstreetmap,
+   :homepage "https://chpeamuseum.dk/"}
+  {:name "Cathrinesminde Teglværksmuseum",
+   :longitude 9.6562109,
+   :latitude 54.8761665,
+   :source :openstreetmap}
+  {:name "Christiansdal Vandkraftværk",
+   :longitude 9.3873751,
+   :latitude 55.232941,
+   :source :openstreetmap}
+  {:name "Christiansø Museum",
+   :longitude 15.1869384,
+   :latitude 55.3206459,
+   :source :openstreetmap}
+  {:name "Christiansø Museum",
+   :longitude 15.1837406,
+   :latitude 55.3220791,
+   :source :openstreetmap}
+  {:name "Christmas Møller Art Projects",
+   :longitude 12.5305839,
+   :latitude 55.6680182,
+   :source :openstreetmap,
+   :homepage "https://cmartprojects.com/"}
+  {:name "Cisternerne",
+   :longitude 12.5241904,
+   :latitude 55.6695754,
+   :source :openstreetmap,
+   :homepage "https://frederiksbergmuseerne.dk/da/cisternerne/"}
+  {:name "Classic Car House",
+   :longitude 12.4878814,
+   :latitude 55.7857451,
+   :source :openstreetmap,
+   :homepage "https://www.classiccarhouse.dk/"}
+  {:name "CLAY Keramikmuseum Danmark",
+   :longitude 9.7203486,
+   :latitude 55.5079235,
+   :source :openstreetmap,
+   :homepage "https://claymuseum.dk/"}
+  {:name "Copenhagen Contemporary",
+   :longitude 12.6135976,
+   :latitude 55.6934116,
+   :source :openstreetmap,
+   :homepage "http://cphco.org/"}
+  {:name "D2",
+   :longitude 10.1933547,
+   :latitude 56.1458286,
+   :source :openstreetmap}
+  {:name "Da Winti",
+   :longitude 9.0452649,
+   :latitude 56.7816397,
+   :source :openstreetmap}
+  {:name "Danfoss Museum",
+   :longitude 9.8104277,
+   :latitude 55.0395991,
+   :source :openstreetmap}
+  {:name "Danmarks Borgcenter",
+   :longitude 11.9109644,
+   :latitude 55.00689,
+   :source :openstreetmap,
+   :homepage "http://danmarksborgcenter.dk/"}
+  {:name "Danmarks Busmuseum",
+   :longitude 11.3168791,
+   :latitude 55.2522867,
+   :source :openstreetmap}
+  {:name "Danmarks Ferguson Museum",
+   :longitude 9.9755184,
+   :latitude 55.7925056,
+   :source :openstreetmap,
+   :homepage "https://fergusonmuseum.dk/"}
+  {:name "Danmarks Flymuseum",
+   :longitude 8.3460454,
+   :latitude 55.992066,
+   :source :openstreetmap,
+   :homepage "https://www.flymuseum.dk/"}
+  {:name "Danmarks Forsorgsmuseum",
+   :longitude 10.6034716,
+   :latitude 55.0624979,
+   :source :openstreetmap,
+   :homepage "https://www.svendborgmuseum.dk/danmarksforsorgsmuseum"}
+  {:name "Danmarks Industrimuseum",
+   :longitude 9.8611719,
+   :latitude 55.8607077,
+   :source :openstreetmap,
+   :homepage "https://www.industrimuseet.dk/"}
+  {:name "Danmarks Jernbanemuseum",
+   :longitude 10.3859708,
+   :latitude 55.4028076,
+   :source :openstreetmap,
+   :homepage "https://www.jernbanemuseet.dk/"}
+  {:name "Danmarks Kostumarium",
+   :longitude 10.6171195,
+   :latitude 55.0589467,
+   :source :openstreetmap,
+   :homepage "https://www.kostumarium.dk"}
+  {:name "Danmarks mindste museum der aldrig har åben",
+   :longitude 9.6991917,
+   :latitude 57.2759373,
+   :source :openstreetmap}
+  {:name "Danmarks Motorcykel Museum",
+   :longitude 12.0414135,
+   :latitude 54.8911916,
+   :source :openstreetmap,
+   :homepage "https://www.danmarksmotorcykelmuseum.dk/"}
+  {:name "Danmarks Sukkermuseum",
+   :longitude 11.1502203,
+   :latitude 54.8330529,
+   :source :openstreetmap,
+   :homepage "http://www.sukkermuseet.dk/"}
+  {:name "Danmarks Tekniske Museum",
+   :longitude 12.5624162,
+   :latitude 56.0221184,
+   :source :openstreetmap,
+   :homepage "https://tekniskmuseum.dk/"}
+  {:name "Danmarks traktormuseum",
+   :longitude 11.8862329,
+   :latitude 54.8583266,
+   :source :openstreetmap,
+   :homepage "https://www.traktormuseum.dk/"}
+  {:name "Danmarks Vindkrafthistoriske Samling",
+   :longitude 8.388488,
+   :latitude 56.021111,
+   :source :openstreetmap,
+   :homepage "http://www.vindhistorie.dk/"}
+  {:name "Dansk Brandværnshistorisk Museum",
+   :longitude 12.0428276,
+   :latitude 55.1245637,
+   :source :openstreetmap}
+  {:name "Dansk Cykel- og Knallertmuseum",
+   :longitude 11.6854265,
+   :latitude 55.3561678,
+   :source :openstreetmap}
+  {:name "Dansk Forsorgshistorisk Museum",
+   :longitude 11.3646321,
+   :latitude 55.4213092,
+   :source :openstreetmap,
+   :homepage "http://www.forsorgshistorien.dk/"}
+  {:name "Dansk Jødisk Museum",
+   :longitude 12.5823025,
+   :latitude 55.6743653,
+   :source :openstreetmap,
+   :homepage "https://jewmus.dk/"}
+  {:name "Dansk Klokkemuseum, Over Lerte Kirke",
+   :longitude 9.2773793,
+   :latitude 55.3783765,
+   :source :openstreetmap,
+   :homepage "http://www.klokkemuseum.dk/"}
+  {:name "Dansk Motor- og Maskinsamling",
+   :longitude 10.8267201,
+   :latitude 56.4373699,
+   :source :openstreetmap,
+   :homepage "https://motorsamlingen.dk/"}
+  {:name "Dansk Nutidsmuseum",
+   :longitude 9.49792,
+   :latitude 56.799418,
+   :source :openstreetmap,
+   :homepage "http://www.dansk-nutidsmuseum.dk/"}
+  {:name "Dansk Støberimuseum",
+   :longitude 8.8617732,
+   :latitude 56.797407,
+   :source :openstreetmap,
+   :homepage "https://museummors.dk/dansk-stoeberimuseum/historie"}
+  {:name "Dansk Sygeplejehistorisk Museum",
+   :longitude 9.5522755,
+   :latitude 55.498358,
+   :source :openstreetmap,
+   :homepage "https://dsr.dk/dshm/om-museet"}
+  {:name "Datamuseum.dk",
+   :longitude 12.2159299,
+   :latitude 55.6473224,
+   :source :openstreetmap,
+   :homepage "https://datamuseum.dk/"}
+  {:name "Daugbjerg Kalkgruber",
+   :longitude 9.1423522,
+   :latitude 56.442623,
+   :source :openstreetmap,
+   :homepage "https://daugbjergkalkgruber.dk/"}
+  {:name "Daugbjerg Minilandsby",
+   :longitude 9.1299807,
+   :latitude 56.4378942,
+   :source :openstreetmap,
+   :homepage "http://www.daugbjerg-minilandsby.dk/"}
+  {:name "David Risley Gallery",
+   :longitude 12.5277763,
+   :latitude 55.7076122,
+   :source :openstreetmap,
+   :homepage "http://davidrisleygallery.com"}
+  {:name "Davids Samling",
+   :longitude 12.5823849,
+   :latitude 55.6842796,
+   :source :openstreetmap,
+   :homepage "https://www.davidmus.dk/"}
+  {:name "Davinde Stenmuseum",
+   :longitude 10.550662,
+   :latitude 55.33066,
+   :source :openstreetmap,
+   :homepage "https://www.davindestenmuseum.dk/"}
+  {:name "DBJ Museum",
+   :longitude 15.1355525,
+   :latitude 55.066399,
+   :source :openstreetmap,
+   :homepage "https://www.dbj.dk/"}
+  {:name "De sorte huse",
+   :longitude 8.2351254,
+   :latitude 56.7847828,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visit-nordvestkysten.com/northwest-coast/whatson/black-houses-agger-thy-national-park-gdk1126579"}
+  {:name "Den Frie",
+   :longitude 12.5872316,
+   :latitude 55.6914357,
+   :source :openstreetmap,
+   :homepage "https://denfrie.dk/da/"}
+  {:name "Den Fynske Landsby",
+   :longitude 10.3834795,
+   :latitude 55.3653505,
+   :source :openstreetmap,
+   :homepage "https://denfynskelandsby.dk/"}
+  {:name "Den Gamle Smedie",
+   :longitude 10.4402264,
+   :latitude 55.9475707,
+   :source :openstreetmap}
+  {:name "Den Gamle Station",
+   :longitude 10.3204018,
+   :latitude 56.4640362,
+   :source :openstreetmap,
+   :homepage "https://www.dffd.dk/"}
+  {:name "Den Kongelige Afstøbningssamling",
+   :longitude 12.5974023,
+   :latitude 55.6860973,
+   :source :openstreetmap,
+   :homepage "https://www.smk.dk/article/den-kgl-afstoebningssamling/"}
+  {:name "Det Danske Gartnerimuseum",
+   :longitude 10.1978483,
+   :latitude 56.0591022,
+   :source :openstreetmap,
+   :homepage "http://www.detdanskegartnerimuseum.dk/"}
+  {:name "Det Grå Fyr",
+   :longitude 10.630435,
+   :latitude 57.735602,
+   :source :openstreetmap,
+   :homepage "https://www.detgraafyr.dk/"}
+  {:name "Det Grønne Museum",
+   :longitude 10.3419651,
+   :latitude 56.4380894,
+   :source :openstreetmap,
+   :homepage "https://detgroennemuseum.dk"}
+  {:name "Det Lange Skovhus",
+   :longitude 11.3583197,
+   :latitude 54.7636012,
+   :source :openstreetmap,
+   :homepage "http://www.galleri-skovhuset.dk/"}
+  {:name "Det lille Kunstnerhjem",
+   :longitude 11.6328415,
+   :latitude 55.3732845,
+   :source :openstreetmap,
+   :homepage "http://www.alfredjensen.dk/"}
+  {:name "Det Lille Museum",
+   :longitude 10.6684078,
+   :latitude 56.1940786,
+   :source :openstreetmap}
+  {:name "Det Nationalhistoriske Museum",
+   :longitude 12.3015148,
+   :latitude 55.9351737,
+   :source :openstreetmap,
+   :homepage "https://www.dnm.dk/"}
+  {:name "Det Røde Hus",
+   :longitude 9.9995041,
+   :latitude 56.6447715,
+   :source :openstreetmap}
+  {:name "Det sorte Geomuseum",
+   :longitude 11.9350583,
+   :latitude 54.5751305,
+   :source :openstreetmap,
+   :homepage "https://www.detsortegeomuseum.dk/"}
+  {:name "Dette Form",
+   :longitude 11.126385,
+   :latitude 57.3198497,
+   :source :openstreetmap,
+   :homepage "https://laesoekunsthal.com/"}
+  {:name "Deutsches Museum Nordschleswig",
+   :longitude 9.7918037,
+   :latitude 54.9133528,
+   :source :openstreetmap,
+   :homepage "https://www.deutsches-museum.dk/"}
+  {:name "DIAS Kunsthal",
+   :longitude 12.3868746,
+   :latitude 55.6241057,
+   :source :openstreetmap,
+   :homepage "https://www.diaskunsthal.dk/"}
+  {:name "DieselHouse",
+   :longitude 12.5551316,
+   :latitude 55.6565949,
+   :source :openstreetmap,
+   :homepage "https://www.dieselhouse.dk/"}
+  {:name "Djursland Jernbanemuseum",
+   :longitude 10.4954378,
+   :latitude 56.3803271,
+   :source :openstreetmap,
+   :homepage "http://www.djbm.dk"}
+  {:name "DKW Museum Nakskov",
+   :longitude 11.1339057,
+   :latitude 54.8338565,
+   :source :openstreetmap,
+   :homepage "http://www.sprojtehuset.dk/"}
+  {:name "Dragør Havnegalleri",
+   :longitude 12.6743181,
+   :latitude 55.5935952,
+   :source :openstreetmap,
+   :homepage "http://museumamager.dk"}
+  {:name "Dragør Lokalarkiv",
+   :longitude 12.6702357,
+   :latitude 55.595165,
+   :source :openstreetmap}
+  {:name "Dronninglund Kunstmuseum",
+   :longitude 10.2578623,
+   :latitude 57.1676286,
+   :source :openstreetmap,
+   :homepage "https://dronninglund-kunstcenter.dk/"}
+  {:name "Dueholm Kloster",
+   :longitude 8.8528537,
+   :latitude 56.7945902,
+   :source :openstreetmap}
+  {:name "Dybbøl Mølle",
+   :longitude 9.7579963,
+   :latitude 54.9069176,
+   :source :openstreetmap,
+   :homepage "https://1864.dk/dybboel-moelle/"}
+  {:name "E Bindstouw",
+   :longitude 9.3408797,
+   :latitude 56.3503111,
+   :source :openstreetmap}
+  {:name "Egevængehus",
+   :longitude 12.0837369,
+   :latitude 54.8029234,
+   :source :openstreetmap}
+  {:name "Egholm Museum",
+   :longitude 11.914489,
+   :latitude 55.7330605,
+   :source :openstreetmap,
+   :homepage "https://egholmmuseum.dk/"}
+  {:name "Egnmuseet Jacob Michelsens Gård",
+   :longitude 9.4114032,
+   :latitude 55.0507692,
+   :source :openstreetmap,
+   :homepage "https://www.jacobmichelsensgaard.dk/"}
+  {:name "Egnsmuseet i Vandel",
+   :longitude 9.2092865,
+   :latitude 55.7113651,
+   :source :openstreetmap}
+  {:name "Egnsmuseum",
+   :longitude 10.2460281,
+   :latitude 56.3845573,
+   :source :openstreetmap,
+   :homepage "https://www.limeegnsarkiv.dk/"}
+  {:name "Egnssamlingen",
+   :longitude 9.6964253,
+   :latitude 57.271834,
+   :source :openstreetmap,
+   :homepage "https://egnssamlingen.dk/"}
+  {:name "Egtvedpigens Grav",
+   :longitude 9.2828031,
+   :latitude 55.6284723,
+   :source :openstreetmap,
+   :homepage "http://www.vejleegnensmuseer.dk/egtvedpigen.htm"}
+  {:name "Ehlers Samlingen",
+   :longitude 9.4907495,
+   :latitude 55.2497459,
+   :source :openstreetmap,
+   :homepage "http://www.museum-sonderjylland.dk/"}
+  {:name "Ejbybunkeren",
+   :longitude 12.43653,
+   :latitude 55.6892785,
+   :source :openstreetmap,
+   :homepage "https://vestvolden.dk/ejbybunkeren/"}
+  {:name "Ekely",
+   :longitude 12.5546951,
+   :latitude 55.6694705,
+   :source :openstreetmap,
+   :homepage "https://ekely.dk/"}
+  {:name "Else Klugs Cafemuseum",
+   :longitude 12.3117057,
+   :latitude 56.1237355,
+   :source :openstreetmap,
+   :homepage
+   "http://museumns.dk/udstillinger/udstillingsteder-gilleleje/cafe-klugs-cafe/"}
+  {:name "Elstrup Mølle",
+   :longitude 9.8920121,
+   :latitude 54.9920507,
+   :source :openstreetmap,
+   :homepage "https://www.elstrupmolle.dk/"}
+  {:name "Emborg / Øm Kloster museum",
+   :longitude 9.7499642,
+   :latitude 56.0524415,
+   :source :openstreetmap,
+   :homepage "https://www.museumskanderborg.dk/%C3%B8m-kloster"}
+  {:name "Emmaus Galleri",
+   :longitude 11.9607561,
+   :latitude 55.3223175,
+   :source :openstreetmap,
+   :homepage "https://galleri-emmaus.dk/galleri"}
+  {:name "Endelave Museum",
+   :longitude 10.2719075,
+   :latitude 55.7579626,
+   :source :openstreetmap}
+  {:name "Energimuseet",
+   :longitude 9.6033807,
+   :latitude 56.3556945,
+   :source :openstreetmap,
+   :homepage "https://energimuseet.dk/"}
+  {:name "Erichsens Gård",
+   :longitude 14.6976985,
+   :latitude 55.1036303,
+   :source :openstreetmap,
+   :homepage
+   "http://www.bornholmsmuseum.dk/besoeg/hjorths-fabrik.aspx"}
+  {:name "Ernst",
+   :longitude 9.8995608,
+   :latitude 55.2702958,
+   :source :openstreetmap,
+   :homepage "https://museumvestfyn.dk/ernst/"}
+  {:name "Errindlev Mejeri",
+   :longitude 11.4962624,
+   :latitude 54.671557,
+   :source :openstreetmap}
+  {:name "Esbjerg Havn - Besøgscenter",
+   :longitude 8.4472158,
+   :latitude 55.4632386,
+   :source :openstreetmap,
+   :homepage "https://www.esbjergmuseum.dk/"}
+  {:name "Esbjerg Kunstmuseum",
+   :longitude 8.4505741,
+   :latitude 55.4642399,
+   :source :openstreetmap,
+   :homepage "https://www.eskum.dk/"}
+  {:name "Esbjerg Motorsamling",
+   :longitude 8.4067903,
+   :latitude 55.5227228,
+   :source :openstreetmap,
+   :homepage "http://www.esbjergmotorsamling.dk/"}
+  {:name "Esbjerg Spejdermuseum",
+   :longitude 8.4506361,
+   :latitude 55.4829567,
+   :source :openstreetmap,
+   :homepage "http://www.esbjerg-spejdermuseum.dk/"}
+  {:name "Esehytterne",
+   :longitude 8.1848808,
+   :latitude 55.8185927,
+   :source :openstreetmap,
+   :homepage
+   "http://borkguide.dk/da_DK/esehusene-fiskerihistorie-du-kan-gaa-ind-i/"}
+  {:name "Esrum Kloster",
+   :longitude 12.3775584,
+   :latitude 56.0475761,
+   :source :openstreetmap,
+   :homepage "https://www.esrum.dk/"}
+  {:name "Essotanken i Sorø",
+   :longitude 11.5591017,
+   :latitude 55.4388747,
+   :source :openstreetmap}
+  {:name "Europæisk Automobilmuseum",
+   :longitude 10.5031153,
+   :latitude 55.373968,
+   :source :openstreetmap,
+   :homepage "http://automuseum.dk/"}
+  {:name "Evolutionsmuseet",
+   :longitude 11.5000355,
+   :latitude 54.8258102,
+   :source :openstreetmap}
+  {:name "Experimentarium",
+   :longitude 12.5800624,
+   :latitude 55.7267014,
+   :source :openstreetmap,
+   :homepage "https://www.experimentarium.dk/"}
+  {:name "Faddersbøl Mølle",
+   :longitude 8.4566264,
+   :latitude 56.9310691,
+   :source :openstreetmap}
+  {:name "Falkonergården",
+   :longitude 12.4227632,
+   :latitude 55.9869325,
+   :source :openstreetmap}
+  {:name "Falsters Minder",
+   :longitude 11.8667129,
+   :latitude 54.7677386,
+   :source :openstreetmap,
+   :homepage
+   "https://www.aabne-samlinger.dk/falsters-minder/falsters-minder/"}
+  {:name "Farvergården",
+   :longitude 10.6782428,
+   :latitude 56.1992127,
+   :source :openstreetmap,
+   :homepage
+   "https://museumoj.randers.dk/besoeg/%C3%A5bningstider-og-adresser/farvergaarden-i-ebeltoft/"}
+  {:name "Fejø Tekniske Museum",
+   :longitude 11.3812758,
+   :latitude 54.9388207,
+   :source :openstreetmap,
+   :homepage "https://www.fejoe-tekniske-museum.dk/"}
+  {:name "Feriebolig Anno 1949",
+   :longitude 9.839589,
+   :latitude 57.4943944,
+   :source :openstreetmap,
+   :homepage "https://skallerup.dk/aktiviteter/museum"}
+  {:name "Filadelfias museum",
+   :longitude 11.5023372,
+   :latitude 55.5304684,
+   :source :openstreetmap,
+   :homepage "https://dianalund.dk/filadelfias-museum/"}
+  {:name "Fiskerhuset",
+   :longitude 12.445291,
+   :latitude 55.278745,
+   :source :openstreetmap}
+  {:name "Fiskeri- og bymuseum",
+   :longitude 11.6455304,
+   :latitude 55.1774598,
+   :source :openstreetmap,
+   :homepage "https://www.kbm-museum.dk/"}
+  {:name "Fiskeri- og Søfartsmuseet",
+   :longitude 8.4107514,
+   :latitude 55.4901253,
+   :source :openstreetmap,
+   :homepage "https://fimus.dk/"}
+  {:name "Fiskeriets Hus",
+   :longitude 8.1299304,
+   :latitude 56.0045391,
+   :source :openstreetmap,
+   :homepage "https://fiskerietshus.dk/"}
+  {:name "Fiskeriets hus",
+   :longitude 10.672351,
+   :latitude 54.7503353,
+   :source :openstreetmap}
+  {:name "Fiskerimuseum",
+   :longitude 11.1367414,
+   :latitude 55.8810261,
+   :source :openstreetmap}
+  {:name "Fjaltring Redningsstation",
+   :longitude 8.1306328,
+   :latitude 56.4698779,
+   :source :openstreetmap}
+  {:name "Fjellerup Østergård",
+   :longitude 10.5997095,
+   :latitude 56.5046469,
+   :source :openstreetmap}
+  {:name "Fjordmarkens Formidlingshus",
+   :longitude 10.4695124,
+   :latitude 55.5222296,
+   :source :openstreetmap}
+  {:name "Flagermusehuset",
+   :longitude 14.9087354,
+   :latitude 55.183894,
+   :source :openstreetmap}
+  {:name "Flakkebjerg Skolemuseum",
+   :longitude 11.3973575,
+   :latitude 55.3137129,
+   :source :openstreetmap,
+   :homepage "https://www.vestmuseum.dk/Default.aspx?ID=611"}
+  {:name "FLUGT",
+   :longitude 8.2709299,
+   :latitude 55.6351483,
+   :source :openstreetmap,
+   :homepage "https://vardemuseerne.dk/museum/flugt/"}
+  {:name "Flyndersø Mølle",
+   :longitude 8.955233,
+   :latitude 56.5184816,
+   :source :openstreetmap}
+  {:name "Flynderupgaardmuseet",
+   :longitude 12.5548325,
+   :latitude 56.0041554,
+   :source :openstreetmap}
+  {:name "Flyvholm Redningsstation",
+   :longitude 8.1544708,
+   :latitude 56.6230791,
+   :source :openstreetmap}
+  {:name "Flyvsand",
+   :longitude 9.7972022,
+   :latitude 57.463116,
+   :source :openstreetmap,
+   :homepage "https://flyvsand.dk/"}
+  {:name "Fonden Brødrene Grams historiske arkiv og museum",
+   :longitude 9.3022999,
+   :latitude 55.2436883,
+   :source :openstreetmap,
+   :homepage "https://www.broedrene-gram.dk/"}
+  {:name "Forbrændingen",
+   :longitude 12.3564174,
+   :latitude 55.6578644,
+   :source :openstreetmap,
+   :homepage "https://forbraendingen.dk/"}
+  {:name "Forstadsmuseet",
+   :longitude 12.4482718,
+   :latitude 55.6321763,
+   :source :openstreetmap,
+   :homepage "https://forstadsmuseet.dk/"}
+  {:name "Fossil- og Molermuseet",
+   :longitude 8.8749582,
+   :latitude 56.9431286,
+   :source :openstreetmap,
+   :homepage "https://museummors.dk/fossil-og-molermuseet/historie"}
+  {:name "Fredensborg Museum",
+   :longitude 12.437482,
+   :latitude 55.9181698,
+   :source :openstreetmap,
+   :homepage "https://fredborgmus.dk/"}
+  {:name "Fredericia Bymuseum",
+   :longitude 9.7448327,
+   :latitude 55.5646193,
+   :source :openstreetmap,
+   :homepage "https://fredericiahistorie.dk/side/fredericia-bymuseum"}
+  {:name "Frederikssund Museum",
+   :longitude 12.0322029,
+   :latitude 55.841233,
+   :source :openstreetmap,
+   :homepage "https://frederikssundmuseum.dk/"}
+  {:name "Frederiksværk Brandværnsmuseum",
+   :longitude 12.0204529,
+   :latitude 55.9707283,
+   :source :openstreetmap}
+  {:name "Fregatten Jylland",
+   :longitude 10.6745499,
+   :latitude 56.199148,
+   :source :openstreetmap,
+   :homepage "https://www.fregatten-jylland.dk/"}
+  {:name "Freitag Gallery",
+   :longitude 12.5791885,
+   :latitude 55.6815013,
+   :source :openstreetmap,
+   :homepage "https://nikolajkunsthal.kk.dk/"}
+  {:name "Frieboeshvile",
+   :longitude 12.4957414,
+   :latitude 55.7763859,
+   :source :openstreetmap,
+   :homepage "https://www.ltk.dk/frieboes-hvile"}
+  {:name "Frilandsgården",
+   :longitude 10.0294494,
+   :latitude 56.4581929,
+   :source :openstreetmap,
+   :homepage
+   "https://www.regnskoven.dk/besoeg/spis-shop/danmarksparken/"}
+  {:name "Frilandsmuseet",
+   :longitude 12.4940346,
+   :latitude 55.7891134,
+   :source :openstreetmap,
+   :homepage "http://natmus.dk/museerne/frilandsmuseet/"}
+  {:name "Frilandsmuseet Herning",
+   :longitude 8.9726403,
+   :latitude 56.1324079,
+   :source :openstreetmap,
+   :homepage "https://www.herningmuseum.dk/"}
+  {:name "Friluftsmuseet Batteri \"Hanstholm I\"",
+   :longitude 8.5873114,
+   :latitude 57.1058295,
+   :source :openstreetmap,
+   :homepage
+   "http://www.museumscenterhanstholm.dk/oplev-museet/friluftsmuseum-hanstholm-i.aspx?lang=de"}
+  {:name "Fuglsang Kunstmuseum",
+   :longitude 11.7996212,
+   :latitude 54.7238589,
+   :source :openstreetmap,
+   :homepage "http://www.fuglsangkunstmuseum.dk/"}
+  {:name "Fur Museum",
+   :longitude 9.021263,
+   :latitude 56.8170525,
+   :source :openstreetmap,
+   :homepage "https://www.furmuseum.dk/"}
+  {:name "Fyns Militærhistorisk Samling",
+   :longitude 10.4082974,
+   :latitude 55.3846038,
+   :source :openstreetmap,
+   :homepage "https://www.odensebunkermuseum.dk/"}
+  {:name "Fyrkat Møllegaard",
+   :longitude 9.7723801,
+   :latitude 56.625024,
+   :source :openstreetmap,
+   :homepage
+   "https://nordjyskemuseer.dk/dronning-margrethe-indvier-ny-fyrkatudstilling/"}
+  {:name "Fængslet",
+   :longitude 9.8362852,
+   :latitude 55.8740839,
+   :source :openstreetmap,
+   :homepage "https://faengslet.dk/"}
+  {:name "Gaia Museum Outsider Art",
+   :longitude 10.0459189,
+   :latitude 56.4618095,
+   :source :openstreetmap,
+   :homepage "https://www.gaiamuseum.dk/"}
+  {:name "Galerie ERZ",
+   :longitude 8.767075,
+   :latitude 55.1593485,
+   :source :openstreetmap,
+   :homepage "https://www.galerie-erz.dk/"}
+  {:name "Galerie Provence",
+   :longitude 9.8536156,
+   :latitude 57.1128296,
+   :source :openstreetmap}
+  {:name "Galgrafisk",
+   :longitude 11.6496056,
+   :latitude 55.1783485,
+   :source :openstreetmap}
+  {:name "Galleri 3G",
+   :longitude 11.6935007,
+   :latitude 55.8470863,
+   :source :openstreetmap,
+   :homepage "https://galleri-3g.dk/"}
+  {:name "Galleri Aalestrup",
+   :longitude 9.494747,
+   :latitude 56.693969,
+   :source :openstreetmap,
+   :homepage "http://www.cykelmuseum.dk"}
+  {:name "Galleri Bit Kjeldsen",
+   :longitude 8.2399129,
+   :latitude 56.0917105,
+   :source :openstreetmap}
+  {:name "Galleri Bo",
+   :longitude 10.5891554,
+   :latitude 57.7213915,
+   :source :openstreetmap,
+   :homepage "https://maskinrummet-skagen.dk/"}
+  {:name "Galleri Bopa",
+   :longitude 12.5809136,
+   :latitude 55.7054653,
+   :source :openstreetmap}
+  {:name "Galleri Børmose",
+   :longitude 9.73907,
+   :latitude 55.5037929,
+   :source :openstreetmap,
+   :homepage "https://www.boermose.dk/"}
+  {:name "Galleri Eje",
+   :longitude 10.0023788,
+   :latitude 54.8864945,
+   :source :openstreetmap,
+   :homepage "https://gallerieje.com/"}
+  {:name "Galleri Elise Toft",
+   :longitude 9.4679303,
+   :latitude 55.4931801,
+   :source :openstreetmap,
+   :homepage "https://stadsarkiv.kolding.dk/"}
+  {:name "Galleri Engholm",
+   :longitude 9.7332558,
+   :latitude 55.504576,
+   :source :openstreetmap}
+  {:name "Galleri Gemmer",
+   :longitude 8.6136535,
+   :latitude 55.6237933,
+   :source :openstreetmap,
+   :homepage "https://www.gemmer.dk/"}
+  {:name "Galleri Gerd",
+   :longitude 10.7848103,
+   :latitude 55.1395767,
+   :source :openstreetmap,
+   :homepage "https://pakhusgaarden.dk/"}
+  {:name "Galleri Grevelsgaard",
+   :longitude 10.280946,
+   :latitude 56.4439046,
+   :source :openstreetmap}
+  {:name "Galleri Hou",
+   :longitude 10.3724101,
+   :latitude 57.0593639,
+   :source :openstreetmap,
+   :homepage "http://www.gallerihou.dk/"}
+  {:name "Galleri i Troldspejlet",
+   :longitude 10.2004023,
+   :latitude 56.1480313,
+   :source :openstreetmap,
+   :homepage "http://boegh-lisberg.dk/"}
+  {:name "Galleri Image",
+   :longitude 10.2027942,
+   :latitude 56.157543,
+   :source :openstreetmap,
+   :homepage "https://galleriimage.dk/"}
+  {:name "Galleri Kirkesvinget",
+   :longitude 10.0706082,
+   :latitude 55.8230746,
+   :source :openstreetmap}
+  {:name "Galleri KunstART by Daisy Dahl",
+   :longitude 8.7615523,
+   :latitude 55.1565656,
+   :source :openstreetmap,
+   :homepage "https://daisydahl.dk/"}
+  {:name "Galleri Liljebjerget",
+   :longitude 8.7602144,
+   :latitude 55.3275419,
+   :source :openstreetmap,
+   :homepage "https://www.detgamleraadhusiribe.dk/"}
+  {:name "Galleri Marlene Kjær",
+   :longitude 10.2036016,
+   :latitude 56.1468882,
+   :source :openstreetmap,
+   :homepage "https://www.marlenekjaer.dk/"}
+  {:name "Galleri Matthies",
+   :longitude 11.9917461,
+   :latitude 54.7675642,
+   :source :openstreetmap,
+   :homepage "https://www.gallerimatthies.dk/"}
+  {:name "Galleri Moderne",
+   :longitude 9.5456493,
+   :latitude 56.1663083,
+   :source :openstreetmap,
+   :homepage "https://www.galeriemoderne.dk/"}
+  {:name "Galleri Mynster",
+   :longitude 10.072298,
+   :latitude 55.856449,
+   :source :openstreetmap,
+   :homepage "https://galleri-mynster.dk"}
+  {:name "Galleri no. 11",
+   :longitude 9.216114,
+   :latitude 55.075797,
+   :source :openstreetmap,
+   :homepage "https://galleri-no11.dk/"}
+  {:name "Galleri Orange",
+   :longitude 12.6143291,
+   :latitude 56.0410714,
+   :source :openstreetmap,
+   :homepage "https://galleriorange.dk/"}
+  {:name "Galleri Oxholm",
+   :longitude 12.178428,
+   :latitude 55.4568232,
+   :source :openstreetmap}
+  {:name "Galleri Pagter",
+   :longitude 9.4730024,
+   :latitude 55.490704,
+   :source :openstreetmap,
+   :homepage "https://stadsarkiv.kolding.dk/"}
+  {:name "Galleri Pakhuset",
+   :longitude 12.4686883,
+   :latitude 54.9538887,
+   :source :openstreetmap}
+  {:name "Galleri Puls Art",
+   :longitude 12.5452416,
+   :latitude 55.6721883,
+   :source :openstreetmap}
+  {:name "Galleri Puls Art",
+   :longitude 12.5247766,
+   :latitude 55.6795446,
+   :source :openstreetmap,
+   :homepage "https://www.galleripulsart.dk/"}
+  {:name "Galleri Rasch",
+   :longitude 14.6955775,
+   :latitude 55.0990308,
+   :source :openstreetmap}
+  {:name "Galleri Røde Mølevej",
+   :longitude 9.8056546,
+   :latitude 56.8264842,
+   :source :openstreetmap}
+  {:name "Galleri Salling",
+   :longitude 8.9210151,
+   :latitude 56.6913546,
+   :source :openstreetmap}
+  {:name "Galleri Skippergården",
+   :longitude 8.1756986,
+   :latitude 55.8608913,
+   :source :openstreetmap}
+  {:name "Galleri Solvognen",
+   :longitude 10.6030284,
+   :latitude 55.5735703,
+   :source :openstreetmap}
+  {:name "Galleri Strædet",
+   :longitude 8.8019321,
+   :latitude 54.9386015,
+   :source :openstreetmap,
+   :homepage "https://galleristraedet.blogspot.com/"}
+  {:name "Galleri Susy Grundahl",
+   :longitude 8.5345886,
+   :latitude 55.4950225,
+   :source :openstreetmap,
+   :homepage "https://susygrundahl.dk/"}
+  {:name "Galleri Svinestien",
+   :longitude 10.4622392,
+   :latitude 55.1998954,
+   :source :openstreetmap,
+   :homepage "https://gallerisvinestien.dk/"}
+  {:name "Galleri Trine Panum",
+   :longitude 12.4563096,
+   :latitude 55.7604946,
+   :source :openstreetmap,
+   :homepage "http://www.trinepanum.dk/"}
+  {:name "Galleri Uggerby",
+   :longitude 9.7971902,
+   :latitude 57.4727809,
+   :source :openstreetmap}
+  {:name "Galleri Værk",
+   :longitude 10.6736461,
+   :latitude 56.1942054,
+   :source :openstreetmap,
+   :homepage "https://www.glaskunst.dk/"}
+  {:name "Galleri Warrer",
+   :longitude 12.3004971,
+   :latitude 55.0246382,
+   :source :openstreetmap,
+   :homepage "https://www.warrer.dk"}
+  {:name "Gallerie Rasmus Skagen",
+   :longitude 10.5933629,
+   :latitude 57.7236726,
+   :source :openstreetmap,
+   :homepage "https://gallerie-rasmus.dk/skagen/"}
+  {:name "GalleriV58",
+   :longitude 10.2042419,
+   :latitude 56.1536479,
+   :source :openstreetmap,
+   :homepage "https://galleriv58.dk/"}
+  {:name "Gallery Fleur Winnie Christel",
+   :longitude 10.2183885,
+   :latitude 56.1670833,
+   :source :openstreetmap}
+  {:name "Gallery KarinM-art",
+   :longitude 8.4534611,
+   :latitude 55.4700927,
+   :source :openstreetmap,
+   :homepage "http://karinm-art.dk/"}
+  {:name "Gallopperiet",
+   :longitude 12.5969554,
+   :latitude 55.6737818,
+   :source :openstreetmap,
+   :homepage "http://www.gallopperiet.dk/"}
+  {:name "Gammel Elmegaard",
+   :longitude 10.4212334,
+   :latitude 54.9705206,
+   :source :openstreetmap,
+   :homepage "http://www.gammelelmegaard.dk"}
+  {:name "Gammel Havn Museum",
+   :longitude 8.9810795,
+   :latitude 56.8128386,
+   :source :openstreetmap}
+  {:name "Gammel Holtegaard",
+   :longitude 12.5175032,
+   :latitude 55.8289201,
+   :source :openstreetmap,
+   :homepage "https://www.glholtegaard.dk/"}
+  {:name "Gammel Kongsgaard",
+   :longitude 11.969773,
+   :latitude 55.6170982,
+   :source :openstreetmap,
+   :homepage "https://lejremuseum.dk/"}
+  {:name "Gammelby Mølle",
+   :longitude 9.6236012,
+   :latitude 55.586775,
+   :source :openstreetmap,
+   :homepage "https://www.moellearkivet.dk/egeskov-mlle21"}
+  {:name "Gammelgaard",
+   :longitude 12.4233392,
+   :latitude 55.7442661,
+   :source :openstreetmap,
+   :homepage "https://www.gammelgaard.dk/"}
+  {:name "Gammelsogn Gamle Skole",
+   :longitude 8.2083897,
+   :latitude 56.0995267,
+   :source :openstreetmap}
+  {:name "Gardehusarregimentets Veteran Panser- og Køretøjsforenings",
+   :longitude 11.8036749,
+   :latitude 55.2325267,
+   :source :openstreetmap,
+   :homepage "https://www.nyghrvpk.dk/"}
+  {:name "Garderhøjfortet",
+   :longitude 12.5272825,
+   :latitude 55.7656178,
+   :source :openstreetmap,
+   :homepage "https://garderhojfort.dk/"}
+  {:name "Gasmuseet",
+   :longitude 9.8049629,
+   :latitude 56.63744,
+   :source :openstreetmap,
+   :homepage "https://www.gasmuseet.dk/"}
+  {:name "Gendarmhuset",
+   :longitude 9.8897271,
+   :latitude 54.9076347,
+   :source :openstreetmap}
+  {:name "Genforenings- og Grænsemuseet",
+   :longitude 9.4813086,
+   :latitude 55.380387,
+   :source :openstreetmap,
+   :homepage "https://www.genforeningsmuseet.dk/"}
+  {:name "GeoCenter Møns Klint",
+   :longitude 12.548275,
+   :latitude 54.9660618,
+   :source :openstreetmap,
+   :homepage "https://moensklint.dk/"}
+  {:name "Geomuseum Faxe",
+   :longitude 12.1231073,
+   :latitude 55.2556562,
+   :source :openstreetmap,
+   :homepage "https://www.oesm.dk/geomuseum-faxe/"}
+  {:name "Gillelejegruppen",
+   :longitude 12.3428366,
+   :latitude 56.0746901,
+   :source :openstreetmap,
+   :homepage "https://gillelejegruppen.dk/"}
+  {:name "Gimsinghoved",
+   :longitude 8.593794,
+   :latitude 56.48079,
+   :source :openstreetmap,
+   :homepage "https://www.gimsinghoved.dk/"}
+  {:name "Give-Egnens Museum",
+   :longitude 9.2518942,
+   :latitude 55.8478561,
+   :source :openstreetmap,
+   :homepage "https://www.gem.dk/"}
+  {:name "Gjellergaard",
+   :longitude 8.2912421,
+   :latitude 56.5888176,
+   :source :openstreetmap,
+   :homepage "http://www.gjellergaard.dk/"}
+  {:name "Glud Museum",
+   :longitude 9.9935605,
+   :latitude 55.8066256,
+   :source :openstreetmap,
+   :homepage "https://gludmuseum.dk/"}
+  {:name "Glyngøre Kulturstation",
+   :longitude 8.8680388,
+   :latitude 56.762468,
+   :source :openstreetmap,
+   :homepage "https://www.glyngorekulturstation.dk/"}
+  {:name "Godskontor Slot og Malerisamling",
+   :longitude 11.7245968,
+   :latitude 55.1886471,
+   :source :openstreetmap}
+  {:name "Godthaab Hammerværk",
+   :longitude 9.8118342,
+   :latitude 56.9685366,
+   :source :openstreetmap,
+   :homepage "https://godthaab-hammervaerk.dk/"}
+  {:name "Grenen Kunstmuseum",
+   :longitude 10.6340373,
+   :latitude 57.7397389,
+   :source :openstreetmap,
+   :homepage "https://galleri-grenen.dk/"}
+  {:name "Greve Museum",
+   :longitude 12.2521363,
+   :latitude 55.5908664,
+   :source :openstreetmap,
+   :homepage "https://www.grevemuseum.dk/"}
+  {:name "Gribskov Arkiv",
+   :longitude 12.2816325,
+   :latitude 56.0666649,
+   :source :openstreetmap,
+   :homepage "https://gribskovarkiv.dk/"}
+  {:name "Grubbegård Traktor Og Motor Museum",
+   :longitude 14.975515,
+   :latitude 55.0204527,
+   :source :openstreetmap}
+  {:name "Grundfos Museum: The Factory",
+   :longitude 9.6658065,
+   :latitude 56.3765704,
+   :source :openstreetmap,
+   :homepage
+   "https://www.grundfos.com/dk/about-us/who-we-are/the-history-of-grundfos/grundfos-museum"}
+  {:name "Grundtvigs Mindestuer",
+   :longitude 11.9474435,
+   :latitude 55.0755659,
+   :source :openstreetmap,
+   :homepage
+   "https://www.oerslevkirke.dk/kirkerne/grundtvig-grundtvigs-mindestuer/se-grundtvigs-mindestuer"}
+  {:name "Grønbechs Gård",
+   :longitude 14.7056127,
+   :latitude 55.183425,
+   :source :openstreetmap,
+   :homepage "https://groenbechsgaard.dk/"}
+  {:name "Gubsø Garage",
+   :longitude 9.5231069,
+   :latitude 56.1980627,
+   :source :openstreetmap,
+   :homepage "https://gubsoe.dk/"}
+  {:name "Gudenådalens Museum",
+   :longitude 9.6456045,
+   :latitude 56.3779385,
+   :source :openstreetmap,
+   :homepage "https://www.gudenaadalens-museum.dk/"}
+  {:name "Gudhjem Museum",
+   :longitude 14.9720078,
+   :latitude 55.2064481,
+   :source :openstreetmap,
+   :homepage "https://gudhjembyogmindeforening.dk/"}
+  {:name "Guinness World Records",
+   :longitude 12.5838463,
+   :latitude 55.6801679,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ripleys.com/copenhagen/da/guinness-world-records/"}
+  {:name "Guldagergård",
+   :longitude 11.3026908,
+   :latitude 55.251661,
+   :source :openstreetmap}
+  {:name "Gyllegaard Galleri & Selskabslokale",
+   :longitude 10.4160201,
+   :latitude 57.6065592,
+   :source :openstreetmap,
+   :homepage "http://www.gyllegaard.dk/"}
+  {:name "Gåsemandens Gård",
+   :longitude 8.3327567,
+   :latitude 55.8380149,
+   :source :openstreetmap,
+   :homepage "https://www.levendehistorie.dk/Forside-4"}
+  {:name "H-grafik",
+   :longitude 11.7546432,
+   :latitude 55.9421376,
+   :source :openstreetmap}
+  {:name "H. C. Andersens Barndomshjem",
+   :longitude 10.3872679,
+   :latitude 55.3945314,
+   :source :openstreetmap}
+  {:name "Haaning Collection",
+   :longitude 12.4490765,
+   :latitude 55.7542547,
+   :source :openstreetmap,
+   :homepage "https://www.haaningcollection.dk/"}
+  {:name "Haderslev Museum",
+   :longitude 9.4983052,
+   :latitude 55.2544445,
+   :source :openstreetmap,
+   :homepage "http://www.museum-sonderjylland.dk/"}
+  {:name "HADG Contemporary",
+   :longitude 9.9182347,
+   :latitude 57.0440266,
+   :source :openstreetmap,
+   :homepage "https://www.galleri-baand.dk"}
+  {:name "Hadsund Egns og Møllehistorisk Samling",
+   :longitude 10.1147917,
+   :latitude 56.7235179,
+   :source :openstreetmap,
+   :homepage "https://nordmus.dk/u/hadsund-egnssamling/"}
+  {:name "Hadsund KulturCenter",
+   :longitude 10.1184215,
+   :latitude 56.7185168,
+   :source :openstreetmap}
+  {:name "Hald Laden",
+   :longitude 9.3430874,
+   :latitude 56.3922312,
+   :source :openstreetmap,
+   :homepage "https://viborgmuseum.dk/haldladen-nyt-besoegssted"}
+  {:name "Halkær Mølle Naturcenter",
+   :longitude 9.5795371,
+   :latitude 56.9157949,
+   :source :openstreetmap,
+   :homepage "https://www.haervej.dk/da/kort/faciliteter/596022"}
+  {:name "Hals Museum",
+   :longitude 10.309849,
+   :latitude 56.9932013,
+   :source :openstreetmap,
+   :homepage "https://nordmus.dk/hals-museum"}
+  {:name "Hammermøllen",
+   :longitude 12.5539613,
+   :latitude 56.0652019,
+   :source :openstreetmap}
+  {:name "Hammershus Besøgscenter",
+   :longitude 14.7603072,
+   :latitude 55.2714244,
+   :source :openstreetmap,
+   :homepage "https://bornholm.info/hammershus-besoegscenter/"}
+  {:name "Handværkernes Hus",
+   :longitude 9.9843149,
+   :latitude 57.4632353,
+   :source :openstreetmap,
+   :homepage "https://haandvaerkerneshus.fora.dk/"}
+  {:name "Hangar 46",
+   :longitude 12.3276914,
+   :latitude 55.7722821,
+   :source :openstreetmap}
+  {:name "Hanne's Hus",
+   :longitude 8.4735287,
+   :latitude 55.3488633,
+   :source :openstreetmap,
+   :homepage "https://www.hanneshus.dk/homedansk/"}
+  {:name "Hans og Hansigne Lorenzens Gård",
+   :longitude 8.6632793,
+   :latitude 55.0780024,
+   :source :openstreetmap,
+   :homepage
+   "https://www.toender.dk/aktiv-og-oplev/oplev-kulturen/sevaerdigheder/hans-og-hansigne-lorenzens-gard/"}
+  {:name "Harteværket",
+   :longitude 9.4242935,
+   :latitude 55.5025515,
+   :source :openstreetmap,
+   :homepage "https://hartevaerket.dk/"}
+  {:name "Haslev Museum",
+   :longitude 11.9624914,
+   :latitude 55.3256541,
+   :source :openstreetmap,
+   :homepage
+   "http://live.www.kalklandet.dk/attraktioner/flere-attraktioner/haslev-museum"}
+  {:name "Hauchs Physiske Cabinet",
+   :longitude 11.5516675,
+   :latitude 55.4317166,
+   :source :openstreetmap,
+   :homepage "https://www.awhauch.dk/"}
+  {:name "Haurvig Redningsstation",
+   :longitude 8.1544373,
+   :latitude 55.9449238,
+   :source :openstreetmap}
+  {:name "Havnbjerg Mølle",
+   :longitude 9.798832,
+   :latitude 55.0398692,
+   :source :openstreetmap}
+  {:name "Havnemuseum",
+   :longitude 10.0157292,
+   :latitude 55.7150576,
+   :source :openstreetmap}
+  {:name "Havnø Mølle",
+   :longitude 10.164919,
+   :latitude 56.7137652,
+   :source :openstreetmap,
+   :homepage "https://nordmus.dk/havno-molle"}
+  {:name "HAWK batteriet Højerup",
+   :longitude 12.4519012,
+   :latitude 55.2899919,
+   :source :openstreetmap,
+   :homepage "https://stevnsklint.dk/oplev/perlerne/stevns-fyrcenter"}
+  {:name "Hedvigs Hus",
+   :longitude 11.125464,
+   :latitude 57.3076353,
+   :source :openstreetmap,
+   :homepage "http://www.laesoe-museum.dk/"}
+  {:name "heltborg Museum",
+   :longitude 8.4538184,
+   :latitude 56.7527987,
+   :source :openstreetmap}
+  {:name "Hempel Glasmuseum",
+   :longitude 11.6646095,
+   :latitude 55.9037826,
+   :source :openstreetmap,
+   :homepage "https://hempelglasmuseum.dk/"}
+  {:name "Herluflille Mølle",
+   :longitude 11.7571381,
+   :latitude 55.344413,
+   :source :openstreetmap,
+   :homepage "https://www.herluflillemolle.dk/"}
+  {:name "Herningsholm",
+   :longitude 8.9989444,
+   :latitude 56.1456503,
+   :source :openstreetmap}
+  {:name "Herregården Hessel",
+   :longitude 9.1911477,
+   :latitude 56.6878335,
+   :source :openstreetmap,
+   :homepage "https://www.herregaarden-hessel.dk"}
+  {:name "Herregårdsmuseet Sæbygård",
+   :longitude 10.4787515,
+   :latitude 57.334102,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kystmuseet.dk/besoeg-os/kystmuseet-saeby/herregaardsmuseet-saebygaard/"}
+  {:name "Hestestalden",
+   :longitude 9.8065222,
+   :latitude 55.3128571,
+   :source :openstreetmap,
+   :homepage "https://baagoe.info/Hestestalden.htm"}
+  {:name "Himmel og Hav",
+   :longitude 12.5979173,
+   :latitude 55.7081968,
+   :source :openstreetmap,
+   :homepage
+   "http://www.nordhavnen.dk/oplev+nordhavnen/udstilling.aspx"}
+  {:name "Hindsholm Egnsmuseum",
+   :longitude 10.660969,
+   :latitude 55.5418546,
+   :source :openstreetmap,
+   :homepage "http://www.hindsholm.com/Hindsholm_egnsmuseum.htm"}
+  {:name "Hirtshals Museum",
+   :longitude 9.9599286,
+   :latitude 57.5894847,
+   :source :openstreetmap}
+  {:name "Historiecenter Dybbøl Banke",
+   :longitude 9.7545776,
+   :latitude 54.9066931,
+   :source :openstreetmap,
+   :homepage "http://www.museum-sonderjylland.dk/dybbol-banke.html"}
+  {:name "Historiestalden",
+   :longitude 11.1895357,
+   :latitude 55.2132211,
+   :source :openstreetmap,
+   :homepage "https://www.agersoe-moelle.dk/index-filer/Page434.htm"}
+  {:name "Historisk arbejdende værksted",
+   :longitude 11.4738989,
+   :latitude 54.7093067,
+   :source :openstreetmap,
+   :homepage "https://www.historiskvaerksted.dk/"}
+  {:name "Hjallerup Mekaniske Museum",
+   :longitude 10.1551603,
+   :latitude 57.1598889,
+   :source :openstreetmap,
+   :homepage "https://www.hjallerupmekaniskemuseum.dk/"}
+  {:name "Hjedding Andelsmejeri",
+   :longitude 8.6135802,
+   :latitude 55.7922942,
+   :source :openstreetmap}
+  {:name "Hjemmeværnsmuseet",
+   :longitude 9.3281928,
+   :latitude 54.8436253,
+   :source :openstreetmap,
+   :homepage "https://hjemmevaernsmuseet.dk/"}
+  {:name "Hjemstavnshuset Arnborg",
+   :longitude 8.9672438,
+   :latitude 56.0033265,
+   :source :openstreetmap,
+   :homepage "https://hjemstavnshuset-arnborg.dk"}
+  {:name "Hjerl Hede",
+   :longitude 8.8732789,
+   :latitude 56.4820093,
+   :source :openstreetmap,
+   :homepage "https://hjerlhede.dk/"}
+  {:name "Hjerting Lokalarkiv",
+   :longitude 8.3556334,
+   :latitude 55.5238617,
+   :source :openstreetmap,
+   :homepage "https://hjertinglokalarkiv.dk/"}
+  {:name "Hjortsvang Museum",
+   :longitude 9.5010968,
+   :latitude 55.8876396,
+   :source :openstreetmap,
+   :homepage "https://www.hjortsvangmuseum.dk/"}
+  {:name "Hjortø Museum",
+   :longitude 10.4919442,
+   :latitude 54.9661797,
+   :source :openstreetmap}
+  {:name "Hjulmandshuset",
+   :longitude 9.7115948,
+   :latitude 55.5019772,
+   :source :openstreetmap}
+  {:name "Hobro Museum",
+   :longitude 9.7930421,
+   :latitude 56.6366748,
+   :source :openstreetmap,
+   :homepage "https://nordmus.dk/u/hobro-museum/"}
+  {:name "Hodde gl. Skole",
+   :longitude 8.6460228,
+   :latitude 55.6984263,
+   :source :openstreetmap,
+   :homepage "https://vardemuseerne.dk/museum/hodde-gamle-skole/"}
+  {:name "Holbæk Museum",
+   :longitude 11.7124261,
+   :latitude 55.7166112,
+   :source :openstreetmap,
+   :homepage "https://vestmuseum.dk/"}
+  {:name "Hollufgårds Vandmølles Udstilling",
+   :longitude 10.4443676,
+   :latitude 55.3543513,
+   :source :openstreetmap}
+  {:name "Hollænderhus",
+   :longitude 10.9262391,
+   :latitude 55.137119,
+   :source :openstreetmap,
+   :homepage "https://naturstyrelsen.dk/74540"}
+  {:name "Holmegaard Værk",
+   :longitude 11.8149845,
+   :latitude 55.2867183,
+   :source :openstreetmap,
+   :homepage "https://www.grafisk-kunst.com/"}
+  {:name "Holstebro Museum",
+   :longitude 8.6209259,
+   :latitude 56.3537912,
+   :source :openstreetmap,
+   :homepage "https://holstebro-museum.dk/"}
+  {:name "Home of Carlsberg",
+   :longitude 12.5302628,
+   :latitude 55.6645863,
+   :source :openstreetmap,
+   :homepage "https://homeofcarlsberg.com"}
+  {:name "Horsens Kunstmuseum",
+   :longitude 9.8606999,
+   :latitude 55.8645353,
+   :source :openstreetmap,
+   :homepage "https://www.horsenskunstmuseum.dk/"}
+  {:name "Horserødlejrens Museum",
+   :longitude 12.4938188,
+   :latitude 56.0462488,
+   :source :openstreetmap,
+   :homepage "https://en.wikipedia.org/wiki/Horser%C3%B8d_camp"}
+  {:name "Hoven Skole Museum - Hoven kvindehøjskolen 1891 - 1926",
+   :longitude 8.7591382,
+   :latitude 55.8504802,
+   :source :openstreetmap,
+   :homepage "https://hoven-museum.dk/"}
+  {:name "Hundestedmotoren",
+   :longitude 11.8451078,
+   :latitude 55.9646259,
+   :source :openstreetmap,
+   :homepage "https://sandfestival.dk/"}
+  {:name "Huset i Asnæs",
+   :longitude 11.5021044,
+   :latitude 55.810626,
+   :source :openstreetmap,
+   :homepage "https://www.husetiasnaes.dk/"}
+  {:name "Husted Fine Art Photography",
+   :longitude 8.4418079,
+   :latitude 55.4689258,
+   :source :openstreetmap,
+   :homepage "http://hustedphotoart.dk"}
+  {:name "Hvolris Jernalderlandsby",
+   :longitude 9.5171294,
+   :latitude 56.5808618,
+   :source :openstreetmap,
+   :homepage "https://viborgmuseum.dk/besøg-os/hvolris-jernalder"}
+  {:name "Hygum Hjemstavnsgård",
+   :longitude 8.9751998,
+   :latitude 55.3538156,
+   :source :openstreetmap,
+   :homepage "http://www.hygumhjemstavnsgaard.dk/"}
+  {:name "Hygum Kunstmuseum",
+   :longitude 8.2213547,
+   :latitude 56.5922793,
+   :source :openstreetmap,
+   :homepage "https://hygumkunstmuseum.dk/"}
+  {:name "Håndværkermuseet i Randers",
+   :longitude 10.0366422,
+   :latitude 56.4575574,
+   :source :openstreetmap,
+   :homepage "https://museumoj.randers.dk/museer-og-aabningstider/"}
+  {:name "Høgdal",
+   :longitude 9.6156496,
+   :latitude 56.107428,
+   :source :openstreetmap,
+   :homepage "https://hoegdal.silkeborg.dk"}
+  {:name "Høkeren",
+   :longitude 10.6586028,
+   :latitude 55.4499677,
+   :source :openstreetmap,
+   :homepage "https://www.ostfynsmuseer.dk/museer/hoekeren/"}
+  {:name "Hørsholm Egns Museum",
+   :longitude 12.5028281,
+   :latitude 55.8752112,
+   :source :openstreetmap}
+  {:name "Hørvævsmuseet",
+   :longitude 10.092494,
+   :latitude 55.3123166,
+   :source :openstreetmap,
+   :homepage "https://hoervaevsmuseet.dk/"}
+  {:name "Hørvævsmuseet på Krengerup",
+   :longitude 10.1164816,
+   :latitude 55.3097066,
+   :source :openstreetmap,
+   :homepage "https://www.skodamuseum.dk/"}
+  {:name "Høvlehuset",
+   :longitude 8.1732857,
+   :latitude 55.5580331,
+   :source :openstreetmap,
+   :homepage "https://www.hoevlehuset.dk/"}
+  {:name "I. C. Christensens Hus",
+   :longitude 8.2826128,
+   :latitude 56.1455955,
+   :source :openstreetmap,
+   :homepage "https://www.jcchristensen.dk/"}
+  {:name "Ikast-tårnet",
+   :longitude 9.1603939,
+   :latitude 56.1388838,
+   :source :openstreetmap}
+  {:name "IlluScience Museum",
+   :longitude 8.2141457,
+   :latitude 56.704144,
+   :source :openstreetmap,
+   :homepage "https://www.illuscience.dk/"}
+  {:name "Immigrantmuseet",
+   :longitude 12.3777213,
+   :latitude 55.8142484,
+   :source :openstreetmap,
+   :homepage "https://immigrantmuseet.dk/"}
+  {:name "Institut for Kunstterapi",
+   :longitude 9.3187938,
+   :latitude 55.7684096,
+   :source :openstreetmap,
+   :homepage "https://kunstterapi.dk/"}
+  {:name "Isbådsmuseet",
+   :longitude 11.0948886,
+   :latitude 55.3485473,
+   :source :openstreetmap,
+   :homepage
+   "https://www.byogoverfartsmuseet.dk/video/video1/isbaad.htm"}
+  {:name "Ivans Kunstgalleri",
+   :longitude 12.1265138,
+   :latitude 55.252567,
+   :source :openstreetmap}
+  {:name "Jacob A. Riis Museum",
+   :longitude 8.7635611,
+   :latitude 55.3285544,
+   :source :openstreetmap,
+   :homepage "https://jacobariismuseum.dk/"}
+  {:name "Janus - Museum for Samtidskunst",
+   :longitude 8.6077959,
+   :latitude 55.7201691,
+   :source :openstreetmap,
+   :homepage "https://vardemuseerne.dk/museum/janus/"}
+  {:name "Jazzbar Bent J",
+   :longitude 10.1931832,
+   :latitude 56.158111,
+   :source :openstreetmap,
+   :homepage
+   "https://www.dengamleby.dk/dit-arrangement/private-selskaber/lokaler/jazzbar-bent-j/"}
+  {:name "Jenle",
+   :longitude 9.0872421,
+   :latitude 56.6652488,
+   :source :openstreetmap,
+   :homepage "https://www.jenle.dk/"}
+  {:name "Jens Konrad Veteranlastbilmuseum",
+   :longitude 9.5790689,
+   :latitude 56.1869686,
+   :source :openstreetmap,
+   :homepage "https://www.jenskonrad.dk/"}
+  {:name "Jens Nielsen & Olivia Holm-Møller Museet",
+   :longitude 8.611169,
+   :latitude 56.3642296,
+   :source :openstreetmap,
+   :homepage "https://hfkdholstebro.allyou.net/"}
+  {:name "Jeppe's Atelier",
+   :longitude 10.5746709,
+   :latitude 55.9519796,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitsamsoe.dk/en/inspiration/father-thousands-colourful-landscapes/"}
+  {:name "Jernbanemuseet Gedser Remise",
+   :longitude 11.9257558,
+   :latitude 54.5763624,
+   :source :openstreetmap,
+   :homepage "http://gedserremise.dk/"}
+  {:name "Johan Skjoldborgs hus",
+   :longitude 9.0063467,
+   :latitude 57.0258712,
+   :source :openstreetmap}
+  {:name "Johannes Larsen museet",
+   :longitude 10.6613948,
+   :latitude 55.455875,
+   :source :openstreetmap,
+   :homepage "https://johanneslarsenmuseet.dk/"}
+  {:name "Johannes V. Jensen & Thit Jensen Museet",
+   :longitude 9.3395892,
+   :latitude 56.7680397,
+   :source :openstreetmap,
+   :homepage "https://www.jensenmuseet.dk/"}
+  {:name "Junglescenen",
+   :longitude 11.9498315,
+   :latitude 55.9867157,
+   :source :openstreetmap}
+  {:name "Jyllinge fjord museum",
+   :longitude 12.1028536,
+   :latitude 55.7512462,
+   :source :openstreetmap}
+  {:name "Jysk Brandmuseum",
+   :longitude 9.4312263,
+   :latitude 56.2929084,
+   :source :openstreetmap,
+   :homepage "https://jyskbrandmuseum.dk/"}
+  {:name "Jónshús",
+   :longitude 12.58231,
+   :latitude 55.68921,
+   :source :openstreetmap}
+  {:name "Jørgen Riecks Arkæologiske Samling",
+   :longitude 9.8240877,
+   :latitude 55.0260718,
+   :source :openstreetmap,
+   :homepage
+   "https://svenstrup-nordals.dk/riecks-stensamling-a-collection/"}
+  {:name "Kaj Munks Præstegård",
+   :longitude 8.1843446,
+   :latitude 56.2488534,
+   :source :openstreetmap,
+   :homepage
+   "https://ringkobingfjordmuseer.dk/museer/kaj-munks-praestegaard/"}
+  {:name "Kaleko Mølle",
+   :longitude 10.2670527,
+   :latitude 55.0994389,
+   :source :openstreetmap}
+  {:name "Kalundborg Museum",
+   :longitude 11.0794625,
+   :latitude 55.6808536,
+   :source :openstreetmap,
+   :homepage "https://vestmuseum.dk/kalundborg-museum/"}
+  {:name "Kalvø Værftsmuseum",
+   :longitude 9.467111,
+   :latitude 55.1214852,
+   :source :openstreetmap,
+   :homepage "https://www.calloe.dk/"}
+  {:name "Kappel Stubmølle",
+   :longitude 11.0362324,
+   :latitude 54.7740374,
+   :source :openstreetmap,
+   :homepage "http://www.kappelstubml.dk/"}
+  {:name "Karup Flyvemuseum",
+   :longitude 9.1198279,
+   :latitude 56.2794265,
+   :source :openstreetmap,
+   :homepage "https://www.karupflymuseum.dk/"}
+  {:name "Kastrupgårdsamlingen",
+   :longitude 12.6386294,
+   :latitude 55.6346851,
+   :source :openstreetmap,
+   :homepage "https://www.kastrupgaardsamlingen.dk/"}
+  {:name "Kate Lassens hus",
+   :longitude 8.3482671,
+   :latitude 56.9245935,
+   :source :openstreetmap}
+  {:name "kavena Art",
+   :longitude 9.5783952,
+   :latitude 55.6749933,
+   :source :openstreetmap,
+   :homepage "https://www.kavena-art.dk/"}
+  {:name "Keramikcafeen",
+   :longitude 8.3661901,
+   :latitude 55.4337612,
+   :source :openstreetmap,
+   :homepage "https://keramikcafeen.eu/"}
+  {:name "Keramikkens hus",
+   :longitude 8.2606883,
+   :latitude 56.105854,
+   :source :openstreetmap}
+  {:name "Kikkelie",
+   :longitude 11.8848908,
+   :latitude 55.805625,
+   :source :openstreetmap}
+  {:name "Kirsten Kjær Museum",
+   :longitude 8.958169,
+   :latitude 57.0754532,
+   :source :openstreetmap,
+   :homepage "https://www.kkmuseum.dk/"}
+  {:name "Klim Kalkovn",
+   :longitude 9.1704575,
+   :latitude 57.103786,
+   :source :openstreetmap,
+   :homepage "https://hanherred.dk/havogfjord/klimkalkovn/"}
+  {:name "Klimatorium",
+   :longitude 8.3087653,
+   :latitude 56.5537911,
+   :source :openstreetmap,
+   :homepage "https://klimatorium.dk/"}
+  {:name "Klintebjerg Galleri",
+   :longitude 10.447686,
+   :latitude 55.4817469,
+   :source :openstreetmap}
+  {:name "Klosterlund Museum",
+   :longitude 9.3542699,
+   :latitude 56.1858261,
+   :source :openstreetmap,
+   :homepage "https://museummidtjylland.dk"}
+  {:name "Klostermølle",
+   :longitude 9.6937411,
+   :latitude 56.0399123,
+   :source :openstreetmap}
+  {:name "Knud Rasmussens Hus",
+   :longitude 11.8543105,
+   :latitude 55.9749005,
+   :source :openstreetmap,
+   :homepage "https://knudrasmus.dk/"}
+  {:name "Koldkrigsmuseet REGAN Vest",
+   :longitude 9.8011379,
+   :latitude 56.8237211,
+   :source :openstreetmap,
+   :homepage "https://nordjyskemuseer.dk/u/regan-vest/"}
+  {:name "Koldkrigsmuseum Langelandsfort",
+   :longitude 10.7158629,
+   :latitude 54.7528603,
+   :source :openstreetmap,
+   :homepage "https://www.langelandsfortet.dk/"}
+  {:name "Koldkrigsmuseum Stevnsfort",
+   :longitude 12.4122409,
+   :latitude 55.2642459,
+   :source :openstreetmap,
+   :homepage
+   "https://kalklandet.dk/attraktioner/koldkrigsmuseum-stevnsfort"}
+  {:name "Kommandocentralen",
+   :longitude 9.4757555,
+   :latitude 55.4788074,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kolding.dk/borger/kulturarv-og-historie/kultur/kommandocentralen"}
+  {:name "Kommunal Kunst og Teknik",
+   :longitude 12.5569971,
+   :latitude 55.6859829,
+   :source :openstreetmap,
+   :homepage "https://kommunalkunstogteknik.dk/"}
+  {:name "Kongernes Jelling",
+   :longitude 9.4179509,
+   :latitude 55.7568751,
+   :source :openstreetmap,
+   :homepage "http://natmus.dk/museerne/kongernes-jelling/"}
+  {:name "Kongernes Samling Rosenborg",
+   :longitude 12.5773221,
+   :latitude 55.6857558,
+   :source :openstreetmap,
+   :homepage "https://www.smk.dk/"}
+  {:name "Kongeåmuseet",
+   :longitude 9.2848134,
+   :latitude 55.4277801,
+   :source :openstreetmap}
+  {:name "Kongsgaarden",
+   :longitude 11.6232504,
+   :latitude 55.3812013,
+   :source :openstreetmap,
+   :homepage
+   "https://dit-soroe.dk/oplevelser/kongsgaarden-vester-broby/"}
+  {:name "Kramboden",
+   :longitude 10.3933583,
+   :latitude 55.397171,
+   :source :openstreetmap,
+   :homepage "https://hcandersensodense.dk/h-c-andersen-museum/"}
+  {:name "Kringsminde",
+   :longitude 9.743198,
+   :latitude 55.6093937,
+   :source :openstreetmap,
+   :homepage
+   "https://www.fredericiahistorie.dk/side/besoeg-kringsminde"}
+  {:name "Kronborg Slot",
+   :longitude 12.6212512,
+   :latitude 56.039285,
+   :source :openstreetmap,
+   :homepage "https://kronborg.dk"}
+  {:name "Kroppedal Museum",
+   :longitude 12.3116813,
+   :latitude 55.6846305,
+   :source :openstreetmap,
+   :homepage "https://kroppedal.dk"}
+  {:name "Krudt",
+   :longitude 12.0180487,
+   :latitude 55.9753278,
+   :source :openstreetmap,
+   :homepage "https://indmus.dk/besøg-os-1/krudtværksmuseet"}
+  {:name "KTAS phone museum",
+   :longitude 11.7481193,
+   :latitude 55.6941072,
+   :source :openstreetmap,
+   :homepage "https://www.oplevelsescenternyvang.dk/"}
+  {:name "Kulturbeholderen",
+   :longitude 11.8074989,
+   :latitude 55.7676443,
+   :source :openstreetmap}
+  {:name "Kulturhistorie Aabenraa",
+   :longitude 9.4218334,
+   :latitude 55.04474,
+   :source :openstreetmap,
+   :homepage "http://www.museum-sonderjylland.dk/AABENRAA.HTML"}
+  {:name "Kulturhus Trommen",
+   :longitude 12.4971878,
+   :latitude 55.8805086,
+   :source :openstreetmap,
+   :homepage "https://www.trommen.dk/"}
+  {:name "Kulturladen",
+   :longitude 12.5420808,
+   :latitude 55.6586631,
+   :source :openstreetmap}
+  {:name "Kunst Museum Panbo",
+   :longitude 9.3692465,
+   :latitude 55.0655418,
+   :source :openstreetmap,
+   :homepage "https://kunstmuseumpanbo.dk/"}
+  {:name "Kunst og Kage",
+   :longitude 10.504243,
+   :latitude 56.381079,
+   :source :openstreetmap,
+   :homepage "https://kunstkage.dk/"}
+  {:name "Kunst- og Filosoficentret Solvognen",
+   :longitude 10.3914014,
+   :latitude 55.393968,
+   :source :openstreetmap,
+   :homepage "https://www.solvognen.dk/"}
+  {:name "Kunst- og Kulturcentret Tuskærs café",
+   :longitude 8.127303,
+   :latitude 56.459381,
+   :source :openstreetmap,
+   :homepage "https://www.tuskaer.dk/"}
+  {:name "Kunstautomaten",
+   :longitude 11.6673602,
+   :latitude 55.9220297,
+   :source :openstreetmap,
+   :homepage "https://arta22.dk/"}
+  {:name "Kunstbygningen Filosoffen",
+   :longitude 10.3805449,
+   :latitude 55.3921431,
+   :source :openstreetmap}
+  {:name "Kunsten",
+   :longitude 9.9057563,
+   :latitude 57.0425543,
+   :source :openstreetmap}
+  {:name "Kunsthal 44Møen",
+   :longitude 12.1758657,
+   :latitude 54.9235186,
+   :source :openstreetmap,
+   :homepage "https://www.44moen.dk/"}
+  {:name "Kunsthal Holmen",
+   :longitude 8.9554783,
+   :latitude 55.0586277,
+   :source :openstreetmap,
+   :homepage "https://kunsthalholmen.dk/"}
+  {:name "Kunstmuseet Brundlund Slot",
+   :longitude 9.4140059,
+   :latitude 55.0393222,
+   :source :openstreetmap,
+   :homepage "http://www.museum-sonderjylland.dk/brundlund-slot.html"}
+  {:name "Kunstmuseet i Tønder",
+   :longitude 8.866425,
+   :latitude 54.9326617,
+   :source :openstreetmap,
+   :homepage "http://www.museum-sonderjylland.dk/"}
+  {:name "Kunstner Paletten",
+   :longitude 9.550315,
+   :latitude 56.1675519,
+   :source :openstreetmap,
+   :homepage "http://www.museumsilkeborg.dk/"}
+  {:name "Kunstnergaarden",
+   :longitude 11.4755498,
+   :latitude 55.5359222,
+   :source :openstreetmap,
+   :homepage "http://www.kunstnergaarden.dk"}
+  {:name "Kunstnerhuset",
+   :longitude 11.094283,
+   :latitude 55.6795188,
+   :source :openstreetmap}
+  {:name "Kunstnerkollektivet 5C",
+   :longitude 8.4459784,
+   :latitude 55.4674576,
+   :source :openstreetmap,
+   :homepage "https://keramikcafeen.eu/"}
+  {:name "Kunstnerne Else Friis og Jørn Anderson",
+   :longitude 10.0687222,
+   :latitude 55.5510996,
+   :source :openstreetmap,
+   :homepage "https://elsefriis.dk/"}
+  {:name "Kunstnerværkstedet Barakken",
+   :longitude 10.1164299,
+   :latitude 56.1376375,
+   :source :openstreetmap}
+  {:name "KunstPunkt",
+   :longitude 9.8698574,
+   :latitude 54.9457967,
+   :source :openstreetmap,
+   :homepage "https://www.kunstpunkt.dk/"}
+  {:name "KunstVærket",
+   :longitude 9.8625563,
+   :latitude 54.945222,
+   :source :openstreetmap,
+   :homepage "https://www.kunstvaerket.eu/"}
+  {:name "Kystmuseet Bangsbo Fort - Bunker Museum",
+   :longitude 10.5160193,
+   :latitude 57.4085955,
+   :source :openstreetmap,
+   :homepage "https://www.kystmuseet.dk/"}
+  {:name "Kystmuseet Skagen",
+   :longitude 10.5745266,
+   :latitude 57.7164196,
+   :source :openstreetmap,
+   :homepage "https://www.kystmuseet.dk/besoeg-os/kystmuseet-skagen"}
+  {:name "Købelev Kulturcenter",
+   :longitude 11.1069142,
+   :latitude 54.9061584,
+   :source :openstreetmap}
+  {:name "Købmandsgården",
+   :longitude 10.6377751,
+   :latitude 55.8168837,
+   :source :openstreetmap,
+   :homepage "https://www.kobmandsgarden.dk/"}
+  {:name "Køng Museum",
+   :longitude 11.8256758,
+   :latitude 55.1097453,
+   :source :openstreetmap}
+  {:name "Landbomuseet Kolding",
+   :longitude 9.3885201,
+   :latitude 55.5160019,
+   :source :openstreetmap,
+   :homepage "https://landbomuseet.kolding.dk/"}
+  {:name "Landbomuseet Lundekrog",
+   :longitude 12.0932004,
+   :latitude 55.4967736,
+   :source :openstreetmap,
+   :homepage "http://lundekrog.net/"}
+  {:name "Landbomuseet på Birkendegaard",
+   :longitude 11.208107,
+   :latitude 55.6724056,
+   :source :openstreetmap,
+   :homepage "http://www.landbrugsmus.dk/"}
+  {:name "Landbrugsmuseet Fløjgården",
+   :longitude 11.1465187,
+   :latitude 55.5288485,
+   :source :openstreetmap,
+   :homepage "http://www.flojgaarden-landbrugsmuseet.dk/i"}
+  {:name "Landsbyen Sølunds Museum",
+   :longitude 9.9209817,
+   :latitude 56.0286831,
+   :source :openstreetmap,
+   :homepage "https://landsbyensolund.dk/museum/"}
+  {:name "Landskabs- og Landbrugsmuseet i Mosbjerg",
+   :longitude 10.2995055,
+   :latitude 57.5046585,
+   :source :openstreetmap,
+   :homepage "https://vhm.dk/museerne/landskabs-og-landbrugsmuseet/"}
+  {:name "Landskabsudstilling i Slusehuset",
+   :longitude 9.3994159,
+   :latitude 55.5363087,
+   :source :openstreetmap}
+  {:name "Langelands Museum",
+   :longitude 10.7136745,
+   :latitude 54.9357957,
+   :source :openstreetmap}
+  {:name "Langelands museum",
+   :longitude 10.7176961,
+   :latitude 54.9341836,
+   :source :openstreetmap,
+   :homepage "https://www.langelandsmuseum.com/"}
+  {:name "Laugø Smedie",
+   :longitude 12.1807387,
+   :latitude 56.0387248,
+   :source :openstreetmap,
+   :homepage "https://xn--laug-jra.dk/laugoe-smedje"}
+  {:name "Legetøjsmuseet",
+   :longitude 11.8652629,
+   :latitude 54.780219,
+   :source :openstreetmap,
+   :homepage "https://legetojsmuseet-nykobing-f.dk/"}
+  {:name "Lemvig Museum",
+   :longitude 8.3018527,
+   :latitude 56.5494962,
+   :source :openstreetmap,
+   :homepage "https://www.lemvigmuseum.dk/"}
+  {:name "Lille Vildmosecentret",
+   :longitude 10.2210102,
+   :latitude 56.8876939,
+   :source :openstreetmap,
+   :homepage "https://lillevildmose.dk/"}
+  {:name "Lilleskov Teglværk",
+   :longitude 10.1657169,
+   :latitude 55.3439417,
+   :source :openstreetmap,
+   :homepage "https://www.lilleskov.dk/"}
+  {:name "Limfjordsmuseet",
+   :longitude 9.2413903,
+   :latitude 56.9645031,
+   :source :openstreetmap,
+   :homepage "https://limfjordsmuseet.dk/"}
+  {:name "Lindholm Høje Museet",
+   :longitude 9.9101273,
+   :latitude 57.078276,
+   :source :openstreetmap,
+   :homepage
+   "https://nordjyskemuseer.dk/u/vikingemuseet-lindholm-hoje/"}
+  {:name "Lisa Klok",
+   :longitude 10.4785214,
+   :latitude 56.3000645,
+   :source :openstreetmap,
+   :homepage "https://lisaklok.com/"}
+  {:name "LiteraturHaus",
+   :longitude 12.5556601,
+   :latitude 55.6908006,
+   :source :openstreetmap,
+   :homepage "https://www.literaturhaus.dk/"}
+  {:name "Liza´s Gallery",
+   :longitude 12.2843621,
+   :latitude 54.9848769,
+   :source :openstreetmap,
+   :homepage "https://www.lizasgallery.com/"}
+  {:name "Lokalhistorisk Arkiv for tidligere Gjern kommune",
+   :longitude 9.7430866,
+   :latitude 56.2245252,
+   :source :openstreetmap,
+   :homepage "https://gjernarkivet.dk/"}
+  {:name "Lokalhistorisk Samling",
+   :longitude 12.467294,
+   :latitude 55.6827166,
+   :source :openstreetmap,
+   :homepage "https://www.heerup.dk/"}
+  {:name "Lothar Tonemediesamling",
+   :longitude 10.4090255,
+   :latitude 54.8874676,
+   :source :openstreetmap,
+   :homepage "https://www.arremus.dk/afdelinger-1/hammerichs-hus"}
+  {:name "Louisiana Museum of Modern Art",
+   :longitude 12.5428032,
+   :latitude 55.9693569,
+   :source :openstreetmap,
+   :homepage "https://www.louisiana.dk/"}
+  {:name "Ludvig Holberg Museet",
+   :longitude 11.4904109,
+   :latitude 55.5109188,
+   :source :openstreetmap,
+   :homepage "https://www.tersloesegaard.dk/"}
+  {:name "Lumby Mølle",
+   :longitude 10.375006,
+   :latitude 55.4492834,
+   :source :openstreetmap,
+   :homepage "https://www.lumbymolle.dk/"}
+  {:name "Lyngs Mølle",
+   :longitude 8.4524707,
+   :latitude 56.6661081,
+   :source :openstreetmap,
+   :homepage "https://lyngs.dk/index.php/mollen-2012"}
+  {:name "Lystfartøjsmuseet",
+   :longitude 9.8009432,
+   :latitude 56.6378046,
+   :source :openstreetmap,
+   :homepage "https://www.nordmus.dk/lystfartojsmuseet"}
+  {:name "Lyø Skrønemuseum",
+   :longitude 10.154525,
+   :latitude 55.0445553,
+   :source :openstreetmap}
+  {:name "Løkken Redningshus",
+   :longitude 9.7095738,
+   :latitude 57.3734225,
+   :source :openstreetmap,
+   :homepage
+   "https://www.toppenafdanmark.dk/toppen-af-danmark/se-oplev/loekken-redningshus-gdk735176w"}
+  {:name "Løven bilmuseum",
+   :longitude 8.4888028,
+   :latitude 55.9564077,
+   :source :openstreetmap}
+  {:name "M/S Illutron",
+   :longitude 12.6096709,
+   :latitude 55.6946152,
+   :source :openstreetmap,
+   :homepage "http://illutron.dk"}
+  {:name "Madsens Galleri",
+   :longitude 8.406679,
+   :latitude 55.4488595,
+   :source :openstreetmap,
+   :homepage "https://fanoskibs-dragt.dk/"}
+  {:name "Madsens Galleri",
+   :longitude 8.4007263,
+   :latitude 55.4450588,
+   :source :openstreetmap,
+   :homepage "https://madsensgalleri.dk/"}
+  {:name "Majbølle Vindmølle",
+   :longitude 11.7384655,
+   :latitude 54.827911,
+   :source :openstreetmap,
+   :homepage "http://www.majboellemoelle.dk/"}
+  {:name "Makropol",
+   :longitude 12.5586805,
+   :latitude 55.6664937,
+   :source :openstreetmap,
+   :homepage "https://makropol.dk/"}
+  {:name "Malergården",
+   :longitude 11.6229064,
+   :latitude 55.789583,
+   :source :openstreetmap,
+   :homepage "https://vestmuseum.dk/malergaarden/"}
+  {:name "Maleri og Mosaik",
+   :longitude 12.5868479,
+   :latitude 55.7045576,
+   :source :openstreetmap}
+  {:name "MAPS - Museum of Art in Public Spaces",
+   :longitude 12.183337,
+   :latitude 55.4588531,
+   :source :openstreetmap,
+   :homepage "https://mapsmuseum.com/"}
+  {:name "Mariager Museum",
+   :longitude 9.982014,
+   :latitude 56.6501,
+   :source :openstreetmap,
+   :homepage "https://www.mariagermuseum.dk"}
+  {:name "Mariager Saltcenter",
+   :longitude 9.9795033,
+   :latitude 56.6540878,
+   :source :openstreetmap,
+   :homepage "https://saltcenter.dk"}
+  {:name "Marianne Markvad",
+   :longitude 10.227971,
+   :latitude 56.1632144,
+   :source :openstreetmap,
+   :homepage "https://markvad.dk"}
+  {:name "Maribo Frilandsmuseum – De gamle Huse",
+   :longitude 11.4895373,
+   :latitude 54.7699434,
+   :source :openstreetmap,
+   :homepage
+   "https://aabne-samlinger.dk/frilandsmuseet/frilandsmuseet/"}
+  {:name "Marie kirkegaard gallery",
+   :longitude 12.590065,
+   :latitude 55.678572,
+   :source :openstreetmap,
+   :homepage "https://www.macamuseum.com/"}
+  {:name "Marstal Søfartsmuseum",
+   :longitude 10.5211428,
+   :latitude 54.854119,
+   :source :openstreetmap,
+   :homepage "https://www.marstal-maritime-museum.dk/"}
+  {:name "Martinus' Barndomshjem",
+   :longitude 10.1832042,
+   :latitude 57.4753153,
+   :source :openstreetmap,
+   :homepage "http://www.martinussindal.dk/"}
+  {:name "Maskinrummet",
+   :longitude 10.5804803,
+   :latitude 57.7153262,
+   :source :openstreetmap,
+   :homepage "https://maskinrummet-skagen.dk/"}
+  {:name "Medicinsk Museion",
+   :longitude 12.5918956,
+   :latitude 55.6859579,
+   :source :openstreetmap,
+   :homepage "https://www.museion.ku.dk/"}
+  {:name "Mekanisk Museum",
+   :longitude 9.4758428,
+   :latitude 54.902431,
+   :source :openstreetmap,
+   :homepage "https://www.mekanisk-museum.dk/"}
+  {:name "Mellem Slesvigs Grænser",
+   :longitude 9.0930676,
+   :latitude 54.897337,
+   :source :openstreetmap}
+  {:name "Melstedgård",
+   :longitude 14.979317,
+   :latitude 55.2022871,
+   :source :openstreetmap,
+   :homepage "https://gaarden.nu/da/melstedgaard/"}
+  {:name "Memory Lane Rockmuseum",
+   :longitude 10.5317732,
+   :latitude 56.1848326,
+   :source :openstreetmap,
+   :homepage "https://www.memorylanerockmuseum.dk/"}
+  {:name "Memphis Mansion",
+   :longitude 10.0543451,
+   :latitude 56.4333537,
+   :source :openstreetmap,
+   :homepage "https://www.memphismansion.dk/"}
+  {:name "Metalife/Art by Juhl",
+   :longitude 11.7615034,
+   :latitude 55.2302234,
+   :source :openstreetmap,
+   :homepage "https://artbyjuhl.dk/"}
+  {:name "Middelaldercentret",
+   :longitude 11.8406239,
+   :latitude 54.7763357,
+   :source :openstreetmap,
+   :homepage "https://www.middelaldercentret.dk/"}
+  {:name "Middelalderlandsbyen",
+   :longitude 12.4090462,
+   :latitude 55.6328848,
+   :source :openstreetmap,
+   :homepage "http://www.middelalderlandsbyen.dk/"}
+  {:name "Middelfart Museum",
+   :longitude 9.728231,
+   :latitude 55.5062329,
+   :source :openstreetmap,
+   :homepage "https://www.middelfart-museum.dk/"}
+  {:name "Mikro Kunsthal",
+   :longitude 10.3803487,
+   :latitude 55.4077941,
+   :source :openstreetmap,
+   :homepage "https://www.dylancawthorne.com/"}
+  {:name "Militærhistorisk Museum",
+   :longitude 10.6769101,
+   :latitude 56.1947956,
+   :source :openstreetmap}
+  {:name "Mini Citroën Museum",
+   :longitude 8.4673661,
+   :latitude 55.3501388,
+   :source :openstreetmap}
+  {:name "Mini-Museum",
+   :longitude 15.1190941,
+   :latitude 55.0261513,
+   :source :openstreetmap}
+  {:name "Miniseum",
+   :longitude 9.9232571,
+   :latitude 56.6317341,
+   :source :openstreetmap,
+   :homepage "https://www.miniseum.dk/"}
+  {:name "Mississippi Kunst og Kultur",
+   :longitude 8.5368337,
+   :latitude 56.6085768,
+   :source :openstreetmap,
+   :homepage "https://www.mississippi.dk/"}
+  {:name "Modeudstilling",
+   :longitude 10.4894089,
+   :latitude 55.1759454,
+   :source :openstreetmap}
+  {:name "Moesgaard",
+   :longitude 10.2235535,
+   :latitude 56.0887507,
+   :source :openstreetmap,
+   :homepage "https://www.moesgaardmuseum.dk/"}
+  {:name "Moesgård Skovmølle",
+   :longitude 10.2351249,
+   :latitude 56.0845293,
+   :source :openstreetmap,
+   :homepage
+   "https://www.moesgaardmuseum.dk/besoeg-os/arkitektur-og-natur/skovmoellen/"}
+  {:name "Morsø Kunstforening",
+   :longitude 8.862613,
+   :latitude 56.7930987,
+   :source :openstreetmap,
+   :homepage "https://mk61.dk/"}
+  {:name "Morsø Traktormuseum",
+   :longitude 8.6651413,
+   :latitude 56.7801905,
+   :source :openstreetmap,
+   :homepage "https://www.traktormuseum.net/"}
+  {:name "Morten Korch Museet",
+   :longitude 9.2094823,
+   :latitude 56.3674293,
+   :source :openstreetmap,
+   :homepage "http://www.mortenkorchmuseet.dk/"}
+  {:name "Mosaic - Gallery og Cafe",
+   :longitude 12.549609,
+   :latitude 55.671695,
+   :source :openstreetmap,
+   :homepage "https://www.artandcolour.dk/"}
+  {:name "Mosede Fort",
+   :longitude 12.2748673,
+   :latitude 55.5637534,
+   :source :openstreetmap}
+  {:name "Moseløkken Stenbrudsmuseum",
+   :longitude 14.7767034,
+   :latitude 55.2737082,
+   :source :openstreetmap,
+   :homepage "https://moseloekken.dk/"}
+  {:name "Mothsgården",
+   :longitude 12.4946389,
+   :latitude 55.813147,
+   :source :openstreetmap,
+   :homepage "https://museer.rudersdal.dk/rum/temaer/mothsgaarden"}
+  {:name "Munkegård Traktormuseum",
+   :longitude 9.7469398,
+   :latitude 55.0686378,
+   :source :openstreetmap,
+   :homepage "http://munkegaard-traktormuseum.dk"}
+  {:name "Munkeruphus",
+   :longitude 12.3655051,
+   :latitude 56.1095104,
+   :source :openstreetmap}
+  {:name "Museet for Religiøs Kunst",
+   :longitude 8.2963712,
+   :latitude 56.5527472,
+   :source :openstreetmap,
+   :homepage "http://www.mfrk.dk/"}
+  {:name "Museet på Sønderskov",
+   :longitude 9.0377233,
+   :latitude 55.4517808,
+   :source :openstreetmap,
+   :homepage "http://sonderskov.dk/"}
+  {:name "Museet ved Trelleborg",
+   :longitude 11.2718379,
+   :latitude 55.3946121,
+   :source :openstreetmap,
+   :homepage "http://www.vikingeborg.dk/"}
+  {:name "Museum for Forsyning og Bæredygtighed",
+   :longitude 10.2839927,
+   :latitude 57.2212516,
+   :source :openstreetmap,
+   :homepage "https://www.museummoss.dk/"}
+  {:name "Museum For Mænd",
+   :longitude 9.0167015,
+   :latitude 56.8317459,
+   :source :openstreetmap,
+   :homepage "https://www.paaherrensmark.com/museum-for-mnd1"}
+  {:name "Museum for Papirkunst",
+   :longitude 9.621997,
+   :latitude 57.2477515,
+   :source :openstreetmap,
+   :homepage "https://museumforpapirkunst.dk"}
+  {:name "Museum Frello",
+   :longitude 8.4785259,
+   :latitude 55.6201152,
+   :source :openstreetmap}
+  {:name "Museum Jorn",
+   :longitude 9.5583264,
+   :latitude 56.1611514,
+   :source :openstreetmap,
+   :homepage "https://www.museumjorn.dk/"}
+  {:name "Museum Kolding",
+   :longitude 9.4815032,
+   :latitude 55.3561393,
+   :source :openstreetmap,
+   :homepage "https://museumkolding.dk/christiansfeld/"}
+  {:name "Museum Morten Korch",
+   :longitude 9.9826179,
+   :latitude 55.4812302,
+   :source :openstreetmap,
+   :homepage "https://museum-mortenkorch.dk/"}
+  {:name "Museum Ovartaci",
+   :longitude 10.1881818,
+   :latitude 56.1864685,
+   :source :openstreetmap,
+   :homepage "http://www.ovartaci.dk/"}
+  {:name "Museum Polakkasernen",
+   :longitude 11.453828,
+   :latitude 54.6770249,
+   :source :openstreetmap,
+   :homepage "https://polakkasernen.dk/"}
+  {:name "Museum Rebild",
+   :longitude 9.8437991,
+   :latitude 56.8312657,
+   :source :openstreetmap,
+   :homepage "http://www.spillemandsmuseet.dk/"}
+  {:name "Museum Wegner",
+   :longitude 8.8710541,
+   :latitude 54.9363043,
+   :source :openstreetmap,
+   :homepage "https://www.museumwegner.dk/"}
+  {:name "Museum Wegner",
+   :longitude 8.8826841,
+   :latitude 54.9285467,
+   :source :openstreetmap,
+   :homepage "https://www.museumwegner.dk"}
+  {:name "Museum Østjylland",
+   :longitude 10.0407626,
+   :latitude 56.4604221,
+   :source :openstreetmap,
+   :homepage "https://museumoj.randers.dk/museum-oestjylland/"}
+  {:name "Museum Østjylland",
+   :longitude 10.8762129,
+   :latitude 56.4126246,
+   :source :openstreetmap}
+  {:name "Museumsbunkeren på Madvigs Allé",
+   :longitude 12.540836,
+   :latitude 55.6752569,
+   :source :openstreetmap,
+   :homepage
+   "https://stadsarkivet.frederiksberg.dk/brug-stadsarkivet/kommandocentralen-og-bunkeren-paa-madvigs-alle"}
+  {:name "Museumsgården \"På Lynget\"",
+   :longitude 11.032627,
+   :latitude 57.2631697,
+   :source :openstreetmap,
+   :homepage "http://www.laesoe-museum.dk/"}
+  {:name "Museumsgården Karensminde",
+   :longitude 8.8706201,
+   :latitude 55.7578372,
+   :source :openstreetmap,
+   :homepage "https://markmuseum.dk/museumsg%C3%A5rden-karensminde"}
+  {:name "Museumsgården Keldbylille",
+   :longitude 12.3505178,
+   :latitude 54.9697411,
+   :source :openstreetmap,
+   :homepage "https://www.museumsgaarden.dk/"}
+  {:name "Museumshavn",
+   :longitude 10.6625716,
+   :latitude 55.4490786,
+   :source :openstreetmap,
+   :homepage "http://www.fjord-baelt.dk/"}
+  {:name "Museumshuset",
+   :longitude 11.0048705,
+   :latitude 57.2534958,
+   :source :openstreetmap,
+   :homepage "http://www.laesoe-museum.dk/"}
+  {:name "Musikmuseet",
+   :longitude 12.5523771,
+   :latitude 55.682313,
+   :source :openstreetmap}
+  {:name "My Sweet Art",
+   :longitude 12.5703011,
+   :latitude 55.7085785,
+   :source :openstreetmap}
+  {:name "Mårup Galleriet",
+   :longitude 10.5665602,
+   :latitude 55.9458673,
+   :source :openstreetmap}
+  {:name "Møllehuset",
+   :longitude 8.6953726,
+   :latitude 55.1325018,
+   :source :openstreetmap}
+  {:name "Møns Museum",
+   :longitude 12.2890644,
+   :latitude 54.9871307,
+   :source :openstreetmap,
+   :homepage "http://empiregaarden.dk/"}
+  {:name "Mønsted Kalkgruber",
+   :longitude 9.1689272,
+   :latitude 56.4550507,
+   :source :openstreetmap,
+   :homepage "https://www.monsted-kalkgruber.dk/da/"}
+  {:name "Naturama",
+   :longitude 10.6075939,
+   :latitude 55.0639209,
+   :source :openstreetmap,
+   :homepage "https://naturama.dk/"}
+  {:name "NaturBornholm",
+   :longitude 14.9173551,
+   :latitude 55.0641064,
+   :source :openstreetmap,
+   :homepage "http://www.naturbornholm.dk/"}
+  {:name "Naturcenter Skjern Enge",
+   :longitude 8.398499,
+   :latitude 55.9055749,
+   :source :openstreetmap,
+   :homepage "http://skjernaa.info/naturcenter-skjern-enge/"}
+  {:name "Naturhistorie og Palæontologi",
+   :longitude 9.0616726,
+   :latitude 55.3076329,
+   :source :openstreetmap,
+   :homepage "https://msj.dk/gram-lergrav-palaeontologi/"}
+  {:name "Naturhistorisk Museum",
+   :longitude 10.2029066,
+   :latitude 56.1674105,
+   :source :openstreetmap,
+   :homepage "http://www.naturhistoriskmuseum.dk/"}
+  {:name "Naturudstilling",
+   :longitude 8.9349488,
+   :latitude 55.6085959,
+   :source :openstreetmap}
+  {:name "Naturudstilling om Vadehavet",
+   :longitude 8.5364184,
+   :latitude 55.2736353,
+   :source :openstreetmap,
+   :homepage "https://mandoehuset.dk/"}
+  {:name "Nexø Museum",
+   :longitude 15.1341388,
+   :latitude 55.0632158,
+   :source :openstreetmap,
+   :homepage "https://www.nexoemuseum.dk/"}
+  {:name "Nielsen, Bøgh og Folke",
+   :longitude 11.6719983,
+   :latitude 55.9228644,
+   :source :openstreetmap,
+   :homepage "https://www.charlotteboegh.dk/"}
+  {:name "Niemi",
+   :longitude 9.9411622,
+   :latitude 57.0456863,
+   :source :openstreetmap}
+  {:name "Nisseland",
+   :longitude 11.452507,
+   :latitude 55.6226549,
+   :source :openstreetmap,
+   :homepage "https://nisseland.dk/"}
+  {:name "Nivaagaard Teglværks Ringovn",
+   :longitude 12.5153977,
+   :latitude 55.9306786,
+   :source :openstreetmap,
+   :homepage "https://ringovn.dk/"}
+  {:name "Nivaagaards Malerisamling",
+   :longitude 12.5111736,
+   :latitude 55.9271877,
+   :source :openstreetmap,
+   :homepage "https://www.nivaagaard.dk/"}
+  {:name "Nordatlantens Brygge",
+   :longitude 12.5966749,
+   :latitude 55.6775993,
+   :source :openstreetmap,
+   :homepage "https://www.nordatlantens.dk/"}
+  {:name "Nordfyns Museum",
+   :longitude 10.0863542,
+   :latitude 55.5649481,
+   :source :openstreetmap,
+   :homepage "https://www.nordfynsmuseum.dk/"}
+  {:name "Nordjyllands kunstnerværksted",
+   :longitude 9.8859263,
+   :latitude 57.0548051,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kunsthalnord.dk/nordjyllands-kunstnervaerksted.aspx"}
+  {:name "Nordsjællands folkemuseum",
+   :longitude 12.308847,
+   :latitude 55.9337171,
+   :source :openstreetmap}
+  {:name "north urban art studio",
+   :longitude 9.9086085,
+   :latitude 57.0551224,
+   :source :openstreetmap}
+  {:name "Ny Carlsberg Glyptotek",
+   :longitude 12.5719275,
+   :latitude 55.6725292,
+   :source :openstreetmap,
+   :homepage "https://www.glyptoteket.dk/"}
+  {:name "Nyboder Mindestuer",
+   :longitude 12.5880529,
+   :latitude 55.6873712,
+   :source :openstreetmap,
+   :homepage "https://nybodersmindestuer.dk"}
+  {:name "Nygaards Afrika",
+   :longitude 8.344996,
+   :latitude 55.8053837,
+   :source :openstreetmap,
+   :homepage "https://www.nygaardsafrika.dk/"}
+  {:name "Nykøbing F Brandmuseum",
+   :longitude 11.8709906,
+   :latitude 54.7632834,
+   :source :openstreetmap,
+   :homepage "https://www.brandmuseet.dk/"}
+  {:name "Nykøbing Sj. Psykiatriske Museum",
+   :longitude 11.6607277,
+   :latitude 55.9092571,
+   :source :openstreetmap,
+   :homepage "https://www.sns-museum.dk/"}
+  {:name "Nymindegab Museum",
+   :longitude 8.1976395,
+   :latitude 55.8173177,
+   :source :openstreetmap,
+   :homepage "https://vardemuseerne.dk/museum/nymindegab/"}
+  {:name "Nymindegab Redningsstation",
+   :longitude 8.189971,
+   :latitude 55.8108806,
+   :source :openstreetmap}
+  {:name "Nyord Lodseri",
+   :longitude 12.1918385,
+   :latitude 55.0425019,
+   :source :openstreetmap,
+   :homepage "https://museerne.dk/pages/moens-museum-empiregaarden"}
+  {:name "Nærum Sprøjte",
+   :longitude 12.5348296,
+   :latitude 55.8200034,
+   :source :openstreetmap}
+  {:name "Næstved Automobilmuseum",
+   :longitude 11.7524906,
+   :latitude 55.2277692,
+   :source :openstreetmap,
+   :homepage "https://www.naestvedautomobilmuseum.dk/"}
+  {:name "Næstved Kunstforening",
+   :longitude 11.7571071,
+   :latitude 55.2293156,
+   :source :openstreetmap,
+   :homepage "http://www.naestved-museum.dk/"}
+  {:name "Nørre Vosborg",
+   :longitude 8.331285,
+   :latitude 56.3266311,
+   :source :openstreetmap,
+   :homepage "https://nrvosborg.dk/"}
+  {:name "Odder Museum",
+   :longitude 10.1387855,
+   :latitude 55.9704146,
+   :source :openstreetmap,
+   :homepage "https://www.oddermuseum.dk/"}
+  {:name "Odins Odense",
+   :longitude 10.3288482,
+   :latitude 55.4275768,
+   :source :openstreetmap,
+   :homepage "https://www.odinsodense.dk/"}
+  {:name "Odsherred Brandmuseum",
+   :longitude 11.5098384,
+   :latitude 55.8112796,
+   :source :openstreetmap,
+   :homepage "https://odsherredbrandmuseum.dk/"}
+  {:name "Odsherreds Kunstmuseum",
+   :longitude 11.5051429,
+   :latitude 55.8096787,
+   :source :openstreetmap,
+   :homepage "https://www.vestmuseum.dk/Default.aspx?AreaID=9"}
+  {:name "Oldemorstoft Museum Sønderjylland",
+   :longitude 9.3639714,
+   :latitude 54.826555,
+   :source :openstreetmap,
+   :homepage "https://www.oldemorstoft.dk/"}
+  {:name "Oldsagssamlingen Broholm",
+   :longitude 10.727744,
+   :latitude 55.1368349,
+   :source :openstreetmap,
+   :homepage
+   "https://www.svendborgmuseum.dk/svendborg-museum/oldsagssamlingen-pa-broholm-beskrivelse"}
+  {:name "Oldtidsmuseet i Stenholt Skov",
+   :longitude 9.3467134,
+   :latitude 56.1909916,
+   :source :openstreetmap}
+  {:name "Ollerup Bunker Museum",
+   :longitude 10.5127952,
+   :latitude 55.0701208,
+   :source :openstreetmap,
+   :homepage "https://ollerupbunkeren.dk"}
+  {:name "Oluf Høst Museet",
+   :longitude 14.9664742,
+   :latitude 55.2134224,
+   :source :openstreetmap,
+   :homepage "https://ohmus.dk/"}
+  {:name "Ordrupgaard",
+   :longitude 12.5629601,
+   :latitude 55.7671888,
+   :source :openstreetmap,
+   :homepage "https://www.ordrupgaard.dk"}
+  {:name "Orgelmuseum",
+   :longitude 11.7285138,
+   :latitude 54.6680762,
+   :source :openstreetmap,
+   :homepage "https://orgelmuseum.dk/"}
+  {:name "Otterup Museum",
+   :longitude 10.401192,
+   :latitude 55.5186396,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitnordfyn.com/nordfyn/explore/otterup-museum-gdk623917"}
+  {:name "Out of my Mind",
+   :longitude 12.5696713,
+   :latitude 55.6936628,
+   :source :openstreetmap}
+  {:name "Ovartaci Fields",
+   :longitude 10.1754181,
+   :latitude 56.1927918,
+   :source :openstreetmap}
+  {:name "Overgaden",
+   :longitude 12.5901952,
+   :latitude 55.6724683,
+   :source :openstreetmap,
+   :homepage "https://overgaden.org/"}
+  {:name "OXA",
+   :longitude 12.6074045,
+   :latitude 55.6877808,
+   :source :openstreetmap,
+   :homepage "https://www.oxa.dk/"}
+  {:name "Pansermuseet Oksbøl",
+   :longitude 8.2930812,
+   :latitude 55.6212586,
+   :source :openstreetmap,
+   :homepage "https://www.pansermuseet.dk/"}
+  {:name "Panzermuseum East",
+   :longitude 11.5053584,
+   :latitude 55.3491987,
+   :source :openstreetmap,
+   :homepage "https://panzermuseumeast.dk/"}
+  {:name "Papirmuseet",
+   :longitude 9.5553552,
+   :latitude 56.1706292,
+   :source :openstreetmap,
+   :homepage "http://www.museumsilkeborg.dk/velkommen-til-papirmuseet"}
+  {:name "Papirmuseets By",
+   :longitude 9.57834,
+   :latitude 54.907051,
+   :source :openstreetmap,
+   :homepage "https://www.karenmarieklip.dk/"}
+  {:name "Perron1",
+   :longitude 9.92623,
+   :latitude 56.043585,
+   :source :openstreetmap,
+   :homepage "https://www.museumskanderborg.dk/perron-1"}
+  {:name "Politihistorisk Museum",
+   :longitude 12.5608467,
+   :latitude 55.6900307,
+   :source :openstreetmap}
+  {:name "Politihistorisk Samling",
+   :longitude 11.970577,
+   :latitude 55.4334323,
+   :source :openstreetmap,
+   :homepage "https://politihistorisksamling.dk/"}
+  {:name "Poly",
+   :longitude 11.9000781,
+   :latitude 55.0126359,
+   :source :openstreetmap}
+  {:name "Porten i Saarup",
+   :longitude 10.0862807,
+   :latitude 55.2095446,
+   :source :openstreetmap,
+   :homepage "https://www.portenisarup.dk/"}
+  {:name "Poul la Cour Museet",
+   :longitude 9.0996341,
+   :latitude 55.4674717,
+   :source :openstreetmap,
+   :homepage "https://poullacour.dk/"}
+  {:name "Provstgaards Hus",
+   :longitude 8.4062468,
+   :latitude 55.9195886,
+   :source :openstreetmap,
+   :homepage "https://www.levendehistorie.dk/om-provstgaards-hus-1"}
+  {:name "Præstbjerg Naturcenter - Udstilling",
+   :longitude 8.6199877,
+   :latitude 56.2305249,
+   :source :openstreetmap,
+   :homepage
+   "https://natur.herning.dk/brug-og-oplev-naturen/naturskoler-og-centre/praestbjerg-naturcenter"}
+  {:name "Psykiatrisk Museum Oringe",
+   :longitude 11.9108307,
+   :latitude 54.9987272,
+   :source :openstreetmap}
+  {:name "Publikumscenter Vejlerne",
+   :longitude 9.1015635,
+   :latitude 57.0330895,
+   :source :openstreetmap,
+   :homepage "https://www.avjf.dk/avjnf/naturomraader/vejlerne/"}
+  {:name "Rakkerhuset",
+   :longitude 8.9168928,
+   :latitude 56.2657785,
+   :source :openstreetmap}
+  {:name "Randbøldalmuseet",
+   :longitude 9.2657586,
+   :latitude 55.6922878,
+   :source :openstreetmap}
+  {:name "Raschgaarden",
+   :longitude 9.9023476,
+   :latitude 57.0733112,
+   :source :openstreetmap,
+   :homepage "https://sundbysamlingerne.dk/"}
+  {:name "Ravhuset",
+   :longitude 8.2175965,
+   :latitude 56.7060148,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visit-nordvestkysten.com/northwest-coast/whatson/rav-huset-thyboron-gdk1122277"}
+  {:name "Ravning Gamle Station",
+   :longitude 9.3474472,
+   :latitude 55.6749703,
+   :source :openstreetmap}
+  {:name "Rebildcentret med Thingbæk Kalkminer",
+   :longitude 9.8118405,
+   :latitude 56.8322614,
+   :source :openstreetmap}
+  {:name "Redningshuset",
+   :longitude 10.3889482,
+   :latitude 57.6614398,
+   :source :openstreetmap}
+  {:name "Redningsstation",
+   :longitude 11.0158492,
+   :latitude 57.3069577,
+   :source :openstreetmap}
+  {:name "Reersø Amerikanerbil Museum",
+   :longitude 11.1109689,
+   :latitude 55.5260601,
+   :source :openstreetmap,
+   :homepage "http://mikael83.wix.com/reersoeamerikaner"}
+  {:name "Reersø Havnemuseum",
+   :longitude 11.1174698,
+   :latitude 55.5172573,
+   :source :openstreetmap}
+  {:name "Remisen Dokkedal",
+   :longitude 10.2531109,
+   :latitude 56.9031965,
+   :source :openstreetmap,
+   :homepage "https://www.remisen-dokkedal.dk/"}
+  {:name "Reventlow-Museet Pederstrup",
+   :longitude 11.2655076,
+   :latitude 54.8959281,
+   :source :openstreetmap,
+   :homepage "https://museumlollandfalster.dk/pederstrup/"}
+  {:name "Ribe Kunstmuseum",
+   :longitude 8.7675976,
+   :latitude 55.3292228,
+   :source :openstreetmap,
+   :homepage "https://ribekunstmuseum.dk/"}
+  {:name "Ringe Museum",
+   :longitude 10.4781173,
+   :latitude 55.2385582,
+   :source :openstreetmap,
+   :homepage "https://ringemuseum.dk/"}
+  {:name "Ringkøbing Museum",
+   :longitude 8.2473291,
+   :latitude 56.0882392,
+   :source :openstreetmap}
+  {:name "Ringridermuseet",
+   :longitude 9.787767,
+   :latitude 54.9109341,
+   :source :openstreetmap,
+   :homepage "http://www.ringridermuseet.dk/"}
+  {:name "Ringsted Radiomuseum",
+   :longitude 11.7922457,
+   :latitude 55.4430125,
+   :source :openstreetmap,
+   :homepage "http://www.ringsted-radiomuseum.dk/"}
+  {:name "Ripley's Believe It or Not",
+   :longitude 12.5699496,
+   :latitude 55.6763244,
+   :source :openstreetmap,
+   :homepage "https://www.ripleys.com/copenhagen/hc-andersen/"}
+  {:name "Rockmuseet",
+   :longitude 12.0825543,
+   :latitude 55.6281174,
+   :source :openstreetmap,
+   :homepage "https://rockmuseet.dk/"}
+  {:name "Roskilde Gasværk",
+   :longitude 12.0783467,
+   :latitude 55.6483845,
+   :source :openstreetmap}
+  {:name "Roskilde Museum",
+   :longitude 12.0836581,
+   :latitude 55.6424393,
+   :source :openstreetmap,
+   :homepage "https://www.samtidskunst.dk/"}
+  {:name "Roskilde Museum - Tadre Mølle",
+   :longitude 11.8130789,
+   :latitude 55.6146442,
+   :source :openstreetmap,
+   :homepage "https://tadremølle.dk/"}
+  {:name "Royal Stage",
+   :longitude 12.2990499,
+   :latitude 55.9210648,
+   :source :openstreetmap,
+   :homepage "https://royalstage.dk/"}
+  {:name "Rudkøbing Byhistorisk Arkiv",
+   :longitude 10.7086804,
+   :latitude 54.9384956,
+   :source :openstreetmap}
+  {:name "Rudolph Tegners Museum",
+   :longitude 12.4007748,
+   :latitude 56.086393,
+   :source :openstreetmap,
+   :homepage "https://www.rudolphtegner.dk/"}
+  {:name "Rum46",
+   :longitude 10.2117735,
+   :latitude 56.1602426,
+   :source :openstreetmap,
+   :homepage "https://www.annikanuttallgallery.com/"}
+  {:name "Rungstedlund",
+   :longitude 12.5435539,
+   :latitude 55.8833797,
+   :source :openstreetmap,
+   :homepage "http://blixen.dk/"}
+  {:name "Rødhusgården Galleri",
+   :longitude 9.5726538,
+   :latitude 57.2180183,
+   :source :openstreetmap}
+  {:name "Rønnebæksholm",
+   :longitude 11.7943427,
+   :latitude 55.2201507,
+   :source :openstreetmap}
+  {:name "S/I Flower of Life Academy",
+   :longitude 10.8776322,
+   :latitude 55.0296197,
+   :source :openstreetmap}
+  {:name "Sacre Bleu",
+   :longitude 11.9141699,
+   :latitude 55.0074997,
+   :source :openstreetmap}
+  {:name "Sagnlandet Lejre",
+   :longitude 11.9455337,
+   :latitude 55.6179619,
+   :source :openstreetmap,
+   :homepage "https://www.sagnlandet.dk/"}
+  {:name "Saltholms Museum",
+   :longitude 12.7465682,
+   :latitude 55.6650888,
+   :source :openstreetmap}
+  {:name "Samsø Landbrugsmuseum",
+   :longitude 10.5961714,
+   :latitude 55.796811,
+   :source :openstreetmap,
+   :homepage "https://samsolandbrugsmuseum.dk/"}
+  {:name "Samsø Museum",
+   :longitude 10.5914722,
+   :latitude 55.8341135,
+   :source :openstreetmap,
+   :homepage "https://www.samsoemuseum.dk/"}
+  {:name "Samsø Tekniske Museum",
+   :longitude 10.5567909,
+   :latitude 55.8013558,
+   :source :openstreetmap,
+   :homepage "http://samsoetekniskemuseum.dk/"}
+  {:name "Sanne Werner Atelier-Galleriet",
+   :longitude 12.055888,
+   :latitude 55.0442214,
+   :source :openstreetmap,
+   :homepage "https://sannewerner.dk/atelier-galleriet"}
+  {:name "Se!",
+   :longitude 10.2055802,
+   :latitude 56.1423431,
+   :source :openstreetmap}
+  {:name "Secher Scott",
+   :longitude 12.5880481,
+   :latitude 55.6819051,
+   :source :openstreetmap,
+   :homepage "https://gallerikant.dk/"}
+  {:name "Sejerø Kulturhus og Museum",
+   :longitude 11.1437178,
+   :latitude 55.8830749,
+   :source :openstreetmap,
+   :homepage "https://sejero.dk/oplevelser/kulturhus-koebmandsmuseum/"}
+  {:name "Selsø Slot",
+   :longitude 12.0109144,
+   :latitude 55.7410618,
+   :source :openstreetmap,
+   :homepage "https://www.selsoe.dk/"}
+  {:name "Signe Kejlbo",
+   :longitude 12.5396221,
+   :latitude 55.6663284,
+   :source :openstreetmap}
+  {:name "Silkeborg Bunkermuseum",
+   :longitude 9.5236947,
+   :latitude 56.1526912,
+   :source :openstreetmap,
+   :homepage "https://silkeborgbunkermuseum.dk/"}
+  {:name "Sillerup Mølle",
+   :longitude 9.5758307,
+   :latitude 55.3106167,
+   :source :openstreetmap,
+   :homepage "http://www.sillerupmoelle.dk"}
+  {:name "Simian",
+   :longitude 12.5796374,
+   :latitude 55.6288775,
+   :source :openstreetmap,
+   :homepage "https://www.ssiimmiiaann.org/"}
+  {:name "Sjællands Veteran Traktor Klub",
+   :longitude 12.1072632,
+   :latitude 55.4252975,
+   :source :openstreetmap,
+   :homepage "https://www.svtk.dk/"}
+  {:name "Skagen Naturhistoriske Museum",
+   :longitude 10.537829,
+   :latitude 57.7198915,
+   :source :openstreetmap}
+  {:name "Skagen Odde Naturcenter",
+   :longitude 10.5955176,
+   :latitude 57.7400129,
+   :source :openstreetmap,
+   :homepage "https://www.skagen-natur.dk/"}
+  {:name "Skamlingsbanken Besøgscenter",
+   :longitude 9.5665062,
+   :latitude 55.4179706,
+   :source :openstreetmap,
+   :homepage
+   "https://museumkolding.dk/skamlingsbanken/om-skamlingsbanken/"}
+  {:name "Skanderborg Bunkerne",
+   :longitude 9.9178273,
+   :latitude 56.0216214,
+   :source :openstreetmap,
+   :homepage "https://www.museumskanderborg.dk/skanderborg-bunkerne-1"}
+  {:name "Skarrild-Karstoft Museum og Lokalarkiv",
+   :longitude 8.8982851,
+   :latitude 55.9764275,
+   :source :openstreetmap}
+  {:name "Skelby Galleri",
+   :longitude 11.9028697,
+   :latitude 54.634229,
+   :source :openstreetmap}
+  {:name "Skenkelsø Mølle",
+   :longitude 12.1630545,
+   :latitude 55.8033252,
+   :source :openstreetmap,
+   :homepage
+   "http://www.egedalarkiverogmuseum.dk/index.php/olstykke/skenkelso-molle-museum"}
+  {:name "Skibsmotormuseum",
+   :longitude 12.376971,
+   :latitude 55.2551095,
+   :source :openstreetmap}
+  {:name "Skitsesamling Hofmansgave",
+   :longitude 10.4819232,
+   :latitude 55.5370966,
+   :source :openstreetmap,
+   :homepage "https://www.hofmansgave.dk/besoeg/skitsesamling.aspx"}
+  {:name "Skive Museum",
+   :longitude 9.0365302,
+   :latitude 56.5693816,
+   :source :openstreetmap,
+   :homepage "https://museumsalling.dk/kom-og-besog-os/skivemuseum/"}
+  {:name "Skjern Reberbane",
+   :longitude 8.496508,
+   :latitude 55.9498241,
+   :source :openstreetmap,
+   :homepage
+   "https://ringkobingfjordmuseer.dk/museer/skjern-reberbane/"}
+  {:name "Skovgaard Museet",
+   :longitude 9.4116216,
+   :latitude 56.4504044,
+   :source :openstreetmap,
+   :homepage "https://www.skovgaardmuseet.dk/"}
+  {:name "Skovhuset",
+   :longitude 12.3680155,
+   :latitude 55.775454,
+   :source :openstreetmap,
+   :homepage "http://www.skovhus-kunst.dk/"}
+  {:name "Skovsgaard Mølle- og Bagerimuseum",
+   :longitude 11.4841291,
+   :latitude 55.3429185,
+   :source :openstreetmap,
+   :homepage "https://skovsgaardbagerimuseum.dk/"}
+  {:name "Skovsgård",
+   :longitude 10.7509849,
+   :latitude 54.8450531,
+   :source :openstreetmap,
+   :homepage "https://skovsgaard.dn.dk/"}
+  {:name "Skulpturgalleriet",
+   :longitude 8.1837718,
+   :latitude 56.277918,
+   :source :openstreetmap}
+  {:name "Skulpturpark Billund",
+   :longitude 9.1251559,
+   :latitude 55.7306772,
+   :source :openstreetmap,
+   :homepage "https://skulpturpark-billund.dk/"}
+  {:name "Skulpturværkstedet",
+   :longitude 10.6393076,
+   :latitude 55.8048928,
+   :source :openstreetmap,
+   :homepage "http://kunsto.dk/skulpturvaerksteder/"}
+  {:name "Skælskør Bymuseum",
+   :longitude 11.2923556,
+   :latitude 55.2535685,
+   :source :openstreetmap}
+  {:name "Skærbæk Fiskerisamling",
+   :longitude 9.628474,
+   :latitude 55.5135261,
+   :source :openstreetmap}
+  {:name "Skærbæk Uldspinderi Museum",
+   :longitude 8.7640231,
+   :latitude 55.1597746,
+   :source :openstreetmap}
+  {:name "Skærum Mølles Teglværksmuseum",
+   :longitude 8.3511049,
+   :latitude 56.3345848,
+   :source :openstreetmap}
+  {:name
+   "Slagmarken ved Nyborg - Danmark og Sverige 1659 /v. Nyborg Slot",
+   :longitude 10.7651232,
+   :latitude 55.3209219,
+   :source :openstreetmap}
+  {:name "Slagtermuseet i Roskilde",
+   :longitude 12.0759871,
+   :latitude 55.6399825,
+   :source :openstreetmap,
+   :homepage "https://roskilde-slagtermuseum.dk/"}
+  {:name "Slesvigske Vognsamling",
+   :longitude 9.4739003,
+   :latitude 55.2525779,
+   :source :openstreetmap,
+   :homepage "http://www.museum-sonderjylland.dk/"}
+  {:name "Sletterhage Fyr",
+   :longitude 10.5128991,
+   :latitude 56.0950816,
+   :source :openstreetmap}
+  {:name "Slotfelt",
+   :longitude 8.8131819,
+   :latitude 54.93754,
+   :source :openstreetmap,
+   :homepage "http://www.slotfelt.dk/"}
+  {:name "Smedenes Hus",
+   :longitude 8.3876422,
+   :latitude 56.0266114,
+   :source :openstreetmap,
+   :homepage "http://6940.dk/foreninger-fonde/smedenes-hus"}
+  {:name "SMK Thy",
+   :longitude 8.4690558,
+   :latitude 56.7168896,
+   :source :openstreetmap,
+   :homepage "https://www.smkthy.dk/"}
+  {:name "Sneglehuset",
+   :longitude 8.2006227,
+   :latitude 56.6962318,
+   :source :openstreetmap,
+   :homepage "https://www.sneglehuset.dk/"}
+  {:name "Socialmuseum",
+   :longitude 10.0398532,
+   :latitude 56.2469733,
+   :source :openstreetmap,
+   :homepage "http://www.hinneruparkiv.dk/fattighuset-i-norring/"}
+  {:name "Sognefogedgården",
+   :longitude 10.504806,
+   :latitude 57.4478452,
+   :source :openstreetmap,
+   :homepage "https://www.sognefogedgården.dk/"}
+  {:name "Sommer's Automobile Museum",
+   :longitude 12.5299202,
+   :latitude 55.8183318,
+   :source :openstreetmap,
+   :homepage "http://sommersautomobilmuseum.dk/"}
+  {:name "Sophienholm",
+   :longitude 12.4576072,
+   :latitude 55.7753682,
+   :source :openstreetmap,
+   :homepage "https://sophienholm.dk/"}
+  {:name "Sorø Kunstmuseum",
+   :longitude 11.5557918,
+   :latitude 55.4327826,
+   :source :openstreetmap,
+   :homepage "http://www.sorokunstmuseum.dk/"}
+  {:name "Souvenariet",
+   :longitude 10.854957,
+   :latitude 55.0020381,
+   :source :openstreetmap,
+   :homepage "http://www.souvenariet.dk/"}
+  {:name "SPACE / 宇宙",
+   :longitude 9.4613534,
+   :latitude 55.4881535,
+   :source :openstreetmap,
+   :homepage "https://spacegallery.dk/"}
+  {:name "Spejdermuseet",
+   :longitude 12.6023368,
+   :latitude 55.6752141,
+   :source :openstreetmap,
+   :homepage "http://spejdermuseet.dk/"}
+  {:name "Spejdermuseet Århus",
+   :longitude 10.1518034,
+   :latitude 56.1060282,
+   :source :openstreetmap,
+   :homepage "https://www.spejdermuseetaarhus.dk/"}
+  {:name "Spilhusmuseum",
+   :longitude 8.3378388,
+   :latitude 56.9302402,
+   :source :openstreetmap}
+  {:name "Spilmuseet",
+   :longitude 9.1636854,
+   :latitude 56.1438211,
+   :source :openstreetmap}
+  {:name "Spinderihallerne Vejlemuseerne",
+   :longitude 9.5308769,
+   :latitude 55.7140583,
+   :source :openstreetmap}
+  {:name "Sporvejsmuseet Skjoldenæsholm",
+   :longitude 11.8440447,
+   :latitude 55.5335732,
+   :source :openstreetmap,
+   :homepage "https://www.sporvejsmuseet.dk"}
+  {:name "Springbrættet 6a",
+   :longitude 12.5413886,
+   :latitude 55.6998515,
+   :source :openstreetmap,
+   :homepage "http://springbraettet6a.dk/"}
+  {:name "Stenaldercenter Ertebølle",
+   :longitude 9.1780143,
+   :latitude 56.810017,
+   :source :openstreetmap,
+   :homepage "https://www.vesthimmerlandsmuseum.dk/Stenaldercenter"}
+  {:name "Stenvad Mosebrugscenter",
+   :longitude 10.6336238,
+   :latitude 56.4625209,
+   :source :openstreetmap,
+   :homepage "https://www.stenvadmosebrugscenter.dk/"}
+  {:name "Stevns Folklore Forening",
+   :longitude 12.3892207,
+   :latitude 55.3128692,
+   :source :openstreetmap,
+   :homepage "https://www.folkloremuseum.dk/"}
+  {:name "Stevns Klint Experience",
+   :longitude 12.4019119,
+   :latitude 55.2595074,
+   :source :openstreetmap,
+   :homepage "https://stevnsklint.dk/"}
+  {:name "Stiftsmuseet Maribo",
+   :longitude 11.5022095,
+   :latitude 54.7763277,
+   :source :openstreetmap,
+   :homepage
+   "https://www.aabne-samlinger.dk/lollandfalster/stiftsmuseet/"}
+  {:name "Storm P. Museet",
+   :longitude 12.53197,
+   :latitude 55.6744243,
+   :source :openstreetmap,
+   :homepage "https://museetalhambra.dk"}
+  {:name "Stormflodsmuseet",
+   :longitude 11.2228593,
+   :latitude 54.7559573,
+   :source :openstreetmap,
+   :homepage "https://1872stormflod.dk/"}
+  {:name "Straagaards Smedje",
+   :longitude 9.4041708,
+   :latitude 54.9372365,
+   :source :openstreetmap,
+   :homepage "https://kliplevarkiv.dk/"}
+  {:name "Strandingsmuseum St. George",
+   :longitude 8.1186265,
+   :latitude 56.3732519,
+   :source :openstreetmap,
+   :homepage "https://www.strandingsmuseet.dk/"}
+  {:name "Strib Automobilmuseum",
+   :longitude 9.7781327,
+   :latitude 55.5305264,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitmiddelfart.dk/turist-information/planlaeg-din-tur/strib-automobilmuseum-gdk614359"}
+  {:name "Struer Museum",
+   :longitude 8.5998803,
+   :latitude 56.4901187,
+   :source :openstreetmap,
+   :homepage "https://www.struermuseum.dk/"}
+  {:name "Strøjer Samlingen",
+   :longitude 10.0119066,
+   :latitude 55.2892143,
+   :source :openstreetmap}
+  {:name "Stubbekøbing Museum",
+   :longitude 12.0382181,
+   :latitude 54.8900991,
+   :source :openstreetmap}
+  {:name "Støberihallen",
+   :longitude 12.2992861,
+   :latitude 55.9287553,
+   :source :openstreetmap,
+   :homepage "https://www.folkemuseet.dk/"}
+  {:name "Sulelængen i Magtenbølle",
+   :longitude 10.1717139,
+   :latitude 55.377096,
+   :source :openstreetmap}
+  {:name "Sundsøre Pakhus",
+   :longitude 9.1728584,
+   :latitude 56.7092936,
+   :source :openstreetmap}
+  {:name "Sæby Museum",
+   :longitude 10.521146,
+   :latitude 57.3354127,
+   :source :openstreetmap}
+  {:name "Søby Brunkulsmuseum",
+   :longitude 9.0504993,
+   :latitude 56.0435337,
+   :source :openstreetmap,
+   :homepage "https://brunkulsmuseum.dk/"}
+  {:name "Søbygaard",
+   :longitude 10.282693,
+   :latitude 54.9197494,
+   :source :openstreetmap,
+   :homepage "https://soebygaardsvenner.dk/index.php"}
+  {:name "Sønderborg Slot",
+   :longitude 9.7839292,
+   :latitude 54.9068898,
+   :source :openstreetmap,
+   :homepage "https://msj.dk/soenderborg-slot/"}
+  {:name "Sønderho Gammel Redningstation",
+   :longitude 8.460404,
+   :latitude 55.3483684,
+   :source :openstreetmap}
+  {:name "Sønderjyllands Radiomuseum",
+   :longitude 9.8054006,
+   :latitude 54.9076032,
+   :source :openstreetmap,
+   :homepage "https://www.soenderjyllands-radiomuseum.dk/"}
+  {:name "Søren Solkær",
+   :longitude 12.5454118,
+   :latitude 55.6645089,
+   :source :openstreetmap}
+  {:name "Tandslet Transformatormuseum",
+   :longitude 9.9774978,
+   :latitude 54.9256735,
+   :source :openstreetmap}
+  {:name "Tarp Bunkermuseum",
+   :longitude 8.4847901,
+   :latitude 55.517961,
+   :source :openstreetmap,
+   :homepage "http://www.bunker75665.dk/"}
+  {:name "Teatermuseet",
+   :longitude 12.5786288,
+   :latitude 55.6747822,
+   :source :openstreetmap,
+   :homepage "https://www.teatermuseet.dk/"}
+  {:name "Teddy Bear Art Museum",
+   :longitude 9.1169935,
+   :latitude 55.7314109,
+   :source :openstreetmap,
+   :homepage "https://teddybearartmuseum.dk/"}
+  {:name "Tekstilmuseet",
+   :longitude 8.963265,
+   :latitude 56.136284,
+   :source :openstreetmap,
+   :homepage "https://museummidtjylland.dk/"}
+  {:name "The Morgan Garage",
+   :longitude 10.6448003,
+   :latitude 55.8642483,
+   :source :openstreetmap,
+   :homepage "https://www.themorgangarage.com/"}
+  {:name "The Mystery of Banksy \"A Genius Mind\"",
+   :longitude 12.5639786,
+   :latitude 55.7095499,
+   :source :openstreetmap,
+   :homepage "https://www.mystery-banksy.dk/"}
+  {:name "The old Boat House",
+   :longitude 8.5987803,
+   :latitude 57.1120636,
+   :source :openstreetmap}
+  {:name "The Wind Museum",
+   :longitude 8.4157244,
+   :latitude 56.693219,
+   :source :openstreetmap}
+  {:name "Them Museum",
+   :longitude 9.5508945,
+   :latitude 56.0948603,
+   :source :openstreetmap}
+  {:name "Thinghuset",
+   :longitude 8.3206912,
+   :latitude 56.7621184,
+   :source :openstreetmap}
+  {:name "Thisted Museum",
+   :longitude 8.6903228,
+   :latitude 56.9542048,
+   :source :openstreetmap,
+   :homepage "https://museumthy.dk/afdelinger/thisted.aspx"}
+  {:name "Thorsbro Vandværk Museum",
+   :longitude 12.2715162,
+   :latitude 55.6220081,
+   :source :openstreetmap}
+  {:name "Thorsvang - Danmarks Samlermuseum",
+   :longitude 12.272907,
+   :latitude 54.9780474,
+   :source :openstreetmap,
+   :homepage "https://www.thorsvangsamlermuseum.dk/"}
+  {:name "Thriges Kraftcentral",
+   :longitude 10.3883752,
+   :latitude 55.406345,
+   :source :openstreetmap,
+   :homepage "https://museum.odense.dk/thrigeskraftcentral"}
+  {:name "Thunø Museum",
+   :longitude 10.4436361,
+   :latitude 55.9489358,
+   :source :openstreetmap}
+  {:name "Til Værks",
+   :longitude 12.5867478,
+   :latitude 55.6988226,
+   :source :openstreetmap,
+   :homepage "https://tilvaerks.com"}
+  {:name "TILGANG",
+   :longitude 9.9099429,
+   :latitude 57.0470664,
+   :source :openstreetmap}
+  {:name "Tinghuset",
+   :longitude 9.6135719,
+   :latitude 55.9754585,
+   :source :openstreetmap,
+   :homepage "https://braedstrup-kunstforening.dk/"}
+  {:name "Tirpitz",
+   :longitude 8.172141,
+   :latitude 55.5508562,
+   :source :openstreetmap,
+   :homepage "https://vardemuseerne.dk/museum/tirpitz/"}
+  {:name "Tobaksladen",
+   :longitude 10.8408743,
+   :latitude 54.9739848,
+   :source :openstreetmap,
+   :homepage
+   "https://udinaturen.dk/facilitet/information/?id=c0f7229c-505d-11ed-a594-0672519e6b99"}
+  {:name "Toftekærgård Lokalhistorisk Samling",
+   :longitude 12.3320127,
+   :latitude 55.6611332,
+   :source :openstreetmap}
+  {:name "Toftum Skole",
+   :longitude 8.5555723,
+   :latitude 55.1653075,
+   :source :openstreetmap}
+  {:name "Tofu space",
+   :longitude 12.5774625,
+   :latitude 55.6778504,
+   :source :openstreetmap,
+   :homepage "https://denkongeligesamling.dk/christiansborg-slot/"}
+  {:name "Traktormuseum Vestjylland",
+   :longitude 8.4173887,
+   :latitude 56.5532129,
+   :source :openstreetmap,
+   :homepage "https://traktormuseumvestjylland.dk/"}
+  {:name "Tranekær Slotsmølle",
+   :longitude 10.8597452,
+   :latitude 55.0110301,
+   :source :openstreetmap,
+   :homepage "https://www.slotsmoelle.dk/"}
+  {:name "Transformertårn i Bandsbøl",
+   :longitude 8.3505685,
+   :latitude 55.856796,
+   :source :openstreetmap}
+  {:name "Trapholt Museet",
+   :longitude 9.5321635,
+   :latitude 55.4994465,
+   :source :openstreetmap,
+   :homepage "https://www.trapholt.dk/"}
+  {:name "Trehøje museum",
+   :longitude 8.5652152,
+   :latitude 56.198772,
+   :source :openstreetmap,
+   :homepage "http://www.trehoje-museum.dk/"}
+  {:name "Try Museum",
+   :longitude 10.2222198,
+   :latitude 57.1420899,
+   :source :openstreetmap}
+  {:name "Træmuseet",
+   :longitude 8.9324671,
+   :latitude 56.6523926,
+   :source :openstreetmap,
+   :homepage "https://www.traemuseet.dk/"}
+  {:name "Træskomuseum",
+   :longitude 9.7018259,
+   :latitude 56.0760076,
+   :source :openstreetmap,
+   :homepage "http://www.museumskanderborg.dk/Forside-210.aspx"}
+  {:name "Tun-museet",
+   :longitude 11.3689943,
+   :latitude 55.9714223,
+   :source :openstreetmap}
+  {:name "Tvindkraft",
+   :longitude 8.2801277,
+   :latitude 56.2559553,
+   :source :openstreetmap,
+   :homepage "https://www.tvindkraft.dk/"}
+  {:name "Tvis Mølle",
+   :longitude 8.6870308,
+   :latitude 56.3503149,
+   :source :openstreetmap}
+  {:name "Tårnet",
+   :longitude 10.2535631,
+   :latitude 55.1259746,
+   :source :openstreetmap}
+  {:name "Tåsinge Museum",
+   :longitude 10.6090792,
+   :latitude 55.0237804,
+   :source :openstreetmap,
+   :homepage "https://www.taasinge-museum.dk/"}
+  {:name "Tønnisgård Naturcenter",
+   :longitude 8.5463596,
+   :latitude 55.1422229,
+   :source :openstreetmap,
+   :homepage "https://www.tonnisgaard.dk/"}
+  {:name "Tørning Mølle",
+   :longitude 9.3738496,
+   :latitude 55.2374436,
+   :source :openstreetmap,
+   :homepage "https://www.toerning-moelle.dk/"}
+  {:name "Udstilling \"Levende billeder\"",
+   :longitude 14.9565607,
+   :latitude 55.1751176,
+   :source :openstreetmap}
+  {:name "Udstilling Livø - før og nu",
+   :longitude 9.0904441,
+   :latitude 56.8925988,
+   :source :openstreetmap}
+  {:name "Udstilling Ulkerup Skovlandsby",
+   :longitude 11.6572827,
+   :latitude 55.8682068,
+   :source :openstreetmap}
+  {:name "Udstillingsstedet Sydhavn Station",
+   :longitude 12.5371988,
+   :latitude 55.6548022,
+   :source :openstreetmap,
+   :homepage "http://www.sydhavnstation.info"}
+  {:name "Udtryk",
+   :longitude 12.5454346,
+   :latitude 55.691763,
+   :source :openstreetmap}
+  {:name "Uhre Mølle",
+   :longitude 9.06131,
+   :latitude 55.9283416,
+   :source :openstreetmap,
+   :homepage "http://uhremoelle.dk/"}
+  {:name "Ulbjerg Traktormuseum",
+   :longitude 9.3620131,
+   :latitude 56.5981352,
+   :source :openstreetmap,
+   :homepage "http://ulbjergtraktormuseum.dk/"}
+  {:name "Uldum Mølle",
+   :longitude 9.5838679,
+   :latitude 55.845744,
+   :source :openstreetmap,
+   :homepage "https://uldummolle.dk/"}
+  {:name "Ulstrup Mølle",
+   :longitude 10.9554986,
+   :latitude 55.7333953,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitdenmark.dk/da/denmark/ulstrup-molle-gdk617872"}
+  {:name "Ulvsborg Historisk Værksted",
+   :longitude 11.5223915,
+   :latitude 55.7905447,
+   :source :openstreetmap,
+   :homepage "https://www.ulvsborg.dk/"}
+  {:name "Utzon Center",
+   :longitude 9.9264027,
+   :latitude 57.0494474,
+   :source :openstreetmap,
+   :homepage "https://utzoncenter.dk/"}
+  {:name "Vadehavscentret",
+   :longitude 8.6690965,
+   :latitude 55.2954503,
+   :source :openstreetmap,
+   :homepage "https://www.vadehavscentret.dk/"}
+  {:name "Vagns Saab Museum",
+   :longitude 9.8290486,
+   :latitude 55.0294451,
+   :source :openstreetmap,
+   :homepage "https://www.vagnssaabmuseum.dk/"}
+  {:name "Vandel Bunker-Museum",
+   :longitude 9.2106235,
+   :latitude 55.7046542,
+   :source :openstreetmap,
+   :homepage "https://www.bunkermuseum.dk/"}
+  {:name "Vandteknisk Museum",
+   :longitude 9.9311138,
+   :latitude 57.0327672,
+   :source :openstreetmap}
+  {:name "Vanløse Lokalarkiv",
+   :longitude 12.4871287,
+   :latitude 55.692244,
+   :source :openstreetmap}
+  {:name "Vejen Kunstmuseum",
+   :longitude 9.1397681,
+   :latitude 55.4772488,
+   :source :openstreetmap,
+   :homepage "https://www.vejenkunstmuseum.dk/"}
+  {:name "Vejle Kunstmuseum",
+   :longitude 9.5299155,
+   :latitude 55.709361,
+   :source :openstreetmap,
+   :homepage "https://www.vejlemuseerne.dk/museum/vejle-kunstmuseum"}
+  {:name "Vennebjerg Mølle",
+   :longitude 9.8225571,
+   :latitude 57.4592745,
+   :source :openstreetmap,
+   :homepage "https://www.vennebjerg-moelle.dk/"}
+  {:name "Vester Palsgaard Skovmuseum",
+   :longitude 9.4048109,
+   :latitude 55.9996325,
+   :source :openstreetmap}
+  {:name "Vestermølle Museum",
+   :longitude 9.9584138,
+   :latitude 56.0284759,
+   :source :openstreetmap,
+   :homepage "https://www.vestermollelaug.dk/"}
+  {:name "Vestfyns Hjemstavnsgård",
+   :longitude 10.1331395,
+   :latitude 55.2574309,
+   :source :openstreetmap,
+   :homepage "https://vestfynshjemstavn.dk/"}
+  {:name "Vesthimmerlands Museum",
+   :longitude 9.5219063,
+   :latitude 56.8024167,
+   :source :openstreetmap,
+   :homepage "https://www.vesthimmerlandsmuseum.dk/"}
+  {:name "Vestjyllands Klassiske Bilsamling",
+   :longitude 8.3145568,
+   :latitude 56.4451111,
+   :source :openstreetmap,
+   :homepage "http://www.clasicar.dk/"}
+  {:name "Vestjyllands Kunstpavillon",
+   :longitude 8.6228313,
+   :latitude 56.0905513,
+   :source :openstreetmap,
+   :homepage "https://www.vestjyllandskunstpavillon.dk/"}
+  {:name "Vestjysk Kunstgalleri - Voigt Fine Art",
+   :longitude 8.4366594,
+   :latitude 55.4729989,
+   :source :openstreetmap,
+   :homepage "https://voigtfineart.dk/"}
+  {:name "Vestsjællands Bilmuseum",
+   :longitude 11.3097097,
+   :latitude 55.5496948,
+   :source :openstreetmap,
+   :homepage "http://www.vestsjaelland-bilmuseum.dk"}
+  {:name "Veterinærhistorisk Museum",
+   :longitude 12.540657,
+   :latitude 55.6792921,
+   :source :openstreetmap}
+  {:name "Viborg Kunsthal",
+   :longitude 9.4157538,
+   :latitude 56.4498109,
+   :source :openstreetmap,
+   :homepage "https://viborgkunsthal.viborg.dk/"}
+  {:name "Viby Lokalhistoriske Arkiv",
+   :longitude 10.1645244,
+   :latitude 56.1304173,
+   :source :openstreetmap,
+   :homepage "https://vibylokalhistorie.dk/"}
+  {:name "Vibæk Mølle",
+   :longitude 9.9546785,
+   :latitude 54.8945524,
+   :source :openstreetmap,
+   :homepage "https://www.vibaek-moellerne.dk/"}
+  {:name "Victor Petersens J F Willumsen Samling",
+   :longitude 10.094153,
+   :latitude 57.5377112,
+   :source :openstreetmap,
+   :homepage "https://jfwillumsenodden.dk/"}
+  {:name "Videbæk Egnsmuseum",
+   :longitude 8.6898099,
+   :latitude 56.0848816,
+   :source :openstreetmap,
+   :homepage "http://www.vemu.dk/"}
+  {:name "Vikingeborgen Borgring",
+   :longitude 12.1196769,
+   :latitude 55.4650411,
+   :source :openstreetmap,
+   :homepage
+   "https://www.museerne.dk/vikingeborgen-borgring/praktisk-info/"}
+  {:name "Vikingecenter Fyrkat",
+   :longitude 9.7822161,
+   :latitude 56.6251252,
+   :source :openstreetmap,
+   :homepage "https://nordjyskemuseer.dk/u/vikingemuseet-fyrkat/"}
+  {:name "Vikingelandsbyen",
+   :longitude 12.3213094,
+   :latitude 55.6899665,
+   :source :openstreetmap,
+   :homepage "http://vikingelandsbyen.dk/"}
+  {:name "Vikingemuseet",
+   :longitude 10.2091,
+   :latitude 56.15669,
+   :source :openstreetmap,
+   :homepage "https://www.vikingemuseet.dk/"}
+  {:name "Vikingemuseet Ladby",
+   :longitude 10.6169362,
+   :latitude 55.4434583,
+   :source :openstreetmap}
+  {:name "Vikingeskibsmuseet",
+   :longitude 12.0814611,
+   :latitude 55.6508988,
+   :source :openstreetmap,
+   :homepage "https://www.vikingeskibsmuseet.dk/"}
+  {:name "Vildmoseporten",
+   :longitude 9.8159261,
+   :latitude 57.204845,
+   :source :openstreetmap,
+   :homepage "http://www.vildmoseporten.dk/"}
+  {:name "Villa Pax",
+   :longitude 10.5778428,
+   :latitude 57.718778,
+   :source :openstreetmap}
+  {:name "Villum Window Collection",
+   :longitude 12.480218,
+   :latitude 55.741063,
+   :source :openstreetmap,
+   :homepage "https://en.villumwindowcollection.com/"}
+  {:name "Vindeby Mølle",
+   :longitude 11.1410174,
+   :latitude 54.9204809,
+   :source :openstreetmap,
+   :homepage "http://www.vindebymolle.dk/"}
+  {:name "Vindelev Kro & Galleri",
+   :longitude 9.493358,
+   :latitude 55.79783,
+   :source :openstreetmap,
+   :homepage "http://www.gallerivindelevkro.dk/"}
+  {:name "Vingaards Officin",
+   :longitude 9.3764395,
+   :latitude 56.4645769,
+   :source :openstreetmap,
+   :homepage "https://www.vingaards-officin.dk/"}
+  {:name "Vingsted Historiske Værksted",
+   :longitude 9.3924605,
+   :latitude 55.6756964,
+   :source :openstreetmap}
+  {:name "Vodka Museum",
+   :longitude 12.5019291,
+   :latitude 55.6956984,
+   :source :openstreetmap,
+   :homepage "https://vodkamuseum.dk"}
+  {:name "Voergaard Slot",
+   :longitude 10.3351789,
+   :latitude 57.2425231,
+   :source :openstreetmap,
+   :homepage "https://www.voergaardslot.dk/"}
+  {:name "Vorupør Museum",
+   :longitude 8.3728739,
+   :latitude 56.9500215,
+   :source :openstreetmap}
+  {:name "Vridsløselille Fængsel",
+   :longitude 12.3477933,
+   :latitude 55.6595541,
+   :source :openstreetmap,
+   :homepage "https://www.porten.dk/events/rundvisninger"}
+  {:name "VW & Retro Museum",
+   :longitude 8.3217931,
+   :latitude 56.2628523,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/vwretromuseum"}
+  {:name "Væggen",
+   :longitude 12.5640628,
+   :latitude 55.6762959,
+   :source :openstreetmap,
+   :homepage "http://vaeggen.copenhagen.dk/en/"}
+  {:name "Værftsmuseet",
+   :longitude 12.6141843,
+   :latitude 56.0377635,
+   :source :openstreetmap,
+   :homepage "http://helsingormuseer.dk/vaerftsmuseet/"}
+  {:name "Værløse Museum",
+   :longitude 12.3769733,
+   :latitude 55.78534,
+   :source :openstreetmap,
+   :homepage
+   "https://furesoemuseer.dk/om-furesoe-museer/det-lokalhistoriske-museum/mosegaarden/"}
+  {:name "Wellings Landsbymuseum",
+   :longitude 8.9553733,
+   :latitude 55.4010032,
+   :source :openstreetmap,
+   :homepage "https://www.wellings.dk/"}
+  {:name "Willumsens Museum",
+   :longitude 12.0509529,
+   :latitude 55.8449093,
+   :source :openstreetmap,
+   :homepage "https://www.willumsensmuseum.dk/"}
+  {:name "Zeppelin- & Garnisonsmuseum Tønder",
+   :longitude 8.8671751,
+   :latitude 54.9609985,
+   :source :openstreetmap,
+   :homepage "http://www.zeppelin-museum.dk"}
+  {:name "Åbne Magasiner",
+   :longitude 10.486313,
+   :latitude 55.1768627,
+   :source :openstreetmap}
+  {:name "Æ Beeshus",
+   :longitude 8.3157036,
+   :latitude 56.7738164,
+   :source :openstreetmap}
+  {:name "Æ Elværk",
+   :longitude 8.6179879,
+   :latitude 56.646165,
+   :source :openstreetmap,
+   :homepage "http://www.jegindo.dk/da/oen/elvaerk.html"}
+  {:name "Æ Laut",
+   :longitude 8.8248814,
+   :latitude 55.0590132,
+   :source :openstreetmap,
+   :homepage "http://toosbuystorv.dk/ae-laut/"}
+  {:name "Æglageret",
+   :longitude 11.7076506,
+   :latitude 55.7179119,
+   :source :openstreetmap}
+  {:name "Ærø Museum",
+   :longitude 10.4122798,
+   :latitude 54.8888877,
+   :source :openstreetmap,
+   :homepage "http://www.flaskepeters-samling.dk/"}
+  {:name "Æ’ Fywerhus",
+   :longitude 8.6365851,
+   :latitude 56.6529643,
+   :source :openstreetmap,
+   :homepage "http://www.jegindo.dk/oen/fywerhus.html"}
+  {:name "Øhavets Smakke- og Naturcenter",
+   :longitude 10.6232804,
+   :latitude 54.9031422,
+   :source :openstreetmap,
+   :homepage "https://www.smakkecenter.dk/"}
+  {:name "Øhavsmuseet",
+   :longitude 10.2384866,
+   :latitude 55.0954714,
+   :source :openstreetmap,
+   :homepage "https://ohavsmuseet.dk/"}
+  {:name "Øhavsmuseet - Stationen",
+   :longitude 10.245156,
+   :latitude 55.0938147,
+   :source :openstreetmap,
+   :homepage "https://www.faaborgmuseum.dk/"}
+  {:name "Økolariet",
+   :longitude 9.5351018,
+   :latitude 55.7069368,
+   :source :openstreetmap,
+   :homepage "https://www.okolariet.dk/"}
+  {:name "Øregaard Museum",
+   :longitude 12.5728958,
+   :latitude 55.738833,
+   :source :openstreetmap}
+  {:name "Øster Han Herred Egnssamling",
+   :longitude 9.4630782,
+   :latitude 57.1315436,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kultunaut.dk/perl/sted/type-nynaut/nr-2070327;https://www.egnssamlingen-tranum.dk/"}
+  {:name "Østerbro lille Museum",
+   :longitude 12.5784297,
+   :latitude 55.7098542,
+   :source :openstreetmap,
+   :homepage "https://detlillemuseum.dk/"}
+  {:name "Østergaard",
+   :longitude 8.9886888,
+   :latitude 56.7635125,
+   :source :openstreetmap}
+  {:name "Østerskov Museum",
+   :longitude 9.5191814,
+   :latitude 55.2781214,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

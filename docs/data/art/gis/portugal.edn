@@ -1,0 +1,5296 @@
+{:count 1068,
+ :country "portugal",
+ :country-code "PT",
+ :dataset :art,
+ :generated-at "2026-05-26T06:28:49.741835Z",
+ :positions
+ [{:name "8 Marvila",
+   :longitude -9.1020033,
+   :latitude 38.7420227,
+   :source :openstreetmap,
+   :homepage "https://ah-amalia.pt"}
+  {:name "Academia das Artes dos Açores",
+   :longitude -25.6643653,
+   :latitude 37.7413974,
+   :source :openstreetmap}
+  {:name "Academia de Música de Pinhel",
+   :longitude -7.0625061,
+   :latitude 40.7726505,
+   :source :openstreetmap,
+   :homepage
+   "https://roteiromuseus.ccdrc.pt/museu_ficha.aspx?tipologia=6&idMuseu=241"}
+  {:name "Adega das Giestas Negras",
+   :longitude -7.6878144,
+   :latitude 41.1842798,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-pesoregua.pt/visitar/ver/museus/poi/museu-adega-das-giestas-negras"}
+  {:name "Agromuseu - Museu D. Julinha",
+   :longitude -8.8415753,
+   :latitude 39.8311777,
+   :source :openstreetmap}
+  {:name "Agulha de ouro",
+   :longitude -9.1977104,
+   :latitude 38.7035439,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Alfândega Régia",
+   :longitude -8.7438598,
+   :latitude 41.3501142,
+   :source :openstreetmap,
+   :homepage "https://viladoconde.com/alfandega-regia/"}
+  {:name "Aliança Underground Museum",
+   :longitude -8.4717994,
+   :latitude 40.4893243,
+   :source :openstreetmap,
+   :homepage "https://bacalhoa.pt/pt/alianca-underground-museum",
+   :locality "Sangalhos"}
+  {:name "Aljezur Táctil Museu Municipal",
+   :longitude -8.8033015,
+   :latitude 37.3191439,
+   :source :openstreetmap,
+   :homepage "https://cm-aljezur.pt/pt/menu/246/museu-municipal.aspx"}
+  {:name "Ammaia",
+   :longitude -7.3864805,
+   :latitude 39.3706662,
+   :source :openstreetmap,
+   :locality "São Salvador Da Aramenha"}
+  {:name "Ana Maria",
+   :longitude -9.1139045,
+   :latitude 38.7715314,
+   :source :openstreetmap}
+  {:name "Antiga Cadeia",
+   :longitude -8.338754,
+   :latitude 39.4749047,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-constancia.pt/index.php/pt/visitar/museus#casa-museu-vasco-de-lima-couto",
+   :locality "Constância"}
+  {:name "Antiga Cooperativa Agrícola - Lagar de Azeite",
+   :longitude -8.489071,
+   :latitude 39.5114141,
+   :source :openstreetmap}
+  {:name "Antiga Cêramica Arganilense",
+   :longitude -8.0626177,
+   :latitude 40.2190624,
+   :source :openstreetmap}
+  {:name "Antiga Junta de Freguesia da Maia",
+   :longitude -8.6297945,
+   :latitude 41.2334925,
+   :source :openstreetmap}
+  {:name "Antiga Moagem",
+   :longitude -7.8361344,
+   :latitude 38.8302718,
+   :source :openstreetmap}
+  {:name "Antiga Paroquial de Mira de Aire",
+   :longitude -8.7146063,
+   :latitude 39.5422654,
+   :source :openstreetmap}
+  {:name "Aquamuseu do Rio Minho",
+   :longitude -8.749541,
+   :latitude 41.9378763,
+   :source :openstreetmap,
+   :locality "Vila Nova de Cerveira"}
+  {:name "Armazém 8",
+   :longitude -7.909668,
+   :latitude 38.5433336,
+   :source :openstreetmap,
+   :homepage "http://armazem8.associarte.pt",
+   :locality "Évora"}
+  {:name "Armazém de Memórias",
+   :longitude -7.770251,
+   :latitude 41.8338639,
+   :source :openstreetmap}
+  {:name "Arquipélago - Centro de Artes Contemporâneas",
+   :longitude -25.5291221,
+   :latitude 37.81899,
+   :source :openstreetmap,
+   :homepage "https://arquipelagocentrodeartes.azores.gov.pt/",
+   :locality "Ribeira Grande"}
+  {:name "Arquivo e História Adelino Rodrigues",
+   :longitude -16.9284866,
+   :latitude 32.6463395,
+   :source :openstreetmap}
+  {:name "Arquivo Histórico Parlamentar",
+   :longitude -9.1535106,
+   :latitude 38.713011,
+   :source :openstreetmap,
+   :homepage "www.amaliarodrigues.pt/artigo-casa-museu-2"}
+  {:name "Arquivo Municipal",
+   :longitude -7.4518163,
+   :latitude 41.4077525,
+   :source :openstreetmap}
+  {:name "Arquivo Nacional de Imagens em Movimento",
+   :longitude -9.1598609,
+   :latitude 38.9074191,
+   :source :openstreetmap,
+   :locality "Bucelas"}
+  {:name "Arquivo-Museu Diocesano de Lamego",
+   :longitude -7.8071103,
+   :latitude 41.0963346,
+   :source :openstreetmap,
+   :homepage "https://diocese-lamego.pt/arquivo",
+   :locality "Lamego"}
+  {:name "Art For You",
+   :longitude -9.1553269,
+   :latitude 38.7338801,
+   :source :openstreetmap,
+   :homepage "https://gulbenkian.pt/cam/colecao-moderna/"}
+  {:name "ArtCatto",
+   :longitude -8.0202787,
+   :latitude 37.138196,
+   :source :openstreetmap,
+   :homepage "https://artcatto.com",
+   :locality "Loulé"}
+  {:name "Arte Islamica",
+   :longitude -7.6649349,
+   :latitude 37.6357222,
+   :source :openstreetmap,
+   :homepage
+   "https://www.museudemertola.pt/nucleos-exposicao/casa-de-mertola"}
+  {:name "Arte na Leira",
+   :longitude -8.7083247,
+   :latitude 41.8420175,
+   :source :openstreetmap}
+  {:name "ArtePolón - Associação",
+   :longitude -9.0381506,
+   :latitude 38.6429096,
+   :source :openstreetmap,
+   :locality "Vale da Amoreira"}
+  {:name "ArtLounge",
+   :longitude -9.1480002,
+   :latitude 38.7341071,
+   :source :openstreetmap,
+   :homepage "https://www.artlounge.com.pt/"}
+  {:name "ArtSpace",
+   :longitude -9.1837076,
+   :latitude 38.7058588,
+   :source :openstreetmap}
+  {:name "ART´CITTÁ",
+   :longitude -8.2805412,
+   :latitude 41.4524953,
+   :source :openstreetmap}
+  {:name "Associação Cultural",
+   :longitude -27.1171773,
+   :latitude 38.6486385,
+   :source :openstreetmap}
+  {:name "Associação Cultural E Desportiva Carapalha",
+   :longitude -7.4833857,
+   :latitude 39.8153404,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/acdcarapalha"}
+  {:name "Associação Cultural e Recreativa da Juventude do Espinho",
+   :longitude -8.2909386,
+   :latitude 40.0857975,
+   :source :openstreetmap}
+  {:name "Associação Cultural e Religiosa de Santa Margarida",
+   :longitude -7.6431912,
+   :latitude 41.3156993,
+   :source :openstreetmap}
+  {:name "Associação Cultural Notáveis Talentos",
+   :longitude -8.6665315,
+   :latitude 41.258307,
+   :source :openstreetmap,
+   :homepage "http://www.notaveistalentos.com/"}
+  {:name "Associação O Cantaréu",
+   :longitude -7.7649716,
+   :latitude 41.3185696,
+   :source :openstreetmap}
+  {:name "Atafona do Calço",
+   :longitude -28.638401,
+   :latitude 38.5654679,
+   :source :openstreetmap,
+   :locality "Praia do Almoxarife"}
+  {:name "Atelier Artéria",
+   :longitude -9.1718043,
+   :latitude 38.7421817,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Atelier de Artes Vera Santos Silva",
+   :longitude -9.1310019,
+   :latitude 38.7394557,
+   :source :openstreetmap}
+  {:name "Atelier de Pintura",
+   :longitude -8.5487439,
+   :latitude 40.9256219,
+   :source :openstreetmap,
+   :locality "Santa Maria da Feira"}
+  {:name "Atelier do Corvo",
+   :longitude -8.4279516,
+   :latitude 40.2137289,
+   :source :openstreetmap,
+   :homepage "https://cav-ef.net"}
+  {:name "Atelier dos Brinquedos",
+   :longitude -9.2606637,
+   :latitude 39.0967024,
+   :source :openstreetmap}
+  {:name "Atelier Traço com Alma",
+   :longitude -9.171567,
+   :latitude 38.677782,
+   :source :openstreetmap}
+  {:name "Auditório",
+   :longitude -8.3282234,
+   :latitude 41.2039393,
+   :source :openstreetmap}
+  {:name "Auditório Arte e Cultura Luís Teixeira",
+   :longitude -7.3094687,
+   :latitude 41.6106077,
+   :source :openstreetmap}
+  {:name "Auditório de Santa Marinha - Paróquia de Cortegaça",
+   :longitude -8.6256556,
+   :latitude 40.942765,
+   :source :openstreetmap}
+  {:name "Auditório Infante Dom Henrique",
+   :longitude -8.7044508,
+   :latitude 41.1878938,
+   :source :openstreetmap}
+  {:name "Auditório José Afonso",
+   :longitude -8.8980644,
+   :latitude 38.5221249,
+   :source :openstreetmap,
+   :locality "Setúbal"}
+  {:name "Auditório Municipal",
+   :longitude -9.078056,
+   :latitude 38.9842549,
+   :source :openstreetmap}
+  {:name "Auditório Vita",
+   :longitude -8.4138122,
+   :latitude 41.5557717,
+   :source :openstreetmap,
+   :homepage "https://www.espacovita.pt",
+   :locality "Braga"}
+  {:name "Autditório Adácio Pestana",
+   :longitude -7.7763438,
+   :latitude 41.0176681,
+   :source :openstreetmap}
+  {:name "B-MAD (Berardo - Museum Art Deco)",
+   :longitude -9.1792776,
+   :latitude 38.7038465,
+   :source :openstreetmap,
+   :homepage "https://bmad.pt/",
+   :locality "Lisboa"}
+  {:name "Bacalhôa Berardo Collection",
+   :longitude -8.9914032,
+   :latitude 38.5247574,
+   :source :openstreetmap}
+  {:name "Banco de Artistas",
+   :longitude -28.6265941,
+   :latitude 38.5340133,
+   :source :openstreetmap,
+   :homepage
+   "https://urbhorta.pt/index.php/equipamentos/item/13-banco-artistas/13-banco-artistas",
+   :locality "Horta (Matriz)"}
+  {:name "Banda Musical Flor da Mocidade Junqueirense",
+   :longitude -8.3340285,
+   :latitude 40.8072388,
+   :source :openstreetmap}
+  {:name "Basílica Paleocristã",
+   :longitude -7.6616836,
+   :latitude 37.6407271,
+   :source :openstreetmap}
+  {:name "Berço Vidreiro",
+   :longitude -8.4651194,
+   :latitude 40.8439149,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-oaz.pt/oliveira_de_azemeis.1/berco_vidreiro.1579/ber-co_vidreiro.a318.html",
+   :locality "Oliveira de Azeméis"}
+  {:name "Biblioteca Museu República e Resistência - Fórum Grandela",
+   :longitude -9.1838833,
+   :latitude 38.7465141,
+   :source :openstreetmap,
+   :homepage "http://republicaresistencia.cm-lisboa.pt/",
+   :locality "Lisboa"}
+  {:name "Biblioteca Popular Pedro Ivo",
+   :longitude -8.604494,
+   :latitude 41.1614373,
+   :source :openstreetmap}
+  {:name "Biblioteca-Museu Municipal Severo Portela",
+   :longitude -8.0604144,
+   :latitude 37.5129889,
+   :source :openstreetmap}
+  {:name "Bombeiros Voluntários da Feira",
+   :longitude -8.542097,
+   :latitude 40.9297646,
+   :source :openstreetmap,
+   :homepage "https://bombeirosfeira.pt/historia/museu"}
+  {:name "Bongard Garden",
+   :longitude -8.5591355,
+   :latitude 37.3180953,
+   :source :openstreetmap}
+  {:name "BOTA - Base Organizada da Toca das Artes",
+   :longitude -9.1368419,
+   :latitude 38.7265366,
+   :source :openstreetmap,
+   :homepage "https://www.botaanjos.com"}
+  {:name "Bracara Team",
+   :longitude -8.4268365,
+   :latitude 41.5725214,
+   :source :openstreetmap}
+  {:name "Campo Escola Doutor João de Barros",
+   :longitude -8.8610193,
+   :latitude 40.1589173,
+   :source :openstreetmap}
+  {:name "Capela de Nossa Senhora das Salvas",
+   :longitude -8.8743739,
+   :latitude 37.9527071,
+   :source :openstreetmap,
+   :homepage "https://www.sines.pt/pages/700"}
+  {:name "Cardina",
+   :longitude -16.3444896,
+   :latitude 33.0871872,
+   :source :openstreetmap}
+  {:name "Carpintarias de São Lázaro",
+   :longitude -9.1362722,
+   :latitude 38.7184199,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Casa António Vaz e Albertina Moreira",
+   :longitude -8.0755932,
+   :latitude 38.9544728,
+   :source :openstreetmap}
+  {:name "Casa Beata Alexandrina",
+   :longitude -8.6231887,
+   :latitude 41.401656,
+   :source :openstreetmap,
+   :homepage "https://www.alexandrinadebalasar.pt/visitas/"}
+  {:name "Casa Colombo",
+   :longitude -16.3356944,
+   :latitude 33.0594184,
+   :source :openstreetmap,
+   :homepage "http://www.museucolombo-portosanto.com/",
+   :locality "Porto Santo"}
+  {:name "Casa d'Artes do Bonfim",
+   :longitude -8.5961118,
+   :latitude 41.1541884,
+   :source :openstreetmap}
+  {:name "Casa da Achada",
+   :longitude -9.1352649,
+   :latitude 38.7134343,
+   :source :openstreetmap,
+   :homepage "http://www.centromariodionisio.org",
+   :locality "Lisboa"}
+  {:name "Casa da Arquitetura",
+   :longitude -8.6872189,
+   :latitude 41.1783344,
+   :source :openstreetmap,
+   :homepage "https://www.casadaarquitetura.pt/pt/"}
+  {:name "Casa da Cultura",
+   :longitude -8.1643989,
+   :latitude 38.9438523,
+   :source :openstreetmap}
+  {:name "Casa da Cultura",
+   :longitude -8.5211248,
+   :latitude 41.4088801,
+   :source :openstreetmap,
+   :homepage "https://www.famalicao.pt/casa-museu-soledade-malvar"}
+  {:name "Casa da Cultura",
+   :longitude -9.2277453,
+   :latitude 38.8127041,
+   :source :openstreetmap}
+  {:name "Casa da Cultura César de Oliveira",
+   :longitude -7.8604616,
+   :latitude 40.3599953,
+   :source :openstreetmap}
+  {:name "Casa da cultura da Câmara Municipal de Gaia",
+   :longitude -8.6078456,
+   :latitude 41.1331378,
+   :source :openstreetmap,
+   :homepage "https://casacultura.webnode.pt/",
+   :locality "Vila Nova de Gaia"}
+  {:name "Casa da Cultura da Póvoa de Santo Adrião",
+   :longitude -9.1600871,
+   :latitude 38.8006076,
+   :source :openstreetmap}
+  {:name "Casa da Cultura de Beja",
+   :longitude -7.8607536,
+   :latitude 38.0106739,
+   :source :openstreetmap}
+  {:name "Casa da Cultura de Cabeçais",
+   :longitude -8.4250663,
+   :latitude 40.9505593,
+   :source :openstreetmap,
+   :locality "Fermedo"}
+  {:name "Casa da Cultura de Lourosa",
+   :longitude -8.5362031,
+   :latitude 40.9830381,
+   :source :openstreetmap}
+  {:name "Casa da Cultura Islâmica e Mediterrânica",
+   :longitude -8.4472932,
+   :latitude 37.1897522,
+   :source :openstreetmap}
+  {:name "Casa da Cultura José Marmelo e Silva",
+   :longitude -7.6362053,
+   :latitude 40.2019669,
+   :source :openstreetmap}
+  {:name "Casa da Cultura Lívio de Morais",
+   :longitude -9.3053421,
+   :latitude 38.7844804,
+   :source :openstreetmap,
+   :locality "Agualva-Cacém"}
+  {:name "Casa da Música",
+   :longitude -7.998983,
+   :latitude 41.5106854,
+   :source :openstreetmap}
+  {:name "Casa da Ribeira",
+   :longitude -7.9101479,
+   :latitude 40.6634468,
+   :source :openstreetmap}
+  {:name "Casa das Artes",
+   :longitude -8.1975241,
+   :latitude 41.3678405,
+   :source :openstreetmap,
+   :homepage "https://casadasartesdefelgueiras.com/",
+   :locality "Felgueiras"}
+  {:name "Casa das Artes",
+   :longitude -8.3976094,
+   :latitude 39.4563077,
+   :source :openstreetmap}
+  {:name "Casa das Artes",
+   :longitude -8.324798,
+   :latitude 40.0933903,
+   :source :openstreetmap,
+   :homepage "https://cm-mirandadocorvo.pt/menu/168/casa-das-artes"}
+  {:name "Casa das Artes e Ofícios da Freguesia de Marmelete",
+   :longitude -8.6658003,
+   :latitude 37.3094524,
+   :source :openstreetmap}
+  {:name "Casa das Aves Marinhas dos Açores",
+   :longitude -28.746787,
+   :latitude 38.5248438,
+   :source :openstreetmap}
+  {:name "Casa das Bengalas",
+   :longitude -7.9317243,
+   :latitude 41.1662306,
+   :source :openstreetmap,
+   :homepage "https://www.visitbaiao.pt/",
+   :locality "Gestaçô"}
+  {:name "Casa das Pedras Parideiras",
+   :longitude -8.2825686,
+   :latitude 40.8508952,
+   :source :openstreetmap,
+   :homepage "https://aroucageopark.pt/casa-das-pedras-parideiras/",
+   :locality "Albergaria da Serra"}
+  {:name "Casa de Aquilino Ribeiro",
+   :longitude -7.6677387,
+   :latitude 40.8876078,
+   :source :openstreetmap,
+   :homepage "https://www.cm-moimenta.pt/pages/897"}
+  {:name "Casa de Artesanato",
+   :longitude -27.9320352,
+   :latitude 38.5840685,
+   :source :openstreetmap}
+  {:name "Casa de Bocage",
+   :longitude -8.8851414,
+   :latitude 38.5236434,
+   :source :openstreetmap,
+   :homepage "https://setubalbay.org/itinerario/casa-bocage/"}
+  {:name "Casa de Camilo",
+   :longitude -7.8124008,
+   :latitude 41.5334103,
+   :source :openstreetmap,
+   :locality "Friúme"}
+  {:name "Casa de Cultura Jaime Lobo e Silva",
+   :longitude -9.4177379,
+   :latitude 38.9631798,
+   :source :openstreetmap,
+   :locality "Ericeira"}
+  {:name "Casa de Lamas Centro Cultural",
+   :longitude -8.1408951,
+   :latitude 41.6325012,
+   :source :openstreetmap}
+  {:name "Casa de Lucia",
+   :longitude -8.6648779,
+   :latitude 39.6156223,
+   :source :openstreetmap}
+  {:name "Casa de Odeleite",
+   :longitude -7.4873282,
+   :latitude 37.3338336,
+   :source :openstreetmap}
+  {:name "Casa de Povo",
+   :longitude -8.5010093,
+   :latitude 40.6242194,
+   :source :openstreetmap}
+  {:name "Casa do Arco do Bispo",
+   :longitude -7.4934599,
+   :latitude 39.8255775,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-castelobranco.pt/municipe/patrimonio/detalhe-edificio/?id=1656"}
+  {:name "Casa do Artesão",
+   :longitude -8.0728017,
+   :latitude 39.7619644,
+   :source :openstreetmap}
+  {:name "Casa do Artista",
+   :longitude -9.1925301,
+   :latitude 38.7607986,
+   :source :openstreetmap}
+  {:name "Casa do Artista",
+   :longitude -8.1103668,
+   :latitude 40.1542255,
+   :source :openstreetmap}
+  {:name "Casa do Barro",
+   :longitude -7.4845084,
+   :latitude 38.4467895,
+   :source :openstreetmap,
+   :locality "São Pedro do Corval"}
+  {:name "Casa do Brasil",
+   :longitude -8.6804682,
+   :latitude 39.2350389,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-santarem.pt/descobrir-santarem/o-que-visitar/item/1177-casa-do-brasil"}
+  {:name "Casa do Brinquedo e da Brincadeira",
+   :longitude -8.4362457,
+   :latitude 41.6583436,
+   :source :openstreetmap,
+   :homepage "http://adol.pt/cbb/"}
+  {:name "Casa do Cante",
+   :longitude -7.8909796,
+   :latitude 38.166756,
+   :source :openstreetmap}
+  {:name "Casa do Careto",
+   :longitude -6.9277549,
+   :latitude 41.5894272,
+   :source :openstreetmap,
+   :homepage "http://www.caretosdepodence.pt/casa-do-careto.html"}
+  {:name "Casa do Castelo",
+   :longitude -7.7029407,
+   :latitude 38.3103143,
+   :source :openstreetmap,
+   :locality "Portel"}
+  {:name "Casa do Cinema Manoel de Oliveira",
+   :longitude -8.6552518,
+   :latitude 41.1589949,
+   :source :openstreetmap,
+   :homepage "https://www.serralves.pt/",
+   :locality "Porto"}
+  {:name "Casa do Conhecimento",
+   :longitude -8.5602665,
+   :latitude 41.9124119,
+   :source :openstreetmap,
+   :homepage
+   "https://www.paredesdecoura.pt/locais/casa-do-conhecimento/"}
+  {:name "Casa do Conhecimento",
+   :longitude -8.434863,
+   :latitude 41.6524869,
+   :source :openstreetmap}
+  {:name "Casa do Curro",
+   :longitude -8.4818585,
+   :latitude 42.0786916,
+   :source :openstreetmap}
+  {:name "Casa do Passal - Museu de Aristides de Sousa Mendes",
+   :longitude -7.9729049,
+   :latitude 40.4755084,
+   :source :openstreetmap,
+   :homepage
+   "https://fundacaoaristidesdesousamendes.pt/contactos-e-horario-do-museu-aristides-sousa-mendes/",
+   :locality "Cabanas de Viriato"}
+  {:name "Casa do Penedo",
+   :longitude -8.0677374,
+   :latitude 41.4881577,
+   :source :openstreetmap,
+   :locality "Fafe"}
+  {:name "Casa do Povo",
+   :longitude -8.6567866,
+   :latitude 39.620712,
+   :source :openstreetmap}
+  {:name "Casa do Povo de Côja",
+   :longitude -7.9848339,
+   :latitude 40.2669578,
+   :source :openstreetmap,
+   :locality "Côja e Barril de Alva"}
+  {:name "Casa do Sal",
+   :longitude -7.4451072,
+   :latitude 37.2180041,
+   :source :openstreetmap,
+   :homepage "https://cm-castromarim.pt/site/conteudo/casa-do-sal/m2"}
+  {:name "Casa do Tempo",
+   :longitude -7.9923765,
+   :latitude 41.5133649,
+   :source :openstreetmap,
+   :homepage "https://cabeceirasdebasto.pt/cultura-casa-do-tempo"}
+  {:name "Casa do Território",
+   :longitude -8.5082246,
+   :latitude 41.4099382,
+   :source :openstreetmap,
+   :homepage
+   "https://www.parquedadevesa.com/_casa_do_territorio_apresentacao",
+   :locality "Vila Nova de Famalicao"}
+  {:name "Casa do Touro de Rio de Onor",
+   :longitude -6.6165131,
+   :latitude 41.9402936,
+   :source :openstreetmap}
+  {:name "Casa do Vinho de Valpaços",
+   :longitude -7.3054996,
+   :latitude 41.6097176,
+   :source :openstreetmap}
+  {:name "Casa dos Botes",
+   :longitude -28.8251785,
+   :latitude 38.5927215,
+   :source :openstreetmap,
+   :locality "Capelo"}
+  {:name
+   "Casa dos Botes - núcleo museológico e clube naval de São Mateus da Calheta",
+   :longitude -27.2683737,
+   :latitude 38.6557626,
+   :source :openstreetmap}
+  {:name "Casa dos Candeias - Museu Vivo",
+   :longitude -7.47331,
+   :latitude 41.6184765,
+   :source :openstreetmap}
+  {:name "Casa dos Dabney",
+   :longitude -28.6267127,
+   :latitude 38.5229604,
+   :source :openstreetmap,
+   :homepage
+   "https://parquesnaturais.azores.gov.pt/pt/faial/oquevisitar/centros-ambientais/casa-dabney",
+   :locality "Horta (Angústias)"}
+  {:name "Casa dos Patudos - Museu de Alpiarça",
+   :longitude -8.5901771,
+   :latitude 39.2501915,
+   :source :openstreetmap,
+   :locality "Alpiarça"}
+  {:name "Casa dos Pauliteiros de Salselas",
+   :longitude -6.8739124,
+   :latitude 41.5515599,
+   :source :openstreetmap}
+  {:name "Casa dos Vulcões",
+   :longitude -28.4274679,
+   :latitude 38.5570662,
+   :source :openstreetmap,
+   :homepage
+   "https://parquesnaturais.azores.gov.pt/pt/parques/5/centro/10"}
+  {:name "Casa Etnográfica",
+   :longitude -28.6208246,
+   :latitude 38.5696298,
+   :source :openstreetmap}
+  {:name "Casa Fernando Pessoa",
+   :longitude -9.1624508,
+   :latitude 38.7166447,
+   :source :openstreetmap,
+   :homepage "http://casafernandopessoa.cm-lisboa.pt",
+   :locality "Lisboa"}
+  {:name "Casa João de Melo",
+   :longitude -25.2855005,
+   :latitude 37.8516114,
+   :source :openstreetmap,
+   :homepage
+   "https://cmnordeste.pt/cultura/casa-joao-de-melo/apresentacao/",
+   :locality "Achadinha"}
+  {:name "Casa João Lúcio",
+   :longitude -7.8170662,
+   :latitude 37.0359924,
+   :source :openstreetmap,
+   :homepage "https://museumunicipal.cm-olhao.pt/menu/1192/menu-1476"}
+  {:name "Casa Museológica de São Jorge da Beira",
+   :longitude -7.7841436,
+   :latitude 40.1670843,
+   :source :openstreetmap}
+  {:name "Casa Museu Bissaya Barreto",
+   :longitude -8.4194555,
+   :latitude 40.2061735,
+   :source :openstreetmap,
+   :homepage "https://www.fbb.pt/",
+   :locality "Coimbra"}
+  {:name "Casa Museu Cancioneiro de Águeda",
+   :longitude -8.4463918,
+   :latitude 40.5744749,
+   :source :openstreetmap,
+   :locality "Águeda"}
+  {:name "Casa Museu Cunha da Silveira",
+   :longitude -28.2069701,
+   :latitude 38.6803131,
+   :source :openstreetmap}
+  {:name "Casa Museu Custódio Prato",
+   :longitude -8.634109,
+   :latitude 40.7743293,
+   :source :openstreetmap}
+  {:name "Casa Museu de Afonso Lopes Vieira",
+   :longitude -9.032227,
+   :latitude 39.7562976,
+   :source :openstreetmap}
+  {:name "Casa Museu do Mártir S. Sebastião",
+   :longitude -8.6789328,
+   :latitude 41.1865602,
+   :source :openstreetmap}
+  {:name "Casa Museu Fernando Namora",
+   :longitude -8.4997155,
+   :latitude 40.1126885,
+   :source :openstreetmap,
+   :homepage
+   "http://roteiromuseus.ccdrc.pt/museu_ficha.aspx?idMuseu=80&tipologia=3",
+   :locality "Condeixa-a-Nova"}
+  {:name "Casa Museu Frederico de Freitas",
+   :longitude -16.9123446,
+   :latitude 32.6498902,
+   :source :openstreetmap,
+   :homepage "https://mqc.madeira.gov.pt",
+   :locality "Funchal"}
+  {:name "Casa Museu José Manuel da Graça Rosado Amôres",
+   :longitude -8.6748885,
+   :latitude 37.1044383,
+   :source :openstreetmap,
+   :homepage "https://lagos.cienciaviva.pt/"}
+  {:name "Casa Museu João Tomás Bettencourt",
+   :longitude -28.0237215,
+   :latitude 39.0592362,
+   :source :openstreetmap}
+  {:name "Casa Museu João Vieira",
+   :longitude -7.5717642,
+   :latitude 41.640533,
+   :source :openstreetmap}
+  {:name "Casa Museu Mário Coelho",
+   :longitude -8.989123,
+   :latitude 38.9566777,
+   :source :openstreetmap,
+   :homepage "https://www.museumunicipalvfxira.pt/"}
+  {:name "Casa Museu Passos Canavarro",
+   :longitude -8.6763776,
+   :latitude 39.2346731,
+   :source :openstreetmap,
+   :homepage "https://casamuseupassoscanavarro.blogspot.com/",
+   :locality "santarém"}
+  {:name "Casa Museu Viana de Lima",
+   :longitude -8.7845506,
+   :latitude 41.5617339,
+   :source :openstreetmap}
+  {:name "Casa Oficina António Carneiro",
+   :longitude -8.5938808,
+   :latitude 41.1495024,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-porto.pt/cultura/museus-e-arquivos/casa-oficina-antonio-carneiro",
+   :locality "Porto"}
+  {:name "Casa Roque Gameiro",
+   :longitude -9.2423499,
+   :latitude 38.7579072,
+   :source :openstreetmap,
+   :locality "Venteira"}
+  {:name "Casa Rural",
+   :longitude -28.2426928,
+   :latitude 38.4859926,
+   :source :openstreetmap}
+  {:name "Casa Rural Típica",
+   :longitude -28.7836111,
+   :latitude 38.5830253,
+   :source :openstreetmap,
+   :locality "Capelo"}
+  {:name "Casa São Roque - Centro de Arte",
+   :longitude -8.5869738,
+   :latitude 41.1577329,
+   :source :openstreetmap,
+   :homepage "https://casasroque.art/",
+   :locality "Porto"}
+  {:name "Casa Típica",
+   :longitude -7.6392426,
+   :latitude 40.2011389,
+   :source :openstreetmap}
+  {:name "Casa Xiné",
+   :longitude -8.3808857,
+   :latitude 41.1336916,
+   :source :openstreetmap}
+  {:name "Casa-Museu Abel Salazar",
+   :longitude -8.6129072,
+   :latitude 41.2005053,
+   :source :openstreetmap,
+   :homepage "https://cmas.up.pt/",
+   :locality "São Mamede de Infesta"}
+  {:name "Casa-Museu da Quinta de Santiago",
+   :longitude -8.6912495,
+   :latitude 41.1927967,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-matosinhos.pt/conhecer/patrimonio-historico/poi/casa-de-santiago"}
+  {:name "Casa-Museu de Camilo Castelo Branco",
+   :longitude -8.463537,
+   :latitude 41.3968704,
+   :source :openstreetmap,
+   :homepage "http://www.camilocastelobranco.org",
+   :locality "São Miguel de Seide"}
+  {:name "Casa-Museu de Egas Moniz",
+   :longitude -8.5890631,
+   :latitude 40.8064012,
+   :source :openstreetmap,
+   :homepage "https://casamuseuegasmoniz.com/",
+   :locality "Avanca"}
+  {:name "Casa-Museu de Fósseis de Sicó",
+   :longitude -8.4694771,
+   :latitude 39.9608148,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-ansiao.pt/visitantes/patrimonio-e-cultura/patrimonio-civil/poi/casa-museu-de-fosseis-de-sico",
+   :locality "Santiago da Guarda"}
+  {:name "Casa-Museu do Escritor Domingos Monteiro",
+   :longitude -7.8835928,
+   :latitude 41.1574213,
+   :source :openstreetmap,
+   :locality "Mesão Frio"}
+  {:name "Casa-museu do Rancho Folclórico da Ribeira de Fráguas",
+   :longitude -8.4439348,
+   :latitude 40.7388193,
+   :source :openstreetmap,
+   :locality "Ribeira de Fráguas"}
+  {:name "Casa-Museu Engenheiro António de Almeida",
+   :longitude -8.640278,
+   :latitude 41.161889,
+   :source :openstreetmap,
+   :homepage "https://www.feaa.pt/Inicio.aspx",
+   :locality "Porto"}
+  {:name "Casa-Museu Fernando de Castro",
+   :longitude -8.5959029,
+   :latitude 41.1663816,
+   :source :openstreetmap,
+   :homepage
+   "https://museusoaresdosreis.gov.pt/museu/casa-museu-fernando-de-castro/",
+   :locality "Porto"}
+  {:name "Casa-museu Ferreira de Castro",
+   :longitude -8.4285375,
+   :latitude 40.8370106,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-oaz.pt/cultura.353/casa_museu_ferreira_de_castro.1499/casa_-_museu_ferreira_de_castro.a4142.html",
+   :locality "Ossela"}
+  {:name "Casa-Museu José Pedro",
+   :longitude -9.1058869,
+   :latitude 38.7931238,
+   :source :openstreetmap}
+  {:name "Casa-Museu João de Deus",
+   :longitude -8.2864876,
+   :latitude 37.2572215,
+   :source :openstreetmap}
+  {:name "Casa-Museu João Soares",
+   :longitude -8.7845442,
+   :latitude 39.7011476,
+   :source :openstreetmap,
+   :homepage "https://fmsoares.pt/casa_museu/"}
+  {:name "Casa-Museu Leal da Câmara",
+   :longitude -9.322918,
+   :latitude 38.7920358,
+   :source :openstreetmap,
+   :homepage
+   "https://visitsintra.travel/pt/visitar/museus/casa-museu-de-leal-da-camara"}
+  {:name "Casa-Museu Marta Ortigão Sampaio",
+   :longitude -8.6255051,
+   :latitude 41.1594273,
+   :source :openstreetmap,
+   :homepage
+   "https://museudoporto.pt/estacao/casa-marta-ortigao-sampaio/",
+   :locality "Porto"}
+  {:name "Casa-Museu Mestre João da Silva",
+   :longitude -9.1545148,
+   :latitude 38.7182875,
+   :source :openstreetmap,
+   :homepage "https://sokyolisbon.com",
+   :locality "Lisboa"}
+  {:name "Casa-Museu Miguel Torga",
+   :longitude -8.4071075,
+   :latitude 40.2153184,
+   :source :openstreetmap,
+   :homepage
+   "http://roteiromuseus.ccdrc.pt/museu_ficha.aspx?idMuseu=67&tipologia=6",
+   :locality "Coimbra"}
+  {:name "Casa-Museu Regional de Oliveira de Azeméis",
+   :longitude -8.4781898,
+   :latitude 40.8372725,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-oaz.pt/turismo.356/o_que_fazer.510/monumentos_e_sitios.1621/museus.1625/casa-museu_regional_de_oliveira_de_azemeis.a4450.html",
+   :locality "Oliveira de Azeméis"}
+  {:name "Casa-Museu Teixeira Lopes",
+   :longitude -8.6117433,
+   :latitude 41.1287574,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-gaia.pt/pt/cidade/cultura/equipamentos-municipais/casa-museu-teixeira-lopes-galerias-diogo-de-macedo/",
+   :locality "Mafamude"}
+  {:name "Casa-Museu Vitorino Nemésio",
+   :longitude -27.0611351,
+   :latitude 38.7320785,
+   :source :openstreetmap}
+  {:name "Central das Artes",
+   :longitude -8.8259768,
+   :latitude 39.5993675,
+   :source :openstreetmap,
+   :locality "Porto de Mós"}
+  {:name "Central do Biel - Museu de Arqueologia Industrial",
+   :longitude -7.7428864,
+   :latitude 41.2936195,
+   :source :openstreetmap,
+   :homepage "https://centraldobiel.pt/",
+   :locality "Vila Real"}
+  {:name "Central Hidroeléctrica 1911",
+   :longitude -25.4669295,
+   :latitude 37.7189687,
+   :source :openstreetmap}
+  {:name "Central Hidroeléctrica de Santa Rita",
+   :longitude -8.186083,
+   :latitude 41.4708548,
+   :source :openstreetmap}
+  {:name "Central Hídrica da Fajã Redonda",
+   :longitude -25.4919629,
+   :latitude 37.7952111,
+   :source :openstreetmap}
+  {:name "Central térmica e de produção de energia mecânica a vapor",
+   :longitude -9.1643777,
+   :latitude 38.6192591,
+   :source :openstreetmap}
+  {:name "Centro Ambiental do Priolo",
+   :longitude -25.1631142,
+   :latitude 37.8016,
+   :source :openstreetmap,
+   :homepage "https://www.centropriolo.com/",
+   :locality "Pedreira"}
+  {:name "Centro Ciência Viva",
+   :longitude -8.7341557,
+   :latitude 41.3544194,
+   :source :openstreetmap,
+   :homepage "https://viladoconde.cienciaviva.pt/"}
+  {:name "Centro Ciência Viva da Floresta",
+   :longitude -7.8760418,
+   :latitude 39.733098,
+   :source :openstreetmap,
+   :homepage "https://www.ccvfloresta.com/",
+   :locality "Proença-a-Nova"}
+  {:name "Centro Ciência Viva de Constância",
+   :longitude -8.3241796,
+   :latitude 39.4951751,
+   :source :openstreetmap}
+  {:name "Centro Ciência Viva de Tavira",
+   :longitude -7.6460307,
+   :latitude 37.129091,
+   :source :openstreetmap,
+   :homepage "http://www.cvtavira.pt",
+   :locality "Tavira"}
+  {:name "Centro Cultural",
+   :longitude -8.4373391,
+   :latitude 40.4443557,
+   :source :openstreetmap}
+  {:name "Centro Cultural",
+   :longitude -7.3537279,
+   :latitude 40.7746298,
+   :source :openstreetmap}
+  {:name "Centro Cultural",
+   :longitude -8.9126849,
+   :latitude 37.0814096,
+   :source :openstreetmap,
+   :locality "Vila do Bispo"}
+  {:name "Centro Cultural \"Mãos à Obra\"",
+   :longitude -7.7387621,
+   :latitude 41.3466217,
+   :source :openstreetmap}
+  {:name "Centro Cultural António Aleixo",
+   :longitude -7.4164053,
+   :latitude 37.1943884,
+   :source :openstreetmap}
+  {:name "Centro Cultural da Branca",
+   :longitude -8.4863804,
+   :latitude 40.7476521,
+   :source :openstreetmap}
+  {:name "Centro Cultural da Gafanha da Nazaré",
+   :longitude -8.7120816,
+   :latitude 40.6361623,
+   :source :openstreetmap}
+  {:name "Centro Cultural da Malaposta",
+   :longitude -9.170231,
+   :latitude 38.7872769,
+   :source :openstreetmap}
+  {:name "Centro Cultural da Quinta Magnólia",
+   :longitude -16.925145,
+   :latitude 32.6436227,
+   :source :openstreetmap,
+   :homepage "https://www.mamma-museum.pt"}
+  {:name "Centro Cultural de Ansião",
+   :longitude -8.4343981,
+   :latitude 39.9118756,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Cascais",
+   :longitude -9.4214998,
+   :latitude 38.6939547,
+   :source :openstreetmap,
+   :homepage "http://motorpassion.pt",
+   :locality "Cascais"}
+  {:name "Centro Cultural de Chaves",
+   :longitude -7.4682938,
+   :latitude 41.7462334,
+   :source :openstreetmap,
+   :locality "Chaves"}
+  {:name "Centro Cultural de Ermidas-Sado",
+   :longitude -8.4112369,
+   :latitude 38.0073049,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Fazendas de Almeirim",
+   :longitude -8.5842515,
+   :latitude 39.1743568,
+   :source :openstreetmap,
+   :locality "Fazendas de Almeirim"}
+  {:name "Centro Cultural de Gáfete",
+   :longitude -7.6805791,
+   :latitude 39.4100893,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Montargil",
+   :longitude -8.1733239,
+   :latitude 39.0783923,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Paredes",
+   :longitude -8.3408106,
+   :latitude 41.2023528,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Poiares",
+   :longitude -8.2582028,
+   :latitude 40.2104817,
+   :source :openstreetmap,
+   :locality "Vila Nova de Poiares"}
+  {:name "Centro Cultural de Santa Cruz da Graciosa",
+   :longitude -28.0092007,
+   :latitude 39.0859388,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Tojais",
+   :longitude -7.6887883,
+   :latitude 41.3015807,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Tábua",
+   :longitude -8.0318391,
+   :latitude 40.3621267,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Vale do Mouro",
+   :longitude -8.3664876,
+   :latitude 42.0235605,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Viana do Castelo",
+   :longitude -8.8288425,
+   :latitude 41.6902199,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Vila das Aves",
+   :longitude -8.4076625,
+   :latitude 41.3602711,
+   :source :openstreetmap,
+   :locality "Aves"}
+  {:name "Centro Cultural de Vila Nova da Barquinha",
+   :longitude -8.4324799,
+   :latitude 39.457828,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-vnbarquinha.pt/index.php/pt/visitar-2/castelo-de-almourol#centro-de-interpretação-templário"}
+  {:name "Centro Cultural de Vila Nova de Foz Côa",
+   :longitude -7.1439402,
+   :latitude 41.0817111,
+   :source :openstreetmap}
+  {:name "Centro Cultural do Bom Sucesso",
+   :longitude -9.0463578,
+   :latitude 38.9040911,
+   :source :openstreetmap}
+  {:name "Centro Cultural e de Inovação de Bordeira",
+   :longitude -7.924317,
+   :latitude 37.1226515,
+   :source :openstreetmap}
+  {:name "Centro Cultural e Recreativo de Arrabães",
+   :longitude -7.8101847,
+   :latitude 41.2844548,
+   :source :openstreetmap}
+  {:name "Centro Cultural e Recreativo de Povoação",
+   :longitude -7.7512333,
+   :latitude 41.2226764,
+   :source :openstreetmap}
+  {:name "Centro Cultural e Recriativo de Candosa",
+   :longitude -7.9707722,
+   :latitude 40.3462096,
+   :source :openstreetmap}
+  {:name "Centro Cultural e Social Padre Amaral",
+   :longitude -25.1645977,
+   :latitude 37.8472766,
+   :source :openstreetmap,
+   :locality "Lomba da Fazenda"}
+  {:name "Centro Cultural Padre Manuel Raposo",
+   :longitude -25.2086568,
+   :latitude 37.8525435,
+   :source :openstreetmap,
+   :locality "Santo António de Nordestinho"}
+  {:name "Centro Cultural Solar dos Condes de Vinhais",
+   :longitude -7.0046045,
+   :latitude 41.8340345,
+   :source :openstreetmap}
+  {:name "Centro Cultural Vila Flor",
+   :longitude -8.2945869,
+   :latitude 41.4368746,
+   :source :openstreetmap,
+   :homepage "https://www.ccvf.pt/",
+   :locality "Guimarães"}
+  {:name "Centro da Cultura Judaica",
+   :longitude -7.3481561,
+   :latitude 40.7776324,
+   :source :openstreetmap}
+  {:name "Centro de Arte",
+   :longitude -8.0516454,
+   :latitude 37.0878381,
+   :source :openstreetmap}
+  {:name "Centro de Arte Alberto Carneiro",
+   :longitude -8.476583,
+   :latitude 41.3512017,
+   :source :openstreetmap}
+  {:name "Centro de Arte Contemporânea da Amadora",
+   :longitude -9.2268018,
+   :latitude 38.737432,
+   :source :openstreetmap}
+  {:name "Centro de Arte Oliva",
+   :longitude -8.4973975,
+   :latitude 40.9060334,
+   :source :openstreetmap,
+   :homepage "https://centrodearteoliva.pt/",
+   :locality "São João da Madeira"}
+  {:name "Centro de Artes de Águeda",
+   :longitude -8.4469577,
+   :latitude 40.5782961,
+   :source :openstreetmap,
+   :locality "Águeda"}
+  {:name "Centro de Artes e Criatividade",
+   :longitude -9.2599402,
+   :latitude 39.1010488,
+   :source :openstreetmap,
+   :homepage "https://cac-tvedras.pt"}
+  {:name "Centro de Artes e Cultura de Vila Verde",
+   :longitude -8.4379923,
+   :latitude 41.6509284,
+   :source :openstreetmap,
+   :locality "Vila Verde"}
+  {:name "Centro de Artes e de Ciências do Mar",
+   :longitude -28.2552881,
+   :latitude 38.4035178,
+   :source :openstreetmap}
+  {:name "Centro de Artes e Espetáculos",
+   :longitude -8.394411,
+   :latitude 40.8480212,
+   :source :openstreetmap,
+   :homepage "www.cae.cm-valedecambra.pt",
+   :locality "Gandra"}
+  {:name "Centro de Artes e Espetáculos (CAE)",
+   :longitude -8.8602557,
+   :latitude 40.1530411,
+   :source :openstreetmap,
+   :homepage "https://www.cae.pt/"}
+  {:name "Centro de Artes e Ofícios dos Fornos da Cruz de Pedra",
+   :longitude -8.3022207,
+   :latitude 41.4387253,
+   :source :openstreetmap,
+   :homepage "https://www.casadamemoria.pt/"}
+  {:name "Centro de Artes Nadir Afonso",
+   :longitude -7.6683978,
+   :latitude 41.6861424,
+   :source :openstreetmap}
+  {:name "Centro de Atividades Culturais e Recreativas da Salga",
+   :longitude -25.3009543,
+   :latitude 37.8483305,
+   :source :openstreetmap,
+   :locality "Salga"}
+  {:name "Centro de Ciência do Café",
+   :longitude -7.0962312,
+   :latitude 39.0433567,
+   :source :openstreetmap}
+  {:name "Centro de Ciência Viva",
+   :longitude -17.1678767,
+   :latitude 32.8672786,
+   :source :openstreetmap,
+   :homepage "http://www.portomoniz.cienciaviva.pt/home/"}
+  {:name "Centro De Convívio Social",
+   :longitude -8.3184589,
+   :latitude 39.7821434,
+   :source :openstreetmap}
+  {:name "Centro de Cultura Contemporânea de Castelo Branco",
+   :longitude -7.4901707,
+   :latitude 39.8233259,
+   :source :openstreetmap}
+  {:name "Centro de Cultura e Recreio do Orfeão da Feira",
+   :longitude -8.5449135,
+   :latitude 40.923384,
+   :source :openstreetmap,
+   :homepage "https://www.orfeaodafeira.pt",
+   :locality "Santa Maria da Feira"}
+  {:name "Centro de Divulgação Florestal do Nordeste",
+   :longitude -25.1498319,
+   :latitude 37.8283526,
+   :source :openstreetmap,
+   :locality "Nordeste"}
+  {:name
+   "Centro de Diálogo Intercultural de Leiria (Antiga Sinagoga de Leiria)",
+   :longitude -8.8078092,
+   :latitude 39.7452413,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visiteleiria.pt/pontos-de-interesse/museus/mimo-museu-da-imagem-em-movimento/"}
+  {:name "Centro de Documentação da Bugiada e Mouriscada",
+   :longitude -8.4645091,
+   :latitude 41.2126106,
+   :source :openstreetmap}
+  {:name "Centro de Educação Ambiental",
+   :longitude -8.7802929,
+   :latitude 41.5616704,
+   :source :openstreetmap,
+   :homepage
+   "https://www.esposendeambiente.pt/index.php/layout/cen.html",
+   :locality "Marinhas"}
+  {:name "Centro de Educação Ambiental das Ribeiras de Gaia",
+   :longitude -8.6532556,
+   :latitude 41.0651802,
+   :source :openstreetmap,
+   :locality "Miramar"}
+  {:name "Centro de Interpretaçao Mortagua na Batalha do Bussaco",
+   :longitude -8.2297206,
+   :latitude 40.3965307,
+   :source :openstreetmap,
+   :homepage "https://www.cm-mortagua.pt/"}
+  {:name "Centro de Interpretação Abrigo do Lagar Velho Lapedo",
+   :longitude -8.7313201,
+   :latitude 39.7581274,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visiteleiria.pt/pontos-de-interesse/museus/centro-de-interpretacao-do-abrigo-do-lagar-velho/"}
+  {:name "Centro de interpretação Ambiental da Caldeira Velha",
+   :longitude -25.5002412,
+   :latitude 37.7820708,
+   :source :openstreetmap,
+   :homepage "https://parquesnaturais.azores.gov.pt"}
+  {:name "Centro de Interpretação Ambiental de Leiria",
+   :longitude -8.8012112,
+   :latitude 39.740707,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visiteleiria.pt/pontos-de-interesse/museus/moinho-do-papel"}
+  {:name "Centro de Interpretação Ambiental de Salreu",
+   :longitude -8.5680833,
+   :latitude 40.7327081,
+   :source :openstreetmap,
+   :homepage "https://www.bioria.com/cia"}
+  {:name "Centro de Interpretação da Argemela",
+   :longitude -7.6077419,
+   :latitude 40.1741044,
+   :source :openstreetmap,
+   :homepage "https://www.argemela.pt"}
+  {:name "Centro de Interpretação da Batalha de Aljubarrota",
+   :longitude -8.8442463,
+   :latitude 39.6392217,
+   :source :openstreetmap}
+  {:name "Centro de Interpretação da Batalha de Atoleiros",
+   :longitude -7.6445248,
+   :latitude 39.0522348,
+   :source :openstreetmap}
+  {:name
+   "Centro de Interpretação da Cultura Sefardita do Nordeste Transmontano",
+   :longitude -6.7558097,
+   :latitude 41.8060433,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-braganca.pt/frontoffice/pages/543?poi_id=900"}
+  {:name "Centro de Interpretação da Natureza e do Montado",
+   :longitude -7.716186,
+   :latitude 38.332583,
+   :source :openstreetmap,
+   :homepage
+   "https://turismo.portel.pt/patrim%C3%B3nio/o-que-visitar/centro-de-interpreta%C3%A7%C3%A3o-da-natureza-e-do-montado/"}
+  {:name "Centro de Interpretação da República Afonso Costa",
+   :longitude -7.7052405,
+   :latitude 40.4220789,
+   :source :openstreetmap}
+  {:name
+   "Centro de Interpretação da Reserva Natural do Paul de Arzila",
+   :longitude -8.5542701,
+   :latitude 40.1824046,
+   :source :openstreetmap,
+   :homepage
+   "https://natural.pt/protected-areas/reserva-natural-paul-arzila/infrastructures/centro-interpretacao-rnpa",
+   :locality "Arzila"}
+  {:name
+   "Centro de Interpretação das Minas de Ouro de Castromil e Banjas",
+   :longitude -8.3864168,
+   :latitude 41.1557362,
+   :source :openstreetmap}
+  {:name "Centro de Interpretação do Vulcão dos Capelinhos",
+   :longitude -28.8254434,
+   :latitude 38.5967901,
+   :source :openstreetmap,
+   :homepage
+   "https://parquesnaturais.azores.gov.pt/pt/faial/oquevisitar/areasprotegidas/areapaisagemprotegida/index.php?option=com_content&view=article&id=100&Itemid=536",
+   :locality "Capelo"}
+  {:name "Centro de Interpretação Geológica de Canelas",
+   :longitude -8.2157879,
+   :latitude 40.9625293,
+   :source :openstreetmap,
+   :homepage "https://museudastrilobites.pt"}
+  {:name
+   "Centro de Interpretação Histórica e Arqueológica de Fornos de Algodres",
+   :longitude -7.5380207,
+   :latitude 40.6194065,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-fornosdealgodres.pt/institucional/servicos-municipais/cultura/museu-cihafa-centro-interpretacao-historico-e-arqueologico-de-fornos-de-algodres/",
+   :locality "Fornos de Algodres"}
+  {:name "Centro de Interpretação Turística e Museu de Sicó",
+   :longitude -8.5544263,
+   :latitude 39.9913558,
+   :source :openstreetmap}
+  {:name "Centro de Memória",
+   :longitude -8.7418152,
+   :latitude 41.3572253,
+   :source :openstreetmap,
+   :homepage "https://viladoconde.com/centro-de-memoria/"}
+  {:name "Centro de Monitorização e Interpretação Ambiental",
+   :longitude -7.9195535,
+   :latitude 40.6629457,
+   :source :openstreetmap,
+   :locality "Viseu"}
+  {:name "Centro de Monitorização e Interpretação Ambiental (CMIA)",
+   :longitude -8.6822904,
+   :latitude 41.1835844,
+   :source :openstreetmap,
+   :homepage "https://cmia-matosinhos.net/",
+   :locality "Matosinhos"}
+  {:name
+   "Centro de Monitorização e Interpretação Ambiental da Costa da Caparica",
+   :longitude -9.2412128,
+   :latitude 38.6472979,
+   :source :openstreetmap}
+  {:name "Centro de Monitorização e Investigação das Furnas",
+   :longitude -25.3377197,
+   :latitude 37.7514167,
+   :source :openstreetmap}
+  {:name "Centro de Referência da Memória Goiense",
+   :longitude -8.108223,
+   :latitude 40.1580946,
+   :source :openstreetmap}
+  {:name "Centro de Religiosidade Marítima",
+   :longitude -8.6704047,
+   :latitude 40.6018005,
+   :source :openstreetmap,
+   :homepage "https://museumaritimo.cm-ilhavo.pt/"}
+  {:name "Centro Desportivo e Cultural da Campeã",
+   :longitude -7.8739555,
+   :latitude 41.291492,
+   :source :openstreetmap,
+   :locality "Vila Real"}
+  {:name "Centro Folclórico de Duas Igrejas",
+   :longitude -8.2616963,
+   :latitude 41.1867791,
+   :source :openstreetmap}
+  {:name "Centro Intepretativo - Espaço Museológico de Algodres",
+   :longitude -7.0532395,
+   :latitude 40.9520318,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo Atouguia da Baleia",
+   :longitude -9.3272935,
+   :latitude 39.3406064,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo da Cereja",
+   :longitude -7.4454224,
+   :latitude 40.2347477,
+   :source :openstreetmap,
+   :homepage "http://www.centrointerpretativodacereja.pt/",
+   :locality "Ferro"}
+  {:name "Centro Interpretativo da Mulher Duriense",
+   :longitude -7.6924789,
+   :latitude 41.1066672,
+   :source :openstreetmap,
+   :homepage "https://www.cm-armamar.pt/pages/942",
+   :locality "Armamar"}
+  {:name "Centro Interpretativo da Máscara Ibérica",
+   :longitude -7.8448752,
+   :latitude 41.031373,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo Da Serra De Santa Bárbara",
+   :longitude -27.3246753,
+   :latitude 38.7118496,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo das Linhas de Torres Vedras",
+   :longitude -9.264508,
+   :latitude 39.099395,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo das Minas de Argozelo",
+   :longitude -6.6030663,
+   :latitude 41.6389346,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo das Raças Autóctones Portuguesas",
+   :longitude -6.9879065,
+   :latitude 41.8588833,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo de Arte Rupestre",
+   :longitude -7.8025399,
+   :latitude 40.2360901,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo de Arte-Xávega",
+   :longitude -8.8435663,
+   :latitude 40.3291423,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-cantanhede.pt/mcsite/entidade/3218/centro-de-interpretacao-de-arte-xavega",
+   :locality "Tocha"}
+  {:name "Centro Interpretativo de Cogula",
+   :longitude -7.2617297,
+   :latitude 40.8165647,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo de Panóias",
+   :longitude -7.6822705,
+   :latitude 41.2830022,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo de São Caetano",
+   :longitude -8.4451612,
+   :latitude 42.040571,
+   :source :openstreetmap,
+   :homepage
+   "https://www.rotadoalvarinho.pt/apex/f?p=101:15:0::NO::P15_ID_ADERENTE:539"}
+  {:name "Centro Interpretativo de São Lourenço",
+   :longitude -8.7609339,
+   :latitude 41.557022,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitesposende.com/pt/fazer/monumentos/centro-interpretativo-de-s-lourenco"}
+  {:name "Centro Interpretativo do Barco Rabelo",
+   :longitude -7.8659723,
+   :latitude 41.1611981,
+   :source :openstreetmap,
+   :locality "Vila Marim"}
+  {:name "Centro Interpretativo do Conhal",
+   :longitude -7.7053474,
+   :latitude 39.6159736,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo do Milho Antigo",
+   :longitude -8.2735436,
+   :latitude 40.6222033,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jf-prestimo-macieiradealcoba.pt/index.php/freguesia/3-centro-interpretativo-milho-antigo/body",
+   :locality "Macieira de Alcoba"}
+  {:name "Centro Interpretativo do Monte Padrão",
+   :longitude -8.4443037,
+   :latitude 41.3131474,
+   :source :openstreetmap,
+   :homepage "https://www.cm-stirso.pt/pages/346"}
+  {:name "Centro Interpretativo do Mosteiro de Santa Clara-a-Velha",
+   :longitude -8.4324002,
+   :latitude 40.2012223,
+   :source :openstreetmap,
+   :homepage
+   "https://www.culturacentro.gov.pt/mosteiro-santa-clara-a-velha",
+   :locality "Coimbra"}
+  {:name "Centro Interpretativo do Parque das Nações",
+   :longitude -9.0950337,
+   :latitude 38.766727,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo do Parque Natural de Montesinho",
+   :longitude -6.7665192,
+   :latitude 41.9392319,
+   :source :openstreetmap}
+  {:name "Centro Interpretativo do Património da Afurada",
+   :longitude -8.6469406,
+   :latitude 41.1435087,
+   :source :openstreetmap,
+   :homepage
+   "https://parquebiologico.pt/centro-interpretativo-do-patrimonio-da-afurada",
+   :locality "Vila Nova de Gaia"}
+  {:name "Centro Interpretativo Tapete Arraiolos",
+   :longitude -7.9844438,
+   :latitude 38.7258981,
+   :source :openstreetmap}
+  {:name "Centro Marítimo de Esposende",
+   :longitude -8.7843459,
+   :latitude 41.5323613,
+   :source :openstreetmap}
+  {:name "Centro Municipal de Cultura",
+   :longitude -25.6715996,
+   :latitude 37.7401947,
+   :source :openstreetmap}
+  {:name "Centro Municipal de Cultura de Castro Daire",
+   :longitude -7.9301712,
+   :latitude 40.9007785,
+   :source :openstreetmap}
+  {:name "Centro náutico da Barquinha",
+   :longitude -8.4271044,
+   :latitude 39.4579606,
+   :source :openstreetmap}
+  {:name "Centro Núcleo dos Dragoeiros das Neves",
+   :longitude -16.869283,
+   :latitude 32.6485822,
+   :source :openstreetmap}
+  {:name "Centro para os Assuntos da Arte e Arquitectura",
+   :longitude -8.2987624,
+   :latitude 41.4387613,
+   :source :openstreetmap}
+  {:name "Centro Social Paroquial de Alfeizerão",
+   :longitude -9.1001987,
+   :latitude 39.5019878,
+   :source :openstreetmap}
+  {:name "CICA - Centro Interpretativo do Castelo de Ansiães",
+   :longitude -7.3004263,
+   :latitude 41.2452963,
+   :source :openstreetmap,
+   :locality "Carrazeda de Ansiães"}
+  {:name "Cine-Teatro de Fafe",
+   :longitude -8.1711007,
+   :latitude 41.4499111,
+   :source :openstreetmap}
+  {:name "Club 7+",
+   :longitude -9.1755877,
+   :latitude 38.7453866,
+   :source :openstreetmap}
+  {:name "Clube Português de Automóveis Antigos",
+   :longitude -9.2843493,
+   :latitude 38.699465,
+   :source :openstreetmap}
+  {:name "CNAP-Galeria de arte",
+   :longitude -9.1639893,
+   :latitude 38.7609597,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Coleção Museológica de Rádio e de Televisão",
+   :longitude -9.1180059,
+   :latitude 38.7588255,
+   :source :openstreetmap,
+   :homepage "https://museu.rtp.pt"}
+  {:name "colorida art Gallery",
+   :longitude -9.1631223,
+   :latitude 38.7296527,
+   :source :openstreetmap}
+  {:name "Companhia Olga Roriz",
+   :longitude -9.1183846,
+   :latitude 38.7193303,
+   :source :openstreetmap,
+   :homepage "http://museudaagua.epal.pt"}
+  {:name "Complexo Monumental de Santiago da Guarda",
+   :longitude -8.4803357,
+   :latitude 39.9480365,
+   :source :openstreetmap}
+  {:name "Comur - Museu Municipal",
+   :longitude -8.6474068,
+   :latitude 40.7502577,
+   :source :openstreetmap,
+   :locality "Murtosa"}
+  {:name "Consciencia",
+   :longitude -8.3150725,
+   :latitude 37.1253201,
+   :source :openstreetmap}
+  {:name "Convento da Graça Museu de Arte Sacra",
+   :longitude -7.4944093,
+   :latitude 39.8293729,
+   :source :openstreetmap,
+   :homepage
+   "https://www.scmcastelobranco.pt/nportal/museu-de-arte-sacra/",
+   :locality "Castelo Branco"}
+  {:name "Convento de São Francisco",
+   :longitude -8.4385351,
+   :latitude 41.5603739,
+   :source :openstreetmap}
+  {:name "Convento de São Francisco - Centro de Cultura e Congressos",
+   :longitude -8.4360098,
+   :latitude 40.2036738,
+   :source :openstreetmap,
+   :homepage "https://www.coimbraconvento.pt/",
+   :locality "Coimbra"}
+  {:name "Convento do Carmo",
+   :longitude -8.5363873,
+   :latitude 39.4814762,
+   :source :openstreetmap,
+   :homepage "https://museu.cm-torresnovas.pt"}
+  {:name "Convento dos Capuchos",
+   :longitude -9.2222236,
+   :latitude 38.6456334,
+   :source :openstreetmap}
+  {:name "Cooperativa de Ensino Artístico - CEA",
+   :longitude -8.4058521,
+   :latitude 41.5465362,
+   :source :openstreetmap,
+   :homepage "https://www.artecea.org/",
+   :locality "Braga"}
+  {:name "Cordoaria Nacional",
+   :longitude -9.1902325,
+   :latitude 38.6976492,
+   :source :openstreetmap}
+  {:name "CriArte",
+   :longitude -9.3368515,
+   :latitude 38.6896838,
+   :source :openstreetmap}
+  {:name "Cripta Arqueológica",
+   :longitude -8.5141595,
+   :latitude 38.3722127,
+   :source :openstreetmap}
+  {:name "Culturgest",
+   :longitude -9.1426048,
+   :latitude 38.7409491,
+   :source :openstreetmap,
+   :homepage "https://culturgest.pt/"}
+  {:name "Círculo da Arquitetura",
+   :longitude -9.3108181,
+   :latitude 38.6922083,
+   :source :openstreetmap}
+  {:name "Círculo de Animação Cultural de Alhos Vedros C.A.C.A.V.",
+   :longitude -9.0257346,
+   :latitude 38.6532045,
+   :source :openstreetmap,
+   :homepage "https://www.cacav.org/",
+   :locality "Alhos Vedros"}
+  {:name "Domus Municipalis",
+   :longitude -6.949826,
+   :latitude 40.5928421,
+   :source :openstreetmap}
+  {:name "DUPLEX AIR",
+   :longitude -9.1307992,
+   :latitude 38.7218662,
+   :source :openstreetmap}
+  {:name "E.R.V.A. gallery",
+   :longitude -8.4317939,
+   :latitude 40.2123959,
+   :source :openstreetmap,
+   :homepage "https://cav-ef.net",
+   :locality "Coimbra"}
+  {:name "Eco Museu",
+   :longitude -8.1541573,
+   :latitude 40.1200825,
+   :source :openstreetmap}
+  {:name "Ecomuseu Centro Avifauna do Barroso",
+   :longitude -7.8997747,
+   :latitude 41.9068666,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ecomuseu.org/index/pt-pt/visite/freguesias/tourem"}
+  {:name "Ecomuseu da Serra da Lousã",
+   :longitude -8.2484862,
+   :latitude 40.1165684,
+   :source :openstreetmap,
+   :homepage
+   "https://cm-lousa.pt/locais/museu-municipal-prof-alvaro-viana-de-lemos/"}
+  {:name "Ecomuseu de Barroso - Espaço Padre Fontes",
+   :longitude -7.7914062,
+   :latitude 41.8252568,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ecomuseu.org/index/pt-pt/visite/polos/ecomuseu-barroso-espaco-padre-fontes"}
+  {:name "Ecomuseu do Barroso - Casa do Capitão",
+   :longitude -7.9453187,
+   :latitude 41.6382254,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ecomuseu.org/index/pt-pt/visite/polos/ecomuseu-barroso-casa-capitao"}
+  {:name "Ecomuseu do Zêzere",
+   :longitude -7.3517846,
+   :latitude 40.3581337,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-belmonte.pt/diretorio/ecomuseu-do-zezere/",
+   :locality "Belmonte"}
+  {:name "Ecomuseu Marinha da Troncalhada",
+   :longitude -8.6629826,
+   :latitude 40.6440852,
+   :source :openstreetmap}
+  {:name "Ecomuseu Vezeira e a Serra",
+   :longitude -8.0907007,
+   :latitude 41.7005603,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ecomuseu.org/index/pt-pt/visite/polos/ecomuseu-barroso-vezeira-serra"}
+  {:name "Ecoteca de Mirandela",
+   :longitude -7.1797255,
+   :latitude 41.4907635,
+   :source :openstreetmap,
+   :homepage "https://www.cm-mirandela.pt/pages/2123",
+   :locality "Mirandela"}
+  {:name "Edificio a Moagem",
+   :longitude -7.4968377,
+   :latitude 40.1421624,
+   :source :openstreetmap}
+  {:name "Edificio SOL",
+   :longitude -28.2504767,
+   :latitude 38.7177236,
+   :source :openstreetmap}
+  {:name "Edifício A4",
+   :longitude -9.0707668,
+   :latitude 38.6658888,
+   :source :openstreetmap}
+  {:name "Elipse Foundation",
+   :longitude -9.3907898,
+   :latitude 38.7366874,
+   :source :openstreetmap}
+  {:name "Eminente Tattoo e Galeria",
+   :longitude -7.909886,
+   :latitude 40.6457274,
+   :source :openstreetmap}
+  {:name "Engenho da cana de açucar",
+   :longitude -17.1773219,
+   :latitude 32.7228043,
+   :source :openstreetmap,
+   :homepage
+   "http://www.visitmadeira.pt/pt-pt/explorar/engenhos-da-calheta"}
+  {:name "Equuspolis",
+   :longitude -8.4784429,
+   :latitude 39.4012159,
+   :source :openstreetmap}
+  {:name "Escola Antiga",
+   :longitude -8.4700276,
+   :latitude 39.5416984,
+   :source :openstreetmap}
+  {:name "Escola da Floresta",
+   :longitude -7.5704118,
+   :latitude 40.2662337,
+   :source :openstreetmap,
+   :homepage "https://ecoteca.pt/projecto/escola-da-floresta",
+   :locality "Bouça"}
+  {:name "Escola das Artes",
+   :longitude -8.6879881,
+   :latitude 41.1824635,
+   :source :openstreetmap}
+  {:name "Escola de Belas Artes",
+   :longitude -8.6486803,
+   :latitude 40.6367319,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-aveiro.pt/visitantes/museus-de-aveiro/museu-de-aveiro-santa-joana"}
+  {:name "Escola-Museu Salgueiro Maia",
+   :longitude -8.5132227,
+   :latitude 38.8456162,
+   :source :openstreetmap}
+  {:name "Espaço +",
+   :longitude -8.7967854,
+   :latitude 37.3162839,
+   :source :openstreetmap,
+   :homepage "https://cm-aljezur.pt/pt/menu/269/espaco--.aspx"}
+  {:name "Espaço Artes Lousada",
+   :longitude -8.2828246,
+   :latitude 41.2762424,
+   :source :openstreetmap}
+  {:name "Espaço Cidadão de Palmela",
+   :longitude -8.9016833,
+   :latitude 38.5686389,
+   :source :openstreetmap}
+  {:name "Espaço Corpus Christi",
+   :longitude -8.6174219,
+   :latitude 41.1364421,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-gaia.pt/pt/eventos/espaco-corpus-christi/",
+   :locality "Santa Marinha"}
+  {:name "Espaço Douro do Frei de Mansilha",
+   :longitude -7.7844122,
+   :latitude 41.2088387,
+   :source :openstreetmap}
+  {:name "Espaço Imperfeito",
+   :longitude -9.1278768,
+   :latitude 38.7366069,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Espaço Memória e Fronteira",
+   :longitude -8.259777,
+   :latitude 42.1114493,
+   :source :openstreetmap}
+  {:name "Espaço Miguel Torga",
+   :longitude -7.620887,
+   :latitude 41.2640744,
+   :source :openstreetmap,
+   :homepage "https://www.espacomigueltorga.pt",
+   :locality "São Martinho de Anta"}
+  {:name "Espaço Mira",
+   :longitude -8.5873615,
+   :latitude 41.1485832,
+   :source :openstreetmap,
+   :homepage "https://miragalerias.net/homepage/",
+   :locality "Campanhã"}
+  {:name "Espaço Museológico da Santa Casa da Lourinhã",
+   :longitude -9.3142364,
+   :latitude 39.2427989,
+   :source :openstreetmap}
+  {:name "Espaço Museológico de Macinhata do Vouga",
+   :longitude -8.458691,
+   :latitude 40.6536366,
+   :source :openstreetmap}
+  {:name "Espaço-Museu da Villa Romana do Rabaçal",
+   :longitude -8.4546917,
+   :latitude 40.03,
+   :source :openstreetmap,
+   :homepage "https://www.cm-penela.pt/artigo-177-0",
+   :locality "Rabaçal"}
+  {:name "Estação Memória",
+   :longitude -8.1707165,
+   :latitude 41.4551107,
+   :source :openstreetmap}
+  {:name "Estúdio Arte, Desenho & Pintura",
+   :longitude -8.5365629,
+   :latitude 40.9321152,
+   :source :openstreetmap,
+   :locality "Santa Maria da Feira"}
+  {:name "Etnografico",
+   :longitude -16.8446133,
+   :latitude 32.679872,
+   :source :openstreetmap}
+  {:name "Experiência Pilar 7",
+   :longitude -9.1788655,
+   :latitude 38.7004123,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitlisboa.com/pt-pt/locais/experiencia-pilar-7"}
+  {:name "Exploratório - Centro Ciência Viva de Coimbra",
+   :longitude -8.4292963,
+   :latitude 40.1970273,
+   :source :openstreetmap,
+   :homepage "https://www.exploratorio.pt/",
+   :locality "Coimbra"}
+  {:name "Exposição Arqueologia",
+   :longitude -8.4532366,
+   :latitude 39.4404157,
+   :source :openstreetmap}
+  {:name "Exposição Cortiça",
+   :longitude -7.8855651,
+   :latitude 37.1529546,
+   :source :openstreetmap}
+  {:name "Exposição faróis da Madeira",
+   :longitude -17.2630413,
+   :latitude 32.8138727,
+   :source :openstreetmap}
+  {:name "Exposição Fatima Luz e Paz",
+   :longitude -8.6722832,
+   :latitude 39.6307551,
+   :source :openstreetmap}
+  {:name "Fabrica de Chá Porto Formoso",
+   :longitude -25.4241078,
+   :latitude 37.8158468,
+   :source :openstreetmap,
+   :homepage "https://chaportoformoso.com/en/"}
+  {:name "Farol Museu de Santa Marta",
+   :longitude -9.4211544,
+   :latitude 38.6905948,
+   :source :openstreetmap,
+   :homepage "http://motorpassion.pt"}
+  {:name "Ferreiro Ferrador",
+   :longitude -25.571457,
+   :latitude 37.7466823,
+   :source :openstreetmap}
+  {:name "For.ever Art Gallery",
+   :longitude -9.1517934,
+   :latitude 38.7315428,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Forte de São Francisco Xavier",
+   :longitude -8.6899028,
+   :latitude 41.1685461,
+   :source :openstreetmap}
+  {:name "Forte de São Miguel Arcanjo",
+   :longitude -9.0851381,
+   :latitude 39.6044864,
+   :source :openstreetmap}
+  {:name "Forum Arte Braga",
+   :longitude -8.4219338,
+   :latitude 41.5418039,
+   :source :openstreetmap,
+   :homepage "https://www.forumartebraga.com/"}
+  {:name "Frauga, Loja de Ecomuseu",
+   :longitude -6.3669873,
+   :latitude 41.3989438,
+   :source :openstreetmap,
+   :homepage "https://www.frauga.pt"}
+  {:name "Fronteira da Paz -Vilar Formoso",
+   :longitude -6.8299227,
+   :latitude 40.6063632,
+   :source :openstreetmap,
+   :homepage "https://vilarformosofronteiradapaz.cm-almeida.pt/"}
+  {:name "Fundação Castro Alves",
+   :longitude -8.4246378,
+   :latitude 41.374555,
+   :source :openstreetmap,
+   :locality "Bairro"}
+  {:name "Fundação Dionísio e Alice Pinheiro",
+   :longitude -8.4407112,
+   :latitude 40.5764487,
+   :source :openstreetmap,
+   :homepage "www.fundacaodionisiopinheiro.pt",
+   :locality "Águeda"}
+  {:name "Fundação Escultor José Rodrigues",
+   :longitude -8.6059522,
+   :latitude 41.1565281,
+   :source :openstreetmap}
+  {:name "Fábrica - Centro Ciência Viva de Aveiro",
+   :longitude -8.6576966,
+   :latitude 40.6381457,
+   :source :openstreetmap,
+   :homepage "http://www.fabrica.cienciaviva.ua.pt/"}
+  {:name "Fábrica da Criatividade",
+   :longitude -7.4830742,
+   :latitude 39.824342,
+   :source :openstreetmap}
+  {:name "Fábrica da Pólvora de Barcarena",
+   :longitude -9.284673,
+   :latitude 38.7409302,
+   :source :openstreetmap,
+   :homepage
+   "https://www.oeiras.pt/f%C3%A1brica-da-p%C3%B3lvora-de-barcarena"}
+  {:name "Fábrica de Chá Gorreana",
+   :longitude -25.4024254,
+   :latitude 37.8184184,
+   :source :openstreetmap,
+   :homepage "https://gorreana.pt/",
+   :locality "Maia"}
+  {:name "Fórum Cultural de Vila Nova de Cerveira",
+   :longitude -8.7426907,
+   :latitude 41.9461691,
+   :source :openstreetmap}
+  {:name "Fórum Cultural José Manuel Figueiredo",
+   :longitude -9.0459483,
+   :latitude 38.6610883,
+   :source :openstreetmap}
+  {:name "Fórum Cultural Transfronteiriço de Alandroal",
+   :longitude -7.4057798,
+   :latitude 38.7019794,
+   :source :openstreetmap}
+  {:name "Fórum Luís de Camões",
+   :longitude -9.2137278,
+   :latitude 38.764802,
+   :source :openstreetmap}
+  {:name "Fórum Machico",
+   :longitude -16.765148,
+   :latitude 32.7166924,
+   :source :openstreetmap}
+  {:name "Galeria Alvarez",
+   :longitude -8.6321314,
+   :latitude 41.1582684,
+   :source :openstreetmap}
+  {:name "Galeria Antonio Lopes",
+   :longitude -7.505543,
+   :latitude 40.2801182,
+   :source :openstreetmap,
+   :locality "Covilhã"}
+  {:name "Galeria Between",
+   :longitude -7.9292874,
+   :latitude 37.0219455,
+   :source :openstreetmap}
+  {:name "Galeria da Biodiversidade",
+   :longitude -8.642456,
+   :latitude 41.153623,
+   :source :openstreetmap,
+   :homepage "https://mhnc.up.pt/galeria-da-biodiversidade/",
+   :locality "Porto"}
+  {:name "Galeria da Estação",
+   :longitude -8.6405833,
+   :latitude 40.6441823,
+   :source :openstreetmap}
+  {:name "Galeria de Arte Beltrão Coelho",
+   :longitude -9.1279487,
+   :latitude 38.74219,
+   :source :openstreetmap}
+  {:name "Galeria de Arte da Praça do Mar",
+   :longitude -8.104135,
+   :latitude 37.0680934,
+   :source :openstreetmap}
+  {:name "Galeria de arte do Convento do Espírito Santo",
+   :longitude -8.0234288,
+   :latitude 37.1392112,
+   :source :openstreetmap}
+  {:name "Galeria de Arte Molduras",
+   :longitude -9.1514149,
+   :latitude 38.6839044,
+   :source :openstreetmap}
+  {:name "Galeria de Arte Santo André",
+   :longitude -8.472713,
+   :latitude 40.9973785,
+   :source :openstreetmap}
+  {:name "Galeria de Exposições do Centro Multimeios de Espinho",
+   :longitude -8.6385743,
+   :latitude 41.0062125,
+   :source :openstreetmap}
+  {:name "Galeria de Exposições Temporárias",
+   :longitude -7.4304633,
+   :latitude 39.2909605,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-portalegre.pt/pt/atividade-municipal/cultura/museus"}
+  {:name "Galeria dos Prazeres",
+   :longitude -17.2022587,
+   :latitude 32.7534596,
+   :source :openstreetmap,
+   :homepage "http://galeriadosprazeres.blogspot.pt/"}
+  {:name "Galeria e Auditório Municipal",
+   :longitude -9.1520246,
+   :latitude 39.0183289,
+   :source :openstreetmap}
+  {:name "Galeria Espaço D'Artes",
+   :longitude -7.7443216,
+   :latitude 41.2974666,
+   :source :openstreetmap,
+   :homepage "https://www.ccd.cm-vilareal.pt/"}
+  {:name "Galeria Foco",
+   :longitude -9.1365234,
+   :latitude 38.7226921,
+   :source :openstreetmap,
+   :homepage "https://galeriafoco.com"}
+  {:name "Galeria Fonseca Macedo",
+   :longitude -25.6687323,
+   :latitude 37.7433978,
+   :source :openstreetmap,
+   :homepage
+   "https://museucarlosmachado.azores.gov.pt/en/default.aspx"}
+  {:name "Galeria Francisco Fino",
+   :longitude -9.10539,
+   :latitude 38.738514,
+   :source :openstreetmap,
+   :homepage "https://franciscofino.com"}
+  {:name "Galeria IMAGO LISBOA",
+   :longitude -9.122934,
+   :latitude 38.7183482,
+   :source :openstreetmap}
+  {:name "Galeria Lehmann + Silva",
+   :longitude -8.5982785,
+   :latitude 41.1458658,
+   :source :openstreetmap,
+   :homepage "https://www.lehmannsilva.com/"}
+  {:name "Galeria Madragoa",
+   :longitude -9.1606026,
+   :latitude 38.7123811,
+   :source :openstreetmap,
+   :homepage "https://galeriamadragoa.pt"}
+  {:name "Galeria Municipal",
+   :longitude -8.8921893,
+   :latitude 38.5226714,
+   :source :openstreetmap}
+  {:name "Galeria Municipal",
+   :longitude -7.9138889,
+   :latitude 39.9196157,
+   :source :openstreetmap}
+  {:name "Galeria Municipal",
+   :longitude -8.2009792,
+   :latitude 39.464259,
+   :source :openstreetmap}
+  {:name "Galeria Municipal de Arte",
+   :longitude -9.1646879,
+   :latitude 38.6768787,
+   :source :openstreetmap,
+   :homepage "https://ateliersdearte.com/"}
+  {:name "Galeria Municipal de Arte da Costa de Caparica",
+   :longitude -9.2345161,
+   :latitude 38.6442546,
+   :source :openstreetmap,
+   :homepage "http://ahms.pt/"}
+  {:name "Galeria Municipal de Arte de Barcelos",
+   :longitude -8.6176849,
+   :latitude 41.5303398,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-barcelos.pt/viver/cultura/galeria-municipal-de-arte/",
+   :locality "Barcelos"}
+  {:name "Galeria Municipal de Montemor-o-Novo",
+   :longitude -8.2157591,
+   :latitude 38.645744,
+   :source :openstreetmap}
+  {:name "Galeria Municipal do Porto",
+   :longitude -8.6269404,
+   :latitude 41.14815,
+   :source :openstreetmap,
+   :homepage "https://www.galeriamunicipaldoporto.pt/",
+   :locality "Porto"}
+  {:name "Galeria Munincipal",
+   :longitude -7.8885973,
+   :latitude 37.1529904,
+   :source :openstreetmap,
+   :homepage "http://museu-sbras.com/"}
+  {:name "Galeria Mário Sequeira",
+   :longitude -8.4616402,
+   :latitude 41.5612501,
+   :source :openstreetmap,
+   :homepage "http://www.mariosequeira.com"}
+  {:name "Galeria Nuno Centeno",
+   :longitude -8.6019982,
+   :latitude 41.1558317,
+   :source :openstreetmap}
+  {:name "Galeria Ourique's Villa",
+   :longitude -9.1687612,
+   :latitude 38.7197786,
+   :source :openstreetmap}
+  {:name "Galeria Resistência",
+   :longitude -9.1545691,
+   :latitude 38.7385784,
+   :source :openstreetmap,
+   :homepage "https://galeriaresistencia.com/",
+   :locality "Avenidas Novas"}
+  {:name "Galeria SALA 117",
+   :longitude -8.6119559,
+   :latitude 41.1620299,
+   :source :openstreetmap,
+   :homepage "https://arteemaccao.com/"}
+  {:name "Galeria Sete",
+   :longitude -8.4011733,
+   :latitude 40.205905,
+   :source :openstreetmap,
+   :homepage "https://galeriasete.com/",
+   :locality "Coimbra"}
+  {:name "Galeria Underdogs",
+   :longitude -9.1001744,
+   :latitude 38.7462096,
+   :source :openstreetmap,
+   :homepage "https://www.fabricabracodeprata.com/"}
+  {:name "Galeria Vera Cortês",
+   :longitude -9.1419621,
+   :latitude 38.7569364,
+   :source :openstreetmap}
+  {:name "gnration",
+   :longitude -8.4262979,
+   :latitude 41.5534952,
+   :source :openstreetmap,
+   :homepage "https://www.gnration.pt"}
+  {:name "Grupo Desportivo e Cultural de Quintela",
+   :longitude -7.7832275,
+   :latitude 41.2997592,
+   :source :openstreetmap}
+  {:name
+   "Grupo Folclórico Cultural e Recreativo de Albergaria-a-Velha",
+   :longitude -8.4812581,
+   :latitude 40.6940524,
+   :source :openstreetmap,
+   :homepage "http://www.facebook.com/gfcr.albergaria",
+   :locality "Albergaria-a-Velha"}
+  {:name "Grupo Folclórico São Salvador Macieira Da Maia",
+   :longitude -8.6778015,
+   :latitude 41.3405472,
+   :source :openstreetmap}
+  {:name "Hangar: Centro de Investigação Artística",
+   :longitude -9.1322626,
+   :latitude 38.7184882,
+   :source :openstreetmap,
+   :homepage "https://hangar.com.pt/",
+   :locality "Lisboa"}
+  {:name "Hannah Art Gallery",
+   :longitude -8.2079502,
+   :latitude 40.1559581,
+   :source :openstreetmap}
+  {:name "Ideia, investigação em arte e design",
+   :longitude -8.6926869,
+   :latitude 41.1852281,
+   :source :openstreetmap}
+  {:name "Igreja de Santa Maria de Aguiar",
+   :longitude -6.941615,
+   :latitude 40.8765518,
+   :source :openstreetmap}
+  {:name "Igreja de Santa Maria do Castelo",
+   :longitude -8.1950165,
+   :latitude 39.4647748,
+   :source :openstreetmap}
+  {:name "Igreja de Santo Amaro",
+   :longitude -7.866073,
+   :latitude 38.0176608,
+   :source :openstreetmap}
+  {:name "Igreja de São Pedro de Penaferrim",
+   :longitude -9.3882003,
+   :latitude 38.7923679,
+   :source :openstreetmap}
+  {:name "Instituição João Tomas Nunes",
+   :longitude -8.5257618,
+   :latitude 40.568843,
+   :source :openstreetmap}
+  {:name "Instituto do Vinho da Madeira",
+   :longitude -16.909054,
+   :latitude 32.651078,
+   :source :openstreetmap,
+   :homepage "http://museufotografia.madeira.gov.pt/"}
+  {:name "Instituto Goethe",
+   :longitude -9.1410167,
+   :latitude 38.7211742,
+   :source :openstreetmap}
+  {:name "Kubikgallery",
+   :longitude -8.630921,
+   :latitude 41.1462777,
+   :source :openstreetmap,
+   :homepage "https://kubikgallery.com/",
+   :locality "Porto"}
+  {:name "Laboratório de Actividades Criativas",
+   :longitude -8.677931,
+   :latitude 37.105676,
+   :source :openstreetmap,
+   :homepage "https://www.lac.org.pt/categoria/destaques/"}
+  {:name "Lagar da Cera",
+   :longitude -7.0130002,
+   :latitude 41.1528152,
+   :source :openstreetmap}
+  {:name "Lagar de Azeite",
+   :longitude -7.6417007,
+   :latitude 40.2217107,
+   :source :openstreetmap,
+   :homepage "https://ciazeite.pt/"}
+  {:name "Lagar de Azeite",
+   :longitude -7.144393,
+   :latitude 39.9960322,
+   :source :openstreetmap}
+  {:name "Lagar de Ervidel",
+   :longitude -8.0827073,
+   :latitude 37.9663037,
+   :source :openstreetmap}
+  {:name "Lagar de Varas de Parada",
+   :longitude -8.041582,
+   :latitude 40.4000731,
+   :source :openstreetmap}
+  {:name "Leica Gallery Porto",
+   :longitude -8.6097263,
+   :latitude 41.1464889,
+   :source :openstreetmap,
+   :homepage "https://pt.leica-camera.com/leica-gallery/",
+   :locality "Porto"}
+  {:name "Liga dos Combatentes - Núcleo Museológico do Porto",
+   :longitude -8.6042551,
+   :latitude 41.1476324,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ligacombatentes.org/museu-do-nucleo-do-porto/",
+   :locality "Porto"}
+  {:name "Lisboa Story Center",
+   :longitude -9.1352861,
+   :latitude 38.7077328,
+   :source :openstreetmap,
+   :homepage
+   "https://lisboastorycentre.pt/en/content/reduced-mobility",
+   :locality "Lisboa"}
+  {:name "Lisbon Gallery",
+   :longitude -9.1408853,
+   :latitude 38.7309565,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Locomotiva BA-101",
+   :longitude -6.8263676,
+   :latitude 40.6062001,
+   :source :openstreetmap}
+  {:name "Ludoteca Municipal de Leiria",
+   :longitude -8.8125512,
+   :latitude 39.7519389,
+   :source :openstreetmap}
+  {:name "Lugar da Terra",
+   :longitude -9.1251386,
+   :latitude 38.4575358,
+   :source :openstreetmap,
+   :homepage "https://www.jf-castelo.pt/"}
+  {:name "Lugar do Desenho",
+   :longitude -8.5628226,
+   :latitude 41.1268036,
+   :source :openstreetmap}
+  {:name "MAAT - A Fábrica da Eletricidade",
+   :longitude -9.1953987,
+   :latitude 38.6957445,
+   :source :openstreetmap,
+   :homepage "https://www.maat.pt/pt/event/fabrica-da-eletricidade"}
+  {:name "Made In Situ",
+   :longitude -9.1464232,
+   :latitude 38.7171812,
+   :source :openstreetmap,
+   :homepage "https://madeinsitu.com/"}
+  {:name "Madeira Story Centre",
+   :longitude -16.9024981,
+   :latitude 32.6478592,
+   :source :openstreetmap,
+   :homepage "http://www.madeirastorycentre.com/"}
+  {:name "MassalArte Atelier",
+   :longitude -8.1312984,
+   :latitude 40.3960827,
+   :source :openstreetmap}
+  {:name "Memorial ao 25 de Abril de 1974",
+   :longitude -8.5678139,
+   :latitude 38.1835341,
+   :source :openstreetmap}
+  {:name "Memorial Irmã Lúcia",
+   :longitude -8.4149927,
+   :latitude 40.2066742,
+   :source :openstreetmap,
+   :homepage "https://lucia.pt/memorial/",
+   :locality "Coimbra"}
+  {:name "Mercado Negro",
+   :longitude -8.6547556,
+   :latitude 40.6416415,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-aveiro.pt/visitantes/arte-publica/monumentos/poi/museu-arte-nova"}
+  {:name "MIAA - Museu Ibérico de Arqueologia e Arte de Abrantes",
+   :longitude -8.1975167,
+   :latitude 39.4605986,
+   :source :openstreetmap,
+   :locality "Abrantes"}
+  {:name "Micro Museu de Santa Clara",
+   :longitude -8.4317757,
+   :latitude 40.2049363,
+   :source :openstreetmap}
+  {:name "Minimuseu",
+   :longitude -8.1151056,
+   :latitude 37.2503837,
+   :source :openstreetmap}
+  {:name "Miúdos e Graúdos",
+   :longitude -8.7557793,
+   :latitude 41.3754468,
+   :source :openstreetmap,
+   :homepage "http://www.miudosegraudos.com/"}
+  {:name "Moagem de Sampaio",
+   :longitude -9.0968045,
+   :latitude 38.4655357,
+   :source :openstreetmap,
+   :locality "Sampaio"}
+  {:name "Moinho de Corroios",
+   :longitude -9.1446728,
+   :latitude 38.6435644,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-seixal.pt/ecomuseu-municipal/moinho-de-mare-de-corroios"}
+  {:name "Moinho de Maré da Mourisca",
+   :longitude -8.8031371,
+   :latitude 38.5282924,
+   :source :openstreetmap}
+  {:name "Moinho de Maré das Azenhas de D. Prior",
+   :longitude -8.8177997,
+   :latitude 41.6969471,
+   :source :openstreetmap,
+   :homepage
+   "https://ambiente.cm-viana-castelo.pt/servicos-educativos/exposicoes/permanente/moinho-de-mare-em-viana-do-castelo"}
+  {:name "Moinho de Maré do Cais das Faluas",
+   :longitude -8.9795533,
+   :latitude 38.7035604,
+   :source :openstreetmap,
+   :homepage "https://www.mun-montijo.pt/pages/797"}
+  {:name "Moinho de Vento do Esteval",
+   :longitude -8.9667686,
+   :latitude 38.7145077,
+   :source :openstreetmap,
+   :homepage "https://www.mun-montijo.pt/pages/798",
+   :locality "Montijo"}
+  {:name "Monte Mariposa",
+   :longitude -7.7650926,
+   :latitude 37.158054,
+   :source :openstreetmap}
+  {:name "Mosteiro de Lorvão",
+   :longitude -8.318079,
+   :latitude 40.2594369,
+   :source :openstreetmap}
+  {:name "Mosteiro de São Martinho de Tibães",
+   :longitude -8.4788188,
+   :latitude 41.555419,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-braga.pt/pt/1201/conhecer/historia-e-patrimonio/museus/item/item-1-664",
+   :locality "Mire de Tibães"}
+  {:name "Moínho de Vento da Apelação",
+   :longitude -9.1282103,
+   :latitude 38.8152316,
+   :source :openstreetmap,
+   :homepage
+   "https://jf-camarate-unhos-apelacao.pt/diretorio/moinho-da-apelacao/"}
+  {:name "Mudas - Museu de Arte Contemporânea",
+   :longitude -17.1805128,
+   :latitude 32.7228799,
+   :source :openstreetmap,
+   :homepage "http://www.mudasmuseuvirtual.com/"}
+  {:name "Murais de Almada Negreiros nas Gares Marítimas",
+   :longitude -9.17442,
+   :latitude 38.699236,
+   :source :openstreetmap}
+  {:name "Musea de imprensa Madeira",
+   :longitude -16.9794042,
+   :latitude 32.649379,
+   :source :openstreetmap}
+  {:name "Museo de Vila do Bispo",
+   :longitude -8.9113175,
+   :latitude 37.0856554,
+   :source :openstreetmap}
+  {:name "Museo do Mar et da terra da Carrapateira",
+   :longitude -8.8934262,
+   :latitude 37.1840053,
+   :source :openstreetmap}
+  {:name "Museo Francisco e Jacinta Marto",
+   :longitude -8.6764495,
+   :latitude 39.6330063,
+   :source :openstreetmap,
+   :homepage "https://pastorinhos.com/"}
+  {:name "Museu - A Estação",
+   :longitude -8.9153057,
+   :latitude 38.6303161,
+   :source :openstreetmap,
+   :locality "Pinhal Novo"}
+  {:name "Museu A Lord",
+   :longitude -8.4164157,
+   :latitude 41.2351819,
+   :source :openstreetmap}
+  {:name "Museu Abílio de Mattos e Silva",
+   :longitude -9.1567338,
+   :latitude 39.3616702,
+   :source :openstreetmap}
+  {:name "Museu Académico",
+   :longitude -8.4240156,
+   :latitude 40.209962,
+   :source :openstreetmap,
+   :homepage "https://visit.uc.pt/pt/space-list/museu_academico",
+   :locality "Coimbra"}
+  {:name "Museu Agrícola da Atalaia",
+   :longitude -8.9231138,
+   :latitude 38.7082512,
+   :source :openstreetmap,
+   :homepage "https://www.mun-montijo.pt/pages/799",
+   :locality "Atalaia"}
+  {:name "Museu Agrícola de Riachos",
+   :longitude -8.5123496,
+   :latitude 39.4429708,
+   :source :openstreetmap}
+  {:name "Museu Antigo do Senhor Manuel Mitéio",
+   :longitude -27.1766332,
+   :latitude 38.7716973,
+   :source :openstreetmap}
+  {:name "Museu Arpad Szenes - Vieira da Silva",
+   :longitude -9.1557697,
+   :latitude 38.7222374,
+   :source :openstreetmap,
+   :homepage "https://fasvs.pt/",
+   :locality "Lisboa"}
+  {:name "Museu Arqueologico da Citania de Sanfins",
+   :longitude -8.3701875,
+   :latitude 41.3208633,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-pacosdeferreira.pt/index.php/museu-arqueologico-da-citania-de-sanfins"}
+  {:name "Museu Arqueológico de Montemor-o-Novo",
+   :longitude -8.2123306,
+   :latitude 38.6431923,
+   :source :openstreetmap}
+  {:name "Museu Arqueológico de Sesimbra",
+   :longitude -9.1076233,
+   :latitude 38.4515785,
+   :source :openstreetmap}
+  {:name "Museu Arqueológico de São Miguel de Odrinhas",
+   :longitude -9.3665777,
+   :latitude 38.8867622,
+   :source :openstreetmap,
+   :locality "Odrinhas"}
+  {:name "Museu Arqueológico do Alto Paiva",
+   :longitude -7.7280001,
+   :latitude 40.8504664,
+   :source :openstreetmap}
+  {:name "Museu Arqueológico do Carmo",
+   :longitude -9.1405862,
+   :latitude 38.712006,
+   :source :openstreetmap,
+   :homepage "https://www.museuarqueologicodocarmo.pt/",
+   :locality "Lisboa"}
+  {:name "Museu Arqueológico e Etnográfico Manuel Vicente Guerreiro",
+   :longitude -8.1460054,
+   :latitude 37.490554,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-almodovar.pt/museu-arqueologico-e-etnografico/",
+   :locality "Santa Clara-a-Nova"}
+  {:name "Museu Arqueológico Municipal José Monteiro",
+   :longitude -7.5001428,
+   :latitude 40.136351,
+   :source :openstreetmap}
+  {:name "Museu Arqueológico Paço dos Duques",
+   :longitude -8.6218456,
+   :latitude 41.5281812,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitportugal.com/pt-pt/content/paco-dos-duques-museu-arqueologico-de-barcelos",
+   :locality "Barcelos"}
+  {:name "Museu Arte Sacra",
+   :longitude -7.4498233,
+   :latitude 38.1414679,
+   :source :openstreetmap,
+   :homepage "https://cimbal.pt/pt/12792/casa-dos-pocos.aspx"}
+  {:name "Museu Arte Sacra",
+   :longitude -8.6196468,
+   :latitude 41.1429426,
+   :source :openstreetmap,
+   :homepage "https://www.amtc.pt/"}
+  {:name "Museu Automóvel Bombeiros de Dafunfo",
+   :longitude -9.2408549,
+   :latitude 38.7059828,
+   :source :openstreetmap}
+  {:name "Museu Berardo de Estremoz",
+   :longitude -7.588027,
+   :latitude 38.8449634,
+   :source :openstreetmap,
+   :locality "Estremoz"}
+  {:name "Museu Biblioteca Doutor Manuel Luciano da Silva",
+   :longitude -8.3802041,
+   :latitude 40.8228328,
+   :source :openstreetmap,
+   :locality "São Pedro de Castelões"}
+  {:name "Museu Bordalo Pinheiro",
+   :longitude -9.154147,
+   :latitude 38.7588988,
+   :source :openstreetmap,
+   :homepage "http://museubordalopinheiro.cm-lisboa.pt/"}
+  {:name "Museu Capelas",
+   :longitude -25.692466,
+   :latitude 37.8303539,
+   :source :openstreetmap}
+  {:name "Museu Carmem Miranda",
+   :longitude -8.1488863,
+   :latitude 41.1867463,
+   :source :openstreetmap}
+  {:name "Museu Casa Agricola José Cortes",
+   :longitude -7.5054058,
+   :latitude 38.9531793,
+   :source :openstreetmap}
+  {:name "Museu Casa Rosa",
+   :longitude -8.1783224,
+   :latitude 37.286258,
+   :source :openstreetmap}
+  {:name "Museu Colecção Emilio Relvas (Canas)",
+   :longitude -7.3924451,
+   :latitude 39.2983269,
+   :source :openstreetmap}
+  {:name "Museu Comunidade Concelhia da Batalha",
+   :longitude -8.8249609,
+   :latitude 39.657482,
+   :source :openstreetmap,
+   :homepage "http://www.museubatalha.com/"}
+  {:name "Museu Convento San Payo",
+   :longitude -8.7076448,
+   :latitude 41.930037,
+   :source :openstreetmap,
+   :homepage "www.conventosanpayo.com"}
+  {:name "Museu Cosme Damião",
+   :longitude -9.1840236,
+   :latitude 38.7514984,
+   :source :openstreetmap,
+   :homepage "http://museubenfica.slbenfica.pt",
+   :locality "Lisboa"}
+  {:name "Museu CR7",
+   :longitude -16.9138473,
+   :latitude 32.6441177,
+   :source :openstreetmap,
+   :homepage "https://www.museucr7.com/",
+   :locality "Funchal"}
+  {:name "Museu Cristovál Colon",
+   :longitude -7.8875897,
+   :latitude 38.1643386,
+   :source :openstreetmap}
+  {:name "Museu D'Abrincar",
+   :longitude -7.2829659,
+   :latitude 39.1234989,
+   :source :openstreetmap,
+   :locality "Arronches"}
+  {:name "Museu da Abadia",
+   :longitude -8.2584196,
+   :latitude 41.674876,
+   :source :openstreetmap}
+  {:name "Museu da Aldeia",
+   :longitude -7.6810749,
+   :latitude 38.2289447,
+   :source :openstreetmap}
+  {:name "Museu da Aldeia de São Paio",
+   :longitude -7.5804609,
+   :latitude 40.5106531,
+   :source :openstreetmap,
+   :homepage
+   "https://roteiromuseus.ccdrc.pt/museu_fichaGeo.aspx?idMuseu=205&tipologia=5&regiao=167"}
+  {:name "Museu da Alfaia Agricola",
+   :longitude -9.3606548,
+   :latitude 38.9660458,
+   :source :openstreetmap}
+  {:name "Museu da ALRAA",
+   :longitude -28.6304602,
+   :latitude 38.5343179,
+   :source :openstreetmap,
+   :homepage
+   "http://www.azores.gov.pt/Portal/pt/entidades/pgra-drcultura-mh/textoImagem/Casa+Manuel+de+Arriaga.htm",
+   :locality "Horta (Angústias)"}
+  {:name "Museu da Antiga Armação de Pesca do Atum",
+   :longitude -7.6269406,
+   :latitude 37.1192562,
+   :source :openstreetmap,
+   :homepage
+   "http://tavira-tuna-fishing-museum.en.algarve-portal.com/"}
+  {:name "Museu da Arte Sacra",
+   :longitude -8.9823626,
+   :latitude 39.4258727,
+   :source :openstreetmap}
+  {:name "Museu da Baleia",
+   :longitude -16.7405192,
+   :latitude 32.7358324,
+   :source :openstreetmap,
+   :homepage "https://www.museudabaleia.org/",
+   :locality "Machico"}
+  {:name "Museu da Calheta",
+   :longitude -28.0155363,
+   :latitude 38.6007259,
+   :source :openstreetmap}
+  {:name "Museu da Casa de Goa",
+   :longitude -9.17229,
+   :latitude 38.7064324,
+   :source :openstreetmap,
+   :homepage "https://casadegoa.org"}
+  {:name "Museu da Casa do Arco",
+   :longitude -7.8259737,
+   :latitude 38.2145927,
+   :source :openstreetmap,
+   :homepage
+   "https://www.patrimoniocultural.gov.pt/pt/patrimonio/itinerarios/alentejo-algarve/04/",
+   :locality "Vila de Frades"}
+  {:name "Museu da Casa Grande",
+   :longitude -7.2202887,
+   :latitude 41.0673494,
+   :source :openstreetmap}
+  {:name "Museu da Cerâmica",
+   :longitude -9.1304082,
+   :latitude 39.3995863,
+   :source :openstreetmap,
+   :locality "Caldas da Rainha"}
+  {:name "Museu da Cidade de Almada",
+   :longitude -9.1612354,
+   :latitude 38.6680538,
+   :source :openstreetmap}
+  {:name "Museu da Cortiça",
+   :longitude -8.4356521,
+   :latitude 37.1908141,
+   :source :openstreetmap}
+  {:name "Museu da Cultura Castreja",
+   :longitude -8.3253198,
+   :latitude 41.520473,
+   :source :openstreetmap}
+  {:name "Museu da Educação",
+   :longitude -8.1670891,
+   :latitude 41.4127204,
+   :source :openstreetmap,
+   :homepage "https://cm-fafe.pt/museus-centros/museu-educacao"}
+  {:name "Museu da Emigração Açoriana",
+   :longitude -25.5248638,
+   :latitude 37.8220248,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ribeiragrande.pt/geo/museu-da-emigracao-a-oriana/"}
+  {:name "Museu da Escola Prática de Artilharia",
+   :longitude -8.4575164,
+   :latitude 38.6789213,
+   :source :openstreetmap}
+  {:name "Museu da Farinha",
+   :longitude -8.5382206,
+   :latitude 37.9300171,
+   :source :openstreetmap,
+   :homepage "www.museudafarinha.pt",
+   :locality "São Domingos"}
+  {:name "Museu da Farmácia",
+   :longitude -8.645448,
+   :latitude 41.1751341,
+   :source :openstreetmap,
+   :homepage "https://www.museudafarmacia.pt",
+   :locality "Porto"}
+  {:name "Museu da Fortaleza",
+   :longitude -8.9479628,
+   :latitude 36.9998055,
+   :source :openstreetmap}
+  {:name "Museu da Fundação Gramaxo",
+   :longitude -8.6275642,
+   :latitude 41.2368732,
+   :source :openstreetmap,
+   :homepage "https://www.fundacaogramaxo.pt/"}
+  {:name "Museu da Fundação Oureana",
+   :longitude -8.5931776,
+   :latitude 39.6411534,
+   :source :openstreetmap,
+   :homepage "https://museu.cm-ourem.pt/"}
+  {:name "Museu da Fábrica da Baleia do Boqueirão",
+   :longitude -31.1301452,
+   :latitude 39.4628973,
+   :source :openstreetmap}
+  {:name "Museu da Graciosa",
+   :longitude -28.0060147,
+   :latitude 39.0862443,
+   :source :openstreetmap}
+  {:name "Museu da Guarda",
+   :longitude -7.2673938,
+   :latitude 40.5375335,
+   :source :openstreetmap}
+  {:name "Museu da Imagem",
+   :longitude -8.4294248,
+   :latitude 41.5502989,
+   :source :openstreetmap,
+   :homepage "http://museudaimagem.blogspot.pt",
+   :locality "Braga"}
+  {:name "Museu da Indústria Baleeira",
+   :longitude -28.322249,
+   :latitude 38.529647,
+   :source :openstreetmap,
+   :homepage
+   "https://www.museu-pico.azores.gov.pt/museu/museu-da-industria-baleeira/",
+   :locality "São Roque do Pico"}
+  {:name "Museu da Indústria Têxtil",
+   :longitude -8.5337694,
+   :latitude 41.4007221,
+   :source :openstreetmap}
+  {:name "Museu da Junta de Freguesia",
+   :longitude -7.7929024,
+   :latitude 40.9514486,
+   :source :openstreetmap}
+  {:name "Museu da Junta de Freguesia do Estoril",
+   :longitude -9.3913401,
+   :latitude 38.7036153,
+   :source :openstreetmap,
+   :homepage
+   "https://jf-cascaisestoril.pt/index.php/viver-a-freguesia/galeria-de-exposicoes/galerias-de-arte"}
+  {:name "Museu da Lousa",
+   :longitude -8.4768669,
+   :latitude 41.1813643,
+   :source :openstreetmap,
+   :homepage "https://www.cm-valongo.pt/pages/503?poi_id=10",
+   :locality "Valongo"}
+  {:name "Museu da Lucerna",
+   :longitude -8.0817316,
+   :latitude 37.6965805,
+   :source :openstreetmap}
+  {:name "Museu da Luz",
+   :longitude -7.3817188,
+   :latitude 38.3442158,
+   :source :openstreetmap}
+  {:name "Museu da Marioneta",
+   :longitude -9.1557935,
+   :latitude 38.7080039,
+   :source :openstreetmap,
+   :homepage "https://museudamarioneta.pt",
+   :locality "Lisboa"}
+  {:name "Museu da Memória Rural",
+   :longitude -7.2125636,
+   :latitude 41.2041116,
+   :source :openstreetmap,
+   :homepage "https://museudamemoriarural.pt/museu-sede/",
+   :locality "Vilarinho da Castanheira"}
+  {:name "MUSEU DA MISERICÓRDIA DE CASCAIS",
+   :longitude -9.4190125,
+   :latitude 38.698481,
+   :source :openstreetmap}
+  {:name "Museu da Misericórdia de Viseu",
+   :longitude -7.9117295,
+   :latitude 40.6601997,
+   :source :openstreetmap,
+   :homepage "https://www.scmviseu.com/museu/",
+   :locality "Viseu"}
+  {:name "Museu da Música Filarmónica",
+   :longitude -9.1583124,
+   :latitude 38.6826701,
+   :source :openstreetmap,
+   :homepage
+   "http://www.m-almada.pt/portal/page/portal/MUSEUS/NAVAL/?mus=1&mus_nuc_naval=5712427&cboui=5712427"}
+  {:name "Museu da Música Mecânica",
+   :longitude -8.8612709,
+   :latitude 38.6215951,
+   :source :openstreetmap,
+   :homepage "http://museudamusicamecanica.com",
+   :locality "Pinhal Novo"}
+  {:name "Museu da Música Portuguesa - Casa Verdades Faria",
+   :longitude -9.4052581,
+   :latitude 38.7100776,
+   :source :openstreetmap,
+   :homepage
+   "https://cultura.cascais.pt/list/museu/museu-da-musica-portuguesa-casa-verdades-de-faria",
+   :locality "Estoril"}
+  {:name "Museu da Nogueira",
+   :longitude -8.0291764,
+   :latitude 40.2015515,
+   :source :openstreetmap}
+  {:name "Museu da Oliveira e do Azeite",
+   :longitude -7.1830541,
+   :latitude 41.4832225,
+   :source :openstreetmap}
+  {:name "Museu da Pedra",
+   :longitude -8.5913284,
+   :latitude 40.3465034,
+   :source :openstreetmap,
+   :homepage "https://www.cm-cantanhede.pt/mcsite/entidade/1744/",
+   :locality "Cantanhede"}
+  {:name "Museu da Ribeirinha",
+   :longitude -27.1776533,
+   :latitude 38.6630028,
+   :source :openstreetmap}
+  {:name "Museu da Ruralidade - Núcleo da Oralidade",
+   :longitude -8.0122913,
+   :latitude 37.7775881,
+   :source :openstreetmap}
+  {:name "Museu da Santa Casa da Misericórdia",
+   :longitude -8.4282324,
+   :latitude 40.2100059,
+   :source :openstreetmap,
+   :homepage "https://misericordiacoimbra.pt/museu/"}
+  {:name "Museu da Santa Maria de Lamas",
+   :longitude -8.5710088,
+   :latitude 40.9773175,
+   :source :openstreetmap,
+   :locality "Santa Maria de Lamas"}
+  {:name "Museu da Seda",
+   :longitude -7.4891844,
+   :latitude 39.8162701,
+   :source :openstreetmap}
+  {:name "Museu da Sociedade de Geografia de Lisboa",
+   :longitude -9.1407571,
+   :latitude 38.7166105,
+   :source :openstreetmap,
+   :homepage "http://www.socgeogeafialisboa.pt",
+   :locality "Lisboa"}
+  {:name "Museu da Tanoaria",
+   :longitude -8.3359924,
+   :latitude 40.0842259,
+   :source :openstreetmap}
+  {:name "Museu da Tojeira",
+   :longitude -9.2827278,
+   :latitude 38.955901,
+   :source :openstreetmap}
+  {:name "Museu da Vida de Cristo",
+   :longitude -8.6682954,
+   :latitude 39.6283509,
+   :source :openstreetmap,
+   :homepage "http://www.vidadecristo.pt/"}
+  {:name "Museu da Vila Romana de Torre de Palma",
+   :longitude -7.4392822,
+   :latitude 39.0519585,
+   :source :openstreetmap}
+  {:name "Museu da Vila Velha",
+   :longitude -7.7460969,
+   :latitude 41.2928696,
+   :source :openstreetmap}
+  {:name "Museu da Vinha e do Vinho",
+   :longitude -16.9541203,
+   :latitude 32.824544,
+   :source :openstreetmap}
+  {:name "Museu da Água do Rio Vez",
+   :longitude -8.415176,
+   :latitude 41.8479215,
+   :source :openstreetmap}
+  {:name "Museu da Água e Resíduos",
+   :longitude -9.3945706,
+   :latitude 38.8023171,
+   :source :openstreetmap,
+   :homepage "https://www.smas-sintra.pt/",
+   :locality "Sintra"}
+  {:name "Museu das Duas Rodas",
+   :longitude -8.4765081,
+   :latitude 40.4793422,
+   :source :openstreetmap,
+   :homepage "https://www.m2r.pt/"}
+  {:name "Museu das Flores",
+   :longitude -31.1293219,
+   :latitude 39.4520284,
+   :source :openstreetmap}
+  {:name "Museu das Lajes das Flores",
+   :longitude -31.1787442,
+   :latitude 39.3776355,
+   :source :openstreetmap,
+   :locality "Lajes das Flores"}
+  {:name "Museu das Pescas",
+   :longitude -8.6532978,
+   :latitude 41.047783,
+   :source :openstreetmap,
+   :homepage
+   "https://fundacao-ela.pt/estacao-litoral-da-aguda/museu-das-pescas/",
+   :locality "Arcozelo"}
+  {:name "Museu das Terras de Basto",
+   :longitude -7.9535893,
+   :latitude 41.4817848,
+   :source :openstreetmap}
+  {:name "Museu de Alberto Sampaio",
+   :longitude -8.2922374,
+   :latitude 41.4429028,
+   :source :openstreetmap,
+   :homepage "https://www.museualbertosampaio.gov.pt"}
+  {:name "Museu de Aldeia da Ponte",
+   :longitude -6.868306,
+   :latitude 40.412603,
+   :source :openstreetmap,
+   :homepage
+   "https://roteiromuseus.ccdrc.pt/museu_fichaGeo.aspx?tipologia=5&idMuseu=243&regiao=168"}
+  {:name "Museu de Angra do Heroismo",
+   :longitude -27.2170948,
+   :latitude 38.6573106,
+   :source :openstreetmap,
+   :locality "Angra do Heroismo"}
+  {:name "Museu de Arganil",
+   :longitude -8.0539906,
+   :latitude 40.2200147,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitarganil.pt/diretorio/nucleo-de-etnografia-de-arganil/"}
+  {:name "Museu de Arqueologia e Etnografia do Distrito de Setúbal",
+   :longitude -8.8891353,
+   :latitude 38.5231635,
+   :source :openstreetmap,
+   :locality "Setúbal"}
+  {:name "Museu de Arte Contemporânea de Elvas",
+   :longitude -7.1646217,
+   :latitude 38.8797454,
+   :source :openstreetmap,
+   :homepage "https://col-antoniocachola.com/"}
+  {:name "Museu de Arte Contemporânea de Serralves",
+   :longitude -8.6594063,
+   :latitude 41.1591315,
+   :source :openstreetmap,
+   :homepage
+   "https://www.serralves.pt/institucional-serralves/visitar-o-museu/"}
+  {:name "Museu de Arte Contemporânea MAC/CCB",
+   :longitude -9.20931,
+   :latitude 38.6956474,
+   :source :openstreetmap,
+   :homepage "https://www.ccb.pt/macccb/",
+   :locality "Lisboa"}
+  {:name "Museu de Arte Contemporânea Nadir Afonso",
+   :longitude -7.4656431,
+   :latitude 41.7410284,
+   :source :openstreetmap,
+   :homepage "https://macna.chaves.pt/",
+   :locality "Chaves"}
+  {:name "Museu de Arte Moderna",
+   :longitude -9.3819709,
+   :latitude 38.8032917,
+   :source :openstreetmap,
+   :homepage
+   "https://cm-sintra.pt/atualidade/cultura/museus-municipais-de-sintra/mu-sa-museu-das-artes-de-sintra"}
+  {:name "Museu de Arte Pré-Histórica e do Sagrado no Vale do Tejo",
+   :longitude -7.9935226,
+   :latitude 39.5570139,
+   :source :openstreetmap,
+   :homepage "https://www.museumacao.pt/",
+   :locality "Mação"}
+  {:name "Museu de Arte Rural",
+   :longitude -7.4871811,
+   :latitude 40.5388839,
+   :source :openstreetmap,
+   :locality "Figueiró da Serra"}
+  {:name "Museu de Arte Sacra",
+   :longitude -7.857711,
+   :latitude 38.0113289,
+   :source :openstreetmap,
+   :locality "Beja"}
+  {:name "Museu de Arte Sacra",
+   :longitude -7.0718176,
+   :latitude 39.013753,
+   :source :openstreetmap}
+  {:name "Museu de Arte Sacra",
+   :longitude -8.2540535,
+   :latitude 37.0870094,
+   :source :openstreetmap}
+  {:name "Museu de Arte Sacra",
+   :longitude -7.5857231,
+   :latitude 38.8416389,
+   :source :openstreetmap}
+  {:name "Museu de Arte Sacra",
+   :longitude -6.9611961,
+   :latitude 41.5385034,
+   :source :openstreetmap}
+  {:name "Museu de Arte Sacra da Horta",
+   :longitude -28.6286417,
+   :latitude 38.5389302,
+   :source :openstreetmap,
+   :homepage "http://www.museu-horta.azores.gov.pt/",
+   :locality "Horta (Matriz)"}
+  {:name "Museu de Arte Sacra da Região Flaviense",
+   :longitude -7.4706686,
+   :latitude 41.7395141,
+   :source :openstreetmap,
+   :homepage
+   "https://eurocidadechavesverin.eu/agenda/instalacoes-culturais/museus/poi/museu-de-arte-sacra-da-regiao-flaviense",
+   :locality "Chaves"}
+  {:name "Museu de Arte Sacra de Arouca",
+   :longitude -8.2469026,
+   :latitude 40.9279193,
+   :source :openstreetmap,
+   :homepage "https://www.rirsma.pt/pt/",
+   :locality "Arouca"}
+  {:name "Museu de Arte Sacra de Grândola",
+   :longitude -8.5654251,
+   :latitude 38.1752929,
+   :source :openstreetmap}
+  {:name "Museu de Arte Sacra e Arqueologia",
+   :longitude -8.6125743,
+   :latitude 41.1422336,
+   :source :openstreetmap,
+   :homepage
+   "https://www.diocese-porto.pt/pt/museu-de-arte-sacra-e-arqueologia/",
+   :locality "Porto"}
+  {:name "Museu de Arte Sacra e Oficina de Cultura",
+   :longitude -7.4358768,
+   :latitude 41.0818212,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sjpesqueira.pt/turismo/cultura-e-patrimonio/museus/poi/03-museu-de-arte-sacra-de-trevoes"}
+  {:name "Museu de Artes Decorativas",
+   :longitude -8.8334474,
+   :latitude 41.6920535,
+   :source :openstreetmap}
+  {:name "Museu de Artes Tradicionais",
+   :longitude -8.3514986,
+   :latitude 41.6311397,
+   :source :openstreetmap}
+  {:name "Museu de Azulejaria e Etnografia Árabe",
+   :longitude -9.2237891,
+   :latitude 38.6678979,
+   :source :openstreetmap}
+  {:name "Museu de Balasar",
+   :longitude -8.6258666,
+   :latitude 41.4059319,
+   :source :openstreetmap}
+  {:name "Museu de Cachalotes e Lulas",
+   :longitude -28.5289283,
+   :latitude 38.5341183,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-madalena.pt/pt/museu-de-cachalotes-e-lulas"}
+  {:name "Museu de Carnaval",
+   :longitude -27.1005358,
+   :latitude 38.764361,
+   :source :openstreetmap}
+  {:name "Museu de Carros de Cavalos",
+   :longitude -8.6611761,
+   :latitude 41.7028719,
+   :source :openstreetmap}
+  {:name "Museu de Carros de Tracção Animal",
+   :longitude -9.2928411,
+   :latitude 38.9608677,
+   :source :openstreetmap}
+  {:name "Museu de Cerâmica de Sacavém",
+   :longitude -9.1024233,
+   :latitude 38.7941084,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-loures.pt/Ligacao.aspx?DisplayId=109&CursorId=527"}
+  {:name "Museu de Cinema Jean Loup Passek",
+   :longitude -8.260251,
+   :latitude 42.1145477,
+   :source :openstreetmap}
+  {:name "Museu de Cordofones Domingos Machado",
+   :longitude -8.4724388,
+   :latitude 41.488383,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-braga.pt/pt/1201/conhecer/historia-e-patrimonio/museus/item/item-1-668",
+   :locality "Braga"}
+  {:name "Museu de Coruche",
+   :longitude -8.5266885,
+   :latitude 38.9571483,
+   :source :openstreetmap,
+   :homepage "https://www.museu-coruche.org/"}
+  {:name "Museu de Etnomúsica da Bairrada",
+   :longitude -8.5622972,
+   :latitude 40.498294,
+   :source :openstreetmap}
+  {:name "Museu de Fósseis",
+   :longitude -7.0147544,
+   :latitude 40.0441101,
+   :source :openstreetmap}
+  {:name "Museu de Geodesia",
+   :longitude -8.1303155,
+   :latitude 39.6948079,
+   :source :openstreetmap,
+   :homepage "https://cm-viladerei.pt/index.php/museu-de-geodesia"}
+  {:name "Museu de Geologia da UTAD",
+   :longitude -7.739605,
+   :latitude 41.2863926,
+   :source :openstreetmap,
+   :homepage "https://www.utad.pt/museu-de-geologia/"}
+  {:name "Museu de Gulfar",
+   :longitude -7.6460927,
+   :latitude 40.7581772,
+   :source :openstreetmap,
+   :homepage
+   "https://cm-satao.pt/turismo/museus/museu-municipal-de-gulfar/",
+   :locality "Romãs"}
+  {:name "Museu de História e Etnologia da Terra da Maia",
+   :longitude -8.6131786,
+   :latitude 41.2651557,
+   :source :openstreetmap}
+  {:name "Museu de História Natural",
+   :longitude -9.3899737,
+   :latitude 38.798171,
+   :source :openstreetmap,
+   :homepage
+   "https://cm-sintra.pt/atualidade/cultura/museus-municipais-de-sintra/museu-de-historia-natural-de-sintra",
+   :locality "Sintra"}
+  {:name
+   "Museu de História Natural e da Ciência da Universidade do Porto - Polo Central",
+   :longitude -8.6158404,
+   :latitude 41.1461669,
+   :source :openstreetmap,
+   :homepage "https://mhnc.up.pt/polo-central/",
+   :locality "Porto"}
+  {:name "Museu de José Malhoa",
+   :longitude -9.1339678,
+   :latitude 39.4008339,
+   :source :openstreetmap,
+   :homepage
+   "https://www.museusemonumentos.pt/pt/museus-e-monumentos/museu-jose-malhoa",
+   :locality "Caldas da Rainha"}
+  {:name "Museu de la Tierra de Miranda",
+   :longitude -6.2735219,
+   :latitude 41.4923821,
+   :source :openstreetmap,
+   :homepage
+   "http://www.rotaterrafria.com/pages/226/?geo_article_id=6918"}
+  {:name "Museu de Lagos Dr. José Formosinho",
+   :longitude -8.6713129,
+   :latitude 37.0994932,
+   :source :openstreetmap,
+   :homepage "https://www.goodtimeslagos.com/slave-market/"}
+  {:name "Museu de Metrologia do Instituto Português da Qualidade",
+   :longitude -9.1859921,
+   :latitude 38.6699565,
+   :source :openstreetmap,
+   :homepage "http://www1.ipq.pt/museu/PT/MM/v1/v1_home.aspx",
+   :locality "Caparica"}
+  {:name "Museu de Mira",
+   :longitude -8.8016092,
+   :latitude 40.451662,
+   :source :openstreetmap,
+   :homepage "https://www.cm-mira.pt/node/145",
+   :locality "Praia de Mira"}
+  {:name "Museu de Ovar",
+   :longitude -8.6246621,
+   :latitude 40.8589621,
+   :source :openstreetmap,
+   :homepage "https://www.cm-ovar.pt/pt/325/museu-de-ovar.aspx"}
+  {:name "Museu de Penafiel",
+   :longitude -8.2826343,
+   :latitude 41.2067345,
+   :source :openstreetmap,
+   :homepage "https://www.museudepenafiel.com/",
+   :locality "Penafiel"}
+  {:name "Museu de Piodão",
+   :longitude -7.8247191,
+   :latitude 40.2291015,
+   :source :openstreetmap}
+  {:name "Museu de Portimão",
+   :longitude -8.5345115,
+   :latitude 37.1306691,
+   :source :openstreetmap,
+   :homepage "https://www.museudeportimao.pt/"}
+  {:name "Museu de Póvoa e Meadas",
+   :longitude -7.5194484,
+   :latitude 39.5118777,
+   :source :openstreetmap}
+  {:name "Museu de Santa Maria",
+   :longitude -25.0411939,
+   :latitude 36.9561892,
+   :source :openstreetmap,
+   :locality "Santo Espírito"}
+  {:name "Museu de Santa Maria - Pólo de Vila do Porto",
+   :longitude -25.144966,
+   :latitude 36.9489702,
+   :source :openstreetmap}
+  {:name "Museu de Scrimshaw",
+   :longitude -28.6267634,
+   :latitude 38.5296512,
+   :source :openstreetmap,
+   :homepage "https://www.petercafesport.com/pcs/museu.php",
+   :locality "Horta (Angústias)"}
+  {:name "Museu de Setúbal",
+   :longitude -8.8951483,
+   :latitude 38.5259361,
+   :source :openstreetmap}
+  {:name "Museu de Sines/ Casa Vasco da Gama",
+   :longitude -8.8665154,
+   :latitude 37.9555707,
+   :source :openstreetmap,
+   :homepage "https://www.sines.pt/pages/689"}
+  {:name "Museu de São Vicente de Fora",
+   :longitude -9.1278805,
+   :latitude 38.7148171,
+   :source :openstreetmap,
+   :homepage
+   "http://www.patriarcado-lisboa.pt/site/index.php?cont_=47&tem=356",
+   :locality "Lisboa"}
+  {:name "Museu de Vila Verde de Ficalho",
+   :longitude -7.300598,
+   :latitude 37.9480561,
+   :source :openstreetmap}
+  {:name "Museu Diocesano de Santarém",
+   :longitude -8.685434,
+   :latitude 39.2371341,
+   :source :openstreetmap,
+   :homepage "http://www.museudiocesanodesantarem.pt/",
+   :locality "Santarém"}
+  {:name "Museu Diogo Gonçalves",
+   :longitude -8.5375725,
+   :latitude 37.1396369,
+   :source :openstreetmap}
+  {:name "Museu do Agricultor",
+   :longitude -27.2811373,
+   :latitude 38.7657383,
+   :source :openstreetmap}
+  {:name "Museu do Ar",
+   :longitude -9.3411917,
+   :latitude 38.8365326,
+   :source :openstreetmap,
+   :homepage "https://www.museudoar.pt/",
+   :locality "Almargem do Bispo, Pêro Pinheiro e Montelavar"}
+  {:name "Museu do Ar - Pólo de Alverca",
+   :longitude -9.0323178,
+   :latitude 38.8907084,
+   :source :openstreetmap,
+   :homepage "https://www.museudoar.pt//pagina-006.001",
+   :locality "Alverca do Ribatejo e Sobralinho"}
+  {:name "Museu do Ar - Pólo de Ovar",
+   :longitude -8.6387864,
+   :latitude 40.9192182,
+   :source :openstreetmap,
+   :homepage "https://www.museudoar.pt/pagina-006.002",
+   :locality "Maceda"}
+  {:name "Museu do Arroz",
+   :longitude -8.0099238,
+   :latitude 39.2549992,
+   :source :openstreetmap}
+  {:name "Museu do Automóvel",
+   :longitude -8.5487671,
+   :latitude 41.3679521,
+   :source :openstreetmap,
+   :homepage "https://museuguerracolonial.pt/"}
+  {:name "Museu do Automóvel do Caramulo",
+   :longitude -8.1722622,
+   :latitude 40.5696914,
+   :source :openstreetmap,
+   :homepage "https://www.museu-caramulo.net/",
+   :locality "Caramulo"}
+  {:name "Museu do Azeite",
+   :longitude -7.4814121,
+   :latitude 41.0875883,
+   :source :openstreetmap,
+   :locality "Espinhosa"}
+  {:name "Museu do Azeite",
+   :longitude -7.9014257,
+   :latitude 40.360772,
+   :source :openstreetmap}
+  {:name "Museu do Azeite - D'Origem",
+   :longitude -7.5338015,
+   :latitude 41.2002806,
+   :source :openstreetmap}
+  {:name "Museu do Azeite de Freches",
+   :longitude -7.3446038,
+   :latitude 40.7283254,
+   :source :openstreetmap}
+  {:name "Museu do Barro e do Bordado",
+   :longitude -7.647382,
+   :latitude 39.5184424,
+   :source :openstreetmap}
+  {:name "Museu do Bombeiro",
+   :longitude -8.644203,
+   :latitude 42.0303053,
+   :source :openstreetmap,
+   :homepage "https://cm-valenca.pt/museo-bombeiro"}
+  {:name "Museu do Bonsai",
+   :longitude -9.3764539,
+   :latitude 38.7957011,
+   :source :openstreetmap}
+  {:name "Museu do Bordado",
+   :longitude -16.9029362,
+   :latitude 32.6508995,
+   :source :openstreetmap,
+   :homepage "https://bordadomadeira.com",
+   :locality "Funchal"}
+  {:name "Museu do Brinquedo",
+   :longitude -7.702339,
+   :latitude 40.4186416,
+   :source :openstreetmap}
+  {:name "Museu do Brinquedo Português",
+   :longitude -8.5889965,
+   :latitude 41.769819,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitepontedelima.pt/pt/turismo/museu-do-brinquedo-portugues/"}
+  {:name "Museu do Campo",
+   :longitude -8.6488254,
+   :latitude 40.2055817,
+   :source :openstreetmap,
+   :homepage
+   "https://roteiromuseus.ccdrc.pt/museu_fichaGeo.aspx?idMuseu=88&tipologia=5&regiao=162",
+   :locality "Carapinheira"}
+  {:name "Museu do Cante",
+   :longitude -7.597754,
+   :latitude 37.942789,
+   :source :openstreetmap,
+   :homepage "https://www.cm-serpa.pt/artigos.asp?id=1000",
+   :locality "Serpa"}
+  {:name "Museu do Canteiro",
+   :longitude -7.4546747,
+   :latitude 39.9151282,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-castelobranco.pt/visitante/rota-dos-museus/detalhe-museu/?id=4352#"}
+  {:name "Museu do Centro Científico e Cultural de Macau",
+   :longitude -9.1824432,
+   :latitude 38.700849,
+   :source :openstreetmap,
+   :homepage "http://www.cccm.pt/",
+   :locality "Lisbon"}
+  {:name "Museu do Centro Cultural Casapiano",
+   :longitude -9.2058621,
+   :latitude 38.6994129,
+   :source :openstreetmap,
+   :homepage "www.casapia.pt/centro_cultural_casapiano.html",
+   :locality "Lisboa"}
+  {:name "Museu do Contrabando",
+   :longitude -7.5267808,
+   :latitude 37.6236228,
+   :source :openstreetmap}
+  {:name "Museu do Contrabando",
+   :longitude -6.9752763,
+   :latitude 41.9512938,
+   :source :openstreetmap}
+  {:name "Museu do Curtume",
+   :longitude -8.6633137,
+   :latitude 39.4578062,
+   :source :openstreetmap}
+  {:name "Museu do Côa",
+   :longitude -7.1124398,
+   :latitude 41.0799039,
+   :source :openstreetmap,
+   :homepage "https://arte-coa.pt/en/museum/"}
+  {:name "Museu do Dinheiro",
+   :longitude -9.1387855,
+   :latitude 38.7086234,
+   :source :openstreetmap,
+   :homepage "www.museudodinheiro.pt",
+   :locality "Lisboa"}
+  {:name "Museu do Douro",
+   :longitude -7.7899199,
+   :latitude 41.1614521,
+   :source :openstreetmap}
+  {:name "Museu do Exílio",
+   :longitude -9.3962639,
+   :latitude 38.70357,
+   :source :openstreetmap}
+  {:name "Museu do Fado",
+   :longitude -9.1277093,
+   :latitude 38.7110374,
+   :source :openstreetmap,
+   :homepage "https://www.museudofado.pt/",
+   :locality "Lisboa"}
+  {:name "Museu do Farol",
+   :longitude -8.9959261,
+   :latitude 37.0233112,
+   :source :openstreetmap}
+  {:name "Museu do Ferrador",
+   :longitude -7.3480096,
+   :latitude 38.844746,
+   :source :openstreetmap,
+   :locality "Terrugem"}
+  {:name "Museu do Ferro",
+   :longitude -7.0532826,
+   :latitude 41.1733663,
+   :source :openstreetmap,
+   :homepage "https://www.cm-moncorvo.pt/pages/997?poi_id=293",
+   :locality "Torre de Moncorvo"}
+  {:name "Museu do Fogo e da Resina",
+   :longitude -8.1467298,
+   :latitude 39.6755443,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-viladerei.pt/index.php/pt/viver/item-cultura/equipamentos-culturais/museu-municipal-de-vila-de-rei"}
+  {:name "Museu do Fresco",
+   :longitude -7.3805469,
+   :latitude 38.4433124,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-reguengos-monsaraz.pt/locais/espanol-casa-da-inquisicao-centro-interativo-da-historia-judaica/"}
+  {:name "Museu do Holocausto do Porto",
+   :longitude -8.6378592,
+   :latitude 41.1531072,
+   :source :openstreetmap,
+   :homepage "https://www.mhporto.com/",
+   :locality "Porto"}
+  {:name "Museu do Instituto Superior de Engenharia do Porto",
+   :longitude -8.6068575,
+   :latitude 41.1789352,
+   :source :openstreetmap,
+   :homepage "https://www2.isep.ipp.pt/museu/index.php?page=inicio",
+   :locality "Porto"}
+  {:name "Museu do Lavrador",
+   :longitude -31.1866929,
+   :latitude 39.3800598,
+   :source :openstreetmap,
+   :locality "Lajes das Flores"}
+  {:name "Museu do Linho",
+   :longitude -25.3713609,
+   :latitude 37.8310435,
+   :source :openstreetmap}
+  {:name "Museu do Linho",
+   :longitude -7.8283601,
+   :latitude 41.4531478,
+   :source :openstreetmap}
+  {:name "Museu do Linho e do Linho",
+   :longitude -8.630914,
+   :latitude 41.1880621,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-matosinhos.pt/servicos-municipais/cultura/muma-rede-de-museus-de-matosinhos/galeria-32",
+   :locality "São Mamede de Infesta"}
+  {:name "Museu do Mar",
+   :longitude -9.0998493,
+   :latitude 38.4448892,
+   :source :openstreetmap}
+  {:name "Museu do Mar",
+   :longitude -8.8765394,
+   :latitude 40.1653224,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-figfoz.pt/index.php/onde-ir/biblioteca/219-servicos2/por-temas/cultura/706-nucleo-museologico-mar",
+   :locality "Buarcos"}
+  {:name "Museu do Medronho",
+   :longitude -7.5448571,
+   :latitude 38.2156696,
+   :source :openstreetmap}
+  {:name "Museu do Moinho",
+   :longitude -9.0566549,
+   :latitude 39.3513103,
+   :source :openstreetmap}
+  {:name "Museu do Moinho Vitorino Nemésio",
+   :longitude -8.3060478,
+   :latitude 40.3022986,
+   :source :openstreetmap,
+   :homepage "http://www.cm-penacova.pt/pt/pages/museumoinhovitorino"}
+  {:name "Museu do Mosteiro de Alcobaça",
+   :longitude -8.9799357,
+   :latitude 39.5484943,
+   :source :openstreetmap,
+   :homepage "https://www.armazemdasartes.pt/",
+   :locality "Alcobaça"}
+  {:name "Museu do Mármore",
+   :longitude -7.4244212,
+   :latitude 38.7867251,
+   :source :openstreetmap}
+  {:name "Museu do Oleiro",
+   :longitude -7.7804537,
+   :latitude 40.476644,
+   :source :openstreetmap}
+  {:name "Museu do Oriente",
+   :longitude -9.1705631,
+   :latitude 38.7029013,
+   :source :openstreetmap,
+   :homepage "www.museudooriente.pt",
+   :locality "Lisboa"}
+  {:name "Museu do Ouro de Travassos",
+   :longitude -8.2015298,
+   :latitude 41.5729399,
+   :source :openstreetmap,
+   :homepage "https://www.museudoouro.com"}
+  {:name "Museu do Papel",
+   :longitude -8.5841725,
+   :latitude 40.9816476,
+   :source :openstreetmap,
+   :homepage "https://museudopapel.cm-feira.pt/"}
+  {:name "Museu do Papel Moeda",
+   :longitude -8.673509,
+   :latitude 41.1644955,
+   :source :openstreetmap,
+   :homepage "https://www.facm.pt/facm/facm/pt/index",
+   :locality "Porto"}
+  {:name "Museu do Pastor",
+   :longitude -9.1697651,
+   :latitude 38.9346383,
+   :source :openstreetmap}
+  {:name "Museu do Quartzo",
+   :longitude -7.9213045,
+   :latitude 40.6967085,
+   :source :openstreetmap,
+   :homepage "https://visitviseu.pt/museu.php?item=45"}
+  {:name "Museu do Quartzo",
+   :longitude -8.3440633,
+   :latitude 41.7976203,
+   :source :openstreetmap,
+   :locality "Vila Chã (São João Baptista e Santiago)"}
+  {:name "Museu do Queijo",
+   :longitude -7.3865844,
+   :latitude 40.2574532,
+   :source :openstreetmap,
+   :homepage
+   "https://www.centerofportugal.com/pt/museu-do-queijo-de-peraboa-covilha/"}
+  {:name "Museu do Rali",
+   :longitude -8.1649929,
+   :latitude 41.4537176,
+   :source :openstreetmap,
+   :homepage "https://museudorali.pt/",
+   :locality "Fafe"}
+  {:name "Museu do Relógio",
+   :longitude -7.9106435,
+   :latitude 38.5712029,
+   :source :openstreetmap,
+   :homepage "https://museudorelogio.com/"}
+  {:name "Museu do Rio",
+   :longitude -7.4475844,
+   :latitude 37.3975285,
+   :source :openstreetmap}
+  {:name "Museu do Sabugal",
+   :longitude -7.0929576,
+   :latitude 40.3524464,
+   :source :openstreetmap,
+   :homepage "http://www.museusabugal.net"}
+  {:name "Museu do Sabão",
+   :longitude -7.957917,
+   :latitude 39.4958013,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-gaviao.pt/pt/museus/100-turismo/museus/324-museu-do-sabao"}
+  {:name "Museu do Sargaço",
+   :longitude -8.7731929,
+   :latitude 41.4834222,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitesposende.com/pt/fazer/monumentos/museu-do-sargaco",
+   :locality "Apúlia"}
+  {:name "Museu do Sexo",
+   :longitude -8.6183514,
+   :latitude 41.1513316,
+   :source :openstreetmap,
+   :homepage "https://sexmuseumportugal.com"}
+  {:name "Museu do Som e da Imagem",
+   :longitude -7.7346146,
+   :latitude 41.2991605,
+   :source :openstreetmap,
+   :homepage "https://museu-msi.blogspot.com/",
+   :locality "Vila Real"}
+  {:name "Museu do Trabalho Rural de Abela",
+   :longitude -8.5584076,
+   :latitude 38.0004691,
+   :source :openstreetmap,
+   :locality "Abela"}
+  {:name "Museu do Traje Doutor Gonçalo Sampaio",
+   :longitude -8.4222694,
+   :latitude 41.5484132,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-braga.pt/pt/1201/conhecer/historia-e-patrimonio/museus/item/item-1-674",
+   :locality "Braga"}
+  {:name "Museu do Traje e das Tradições",
+   :longitude -8.2871313,
+   :latitude 37.2527012,
+   :source :openstreetmap}
+  {:name "Museu do Triciclo",
+   :longitude -7.8952367,
+   :latitude 41.1672888,
+   :source :openstreetmap,
+   :locality "Mesão Frio (Santo André)"}
+  {:name "Museu do Trigo",
+   :longitude -25.2256998,
+   :latitude 37.7652412,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-povoacao.pt/index.php/servicos-municipais/museu-do-trigo/acerca-do-museu-do-trigo"}
+  {:name "Museu do Têxtil de Mira de Aire",
+   :longitude -8.7116061,
+   :latitude 39.542233,
+   :source :openstreetmap}
+  {:name "Museu do Vinho",
+   :longitude -27.2587219,
+   :latitude 38.7929336,
+   :source :openstreetmap}
+  {:name "Museu do Vinho",
+   :longitude -8.7967915,
+   :latitude 39.1703453,
+   :source :openstreetmap}
+  {:name "Museu do vinho",
+   :longitude -9.0062387,
+   :latitude 39.0577193,
+   :source :openstreetmap}
+  {:name "Museu do Vinho",
+   :longitude -8.9656071,
+   :latitude 39.5474117,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-alcobaca.pt/pt/menu/518/museu-do-vinho-de-alcobaca.aspx"}
+  {:name "Museu do Vinho Bairrada",
+   :longitude -8.4383108,
+   :latitude 40.4381748,
+   :source :openstreetmap}
+  {:name "Museu do Vinho de São João da Pesqueira",
+   :longitude -7.4087114,
+   :latitude 41.1474712,
+   :source :openstreetmap,
+   :homepage "http://www.mvsjp.pt",
+   :locality "São João da Pesqueira"}
+  {:name "Museu do Vinho do Pico",
+   :longitude -28.5162458,
+   :latitude 38.5361473,
+   :source :openstreetmap}
+  {:name "Museu do Vinho e da Vinha - Bucelas",
+   :longitude -9.1203697,
+   :latitude 38.9017421,
+   :source :openstreetmap,
+   :homepage "https://www.cm-loures.pt/Ligacao.aspx?displayid=579",
+   :locality "Bucelas"}
+  {:name "Museu do Volfrâmio",
+   :longitude -7.8469726,
+   :latitude 41.4723233,
+   :source :openstreetmap,
+   :homepage
+   "https://roteirodasminas.dgeg.gov.pt/pt/lista-de-locais/museu-do-volframio-de-cerva-pt-1/"}
+  {:name "Museu Dom Pedro I",
+   :longitude -9.2706646,
+   :latitude 39.3316891,
+   :source :openstreetmap}
+  {:name "Museu dos Altares",
+   :longitude -27.2993783,
+   :latitude 38.7910404,
+   :source :openstreetmap}
+  {:name "Museu dos Baleeiros",
+   :longitude -28.2534163,
+   :latitude 38.3963062,
+   :source :openstreetmap,
+   :homepage "http://www.museu-pico.azores.gov.pt",
+   :locality "Lajes do Pico"}
+  {:name "Museu dos Bombeiros Voluntários de Pombal",
+   :longitude -8.6299543,
+   :latitude 39.919218,
+   :source :openstreetmap,
+   :locality "Pombal"}
+  {:name "Museu dos Combatentes do Ultramar",
+   :longitude -9.2174961,
+   :latitude 38.6921999,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ligacombatentes.org/museu-do-combatente-lisboa/",
+   :locality "Lisboa"}
+  {:name "Museu dos Fósforos",
+   :longitude -8.4143456,
+   :latitude 39.5994912,
+   :source :openstreetmap}
+  {:name "Museu dos Telefones",
+   :longitude -8.6045337,
+   :latitude 40.6903014,
+   :source :openstreetmap,
+   :homepage "https://museudostelefones.wixsite.com/museu",
+   :locality "Sarrazola"}
+  {:name "Museu dos Terceiros",
+   :longitude -8.5868923,
+   :latitude 41.7649431,
+   :source :openstreetmap}
+  {:name "Museu dos Transportes Urbanos de Coimbra",
+   :longitude -8.425471,
+   :latitude 40.2052093,
+   :source :openstreetmap}
+  {:name "Museu Doutor Joaquim Manso",
+   :longitude -9.0764477,
+   :latitude 39.6064497,
+   :source :openstreetmap,
+   :homepage
+   "https://www.culturacentro.gov.pt/museu-dr-joaquim-manso/"}
+  {:name "Museu e Centro de Artes de Figueiró dos Vinhos",
+   :longitude -8.2731955,
+   :latitude 39.9040154,
+   :source :openstreetmap}
+  {:name "Museu Eduardo Tavares",
+   :longitude -7.4043305,
+   :latitude 41.1476771,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sjpesqueira.pt/espacos-culturais/museu-eduardo-tavares",
+   :locality "São João da Pesqueira"}
+  {:name "Museu Engenho de Azeite de Sebolido",
+   :longitude -8.3451564,
+   :latitude 41.0500865,
+   :source :openstreetmap}
+  {:name "Museu Escaroupim e o Rio",
+   :longitude -8.7558581,
+   :latitude 39.0651979,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-salvaterrademagos.pt/concelho/aldeia-avieira-do-escaroupim"}
+  {:name "Museu Etnografico de Messejana",
+   :longitude -8.2447728,
+   :latitude 37.8341748,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico",
+   :longitude -8.4408763,
+   :latitude 39.626181,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jfcarregueiros.pt/index.php/instituicoes/museu-etnografico"}
+  {:name "Museu etnográfico Ceiroquinhese",
+   :longitude -7.9331041,
+   :latitude 40.1334165,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico da Casa do Povo de Arcena",
+   :longitude -9.0514545,
+   :latitude 38.9064463,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico da Casa do Povo de Válega",
+   :longitude -8.5801111,
+   :latitude 40.8352573,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-ovar.pt/pt/328/museu-etnografico-de-valega.aspx#prettyPhoto",
+   :locality "Válega"}
+  {:name "Museu Etnográfico da Castanha",
+   :longitude -7.2773898,
+   :latitude 40.4881135,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico da Madeira",
+   :longitude -17.0633603,
+   :latitude 32.6729383,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico da Região do Vouga",
+   :longitude -8.4624562,
+   :latitude 40.6094552,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico de Algoso",
+   :longitude -6.5766374,
+   :latitude 41.4692829,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico de Canha",
+   :longitude -8.6264174,
+   :latitude 38.7680335,
+   :source :openstreetmap,
+   :homepage "http://www.museuetnograficocanha.yolasite.com/",
+   :locality "Canha"}
+  {:name "Museu Etnográfico de Mogos",
+   :longitude -7.261146,
+   :latitude 41.2667905,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico de Monte Redondo",
+   :longitude -8.8274497,
+   :latitude 39.894531,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico de São Pedro de Nordestinho",
+   :longitude -25.2012418,
+   :latitude 37.8499238,
+   :source :openstreetmap,
+   :locality "São Pedro de Nordestinho"}
+  {:name "Museu Etnográfico de Vilarinho da Furna",
+   :longitude -8.1969582,
+   :latitude 41.7504069,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico do Freixial",
+   :longitude -8.716455,
+   :latitude 39.7134553,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico do Grupo Típico de Ancã",
+   :longitude -8.5235979,
+   :latitude 40.2728123,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-cantanhede.pt/mcsite/entidade/1638/museu-etnografico-do-grupo-tipico-de-anca",
+   :locality "Ançã"}
+  {:name "Museu Etnográfico do Rabaçal",
+   :longitude -7.2569984,
+   :latitude 40.8514198,
+   :source :openstreetmap}
+  {:name "Museu Etnográfico do Torrão",
+   :longitude -8.2260292,
+   :latitude 38.2954602,
+   :source :openstreetmap,
+   :locality "Torrão"}
+  {:name "Museu Família Teixeira",
+   :longitude -16.8752475,
+   :latitude 32.7652625,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/museufamiliateixeira/?fref=ts"}
+  {:name "Museu Ferroviário - Núcleo Museológico de Bragança",
+   :longitude -6.7609658,
+   :latitude 41.8101409,
+   :source :openstreetmap,
+   :homepage
+   "https://www.fmnf.pt/nucleos_museologicos_nucleo_braganca"}
+  {:name "Museu Ferroviário de Lousado",
+   :longitude -8.527646,
+   :latitude 41.3509828,
+   :source :openstreetmap,
+   :homepage "https://www.fmnf.pt/"}
+  {:name "Museu Ferroviário de Valença",
+   :longitude -8.6399019,
+   :latitude 42.0235197,
+   :source :openstreetmap}
+  {:name "Museu Francisco de Lacerda",
+   :longitude -28.009806,
+   :latitude 38.6023827,
+   :source :openstreetmap,
+   :homepage "https://museu-franciscolacerda.azores.gov.pt/",
+   :locality "Calheta"}
+  {:name "Museu Futebol Clube do Porto",
+   :longitude -8.5823541,
+   :latitude 41.1610951,
+   :source :openstreetmap,
+   :homepage "https://www.fcporto.pt/pt/museu",
+   :locality "Porto"}
+  {:name "Museu Fábrica da História - Arroz",
+   :longitude -8.5743637,
+   :latitude 40.749357,
+   :source :openstreetmap,
+   :homepage "https://fabricadahistoriaarroz.pt/",
+   :locality "Estarreja"}
+  {:name "Museu Geológico",
+   :longitude -9.1497546,
+   :latitude 38.7131073,
+   :source :openstreetmap,
+   :homepage "http://www.lneg.pt/museugeologico/",
+   :locality "Lisboa"}
+  {:name "Museu História Natural",
+   :longitude -16.8945974,
+   :latitude 32.6622172,
+   :source :openstreetmap,
+   :homepage "https://ifcn.madeira.gov.pt"}
+  {:name "Museu Ibérico da Máscara e do Traje",
+   :longitude -6.7499409,
+   :latitude 41.8038609,
+   :source :openstreetmap,
+   :homepage "https://museudamascara.cm-braganca.pt/",
+   :locality "Bragança"}
+  {:name "Museu Irene Lisboa",
+   :longitude -9.1346863,
+   :latitude 38.9538214,
+   :source :openstreetmap}
+  {:name "Museu Isilda Martins",
+   :longitude -7.8501261,
+   :latitude 39.7733458,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-proencanova.pt/Lazer/museu-isilda-martins/158"}
+  {:name "Museu Islâmico",
+   :longitude -7.6502261,
+   :latitude 37.1259049,
+   :source :openstreetmap,
+   :homepage "https://www.acasadasartes.org/"}
+  {:name "Museu Joaquim Correia",
+   :longitude -8.9309727,
+   :latitude 39.7515401,
+   :source :openstreetmap,
+   :homepage "http://www.cm-mgrande.pt/frontoffice/pages/145?poi_id=2"}
+  {:name "Museu Jorge Vieira",
+   :longitude -7.8641359,
+   :latitude 38.0144087,
+   :source :openstreetmap,
+   :homepage
+   "https://www.scmbeja.pt/index.php/patrimonio/museo-da-farmacia"}
+  {:name "Museu José Mestre Batista",
+   :longitude -7.5351297,
+   :latitude 38.4245726,
+   :source :openstreetmap,
+   :locality "Reguengos de Monsaraz"}
+  {:name "Museu João de Deus",
+   :longitude -9.1582997,
+   :latitude 38.7158484,
+   :source :openstreetmap,
+   :homepage "www.joaodeus.com/museu/museu.asp",
+   :locality "Lisboa"}
+  {:name "Museu João Mário",
+   :longitude -9.0094301,
+   :latitude 39.0517914,
+   :source :openstreetmap}
+  {:name "Museu Júlio Dinis - Uma Casa Ovarense",
+   :longitude -8.6282111,
+   :latitude 40.8595935,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-ovar.pt/pt/324/museu-julio-dinis---uma-casa-ovarense.aspx",
+   :locality "Ovar"}
+  {:name "Museu Maia",
+   :longitude -8.3378293,
+   :latitude 39.2536451,
+   :source :openstreetmap}
+  {:name "Museu Manuel Ribeiro de Pavia",
+   :longitude -8.0174089,
+   :latitude 38.8939605,
+   :source :openstreetmap}
+  {:name "Museu Maria Adelaide",
+   :longitude -8.632673,
+   :latitude 41.0610118,
+   :source :openstreetmap}
+  {:name "Museu Maritímo de Ílhavo",
+   :longitude -8.6663528,
+   :latitude 40.6043286,
+   :source :openstreetmap,
+   :homepage "https://museumaritimo.cm-ilhavo.pt"}
+  {:name "Museu Marítimo Almirante Ramalho Ortigão",
+   :longitude -7.9375181,
+   :latitude 37.0163729,
+   :source :openstreetmap,
+   :homepage "http://gamarama.pt"}
+  {:name "Museu Marítimo e de Construção Naval",
+   :longitude -28.1663445,
+   :latitude 38.4559738,
+   :source :openstreetmap}
+  {:name "Museu Maçónico Português",
+   :longitude -9.1447229,
+   :latitude 38.7131925,
+   :source :openstreetmap,
+   :homepage "http://www.gremiolusitano.pt/museum",
+   :locality "Lisboa"}
+  {:name "Museu Medeiros e Almeida",
+   :longitude -9.149145,
+   :latitude 38.7216803,
+   :source :openstreetmap,
+   :homepage "www.museumedeirosealmeida.pt",
+   :locality "Lisboa"}
+  {:name "Museu Megalítico José Maria da Fonseca",
+   :longitude -7.5296865,
+   :latitude 38.4247137,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-reguengos-monsaraz.pt/pt/visitar/Paginas/museu-megalitico-jm-fonseca.aspx"}
+  {:name "Museu Metalúrgica Duarte Ferreira",
+   :longitude -8.2480681,
+   :latitude 39.4594837,
+   :source :openstreetmap}
+  {:name "Museu Miguel Bombarda",
+   :longitude -9.1420993,
+   :latitude 38.7255214,
+   :source :openstreetmap,
+   :homepage "https://aparteoutsider.org/?page_id=74"}
+  {:name "Museu Militar de Elvas",
+   :longitude -7.1577325,
+   :latitude 38.8810347,
+   :source :openstreetmap,
+   :homepage "https://museumilitardeelvas.wixsite.com",
+   :locality "Elvas"}
+  {:name "Museu Militar de Lisboa",
+   :longitude -9.1242905,
+   :latitude 38.7130549,
+   :source :openstreetmap,
+   :homepage
+   "http://www.exercito.pt/pt/quem-somos/organizacao/ceme/vceme/dhcm/lisboa",
+   :locality "Lisboa"}
+  {:name "Museu Militar do Buçaco",
+   :longitude -8.3596114,
+   :latitude 40.3788012,
+   :source :openstreetmap,
+   :homepage
+   "https://www.exercito.pt/pt/quem-somos/organizacao/ceme/vceme/dhcm/buçaco",
+   :locality "Buçaco"}
+  {:name "Museu Militar do Porto",
+   :longitude -8.5949764,
+   :latitude 41.1456094,
+   :source :openstreetmap,
+   :homepage
+   "https://www.exercito.pt/pt/quem-somos/organizacao/ceme/vceme/dhcm/porto",
+   :locality "Porto"}
+  {:name "Museu Militar dos Açores",
+   :longitude -25.6725322,
+   :latitude 37.7365939,
+   :source :openstreetmap,
+   :homepage
+   "https://www.exercito.pt/pt/quem-somos/organizacao/ceme/cft/zma/musmil-açores",
+   :locality "Ponta Delgada"}
+  {:name "Museu Mineiro das Minas da Panasqueira",
+   :longitude -7.7491437,
+   :latitude 40.1542299,
+   :source :openstreetmap}
+  {:name "Museu Mineiro de São Pedro da Cova",
+   :longitude -8.5097209,
+   :latitude 41.162684,
+   :source :openstreetmap,
+   :homepage
+   "https://www.fanzeres-saopedrodacova.pt/index.php/mm/museu-mineiro"}
+  {:name "Museu Mineiro do Lousal",
+   :longitude -8.426146,
+   :latitude 38.0364092,
+   :source :openstreetmap}
+  {:name "Museu Monográfico de Conímbriga",
+   :longitude -8.4904347,
+   :latitude 40.0982671,
+   :source :openstreetmap,
+   :homepage
+   "http://www.conimbriga.gov.pt/portugues/apresentacao.html"}
+  {:name "Museu Monsenhor Nunes Pereira",
+   :longitude -7.9234883,
+   :latitude 40.1494405,
+   :source :openstreetmap,
+   :homepage
+   "https://roteiromuseus.ccdrc.pt/museu_fichaGeo.aspx?tipologia=3&idMuseu=146&regiao=164"}
+  {:name "Museu Monte Palace",
+   :longitude -16.9010087,
+   :latitude 32.6758488,
+   :source :openstreetmap,
+   :homepage "https://montepalace.com/desktop/?sid=28&lang=en#"}
+  {:name "Museu Municipal",
+   :longitude -7.9513953,
+   :latitude 40.0462211,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-pampilhosadaserra.pt/frontoffice/pages/486?poi_id=139",
+   :locality "Pampilhosa da Serra"}
+  {:name "Museu Municipal",
+   :longitude -8.9761698,
+   :latitude 38.7066666,
+   :source :openstreetmap,
+   :homepage "https://www.mun-montijo.pt/frontoffice/pages/796",
+   :locality "Montijo"}
+  {:name "Museu Municipal",
+   :longitude -8.1645353,
+   :latitude 37.8803808,
+   :source :openstreetmap}
+  {:name "Museu Municipal",
+   :longitude -8.1763517,
+   :latitude 40.7322907,
+   :source :openstreetmap}
+  {:name "Museu Municipal - Núcleo de Arte Contemporânea",
+   :longitude -8.4137268,
+   :latitude 39.6047298,
+   :source :openstreetmap}
+  {:name "Museu Municipal Abade Pedrosa",
+   :longitude -8.4719543,
+   :latitude 41.3445519,
+   :source :openstreetmap,
+   :homepage "https://mmap.cm-stirso.pt/",
+   :locality "Santo Tirso"}
+  {:name "Museu Municipal Amadeo de Souza-Cardoso",
+   :longitude -8.0784605,
+   :latitude 41.2695619,
+   :source :openstreetmap,
+   :homepage "https://www.amadeosouza-cardoso.pt/",
+   :locality "Amarante"}
+  {:name "Museu Municipal Armindo Teixeira Lopes",
+   :longitude -7.1786201,
+   :latitude 41.4853383,
+   :source :openstreetmap}
+  {:name "Museu Municipal Convento dos Lóios",
+   :longitude -8.5416424,
+   :latitude 40.9236429,
+   :source :openstreetmap,
+   :homepage "https://museuconventodosloios.cm-feira.pt/",
+   :locality "Santa Maria da Feira"}
+  {:name "Museu Municipal da Filigrana de Gondomar",
+   :longitude -8.5576905,
+   :latitude 41.1257544,
+   :source :openstreetmap,
+   :homepage
+   "https://visitgondomar.cm-gondomar.pt/ver-e-fazer/visitar-o-museu-municipal-da-filigrana-de-gondomar/",
+   :locality "Valbom"}
+  {:name "Museu Municipal da Fotografia João Carpinteiro",
+   :longitude -7.161425,
+   :latitude 38.8789608,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-elvas.pt/descobrir/project-item/museu-fotografia-joao-carpinteiro/"}
+  {:name "Museu Municipal da Ribeira Grande",
+   :longitude -25.5200979,
+   :latitude 37.8198899,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ribeiragrande.pt/geo/museu-municipal-da-ribeira-grande/",
+   :locality "Ribeira Grande"}
+  {:name "Museu Municipal de Alcochete - Núcleo de Arte Sacra",
+   :longitude -8.9636375,
+   :latitude 38.7560149,
+   :source :openstreetmap,
+   :homepage "https://www.cm-alcochete.pt/pages/205",
+   :locality "Alcochete"}
+  {:name "Museu Municipal de Alcochete - Núcleo Sede",
+   :longitude -8.9604845,
+   :latitude 38.7535203,
+   :source :openstreetmap,
+   :homepage "https://www.cm-alcochete.pt/pages/205",
+   :locality "Alcochete"}
+  {:name "Museu Municipal de Alvaiázere",
+   :longitude -8.3772937,
+   :latitude 39.8220082,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Arouca",
+   :longitude -8.249923,
+   :latitude 40.9276205,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-arouca.pt/municipio/equipamentos/museu-municipal/",
+   :locality "Arouca"}
+  {:name "Museu Municipal de Arqueologia Coronel Albino Pereira Lopo",
+   :longitude -6.9566016,
+   :latitude 41.5361475,
+   :source :openstreetmap,
+   :locality "Macedo de Cavaleiros"}
+  {:name "Museu Municipal de Arqueologia de Silves",
+   :longitude -8.4388873,
+   :latitude 37.1889663,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Arqueologia e Etnografia de Barrancos",
+   :longitude -6.9773185,
+   :latitude 38.129379,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Baião",
+   :longitude -8.0322603,
+   :latitude 41.1641738,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-baiao.pt/viver/cultura-e-patrimonio/museu-municipal/",
+   :locality "Baião"}
+  {:name "Museu Municipal de Castro Daire",
+   :longitude -7.9339711,
+   :latitude 40.8985024,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Espinho",
+   :longitude -8.6440152,
+   :latitude 40.9999544,
+   :source :openstreetmap,
+   :homepage "https://museumunicipal.espinho.pt/",
+   :locality "Espinho"}
+  {:name "Museu Municipal de Esposende",
+   :longitude -8.7809305,
+   :latitude 41.5306793,
+   :source :openstreetmap,
+   :locality "Esposende"}
+  {:name "Museu Municipal de Etnografia e História da Póvoa de Varzim",
+   :longitude -8.7581199,
+   :latitude 41.3805381,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-pvarzim.pt/territorio/visite-povoa-de-varzim/ponto-de-interesse/museu-municipal-de-etnografia-e-historia-da-povoa-de-varzim/",
+   :locality "Póvoa do Varzim"}
+  {:name "Museu Municipal de Faro",
+   :longitude -7.9338932,
+   :latitude 37.0129511,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-faro.pt/pt/menu/215/museu-municipal-de-faro.aspx",
+   :locality "Faro"}
+  {:name "Museu Municipal de Ferreira",
+   :longitude -8.1157302,
+   :latitude 38.0576473,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Marvão",
+   :longitude -7.3781147,
+   :latitude 39.3950549,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Mondim de Basto",
+   :longitude -7.9598208,
+   :latitude 41.4093024,
+   :source :openstreetmap,
+   :homepage "https://museu.mondimdebasto.pt/"}
+  {:name "Museu Municipal de Moura",
+   :longitude -7.453622,
+   :latitude 38.1415432,
+   :source :openstreetmap,
+   :homepage "https://www.cm-moura.pt/locais-a-visitar/"}
+  {:name "Museu Municipal de Olhão",
+   :longitude -7.841026,
+   :latitude 37.0259811,
+   :source :openstreetmap,
+   :homepage "https://museumunicipal.cm-olhao.pt/"}
+  {:name "Museu Municipal de Ourém",
+   :longitude -8.5759356,
+   :latitude 39.6567718,
+   :source :openstreetmap,
+   :locality "Ourém"}
+  {:name "Museu Municipal de Penamacor",
+   :longitude -7.1706484,
+   :latitude 40.1666167,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-penamacor.pt/turismo-e-lazer/museus/poi-98/museu-municipal-de-penamacor"}
+  {:name "Museu Municipal de Pinhel",
+   :longitude -7.0626186,
+   :latitude 40.7757401,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-pinhel.pt/viver-pinhel/museus-e-espacos-museologicos/casa-da-cultura/museu-municipal/"}
+  {:name "Museu Municipal de Pombal",
+   :longitude -8.6279386,
+   :latitude 39.9136136,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Portalegre",
+   :longitude -7.4335291,
+   :latitude 39.2914778,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-portalegre.pt/pt/atividade-municipal/cultura/museus",
+   :locality "Portalegre"}
+  {:name "Museu Municipal de Porto de Mós",
+   :longitude -8.8178168,
+   :latitude 39.6016981,
+   :source :openstreetmap,
+   :homepage
+   "https://www.municipio-portodemos.pt/pages/1402?poi_id=375",
+   :locality "Porto de Mós"}
+  {:name "Museu Municipal de Resende",
+   :longitude -7.9591146,
+   :latitude 41.1043763,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Santiago do Cacém",
+   :longitude -8.6918618,
+   :latitude 38.0163575,
+   :source :openstreetmap,
+   :locality "Santiago do Cacém"}
+  {:name "Museu Municipal de Sever do Vouga",
+   :longitude -8.3680823,
+   :latitude 40.7320726,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Soure",
+   :longitude -8.6262238,
+   :latitude 40.0566836,
+   :source :openstreetmap,
+   :homepage
+   "https://roteiromuseus.ccdrc.pt/museu_fichaGeo.aspx?tipologia=2&idMuseu=93&regiao=162",
+   :locality "Soure"}
+  {:name "Museu Municipal de Vale de Cambra",
+   :longitude -8.3777945,
+   :latitude 40.8556481,
+   :source :openstreetmap,
+   :homepage "https://www.cm-valedecambra.pt/pages/431",
+   :locality "Vale de Cambra"}
+  {:name "Museu Municipal de Valongo",
+   :longitude -8.4985552,
+   :latitude 41.1891748,
+   :source :openstreetmap,
+   :homepage "https://www.cm-valongo.pt/pages/503?poi_id=11",
+   :locality "Valongo"}
+  {:name "Museu Municipal de Vidigueira",
+   :longitude -7.7978283,
+   :latitude 38.2078011,
+   :source :openstreetmap}
+  {:name "Museu Municipal de Vila Franca do Campo",
+   :longitude -25.4310946,
+   :latitude 37.7173716,
+   :source :openstreetmap,
+   :locality "Vila Franca do Campo"}
+  {:name "Museu Municipal de Vouzela",
+   :longitude -8.1122973,
+   :latitude 40.722725,
+   :source :openstreetmap,
+   :homepage "https://www.cm-vouzela.pt/viver/cultura/",
+   :locality "Vouzela"}
+  {:name "Museu Municipal do Bombarral",
+   :longitude -9.1552423,
+   :latitude 39.2689418,
+   :source :openstreetmap}
+  {:name "Museu Municipal do Crato",
+   :longitude -7.6457616,
+   :latitude 39.2855038,
+   :source :openstreetmap,
+   :locality "Crato"}
+  {:name "Museu Municipal Doutor António Simões Saraiva",
+   :longitude -7.8928302,
+   :latitude 40.3607884,
+   :source :openstreetmap}
+  {:name "Museu Municipal Doutora Berta Cabral",
+   :longitude -7.152833,
+   :latitude 41.3072507,
+   :source :openstreetmap}
+  {:name "Museu Municipal Leonel Trindade",
+   :longitude -9.2591305,
+   :latitude 39.0901781,
+   :source :openstreetmap}
+  {:name "Museu Municipal Manuel Soares de Albergaria",
+   :longitude -7.9965245,
+   :latitude 40.4338733,
+   :source :openstreetmap,
+   :homepage "http://www.carregal-digital.pt/pages/685"}
+  {:name "Museu Municipal Museu do Móvel",
+   :longitude -8.3746597,
+   :latitude 41.2780319,
+   :source :openstreetmap,
+   :locality "Paços de Ferreira"}
+  {:name "Museu Municipal Nestor de Sousa",
+   :longitude -25.1456982,
+   :latitude 37.832783,
+   :source :openstreetmap,
+   :homepage "https://cmnordeste.pt/cultura/museus-do_nordeste/",
+   :locality "Nordeste"}
+  {:name "Museu Municipal Padre José Rafael Rodrigues",
+   :longitude -7.6486423,
+   :latitude 41.49601,
+   :source :openstreetmap,
+   :homepage
+   "https://cm-vpaguiar.pt/visitar/o-que-visitarfazer/museu-municipal-padre-jose-rafael-rodrigues/"}
+  {:name "Museu Municipal Professor Álvaro Viana de Lemos",
+   :longitude -8.245704,
+   :latitude 40.1092495,
+   :source :openstreetmap,
+   :homepage
+   "https://cm-lousa.pt/locais/museu-municipal-prof-alvaro-viana-de-lemos/",
+   :locality "Lousã"}
+  {:name "Museu Nacional da Imprensa",
+   :longitude -8.576738,
+   :latitude 41.143407,
+   :source :openstreetmap,
+   :homepage "http://museudaimprensa.pt/",
+   :locality "Porto"}
+  {:name "Museu Nacional da Música",
+   :longitude -9.3268874,
+   :latitude 38.9374843,
+   :source :openstreetmap,
+   :homepage "https://museunacionaldamusica.gov.pt",
+   :locality "Mafra"}
+  {:name "Museu Nacional de Arte Antiga",
+   :longitude -9.161447,
+   :latitude 38.7047843,
+   :source :openstreetmap,
+   :homepage "www.museudearteantiga.pt",
+   :locality "Lisboa"}
+  {:name "Museu Nacional de Etnologia",
+   :longitude -9.2084503,
+   :latitude 38.7048338,
+   :source :openstreetmap,
+   :homepage "https://mnetnologia.wordpress.com",
+   :locality "Lisboa"}
+  {:name "Museu Nacional de História Natural e da Ciência",
+   :longitude -9.1506352,
+   :latitude 38.7180448,
+   :source :openstreetmap,
+   :homepage
+   "https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia",
+   :locality "Lisboa"}
+  {:name "Museu Nacional do Azulejo",
+   :longitude -9.1139528,
+   :latitude 38.7247634,
+   :source :openstreetmap,
+   :homepage "http://www.museudoazulejo.pt"}
+  {:name "Museu Nacional do Pão",
+   :longitude -7.6944744,
+   :latitude 40.4177804,
+   :source :openstreetmap,
+   :homepage "https://www.museudopao.pt",
+   :locality "Seia"}
+  {:name "Museu Nacional do Traje e da Moda",
+   :longitude -9.1648109,
+   :latitude 38.7751509,
+   :source :openstreetmap,
+   :homepage "http://museudotraje.pt",
+   :locality "Lisboa"}
+  {:name "Museu Nacional dos Coches",
+   :longitude -9.1987051,
+   :latitude 38.6972785,
+   :source :openstreetmap,
+   :homepage "www.museudoscoches.pt",
+   :locality "Lisboa"}
+  {:name "Museu Nacional Ferroviário",
+   :longitude -8.4742477,
+   :latitude 39.4641323,
+   :source :openstreetmap,
+   :homepage "https://www.fmnf.pt",
+   :locality "Entroncamento"}
+  {:name "Museu Nacional Resistência e Liberdade",
+   :longitude -9.3809041,
+   :latitude 39.3534391,
+   :source :openstreetmap,
+   :homepage "https://www.mnrl.pt/"}
+  {:name "Museu Natural da Electricidade de Seia",
+   :longitude -7.6868697,
+   :latitude 40.3985929,
+   :source :openstreetmap,
+   :homepage
+   "https://museusdaenergia.org/patrimonios/8-museu-natural-da-electricidade-de-seia"}
+  {:name "Museu Nogueira da Silva",
+   :longitude -8.421798,
+   :latitude 41.5518823,
+   :source :openstreetmap,
+   :homepage "http://www.mns.uminho.pt/",
+   :locality "Braga"}
+  {:name "Museu Oceanográfico",
+   :longitude -8.9829333,
+   :latitude 38.4735781,
+   :source :openstreetmap,
+   :locality "Setúbal"}
+  {:name "Museu Paroqual de Moncarapacho",
+   :longitude -7.7889597,
+   :latitude 37.0843338,
+   :source :openstreetmap}
+  {:name "Museu Paroquial",
+   :longitude -9.1581398,
+   :latitude 39.3586371,
+   :source :openstreetmap}
+  {:name "Museu Paroquial Beato Domingos de Borba",
+   :longitude -7.4589769,
+   :latitude 38.8056342,
+   :source :openstreetmap}
+  {:name "Museu Paroquial da Foz do Sousa",
+   :longitude -8.4856129,
+   :latitude 41.1132746,
+   :source :openstreetmap}
+  {:name "Museu Paroquial de Arta Sacra",
+   :longitude -7.4989012,
+   :latitude 40.6284481,
+   :source :openstreetmap,
+   :homepage
+   "https://www.aldeiasdemontanha.pt/pt/aldeias/figueir%C3%B3-da-granja/museu-paroquial-de-arte-sacra/"}
+  {:name "Museu Particular do Delfim Silva",
+   :longitude -7.8926925,
+   :latitude 40.8368002,
+   :source :openstreetmap}
+  {:name "Museu Paço dos Duques de Bragança",
+   :longitude -8.2912227,
+   :latitude 41.4465363,
+   :source :openstreetmap,
+   :homepage "https://pacodosduques.gov.pt/"}
+  {:name "Museu Pico de Regalados",
+   :longitude -8.430743,
+   :latitude 41.6871039,
+   :source :openstreetmap}
+  {:name "Museu Pio XII",
+   :longitude -8.4257548,
+   :latitude 41.5484737,
+   :source :openstreetmap,
+   :homepage "https://www.museupioxii.pt/",
+   :locality "Braga"}
+  {:name "Museu Popular Beatriz Costa",
+   :longitude -9.2568214,
+   :latitude 38.9317912,
+   :source :openstreetmap}
+  {:name "Museu Professor Joaquim Vermelho",
+   :longitude -7.5925568,
+   :latitude 38.8416037,
+   :source :openstreetmap}
+  {:name "Museu Quintas do Tejo / Quinta Dona Maria",
+   :longitude -8.2968798,
+   :latitude 39.4847316,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cm-constancia.pt/index.php/pt/visitar/museus#museu-quintas-do-tejo-quinta-dona-maria",
+   :locality "Constância"}
+  {:name "Museu Regional de Cucujães",
+   :longitude -8.4973524,
+   :latitude 40.8690211,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-oaz.pt/turismo.356/o_que_fazer.510/monumentos_e_sitios.1621/museus.1625/museu_regional_de_cucujaes.a4481.html",
+   :locality "Cucujães"}
+  {:name "Museu Regional do Algarve",
+   :longitude -7.9311018,
+   :latitude 37.0160908,
+   :source :openstreetmap}
+  {:name "Museu Regional e Etnográfico de Alvito São Pedro",
+   :longitude -8.5919267,
+   :latitude 41.6003939,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitportugal.com/pt-pt/NR/exeres/747D4986-861E-4BEE-92BF-4019A819A3DD",
+   :locality "Alvito São Pedro"}
+  {:name "Museu Renato Lobo Garcia",
+   :longitude -9.4697706,
+   :latitude 38.7956082,
+   :source :openstreetmap}
+  {:name "Museu Roque Gameiro",
+   :longitude -8.687684,
+   :latitude 39.5129707,
+   :source :openstreetmap}
+  {:name "Museu rural",
+   :longitude -7.4787163,
+   :latitude 38.0201081,
+   :source :openstreetmap}
+  {:name "Museu Rural",
+   :longitude -8.4915074,
+   :latitude 39.4074195,
+   :source :openstreetmap}
+  {:name "Museu Rural da Castanha",
+   :longitude -7.4266637,
+   :latitude 41.5615898,
+   :source :openstreetmap}
+  {:name "Museu Rural de Pendilhe",
+   :longitude -7.8351611,
+   :latitude 40.9054508,
+   :source :openstreetmap,
+   :homepage "https://cm-vnpaiva.pt/",
+   :locality "Pendilhe"}
+  {:name "Museu Rural de Salselas",
+   :longitude -6.8770261,
+   :latitude 41.5499891,
+   :source :openstreetmap,
+   :homepage "http://museururaldesalselas.blogspot.com"}
+  {:name "Museu Rural do Reguengo Grande",
+   :longitude -9.2212243,
+   :latitude 39.2841528,
+   :source :openstreetmap}
+  {:name
+   "Museu Rural e Etnográfico - Rancho Regional \"Os Esticadinhos\"",
+   :longitude -8.6045896,
+   :latitude 40.3543474,
+   :source :openstreetmap,
+   :locality "Cantanhede"}
+  {:name "Museu Serpa Pinto",
+   :longitude -8.0903472,
+   :latitude 41.0717485,
+   :source :openstreetmap,
+   :homepage
+   "https://turismo.cm-cinfaes.pt/visitar/cultural/item/30-museu-serpa-pinto",
+   :locality "Cinfães"}
+  {:name "Museu Sporting em Leiria",
+   :longitude -8.8127354,
+   :latitude 39.7468755,
+   :source :openstreetmap,
+   :locality "Leiria"}
+  {:name "Museu Tabaco da Maia",
+   :longitude -25.393893,
+   :latitude 37.829578,
+   :source :openstreetmap}
+  {:name "Museu Terra de Besteiros",
+   :longitude -8.080001,
+   :latitude 40.5161975,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-tondela.pt/index.php/servicos/gabinete-de-cultura-e-projectos-culturais/equipamentos/mercado-velho",
+   :locality "Tondela"}
+  {:name "Museu Terra de Besteiros - Reservas",
+   :longitude -8.0765398,
+   :latitude 40.5422481,
+   :source :openstreetmap}
+  {:name "Museu Urgeiriça",
+   :longitude -7.894808,
+   :latitude 40.5138993,
+   :source :openstreetmap}
+  {:name "Museu Vista Alegre",
+   :longitude -8.6839532,
+   :latitude 40.5893041,
+   :source :openstreetmap,
+   :homepage
+   "https://vistaalegre.com/pt/t/vaa_visitemuseudavistaalegre_omuseuvistaalegre-1",
+   :locality "Ílhavo"}
+  {:name "Museu Vivo",
+   :longitude -7.8181724,
+   :latitude 37.333671,
+   :source :openstreetmap}
+  {:name "Museu Vivo das Conservas Pinhais",
+   :longitude -8.6840299,
+   :latitude 41.1785167,
+   :source :openstreetmap,
+   :homepage "https://www.conservaspinhais.com/visitar-pinhais"}
+  {:name "Museu Vivo de artes e ofícios tradicionais",
+   :longitude -8.3326934,
+   :latitude 40.0816358,
+   :source :openstreetmap,
+   :homepage
+   "https://www.adfp.pt/areas-de-intervencao/miranda-do-corvo/museu-vivo-de-artes-e-oficios-tradicionais"}
+  {:name "Museu Vulcanospeleológico",
+   :longitude -27.220881,
+   :latitude 38.653846,
+   :source :openstreetmap,
+   :homepage "www.mountanheiros.com",
+   :locality "Angra do Heroísmo"}
+  {:name "Navio-Museu Santo André",
+   :longitude -8.7302621,
+   :latitude 40.6414131,
+   :source :openstreetmap,
+   :homepage "https://museumaritimo.cm-ilhavo.pt/pages/33"}
+  {:name "Nersant",
+   :longitude -8.5305332,
+   :latitude 39.4681447,
+   :source :openstreetmap}
+  {:name "Nucleo Museológico de São Miguel do Pinheiro",
+   :longitude -7.8367293,
+   :latitude 37.544919,
+   :source :openstreetmap}
+  {:name "Nucleo Museológico do Mar",
+   :longitude -8.6820844,
+   :latitude 41.188734,
+   :source :openstreetmap,
+   :locality "Matosinhos e Leça da Palmeira"}
+  {:name "Nucleo Museológico Fonte Zambujo",
+   :longitude -7.5801597,
+   :latitude 37.4204859,
+   :source :openstreetmap}
+  {:name "Núcleo Arqueológico da Cividade de Terroso",
+   :longitude -8.7231063,
+   :latitude 41.4123478,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-pvarzim.pt/areas-de-atividade/povoa-cultural/museu-municipal/nucleo-terroso"}
+  {:name "Núcleo Cultural e Recreativo de São Tiago",
+   :longitude -7.7884755,
+   :latitude 41.2920104,
+   :source :openstreetmap}
+  {:name "Núcleo de Arte Sacra de Aljubarrota",
+   :longitude -8.9262616,
+   :latitude 39.5675311,
+   :source :openstreetmap,
+   :homepage
+   "https://www.paroquiadealjubarrota.com/museu-paroquia-alujbarrota/"}
+  {:name "Núcleo de Experiências Turísticas do Couto Mineiro do Pejão",
+   :longitude -8.3762423,
+   :latitude 41.0482362,
+   :source :openstreetmap}
+  {:name "Núcleo de Gastronomia do Ecomuseu da Lousã",
+   :longitude -8.2333345,
+   :latitude 40.1178629,
+   :source :openstreetmap}
+  {:name "Núcleo Expositivo das Bicas",
+   :longitude -28.6516591,
+   :latitude 38.5513313,
+   :source :openstreetmap}
+  {:name "Núcleo Interpretativo do Castro de Cidadelhe",
+   :longitude -7.84736,
+   :latitude 41.1677868,
+   :source :openstreetmap,
+   :locality "Cidadelhe"}
+  {:name "Núcleo Interpretativo do Megalitismo",
+   :longitude -7.9153835,
+   :latitude 38.5698526,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-evora.pt/visitante/patrimonio/nucleo-interpretativo-do-megalitismo/"}
+  {:name "Núcleo Museológico",
+   :longitude -8.7310037,
+   :latitude 41.297807,
+   :source :openstreetmap,
+   :homepage
+   "https://jfvilacha.pt/index.php/a-freguesia/turismo-e-lazer"}
+  {:name "Núcleo Museológico",
+   :longitude -7.6551374,
+   :latitude 37.4762994,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico - Rota da Cal",
+   :longitude -17.0255889,
+   :latitude 32.7963395,
+   :source :openstreetmap,
+   :homepage "https://sites.google.com/site/rotadacal/"}
+  {:name "Núcleo Museológico Agrícola",
+   :longitude -8.8101017,
+   :latitude 38.9793151,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico da Achada",
+   :longitude -25.2644196,
+   :latitude 37.8585432,
+   :source :openstreetmap,
+   :locality "Achada"}
+  {:name "Núcleo Museológico da Igreja de São Francisco",
+   :longitude -7.7382029,
+   :latitude 41.2924904,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico da Lomba da Fazenda",
+   :longitude -25.1611083,
+   :latitude 37.8449576,
+   :source :openstreetmap,
+   :locality "Lomba da Fazenda"}
+  {:name "Núcleo Museológico da Marinha Portuguesa de Almada",
+   :longitude -9.1466762,
+   :latitude 38.6866584,
+   :source :openstreetmap,
+   :homepage "https://ccm.marinha.pt"}
+  {:name "Núcleo Museológico da Ponta",
+   :longitude -28.2706022,
+   :latitude 38.7275209,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitazores.com/explorar/nucleo-museologico-da-ponta"}
+  {:name "Núcleo Museológico da Sociedade da Água de Luso",
+   :longitude -8.3767303,
+   :latitude 40.3836303,
+   :source :openstreetmap,
+   :homepage
+   "https://www.fundacaoluso.pt/pt/casino-luso/nucleo-museologico/",
+   :locality "Luso"}
+  {:name "Núcleo Museológico da Telha - Telheira de Luzelos",
+   :longitude -7.320906,
+   :latitude 41.2389093,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico da Água",
+   :longitude -8.51212,
+   :latitude 39.2921193,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico das Mantas e Tapeçarias de Belver",
+   :longitude -7.9501413,
+   :latitude 39.4921494,
+   :source :openstreetmap,
+   :homepage
+   "https://cm-gaviao.pt/locais/nucleo-museologico-das-mantas-e-tapecarias-de-belver/"}
+  {:name "Núcleo Museológico de Alcaria dos Javazes",
+   :longitude -7.6382698,
+   :latitude 37.5175118,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico de Alverca",
+   :longitude -9.0383825,
+   :latitude 38.8993004,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico de Arada",
+   :longitude -8.6016056,
+   :latitude 40.9118677,
+   :source :openstreetmap,
+   :homepage
+   "https://roteiromuseus.ccdrc.pt/museu_fichaGeo.aspx?idMuseu=41&tipologia=3&regiao=161",
+   :locality "Arada"}
+  {:name "Núcleo Museológico de Arqueologia, Arte e Antropologia",
+   :longitude -8.598395,
+   :latitude 41.0721368,
+   :source :openstreetmap,
+   :homepage
+   "https://www.gaiacultura.pt/pt/equipamentos-municipais/solar-condes-de-resende/",
+   :locality "Canelas"}
+  {:name "Núcleo Museológico de Castro Laboreiro",
+   :longitude -8.1569829,
+   :latitude 42.0298148,
+   :source :openstreetmap}
+  {:name "Núcleo museológico de Eça de Queiroz",
+   :longitude -8.0043434,
+   :latitude 41.1248942,
+   :source :openstreetmap,
+   :homepage "https://feq.pt/"}
+  {:name "Núcleo Museológico de Rates",
+   :longitude -8.6727161,
+   :latitude 41.4234735,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico de Santa Luzia",
+   :longitude -8.8352912,
+   :latitude 41.7016327,
+   :source :openstreetmap,
+   :homepage
+   "https://www.olharvianadocastelo.pt/2009/04/viana-do-castelo-nucleo-museologico-do_20.html"}
+  {:name
+   "Núcleo Museológico de Santarém do Museu Nacional Ferroviário",
+   :longitude -8.6749087,
+   :latitude 39.2421173,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cp.pt/cp/displayPage.do?vgnextoid=7309265813375010VgnVCM1000007b01a8c0RCRD"}
+  {:name "Núcleo Museológico de São Bartolomeu dos Regatos",
+   :longitude -27.2909066,
+   :latitude 38.6743974,
+   :source :openstreetmap,
+   :locality "São Bartolomeu de Regatos"}
+  {:name "Núcleo Museológico de São Martinho de Dume",
+   :longitude -8.4357197,
+   :latitude 41.5672052,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-braga.pt/pt/1201/conhecer/historia-e-patrimonio/museus/item/item-1-672"}
+  {:name "Núcleo Museológico do Azeite",
+   :longitude -7.2393976,
+   :latitude 40.0262597,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico do Azeite de Sarnadas de Ródão",
+   :longitude -7.6247661,
+   :latitude 39.7465025,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico do Castelo do Lindoso",
+   :longitude -8.1991314,
+   :latitude 41.8657199,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico do Cemitério dos Prazeres",
+   :longitude -9.1711848,
+   :latitude 38.7136701,
+   :source :openstreetmap,
+   :homepage
+   "https://web.archive.org/web/20210411031855/https://lisboagreencapital2020.com/evento/exposicao-flores-de-pedra/"}
+  {:name "Núcleo Museológico do Contrabando",
+   :longitude -7.5744085,
+   :latitude 39.6677653,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-vvrodao.pt/descobrir/pontos-de-interesse/nucleo-museologico-o-contrabando-perais.aspx"}
+  {:name "Núcleo Museológico do Hospital Colónia Rovisco Pais",
+   :longitude -8.769646,
+   :latitude 40.2981497,
+   :source :openstreetmap,
+   :homepage "https://www.hansen-stories.pt/nucleo-museologico/",
+   :locality "Tocha"}
+  {:name "Núcleo Museológico do Mosteiro",
+   :longitude -7.7252488,
+   :latitude 37.7897271,
+   :source :openstreetmap,
+   :homepage
+   "https://www.museudemertola.pt/nucleos-exposicao/mosteiro/"}
+  {:name "Núcleo Museológico do Sal",
+   :longitude -8.8329748,
+   :latitude 40.1120174,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-figfoz.pt/index.php/onde-ir/nucleos-museologicos/219-servicos2/por-temas/cultura/705-nucleo-museologico-sal"}
+  {:name
+   "Núcleo Museológico do Sargaço e Arqueológico do Castro de Moldes",
+   :longitude -8.7949363,
+   :latitude 41.6239181,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico dos Moinhos de Argontim",
+   :longitude -8.082987,
+   :latitude 41.4298155,
+   :source :openstreetmap,
+   :homepage
+   "https://www.rotadoromanico.com/pt/experiencias/o-que-ver-e-fazer/nucleo-museologico-e-circuito-turistico-dos-moinhos-de-argontim/"}
+  {:name "Núcleo Museológico Lagar da Corga",
+   :longitude -8.1896389,
+   :latitude 40.0250139,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico Linho e Tecelagem",
+   :longitude -7.7585565,
+   :latitude 39.730002,
+   :source :openstreetmap}
+  {:name "Núcleo Museológico Mercearia Central - Casa Tradicional",
+   :longitude -25.5113672,
+   :latitude 37.7205275,
+   :source :openstreetmap,
+   :locality "Água de Pau"}
+  {:name "Núcleo Museológico Tanoaria Farramenta",
+   :longitude -8.6268801,
+   :latitude 40.9571327,
+   :source :openstreetmap,
+   :homepage "http://tanoariajosafer.com/visits/",
+   :locality "Esmoriz"}
+  {:name "Núcleo Museológico Tanoaria Ramalho",
+   :longitude -8.6300786,
+   :latitude 40.9564161,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/tanoariaramalho.esmoriz/",
+   :locality "Esmoriz"}
+  {:name "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+   :longitude -8.6534226,
+   :latitude 40.6383196,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-aveiro.pt/visitantes/visitar/patrimonio-religioso/igreja-do-convento-de-s-joao-evangelista-carmelitas"}
+  {:name "Observatorio do Sobreiro e da Cortiça",
+   :longitude -8.4861335,
+   :latitude 38.936228,
+   :source :openstreetmap}
+  {:name "Observatório Astronómico de Lisboa",
+   :longitude -9.1874341,
+   :latitude 38.7105204,
+   :source :openstreetmap,
+   :homepage "https://oal.ul.pt/"}
+  {:name "Observatório do Lago Alqueva",
+   :longitude -7.3660836,
+   :latitude 38.4440391,
+   :source :openstreetmap,
+   :homepage "http://olagoalqueva.pt/",
+   :locality "Monsaraz"}
+  {:name "Observatório Vulcanológico e Geotérmico dos Açores",
+   :longitude -25.5882616,
+   :latitude 37.7427799,
+   :source :openstreetmap,
+   :homepage "http://www.cvarg.azores.gov.pt/Paginas/home-cvarg.aspx",
+   :locality "Lagoa"}
+  {:name "Officina Mundi",
+   :longitude -7.8884466,
+   :latitude 39.056372,
+   :source :openstreetmap}
+  {:name "Oficina das Ruas Floridas",
+   :longitude -7.549499,
+   :latitude 38.6478291,
+   :source :openstreetmap}
+  {:name "Oficina de Artes Manuel Cargaleiro",
+   :longitude -9.1052041,
+   :latitude 38.6325932,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-seixal.pt/equipamento/oficina-de-artes-manuel-cargaleiro"}
+  {:name "Oficina de Cultura",
+   :longitude -9.1581987,
+   :latitude 38.679436,
+   :source :openstreetmap}
+  {:name "Oficina do Brinquedo Tradicional Português",
+   :longitude -8.528108,
+   :latitude 41.2239542,
+   :source :openstreetmap,
+   :homepage "https://oficinadobrinquedo.cm-valongo.pt/",
+   :locality "Alfena"}
+  {:name "Oficina do Núcleo Naval do  Ecomuseu do Seixal",
+   :longitude -9.1051512,
+   :latitude 38.6295478,
+   :source :openstreetmap}
+  {:name "Olarias da Villa",
+   :longitude -25.4392893,
+   :latitude 37.7140758,
+   :source :openstreetmap}
+  {:name "OMIC - Observatório Microbiano das Furnas",
+   :longitude -25.3032316,
+   :latitude 37.7733683,
+   :source :openstreetmap}
+  {:name "PADA Studios",
+   :longitude -9.064892,
+   :latitude 38.6658524,
+   :source :openstreetmap,
+   :homepage "http://memoriaefuturo.cm-barreiro.pt",
+   :locality "Barreiro e Lavradio"}
+  {:name "Palacete dos Condes de Sampayo",
+   :longitude -9.0310838,
+   :latitude 38.6561891,
+   :source :openstreetmap}
+  {:name "Palácio Anjos",
+   :longitude -9.230294,
+   :latitude 38.6998025,
+   :source :openstreetmap}
+  {:name "Palácio da Bolsa",
+   :longitude -8.6157292,
+   :latitude 41.1414113,
+   :source :openstreetmap,
+   :homepage "http://www.palaciodabolsa.com"}
+  {:name "Palácio de Dom Manuel",
+   :longitude -7.9092443,
+   :latitude 38.5677934,
+   :source :openstreetmap,
+   :homepage "https://www.galeriaplato.com/",
+   :locality "Évora"}
+  {:name "Palácio do Pelourinho",
+   :longitude -8.4874211,
+   :latitude 39.4018169,
+   :source :openstreetmap}
+  {:name "Palácio do Sobralinho",
+   :longitude -9.0261033,
+   :latitude 38.9189378,
+   :source :openstreetmap}
+  {:name "Palácio dos Duques de Cadaval",
+   :longitude -7.9073843,
+   :latitude 38.5733167,
+   :source :openstreetmap,
+   :homepage "https://www.palaciocadaval.com/"}
+  {:name "Palácio Nacional da Ajuda",
+   :longitude -9.1977605,
+   :latitude 38.7074655,
+   :source :openstreetmap,
+   :homepage "https://www.palacioajuda.gov.pt/"}
+  {:name "Palácio Nacional de Queluz",
+   :longitude -9.2584998,
+   :latitude 38.7505198,
+   :source :openstreetmap}
+  {:name "Parque Arqueológico do Vale do Terva",
+   :longitude -7.6182817,
+   :latitude 41.7306421,
+   :source :openstreetmap}
+  {:name "Parque Mineiro de Aljustrel",
+   :longitude -8.1634343,
+   :latitude 37.8677497,
+   :source :openstreetmap}
+  {:name "Parque Temático Molinológico - Núcleo da Azevinheira",
+   :longitude -8.4979342,
+   :latitude 40.8157499,
+   :source :openstreetmap,
+   :homepage "https://ptm.cm-oaz.pt/?op=artigo&mn=592&id=1271"}
+  {:name "Parque Temático Molinológico - Núcleo da Ponte do Castro",
+   :longitude -8.4954954,
+   :latitude 40.8115117,
+   :source :openstreetmap,
+   :homepage "https://ptm.cm-oaz.pt/?op=artigo&mn=592&id=1272"}
+  {:name "Pavilhão 31",
+   :longitude -9.1477708,
+   :latitude 38.7601571,
+   :source :openstreetmap}
+  {:name "Pavilhão Contemporâneo",
+   :longitude -9.3810277,
+   :latitude 38.7648612,
+   :source :openstreetmap}
+  {:name "Pavilhão da Água",
+   :longitude -8.6765582,
+   :latitude 41.1714441,
+   :source :openstreetmap,
+   :homepage "https://pavilhaodaagua.pt",
+   :locality "Porto"}
+  {:name "Pavilhão de Macau",
+   :longitude -9.1602377,
+   :latitude 38.826909,
+   :source :openstreetmap,
+   :homepage "https://www.cm-loures.pt/"}
+  {:name "Pavilhão do Conhecimento",
+   :longitude -9.0955801,
+   :latitude 38.7623028,
+   :source :openstreetmap,
+   :homepage "https://www.pavconhecimento.pt/",
+   :locality "Lisboa"}
+  {:name "Pavilhão Julião Sarmento",
+   :longitude -9.212502,
+   :latitude 38.694259,
+   :source :openstreetmap}
+  {:name "Pavilhão Preto",
+   :longitude -9.1579735,
+   :latitude 38.7582737,
+   :source :openstreetmap}
+  {:name "Penhasco",
+   :longitude -9.1296099,
+   :latitude 38.7309061,
+   :source :openstreetmap}
+  {:name "Peripécia Teatro",
+   :longitude -7.7259418,
+   :latitude 41.3489454,
+   :source :openstreetmap,
+   :homepage "https://www.peripeciateatro.com/",
+   :locality "Vila Real"}
+  {:name "Pintalhão",
+   :longitude -8.5795887,
+   :latitude 41.1675244,
+   :source :openstreetmap,
+   :locality "Porto"}
+  {:name "Planetário da Universidade de Coimbra",
+   :longitude -8.4455953,
+   :latitude 40.2006015,
+   :source :openstreetmap}
+  {:name "Plataforma de Ciência Aberta",
+   :longitude -6.9420553,
+   :latitude 41.0263602,
+   :source :openstreetmap,
+   :homepage "http://cm-fcr.pt/plataforma-ciencia-aberta/",
+   :locality "Barca D’Alva"}
+  {:name "Polo Arqueológico da Garganta",
+   :longitude -7.6186794,
+   :latitude 41.2935928,
+   :source :openstreetmap,
+   :homepage "https://www.ahas.pt"}
+  {:name "Polo Museológico de Salir",
+   :longitude -8.0468725,
+   :latitude 37.2429087,
+   :source :openstreetmap}
+  {:name "Porta 33 Porto Santo",
+   :longitude -16.3331269,
+   :latitude 33.0624833,
+   :source :openstreetmap,
+   :homepage "https://www.porta33.com/index_porta33_porto_santo.html"}
+  {:name "Posto de Comando do MFA",
+   :longitude -9.1964871,
+   :latitude 38.7672825,
+   :source :openstreetmap}
+  {:name "Posto Semafórico do Monte Brasil",
+   :longitude -27.2213179,
+   :latitude 38.6431855,
+   :source :openstreetmap}
+  {:name "Praça do Peixe",
+   :longitude -8.539716,
+   :latitude 39.4781104,
+   :source :openstreetmap,
+   :homepage "https://museu.cm-torresnovas.pt"}
+  {:name "Pólo Museológico ou Casa Museu da Fajã Grande",
+   :longitude -31.2617203,
+   :latitude 39.4525404,
+   :source :openstreetmap,
+   :locality "Fajã Grande"}
+  {:name "QART Gallery Gerald Bretterbauer",
+   :longitude -16.8349572,
+   :latitude 32.6423965,
+   :source :openstreetmap,
+   :locality "Caniço"}
+  {:name "Quandrum Galeria de Arte",
+   :longitude -9.1438115,
+   :latitude 38.7513138,
+   :source :openstreetmap,
+   :homepage "https://egeac.pt/espacos/galeria-quadrum/"}
+  {:name "Quartel das Artes Doutor Alípio Sol",
+   :longitude -8.494847,
+   :latitude 40.5131059,
+   :source :openstreetmap}
+  {:name "Quinta da Caverneira",
+   :longitude -8.5769173,
+   :latitude 41.2019956,
+   :source :openstreetmap}
+  {:name "Quinta de Baixo",
+   :longitude -8.5894427,
+   :latitude 41.1437801,
+   :source :openstreetmap}
+  {:name "Quinta de Ervamoira - Ramos Pinto",
+   :longitude -7.1123561,
+   :latitude 41.0200245,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ramospinto.pt/pt/verify/?next=/pt/visitas/museu-sitio-de-ervamoira/"}
+  {:name "Quinta do Conventinho",
+   :longitude -9.1619333,
+   :latitude 38.8193531,
+   :source :openstreetmap}
+  {:name "Radiolândia",
+   :longitude -8.5974714,
+   :latitude 40.4967479,
+   :source :openstreetmap,
+   :homepage "https://www.cm-olb.pt/p/radiolandia"}
+  {:name "Rancho Etnográfico de Borbela",
+   :longitude -7.7551417,
+   :latitude 41.3304205,
+   :source :openstreetmap}
+  {:name "Rancho Folclórico e Recreativo de Borbela",
+   :longitude -7.7493452,
+   :latitude 41.3287638,
+   :source :openstreetmap}
+  {:name "Real Fábrica do Gelo",
+   :longitude -9.0506731,
+   :latitude 39.178572,
+   :source :openstreetmap}
+  {:name "Recreios Desportivos da Trafaria",
+   :longitude -9.2315374,
+   :latitude 38.6725979,
+   :source :openstreetmap,
+   :locality "Trafaria"}
+  {:name "Remarkable Treasures Art Gallery",
+   :longitude -9.1560251,
+   :latitude 38.7275353,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Reservatório",
+   :longitude -8.6621739,
+   :latitude 41.1518141,
+   :source :openstreetmap,
+   :homepage "https://cultura.cm-porto.pt/museus/reservatorio",
+   :locality "Porto"}
+  {:name "Ricardo Campus - Caricaturas",
+   :longitude -8.5912762,
+   :latitude 41.1543416,
+   :source :openstreetmap,
+   :homepage "http://www.ricardocampus.com/"}
+  {:name "Rosina Gaudio",
+   :longitude -8.3539984,
+   :latitude 40.7519206,
+   :source :openstreetmap}
+  {:name "Sala de Exposições",
+   :longitude -8.491377,
+   :latitude 40.1113586,
+   :source :openstreetmap,
+   :homepage "https://www.poros.pt"}
+  {:name "Sala de Recordações",
+   :longitude -9.4614803,
+   :latitude 38.8386512,
+   :source :openstreetmap}
+  {:name "Sala de Trofeus da AAC-OAF",
+   :longitude -8.4086613,
+   :latitude 40.2032638,
+   :source :openstreetmap,
+   :homepage "https://www.academica-oaf.pt/"}
+  {:name "Sala Museu de Arqueologia de Mogadouro",
+   :longitude -6.7159238,
+   :latitude 41.3405057,
+   :source :openstreetmap,
+   :homepage "https://www.mogadouro.pt/",
+   :locality "Mogadouro"}
+  {:name "Sala Peripécia",
+   :longitude -7.7130688,
+   :latitude 41.3723152,
+   :source :openstreetmap,
+   :homepage "https://www.peripeciateatro.com/",
+   :locality "Vila Real"}
+  {:name "Salto",
+   :longitude -9.1083261,
+   :latitude 38.7293793,
+   :source :openstreetmap,
+   :locality "Lisboa"}
+  {:name "Salão de Festas da Junta de Freguesia",
+   :longitude -7.5219146,
+   :latitude 40.6446863,
+   :source :openstreetmap}
+  {:name "Sede Rancho Folclorico Samora e o Passado",
+   :longitude -8.8698418,
+   :latitude 38.9310678,
+   :source :openstreetmap}
+  {:name "Silo - Espaço Cultural",
+   :longitude -8.6559058,
+   :latitude 41.1813825,
+   :source :openstreetmap}
+  {:name "Simples Partilha Associação Cultural",
+   :longitude -9.3475093,
+   :latitude 38.7896626,
+   :source :openstreetmap,
+   :locality "Mem Martins"}
+  {:name "Sinagoga de Castelo de Vide",
+   :longitude -7.4567528,
+   :latitude 39.4175195,
+   :source :openstreetmap}
+  {:name "SIRB Os Penicheiros",
+   :longitude -9.0794822,
+   :latitude 38.6629904,
+   :source :openstreetmap,
+   :locality "Barreiro"}
+  {:name "SMUP",
+   :longitude -9.3569691,
+   :latitude 38.6892895,
+   :source :openstreetmap}
+  {:name "Sociedade Filarmónica Gualdim Pais",
+   :longitude -8.4054002,
+   :latitude 39.6037686,
+   :source :openstreetmap}
+  {:name "Sociedade Filarmónica Vestiariense Monsenhor José Cacella",
+   :longitude -8.9982138,
+   :latitude 39.555214,
+   :source :openstreetmap}
+  {:name "Sociedade Martins Sarmento",
+   :longitude -8.2967631,
+   :latitude 41.442584,
+   :source :openstreetmap,
+   :homepage "https://msarmento.org/"}
+  {:name "Solar do Aposento",
+   :longitude -16.9912648,
+   :latitude 32.8223577,
+   :source :openstreetmap,
+   :homepage "https://mqc.madeira.gov.pt/sa/en/"}
+  {:name "Solar do Queijo",
+   :longitude -7.391471,
+   :latitude 40.6381316,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cm-celoricodabeira.pt/informacoes/360solardoqueijo/",
+   :locality "Celorico da Beira"}
+  {:name "Solar dos Zagallos",
+   :longitude -9.1901234,
+   :latitude 38.6501487,
+   :source :openstreetmap}
+  {:name "Studio Bongard",
+   :longitude -8.5217211,
+   :latitude 37.126802,
+   :source :openstreetmap,
+   :homepage "https://www.studiobongard.com/",
+   :locality "Ferragudo"}
+  {:name "Super Bock Casa da Cerveja",
+   :longitude -8.6263785,
+   :latitude 41.2116126,
+   :source :openstreetmap,
+   :homepage
+   "https://store.superbock.pt/visita-super-bock-casa-da-cerveja?srsltid=AfmBOorPC3fwxHRIR4la_VXjZJnW7J1YVhk3UzBZZh5mGGJHp17i2LhK"}
+  {:name "Símbolo",
+   :longitude -8.6222627,
+   :latitude 41.1494251,
+   :source :openstreetmap,
+   :homepage
+   "https://sigarra.up.pt/icbas/pt/uni_geral.unidade_view?pv_unidade=140",
+   :locality "Porto"}
+  {:name "Teatro do SLAD",
+   :longitude -7.5251289,
+   :latitude 40.2090935,
+   :source :openstreetmap}
+  {:name "Teatro Experimental do Porto",
+   :longitude -8.6079155,
+   :latitude 41.117515,
+   :source :openstreetmap,
+   :homepage "https://casa.fmleao.pt/"}
+  {:name "Teatro José Lúcio da Silva",
+   :longitude -8.8038692,
+   :latitude 39.7467173,
+   :source :openstreetmap,
+   :homepage "https://www.teatrojlsilva.pt/"}
+  {:name "Templo da Poesia",
+   :longitude -9.3017173,
+   :latitude 38.700829,
+   :source :openstreetmap}
+  {:name "Templo Ecuménico Universalista",
+   :longitude -8.3438764,
+   :latitude 40.0816207,
+   :source :openstreetmap}
+  {:name "The Black Sheep",
+   :longitude -9.1597036,
+   :latitude 38.7196976,
+   :source :openstreetmap,
+   :locality "Campo de Ourique"}
+  {:name "Tipografia Popular",
+   :longitude -9.1036668,
+   :latitude 38.6436164,
+   :source :openstreetmap}
+  {:name "Torre de Menagem",
+   :longitude -7.9609687,
+   :latitude 39.493821,
+   :source :openstreetmap}
+  {:name "Twoart",
+   :longitude -7.7409175,
+   :latitude 41.3067294,
+   :source :openstreetmap,
+   :homepage "https://www.twoart.net/",
+   :locality "Vila Real"}
+  {:name "U.R.B.A.",
+   :longitude -9.0208226,
+   :latitude 39.5595522,
+   :source :openstreetmap,
+   :locality "Alcobaça"}
+  {:name "Vaca Negra",
+   :longitude -8.2988144,
+   :latitude 41.4269015,
+   :source :openstreetmap}
+  {:name "Valquiria Enxoval;Joana Vasconcelos",
+   :longitude -7.6507932,
+   :latitude 39.5166243,
+   :source :openstreetmap}
+  {:name "Verso Branco",
+   :longitude -9.149822,
+   :latitude 38.7089731,
+   :source :openstreetmap,
+   :homepage "https://www.versobranco.pt/",
+   :locality "Lisboa"}
+  {:name "Vigia da Furada",
+   :longitude -25.3769665,
+   :latitude 37.7161517,
+   :source :openstreetmap}
+  {:name "Villa Portela",
+   :longitude -8.8091421,
+   :latitude 39.7412509,
+   :source :openstreetmap}
+  {:name "Villa Romana de Rio Maior",
+   :longitude -8.9395332,
+   :latitude 39.333127,
+   :source :openstreetmap,
+   :homepage
+   "https://www.turismoriomaior.pt/conte.php?a=67&esclang=en"}
+  {:name "WC/BD",
+   :longitude -9.1482477,
+   :latitude 38.7253883,
+   :source :openstreetmap}
+  {:name "whaling",
+   :longitude -31.1709873,
+   :latitude 39.3790941,
+   :source :openstreetmap}
+  {:name "Wine Museum",
+   :longitude -8.6143455,
+   :latitude 41.1347365,
+   :source :openstreetmap,
+   :homepage "https://www.wow.pt/museums/the-wine-experience",
+   :locality "Vila Nova de Gaia"}
+  {:name "Árvore com Alma",
+   :longitude -8.6120203,
+   :latitude 41.1499273,
+   :source :openstreetmap,
+   :homepage "https://www.experience-trindade.com/"}
+  {:name "Óriq",
+   :longitude -9.1653235,
+   :latitude 38.7201021,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

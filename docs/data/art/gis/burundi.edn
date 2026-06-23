@@ -1,0 +1,27 @@
+{:count 4,
+ :country "burundi",
+ :country-code "BI",
+ :dataset :art,
+ :generated-at "2026-05-26T06:05:33.949290Z",
+ :positions
+ [{:name "Associaton d'Appui Animal",
+   :longitude 29.2668121,
+   :latitude -3.3351257,
+   :source :openstreetmap}
+  {:name "Magasin Notre-Dame de Fatima",
+   :longitude 29.9263598,
+   :latitude -3.4323317,
+   :source :openstreetmap}
+  {:name "Musée National de Gitega",
+   :longitude 29.9086184,
+   :latitude -3.4182207,
+   :source :openstreetmap}
+  {:name "Site Historique du Traité de Kiganda",
+   :longitude 29.686107,
+   :latitude -3.3471977,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

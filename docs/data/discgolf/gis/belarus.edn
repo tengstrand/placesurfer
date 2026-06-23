@@ -1,0 +1,27 @@
+{:count 2,
+ :country "belarus",
+ :country-code "BY",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:04:07.581051Z",
+ :positions
+ [{:name "Elva linnastaafioni õpperada",
+   :longitude 28.143762072777406,
+   :latitude 52.10790703830031,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35904",
+   :locality "Ляскавічы"}
+  {:name "Čaliuskincaŭ Park",
+   :longitude 27.615079879760742,
+   :latitude 53.92400365213255,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/8327",
+   :locality "Мінск"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

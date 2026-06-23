@@ -1,0 +1,158 @@
+{:count 29,
+ :country "faroe-islands",
+ :country-code "FO",
+ :dataset :art,
+ :generated-at "2026-05-26T06:10:14.231178Z",
+ :positions
+ [{:name "Blásastova",
+   :longitude -6.7396305,
+   :latitude 62.1978228,
+   :source :openstreetmap,
+   :homepage "https://blasastova.fo/"}
+  {:name "Bygdarsavnið",
+   :longitude -6.8826693,
+   :latitude 61.9029919,
+   :source :openstreetmap}
+  {:name "Bygdasavn",
+   :longitude -6.7127183,
+   :latitude 61.4036316,
+   :source :openstreetmap}
+  {:name "Bygdasavnið Forni",
+   :longitude -6.7228058,
+   :latitude 62.1243582,
+   :source :openstreetmap,
+   :locality "Glyvrar"}
+  {:name "Bátasavn",
+   :longitude -6.7083607,
+   :latitude 62.2114912,
+   :source :openstreetmap,
+   :locality "Leirvík"}
+  {:name "Depilsgarðurin",
+   :longitude -6.5293747,
+   :latitude 62.2861643,
+   :source :openstreetmap,
+   :locality "Depil"}
+  {:name "Dúvugarðar",
+   :longitude -7.1764549,
+   :latitude 62.2468442,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/duvugardar"}
+  {:name "Gallarí Havnará",
+   :longitude -6.776713,
+   :latitude 62.0135182,
+   :source :openstreetmap,
+   :homepage "https://gallarihavnara.fo/",
+   :locality "Tórshavn"}
+  {:name "Gallarí Oyggin / Café Art",
+   :longitude -6.8235508,
+   :latitude 61.5598523,
+   :source :openstreetmap,
+   :locality "Tvøroyri"}
+  {:name "Glarsmiðjan",
+   :longitude -6.7756309,
+   :latitude 62.0100303,
+   :source :openstreetmap}
+  {:name "Hoyvíksgarður",
+   :longitude -6.7585445,
+   :latitude 62.0293356,
+   :source :openstreetmap,
+   :homepage "https://www.tjodsavnid.fo/framsyningar/hoyviksgardur"}
+  {:name "Hvalastøðin við Áir",
+   :longitude -6.9724262,
+   :latitude 62.1728757,
+   :source :openstreetmap,
+   :homepage
+   "https://www.tjodsavnid.fo/framsyningar/hvalastodin-vid-air"}
+  {:name "Húsið uttan Ánna",
+   :longitude -6.9283851,
+   :latitude 61.6327916,
+   :source :openstreetmap,
+   :locality "Sandvík"}
+  {:name "Kirkjbøargarður",
+   :longitude -6.7928052,
+   :latitude 61.9519088,
+   :source :openstreetmap}
+  {:name "Kálvalíð",
+   :longitude -7.1889678,
+   :latitude 62.0509175,
+   :source :openstreetmap,
+   :homepage
+   "https://visitvagar.fo/welcome-to-vagar/about/about-vagar-and-mykines/midvagur/kalvalid/"}
+  {:name "Listasavnið á Sandi",
+   :longitude -6.8124545,
+   :latitude 61.8320032,
+   :source :openstreetmap}
+  {:name "Listaskálin",
+   :longitude -6.7806919,
+   :latitude 62.0175433,
+   :source :openstreetmap,
+   :homepage "https://art.fo/?_l=en",
+   :locality "Tórshavn"}
+  {:name "Látrið",
+   :longitude -7.0933494,
+   :latitude 62.2992988,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/EidiMuseum",
+   :locality "Eiði"}
+  {:name "Mentunarhúsið",
+   :longitude -6.8157481,
+   :latitude 62.2420505,
+   :source :openstreetmap,
+   :locality "Fuglafjørður"}
+  {:name "Norðoya Fornminnasavn",
+   :longitude -6.5967123,
+   :latitude 62.2305019,
+   :source :openstreetmap,
+   :homepage "https://www.nordforn.fo/"}
+  {:name "Norðoya Motorsavn",
+   :longitude -6.5256555,
+   :latitude 62.2925821,
+   :source :openstreetmap,
+   :locality "Norðdepil"}
+  {:name "Norðurlandahúsið",
+   :longitude -6.7846352,
+   :latitude 62.0220756,
+   :source :openstreetmap,
+   :homepage "http://www.nlh.fo/",
+   :locality "Tórshavn"}
+  {:name "Pakkhús 18",
+   :longitude -6.80749,
+   :latitude 61.5543771,
+   :source :openstreetmap,
+   :locality "Tvøroyri"}
+  {:name "Porkeris Bygdarsavn",
+   :longitude -6.7476239,
+   :latitude 61.4806427,
+   :source :openstreetmap,
+   :homepage "https://www.porkeri.fo/bygdarsavni",
+   :locality "Porkeri"}
+  {:name "Ruth Smith Savnið",
+   :longitude -6.8216479,
+   :latitude 61.4726766,
+   :source :openstreetmap,
+   :locality "Vágur"}
+  {:name "Savnið Á Mýri",
+   :longitude -6.7558614,
+   :latitude 61.5059623,
+   :source :openstreetmap,
+   :homepage "https://hov.fo/mentan/savnidh-a-myri"}
+  {:name "The SagaMuseum",
+   :longitude -7.1504587,
+   :latitude 62.1533754,
+   :source :openstreetmap}
+  {:name "Tjóðsavnið",
+   :longitude -6.7650435,
+   :latitude 62.0321017,
+   :source :openstreetmap,
+   :homepage "https://www.tjodsavnid.fo/",
+   :locality "Hoyvík"}
+  {:name "Vestmanna Bygdarsavn",
+   :longitude -7.170993,
+   :latitude 62.1536908,
+   :source :openstreetmap,
+   :locality "Vestmanna"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

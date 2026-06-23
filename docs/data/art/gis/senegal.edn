@@ -1,0 +1,282 @@
+{:count 64,
+ :country "senegal",
+ :country-code "SN",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:24.399708Z",
+ :positions
+ [{:name "Agence Trames",
+   :longitude -17.4320331,
+   :latitude 14.6714753,
+   :source :openstreetmap,
+   :homepage "http://www.agencetrames.com/"}
+  {:name "Alliance Franco-sénégalaise",
+   :longitude -16.2775412,
+   :latitude 12.5682076,
+   :source :openstreetmap}
+  {:name "Art box",
+   :longitude -17.5248463,
+   :latitude 14.7415587,
+   :source :openstreetmap}
+  {:name "atelier de munisier",
+   :longitude -17.3949168,
+   :latitude 14.7643783,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude -13.4557744,
+   :latitude 13.8956917,
+   :source :openstreetmap}
+  {:name "centre culturel de tamba",
+   :longitude -13.6745028,
+   :latitude 13.7799785,
+   :source :openstreetmap,
+   :locality "Tambacounda"}
+  {:name "Centre culturel des Six Jarres",
+   :longitude -14.9352629,
+   :latitude 12.8970837,
+   :source :openstreetmap}
+  {:name "centre culturel regional",
+   :longitude -16.2673602,
+   :latitude 12.5656977,
+   :source :openstreetmap}
+  {:name "Centre Culturel Régional de Kolda",
+   :longitude -14.923462,
+   :latitude 12.8862385,
+   :source :openstreetmap}
+  {:name "Centre d'exposition et de commercialisation de l'artisanat",
+   :longitude -16.6405342,
+   :latitude 15.1074465,
+   :source :openstreetmap}
+  {:name "centre de perfectionnement des artisans ruraux",
+   :longitude -16.8181912,
+   :latitude 14.9539376,
+   :source :openstreetmap}
+  {:name "Centre Socio-Culturel de Grand-Dakar",
+   :longitude -17.4536397,
+   :latitude 14.7043008,
+   :source :openstreetmap}
+  {:name "Centre Technique Couturière",
+   :longitude -17.4551573,
+   :latitude 14.6929489,
+   :source :openstreetmap}
+  {:name "Chez Gaël",
+   :longitude -16.5039107,
+   :latitude 16.0294802,
+   :source :openstreetmap}
+  {:name "CICES",
+   :longitude -17.4640326,
+   :latitude 14.7454816,
+   :source :openstreetmap}
+  {:name "Complexe Culturel",
+   :longitude -15.7741476,
+   :latitude 13.7452072,
+   :source :openstreetmap}
+  {:name "Espace Sobbo Badé",
+   :longitude -17.1511607,
+   :latitude 14.6057233,
+   :source :openstreetmap,
+   :locality "Toubab Dialaw"}
+  {:name "FabLab DefkoAkNiep",
+   :longitude -17.4582215,
+   :latitude 14.7135058,
+   :source :openstreetmap,
+   :homepage "https://www.ker-thiossane.org/",
+   :locality "Dakar"}
+  {:name "Fabrique",
+   :longitude -16.5401068,
+   :latitude 12.5026618,
+   :source :openstreetmap}
+  {:name "Fondation Friedrich Ebert",
+   :longitude -17.4715394,
+   :latitude 14.6947691,
+   :source :openstreetmap}
+  {:name "Fort d'Estrée",
+   :longitude -17.3995656,
+   :latitude 14.6707272,
+   :source :openstreetmap}
+  {:name "Foyer Culturel Hamo 4",
+   :longitude -17.3884296,
+   :latitude 14.7812253,
+   :source :openstreetmap}
+  {:name "Foyer des Jeunes",
+   :longitude -16.5758022,
+   :latitude 15.1845673,
+   :source :openstreetmap}
+  {:name "Foyer des Jeunes de Darou Mousty",
+   :longitude -16.0463399,
+   :latitude 15.055818,
+   :source :openstreetmap}
+  {:name "Fuen La Brada de Joal-Fadiouth",
+   :longitude -16.8339007,
+   :latitude 14.1550919,
+   :source :openstreetmap}
+  {:name "Galerie Arte",
+   :longitude -17.474553,
+   :latitude 14.7071206,
+   :source :openstreetmap,
+   :homepage "https://artedakar.com/"}
+  {:name "Galerie d'art",
+   :longitude -16.6876298,
+   :latitude 14.0839356,
+   :source :openstreetmap}
+  {:name "Galerie d'art N'GAPAROU",
+   :longitude -17.0592878,
+   :latitude 14.4702777,
+   :source :openstreetmap}
+  {:name "Galerie Nationale d'Art",
+   :longitude -17.4289743,
+   :latitude 14.6696317,
+   :source :openstreetmap,
+   :homepage "https://www.selebe-yoon.com/"}
+  {:name "Galerie Sant Serigne Fallou",
+   :longitude -17.3992979,
+   :latitude 14.6664656,
+   :source :openstreetmap}
+  {:name "Iba Ndiaye",
+   :longitude -16.5047655,
+   :latitude 16.0209241,
+   :source :openstreetmap}
+  {:name "Institut Français du Sénégal",
+   :longitude -16.5033577,
+   :latitude 16.0329673,
+   :source :openstreetmap}
+  {:name "Just 4 U",
+   :longitude -17.4602302,
+   :latitude 14.6919499,
+   :source :openstreetmap}
+  {:name "Kenu laboratoire des Imaginaires",
+   :longitude -17.4816045,
+   :latitude 14.7284246,
+   :source :openstreetmap}
+  {:name "Keur Tawfekh",
+   :longitude -17.5156612,
+   :latitude 14.7560169,
+   :source :openstreetmap}
+  {:name "Keur Tostan",
+   :longitude -16.9160638,
+   :latitude 14.7660068,
+   :source :openstreetmap}
+  {:name "La casa isa",
+   :longitude -16.6803228,
+   :latitude 14.0429529,
+   :source :openstreetmap}
+  {:name "La Galerie de mon Père",
+   :longitude -17.4931727,
+   :latitude 14.7551356,
+   :source :openstreetmap}
+  {:name "La pièce",
+   :longitude -17.4715392,
+   :latitude 14.6880854,
+   :source :openstreetmap}
+  {:name "Loman Art",
+   :longitude -17.497627,
+   :latitude 14.7330246,
+   :source :openstreetmap}
+  {:name "Maison d'Afrique",
+   :longitude -17.0181841,
+   :latitude 14.4450758,
+   :source :openstreetmap}
+  {:name "Maison des arts",
+   :longitude -16.6314786,
+   :latitude 15.1129209,
+   :source :openstreetmap}
+  {:name "Manufacture Sénégalaise Des Arts Décoratifs",
+   :longitude -16.934549,
+   :latitude 14.7948286,
+   :source :openstreetmap}
+  {:name "Musèe des Forces Armèes Senegalaises",
+   :longitude -17.4419673,
+   :latitude 14.6671909,
+   :source :openstreetmap}
+  {:name "Musée de l'Aéropostale Jean Mermoz",
+   :longitude -16.5039267,
+   :latitude 16.0258483,
+   :source :openstreetmap}
+  {:name "Musée de la Tradition Diola",
+   :longitude -16.5882632,
+   :latitude 12.5555517,
+   :source :openstreetmap}
+  {:name "Musée des Civilisations Noires",
+   :longitude -17.4350736,
+   :latitude 14.6774489,
+   :source :openstreetmap,
+   :homepage "https://www.mcn.sn/"}
+  {:name "Musée des percussions de Louga",
+   :longitude -16.2437734,
+   :latitude 15.6264813,
+   :source :openstreetmap,
+   :locality "Louga"}
+  {:name "Musée Diola",
+   :longitude -16.7451449,
+   :latitude 12.9326889,
+   :source :openstreetmap}
+  {:name "Musée Kadioute",
+   :longitude -16.7405451,
+   :latitude 12.4148882,
+   :source :openstreetmap}
+  {:name "Musée Khelcom",
+   :longitude -17.0058683,
+   :latitude 14.4437639,
+   :source :openstreetmap}
+  {:name
+   "Musée MAHICAO (Musée d'Art et d'Histoire des Cultures d'Afrique de l'Ouest)",
+   :longitude -16.6599604,
+   :latitude 14.1198016,
+   :source :openstreetmap,
+   :homepage "https://mahicao.org/",
+   :locality "Djilor Djidiack"}
+  {:name "OH Gallery",
+   :longitude -17.4366702,
+   :latitude 14.666048,
+   :source :openstreetmap,
+   :homepage "https://www.ohgallery.net/"}
+  {:name "Quai Des Arts Saint-Louis",
+   :longitude -16.5031241,
+   :latitude 16.0363288,
+   :source :openstreetmap}
+  {:name "Raw Material Company",
+   :longitude -17.4553655,
+   :latitude 14.6975458,
+   :source :openstreetmap,
+   :homepage "http://www.crepointe.org/"}
+  {:name "Sangawatt",
+   :longitude -16.7732167,
+   :latitude 12.4549139,
+   :source :openstreetmap}
+  {:name "Syseck",
+   :longitude -17.5201435,
+   :latitude 14.7464106,
+   :source :openstreetmap}
+  {:name "Village Artisanal",
+   :longitude -16.969472,
+   :latitude 14.4095572,
+   :source :openstreetmap}
+  {:name "Village Artisanal de Saint-Louis",
+   :longitude -16.4886724,
+   :latitude 16.0326054,
+   :source :openstreetmap}
+  {:name "Village artisanal de Tivaouane",
+   :longitude -16.8135373,
+   :latitude 14.9538254,
+   :source :openstreetmap}
+  {:name "Village artisanal El Bassirou DIALLO",
+   :longitude -14.9443937,
+   :latitude 12.8849169,
+   :source :openstreetmap}
+  {:name "Village des Arts de Dakar",
+   :longitude -17.4573141,
+   :latitude 14.7463589,
+   :source :openstreetmap,
+   :locality "Dakar"}
+  {:name "Waru Studio",
+   :longitude -17.4778355,
+   :latitude 14.7111382,
+   :source :openstreetmap}
+  {:name "Écomusée de Diakhao",
+   :longitude -16.2861089,
+   :latitude 14.4599074,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,32 @@
+{:count 3,
+ :country "american-samoa",
+ :country-code "AS",
+ :dataset :art,
+ :generated-at "2026-05-26T06:00:41.804280Z",
+ :positions
+ [{:name "Jean P. Haydon Museum",
+   :longitude -170.687604,
+   :latitude -14.2777843,
+   :source :openstreetmap,
+   :homepage "https://haydonmuseumamericansamoa.org/",
+   :image "",
+   :description ""}
+  {:name "National Park of American Samoa",
+   :longitude -170.6968979,
+   :latitude -14.2744514,
+   :source :openstreetmap,
+   :locality "Pago Pago",
+   :image "",
+   :description ""}
+  {:name "Tauese P.F. Sunia Ocean Center",
+   :longitude -170.682036,
+   :latitude -14.2765794,
+   :source :openstreetmap,
+   :homepage "https://americansamoa.noaa.gov/visit/",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

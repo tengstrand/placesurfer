@@ -1,0 +1,40 @@
+Copyright (c) 2026 Joakim Tengstrand. All rights reserved.
+
+PROPRIETARY LICENSE
+
+This repository and all of its contents — including but not limited to
+source code, scripts, documentation, data files, images, and compiled
+artifacts — are the exclusive property of the copyright holder listed
+above.
+
+Unless you have obtained prior written permission from the copyright
+holder, you may not:
+
+  - copy, reproduce, or duplicate any part of this work;
+  - modify, adapt, or create derivative works based on this work;
+  - distribute, publish, sublicense, or otherwise make this work
+    available to any third party;
+  - use this work for commercial purposes;
+  - remove or alter copyright notices.
+
+Viewing this repository on GitHub or using the publicly deployed
+application does not grant you any license beyond what is strictly
+necessary for that viewing or personal use of the service as offered
+by the copyright holder.
+
+Permission for any use not covered above must be requested in writing
+from the copyright holder.
+
+THIRD-PARTY DATA AND SERVICES
+
+This project may incorporate or link to data and services provided by
+third parties (for example DiscGolfMetrix, DiscGolfAPI, OpenStreetMap,
+and UDisc). Such material remains subject to the respective third
+parties' terms and licenses. This license applies only to the
+copyright holder's own original work in this repository.
+
+DISCLAIMER
+
+This software and data are provided "as is", without warranty of any
+kind, express or implied. The copyright holder shall not be liable
+for any damages arising from the use of this work.

@@ -1,0 +1,56 @@
+{:count 7,
+ :country "palau",
+ :country-code "PW",
+ :dataset :art,
+ :generated-at "2026-05-26T06:26:09.552529Z",
+ :positions
+ [{:name "Belau Art Gallery",
+   :longitude 134.4750564,
+   :latitude 7.3427817,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Belau National Museum",
+   :longitude 134.4763436,
+   :latitude 7.336578,
+   :source :openstreetmap,
+   :homepage "http://www.belaunationalmuseum.net/",
+   :image "",
+   :description ""}
+  {:name "Etpison Museum",
+   :longitude 134.4831635,
+   :latitude 7.3452841,
+   :source :openstreetmap,
+   :homepage "https://www.etpisonmuseum.org/",
+   :image "",
+   :description ""}
+  {:name "Ngarachamayong Cultural Center",
+   :longitude 134.4681481,
+   :latitude 7.3433464,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Peliliu World War II Memorial Museum",
+   :longitude 134.2261431,
+   :latitude 7.0062712,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name
+   "Their Majesties Emperor Akihito & Empress Michiko Rest House 2015",
+   :longitude 134.2209195,
+   :latitude 6.9857258,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Visitor Center",
+   :longitude 134.2666046,
+   :latitude 7.048818,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

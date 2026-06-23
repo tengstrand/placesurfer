@@ -1,0 +1,36 @@
+{:count 4,
+ :country "norfolk-island",
+ :country-code "NF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:25:14.650773Z",
+ :positions
+ [{:name "Bounty Museum",
+   :longitude 167.9651012,
+   :latitude -29.0416888,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Commissariat Store Museum",
+   :longitude 167.9573572,
+   :latitude -29.0554628,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Gallery Guava",
+   :longitude 167.9587003,
+   :latitude -29.0403898,
+   :source :openstreetmap,
+   :homepage "https://www.norfolkcyclorama.com/gallery-guava/",
+   :image "",
+   :description ""}
+  {:name "House Museum",
+   :longitude 167.9614086,
+   :latitude -29.0558244,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

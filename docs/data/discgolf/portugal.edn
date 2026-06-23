@@ -1,0 +1,46 @@
+{:count 4,
+ :country "portugal",
+ :country-code "PT",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:20:57.729515Z",
+ :positions
+ [{:name "Agua Boa Discgolfpark Algarve",
+   :longitude -8.736083,
+   :latitude 37.292033,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/42959",
+   :locality "Aljezur",
+   :image "",
+   :description ""}
+  {:name "Peregrine DGC/Percurso Falcão Peregrina",
+   :longitude -8.659316,
+   :latitude 37.723076,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/42956",
+   :locality "São Luis",
+   :image "",
+   :description ""}
+  {:name "Santo da serra",
+   :longitude -16.81839447624415,
+   :latitude 32.72518049350532,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/28087",
+   :locality "Machico",
+   :image "",
+   :description ""}
+  {:name "Valle d'encanto",
+   :longitude -8.406228922672,
+   :latitude 39.84377801620616,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/41562",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

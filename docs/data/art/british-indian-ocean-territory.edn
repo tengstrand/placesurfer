@@ -1,0 +1,17 @@
+{:count 1,
+ :country "british-indian-ocean-territory",
+ :country-code "IO",
+ :dataset :art,
+ :generated-at "2026-05-26T06:05:08.630598Z",
+ :positions
+ [{:name "Diego Garcia Museum",
+   :longitude 72.3775546,
+   :latitude -7.2605656,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

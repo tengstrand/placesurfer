@@ -1,0 +1,298 @@
+{:count 66,
+ :country "kyrgyzstan",
+ :country-code "KG",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:21.362813Z",
+ :positions
+ [{:name "Gallery Artemis",
+   :longitude 74.5953328,
+   :latitude 42.8704802,
+   :source :openstreetmap}
+  {:name "«Манас» эпосунун музейи",
+   :longitude 72.3817645,
+   :latitude 42.5268084,
+   :source :openstreetmap}
+  {:name "«Рух Ордо» Ч. Айтматов атындагы маданий борбору",
+   :longitude 77.095651,
+   :latitude 42.6478254,
+   :source :openstreetmap}
+  {:name "актовый зал",
+   :longitude 73.3908287,
+   :latitude 40.672466,
+   :source :openstreetmap}
+  {:name "Акын Жаныжок Кокоевдин музейи",
+   :longitude 72.0555788,
+   :latitude 41.663078,
+   :source :openstreetmap}
+  {:name "Арт галерея",
+   :longitude 74.6066209,
+   :latitude 42.8766147,
+   :source :openstreetmap,
+   :homepage "https://historymuseum.kg/"}
+  {:name "Археологический музей",
+   :longitude 72.7928097,
+   :latitude 40.5296364,
+   :source :openstreetmap}
+  {:name "Ата-Бейит",
+   :longitude 74.5933347,
+   :latitude 42.7229201,
+   :source :openstreetmap}
+  {:name "Балажан",
+   :longitude 74.6138718,
+   :latitude 42.8694251,
+   :source :openstreetmap,
+   :locality "Бишкек"}
+  {:name "Галерея искусств",
+   :longitude 75.9967396,
+   :latitude 41.428047,
+   :source :openstreetmap}
+  {:name "Дворец колхозников",
+   :longitude 74.1584993,
+   :latitude 42.8445414,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 74.1258247,
+   :latitude 42.9297576,
+   :source :openstreetmap,
+   :locality "Сретенка"}
+  {:name "Дом культуры",
+   :longitude 74.1196913,
+   :latitude 42.8731115,
+   :source :openstreetmap,
+   :locality "село Заря"}
+  {:name "Дом культуры",
+   :longitude 74.0563856,
+   :latitude 42.9526564,
+   :source :openstreetmap,
+   :locality "Предтеченка"}
+  {:name "Дом культуры",
+   :longitude 74.0733168,
+   :latitude 43.0384411,
+   :source :openstreetmap,
+   :locality "Кыз-Моло"}
+  {:name "Дом культуры",
+   :longitude 74.035317,
+   :latitude 42.8406199,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 74.2233772,
+   :latitude 42.8544823,
+   :source :openstreetmap,
+   :locality "Александровка"}
+  {:name "Дом культуры с. Темен-Суу",
+   :longitude 74.0267047,
+   :latitude 42.6930917,
+   :source :openstreetmap,
+   :locality "Темен-Суу"}
+  {:name "Дом-музей Абды Суеркулова",
+   :longitude 73.1512946,
+   :latitude 41.8435801,
+   :source :openstreetmap}
+  {:name "Дом-музей Алыкула Осмонова",
+   :longitude 74.5782653,
+   :latitude 42.8676365,
+   :source :openstreetmap}
+  {:name "Дом-музей И.Раззакова",
+   :longitude 74.6045677,
+   :latitude 42.865407,
+   :source :openstreetmap,
+   :locality "Бишкек"}
+  {:name "Жайыл баатыра",
+   :longitude 73.8806234,
+   :latitude 42.8292723,
+   :source :openstreetmap}
+  {:name "Заманбап Музей",
+   :longitude 74.6339462,
+   :latitude 42.8774227,
+   :source :openstreetmap}
+  {:name "Зоологический музей",
+   :longitude 74.5803469,
+   :latitude 42.8774817,
+   :source :openstreetmap,
+   :homepage "www.zm.kg"}
+  {:name "Зууракан Кайназарова",
+   :longitude 74.3084056,
+   :latitude 42.8002703,
+   :source :openstreetmap}
+  {:name
+   "Иссык-Кульский Государственный историко-культурный музей-заповедник",
+   :longitude 77.0570341,
+   :latitude 42.6607174,
+   :source :openstreetmap}
+  {:name "Историко-Краеведческий музей",
+   :longitude 73.0107479,
+   :latitude 40.9270659,
+   :source :openstreetmap,
+   :locality "Жалал-Aбат"}
+  {:name "Историко-краеведческий музей Каракола",
+   :longitude 78.3915768,
+   :latitude 42.4894256,
+   :source :openstreetmap}
+  {:name "Историко-этнографический музей",
+   :longitude 76.0214148,
+   :latitude 41.4255009,
+   :source :openstreetmap}
+  {:name "Историко-этнографический музей Сулайман-Тоо",
+   :longitude 72.7837322,
+   :latitude 40.5286604,
+   :source :openstreetmap,
+   :homepage "https://sulaimanto.kg/"}
+  {:name "Исторический музей",
+   :longitude 75.7594733,
+   :latitude 42.2144578,
+   :source :openstreetmap}
+  {:name "Исторический музей",
+   :longitude 74.5173797,
+   :latitude 41.9263781,
+   :source :openstreetmap}
+  {:name "Исторический музей",
+   :longitude 75.7019663,
+   :latitude 41.1232705,
+   :source :openstreetmap}
+  {:name "Исторический музей имени Чоибекова Бусурманкула",
+   :longitude 72.7117834,
+   :latitude 42.4569333,
+   :source :openstreetmap}
+  {:name "КАСКАД",
+   :longitude 72.6615313,
+   :latitude 41.6304133,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 72.9652067,
+   :latitude 40.6053719,
+   :source :openstreetmap}
+  {:name "Кожомкул музей",
+   :longitude 74.0787157,
+   :latitude 42.1342824,
+   :source :openstreetmap}
+  {:name "Кожомкульский музей",
+   :longitude 74.0809064,
+   :latitude 42.1292429,
+   :source :openstreetmap}
+  {:name "краеведческий музей Иссык-Куля",
+   :longitude 77.0876004,
+   :latitude 42.6504622,
+   :source :openstreetmap}
+  {:name "Маданият УЙУ",
+   :longitude 72.8971076,
+   :latitude 40.6438118,
+   :source :openstreetmap}
+  {:name "Мемориальный дом-музей М.В.Фрунзе",
+   :longitude 74.6054202,
+   :latitude 42.8804588,
+   :source :openstreetmap,
+   :homepage "https://www.domfrunze.kg/",
+   :locality "Бишкек"}
+  {:name "Мемориальный дом-музей О.М.Мануйловой",
+   :longitude 74.6082164,
+   :latitude 42.8732876,
+   :source :openstreetmap,
+   :locality "Бишкек"}
+  {:name "Музей Абдыкадыра Орозбекова",
+   :longitude 71.7219999,
+   :latitude 40.1312913,
+   :source :openstreetmap}
+  {:name "Музей Алыкула Осмонова",
+   :longitude 73.7127277,
+   :latitude 42.7975356,
+   :source :openstreetmap}
+  {:name "Музей археологического комплекса Бурана",
+   :longitude 75.2506531,
+   :latitude 42.747101,
+   :source :openstreetmap}
+  {:name "Музей боевой трудовой славы",
+   :longitude 73.8440028,
+   :latitude 42.8220792,
+   :source :openstreetmap}
+  {:name "Музей великой пустоты",
+   :longitude 74.5942464,
+   :latitude 42.8029109,
+   :source :openstreetmap,
+   :homepage "https://www.greatemptiness.net/",
+   :locality "Орто-Сай"}
+  {:name "Музей изобразительных искусств имени Гапара Айтиева",
+   :longitude 74.6108886,
+   :latitude 42.8787134,
+   :source :openstreetmap,
+   :homepage "https://artmuseum.kg/",
+   :locality "Бишкек"}
+  {:name "Музей им. Ч. Тулебердиева",
+   :longitude 71.5201184,
+   :latitude 42.6228396,
+   :source :openstreetmap}
+  {:name "Музей искусства и литературы им. Тогтогула",
+   :longitude 74.6018129,
+   :latitude 42.8724571,
+   :source :openstreetmap}
+  {:name "Музей кочевников",
+   :longitude 76.88566,
+   :latitude 42.5995508,
+   :source :openstreetmap}
+  {:name "Музей минералогии",
+   :longitude 74.5872091,
+   :latitude 42.8762079,
+   :source :openstreetmap,
+   :locality "Бишкек"}
+  {:name "Музей Н.К. Рериха",
+   :longitude 74.6231236,
+   :latitude 42.8527513,
+   :source :openstreetmap}
+  {:name "Музей Николая Пржевальского",
+   :longitude 78.3210373,
+   :latitude 42.5729563,
+   :source :openstreetmap}
+  {:name "Музей скульптур",
+   :longitude 74.5393648,
+   :latitude 42.8514541,
+   :source :openstreetmap}
+  {:name "Музей современного искусства им. Ю.Шыгаева",
+   :longitude 77.1809738,
+   :latitude 42.1424954,
+   :source :openstreetmap}
+  {:name "музей Т.Садыкова",
+   :longitude 74.5958205,
+   :latitude 42.8793946,
+   :source :openstreetmap}
+  {:name "Музей Чынгыза Айтматова",
+   :longitude 74.608362,
+   :latitude 42.8661615,
+   :source :openstreetmap}
+  {:name "Старая мельница",
+   :longitude 78.5289421,
+   :latitude 42.4938298,
+   :source :openstreetmap,
+   :homepage
+   "https://www.instagram.com/museum_old_mill?igsh=MXZndTBhcDVoZWVkMw=="}
+  {:name "Тарых музейи",
+   :longitude 74.5997335,
+   :latitude 41.2484378,
+   :source :openstreetmap}
+  {:name "Тарых музейи",
+   :longitude 73.4471724,
+   :latitude 40.313166,
+   :source :openstreetmap}
+  {:name "Токмокский Историко-Краеведческий музей",
+   :longitude 75.2974358,
+   :latitude 42.8478996,
+   :source :openstreetmap}
+  {:name "Уран мурастары музейи",
+   :longitude 72.4669232,
+   :latitude 41.2593634,
+   :source :openstreetmap}
+  {:name "Чеңез Айтмотовдун үй",
+   :longitude 71.1629156,
+   :latitude 42.536083,
+   :source :openstreetmap}
+  {:name "Чынгыз Айтматов атындагы маданият үйү",
+   :longitude 73.0547545,
+   :latitude 41.020766,
+   :source :openstreetmap}
+  {:name "Этнографический музей Атая Огонбаева",
+   :longitude 72.427405,
+   :latitude 42.4976557,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

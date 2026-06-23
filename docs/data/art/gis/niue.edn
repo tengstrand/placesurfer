@@ -1,0 +1,19 @@
+{:count 2,
+ :country "niue",
+ :country-code "NU",
+ :dataset :art,
+ :generated-at "2026-05-26T06:25:14.278960Z",
+ :positions
+ [{:name "Niue Cultural Centre",
+   :longitude -169.9095099,
+   :latitude -19.0579432,
+   :source :openstreetmap}
+  {:name "Tahiono Art Gallery",
+   :longitude -169.9202445,
+   :latitude -19.0549535,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

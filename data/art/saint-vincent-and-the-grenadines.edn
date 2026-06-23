@@ -1,0 +1,23 @@
+{:count 2,
+ :country "saint-vincent-and-the-grenadines",
+ :country-code "VC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:11.409894Z",
+ :positions
+ [{:name "Bequia Heritage Museum",
+   :longitude -61.2322221,
+   :latitude 12.9919687,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "National Trust/Old Public Library",
+   :longitude -61.2230627,
+   :latitude 13.152918,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

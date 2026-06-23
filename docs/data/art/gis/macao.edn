@@ -1,0 +1,123 @@
+{:count 25,
+ :country "macao",
+ :country-code "MO",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:07.355603Z",
+ :positions
+ [{:name "Illuminarium幻影空間",
+   :longitude 113.572301,
+   :latitude 22.1488953,
+   :source :openstreetmap}
+  {:name "保利美高梅博物館 Poly MGM Museum",
+   :longitude 113.5475882,
+   :latitude 22.1861042,
+   :source :openstreetmap}
+  {:name "同善堂歷史檔案陳列館 Tung Sin Tong Historical Archive Exhibition Hall",
+   :longitude 113.5383517,
+   :latitude 22.1951131,
+   :source :openstreetmap}
+  {:name "土地暨自然博物館 Museu Natural e Agrário",
+   :longitude 113.5567544,
+   :latitude 22.1257575,
+   :source :openstreetmap,
+   :homepage "https://nature.iacm.gov.mo"}
+  {:name "塔石藝文館 A Galeria Tap Seac",
+   :longitude 113.5470961,
+   :latitude 22.1989453,
+   :source :openstreetmap,
+   :homepage "https://www.ajti.gov.mo/"}
+  {:name "大賽車博物館 Museu do Grande Prémio",
+   :longitude 113.552713,
+   :latitude 22.1945528,
+   :source :openstreetmap,
+   :homepage "http://www.macautourism.gov.mo"}
+  {:name "沙梨頭更館 Posto do Guarda-Nocturno no Patane",
+   :longitude 113.5395517,
+   :latitude 22.2020247,
+   :source :openstreetmap,
+   :homepage "https://www.icm.gov.mo/en/NightWatchHouse"}
+  {:name "澳門teamLab超自然空間 teamLab SuperNature",
+   :longitude 113.5585502,
+   :latitude 22.1436387,
+   :source :openstreetmap}
+  {:name "澳門保安部隊博物館 Museu das Forças de Segurança de Macau",
+   :longitude 113.5448129,
+   :latitude 22.1916131,
+   :source :openstreetmap}
+  {:name "澳門動物標本展示館 Pavilhão de Animais Embalsamados de Macau",
+   :longitude 113.5528518,
+   :latitude 22.1169736,
+   :source :openstreetmap}
+  {:name "澳門博物館 Museu de Macau",
+   :longitude 113.5421536,
+   :latitude 22.1971533,
+   :source :openstreetmap}
+  {:name "澳門戶外表演區 Local de Espetáculos ao Ar Livre de Macau",
+   :longitude 113.5753271,
+   :latitude 22.1417064,
+   :source :openstreetmap,
+   :homepage "http://www.icm.gov.mo/outdoorvenue"}
+  {:name "澳門教科文中心 Centro Unesco de Macau",
+   :longitude 113.5499784,
+   :latitude 22.1903139,
+   :source :openstreetmap,
+   :homepage "www.unesco.org.mo"}
+  {:name
+   "澳門當代藝術中心．海事工房1號 Centro de Arte Contemporânea de Macau - Oficinas Navais N.º 1",
+   :longitude 113.5312873,
+   :latitude 22.1844801,
+   :source :openstreetmap}
+  {:name "澳門科學館 Centro de Ciência de Macau",
+   :longitude 113.5570988,
+   :latitude 22.1863954,
+   :source :openstreetmap,
+   :homepage "https://www.mam.gov.mo/"}
+  {:name "牛房倉庫 Ox Warehouse",
+   :longitude 113.5463721,
+   :latitude 22.2072571,
+   :source :openstreetmap}
+  {:name "荔枝碗船廠片區 Estaleiros Navais de Lai Chi Vun",
+   :longitude 113.5518391,
+   :latitude 22.1211818,
+   :source :openstreetmap}
+  {:name "路氹歷史館 Museu da História da Taipa e Coloane",
+   :longitude 113.5557385,
+   :latitude 22.1524301,
+   :source :openstreetmap,
+   :homepage "https://www.iacm.gov.mo/cotaimuseum/"}
+  {:name "通訊博物館 Museu das Comunicações",
+   :longitude 113.5549798,
+   :latitude 22.2032652,
+   :source :openstreetmap,
+   :homepage "http://macao.communications.museum/"}
+  {:name "鄭觀應紀念館 Museu Memorial de Zheng Guanying",
+   :longitude 113.5342525,
+   :latitude 22.1887546,
+   :source :openstreetmap}
+  {:name "金沙藝廊 Sands Gallery",
+   :longitude 113.5621627,
+   :latitude 22.1463275,
+   :source :openstreetmap}
+  {:name "銀河藝萃 Galaxy Art",
+   :longitude 113.552854,
+   :latitude 22.14762,
+   :source :openstreetmap}
+  {:name "雅思音樂中心 Aces Music Center",
+   :longitude 113.5391744,
+   :latitude 22.1910885,
+   :source :openstreetmap}
+  {:name
+   "青少年愛國愛澳教育基地 Base da Educação do Amor pela Pátria e por Macau para Jovens",
+   :longitude 113.5542681,
+   :latitude 22.1896263,
+   :source :openstreetmap,
+   :homepage "http://handovermuseum.iacm.gov.mo/"}
+  {:name "龍環葡韻住宅式博物館 Casas-Museu da Taipa",
+   :longitude 113.5597339,
+   :latitude 22.1539406,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

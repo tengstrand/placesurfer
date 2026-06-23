@@ -1,0 +1,445 @@
+{:count 100,
+ :country "bangladesh",
+ :country-code "BD",
+ :dataset :art,
+ :generated-at "2026-05-26T06:03:11.826495Z",
+ :positions
+ [{:name "1971 : Genocide-Torture Archive and Museum",
+   :longitude 89.544382,
+   :latitude 22.8198316,
+   :source :openstreetmap,
+   :locality "Khulna"}
+  {:name "Ahsan Manzil",
+   :longitude 90.4060006,
+   :latitude 23.7084801,
+   :source :openstreetmap}
+  {:name "Akkelpur Upazila Auditorium",
+   :longitude 89.0262765,
+   :latitude 24.9667012,
+   :source :openstreetmap}
+  {:name "Alamdanga Boddhovumi",
+   :longitude 88.9443212,
+   :latitude 23.7696655,
+   :source :openstreetmap}
+  {:name
+   "Artist Rashid Choudhury Art Gallery, Institute of Fine Arts, University of Chattogram, Chattogram",
+   :longitude 91.8273244,
+   :latitude 22.3552967,
+   :source :openstreetmap}
+  {:name "Atkabar Sriti Complex",
+   :longitude 88.6561914,
+   :latitude 23.6400417,
+   :source :openstreetmap}
+  {:name "Baliati Palace",
+   :longitude 90.0424,
+   :latitude 23.9947,
+   :source :openstreetmap}
+  {:name "Bangabandhu Memorial Museum",
+   :longitude 90.3764473,
+   :latitude 23.751711,
+   :source :openstreetmap}
+  {:name "Bangla bazar Museum",
+   :longitude 90.6512833,
+   :latitude 22.5872725,
+   :source :openstreetmap}
+  {:name "Bangladesh Currency Museum",
+   :longitude 90.3596527,
+   :latitude 23.8022171,
+   :source :openstreetmap}
+  {:name
+   "Bangladesh Railway Museum, Bangladesh Railway Museum, Ambagan Road, Chattogram",
+   :longitude 91.8013861,
+   :latitude 22.3543284,
+   :source :openstreetmap}
+  {:name "Bardarban Shishu Academy",
+   :longitude 92.2177857,
+   :latitude 22.1959159,
+   :source :openstreetmap}
+  {:name "Barisal Divisional Museum",
+   :longitude 90.3727762,
+   :latitude 22.7014653,
+   :source :openstreetmap}
+  {:name "BGB Museum",
+   :longitude 90.3793942,
+   :latitude 23.7316896,
+   :source :openstreetmap}
+  {:name "Bijayangan Museum বিজয়াঙ্গন মুক্তিযুদ্ধ যাদুঘর",
+   :longitude 89.3959259,
+   :latitude 24.7621032,
+   :source :openstreetmap}
+  {:name "Bikrampur Museum",
+   :longitude 90.2204426,
+   :latitude 23.5309597,
+   :source :openstreetmap}
+  {:name "BOF Museum",
+   :longitude 90.4157431,
+   :latitude 24.0333209,
+   :source :openstreetmap,
+   :locality "Gazipur Sadar"}
+  {:name "BRRI Headquarter",
+   :longitude 90.4072506,
+   :latitude 23.9918321,
+   :source :openstreetmap,
+   :locality "Gazipur"}
+  {:name "Chittagong Cantonment Museum",
+   :longitude 91.808913,
+   :latitude 22.3955721,
+   :source :openstreetmap}
+  {:name "Chittagong University Museam",
+   :longitude 91.7844642,
+   :latitude 22.4704368,
+   :source :openstreetmap,
+   :homepage "http://www.cum.org.bd/"}
+  {:name "Cox's Bazar Cultural Center",
+   :longitude 91.9761184,
+   :latitude 21.4285793,
+   :source :openstreetmap}
+  {:name "Dewan Bari",
+   :longitude 90.3449315,
+   :latitude 23.7166865,
+   :source :openstreetmap}
+  {:name "Dhaka Kendro",
+   :longitude 90.4153052,
+   :latitude 23.7035338,
+   :source :openstreetmap}
+  {:name "Dinajpur Museum",
+   :longitude 88.6356304,
+   :latitude 25.6283628,
+   :source :openstreetmap}
+  {:name "District Art Academy",
+   :longitude 89.2053258,
+   :latitude 23.1645286,
+   :source :openstreetmap}
+  {:name "District Shilpokola Academy",
+   :longitude 90.3472671,
+   :latitude 23.2116095,
+   :source :openstreetmap}
+  {:name "Ethnological Museum, Sabdar Ali Rd, Chattogram",
+   :longitude 91.8151049,
+   :latitude 22.3280106,
+   :source :openstreetmap}
+  {:name "GGG",
+   :longitude 90.4011598,
+   :latitude 23.7826752,
+   :source :openstreetmap,
+   :homepage "dhhs",
+   :locality "chittagong"}
+  {:name "Global Best Content Tec Bangladesh, Historical landmark",
+   :longitude 90.3948136,
+   :latitude 24.5819203,
+   :source :openstreetmap}
+  {:name "Hason Raja Museum",
+   :longitude 91.392649,
+   :latitude 25.0710414,
+   :source :openstreetmap,
+   :locality "Sunamganj"}
+  {:name "Hero Gate",
+   :longitude 90.4028797,
+   :latitude 23.8110302,
+   :source :openstreetmap,
+   :locality "Dhaka"}
+  {:name "Horipodo Ritchil Memorial, Museum",
+   :longitude 90.2863133,
+   :latitude 25.1805827,
+   :source :openstreetmap}
+  {:name "Jago Art Center",
+   :longitude 90.4247114,
+   :latitude 23.7161731,
+   :source :openstreetmap}
+  {:name "Jalladkhana Killing Field",
+   :longitude 90.3752212,
+   :latitude 23.8111395,
+   :source :openstreetmap,
+   :locality "Dhaka"}
+  {:name "Jamuna Resort Wild Life Meseum",
+   :longitude 89.8159987,
+   :latitude 24.3895449,
+   :source :openstreetmap}
+  {:name "Jhenidah Somobai Somity",
+   :longitude 89.1737307,
+   :latitude 23.5510989,
+   :source :openstreetmap}
+  {:name "Joynul Abedin Art Gallery",
+   :longitude 90.3952387,
+   :latitude 24.7703989,
+   :source :openstreetmap}
+  {:name "Kangal Kutir",
+   :longitude 89.2349449,
+   :latitude 23.8578686,
+   :source :openstreetmap}
+  {:name "Karatia Rajbari",
+   :longitude 89.978692,
+   :latitude 24.2234987,
+   :source :openstreetmap,
+   :locality "Karatia"}
+  {:name "Kazi Nazrul Institute",
+   :longitude 90.3730665,
+   :latitude 23.7520943,
+   :source :openstreetmap,
+   :locality "Dhanmondi R/A, Dhaka"}
+  {:name "Kendriyo Kochi Kachar Mela",
+   :longitude 90.4088449,
+   :latitude 23.7341056,
+   :source :openstreetmap}
+  {:name "Kobi Nazrul Auditorium, Bangladesh Shishu Academy",
+   :longitude 91.8624887,
+   :latitude 24.8987402,
+   :source :openstreetmap,
+   :locality "সিলেট"}
+  {:name "Kushtia Municipality Museum",
+   :longitude 89.122328,
+   :latitude 23.9112884,
+   :source :openstreetmap}
+  {:name
+   "Language Martyr Abul Barakat Memory Museum and Library, Museum, Polashi Mor, Zahir Raihan Rd, Dhaka",
+   :longitude 90.3896135,
+   :latitude 23.7277008,
+   :source :openstreetmap}
+  {:name "Liberation War Museum",
+   :longitude 90.369509,
+   :latitude 23.7755945,
+   :source :openstreetmap}
+  {:name "Liberation War Museum of Bangladesh Police",
+   :longitude 90.4192264,
+   :latitude 23.7392341,
+   :source :openstreetmap}
+  {:name "M A Rob (Biruttam) Library and Memorial Museum",
+   :longitude 91.4165986,
+   :latitude 24.3738582,
+   :source :openstreetmap}
+  {:name "Mir Mosharraf Hossain Museum & Library",
+   :longitude 89.1720191,
+   :latitude 23.883063,
+   :source :openstreetmap}
+  {:name "Mohera Jamidar Bari Museum",
+   :longitude 90.0428613,
+   :latitude 24.1630264,
+   :source :openstreetmap,
+   :locality "Mirzapur"}
+  {:name
+   "Mrinmoy Art Gallery, Priyangon, Zakir Hossain Rd, Chattogram",
+   :longitude 91.8161309,
+   :latitude 22.3615284,
+   :source :openstreetmap}
+  {:name "Muktijoddha Complex, Museum",
+   :longitude 88.8654067,
+   :latitude 25.9172381,
+   :source :openstreetmap}
+  {:name "Museum of Folk Culture of Bengal, Museum",
+   :longitude 90.2484106,
+   :latitude 24.0047164,
+   :source :openstreetmap}
+  {:name "Museum of Raja's",
+   :longitude 91.8672371,
+   :latitude 24.8949033,
+   :source :openstreetmap,
+   :locality "Sylhet"}
+  {:name "National Art Gallery",
+   :longitude 90.404442,
+   :latitude 23.7347479,
+   :source :openstreetmap,
+   :homepage "https://shilpakala.gov.bd",
+   :locality "Dhaka"}
+  {:name "National Museum of Science & Technology",
+   :longitude 90.371604,
+   :latitude 23.7788896,
+   :source :openstreetmap,
+   :homepage "https://nmst.gov.bd/",
+   :locality "Dhaka"}
+  {:name "Naval Museun",
+   :longitude 91.8248677,
+   :latitude 22.3445288,
+   :source :openstreetmap}
+  {:name "Nogor Jadughor",
+   :longitude 90.408122,
+   :latitude 23.7238201,
+   :source :openstreetmap}
+  {:name "Old High Court Gate, Historical landmark",
+   :longitude 90.4036531,
+   :latitude 23.7286857,
+   :source :openstreetmap}
+  {:name
+   "Parabar Shahitya Sangskriti Sanghsad, Dhaka Trunk Rd, Chattogram",
+   :longitude 91.8173515,
+   :latitude 22.3365045,
+   :source :openstreetmap}
+  {:name
+   "Photobank Gallery, Concord Khulshi Town Center, Zakir Hossain Rd, Chattogram",
+   :longitude 91.8125927,
+   :latitude 22.3617347,
+   :source :openstreetmap}
+  {:name "Poddar Bari Liberation War Museum",
+   :longitude 90.1124228,
+   :latitude 23.6392955,
+   :source :openstreetmap}
+  {:name "Postal Museum",
+   :longitude 90.4108469,
+   :latitude 23.7283201,
+   :source :openstreetmap}
+  {:name "Rangamati Cultural Institute",
+   :longitude 92.1554939,
+   :latitude 22.6612057,
+   :source :openstreetmap}
+  {:name "Ronger Mela Art School\t,Rajshahi",
+   :longitude 88.5575283,
+   :latitude 24.3808473,
+   :source :openstreetmap}
+  {:name "Sher-e-Bangla Museum",
+   :longitude 90.1934579,
+   :latitude 22.8069985,
+   :source :openstreetmap}
+  {:name "Shilaidaha Kuthibari",
+   :longitude 89.220085,
+   :latitude 23.9198221,
+   :source :openstreetmap}
+  {:name "Shillpokola Academy, manikganj",
+   :longitude 89.9999743,
+   :latitude 23.851489,
+   :source :openstreetmap}
+  {:name "Shilpokola Academy",
+   :longitude 89.9229441,
+   :latitude 24.2635513,
+   :source :openstreetmap}
+  {:name "Shilpokola Academy",
+   :longitude 90.3913462,
+   :latitude 24.7669364,
+   :source :openstreetmap}
+  {:name "STAR ART RAOZAN, Chattogram",
+   :longitude 91.7809797,
+   :latitude 22.359202,
+   :source :openstreetmap}
+  {:name "Syed Murad Ahammad Chisti House",
+   :longitude 91.5207049,
+   :latitude 24.2361728,
+   :source :openstreetmap,
+   :locality "Chunarughat"}
+  {:name "Tea Museum",
+   :longitude 91.7599871,
+   :latitude 24.2999599,
+   :source :openstreetmap}
+  {:name "Thakur Lodge",
+   :longitude 89.1462116,
+   :latitude 23.9016133,
+   :source :openstreetmap}
+  {:name "Thames Square",
+   :longitude 90.3701757,
+   :latitude 23.7474758,
+   :source :openstreetmap}
+  {:name
+   "Theatre Institute Chittagong, Theater Institute Chittagong, J C Guha Rd, Chattogram",
+   :longitude 91.8329954,
+   :latitude 22.3371613,
+   :source :openstreetmap}
+  {:name "TSC",
+   :longitude 90.4383028,
+   :latitude 24.7230095,
+   :source :openstreetmap}
+  {:name "Varendra Research Museum, Rajshahi",
+   :longitude 88.5924937,
+   :latitude 24.3670593,
+   :source :openstreetmap}
+  {:name "Zainul Folk Arts & Crafts Museum , Narayangonj",
+   :longitude 90.6015743,
+   :latitude 23.6486423,
+   :source :openstreetmap,
+   :locality "narayanganj"}
+  {:name "Zia Memorial Museum",
+   :longitude 91.8239219,
+   :latitude 22.3482494,
+   :source :openstreetmap}
+  {:name "Zila Shilpakala Academy",
+   :longitude 91.7751449,
+   :latitude 24.488723,
+   :source :openstreetmap,
+   :locality "Moulvibazar"}
+  {:name "Zilla Shilpakala Academy, Rajshahi",
+   :longitude 88.5725733,
+   :latitude 24.367273,
+   :source :openstreetmap}
+  {:name "Zoology Museum",
+   :longitude 90.4096621,
+   :latitude 23.709032,
+   :source :openstreetmap}
+  {:name "করিমগঞ্জ শিল্পকলা একাডেমি",
+   :longitude 90.872249,
+   :latitude 24.465169,
+   :source :openstreetmap}
+  {:name "কার্পাশডাঙ্গা নজরুল হাট",
+   :longitude 88.7000325,
+   :latitude 23.579497,
+   :source :openstreetmap}
+  {:name "খুলনা বিভাগীয় জাদুঘর",
+   :longitude 89.5517982,
+   :latitude 22.8211424,
+   :source :openstreetmap}
+  {:name "গান্ধী আশ্রম",
+   :longitude 89.8665276,
+   :latitude 24.8628453,
+   :source :openstreetmap,
+   :locality "Hajipur, Jamalpur"}
+  {:name "ছায়ানট সংস্কৃতি-ভবন",
+   :longitude 90.3683738,
+   :latitude 23.751153,
+   :source :openstreetmap,
+   :locality "Dhaka"}
+  {:name "জেলা শিল্পকলা একাডেমী",
+   :longitude 89.4378059,
+   :latitude 25.9114513,
+   :source :openstreetmap,
+   :homepage "https://www.shilpakalaacademy.org/",
+   :locality "Lalmonirhat Sadar"}
+  {:name "তুলিকা অংকন শিক্ষালয় ও সংস্কৃতি কেন্দ্র",
+   :longitude 90.4260915,
+   :latitude 23.72039,
+   :source :openstreetmap}
+  {:name "নাগরপুর সরকারী কলেজ শহীদ মিনার",
+   :longitude 89.873982,
+   :latitude 24.0607537,
+   :source :openstreetmap}
+  {:name "ফরিদপুর জাদুঘর",
+   :longitude 89.8423782,
+   :latitude 23.6052262,
+   :source :openstreetmap}
+  {:name "বরিশাল শিল্পকলা একাডেমী",
+   :longitude 90.3700197,
+   :latitude 22.6918008,
+   :source :openstreetmap}
+  {:name "বাংলাদেশ জাতীয় জাদুঘর",
+   :longitude 90.3942883,
+   :latitude 23.7375369,
+   :source :openstreetmap,
+   :homepage "https://bangladeshmuseum.gov.bd/"}
+  {:name "বাংলাদেশ বিমান বাহিনী জাদুঘর",
+   :longitude 90.380981,
+   :latitude 23.7790185,
+   :source :openstreetmap}
+  {:name "বাংলাদেশ সামরিক যাদুঘর",
+   :longitude 90.3861427,
+   :latitude 23.7637041,
+   :source :openstreetmap,
+   :locality "Dhaka"}
+  {:name "বানিয়াচং রাজবাড়ী",
+   :longitude 91.3600469,
+   :latitude 24.5265919,
+   :source :openstreetmap}
+  {:name "মহাস্থান মিউজিয়াম পার্ক",
+   :longitude 89.3495138,
+   :latitude 24.9514617,
+   :source :openstreetmap}
+  {:name "ময়নামতি জাদুঘর",
+   :longitude 91.1371979,
+   :latitude 23.423594,
+   :source :openstreetmap}
+  {:name "লালবাগ কেল্লা জাদুঘর",
+   :longitude 90.388698,
+   :latitude 23.7188839,
+   :source :openstreetmap}
+  {:name "স্বাধীনতা জাদুঘর",
+   :longitude 90.3984232,
+   :latitude 23.7340369,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

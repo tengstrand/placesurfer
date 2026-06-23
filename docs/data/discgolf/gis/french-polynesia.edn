@@ -1,0 +1,21 @@
+{:count 1,
+ :country "french-polynesia",
+ :country-code "PF",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:56:43.613015Z",
+ :positions
+ [{:name "Palali Palala by Kt",
+   :longitude -151.73419957767132,
+   :latitude -16.517873286987864,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/26159",
+   :locality "Bora Bora"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

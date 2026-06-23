@@ -1,0 +1,198 @@
+{:count 42,
+ :country "panama",
+ :country-code "PA",
+ :dataset :art,
+ :generated-at "2026-05-26T06:26:17.284214Z",
+ :positions
+ [{:name "Biomuseo",
+   :longitude -79.5447682,
+   :latitude 8.93193,
+   :source :openstreetmap,
+   :homepage "https://www.biomuseopanama.org"}
+  {:name "Casa del Presidente Belisario Porras en Finca Pausilipo",
+   :longitude -80.237155,
+   :latitude 7.8025542,
+   :source :openstreetmap}
+  {:name "Casa Museo Familia Moscoso",
+   :longitude -80.0260536,
+   :latitude 7.5297951,
+   :source :openstreetmap}
+  {:name "Centro de Exhibiciones Marinas",
+   :longitude -79.5286691,
+   :latitude 8.9113152,
+   :source :openstreetmap}
+  {:name "Centro de Visitantes de Miraflores",
+   :longitude -79.5909309,
+   :latitude 8.9972408,
+   :source :openstreetmap,
+   :homepage "https://visitcanaldepanama.com/"}
+  {:name "Centro Interactivo Canal de Panamá",
+   :longitude -80.9834529,
+   :latitude 8.0967325,
+   :source :openstreetmap,
+   :locality "Santiago de Veraguas"}
+  {:name "Cursos de Teatro",
+   :longitude -79.5247851,
+   :latitude 8.9870539,
+   :source :openstreetmap,
+   :locality "Ciudad de Panamá"}
+  {:name "Explora",
+   :longitude -79.5289645,
+   :latitude 9.0338989,
+   :source :openstreetmap,
+   :locality "Ciudad de Panama"}
+  {:name "Fort David",
+   :longitude -82.4321236,
+   :latitude 8.3856755,
+   :source :openstreetmap,
+   :locality "Pedregal"}
+  {:name "Fundación Museo Arias Madrid",
+   :longitude -79.5569275,
+   :latitude 8.9517995,
+   :source :openstreetmap}
+  {:name "Galería Habitante",
+   :longitude -79.5254147,
+   :latitude 8.9767517,
+   :source :openstreetmap}
+  {:name "Galería Manuel E. Amador",
+   :longitude -79.5323351,
+   :latitude 8.9849151,
+   :source :openstreetmap}
+  {:name "Guna yala museo",
+   :longitude -78.9488604,
+   :latitude 9.5585478,
+   :source :openstreetmap}
+  {:name "Mariposario Metropolitano",
+   :longitude -79.546882,
+   :latitude 8.9858115,
+   :source :openstreetmap}
+  {:name "Museo Afroantillano",
+   :longitude -79.5394602,
+   :latitude 8.9629277,
+   :source :openstreetmap}
+  {:name "Museo al Ferrocarril",
+   :longitude -82.4379185,
+   :latitude 8.4215019,
+   :source :openstreetmap}
+  {:name "Museo Capilla San Juan de Dios",
+   :longitude -80.5158605,
+   :latitude 8.3343913,
+   :source :openstreetmap}
+  {:name "Museo de Arte Contemporaneo",
+   :longitude -79.5430394,
+   :latitude 8.9609414,
+   :source :openstreetmap,
+   :homepage "https://macpanama.org/",
+   :locality "Ciudad de Panamá"}
+  {:name "Museo de Chitre",
+   :longitude -80.4298938,
+   :latitude 7.9643602,
+   :source :openstreetmap}
+  {:name "Museo de Ciencias Naturales",
+   :longitude -79.537591,
+   :latitude 8.9671504,
+   :source :openstreetmap}
+  {:name "Museo de Historia de Panamá",
+   :longitude -79.534914,
+   :latitude 8.9520441,
+   :source :openstreetmap,
+   :homepage "http://www.inac.gob.pa/museos/99-museo-de-historia"}
+  {:name "Museo de La Chorrera",
+   :longitude -79.7816977,
+   :latitude 8.880409,
+   :source :openstreetmap,
+   :locality "La Chorrera"}
+  {:name "Museo de la cultura democratica",
+   :longitude -79.5478203,
+   :latitude 8.9665904,
+   :source :openstreetmap}
+  {:name "Museo de la Libertad",
+   :longitude -79.5546135,
+   :latitude 8.9466111,
+   :source :openstreetmap}
+  {:name "Museo de la Plaza Mayor",
+   :longitude -79.4862864,
+   :latitude 9.0062194,
+   :source :openstreetmap}
+  {:name "Museo de la Sal y el Azucar - Stella Sierra",
+   :longitude -80.539834,
+   :latitude 8.2410003,
+   :source :openstreetmap,
+   :locality "Aguadulce"}
+  {:name "museo de la villa de los santos",
+   :longitude -80.4142729,
+   :latitude 7.9379721,
+   :source :openstreetmap}
+  {:name "Museo de Plástico",
+   :longitude -82.26196,
+   :latitude 9.368435,
+   :source :openstreetmap}
+  {:name "Museo del Barrio y Antigüedades La Casona",
+   :longitude -82.4241365,
+   :latitude 8.4251371,
+   :source :openstreetmap,
+   :locality "David"}
+  {:name "Museo del Parque Arqueológico El Caño",
+   :longitude -80.5014916,
+   :latitude 8.3966766,
+   :source :openstreetmap}
+  {:name "Museo Hermanos Arias Madrid",
+   :longitude -80.356663,
+   :latitude 8.5250802,
+   :source :openstreetmap,
+   :locality "Penonomé"}
+  {:name "Museo Manuel Fernando Zárate",
+   :longitude -80.2812876,
+   :latitude 7.8234122,
+   :source :openstreetmap}
+  {:name "Museo Padre José Noto",
+   :longitude -80.1349658,
+   :latitude 8.6050611,
+   :source :openstreetmap}
+  {:name "Museo Potrerillos",
+   :longitude -82.496004,
+   :latitude 8.694002,
+   :source :openstreetmap,
+   :locality "Potrerillos"}
+  {:name "Museo Regional de Gualaca",
+   :longitude -82.2989339,
+   :latitude 8.5321026,
+   :source :openstreetmap}
+  {:name "Museo Victoriano Lorenzo",
+   :longitude -80.1245873,
+   :latitude 8.6038788,
+   :source :openstreetmap}
+  {:name "Museum Belisario Porras",
+   :longitude -80.2778098,
+   :latitude 7.7662453,
+   :source :openstreetmap}
+  {:name "Museum of Kuna Cultura",
+   :longitude -78.9600918,
+   :latitude 9.4708308,
+   :source :openstreetmap}
+  {:name "Parque 8 de diciembre",
+   :longitude -80.3595683,
+   :latitude 8.521423,
+   :source :openstreetmap,
+   :homepage "https://micultura.gob.pa/",
+   :locality "Penonomé"}
+  {:name "Parque Residencial Miraflores",
+   :longitude -80.3531339,
+   :latitude 8.5016029,
+   :source :openstreetmap}
+  {:name "Serpentario",
+   :longitude -80.1152153,
+   :latitude 8.6011942,
+   :source :openstreetmap,
+   :homepage "https://www.el-valle-panama.com/serpentario/"}
+  {:name "Sitio Arqueológico y parque temático Barriles",
+   :longitude -82.6913056,
+   :latitude 8.7921389,
+   :source :openstreetmap,
+   :homepage
+   "http://www.volcan.chiriqui.org/atractivos/chivolcan-barriles.htm"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

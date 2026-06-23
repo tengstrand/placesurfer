@@ -1,0 +1,749 @@
+{:count 163,
+ :country "venezuela",
+ :country-code "VE",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:40.802770Z",
+ :positions
+ [{:name "@gerardogarciart",
+   :longitude -71.7618634,
+   :latitude 8.325495,
+   :source :openstreetmap,
+   :homepage "https://gerardogarciarte.blogspot.com/",
+   :locality "Tovar,  Edo. Mérida - Venezuela"}
+  {:name "Agua Fuerte",
+   :longitude -67.595191,
+   :latitude 10.4283561,
+   :source :openstreetmap}
+  {:name "Art Killers Gallery",
+   :longitude -66.8365286,
+   :latitude 10.5086192,
+   :source :openstreetmap}
+  {:name "Ateneo",
+   :longitude -66.1647517,
+   :latitude 7.6330041,
+   :source :openstreetmap}
+  {:name "Ateneo de Calabozo",
+   :longitude -67.4245224,
+   :latitude 8.9334847,
+   :source :openstreetmap}
+  {:name "Ateneo de Escuque",
+   :longitude -70.6729251,
+   :latitude 9.2957847,
+   :source :openstreetmap}
+  {:name "Ateneo de La Isabelica",
+   :longitude -67.9748921,
+   :latitude 10.1625141,
+   :source :openstreetmap}
+  {:name "Ateneo de Valera",
+   :longitude -70.6026697,
+   :latitude 9.3145466,
+   :source :openstreetmap}
+  {:name "Ateneo del Táchira",
+   :longitude -72.2324601,
+   :latitude 7.7688051,
+   :source :openstreetmap}
+  {:name "Auditorio central del Palacio Episcopal",
+   :longitude -64.1725608,
+   :latitude 10.4642395,
+   :source :openstreetmap,
+   :locality "Cumaná"}
+  {:name "Auditorium",
+   :longitude -67.0528867,
+   :latitude 10.5911172,
+   :source :openstreetmap}
+  {:name "BORDES Galeria Café",
+   :longitude -72.2268979,
+   :latitude 7.7711855,
+   :source :openstreetmap,
+   :homepage "https://www.bordes.com.ve/",
+   :locality "San Cristóbal"}
+  {:name "Casa Bolivariana",
+   :longitude -71.8279871,
+   :latitude 8.2505024,
+   :source :openstreetmap}
+  {:name "Casa Colonial de la Familia Bolívar",
+   :longitude -66.9169279,
+   :latitude 10.4953517,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Casa Cultural Brasil Venezuela",
+   :longitude -66.850947,
+   :latitude 10.5042016,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Casa de Arte y Oficios  Alcaldía de San Diego",
+   :longitude -67.9602643,
+   :latitude 10.228642,
+   :source :openstreetmap}
+  {:name "Casa de Cipriano Castro",
+   :longitude -72.3501428,
+   :latitude 7.842279,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura",
+   :longitude -67.270105,
+   :latitude 10.2383838,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura",
+   :longitude -63.1679597,
+   :latitude 9.7446434,
+   :source :openstreetmap}
+  {:name "CASA DE LA CULTURA",
+   :longitude -70.6146856,
+   :latitude 9.7691716,
+   :source :openstreetmap}
+  {:name "Casa de La Cultura",
+   :longitude -69.9827749,
+   :latitude 9.3590963,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura",
+   :longitude -63.4186523,
+   :latitude 10.5022839,
+   :source :openstreetmap,
+   :locality "Casanay"}
+  {:name "Casa de la Cultura",
+   :longitude -63.6002126,
+   :latitude 9.6882948,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura",
+   :longitude -67.474561,
+   :latitude 7.8952653,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura \"La Verde Clarita\"",
+   :longitude -67.9190942,
+   :latitude 10.0854517,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura \"Licha Estaba de Mata\"",
+   :longitude -63.9228358,
+   :latitude 11.1100521,
+   :source :openstreetmap}
+  {:name "Casa de La Cultura (Ateneo)",
+   :longitude -62.674482,
+   :latitude 8.3561694,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/pg/fundacionlabarraca/",
+   :locality "Ciudad Guayana"}
+  {:name "Casa de la Cultura - Museo",
+   :longitude -71.4348163,
+   :latitude 8.181186,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura Cecilio Acosta",
+   :longitude -67.0425479,
+   :latitude 10.3488961,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura del Municipio Sucre",
+   :longitude -66.8322037,
+   :latitude 10.5035581,
+   :source :openstreetmap,
+   :homepage "http://www.centrodeartelosgalpones.com",
+   :locality "Caracas"}
+  {:name "Casa de la Cultura Dr. Francisco Lazo Martí",
+   :longitude -67.428354,
+   :latitude 8.9335272,
+   :source :openstreetmap,
+   :locality "Calabozo"}
+  {:name "Casa de la Cultura Poeta Pedro Rivero Navarro",
+   :longitude -63.9025746,
+   :latitude 11.0525074,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura Pueblo de la Mar",
+   :longitude -63.8366309,
+   :latitude 10.9687759,
+   :source :openstreetmap}
+  {:name "Casa de la Cultura San Juan Bautista",
+   :longitude -63.9457895,
+   :latitude 11.0143018,
+   :source :openstreetmap}
+  {:name "Casa del Artista Plástico",
+   :longitude -62.0509894,
+   :latitude 9.0563519,
+   :source :openstreetmap}
+  {:name "Casa del Poeta Cruz Salmerón Acosta",
+   :longitude -64.1936472,
+   :latitude 10.5570426,
+   :source :openstreetmap}
+  {:name "Casa Escalante",
+   :longitude -72.2760827,
+   :latitude 7.644266,
+   :source :openstreetmap}
+  {:name "Casa Guzmán Blanco",
+   :longitude -66.9875091,
+   :latitude 10.4599609,
+   :source :openstreetmap,
+   :homepage
+   "http://www.caracas.gob.ve/alcaldiaDeCCS/submit-an-article/sitios-turisticos/casas/casa-guzman-blanco",
+   :locality "Caracas"}
+  {:name "Casa Museo Argelia Cardiel",
+   :longitude -63.6156747,
+   :latitude 9.8141496,
+   :source :openstreetmap,
+   :locality "Caicara de Maturín"}
+  {:name "Casa Museo del Doctor José Gregorio Hernández",
+   :longitude -66.9166872,
+   :latitude 10.5136453,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Casa Nacional de las Letras \"Andrés Bello\"",
+   :longitude -66.9144918,
+   :latitude 10.5104967,
+   :source :openstreetmap,
+   :homepage
+   "http://www.caracas.gob.ve/alcaldiaDeCCS/submit-an-article/sitios-turisticos/casas/casa-natal-del-libertador",
+   :locality "Caracas"}
+  {:name "Casa San Isidro",
+   :longitude -63.547535,
+   :latitude 8.137244,
+   :source :openstreetmap,
+   :locality "Ciudad Bolívar"}
+  {:name "Cecilio Acosta",
+   :longitude -66.9536032,
+   :latitude 10.3431853,
+   :source :openstreetmap,
+   :locality "San Diego de Los Altos"}
+  {:name "Centro Cultural APARO ACUSTICO",
+   :longitude -67.5998609,
+   :latitude 5.6503392,
+   :source :openstreetmap,
+   :locality "Puerto Ayacucho"}
+  {:name "Centro Cultural Bolivar",
+   :longitude -63.941752,
+   :latitude 11.0487821,
+   :source :openstreetmap}
+  {:name "Centro Cultural de Arte Moderno",
+   :longitude -66.8525076,
+   :latitude 10.4981647,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Centro Cultural de Tabay",
+   :longitude -71.0774572,
+   :latitude 8.6325469,
+   :source :openstreetmap}
+  {:name "Centro Cultural Gonzalo Benaim Pinto",
+   :longitude -66.8201846,
+   :latitude 10.5058222,
+   :source :openstreetmap}
+  {:name "Centro Cultural Juana de Marín",
+   :longitude -64.6780213,
+   :latitude 10.1684394,
+   :source :openstreetmap,
+   :locality "Barcelona"}
+  {:name "Centro Cultural Miguel Parra",
+   :longitude -66.6135285,
+   :latitude 10.4708572,
+   :source :openstreetmap}
+  {:name "Centro Cultural Napiruli",
+   :longitude -67.5673748,
+   :latitude 5.6498888,
+   :source :openstreetmap}
+  {:name "Centro Cultural Rosacruz AMORC",
+   :longitude -66.9063161,
+   :latitude 10.5055722,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Centro Cultural y Social Húngaro",
+   :longitude -66.8272027,
+   :latitude 10.5000293,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Centro de Arte La Estancia",
+   :longitude -66.8470883,
+   :latitude 10.494661,
+   :source :openstreetmap,
+   :homepage "https://www.pdvsalaestancia.com/",
+   :locality "Caracas"}
+  {:name "Centro de Artes de Maracaibo Lía Bermúdez CAMLB",
+   :longitude -71.6095647,
+   :latitude 10.6392783,
+   :source :openstreetmap}
+  {:name "Centro de Convenciones del Sambil",
+   :longitude -72.2346772,
+   :latitude 7.7923019,
+   :source :openstreetmap}
+  {:name "Centro de Historia del Estado Aragua",
+   :longitude -67.6022028,
+   :latitude 10.2506817,
+   :source :openstreetmap,
+   :locality "Maracay"}
+  {:name "Club de los Obreros",
+   :longitude -61.8223333,
+   :latitude 7.3465748,
+   :source :openstreetmap}
+  {:name "Complejo Cultural Cruz Felipe Iriarte",
+   :longitude -66.9491108,
+   :latitude 10.5980729,
+   :source :openstreetmap}
+  {:name "Complejo Cultural Doña Matilde Espinoza de González",
+   :longitude -63.7302646,
+   :latitude 9.4236755,
+   :source :openstreetmap}
+  {:name "Complejo Cultural Francisco Lárez Granado",
+   :longitude -63.9686979,
+   :latitude 11.0830409,
+   :source :openstreetmap,
+   :locality "Juan Griego"}
+  {:name "Complejo Educativo y Cultural FONDEN",
+   :longitude -63.8546962,
+   :latitude 10.9623074,
+   :source :openstreetmap}
+  {:name "Cuartel San Carlos",
+   :longitude -66.9135753,
+   :latitude 10.5144215,
+   :source :openstreetmap,
+   :homepage
+   "http://www.caracas.gob.ve/alcaldiaDeCCS/submit-an-article/sitios-turisticos/casas/casa-natal-del-libertador",
+   :locality "Caracas"}
+  {:name "Ecomuseo del Caroní",
+   :longitude -62.6700568,
+   :latitude 8.3052143,
+   :source :openstreetmap,
+   :locality "Macagua"}
+  {:name "Edificio Las Laras",
+   :longitude -71.6116727,
+   :latitude 10.665726,
+   :source :openstreetmap}
+  {:name "Escenario Cultural",
+   :longitude -70.5151535,
+   :latitude 9.2795275,
+   :source :openstreetmap}
+  {:name "Escuela de Artes Plasticas \"Cristóbal Rojas\"",
+   :longitude -70.2085697,
+   :latitude 8.6313967,
+   :source :openstreetmap}
+  {:name "Escuela de Cultura Integral \"Guayanita\"",
+   :longitude -62.7284014,
+   :latitude 8.2849785,
+   :source :openstreetmap,
+   :locality "Ciudad Guayana (Puerto Ordaz)"}
+  {:name "Escuela de títeres",
+   :longitude -64.6844694,
+   :latitude 10.1387569,
+   :source :openstreetmap,
+   :locality "Barcelona"}
+  {:name "Flamboyant Galería",
+   :longitude -66.8441033,
+   :latitude 10.5009801,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Fotografia",
+   :longitude -67.3396368,
+   :latitude 10.2247983,
+   :source :openstreetmap}
+  {:name "Frente Popular de la Cultura",
+   :longitude -64.6770942,
+   :latitude 10.1525518,
+   :source :openstreetmap,
+   :locality "Barcelona"}
+  {:name "Fundación Cultural y Teatro",
+   :longitude -63.0418226,
+   :latitude 7.7896002,
+   :source :openstreetmap}
+  {:name "Galería Azularte",
+   :longitude -66.8259994,
+   :latitude 10.4234025,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Galerías Alcalá",
+   :longitude -66.8625095,
+   :latitude 10.4835702,
+   :source :openstreetmap,
+   :homepage "https://beatrizgilgaleria.com/",
+   :locality "Caracas"}
+  {:name "General en Jefe Eleazar López Contreras",
+   :longitude -72.0131004,
+   :latitude 7.9158183,
+   :source :openstreetmap,
+   :locality "Queniquea"}
+  {:name "Hacer Macetas",
+   :longitude -68.9709196,
+   :latitude 9.6767758,
+   :source :openstreetmap,
+   :homepage "https://hacermacetas.com/",
+   :locality "San Rafael de Onoto"}
+  {:name "Ingenio Bolivar",
+   :longitude -67.4014074,
+   :latitude 10.2164076,
+   :source :openstreetmap}
+  {:name "Instituto Cultural del Orinoco",
+   :longitude -63.5514774,
+   :latitude 8.145589,
+   :source :openstreetmap}
+  {:name "La Casona",
+   :longitude -68.0074858,
+   :latitude 10.2019421,
+   :source :openstreetmap}
+  {:name "La Casona Cultural Aquiles Nazoa",
+   :longitude -66.8342977,
+   :latitude 10.4870602,
+   :source :openstreetmap,
+   :homepage "https://twitter.com/casona_cultural?lang=es",
+   :locality "Caracas"}
+  {:name "La Casona Valle Cielo",
+   :longitude -66.5304979,
+   :latitude 10.47543,
+   :source :openstreetmap}
+  {:name "MACZUL",
+   :longitude -71.6322822,
+   :latitude 10.676785,
+   :source :openstreetmap}
+  {:name "Martín Morales (Pintor)",
+   :longitude -71.766721,
+   :latitude 8.316917,
+   :source :openstreetmap}
+  {:name "Museo Aeronáutico",
+   :longitude -67.5944804,
+   :latitude 10.2524432,
+   :source :openstreetmap,
+   :locality "Maracay"}
+  {:name "Museo Alberto Arvelo Torrealba",
+   :longitude -70.211696,
+   :latitude 8.6328823,
+   :source :openstreetmap}
+  {:name "Museo Alexis Mujica",
+   :longitude -68.0026565,
+   :latitude 10.183061,
+   :source :openstreetmap}
+  {:name "Museo Antropológico Uyapari",
+   :longitude -62.1931834,
+   :latitude 8.6943691,
+   :source :openstreetmap,
+   :locality "Barrancas del Orinoco"}
+  {:name "Museo Arqueológico Casa de Los Celis",
+   :longitude -68.007297,
+   :latitude 10.1801107,
+   :source :openstreetmap}
+  {:name "Museo Arqueológico de Quibor",
+   :longitude -69.6227581,
+   :latitude 9.9287884,
+   :source :openstreetmap}
+  {:name "Museo Arquidiocesano Obispo Lasso",
+   :longitude -71.6070663,
+   :latitude 10.6430807,
+   :source :openstreetmap}
+  {:name "Museo Boliviano",
+   :longitude -66.915736,
+   :latitude 10.5034048,
+   :source :openstreetmap,
+   :homepage
+   "http://www.caracas.gob.ve/alcaldiaDeCCS/submit-an-article/sitios-turisticos/casas/casa-natal-del-libertador",
+   :locality "Caracas"}
+  {:name "Museo Carlos Cruz Díez",
+   :longitude -66.907752,
+   :latitude 10.5003337,
+   :source :openstreetmap,
+   :homepage "www.museocruzdiez.com",
+   :locality "Caracas"}
+  {:name "Museo Carolay",
+   :longitude -70.4763307,
+   :latitude 9.4449616,
+   :source :openstreetmap}
+  {:name "Museo Casa Santiago Mariño",
+   :longitude -63.884853,
+   :latitude 10.9840955,
+   :source :openstreetmap}
+  {:name "Museo Comunitario Murükuní",
+   :longitude -66.998608,
+   :latitude 6.5308284,
+   :source :openstreetmap}
+  {:name "Museo Conoce Tu Puente",
+   :longitude -71.6122746,
+   :latitude 10.5746996,
+   :source :openstreetmap}
+  {:name "Museo de Anzoátegui",
+   :longitude -64.6839725,
+   :latitude 10.1339029,
+   :source :openstreetmap,
+   :locality "Barcelona"}
+  {:name "Museo de Arte Colonial",
+   :longitude -71.1425731,
+   :latitude 8.5984239,
+   :source :openstreetmap}
+  {:name "Museo de Arte Colonial de Caracas",
+   :longitude -66.8992322,
+   :latitude 10.5120683,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Museo de Arte Contemporaneo Sofía Imber",
+   :longitude -66.8997289,
+   :latitude 10.4985686,
+   :source :openstreetmap,
+   :homepage "http://fmn.gob.ve/museos/galeria-arte-nacional",
+   :locality "Caracas"}
+  {:name "Museo de Arte Contemporáneo de Maracay Mario Abreu (MACMA)",
+   :longitude -67.6100914,
+   :latitude 10.2489774,
+   :source :openstreetmap,
+   :locality "Maracay"}
+  {:name "Museo de Arte Moderno Jesús Soto",
+   :longitude -63.5370304,
+   :latitude 8.1321794,
+   :source :openstreetmap,
+   :locality "Ciudad Bolívar"}
+  {:name "Museo de Arte Valencia",
+   :longitude -68.0045954,
+   :latitude 10.1893701,
+   :source :openstreetmap}
+  {:name "Museo de Artes Visuales Alejandro Otero",
+   :longitude -66.9283071,
+   :latitude 10.4335886,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Museo de Artes Visuales del Táchira",
+   :longitude -72.2333268,
+   :latitude 7.7651805,
+   :source :openstreetmap}
+  {:name "Museo de Astronomia a Ciencias Espaciales (MACE)",
+   :longitude -70.8709674,
+   :latitude 8.7864289,
+   :source :openstreetmap}
+  {:name "Museo de Barquisimeto",
+   :longitude -69.3163419,
+   :latitude 10.0616912,
+   :source :openstreetmap,
+   :locality "Barquisimeto"}
+  {:name "Museo de Bellas Artes de Caracas",
+   :longitude -66.8962635,
+   :latitude 10.5003412,
+   :source :openstreetmap,
+   :homepage "http://fmn.gob.ve/museos/galeria-arte-nacional"}
+  {:name "Museo de Ciencias y Tecnología",
+   :longitude -71.1907942,
+   :latitude 8.5625007,
+   :source :openstreetmap}
+  {:name "Museo de historia y artesanía",
+   :longitude -67.2892035,
+   :latitude 10.4076857,
+   :source :openstreetmap}
+  {:name "Museo de la Cultura",
+   :longitude -67.9982225,
+   :latitude 10.1857002,
+   :source :openstreetmap}
+  {:name "Museo de la Gaita",
+   :longitude -71.6034316,
+   :latitude 10.6491265,
+   :source :openstreetmap}
+  {:name "Museo de La Verdad",
+   :longitude -66.5635818,
+   :latitude 10.6224059,
+   :source :openstreetmap}
+  {:name "Museo de los Llanos",
+   :longitude -70.2327964,
+   :latitude 8.6193323,
+   :source :openstreetmap}
+  {:name "Museo de Los Niños",
+   :longitude -64.6972826,
+   :latitude 10.2021611,
+   :source :openstreetmap}
+  {:name "Museo de Petare",
+   :longitude -66.808148,
+   :latitude 10.4759101,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Museo del Complejo arqueologico Piedra Pintada",
+   :longitude -67.8918007,
+   :latitude 10.3024382,
+   :source :openstreetmap,
+   :locality "Guacara"}
+  {:name "Museo del Hombre Insular",
+   :longitude -63.9216955,
+   :latitude 11.067458,
+   :source :openstreetmap}
+  {:name "Museo del Pueblo de Nuestra Señora del Rosario de Baruta",
+   :longitude -66.8742596,
+   :latitude 10.4351616,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Museo del Táchira",
+   :longitude -72.1999615,
+   :latitude 7.7981039,
+   :source :openstreetmap}
+  {:name "Museo del Viñedo",
+   :longitude -64.6949293,
+   :latitude 10.056777,
+   :source :openstreetmap}
+  {:name "Museo Dimitrius Demus",
+   :longitude -64.6895124,
+   :latitude 10.1842202,
+   :source :openstreetmap}
+  {:name "Museo Dr. José Gregorio Hernandez",
+   :longitude -70.702515,
+   :latitude 9.3656773,
+   :source :openstreetmap}
+  {:name "Museo Francisco Narváez",
+   :longitude -63.8474335,
+   :latitude 10.9572328,
+   :source :openstreetmap}
+  {:name "Museo Gral Cipriano Castro",
+   :longitude -72.3081649,
+   :latitude 7.8249689,
+   :source :openstreetmap}
+  {:name "Museo Gran Mariscal de Ayacucho",
+   :longitude -64.1762714,
+   :latitude 10.4655667,
+   :source :openstreetmap,
+   :locality "Cumaná"}
+  {:name "Museo Henry Alizo",
+   :longitude -70.1905168,
+   :latitude 8.6134112,
+   :source :openstreetmap}
+  {:name "Museo Histórico de Carúpano",
+   :longitude -63.2458021,
+   :latitude 10.669565,
+   :source :openstreetmap,
+   :locality "Carúpano"}
+  {:name "Museo Histórico de Clarines",
+   :longitude -65.1667563,
+   :latitude 9.9410953,
+   :source :openstreetmap}
+  {:name "Museo Histórico de la Guardia Nacional",
+   :longitude -66.916061,
+   :latitude 10.4907694,
+   :source :openstreetmap}
+  {:name "Museo Histórico Militar",
+   :longitude -66.9267116,
+   :latitude 10.5072574,
+   :source :openstreetmap,
+   :homepage "https://hugochavez.ve/cuartel-4f/",
+   :locality "Caracas"}
+  {:name "Museo Jacobo Borges",
+   :longitude -66.938362,
+   :latitude 10.5146844,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Museo Jose Félix Rivas",
+   :longitude -66.6248888,
+   :latitude 10.4717158,
+   :source :openstreetmap}
+  {:name "Museo Kakkejawas",
+   :longitude -69.4692727,
+   :latitude 9.9935166,
+   :source :openstreetmap}
+  {:name "Museo Marino de Margarita",
+   :longitude -64.1781968,
+   :latitude 10.9661717,
+   :source :openstreetmap,
+   :homepage "http://www.museomarino.com/museo.html"}
+  {:name "Museo Mateo Manaure",
+   :longitude -63.1759284,
+   :latitude 9.7467692,
+   :source :openstreetmap}
+  {:name "Museo Nacional del Transporte",
+   :longitude -66.8347616,
+   :latitude 10.4930643,
+   :source :openstreetmap,
+   :homepage "http://museodeltransportecaracas.blogspot.com/",
+   :locality "Caracas"}
+  {:name "Museo Parque",
+   :longitude -70.4460795,
+   :latitude 9.362529,
+   :source :openstreetmap}
+  {:name "Museo Postal y de la Telegrafía",
+   :longitude -66.9332122,
+   :latitude 10.4976759,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Museo Pueblos de Margarita",
+   :longitude -64.0065169,
+   :latitude 11.0653529,
+   :source :openstreetmap,
+   :homepage "https://youtu.be/YOZgMFC59GI"}
+  {:name "Museo Rafael Urdaneta",
+   :longitude -71.6097626,
+   :latitude 10.6465308,
+   :source :openstreetmap}
+  {:name "Museo Salvador Valero NURR",
+   :longitude -70.4352289,
+   :latitude 9.366372,
+   :source :openstreetmap}
+  {:name "Museo Taima Taima",
+   :longitude -69.5220299,
+   :latitude 11.4992328,
+   :source :openstreetmap}
+  {:name "Museo Trapiche Los Clavos",
+   :longitude -70.2748757,
+   :latitude 9.2440622,
+   :source :openstreetmap,
+   :locality "Boconó"}
+  {:name "Museo Vial de Margarita",
+   :longitude -63.8380206,
+   :latitude 11.024031,
+   :source :openstreetmap}
+  {:name "Módulo cultural Eduardo Sifontes",
+   :longitude -64.685557,
+   :latitude 10.1290336,
+   :source :openstreetmap,
+   :locality "Barcelona"}
+  {:name "Módulo cultural Tronconal III",
+   :longitude -64.6722545,
+   :latitude 10.1644235,
+   :source :openstreetmap,
+   :locality "Barcelona"}
+  {:name "Orquesta Sinfónica Juvenil de El Tigre",
+   :longitude -64.2390413,
+   :latitude 8.8943502,
+   :source :openstreetmap}
+  {:name "Palacio de los Iturriza",
+   :longitude -68.0052169,
+   :latitude 10.1989325,
+   :source :openstreetmap}
+  {:name "Parque Andres Bello",
+   :longitude -70.4303174,
+   :latitude 9.3786554,
+   :source :openstreetmap}
+  {:name "Parranda De San Pedro",
+   :longitude -66.621301,
+   :latitude 10.4682714,
+   :source :openstreetmap,
+   :locality "Guarenas"}
+  {:name "Pintor Riveros Tejada",
+   :longitude -70.087709,
+   :latitude 10.182523,
+   :source :openstreetmap}
+  {:name "Plaza Cubierta de la Gerencia General",
+   :longitude -66.8122186,
+   :latitude 6.5698103,
+   :source :openstreetmap}
+  {:name "Plaza Isaias Medina Angarita",
+   :longitude -70.444031,
+   :latitude 9.3579483,
+   :source :openstreetmap}
+  {:name "Ruinas de iglesia: La Pastora",
+   :longitude -70.0864527,
+   :latitude 10.1856003,
+   :source :openstreetmap}
+  {:name "Sala de Arte Sidor",
+   :longitude -62.7309301,
+   :latitude 8.2932706,
+   :source :openstreetmap,
+   :locality "Ciudad Guayana (Puerto Ordaz)"}
+  {:name "Salón de Lectura \"Mario Briceño Irragory\"",
+   :longitude -62.713636,
+   :latitude 8.3076268,
+   :source :openstreetmap,
+   :locality "Ciudad Guayana (Puerto Ordaz)"}
+  {:name "Taller Colonial",
+   :longitude -66.9103091,
+   :latitude 10.5109755,
+   :source :openstreetmap,
+   :locality "Caracas"}
+  {:name "Taller Libre de Arte",
+   :longitude -64.2606538,
+   :latitude 8.8941145,
+   :source :openstreetmap}
+  {:name "Teatro Bellas Artes",
+   :longitude -71.6048149,
+   :latitude 10.6746089,
+   :source :openstreetmap}
+  {:name "Teatro Comunal Teresa Carreño Sede Guarenas",
+   :longitude -66.6036764,
+   :latitude 10.4678137,
+   :source :openstreetmap}
+  {:name "Trasnocho Cultural",
+   :longitude -66.8583537,
+   :latitude 10.4779389,
+   :source :openstreetmap,
+   :homepage "https://www.trasnochocultural.com/",
+   :locality "Caracas"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

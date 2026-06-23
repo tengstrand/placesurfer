@@ -1,0 +1,121 @@
+{:count 26,
+ :country "zimbabwe",
+ :country-code "ZW",
+ :dataset :art,
+ :generated-at "2026-05-26T06:42:38.659310Z",
+ :positions
+ [{:name "Aviation Muesum",
+   :longitude 29.8135838,
+   :latitude -19.4643328,
+   :source :openstreetmap}
+  {:name "Batonga Museum",
+   :longitude 27.3450836,
+   :latitude -17.624639,
+   :source :openstreetmap}
+  {:name "Bulawayo Railway Museum",
+   :longitude 28.5742088,
+   :latitude -20.1635341,
+   :source :openstreetmap}
+  {:name "Dangamvura",
+   :longitude 32.5905508,
+   :latitude -19.0084405,
+   :source :openstreetmap}
+  {:name "Dhlodhlo Ruins",
+   :longitude 29.3312835,
+   :latitude -19.9468055,
+   :source :openstreetmap}
+  {:name "EAG Art Museum",
+   :longitude 30.8330241,
+   :latitude -20.0780623,
+   :source :openstreetmap}
+  {:name "Great Zimbabwe Museum",
+   :longitude 30.9323012,
+   :latitude -20.2704208,
+   :source :openstreetmap}
+  {:name "Kambako Living Museum",
+   :longitude 31.9672695,
+   :latitude -21.0838296,
+   :source :openstreetmap,
+   :homepage
+   "http://www.themalilangwetrust.org/community/kambako-living-museum"}
+  {:name "Kwekwe Mining Museum",
+   :longitude 29.8091357,
+   :latitude -18.9359816,
+   :source :openstreetmap}
+  {:name "mukoma art centre",
+   :longitude 30.1519205,
+   :latitude -18.1282692,
+   :source :openstreetmap}
+  {:name "Museum of African liberation",
+   :longitude 30.9823574,
+   :latitude -17.8240639,
+   :source :openstreetmap}
+  {:name "National Archives of Zimbabwe",
+   :longitude 31.0639342,
+   :latitude -17.7948962,
+   :source :openstreetmap,
+   :homepage "http://www.archives.gov.zw"}
+  {:name "National Art Gallery Bulawayo",
+   :longitude 28.5828775,
+   :latitude -20.1530036,
+   :source :openstreetmap,
+   :homepage "https://www.nationalgallerybyo.com/"}
+  {:name "National Gallery of Zimbabwe",
+   :longitude 31.0488512,
+   :latitude -17.8249071,
+   :source :openstreetmap}
+  {:name "National Mining Museum",
+   :longitude 29.8010157,
+   :latitude -18.9254488,
+   :source :openstreetmap}
+  {:name "Old Suspension Bridge (broken down)",
+   :longitude 27.3700555,
+   :latitude -18.7405829,
+   :source :openstreetmap}
+  {:name "Regina Ruins",
+   :longitude 29.3598332,
+   :latitude -20.1334304,
+   :source :openstreetmap}
+  {:name "Robins Camp Tower",
+   :longitude 25.9864305,
+   :latitude -18.6291111,
+   :source :openstreetmap}
+  {:name "Site of the Battle of Mbembesi",
+   :longitude 28.8763282,
+   :latitude -20.0374122,
+   :source :openstreetmap}
+  {:name "Steam Loco",
+   :longitude 25.839878,
+   :latitude -17.9273671,
+   :source :openstreetmap}
+  {:name "Stock Exchange Building",
+   :longitude 29.8148456,
+   :latitude -19.4533571,
+   :source :openstreetmap}
+  {:name "Tengenenge Museum",
+   :longitude 30.9430576,
+   :latitude -16.7301797,
+   :source :openstreetmap}
+  {:name "The Mutare Museum",
+   :longitude 32.667178,
+   :latitude -18.9710375,
+   :source :openstreetmap}
+  {:name "The Natural History Museum of Zimbabwe",
+   :longitude 28.5963987,
+   :latitude -20.1557969,
+   :source :openstreetmap,
+   :homepage "https://naturalhistorymuseumzimbabwe.com/",
+   :locality "Bulawayo"}
+  {:name "Zimbabwe Military Museum",
+   :longitude 29.8150343,
+   :latitude -19.4602551,
+   :source :openstreetmap}
+  {:name "Zimbabwe Museum of Human Sciences",
+   :longitude 31.0388592,
+   :latitude -17.8323314,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

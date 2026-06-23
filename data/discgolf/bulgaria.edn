@@ -1,0 +1,31 @@
+{:count 2,
+ :country "bulgaria",
+ :country-code "BG",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:05:47.552080Z",
+ :positions
+ [{:name "Ezero DiscGolfPark",
+   :longitude 27.473762670089087,
+   :latitude 42.513659157653734,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/40278",
+   :locality "Burgas",
+   :image "",
+   :description ""}
+  {:name "Mineralni Bani park",
+   :longitude 27.39805504616291,
+   :latitude 42.617212193349445,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35964",
+   :locality "Бургас",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

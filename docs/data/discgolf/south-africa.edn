@@ -1,0 +1,39 @@
+{:count 3,
+ :country "south-africa",
+ :country-code "ZA",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T13:22:55.831195Z",
+ :positions
+ [{:name "Crestlands Farm Disc Golf Course",
+   :longitude 30.185065831277285,
+   :latitude -31.024278285262653,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/22344",
+   :locality "Port Edward",
+   :image "",
+   :description ""}
+  {:name "Kelvin Mike",
+   :longitude 177.96965114858233,
+   :latitude -60.84881472588249,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/24557",
+   :locality "Nigeria",
+   :image "",
+   :description ""}
+  {:name "Noordhoek Commons",
+   :longitude 18.3738678939921,
+   :latitude -34.09835583225623,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/29246",
+   :locality "Noordhoek",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

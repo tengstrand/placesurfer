@@ -1,0 +1,19 @@
+{:count 1,
+ :country "djibouti",
+ :country-code "DJ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:21.300997Z",
+ :positions
+ [{:name
+   "Centre Culturel Institut Français Arthur Rimbaud المركز الثقافي المعهد الفرنسي آرثر رامبو",
+   :longitude 43.142393,
+   :latitude 11.591479,
+   :source :openstreetmap,
+   :locality "جيبوتي",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

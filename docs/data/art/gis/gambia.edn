@@ -1,0 +1,55 @@
+{:count 10,
+ :country "gambia",
+ :country-code "GM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:11:57.237112Z",
+ :positions
+ [{:name "Alliance Française de Banjul",
+   :longitude -16.6783209,
+   :latitude 13.4482939,
+   :source :openstreetmap,
+   :homepage "https://afbanjul.org/",
+   :locality "Serekunda"}
+  {:name "Arch 22 Museum",
+   :longitude -16.5824956,
+   :latitude 13.4602239,
+   :source :openstreetmap}
+  {:name "Franco Inn Arts Center",
+   :longitude -16.7745198,
+   :latitude 13.3449179,
+   :source :openstreetmap,
+   :homepage "https://www.francoinn.com/en/home-en/",
+   :locality "Tanji"}
+  {:name "Gambia National Museum",
+   :longitude -16.5757846,
+   :latitude 13.455978,
+   :source :openstreetmap}
+  {:name "Kachikally Crocodile Pool",
+   :longitude -16.6728378,
+   :latitude 13.4769645,
+   :source :openstreetmap}
+  {:name "Kerr Batch Stone Circles Museum",
+   :longitude -15.0684068,
+   :latitude 13.754409,
+   :source :openstreetmap}
+  {:name "Lamin's Museum",
+   :longitude -16.7533833,
+   :latitude 13.1661092,
+   :source :openstreetmap}
+  {:name "Maurel Frères Building",
+   :longitude -16.3823611,
+   :latitude 13.3363207,
+   :source :openstreetmap}
+  {:name "Slave House",
+   :longitude -14.763979,
+   :latitude 13.543768,
+   :source :openstreetmap}
+  {:name "Wassu Stone Circles Museum",
+   :longitude -14.8737768,
+   :latitude 13.6910948,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

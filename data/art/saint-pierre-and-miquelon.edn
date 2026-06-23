@@ -1,0 +1,42 @@
+{:count 5,
+ :country "saint-pierre-and-miquelon",
+ :country-code "PM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:08.402268Z",
+ :positions
+ [{:name "Arche Musée",
+   :longitude -56.1777241,
+   :latitude 46.7770327,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Micro-Folie Saint-Pierre",
+   :longitude -56.1745249,
+   :latitude 46.7853562,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Musée",
+   :longitude -56.3792429,
+   :latitude 47.100756,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Musée Archipélitude",
+   :longitude -56.1498708,
+   :latitude 46.7845698,
+   :source :openstreetmap,
+   :locality "Saint-Pierre",
+   :image "",
+   :description ""}
+  {:name "Musée Héritage",
+   :longitude -56.1729563,
+   :latitude 46.779659,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

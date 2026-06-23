@@ -1,0 +1,39 @@
+{:count 3,
+ :country "mexico",
+ :country-code "MX",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:18:02.022167Z",
+ :positions
+ [{:name "Desert Caves Disc Golf Course",
+   :longitude -107.58878572592455,
+   :latitude 30.023104261067274,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/26658",
+   :locality "Colonia LeBaron",
+   :image "",
+   :description ""}
+  {:name "Las Hadas Club de Golf",
+   :longitude -104.34131901648257,
+   :latitude 19.109958806842528,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/24465",
+   :locality "Manzanillo",
+   :image "",
+   :description ""}
+  {:name "Parque Rufino Tamayo",
+   :longitude -100.32662438604821,
+   :latitude 25.644723598781184,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/26795",
+   :locality "San Pedro Garza García",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

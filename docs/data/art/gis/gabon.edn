@@ -1,0 +1,34 @@
+{:count 5,
+ :country "gabon",
+ :country-code "GA",
+ :dataset :art,
+ :generated-at "2026-05-26T06:11:56.063884Z",
+ :positions
+ [{:name "Centre Culturel Lambert Ona Ovono",
+   :longitude 8.7887699,
+   :latitude -0.7262467,
+   :source :openstreetmap}
+  {:name "Ecomusée de la Lopé",
+   :longitude 11.6008651,
+   :latitude -0.1130859,
+   :source :openstreetmap,
+   :locality "Lopé"}
+  {:name "Musée Albert Schweitzer",
+   :longitude 10.2305808,
+   :latitude -0.6790904,
+   :source :openstreetmap,
+   :locality "Lambaréné"}
+  {:name "Musée National des Arts et Traditions du Gabon",
+   :longitude 9.4464867,
+   :latitude 0.3838679,
+   :source :openstreetmap}
+  {:name "Wax Me Gabon",
+   :longitude 9.4253755,
+   :latitude 0.4248168,
+   :source :openstreetmap,
+   :locality "Libreville"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

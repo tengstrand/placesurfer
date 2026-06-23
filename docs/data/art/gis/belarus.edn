@@ -1,0 +1,3194 @@
+{:count 702,
+ :country "belarus",
+ :country-code "BY",
+ :dataset :art,
+ :generated-at "2026-05-26T06:03:23.257426Z",
+ :positions
+ [{:name "Art Line",
+   :longitude 23.7390328,
+   :latitude 52.0956354,
+   :source :openstreetmap}
+  {:name "DEI",
+   :longitude 27.5663221,
+   :latitude 53.9147776,
+   :source :openstreetmap,
+   :homepage "https://dei.by/"}
+  {:name "OK16",
+   :longitude 27.5779824,
+   :latitude 53.8886515,
+   :source :openstreetmap,
+   :homepage "https://www.ok16.by/"}
+  {:name "Абласны цэнтр творчасці",
+   :longitude 30.3263819,
+   :latitude 53.9098017,
+   :source :openstreetmap,
+   :homepage "http://uocvr.by/"}
+  {:name "Абрыс Клуб",
+   :longitude 23.7139378,
+   :latitude 52.0888786,
+   :source :openstreetmap,
+   :homepage "https://abrys.by",
+   :locality "Брэст"}
+  {:name "Авіямузей",
+   :longitude 30.2397681,
+   :latitude 53.9453,
+   :source :openstreetmap}
+  {:name "Авіямузей пад адкрытым небам",
+   :longitude 28.0333289,
+   :latitude 53.892315,
+   :source :openstreetmap}
+  {:name "Адміністрацыя мемарыльнага комплексу",
+   :longitude 27.9395296,
+   :latitude 54.3335664,
+   :source :openstreetmap}
+  {:name "Акопы",
+   :longitude 27.5428622,
+   :latitude 54.2153404,
+   :source :openstreetmap}
+  {:name "Акопы — сядзіба маці і сёстраў Янкі Купалы.",
+   :longitude 27.5290877,
+   :latitude 54.1970113,
+   :source :openstreetmap}
+  {:name "Алея вайсковай славы",
+   :longitude 30.2016153,
+   :latitude 55.1854355,
+   :source :openstreetmap}
+  {:name "Альбуць - мемарыяльная сядзіба Якуба Коласа",
+   :longitude 26.7810666,
+   :latitude 53.447839,
+   :source :openstreetmap}
+  {:name "Амфітэатр",
+   :longitude 24.348552,
+   :latitude 52.2028426,
+   :source :openstreetmap}
+  {:name "Амфітэатр",
+   :longitude 30.2976629,
+   :latitude 53.9265446,
+   :source :openstreetmap}
+  {:name "Анатамічны музей",
+   :longitude 23.8203565,
+   :latitude 53.7015629,
+   :source :openstreetmap}
+  {:name "Антыбахус",
+   :longitude 26.5248406,
+   :latitude 52.7693984,
+   :source :openstreetmap}
+  {:name "Аптэка-музей",
+   :longitude 23.8311286,
+   :latitude 53.6784838,
+   :source :openstreetmap,
+   :homepage "https://am.biotest.by/",
+   :locality "Гродна"}
+  {:name "Арт-галерея",
+   :longitude 23.706979,
+   :latitude 52.07272,
+   :source :openstreetmap}
+  {:name "арт-парк Саўлукоў-Мэбля",
+   :longitude 23.7027969,
+   :latitude 52.0931296,
+   :source :openstreetmap}
+  {:name "Арт-прастора",
+   :longitude 30.2032088,
+   :latitude 55.1952041,
+   :source :openstreetmap,
+   :homepage "https://www.vitebskavangard.by/art-prostranstvo/"}
+  {:name "Арт-прастора Upgrade",
+   :longitude 30.1955099,
+   :latitude 55.19876,
+   :source :openstreetmap}
+  {:name "Арт-прастора «Кирпичи»",
+   :longitude 27.5876816,
+   :latitude 53.9031864,
+   :source :openstreetmap,
+   :homepage "https://chillirecordsdir.wixsite.com/studio",
+   :locality "Мінск"}
+  {:name "Арт-цэнтр «Крок»",
+   :longitude 27.5303271,
+   :latitude 53.9064906,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Арт-цэнтр Марка Шагала",
+   :longitude 30.2020867,
+   :latitude 55.1998471,
+   :source :openstreetmap,
+   :homepage "http://chagall.vitebsk.museum.by/be"}
+  {:name "Археалагічны музей",
+   :longitude 23.8075897,
+   :latitude 52.5675476,
+   :source :openstreetmap}
+  {:name "Арцель",
+   :longitude 27.5913462,
+   :latitude 53.9182549,
+   :source :openstreetmap}
+  {:name "Аршанская гарадская мастацкая галерэя В.А. Грамыка",
+   :longitude 30.4227223,
+   :latitude 54.5073225,
+   :source :openstreetmap,
+   :homepage "http://gromyko.orsha.museum.by/be"}
+  {:name "Аршанскі дзяржаўны цэнтр дзіцячай творчасці",
+   :longitude 30.4145804,
+   :latitude 54.5048661,
+   :source :openstreetmap}
+  {:name "Ашмянскі краязнаўчы музей імя Францішка Багушэвіча",
+   :longitude 25.9340419,
+   :latitude 54.4243529,
+   :source :openstreetmap}
+  {:name "Бабруйскі краязнаўчы музей",
+   :longitude 29.2276851,
+   :latitude 53.1352862,
+   :source :openstreetmap,
+   :homepage "https://bobruisk-museum.com/"}
+  {:name "Баркавіцкая дзіцячая школа мастацтваў",
+   :longitude 28.3271793,
+   :latitude 55.6729162,
+   :source :openstreetmap}
+  {:name "Барозаўскі гісторыка-краязнаўчы музей",
+   :longitude 24.9833879,
+   :latitude 52.5334749,
+   :source :openstreetmap,
+   :homepage "http://bereza.museum.by/"}
+  {:name "Батлейка",
+   :longitude 27.5583444,
+   :latitude 55.2115223,
+   :source :openstreetmap}
+  {:name "Баявой і працоўнай славы",
+   :longitude 25.9197477,
+   :latitude 53.2727,
+   :source :openstreetmap}
+  {:name "Бердаўскі народны гісторыкакраязнаўчы музей",
+   :longitude 25.5110559,
+   :latitude 53.9262768,
+   :source :openstreetmap}
+  {:name "Брынёўскі сельскі дом культуры",
+   :longitude 28.1832495,
+   :latitude 52.1875116,
+   :source :openstreetmap}
+  {:name "Брэсцкая абласная філармонія",
+   :longitude 23.6857111,
+   :latitude 52.0995013,
+   :source :openstreetmap}
+  {:name "Брэсцкі абласны краязнаўчы музей",
+   :longitude 23.6893308,
+   :latitude 52.0901292,
+   :source :openstreetmap}
+  {:name "Брэсцкі музей чыгуначнай тэхнікі",
+   :longitude 23.6721888,
+   :latitude 52.0856549,
+   :source :openstreetmap,
+   :homepage "https://youtu.be/Bj_5_jBthWw"}
+  {:name "Будынак духоўнага вучылішча",
+   :longitude 31.0192556,
+   :latitude 52.4278679,
+   :source :openstreetmap}
+  {:name "Быхаўскі раённы гісторыка-краязнаўчы музей",
+   :longitude 30.2463753,
+   :latitude 53.5177464,
+   :source :openstreetmap,
+   :homepage
+   "http://byhov.museum.by/;https://vk.com/bykhowmus;https://www.instagram.com/bykhow_museum/;https://ok.ru/group/54015399166046"}
+  {:name "Бягомльскі музей народнай славы",
+   :longitude 28.0604144,
+   :latitude 54.7329383,
+   :source :openstreetmap,
+   :homepage "http://begoml.museum.by/",
+   :locality "Бягомль"}
+  {:name "Вагон-музей быту вязняў лагеру",
+   :longitude 27.70539,
+   :latitude 53.8375682,
+   :source :openstreetmap}
+  {:name "Ваенна-гістарычны комплекс «Партызанскі лагер»",
+   :longitude 27.2287677,
+   :latitude 53.6031665,
+   :source :openstreetmap}
+  {:name "Ваенна-гістарычны музей імя К. С. Заслонава",
+   :longitude 30.3738016,
+   :latitude 54.5181433,
+   :source :openstreetmap,
+   :homepage "http://zaslonov.orsha.museum.by/be"}
+  {:name "Ваенна-гістарычны музей імя Суворава",
+   :longitude 24.3552662,
+   :latitude 52.2096787,
+   :source :openstreetmap}
+  {:name "Валеўскі народны гісторыка-краязнаўчы музей",
+   :longitude 25.8922809,
+   :latitude 53.4624454,
+   :source :openstreetmap,
+   :locality "Валеўка"}
+  {:name "Валынецкі краязнаўчы музей імя І. Д. Чэрскага",
+   :longitude 28.1946327,
+   :latitude 55.7131435,
+   :source :openstreetmap,
+   :homepage "https://volynets.museum.by/",
+   :locality "Валынцы"}
+  {:name "Верхнядзвінскі гісторыка-краязнаўчы музей",
+   :longitude 27.9344148,
+   :latitude 55.779625,
+   :source :openstreetmap,
+   :homepage "http://v-dvinsk.museum.by",
+   :locality "Верхнядзвінск"}
+  {:name "Веткаўскі музей",
+   :longitude 31.1705855,
+   :latitude 52.5593865,
+   :source :openstreetmap,
+   :homepage "http://vetka.museum.by/"}
+  {:name "Воздух",
+   :longitude 31.0046809,
+   :latitude 52.4304166,
+   :source :openstreetmap,
+   :homepage "http://vaschenko.museum.by/"}
+  {:name "Волковысский военно-исторический музей им. П. И. Багратиона",
+   :longitude 24.472832,
+   :latitude 53.1616461,
+   :source :openstreetmap,
+   :homepage "http://volkovysk.museum.by"}
+  {:name "Выгонощанская фортеция",
+   :longitude 25.9160727,
+   :latitude 52.6167124,
+   :source :openstreetmap}
+  {:name "Выстава \"Радыёэпоха\"",
+   :longitude 27.5844433,
+   :latitude 53.9137319,
+   :source :openstreetmap}
+  {:name "Выстава старых аўто ДАІ",
+   :longitude 27.5253898,
+   :latitude 52.782573,
+   :source :openstreetmap}
+  {:name "Выставачная зала",
+   :longitude 28.6488386,
+   :latitude 55.5344576,
+   :source :openstreetmap}
+  {:name "Выставачная зала",
+   :longitude 26.017689,
+   :latitude 53.1306585,
+   :source :openstreetmap}
+  {:name "Выставачная зала",
+   :longitude 29.1397252,
+   :latitude 54.6574968,
+   :source :openstreetmap}
+  {:name "Выставачная зала музея сучаснага мастацтва",
+   :longitude 30.2018458,
+   :latitude 55.182259,
+   :source :openstreetmap}
+  {:name "Выставачны цэнтр",
+   :longitude 29.2648187,
+   :latitude 52.0499591,
+   :source :openstreetmap}
+  {:name "Выставочный зал",
+   :longitude 26.8616629,
+   :latitude 51.8945119,
+   :source :openstreetmap}
+  {:name "Выстаўка ваенных аўтамабіляў",
+   :longitude 27.1194263,
+   :latitude 53.6731289,
+   :source :openstreetmap}
+  {:name
+   "Вілейская дзіцячая школа мастацтваў імя М.А. Казінца (корпус № 2)",
+   :longitude 26.911123,
+   :latitude 54.487226,
+   :source :openstreetmap,
+   :homepage "https://pl.wikipedia.org/wiki/Kasyno_wojskowe"}
+  {:name "Вілейскі краязнаўчы музей",
+   :longitude 26.917453,
+   :latitude 54.496196,
+   :source :openstreetmap,
+   :homepage "http://vilmuseum.by/about/museum-history/"}
+  {:name "Вільчыцкая дзіцячая школа мастацтваў",
+   :longitude 30.3465081,
+   :latitude 53.783646,
+   :source :openstreetmap}
+  {:name "Галерэя «Мастацтва»",
+   :longitude 27.5530377,
+   :latitude 53.8972286,
+   :source :openstreetmap,
+   :homepage "https://artgallery.by/",
+   :locality "Мінск"}
+  {:name "Галерэя мастацтваў",
+   :longitude 24.9692486,
+   :latitude 52.527997,
+   :source :openstreetmap,
+   :locality "Бяроза"}
+  {:name "Галерэя мастацтваў ім. У.С. Садзіна",
+   :longitude 27.5521859,
+   :latitude 53.0284205,
+   :source :openstreetmap,
+   :homepage "http://slutsk.museum.by/node/47161",
+   :locality "Слуцк"}
+  {:name "Галерэя сучаснага мастацтва",
+   :longitude 27.5807981,
+   :latitude 53.9139961,
+   :source :openstreetmap}
+  {:name "Галерэя Тызенгаўза",
+   :longitude 23.8337969,
+   :latitude 53.6849518,
+   :source :openstreetmap,
+   :homepage "http://t-gallery.grodno.by/"}
+  {:name "Гальшанская дзіцячая школа мастацтваў",
+   :longitude 26.0089756,
+   :latitude 54.2566428,
+   :source :openstreetmap,
+   :homepage "https://dsi-golshany.schools.by/"}
+  {:name "Ганчарня",
+   :longitude 26.8778553,
+   :latitude 53.7402542,
+   :source :openstreetmap,
+   :homepage "https://parksula.by/by/belarus-kraj-zamkov"}
+  {:name "Гарадоцкі музей",
+   :longitude 29.9835086,
+   :latitude 55.4626288,
+   :source :openstreetmap}
+  {:name "Гарадскі Дом Культуры",
+   :longitude 28.5049717,
+   :latitude 54.2258425,
+   :source :openstreetmap}
+  {:name "Гарадскі палац культуры",
+   :longitude 27.5431946,
+   :latitude 52.7833911,
+   :source :openstreetmap}
+  {:name "Гарадскі цэнтр культуры",
+   :longitude 29.744405,
+   :latitude 52.6317678,
+   :source :openstreetmap,
+   :locality "Першамайскі мікрараён"}
+  {:name "Гарацкі цэнтр культуры",
+   :longitude 27.7648279,
+   :latitude 54.8920244,
+   :source :openstreetmap}
+  {:name "Глускі раённы гісторыка-краязнаўчы музей",
+   :longitude 28.6781676,
+   :latitude 52.8964742,
+   :source :openstreetmap,
+   :homepage "http://glusk.museum.by/"}
+  {:name "Глыбоцкі гісторыка-этнаграфічны музей",
+   :longitude 27.4671668,
+   :latitude 55.2265572,
+   :source :openstreetmap}
+  {:name "Глыбоцкі гісторыка-этнаграфічны музей",
+   :longitude 27.6844823,
+   :latitude 55.1423713,
+   :source :openstreetmap,
+   :homepage "http://glubmusej.by/be"}
+  {:name "Голубицкий сельский дом культуры",
+   :longitude 28.291014,
+   :latitude 52.1065974,
+   :source :openstreetmap}
+  {:name "Гомельскі гісторыка-краязнаўчы музей",
+   :longitude 31.0330934,
+   :latitude 52.5055046,
+   :source :openstreetmap}
+  {:name "Горацкі раённы гісторыка-этнаграфічны музей",
+   :longitude 30.9866132,
+   :latitude 54.2862893,
+   :source :openstreetmap}
+  {:name "Гродзенская Выставачная зала",
+   :longitude 23.8439531,
+   :latitude 53.6858398,
+   :source :openstreetmap,
+   :homepage
+   "https://grodno-museum.by/ru/tseny/muzej-istorii-gorodnitsy/"}
+  {:name "Гродзенскі дзяржаўны музей гісторыі рэлігіі",
+   :longitude 23.8257533,
+   :latitude 53.6778265,
+   :source :openstreetmap,
+   :homepage "http://muzej.by/",
+   :locality "Гродна"}
+  {:name "Гудзевіцкі літаратурна-краязнаўчы музей",
+   :longitude 24.1747187,
+   :latitude 53.3707157,
+   :source :openstreetmap,
+   :homepage "https://gudevichi-muzey.narod.ru/"}
+  {:name "Гістарычна-мемарыяльны музей «Сядзіба Нямцэвічаў»",
+   :longitude 23.6379274,
+   :latitude 52.1557845,
+   :source :openstreetmap,
+   :homepage "https://nemtsevichi.by/",
+   :locality "Скокі"}
+  {:name "Гістарычны музей",
+   :longitude 31.7157506,
+   :latitude 53.6957475,
+   :source :openstreetmap,
+   :locality "Крычаў"}
+  {:name "гісторыка – этнаграфічны музей",
+   :longitude 27.6277771,
+   :latitude 55.6181547,
+   :source :openstreetmap}
+  {:name "Гісторыка-археалагічны комплекс «Старажытны Тураў»",
+   :longitude 27.7232858,
+   :latitude 52.0733152,
+   :source :openstreetmap,
+   :homepage "http://zhitkovichi.gomel-region.by/ru/Turov_muzey-ru/"}
+  {:name "Гісторыка-краязнаўчы музей",
+   :longitude 27.8047244,
+   :latitude 53.1017589,
+   :source :openstreetmap}
+  {:name "Гісторыка-краязнаўчы музей",
+   :longitude 26.6796338,
+   :latitude 52.7232148,
+   :source :openstreetmap,
+   :homepage "https://deniskovichi.schools.by/pages/shkolnyj-muzej"}
+  {:name "Гісторыка-краязнаўчы музей",
+   :longitude 30.6867994,
+   :latitude 54.572209,
+   :source :openstreetmap}
+  {:name "Гісторыка-краязнаўчы музей",
+   :longitude 30.975415,
+   :latitude 53.8079784,
+   :source :openstreetmap}
+  {:name "Гісторыка-краязнаўчы музей",
+   :longitude 27.1275285,
+   :latitude 53.6852222,
+   :source :openstreetmap,
+   :locality "Дзяржынск"}
+  {:name "Гісторыка-краязнаўчы музей",
+   :longitude 26.6674417,
+   :latitude 53.2268993,
+   :source :openstreetmap,
+   :locality "Нясвіж"}
+  {:name "Гісторыка-краязнаўчы музей",
+   :longitude 28.6428332,
+   :latitude 53.3021188,
+   :source :openstreetmap}
+  {:name "Гісторыка-культурны музей",
+   :longitude 27.537053,
+   :latitude 54.9121168,
+   :source :openstreetmap}
+  {:name "Гісторыка-этнаграфічны музей",
+   :longitude 30.9160961,
+   :latitude 52.919431,
+   :source :openstreetmap,
+   :homepage "http://chechersk.museum.by/be"}
+  {:name
+   "Гісторыка-этнаграфічны музей пры храме Уваскрэшання Хрыстова г. Мінска",
+   :longitude 27.6040138,
+   :latitude 53.9561573,
+   :source :openstreetmap}
+  {:name "Гісторыка-інфармацыйны цэнтр",
+   :longitude 27.4714323,
+   :latitude 53.9387671,
+   :source :openstreetmap,
+   :homepage "https://historycenter.beltelecom.by/"}
+  {:name "Гісторыя Фолюша",
+   :longitude 23.7790053,
+   :latitude 53.6565382,
+   :source :openstreetmap}
+  {:name "Даліна анёлаў",
+   :longitude 29.301851,
+   :latitude 52.0306824,
+   :source :openstreetmap,
+   :homepage "https://dalina.by/"}
+  {:name "Дараганаўскі краязнаўчы музей",
+   :longitude 28.4915535,
+   :latitude 53.1734371,
+   :source :openstreetmap}
+  {:name "Дварэц культуры прафсаюзаў",
+   :longitude 23.7692714,
+   :latitude 52.0995955,
+   :source :openstreetmap}
+  {:name "Детский клуб Акварелька",
+   :longitude 28.0911231,
+   :latitude 53.4967576,
+   :source :openstreetmap}
+  {:name "Детский центр \"Машины помощники\"",
+   :longitude 27.6288854,
+   :latitude 53.9470108,
+   :source :openstreetmap}
+  {:name "Дзяржаўны музей гісторыі беларускай літаратуры",
+   :longitude 27.5571998,
+   :latitude 53.9087021,
+   :source :openstreetmap,
+   :homepage "http://bellitmuseum.by/"}
+  {:name
+   "Дзяржаўны музей гісторыі тэатральнай і музычнай культуры Рэспублікі Беларусь",
+   :longitude 27.5595034,
+   :latitude 53.9051659,
+   :source :openstreetmap,
+   :homepage
+   "https://histmuseum.by/muzej-istorii-teatralnoj-i-muzykalnoj-kultury-respubliki-belarus/",
+   :locality "Мінск"}
+  {:name "Дзіцячая музычная школа мастацтваў",
+   :longitude 25.303245,
+   :latitude 53.8907669,
+   :source :openstreetmap}
+  {:name "Дзіцячая харэаграфічная школа",
+   :longitude 26.0256573,
+   :latitude 53.1279888,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 30.9780233,
+   :latitude 54.0412232,
+   :source :openstreetmap,
+   :homepage
+   "https://dribin.gov.by/sotsialnaya-sfera/kultura/itemlist/category/234-det-isk"}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 27.5450699,
+   :latitude 52.7891156,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 29.4630962,
+   :latitude 55.0449248,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 28.692308,
+   :latitude 54.8871475,
+   :source :openstreetmap,
+   :homepage "http://lepel.museum.by/"}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 31.4047611,
+   :latitude 53.3342727,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 26.2639463,
+   :latitude 53.0407978,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 27.2019323,
+   :latitude 52.0551582,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 28.7666234,
+   :latitude 54.2793914,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў",
+   :longitude 28.0032366,
+   :latitude 52.7903875,
+   :source :openstreetmap}
+  {:name "Дзіцячая школа мастацтваў імя Дамарада",
+   :longitude 29.1893406,
+   :latitude 53.1689899,
+   :source :openstreetmap}
+  {:name "Дзіцячы музей",
+   :longitude 28.7788266,
+   :latitude 55.4830374,
+   :source :openstreetmap,
+   :homepage "http://children.polotsk.museum.by"}
+  {:name "Дзіцячы музей міфалогіі лесу",
+   :longitude 27.2925485,
+   :latitude 53.9969789,
+   :source :openstreetmap,
+   :homepage
+   "https://zaslaue.by/nashy-ab-ekty/dzicjachy-muzej-mifalogii-i-lesu/"}
+  {:name "Дзіцячы цэнтр творчасці",
+   :longitude 27.2578499,
+   :latitude 54.0120999,
+   :source :openstreetmap}
+  {:name "Дзіцячы цэнтр тэатра і кіно",
+   :longitude 27.4595768,
+   :latitude 53.9054815,
+   :source :openstreetmap}
+  {:name "ДК «Дарсай»",
+   :longitude 27.4856235,
+   :latitude 53.9162427,
+   :source :openstreetmap}
+  {:name "ДК «Меліяратар»",
+   :longitude 29.9870584,
+   :latitude 51.9094592,
+   :source :openstreetmap,
+   :locality "Хойнікі"}
+  {:name "ДК Будаўнік",
+   :longitude 29.2574811,
+   :latitude 52.0468362,
+   :source :openstreetmap}
+  {:name "Добрушскі раённы цэнтр дадатковай адукацыі",
+   :longitude 31.3279757,
+   :latitude 52.4014706,
+   :source :openstreetmap,
+   :homepage "https://cdo-dobrush.schools.by/"}
+  {:name "Дом Валянціна Таўлая",
+   :longitude 25.3022452,
+   :latitude 53.8864389,
+   :source :openstreetmap,
+   :homepage "https://lixmuseum.by/en/the-museum/literary-activity/"}
+  {:name "Дом дзіцячай творчасці",
+   :longitude 29.3350754,
+   :latitude 52.1218827,
+   :source :openstreetmap}
+  {:name "Дом дзіцячай творчасці",
+   :longitude 31.7300508,
+   :latitude 54.0221611,
+   :source :openstreetmap,
+   :locality "Мсціслаў"}
+  {:name "Дом дзіцячай творчасці",
+   :longitude 31.0049112,
+   :latitude 53.444693,
+   :source :openstreetmap}
+  {:name "Дом дзіцячай творчасці",
+   :longitude 27.1949175,
+   :latitude 52.0516064,
+   :source :openstreetmap}
+  {:name "Дом Культуры",
+   :longitude 25.5655654,
+   :latitude 53.4108061,
+   :source :openstreetmap}
+  {:name "Дом Культуры",
+   :longitude 26.3084446,
+   :latitude 52.6250839,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 25.1528084,
+   :latitude 52.1875668,
+   :source :openstreetmap,
+   :locality "Драгічын"}
+  {:name "Дом Культуры",
+   :longitude 25.3758744,
+   :latitude 53.0364,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 29.1614421,
+   :latitude 54.8647155,
+   :source :openstreetmap}
+  {:name "дом культуры",
+   :longitude 24.0825431,
+   :latitude 53.607541,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 25.8520934,
+   :latitude 52.8900006,
+   :source :openstreetmap}
+  {:name "Дом Культуры",
+   :longitude 26.2667671,
+   :latitude 53.0373134,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 25.878553,
+   :latitude 53.1379113,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 26.8558854,
+   :latitude 53.6948827,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 31.466722,
+   :latitude 52.3019395,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 26.4582279,
+   :latitude 53.4559735,
+   :source :openstreetmap}
+  {:name "Дом Культуры",
+   :longitude 24.1859063,
+   :latitude 53.4562138,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 24.3983289,
+   :latitude 52.5991845,
+   :source :openstreetmap,
+   :locality "Новыя Засімавічы"}
+  {:name "Дом культуры",
+   :longitude 26.0907504,
+   :latitude 54.4740069,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 25.560486,
+   :latitude 51.9797878,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 29.3639083,
+   :latitude 52.5742779,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 27.347323,
+   :latitude 52.0772405,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 29.0080046,
+   :latitude 54.3016924,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 24.3526733,
+   :latitude 52.7036072,
+   :source :openstreetmap,
+   :locality "Клепачы"}
+  {:name "Дом культуры",
+   :longitude 26.132418,
+   :latitude 53.1516727,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 32.1327593,
+   :latitude 53.2451542,
+   :source :openstreetmap}
+  {:name "Дом Культуры",
+   :longitude 25.6047898,
+   :latitude 52.9461996,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 28.6813074,
+   :latitude 53.3607843,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 25.7667382,
+   :latitude 52.98663,
+   :source :openstreetmap}
+  {:name "Дом культуры «Чырвоная Буда»",
+   :longitude 31.842052,
+   :latitude 53.7086695,
+   :source :openstreetmap}
+  {:name "Дом культуры тэкстыльшчыкаў",
+   :longitude 26.04177,
+   :latitude 53.146972,
+   :source :openstreetmap}
+  {:name "Дом наглядчыка",
+   :longitude 23.6250771,
+   :latitude 53.8617267,
+   :source :openstreetmap,
+   :locality "Тартак"}
+  {:name "Дом народнай творчасці",
+   :longitude 26.4623273,
+   :latitude 52.7369316,
+   :source :openstreetmap,
+   :locality "деревня Ганцевичи"}
+  {:name "Дом перніка",
+   :longitude 27.5357278,
+   :latitude 53.8967974,
+   :source :openstreetmap,
+   :homepage "https://pernik.by"}
+  {:name "Дом рамёстваў",
+   :longitude 29.757887,
+   :latitude 52.6278956,
+   :source :openstreetmap,
+   :homepage "http://svetlogorsk.museum.by/be"}
+  {:name "Дом рамёстваў",
+   :longitude 26.4359435,
+   :latitude 52.7593051,
+   :source :openstreetmap,
+   :homepage "http://gnckult.by/dom-remesel/"}
+  {:name "Дом рамёстваў",
+   :longitude 28.6134587,
+   :latitude 55.174705,
+   :source :openstreetmap}
+  {:name "Дом рамёстваў",
+   :longitude 30.7956436,
+   :latitude 55.0293423,
+   :source :openstreetmap}
+  {:name "Дом рамёстваў",
+   :longitude 30.3003406,
+   :latitude 54.3293619,
+   :source :openstreetmap}
+  {:name "Дом рамёстваў",
+   :longitude 28.0622728,
+   :latitude 54.0171512,
+   :source :openstreetmap,
+   :locality "Смалявічы"}
+  {:name "дом рамёстваў",
+   :longitude 28.5434694,
+   :latitude 52.7292502,
+   :source :openstreetmap}
+  {:name "Дом рамёстваў",
+   :longitude 26.5305631,
+   :latitude 53.7902684,
+   :source :openstreetmap}
+  {:name "Дом рамёстваў «Стары Млын»",
+   :longitude 26.8418507,
+   :latitude 55.1131108,
+   :source :openstreetmap,
+   :homepage "http://postavy.of.by/postavy-stary-mlyn-dom-remesel/"}
+  {:name "Дом творчасці",
+   :longitude 29.2307286,
+   :latitude 53.1452591,
+   :source :openstreetmap}
+  {:name "Дом Творчасці",
+   :longitude 25.1525269,
+   :latitude 52.1838755,
+   :source :openstreetmap,
+   :locality "Драгічын"}
+  {:name "Дом ткачыхі",
+   :longitude 28.8657742,
+   :latitude 53.0914601,
+   :source :openstreetmap}
+  {:name "Дом траўніка - Музей народнай медыцыны",
+   :longitude 25.4150655,
+   :latitude 52.1848937,
+   :source :openstreetmap,
+   :homepage
+   "https://ivanovo.brest-region.gov.by/index.php?option=com_content&view=article&id=23247%3A2013-08-23-09-25-35&catid=805%3A2013-08-23-07-46-09&Itemid=386&lang=ru"}
+  {:name "Дом фальклёру",
+   :longitude 27.6877653,
+   :latitude 53.7367483,
+   :source :openstreetmap}
+  {:name "Дом школьніка",
+   :longitude 26.0230776,
+   :latitude 53.1223911,
+   :source :openstreetmap}
+  {:name "Дом экалагічнай асветы",
+   :longitude 28.3115409,
+   :latitude 54.7465974,
+   :source :openstreetmap,
+   :homepage "https://www.berezinsky.by/"}
+  {:name "Дом-музей (драў.)",
+   :longitude 27.1948341,
+   :latitude 54.0913361,
+   :source :openstreetmap,
+   :homepage
+   "https://kupala-museum.by/muzej/filiyaly/filiyal-vyazynka",
+   :locality "Вязынка"}
+  {:name "Дом-музей акадэміка Высоцкага М.С.",
+   :longitude 27.0133229,
+   :latitude 52.9657955,
+   :source :openstreetmap}
+  {:name "Дом-музей Аркадзя Куляшова",
+   :longitude 32.0763378,
+   :latitude 53.2817312,
+   :source :openstreetmap}
+  {:name "Дом-Музей беларускага побыту",
+   :longitude 26.7298659,
+   :latitude 54.544579,
+   :source :openstreetmap,
+   :homepage "https://zabrodje.com/mus3.php"}
+  {:name "Дом-музей Гапановича",
+   :longitude 26.6664367,
+   :latitude 53.1837017,
+   :source :openstreetmap}
+  {:name "Дом-музей Лагвіновіча Івана Пятровіча",
+   :longitude 26.6043954,
+   :latitude 52.5266444,
+   :source :openstreetmap}
+  {:name "Дом-музей Максіма Багдановіча",
+   :longitude 23.8377839,
+   :latitude 53.6872769,
+   :source :openstreetmap,
+   :homepage "https://bagdanovichmuseum.by/"}
+  {:name "Дом-музей Марка Шагала",
+   :longitude 30.190624,
+   :latitude 55.2003477,
+   :source :openstreetmap,
+   :homepage "http://chagall.vitebsk.museum.by/be"}
+  {:name "Дом-музей народнага клуба «Белыя вароны»",
+   :longitude 28.1288689,
+   :latitude 55.868381,
+   :source :openstreetmap}
+  {:name "Дом-музей Элізы Ажэшка",
+   :longitude 23.8395139,
+   :latitude 53.6841715,
+   :source :openstreetmap}
+  {:name "Дом-музей Ігара Лучанка",
+   :longitude 28.1410168,
+   :latitude 53.5038259,
+   :source :openstreetmap}
+  {:name "Дом-музей імя А.Ф. Купрыянавай",
+   :longitude 28.3507453,
+   :latitude 54.1034547,
+   :source :openstreetmap}
+  {:name "Дом-музей імя І.П. Мележа",
+   :longitude 29.6547422,
+   :latitude 51.9386501,
+   :source :openstreetmap,
+   :homepage "http://melezh.hoiniki.museum.by",
+   :locality "Глінішча"}
+  {:name "Дом-сядзіба Міцкевічаў, XIX ст.",
+   :longitude 26.1152412,
+   :latitude 53.2786844,
+   :source :openstreetmap}
+  {:name "Дом-сядзіба І.Х. Каладзеева",
+   :longitude 28.5321852,
+   :latitude 54.2256212,
+   :source :openstreetmap}
+  {:name "Драгічынская дзіцячая харэаграфічная школа мастацтваў",
+   :longitude 25.1587233,
+   :latitude 52.1861441,
+   :source :openstreetmap,
+   :homepage "http://d-cult.by/?view=show_article&article_id=50"}
+  {:name "Драгічынская дзіцячая школа мастацтваў",
+   :longitude 25.1632413,
+   :latitude 52.1858388,
+   :source :openstreetmap,
+   :homepage "http://d-cult.by/?view=show_article&article_id=49",
+   :locality "Драгічын"}
+  {:name "Дрыбінскі раённы гісторыка-этнаграфічны музей",
+   :longitude 31.0930328,
+   :latitude 54.1162295,
+   :source :openstreetmap}
+  {:name
+   "ДУ «Мемарыяльны комплекс «Брэсцкая крэпасць-герой» экспазіцыя «Абарона Усходняга форта»",
+   :longitude 23.6594896,
+   :latitude 52.0882087,
+   :source :openstreetmap,
+   :homepage
+   "https://www.brest-fortress.by/ekspozitsii/ekspozitsiya-oborona-vostochnogo-forta",
+   :locality "Кобрынскае ўмацаванне"}
+  {:name "ДУК «Хойніцкі раённы краязнаўчы музей»",
+   :longitude 29.9635139,
+   :latitude 51.8837231,
+   :source :openstreetmap,
+   :homepage "https://hoiniki.museum.by/be"}
+  {:name "Ельскі краязнаўчы музей",
+   :longitude 29.1578277,
+   :latitude 51.8071406,
+   :source :openstreetmap}
+  {:name "Ешыбот Эц-Хаім",
+   :longitude 26.528236,
+   :latitude 54.0910755,
+   :source :openstreetmap}
+  {:name "Жабінкаўскі раённы гісторыка-краязнаўчы музей",
+   :longitude 24.0073619,
+   :latitude 52.2342268,
+   :source :openstreetmap}
+  {:name "Жлобінскі гісторыка-краязнаўчы музей",
+   :longitude 30.0302419,
+   :latitude 52.8933098,
+   :source :openstreetmap}
+  {:name "Жодзінскі краязнаўчы музей",
+   :longitude 28.3614784,
+   :latitude 54.0987312,
+   :source :openstreetmap}
+  {:name "Жывая гісторыя горада",
+   :longitude 23.8448491,
+   :latitude 53.7021381,
+   :source :openstreetmap}
+  {:name "Заастравецкі сельскі дом культуры - аддзяленне № 6",
+   :longitude 26.778258,
+   :latitude 52.8985512,
+   :source :openstreetmap,
+   :locality "Заастравечча"}
+  {:name "Забаўляльны цэнтр «Феерыя»",
+   :longitude 24.8160925,
+   :latitude 53.1498041,
+   :source :openstreetmap}
+  {:name "Зала гісторыі пажарнай службы магілёўскай вобласці",
+   :longitude 30.3357017,
+   :latitude 53.8991935,
+   :source :openstreetmap,
+   :homepage
+   "https://mchs.gov.by/ministerstvo/napravleniya-deyatelnosti/istoriya-pozharnogo-dela/muzey-mchs/muzey-v-mogileve/",
+   :locality "Магілёў"}
+  {:name "Замкавы комплекс Мір",
+   :longitude 26.4732702,
+   :latitude 53.4512362,
+   :source :openstreetmap,
+   :homepage "https://mirzamak.by/",
+   :locality "Мір"}
+  {:name "Здзітаўскі фальварак",
+   :longitude 25.2712957,
+   :latitude 52.4222964,
+   :source :openstreetmap}
+  {:name "Зэльвенская дзіцячая школа мастацтваў",
+   :longitude 24.8128612,
+   :latitude 53.1488711,
+   :source :openstreetmap,
+   :homepage "http://dshi.zelva-kultura.by/"}
+  {:name "Зямля бацькоў",
+   :longitude 23.8012812,
+   :latitude 53.7076812,
+   :source :openstreetmap}
+  {:name "Зімовы сад",
+   :longitude 29.5042636,
+   :latitude 53.2286499,
+   :source :openstreetmap}
+  {:name "Зімовы сад",
+   :longitude 31.0138904,
+   :latitude 52.4188794,
+   :source :openstreetmap,
+   :locality "Гомель"}
+  {:name "Кабінет-музей акадэміка Юрыя Астроўскага",
+   :longitude 23.8168144,
+   :latitude 53.6999818,
+   :source :openstreetmap}
+  {:name "Казематы V бастыёна (98 АГАД)",
+   :longitude 23.6637816,
+   :latitude 52.0856081,
+   :source :openstreetmap}
+  {:name "Калінкавіцкая дзіцячая школа мастацтваў",
+   :longitude 29.343142,
+   :latitude 52.1325174,
+   :source :openstreetmap}
+  {:name "Камянецкая Дзіцячая школа мастацтваў",
+   :longitude 23.8204781,
+   :latitude 52.403518,
+   :source :openstreetmap}
+  {:name "Камянецкая дзіцячая школа мастацтваў",
+   :longitude 23.9337171,
+   :latitude 52.3208929,
+   :source :openstreetmap,
+   :locality "Пелішча"}
+  {:name "Канцэртная заля «Віцебск»",
+   :longitude 30.2111091,
+   :latitude 55.1948455,
+   :source :openstreetmap,
+   :homepage "https://www.gck.by/koncertnyj-zal-vitebsk",
+   :locality "парк Фрунзэ"}
+  {:name "Капыльскі раённы краязнаўчы музей",
+   :longitude 27.0909882,
+   :latitude 53.1521368,
+   :source :openstreetmap}
+  {:name "Карат",
+   :longitude 23.8171121,
+   :latitude 53.695309,
+   :source :openstreetmap,
+   :homepage "https://school16grodno.wixsite.com/karat"}
+  {:name "Кармянскі музей П.М. Лепяшынскага",
+   :longitude 30.8709543,
+   :latitude 53.1901875,
+   :source :openstreetmap,
+   :homepage "http://korma.museum.by/"}
+  {:name "Кароўчынскі Дом рамёстваў",
+   :longitude 30.8432023,
+   :latitude 54.0479406,
+   :source :openstreetmap}
+  {:name "Картинная галерея Г.К.Ващенко",
+   :longitude 31.0008308,
+   :latitude 52.4285779,
+   :source :openstreetmap,
+   :homepage "http://vaschenko.museum.by/"}
+  {:name "Карцінная галерэя",
+   :longitude 30.270277,
+   :latitude 51.7902585,
+   :source :openstreetmap,
+   :locality "Брагін"}
+  {:name "Карцінная галерэя «Традыцыя»",
+   :longitude 29.740199,
+   :latitude 52.6266298,
+   :source :openstreetmap}
+  {:name "Касцюковіцкі раённы краязнаўчы музей",
+   :longitude 32.0548228,
+   :latitude 53.3462334,
+   :source :openstreetmap}
+  {:name "Квантум",
+   :longitude 27.4787464,
+   :latitude 53.8611525,
+   :source :openstreetmap,
+   :homepage "https://kvantumminsk.by",
+   :locality "Мінск"}
+  {:name "Кватэра-музей М.К.Сеўрука",
+   :longitude 26.6700709,
+   :latitude 53.2204989,
+   :source :openstreetmap,
+   :homepage "https://sevruk.museum.by/"}
+  {:name "Кватэрнік",
+   :longitude 27.5910087,
+   :latitude 53.9082174,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 27.3086879,
+   :latitude 53.9134107,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 25.4147032,
+   :latitude 53.8854974,
+   :source :openstreetmap,
+   :locality "Першамайскі"}
+  {:name "клуб",
+   :longitude 28.5431368,
+   :latitude 53.4363634,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 30.081945,
+   :latitude 53.1260279,
+   :source :openstreetmap,
+   :locality "Шчыбрын"}
+  {:name "Клуб",
+   :longitude 29.8300325,
+   :latitude 51.9116942,
+   :source :openstreetmap,
+   :locality "Клівы"}
+  {:name "Клуб",
+   :longitude 28.7990409,
+   :latitude 52.3074644,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 31.2766054,
+   :latitude 52.4745339,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 26.3363408,
+   :latitude 53.0514289,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 23.9241992,
+   :latitude 53.2893765,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 27.7350627,
+   :latitude 53.80748,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 26.1089348,
+   :latitude 53.3563692,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 26.1574398,
+   :latitude 53.1100038,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 25.8463862,
+   :latitude 53.2293654,
+   :source :openstreetmap}
+  {:name "Клуб",
+   :longitude 26.0687814,
+   :latitude 53.2856206,
+   :source :openstreetmap}
+  {:name "Клуб-музей Чэслава Немэна",
+   :longitude 24.829691,
+   :latitude 53.7645169,
+   :source :openstreetmap,
+   :locality "Старыя Васілішкі"}
+  {:name "Клімавіцкі раённы краязнаўчы музей",
+   :longitude 31.9621793,
+   :latitude 53.6111686,
+   :source :openstreetmap}
+  {:name "Косаўскі палац",
+   :longitude 25.1215763,
+   :latitude 52.7656288,
+   :source :openstreetmap,
+   :locality "Косава"}
+  {:name "Краснасельскі дом культуры",
+   :longitude 24.4296293,
+   :latitude 53.2595406,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 30.3870673,
+   :latitude 52.3740783,
+   :source :openstreetmap,
+   :homepage "http://rechitsa.museum.by",
+   :locality "Рэчыца"}
+  {:name "Краязнаўчы музей",
+   :longitude 28.4152915,
+   :latitude 53.7146415,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 26.5142862,
+   :latitude 54.0898869,
+   :source :openstreetmap,
+   :homepage "https://volozhyn.museum.by/",
+   :locality "Валожын"}
+  {:name "Краязнаўчы музей",
+   :longitude 29.5059711,
+   :latitude 51.8008951,
+   :source :openstreetmap,
+   :homepage "https://narovlya.museum.by/be"}
+  {:name "Краязнаўчы музей",
+   :longitude 26.0147347,
+   :latitude 53.1342401,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 26.2385346,
+   :latitude 53.2970846,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 27.1393415,
+   :latitude 53.2743974,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 27.5396628,
+   :latitude 52.7891527,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 30.2994547,
+   :latitude 54.2016722,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 29.3461815,
+   :latitude 53.4831571,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 28.501177,
+   :latitude 54.2305424,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 30.2621531,
+   :latitude 55.1287417,
+   :source :openstreetmap,
+   :homepage "http://vrgkm.museum.by"}
+  {:name "Краязнаўчы музей",
+   :longitude 28.0956118,
+   :latitude 54.0298813,
+   :source :openstreetmap,
+   :locality "Смалявічы"}
+  {:name "Краязнаўчы музей",
+   :longitude 31.7318671,
+   :latitude 54.0165291,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 31.4008196,
+   :latitude 53.3360365,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 26.1420814,
+   :latitude 53.5695506,
+   :source :openstreetmap}
+  {:name "Краязнаўчы музей",
+   :longitude 26.427275,
+   :latitude 52.7635028,
+   :source :openstreetmap,
+   :homepage "http://gantsevichi.museum.by/"}
+  {:name
+   "Краязнаўчы музей партызанскага краю імя Васіля Захаравіча Каржа",
+   :longitude 27.2794443,
+   :latitude 52.4990384,
+   :source :openstreetmap}
+  {:name "Крошынскі вясковы",
+   :longitude 26.1575839,
+   :latitude 53.2019651,
+   :source :openstreetmap}
+  {:name "Крошынскі краязнаўчы музей",
+   :longitude 26.145387,
+   :latitude 53.1976304,
+   :source :openstreetmap}
+  {:name "Крупскі гісторыка-краязнаўчы музей",
+   :longitude 29.1403872,
+   :latitude 54.3194241,
+   :source :openstreetmap}
+  {:name "Крылы",
+   :longitude 23.856389,
+   :latitude 53.7070971,
+   :source :openstreetmap}
+  {:name "Крычаўскі раённы краязнаўчы музей",
+   :longitude 31.7125506,
+   :latitude 53.6880434,
+   :source :openstreetmap,
+   :homepage "http://potyomkin.by"}
+  {:name "Кузня «У Алеся»",
+   :longitude 28.4657726,
+   :latitude 54.2645101,
+   :source :openstreetmap}
+  {:name "Купалаўскі мемарыяльны запаведнік «Ляўкі»",
+   :longitude 30.3241246,
+   :latitude 54.3460068,
+   :source :openstreetmap,
+   :homepage "https://kupala-museum.by/muzej/filiyaly/filiyal-lyauki"}
+  {:name "Курсы малявання ArtClass",
+   :longitude 27.4214384,
+   :latitude 53.9099014,
+   :source :openstreetmap,
+   :homepage "https://artclass.by/",
+   :locality "Мінск"}
+  {:name
+   "Лагойскі гісторыка-краязнаўчы музей імя Канстанціна і Яўстаха Тышкевічаў",
+   :longitude 27.8403639,
+   :latitude 54.2049652,
+   :source :openstreetmap,
+   :homepage "https://logoysk.museum.by/be",
+   :locality "Лагойск"}
+  {:name "Лапацінская бібліятэка-музей А. Блока",
+   :longitude 26.3338774,
+   :latitude 52.0211659,
+   :source :openstreetmap}
+  {:name "Лапаціцкі дом культуры",
+   :longitude 30.8798981,
+   :latitude 53.5652408,
+   :source :openstreetmap}
+  {:name "Летні амфітэатр",
+   :longitude 30.2102888,
+   :latitude 55.1914613,
+   :source :openstreetmap}
+  {:name "Лининская детская музыкальная школа искусств",
+   :longitude 26.6390643,
+   :latitude 52.2977112,
+   :source :openstreetmap}
+  {:name "Литературно-краеведческий музей имени Достоевского",
+   :longitude 25.6684343,
+   :latitude 52.2378864,
+   :source :openstreetmap}
+  {:name "Литературный музей Евгении Янищиц",
+   :longitude 25.8053237,
+   :latitude 52.2841748,
+   :source :openstreetmap}
+  {:name "Лошыцкая сядзіба",
+   :longitude 27.5785229,
+   :latitude 53.8508895,
+   :source :openstreetmap,
+   :homepage "https://loshytsa.museum.by/",
+   :locality "Мінск"}
+  {:name "Лужкоўская дзіцячая школа мастацтваў",
+   :longitude 27.8731985,
+   :latitude 55.3524984,
+   :source :openstreetmap}
+  {:name "Лідскі гісторыка-мастацкі музей",
+   :longitude 25.2959127,
+   :latitude 53.8916047,
+   :source :openstreetmap,
+   :homepage "http://lida.museum.by/"}
+  {:name "Лідскі раённы Палац культуры",
+   :longitude 25.3068284,
+   :latitude 53.8914519,
+   :source :openstreetmap}
+  {:name "Літаратурна-краязнаўчы музей",
+   :longitude 24.3908453,
+   :latitude 53.5599226,
+   :source :openstreetmap,
+   :homepage "https://cvrgrodroo.wixsite.com/museummilkowska/"}
+  {:name "Літаратурна-краязнаўчы музей Якуба Коласа",
+   :longitude 26.1564465,
+   :latitude 52.134306,
+   :source :openstreetmap}
+  {:name "Літаратурна-этнаграфічны музей Якуба Коласа",
+   :longitude 26.5168794,
+   :latitude 52.6254994,
+   :source :openstreetmap,
+   :homepage "http://lusino.gancevichi.edu.by/ru/main.aspx?guid=1081"}
+  {:name "Літаратурны музей Кузьмы Чорнага",
+   :longitude 26.9918186,
+   :latitude 53.0724633,
+   :source :openstreetmap}
+  {:name "Літаратурны музей Міхася Рудкоўскага",
+   :longitude 26.6080705,
+   :latitude 52.8527277,
+   :source :openstreetmap,
+   :locality "Востраў"}
+  {:name "Мабільны музей-лабараторыя",
+   :longitude 27.5715814,
+   :latitude 53.9065437,
+   :source :openstreetmap}
+  {:name
+   "Магілёўскі абласны краязнаўчы музей імя Еўдакіма Раманавіча Раманава",
+   :longitude 30.3297756,
+   :latitude 53.895073,
+   :source :openstreetmap,
+   :homepage "https://museumhm.by/ru/category/vystavochnyj-zal/",
+   :locality "Магілёў"}
+  {:name "Магілёўскі абласны мастацкі музей імя П. В. Масленікава",
+   :longitude 30.3385922,
+   :latitude 53.9080713,
+   :source :openstreetmap}
+  {:name "Магілёўскі абласны Цэнтр тэхнічнай творчасці навучэнцаў",
+   :longitude 30.3490296,
+   :latitude 53.9048285,
+   :source :openstreetmap}
+  {:name "Майстэрня народных рамёстваў",
+   :longitude 31.3618102,
+   :latitude 52.3238789,
+   :source :openstreetmap}
+  {:name "Малецкі сельскі Дом культуры",
+   :longitude 24.7048816,
+   :latitude 52.488401,
+   :source :openstreetmap}
+  {:name "Малькавіцкая бібліятэка-музей",
+   :longitude 26.5815937,
+   :latitude 52.5395707,
+   :source :openstreetmap,
+   :locality "Малькавічы"}
+  {:name "Манылы холм",
+   :longitude 27.4009146,
+   :latitude 54.2249274,
+   :source :openstreetmap,
+   :homepage "https://www.instagram.com/manyly_holm/"}
+  {:name "Мастацкая галерэя",
+   :longitude 28.1490715,
+   :latitude 53.5118778,
+   :source :openstreetmap}
+  {:name "Мастацкая галерэя Art gallery",
+   :longitude 23.6939521,
+   :latitude 52.0917657,
+   :source :openstreetmap}
+  {:name "Мастацкая галерэя Сяргея Давідовіча",
+   :longitude 27.8432575,
+   :latitude 54.2000115,
+   :source :openstreetmap}
+  {:name "Мастацкая галерэя У.А.Мінейкі",
+   :longitude 29.2245121,
+   :latitude 52.0871051,
+   :source :openstreetmap}
+  {:name "Мастацкая галерэя Уладзіміра Пракапцова",
+   :longitude 31.3152797,
+   :latitude 52.4191672,
+   :source :openstreetmap,
+   :homepage "http://dobrush.museum.by/be"}
+  {:name "Мастацкая школа",
+   :longitude 27.473086,
+   :latitude 53.8534837,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Мастацкая школа",
+   :longitude 29.7487183,
+   :latitude 52.6349418,
+   :source :openstreetmap}
+  {:name "Мастацкая школа №2",
+   :longitude 27.6397756,
+   :latitude 53.8374912,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Мастацкі музей",
+   :longitude 23.6524183,
+   :latitude 52.0817338,
+   :source :openstreetmap,
+   :homepage
+   "http://brokm.vbreste.by/filial-hudojestvennyi-muzei.html"}
+  {:name "Мастацкі музей імя В.К.Бялыніцкага-Бірулі",
+   :longitude 29.708003,
+   :latitude 53.9957928,
+   :source :openstreetmap,
+   :homepage "biruli.maslenikov.museum.by"}
+  {:name "Мастерская 22",
+   :longitude 27.5445826,
+   :latitude 53.8685622,
+   :source :openstreetmap}
+  {:name "Мастоўскі дзяржаўны музей «Лес і чалавек»",
+   :longitude 24.5389647,
+   :latitude 53.4094767,
+   :source :openstreetmap,
+   :homepage
+   "https://mosty.grodno-region.by/ru/social/edin_den_inf/culture/lesichel"}
+  {:name "Мемарыяльны комплекс Хатынь",
+   :longitude 27.9426213,
+   :latitude 54.3345767,
+   :source :openstreetmap,
+   :homepage "https://www.khatyn.by/"}
+  {:name "Мемарыяльны комплекс “Хаваншчына”",
+   :longitude 25.3069013,
+   :latitude 52.5374091,
+   :source :openstreetmap,
+   :homepage "http://hovanschina.museum.by",
+   :locality "Корачын"}
+  {:name "Мемарыяльны музей-майстэрня Заіра Азгура",
+   :longitude 27.5785105,
+   :latitude 53.8992921,
+   :source :openstreetmap}
+  {:name "Мечтатели",
+   :longitude 27.5284621,
+   :latitude 53.9367144,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Моладзевы цэнтр",
+   :longitude 27.5604822,
+   :latitude 53.0320954,
+   :source :openstreetmap}
+  {:name "Моўчадскі краязнаўчы школьны музей",
+   :longitude 25.6793073,
+   :latitude 53.3167029,
+   :source :openstreetmap,
+   :homepage "http://molint.by/"}
+  {:name "Музей",
+   :longitude 26.6293518,
+   :latitude 55.3965741,
+   :source :openstreetmap}
+  {:name "Музей",
+   :longitude 27.4088209,
+   :latitude 52.2113805,
+   :source :openstreetmap}
+  {:name "Музей",
+   :longitude 30.5670296,
+   :latitude 52.7146393,
+   :source :openstreetmap}
+  {:name "Музей",
+   :longitude 29.6933887,
+   :latitude 54.4083257,
+   :source :openstreetmap}
+  {:name "музей",
+   :longitude 27.2205957,
+   :latitude 53.6107419,
+   :source :openstreetmap}
+  {:name "Музей",
+   :longitude 28.8805963,
+   :latitude 52.6351996,
+   :source :openstreetmap}
+  {:name "Музей \"Дом прыроды\" НВДЛГ (філіял БДТУ)",
+   :longitude 27.0567103,
+   :latitude 53.5518249,
+   :source :openstreetmap}
+  {:name "Музей SkyWay",
+   :longitude 28.1054187,
+   :latitude 53.5032499,
+   :source :openstreetmap}
+  {:name "Музей «Выратаваныя мастацкія каштоўнасці»",
+   :longitude 23.6863313,
+   :latitude 52.0866839,
+   :source :openstreetmap,
+   :homepage "http://values.brest.museum.by/"}
+  {:name "Музей «Нязведаная вузкакалейка»",
+   :longitude 25.1635449,
+   :latitude 53.8586584,
+   :source :openstreetmap,
+   :homepage "https://750mm.by/home/museum/",
+   :locality "Дзітва"}
+  {:name "Музей «Радзімазнаўства»",
+   :longitude 27.7900344,
+   :latitude 55.8011063,
+   :source :openstreetmap}
+  {:name "Музей «Чырвоны Бераг»",
+   :longitude 29.7840753,
+   :latitude 52.9652727,
+   :source :openstreetmap,
+   :homepage "http://krbereg.museum.by/",
+   :locality "Красны Бераг"}
+  {:name "Музей «Эпоха Леніна»",
+   :longitude 28.7613338,
+   :latitude 55.4754135,
+   :source :openstreetmap}
+  {:name "Музей ААТ «БЗА»",
+   :longitude 28.5105342,
+   :latitude 54.2376423,
+   :source :openstreetmap}
+  {:name "Музей ААТ Барысаўдрэў",
+   :longitude 28.5223535,
+   :latitude 54.2272893,
+   :source :openstreetmap}
+  {:name "Музей агню пры Мінскім гарадскім упраўленні МНС",
+   :longitude 27.5962193,
+   :latitude 53.9018178,
+   :source :openstreetmap,
+   :homepage
+   "https://mchs.gov.by/ministerstvo/napravleniya-deyatelnosti/istoriya-pozharnogo-dela/muzey-mchs/muzey-v-minske/",
+   :locality "Мінск"}
+  {:name "Музей Алаізы Пашкевіч (Цёткі)",
+   :longitude 24.5259828,
+   :latitude 53.7300821,
+   :source :openstreetmap}
+  {:name "Музей алімпійскай славы",
+   :longitude 29.2218848,
+   :latitude 53.1405932,
+   :source :openstreetmap}
+  {:name "Музей Анатоля Белага",
+   :longitude 28.2750064,
+   :latitude 53.0399572,
+   :source :openstreetmap}
+  {:name "Музей археалогіі",
+   :longitude 25.6109714,
+   :latitude 52.3168938,
+   :source :openstreetmap}
+  {:name "Музей аўтазаправачных калонак",
+   :longitude 23.8394071,
+   :latitude 53.7081773,
+   :source :openstreetmap}
+  {:name "Музей баявой садружнасці",
+   :longitude 28.8135831,
+   :latitude 55.9053605,
+   :source :openstreetmap,
+   :homepage "http://rossony.museum.by/",
+   :locality "Расоны"}
+  {:name "Музей баявой славы",
+   :longitude 30.9109086,
+   :latitude 53.5402504,
+   :source :openstreetmap}
+  {:name "Музей Баявой Славы",
+   :longitude 23.8055794,
+   :latitude 53.6916573,
+   :source :openstreetmap,
+   :homepage "https://sch23grodno.schools.by/pages/muzejnaja-komnata"}
+  {:name "Музей баявой славы",
+   :longitude 30.4324776,
+   :latitude 55.0268503,
+   :source :openstreetmap}
+  {:name "Музей баявой і працоўнай славы",
+   :longitude 29.6496105,
+   :latitude 52.66197,
+   :source :openstreetmap}
+  {:name "Музей баявой і працоўнай славы Гомсельмаша",
+   :longitude 30.9791943,
+   :latitude 52.4456957,
+   :source :openstreetmap}
+  {:name "Музей баявой і працоўнай славы часці",
+   :longitude 28.4738761,
+   :latitude 54.2276563,
+   :source :openstreetmap}
+  {:name "Музей беларускага народнага мастацтва",
+   :longitude 27.7392985,
+   :latitude 54.0600276,
+   :source :openstreetmap,
+   :homepage "https://folk.artmuseum.by/",
+   :locality "Аколіца"}
+  {:name "Музей Беларускага Палесся",
+   :longitude 26.1039695,
+   :latitude 52.1111427,
+   :source :openstreetmap,
+   :locality "Пінск"}
+  {:name "Музей беларускага саломапляцення",
+   :longitude 26.0231338,
+   :latitude 53.473538,
+   :source :openstreetmap}
+  {:name "Музей беларускай маляванкі",
+   :longitude 27.2798463,
+   :latitude 54.0086925,
+   :source :openstreetmap}
+  {:name "Музей БНТУ",
+   :longitude 27.5922753,
+   :latitude 53.9220302,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Музей Бортніцтва",
+   :longitude 26.4331277,
+   :latitude 52.106519,
+   :source :openstreetmap}
+  {:name "Музей будаўнічай тэхнікі",
+   :longitude 23.8296282,
+   :latitude 53.6591904,
+   :source :openstreetmap}
+  {:name "Музей бітвы за Днепр",
+   :longitude 30.8056125,
+   :latitude 51.9397546,
+   :source :openstreetmap}
+  {:name "Музей В.К. Бялыніцкага-Бірулі",
+   :longitude 30.3387125,
+   :latitude 53.8994541,
+   :source :openstreetmap}
+  {:name "Музей вавёркі",
+   :longitude 24.0154828,
+   :latitude 53.1906055,
+   :source :openstreetmap,
+   :homepage "http://belkaberest.museum.by/",
+   :locality "Вялікая Бераставіца"}
+  {:name "Музей вадазабеспячэння і вадаадвядзення",
+   :longitude 23.6951535,
+   :latitude 52.1230143,
+   :source :openstreetmap}
+  {:name "Музей вады і гісторыі прадпрыемства",
+   :longitude 25.9999226,
+   :latitude 53.1269585,
+   :source :openstreetmap}
+  {:name "Музей ваенай гісторыі",
+   :longitude 27.7127286,
+   :latitude 53.9473606,
+   :source :openstreetmap}
+  {:name "Музей ваеннай тэхнікі",
+   :longitude 28.7038502,
+   :latitude 54.9114212,
+   :source :openstreetmap}
+  {:name "Музей вайны — тэрыторыя Міру",
+   :longitude 23.6588535,
+   :latitude 52.0820664,
+   :source :openstreetmap}
+  {:name "Музей валуноў",
+   :longitude 24.9886103,
+   :latitude 54.0453072,
+   :source :openstreetmap}
+  {:name "Музей воінаў-інтэрнацыяналістаў",
+   :longitude 30.2073549,
+   :latitude 55.1650178,
+   :source :openstreetmap,
+   :homepage "http://afgan.museum.by/"}
+  {:name "Музей Воінскай Славы",
+   :longitude 23.848493,
+   :latitude 53.6730204,
+   :source :openstreetmap}
+  {:name "Музей Воінскай Славы",
+   :longitude 28.759055,
+   :latitude 55.4804897,
+   :source :openstreetmap,
+   :homepage "http://war.polotsk.museum.by"}
+  {:name "Музей вясковага побыту",
+   :longitude 27.7110109,
+   :latitude 54.2510416,
+   :source :openstreetmap}
+  {:name "Музей Вілейскага лясгаса",
+   :longitude 26.9925068,
+   :latitude 54.5569967,
+   :source :openstreetmap,
+   :locality "Куранец"}
+  {:name "музей Вільчкоўскага",
+   :longitude 25.7006881,
+   :latitude 53.3641709,
+   :source :openstreetmap}
+  {:name "Музей габрэйскага супраціўлення",
+   :longitude 25.8391345,
+   :latitude 53.5980075,
+   :source :openstreetmap,
+   :homepage "https://novmuseum.by/"}
+  {:name "Музей гарадскога пасажырскага транспарту",
+   :longitude 27.586973,
+   :latitude 53.8846417,
+   :source :openstreetmap,
+   :homepage
+   "https://minsktrans.by/o-nas/muzej-gorodskogo-passazhirskogo-transporta/"}
+  {:name "Музей геральдыкі",
+   :longitude 25.8252198,
+   :latitude 53.5993689,
+   :source :openstreetmap,
+   :homepage "https://kachangallery.com"}
+  {:name "Музей гістарычнай памяці",
+   :longitude 30.2739775,
+   :latitude 54.4171611,
+   :source :openstreetmap}
+  {:name "Музей гісторыі",
+   :longitude 27.1758133,
+   :latitude 52.0213981,
+   :source :openstreetmap}
+  {:name "Музей гісторыі архітэктуры Сафійскага сабора",
+   :longitude 28.7585815,
+   :latitude 55.4864197,
+   :source :openstreetmap,
+   :homepage "http://sophia.polotsk.museum.by/"}
+  {:name "Музей гісторыі Аўгустоўскага канала",
+   :longitude 23.7563276,
+   :latitude 53.86944,
+   :source :openstreetmap,
+   :locality "Нямнова"}
+  {:name "Музей гісторыі беларускага кіно",
+   :longitude 27.5486316,
+   :latitude 53.8973074,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Музей гісторыі беларускай чыгункі",
+   :longitude 27.5370631,
+   :latitude 53.8776799,
+   :source :openstreetmap,
+   :homepage "http://www.dksg.by/"}
+  {:name "Музей гісторыі БелТІЗА",
+   :longitude 27.5293789,
+   :latitude 53.9111683,
+   :source :openstreetmap,
+   :homepage "https://beltiz.by/struct/hist-menu/musey"}
+  {:name "Музей гісторыі вайны 1812 года",
+   :longitude 28.6036954,
+   :latitude 55.8871464,
+   :source :openstreetmap}
+  {:name "Музей гісторыі Вялікай Айчыннай Вайны",
+   :longitude 27.5378903,
+   :latitude 53.9163335,
+   :source :openstreetmap,
+   :homepage "http://warmuseum.by"}
+  {:name "Музей гісторыі віцебскага трамвая",
+   :longitude 30.2212713,
+   :latitude 55.1922265,
+   :source :openstreetmap}
+  {:name "Музей гісторыі г.Дзісна",
+   :longitude 28.2158603,
+   :latitude 55.5677458,
+   :source :openstreetmap,
+   :homepage "https://museum.dzisna.by/home",
+   :locality "Дзісна"}
+  {:name "Музей гісторыі горада",
+   :longitude 23.6816979,
+   :latitude 52.0951544,
+   :source :openstreetmap}
+  {:name "Музей гісторыі горада Мінска",
+   :longitude 27.5523854,
+   :latitude 53.9033378,
+   :source :openstreetmap,
+   :homepage
+   "https://www.minskmuseum.by/khudozhestvennaya-galereya-mikhaila-savitskogo",
+   :locality "Мінск"}
+  {:name "Музей гісторыі гімназіі",
+   :longitude 23.8524824,
+   :latitude 53.658154,
+   :source :openstreetmap}
+  {:name "Музей гісторыі дарожнай гаспадаркі",
+   :longitude 27.5110419,
+   :latitude 53.9074159,
+   :source :openstreetmap}
+  {:name "Музей гісторыі друку і фатаграфіі",
+   :longitude 31.0101796,
+   :latitude 52.4263188,
+   :source :openstreetmap}
+  {:name "Музей гісторыі заронаўскага краю",
+   :longitude 29.8894476,
+   :latitude 55.3008118,
+   :source :openstreetmap}
+  {:name "Музей гісторыі Клеччыны",
+   :longitude 26.6289304,
+   :latitude 53.066654,
+   :source :openstreetmap}
+  {:name "Музей гісторыі медыцыны Беларусі",
+   :longitude 27.5351412,
+   :latitude 53.8869588,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Музей гісторыі меліярацыі",
+   :longitude 28.0491866,
+   :latitude 52.6161078,
+   :source :openstreetmap}
+  {:name "Музей гісторыі НАН Беларусі",
+   :longitude 27.5985724,
+   :latitude 53.9206611,
+   :source :openstreetmap,
+   :homepage "https://kolasmuseum.by/"}
+  {:name "Музей гісторыі нацыянальна-рэвалюцыйнай вайны ў Іспаніі",
+   :longitude 25.9596133,
+   :latitude 53.1205677,
+   :source :openstreetmap}
+  {:name "Музей гісторыі пладаводства Беларусі",
+   :longitude 27.5103977,
+   :latitude 53.7386278,
+   :source :openstreetmap}
+  {:name "Музей гісторыі слуцкіх паясоў",
+   :longitude 27.55547,
+   :latitude 53.0244852,
+   :source :openstreetmap,
+   :homepage
+   "https://slutskiepoyasa.by/%d0%bc%d1%83%d0%b7%d0%b5%d0%b9/",
+   :locality "Слуцк"}
+  {:name "Музей гісторыі УА «ГДПЭК імя І. Шчаснага»",
+   :longitude 23.8407024,
+   :latitude 53.6972345,
+   :source :openstreetmap}
+  {:name "Музей гісторыі Шчучыншчыны",
+   :longitude 24.7410459,
+   :latitude 53.6106953,
+   :source :openstreetmap,
+   :homepage "http://ctdm.shhuchin.edu.by/main.aspx?guid=4471"}
+  {:name "Музей гісторыі і культуры горада Наваполацка",
+   :longitude 28.6456312,
+   :latitude 55.5382673,
+   :source :openstreetmap,
+   :locality "Наваполацк"}
+  {:name "Музей гісторыі і культуры жыдоў Беларусі",
+   :longitude 27.5637461,
+   :latitude 53.9228142,
+   :source :openstreetmap}
+  {:name "Музей гісторыі і побыту Гродна Януша Паруліса",
+   :longitude 23.8255214,
+   :latitude 53.6857934,
+   :source :openstreetmap,
+   :locality "Гродна"}
+  {:name "музей деревянных фигур",
+   :longitude 27.8971414,
+   :latitude 53.2764817,
+   :source :openstreetmap}
+  {:name "Музей Дзеда Талаша",
+   :longitude 28.6051527,
+   :latitude 52.1409231,
+   :source :openstreetmap}
+  {:name "Музей драўлянай лыжкі",
+   :longitude 28.9877815,
+   :latitude 53.8312691,
+   :source :openstreetmap,
+   :homepage "http://lyzhka.by"}
+  {:name "Музей дыстанцыі пуці",
+   :longitude 23.7065617,
+   :latitude 52.1088424,
+   :source :openstreetmap}
+  {:name "Музей зброі",
+   :longitude 25.0773604,
+   :latitude 52.6098465,
+   :source :openstreetmap,
+   :homepage "https://vsr.mil.by/2015/01/16/tajny-bronnoj-gory/"}
+  {:name "Музей землязнаўства БДУ",
+   :longitude 27.5481931,
+   :latitude 53.8931124,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "музей Канстанціна Міцкевіча",
+   :longitude 26.8197793,
+   :latitude 53.4195201,
+   :source :openstreetmap,
+   :homepage "https://kolasmuseum.by/branches/smolnya/",
+   :locality "Стоўбцы"}
+  {:name "Музей Карбышава Д. М.",
+   :longitude 23.8084089,
+   :latitude 53.6747253,
+   :source :openstreetmap,
+   :locality "Гродна"}
+  {:name "Музей касманаўтыкі імя П.Клімука",
+   :longitude 23.6017436,
+   :latitude 51.5613489,
+   :source :openstreetmap}
+  {:name "Музей ката",
+   :longitude 27.1396016,
+   :latitude 55.7688376,
+   :source :openstreetmap}
+  {:name "Музей кнігі",
+   :longitude 27.6457294,
+   :latitude 53.9314183,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nlb.by/content/uslugi/dopolnitelnye-uslugi/arenda-pomeshcheniy-i-oborudovaniya/galereya-labirint/"}
+  {:name "Музей конна-спартыўнага цэнтра «Ратамка»",
+   :longitude 27.3570829,
+   :latitude 53.9355811,
+   :source :openstreetmap}
+  {:name "Музей крыміналістыкі МУС",
+   :longitude 27.6373996,
+   :latitude 53.9113024,
+   :source :openstreetmap}
+  {:name "Музей Лего Las-Legas",
+   :longitude 27.4632874,
+   :latitude 53.9423904,
+   :source :openstreetmap,
+   :homepage "https://las-legas.by/"}
+  {:name "музей Ленскіх",
+   :longitude 26.8771962,
+   :latitude 53.74341,
+   :source :openstreetmap,
+   :homepage "https://parksula.by/by/belaruskaya-shlyaxta"}
+  {:name "Музей лесу",
+   :longitude 26.8567674,
+   :latitude 54.8786341,
+   :source :openstreetmap}
+  {:name "Музей лідскага бровара",
+   :longitude 25.3032179,
+   :latitude 53.8970495,
+   :source :openstreetmap,
+   :homepage "https://museum.lidskae.by/by"}
+  {:name "Музей мастацкага шкла",
+   :longitude 25.5001248,
+   :latitude 53.7197555,
+   :source :openstreetmap}
+  {:name "Музей мастацтва і рамеслаў",
+   :longitude 26.8722695,
+   :latitude 54.489265,
+   :source :openstreetmap}
+  {:name "Музей мастацтва і этнаграфіі імя Язэпа Драздовіча",
+   :longitude 27.7276048,
+   :latitude 55.4107285,
+   :source :openstreetmap,
+   :homepage "https://germanovichi.museum.by/",
+   :locality "Германавічы"}
+  {:name "Музей матацыклаў",
+   :longitude 24.1369615,
+   :latitude 53.8838552,
+   :source :openstreetmap}
+  {:name "Музей Маці",
+   :longitude 27.4557013,
+   :latitude 52.7251843,
+   :source :openstreetmap,
+   :homepage "http://soligorsk.city/museum/museum_mum/"}
+  {:name "Музей маці",
+   :longitude 26.0724237,
+   :latitude 52.1325262,
+   :source :openstreetmap}
+  {:name "Музей мемарыяльнага комплекса \"Дальва\"",
+   :longitude 27.9483197,
+   :latitude 54.5361,
+   :source :openstreetmap}
+  {:name "Музей музычных інструментаў М.А.Скрамблевіча",
+   :longitude 23.7644364,
+   :latitude 53.4043808,
+   :source :openstreetmap}
+  {:name "Музей мінералаў",
+   :longitude 27.6619463,
+   :latitude 54.0731006,
+   :source :openstreetmap}
+  {:name "Музей Мінскага трактарнага завода",
+   :longitude 27.6194073,
+   :latitude 53.8890156,
+   :source :openstreetmap,
+   :homepage "http://www.belarus-tractor.com",
+   :locality "Мінск"}
+  {:name "Музей мініяцюр «Страчаная спадчына»",
+   :longitude 25.8224373,
+   :latitude 53.5962593,
+   :source :openstreetmap}
+  {:name "Музей Напалеона Орды",
+   :longitude 25.3751269,
+   :latitude 52.109046,
+   :source :openstreetmap,
+   :homepage "http://napoleon.museum.by/",
+   :locality "Варацэвічы"}
+  {:name "Музей народнага побыту",
+   :longitude 28.3227205,
+   :latitude 53.6642072,
+   :source :openstreetmap}
+  {:name "Музей народнага побыту і старадаўных тэхналогій",
+   :longitude 23.9295654,
+   :latitude 52.6472199,
+   :source :openstreetmap}
+  {:name "Музей народнай архітэктуры і побыту",
+   :longitude 27.374128,
+   :latitude 53.832954,
+   :source :openstreetmap,
+   :homepage "https://etna.by/"}
+  {:name "Музей народнай славы",
+   :longitude 30.0516984,
+   :latitude 53.0809253,
+   :source :openstreetmap,
+   :homepage "https://rogachev.museum.by/be"}
+  {:name "Музей народнай славы",
+   :longitude 28.2215122,
+   :latitude 54.4984536,
+   :source :openstreetmap}
+  {:name "Музей народнай славы",
+   :longitude 28.2177855,
+   :latitude 54.3586952,
+   :source :openstreetmap}
+  {:name "Музей народнай славы",
+   :longitude 23.7503266,
+   :latitude 51.860794,
+   :source :openstreetmap}
+  {:name "Музей народнай славы",
+   :longitude 27.9995165,
+   :latitude 52.7928478,
+   :source :openstreetmap}
+  {:name "Музей народнай творчасці «Бездзежскі фартушок»",
+   :longitude 25.3097974,
+   :latitude 52.3128844,
+   :source :openstreetmap,
+   :homepage "https://www.fartushok.by/",
+   :locality "Бездзеж"}
+  {:name "Музей Обальскага камсамольскага падполля",
+   :longitude 29.2832882,
+   :latitude 55.3579624,
+   :source :openstreetmap,
+   :homepage "http://podpolie.obol.museum.by/",
+   :locality "Обаль"}
+  {:name "Музей пад адкрытым небам",
+   :longitude 28.1651519,
+   :latitude 52.1133698,
+   :source :openstreetmap}
+  {:name "Музей пажарнай справы",
+   :longitude 31.7248261,
+   :latitude 54.0214684,
+   :source :openstreetmap,
+   :locality "Мсціслаў"}
+  {:name "Музей Палаца Булгакаў",
+   :longitude 29.6887981,
+   :latitude 53.1555992,
+   :source :openstreetmap,
+   :homepage "http://museyjilichi.by",
+   :locality "Жылічы"}
+  {:name "Музей палешука",
+   :longitude 25.7844697,
+   :latitude 52.6100727,
+   :source :openstreetmap}
+  {:name "Музей памежнікаў",
+   :longitude 23.5613065,
+   :latitude 53.8574158,
+   :source :openstreetmap}
+  {:name "Музей партызанскага побыту",
+   :longitude 28.4693766,
+   :latitude 55.9425752,
+   :source :openstreetmap}
+  {:name "Музей партызанскай славы",
+   :longitude 28.9204439,
+   :latitude 51.9908974,
+   :source :openstreetmap}
+  {:name "Музей партызанскай славы",
+   :longitude 29.0432955,
+   :latitude 55.7991516,
+   :source :openstreetmap}
+  {:name "Музей Паўла Восіпавіча Сухога",
+   :longitude 27.6910596,
+   :latitude 55.1335227,
+   :source :openstreetmap,
+   :homepage
+   "https://schkola1.rooglub.gov.by/muzej-pavla-osipovicha-sukhogo.html"}
+  {:name "Музей Першай сусветнай вайны",
+   :longitude 26.7264769,
+   :latitude 54.5425969,
+   :source :openstreetmap,
+   :homepage "https://zabrodje.com/"}
+  {:name "Музей пошты",
+   :longitude 23.8377667,
+   :latitude 53.676766,
+   :source :openstreetmap}
+  {:name "Музей пры аграсядзібе «Поўсвіж»",
+   :longitude 28.7378363,
+   :latitude 54.8476442,
+   :source :openstreetmap,
+   :homepage "https://vk.com/pousvizh"}
+  {:name "Музей Прыроды",
+   :longitude 23.8017462,
+   :latitude 52.5725957,
+   :source :openstreetmap}
+  {:name "Музей прыроды",
+   :longitude 28.1569,
+   :latitude 52.1152507,
+   :source :openstreetmap,
+   :homepage "https://www.npp.by/about_national_park/museum/"}
+  {:name "Музей Прыроды",
+   :longitude 27.7512999,
+   :latitude 52.0641063,
+   :source :openstreetmap}
+  {:name "Музей пчалярства і казурак",
+   :longitude 24.9096161,
+   :latitude 53.1531078,
+   :source :openstreetmap}
+  {:name "Музей піва Аліварыя",
+   :longitude 27.5621196,
+   :latitude 53.9151252,
+   :source :openstreetmap,
+   :homepage "https://alivariamuseum.by/"}
+  {:name "Музей раённы гісторыка-краязнаўчы",
+   :longitude 29.796505,
+   :latitude 54.2482437,
+   :source :openstreetmap}
+  {:name "Музей Савецка-Польскай баявой садружнасці",
+   :longitude 31.1119811,
+   :latitude 54.4103447,
+   :source :openstreetmap}
+  {:name "Музей Сапегаў",
+   :longitude 24.8955727,
+   :latitude 52.8600197,
+   :source :openstreetmap,
+   :homepage "http://ruzhany.museum.by/",
+   :locality "Ружаны"}
+  {:name "Музей скейтбордынгу",
+   :longitude 27.5706338,
+   :latitude 53.8894295,
+   :source :openstreetmap}
+  {:name "Музей Славы Могилевщины",
+   :longitude 30.2562115,
+   :latitude 53.8659038,
+   :source :openstreetmap,
+   :locality "Магілёў"}
+  {:name
+   "Музей спажывецкай кааперацыі Беларусі і гісторыі навучальнай установы",
+   :longitude 26.0214615,
+   :latitude 53.1329249,
+   :source :openstreetmap}
+  {:name "Музей СПК“Колхоз“Родина”",
+   :longitude 29.9791151,
+   :latitude 53.9859385,
+   :source :openstreetmap,
+   :homepage "https://kolhozrodina.by/museum"}
+  {:name "Музей СССР",
+   :longitude 29.7383895,
+   :latitude 54.2791167,
+   :source :openstreetmap}
+  {:name "Музей старажытнай беларускай культуры",
+   :longitude 27.6026531,
+   :latitude 53.9167554,
+   :source :openstreetmap,
+   :homepage "https://kolasmuseum.by/"}
+  {:name "Музей старажытных рамёстваў «Дудуткі»",
+   :longitude 27.6842505,
+   :latitude 53.596157,
+   :source :openstreetmap,
+   :homepage "https://dudutki.by/",
+   :locality "Пціч"}
+  {:name "Музей сямʼі",
+   :longitude 25.5043837,
+   :latitude 53.9213785,
+   :source :openstreetmap}
+  {:name "Музей сярэднявечнага рыцарства",
+   :longitude 28.7719576,
+   :latitude 55.4842816,
+   :source :openstreetmap,
+   :homepage "http://walk.polotsk.museum.by/"}
+  {:name "музей сячкарні",
+   :longitude 26.5751567,
+   :latitude 54.316453,
+   :source :openstreetmap,
+   :locality "Талуі"}
+  {:name "Музей Тадэвуша Касцюшкі",
+   :longitude 25.1252366,
+   :latitude 52.7676145,
+   :source :openstreetmap,
+   :homepage
+   "https://zamok-kossovo.by/posetitelyam/memorialnyy-muzey-usadba-im-t-kostyushko/",
+   :locality "Косава"}
+  {:name "Музей Тодара Кляшторнага",
+   :longitude 28.8841035,
+   :latitude 55.0208382,
+   :source :openstreetmap}
+  {:name "Музей традыцыйнага ручнога ткацтва Паазерʼя",
+   :longitude 28.7681952,
+   :latitude 55.4880531,
+   :source :openstreetmap,
+   :homepage "http://tkach.polotsk.museum.by"}
+  {:name "музей традыцыйнай культуры",
+   :longitude 27.0386178,
+   :latitude 55.6340695,
+   :source :openstreetmap,
+   :homepage "http://braslav.museum.by/",
+   :locality "Браслаў"}
+  {:name "Музей тэхнікі",
+   :longitude 30.2536762,
+   :latitude 55.1877529,
+   :source :openstreetmap}
+  {:name "Музей Уладзіміра Караткевіча",
+   :longitude 30.4289317,
+   :latitude 54.5114658,
+   :source :openstreetmap,
+   :homepage "http://korotkevich.orsha.museum.by/be"}
+  {:name "Музей Фёдара Махнова",
+   :longitude 29.8772741,
+   :latitude 55.2256043,
+   :source :openstreetmap}
+  {:name "Музей халоднай вайны Бункер-77",
+   :longitude 24.7244051,
+   :latitude 53.5773946,
+   :source :openstreetmap}
+  {:name "Музей хлеба",
+   :longitude 30.6601361,
+   :latitude 52.9484923,
+   :source :openstreetmap}
+  {:name "Музей хлеба і зерня",
+   :longitude 26.4468942,
+   :latitude 54.6203522,
+   :source :openstreetmap,
+   :homepage "https://vadzianymlyn.by/be/galounaya/",
+   :locality "Жодзішкі"}
+  {:name "Музей хрысціянства",
+   :longitude 26.0056107,
+   :latitude 53.1435379,
+   :source :openstreetmap}
+  {:name "Музей цікавай навукі «Элементо»",
+   :longitude 27.484306,
+   :latitude 53.907855,
+   :source :openstreetmap,
+   :homepage "https://elemento.by/",
+   :locality "Мінск"}
+  {:name "Музей чарапах",
+   :longitude 29.4169619,
+   :latitude 52.8130979,
+   :source :openstreetmap,
+   :homepage
+   "http://www.rcvr.guo.by/e/868-informatsionno-ekologicheskiy-tsentr"}
+  {:name "Музей часового дела Беларуси",
+   :longitude 27.6173356,
+   :latitude 53.9275367,
+   :source :openstreetmap,
+   :homepage "https://museum.luch.by"}
+  {:name "Музей школьны",
+   :longitude 28.4111282,
+   :latitude 55.2863713,
+   :source :openstreetmap}
+  {:name "Музей Шмырова М. П.",
+   :longitude 30.2037517,
+   :latitude 55.2031185,
+   :source :openstreetmap,
+   :homepage "http://shmyrev.museum.by/"}
+  {:name "Музей этнаграфіі аг.Гоцк",
+   :longitude 27.1395843,
+   :latitude 52.5258881,
+   :source :openstreetmap}
+  {:name "Музей этнаграфіі і сялянскага побыту",
+   :longitude 25.168983,
+   :latitude 52.5074654,
+   :source :openstreetmap}
+  {:name "Музей Якароў",
+   :longitude 31.3664243,
+   :latitude 53.5398603,
+   :source :openstreetmap}
+  {:name "Музей Янкі Купалы",
+   :longitude 26.6694394,
+   :latitude 54.2366078,
+   :source :openstreetmap}
+  {:name "Музей Івана Сікоры",
+   :longitude 27.133705,
+   :latitude 55.323044,
+   :source :openstreetmap}
+  {:name "Музей ільну і побыту",
+   :longitude 25.805229,
+   :latitude 53.5881344,
+   :source :openstreetmap,
+   :homepage
+   "https://gimnazia1.yonovogrudok.by/%D0%BE%D0%B1-%D1%83%D1%87%D1%80%D0%B5%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-i%D0%BB%D1%8C%D0%BD%D1%83-i-%D0%BF%D0%BE%D0%B1%D1%8B%D1%82%D1%83"}
+  {:name "Музей імя І. П. Мележа",
+   :longitude 29.6598381,
+   :latitude 51.936044,
+   :source :openstreetmap}
+  {:name "Музей Ўладзіміра Караткевіча",
+   :longitude 27.5094308,
+   :latitude 53.8484075,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Музей-бібліятэка Сімяона Полацкага",
+   :longitude 28.7680345,
+   :latitude 55.4840959,
+   :source :openstreetmap,
+   :homepage "http://simeon.polotsk.museum.by/"}
+  {:name "Музей-галерэя «Янушкевічы»",
+   :longitude 27.055044,
+   :latitude 53.9675127,
+   :source :openstreetmap,
+   :homepage "https://jan-museum.by/",
+   :locality "Ракаў"}
+  {:name "Музей-дача Васіля Быкава",
+   :longitude 27.4588776,
+   :latitude 53.9707089,
+   :source :openstreetmap,
+   :locality "Ждановічы-6"}
+  {:name "Музей-запаведнік Нясвіж",
+   :longitude 26.6792836,
+   :latitude 53.2213446,
+   :source :openstreetmap}
+  {:name "Музей-кватэра З. М. Тусналобавай-Марчанка",
+   :longitude 28.773013,
+   :latitude 55.4805995,
+   :source :openstreetmap,
+   :homepage "http://tusnolobova.polotsk.museum.by/"}
+  {:name "Музей-кватэра Тусналобавай",
+   :longitude 29.6162529,
+   :latitude 55.2976364,
+   :source :openstreetmap}
+  {:name "Музей-кузня на Белай",
+   :longitude 23.7243507,
+   :latitude 52.5800661,
+   :source :openstreetmap}
+  {:name "Музей-Майстэрня Пушкара",
+   :longitude 29.2784009,
+   :latitude 52.0414421,
+   :source :openstreetmap}
+  {:name "Музей-сядзіба «Пружанскі палацык»",
+   :longitude 24.4575477,
+   :latitude 52.5653454,
+   :source :openstreetmap,
+   :homepage "http://museum.pruzhany.by/"}
+  {:name "Музей-сядзіба ганчара",
+   :longitude 26.4951503,
+   :latitude 51.8711819,
+   :source :openstreetmap}
+  {:name "Музей-сядзіба М. К. Агінскага",
+   :longitude 26.5230892,
+   :latitude 54.4202647,
+   :source :openstreetmap,
+   :homepage "http://oginskizalesse.by",
+   :locality "Залессе"}
+  {:name "Музей-сядзіба Максіма Багдановіча",
+   :longitude 27.0924652,
+   :latitude 54.2541137,
+   :source :openstreetmap,
+   :locality "Ракуцёўшчына"}
+  {:name "Музей-сядзіба Рэпіна «Здраўнёва»",
+   :longitude 30.3373573,
+   :latitude 55.3199372,
+   :source :openstreetmap}
+  {:name "Музей-сядзіба Францішка Багушэвіча",
+   :longitude 26.1762375,
+   :latitude 54.4412677,
+   :source :openstreetmap,
+   :homepage "https://bellit-kushliany.museum.by/"}
+  {:name "Музей-сядзіба Якуба Коласа",
+   :longitude 26.9099485,
+   :latitude 53.4728749,
+   :source :openstreetmap,
+   :homepage "https://kolas-lastok.museum.by/be"}
+  {:name "Музейна-выставачны комплекс",
+   :longitude 27.2902506,
+   :latitude 54.0040211,
+   :source :openstreetmap}
+  {:name "Музейная комната Пинского района",
+   :longitude 26.1328027,
+   :latitude 52.1837721,
+   :source :openstreetmap,
+   :homepage
+   "https://pinsk-region.by/достопримечательности/музеи/p-15353.html"}
+  {:name "Музейная экспазіцыя судовых экспертаў",
+   :longitude 23.8644513,
+   :latitude 53.6744761,
+   :source :openstreetmap}
+  {:name "Музейны пакой Захара Тарасевіча",
+   :longitude 23.8532882,
+   :latitude 53.6418614,
+   :source :openstreetmap}
+  {:name "Музейны пакой інтэрнацыянальнага сяброўства",
+   :longitude 23.8119641,
+   :latitude 53.7012421,
+   :source :openstreetmap}
+  {:name "Музеі слугі божага Яна Паўла II",
+   :longitude 27.3845094,
+   :latitude 55.1560673,
+   :source :openstreetmap}
+  {:name "Музычная гасцёўня Станіслава Манюшкі",
+   :longitude 28.0176144,
+   :latitude 53.756624,
+   :source :openstreetmap,
+   :homepage "http://cherven.museum.by/node/54862"}
+  {:name "Музычная школа",
+   :longitude 26.6693813,
+   :latitude 52.2916481,
+   :source :openstreetmap}
+  {:name "Музычная школа",
+   :longitude 30.3448595,
+   :latitude 52.3722955,
+   :source :openstreetmap,
+   :locality "Рэчыца"}
+  {:name "Музычная школа",
+   :longitude 24.2070548,
+   :latitude 53.5764157,
+   :source :openstreetmap}
+  {:name "Музычная школа",
+   :longitude 27.8649534,
+   :latitude 52.2161512,
+   :source :openstreetmap}
+  {:name "Музычная школа",
+   :longitude 26.6341251,
+   :latitude 53.067293,
+   :source :openstreetmap}
+  {:name "Музычная школа №1",
+   :longitude 26.0064429,
+   :latitude 53.1327484,
+   :source :openstreetmap}
+  {:name "Музычная школа №2",
+   :longitude 28.638075,
+   :latitude 53.297153,
+   :source :openstreetmap}
+  {:name "Музычная школа №3",
+   :longitude 26.0072864,
+   :latitude 53.1531102,
+   :source :openstreetmap}
+  {:name "Музэй Весейская школы",
+   :longitude 27.6700987,
+   :latitude 53.06059,
+   :source :openstreetmap}
+  {:name "Міжлескі сельскі дом культуры",
+   :longitude 25.0170493,
+   :latitude 52.3869313,
+   :source :openstreetmap}
+  {:name "Мінскі абласны краязнаўчы музей",
+   :longitude 26.837482,
+   :latitude 54.3094039,
+   :source :openstreetmap}
+  {:name "Мірскі пасад",
+   :longitude 26.4645137,
+   :latitude 53.4557871,
+   :source :openstreetmap}
+  {:name "Навагрудскі раённы цэнтр творчасці дзяцей і моладзі",
+   :longitude 25.819104,
+   :latitude 53.5928788,
+   :source :openstreetmap,
+   :homepage "https://cvrnov.schools.by/"}
+  {:name "Наваколасаўская дзіцячая школа мастацтваў",
+   :longitude 26.9269643,
+   :latitude 53.5174058,
+   :source :openstreetmap,
+   :homepage "https://www.stolbtsy.gov.by/ru/shkoly_isk/"}
+  {:name "Навучальны цэнтр «Акадэмія прыгажосці»",
+   :longitude 27.5048995,
+   :latitude 53.9127118,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Народны гісторыка-краязнаўчы музей Любчанскага краю",
+   :longitude 26.06426,
+   :latitude 53.7507538,
+   :source :openstreetmap}
+  {:name "Нацыянальны цэнтр мастацкай творчасці дзяцей і моладзі",
+   :longitude 27.5638151,
+   :latitude 53.898716,
+   :source :openstreetmap,
+   :homepage "https://nchtdm.by/",
+   :locality "Мінск"}
+  {:name "Нацыянальны цэнтр сучасных мастацтваў",
+   :longitude 27.5964875,
+   :latitude 53.9300118,
+   :source :openstreetmap,
+   :homepage "http://ncsm.by",
+   :locality "Мінск"}
+  {:name "Па старонках жыцця і творчасці М.Пташука",
+   :longitude 26.2880579,
+   :latitude 53.2497659,
+   :source :openstreetmap}
+  {:name "Павільён хадавой тэхнікі",
+   :longitude 27.2925685,
+   :latitude 54.0554329,
+   :source :openstreetmap}
+  {:name "Падкраіцкі сельскі Дом культуры",
+   :longitude 24.7221391,
+   :latitude 52.4360392,
+   :source :openstreetmap}
+  {:name "Пакой-музей народнага артыста РБ Дрынеўскага М.П.",
+   :longitude 27.8003398,
+   :latitude 51.8306386,
+   :source :openstreetmap}
+  {:name "Палац культуры",
+   :longitude 28.5996178,
+   :latitude 55.5870395,
+   :source :openstreetmap}
+  {:name "Палац культуры",
+   :longitude 24.9869636,
+   :latitude 52.5380628,
+   :source :openstreetmap}
+  {:name "Палац культуры",
+   :longitude 24.457159,
+   :latitude 52.558991,
+   :source :openstreetmap}
+  {:name "Палац творчасці дзяцей і моладзі",
+   :longitude 23.8233497,
+   :latitude 53.6820833,
+   :source :openstreetmap,
+   :homepage "http://www.dtdm-grodno.guo.by/",
+   :locality "Каложскі парк"}
+  {:name "Палеская веда",
+   :longitude 29.2693578,
+   :latitude 52.0467776,
+   :source :openstreetmap,
+   :locality "Мазыр"}
+  {:name "Палонкаўскі сельскі дом культуры",
+   :longitude 25.7368908,
+   :latitude 53.1406622,
+   :source :openstreetmap}
+  {:name "Парк",
+   :longitude 27.8580586,
+   :latitude 52.2184156,
+   :source :openstreetmap}
+  {:name "Парк",
+   :longitude 29.2380408,
+   :latitude 52.0401169,
+   :source :openstreetmap}
+  {:name "Парк воінскай славы",
+   :longitude 30.6829245,
+   :latitude 54.5729109,
+   :source :openstreetmap,
+   :homepage
+   "http://orsha.eu/rus/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/6243/"}
+  {:name "Партызанская вёска - выставачны комплекс",
+   :longitude 23.73275,
+   :latitude 53.6014153,
+   :source :openstreetmap}
+  {:name "Парыцкая дзіцячая школа мастацтваў",
+   :longitude 29.4217536,
+   :latitude 52.8051021,
+   :source :openstreetmap}
+  {:name "Пастаўскі краязнаўчы музей",
+   :longitude 26.8384583,
+   :latitude 55.1141213,
+   :source :openstreetmap,
+   :homepage "http://pastavy.museum.by/be"}
+  {:name "Петрыкаўскі гісторыка краязнаўчы музей",
+   :longitude 28.4975026,
+   :latitude 52.1243454,
+   :source :openstreetmap}
+  {:name "Полацкі краязнаўчы музей",
+   :longitude 28.7627791,
+   :latitude 55.4851264,
+   :source :openstreetmap,
+   :homepage "http://local.polotsk.museum.by",
+   :locality "Полацк"}
+  {:name
+   "Полесский государственный радиационно-экологический заповедник",
+   :longitude 30.016779,
+   :latitude 51.7870553,
+   :source :openstreetmap}
+  {:name "Поразаўскі дом культуры",
+   :longitude 24.3689865,
+   :latitude 52.9362041,
+   :source :openstreetmap}
+  {:name "Прамень",
+   :longitude 23.819283,
+   :latitude 53.6718312,
+   :source :openstreetmap,
+   :homepage "https://pramen-grodno.schools.by/"}
+  {:name "Прастора Хаіма Суціна",
+   :longitude 28.0093207,
+   :latitude 53.7549539,
+   :source :openstreetmap,
+   :homepage "https://soutine-smilovichi.by/",
+   :locality "Смілавічы"}
+  {:name "Прыбарскі сельскі савет",
+   :longitude 30.7616674,
+   :latitude 52.4141844,
+   :source :openstreetmap}
+  {:name "Прыватная мастацкая галерэя",
+   :longitude 27.7330976,
+   :latitude 55.4159188,
+   :source :openstreetmap}
+  {:name "Прыродна-экалагічны музей",
+   :longitude 28.7716855,
+   :latitude 55.4888035,
+   :source :openstreetmap,
+   :homepage "http://ecology.polotsk.museum.by/"}
+  {:name "Птушкі Беларусі і прамысловая птушкагадоўля",
+   :longitude 27.4396492,
+   :latitude 52.8072941,
+   :source :openstreetmap}
+  {:name "Пухавіцкі раённы краязнаўчы музей",
+   :longitude 28.1921773,
+   :latitude 53.5263183,
+   :source :openstreetmap,
+   :homepage "http://pukhovichi.museum.by"}
+  {:name "Раённы дом рамёстваў",
+   :longitude 26.5426158,
+   :latitude 54.4226949,
+   :source :openstreetmap}
+  {:name "раённы музей",
+   :longitude 31.005156,
+   :latitude 53.4508859,
+   :source :openstreetmap}
+  {:name "Раённы цэнтр дзіцяча-юнацкай творчасці",
+   :longitude 26.4250617,
+   :latitude 52.7592052,
+   :source :openstreetmap}
+  {:name "Раённы цэнтр дзіцячай творчасці",
+   :longitude 24.3470849,
+   :latitude 52.2081705,
+   :source :openstreetmap,
+   :homepage "http://rcdt.kobrin.edu.by/"}
+  {:name "Раённы цэнтр тэхнічнай творчасці дзяцей і юнацтва",
+   :longitude 24.4414269,
+   :latitude 53.1541778,
+   :source :openstreetmap}
+  {:name
+   "Ровенскаслабодскі гісторыка-культурны мемарыяльны музей «Памяць»",
+   :longitude 30.3187251,
+   :latitude 52.2306643,
+   :source :openstreetmap,
+   :locality "Ровенская Слабада"}
+  {:name "Рэтра-аўта",
+   :longitude 27.9673777,
+   :latitude 53.6758766,
+   :source :openstreetmap}
+  {:name "Салдаты перамогі",
+   :longitude 23.8268553,
+   :latitude 53.6492412,
+   :source :openstreetmap}
+  {:name "Салон-галерэя «Сцяна»",
+   :longitude 30.205198,
+   :latitude 55.1887119,
+   :source :openstreetmap,
+   :homepage "https://www.vitebskavangard.by/"}
+  {:name "Салон-майстэрня рамесніка",
+   :longitude 23.7487459,
+   :latitude 53.6078195,
+   :source :openstreetmap}
+  {:name "Свіслацкая дзіцячая школа мастацтваў",
+   :longitude 24.0949818,
+   :latitude 53.035991,
+   :source :openstreetmap,
+   :homepage "https://dsi-svisl.schools.by/"}
+  {:name "СДК",
+   :longitude 28.3535754,
+   :latitude 51.719318,
+   :source :openstreetmap}
+  {:name "СДК",
+   :longitude 26.0437217,
+   :latitude 53.0122942,
+   :source :openstreetmap}
+  {:name "СДК",
+   :longitude 25.6544391,
+   :latitude 53.2407181,
+   :source :openstreetmap}
+  {:name "СДК",
+   :longitude 25.8093506,
+   :latitude 53.1347205,
+   :source :openstreetmap}
+  {:name "СДК «Скепня»",
+   :longitude 30.2240031,
+   :latitude 52.7560705,
+   :source :openstreetmap}
+  {:name "Сельскі музей",
+   :longitude 28.5134411,
+   :latitude 53.6662445,
+   :source :openstreetmap}
+  {:name "Сельскі музей",
+   :longitude 30.4197021,
+   :latitude 53.2619595,
+   :source :openstreetmap}
+  {:name "Сенненскі гісторыка-краязнаўчы музей",
+   :longitude 29.7081907,
+   :latitude 54.811288,
+   :source :openstreetmap,
+   :locality "Сянно"}
+  {:name "Сенненскі Дом рамёстваў",
+   :longitude 29.6876359,
+   :latitude 54.8075061,
+   :source :openstreetmap,
+   :homepage "https://sennoremeslo.wixsite.com/dom-remesel"}
+  {:name "Скансэн па-уздзенску",
+   :longitude 27.219645,
+   :latitude 53.4601746,
+   :source :openstreetmap,
+   :homepage "http://uzda.museum.by/"}
+  {:name "Слонімскі раённы краязнаўчы музей імя І.І.Стаброўскага",
+   :longitude 25.3201884,
+   :latitude 53.0935605,
+   :source :openstreetmap,
+   :homepage "http://slmuz.by/",
+   :locality "Слонім"}
+  {:name "Слуцкая брама",
+   :longitude 26.6855192,
+   :latitude 53.2180034,
+   :source :openstreetmap}
+  {:name "Слуцкі краязнаўчы музей",
+   :longitude 27.5469367,
+   :latitude 53.023803,
+   :source :openstreetmap,
+   :homepage "http://slutsk.museum.by/",
+   :locality "Слуцк"}
+  {:name "Смаргонскі гісторыка-краязнаўчы музей",
+   :longitude 26.3920299,
+   :latitude 54.4780718,
+   :source :openstreetmap}
+  {:name "Смаргонскі раённы цэнтр творчасці дзяцей і моладзі",
+   :longitude 26.3984748,
+   :latitude 54.4790203,
+   :source :openstreetmap}
+  {:name "Смілавіцкі гарпасялковы Дом культуры",
+   :longitude 28.013157,
+   :latitude 53.7529289,
+   :source :openstreetmap,
+   :locality "Смілавічы"}
+  {:name "Советское детство",
+   :longitude 23.6959514,
+   :latitude 52.0855692,
+   :source :openstreetmap,
+   :homepage "https://www.instagram.com/kalidor_by/"}
+  {:name "Сталовіцкі сельскі клуб",
+   :longitude 26.039271,
+   :latitude 53.2138353,
+   :source :openstreetmap}
+  {:name "Старадарожскі раённы гісторыка-этнаграфічны музей",
+   :longitude 28.2650459,
+   :latitude 53.040202,
+   :source :openstreetmap}
+  {:name "Стары Менск",
+   :longitude 27.333985,
+   :latitude 53.8273615,
+   :source :openstreetmap,
+   :homepage "https://starymensk.by"}
+  {:name "Старыя аўто",
+   :longitude 28.6709603,
+   :latitude 54.8387921,
+   :source :openstreetmap}
+  {:name "Стаянка першабытнага чалавека. 25тыс гадоў",
+   :longitude 29.527855,
+   :latitude 51.9410607,
+   :source :openstreetmap}
+  {:name "Столинский районный краеведческий музей",
+   :longitude 26.8682421,
+   :latitude 51.8959686,
+   :source :openstreetmap}
+  {:name "Страна міні",
+   :longitude 27.5628432,
+   :latitude 53.9031723,
+   :source :openstreetmap,
+   :homepage "https://belarusmini.by/",
+   :locality "Мінск"}
+  {:name "Студыя А2",
+   :longitude 27.4764979,
+   :latitude 53.8455596,
+   :source :openstreetmap,
+   :homepage "http://студия-а2.бел",
+   :locality "Мінск"}
+  {:name "Студыя выяўленчага мастацтва Апельсін",
+   :longitude 30.9971707,
+   :latitude 52.4351126,
+   :source :openstreetmap}
+  {:name "Студыя Савецкага Мапеда Уладзіміра Гардзеева",
+   :longitude 30.2577903,
+   :latitude 55.1959967,
+   :source :openstreetmap,
+   :homepage "https://mopedmuseum.ru/"}
+  {:name "Сычкоўскі сельскі клуб",
+   :longitude 29.103771,
+   :latitude 53.2013702,
+   :source :openstreetmap}
+  {:name "Сядзіба Якуба Коласа (Міцкевічаў) у Акіньчыцах",
+   :longitude 26.7758904,
+   :latitude 53.4639089,
+   :source :openstreetmap}
+  {:name "Сядзіба-Музей Напалеона Орды",
+   :longitude 25.3550375,
+   :latitude 52.1219165,
+   :source :openstreetmap,
+   :homepage "http://napoleon.museum.by",
+   :locality "Варацэвічы"}
+  {:name "Сядзіба-музэй Васіля Быкава",
+   :longitude 28.3859675,
+   :latitude 55.1649664,
+   :source :openstreetmap,
+   :locality "Бычкі"}
+  {:name "Сядзібна-паркавы комплекс Скірмунтаў",
+   :longitude 25.7949436,
+   :latitude 52.2901617,
+   :source :openstreetmap}
+  {:name "Сіняя вечнасць",
+   :longitude 23.8394187,
+   :latitude 53.6531504,
+   :source :openstreetmap}
+  {:name "Творчая майстэрня «Талісман удачы»",
+   :longitude 27.5341453,
+   :latitude 53.9136366,
+   :source :openstreetmap,
+   :homepage "https://art-master.by"}
+  {:name "Творчая Прастора",
+   :longitude 23.8139109,
+   :latitude 53.6659529,
+   :source :openstreetmap}
+  {:name "Трагедыі Чарнобыля",
+   :longitude 29.897464,
+   :latitude 51.8817114,
+   :source :openstreetmap}
+  {:name "Тураўскі краязнаўчы музей",
+   :longitude 27.7314395,
+   :latitude 52.0673927,
+   :source :openstreetmap,
+   :homepage "http://turov.museum.by/",
+   :locality "Тураў"}
+  {:name "Туристический комплекс Вольный Мельник",
+   :longitude 25.3858785,
+   :latitude 53.9975261,
+   :source :openstreetmap}
+  {:name "УК «Дзятлаўскі дзяржаўны гісторыка-краязнаўчы музей»",
+   :longitude 25.4041648,
+   :latitude 53.4625326,
+   :source :openstreetmap,
+   :homepage "http://dyatlovo.museum.by/be"}
+  {:name "Ультрамарин",
+   :longitude 23.7058864,
+   :latitude 52.0944792,
+   :source :openstreetmap}
+  {:name "Ушацкі музей народнай славы імя У. Е. Лабанка",
+   :longitude 28.6099983,
+   :latitude 55.1795579,
+   :source :openstreetmap}
+  {:name "Ф. Э. Дзяржынскага",
+   :longitude 26.541786,
+   :latitude 53.8363428,
+   :source :openstreetmap,
+   :homepage "https://dzerzhinovo.museum.by/"}
+  {:name "Фабрыка арт-прастора",
+   :longitude 23.6909596,
+   :latitude 52.0967056,
+   :source :openstreetmap,
+   :homepage "https://www.instagram.com/prostranstvo_fabrika/"}
+  {:name "Фестывальны",
+   :longitude 23.83255,
+   :latitude 53.6817717,
+   :source :openstreetmap}
+  {:name "Фламінга",
+   :longitude 23.8510131,
+   :latitude 53.6967797,
+   :source :openstreetmap}
+  {:name "Форт V",
+   :longitude 23.672786,
+   :latitude 52.0474851,
+   :source :openstreetmap,
+   :homepage "https://brestcity.com/blog/brest-pyatyj-fort-foto-video"}
+  {:name "Фотагалерэя",
+   :longitude 28.2616908,
+   :latitude 55.1850547,
+   :source :openstreetmap}
+  {:name "Філармонія",
+   :longitude 29.2605797,
+   :latitude 52.0451286,
+   :source :openstreetmap}
+  {:name "Філіял Дзяржаўнага музея гісторыі беларускай літаратуры",
+   :longitude 26.9219555,
+   :latitude 54.1523799,
+   :source :openstreetmap}
+  {:name "філіял Крынічанскай дзіцячай музычнай школы",
+   :longitude 29.0058747,
+   :latitude 52.0443472,
+   :source :openstreetmap}
+  {:name "Філіял Цэнтра творчасці дзяцей і моладзі Цэнтральнага раёна",
+   :longitude 31.0198158,
+   :latitude 52.4488592,
+   :source :openstreetmap,
+   :homepage "http://www.cvr.iptv.by/"}
+  {:name "Хата брыгадзіра",
+   :longitude 25.2706677,
+   :latitude 53.3424248,
+   :source :openstreetmap}
+  {:name "Хата завозніка",
+   :longitude 27.6730049,
+   :latitude 53.5969429,
+   :source :openstreetmap,
+   :homepage "https://dudutki.by/bel/object/1219/"}
+  {:name "Хата-музей мастака і народнага разбяра Апалінарыя Пупко",
+   :longitude 26.7480886,
+   :latitude 53.8831317,
+   :source :openstreetmap}
+  {:name "Хатлянскі народны гісторыка-краязнаўчы музей",
+   :longitude 27.5574098,
+   :latitude 53.4043825,
+   :source :openstreetmap,
+   :locality "Хатляны"}
+  {:name "Хобі клуб",
+   :longitude 27.558336,
+   :latitude 53.896887,
+   :source :openstreetmap,
+   :homepage "http://hobbyclub.by"}
+  {:name "Хоцімскі гісторыка-краязнаўчы музей",
+   :longitude 32.5760601,
+   :latitude 53.4115783,
+   :source :openstreetmap,
+   :locality "Хоцімск"}
+  {:name "Художественная студия",
+   :longitude 27.5464757,
+   :latitude 53.8622052,
+   :source :openstreetmap}
+  {:name "Хутар «Неслуч»",
+   :longitude 26.7118133,
+   :latitude 54.839771,
+   :source :openstreetmap}
+  {:name "Центр народного творчества",
+   :longitude 31.0038949,
+   :latitude 52.4351527,
+   :source :openstreetmap}
+  {:name "Центр традиционной культуры и быта \"Спадчана Палесся\"",
+   :longitude 25.9250267,
+   :latitude 52.2631352,
+   :source :openstreetmap}
+  {:name "Цырк імя В.Абеля",
+   :longitude 30.914931,
+   :latitude 52.533255,
+   :source :openstreetmap}
+  {:name "Цэнтр адукацыйных паслуг",
+   :longitude 27.538743,
+   :latitude 53.8868011,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Цэнтр акіянаграфіі «Адкрыты акіян»",
+   :longitude 27.5332623,
+   :latitude 53.8772163,
+   :source :openstreetmap,
+   :homepage "https://ocean-minsk.by/",
+   :locality "Мінск"}
+  {:name "Цэнтр дзяцей і моладзі",
+   :longitude 28.7948757,
+   :latitude 54.9590999,
+   :source :openstreetmap,
+   :locality "Бароўка"}
+  {:name "Цэнтр дзіцячай творчасці",
+   :longitude 25.4999574,
+   :latitude 53.7138985,
+   :source :openstreetmap}
+  {:name "Цэнтр дзіцячай творчасці",
+   :longitude 26.8000293,
+   :latitude 52.2459952,
+   :source :openstreetmap,
+   :homepage "http://luninets.museum.by"}
+  {:name "Цэнтр дзіцячай творчасці",
+   :longitude 30.7264599,
+   :latitude 55.4085414,
+   :source :openstreetmap,
+   :locality "Сураж"}
+  {:name "Цэнтр дзіцячай творчасці",
+   :longitude 28.0031023,
+   :latitude 52.8006074,
+   :source :openstreetmap}
+  {:name "Цэнтр дзіцячай творчасці",
+   :longitude 26.8499933,
+   :latitude 51.8897271,
+   :source :openstreetmap}
+  {:name "Цэнтр дзіцячай творчасці",
+   :longitude 27.5470606,
+   :latitude 52.7791059,
+   :source :openstreetmap}
+  {:name "Цэнтр драўлянай скульптуры",
+   :longitude 27.4384515,
+   :latitude 52.012793,
+   :source :openstreetmap}
+  {:name "Цэнтр Маладзёжнай Творчасці",
+   :longitude 23.7302154,
+   :latitude 52.0900664,
+   :source :openstreetmap}
+  {:name
+   "Цэнтр мастацкай творчасці дзяцей і моладзі Фрунзенскага раёна",
+   :longitude 27.457078,
+   :latitude 53.8992729,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Цэнтр народных рамёстваў «Задзвінне»",
+   :longitude 30.196177,
+   :latitude 55.1897402,
+   :source :openstreetmap}
+  {:name "Цэнтр рамёстваў",
+   :longitude 26.0831203,
+   :latitude 53.0867752,
+   :source :openstreetmap}
+  {:name "Цэнтр рамёстваў",
+   :longitude 27.1313868,
+   :latitude 54.2174186,
+   :source :openstreetmap}
+  {:name "Цэнтр рамёстваў",
+   :longitude 26.7352099,
+   :latitude 53.8844968,
+   :source :openstreetmap}
+  {:name "Цэнтр рамёстваў «Спадчына»",
+   :longitude 23.8311508,
+   :latitude 53.690349,
+   :source :openstreetmap,
+   :homepage "https://ckg.by/heritage/"}
+  {:name "Цэнтр творчасці «Эверэст» г. Магілёва",
+   :longitude 30.3861045,
+   :latitude 53.8773952,
+   :source :openstreetmap}
+  {:name "Цэнтр творчасці дзяцей і моладзі",
+   :longitude 24.4681729,
+   :latitude 53.1629675,
+   :source :openstreetmap}
+  {:name "Цэнтр творчасці дзяцей і моладзі",
+   :longitude 25.2931016,
+   :latitude 53.8984297,
+   :source :openstreetmap}
+  {:name "Цэнтр творчасці дзяцей і моладзі",
+   :longitude 30.2453208,
+   :latitude 55.1997987,
+   :source :openstreetmap,
+   :homepage "http://center-creation.oct-vit-roo.by/"}
+  {:name "Цэнтр творчасці дзяцей і моладзі",
+   :longitude 30.982091,
+   :latitude 54.2900331,
+   :source :openstreetmap,
+   :locality "Горкі"}
+  {:name "Цэнтр творчасці дзяцей і моладзі «Агат»",
+   :longitude 30.3532794,
+   :latitude 53.9057648,
+   :source :openstreetmap}
+  {:name "Цэнтр творчасці дзяцей і моладзі Крэчут«»",
+   :longitude 31.7046329,
+   :latitude 53.7429808,
+   :source :openstreetmap}
+  {:name "Цэнтр творчасці і ганчарнага рамяства",
+   :longitude 25.3212068,
+   :latitude 53.089382,
+   :source :openstreetmap}
+  {:name "Цэнтр традыцыйнай культуры і побыту в. Плябань",
+   :longitude 27.0933652,
+   :latitude 54.2241856,
+   :source :openstreetmap,
+   :locality "Плябань"}
+  {:name "Цэнтр тэхнічнай творчасці",
+   :longitude 25.2994252,
+   :latitude 53.8979122,
+   :source :openstreetmap}
+  {:name "Цэнтр цыркавога мастацтва «Арэна»",
+   :longitude 29.2749045,
+   :latitude 52.0416202,
+   :source :openstreetmap}
+  {:name "Цэнтр Шпілеўскага",
+   :longitude 27.5646511,
+   :latitude 53.8453123,
+   :source :openstreetmap,
+   :homepage "https://cinemaschool.by/about/center/",
+   :locality "Мінск"}
+  {:name "Цэнтральны дом культуры",
+   :longitude 27.6866446,
+   :latitude 55.1391005,
+   :source :openstreetmap}
+  {:name "Чапелеўскі народны краязнаўчы музей",
+   :longitude 27.4777397,
+   :latitude 52.8727544,
+   :source :openstreetmap}
+  {:name "Черника",
+   :longitude 31.0113481,
+   :latitude 52.4296345,
+   :source :openstreetmap,
+   :homepage "http://milglory.gomel.museum.by/"}
+  {:name "Чыгуначны музей",
+   :longitude 26.0441624,
+   :latitude 53.1295588,
+   :source :openstreetmap,
+   :homepage
+   "http://baranovichi.rw.by/social_sphere/muzej_zheleznodorozhnoj_tehniki/",
+   :locality "Баранавічы"}
+  {:name "Чэрыкаўскі раённы дом рамёстваў",
+   :longitude 31.385967,
+   :latitude 53.5667479,
+   :source :openstreetmap}
+  {:name "Чэрыкаўскі раённы цэнтр культуры",
+   :longitude 31.3811715,
+   :latitude 53.5661635,
+   :source :openstreetmap}
+  {:name "Школа бондарства",
+   :longitude 25.5243397,
+   :latitude 52.1410658,
+   :source :openstreetmap}
+  {:name "Школа выяўленчага мастацтва",
+   :longitude 26.1149029,
+   :latitude 52.1150494,
+   :source :openstreetmap}
+  {:name "Школа малявання «Акварэль»",
+   :longitude 27.4769763,
+   :latitude 53.9134564,
+   :source :openstreetmap,
+   :locality "Мінск"}
+  {:name "Школа мастацтваў",
+   :longitude 23.4637652,
+   :latitude 52.4029642,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 25.5915526,
+   :latitude 53.4619991,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 28.0896529,
+   :latitude 54.0295035,
+   :source :openstreetmap}
+  {:name "школа мастацтваў",
+   :longitude 28.854703,
+   :latitude 53.0879482,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 27.2205117,
+   :latitude 53.4566633,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 27.7607347,
+   :latitude 54.8943601,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 29.1521231,
+   :latitude 51.8065302,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 26.00605,
+   :latitude 53.327236,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 26.9300329,
+   :latitude 54.8689523,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 32.5799123,
+   :latitude 53.4081955,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 27.4597308,
+   :latitude 52.7221671,
+   :source :openstreetmap}
+  {:name "Школа мастацтваў",
+   :longitude 29.1420732,
+   :latitude 53.4950807,
+   :source :openstreetmap}
+  {:name "Школа харэаграфіі",
+   :longitude 27.8475078,
+   :latitude 54.2018263,
+   :source :openstreetmap,
+   :locality "Лагойск"}
+  {:name "Школа ў якой вучыўся А. Р. Лукашэнка",
+   :longitude 30.2812339,
+   :latitude 54.3270205,
+   :source :openstreetmap}
+  {:name "Школьны музей ваеннай гісторыі",
+   :longitude 23.7884014,
+   :latitude 53.6603572,
+   :source :openstreetmap}
+  {:name "Экалагічны цэнтр дзяцей і моладзі",
+   :longitude 25.2626577,
+   :latitude 53.9054905,
+   :source :openstreetmap}
+  {:name "Экомузей «Пасека»",
+   :longitude 31.1054077,
+   :latitude 53.8920031,
+   :source :openstreetmap}
+  {:name "Экскурсіі на БелАЗ",
+   :longitude 28.3182456,
+   :latitude 54.0974087,
+   :source :openstreetmap,
+   :homepage "https://belaz.by/about/industrial-tourism/"}
+  {:name "Экспазіцыя «ZООТЕРРА»",
+   :longitude 31.0172147,
+   :latitude 52.4227511,
+   :source :openstreetmap,
+   :homepage "http://www.palacegomel.by/index.php?newsid=1557",
+   :locality "Гомель"}
+  {:name "Экспазіцыя аўтатрактарнай тэхнікі",
+   :longitude 27.1539769,
+   :latitude 53.4430807,
+   :source :openstreetmap}
+  {:name "Экспазіцыя па гісторыі фармацэўтыкі XVIII–XX ст.",
+   :longitude 27.6025784,
+   :latitude 53.900178,
+   :source :openstreetmap}
+  {:name "Экспазіцыя рамёстваў і побыту",
+   :longitude 31.7278192,
+   :latitude 54.025693,
+   :source :openstreetmap}
+  {:name "Экспазіцыя чыгуначнай тэхнікі",
+   :longitude 26.0393732,
+   :latitude 53.1326682,
+   :source :openstreetmap,
+   :homepage
+   "http://baranovichi.rw.by/social_sphere/muzej_zheleznodorozhnoj_tehniki/",
+   :locality "Баранавічы"}
+  {:name "Этнаграфічны комплекс «Млын і Кузня»",
+   :longitude 27.2865182,
+   :latitude 54.0074736,
+   :source :openstreetmap,
+   :homepage "https://zaslaue.by/"}
+  {:name "Этнаграфічны музей",
+   :longitude 26.073333,
+   :latitude 53.141997,
+   :source :openstreetmap}
+  {:name "Этнаграфічны музей «Спадчына»",
+   :longitude 28.5004216,
+   :latitude 54.2226193,
+   :source :openstreetmap,
+   :homepage "http://www.sch8borisov.by/"}
+  {:name "Язёрскі сельскі Цэнтр культуры",
+   :longitude 31.2468891,
+   :latitude 53.5629551,
+   :source :openstreetmap}
+  {:name "Івацэвіцкі гісторыка-краязнаўчы музей",
+   :longitude 25.3442647,
+   :latitude 52.7105899,
+   :source :openstreetmap}
+  {:name "Івянецкі цэнтр творчасці дзяцей і моладзі",
+   :longitude 26.7390858,
+   :latitude 53.8906882,
+   :source :openstreetmap,
+   :homepage "https://imtk.museum.by/node/32714"}
+  {:name "Ілюзія часу",
+   :longitude 23.8611675,
+   :latitude 53.6364896,
+   :source :openstreetmap,
+   :homepage
+   "https://sch40.oktobrgrodno.gov.by/%D0%BE-%D1%88%D0%BA%D0%BE%D0%BB%D0%B5/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B9-%D0%B7%D0%B0%D0%BB-%D0%B8%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D1%8F-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8"}
+  {:name "Іўеўскі музей нацыянальных культур",
+   :longitude 25.7690916,
+   :latitude 53.9287678,
+   :source :openstreetmap,
+   :homepage "https://ivye-museum.by/",
+   :locality "Іўе"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

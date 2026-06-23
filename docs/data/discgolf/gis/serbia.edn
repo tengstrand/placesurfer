@@ -1,0 +1,50 @@
+{:count 6,
+ :country "serbia",
+ :country-code "RS",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:22:19.994168Z",
+ :positions
+ [{:name "Belgrade Disc Golf Course",
+   :longitude 20.40389243731707,
+   :latitude 44.6515535373257,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/42560"}
+  {:name "Belgrade Disc Golf Course",
+   :longitude 20.40354391428889,
+   :latitude 44.65162234802105,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/43285",
+   :locality "Belgrade"}
+  {:name "Ključ Open",
+   :longitude 20.04061625761426,
+   :latitude 44.23299803966225,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/24194",
+   :locality "Мионица"}
+  {:name "Palilulac",
+   :longitude 20.47806210348702,
+   :latitude 44.84020686467855,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/27876",
+   :locality "Палилула"}
+  {:name "Palilulac ",
+   :longitude 20.47695094999125,
+   :latitude 44.841030640482415,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/28707",
+   :locality "Палилула"}
+  {:name "Ušće liga 20/21",
+   :longitude 20.432361206799186,
+   :latitude 44.817727547762956,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/21446",
+   :locality "Београд"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

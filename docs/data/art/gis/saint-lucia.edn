@@ -1,0 +1,35 @@
+{:count 6,
+ :country "saint-lucia",
+ :country-code "LC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:07.439772Z",
+ :positions
+ [{:name "Adeline's Art Cafe",
+   :longitude -61.062633,
+   :latitude 13.9064096,
+   :source :openstreetmap}
+  {:name "Caribbean Imprints",
+   :longitude -61.043612,
+   :latitude 13.7772462,
+   :source :openstreetmap}
+  {:name "Folk Research Center",
+   :longitude -60.9847477,
+   :latitude 14.0145001,
+   :source :openstreetmap}
+  {:name "Sessene Descartes House",
+   :longitude -60.9077021,
+   :latitude 13.849501,
+   :source :openstreetmap}
+  {:name "The Melting Pot",
+   :longitude -61.0439859,
+   :latitude 13.937796,
+   :source :openstreetmap}
+  {:name "The Morne Museum",
+   :longitude -60.9965415,
+   :latitude 13.9997852,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

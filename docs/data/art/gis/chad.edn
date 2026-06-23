@@ -1,0 +1,75 @@
+{:count 15,
+ :country "chad",
+ :country-code "TD",
+ :dataset :art,
+ :generated-at "2026-05-26T06:06:51.062624Z",
+ :positions
+ [{:name "ADIL",
+   :longitude 15.0390916,
+   :latitude 12.1099728,
+   :source :openstreetmap}
+  {:name "Centre de Lecture et d'animation culturelle",
+   :longitude 16.4858336,
+   :latitude 13.653583,
+   :source :openstreetmap}
+  {:name "Centre Don bosco مركز دون بوسكو",
+   :longitude 15.0931974,
+   :latitude 12.0919933,
+   :source :openstreetmap,
+   :locality "انجمينا"}
+  {:name "Centre Martin Luther King",
+   :longitude 16.0689266,
+   :latitude 8.5598223,
+   :source :openstreetmap}
+  {:name "Maison de la culture de Banda",
+   :longitude 18.5234144,
+   :latitude 8.9750366,
+   :source :openstreetmap}
+  {:name
+   "Maison de la culture de Bol بيت الثقافة بول;Centre Culturel de Bol",
+   :longitude 14.712789,
+   :latitude 13.464413,
+   :source :openstreetmap}
+  {:name "Maison de quartier chagoua",
+   :longitude 15.09859,
+   :latitude 12.0940475,
+   :source :openstreetmap}
+  {:name "Musée de Gaoui",
+   :longitude 15.1487744,
+   :latitude 12.1790609,
+   :source :openstreetmap,
+   :locality "Gaoui"}
+  {:name "Musée National المتحف الوطني",
+   :longitude 15.0774352,
+   :latitude 12.1254201,
+   :source :openstreetmap,
+   :locality "انجمينا"}
+  {:name "Palais Royal de Léré القصر الملكي في ليري",
+   :longitude 14.2261993,
+   :latitude 9.6571608,
+   :source :openstreetmap}
+  {:name "Salles d'exposition",
+   :longitude 15.056039,
+   :latitude 12.0992717,
+   :source :openstreetmap}
+  {:name "السلام والخير Pace e Bene",
+   :longitude 16.6338043,
+   :latitude 7.9335375,
+   :source :openstreetmap}
+  {:name "تركو",
+   :longitude 16.4291744,
+   :latitude 22.0261418,
+   :source :openstreetmap}
+  {:name "متحف ساره الإقليمي",
+   :longitude 18.3888153,
+   :latitude 9.1510024,
+   :source :openstreetmap}
+  {:name "مركز ثقافي ساره",
+   :longitude 18.3841153,
+   :latitude 9.1434423,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

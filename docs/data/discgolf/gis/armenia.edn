@@ -1,0 +1,60 @@
+{:count 8,
+ :country "armenia",
+ :dataset :discgolf,
+ :generated-at "2026-06-08T07:39:05.695351Z",
+ :positions
+ [{:name "English Park",
+   :longitude 44.50835064654552,
+   :latitude 40.17383474405341,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/43022",
+   :locality "Yerevan"}
+  {:name "Hamalir 18 2026 summer",
+   :longitude 44.48203884271936,
+   :latitude 40.187894381896854,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/47176",
+   :locality "Yerevan"}
+  {:name "Hamalir 2025 Autumn 18 v2",
+   :longitude 44.4817537282604,
+   :latitude 40.188174886004276,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/44986",
+   :locality "Yerevan"}
+  {:name "Hamalir 5 permanent baskets, 12 holes",
+   :longitude 44.48363870807265,
+   :latitude 40.18892663374996,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/46034",
+   :locality "Yerevan"}
+  {:name "Hamalir 9 2026 summer",
+   :longitude 44.48201537481543,
+   :latitude 40.18792092008508,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/47177",
+   :locality "Yerevan"}
+  {:name "Hamalir-12",
+   :longitude 44.48269206785372,
+   :latitude 40.18799705127006,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/40805",
+   :locality "Yerevan"}
+  {:name "Hamalir-13 (West)",
+   :longitude 44.48067732738093,
+   :latitude 40.18903327815315,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/43399",
+   :locality "Yerevan"}
+  {:name "Hamalir-18",
+   :longitude 44.4830793259774,
+   :latitude 40.18684454154979,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/42425",
+   :locality "Yerevan"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI and OpenStreetMap.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

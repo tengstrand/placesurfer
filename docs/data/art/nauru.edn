@@ -1,0 +1,17 @@
+{:count 1,
+ :country "nauru",
+ :country-code "NR",
+ :dataset :art,
+ :generated-at "2026-05-26T06:23:03.308407Z",
+ :positions
+ [{:name "Naoero Museum",
+   :longitude 166.9147856,
+   :latitude -0.5451127,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

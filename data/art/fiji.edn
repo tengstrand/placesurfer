@@ -1,0 +1,37 @@
+{:count 4,
+ :country "fiji",
+ :country-code "FJ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:10:15.644225Z",
+ :positions
+ [{:name "Alliance Française",
+   :longitude 178.4270331,
+   :latitude -18.1438677,
+   :source :openstreetmap,
+   :locality "Suva",
+   :image "",
+   :description ""}
+  {:name "Fiji Culture Village",
+   :longitude 177.3979624,
+   :latitude -17.8094425,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Fiji Museum",
+   :longitude 178.4256914,
+   :latitude -18.1496661,
+   :source :openstreetmap,
+   :homepage "https://fijimuseum.org.fj",
+   :image "",
+   :description ""}
+  {:name "Vuda Gallery",
+   :longitude 177.3953186,
+   :latitude -17.6805618,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

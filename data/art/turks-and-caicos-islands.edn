@@ -1,0 +1,17 @@
+{:count 1,
+ :country "turks-and-caicos-islands",
+ :country-code "TC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:37:34.239062Z",
+ :positions
+ [{:name "Turks and Caicos National Museum",
+   :longitude -71.1473985,
+   :latitude 21.4713343,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

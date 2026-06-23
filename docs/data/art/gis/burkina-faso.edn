@@ -1,0 +1,150 @@
+{:count 33,
+ :country "burkina-faso",
+ :country-code "BF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:05:30.052563Z",
+ :positions
+ [{:name "APNZAB,siège koudougou",
+   :longitude -2.355391,
+   :latitude 12.2585927,
+   :source :openstreetmap}
+  {:name "ASPAC Musée de la Musique d'hier et aujourd'hui",
+   :longitude -4.3225216,
+   :latitude 11.1897735,
+   :source :openstreetmap,
+   :homepage "http://www.aspac-burkina.com/",
+   :locality "Bobo-Dioulasso"}
+  {:name "Association Maison de la parole",
+   :longitude -4.3111643,
+   :latitude 11.1894236,
+   :source :openstreetmap}
+  {:name "Caro tecque",
+   :longitude -3.5177269,
+   :latitude 11.4983054,
+   :source :openstreetmap}
+  {:name "Centre Culturel Djelya",
+   :longitude -4.3032124,
+   :latitude 11.1849914,
+   :source :openstreetmap,
+   :locality "Bobo-Dioulasso"}
+  {:name "Centre de formation Marie Poussepin des soeurs de Boassa",
+   :longitude -1.6195734,
+   :latitude 12.295656,
+   :source :openstreetmap}
+  {:name "Centre de formation Neb-la-Bombou de Boassa",
+   :longitude -1.6163007,
+   :latitude 12.3118561,
+   :source :openstreetmap}
+  {:name "Centre Siraba",
+   :longitude -4.3323865,
+   :latitude 11.1800579,
+   :source :openstreetmap}
+  {:name "cour des jeunes",
+   :longitude -3.2954358,
+   :latitude 11.7458103,
+   :source :openstreetmap}
+  {:name "Eco Musée de Diapaga",
+   :longitude 1.7865516,
+   :latitude 12.0755388,
+   :source :openstreetmap}
+  {:name "Espace culturel CELPAC",
+   :longitude -3.8626844,
+   :latitude 12.7318588,
+   :source :openstreetmap}
+  {:name "Espace Dafra",
+   :longitude -4.2660823,
+   :latitude 11.1805833,
+   :source :openstreetmap}
+  {:name "GAFREH",
+   :longitude -4.298182,
+   :latitude 11.1734315,
+   :source :openstreetmap}
+  {:name "Institut Français Georges Meliès",
+   :longitude -1.5273119,
+   :latitude 12.3701816,
+   :source :openstreetmap}
+  {:name "Jardin des Arts et Cultures",
+   :longitude -1.5361036,
+   :latitude 12.2408123,
+   :source :openstreetmap}
+  {:name "Katouma",
+   :longitude -4.3509654,
+   :latitude 11.1677028,
+   :source :openstreetmap,
+   :homepage "http://katouma.blogspot.com/",
+   :locality "Bobo-Dioulasso"}
+  {:name "Maison de la Culture",
+   :longitude -4.2781398,
+   :latitude 11.1623554,
+   :source :openstreetmap}
+  {:name "Manèga",
+   :longitude -1.5090385,
+   :latitude 12.7829967,
+   :source :openstreetmap}
+  {:name "Museo Alfred Ki-Zerbo",
+   :longitude -2.8973404,
+   :latitude 12.7655834,
+   :source :openstreetmap}
+  {:name "Musée archéologique",
+   :longitude -1.7606189,
+   :latitude 13.9011946,
+   :source :openstreetmap}
+  {:name "Musée de la Femme",
+   :longitude -3.0632098,
+   :latitude 11.1458953,
+   :source :openstreetmap}
+  {:name "Musée de la Musique de Ouagadougou",
+   :longitude -1.5168349,
+   :latitude 12.3735132,
+   :source :openstreetmap}
+  {:name "Musée des Civilisations du Sud-Ouest",
+   :longitude -3.1782327,
+   :latitude 10.3333,
+   :source :openstreetmap}
+  {:name "Musée du Houet",
+   :longitude -4.297263,
+   :latitude 11.1690441,
+   :source :openstreetmap}
+  {:name "Musée National",
+   :longitude -1.4732232,
+   :latitude 12.3756764,
+   :source :openstreetmap}
+  {:name "Musée National",
+   :longitude -1.4714567,
+   :latitude 12.3792739,
+   :source :openstreetmap}
+  {:name "Musée Rayimi à Issouka",
+   :longitude -2.3766806,
+   :latitude 12.237162,
+   :source :openstreetmap}
+  {:name "Palais chef de Sapone",
+   :longitude -1.6057838,
+   :latitude 12.0491544,
+   :source :openstreetmap}
+  {:name "Senoufo",
+   :longitude -4.3472097,
+   :latitude 11.1852961,
+   :source :openstreetmap}
+  {:name "SIAO",
+   :longitude -1.4903685,
+   :latitude 12.350466,
+   :source :openstreetmap}
+  {:name "tangas art sculpture",
+   :longitude -1.5300824,
+   :latitude 12.3593492,
+   :source :openstreetmap}
+  {:name "Village-Opéra Afrique",
+   :longitude -1.2806496,
+   :latitude 12.5439579,
+   :source :openstreetmap,
+   :homepage "http://www.operndorf-afrika.com/"}
+  {:name "West African Museum Program",
+   :longitude -1.5116992,
+   :latitude 12.3688696,
+   :source :openstreetmap,
+   :locality "10 BP 861 OUAGADOUGOU 10 Burkina Faso"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

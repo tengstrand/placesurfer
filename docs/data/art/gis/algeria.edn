@@ -1,0 +1,1652 @@
+{:count 367,
+ :country "algeria",
+ :country-code "DZ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:00:41.114135Z",
+ :positions
+ [{:name
+   "Association Santé Sidi El Houari (SDH) \"L'école de la citoyenneté\"",
+   :longitude -0.654223,
+   :latitude 35.704721,
+   :source :openstreetmap,
+   :homepage "http://www.sdhoran.dz/"}
+  {:name "Auberge Mofdi Zakaria",
+   :longitude 4.1847566,
+   :latitude 35.2089936,
+   :source :openstreetmap}
+  {:name "Axxam n yidles Mulud n At-Maɛmmar",
+   :longitude 4.3677242,
+   :latitude 36.7490684,
+   :source :openstreetmap}
+  {:name "Biziou ACJE",
+   :longitude 4.6062374,
+   :latitude 36.4888495,
+   :source :openstreetmap,
+   :homepage "https://www.acje.asso.dz/",
+   :locality "Biziou"}
+  {:name "Bordj Moussa",
+   :longitude 5.0836546,
+   :latitude 36.7551096,
+   :source :openstreetmap}
+  {:name "Boulaaras",
+   :longitude 6.7124575,
+   :latitude 36.5350771,
+   :source :openstreetmap}
+  {:name "C.L.S.",
+   :longitude 0.9031477,
+   :latitude 35.9581217,
+   :source :openstreetmap}
+  {:name "Centre artisanat",
+   :longitude 5.2410626,
+   :latitude 36.6400807,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 7.4690336,
+   :latitude 35.4437575,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 0.3207291,
+   :latitude 36.0960265,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 4.171236,
+   :latitude 35.2986744,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 3.8134329,
+   :latitude 36.2205201,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 5.9144602,
+   :latitude 35.6323798,
+   :source :openstreetmap,
+   :locality "Merouana"}
+  {:name "Centre Culturel",
+   :longitude 2.4098496,
+   :latitude 36.5127021,
+   :source :openstreetmap,
+   :locality "Hadjout"}
+  {:name "Centre culturel",
+   :longitude 0.8250301,
+   :latitude 35.928786,
+   :source :openstreetmap,
+   :locality "Djdiouia"}
+  {:name "Centre culturel",
+   :longitude 5.2652253,
+   :latitude 35.5084017,
+   :source :openstreetmap,
+   :locality "Djezzar"}
+  {:name "Centre culturel",
+   :longitude 1.5611785,
+   :latitude 35.9378199,
+   :source :openstreetmap,
+   :locality "Lazharia"}
+  {:name "Centre culturel",
+   :longitude 3.5920119,
+   :latitude 36.5670012,
+   :source :openstreetmap}
+  {:name "Centre Culturel",
+   :longitude 3.9632034,
+   :latitude 36.7329831,
+   :source :openstreetmap}
+  {:name "Centre Culturel",
+   :longitude 4.4322325,
+   :latitude 34.8980545,
+   :source :openstreetmap}
+  {:name "Centre Culturel",
+   :longitude 7.8889483,
+   :latitude 35.8674022,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 5.2675992,
+   :latitude 31.9553917,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 0.0267744,
+   :latitude 32.8679967,
+   :source :openstreetmap,
+   :locality "Boussemghoun"}
+  {:name "Centre culturel",
+   :longitude 4.6750633,
+   :latitude 36.6938229,
+   :source :openstreetmap,
+   :locality "Adekkar"}
+  {:name "Centre culturel",
+   :longitude 5.6795111,
+   :latitude 36.1531665,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 3.6757459,
+   :latitude 36.2885893,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 0.9774672,
+   :latitude 35.8936309,
+   :source :openstreetmap,
+   :locality "Lahlef"}
+  {:name "Centre culturel",
+   :longitude 0.1600376,
+   :latitude 35.2476226,
+   :source :openstreetmap,
+   :locality "Ghriss"}
+  {:name "Centre culturel",
+   :longitude 5.8935005,
+   :latitude 35.3780884,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 1.1048061,
+   :latitude 34.9062476,
+   :source :openstreetmap}
+  {:name "Centre culturel",
+   :longitude 3.6839886,
+   :latitude 36.5345652,
+   :source :openstreetmap,
+   :locality "Kadiria"}
+  {:name "Centre culturel",
+   :longitude 0.2917266,
+   :latitude 35.9984892,
+   :source :openstreetmap,
+   :locality "Aïn Tadeles"}
+  {:name "centre culturel ain el hammam matoub lounes",
+   :longitude 4.309755,
+   :latitude 36.5716586,
+   :source :openstreetmap,
+   :locality "Aïn El Hammam"}
+  {:name "Centre Culturel Aissa Messaoudi",
+   :longitude 3.0966258,
+   :latitude 36.7411981,
+   :source :openstreetmap}
+  {:name "Centre Culturel Ali Tlilani",
+   :longitude 6.9156902,
+   :latitude 36.8691089,
+   :source :openstreetmap,
+   :locality "Skikda"}
+  {:name "Centre Culturel Ammar Saâdi",
+   :longitude 5.8065489,
+   :latitude 35.9776814,
+   :source :openstreetmap,
+   :locality "Hammam Sokhna"}
+  {:name "Centre Culturel Azzedine Medjoubi",
+   :longitude 3.0567009,
+   :latitude 36.7537012,
+   :source :openstreetmap}
+  {:name "Centre Culturel Bendjaballah Hacen",
+   :longitude 6.6343524,
+   :latitude 36.4528919,
+   :source :openstreetmap}
+  {:name "Centre culturel de Mouzaïa",
+   :longitude 2.6895357,
+   :latitude 36.4616272,
+   :source :openstreetmap,
+   :locality "Mouzaïa"}
+  {:name "Centre culturel de Sidi Ali",
+   :longitude 0.4260867,
+   :latitude 36.1036376,
+   :source :openstreetmap,
+   :locality "Sidi Ali"}
+  {:name "Centre culturel de Souk El Tenine",
+   :longitude -1.5055896,
+   :latitude 35.2335775,
+   :source :openstreetmap,
+   :locality "Souk El Tenine"}
+  {:name "Centre culturel de Soumâa",
+   :longitude 2.903384,
+   :latitude 36.5163893,
+   :source :openstreetmap,
+   :locality "Soumâa"}
+  {:name "Centre culturel de Zaouia Tidjania",
+   :longitude 6.8046796,
+   :latitude 33.4905568,
+   :source :openstreetmap,
+   :locality "Guemar"}
+  {:name "Centre Culturel et Sportif",
+   :longitude 4.2915512,
+   :latitude 36.6868003,
+   :source :openstreetmap}
+  {:name "CENTRE CULTUREL HADJAJ",
+   :longitude 5.3336439,
+   :latitude 31.9442156,
+   :source :openstreetmap}
+  {:name "Centre Culturel Islamique",
+   :longitude 3.269245,
+   :latitude 34.6586198,
+   :source :openstreetmap}
+  {:name "Centre culturel islamique",
+   :longitude 5.7668476,
+   :latitude 36.822099,
+   :source :openstreetmap}
+  {:name "Centre culturel islamique",
+   :longitude -1.3540018,
+   :latitude 34.8786717,
+   :source :openstreetmap,
+   :locality "Mansourah"}
+  {:name "Centre Culturel Islamique",
+   :longitude 6.1776928,
+   :latitude 35.5485796,
+   :source :openstreetmap,
+   :locality "Batna"}
+  {:name "Centre Culturel Islamique",
+   :longitude 5.4374299,
+   :latitude 36.1861258,
+   :source :openstreetmap}
+  {:name "Centre Culturel Issat Idir",
+   :longitude 6.9106894,
+   :latitude 36.875442,
+   :source :openstreetmap,
+   :locality "Skikda"}
+  {:name "Centre culturel Lakhdar Rebah",
+   :longitude 3.0627098,
+   :latitude 36.7512363,
+   :source :openstreetmap}
+  {:name "Centre Culturel Malek Bouguermouh",
+   :longitude 4.9033459,
+   :latitude 36.6434242,
+   :source :openstreetmap,
+   :locality "Amizour"}
+  {:name "Centre Culturel Moufdi Zakaria",
+   :longitude 3.0982778,
+   :latitude 36.6671961,
+   :source :openstreetmap}
+  {:name "Centre culturel municipal",
+   :longitude 2.2183396,
+   :latitude 36.2585606,
+   :source :openstreetmap,
+   :locality "Khemis Miliana"}
+  {:name "Centre culturel Oussalem Mohand Akli",
+   :longitude 4.8261139,
+   :latitude 36.6102247,
+   :source :openstreetmap,
+   :locality "Semaoun"}
+  {:name "Centre Culturel Saiadi Alaid",
+   :longitude 3.2777591,
+   :latitude 32.9541404,
+   :source :openstreetmap,
+   :locality "Hassi R'mel"}
+  {:name "Centre Culturel المركز الثفافي",
+   :longitude 2.4546121,
+   :latitude 35.8264301,
+   :source :openstreetmap}
+  {:name "Centre culturel المركز الثقافي",
+   :longitude 5.2976226,
+   :latitude 35.9240686,
+   :source :openstreetmap}
+  {:name "Centre culturel- crèche",
+   :longitude 2.7016725,
+   :latitude 36.6415948,
+   :source :openstreetmap}
+  {:name "Centre d'exposition culturelle et artistique",
+   :longitude -1.1399747,
+   :latitude 35.2930993,
+   :source :openstreetmap,
+   :locality "Ain Temouchent"}
+  {:name "Centre de culture",
+   :longitude 5.8478838,
+   :latitude 36.7541995,
+   :source :openstreetmap}
+  {:name "Centre de loisirs scientifiques",
+   :longitude 2.7611592,
+   :latitude 36.2678235,
+   :source :openstreetmap,
+   :locality "Medea"}
+  {:name "Centre des artisanats",
+   :longitude 1.0829069,
+   :latitude 26.9705401,
+   :source :openstreetmap,
+   :locality "Aoulef"}
+  {:name "Centre national de l'artisanat",
+   :longitude 2.8439885,
+   :latitude 36.7604372,
+   :source :openstreetmap}
+  {:name "Centre National de la Photographie de l'Art",
+   :longitude 2.7609282,
+   :latitude 36.6422761,
+   :source :openstreetmap,
+   :locality "Koléa"}
+  {:name "Chambre de l'artisanat",
+   :longitude 5.4053978,
+   :latitude 36.1811021,
+   :source :openstreetmap}
+  {:name "Chambre de l'Artisanat et des Métiers",
+   :longitude 6.1674273,
+   :latitude 35.5468251,
+   :source :openstreetmap,
+   :locality "Batna"}
+  {:name "CIAJ",
+   :longitude 2.8711067,
+   :latitude 33.8120107,
+   :source :openstreetmap}
+  {:name "Cité des sciences Alger",
+   :longitude 3.0544743,
+   :latitude 36.7771092,
+   :source :openstreetmap,
+   :locality "Alger"}
+  {:name "Cité Dâmache moussa la caper",
+   :longitude 0.471097,
+   :latitude 34.9882731,
+   :source :openstreetmap}
+  {:name "Conservatoire Central d'Alger",
+   :longitude 3.0624896,
+   :latitude 36.7837101,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/conservatoir",
+   :locality "Alger Centre"}
+  {:name "Conservatoire de Laghouat",
+   :longitude 2.8523656,
+   :latitude 33.7962409,
+   :source :openstreetmap,
+   :locality "Laghouat"}
+  {:name "Conservatoire Mohamed Bouteiba",
+   :longitude 1.319186,
+   :latitude 35.3748265,
+   :source :openstreetmap,
+   :locality "Tiaret"}
+  {:name "Conservatoire municipal des Arts Abdelmoumen Bentoubel",
+   :longitude 6.6096798,
+   :latitude 36.3564074,
+   :source :openstreetmap,
+   :locality "Constantine"}
+  {:name "CV.ilot 47- 1 Musée du Moudjahid",
+   :longitude 5.4052216,
+   :latitude 36.1871553,
+   :source :openstreetmap}
+  {:name "Dar Emir Abdelkader",
+   :longitude 2.7514946,
+   :latitude 36.261711,
+   :source :openstreetmap}
+  {:name "L'Armurerie de l'Emir Abdelkader",
+   :longitude 2.231447,
+   :latitude 36.3049694,
+   :source :openstreetmap}
+  {:name "La mairie",
+   :longitude 4.8920633,
+   :latitude 36.408089,
+   :source :openstreetmap}
+  {:name "Lbeṛj",
+   :longitude 4.1327824,
+   :latitude 36.4874869,
+   :source :openstreetmap}
+  {:name "lieu de culture",
+   :longitude 6.1926528,
+   :latitude 35.5605335,
+   :source :openstreetmap}
+  {:name "M J SIBOUSSE BELKACEM",
+   :longitude 5.1806456,
+   :latitude 36.3364956,
+   :source :openstreetmap}
+  {:name "Maison Arts et Culture Abdelhamid Ben Hadouga",
+   :longitude 3.0876323,
+   :latitude 36.7185511,
+   :source :openstreetmap}
+  {:name "Maison culturelle",
+   :longitude 3.3072184,
+   :latitude 36.4095008,
+   :source :openstreetmap}
+  {:name "Maison de culture",
+   :longitude 1.8086118,
+   :latitude 35.6042225,
+   :source :openstreetmap,
+   :locality "Tissemsilt"}
+  {:name "Maison de culture",
+   :longitude 3.4354107,
+   :latitude 36.7473995,
+   :source :openstreetmap}
+  {:name "Maison de Culture",
+   :longitude 3.0804982,
+   :latitude 36.543225,
+   :source :openstreetmap}
+  {:name "Maison de culture",
+   :longitude 5.5086875,
+   :latitude 35.814144,
+   :source :openstreetmap}
+  {:name "Maison de culture",
+   :longitude 3.3111797,
+   :latitude 36.4144836,
+   :source :openstreetmap,
+   :locality "Tablat"}
+  {:name "Maison de culture",
+   :longitude 2.9037463,
+   :latitude 36.0015894,
+   :source :openstreetmap}
+  {:name "Maison de culture",
+   :longitude 6.1669949,
+   :latitude 36.1635129,
+   :source :openstreetmap}
+  {:name "Maison de culture",
+   :longitude 7.7303489,
+   :latitude 36.4705834,
+   :source :openstreetmap,
+   :locality "Bouchegouf"}
+  {:name "Maison de culture Emir Abdelkader",
+   :longitude 1.9528969,
+   :latitude 36.2531444,
+   :source :openstreetmap}
+  {:name "Maison de culture Mohamed Boudiaf",
+   :longitude 4.7495309,
+   :latitude 36.0737566,
+   :source :openstreetmap,
+   :locality "Bordj Bou Arréridj"}
+  {:name "Maison de Culture Mohamed Seradj",
+   :longitude 6.9093267,
+   :latitude 36.8682345,
+   :source :openstreetmap,
+   :locality "Skikda"}
+  {:name "Maison de jeune",
+   :longitude -1.140055,
+   :latitude 35.3011665,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 2.2354242,
+   :latitude 36.2642283,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 2.1634306,
+   :latitude 36.3102838,
+   :source :openstreetmap,
+   :locality "Ben Allel"}
+  {:name "Maison de Jeunes",
+   :longitude 3.0926867,
+   :latitude 36.6060575,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 4.4015673,
+   :latitude 36.3871033,
+   :source :openstreetmap,
+   :locality "Tazmalt"}
+  {:name "Maison de jeunes",
+   :longitude 2.1560305,
+   :latitude 36.3343877,
+   :source :openstreetmap,
+   :locality "Ben Allel"}
+  {:name "Maison de Jeunes",
+   :longitude 2.4173973,
+   :latitude 36.5040111,
+   :source :openstreetmap,
+   :locality "Hadjout"}
+  {:name "Maison de jeunes",
+   :longitude 2.5688917,
+   :latitude 36.4773649,
+   :source :openstreetmap,
+   :locality "Ahmar El Aïn"}
+  {:name "Maison de jeunes",
+   :longitude 1.1293974,
+   :latitude 35.7820429,
+   :source :openstreetmap,
+   :locality "Aïn Tarek"}
+  {:name "Maison de jeunes",
+   :longitude 1.2691714,
+   :latitude 35.5186943,
+   :source :openstreetmap,
+   :locality "Oued Lilli"}
+  {:name "Maison de jeunes",
+   :longitude 5.7378235,
+   :latitude 36.3155539,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 3.7814517,
+   :latitude 35.8860551,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 6.6446297,
+   :latitude 36.8367093,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 7.0523716,
+   :latitude 36.8950947,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 7.7354088,
+   :latitude 36.8557607,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 3.0130525,
+   :latitude 36.7869525,
+   :source :openstreetmap}
+  {:name "Maison de Jeunes",
+   :longitude 4.6804163,
+   :latitude 36.6072533,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 6.2657801,
+   :latitude 36.4530504,
+   :source :openstreetmap,
+   :locality "Mila"}
+  {:name "Maison de Jeunes",
+   :longitude 3.1234538,
+   :latitude 36.616552,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 1.9583282,
+   :latitude 36.2552889,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 1.2424587,
+   :latitude 34.8944289,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 3.2490936,
+   :latitude 34.6625999,
+   :source :openstreetmap}
+  {:name "Maison de Jeunes",
+   :longitude 4.5118709,
+   :latitude 36.6656182,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 7.8182479,
+   :latitude 36.0775376,
+   :source :openstreetmap,
+   :locality "M'Daourouch"}
+  {:name "Maison de jeunes",
+   :longitude 7.4361466,
+   :latitude 36.505549,
+   :source :openstreetmap,
+   :locality "Heliopolis"}
+  {:name "Maison de jeunes",
+   :longitude 4.4767757,
+   :latitude 32.7822624,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 5.9047344,
+   :latitude 35.3819681,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude -0.6243396,
+   :latitude 34.8223831,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 0.3345488,
+   :latitude 35.4183527,
+   :source :openstreetmap}
+  {:name "Maison de jeunes",
+   :longitude 2.9193393,
+   :latitude 36.7066372,
+   :source :openstreetmap}
+  {:name "Maison de Jeunes Azzeddine Medjoubi - cité 8 mai 1945",
+   :longitude 3.185631,
+   :latitude 36.7326751,
+   :source :openstreetmap,
+   :locality "Bab Ezzouar"}
+  {:name "Maison de jeunes Bounab Rachid",
+   :longitude 5.7696493,
+   :latitude 36.813665,
+   :source :openstreetmap}
+  {:name "Maison de jeunes de Nezla",
+   :longitude 6.0627604,
+   :latitude 33.0979931,
+   :source :openstreetmap}
+  {:name "Maison de jeunes Kachouane Ramdane",
+   :longitude 3.1086227,
+   :latitude 36.5573476,
+   :source :openstreetmap}
+  {:name "maison de jeunes MASSINISSA GUERMAH",
+   :longitude 4.1279528,
+   :latitude 36.6028553,
+   :source :openstreetmap}
+  {:name "Maison de Jeunes Melbou",
+   :longitude 5.3651896,
+   :latitude 36.6401111,
+   :source :openstreetmap}
+  {:name "Maison de jeunes Mohamed El Bey",
+   :longitude 3.3650349,
+   :latitude 36.7414869,
+   :source :openstreetmap}
+  {:name "Maison de jeunes Ouacifs",
+   :longitude 4.205358,
+   :latitude 36.5224309,
+   :source :openstreetmap}
+  {:name "Maison de Jeunes Samach Said",
+   :longitude 0.1433806,
+   :latitude 35.3974381,
+   :source :openstreetmap}
+  {:name "Maison de Jeunes Takrietz",
+   :longitude 4.6523634,
+   :latitude 36.5799804,
+   :source :openstreetmap,
+   :locality "Takrietz"}
+  {:name "Maison de l'artisanat de Blida",
+   :longitude 2.8657827,
+   :latitude 36.5054426,
+   :source :openstreetmap,
+   :locality "Ouled Yaïch"}
+  {:name "Maison de la culture",
+   :longitude 4.875732,
+   :latitude 36.4336852,
+   :source :openstreetmap}
+  {:name "Maison de la culture",
+   :longitude 0.0803631,
+   :latitude 35.9266819,
+   :source :openstreetmap,
+   :locality "Mostaganem"}
+  {:name "Maison de la Culture",
+   :longitude 6.2579412,
+   :latitude 36.4419186,
+   :source :openstreetmap}
+  {:name "Maison de la culture",
+   :longitude 3.2567639,
+   :latitude 34.6645855,
+   :source :openstreetmap}
+  {:name "Maison de la Culture",
+   :longitude 5.3283283,
+   :latitude 31.9587121,
+   :source :openstreetmap,
+   :locality "Ouargla"}
+  {:name "Maison de la Culture",
+   :longitude 7.4238997,
+   :latitude 36.4588091,
+   :source :openstreetmap,
+   :locality "Guelma"}
+  {:name "Maison de la Culture",
+   :longitude 0.139248,
+   :latitude 35.3948709,
+   :source :openstreetmap,
+   :locality "Mascara"}
+  {:name "Maison de la culture",
+   :longitude 3.8808257,
+   :latitude 36.916775,
+   :source :openstreetmap,
+   :locality "Dellys"}
+  {:name "Maison de la Culture",
+   :longitude 1.3396874,
+   :latitude 36.1638738,
+   :source :openstreetmap,
+   :locality "Chlef"}
+  {:name "Maison de la culture",
+   :longitude 6.3575886,
+   :latitude 35.2581277,
+   :source :openstreetmap}
+  {:name "Maison de la culture",
+   :longitude 4.5257182,
+   :latitude 36.4576616,
+   :source :openstreetmap}
+  {:name "Maison de la Culture (Ancienne)",
+   :longitude 6.8651026,
+   :latitude 33.3598686,
+   :source :openstreetmap,
+   :locality "El Oued"}
+  {:name "Maison de la culture Abdellah Ben Keriou",
+   :longitude 2.8610037,
+   :latitude 33.7932771,
+   :source :openstreetmap,
+   :locality "Laghouat"}
+  {:name "Maison de la culture d'El Bayadh",
+   :longitude 1.0107382,
+   :latitude 33.6848421,
+   :source :openstreetmap,
+   :locality "El Bayadh"}
+  {:name "Maison de la Culture de la wilaya de Batna",
+   :longitude 6.1808693,
+   :latitude 35.5530764,
+   :source :openstreetmap,
+   :locality "Batna"}
+  {:name "Maison de la culture Kateb Yassine",
+   :longitude -0.6244939,
+   :latitude 35.2093335,
+   :source :openstreetmap}
+  {:name "Maison de la Culture Mohamed Amine El Amoudi",
+   :longitude 6.8722867,
+   :latitude 33.3966292,
+   :source :openstreetmap,
+   :locality "El Oued"}
+  {:name "Maison de la Culture Mouloud Mammeri",
+   :longitude 4.0527279,
+   :latitude 36.7129989,
+   :source :openstreetmap,
+   :homepage "http://www.mcmmto.dz/",
+   :locality "Tizi Ouzou"}
+  {:name "Maison de la culture Omar Oussedik",
+   :longitude 5.7791882,
+   :latitude 36.8052744,
+   :source :openstreetmap,
+   :locality "Jijel"}
+  {:name "Maison de la culture Othmane Bali",
+   :longitude 8.4823467,
+   :latitude 26.5010318,
+   :source :openstreetmap}
+  {:name "Maison de la Culture Rachid Mimouni",
+   :longitude 3.4764393,
+   :latitude 36.7649513,
+   :source :openstreetmap,
+   :locality "Boumerdes"}
+  {:name "Maison de la culture Taous Amrouche",
+   :longitude 5.0543992,
+   :latitude 36.7506006,
+   :source :openstreetmap,
+   :locality "Béjaïa"}
+  {:name "Maison des arts et métiers",
+   :longitude 2.7901608,
+   :latitude 36.2639345,
+   :source :openstreetmap,
+   :locality "Médéa"}
+  {:name "Maison des jeunes",
+   :longitude 6.1727636,
+   :latitude 36.16145,
+   :source :openstreetmap}
+  {:name "Maison des Jeunes",
+   :longitude 4.6203826,
+   :latitude 36.5936959,
+   :source :openstreetmap,
+   :locality "شميني"}
+  {:name "Maison des Jeunes",
+   :longitude 4.6673189,
+   :latitude 36.1352694,
+   :source :openstreetmap}
+  {:name "Maison des jeunes",
+   :longitude 6.9260891,
+   :latitude 35.4897558,
+   :source :openstreetmap}
+  {:name "Maison des jeunes Boulanouar Mohamed",
+   :longitude -1.119197,
+   :latitude 35.2958395,
+   :source :openstreetmap}
+  {:name "Maison des Jeunes Cap Falcon",
+   :longitude -0.7978954,
+   :latitude 35.7631475,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de Mohammadia",
+   :longitude 3.144522,
+   :latitude 36.7299484,
+   :source :openstreetmap}
+  {:name "Maison des jeunes et de la Culture",
+   :longitude 4.5229652,
+   :latitude 36.6701344,
+   :source :openstreetmap}
+  {:name "Maison des jeunes Mouloud Feroune",
+   :longitude 5.314688,
+   :latitude 36.1874845,
+   :source :openstreetmap}
+  {:name "Maison des Jeunes دار الشباب",
+   :longitude 3.030539,
+   :latitude 36.2649853,
+   :source :openstreetmap}
+  {:name "Maison dess Jeunes",
+   :longitude 5.3123695,
+   :latitude 31.9651352,
+   :source :openstreetmap}
+  {:name "manzel",
+   :longitude 2.47272,
+   :latitude 27.1932743,
+   :source :openstreetmap}
+  {:name "Mosquée",
+   :longitude 2.8742878,
+   :latitude 30.5875364,
+   :source :openstreetmap}
+  {:name "Musee el moujahid",
+   :longitude 3.8829157,
+   :latitude 36.3792091,
+   :source :openstreetmap,
+   :locality "Bouira"}
+  {:name "Musèe Kherrata متحف خراطة",
+   :longitude 5.2734786,
+   :latitude 36.4951853,
+   :source :openstreetmap}
+  {:name "Musée",
+   :longitude 6.9053285,
+   :latitude 36.8832804,
+   :source :openstreetmap}
+  {:name "Musée",
+   :longitude 0.2072006,
+   :latitude 35.8104779,
+   :source :openstreetmap}
+  {:name "Musée",
+   :longitude 6.1590147,
+   :latitude 35.5540972,
+   :source :openstreetmap}
+  {:name "Musée",
+   :longitude 6.2477922,
+   :latitude 35.4946771,
+   :source :openstreetmap}
+  {:name "Musée Ahmed Bougherra",
+   :longitude 2.7567638,
+   :latitude 36.2636673,
+   :source :openstreetmap}
+  {:name "Musée anthropologique et d'art traditionnel",
+   :longitude 3.2544959,
+   :latitude 34.6752838,
+   :source :openstreetmap}
+  {:name "Musée Arabe d’Archéologie",
+   :longitude 2.4585529,
+   :latitude 36.5917497,
+   :source :openstreetmap}
+  {:name "Musée Archéologique de Cherchell",
+   :longitude 2.1913336,
+   :latitude 36.6083363,
+   :source :openstreetmap,
+   :locality "Cherchell"}
+  {:name "Musée archéologique de Tipaza",
+   :longitude 2.4486126,
+   :latitude 36.593064,
+   :source :openstreetmap,
+   :locality "Tipaza"}
+  {:name "Musée communal (ex. APC)",
+   :longitude -1.0295123,
+   :latitude 35.3033029,
+   :source :openstreetmap,
+   :locality "Chentouf"}
+  {:name "Musée Césarée",
+   :longitude 2.1959655,
+   :latitude 36.6085418,
+   :source :openstreetmap,
+   :locality "Cherchell"}
+  {:name "Musée d'art moderne d'Oran",
+   :longitude -0.6458801,
+   :latitude 35.7016931,
+   :source :openstreetmap,
+   :locality "Oran"}
+  {:name "Musée d'El Moudjahid",
+   :longitude -1.4295997,
+   :latitude 35.0593973,
+   :source :openstreetmap,
+   :locality "Remchi"}
+  {:name "Musée d'el Moujahid",
+   :longitude 6.9202479,
+   :latitude 36.8710667,
+   :source :openstreetmap}
+  {:name "Musée d'Ell Moudjahid",
+   :longitude 1.5466073,
+   :latitude 35.7498201,
+   :source :openstreetmap}
+  {:name "Musée Dar El Kaid",
+   :longitude 0.0929376,
+   :latitude 35.9363239,
+   :source :openstreetmap}
+  {:name "Musée de Guemar",
+   :longitude 6.7978705,
+   :latitude 33.4837602,
+   :source :openstreetmap,
+   :locality "Guemar"}
+  {:name "Musée de Jaram",
+   :longitude 4.619873,
+   :latitude 36.0637125,
+   :source :openstreetmap}
+  {:name "Musée de l'Armée",
+   :longitude 3.0702472,
+   :latitude 36.741846,
+   :source :openstreetmap}
+  {:name "Musée de l'Eau",
+   :longitude 4.8961973,
+   :latitude 36.7520302,
+   :source :openstreetmap,
+   :homepage "https://toudja.org/"}
+  {:name "Musée de la Protection Civile",
+   :longitude 3.0313713,
+   :latitude 36.7479119,
+   :source :openstreetmap,
+   :locality "حيدرة"}
+  {:name "Musée de la Qalaa des Beni Hammad",
+   :longitude 4.7974007,
+   :latitude 35.8170718,
+   :source :openstreetmap}
+  {:name "Musée de la Radio Algérienne",
+   :longitude 3.0551737,
+   :latitude 36.7652694,
+   :source :openstreetmap,
+   :homepage "https://radioalgerie.dz/",
+   :locality "Sidi Mhamed"}
+  {:name "Musée de Moudjahid",
+   :longitude 4.1770536,
+   :latitude 35.2182843,
+   :source :openstreetmap,
+   :locality "Bou Sâada"}
+  {:name "Musée de Tamentfoust - Le Fort Turc",
+   :longitude 3.2309066,
+   :latitude 36.8072168,
+   :source :openstreetmap}
+  {:name "Musée de Tizi-Ouzou",
+   :longitude 4.0475859,
+   :latitude 36.7140502,
+   :source :openstreetmap,
+   :locality "Tizi Ouzou"}
+  {:name "Musée de Tizi-Ouzou",
+   :longitude 4.0368376,
+   :latitude 36.7120482,
+   :source :openstreetmap,
+   :locality "tizi ouzou"}
+  {:name "Musée de Ténès",
+   :longitude 1.3047522,
+   :latitude 36.5122346,
+   :source :openstreetmap}
+  {:name "Musée des Martyrs d'Iferhounnene",
+   :longitude 4.3652555,
+   :latitude 36.5378639,
+   :source :openstreetmap}
+  {:name "Musée des Moudjahidines",
+   :longitude 4.2689339,
+   :latitude 36.3679385,
+   :source :openstreetmap}
+  {:name "Musée des Ruines d'Hippone",
+   :longitude 7.7517817,
+   :latitude 36.8820339,
+   :source :openstreetmap}
+  {:name "Musée du Dinausaure d'Oulgag",
+   :longitude -1.0428038,
+   :latitude 32.7447217,
+   :source :openstreetmap}
+  {:name "Musée du Martyr",
+   :longitude 4.5361577,
+   :latitude 36.4641895,
+   :source :openstreetmap}
+  {:name "Musée du Moudjahid",
+   :longitude 0.0780138,
+   :latitude 35.9308944,
+   :source :openstreetmap}
+  {:name "Musée du Moudjahid",
+   :longitude 7.9678454,
+   :latitude 36.287215,
+   :source :openstreetmap}
+  {:name "Musée du Moudjahid",
+   :longitude -0.6382342,
+   :latitude 35.1793466,
+   :source :openstreetmap}
+  {:name "Musée du Moudjahid",
+   :longitude 6.19784,
+   :latitude 35.5255383,
+   :source :openstreetmap}
+  {:name "Musée du Moudjahid",
+   :longitude -0.6033842,
+   :latitude 35.6993721,
+   :source :openstreetmap,
+   :locality "Oran"}
+  {:name "Musée du Moudjahid",
+   :longitude 0.1402023,
+   :latitude 35.4038026,
+   :source :openstreetmap,
+   :locality "Mascara"}
+  {:name "Musée du Moudjahid",
+   :longitude 6.6215458,
+   :latitude 36.3500544,
+   :source :openstreetmap,
+   :locality "Constantine"}
+  {:name "Musée du Parc national de Chréa",
+   :longitude 2.8870877,
+   :latitude 36.4302637,
+   :source :openstreetmap}
+  {:name "Musée El Moudjahid",
+   :longitude 6.2768898,
+   :latitude 36.7537956,
+   :source :openstreetmap}
+  {:name "Musée El Moudjahid",
+   :longitude 7.4353903,
+   :latitude 36.4729114,
+   :source :openstreetmap,
+   :locality "Guelma"}
+  {:name "Musée El Moujahid",
+   :longitude 4.7629092,
+   :latitude 36.0735714,
+   :source :openstreetmap}
+  {:name "Musée Emir Abdelkader",
+   :longitude 2.2267779,
+   :latitude 36.3043822,
+   :source :openstreetmap,
+   :locality "Miliana"}
+  {:name "Musée et Monument des Martyrs",
+   :longitude 4.0627058,
+   :latitude 36.7110077,
+   :source :openstreetmap}
+  {:name "Musée Ex-Église",
+   :longitude 2.8830201,
+   :latitude 33.8069323,
+   :source :openstreetmap}
+  {:name "Musée Lapidaire d'El Kantara",
+   :longitude 5.700887,
+   :latitude 35.2209415,
+   :source :openstreetmap}
+  {:name "Musée Mohamed Boudiaf",
+   :longitude 7.958189,
+   :latitude 36.2833102,
+   :source :openstreetmap}
+  {:name "Musée municipal",
+   :longitude 5.6879976,
+   :latitude 36.1531922,
+   :source :openstreetmap}
+  {:name "Musée National Ahmed Zabana",
+   :longitude -0.6450044,
+   :latitude 35.6958058,
+   :source :openstreetmap,
+   :homepage
+   "https://www.oran-dz.com/culture/musee/musee-national-zabana-oran.html",
+   :locality "Oran"}
+  {:name "Musée national du Martyr",
+   :longitude 3.0697574,
+   :latitude 36.7455375,
+   :source :openstreetmap,
+   :homepage "http://www.musee-beauxarts.dz/"}
+  {:name "Musée Regional de Chlef  المتحف الإقليمي الشليف",
+   :longitude 1.333725,
+   :latitude 36.1611009,
+   :source :openstreetmap,
+   :locality "الشلف"}
+  {:name "Musée régionale de la VI Wilaya historique",
+   :longitude 5.7084131,
+   :latitude 34.847552,
+   :source :openstreetmap}
+  {:name "Palais de culture M'hamed Issiakhem",
+   :longitude 0.5465647,
+   :latitude 35.7285211,
+   :source :openstreetmap}
+  {:name "Palais de la culture",
+   :longitude -1.1450566,
+   :latitude 35.3055832,
+   :source :openstreetmap,
+   :locality "عين تموشنت"}
+  {:name "Palais de la Culture",
+   :longitude 2.7647044,
+   :latitude 36.6406503,
+   :source :openstreetmap,
+   :locality "Koléa"}
+  {:name "Palais de la culture d'Adrar",
+   :longitude -0.2896657,
+   :latitude 27.8732605,
+   :source :openstreetmap}
+  {:name "Palais de la Culture d'Oran",
+   :longitude -0.5753059,
+   :latitude 35.6963127,
+   :source :openstreetmap,
+   :locality "Bir El Djir"}
+  {:name "Palais de la Culture et des Arts",
+   :longitude 6.9112842,
+   :latitude 36.8822134,
+   :source :openstreetmap}
+  {:name "Palais de la culture Mohamed Laïd El-Khalifa",
+   :longitude 6.6080742,
+   :latitude 36.3638319,
+   :source :openstreetmap,
+   :homepage "http://cirtamuseum.org.dz",
+   :locality "Constantine"}
+  {:name "Palais de la Culture Moufdi Zakaria",
+   :longitude 3.0825182,
+   :latitude 36.7380456,
+   :source :openstreetmap,
+   :homepage "http://www.palaisdelaculture.dz/",
+   :locality "Alger"}
+  {:name "Planétarium - la coupole",
+   :longitude -0.6331005,
+   :latitude 35.193805,
+   :source :openstreetmap,
+   :locality "Sidi Bel Abbès"}
+  {:name "Planétarium de Ghardaia",
+   :longitude 3.6841345,
+   :latitude 32.5035163,
+   :source :openstreetmap,
+   :locality "Ghardaïa"}
+  {:name "Prison Rouge (Musée du Moudjahid)",
+   :longitude 5.943989,
+   :latitude 36.4085812,
+   :source :openstreetmap}
+  {:name "Rassemblement pour la culture",
+   :longitude 3.0299381,
+   :latitude 36.765515,
+   :source :openstreetmap}
+  {:name "Refuge",
+   :longitude 4.2943611,
+   :latitude 36.481424,
+   :source :openstreetmap}
+  {:name "Tajma3t l Qayus Historique",
+   :longitude 4.4056279,
+   :latitude 36.5108618,
+   :source :openstreetmap}
+  {:name "Takhelwit n Fadma n Soumer",
+   :longitude 4.3632084,
+   :latitude 36.5123189,
+   :source :openstreetmap}
+  {:name "taverne de corsaire Sidi Fredj",
+   :longitude 2.8469149,
+   :latitude 36.7647213,
+   :source :openstreetmap}
+  {:name "Terrace el-Mechouar",
+   :longitude -1.3089448,
+   :latitude 34.881568,
+   :source :openstreetmap,
+   :homepage "https://mct-alloula.org/acceuil/"}
+  {:name "Tiza n At Qeddac ثيزا نايت كداش",
+   :longitude 4.0616688,
+   :latitude 36.1605088,
+   :source :openstreetmap}
+  {:name "venec",
+   :longitude 5.751907,
+   :latitude 36.8108561,
+   :source :openstreetmap}
+  {:name "الحصن الفرنسي التاريخي",
+   :longitude 5.5266835,
+   :latitude 22.7879767,
+   :source :openstreetmap,
+   :locality "تمنراست"}
+  {:name "المتحف",
+   :longitude 2.8849125,
+   :latitude 30.5836511,
+   :source :openstreetmap}
+  {:name "المتحف العمومي الوطني الإخوة الشهداء بولعزيز",
+   :longitude 7.1361371,
+   :latitude 35.4323471,
+   :source :openstreetmap,
+   :locality "Khenchela"}
+  {:name "المتحف العمومي الوطني سطيف",
+   :longitude 5.4099283,
+   :latitude 36.1919013,
+   :source :openstreetmap,
+   :locality "سطيف"}
+  {:name "المتحف العمومي الوطني للآثار الإسلامية",
+   :longitude -1.3146495,
+   :latitude 34.8803061,
+   :source :openstreetmap,
+   :homepage "https://mait.dz/",
+   :locality "Tlemcen"}
+  {:name "المتحف الوطني للآثار والفنون الإسلامية",
+   :longitude 3.0460321,
+   :latitude 36.761574,
+   :source :openstreetmap,
+   :homepage "https://musee-antiquites.art.dz/",
+   :locality "Algiers"}
+  {:name "المجاهد",
+   :longitude 2.028381,
+   :latitude 35.8688415,
+   :source :openstreetmap}
+  {:name "المركب التاريخي للولاية الخامسة",
+   :longitude -1.3217799,
+   :latitude 34.8665737,
+   :source :openstreetmap}
+  {:name "المركة الثقافي الاسلامي",
+   :longitude 5.3016876,
+   :latitude 31.9416719,
+   :source :openstreetmap}
+  {:name "المركز الثقافي الإسلامي",
+   :longitude 5.7334734,
+   :latitude 34.8578194,
+   :source :openstreetmap,
+   :locality "Biskra"}
+  {:name "المركز الثقافي الإسلامي",
+   :longitude 0.1455591,
+   :latitude 35.4053276,
+   :source :openstreetmap,
+   :locality "معسكر"}
+  {:name "المركز الثقافي الإسلامي الوادي",
+   :longitude 6.8645936,
+   :latitude 33.3408336,
+   :source :openstreetmap,
+   :locality "El Oued"}
+  {:name "المركز الثقافي الجامع الكبير",
+   :longitude 4.7720547,
+   :latitude 36.0771576,
+   :source :openstreetmap}
+  {:name "المركز الثقافي الشهيد أحمد بن علية",
+   :longitude 5.3694005,
+   :latitude 35.384935,
+   :source :openstreetmap,
+   :locality "Barika"}
+  {:name "المركز الثقافي الشهيد ميلودي بشير",
+   :longitude -0.4645884,
+   :latitude 35.7300155,
+   :source :openstreetmap}
+  {:name "المركز الثقافي الفرنسي",
+   :longitude 7.7603978,
+   :latitude 36.9054612,
+   :source :openstreetmap,
+   :locality "عنابة"}
+  {:name "المركز الثقافي القديم",
+   :longitude 7.3857405,
+   :latitude 35.7935323,
+   :source :openstreetmap}
+  {:name "المركز الثقافي سماتي عبد الله",
+   :longitude 5.0612639,
+   :latitude 34.4243102,
+   :source :openstreetmap}
+  {:name "المركز الثقافي عائشة حداد",
+   :longitude 4.7543672,
+   :latitude 36.0745384,
+   :source :openstreetmap,
+   :locality "Bordj Bou Arreridj"}
+  {:name "المركز الثقافي مجدل",
+   :longitude 3.6758293,
+   :latitude 35.1496536,
+   :source :openstreetmap,
+   :locality "مجدل"}
+  {:name "المركز الثقافي منشار فرحي",
+   :longitude 6.2866161,
+   :latitude 36.2472634,
+   :source :openstreetmap}
+  {:name "المركز الثقافي هواري بومدين",
+   :longitude 2.7501058,
+   :latitude 35.8785584,
+   :source :openstreetmap}
+  {:name "المركز الجزائري للتراث الثقافي",
+   :longitude 0.2305536,
+   :latitude 29.2624601,
+   :source :openstreetmap,
+   :locality "تيميمون"}
+  {:name "النادي الثقافي",
+   :longitude 2.7175807,
+   :latitude 35.9111855,
+   :source :openstreetmap}
+  {:name "بيت الثقافة",
+   :longitude -0.6634855,
+   :latitude 35.4073997,
+   :source :openstreetmap,
+   :locality "تامزوغة"}
+  {:name "جامعه",
+   :longitude 7.6769795,
+   :latitude 33.371685,
+   :source :openstreetmap}
+  {:name "جمعية نوميديا ​​الثقافية",
+   :longitude -0.640795,
+   :latitude 35.7047994,
+   :source :openstreetmap,
+   :locality "وهران"}
+  {:name "جناح النشاطات الثقافية",
+   :longitude 1.3485592,
+   :latitude 35.3794057,
+   :source :openstreetmap}
+  {:name "دار الإمزاد",
+   :longitude 5.5429636,
+   :latitude 22.8050706,
+   :source :openstreetmap}
+  {:name "دار الثقافة",
+   :longitude 2.0237181,
+   :latitude 35.8708191,
+   :source :openstreetmap}
+  {:name "دار الثقافة",
+   :longitude 5.7456477,
+   :latitude 34.8584323,
+   :source :openstreetmap}
+  {:name "دار الثقافة",
+   :longitude 1.3448752,
+   :latitude 36.1620773,
+   :source :openstreetmap,
+   :locality "Chlef"}
+  {:name "دار الثقافة",
+   :longitude 5.7300247,
+   :latitude 34.8520404,
+   :source :openstreetmap}
+  {:name "دار الثقافة",
+   :longitude 5.4993939,
+   :latitude 35.8161001,
+   :source :openstreetmap}
+  {:name "دار الثقافة",
+   :longitude 5.2914817,
+   :latitude 35.8549946,
+   :source :openstreetmap,
+   :locality "صالح باي"}
+  {:name "دار الثقافة",
+   :longitude 0.5600975,
+   :latitude 35.744506,
+   :source :openstreetmap,
+   :locality "غليزان"}
+  {:name "دار الثقافة ابن باديس",
+   :longitude 1.9630143,
+   :latitude 36.2616776,
+   :source :openstreetmap,
+   :locality "Aïn Defla"}
+  {:name "دار الثقافة حسن الحسني",
+   :longitude 2.7617858,
+   :latitude 36.26011,
+   :source :openstreetmap,
+   :locality "Médéa"}
+  {:name "دار الثقافة مالك حداد",
+   :longitude 6.6094037,
+   :latitude 36.3515555,
+   :source :openstreetmap,
+   :locality "Constantine"}
+  {:name "دار الثقافة مسطفى خالف",
+   :longitude 0.1540813,
+   :latitude 34.8301459,
+   :source :openstreetmap,
+   :homepage "http://mculturesaida.com"}
+  {:name "دار الثقافة ⴰⵅⵅⴰⵎ ⵏ ⵢⴻⴷⵍⴻⵙ",
+   :longitude 7.1491703,
+   :latitude 35.4296801,
+   :source :openstreetmap,
+   :locality "Khenchela"}
+  {:name "دار الشباب",
+   :longitude 6.192742,
+   :latitude 35.5376363,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude 4.7564691,
+   :latitude 36.066006,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude -0.583001,
+   :latitude 35.637349,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude -0.5749988,
+   :latitude 34.7864759,
+   :source :openstreetmap,
+   :locality "تلاغ"}
+  {:name "دار الشباب",
+   :longitude -2.7103661,
+   :latitude 31.030124,
+   :source :openstreetmap,
+   :locality "العبادلة"}
+  {:name "دار الشباب",
+   :longitude 0.913897,
+   :latitude 35.9602818,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude 7.6048976,
+   :latitude 36.0308423,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude 1.33278,
+   :latitude 35.3719534,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude 1.3021624,
+   :latitude 34.8966786,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude 6.6961647,
+   :latitude 36.2565082,
+   :source :openstreetmap,
+   :locality "الخروب"}
+  {:name "دار الشباب",
+   :longitude 8.1232293,
+   :latitude 36.8372997,
+   :source :openstreetmap,
+   :locality "بريحان"}
+  {:name "دار الشباب",
+   :longitude 6.1848593,
+   :latitude 35.5471247,
+   :source :openstreetmap}
+  {:name "دار الشباب - بوعناني أحمد",
+   :longitude -0.6763422,
+   :latitude 34.717275,
+   :source :openstreetmap}
+  {:name "دار الشباب الاخوة بوصغير",
+   :longitude 1.3106864,
+   :latitude 35.3775551,
+   :source :openstreetmap,
+   :locality "Tiaret"}
+  {:name "دار الشباب عين الدفلى",
+   :longitude 1.9676256,
+   :latitude 36.2630942,
+   :source :openstreetmap,
+   :locality "عين الدفلى"}
+  {:name "دار الشباب لعور العيد",
+   :longitude 7.5342402,
+   :latitude 36.1271429,
+   :source :openstreetmap}
+  {:name "دار الشباب محمد بوضياف",
+   :longitude 5.0584187,
+   :latitude 34.4296267,
+   :source :openstreetmap}
+  {:name "دار الشباب محمد بومدين",
+   :longitude 5.0682357,
+   :latitude 34.4333344,
+   :source :openstreetmap,
+   :locality "اولاد جلال"}
+  {:name "دار الشباب مسلم احمد",
+   :longitude 3.589011,
+   :latitude 36.2618466,
+   :source :openstreetmap}
+  {:name "دار الصناعة التقليدية",
+   :longitude 2.7522453,
+   :latitude 36.2684913,
+   :source :openstreetmap}
+  {:name "دار ثقافة",
+   :longitude 5.7407533,
+   :latitude 34.8506091,
+   :source :openstreetmap}
+  {:name "دوار عبابسة",
+   :longitude 0.2575945,
+   :latitude 35.5076557,
+   :source :openstreetmap}
+  {:name "سجن سركاجي",
+   :longitude 3.0561027,
+   :latitude 36.7862627,
+   :source :openstreetmap}
+  {:name "قاعة النشاطات الثقافية",
+   :longitude 7.3523024,
+   :latitude 35.2944,
+   :source :openstreetmap}
+  {:name "قاعة متعددة النشاطات",
+   :longitude 2.1776627,
+   :latitude 34.477798,
+   :source :openstreetmap,
+   :locality "البيضاء.الجزائر"}
+  {:name "قصر الثقافة",
+   :longitude 8.1121019,
+   :latitude 35.3995848,
+   :source :openstreetmap,
+   :locality "تبسة"}
+  {:name "قصر الثقافة",
+   :longitude 4.536221,
+   :latitude 35.7068411,
+   :source :openstreetmap,
+   :locality "M'Sila"}
+  {:name "قصر الثقافة عبد الكريم دالي",
+   :longitude -1.3356268,
+   :latitude 34.8791971,
+   :source :openstreetmap,
+   :locality "Tlemcen"}
+  {:name
+   "لالا ساهلا / بودوايا / ⵍⴰⵍⵍⵣ ⵙⴰⵀⵍⴰ / ⴱⵓⴷⵡⴰⵢⴰ / lalla sahla / budwayz",
+   :longitude 3.7650286,
+   :latitude 32.8276144,
+   :source :openstreetmap}
+  {:name "متحف",
+   :longitude 4.5460249,
+   :latitude 35.7168946,
+   :source :openstreetmap}
+  {:name "متحف الامير عبدالقادر",
+   :longitude 0.0625586,
+   :latitude 35.4217912,
+   :source :openstreetmap}
+  {:name "متحف الحضارة الإسلامية",
+   :longitude 3.1379401,
+   :latitude 36.7358713,
+   :source :openstreetmap,
+   :locality "Mohammadia"}
+  {:name "متحف الصحاري الوطني 27 فبراير",
+   :longitude -8.009481,
+   :latitude 27.5145822,
+   :source :openstreetmap}
+  {:name "متحف الضريح تين هينان",
+   :longitude 4.8666686,
+   :latitude 22.8853925,
+   :source :openstreetmap,
+   :locality "أبلسة"}
+  {:name "متحف العقيد سي الحواس",
+   :longitude 6.0088992,
+   :latitude 34.9489572,
+   :source :openstreetmap}
+  {:name "متحف الفلاحة",
+   :longitude -0.6603038,
+   :latitude 35.1785285,
+   :source :openstreetmap}
+  {:name "متحف القنادسة",
+   :longitude -2.4263505,
+   :latitude 31.5540328,
+   :source :openstreetmap,
+   :locality "القنادسة"}
+  {:name "متحف المجاهد",
+   :longitude 3.2490804,
+   :latitude 34.6669665,
+   :source :openstreetmap}
+  {:name "متحف المجاهد",
+   :longitude -0.315981,
+   :latitude 33.2620768,
+   :source :openstreetmap}
+  {:name "متحف المجاهد",
+   :longitude 7.7426438,
+   :latitude 36.9134242,
+   :source :openstreetmap}
+  {:name "متحف المجاهد",
+   :longitude 6.0377691,
+   :latitude 36.4590984,
+   :source :openstreetmap}
+  {:name "متحف المجاهد",
+   :longitude 7.112496,
+   :latitude 35.8680312,
+   :source :openstreetmap,
+   :locality "Oum El Bouaghi"}
+  {:name "متحف المجاهد",
+   :longitude 4.5380198,
+   :latitude 35.7153044,
+   :source :openstreetmap,
+   :locality "المسيلة"}
+  {:name "متحف المجاهد",
+   :longitude 5.2849745,
+   :latitude 31.9433678,
+   :source :openstreetmap,
+   :locality "Ouargla"}
+  {:name "متحف المجاهد",
+   :longitude 3.6314971,
+   :latitude 32.2689942,
+   :source :openstreetmap,
+   :locality "متليلي الشعانبة"}
+  {:name "متحف المجاهد لولاية جيجل",
+   :longitude 5.7916063,
+   :latitude 36.8027927,
+   :source :openstreetmap}
+  {:name "متحف المجاهدين",
+   :longitude 6.0697328,
+   :latitude 33.1057079,
+   :source :openstreetmap,
+   :locality "تقرت"}
+  {:name "متحف المجاهدين",
+   :longitude 7.124281,
+   :latitude 35.4374169,
+   :source :openstreetmap,
+   :locality "خنشلة"}
+  {:name "متحف بني عباس",
+   :longitude -2.1766917,
+   :latitude 30.1292333,
+   :source :openstreetmap,
+   :locality "بني عباس"}
+  {:name "متحف تازولت ⴰⵙⴰⵍⴰⵢ ⵏ ⵓⵥⴰⵡⴰⵏ",
+   :longitude 6.2576267,
+   :latitude 35.4814716,
+   :source :openstreetmap}
+  {:name "متحف تيمقاد",
+   :longitude 6.4689331,
+   :latitude 35.4882752,
+   :source :openstreetmap}
+  {:name "متحف مجمع المجاهد",
+   :longitude 6.3545205,
+   :latitude 36.114321,
+   :source :openstreetmap}
+  {:name "متحف ناصر الدين ديني",
+   :longitude 4.1811803,
+   :latitude 35.2161803,
+   :source :openstreetmap}
+  {:name "متحف والتسجيل الطاسيلي",
+   :longitude 9.4862973,
+   :latitude 24.554138,
+   :source :openstreetmap,
+   :locality "جانت"}
+  {:name "متحف ولاية الطارف",
+   :longitude 8.3107163,
+   :latitude 36.7662743,
+   :source :openstreetmap}
+  {:name "مديرية الحماية المدنية لولاية تندوف",
+   :longitude -8.1324015,
+   :latitude 27.6491295,
+   :source :openstreetmap,
+   :locality "تندوف"}
+  {:name "مركز الثقافة",
+   :longitude -1.858573,
+   :latitude 35.1012816,
+   :source :openstreetmap,
+   :locality "الغزوات"}
+  {:name "مركز الثقافي الشهيد كبداني عبد القادر",
+   :longitude -0.4294916,
+   :latitude 35.7826146,
+   :source :openstreetmap}
+  {:name "مركز الشباب",
+   :longitude 5.0990235,
+   :latitude 35.6175821,
+   :source :openstreetmap,
+   :locality "مقرة"}
+  {:name "مركز الفنون والثقافة *قصر رياس البحر* حصن 23",
+   :longitude 3.0640042,
+   :latitude 36.7882733,
+   :source :openstreetmap,
+   :homepage
+   "https://bloom-communication.dz/Bastion23/index.php/fr/palais-des-rais/"}
+  {:name "مركز تقافي",
+   :longitude 3.0462768,
+   :latitude 36.7863691,
+   :source :openstreetmap}
+  {:name "مركز ثقافي",
+   :longitude -2.2196018,
+   :latitude 31.6113871,
+   :source :openstreetmap,
+   :locality "بشار"}
+  {:name "مركز ثقافي",
+   :longitude -0.1917318,
+   :latitude 27.229559,
+   :source :openstreetmap,
+   :locality "زاوية كنتة"}
+  {:name "مركز ثقافي",
+   :longitude 6.9394082,
+   :latitude 33.5023256,
+   :source :openstreetmap,
+   :locality "الدبيلة"}
+  {:name "مركز ثقافي",
+   :longitude 6.7015155,
+   :latitude 36.2586934,
+   :source :openstreetmap,
+   :locality "El khroub"}
+  {:name "مركز ثقافي",
+   :longitude 2.9943586,
+   :latitude 36.5954233,
+   :source :openstreetmap,
+   :locality "أولاد شبل"}
+  {:name "مركز ثقافي.",
+   :longitude 3.0578429,
+   :latitude 36.7782989,
+   :source :openstreetmap,
+   :homepage "http://www.mama-dz.com"}
+  {:name "مسجد الامام",
+   :longitude 3.7985944,
+   :latitude 32.3540738,
+   :source :openstreetmap}
+  {:name "مسجد الغمامة",
+   :longitude 0.1362794,
+   :latitude 35.4046837,
+   :source :openstreetmap}
+  {:name "مسجد الفجر",
+   :longitude 0.1320548,
+   :latitude 35.4072379,
+   :source :openstreetmap}
+  {:name "مسجد الهدى",
+   :longitude 7.7415063,
+   :latitude 36.7570729,
+   :source :openstreetmap}
+  {:name "مسجد بلال بن رباح",
+   :longitude 6.3459715,
+   :latitude 36.1094602,
+   :source :openstreetmap}
+  {:name "مسجد خالد بن الوليد بن جعيدة 05",
+   :longitude 3.2394209,
+   :latitude 36.7947793,
+   :source :openstreetmap}
+  {:name "مسجد عمر بن الخطاب",
+   :longitude 3.2327161,
+   :latitude 36.7824823,
+   :source :openstreetmap}
+  {:name "معرض الذاكرة",
+   :longitude 3.0211182,
+   :latitude 36.7346557,
+   :source :openstreetmap}
+  {:name "معهد موسيقي",
+   :longitude 1.0168266,
+   :latitude 33.6823363,
+   :source :openstreetmap,
+   :locality "البيض"}
+  {:name "مقام الشهداء",
+   :longitude 6.3406752,
+   :latitude 36.5713448,
+   :source :openstreetmap}
+  {:name "منزل عبد الكريم",
+   :longitude 5.5856028,
+   :latitude 22.8226528,
+   :source :openstreetmap}
+  {:name "نادي الثقافي",
+   :longitude -0.2799075,
+   :latitude 33.5479889,
+   :source :openstreetmap,
+   :locality "Mecheria"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

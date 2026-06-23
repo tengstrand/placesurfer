@@ -1,0 +1,634 @@
+{:count 119,
+ :country "luxembourg",
+ :country-code "LU",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:06.806955Z",
+ :positions
+ [{:name "1:1",
+   :longitude 6.1288817,
+   :latitude 49.6004518,
+   :source :openstreetmap,
+   :homepage "https://gallery1to1.com/",
+   :locality "Luxembourg"}
+  {:name "A Possen",
+   :longitude 6.3542304,
+   :latitude 49.5287982,
+   :source :openstreetmap,
+   :locality "Bech-Kleinmacher"}
+  {:name "A Rousen",
+   :longitude 5.8759872,
+   :latitude 49.5556563,
+   :source :openstreetmap,
+   :locality "Pétange"}
+  {:name "A Schmadds",
+   :longitude 6.3508329,
+   :latitude 49.8231548,
+   :source :openstreetmap,
+   :locality "Berdorf"}
+  {:name "Al Seerei",
+   :longitude 6.1494557,
+   :latitude 49.8635574,
+   :source :openstreetmap}
+  {:name "Am Duerf",
+   :longitude 6.253137,
+   :latitude 49.7135365,
+   :source :openstreetmap}
+  {:name "Am Medenpoull",
+   :longitude 6.2599845,
+   :latitude 49.6002347,
+   :source :openstreetmap}
+  {:name "Annexe Drescherhaus",
+   :longitude 6.1416099,
+   :latitude 49.6350199,
+   :source :openstreetmap,
+   :locality "Luxembourg"}
+  {:name "Antimon-Musée",
+   :longitude 5.9662374,
+   :latitude 49.9208831,
+   :source :openstreetmap,
+   :locality "Goesdorf"}
+  {:name "Art et Création a.s.b.l.",
+   :longitude 6.2983459,
+   :latitude 49.5211647,
+   :source :openstreetmap,
+   :homepage "https://art-et-creation.lu/",
+   :locality "Ellange"}
+  {:name "Artikuss",
+   :longitude 5.92686,
+   :latitude 49.5180022,
+   :source :openstreetmap,
+   :homepage "https://artikuss.lu/"}
+  {:name "Ausgriewermusee",
+   :longitude 6.0079389,
+   :latitude 49.6738631,
+   :source :openstreetmap,
+   :homepage "https://gka.lu/",
+   :locality "Nospelt"}
+  {:name "Beim Nessert",
+   :longitude 6.0402131,
+   :latitude 49.5234148,
+   :source :openstreetmap,
+   :locality "Bergem"}
+  {:name "Biodiversum",
+   :longitude 6.3618914,
+   :latitude 49.4934621,
+   :source :openstreetmap,
+   :homepage
+   "https://environnement.public.lu/fr/natur-erliewen/centres-d_accueil/biodiversum.html",
+   :locality "Remerschen"}
+  {:name "Brandbau",
+   :longitude 5.9345268,
+   :latitude 49.9621925,
+   :source :openstreetmap,
+   :locality "Wiltz"}
+  {:name "Bâtiment IV - Tiers lieu culturel",
+   :longitude 5.9905357,
+   :latitude 49.4986907,
+   :source :openstreetmap,
+   :homepage "https://www.batiment-4.lu/"}
+  {:name "Casemates du Bock",
+   :longitude 6.1366893,
+   :latitude 49.6116635,
+   :source :openstreetmap,
+   :homepage
+   "https://www.luxembourg-city.com/en/tours-activities/underground/bock-casemates"}
+  {:name "Casino Luxembourg - Forum d'art contemporain",
+   :longitude 6.1271673,
+   :latitude 49.6097822,
+   :source :openstreetmap,
+   :homepage "http://www.casino-luxembourg.lu/",
+   :locality "Luxembourg"}
+  {:name "CELO",
+   :longitude 6.1595224,
+   :latitude 49.5713094,
+   :source :openstreetmap,
+   :locality "Hesperange"}
+  {:name "Center culturel Machera",
+   :longitude 6.4462238,
+   :latitude 49.6799905,
+   :source :openstreetmap,
+   :homepage "https://machera.lu/",
+   :locality "Grevenmacher"}
+  {:name "Centre culturel",
+   :longitude 5.8558193,
+   :latitude 49.5481662,
+   :source :openstreetmap,
+   :locality "Lamadelaine"}
+  {:name "Centre Culturel",
+   :longitude 5.9773215,
+   :latitude 50.156158,
+   :source :openstreetmap,
+   :locality "Hautbellain"}
+  {:name "Centre Culturel",
+   :longitude 5.9398723,
+   :latitude 49.5142417,
+   :source :openstreetmap,
+   :locality "Belvaux"}
+  {:name "Centre Culturel \"A Maesch\"",
+   :longitude 6.0971915,
+   :latitude 49.8820042,
+   :source :openstreetmap,
+   :homepage "https://www.erpeldange.lu/"}
+  {:name "Centre Culturel de Beggen",
+   :longitude 6.1281678,
+   :latitude 49.644018,
+   :source :openstreetmap,
+   :locality "Luxembourg"}
+  {:name "Centre culturel de Dippach",
+   :longitude 5.9805689,
+   :latitude 49.587541,
+   :source :openstreetmap,
+   :locality "Dippach"}
+  {:name "Centre Culturel de Rambrouch",
+   :longitude 5.8494529,
+   :latitude 49.8307394,
+   :source :openstreetmap,
+   :locality "Rambrouch"}
+  {:name "Centre culturel Helmdange",
+   :longitude 6.1405696,
+   :latitude 49.6931685,
+   :source :openstreetmap,
+   :locality "Helmdange"}
+  {:name "Centre culturel Hupperdange",
+   :longitude 6.0599839,
+   :latitude 50.0940865,
+   :source :openstreetmap,
+   :locality "Hupperdange"}
+  {:name "Centre culturel Marcel Noppeney",
+   :longitude 5.8940132,
+   :latitude 49.5149466,
+   :source :openstreetmap,
+   :homepage "https://www.differdange.lu/",
+   :locality "Oberkorn"}
+  {:name "Centre Culturel Moutfort",
+   :longitude 6.2568353,
+   :latitude 49.5871116,
+   :source :openstreetmap,
+   :locality "Moutfort"}
+  {:name "Centre Culturel Rodange",
+   :longitude 5.841076,
+   :latitude 49.5466248,
+   :source :openstreetmap,
+   :locality "Rodange"}
+  {:name "Centre Culturel Turelbach",
+   :longitude 6.0058898,
+   :latitude 49.8335459,
+   :source :openstreetmap}
+  {:name "Centre d'Art Nei Liicht",
+   :longitude 6.0858063,
+   :latitude 49.4825574,
+   :source :openstreetmap,
+   :locality "Dudelange"}
+  {:name
+   "Centre de Création Chorégraphique Luxembourgeois Trois C-L Asbl",
+   :longitude 6.1358095,
+   :latitude 49.598243,
+   :source :openstreetmap,
+   :homepage "https://www.danse.lu/",
+   :locality "Luxembourg"}
+  {:name "Centre de documentation sur les migrations humaines",
+   :longitude 6.0791966,
+   :latitude 49.4725549,
+   :source :openstreetmap}
+  {:name "Centre de découverte de la Forêt Burfelt",
+   :longitude 5.8570889,
+   :latitude 49.9001688,
+   :source :openstreetmap,
+   :homepage
+   "https://environnement.public.lu/fr/natur-erliewen/centres-d_accueil/burfelt.html"}
+  {:name "Centre de Loisirs Loisi",
+   :longitude 6.2461379,
+   :latitude 49.6535118,
+   :source :openstreetmap}
+  {:name "Centre National de l'Audiovisuel (CNA)",
+   :longitude 6.0823954,
+   :latitude 49.4744386,
+   :source :openstreetmap}
+  {:name "ClausenArt",
+   :longitude 6.1460607,
+   :latitude 49.6148004,
+   :source :openstreetmap,
+   :homepage "https://clausenart.lu/",
+   :locality "Luxembourg"}
+  {:name "Conservatoire National de Véhicules Historiques Diekirch",
+   :longitude 6.1585528,
+   :latitude 49.8680438,
+   :source :openstreetmap,
+   :homepage "https://www.cnvh.lu/",
+   :locality "Diekirch"}
+  {:name "Culture@Walfer",
+   :longitude 6.1307345,
+   :latitude 49.6593091,
+   :source :openstreetmap,
+   :homepage "https://caw-walfer.lu/",
+   :locality "Helmsange"}
+  {:name "Deportation Museum",
+   :longitude 6.1208189,
+   :latitude 49.5953936,
+   :source :openstreetmap}
+  {:name "Déi al Millen",
+   :longitude 5.8961745,
+   :latitude 49.7267197,
+   :source :openstreetmap}
+  {:name "Epicerie Binck",
+   :longitude 5.8633508,
+   :latitude 49.5339499,
+   :source :openstreetmap,
+   :homepage "https://minettpark.lu/activites/epicerie-victor-binck/",
+   :locality "Niederkorn"}
+  {:name "Espace H2O",
+   :longitude 5.9004195,
+   :latitude 49.51374,
+   :source :openstreetmap,
+   :homepage "https://www.differdange.lu/",
+   :locality "Oberkorn"}
+  {:name "Espace Muséologique",
+   :longitude 5.8354609,
+   :latitude 49.5239411,
+   :source :openstreetmap,
+   :homepage "http://www.fond-de-gras.lu"}
+  {:name "Europa Experience Luxembourg",
+   :longitude 6.1490822,
+   :latitude 49.6213854,
+   :source :openstreetmap,
+   :homepage
+   "https://visiting.europarl.europa.eu/en/visitor-offer/other-locations/europa-experience/luxembourg"}
+  {:name "Fondation de l'Architecture et de l'ingénierie Luxembourg",
+   :longitude 6.1246579,
+   :latitude 49.5975564,
+   :source :openstreetmap}
+  {:name "Fräihof",
+   :longitude 6.4738445,
+   :latitude 49.8188338,
+   :source :openstreetmap,
+   :homepage
+   "https://rosportmompach.lu/steinheim-centre-culturel-fraeihof/",
+   :locality "Steinheim"}
+  {:name "Galerie am Duerf",
+   :longitude 6.1226861,
+   :latitude 49.676816,
+   :source :openstreetmap,
+   :locality "Steinsel"}
+  {:name "Galerie Celsius",
+   :longitude 6.2555719,
+   :latitude 49.6886106,
+   :source :openstreetmap,
+   :homepage "https://www.rolfschmitt.lu/fr-FR"}
+  {:name "Galerie d’art contemporain ‘Am Tunnel’",
+   :longitude 6.1278106,
+   :latitude 49.6054742,
+   :source :openstreetmap,
+   :homepage "https://www.bcee.lu/"}
+  {:name "General Patton Memorial",
+   :longitude 6.1041125,
+   :latitude 49.8486748,
+   :source :openstreetmap,
+   :homepage "https://www.patton.lu/",
+   :locality "Ettelbruck"}
+  {:name "Geo-Expo",
+   :longitude 6.2924527,
+   :latitude 49.834252,
+   :source :openstreetmap,
+   :homepage "https://www.naturpark-mellerdall.lu",
+   :locality "Beaufort"}
+  {:name "Grouwen a Feldbunn",
+   :longitude 5.9755987,
+   :latitude 49.475144,
+   :source :openstreetmap,
+   :homepage "https://rail.lu/feldbunnbanz.html"}
+  {:name "Hall polyvalent",
+   :longitude 6.0170611,
+   :latitude 50.0616907,
+   :source :openstreetmap,
+   :locality "Clervaux"}
+  {:name "Hanner Bra",
+   :longitude 6.3654806,
+   :latitude 49.7510354,
+   :source :openstreetmap,
+   :locality "Bech"}
+  {:name "Home Saint-Hubert",
+   :longitude 5.8737606,
+   :latitude 49.5588352,
+   :source :openstreetmap,
+   :homepage "http://www.konschtmillen.lu",
+   :locality "Pétange"}
+  {:name "Home Saint-Joseph",
+   :longitude 6.1227583,
+   :latitude 49.5911646,
+   :source :openstreetmap,
+   :locality "Luxembourg"}
+  {:name "Kinneksbond",
+   :longitude 6.0310745,
+   :latitude 49.6287596,
+   :source :openstreetmap}
+  {:name "Koffergrouf vu Stolzebuerg",
+   :longitude 6.1504379,
+   :latitude 49.9677662,
+   :source :openstreetmap,
+   :homepage "https://www.stolzembourg.lu/"}
+  {:name "Kulturfabrik",
+   :longitude 5.9881816,
+   :latitude 49.5037927,
+   :source :openstreetmap,
+   :homepage "https://kulturfabrik.lu/",
+   :locality "Esch-sur-Alzette"}
+  {:name "Kulturhaus Kopstal",
+   :longitude 6.0731714,
+   :latitude 49.6646448,
+   :source :openstreetmap,
+   :locality "Kopstal"}
+  {:name "Kulturhuef",
+   :longitude 6.4490536,
+   :latitude 49.6833103,
+   :source :openstreetmap,
+   :homepage "https://www.kulturhuef.lu/de/"}
+  {:name "Larei",
+   :longitude 6.2052017,
+   :latitude 49.9373295,
+   :source :openstreetmap,
+   :homepage "https://castle-vianden.lu/"}
+  {:name "Luxembourg Science Center",
+   :longitude 5.8944029,
+   :latitude 49.5220735,
+   :source :openstreetmap,
+   :homepage "https://www.science-center.lu/",
+   :locality "Differdange"}
+  {:name "Maison néolithique",
+   :longitude 6.1608584,
+   :latitude 49.7014937,
+   :source :openstreetmap}
+  {:name "Maison Victor Hugo",
+   :longitude 6.2077549,
+   :latitude 49.9339322,
+   :source :openstreetmap,
+   :homepage "https://victor-hugo.lu/",
+   :locality "Vianden"}
+  {:name "Massenoire",
+   :longitude 5.9482198,
+   :latitude 49.5007054,
+   :source :openstreetmap,
+   :homepage "https://www.fonds-belval.lu/",
+   :locality "Esch-sur-Alzette"}
+  {:name "Matchbox Autos Museum",
+   :longitude 6.5153728,
+   :latitude 49.7834143,
+   :source :openstreetmap,
+   :homepage
+   "https://www.mullerthal.lu/de/fiche/museum/matchbox-autos-museum"}
+  {:name "Mierscher Kulturhaus",
+   :longitude 6.1046825,
+   :latitude 49.7481394,
+   :source :openstreetmap,
+   :homepage "https://kulturhaus.lu",
+   :locality "Mersch"}
+  {:name "Mine Grouwen",
+   :longitude 5.878699,
+   :latitude 49.5174428,
+   :source :openstreetmap,
+   :homepage "https://www.differdange.lu/"}
+  {:name "Musee de Police",
+   :longitude 5.9874248,
+   :latitude 49.6450594,
+   :source :openstreetmap,
+   :homepage "https://www.gendarmerie.lu/",
+   :locality "Capellen"}
+  {:name "Museum Moulin d'Asselborn",
+   :longitude 5.9640197,
+   :latitude 50.0879912,
+   :source :openstreetmap,
+   :homepage "https://hotelvieuxmoulin.lu/"}
+  {:name "Museum of the Battle of the Bulge",
+   :longitude 5.9383164,
+   :latitude 49.9662696,
+   :source :openstreetmap,
+   :homepage "https://www.wiltz.lu/de/tourismus/kultur-kunst/museen-2"}
+  {:name "Musée 385th bomb group",
+   :longitude 5.7638319,
+   :latitude 49.8099176,
+   :source :openstreetmap,
+   :homepage "https://www.385bg.lu/"}
+  {:name "Musée d'Histoire(s) de la ville de Diekirch",
+   :longitude 6.1615869,
+   :latitude 49.8689085,
+   :source :openstreetmap,
+   :homepage "http://www.mhsd.lu/"}
+  {:name "Musée de l'Abbaye",
+   :longitude 6.4218385,
+   :latitude 49.8135928,
+   :source :openstreetmap,
+   :homepage "http://museedelabbaye.lu/",
+   :locality "Echternach"}
+  {:name "Musée de l'Ardoise",
+   :longitude 5.7538032,
+   :latitude 49.824758,
+   :source :openstreetmap,
+   :homepage "https://www.ardoise.lu"}
+  {:name "Musée de l'aviation",
+   :longitude 6.2824438,
+   :latitude 49.5011617,
+   :source :openstreetmap}
+  {:name "Musée de la Police Grand-Ducale",
+   :longitude 6.1392112,
+   :latitude 49.6061196,
+   :source :openstreetmap}
+  {:name "Musée de la Ville de Vianden et du Jouet",
+   :longitude 6.2025215,
+   :latitude 49.933587,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visit-vianden.lu/de/kultur-freizeit/museen-kultur"}
+  {:name "Musée de Tramways et de Bus",
+   :longitude 6.1027458,
+   :latitude 49.5990689,
+   :source :openstreetmap,
+   :locality "Luxembourg"}
+  {:name "Musée Dräi Eechelen",
+   :longitude 6.1392966,
+   :latitude 49.616395,
+   :source :openstreetmap,
+   :homepage "https://m3e.public.lu/fr.html",
+   :locality "Luxembourg"}
+  {:name "Musée du Vin",
+   :longitude 6.3861321,
+   :latitude 49.6008857,
+   :source :openstreetmap}
+  {:name "Musée européen Schengen",
+   :longitude 6.3662837,
+   :latitude 49.4708581,
+   :source :openstreetmap,
+   :homepage "https://www.visitschengen.lu/en/european-museum"}
+  {:name "Musée Koffergrouf Stolzembourg",
+   :longitude 6.167867,
+   :latitude 49.9642874,
+   :source :openstreetmap,
+   :homepage "https://www.stolzembourg.lu/kupfermine/"}
+  {:name "Musée Michel Lucius",
+   :longitude 5.9531985,
+   :latitude 49.7963728,
+   :source :openstreetmap,
+   :homepage "https://www.museemichellucius.lu/",
+   :locality "Reimberg"}
+  {:name "Musée National de la Résistance",
+   :longitude 5.975892,
+   :latitude 49.4923688,
+   :source :openstreetmap,
+   :homepage "https://mnr.lu/"}
+  {:name "Musée national des Mines",
+   :longitude 6.0212335,
+   :latitude 49.4612815,
+   :source :openstreetmap,
+   :homepage "http://www.mnm.lu/",
+   :locality "Rumelange"}
+  {:name "Musée Rural A Schiewesch",
+   :longitude 6.0366702,
+   :latitude 50.1173929,
+   :source :openstreetmap,
+   :homepage "https://www.museebinsfeld.lu",
+   :locality "Binsfeld"}
+  {:name "Musée Rural et Artisanal",
+   :longitude 6.1299258,
+   :latitude 49.5236529,
+   :source :openstreetmap,
+   :homepage "https://www.musee-rural.lu/"}
+  {:name "Musée Tudor sur l'électricité et les accumulateurs",
+   :longitude 6.4984173,
+   :latitude 49.803886,
+   :source :openstreetmap,
+   :homepage "https://www.musee-tudor.lu/",
+   :locality "Rosport"}
+  {:name "Näerdener Gare: Musée chemins de fer régionaux",
+   :longitude 5.922388,
+   :latitude 49.7420393,
+   :source :openstreetmap}
+  {:name "Oeuvres paroissiales",
+   :longitude 5.9169437,
+   :latitude 49.5185303,
+   :source :openstreetmap,
+   :locality "Soleuvre"}
+  {:name "Old barns/stables. Now art workshops",
+   :longitude 6.2164701,
+   :latitude 49.7022646,
+   :source :openstreetmap}
+  {:name "Parc Industriel et Ferroviaire du Fond-de-Gras",
+   :longitude 5.8574706,
+   :latitude 49.5353925,
+   :source :openstreetmap,
+   :homepage "http://www.fond-de-gras.lu/"}
+  {:name "Park Sënnesräich",
+   :longitude 5.939371,
+   :latitude 50.0585284,
+   :source :openstreetmap,
+   :homepage "https://www.sennesraich.lu/"}
+  {:name "PLOMM Kannermusée",
+   :longitude 5.92453,
+   :latitude 49.9667283,
+   :source :openstreetmap,
+   :homepage "https://www.plomm.lu/"}
+  {:name "Pompjeesmusee",
+   :longitude 5.928019,
+   :latitude 49.9679893,
+   :source :openstreetmap,
+   :homepage "https://www.pompjeesmusee.lu/",
+   :locality "Wiltz"}
+  {:name "Pompjeesmusee Gemeng Miersch",
+   :longitude 6.1153487,
+   :latitude 49.7677969,
+   :source :openstreetmap,
+   :homepage "https://www.pjm.lu/"}
+  {:name "Rackésmillen",
+   :longitude 5.9895964,
+   :latitude 50.0000381,
+   :source :openstreetmap,
+   :homepage "https://robbesscheier.lu"}
+  {:name "Rainbow Center",
+   :longitude 6.1334416,
+   :latitude 49.6093609,
+   :source :openstreetmap,
+   :homepage "https://rainbowcenter.lu/",
+   :locality "Luxembourg"}
+  {:name "Ratskeller",
+   :longitude 6.1303877,
+   :latitude 49.6112639,
+   :source :openstreetmap,
+   :homepage "https://cerclecite.lu/"}
+  {:name "Reemerhof",
+   :longitude 6.5041681,
+   :latitude 49.8043664,
+   :source :openstreetmap,
+   :homepage
+   "https://rosportmompach.lu/rosport-centre-culturel-reemerhoof/",
+   :locality "Rosport"}
+  {:name "replica Roman mozaic Vichten",
+   :longitude 5.9958213,
+   :latitude 49.8036764,
+   :source :openstreetmap}
+  {:name "Robbesscheier",
+   :longitude 6.0381784,
+   :latitude 50.0327735,
+   :source :openstreetmap,
+   :homepage "https://www.robbesscheier.lu/de",
+   :locality "Munshausen"}
+  {:name "Rotondes",
+   :longitude 6.136469,
+   :latitude 49.6014043,
+   :source :openstreetmap,
+   :homepage "https://www.rotondes.lu/"}
+  {:name "Schreibmuseum und ehemaliges Klassenzimmer",
+   :longitude 5.9710423,
+   :latitude 50.0949097,
+   :source :openstreetmap,
+   :homepage "http://relaispostal.lu/"}
+  {:name "Textil Musée Larochette",
+   :longitude 6.219424,
+   :latitude 49.7840099,
+   :source :openstreetmap,
+   :homepage "https://textilmuseelarochette.lu/en/",
+   :locality "Larochette"}
+  {:name "The Family of Man",
+   :longitude 6.0300408,
+   :latitude 50.0545115,
+   :source :openstreetmap,
+   :homepage "https://www.steichencollections-cna.lu/"}
+  {:name "Thillenvogtei",
+   :longitude 5.9000538,
+   :latitude 49.8496921,
+   :source :openstreetmap,
+   :homepage "http://www.thillenvogtei.lu"}
+  {:name "Tuchfabrik",
+   :longitude 5.9307576,
+   :latitude 49.9071634,
+   :source :openstreetmap,
+   :homepage "https://www.naturpark-sure.lu/",
+   :locality "Esch-sur-Sûre"}
+  {:name "Valentiny Foundation",
+   :longitude 6.3518526,
+   :latitude 49.4913093,
+   :source :openstreetmap,
+   :homepage "http://www.valentiny-foundation.com/",
+   :locality "Remerschen"}
+  {:name "Veräinsbau Christnach",
+   :longitude 6.2692559,
+   :latitude 49.7875222,
+   :source :openstreetmap,
+   :locality "Christnach"}
+  {:name "Villa Romana",
+   :longitude 6.4121124,
+   :latitude 49.8044185,
+   :source :openstreetmap,
+   :homepage "https://www.mnha.lu/"}
+  {:name "Villa Vauban",
+   :longitude 6.1224881,
+   :latitude 49.6131068,
+   :source :openstreetmap,
+   :homepage "https://villavauban.lu/",
+   :locality "Luxembourg"}
+  {:name "Vitarium by Luxlait",
+   :longitude 6.0822373,
+   :latitude 49.778875,
+   :source :openstreetmap,
+   :homepage "https://www.vitarium.lu/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

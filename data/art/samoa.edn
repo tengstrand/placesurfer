@@ -1,0 +1,41 @@
+{:count 5,
+ :country "samoa",
+ :country-code "WS",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:11.878119Z",
+ :positions
+ [{:name "1927 Magiagi Hydro Scheme Building Ruins",
+   :longitude -171.7541847,
+   :latitude -13.8510238,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Museum of Samoa",
+   :longitude -171.7626948,
+   :latitude -13.8397183,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Robert Louis Stevenson's Museum",
+   :longitude -171.7656154,
+   :latitude -13.8666138,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "SPACE | Samoa Performing Arts & Creative Excellence",
+   :longitude -171.7753393,
+   :latitude -13.8378874,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Tiapapata Arts Centre",
+   :longitude -171.780444,
+   :latitude -13.8978476,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

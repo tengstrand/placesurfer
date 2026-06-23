@@ -1,0 +1,611 @@
+{:count 134,
+ :country "tunisia",
+ :country-code "TN",
+ :dataset :art,
+ :generated-at "2026-05-26T06:37:10.787838Z",
+ :positions
+ [{:name "Alliance Française",
+   :longitude 10.8524839,
+   :latitude 33.8740376,
+   :source :openstreetmap}
+  {:name "Centre Culturel d'Enfidha",
+   :longitude 10.3760273,
+   :latitude 36.1326322,
+   :source :openstreetmap}
+  {:name "Centre Culturel de Ben Arous",
+   :longitude 10.2193703,
+   :latitude 36.7537393,
+   :source :openstreetmap}
+  {:name "Centre Culturel de Gammarth Village",
+   :longitude 10.3012846,
+   :latitude 36.9059418,
+   :source :openstreetmap,
+   :locality "قمرت"}
+  {:name "Centre culturel de Hammam-Sousse",
+   :longitude 10.595946,
+   :latitude 35.8571093,
+   :source :openstreetmap}
+  {:name "Centre Culturel de Nabeul",
+   :longitude 10.7295296,
+   :latitude 36.442552,
+   :source :openstreetmap}
+  {:name "Centre culturel Hassan Zmerli",
+   :longitude 10.1741902,
+   :latitude 36.7924301,
+   :source :openstreetmap}
+  {:name "Centre Culturel International de Hammamet",
+   :longitude 10.5946455,
+   :latitude 36.4042194,
+   :source :openstreetmap}
+  {:name "Centre des Etudes Islamiques de Kairouan",
+   :longitude 10.0841601,
+   :latitude 35.6507472,
+   :source :openstreetmap}
+  {:name "Centre Le Masque",
+   :longitude 10.4976132,
+   :latitude 34.5217802,
+   :source :openstreetmap,
+   :homepage "https://creativeafrica.art/"}
+  {:name "CODA Ecole de musique, peinture et danse",
+   :longitude 10.3247511,
+   :latitude 36.8745592,
+   :source :openstreetmap,
+   :homepage
+   "http://www.facebook.com/EcoleDeMusiquepeintureEtDanseLaMarsa/",
+   :locality "المرسى"}
+  {:name "Dar Cherait",
+   :longitude 8.1206149,
+   :latitude 33.9131635,
+   :source :openstreetmap}
+  {:name "Dar El Jem",
+   :longitude 10.7054209,
+   :latitude 35.2984183,
+   :source :openstreetmap}
+  {:name "Dar Taoufik Matmata",
+   :longitude 9.9429978,
+   :latitude 33.549859,
+   :source :openstreetmap}
+  {:name "Ecomuseum",
+   :longitude 10.32972,
+   :latitude 36.7263555,
+   :source :openstreetmap}
+  {:name "Eden Palm",
+   :longitude 8.1472011,
+   :latitude 33.9171094,
+   :source :openstreetmap,
+   :homepage "www.eden-palm.com"}
+  {:name "Espace Khazna D'ART",
+   :longitude 10.1223296,
+   :latitude 36.805449,
+   :source :openstreetmap}
+  {:name "Espace l'Art de la Vie",
+   :longitude 8.8280281,
+   :latitude 35.1652046,
+   :source :openstreetmap}
+  {:name "Galerie Hédi Turki",
+   :longitude 10.3472314,
+   :latitude 36.8707764,
+   :source :openstreetmap}
+  {:name "Galerie Saladin",
+   :longitude 10.343972,
+   :latitude 36.8697271,
+   :source :openstreetmap}
+  {:name "Ghar eI Kébir",
+   :longitude 10.9954169,
+   :latitude 37.0591481,
+   :source :openstreetmap,
+   :locality "El Haouaria"}
+  {:name "Hadhihi Laylati",
+   :longitude 8.8444883,
+   :latitude 35.1655862,
+   :source :openstreetmap}
+  {:name "Hier et Aujourd'hui",
+   :longitude 10.8537036,
+   :latitude 33.8209866,
+   :source :openstreetmap}
+  {:name "Inb Khaldoun Culture House",
+   :longitude 10.7080294,
+   :latitude 35.3017791,
+   :source :openstreetmap}
+  {:name "Jebil National Park",
+   :longitude 9.0605316,
+   :latitude 33.1023309,
+   :source :openstreetmap}
+  {:name "L'Artisto",
+   :longitude 10.1768624,
+   :latitude 36.8144589,
+   :source :openstreetmap}
+  {:name "La Ferme de Lotos - Musée de l'automobile et de la moto",
+   :longitude 11.0179576,
+   :latitude 33.796351,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/profile.php?id=100063864102846",
+   :locality "Midoun"}
+  {:name "Lalla Hadria",
+   :longitude 11.0449202,
+   :latitude 33.8199094,
+   :source :openstreetmap}
+  {:name "Le 32Bis",
+   :longitude 10.1838024,
+   :latitude 36.7950864,
+   :source :openstreetmap,
+   :locality "Tunis"}
+  {:name
+   "Le Kram - Exhibition and International Trade Center of Tunis",
+   :longitude 10.3013435,
+   :latitude 36.8393821,
+   :source :openstreetmap}
+  {:name "MACAM Tunis",
+   :longitude 10.1864568,
+   :latitude 36.8105541,
+   :source :openstreetmap}
+  {:name "Madrassa Sidi Moussa Jomani",
+   :longitude 9.9729137,
+   :latitude 33.5439959,
+   :source :openstreetmap,
+   :locality "Matmata el Qadima"}
+  {:name "Maison de Abou El Kacem Chebbi",
+   :longitude 8.1287763,
+   :latitude 33.9141957,
+   :source :openstreetmap}
+  {:name "maison de culture",
+   :longitude 10.0823083,
+   :latitude 36.821812,
+   :source :openstreetmap}
+  {:name "maison de culture",
+   :longitude 10.1923088,
+   :latitude 36.7620926,
+   :source :openstreetmap}
+  {:name "Maison de Culture de Kalaa Sghira",
+   :longitude 10.5652782,
+   :latitude 35.8242649,
+   :source :openstreetmap,
+   :locality "Kalaa Sghira"}
+  {:name "Maison de Culture du Bardo",
+   :longitude 10.1391227,
+   :latitude 36.806879,
+   :source :openstreetmap,
+   :locality "تونس"}
+  {:name "Maison de jeunes",
+   :longitude 10.2627675,
+   :latitude 36.8502796,
+   :source :openstreetmap}
+  {:name "Maison de l'image",
+   :longitude 10.1678382,
+   :latitude 36.8388525,
+   :source :openstreetmap,
+   :homepage "https://maisonimage.tn/",
+   :locality "تونس"}
+  {:name "Maison de la Culture",
+   :longitude 11.0131272,
+   :latitude 37.0480661,
+   :source :openstreetmap,
+   :locality "Haouaria"}
+  {:name "Maison de la culture Mohamed Nacer Bettaieb",
+   :longitude 11.2158949,
+   :latitude 33.1403684,
+   :source :openstreetmap,
+   :locality "بنقردان"}
+  {:name "Maison de La Jeunesse de Sidi Aich",
+   :longitude 8.7742591,
+   :latitude 34.7306029,
+   :source :openstreetmap}
+  {:name "Maison des Jeunes Bouthadi",
+   :longitude 10.2723702,
+   :latitude 35.0991118,
+   :source :openstreetmap}
+  {:name "Maison des Jeunes El Ain",
+   :longitude 10.7119092,
+   :latitude 34.7648317,
+   :source :openstreetmap}
+  {:name "Mausolée Sidi Ammar",
+   :longitude 10.8923514,
+   :latitude 35.6707191,
+   :source :openstreetmap}
+  {:name "Medersa Slimania",
+   :longitude 10.1719885,
+   :latitude 36.7966512,
+   :source :openstreetmap}
+  {:name "Meninx - exposition archéologique",
+   :longitude 10.9205119,
+   :latitude 33.6857779,
+   :source :openstreetmap}
+  {:name "Musée Dar Essid",
+   :longitude 10.6354408,
+   :latitude 35.8271516,
+   :source :openstreetmap}
+  {:name "Musée de Bulla Regia",
+   :longitude 8.7544826,
+   :latitude 36.5565494,
+   :source :openstreetmap}
+  {:name "Musée de Maktaris",
+   :longitude 9.2063758,
+   :latitude 35.8560032,
+   :source :openstreetmap}
+  {:name "Musée de Zarzis",
+   :longitude 11.1139262,
+   :latitude 33.5020512,
+   :source :openstreetmap,
+   :homepage
+   "https://www.tunisiepatrimoine.tn/ar/%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D9%85%D8%AA%D8%AD%D9%81-%D8%AC%D8%B1%D8%AC%D9%8A%D8%B3/%D9%86%D8%B8%D8%B1%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9/",
+   :locality "Zarzis"}
+  {:name "Musée des arts et traditions populaires",
+   :longitude 10.8309936,
+   :latitude 35.774202,
+   :source :openstreetmap,
+   :locality "المنستير"}
+  {:name "Musée des arts et traditions populaires",
+   :longitude 8.138188,
+   :latitude 33.9216564,
+   :source :openstreetmap}
+  {:name "Musée des Arts et Traditions Populaires",
+   :longitude 8.7153269,
+   :latitude 36.1827599,
+   :source :openstreetmap}
+  {:name "Musée des Costumes et des Traditions",
+   :longitude 10.4912082,
+   :latitude 33.3474601,
+   :source :openstreetmap,
+   :locality "Medenine"}
+  {:name "Musée des Timbres",
+   :longitude 10.1786566,
+   :latitude 36.7968968,
+   :source :openstreetmap}
+  {:name "Musée du Patrimoine de Guellala",
+   :longitude 10.8656304,
+   :latitude 33.7325594,
+   :source :openstreetmap}
+  {:name "Musée Du Patrimoine Insulaire",
+   :longitude 11.2435973,
+   :latitude 34.7195683,
+   :source :openstreetmap}
+  {:name "Musée du patrimoine traditionnel de Djerba",
+   :longitude 10.8624273,
+   :latitude 33.8799161,
+   :source :openstreetmap,
+   :homepage "http://www.djerbamuseum.tn/",
+   :locality "Houmt Souk"}
+  {:name "Musée du Quartier Sud de Thysdrus",
+   :longitude 10.7048886,
+   :latitude 35.2895496,
+   :source :openstreetmap,
+   :homepage "https://eljem.virtualexperience.net/"}
+  {:name "Musée du Sahara de Douz",
+   :longitude 9.0183255,
+   :latitude 33.4519109,
+   :source :openstreetmap}
+  {:name "Musée Memoire de la Terre Tataouine",
+   :longitude 10.4152342,
+   :latitude 32.9176627,
+   :source :openstreetmap}
+  {:name "Musée militaire de la ligne défensive de Mareth",
+   :longitude 10.3114373,
+   :latitude 33.5961486,
+   :source :openstreetmap,
+   :locality "Mareth"}
+  {:name "Musée mémoire Zmerten",
+   :longitude 10.1268206,
+   :latitude 33.4194129,
+   :source :openstreetmap}
+  {:name "Musée national d'Utique",
+   :longitude 10.0569353,
+   :latitude 37.0506657,
+   :source :openstreetmap}
+  {:name "Musée Naturel Du Sud Tunisien",
+   :longitude 10.0599096,
+   :latitude 33.8637936,
+   :source :openstreetmap}
+  {:name "Musée Salakta",
+   :longitude 11.0487873,
+   :latitude 35.3923796,
+   :source :openstreetmap}
+  {:name "Musée Troglodyte de Ksour",
+   :longitude 9.9761517,
+   :latitude 33.5420237,
+   :source :openstreetmap,
+   :locality "مطماطة"}
+  {:name "Nabeul Museum",
+   :longitude 10.7362439,
+   :latitude 36.4506766,
+   :source :openstreetmap}
+  {:name "Opéra de Menzel Bourguiba",
+   :longitude 9.7936584,
+   :latitude 37.1552978,
+   :source :openstreetmap}
+  {:name "Palais Abdellya à la Marsa (le Printemps des Arts)",
+   :longitude 10.3254443,
+   :latitude 36.8803164,
+   :source :openstreetmap}
+  {:name "Palais Présidentiel de Bourguiba",
+   :longitude 10.7841109,
+   :latitude 35.7784819,
+   :source :openstreetmap}
+  {:name "Rakada Palace Museum",
+   :longitude 10.0531757,
+   :latitude 35.5934931,
+   :source :openstreetmap}
+  {:name "Salle Couverte de Menzel-Bourguiba",
+   :longitude 9.8036193,
+   :latitude 37.1519576,
+   :source :openstreetmap}
+  {:name "Salle Des Fêtes Boussetta",
+   :longitude 10.6282325,
+   :latitude 36.4091263,
+   :source :openstreetmap}
+  {:name "Sidi Abid el-Ghariani Zaouia",
+   :longitude 10.1017179,
+   :latitude 35.6752729,
+   :source :openstreetmap}
+  {:name "Sidi Abu Said",
+   :longitude 10.350807,
+   :latitude 36.8705291,
+   :source :openstreetmap}
+  {:name "Théatre Plein Air de Hammamet",
+   :longitude 10.6134984,
+   :latitude 36.392631,
+   :source :openstreetmap}
+  {:name "المتحف الأثري بسوسة",
+   :longitude 10.6355756,
+   :latitude 35.8231085,
+   :source :openstreetmap,
+   :homepage
+   "https://www.patrimoinedetunisie.com.tn/eng/musees/sousse.php",
+   :locality "سوسة"}
+  {:name "المتحف الأقيانوسي «دار الحوت» بصلامبو",
+   :longitude 10.3262708,
+   :latitude 36.8437212,
+   :source :openstreetmap,
+   :locality "صلامبو"}
+  {:name "المتحف الأوقيانوغرافي",
+   :longitude 9.8767036,
+   :latitude 37.2781887,
+   :source :openstreetmap}
+  {:name "المتحف الكنيسة الأثرية بقرطاج",
+   :longitude 10.3281545,
+   :latitude 36.8506397,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/pages/Madart/626131414086136",
+   :locality "قرطاج الشاطئ"}
+  {:name "المتحف المسيحي المبكر بقرطاج",
+   :longitude 10.3246106,
+   :latitude 36.848094,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/pages/Madart/626131414086136"}
+  {:name "المتحف الوطني العسكري بقصر الوردة",
+   :longitude 10.098496,
+   :latitude 36.8113078,
+   :source :openstreetmap}
+  {:name "المتحف الوطني بباردو",
+   :longitude 10.134242,
+   :latitude 36.8093356,
+   :source :openstreetmap,
+   :homepage "http://www.bardomuseum.tn/"}
+  {:name "المتحف الوطني بقرطاج",
+   :longitude 10.3242982,
+   :latitude 36.8535697,
+   :source :openstreetmap,
+   :homepage "http://www.acropoliumcarthage.com/"}
+  {:name "المجلس الثقافي البريطاني",
+   :longitude 10.1807843,
+   :latitude 36.8211867,
+   :source :openstreetmap,
+   :locality "تونس"}
+  {:name "المركب الثقافي محمد الجموسي",
+   :longitude 10.7508351,
+   :latitude 34.7366121,
+   :source :openstreetmap}
+  {:name "المركز الثقافي المهدية",
+   :longitude 11.0647619,
+   :latitude 35.5018427,
+   :source :openstreetmap,
+   :locality "المهدية"}
+  {:name "المعهد الجامعي للتنشيط الثقافي والرياضي",
+   :longitude 10.1023005,
+   :latitude 33.8808079,
+   :source :openstreetmap,
+   :locality "قابس"}
+  {:name "برج خديجة",
+   :longitude 11.1563371,
+   :latitude 35.2349806,
+   :source :openstreetmap}
+  {:name "برج غازي مصطفى",
+   :longitude 10.8604242,
+   :latitude 33.8838904,
+   :source :openstreetmap,
+   :locality "حومة السوق"}
+  {:name "بيت الثقافة",
+   :longitude 8.6974213,
+   :latitude 36.6486965,
+   :source :openstreetmap,
+   :locality "فرنانة"}
+  {:name "بيت الثقافة",
+   :longitude 9.8268987,
+   :latitude 35.3530205,
+   :source :openstreetmap,
+   :locality "نصر الله"}
+  {:name "دار الثفافة",
+   :longitude 9.601605,
+   :latitude 36.6465153,
+   :source :openstreetmap}
+  {:name "دار الثقافة",
+   :longitude 10.857114,
+   :latitude 33.8772324,
+   :source :openstreetmap,
+   :locality "حومة السوق"}
+  {:name "دار الثقافة ابن رشيق",
+   :longitude 10.1809769,
+   :latitude 36.8012686,
+   :source :openstreetmap,
+   :locality "تونس"}
+  {:name "دار الثقافة باب العسل",
+   :longitude 10.1689519,
+   :latitude 36.8126367,
+   :source :openstreetmap}
+  {:name "دار الثقافة بالوردانين",
+   :longitude 10.676256,
+   :latitude 35.7102107,
+   :source :openstreetmap}
+  {:name "دار الثقافة بساقية الزيت",
+   :longitude 10.7567157,
+   :latitude 34.8421106,
+   :source :openstreetmap}
+  {:name "دار الثقافة بسليمان",
+   :longitude 10.4866616,
+   :latitude 36.6938421,
+   :source :openstreetmap}
+  {:name "دار الثقافة بقصور الساف",
+   :longitude 10.9991365,
+   :latitude 35.42202,
+   :source :openstreetmap}
+  {:name "دار الثقافة بوذرف",
+   :longitude 9.9698711,
+   :latitude 33.9862512,
+   :source :openstreetmap}
+  {:name "دار الثقافة يوسف بن محمد",
+   :longitude 8.1481315,
+   :latitude 34.3795044,
+   :source :openstreetmap}
+  {:name "دار الجلولي",
+   :longitude 10.7623862,
+   :latitude 34.7368449,
+   :source :openstreetmap,
+   :locality "صفاقس"}
+  {:name "دار الشباب",
+   :longitude 8.1593765,
+   :latitude 34.3906722,
+   :source :openstreetmap}
+  {:name "دار الشباب",
+   :longitude 11.1161255,
+   :latitude 35.2346081,
+   :source :openstreetmap,
+   :locality "الشابة"}
+  {:name "دار الشباب أم العرائس",
+   :longitude 8.2706516,
+   :latitude 34.4866405,
+   :source :openstreetmap,
+   :locality "أم العرائس"}
+  {:name "دار الشباب بالبقالطة",
+   :longitude 10.9873348,
+   :latitude 35.614983,
+   :source :openstreetmap}
+  {:name "دار الشباب بالحزق",
+   :longitude 10.9645762,
+   :latitude 35.0256251,
+   :source :openstreetmap}
+  {:name "دار الشباب بحيدرة",
+   :longitude 8.4459019,
+   :latitude 35.5623124,
+   :source :openstreetmap,
+   :locality "حيدرة"}
+  {:name "دار الشباب بخزندار",
+   :longitude 10.1268005,
+   :latitude 36.806201,
+   :source :openstreetmap,
+   :locality "تونس"}
+  {:name "دار الشباب بسيدي عامر",
+   :longitude 10.702948,
+   :latitude 35.7416849,
+   :source :openstreetmap,
+   :locality "Sidi Ameur"}
+  {:name "زاوية سيدي الصاحب",
+   :longitude 10.0904862,
+   :latitude 35.6819214,
+   :source :openstreetmap}
+  {:name "شمتو",
+   :longitude 8.5771474,
+   :latitude 36.4900949,
+   :source :openstreetmap,
+   :locality "شمتو"}
+  {:name "صفاقس عاصمة الثقافة 2016",
+   :longitude 10.7590075,
+   :latitude 34.7289896,
+   :source :openstreetmap}
+  {:name "قصر سعيد",
+   :longitude 10.1294995,
+   :latitude 36.8114058,
+   :source :openstreetmap}
+  {:name "متحف الحديقة الوطنية بإشكل",
+   :longitude 9.6926754,
+   :latitude 37.1383446,
+   :source :openstreetmap}
+  {:name "متحف الذاكرة الوطنية بالسيجومي",
+   :longitude 10.1718354,
+   :latitude 36.7722208,
+   :source :openstreetmap}
+  {:name "متحف السينما",
+   :longitude 10.1656017,
+   :latitude 36.7964282,
+   :source :openstreetmap}
+  {:name "متحف العادات والتقاليد",
+   :longitude 10.0907895,
+   :latitude 33.868619,
+   :source :openstreetmap,
+   :locality "قابس"}
+  {:name "متحف العملة",
+   :longitude 10.1850565,
+   :latitude 36.8046603,
+   :source :openstreetmap}
+  {:name "متحف القصبة",
+   :longitude 10.7588084,
+   :latitude 34.7335001,
+   :source :openstreetmap}
+  {:name "متحف المهدية",
+   :longitude 11.0688012,
+   :latitude 35.5037674,
+   :source :openstreetmap,
+   :locality "المهدية"}
+  {:name "متحف النفيضة",
+   :longitude 10.3798413,
+   :latitude 36.1353211,
+   :source :openstreetmap,
+   :homepage
+   "https://www.tunisiepatrimoine.tn/musees/le-musee-denfidha/apercu/",
+   :locality "النفيضة"}
+  {:name "متحف بربري",
+   :longitude 9.8644438,
+   :latitude 33.5368798,
+   :source :openstreetmap,
+   :locality "تامزرط"}
+  {:name "متحف جبل السرج ecomuseum jbel al sarj",
+   :longitude 9.5468829,
+   :latitude 35.9448064,
+   :source :openstreetmap}
+  {:name "متحف دار خديجة",
+   :longitude 9.9685448,
+   :latitude 33.5421566,
+   :source :openstreetmap,
+   :locality "مطماطة"}
+  {:name "متحف مدينة تونس",
+   :longitude 10.1685013,
+   :latitude 36.8016198,
+   :source :openstreetmap}
+  {:name "مدينة العلوم",
+   :longitude 10.1888414,
+   :latitude 36.8482568,
+   :source :openstreetmap}
+  {:name "مركز الفنون الحية رادس",
+   :longitude 10.2643291,
+   :latitude 36.7636904,
+   :source :openstreetmap,
+   :homepage "http://www.centrarades.org/",
+   :locality "رادس"}
+  {:name "مركز ثقافي",
+   :longitude 10.1480646,
+   :latitude 36.7959436,
+   :source :openstreetmap,
+   :locality "تونس"}
+  {:name "معصرة الفصيلي",
+   :longitude 10.991937,
+   :latitude 33.8101381,
+   :source :openstreetmap,
+   :locality "ميدون"}
+  {:name "معهد غوته",
+   :longitude 10.1805899,
+   :latitude 36.8179179,
+   :source :openstreetmap,
+   :locality "تونس"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

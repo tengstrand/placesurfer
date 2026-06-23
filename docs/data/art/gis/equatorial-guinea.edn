@@ -1,0 +1,15 @@
+{:count 1,
+ :country "equatorial-guinea",
+ :country-code "GQ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:44.041247Z",
+ :positions
+ [{:name "Centro de Vida Salvaje BBPP de Moka",
+   :longitude 8.6621535,
+   :latitude 3.3612439,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

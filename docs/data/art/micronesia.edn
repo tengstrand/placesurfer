@@ -1,0 +1,29 @@
+{:count 3,
+ :country "micronesia",
+ :country-code "FM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:22:10.158042Z",
+ :positions
+ [{:name "Kosrae Museum",
+   :longitude 163.0085632,
+   :latitude 5.3251861,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Pohnpei Lidorkini Museum",
+   :longitude 158.2097222,
+   :latitude 6.9647222,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Yap Living History Museum",
+   :longitude 138.1216918,
+   :latitude 9.516258,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

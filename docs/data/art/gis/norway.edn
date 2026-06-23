@@ -1,0 +1,5158 @@
+{:count 1161,
+ :country "norway",
+ :country-code "NO",
+ :dataset :art,
+ :generated-at "2026-05-26T06:25:56.008260Z",
+ :positions
+ [{:name "\"Brødrene af Sand\"",
+   :longitude 6.2477736,
+   :latitude 59.4850163,
+   :source :openstreetmap,
+   :homepage "https://ryfylkemuseet.no/anlegg/nesasjohuset/"}
+  {:name "22. juli-senteret",
+   :longitude 10.74274,
+   :latitude 59.915948,
+   :source :openstreetmap}
+  {:name "Aamodtgården",
+   :longitude 12.010404,
+   :latitude 60.197832,
+   :source :openstreetmap}
+  {:name "AbelSenteret i Gjerstad",
+   :longitude 9.0734966,
+   :latitude 58.8231931,
+   :source :openstreetmap}
+  {:name "Adolfkanon",
+   :longitude 16.584152,
+   :latitude 68.8341669,
+   :source :openstreetmap}
+  {:name "Agatunet",
+   :longitude 6.6025668,
+   :latitude 60.300236,
+   :source :openstreetmap}
+  {:name "Aker Stord industrimuseum",
+   :longitude 5.4965572,
+   :latitude 59.7663385,
+   :source :openstreetmap}
+  {:name "Akvarellen",
+   :longitude 10.4900607,
+   :latitude 59.9604698,
+   :source :openstreetmap,
+   :homepage "https://akvarellen.123hjemmeside.no/"}
+  {:name "Allmannajuvet",
+   :longitude 6.4685821,
+   :latitude 59.6526107,
+   :source :openstreetmap}
+  {:name "Alta Museum Verdensarvsenter for bergkunst",
+   :longitude 23.186298,
+   :latitude 69.947393,
+   :source :openstreetmap,
+   :homepage "https://www.altamuseum.no/"}
+  {:name "Aluminiummuseet",
+   :longitude 10.3199254,
+   :latitude 59.4873178,
+   :source :openstreetmap,
+   :homepage "https://vestfoldmuseene.no/aluminiummuseet/"}
+  {:name "Alvøen hovedbygning",
+   :longitude 5.190271,
+   :latitude 60.3522811,
+   :source :openstreetmap,
+   :homepage "https://www.bymuseet.no/?vis=101"}
+  {:name "Amtskontoret",
+   :longitude 6.836361,
+   :latitude 61.186413,
+   :source :openstreetmap}
+  {:name "Anders Svor museum",
+   :longitude 6.523486,
+   :latitude 61.965229,
+   :source :openstreetmap}
+  {:name "Andersgrotta",
+   :longitude 30.0495998,
+   :latitude 69.7269317,
+   :source :openstreetmap}
+  {:name "Andreas Bøe-samlinga",
+   :longitude 5.6419303,
+   :latitude 58.7366229,
+   :source :openstreetmap,
+   :homepage "https://www.jaerens-kunstgalleri.com/"}
+  {:name "Andøymuseet",
+   :longitude 16.1172651,
+   :latitude 69.3232745,
+   :source :openstreetmap}
+  {:name "Angelstad gård (Østre Angelstad)",
+   :longitude 8.9217361,
+   :latitude 58.6463616,
+   :source :openstreetmap}
+  {:name "Anno Norsk Skogmuseum",
+   :longitude 11.5604596,
+   :latitude 60.8702603,
+   :source :openstreetmap,
+   :homepage "https://www.skogmus.no/"}
+  {:name "Apartment No 9",
+   :longitude 6.6931537,
+   :latitude 58.0979965,
+   :source :openstreetmap}
+  {:name "Arbeidermuseet",
+   :longitude 10.75576,
+   :latitude 59.930892,
+   :source :openstreetmap,
+   :homepage "https://www.oslomuseum.no/arbeidermuseet/"}
+  {:name "Arnulf Øverlands Galleri",
+   :longitude 7.73639,
+   :latitude 63.1077366,
+   :source :openstreetmap}
+  {:name "Arquebus krigshistorisk museum",
+   :longitude 5.383498,
+   :latitude 59.4232839,
+   :source :openstreetmap}
+  {:name "Arran Lulesamisk senter / Árran Julevsáme guovdásj",
+   :longitude 16.082965,
+   :latitude 68.04785,
+   :source :openstreetmap}
+  {:name "ArtArcticGallery",
+   :longitude 14.2180495,
+   :latitude 78.0663641,
+   :source :openstreetmap}
+  {:name "Asker museum",
+   :longitude 10.4550709,
+   :latitude 59.853197,
+   :source :openstreetmap,
+   :homepage "https://mia.no/askermuseum"}
+  {:name "Askim museum",
+   :longitude 11.1750214,
+   :latitude 59.5916326,
+   :source :openstreetmap}
+  {:name "Astrup Fearnley Museet",
+   :longitude 10.721938,
+   :latitude 59.906925,
+   :source :openstreetmap,
+   :homepage "http://afmuseet.no"}
+  {:name "Astruptunet",
+   :longitude 6.3044558,
+   :latitude 61.5117453,
+   :source :openstreetmap,
+   :homepage "https://misf.no/astruptunet"}
+  {:name "Atelier 205",
+   :longitude 5.3115177,
+   :latitude 60.397621,
+   :source :openstreetmap,
+   :homepage "https://www.gallerivox.no/"}
+  {:name "Atelier Florida",
+   :longitude 10.2251606,
+   :latitude 63.5559972,
+   :source :openstreetmap,
+   :homepage "https://www.atelierflorida.no"}
+  {:name "Atelier Juni",
+   :longitude 5.3407329,
+   :latitude 60.3262961,
+   :source :openstreetmap}
+  {:name "Atelier Mona Ida",
+   :longitude 7.8080485,
+   :latitude 58.8309781,
+   :source :openstreetmap}
+  {:name "Atlungstad Brenneri",
+   :longitude 11.079847,
+   :latitude 60.7591215,
+   :source :openstreetmap,
+   :homepage "https://atlungstadbrenneri.no"}
+  {:name "Aukrustsenteret",
+   :longitude 10.6220074,
+   :latitude 62.1135834,
+   :source :openstreetmap,
+   :homepage "https://www.aukrust.no/"}
+  {:name "Aulestad",
+   :longitude 10.2712633,
+   :latitude 61.2200383,
+   :source :openstreetmap}
+  {:name "Auli møllle",
+   :longitude 11.5495918,
+   :latitude 60.1099796,
+   :source :openstreetmap}
+  {:name "Aur prestegård",
+   :longitude 11.4517657,
+   :latitude 59.926196,
+   :source :openstreetmap}
+  {:name "Aursfjordsaga",
+   :longitude 18.7164751,
+   :latitude 69.2796115,
+   :source :openstreetmap}
+  {:name "Aurskog-Høland bygdetun",
+   :longitude 11.452415,
+   :latitude 59.7230815,
+   :source :openstreetmap,
+   :homepage "https://mia.no/ahbygdetun"}
+  {:name "Austad gård",
+   :longitude 10.205799,
+   :latitude 59.729989,
+   :source :openstreetmap}
+  {:name "Austmarka bygdetun",
+   :longitude 12.3173871,
+   :latitude 60.10394,
+   :source :openstreetmap}
+  {:name "Austrumdal gardsmuseum",
+   :longitude 6.3255506,
+   :latitude 58.7085888,
+   :source :openstreetmap}
+  {:name "Austrått Fort",
+   :longitude 9.7220437,
+   :latitude 63.7083404,
+   :source :openstreetmap}
+  {:name "Austråttborgen",
+   :longitude 9.7432614,
+   :latitude 63.7039204,
+   :source :openstreetmap}
+  {:name "Baadehuset",
+   :longitude 5.1577679,
+   :latitude 59.5913202,
+   :source :openstreetmap}
+  {:name "Baas-saga",
+   :longitude 8.2807624,
+   :latitude 58.7100308,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitsorlandet.com/arendal/listings-arendal/kopps%C3%A5na-kulturminne-i-%C3%85mli/507177/"}
+  {:name "Bagn bygdesamling",
+   :longitude 9.599304,
+   :latitude 60.7832312,
+   :source :openstreetmap}
+  {:name "Bagnsbergatn gård",
+   :longitude 9.5543148,
+   :latitude 60.8310128,
+   :source :openstreetmap}
+  {:name "Bakken husmannsplass",
+   :longitude 5.7156519,
+   :latitude 59.1085017,
+   :source :openstreetmap}
+  {:name "Bakklandet ramme og kunst",
+   :longitude 10.403305,
+   :latitude 63.4256619,
+   :source :openstreetmap,
+   :homepage "https://bakklandetkunst.no/"}
+  {:name "Ballangen museum",
+   :longitude 16.7929828,
+   :latitude 68.3286138,
+   :source :openstreetmap}
+  {:name "Ballstad Væreiermuseum",
+   :longitude 13.5404811,
+   :latitude 68.0712363,
+   :source :openstreetmap}
+  {:name "Bamble Kystmuseum",
+   :longitude 9.7496804,
+   :latitude 59.0012882,
+   :source :openstreetmap}
+  {:name "Bautahaugen samlinger",
+   :longitude 9.743196,
+   :latitude 60.5997778,
+   :source :openstreetmap}
+  {:name "Beiarn bygdetun",
+   :longitude 14.5720667,
+   :latitude 67.0107739,
+   :source :openstreetmap}
+  {:name "Berg Museum",
+   :longitude 9.3843765,
+   :latitude 58.8853695,
+   :source :openstreetmap}
+  {:name "Bergen Lepramuseum",
+   :longitude 5.332622,
+   :latitude 60.391436,
+   :source :openstreetmap,
+   :homepage "https://bymuseet.no/museum/lepramuseet/"}
+  {:name "Bergens Tekniske Museum",
+   :longitude 5.320933,
+   :latitude 60.383841,
+   :source :openstreetmap,
+   :homepage "https://www.bergenstekniskemuseum.no/"}
+  {:name "Bergh-brygga",
+   :longitude 12.9554502,
+   :latitude 66.0629192,
+   :source :openstreetmap}
+  {:name "Bergtatt Opplevelser",
+   :longitude 7.3584844,
+   :latitude 62.8971865,
+   :source :openstreetmap,
+   :homepage "https://www.berg-tatt.no/"}
+  {:name "Berlevåg havnemuseum",
+   :longitude 29.1003422,
+   :latitude 70.8580197,
+   :source :openstreetmap}
+  {:name "Besøkssenter nasjalpark Femundsmarka Gutulia",
+   :longitude 11.9440519,
+   :latitude 62.1654669,
+   :source :openstreetmap}
+  {:name "Besøkssenter våtmark Jæren",
+   :longitude 5.681845,
+   :latitude 58.544103,
+   :source :openstreetmap,
+   :homepage "https://www.bvj.no/"}
+  {:name "Besøkssenter våtmark Jæren",
+   :longitude 5.517116,
+   :latitude 58.740774,
+   :source :openstreetmap,
+   :homepage "http://jarenfri.no/no/steder/friluftshuset-orre/"}
+  {:name "Besøkssenter våtmark Jæren",
+   :longitude 5.70198,
+   :latitude 58.956066,
+   :source :openstreetmap}
+  {:name "Besøkssenter våtmark Lista",
+   :longitude 6.5671466,
+   :latitude 58.1093568,
+   :source :openstreetmap,
+   :homepage
+   "https://www.listafyr.no/aktivitet/besokssenter-vatmark-lista/"}
+  {:name "BGE Contemporary Art Projects AS",
+   :longitude 5.7287555,
+   :latitude 58.9655465,
+   :source :openstreetmap,
+   :homepage "https://bgeart.com/"}
+  {:name "BibMus Rennesøy",
+   :longitude 5.6974759,
+   :latitude 59.0970951,
+   :source :openstreetmap}
+  {:name "Bietilæanlegget",
+   :longitude 29.7213292,
+   :latitude 70.0774766,
+   :source :openstreetmap}
+  {:name "Bilstadhuset",
+   :longitude 5.9969848,
+   :latitude 58.4499858,
+   :source :openstreetmap}
+  {:name "Bindal bygdetun",
+   :longitude 12.4100293,
+   :latitude 65.0983449,
+   :source :openstreetmap}
+  {:name "Bindal museum",
+   :longitude 12.3745853,
+   :latitude 65.0893011,
+   :source :openstreetmap}
+  {:name "Bjerka Bygdetun",
+   :longitude 13.832585,
+   :latitude 66.1453346,
+   :source :openstreetmap}
+  {:name "Bjerkebæk",
+   :longitude 10.4689079,
+   :latitude 61.1226403,
+   :source :openstreetmap,
+   :homepage "https://bjerkebek.no/"}
+  {:name "Bjugn Bygdatun Mølnargården",
+   :longitude 9.7545379,
+   :latitude 63.7685524,
+   :source :openstreetmap}
+  {:name "Bjørgan prestegård",
+   :longitude 10.3045707,
+   :latitude 62.579657,
+   :source :openstreetmap}
+  {:name "Bjørklund gård",
+   :longitude 30.0706343,
+   :latitude 69.460462,
+   :source :openstreetmap}
+  {:name "Bjørn West-museet",
+   :longitude 5.584845,
+   :latitude 60.87641,
+   :source :openstreetmap,
+   :homepage "https://bjornwest.museumvest.no/"}
+  {:name "Blaafarveværket",
+   :longitude 9.8882442,
+   :latitude 59.9121983,
+   :source :openstreetmap}
+  {:name "Blokken",
+   :longitude 15.3823424,
+   :latitude 68.6017746,
+   :source :openstreetmap}
+  {:name "Blokkodden Villmarksmuseum",
+   :longitude 12.0225885,
+   :latitude 61.8834496,
+   :source :openstreetmap,
+   :homepage "https://blokkodden.no/"}
+  {:name "Bodø kunstforening",
+   :longitude 14.3712415,
+   :latitude 67.2803384,
+   :source :openstreetmap,
+   :homepage "https://www.bodokunst.no/"}
+  {:name "Bodøgaard",
+   :longitude 14.428917,
+   :latitude 67.2720554,
+   :source :openstreetmap}
+  {:name "Bogstad gård",
+   :longitude 10.6274604,
+   :latitude 59.9723949,
+   :source :openstreetmap}
+  {:name "Bok & Blueshuset",
+   :longitude 9.2542862,
+   :latitude 59.5560825,
+   :source :openstreetmap,
+   :homepage "https://www.bokogblueshuset.no/"}
+  {:name "Bokn bygdemuseum",
+   :longitude 5.4421612,
+   :latitude 59.2140924,
+   :source :openstreetmap}
+  {:name "Bomsholmen Fløtingsmuseum",
+   :longitude 8.702294,
+   :latitude 58.4248103,
+   :source :openstreetmap}
+  {:name "Borgarsyssel museum",
+   :longitude 11.12268,
+   :latitude 59.279311,
+   :source :openstreetmap}
+  {:name "Borgund stavkyrkje",
+   :longitude 7.812293,
+   :latitude 61.047201,
+   :source :openstreetmap,
+   :homepage "https://www.stavechurch.com/borgund2-stavkyrkje/"}
+  {:name "Bragdøya Kystkultursenter",
+   :longitude 7.98365,
+   :latitude 58.12022,
+   :source :openstreetmap}
+  {:name "Brannmuseet i Oslo",
+   :longitude 10.7670017,
+   :latitude 59.9116584,
+   :source :openstreetmap,
+   :homepage "http://brannmuseet.no"}
+  {:name "Bredalsholmen dokk og fartøyvernsenter",
+   :longitude 7.9898967,
+   :latitude 58.1108038,
+   :source :openstreetmap}
+  {:name "Bredek fjellgård",
+   :longitude 14.8837492,
+   :latitude 66.522931,
+   :source :openstreetmap}
+  {:name "Breheimsenteret",
+   :longitude 7.2754071,
+   :latitude 61.6513432,
+   :source :openstreetmap}
+  {:name "Bremnes fort",
+   :longitude 14.4615298,
+   :latitude 67.3214352,
+   :source :openstreetmap}
+  {:name "Brudavolltunet",
+   :longitude 6.192404,
+   :latitude 62.1884841,
+   :source :openstreetmap,
+   :homepage "https://www.vitimusea.no/musea/brudavolltunet"}
+  {:name "Brunsvikens reperbane",
+   :longitude 7.7139835,
+   :latitude 63.1219145,
+   :source :openstreetmap,
+   :homepage
+   "https://nordmorsmusea.no/artikler/brunsvikens-reperbane/"}
+  {:name "Brusve gård",
+   :longitude 11.299674,
+   :latitude 63.7425345,
+   :source :openstreetmap}
+  {:name "Bryggeutstillinga",
+   :longitude 10.0703294,
+   :latitude 63.7628899,
+   :source :openstreetmap,
+   :homepage "https://bryggeutstillinga.no/"}
+  {:name "Buekorpsmuseet",
+   :longitude 5.3197676,
+   :latitude 60.3947425,
+   :source :openstreetmap,
+   :homepage "https://buekorps.webs.com/"}
+  {:name "Buen Kulturhus",
+   :longitude 7.4560555,
+   :latitude 58.0253745,
+   :source :openstreetmap,
+   :homepage "http://www.mandal.kommune.no/hjem-buen-kulturhus"}
+  {:name "Bullahuset",
+   :longitude 5.436222,
+   :latitude 60.5095372,
+   :source :openstreetmap}
+  {:name "Bureisingsmuseet Høgheim",
+   :longitude 8.0375451,
+   :latitude 63.4300996,
+   :source :openstreetmap}
+  {:name "Bygdetunet Rød",
+   :longitude 5.8947137,
+   :latitude 59.9443769,
+   :source :openstreetmap}
+  {:name "Bygdetunet Utro",
+   :longitude 10.2005626,
+   :latitude 64.1888584,
+   :source :openstreetmap}
+  {:name "Bygdø kongsgård",
+   :longitude 10.6803409,
+   :latitude 59.9113605,
+   :source :openstreetmap,
+   :homepage "https://bygdokongsgard.no"}
+  {:name "Bygland Museum",
+   :longitude 7.7953533,
+   :latitude 58.8280759,
+   :source :openstreetmap}
+  {:name "Bymuseet",
+   :longitude 10.7030137,
+   :latitude 59.9239183,
+   :source :openstreetmap,
+   :homepage "https://www.oslomuseum.no/besok-oss/bymuseet/"}
+  {:name "Båtsfjord Museum",
+   :longitude 29.7282527,
+   :latitude 70.6392736,
+   :source :openstreetmap}
+  {:name "Bø bygdemuseum",
+   :longitude 14.4392593,
+   :latitude 68.6177192,
+   :source :openstreetmap}
+  {:name "Bø museum",
+   :longitude 9.0465858,
+   :latitude 59.4296872,
+   :source :openstreetmap,
+   :homepage "https://bomuseum.no/"}
+  {:name "Carsten Ankers lysthus",
+   :longitude 11.1661017,
+   :latitude 60.5417769,
+   :source :openstreetmap}
+  {:name "Ceavccageađge / Mortensnes kulturminneområde",
+   :longitude 29.0394255,
+   :latitude 70.1277961,
+   :source :openstreetmap}
+  {:name "Cementmuseet",
+   :longitude 10.4969984,
+   :latitude 59.7816744,
+   :source :openstreetmap,
+   :homepage "https://cementmuseet.no"}
+  {:name "Chateauet",
+   :longitude 7.15073,
+   :latitude 62.7366705,
+   :source :openstreetmap}
+  {:name "Cleng Peerson gård",
+   :longitude 5.5667176,
+   :latitude 59.368011,
+   :source :openstreetmap}
+  {:name "Dagali museum",
+   :longitude 8.4533502,
+   :latitude 60.4156293,
+   :source :openstreetmap,
+   :homepage
+   "https://buskerudmuseene.no/hallingdal-museum/dagali-museum/"}
+  {:name "Dalane folkemuseum",
+   :longitude 6.0227297,
+   :latitude 58.4726676,
+   :source :openstreetmap}
+  {:name "Dale-Gudbrands gard",
+   :longitude 9.9659216,
+   :latitude 61.5484023,
+   :source :openstreetmap,
+   :homepage
+   "https://gudbrandsdalsmusea.no/avdelinger/dale-gudbrands-gard"}
+  {:name "Dalen Bryggjeutstilling",
+   :longitude 8.0240465,
+   :latitude 59.4449798,
+   :source :openstreetmap}
+  {:name "Dalsfjord fyrmuseum",
+   :longitude 5.9388141,
+   :latitude 62.1127655,
+   :source :openstreetmap}
+  {:name
+   "Davvi álbmogiid dálážiid musea / Samtidsmuseet for nordlige folk",
+   :longitude 20.5294167,
+   :latitude 69.5254727,
+   :source :openstreetmap,
+   :homepage "https://senterfornordligefolk.no/museum/?lang=en"}
+  {:name "De Heibergske Samlinger",
+   :longitude 7.1881859,
+   :latitude 61.2068824,
+   :source :openstreetmap,
+   :homepage "https://misf.no/de-heibergske-samlinger"}
+  {:name "Deanu musea / Tana museum",
+   :longitude 28.0051645,
+   :latitude 70.072411,
+   :source :openstreetmap}
+  {:name "Den Gröne Fabrikken",
+   :longitude 5.4763442,
+   :latitude 60.573963,
+   :source :openstreetmap,
+   :homepage "https://www.dengronefabrikken.no/"}
+  {:name "Derikhuset",
+   :longitude 5.2737016,
+   :latitude 59.1648703,
+   :source :openstreetmap}
+  {:name "Det gamle posthuset - Barnevandrersenter",
+   :longitude 7.355826,
+   :latitude 58.2846046,
+   :source :openstreetmap}
+  {:name "Det Gule Huset",
+   :longitude 10.4911871,
+   :latitude 59.855258,
+   :source :openstreetmap}
+  {:name "Det har internasjonale barnekunstmeseet",
+   :longitude 11.100867,
+   :latitude 60.1962086,
+   :source :openstreetmap,
+   :homepage "https://www.barnekunst.no/"}
+  {:name "Det internasjonale barnekunstmuseet",
+   :longitude 10.7115263,
+   :latitude 59.9357546,
+   :source :openstreetmap,
+   :homepage "https://barnekunst.no/"}
+  {:name "Det jødiske museum",
+   :longitude 10.3929981,
+   :latitude 63.4264039,
+   :source :openstreetmap,
+   :homepage "https://norsk-dovemuseum.no/"}
+  {:name "Det Kongelige Norske Videnskabers Selskab",
+   :longitude 10.3869859,
+   :latitude 63.4291205,
+   :source :openstreetmap,
+   :homepage
+   "https://www.facebook.com/Galleri-Thora-1501526933309341/"}
+  {:name "Det Røde Hus",
+   :longitude 5.1891776,
+   :latitude 60.402182,
+   :source :openstreetmap}
+  {:name "Devold museum",
+   :longitude 6.1879347,
+   :latitude 62.4402011,
+   :source :openstreetmap}
+  {:name "Dikemark psykiatriske sykehusmuseum",
+   :longitude 10.3703268,
+   :latitude 59.8095105,
+   :source :openstreetmap,
+   :homepage
+   "https://www.oslo-universitetssykehus.no/steder/dikemark/dikemark-psykiatriske-sykehusmuseum"}
+  {:name "Ditt Galleri",
+   :longitude 10.4165708,
+   :latitude 59.253097,
+   :source :openstreetmap}
+  {:name "Dokken fjellgard",
+   :longitude 8.0251766,
+   :latitude 60.6596134,
+   :source :openstreetmap}
+  {:name "Dokken friluftsmuseum",
+   :longitude 5.2598648,
+   :latitude 59.4164315,
+   :source :openstreetmap}
+  {:name "Donjon Kristiansten",
+   :longitude 10.4105522,
+   :latitude 63.4268561,
+   :source :openstreetmap}
+  {:name "Drammens museum",
+   :longitude 10.197178,
+   :latitude 59.7380969,
+   :source :openstreetmap,
+   :homepage "https://drammens.museum.no/"}
+  {:name "Dråben verkstedgalleri",
+   :longitude 7.3041504,
+   :latitude 58.0736474,
+   :source :openstreetmap}
+  {:name "Drøbak båtforening Maritime samlinger",
+   :longitude 10.6284074,
+   :latitude 59.6635161,
+   :source :openstreetmap,
+   :homepage "https://mia.no/avistegnerne"}
+  {:name "Dukkehjem museum",
+   :longitude 10.8417323,
+   :latitude 60.7143388,
+   :source :openstreetmap}
+  {:name "Dølmotunet",
+   :longitude 10.9996805,
+   :latitude 62.4102096,
+   :source :openstreetmap,
+   :homepage "https://museainordosterdalen.no/dolmotunet"}
+  {:name "Eddas Låve",
+   :longitude 7.5401477,
+   :latitude 58.1416372,
+   :source :openstreetmap}
+  {:name "Edvard Grieg Museum Troldhaugen",
+   :longitude 5.329455,
+   :latitude 60.319623,
+   :source :openstreetmap,
+   :homepage "https://www.griegmuseum.no/"}
+  {:name "Edvards Hus",
+   :longitude 8.142133,
+   :latitude 58.1821863,
+   :source :openstreetmap,
+   :homepage
+   "https://www.dyreparken.no/Kart-parkinfo/Omrader-i-Dyreparken/Edvards-Hus/"}
+  {:name "Egersund Fayancemuseum",
+   :longitude 6.0046096,
+   :latitude 58.4528732,
+   :source :openstreetmap}
+  {:name "Egge museum",
+   :longitude 11.4655394,
+   :latitude 64.0222914,
+   :source :openstreetmap}
+  {:name "Eggedal Mølle anno 1912",
+   :longitude 9.3613352,
+   :latitude 60.230437,
+   :source :openstreetmap,
+   :homepage "https://www.eggedalmolle.no"}
+  {:name "ehp.no Elisabet Holmgard Pedersen",
+   :longitude 5.398008,
+   :latitude 59.066302,
+   :source :openstreetmap,
+   :homepage "https://www.ehp.no"}
+  {:name "Eidsfos hovedgård",
+   :longitude 10.042828,
+   :latitude 59.5942835,
+   :source :openstreetmap,
+   :homepage "https://www.hovedgaarden.no/"}
+  {:name "Eidsfoss jernverksmuseum",
+   :longitude 10.0389431,
+   :latitude 59.5948814,
+   :source :openstreetmap,
+   :homepage
+   "https://vestfoldmuseene.no/jernverket-eidsfoss/eidsfoss-jernverksmuseum"}
+  {:name "Eidskog museum",
+   :longitude 11.9848493,
+   :latitude 59.9144213,
+   :source :openstreetmap}
+  {:name "Eidsvoll bygdetun",
+   :longitude 11.1962846,
+   :latitude 60.3343072,
+   :source :openstreetmap}
+  {:name "Eight amcars Club 1977",
+   :longitude 11.1798805,
+   :latitude 60.027345,
+   :source :openstreetmap,
+   :homepage "http://www.eac-1977.com/index.php"}
+  {:name "Eikaasgalleriet",
+   :longitude 6.2315452,
+   :latitude 61.5297823,
+   :source :openstreetmap}
+  {:name "Eiker Arkiv",
+   :longitude 10.0787218,
+   :latitude 59.766984,
+   :source :openstreetmap,
+   :homepage "https://eikerarkiv.no/"}
+  {:name "Eiktunet",
+   :longitude 10.6455696,
+   :latitude 60.8054817,
+   :source :openstreetmap,
+   :homepage "https://www.mjosmuseet.no/museene/eiktunet"}
+  {:name "Einbustugu",
+   :longitude 9.1163755,
+   :latitude 62.0743899,
+   :source :openstreetmap}
+  {:name "Ekebergparken",
+   :longitude 10.7596367,
+   :latitude 59.8985988,
+   :source :openstreetmap}
+  {:name "Eldhuset på Jamtjord",
+   :longitude 13.9603417,
+   :latitude 66.07003,
+   :source :openstreetmap}
+  {:name "Eliasbrygga",
+   :longitude 11.9344871,
+   :latitude 65.7072067,
+   :source :openstreetmap}
+  {:name "Elingaard Herregård",
+   :longitude 10.8025875,
+   :latitude 59.252249,
+   :source :openstreetmap,
+   :homepage "http://no.wikipedia.org/wiki/Elingaard"}
+  {:name "Elsa's caravan & galleri",
+   :longitude 29.6339491,
+   :latitude 69.9742039,
+   :source :openstreetmap}
+  {:name "Elvarheim museum",
+   :longitude 8.4834004,
+   :latitude 58.7702415,
+   :source :openstreetmap}
+  {:name "Emanuel Vigelands museum",
+   :longitude 10.6926345,
+   :latitude 59.9471099,
+   :source :openstreetmap,
+   :homepage "http://www.emanuelvigeland.museum.no/"}
+  {:name "Emilies hus (Museum)",
+   :longitude 11.301556,
+   :latitude 63.748811,
+   :source :openstreetmap}
+  {:name "Enebakk bygdetun",
+   :longitude 11.1518142,
+   :latitude 59.7611463,
+   :source :openstreetmap}
+  {:name "Energimølla",
+   :longitude 9.6523045,
+   :latitude 59.667831,
+   :source :openstreetmap,
+   :homepage "https://norskbergverksmuseum.no/museet-i-smeltehytta"}
+  {:name "Engøyholmen Kystkultursenter",
+   :longitude 5.7429212,
+   :latitude 58.9815087,
+   :source :openstreetmap}
+  {:name "Ergansenteret",
+   :longitude 6.9078666,
+   :latitude 62.9085875,
+   :source :openstreetmap,
+   :homepage
+   "https://www.romsdalsmuseet.no/no/avdelinger/ergan-kystfort"}
+  {:name "Espeland fangeleir",
+   :longitude 5.4762176,
+   :latitude 60.3754856,
+   :source :openstreetmap}
+  {:name "Espevær hummerpark",
+   :longitude 5.1431183,
+   :latitude 59.5859209,
+   :source :openstreetmap}
+  {:name "Eva Bull Holtes museum",
+   :longitude 8.3571811,
+   :latitude 59.645523,
+   :source :openstreetmap}
+  {:name "Eventyrmuseet Villa Fridheim",
+   :longitude 9.631035,
+   :latitude 60.167677,
+   :source :openstreetmap,
+   :homepage "http://villafridheim.no/"}
+  {:name "Evje Mineralsti",
+   :longitude 7.8560976,
+   :latitude 58.5980431,
+   :source :openstreetmap,
+   :homepage
+   "https://www.setesdalsmuseet.no/faste-utstillingar/evje-mineralsti/"}
+  {:name "Evje og Hornnes Mineralmuseum",
+   :longitude 7.7789043,
+   :latitude 58.5829601,
+   :source :openstreetmap}
+  {:name "Evjemoen Forsvarsmuseum",
+   :longitude 7.783913,
+   :latitude 58.569997,
+   :source :openstreetmap}
+  {:name "Evjemoen forsvarsmuseum",
+   :longitude 7.7808646,
+   :latitude 58.5731267,
+   :source :openstreetmap}
+  {:name "Evju bygdetun",
+   :longitude 9.1629392,
+   :latitude 59.4104364,
+   :source :openstreetmap}
+  {:name "Eydehavnmuseet",
+   :longitude 8.864607,
+   :latitude 58.500547,
+   :source :openstreetmap}
+  {:name "Fabrikken",
+   :longitude 10.4554817,
+   :latitude 61.1183765,
+   :source :openstreetmap,
+   :homepage "https://willix.no"}
+  {:name "Fagerheimsamlinga",
+   :longitude 6.3571849,
+   :latitude 59.651187,
+   :source :openstreetmap}
+  {:name "Fagerlia skulemuseum",
+   :longitude 7.9757874,
+   :latitude 62.8880113,
+   :source :openstreetmap}
+  {:name "Falstadsenteret",
+   :longitude 11.0416061,
+   :latitude 63.6914173,
+   :source :openstreetmap}
+  {:name "Fantoft stavkirke",
+   :longitude 5.3532654,
+   :latitude 60.3393334,
+   :source :openstreetmap,
+   :homepage "https://fantoftstavkirke.no/"}
+  {:name "Fauske bygdetun",
+   :longitude 15.3807486,
+   :latitude 67.257006,
+   :source :openstreetmap}
+  {:name "Fedrenes Minne museum",
+   :longitude 6.5819677,
+   :latitude 58.2117894,
+   :source :openstreetmap}
+  {:name "Feiring jernverk",
+   :longitude 11.1628063,
+   :latitude 60.5395113,
+   :source :openstreetmap}
+  {:name "Fetsund Lensemuseum",
+   :longitude 11.1528934,
+   :latitude 59.9215819,
+   :source :openstreetmap,
+   :homepage "https://mia.no/fetsundlenser"}
+  {:name "Finnetunet",
+   :longitude 12.3991702,
+   :latitude 60.4158356,
+   :source :openstreetmap}
+  {:name "Finnmarksbiblioteket",
+   :longitude 29.7559522,
+   :latitude 70.0762018,
+   :source :openstreetmap}
+  {:name "Finnøy bygdemuseum",
+   :longitude 5.8728738,
+   :latitude 59.1743772,
+   :source :openstreetmap}
+  {:name "Fiskeri- og sjøfartsmuseet Sogndalsstrand",
+   :longitude 6.285287,
+   :latitude 58.32264,
+   :source :openstreetmap,
+   :homepage
+   "https://www.dalanefolkemuseum.no/anlegg/fiskeri-og-sjofartsmuseet-i-sogndalstrand/"}
+  {:name "Fiskerimuseet",
+   :longitude 6.1489166,
+   :latitude 62.4736445,
+   :source :openstreetmap}
+  {:name "Fiskerimuseet Hjertøya",
+   :longitude 7.168851,
+   :latitude 62.7169521,
+   :source :openstreetmap}
+  {:name "Fiskeværet Sør-Gjæslingan",
+   :longitude 10.7739545,
+   :latitude 64.7424461,
+   :source :openstreetmap}
+  {:name "Fjell festning",
+   :longitude 5.083709,
+   :latitude 60.32555,
+   :source :openstreetmap,
+   :homepage "https://fjellfestning.museumvest.no/"}
+  {:name "Fjellhallen",
+   :longitude 7.047694,
+   :latitude 57.9832665,
+   :source :openstreetmap}
+  {:name "Fjellvær gårdsmuseum",
+   :longitude 9.1516824,
+   :latitude 63.6347007,
+   :source :openstreetmap}
+  {:name "Fjordmuseet",
+   :longitude 19.2376897,
+   :latitude 69.2410348,
+   :source :openstreetmap}
+  {:name "Fjotland bygdemuseum",
+   :longitude 6.9887083,
+   :latitude 58.522784,
+   :source :openstreetmap}
+  {:name "Fjølstadtrøa Museum",
+   :longitude 10.6520159,
+   :latitude 63.4131276,
+   :source :openstreetmap}
+  {:name "Fjøløy Fort",
+   :longitude 5.576095,
+   :latitude 59.0870488,
+   :source :openstreetmap}
+  {:name "Fjøsen galleri og kafe",
+   :longitude 5.0931151,
+   :latitude 61.1236969,
+   :source :openstreetmap}
+  {:name "Flekkefjord museum",
+   :longitude 6.6617651,
+   :latitude 58.2981596,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vestagdermuseet.no/forhandsskjop-billetten-din/"}
+  {:name "Flyhistorisk museum Sola",
+   :longitude 5.6314178,
+   :latitude 58.8977305,
+   :source :openstreetmap}
+  {:name "Flåmsbanamuseet",
+   :longitude 7.1132596,
+   :latitude 60.8626554,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/flamrailwaymuseum/"}
+  {:name "Flørli krafstasjon",
+   :longitude 6.429453,
+   :latitude 59.0146275,
+   :source :openstreetmap,
+   :homepage "https://www.florli.no/cafe/"}
+  {:name "Fogdahuset",
+   :longitude 5.752808,
+   :latitude 58.854368,
+   :source :openstreetmap}
+  {:name "Folgefonnsenteret",
+   :longitude 6.0072819,
+   :latitude 59.986766,
+   :source :openstreetmap}
+  {:name "Folkenborg museum",
+   :longitude 11.306691,
+   :latitude 59.544842,
+   :source :openstreetmap}
+  {:name "Folldal Bygdetun",
+   :longitude 9.961755,
+   :latitude 62.1003404,
+   :source :openstreetmap}
+  {:name "Folldal gruver",
+   :longitude 9.9940067,
+   :latitude 62.1407926,
+   :source :openstreetmap}
+  {:name "Follo museum",
+   :longitude 10.6429748,
+   :latitude 59.6720223,
+   :source :openstreetmap,
+   :homepage "https://mia.no/follomuseum"}
+  {:name "Fornebu Bilmuseum",
+   :longitude 10.6240183,
+   :latitude 59.9010581,
+   :source :openstreetmap,
+   :homepage "https://dittfbu.no/kultur-pa-hjul-pa-fornebu/"}
+  {:name "Forsand bygdemuseum",
+   :longitude 6.0964518,
+   :latitude 58.8992922,
+   :source :openstreetmap}
+  {:name "Forsvarsmuseet",
+   :longitude 10.7408879,
+   :latitude 59.904511,
+   :source :openstreetmap,
+   :homepage
+   "https://www.forsvarsbygg.no/festningene/Festningene/Akershus-festning/Museer-og-utstillinger/Forsvarsmuseet/"}
+  {:name "Fosnes bygdemuseum",
+   :longitude 11.2647615,
+   :latitude 64.6514266,
+   :source :openstreetmap}
+  {:name "Fossekleiva kultursenter",
+   :longitude 10.373945,
+   :latitude 59.544359,
+   :source :openstreetmap,
+   :homepage "https://fossekleiva.no/"}
+  {:name "Fossesholm herregård",
+   :longitude 9.866605,
+   :latitude 59.728127,
+   :source :openstreetmap,
+   :homepage "https://buskerudmuseet.com/fossesholm-herregard/"}
+  {:name "Fossheim Steinsenter",
+   :longitude 8.5744425,
+   :latitude 61.8389565,
+   :source :openstreetmap}
+  {:name "Fossmotunet",
+   :longitude 18.5954951,
+   :latitude 69.0450679,
+   :source :openstreetmap}
+  {:name "Fotballmuseet",
+   :longitude 10.9287777,
+   :latitude 59.2125882,
+   :source :openstreetmap}
+  {:name "Fotland kraftstasjon",
+   :longitude 5.705141,
+   :latitude 58.7153359,
+   :source :openstreetmap}
+  {:name "Fotograf T. Dahl's hus",
+   :longitude 6.7316023,
+   :latitude 58.5976669,
+   :source :openstreetmap}
+  {:name "Fotografihuset",
+   :longitude 10.7529956,
+   :latitude 59.9051004,
+   :source :openstreetmap,
+   :homepage "https://www.munchmuseet.no/"}
+  {:name "Fredmoen",
+   :longitude 10.2387191,
+   :latitude 63.9636752,
+   :source :openstreetmap}
+  {:name "Fredrikstad Museum",
+   :longitude 10.9520402,
+   :latitude 59.2019313,
+   :source :openstreetmap}
+  {:name "Fridtun, 1845",
+   :longitude 5.208881,
+   :latitude 59.603114,
+   :source :openstreetmap,
+   :homepage
+   "https://www.bomlo.kommune.no/visit-bomlo/attraksjonar-pa-bomlo/fridtun.203335.aspx"}
+  {:name "Friluftsmuseet",
+   :longitude 10.202986,
+   :latitude 59.7555084,
+   :source :openstreetmap,
+   :homepage "https://drammens.museum.no/arkitektur/friluftsmuseet"}
+  {:name "Friluftsmuseet",
+   :longitude 11.1722126,
+   :latitude 59.546177,
+   :source :openstreetmap}
+  {:name "Frolands Verk Kultursenter",
+   :longitude 8.5820485,
+   :latitude 58.5008005,
+   :source :openstreetmap}
+  {:name "Frosta bygdemuseum",
+   :longitude 10.7036903,
+   :latitude 63.5678304,
+   :source :openstreetmap,
+   :homepage
+   "https://www.frosta.kommune.no/kultur-idrett-og-fritid/kultur/Sider/museum.aspx"}
+  {:name "Frøya kulturhus",
+   :longitude 8.8307356,
+   :latitude 63.7305867,
+   :source :openstreetmap}
+  {:name "Fuglensodden Friluftsmuseum",
+   :longitude 23.6568532,
+   :latitude 70.6673365,
+   :source :openstreetmap}
+  {:name "Funnefoss industriarbeidermuseum",
+   :longitude 11.525462,
+   :latitude 60.1693296,
+   :source :openstreetmap}
+  {:name "Fygle museum",
+   :longitude 13.6464242,
+   :latitude 68.1447434,
+   :source :openstreetmap}
+  {:name "Fyresdal bygdemuseum, Øyskogen",
+   :longitude 8.0910527,
+   :latitude 59.182802,
+   :source :openstreetmap}
+  {:name "Galeri Gunnar Berg",
+   :longitude 14.5807639,
+   :latitude 68.234464,
+   :source :openstreetmap}
+  {:name "Galleri",
+   :longitude 11.035506,
+   :latitude 63.2312866,
+   :source :openstreetmap}
+  {:name "Galleri 3,14",
+   :longitude 5.326535,
+   :latitude 60.39414,
+   :source :openstreetmap,
+   :homepage "https://marianneskjelbred.com/"}
+  {:name "Galleri Akvarellen",
+   :longitude 6.1521488,
+   :latitude 62.4726897,
+   :source :openstreetmap}
+  {:name "Galleri Arktiske Årstider",
+   :longitude 14.7738806,
+   :latitude 68.805006,
+   :source :openstreetmap}
+  {:name "Galleri Arto",
+   :longitude 10.4106136,
+   :latitude 59.2364698,
+   :source :openstreetmap}
+  {:name "Galleri Ask",
+   :longitude 10.4702471,
+   :latitude 59.3486751,
+   :source :openstreetmap,
+   :homepage "https://galleriask.no/"}
+  {:name "Galleri Av og Til",
+   :longitude 10.765335,
+   :latitude 59.928583,
+   :source :openstreetmap}
+  {:name "Galleri B Lassa",
+   :longitude 5.6713941,
+   :latitude 58.9430634,
+   :source :openstreetmap}
+  {:name "Galleri Branntårnet i Risør",
+   :longitude 9.2353228,
+   :latitude 58.7199914,
+   :source :openstreetmap}
+  {:name "Galleri D6",
+   :longitude 10.7885507,
+   :latitude 59.6638442,
+   :source :openstreetmap}
+  {:name "Galleri Duer",
+   :longitude 10.7519507,
+   :latitude 59.9174758,
+   :source :openstreetmap,
+   :homepage "https://www.galleriduer.no"}
+  {:name "Galleri ER paintings",
+   :longitude 10.2386217,
+   :latitude 59.1273641,
+   :source :openstreetmap}
+  {:name "Galleri Espolin",
+   :longitude 14.4514655,
+   :latitude 68.2081387,
+   :source :openstreetmap}
+  {:name "Galleri Eva Harr",
+   :longitude 13.0872187,
+   :latitude 67.9322031,
+   :source :openstreetmap,
+   :homepage "https://www.lofotoddennp.com"}
+  {:name "Galleri F15",
+   :longitude 10.6105066,
+   :latitude 59.4242502,
+   :source :openstreetmap,
+   :homepage "https://gallerif15.no/"}
+  {:name "Galleri F48",
+   :longitude 10.7062185,
+   :latitude 59.9211381,
+   :source :openstreetmap}
+  {:name "Galleri Farsund",
+   :longitude 6.8035242,
+   :latitude 58.0947289,
+   :source :openstreetmap}
+  {:name "Galleri Festiviteten",
+   :longitude 11.1725552,
+   :latitude 60.2998795,
+   :source :openstreetmap,
+   :homepage "http://www.eidsvoll1814.no/frontpage.aspx#museetstilbud"}
+  {:name "Galleri Finsrud",
+   :longitude 10.634341,
+   :latitude 59.648479,
+   :source :openstreetmap,
+   :homepage "https://www.galleri-finsrud.no/"}
+  {:name "Galleri Finsrud",
+   :longitude 10.6946952,
+   :latitude 59.6904632,
+   :source :openstreetmap,
+   :homepage "https://www.galleri-finsrud.no/"}
+  {:name "Galleri Fjalar",
+   :longitude 5.322902,
+   :latitude 60.397353,
+   :source :openstreetmap,
+   :homepage "http://www.bymuseet.no/?vis=77"}
+  {:name "Galleri Fjordheim",
+   :longitude 10.6591659,
+   :latitude 60.9226743,
+   :source :openstreetmap}
+  {:name "Galleri Furuly",
+   :longitude 7.2714725,
+   :latitude 58.0553688,
+   :source :openstreetmap}
+  {:name "Galleri G Guddal",
+   :longitude 6.0270743,
+   :latitude 59.9625436,
+   :source :openstreetmap}
+  {:name "Galleri Galåen",
+   :longitude 11.3873355,
+   :latitude 62.5765928,
+   :source :openstreetmap,
+   :homepage "https://fjeld-ljom.no/"}
+  {:name "Galleri Giga",
+   :longitude 5.5005079,
+   :latitude 59.7792618,
+   :source :openstreetmap}
+  {:name "Galleri Grette",
+   :longitude 9.2583969,
+   :latitude 59.5584269,
+   :source :openstreetmap}
+  {:name "Galleri Gruppe 9",
+   :longitude 9.6985178,
+   :latitude 59.0547531,
+   :source :openstreetmap}
+  {:name "Galleri Haubitz",
+   :longitude 8.004448,
+   :latitude 58.1346268,
+   :source :openstreetmap}
+  {:name "Galleri Inspirasjon, Jomfruland",
+   :longitude 9.595416,
+   :latitude 58.865649,
+   :source :openstreetmap}
+  {:name "Galleri Ismene",
+   :longitude 10.3687127,
+   :latitude 63.4294658,
+   :source :openstreetmap,
+   :homepage "https://www.ismene.no/"}
+  {:name "Galleri Konserves",
+   :longitude 8.5877151,
+   :latitude 58.3408895,
+   :source :openstreetmap}
+  {:name "Galleri Lille Kabelvåg",
+   :longitude 14.4785325,
+   :latitude 68.209633,
+   :source :openstreetmap,
+   :homepage "http://lillekabelvaag.no"}
+  {:name "Galleri Lofoten",
+   :longitude 14.2073402,
+   :latitude 68.1556246,
+   :source :openstreetmap}
+  {:name "Galleri N. Bergslien",
+   :longitude 7.0685995,
+   :latitude 60.46759,
+   :source :openstreetmap}
+  {:name "Galleri Nord-Norge",
+   :longitude 16.5408596,
+   :latitude 68.8004168,
+   :source :openstreetmap,
+   :homepage "https://www.gallerinn.no/"}
+  {:name "Galleri Nutheim",
+   :longitude 8.5480657,
+   :latitude 59.570384,
+   :source :openstreetmap}
+  {:name "Galleri Nyhuus",
+   :longitude 9.2028922,
+   :latitude 59.3828248,
+   :source :openstreetmap,
+   :homepage "https://www.gallerinyhuus.no/"}
+  {:name "Galleri Nyksund Brygge",
+   :longitude 15.0149,
+   :latitude 68.995175,
+   :source :openstreetmap}
+  {:name "Galleri Nysted",
+   :longitude 11.5599764,
+   :latitude 60.8873593,
+   :source :openstreetmap}
+  {:name "Galleri Oker",
+   :longitude 5.3571278,
+   :latitude 60.3153335,
+   :source :openstreetmap,
+   :homepage "https://www.gallerioker.no"}
+  {:name "Galleri Omland",
+   :longitude 6.5307953,
+   :latitude 58.2346553,
+   :source :openstreetmap}
+  {:name "Galleri Paradis",
+   :longitude 5.3441737,
+   :latitude 60.3361006,
+   :source :openstreetmap}
+  {:name "Galleri Per Hoel",
+   :longitude 10.039174,
+   :latitude 58.995453,
+   :source :openstreetmap,
+   :homepage "https://perhoel.no"}
+  {:name "Galleri Pingvin",
+   :longitude 10.7224278,
+   :latitude 59.9306846,
+   :source :openstreetmap,
+   :homepage "https://www.galleripengvin.no"}
+  {:name "Galleri Reimangården / Grimstad Kunstforening",
+   :longitude 8.5925802,
+   :latitude 58.3408464,
+   :source :openstreetmap,
+   :homepage "https://www.grimstadkunstforening.no"}
+  {:name "Galleri Rygge",
+   :longitude 10.6871787,
+   :latitude 59.4090766,
+   :source :openstreetmap}
+  {:name "Galleri SG",
+   :longitude 10.4028386,
+   :latitude 63.4310846,
+   :source :openstreetmap,
+   :homepage "https://www.galleri-sg.no/"}
+  {:name "Galleri Sjøholt",
+   :longitude 12.288797,
+   :latitude 65.978302,
+   :source :openstreetmap}
+  {:name "Galleri Skallum",
+   :longitude 10.5931396,
+   :latitude 59.9108569,
+   :source :openstreetmap,
+   :homepage "galleriskallum.no"}
+  {:name "Galleri Skjold",
+   :longitude 5.3515944,
+   :latitude 60.3175756,
+   :source :openstreetmap}
+  {:name "Galleri Solviken",
+   :longitude 9.4782658,
+   :latitude 58.8613943,
+   :source :openstreetmap}
+  {:name "Galleri Steinkjelleren",
+   :longitude 5.326463,
+   :latitude 60.398639,
+   :source :openstreetmap,
+   :homepage "www.katrinelund.no"}
+  {:name "Galleri Stokland",
+   :longitude 13.188116,
+   :latitude 65.8373073,
+   :source :openstreetmap,
+   :homepage "https://helgelandmuseum.no/archives/12783"}
+  {:name "Galleri Svalbard",
+   :longitude 15.5927227,
+   :latitude 78.2034357,
+   :source :openstreetmap}
+  {:name "Galleri Syningen",
+   :longitude 8.5618531,
+   :latitude 60.6296063,
+   :source :openstreetmap}
+  {:name "Galleri Tare",
+   :longitude 15.013665,
+   :latitude 67.7705404,
+   :source :openstreetmap}
+  {:name "Galleri Trafo",
+   :longitude 10.4351625,
+   :latitude 59.8331985,
+   :source :openstreetmap}
+  {:name "Galleri Uvær & Betty's Tesalong",
+   :longitude 14.6547119,
+   :latitude 68.5747715,
+   :source :openstreetmap}
+  {:name "Galleri Vanntårnet",
+   :longitude 10.6609178,
+   :latitude 59.8571678,
+   :source :openstreetmap}
+  {:name "Galleri Vinjum",
+   :longitude 7.189162,
+   :latitude 60.9057343,
+   :source :openstreetmap}
+  {:name "Galleri Walaker 300",
+   :longitude 7.2474941,
+   :latitude 61.3019407,
+   :source :openstreetmap}
+  {:name "Galleri Würth",
+   :longitude 10.9415637,
+   :latitude 59.9875448,
+   :source :openstreetmap}
+  {:name "Galleri Zink",
+   :longitude 10.4675049,
+   :latitude 61.1144653,
+   :source :openstreetmap}
+  {:name "Galleri Ørje brug",
+   :longitude 11.6512467,
+   :latitude 59.4814235,
+   :source :openstreetmap}
+  {:name "GalleRita",
+   :longitude 5.8177889,
+   :latitude 58.9250557,
+   :source :openstreetmap,
+   :homepage "http://www.gallerita.no"}
+  {:name "Gallery Skriverstuen",
+   :longitude 10.6582336,
+   :latitude 59.9173491,
+   :source :openstreetmap}
+  {:name "Gamle Bergen",
+   :longitude 5.311142,
+   :latitude 60.417943,
+   :source :openstreetmap,
+   :homepage "https://www.bymuseet.no/?vis=79"}
+  {:name "Gamle Hvam",
+   :longitude 11.3846108,
+   :latitude 60.1016126,
+   :source :openstreetmap}
+  {:name "Gamle Kvernes bygdemuseum",
+   :longitude 7.7091324,
+   :latitude 63.0084494,
+   :source :openstreetmap}
+  {:name "Gamlebyen Modelljernbanesenter",
+   :longitude 10.9555462,
+   :latitude 59.2029782,
+   :source :openstreetmap}
+  {:name "Gamlehaugen",
+   :longitude 5.336747,
+   :latitude 60.34291,
+   :source :openstreetmap,
+   :homepage "https://gamlehaugen.museumvest.no/"}
+  {:name "Gammelbua",
+   :longitude 9.8394057,
+   :latitude 62.8767857,
+   :source :openstreetmap,
+   :homepage "https://rennebuhistorielag.no/butikkmuseet-29342s.html"}
+  {:name "Gammelbutikken",
+   :longitude 16.8173144,
+   :latitude 69.0650619,
+   :source :openstreetmap}
+  {:name "Gammelgruva",
+   :longitude 9.701454,
+   :latitude 63.121967,
+   :source :openstreetmap}
+  {:name "Gammelgården",
+   :longitude 11.1447617,
+   :latitude 62.9256408,
+   :source :openstreetmap}
+  {:name "Gammelskolen",
+   :longitude 12.9374374,
+   :latitude 66.0630644,
+   :source :openstreetmap}
+  {:name "Gamslett fiskarbondegård",
+   :longitude 19.8047145,
+   :latitude 69.668363,
+   :source :openstreetmap}
+  {:name "Gamvik museum",
+   :longitude 28.2501106,
+   :latitude 71.0580874,
+   :source :openstreetmap}
+  {:name "Garborgheimen",
+   :longitude 5.703597,
+   :latitude 58.687263,
+   :source :openstreetmap}
+  {:name "Garborgsenteret",
+   :longitude 5.6503145,
+   :latitude 58.7337899,
+   :source :openstreetmap,
+   :homepage "https://www.jaermuseet.no/garborgsenteret/"}
+  {:name "Gategalleriet",
+   :longitude 5.3328054,
+   :latitude 60.3770175,
+   :source :openstreetmap,
+   :homepage "https://gategalleriet.no/"}
+  {:name "Gaula Natursenter",
+   :longitude 10.2934439,
+   :latitude 63.0361757,
+   :source :openstreetmap}
+  {:name "Geitbåtmuseet",
+   :longitude 8.5714905,
+   :latitude 63.1210343,
+   :source :openstreetmap}
+  {:name "Geologisenteret",
+   :longitude 10.4930832,
+   :latitude 59.7823328,
+   :source :openstreetmap,
+   :homepage "https://geologisenteret.no"}
+  {:name "Geologivandring",
+   :longitude 18.9704923,
+   :latitude 69.6786646,
+   :source :openstreetmap,
+   :homepage "https://nordnorsk.vitensenter.no/"}
+  {:name "Gildeskål kulturhus",
+   :longitude 14.0335218,
+   :latitude 67.0350877,
+   :source :openstreetmap}
+  {:name "Gildeskål prestegård",
+   :longitude 14.046341,
+   :latitude 67.0597395,
+   :source :openstreetmap}
+  {:name "Gjenreisningsmuseet",
+   :longitude 23.6779757,
+   :latitude 70.6623376,
+   :source :openstreetmap,
+   :homepage
+   "http://www.kystmuseene.no/the-museum-of-reconstruction-for-finnmark-and-northern-troms.107297.en.html"}
+  {:name "Gjerdetunet",
+   :longitude 6.3205817,
+   :latitude 60.1287646,
+   :source :openstreetmap}
+  {:name "Gjerstadhuset",
+   :longitude 12.3624561,
+   :latitude 64.245659,
+   :source :openstreetmap}
+  {:name "Gjestheim",
+   :longitude 7.103005,
+   :latitude 61.2294,
+   :source :openstreetmap}
+  {:name "Gjøvik gård",
+   :longitude 10.691703,
+   :latitude 60.7931866,
+   :source :openstreetmap}
+  {:name "Gladstad prestegård",
+   :longitude 11.9589937,
+   :latitude 65.6752016,
+   :source :openstreetmap}
+  {:name "Glasslåven kunstsenter",
+   :longitude 10.527568,
+   :latitude 60.366821,
+   :source :openstreetmap,
+   :homepage "https://www.glasslaven.no/"}
+  {:name "Glomdalsmuseet",
+   :longitude 11.5532415,
+   :latitude 60.876007,
+   :source :openstreetmap,
+   :homepage "https://www.glomdalsmuseet.no/"}
+  {:name "Glomfjord Industrimuseums",
+   :longitude 13.9450347,
+   :latitude 66.815504,
+   :source :openstreetmap}
+  {:name "Godøy Kystmuseum",
+   :longitude 6.0164669,
+   :latitude 62.4690015,
+   :source :openstreetmap}
+  {:name "Gokstad Kystlag",
+   :longitude 10.2326497,
+   :latitude 59.1226486,
+   :source :openstreetmap,
+   :homepage "https://www.gokstadkystlag.no/"}
+  {:name "Gol bygdemuseum",
+   :longitude 8.9082536,
+   :latitude 60.7022358,
+   :source :openstreetmap}
+  {:name "Granby gård",
+   :longitude 11.0781149,
+   :latitude 63.2735729,
+   :source :openstreetmap}
+  {:name "Grande Landhandelmuseum",
+   :longitude 10.6225425,
+   :latitude 63.6718758,
+   :source :openstreetmap,
+   :homepage
+   "https://www.perler.info/grande-landhandel-ner-killingberg/"}
+  {:name "Grane bygdetun",
+   :longitude 13.417867,
+   :latitude 65.5309556,
+   :source :openstreetmap}
+  {:name "Granvin bygdemuseum",
+   :longitude 6.7219271,
+   :latitude 60.5244649,
+   :source :openstreetmap,
+   :homepage "https://granvinbygdemuseum"}
+  {:name "Grasham museum",
+   :longitude 8.2315915,
+   :latitude 58.3022663,
+   :source :openstreetmap,
+   :homepage "https://no.wikipedia.org/wiki/Birkenes_Bygdemuseum"}
+  {:name "Grenselosmuseet",
+   :longitude 11.8709756,
+   :latitude 59.8919119,
+   :source :openstreetmap}
+  {:name "Grimdalstunet",
+   :longitude 7.950528,
+   :latitude 59.4078882,
+   :source :openstreetmap,
+   :homepage
+   "http://www.vest-telemark.museum.no/museum/grimdalstunet-p515263"}
+  {:name "Grimsbu BP-stasjon",
+   :longitude 10.1731465,
+   :latitude 62.1558193,
+   :source :openstreetmap}
+  {:name "Grini museum",
+   :longitude 10.5847011,
+   :latitude 59.9557896,
+   :source :openstreetmap,
+   :homepage "https://mia.no/grinimuseet"}
+  {:name "Grong bygdamuseum",
+   :longitude 12.21919,
+   :latitude 64.4670609,
+   :source :openstreetmap}
+  {:name "Gruetunet",
+   :longitude 12.0749827,
+   :latitude 60.4533317,
+   :source :openstreetmap,
+   :homepage "https://www.gruetunet.no/"}
+  {:name "Gruvemuseet på Litlabø",
+   :longitude 5.421673,
+   :latitude 59.7908216,
+   :source :openstreetmap,
+   :homepage "https://www.gruo.no/"}
+  {:name "Gruvo atelier & galleri",
+   :longitude 6.2860699,
+   :latitude 58.3418559,
+   :source :openstreetmap}
+  {:name "Grytøy bygdetun",
+   :longitude 16.5648422,
+   :latitude 68.8775045,
+   :source :openstreetmap}
+  {:name "Grødaland",
+   :longitude 5.598955,
+   :latitude 58.6358403,
+   :source :openstreetmap}
+  {:name "Grønsvik kystfort",
+   :longitude 13.001222,
+   :latitude 66.3495053,
+   :source :openstreetmap,
+   :homepage "https://helgelandmuseum.no/kontakt-gronsvik-kystfort"}
+  {:name "Gudbrandsdal Krigsminnesamling",
+   :longitude 9.6957847,
+   :latitude 61.6649455,
+   :source :openstreetmap}
+  {:name "Gulden kunstverk",
+   :longitude 9.9703626,
+   :latitude 59.7596326,
+   :source :openstreetmap,
+   :homepage "https://www.guldenkunstverk.no/"}
+  {:name "Gulli skolemuseum",
+   :longitude 10.1713138,
+   :latitude 59.2816677,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sandefjord.kommune.no/kultur-idrett-fritid/kultur/historiske-sandefjord/"}
+  {:name "Gullverket museum",
+   :longitude 11.3599715,
+   :latitude 60.3891534,
+   :source :openstreetmap}
+  {:name "Gulskogen gård",
+   :longitude 10.1654515,
+   :latitude 59.7461165,
+   :source :openstreetmap}
+  {:name "Gunnar S. galleriet",
+   :longitude 6.072548,
+   :latitude 61.2199347,
+   :source :openstreetmap}
+  {:name "Guovdageainnu gilišillju / Kautokeino bygdetun",
+   :longitude 23.048564,
+   :latitude 69.0085452,
+   :source :openstreetmap,
+   :homepage "https://rdm.no/"}
+  {:name "Gyldenpris Kunsthall",
+   :longitude 5.3191854,
+   :latitude 60.3803074,
+   :source :openstreetmap}
+  {:name "Gårdsmuseum",
+   :longitude 18.0699235,
+   :latitude 69.3530125,
+   :source :openstreetmap}
+  {:name "Hadeland Folkemuseum",
+   :longitude 10.5115456,
+   :latitude 60.3956589,
+   :source :openstreetmap}
+  {:name "Hadelands Bergverksmuseum",
+   :longitude 10.6551003,
+   :latitude 60.2526483,
+   :source :openstreetmap,
+   :homepage "https://randsfjordmuseet.no/hadeland-bergverksmuseum"}
+  {:name "Hagan",
+   :longitude 9.3590546,
+   :latitude 60.2569612,
+   :source :openstreetmap}
+  {:name "Halden museum",
+   :longitude 11.3888061,
+   :latitude 59.1236644,
+   :source :openstreetmap}
+  {:name "Halling og Krødsheradtunet",
+   :longitude 10.1952719,
+   :latitude 59.7577525,
+   :source :openstreetmap}
+  {:name "Hallingdal folkemuseum",
+   :longitude 9.0910616,
+   :latitude 60.5661897,
+   :source :openstreetmap}
+  {:name "Halsnøy kloster",
+   :longitude 5.6554549,
+   :latitude 59.7969785,
+   :source :openstreetmap}
+  {:name "Hamarøy bygdetun",
+   :longitude 15.6153636,
+   :latitude 68.0849361,
+   :source :openstreetmap}
+  {:name "Hamarøy Krigsminnesmuseum",
+   :longitude 15.9289929,
+   :latitude 67.9681284,
+   :source :openstreetmap}
+  {:name "Hamsunsenteret",
+   :longitude 15.6403767,
+   :latitude 68.0818464,
+   :source :openstreetmap,
+   :homepage "http://hamsunsenteret.no"}
+  {:name "Handelshuset Zahl",
+   :longitude 13.0097719,
+   :latitude 66.1993052,
+   :source :openstreetmap}
+  {:name "Handverksfabrikken",
+   :longitude 6.8057808,
+   :latitude 58.3910523,
+   :source :openstreetmap,
+   :homepage "http://www.handverksfabrikken.no"}
+  {:name "Hannah Ryggen-senteret",
+   :longitude 9.6667046,
+   :latitude 63.685346,
+   :source :openstreetmap,
+   :homepage "https://vatmarkorland.no/"}
+  {:name "Hans Nielsen Hauges minde",
+   :longitude 10.9993073,
+   :latitude 59.2459692,
+   :source :openstreetmap}
+  {:name "Harald Fjeldal Kunstkolonial",
+   :longitude 8.3789684,
+   :latitude 58.249177,
+   :source :openstreetmap}
+  {:name "Hardanger Akvasenter",
+   :longitude 6.2733481,
+   :latitude 60.3946841,
+   :source :openstreetmap}
+  {:name "Hardanger Fartøyvernsenter",
+   :longitude 6.1479627,
+   :latitude 60.3661235,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hardangerogvossmuseum.no/hardanger-fartoeyvernsenter/norsk/aktuelt.aspx"}
+  {:name "Hardanger Folkemuseum",
+   :longitude 6.6182815,
+   :latitude 60.4260895,
+   :source :openstreetmap,
+   :homepage "https://hardangerfolkemuseum.no/en/"}
+  {:name "Hardangervidda nasjonalparksenter",
+   :longitude 8.309317,
+   :latitude 59.8153245,
+   :source :openstreetmap,
+   :homepage "https://www.hardangerviddanasjonalparksenter.no/"}
+  {:name "Hasseldalen kunstverksted",
+   :longitude 8.6004959,
+   :latitude 58.3415687,
+   :source :openstreetmap,
+   :homepage "https://www.gbm.no/sjofartsmuseet/no/"}
+  {:name "Haugaland Kunstverk",
+   :longitude 5.252274,
+   :latitude 59.416537,
+   :source :openstreetmap,
+   :homepage "https://www.haugalandkunstverk.com/"}
+  {:name "Haugar kunstmuseum",
+   :longitude 10.4120691,
+   :latitude 59.2676606,
+   :source :openstreetmap}
+  {:name "Haugesund billedgalleri",
+   :longitude 5.263687,
+   :latitude 59.4185225,
+   :source :openstreetmap}
+  {:name "Hauketo skysstasjon",
+   :longitude 10.8051723,
+   :latitude 59.8477013,
+   :source :openstreetmap}
+  {:name "Havlandet",
+   :longitude 7.8514722,
+   :latitude 63.4254149,
+   :source :openstreetmap}
+  {:name "Havnnes Museum",
+   :longitude 20.5688196,
+   :latitude 69.7877219,
+   :source :openstreetmap,
+   :homepage "https://lyngen-havnnes.no/"}
+  {:name "Havråtunet",
+   :longitude 5.5756991,
+   :latitude 60.4394095,
+   :source :openstreetmap,
+   :homepage "http://muhu.no/havra/om"}
+  {:name "Heddal Bygdetun",
+   :longitude 9.1820125,
+   :latitude 59.5787989,
+   :source :openstreetmap}
+  {:name "Hedmarksmuseet",
+   :longitude 11.0338978,
+   :latitude 60.7952461,
+   :source :openstreetmap,
+   :homepage "https://www.hedmarksmuseet.no/"}
+  {:name "Heimnaustet",
+   :longitude 7.5924572,
+   :latitude 63.2190933,
+   :source :openstreetmap}
+  {:name "Hella friluftsmuseum",
+   :longitude 18.7232441,
+   :latitude 69.558797,
+   :source :openstreetmap}
+  {:name "Helleren",
+   :longitude 6.351613,
+   :latitude 58.3279761,
+   :source :openstreetmap,
+   :homepage "https://youtu.be/0ZDscrRJzas"}
+  {:name "Helleren kraftstasjon",
+   :longitude 17.2101746,
+   :latitude 68.6567001,
+   :source :openstreetmap}
+  {:name "Hellviktangen",
+   :longitude 10.6868102,
+   :latitude 59.8512651,
+   :source :openstreetmap,
+   :homepage "https://www.hellviktangen.no/"}
+  {:name "Hemmestad brygge",
+   :longitude 16.0538067,
+   :latitude 68.724796,
+   :source :openstreetmap,
+   :homepage "https://stmu.no/attraksjoner/hemmestad-brygge/"}
+  {:name "Hemsedal bygdetun",
+   :longitude 8.6303257,
+   :latitude 60.8473909,
+   :source :openstreetmap}
+  {:name "Henie Onstad kunstsenter",
+   :longitude 10.5529699,
+   :latitude 59.8888023,
+   :source :openstreetmap,
+   :homepage "https://hok.no/"}
+  {:name "Henrik Ibsen museum",
+   :longitude 9.5776621,
+   :latitude 59.2396157,
+   :source :openstreetmap,
+   :homepage "https://www.telemarkmuseum.no/henrik-ibsen-museum/"}
+  {:name "Herand Kulturhistoriske Senter",
+   :longitude 6.3813321,
+   :latitude 60.3430474,
+   :source :openstreetmap}
+  {:name "Herdla museum",
+   :longitude 4.9492987,
+   :latitude 60.575984,
+   :source :openstreetmap,
+   :homepage "https://herdlamuseum.museumvest.no/"}
+  {:name "Herlandsfossen kraftverk",
+   :longitude 5.5427687,
+   :latitude 60.5823003,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nve.no/om-nve/nves-utvalgte-kulturminner/kraftverk/herlandsfoss/"}
+  {:name "Hernestangen bygdemuseum",
+   :longitude 10.396249,
+   :latitude 59.6911052,
+   :source :openstreetmap,
+   :homepage
+   "https://www.historielaget.no/kulturminner-i-royken/hernestangen-bygdemuseum"}
+  {:name "Herregården",
+   :longitude 10.0376763,
+   :latitude 59.04959,
+   :source :openstreetmap}
+  {:name "Hervoll mølle",
+   :longitude 6.6261773,
+   :latitude 58.137045,
+   :source :openstreetmap}
+  {:name "Herøy bygdesamling",
+   :longitude 12.2802712,
+   :latitude 65.9741002,
+   :source :openstreetmap}
+  {:name "Herøy Kystmuseum",
+   :longitude 5.681811,
+   :latitude 62.3133776,
+   :source :openstreetmap}
+  {:name "Hesthammer skule",
+   :longitude 5.5338831,
+   :latitude 59.2878336,
+   :source :openstreetmap}
+  {:name "Hetland skolemuseum",
+   :longitude 6.6952228,
+   :latitude 58.10432,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vestagdermuseet.no/artikkel.aspx?m=187&amid=2090"}
+  {:name "Hillestad Galleri",
+   :longitude 8.1756632,
+   :latitude 58.8079061,
+   :source :openstreetmap}
+  {:name "Hillesvåg Ullvarefabrikk",
+   :longitude 5.365532,
+   :latitude 60.583656,
+   :source :openstreetmap,
+   :homepage "https://www.ull.no/"}
+  {:name "Hiltahuset",
+   :longitude 5.0891915,
+   :latitude 59.4380934,
+   :source :openstreetmap,
+   :homepage "https://rovarhavbrukssenter.no/"}
+  {:name "Historica historiske samlinger, Rakkestad",
+   :longitude 11.3075189,
+   :latitude 59.379617,
+   :source :openstreetmap}
+  {:name "Historielagets Museum",
+   :longitude 8.0005127,
+   :latitude 58.0874754,
+   :source :openstreetmap}
+  {:name "Historisk museum",
+   :longitude 10.7355402,
+   :latitude 59.916783,
+   :source :openstreetmap,
+   :homepage "https://www.khm.uio.no/"}
+  {:name "Hjadlane galleri",
+   :longitude 7.0401054,
+   :latitude 60.5891471,
+   :source :openstreetmap}
+  {:name "Hjelmeland bygdemuseum",
+   :longitude 6.179522,
+   :latitude 59.2370657,
+   :source :openstreetmap}
+  {:name "Hjemmefrontmuseet, Rakkestad",
+   :longitude 11.3463063,
+   :latitude 59.4273611,
+   :source :openstreetmap}
+  {:name "Hjerleid Bygningshistorisk park",
+   :longitude 9.2783159,
+   :latitude 61.9582233,
+   :source :openstreetmap,
+   :homepage "https://www.hjerleid.no/bygningshistorisk-park"}
+  {:name "Hofsøy bygdemuseum",
+   :longitude 17.0518249,
+   :latitude 69.0387688,
+   :source :openstreetmap}
+  {:name "Hol bygdemuseum",
+   :longitude 8.3479803,
+   :latitude 60.5970301,
+   :source :openstreetmap,
+   :homepage "https://buskerudmuseet.com"}
+  {:name "Holmarka besøksgård",
+   :longitude 7.1470804,
+   :latitude 62.7414423,
+   :source :openstreetmap,
+   :homepage
+   "https://www.romsdalsmuseet.no/no/besok-oss/holmarka-besoksgard"}
+  {:name "Holmenes sjøsamiske gård",
+   :longitude 20.8563815,
+   :latitude 69.4813609,
+   :source :openstreetmap}
+  {:name "Holmestrand museum",
+   :longitude 10.314437,
+   :latitude 59.4911426,
+   :source :openstreetmap,
+   :homepage "https://holmestrandmuseum.no/"}
+  {:name "Holmsbu kunstmuseum",
+   :longitude 10.4237151,
+   :latitude 59.5520073,
+   :source :openstreetmap}
+  {:name "Holt skolemuseum",
+   :longitude 8.8675173,
+   :latitude 58.6123707,
+   :source :openstreetmap}
+  {:name "Hordaland kunstsenter",
+   :longitude 5.315124,
+   :latitude 60.395228,
+   :source :openstreetmap,
+   :homepage "https://www.kunstsenter.no/"}
+  {:name "Hordamuseet",
+   :longitude 5.326533,
+   :latitude 60.270079,
+   :source :openstreetmap,
+   :homepage "https://www.bymuseet.no/?vis=249"}
+  {:name "Horg bygdatun",
+   :longitude 10.2377963,
+   :latitude 63.1114068,
+   :source :openstreetmap}
+  {:name "Horten bilmuseum",
+   :longitude 10.4805998,
+   :latitude 59.4056305,
+   :source :openstreetmap}
+  {:name "Hovden Jernvinnemuseum",
+   :longitude 7.362017,
+   :latitude 59.5529705,
+   :source :openstreetmap}
+  {:name "Hufthamartunet",
+   :longitude 5.2052135,
+   :latitude 60.1200371,
+   :source :openstreetmap}
+  {:name "Huldreheimen",
+   :longitude 7.3411401,
+   :latitude 59.3549752,
+   :source :openstreetmap}
+  {:name "Hummermuseet",
+   :longitude 5.399156,
+   :latitude 59.0588671,
+   :source :openstreetmap}
+  {:name "Hurdal bygdetun",
+   :longitude 11.017052,
+   :latitude 60.4885302,
+   :source :openstreetmap}
+  {:name "Hurtigrutemuseet",
+   :longitude 14.9125518,
+   :latitude 68.569383,
+   :source :openstreetmap,
+   :homepage "https://hurtigrutemuseet.no/"}
+  {:name "Husantunet",
+   :longitude 10.6284287,
+   :latitude 62.1212752,
+   :source :openstreetmap}
+  {:name "Husmannsplassen Kjelvik",
+   :longitude 15.8036064,
+   :latitude 67.5662371,
+   :source :openstreetmap,
+   :homepage
+   "https://nordlandsmuseet.no/no/museumsanlegg/husmannsplassen"}
+  {:name "Husmannsplassen Treo",
+   :longitude 6.0308549,
+   :latitude 59.9873054,
+   :source :openstreetmap}
+  {:name "HV-brakka",
+   :longitude 9.2382155,
+   :latitude 58.724612,
+   :source :openstreetmap}
+  {:name "Hvalbåten «Southern Actor»",
+   :longitude 10.2298024,
+   :latitude 59.1264789,
+   :source :openstreetmap}
+  {:name "Hvalfangstmuseet",
+   :longitude 10.2275065,
+   :latitude 59.131147,
+   :source :openstreetmap}
+  {:name "Hvasser Kystmuseum",
+   :longitude 10.450805,
+   :latitude 59.0802296,
+   :source :openstreetmap}
+  {:name "Hå gamle prestegard",
+   :longitude 5.5512794,
+   :latitude 58.6670293,
+   :source :openstreetmap}
+  {:name "Hålandstunet",
+   :longitude 6.2360407,
+   :latitude 59.3525466,
+   :source :openstreetmap,
+   :homepage "https://www.visitsuldal.no/skattar/halandstunet"}
+  {:name "Hægebostad bygdemuseum",
+   :longitude 7.2317095,
+   :latitude 58.3950625,
+   :source :openstreetmap,
+   :homepage "https://www.vestagdermuseet.no/tingvatn/"}
+  {:name "Hægeland bygdemuseum",
+   :longitude 7.7582621,
+   :latitude 58.3766943,
+   :source :openstreetmap}
+  {:name "Høgtun kultursenter",
+   :longitude 7.5582156,
+   :latitude 58.1720307,
+   :source :openstreetmap}
+  {:name "Høvåg Museum",
+   :longitude 8.1841607,
+   :latitude 58.1588225,
+   :source :openstreetmap}
+  {:name "Høyviksalen",
+   :longitude 6.5384636,
+   :latitude 61.2089778,
+   :source :openstreetmap}
+  {:name "Ibsenhuset",
+   :longitude 9.6053043,
+   :latitude 59.2076491,
+   :source :openstreetmap}
+  {:name "Ibsenmuseet",
+   :longitude 10.7270455,
+   :latitude 59.9150305,
+   :source :openstreetmap,
+   :homepage "https://ibsenmt.no"}
+  {:name "Ida & Lyra Museet",
+   :longitude 23.2002121,
+   :latitude 70.2143245,
+   :source :openstreetmap}
+  {:name "Inderøy Bygdemuseum",
+   :longitude 11.2718627,
+   :latitude 63.8751623,
+   :source :openstreetmap}
+  {:name "Industriarbeidarmuseet i Sauda",
+   :longitude 6.363841,
+   :latitude 59.6504824,
+   :source :openstreetmap}
+  {:name "Ingebrigt Vik museum",
+   :longitude 6.2022348,
+   :latitude 60.3880611,
+   :source :openstreetmap}
+  {:name "Institut Français",
+   :longitude 10.723177,
+   :latitude 59.92351,
+   :source :openstreetmap}
+  {:name "Instituto Italiano De Cultura",
+   :longitude 10.7219416,
+   :latitude 59.9189377,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kongehuset.no/artikkel.html?tid=153246&sek=79786"}
+  {:name "Interkulturelt museum",
+   :longitude 10.763251,
+   :latitude 59.913048,
+   :source :openstreetmap,
+   :homepage "https://www.oslomuseum.no/interkulturelt-museum/"}
+  {:name "Isbjørnklubben",
+   :longitude 23.6900139,
+   :latitude 70.6637589,
+   :source :openstreetmap,
+   :homepage "https://www.isbjornklubben.no"}
+  {:name "Ishavsmuseet «Aarvak»",
+   :longitude 6.0118105,
+   :latitude 62.3994235,
+   :source :openstreetmap}
+  {:name "Isotop",
+   :longitude 5.318342,
+   :latitude 60.390438,
+   :source :openstreetmap,
+   :homepage "http://www.isotop.org/"}
+  {:name "Ivar Aasen-tunet",
+   :longitude 6.0598895,
+   :latitude 62.1793565,
+   :source :openstreetmap}
+  {:name "Iveland Kommunes Mineralsamling",
+   :longitude 7.91707,
+   :latitude 58.4551867,
+   :source :openstreetmap}
+  {:name "Iveland og Vegusdal Bygdemuseum",
+   :longitude 8.0562455,
+   :latitude 58.4685072,
+   :source :openstreetmap}
+  {:name "Jansløkka skolemuseum",
+   :longitude 10.4427912,
+   :latitude 59.8491827,
+   :source :openstreetmap,
+   :homepage "https://mia.no/askermuseum/skolestua-pa-janslokka"}
+  {:name "Jektefartsmuseet",
+   :longitude 14.4264597,
+   :latitude 67.2681418,
+   :source :openstreetmap,
+   :homepage "https://www.nordlandsmuseet.no/jektefartsmuseet"}
+  {:name "Jelsa skulemuseum",
+   :longitude 6.0270303,
+   :latitude 59.337485,
+   :source :openstreetmap}
+  {:name "Jennestad Handelssted",
+   :longitude 15.3092588,
+   :latitude 68.7510292,
+   :source :openstreetmap}
+  {:name "Jensbakken gårdsmuseum",
+   :longitude 11.0395465,
+   :latitude 60.8450502,
+   :source :openstreetmap}
+  {:name "Jern- og Kanalutstilling",
+   :longitude 9.2553466,
+   :latitude 59.281698,
+   :source :openstreetmap}
+  {:name "Jernaldergarden på Ullandhaug",
+   :longitude 5.6939237,
+   :latitude 58.9414658,
+   :source :openstreetmap}
+  {:name "Jonegarden på Hustveit",
+   :longitude 6.2655352,
+   :latitude 59.5697495,
+   :source :openstreetmap}
+  {:name "Jortveit Gårdsmuseum - Homborsund",
+   :longitude 8.5091199,
+   :latitude 58.272779,
+   :source :openstreetmap}
+  {:name "Jostedalsbreen Nasjonalparksenter",
+   :longitude 7.049233,
+   :latitude 61.9110755,
+   :source :openstreetmap,
+   :homepage "http://www.jostedalsbreenadventure.com/"}
+  {:name "Juhls",
+   :longitude 23.031325,
+   :latitude 68.9941125,
+   :source :openstreetmap,
+   :homepage "https://www.juhls.no/"}
+  {:name "Justismuseet",
+   :longitude 10.3783578,
+   :latitude 63.4298553,
+   :source :openstreetmap,
+   :homepage "https://www.justismuseet.no/"}
+  {:name "Jutulheimen bygdamuseum",
+   :longitude 9.08575,
+   :latitude 61.8746878,
+   :source :openstreetmap,
+   :homepage "https://ullinsvin.no/galleri-ullinsvin/"}
+  {:name "Jáhkovuona mearrasámi musea / Kokelv sjøsamiske museum",
+   :longitude 24.6340649,
+   :latitude 70.6111078,
+   :source :openstreetmap}
+  {:name "Jærmuseet / Vitengarden",
+   :longitude 5.6313225,
+   :latitude 58.6550513,
+   :source :openstreetmap}
+  {:name "Jødisk museum",
+   :longitude 10.7554205,
+   :latitude 59.916338,
+   :source :openstreetmap}
+  {:name "Jølstramuseet",
+   :longitude 6.1078761,
+   :latitude 61.49177,
+   :source :openstreetmap}
+  {:name "Jønnevald rutebilanlegg",
+   :longitude 9.5680797,
+   :latitude 59.271189,
+   :source :openstreetmap}
+  {:name "Jøssingfjord Vitenmuseum",
+   :longitude 6.3548559,
+   :latitude 58.3288565,
+   :source :openstreetmap,
+   :homepage
+   "https://www.dalanefolkemuseum.no/anlegg/jossingfjord-vitenmuseum/"}
+  {:name "Kallastuå",
+   :longitude 8.750313,
+   :latitude 62.98277,
+   :source :openstreetmap}
+  {:name "Kamerina Kulturverksted",
+   :longitude 9.0645381,
+   :latitude 59.8253221,
+   :source :openstreetmap}
+  {:name "Kanonmuseet",
+   :longitude 7.9682477,
+   :latitude 58.0908527,
+   :source :openstreetmap,
+   :homepage "https://www.vestagdermuseet.no/kanonmuseum/"}
+  {:name "Kaperdalen samemuseum",
+   :longitude 17.5060959,
+   :latitude 69.2452543,
+   :source :openstreetmap}
+  {:name "Kardemomme kunstforening",
+   :longitude 8.1400207,
+   :latitude 58.1874287,
+   :source :openstreetmap}
+  {:name "Karmsund folkemuseum",
+   :longitude 5.2702378,
+   :latitude 59.4135296,
+   :source :openstreetmap,
+   :homepage "https://haugalandmuseet.no/museum/karmsund-folkemuseum/"}
+  {:name "Karmøy Fiskerimuseum",
+   :longitude 5.242412,
+   :latitude 59.288812,
+   :source :openstreetmap,
+   :homepage "https://www.fiskerimuseum.net/"}
+  {:name "Kastellet kultursenter",
+   :longitude 8.5229333,
+   :latitude 58.275063,
+   :source :openstreetmap}
+  {:name "Kaupang Midgardsenteret",
+   :longitude 10.1065338,
+   :latitude 59.0351843,
+   :source :openstreetmap}
+  {:name "Kaviar Factory",
+   :longitude 14.2012943,
+   :latitude 68.1552798,
+   :source :openstreetmap,
+   :homepage "https://kaviarfactory.com/"}
+  {:name "KHÅK kunsthall",
+   :longitude 6.1607913,
+   :latitude 62.4714819,
+   :source :openstreetmap}
+  {:name "KinoKino",
+   :longitude 5.7366407,
+   :latitude 58.8540819,
+   :source :openstreetmap}
+  {:name "Kirsten Flagstadmuseet",
+   :longitude 11.0688052,
+   :latitude 60.7960339,
+   :source :openstreetmap,
+   :homepage "https://kirsten-flagstad.no/"}
+  {:name "Kistefosmuseet",
+   :longitude 10.369175,
+   :latitude 60.222378,
+   :source :openstreetmap,
+   :homepage "https://kistefos.museum.no/"}
+  {:name "Kittilbu Utmarksmuseum",
+   :longitude 9.962474,
+   :latitude 61.1736317,
+   :source :openstreetmap,
+   :homepage
+   "https://www.randsfjordmuseene.no/museene/kittilbu-utmarksmuseum/"}
+  {:name "Kjeldsenbruket",
+   :longitude 30.0979148,
+   :latitude 70.0703367,
+   :source :openstreetmap}
+  {:name "Kjerratmuseet",
+   :longitude 10.3609226,
+   :latitude 60.1245427,
+   :source :openstreetmap,
+   :homepage "https://kjerraten.no/"}
+  {:name "Kjerringøy handlessted",
+   :longitude 14.7546642,
+   :latitude 67.5190376,
+   :source :openstreetmap}
+  {:name "Kjøpsvik museum",
+   :longitude 16.3702248,
+   :latitude 68.0954735,
+   :source :openstreetmap}
+  {:name "Klepp bygdemuseum",
+   :longitude 5.6227426,
+   :latitude 58.7705121,
+   :source :openstreetmap}
+  {:name "Klevfoss Industrimuseum",
+   :longitude 11.3118205,
+   :latitude 60.786467,
+   :source :openstreetmap,
+   :homepage "https://klevfos.no/"}
+  {:name "Klimapark 2469",
+   :longitude 8.3708792,
+   :latitude 61.6728355,
+   :source :openstreetmap,
+   :homepage "https://klimapark2469.no/"}
+  {:name "Klokkargarden",
+   :longitude 5.3973199,
+   :latitude 61.360653,
+   :source :openstreetmap}
+  {:name "Klokkergården",
+   :longitude 13.0157073,
+   :latitude 66.1992008,
+   :source :openstreetmap}
+  {:name "Klokkergården bygdetun",
+   :longitude 7.0887737,
+   :latitude 58.1503952,
+   :source :openstreetmap}
+  {:name "Kløckers Hus - Arendal Bymuseum",
+   :longitude 8.767495,
+   :latitude 58.458852,
+   :source :openstreetmap,
+   :homepage
+   "https://www.arendal.kommune.no/tjenester/kultur-idrett-og-fritid/kulturhus-bygg/"}
+  {:name "Knaben Gruvemuseum",
+   :longitude 7.0746827,
+   :latitude 58.661631,
+   :source :openstreetmap}
+  {:name "Knudaheio",
+   :longitude 5.7893002,
+   :latitude 58.6796715,
+   :source :openstreetmap}
+  {:name "Knut Hamsuns barndomshjem",
+   :longitude 15.5135127,
+   :latitude 68.10333,
+   :source :openstreetmap}
+  {:name "Knut Hamsuns dikterstue",
+   :longitude 8.5105679,
+   :latitude 58.3040219,
+   :source :openstreetmap}
+  {:name "Knutsensmia",
+   :longitude 10.007798,
+   :latitude 59.7487855,
+   :source :openstreetmap}
+  {:name "Kolbeinstveit",
+   :longitude 6.5660909,
+   :latitude 59.5055235,
+   :source :openstreetmap}
+  {:name "Konfeksjonsmuseet",
+   :longitude 7.7504472,
+   :latitude 62.5803162,
+   :source :openstreetmap}
+  {:name "Kongsvoldtunet",
+   :longitude 19.5311407,
+   :latitude 69.0260121,
+   :source :openstreetmap}
+  {:name "Konnerudgruvene",
+   :longitude 10.1257005,
+   :latitude 59.734564,
+   :source :openstreetmap}
+  {:name "Konstali gårdsmuseum",
+   :longitude 6.6597803,
+   :latitude 58.4578232,
+   :source :openstreetmap}
+  {:name "Kontorbrakke",
+   :longitude 13.0007753,
+   :latitude 66.352519,
+   :source :openstreetmap}
+  {:name "Korsnes museum",
+   :longitude 16.0620082,
+   :latitude 68.2539485,
+   :source :openstreetmap,
+   :homepage "https://www.museumnord.no/vare-museer/korsnes-museum/"}
+  {:name "Krambuvika bygdemuseum",
+   :longitude 17.7901228,
+   :latitude 68.7779666,
+   :source :openstreetmap,
+   :homepage "https://stmu.no/attraksjoner/krambuvika-bygdemuseum/"}
+  {:name "Kramvigbrygga",
+   :longitude 18.1336336,
+   :latitude 69.144844,
+   :source :openstreetmap}
+  {:name "Kristian Otterskreds motorsamling",
+   :longitude 6.585002,
+   :latitude 61.089503,
+   :source :openstreetmap,
+   :homepage "https://kristianotterskred.no/"}
+  {:name "Kristiansand Kunsthall",
+   :longitude 7.994062,
+   :latitude 58.145711,
+   :source :openstreetmap,
+   :homepage "http://www.kristiansandkunsthall.no"}
+  {:name "Kristiansand museum",
+   :longitude 8.030896,
+   :latitude 58.1615623,
+   :source :openstreetmap,
+   :homepage "https://www.vestagdermuseet.no/kristiansand"}
+  {:name "Kristiansund museum, friluftsavdelingen",
+   :longitude 7.7332592,
+   :latitude 63.1245479,
+   :source :openstreetmap}
+  {:name "Kristinahuset",
+   :longitude 5.6433227,
+   :latitude 58.7860418,
+   :source :openstreetmap}
+  {:name "Kråksundet sjøbruksmuseum",
+   :longitude 7.9388576,
+   :latitude 63.1568955,
+   :source :openstreetmap}
+  {:name "Krøderbanen",
+   :longitude 9.9979672,
+   :latitude 59.9689799,
+   :source :openstreetmap}
+  {:name "Krøderbanen",
+   :longitude 9.780031,
+   :latitude 60.1275888,
+   :source :openstreetmap}
+  {:name "Kulen",
+   :longitude 14.0457577,
+   :latitude 67.1152215,
+   :source :openstreetmap}
+  {:name "Kulleseid Telegrafstation",
+   :longitude 5.231562,
+   :latitude 59.7391198,
+   :source :openstreetmap}
+  {:name "Kulturgården Bjerkem",
+   :longitude 11.6368012,
+   :latitude 63.9785087,
+   :source :openstreetmap}
+  {:name "Kulturhagen",
+   :longitude 10.4242704,
+   :latitude 59.8271896,
+   :source :openstreetmap,
+   :homepage "https://paaborgen.no/"}
+  {:name "Kulturhuset Gamlebanken",
+   :longitude 5.9899836,
+   :latitude 61.9069198,
+   :source :openstreetmap,
+   :homepage "https://gamlebanken.no"}
+  {:name "Kulturlåven galleri",
+   :longitude 5.1332405,
+   :latitude 61.4931935,
+   :source :openstreetmap}
+  {:name "Kulturskolen Askim, Skiptvedt og Spydeberg",
+   :longitude 11.1661348,
+   :latitude 59.5841861,
+   :source :openstreetmap,
+   :homepage
+   "https://www.io.kommune.no/tjenester/kultur-idrett-og-fritid/kulturskole/"}
+  {:name "Kulturtjenesten",
+   :longitude 10.9621188,
+   :latitude 59.9280639,
+   :source :openstreetmap}
+  {:name "Kunst",
+   :longitude 10.192649,
+   :latitude 59.7438889,
+   :source :openstreetmap}
+  {:name "Kunstarena Torbjørnsbu Gruver",
+   :longitude 8.751024,
+   :latitude 58.468824,
+   :source :openstreetmap,
+   :homepage "https://bomuldsfabriken.no/gruvene/"}
+  {:name "Kunstarken, Kunstakademiet i Trondheim",
+   :longitude 10.4135935,
+   :latitude 63.4335592,
+   :source :openstreetmap,
+   :homepage "https://trondheimkunstmuseum.no/tkm-gramolna"}
+  {:name "Kunstbanken",
+   :longitude 11.0777952,
+   :latitude 60.7925538,
+   :source :openstreetmap}
+  {:name "Kunstforeningens hus",
+   :longitude 7.7253921,
+   :latitude 63.1115614,
+   :source :openstreetmap}
+  {:name "Kunstgarasjen",
+   :longitude 5.3405795,
+   :latitude 60.379003,
+   :source :openstreetmap}
+  {:name "Kunsthall Grenland",
+   :longitude 9.6551177,
+   :latitude 59.1418824,
+   :source :openstreetmap}
+  {:name "Kunsthall Oslo",
+   :longitude 10.7615216,
+   :latitude 59.9079628,
+   :source :openstreetmap,
+   :homepage "https://vivii.no"}
+  {:name "Kunsthall Stavanger",
+   :longitude 5.7222854,
+   :latitude 58.9628366,
+   :source :openstreetmap,
+   :homepage "https://breidablikkmuseum.no/"}
+  {:name "Kunsthuset Wrap",
+   :longitude 5.3531755,
+   :latitude 60.3781398,
+   :source :openstreetmap,
+   :homepage "http://wrap.hdu.no/"}
+  {:name "Kunstkroken",
+   :longitude 12.1233478,
+   :latitude 59.9855395,
+   :source :openstreetmap}
+  {:name "Kunstmuseet Nord-Trøndelag",
+   :longitude 11.5030226,
+   :latitude 64.4680762,
+   :source :openstreetmap}
+  {:name "Kunstnerhuset Messen",
+   :longitude 6.4322021,
+   :latitude 60.4302603,
+   :source :openstreetmap,
+   :homepage "https://www.khmessen.no/"}
+  {:name "Kunstnerverkstedene Uldlageret",
+   :longitude 9.886671,
+   :latitude 59.72937,
+   :source :openstreetmap,
+   :homepage "https://www.uldlageret.no/"}
+  {:name "Kunstsilo",
+   :longitude 7.9970341,
+   :latitude 58.1382496,
+   :source :openstreetmap,
+   :homepage "https://www.kunstsilo.no/"}
+  {:name "Kuråsfossen kraftstasjon",
+   :longitude 11.4541168,
+   :latitude 62.6721945,
+   :source :openstreetmap}
+  {:name "Kurøen bygdetun",
+   :longitude 11.8338908,
+   :latitude 59.7194003,
+   :source :openstreetmap}
+  {:name "Kvalvik fort",
+   :longitude 7.8962931,
+   :latitude 63.099425,
+   :source :openstreetmap}
+  {:name "Kvam bygdemuseum, Borgstova",
+   :longitude 6.1729739,
+   :latitude 60.350044,
+   :source :openstreetmap}
+  {:name "Kvam bygdemuseum, Storeteigen",
+   :longitude 6.2014325,
+   :latitude 60.3791659,
+   :source :openstreetmap}
+  {:name "Kvednahola kvernhusanlegg",
+   :longitude 6.411317,
+   :latitude 59.4643046,
+   :source :openstreetmap}
+  {:name "Kvekerhuset",
+   :longitude 5.5639657,
+   :latitude 59.4317625,
+   :source :openstreetmap,
+   :homepage
+   "https://norge.sandalsand.net/kvekerhuset-pa-stakland-i-tysvaer/"}
+  {:name "Kverna i Frøylandsbekken",
+   :longitude 5.8561307,
+   :latitude 58.9213107,
+   :source :openstreetmap,
+   :homepage "https://www.riskahistorie.no/"}
+  {:name "Kvernhusanlegg Fuglestad",
+   :longitude 5.7870448,
+   :latitude 58.5563448,
+   :source :openstreetmap}
+  {:name "Kvernsteinsparken",
+   :longitude 5.3011962,
+   :latitude 61.1652519,
+   :source :openstreetmap}
+  {:name "Kvinnemuseet",
+   :longitude 12.004494,
+   :latitude 60.198093,
+   :source :openstreetmap}
+  {:name "Kviteseid Bygdetun",
+   :longitude 8.5217647,
+   :latitude 59.355068,
+   :source :openstreetmap}
+  {:name "Kvæfjord bygdetun",
+   :longitude 16.1792451,
+   :latitude 68.7707008,
+   :source :openstreetmap}
+  {:name "Kvæstad vadmålsstampe",
+   :longitude 6.3857,
+   :latitude 59.4530402,
+   :source :openstreetmap}
+  {:name "Kystens arv",
+   :longitude 10.014055,
+   :latitude 63.4954396,
+   :source :openstreetmap,
+   :homepage "https://kystensarv.no"}
+  {:name "Kystkultursamlingen i Tananger",
+   :longitude 5.5803877,
+   :latitude 58.9327548,
+   :source :openstreetmap}
+  {:name "Kystkultursenteret",
+   :longitude 10.4119195,
+   :latitude 59.2610758,
+   :source :openstreetmap,
+   :homepage
+   "https://www.loggenkystlag.no/documents/kystkultursenteret.php"}
+  {:name "Kystkultursenteret Norveg",
+   :longitude 11.2339125,
+   :latitude 64.859594,
+   :source :openstreetmap,
+   :homepage "https://kystmuseetnorveg.no/"}
+  {:name "Kystmuseet",
+   :longitude 8.9687486,
+   :latitude 63.6066925,
+   :source :openstreetmap}
+  {:name "Kystmuseet",
+   :longitude 5.042478,
+   :latitude 61.5886765,
+   :source :openstreetmap,
+   :homepage "https://www.kyst.museum.no/"}
+  {:name "Kystmuseet Bakkasund",
+   :longitude 5.0914714,
+   :latitude 60.1299804,
+   :source :openstreetmap}
+  {:name "Kystmuseet i Øygarden",
+   :longitude 4.86431,
+   :latitude 60.567029,
+   :source :openstreetmap,
+   :homepage "https://kystmuseet.museumvest.no/"}
+  {:name "Kystmuséet",
+   :longitude 10.9209009,
+   :latitude 59.0939309,
+   :source :openstreetmap}
+  {:name "Kystsamlingen",
+   :longitude 10.4371273,
+   :latitude 59.5836199,
+   :source :openstreetmap,
+   :homepage "https://hurumhistorielag.org/"}
+  {:name "Kösk",
+   :longitude 10.7581733,
+   :latitude 59.9067053,
+   :source :openstreetmap,
+   :homepage "https://koskoslo.no"}
+  {:name "Labahågården",
+   :longitude 29.2220629,
+   :latitude 69.7018672,
+   :source :openstreetmap}
+  {:name "Ladegården",
+   :longitude 10.7676265,
+   :latitude 59.906189,
+   :source :openstreetmap}
+  {:name "Lademoen Kunstnerverksteder",
+   :longitude 10.4286802,
+   :latitude 63.4376298,
+   :source :openstreetmap,
+   :homepage "www.lkv.no"}
+  {:name "Laksevåg Kulturhistoriske Forening",
+   :longitude 5.3020331,
+   :latitude 60.3848762,
+   :source :openstreetmap,
+   :homepage "http://www.lamus.no/"}
+  {:name "Lalumsvangen setermuseum",
+   :longitude 11.3970871,
+   :latitude 60.5333968,
+   :source :openstreetmap}
+  {:name "Landbruksmagasinet på Tveit",
+   :longitude 5.7937303,
+   :latitude 59.3455733,
+   :source :openstreetmap}
+  {:name "Landbruksmuseet for Møre og Romsdal",
+   :longitude 7.1653515,
+   :latitude 62.624066,
+   :source :openstreetmap}
+  {:name "Lands museum",
+   :longitude 10.0780246,
+   :latitude 60.836711,
+   :source :openstreetmap}
+  {:name "Langbygningen",
+   :longitude 10.7680235,
+   :latitude 59.8283,
+   :source :openstreetmap}
+  {:name "Langsæ gård",
+   :longitude 8.7591975,
+   :latitude 58.4698844,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kubenarendal.no/opplev-paa-kuben/aust-agder-tunet/"}
+  {:name "Larvik museum",
+   :longitude 10.0184595,
+   :latitude 59.0512415,
+   :source :openstreetmap,
+   :homepage "http://www.larvikmuseum.no/"}
+  {:name "Larvik sjøfartsmuseum",
+   :longitude 10.0344032,
+   :latitude 59.0479929,
+   :source :openstreetmap}
+  {:name "Lassigården",
+   :longitude 29.6445582,
+   :latitude 69.9729517,
+   :source :openstreetmap}
+  {:name "Laudal museum",
+   :longitude 7.4983015,
+   :latitude 58.2473141,
+   :source :openstreetmap}
+  {:name "Lauvlia",
+   :longitude 9.5051623,
+   :latitude 60.0617106,
+   :source :openstreetmap,
+   :homepage "http://www.lauvlia.no/"}
+  {:name "Ledaal",
+   :longitude 5.7199748,
+   :latitude 58.967142,
+   :source :openstreetmap}
+  {:name "Leka bygdemuseum",
+   :longitude 11.7296522,
+   :latitude 65.0931216,
+   :source :openstreetmap}
+  {:name "Lenvik Bygdemuseum",
+   :longitude 18.1079996,
+   :latitude 69.3462997,
+   :source :openstreetmap}
+  {:name "Lesja bygdetun",
+   :longitude 8.852368,
+   :latitude 62.1137968,
+   :source :openstreetmap}
+  {:name "Levanger fotomuseum",
+   :longitude 11.2937086,
+   :latitude 63.7443735,
+   :source :openstreetmap}
+  {:name "Leveld kunstnartun",
+   :longitude 8.4738917,
+   :latitude 60.7027377,
+   :source :openstreetmap}
+  {:name "Lier Bygdetun",
+   :longitude 10.257911,
+   :latitude 59.799101,
+   :source :openstreetmap,
+   :homepage "https://lier-bygdetun.no/"}
+  {:name "Lille Atelier",
+   :longitude 5.329556,
+   :latitude 60.3955135,
+   :source :openstreetmap,
+   :homepage "https://marianneskjelbred.com/"}
+  {:name "Lillehegge",
+   :longitude 12.5390831,
+   :latitude 65.4259296,
+   :source :openstreetmap}
+  {:name "Lilletopp",
+   :longitude 6.5646947,
+   :latitude 60.1247802,
+   :source :openstreetmap}
+  {:name "Limagarden",
+   :longitude 5.8881222,
+   :latitude 58.7704226,
+   :source :openstreetmap}
+  {:name "Linderud gård",
+   :longitude 10.8337805,
+   :latitude 59.9418905,
+   :source :openstreetmap}
+  {:name "Lindesnes bygdemuseum, Kulturtorvet",
+   :longitude 7.3026362,
+   :latitude 58.0840289,
+   :source :openstreetmap}
+  {:name "Lindesnes Kystkultursenter",
+   :longitude 7.1060464,
+   :latitude 58.037721,
+   :source :openstreetmap}
+  {:name "Lindås sogelag",
+   :longitude 5.2884844,
+   :latitude 60.5479729,
+   :source :openstreetmap,
+   :homepage "https://lindas-sogelag.no/"}
+  {:name "Lista museum Friluftstunet",
+   :longitude 6.6888954,
+   :latitude 58.1007741,
+   :source :openstreetmap}
+  {:name "Lista Naturmuseum",
+   :longitude 6.6000926,
+   :latitude 58.0945868,
+   :source :openstreetmap,
+   :homepage "http://www.listanaturmuseum.com/"}
+  {:name "Lister Utvandrermuseum i Kvinesdal",
+   :longitude 6.9625713,
+   :latitude 58.3118666,
+   :source :openstreetmap}
+  {:name "Listeskøyta kystkultursenter",
+   :longitude 6.5880421,
+   :latitude 58.0972017,
+   :source :openstreetmap,
+   :homepage "http://www.listakyst.no/"}
+  {:name "Litteraturhuset Fredrikstad",
+   :longitude 10.936072,
+   :latitude 59.2123041,
+   :source :openstreetmap}
+  {:name "Litunet museumsgård",
+   :longitude 6.430862,
+   :latitude 59.5343538,
+   :source :openstreetmap}
+  {:name "LNM",
+   :longitude 10.7368358,
+   :latitude 59.910805,
+   :source :openstreetmap,
+   :homepage "https://www.grafill.no/"}
+  {:name "Lofoten Glass",
+   :longitude 14.4824471,
+   :latitude 68.2074942,
+   :source :openstreetmap,
+   :homepage "https://lofotenglass.com/"}
+  {:name "Lofoten Krigsminnemuseum",
+   :longitude 14.5648245,
+   :latitude 68.2311558,
+   :source :openstreetmap,
+   :homepage "https://www.lofotenkrigmus.no/"}
+  {:name "Lofoten Leketøymuseum",
+   :longitude 13.1113792,
+   :latitude 67.9412804,
+   :source :openstreetmap}
+  {:name "Lofoten tørrfiskmuseum",
+   :longitude 12.9841486,
+   :latitude 67.8822702,
+   :source :openstreetmap}
+  {:name "Lofotr Viking Museum",
+   :longitude 13.757639,
+   :latitude 68.244219,
+   :source :openstreetmap,
+   :homepage "https://lofotr.no/en/"}
+  {:name "Lom bygdamuseum",
+   :longitude 8.5603532,
+   :latitude 61.8367824,
+   :source :openstreetmap}
+  {:name "Lommedalsbanen",
+   :longitude 10.4836961,
+   :latitude 59.9819171,
+   :source :openstreetmap,
+   :homepage "https://mia.no/lommedalsbanen"}
+  {:name "Lund bygdemuseum og kulturbank",
+   :longitude 6.5527065,
+   :latitude 58.4486645,
+   :source :openstreetmap}
+  {:name "Lundbrygga",
+   :longitude 17.8322115,
+   :latitude 68.8762148,
+   :source :openstreetmap}
+  {:name "Lyngheisenteret",
+   :longitude 5.1083938,
+   :latitude 60.6952865,
+   :source :openstreetmap,
+   :homepage "https://www.muho.no/lyngheisenteret/"}
+  {:name "Lyngørfjorden kystkultursenter",
+   :longitude 9.1221902,
+   :latitude 58.645372,
+   :source :openstreetmap}
+  {:name "Lystslottet Oscarshall",
+   :longitude 10.6922559,
+   :latitude 59.9102658,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kongehuset.no/c79771/seksjonstekst/vis.html?tid=79776"}
+  {:name "Lågdalsmuseet",
+   :longitude 9.6573468,
+   :latitude 59.6663403,
+   :source :openstreetmap,
+   :homepage "http://laagdalsmuseet.no"}
+  {:name "Låven",
+   :longitude 9.6482495,
+   :latitude 59.6659791,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kongsbergkunst.no/informasjon/utstillingslokalet"}
+  {:name "Lærdal post- og telemuseum",
+   :longitude 7.4820132,
+   :latitude 61.0971398,
+   :source :openstreetmap}
+  {:name "Løiten Brænderi",
+   :longitude 11.3053125,
+   :latitude 60.826602,
+   :source :openstreetmap,
+   :homepage "https://www.lbr.no"}
+  {:name "Løp gård",
+   :longitude 14.489735,
+   :latitude 67.3269583,
+   :source :openstreetmap,
+   :homepage
+   "https://nordlandsmuseet.no/no/museumsanlegg/?Article=159"}
+  {:name "Lørenskog bygdemuseum",
+   :longitude 10.9580894,
+   :latitude 59.9202161,
+   :source :openstreetmap,
+   :homepage "https://mia.no/lorenskog"}
+  {:name "Løvikremma kystgard",
+   :longitude 6.8473044,
+   :latitude 62.8387519,
+   :source :openstreetmap,
+   :homepage
+   "https://www.romsdalsmuseet.no/avdelinger/lovikremma-kystgard"}
+  {:name "M/S Polstjerna",
+   :longitude 18.9511215,
+   :latitude 69.6438825,
+   :source :openstreetmap}
+  {:name "Made On Sandøya",
+   :longitude 9.0546907,
+   :latitude 58.5931655,
+   :source :openstreetmap}
+  {:name "Magerøya Museum",
+   :longitude 8.9880498,
+   :latitude 63.4499079,
+   :source :openstreetmap}
+  {:name "Mammuthus",
+   :longitude 11.174157,
+   :latitude 60.880867,
+   :source :openstreetmap,
+   :homepage "http://www.mammuthus.info/"}
+  {:name "Mandal museum",
+   :longitude 7.4524893,
+   :latitude 58.0267264,
+   :source :openstreetmap,
+   :homepage "https://www.vestagdermuseet.no/mandal/"}
+  {:name "Marcelius Førlands kunstmuseum",
+   :longitude 6.9690724,
+   :latitude 58.3064643,
+   :source :openstreetmap}
+  {:name "Margaretastova",
+   :longitude 8.0357589,
+   :latitude 61.1096138,
+   :source :openstreetmap}
+  {:name "Marie’s bilder & skulpturer",
+   :longitude 6.0063611,
+   :latitude 60.2722166,
+   :source :openstreetmap}
+  {:name "Marinemuseet",
+   :longitude 10.4868021,
+   :latitude 59.4254298,
+   :source :openstreetmap,
+   :homepage "https://www.forsvarshistoriskmuseum.no/marinemuseet"}
+  {:name "Marit Annys Vevstogo",
+   :longitude 8.9493876,
+   :latitude 61.1256923,
+   :source :openstreetmap,
+   :homepage "http://www.maritannysvevstogo.no"}
+  {:name "Massnes Villmarksmuseum",
+   :longitude 5.653775,
+   :latitude 61.100833,
+   :source :openstreetmap}
+  {:name "Maursund gård",
+   :longitude 20.8584297,
+   :latitude 69.9262047,
+   :source :openstreetmap}
+  {:name "Meierimuseet",
+   :longitude 10.7720052,
+   :latitude 59.6650725,
+   :source :openstreetmap}
+  {:name "Mellemværftet",
+   :longitude 7.7293117,
+   :latitude 63.119337,
+   :source :openstreetmap,
+   :homepage "https://nordmorsmusea.no/mellemvarftet"}
+  {:name "Meløy bygdemuseum",
+   :longitude 13.6226576,
+   :latitude 66.9204746,
+   :source :openstreetmap}
+  {:name "Merdøgaard skjærgårdsmuseum",
+   :longitude 8.805292,
+   :latitude 58.4261056,
+   :source :openstreetmap}
+  {:name "Meråker industrimuseum",
+   :longitude 11.8411092,
+   :latitude 63.3976653,
+   :source :openstreetmap,
+   :homepage
+   "http://www.meraker-smelteverk.no/galleri/industrimuseum/"}
+  {:name "Middelaldermuseet Borgundkaupangen",
+   :longitude 6.2382257,
+   :latitude 62.4658873,
+   :source :openstreetmap}
+  {:name "Midgard vikingsenter",
+   :longitude 10.466721,
+   :latitude 59.3850495,
+   :source :openstreetmap}
+  {:name "Midt-Troms barnemuseum",
+   :longitude 17.9759479,
+   :latitude 69.2284969,
+   :source :openstreetmap}
+  {:name "Midtås Skulptur Paviljong",
+   :longitude 10.216319,
+   :latitude 59.142267,
+   :source :openstreetmap}
+  {:name "Migrasjonsmuseet",
+   :longitude 11.1221223,
+   :latitude 60.7878058,
+   :source :openstreetmap}
+  {:name "Mimreståvå",
+   :longitude 6.2509788,
+   :latitude 59.4835386,
+   :source :openstreetmap,
+   :homepage "https://ryfylkemuseet.no/anlegg/nesasjohuset/"}
+  {:name "Mineralmuseum",
+   :longitude 18.1839164,
+   :latitude 68.8097985,
+   :source :openstreetmap}
+  {:name "Minne kultursenter",
+   :longitude 7.4148166,
+   :latitude 58.6181429,
+   :source :openstreetmap}
+  {:name "Minnetun",
+   :longitude 12.6142729,
+   :latitude 65.3886185,
+   :source :openstreetmap}
+  {:name "Misjonsmuseet",
+   :longitude 5.71251,
+   :latitude 58.97195,
+   :source :openstreetmap}
+  {:name "Mjøsas ark",
+   :longitude 10.8585212,
+   :latitude 60.7177202,
+   :source :openstreetmap}
+  {:name "Mjøssamlingene",
+   :longitude 11.2339617,
+   :latitude 60.3968322,
+   :source :openstreetmap,
+   :homepage "http://www.mjossamlingene.no/"}
+  {:name "Modern Art Gallery",
+   :longitude 10.3963201,
+   :latitude 63.4331325,
+   :source :openstreetmap,
+   :homepage "https://www.galleri7.com/"}
+  {:name "Moss by- og industrimuseum",
+   :longitude 10.668316,
+   :latitude 59.4384045,
+   :source :openstreetmap,
+   :homepage "http://www.house-of-foundation.no/"}
+  {:name "Moss kunstgalleri",
+   :longitude 10.6625912,
+   :latitude 59.4348445,
+   :source :openstreetmap,
+   :homepage "https://www.mosskunstforening.no/"}
+  {:name "Mostadmark Jernverk",
+   :longitude 10.7724347,
+   :latitude 63.3509503,
+   :source :openstreetmap}
+  {:name "Mosvik Bygdemuseum",
+   :longitude 10.9992213,
+   :latitude 63.8208761,
+   :source :openstreetmap}
+  {:name "Motor Museum",
+   :longitude 11.4095225,
+   :latitude 59.2956385,
+   :source :openstreetmap}
+  {:name "Munchs Ekely",
+   :longitude 10.670263,
+   :latitude 59.929222,
+   :source :openstreetmap,
+   :homepage "https://edvard-munchs-atelier.no"}
+  {:name "Munchs hus",
+   :longitude 10.467314,
+   :latitude 59.3521152,
+   :source :openstreetmap,
+   :homepage "http://www.munchshus.no"}
+  {:name "Munken Bar & Scene",
+   :longitude 8.76351,
+   :latitude 58.462396,
+   :source :openstreetmap,
+   :homepage "https://munken.no"}
+  {:name "Museet",
+   :longitude 10.7407212,
+   :latitude 59.9386693,
+   :source :openstreetmap}
+  {:name "Museet",
+   :longitude 10.7234542,
+   :latitude 59.9519325,
+   :source :openstreetmap}
+  {:name "Museet Gamle Vossebanen",
+   :longitude 5.470119,
+   :latitude 60.446726,
+   :source :openstreetmap,
+   :homepage
+   "http://www.njk.no/tourist-information/the-old-voss-steam-railway-museum"}
+  {:name "Museet i Erkebispegården",
+   :longitude 10.3967428,
+   :latitude 63.426063,
+   :source :openstreetmap,
+   :homepage "https://trondheimkunstmuseum.no/"}
+  {:name "Museet Lysøen",
+   :longitude 5.3688578,
+   :latitude 60.2109779,
+   :source :openstreetmap}
+  {:name "Museumsfabrikken Strømmen",
+   :longitude 11.0118602,
+   :latitude 59.9484546,
+   :source :openstreetmap}
+  {:name "Museumsfjøset på Rekstern",
+   :longitude 9.898807,
+   :latitude 64.0226294,
+   :source :openstreetmap}
+  {:name "Museumsgården Ørpetveit",
+   :longitude 5.3363561,
+   :latitude 59.397759,
+   :source :openstreetmap}
+  {:name "Museumshytta",
+   :longitude 11.9279673,
+   :latitude 78.9252096,
+   :source :openstreetmap}
+  {:name "Museumssenteret Ramsmoen",
+   :longitude 10.7735131,
+   :latitude 62.2731003,
+   :source :openstreetmap}
+  {:name "Mustad Bedriftsmuseum",
+   :longitude 10.6736494,
+   :latitude 60.7896046,
+   :source :openstreetmap}
+  {:name "Myhre torvstrømuseum",
+   :longitude 8.2525872,
+   :latitude 58.2932497,
+   :source :openstreetmap}
+  {:name "Myklestogo",
+   :longitude 8.5697508,
+   :latitude 59.5634699,
+   :source :openstreetmap}
+  {:name "Myllarheimen",
+   :longitude 7.72751,
+   :latitude 59.7754084,
+   :source :openstreetmap}
+  {:name "Måbødalen Kulturlandskapsmuseum",
+   :longitude 7.2005917,
+   :latitude 60.4172312,
+   :source :openstreetmap,
+   :homepage
+   "https://hardangerfjord.com/eidfjord/opplevelser/mabodalen-kulturlandskapsmuseum-919753"}
+  {:name "Måsøy museum",
+   :longitude 24.657626,
+   :latitude 70.996113,
+   :source :openstreetmap}
+  {:name "Mælandsgården",
+   :longitude 5.2605485,
+   :latitude 59.1479384,
+   :source :openstreetmap}
+  {:name "Møllebua",
+   :longitude 5.5097733,
+   :latitude 59.7866975,
+   :source :openstreetmap}
+  {:name "Møllestua",
+   :longitude 10.4631612,
+   :latitude 61.1170699,
+   :source :openstreetmap,
+   :homepage "https://www.elephant-kunsthall.no"}
+  {:name "Mølstertunet",
+   :longitude 6.4126667,
+   :latitude 60.6334387,
+   :source :openstreetmap}
+  {:name "Møre og Romsdal Kunstsenter",
+   :longitude 7.1553755,
+   :latitude 62.7363937,
+   :source :openstreetmap,
+   :homepage "https://mrkunst.no/"}
+  {:name "N.H.Lerums Saftfabrik",
+   :longitude 7.493207,
+   :latitude 61.4236847,
+   :source :openstreetmap,
+   :homepage "https://www.lerummuseum.no/"}
+  {:name "Namdalen gård",
+   :longitude 29.9775557,
+   :latitude 69.5567975,
+   :source :openstreetmap}
+  {:name "Namdalsmuseet",
+   :longitude 11.5215386,
+   :latitude 64.4692309,
+   :source :openstreetmap,
+   :homepage "https://namdalsmuseet.no/"}
+  {:name "Nannestad bygdemuseum",
+   :longitude 11.014487,
+   :latitude 60.218986,
+   :source :openstreetmap}
+  {:name "Narnte teglverk",
+   :longitude 10.9783716,
+   :latitude 59.2214039,
+   :source :openstreetmap}
+  {:name "Narvik krigsmuseum",
+   :longitude 17.425375,
+   :latitude 68.437776,
+   :source :openstreetmap,
+   :homepage "https://narviksenteret.no/"}
+  {:name "Narvik kulturhus",
+   :longitude 17.4286187,
+   :latitude 68.4387072,
+   :source :openstreetmap,
+   :homepage "https://www.narvikkulturhus.no/"}
+  {:name "Narvik Museum",
+   :longitude 17.4253088,
+   :latitude 68.431635,
+   :source :openstreetmap,
+   :homepage "https://www.museumnord.no/en/our-venues/narvik-museum/"}
+  {:name "Nasjonalmuseet - Arkitektur",
+   :longitude 10.740227,
+   :latitude 59.908759,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nasjonalmuseet.no/besok/visningssteder/nasjonalmuseet_arkitektur/"}
+  {:name "Naturhistorisk museum",
+   :longitude 10.771714,
+   :latitude 59.919783,
+   :source :openstreetmap,
+   :homepage "https://www.nhm.uio.no/"}
+  {:name "Naturmuseum og botanisk hage Universitetet i Agder",
+   :longitude 8.0036373,
+   :latitude 58.1589726,
+   :source :openstreetmap}
+  {:name "Naustanstua",
+   :longitude 10.2230417,
+   :latitude 63.9677893,
+   :source :openstreetmap}
+  {:name "Nedstrand bygdemuseum",
+   :longitude 5.8603643,
+   :latitude 59.3462427,
+   :source :openstreetmap}
+  {:name "Nekton visningssenter",
+   :longitude 8.0126166,
+   :latitude 63.4601363,
+   :source :openstreetmap}
+  {:name "Nerdrum Museum",
+   :longitude 10.0336605,
+   :latitude 59.0127767,
+   :source :openstreetmap,
+   :homepage "https://nerdrummuseum.com/"}
+  {:name "Nerheimstunet",
+   :longitude 5.8045216,
+   :latitude 59.6010969,
+   :source :openstreetmap}
+  {:name "Nerskog’s museet",
+   :longitude 9.6224791,
+   :latitude 62.7857894,
+   :source :openstreetmap,
+   :homepage
+   "https://rennebuhistorielag.no/nerskogsmuseet-29343s.html"}
+  {:name "Nes Lensemuseum",
+   :longitude 11.230299,
+   :latitude 59.486832,
+   :source :openstreetmap}
+  {:name "Nes Lensemuseum",
+   :longitude 11.2346698,
+   :latitude 59.4882312,
+   :source :openstreetmap}
+  {:name "Nesheimstunet",
+   :longitude 6.4903223,
+   :latitude 60.6976892,
+   :source :openstreetmap}
+  {:name "Nesoddeparken Kunst- og Kultursenter",
+   :longitude 10.6829056,
+   :latitude 59.8078691,
+   :source :openstreetmap}
+  {:name "Nesset prestegard",
+   :longitude 8.0295131,
+   :latitude 62.7549963,
+   :source :openstreetmap}
+  {:name "Nevernes havn",
+   :longitude 12.5874363,
+   :latitude 65.4399823,
+   :source :openstreetmap}
+  {:name "Nils Aas Kunstverksted",
+   :longitude 11.2963956,
+   :latitude 63.8711273,
+   :source :openstreetmap,
+   :homepage "https://www.nilsaas.no/"}
+  {:name "Nistovetunet",
+   :longitude 6.0013667,
+   :latitude 59.9379139,
+   :source :openstreetmap}
+  {:name "Nitja",
+   :longitude 11.0440595,
+   :latitude 59.9546862,
+   :source :openstreetmap,
+   :homepage "https://www.nitja.no"}
+  {:name "Nobels Fredssenter",
+   :longitude 10.7304,
+   :latitude 59.911612,
+   :source :openstreetmap,
+   :homepage "https://www.nobelpeacecenter.org"}
+  {:name "Nord-Troms museum",
+   :longitude 21.0165597,
+   :latitude 69.7671266,
+   :source :openstreetmap}
+  {:name "Nordberg Fort",
+   :longitude 6.6206977,
+   :latitude 58.130819,
+   :source :openstreetmap}
+  {:name "Nordfjord folkemuseum",
+   :longitude 6.2208659,
+   :latitude 61.772791,
+   :source :openstreetmap}
+  {:name "Nordic Light Fotohus",
+   :longitude 7.729281,
+   :latitude 63.109494,
+   :source :openstreetmap,
+   :homepage "https://www.nle.no"}
+  {:name "Nordisk Kunstnarsenter Dale",
+   :longitude 5.4034596,
+   :latitude 61.3593108,
+   :source :openstreetmap,
+   :homepage "https://www.nkdale.no/"}
+  {:name "Nordkappmuseet",
+   :longitude 25.9700959,
+   :latitude 70.9814061,
+   :source :openstreetmap,
+   :homepage "http://www.kystmuseene.no/nordkapp.107296.no.html"}
+  {:name "Nordlandsmuseet",
+   :longitude 14.3823552,
+   :latitude 67.2818463,
+   :source :openstreetmap,
+   :homepage "https://nordlandsmuseet.no/nordlandsmuseet/"}
+  {:name "Nordnorsk båtmuseum",
+   :longitude 17.6792525,
+   :latitude 68.669837,
+   :source :openstreetmap,
+   :homepage "https://www.nnfa.no/batmuseum/"}
+  {:name "Nordnorsk fartøyvernsenter",
+   :longitude 17.4656569,
+   :latitude 68.6811794,
+   :source :openstreetmap}
+  {:name "Nordnorsk kunstmuseum",
+   :longitude 18.9595571,
+   :latitude 69.6483263,
+   :source :openstreetmap}
+  {:name "Nordsjøfartmuseet",
+   :longitude 4.9891142,
+   :latitude 60.254459,
+   :source :openstreetmap,
+   :homepage "https://nordsjofartsmuseum.museumvest.no/"}
+  {:name "Nordvegen Historiesenter",
+   :longitude 5.2922546,
+   :latitude 59.3547238,
+   :source :openstreetmap}
+  {:name "Nordvika gamle handelssted",
+   :longitude 12.5030911,
+   :latitude 66.1209126,
+   :source :openstreetmap}
+  {:name "Norges Fiskerimuseum",
+   :longitude 5.322068,
+   :latitude 60.407944,
+   :source :openstreetmap,
+   :homepage "https://fiskerimuseum.museumvest.no/"}
+  {:name "Norges hjemmefrontmuseum",
+   :longitude 10.735762,
+   :latitude 59.907803,
+   :source :openstreetmap,
+   :homepage
+   "https://kultur.forsvaret.no/museer/norges-hjemmefrontmuseum"}
+  {:name "Norges Postmuseum",
+   :longitude 10.4787576,
+   :latitude 61.1131434,
+   :source :openstreetmap,
+   :homepage "https://ol.museum.no/"}
+  {:name "Norsk Barnemuseum",
+   :longitude 5.7329713,
+   :latitude 58.964871,
+   :source :openstreetmap}
+  {:name "Norsk Bergverksmuseum - Sakkerhusene",
+   :longitude 9.5982388,
+   :latitude 59.6292502,
+   :source :openstreetmap,
+   :homepage "https://norsk-bergverksmuseum.no/sakkerhusene-2/"}
+  {:name "Norsk Bremuseum",
+   :longitude 6.7631512,
+   :latitude 61.4233461,
+   :source :openstreetmap,
+   :homepage "https://www.bremuseum.no"}
+  {:name "Norsk Farmasihistorisk Museum",
+   :longitude 10.6868921,
+   :latitude 59.9059697,
+   :source :openstreetmap,
+   :homepage "https://www.khm.uio.no/vikingskipshuset/"}
+  {:name "Norsk Fiskeindustrimuseum",
+   :longitude 14.8068034,
+   :latitude 68.4951713,
+   :source :openstreetmap}
+  {:name "Norsk Fjellsenter",
+   :longitude 8.565659,
+   :latitude 61.837986,
+   :source :openstreetmap,
+   :homepage "https://www.norskfjellsenter.no/"}
+  {:name "Norsk Fjellsprengningsmuseum",
+   :longitude 10.425792,
+   :latitude 61.2261856,
+   :source :openstreetmap,
+   :homepage "https://vegmuseum.no/norsk-fjellspregningsmuseum"}
+  {:name "Norsk Folkemuseum",
+   :longitude 10.6830416,
+   :latitude 59.9068344,
+   :source :openstreetmap,
+   :homepage "https://www.norskfolkemuseum.no/"}
+  {:name "Norsk Hagebruksmuseum",
+   :longitude 8.5750249,
+   :latitude 58.3545862,
+   :source :openstreetmap}
+  {:name "Norsk Havbrukssenter",
+   :longitude 12.1348152,
+   :latitude 65.4706309,
+   :source :openstreetmap}
+  {:name "Norsk Hermetikkmuseum",
+   :longitude 5.725168,
+   :latitude 58.9724007,
+   :source :openstreetmap,
+   :homepage "https://www.iddis.no/"}
+  {:name "Norsk Industriarbeidermuseum Vemork",
+   :longitude 8.4926109,
+   :latitude 59.8709887,
+   :source :openstreetmap}
+  {:name "Norsk Jernbaneklubb Lokalavdeling Trøndelag",
+   :longitude 10.3749971,
+   :latitude 63.4231312,
+   :source :openstreetmap,
+   :homepage "https://njk.no/trondelag/"}
+  {:name "Norsk jernbanemuseum",
+   :longitude 11.0271187,
+   :latitude 60.8004998,
+   :source :openstreetmap}
+  {:name "Norsk jernbanemuseum",
+   :longitude 11.0309122,
+   :latitude 60.7990802,
+   :source :openstreetmap,
+   :homepage "http://www.norsk-jernbanemuseum.no/"}
+  {:name "Norsk Kjøretøyhistorisk museum",
+   :longitude 10.4315669,
+   :latitude 61.2250017,
+   :source :openstreetmap}
+  {:name "Norsk klippfiskmuseum",
+   :longitude 7.7389848,
+   :latitude 63.1154265,
+   :source :openstreetmap,
+   :homepage "https://nordmorsmusea.no/klippfiskmuseet"}
+  {:name "Norsk Luftfartsmuseum",
+   :longitude 14.413704,
+   :latitude 67.2760601,
+   :source :openstreetmap,
+   :homepage "https://www.luftfartsmuseum.no/"}
+  {:name "Norsk Maritimt Museum",
+   :longitude 10.698662,
+   :latitude 59.902833,
+   :source :openstreetmap,
+   :homepage "https://marmuseum.no"}
+  {:name "Norsk motorhistorisk museum",
+   :longitude 11.207469,
+   :latitude 60.7179893,
+   :source :openstreetmap}
+  {:name "Norsk Motormuseum",
+   :longitude 5.9394848,
+   :latitude 59.7332378,
+   :source :openstreetmap}
+  {:name "Norsk myrmuseum",
+   :longitude 8.0597242,
+   :latitude 63.4198912,
+   :source :openstreetmap,
+   :homepage
+   "https://nordmorsmusea.no/besok-oss/smola/norsk-myrmuseum/"}
+  {:name "Norsk Natursenter Hardanger",
+   :longitude 7.1347585,
+   :latitude 60.423201,
+   :source :openstreetmap,
+   :homepage "https://norsknatursenter.no/"}
+  {:name "Norsk Oljemuseum",
+   :longitude 5.7348227,
+   :latitude 58.9735536,
+   :source :openstreetmap,
+   :homepage "https://www.norskolje.museum.no/"}
+  {:name "Norsk Radio og Fjernsynsmuseum",
+   :longitude 10.828408,
+   :latitude 63.240967,
+   :source :openstreetmap,
+   :homepage "https://norskradio-tv-museum.no/"}
+  {:name "Norsk Sagbruksmuseum",
+   :longitude 11.5131496,
+   :latitude 64.448502,
+   :source :openstreetmap}
+  {:name "Norsk skieventyr",
+   :longitude 8.418804,
+   :latitude 59.477716,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visittelemark.no/vest-telemark-museum/informasjon/produkt/norsk-skieventyr-i-morgedal-p1363173"}
+  {:name "Norsk Telemuseum",
+   :longitude 15.9921968,
+   :latitude 68.4094904,
+   :source :openstreetmap}
+  {:name "Norsk Telemuseum Sørvågen",
+   :longitude 13.0252525,
+   :latitude 67.8909945,
+   :source :openstreetmap}
+  {:name "Norsk Tindesenter",
+   :longitude 7.6902195,
+   :latitude 62.5678788,
+   :source :openstreetmap,
+   :homepage "https://tindesenteret.no/side/museum"}
+  {:name "Norsk transporthistorisk museum",
+   :longitude 11.3190002,
+   :latitude 59.634303,
+   :source :openstreetmap}
+  {:name "Norsk tryllemuseum",
+   :longitude 10.7199527,
+   :latitude 59.9112029,
+   :source :openstreetmap,
+   :homepage "https://www.brandstrup.no/"}
+  {:name "Norsk Vassdragsmuseum",
+   :longitude 9.6675652,
+   :latitude 59.6179492,
+   :source :openstreetmap,
+   :homepage "http://www.labromuseene.no/"}
+  {:name "Norsk Vegmuseum Labro",
+   :longitude 9.6713794,
+   :latitude 59.6188921,
+   :source :openstreetmap,
+   :homepage "http://www.labromuseene.no/"}
+  {:name "Norsk Villakssenter",
+   :longitude 7.1918955,
+   :latitude 58.264354,
+   :source :openstreetmap}
+  {:name "Norske Grisefigurmuseum",
+   :longitude 10.1204143,
+   :latitude 60.5421761,
+   :source :openstreetmap}
+  {:name "Numedalstunet Friluftsmuseet",
+   :longitude 10.1996001,
+   :latitude 59.7565934,
+   :source :openstreetmap,
+   :homepage "https://digitaltmuseum.no/011103118898/numedalstunet"}
+  {:name "Nygaardsvoldsmuseet",
+   :longitude 10.7995731,
+   :latitude 63.407944,
+   :source :openstreetmap}
+  {:name "Næs Jernverksmuseum",
+   :longitude 8.8542289,
+   :latitude 58.6302448,
+   :source :openstreetmap,
+   :homepage "https://www.jernverksmuseet.no/"}
+  {:name "Nøstetangen norsk glassmuseum",
+   :longitude 9.9136876,
+   :latitude 59.7740581,
+   :source :openstreetmap,
+   :homepage
+   "https://buskerudmuseet.com/nostetangen-norsk-glassmuseum/"}
+  {:name "Odalstunet",
+   :longitude 11.6799484,
+   :latitude 60.2664805,
+   :source :openstreetmap,
+   :homepage "https://odalstunet.no/"}
+  {:name "Odda Vitensenter",
+   :longitude 6.5471935,
+   :latitude 60.067892,
+   :source :openstreetmap}
+  {:name "Oddentunet",
+   :longitude 11.4087475,
+   :latitude 62.4364213,
+   :source :openstreetmap}
+  {:name "Oladalens Venner",
+   :longitude 13.2109806,
+   :latitude 65.8371266,
+   :source :openstreetmap}
+  {:name "Olav H. Hauge-senteret",
+   :longitude 6.9186819,
+   :latitude 60.5671587,
+   :source :openstreetmap}
+  {:name "Olav og Emma Duuns hus «Fjellvang»",
+   :longitude 10.2955148,
+   :latitude 59.5039948,
+   :source :openstreetmap,
+   :homepage
+   "http://museeneiholmestrand.blogspot.com/p/olav-duuns-forfatterhjem-en-perle-i.html"}
+  {:name "Olavsgruva",
+   :longitude 11.5629074,
+   :latitude 62.6310441,
+   :source :openstreetmap,
+   :homepage "https://rorosmuseet.no/olavsgruva"}
+  {:name "Ole Kjærbus Krigshistoriske samlinger",
+   :longitude 11.00124,
+   :latitude 59.658716,
+   :source :openstreetmap,
+   :homepage "https://galleriarttobe.com/"}
+  {:name "Ole Ottesastua",
+   :longitude 16.5260301,
+   :latitude 68.9935373,
+   :source :openstreetmap}
+  {:name "Ole Soleims minne",
+   :longitude 8.0610359,
+   :latitude 63.3344261,
+   :source :openstreetmap}
+  {:name "Orala",
+   :longitude 12.4350031,
+   :latitude 60.2031727,
+   :source :openstreetmap}
+  {:name "Orkdal bygdetun",
+   :longitude 9.717323,
+   :latitude 63.1696844,
+   :source :openstreetmap}
+  {:name "Orkla industrimuseum",
+   :longitude 9.70512,
+   :latitude 63.12481,
+   :source :openstreetmap,
+   :homepage "http://www.oi.no"}
+  {:name "Oscarsborg festningsmuseum",
+   :longitude 10.6076637,
+   :latitude 59.6734933,
+   :source :openstreetmap}
+  {:name "OscArt",
+   :longitude 8.0005333,
+   :latitude 58.1378261,
+   :source :openstreetmap}
+  {:name "OSL contemporary",
+   :longitude 10.7139984,
+   :latitude 59.9172525,
+   :source :openstreetmap,
+   :homepage "https://www.oslcontemporary.com"}
+  {:name "Osterøy Museum",
+   :longitude 5.544869,
+   :latitude 60.502482,
+   :source :openstreetmap}
+  {:name "Otnesbrygga",
+   :longitude 8.4972204,
+   :latitude 63.1369642,
+   :source :openstreetmap}
+  {:name "Otta bergverkssenter",
+   :longitude 9.5391081,
+   :latitude 61.7721617,
+   :source :openstreetmap}
+  {:name "Paradox Museum",
+   :longitude 10.7392184,
+   :latitude 59.9143419,
+   :source :openstreetmap,
+   :homepage "https://www.paradoxmuseumoslo.com"}
+  {:name "Partisanmuseet",
+   :longitude 30.9944697,
+   :latitude 70.287829,
+   :source :openstreetmap}
+  {:name "Peder Balke-senteret",
+   :longitude 10.8954626,
+   :latitude 60.7059257,
+   :source :openstreetmap}
+  {:name "Peer Gynt galleriet",
+   :longitude 6.8702829,
+   :latitude 62.0841902,
+   :source :openstreetmap,
+   :homepage "https://www.peergyntgalleriet.no/"}
+  {:name "Permanenten",
+   :longitude 5.323718,
+   :latitude 60.390779,
+   :source :openstreetmap,
+   :homepage "https://kodebergen.no"}
+  {:name "Perspektivet Folkeparken",
+   :longitude 18.9058402,
+   :latitude 69.6365985,
+   :source :openstreetmap,
+   :homepage "https://perspektivet.no/"}
+  {:name "Perspektivet museum",
+   :longitude 18.9592502,
+   :latitude 69.6523319,
+   :source :openstreetmap,
+   :homepage "https://perspektivet.no/"}
+  {:name "Petter Dass kapell",
+   :longitude 12.0818292,
+   :latitude 66.5027181,
+   :source :openstreetmap}
+  {:name "Petter Dass-museet",
+   :longitude 12.396657,
+   :latitude 65.8943445,
+   :source :openstreetmap,
+   :homepage "https://www.petterdass-museet.no/"}
+  {:name "Petter Dyrkorn-samlinga",
+   :longitude 6.3912602,
+   :latitude 62.6898604,
+   :source :openstreetmap}
+  {:name "Pitesamisk senter",
+   :longitude 14.5684236,
+   :latitude 67.0129976,
+   :source :openstreetmap}
+  {:name "Playmobil museum",
+   :longitude 9.4128505,
+   :latitude 58.8694892,
+   :source :openstreetmap,
+   :homepage "https://www.nicolineshus.no/"}
+  {:name "Polarmuseet",
+   :longitude 18.9633171,
+   :latitude 69.652207,
+   :source :openstreetmap,
+   :homepage "https://uit.no/tmu/polarmuseet"}
+  {:name "Politimestergården",
+   :longitude 13.2062347,
+   :latitude 65.8446133,
+   :source :openstreetmap}
+  {:name "Pomormuseet",
+   :longitude 31.105056,
+   :latitude 70.3711233,
+   :source :openstreetmap}
+  {:name "Popsenteret",
+   :longitude 10.761033,
+   :latitude 59.919777,
+   :source :openstreetmap,
+   :homepage "https://www.popsenteret.no/"}
+  {:name "Porselensmuseet",
+   :longitude 9.6391588,
+   :latitude 59.140818,
+   :source :openstreetmap}
+  {:name "Porsmyr bygdetun",
+   :longitude 7.8300166,
+   :latitude 58.151398,
+   :source :openstreetmap}
+  {:name "Portåsen",
+   :longitude 9.98788,
+   :latitude 59.730248,
+   :source :openstreetmap,
+   :homepage "http://www.portaasen.no/"}
+  {:name "Prestegårdsfjøset",
+   :longitude 10.63346,
+   :latitude 63.6788777,
+   :source :openstreetmap}
+  {:name "Prestegårdslåna",
+   :longitude 10.2927565,
+   :latitude 63.2729041,
+   :source :openstreetmap}
+  {:name "Prestelvkaia",
+   :longitude 29.7251891,
+   :latitude 70.07657,
+   :source :openstreetmap}
+  {:name "Prinsesse Ingrid Alexandras Skulpturpark",
+   :longitude 10.7292963,
+   :latitude 59.9186919,
+   :source :openstreetmap}
+  {:name "Prøysenhuset",
+   :longitude 10.791259,
+   :latitude 60.9121395,
+   :source :openstreetmap,
+   :homepage "http://www.proysenhuset.no/"}
+  {:name "Radiomuseet",
+   :longitude 5.216736,
+   :latitude 60.448636,
+   :source :openstreetmap,
+   :homepage "https://www.bergenkringkaster.no/"}
+  {:name "Rallarmuseet",
+   :longitude 7.5060609,
+   :latitude 60.6015779,
+   :source :openstreetmap,
+   :homepage "http://rallarmuseet.no/"}
+  {:name "Rana museum",
+   :longitude 14.1300447,
+   :latitude 66.3131153,
+   :source :openstreetmap,
+   :homepage "https://helgelandmuseum.no/besokssted/rana-museum/"}
+  {:name "Rangnes gamle skole",
+   :longitude 8.0511399,
+   :latitude 63.3285912,
+   :source :openstreetmap}
+  {:name "Ranheim bydelsmuseum",
+   :longitude 10.5345804,
+   :latitude 63.4280814,
+   :source :openstreetmap}
+  {:name "Ranheimbrygga",
+   :longitude 13.6026476,
+   :latitude 66.2238303,
+   :source :openstreetmap}
+  {:name "Rasmus Meyers samlinger",
+   :longitude 5.3275471,
+   :latitude 60.38948,
+   :source :openstreetmap,
+   :homepage "https://www.kunsthall.art"}
+  {:name "Rasmussen Samlingene",
+   :longitude 5.3412817,
+   :latitude 60.3444065,
+   :source :openstreetmap,
+   :homepage "https://rasmussen-samlingene.no"}
+  {:name "Ratvollen",
+   :longitude 11.3424723,
+   :latitude 62.7167604,
+   :source :openstreetmap}
+  {:name "Raufoss gård",
+   :longitude 10.6106297,
+   :latitude 60.7264,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visit-innlandet.no/opplevelser/raufoss-gard-p1686483"}
+  {:name "Reidvin-tunet",
+   :longitude 10.1929925,
+   :latitude 59.5082246,
+   :source :openstreetmap,
+   :homepage "https://www.reidvin.no/"}
+  {:name "Reins kloster",
+   :longitude 9.9218826,
+   :latitude 63.5648014,
+   :source :openstreetmap}
+  {:name "Rendalen Bygdemuseum",
+   :longitude 11.0808327,
+   :latitude 61.8847214,
+   :source :openstreetmap,
+   :homepage "www.bygdemuseet.no/"}
+  {:name "Rennebu Bygdetun",
+   :longitude 9.8215358,
+   :latitude 62.8875161,
+   :source :openstreetmap,
+   :homepage
+   "https://rennebuhistorielag.no/rennebu-bygdetun-29341s.html"}
+  {:name "Revtangen ornitologiske stasjon",
+   :longitude 5.5082685,
+   :latitude 58.7618794,
+   :source :openstreetmap}
+  {:name "Riddersalen",
+   :longitude 6.02259,
+   :latitude 59.9875396,
+   :source :openstreetmap}
+  {:name "Rindal skimuseum",
+   :longitude 9.2145467,
+   :latitude 63.058008,
+   :source :openstreetmap}
+  {:name "Ringebu prestegard",
+   :longitude 10.1730854,
+   :latitude 61.5113271,
+   :source :openstreetmap}
+  {:name "Ringerikes museum",
+   :longitude 10.2684499,
+   :latitude 60.1318904,
+   :source :openstreetmap,
+   :homepage "https://buskerudmuseet.com/ringerikes-museum/"}
+  {:name "Ringve Musikkmuseum",
+   :longitude 10.4540535,
+   :latitude 63.4474289,
+   :source :openstreetmap}
+  {:name "Risbakken gårdsmuseum",
+   :longitude 11.926153,
+   :latitude 65.693245,
+   :source :openstreetmap}
+  {:name "Riska histore- og museumslag",
+   :longitude 5.8530869,
+   :latitude 58.9260941,
+   :source :openstreetmap}
+  {:name "Risør Kystkultursenter",
+   :longitude 9.0711907,
+   :latitude 58.7266398,
+   :source :openstreetmap}
+  {:name "Risør Museum",
+   :longitude 9.2305189,
+   :latitude 58.7216427,
+   :source :openstreetmap}
+  {:name "Risøyhamn bygdetun",
+   :longitude 15.6407939,
+   :latitude 68.9709939,
+   :source :openstreetmap}
+  {:name "Roald Amundsens fødested",
+   :longitude 11.080038,
+   :latitude 59.2643556,
+   :source :openstreetmap}
+  {:name "Roald Amundsens hjem",
+   :longitude 10.7339496,
+   :latitude 59.7861587,
+   :source :openstreetmap,
+   :homepage "www.follomuseum.no/home/roald-amundsens-hjem"}
+  {:name "Rock City",
+   :longitude 11.487231,
+   :latitude 64.4688213,
+   :source :openstreetmap,
+   :homepage "https://www.rockcity.no/"}
+  {:name "Rockheim",
+   :longitude 10.4017359,
+   :latitude 63.4387294,
+   :source :openstreetmap,
+   :homepage "https://rockheim.no/"}
+  {:name "Roenland",
+   :longitude 10.4057916,
+   :latitude 60.2858194,
+   :source :openstreetmap}
+  {:name "Rogaland kunstsenter",
+   :longitude 5.7392643,
+   :latitude 58.9699505,
+   :source :openstreetmap}
+  {:name "Rognlisaga",
+   :longitude 10.9826937,
+   :latitude 60.486332,
+   :source :openstreetmap}
+  {:name "Rolf Riise radiomuseum",
+   :longitude 10.9542127,
+   :latitude 60.8762713,
+   :source :openstreetmap}
+  {:name "Romsdalsmuseet - Krona",
+   :longitude 7.150809,
+   :latitude 62.7396835,
+   :source :openstreetmap}
+  {:name "Roparneset",
+   :longitude 15.4021719,
+   :latitude 66.8153151,
+   :source :openstreetmap}
+  {:name "Roseslottet",
+   :longitude 10.6761921,
+   :latitude 59.979776,
+   :source :openstreetmap,
+   :homepage "https://roseslottet.no/storstua/"}
+  {:name "Rosvoll prestegard",
+   :longitude 8.0159915,
+   :latitude 63.307867,
+   :source :openstreetmap,
+   :homepage
+   "https://nordmorsmusea.no/besok-oss/smola/rosvoll-prestegard/"}
+  {:name "Runde miljøsenter",
+   :longitude 5.6602604,
+   :latitude 62.3990248,
+   :source :openstreetmap,
+   :homepage "https://runde.no"}
+  {:name "Rygge museum og historielag",
+   :longitude 10.7260505,
+   :latitude 59.3784757,
+   :source :openstreetmap}
+  {:name "Rygnestadtunet",
+   :longitude 7.4895667,
+   :latitude 59.2629669,
+   :source :openstreetmap,
+   :homepage "http://www.setesdalmuseet.no"}
+  {:name "Råde forsvarsmuseum",
+   :longitude 10.8675035,
+   :latitude 59.35284,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitoestfold.com/listing/r%C3%A5de-forsvarsmuseum/220372306/"}
+  {:name "Rånåsfoss kraftstasjon",
+   :longitude 11.3241844,
+   :latitude 60.0273118,
+   :source :openstreetmap}
+  {:name "Rælingen bygdetun",
+   :longitude 11.0818226,
+   :latitude 59.9203765,
+   :source :openstreetmap}
+  {:name "Rød herregård",
+   :longitude 11.3689271,
+   :latitude 59.1228549,
+   :source :openstreetmap,
+   :homepage "https://ostfoldmuseene.no/rod"}
+  {:name "Rørosmuseet Smelthytta",
+   :longitude 11.3912502,
+   :latitude 62.5771845,
+   :source :openstreetmap,
+   :homepage "https://rorosmuseet.no/smelthytta"}
+  {:name "Røykstova på Laupland",
+   :longitude 5.4452087,
+   :latitude 59.1857011,
+   :source :openstreetmap}
+  {:name "Røynevarden husmannsplass",
+   :longitude 6.7604231,
+   :latitude 59.6012577,
+   :source :openstreetmap}
+  {:name "S12 Galleri og Verksted",
+   :longitude 5.315625,
+   :latitude 60.4015644,
+   :source :openstreetmap,
+   :homepage "https://bymuseet.no/museum/hakonshallen/"}
+  {:name "Saa'mi mu'zei / Skoltesamisk museum",
+   :longitude 29.3778079,
+   :latitude 69.6995501,
+   :source :openstreetmap}
+  {:name "Saemien Sijte",
+   :longitude 12.3587508,
+   :latitude 64.2474217,
+   :source :openstreetmap}
+  {:name "Saga",
+   :longitude 11.3046457,
+   :latitude 63.8653532,
+   :source :openstreetmap}
+  {:name "Saga Siglar hallen",
+   :longitude 7.3963131,
+   :latitude 63.0296412,
+   :source :openstreetmap}
+  {:name "Sagastad",
+   :longitude 5.9817105,
+   :latitude 61.9100259,
+   :source :openstreetmap,
+   :homepage "https://sagastad.no"}
+  {:name "Sagelva Vasskraftsenter",
+   :longitude 8.120259,
+   :latitude 62.2774444,
+   :source :openstreetmap}
+  {:name "Salangen bygdetun",
+   :longitude 18.0597013,
+   :latitude 68.8767985,
+   :source :openstreetmap}
+  {:name "Salangsverket",
+   :longitude 17.7190259,
+   :latitude 68.9089292,
+   :source :openstreetmap}
+  {:name "Salmon Center Bodø",
+   :longitude 14.3813684,
+   :latitude 67.2851382,
+   :source :openstreetmap,
+   :homepage "salmoncenter.info"}
+  {:name "Salmon Center Molde",
+   :longitude 7.1596739,
+   :latitude 62.7373445,
+   :source :openstreetmap}
+  {:name "Saltdal bygdetun",
+   :longitude 15.4280908,
+   :latitude 67.1010207,
+   :source :openstreetmap}
+  {:name "Saltstraumen museum",
+   :longitude 14.6290815,
+   :latitude 67.2337876,
+   :source :openstreetmap}
+  {:name "Sandbekk mølle",
+   :longitude 11.4648528,
+   :latitude 59.2797001,
+   :source :openstreetmap}
+  {:name "Sande gamle prestegård",
+   :longitude 10.2081095,
+   :latitude 59.5923556,
+   :source :openstreetmap,
+   :homepage
+   "https://sandehistorielag.no/kulturhistoriske-skilt-i-sande?view=article&id=12:sande-presteg%C3%A5rd&catid=14"}
+  {:name "Sandefjord Kunstforening",
+   :longitude 10.2206181,
+   :latitude 59.1284205,
+   :source :openstreetmap}
+  {:name "Sanden museum",
+   :longitude 7.9533637,
+   :latitude 63.5179742,
+   :source :openstreetmap,
+   :homepage "https://nordmorsmusea.no/besok-oss/smola/sanden/"}
+  {:name "Sandnes kunstforening",
+   :longitude 5.7400135,
+   :latitude 58.8517034,
+   :source :openstreetmap}
+  {:name "Sandnessjøen krigsminnesamling",
+   :longitude 12.620581,
+   :latitude 66.0166113,
+   :source :openstreetmap,
+   :homepage
+   "https://www.alstahaug.kommune.no/sandnessjoeen-krigsminnesamling.6062161-175568.html"}
+  {:name "Sandtorg bygdetun",
+   :longitude 16.5290564,
+   :latitude 68.6833534,
+   :source :openstreetmap}
+  {:name "Sanitetsbunker",
+   :longitude 5.0889067,
+   :latitude 60.3251283,
+   :source :openstreetmap}
+  {:name "Sanitetsbunkeren",
+   :longitude 5.0253164,
+   :latitude 61.598297,
+   :source :openstreetmap,
+   :homepage "http://www.flora-krigshistorielag.com/"}
+  {:name "Sannidal bygdetun",
+   :longitude 9.2607721,
+   :latitude 58.8937351,
+   :source :openstreetmap}
+  {:name "SAS-museet",
+   :longitude 11.075263,
+   :latitude 60.2023375,
+   :source :openstreetmap,
+   :homepage "https://www.sasmuseet.com"}
+  {:name "Saviomusea / Saviomuseet",
+   :longitude 30.04331,
+   :latitude 69.71662,
+   :source :openstreetmap}
+  {:name "Scandinavian Collage Museum",
+   :longitude 10.0349019,
+   :latitude 62.8156893,
+   :source :openstreetmap}
+  {:name "SceneU",
+   :longitude 12.0012103,
+   :latitude 60.1901801,
+   :source :openstreetmap}
+  {:name "SDS Hansteen",
+   :longitude 10.4067369,
+   :latitude 63.4344488,
+   :source :openstreetmap,
+   :homepage "https://trondheimsjofart.no/"}
+  {:name "Sekken bygdetun",
+   :longitude 7.3374368,
+   :latitude 62.6522319,
+   :source :openstreetmap}
+  {:name "Selbu Bygdemuseum",
+   :longitude 11.0405829,
+   :latitude 63.2162386,
+   :source :openstreetmap,
+   :homepage "https://www.selbu.kommune.no/enheter/bygdemuseum/"}
+  {:name "Seløystova",
+   :longitude 5.6281774,
+   :latitude 59.9485789,
+   :source :openstreetmap}
+  {:name "Senjehesten kystforsvarsmuseum",
+   :longitude 16.7957568,
+   :latitude 69.0571536,
+   :source :openstreetmap}
+  {:name "Senter for studier av Holocaust og livssynsminoriteter",
+   :longitude 10.67814,
+   :latitude 59.898946,
+   :source :openstreetmap,
+   :homepage "https://www.hlsenteret.no/"}
+  {:name "Setesdalsbanen - Grovane stasjon",
+   :longitude 7.9805173,
+   :latitude 58.2951404,
+   :source :openstreetmap,
+   :homepage "https://www.setesdalsbanen.no"}
+  {:name "Setesdalsbanen - Røyknes stasjon",
+   :longitude 7.9005243,
+   :latitude 58.3434061,
+   :source :openstreetmap}
+  {:name "Setesdalsmuseet - Rysstad",
+   :longitude 7.5271041,
+   :latitude 59.0949282,
+   :source :openstreetmap}
+  {:name "Sigdal museum",
+   :longitude 9.6385079,
+   :latitude 60.0431407,
+   :source :openstreetmap}
+  {:name "Siljustøl museum",
+   :longitude 5.3080645,
+   :latitude 60.2939785,
+   :source :openstreetmap}
+  {:name "Singerheimen",
+   :longitude 6.8130395,
+   :latitude 61.8324435,
+   :source :openstreetmap,
+   :homepage "https://www.singerheimen.no/"}
+  {:name "Sirdal fjellmuseum",
+   :longitude 6.9177745,
+   :latitude 58.9416394,
+   :source :openstreetmap}
+  {:name "Sivert Aarflot-museet",
+   :longitude 6.0318392,
+   :latitude 62.162069,
+   :source :openstreetmap}
+  {:name "Sjøboden",
+   :longitude 10.1684765,
+   :latitude 59.7467143,
+   :source :openstreetmap}
+  {:name "Sjøborg Kino",
+   :longitude 5.8494716,
+   :latitude 62.3409157,
+   :source :openstreetmap,
+   :homepage "https://www.sjoborg.no/"}
+  {:name "Sjøbruksmuseum",
+   :longitude 5.5866011,
+   :latitude 59.034807,
+   :source :openstreetmap}
+  {:name "Sjøfartsmuseet",
+   :longitude 9.6384123,
+   :latitude 59.1372291,
+   :source :openstreetmap}
+  {:name "Sjøholmen Kulturhus",
+   :longitude 10.5417504,
+   :latitude 59.8920775,
+   :source :openstreetmap,
+   :homepage "https://www.sjoholmen.com/"}
+  {:name "Sjøhuset i Bergevik",
+   :longitude 6.0986235,
+   :latitude 58.9054408,
+   :source :openstreetmap}
+  {:name "Sjøhuset til Mikal L. Klovning",
+   :longitude 4.8919735,
+   :latitude 59.2985933,
+   :source :openstreetmap,
+   :homepage
+   "https://haugalandmuseet.no/arrangement/mikal-l-klovnings-sjohus/"}
+  {:name "Sjølingstad Uldvarefabrik",
+   :longitude 7.3890935,
+   :latitude 58.0692937,
+   :source :openstreetmap,
+   :homepage "https://www.vestagdermuseet.no/sjolingstad"}
+  {:name "Sjømennenes minnehall",
+   :longitude 10.0369208,
+   :latitude 58.991281,
+   :source :openstreetmap,
+   :homepage "https://minnehallen.no/"}
+  {:name "Skaftnes gård",
+   :longitude 13.7251,
+   :latitude 68.10776,
+   :source :openstreetmap}
+  {:name "Skandinavisk Motorsykkel Center",
+   :longitude 12.2209811,
+   :latitude 59.9360172,
+   :source :openstreetmap}
+  {:name "Skedsmo bygdemuseum",
+   :longitude 11.0344146,
+   :latitude 60.0011959,
+   :source :openstreetmap}
+  {:name "Skibotn markedsplass",
+   :longitude 20.2685861,
+   :latitude 69.3935227,
+   :source :openstreetmap}
+  {:name "Skifjøset",
+   :longitude 10.4157866,
+   :latitude 63.9807117,
+   :source :openstreetmap}
+  {:name "Skimuseet",
+   :longitude 10.6666128,
+   :latitude 59.9646108,
+   :source :openstreetmap,
+   :homepage "https://www.skiforeningen.no/holmenkollen/"}
+  {:name "Skinnarlandsamlinga",
+   :longitude 8.0501398,
+   :latitude 59.6948853,
+   :source :openstreetmap}
+  {:name "Skiptvet bygdemuseum",
+   :longitude 11.1625265,
+   :latitude 59.4774718,
+   :source :openstreetmap}
+  {:name "Skjærstad Sildoljefabrikk",
+   :longitude 16.2814407,
+   :latitude 68.8470113,
+   :source :openstreetmap}
+  {:name "Skolemuseum",
+   :longitude 5.8845784,
+   :latitude 61.9245421,
+   :source :openstreetmap}
+  {:name "Skonnerten Anna Rogde",
+   :longitude 16.5530339,
+   :latitude 68.7874431,
+   :source :openstreetmap}
+  {:name "Skreddarhaugen",
+   :longitude 10.0643118,
+   :latitude 63.2605977,
+   :source :openstreetmap}
+  {:name "Skredhaugen",
+   :longitude 6.6631164,
+   :latitude 60.3496451,
+   :source :openstreetmap,
+   :homepage "https://skredhaugen.no/"}
+  {:name "Skrivergården",
+   :longitude 10.8741986,
+   :latitude 60.7121515,
+   :source :openstreetmap}
+  {:name "Skøytemuseet",
+   :longitude 10.709451,
+   :latitude 59.927723,
+   :source :openstreetmap,
+   :homepage "https://skoytemuseet.no/"}
+  {:name "Slettebøsmia",
+   :longitude 5.5257348,
+   :latitude 59.2767969,
+   :source :openstreetmap}
+  {:name "Slettedalen stølsbu",
+   :longitude 6.478691,
+   :latitude 59.7198979,
+   :source :openstreetmap}
+  {:name "Småflaskemuseet",
+   :longitude 10.743402,
+   :latitude 59.909641,
+   :source :openstreetmap,
+   :homepage "https://www.minibottlegallery.com/?kategori=museum"}
+  {:name "Sofus Madsen Skulpturmuseum",
+   :longitude 5.3710385,
+   :latitude 60.364644,
+   :source :openstreetmap}
+  {:name "Sogn Fjordmuseum",
+   :longitude 7.246569,
+   :latitude 61.1836742,
+   :source :openstreetmap}
+  {:name "Sogn Kunstsenter",
+   :longitude 7.4829171,
+   :latitude 61.1001797,
+   :source :openstreetmap}
+  {:name "Sogn og Fjordane Kunstmuseum",
+   :longitude 5.8566135,
+   :latitude 61.4519225,
+   :source :openstreetmap,
+   :homepage "https://www.sfk.museum.no/"}
+  {:name "Solberggruva",
+   :longitude 8.8695506,
+   :latitude 58.618692,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jernverksmuseet.no/Solberg_gruve/content-8.html"}
+  {:name "Solbraa setermuseum",
+   :longitude 9.7548553,
+   :latitude 61.4906996,
+   :source :openstreetmap}
+  {:name "Solhålå",
+   :longitude 5.2374885,
+   :latitude 59.291549,
+   :source :openstreetmap}
+  {:name "Son Kystkultursenteret",
+   :longitude 10.687376,
+   :latitude 59.524332,
+   :source :openstreetmap}
+  {:name "Sondre Norheim",
+   :longitude 8.3871832,
+   :latitude 59.4913857,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visittelemark.no/vest-telemark-museum/informasjon/produkt/overbo-sondres-heim-p530863"}
+  {:name "Soot",
+   :longitude 10.501578,
+   :latitude 59.938951,
+   :source :openstreetmap}
+  {:name "Sortland museum",
+   :longitude 15.417289,
+   :latitude 68.6971116,
+   :source :openstreetmap}
+  {:name "Spaceship Aurora",
+   :longitude 16.03033,
+   :latitude 69.295615,
+   :source :openstreetmap,
+   :homepage "http://www.spaceshipaurora.no"}
+  {:name "Speidermuseet",
+   :longitude 5.6665249,
+   :latitude 58.9119254,
+   :source :openstreetmap}
+  {:name "Sporveismuseet",
+   :longitude 10.716363,
+   :latitude 59.931273,
+   :source :openstreetmap,
+   :homepage "https://www.sporveismuseet.no/"}
+  {:name "Sporveismuseet",
+   :longitude 10.3582452,
+   :latitude 63.3978212,
+   :source :openstreetmap,
+   :homepage "https://sporveishistoriskforening.no/museet/"}
+  {:name "Spriten Kunsthall",
+   :longitude 9.610211,
+   :latitude 59.2016978,
+   :source :openstreetmap}
+  {:name "Sputnik-museet",
+   :longitude 8.8867136,
+   :latitude 59.1072078,
+   :source :openstreetmap}
+  {:name "Stalheim folkemuseum",
+   :longitude 6.6793543,
+   :latitude 60.8347676,
+   :source :openstreetmap}
+  {:name "Stavanger maritime museum",
+   :longitude 5.728709,
+   :latitude 58.970542,
+   :source :openstreetmap,
+   :homepage "https://stavangermaritimemuseum.no/"}
+  {:name "Stavkirkemuseum",
+   :longitude 9.0584985,
+   :latitude 61.1206677,
+   :source :openstreetmap,
+   :homepage "https://www.norgeskirker.no/wiki/Volbu_kirke"}
+  {:name "Steigen bygdetun",
+   :longitude 15.016803,
+   :latitude 67.9233531,
+   :source :openstreetmap}
+  {:name "Stein skole",
+   :longitude 11.3737388,
+   :latitude 60.1359987,
+   :source :openstreetmap}
+  {:name "Steinberg friluftsmuseum",
+   :longitude 10.7485814,
+   :latitude 60.7028915,
+   :source :openstreetmap}
+  {:name "Steinhoggermuseet",
+   :longitude 10.8823645,
+   :latitude 59.9588842,
+   :source :openstreetmap}
+  {:name "Steinhuset",
+   :longitude 10.5241333,
+   :latitude 60.3683694,
+   :source :openstreetmap}
+  {:name "Steinsland klyngetun",
+   :longitude 16.580008,
+   :latitude 68.6152547,
+   :source :openstreetmap}
+  {:name "Stenberg Friluftsmuseum",
+   :longitude 10.7522477,
+   :latitude 60.7037107,
+   :source :openstreetmap}
+  {:name "Stend stasjon",
+   :longitude 5.3340005,
+   :latitude 60.2744098,
+   :source :openstreetmap,
+   :homepage "https://www.osbanen.no/opningstider/"}
+  {:name "Stenneset friluftsmuseum",
+   :longitude 14.0943786,
+   :latitude 66.3288181,
+   :source :openstreetmap}
+  {:name "Stiftelsen Arkivet",
+   :longitude 7.981537,
+   :latitude 58.14467,
+   :source :openstreetmap}
+  {:name "Stiftelsen Haugesjøen",
+   :longitude 5.2630165,
+   :latitude 59.413614,
+   :source :openstreetmap,
+   :homepage "https://haugesjoen.no/"}
+  {:name "Stiftelsen Vestfossen Kunstlaboratorium",
+   :longitude 9.8707196,
+   :latitude 59.7325724,
+   :source :openstreetmap,
+   :homepage "http://www.vestfossen.com/"}
+  {:name "Stiklestad Nasjonale Kultursenter",
+   :longitude 11.5628237,
+   :latitude 63.7959326,
+   :source :openstreetmap}
+  {:name "Stjørdal museum Værnes",
+   :longitude 10.957408,
+   :latitude 63.4540182,
+   :source :openstreetmap,
+   :homepage "https://stjordalmuseum.no/"}
+  {:name "Stokke bygdetun",
+   :longitude 10.2869423,
+   :latitude 59.2227108,
+   :source :openstreetmap,
+   :homepage "https://www.stokkebygdetun.com/"}
+  {:name "Storbekkøya museumsseter",
+   :longitude 10.6247646,
+   :latitude 62.7963308,
+   :source :openstreetmap}
+  {:name "Stord maritime museum",
+   :longitude 5.503804,
+   :latitude 59.781641,
+   :source :openstreetmap}
+  {:name "Storgata 42",
+   :longitude 18.9534944,
+   :latitude 69.6476346,
+   :source :openstreetmap}
+  {:name "Storhaugen dagbruddområde",
+   :longitude 17.8653205,
+   :latitude 68.9353743,
+   :source :openstreetmap}
+  {:name "Strand skoleinternat",
+   :longitude 29.9786518,
+   :latitude 69.5248383,
+   :source :openstreetmap}
+  {:name "Strandsitterhuset",
+   :longitude 10.5114941,
+   :latitude 59.8395811,
+   :source :openstreetmap}
+  {:name "Straumen gård",
+   :longitude 18.671535,
+   :latitude 69.5641,
+   :source :openstreetmap}
+  {:name "Strømsfoss mølle",
+   :longitude 11.6588588,
+   :latitude 59.3017866,
+   :source :openstreetmap}
+  {:name "Strømsør fjellgård",
+   :longitude 18.691142,
+   :latitude 68.6963489,
+   :source :openstreetmap,
+   :homepage "https://mtmu.no/museum/stromsor-fjellgard/"}
+  {:name "Støa",
+   :longitude 10.4199264,
+   :latitude 59.5527444,
+   :source :openstreetmap,
+   :homepage "https://www.hurumkunstlag.no/"}
+  {:name "Støa kanal",
+   :longitude 12.8148192,
+   :latitude 61.2539841,
+   :source :openstreetmap}
+  {:name "Sula Fiskeværsmuseum",
+   :longitude 8.4557235,
+   :latitude 63.8453105,
+   :source :openstreetmap}
+  {:name "Sulitjelma Gruvemuseum",
+   :longitude 16.0971419,
+   :latitude 67.1211148,
+   :source :openstreetmap}
+  {:name "Sund fiskerimuseum",
+   :longitude 13.207073,
+   :latitude 68.0049673,
+   :source :openstreetmap}
+  {:name "Sunndal bygdemuseum",
+   :longitude 8.6899337,
+   :latitude 62.6513045,
+   :source :openstreetmap}
+  {:name "Sunndal kulturhus",
+   :longitude 8.5625955,
+   :latitude 62.6739305,
+   :source :openstreetmap}
+  {:name "Sunnfjord museum",
+   :longitude 5.9726674,
+   :latitude 61.4389233,
+   :source :openstreetmap}
+  {:name "Sunnhordlandstunet",
+   :longitude 5.5003661,
+   :latitude 59.783843,
+   :source :openstreetmap}
+  {:name "Sunnmøre museum",
+   :longitude 6.2362414,
+   :latitude 62.4689141,
+   :source :openstreetmap,
+   :homepage "https://www.vitimusea.no/musea/sunnmoere-museum"}
+  {:name "Svalbard Museum",
+   :longitude 15.652313,
+   :latitude 78.222378,
+   :source :openstreetmap,
+   :homepage "http://svalbardmuseum.no"}
+  {:name "Sveindal museum",
+   :longitude 7.4521633,
+   :latitude 58.4831867,
+   :source :openstreetmap}
+  {:name "Svelvik museum",
+   :longitude 10.408095,
+   :latitude 59.613837,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/SvelvikMuseum/"}
+  {:name "Sverresborg Trøndelag Folkemuseum",
+   :longitude 10.3591073,
+   :latitude 63.419806,
+   :source :openstreetmap,
+   :homepage "https://www.sverresborg.no/"}
+  {:name "Svinviks arboret",
+   :longitude 8.6308826,
+   :latitude 62.8529832,
+   :source :openstreetmap}
+  {:name "Svullrya gamle skole",
+   :longitude 12.4091429,
+   :latitude 60.4159631,
+   :source :openstreetmap}
+  {:name "Sykkylven Naturmuseum",
+   :longitude 6.5840213,
+   :latitude 62.3909664,
+   :source :openstreetmap}
+  {:name "Sámi dáiddaguovdáš",
+   :longitude 25.5112257,
+   :latitude 69.4699175,
+   :source :openstreetmap}
+  {:name "Sámiid Vuorká-Dávvirat / De Samiske Samlinger",
+   :longitude 25.5199808,
+   :latitude 69.4733473,
+   :source :openstreetmap}
+  {:name "Sážža / Senja natur- og kultursenter",
+   :longitude 17.6177466,
+   :latitude 69.2111061,
+   :source :openstreetmap}
+  {:name "Sæbøtunet",
+   :longitude 5.9285452,
+   :latitude 59.6621968,
+   :source :openstreetmap}
+  {:name "Søgne gamle prestegård",
+   :longitude 7.8398992,
+   :latitude 58.0908594,
+   :source :openstreetmap,
+   :homepage "https://sognekultur.no/"}
+  {:name "Sømna bygdetun",
+   :longitude 12.164334,
+   :latitude 65.312239,
+   :source :openstreetmap}
+  {:name "Sønsteby Natur og Kultursenter",
+   :longitude 10.3864535,
+   :latitude 59.653397,
+   :source :openstreetmap,
+   :homepage "http://www.sonstebygard.no/"}
+  {:name "Sørlistua Fløtermuseum",
+   :longitude 11.8171476,
+   :latitude 61.2407434,
+   :source :openstreetmap,
+   :homepage "http://www.trysil.no/no/A/Sorlistoa-Flotermuseum/"}
+  {:name "Tafjord 1 kraftverk",
+   :longitude 7.4214182,
+   :latitude 62.2264072,
+   :source :openstreetmap,
+   :homepage "https://villekrefter.no/"}
+  {:name "Tegneseriemuseet",
+   :longitude 10.5099595,
+   :latitude 60.417162,
+   :source :openstreetmap,
+   :homepage "https://www.tegneseriemuseet.no/"}
+  {:name "Teigen bygdemuseum",
+   :longitude 7.777724,
+   :latitude 62.9085534,
+   :source :openstreetmap}
+  {:name "Tekstilindustrimuseet",
+   :longitude 5.271287,
+   :latitude 60.507846,
+   :source :openstreetmap,
+   :homepage "https://muho.no/tekstilindustrimuseet"}
+  {:name "Telegrafen",
+   :longitude 11.932912,
+   :latitude 78.9231181,
+   :source :openstreetmap}
+  {:name "Telemark Kunstmuseum - Verdensarvsenteret",
+   :longitude 9.2619971,
+   :latitude 59.5674821,
+   :source :openstreetmap,
+   :homepage "https://www.nia.no/telemark-kunstmuseum/"}
+  {:name "Telemark museum",
+   :longitude 9.6142236,
+   :latitude 59.2089373,
+   :source :openstreetmap}
+  {:name "Telemuseet",
+   :longitude 10.7841371,
+   :latitude 59.9668982,
+   :source :openstreetmap,
+   :homepage "https://www.tekniskmuseum.no/"}
+  {:name "Tellevik kystfort",
+   :longitude 5.2757144,
+   :latitude 60.5187467,
+   :source :openstreetmap,
+   :homepage "https://m.facebook.com/Tellevik.Kystfort/?locale2=nb_NO"}
+  {:name "Tenthaus Gallery",
+   :longitude 10.751597,
+   :latitude 59.920658,
+   :source :openstreetmap,
+   :homepage "https://www.tenthaus.no/"}
+  {:name "Th. Kittelsen museet",
+   :longitude 9.8671824,
+   :latitude 59.9704304,
+   :source :openstreetmap}
+  {:name "Thamspaviljongen",
+   :longitude 9.8457034,
+   :latitude 63.2999126,
+   :source :openstreetmap,
+   :homepage "https://www.thamspaviljongen.no/"}
+  {:name "The Thai Museum at Nordkapp",
+   :longitude 25.7844901,
+   :latitude 71.1704765,
+   :source :openstreetmap,
+   :homepage "https://www.visitnordkapp.net/no/nordkapphallen"}
+  {:name "Thor Arne Moen",
+   :longitude 10.4665206,
+   :latitude 61.2223893,
+   :source :openstreetmap,
+   :homepage "https://www.ateliervidsyn.no"}
+  {:name "Time bygdemuseum",
+   :longitude 5.7754861,
+   :latitude 58.6820811,
+   :source :openstreetmap}
+  {:name "Tinden",
+   :longitude 14.7554605,
+   :latitude 68.8412875,
+   :source :openstreetmap}
+  {:name "Tinghaug",
+   :longitude 6.316238,
+   :latitude 59.647842,
+   :source :openstreetmap}
+  {:name "Tingvoll museum",
+   :longitude 8.186406,
+   :latitude 62.9247098,
+   :source :openstreetmap}
+  {:name "Tingvoll Økopark",
+   :longitude 8.1847101,
+   :latitude 62.9140335,
+   :source :openstreetmap}
+  {:name "Tinn museum",
+   :longitude 8.6481647,
+   :latitude 59.8814646,
+   :source :openstreetmap}
+  {:name "Tinnveden",
+   :longitude 9.5680473,
+   :latitude 63.7157373,
+   :source :openstreetmap}
+  {:name "Tirpitz Museum",
+   :longitude 23.016338,
+   :latitude 69.930628,
+   :source :openstreetmap}
+  {:name "Tjeldsund museum",
+   :longitude 16.4067403,
+   :latitude 68.5444114,
+   :source :openstreetmap}
+  {:name "Toftes gave",
+   :longitude 10.9491514,
+   :latitude 60.753526,
+   :source :openstreetmap}
+  {:name "Tonjer fyr",
+   :longitude 5.2405131,
+   :latitude 59.423987,
+   :source :openstreetmap}
+  {:name "Tormodsbrygga",
+   :longitude 14.027889,
+   :latitude 67.036826,
+   :source :openstreetmap}
+  {:name "Trandamperi",
+   :longitude 13.3497884,
+   :latitude 68.0339843,
+   :source :openstreetmap}
+  {:name "Tranøy galleri",
+   :longitude 15.6721255,
+   :latitude 68.1819965,
+   :source :openstreetmap}
+  {:name "Trastad samlinger",
+   :longitude 16.1361615,
+   :latitude 68.7827087,
+   :source :openstreetmap}
+  {:name "Tresfjord museum",
+   :longitude 7.1374653,
+   :latitude 62.5165801,
+   :source :openstreetmap}
+  {:name "Trollull fellesmagasin",
+   :longitude 11.32162,
+   :latitude 59.55298,
+   :source :openstreetmap,
+   :homepage "https://ostfoldmuseene.no/trollull"}
+  {:name "Troms Forsvarsmuseum",
+   :longitude 18.3495949,
+   :latitude 68.8581325,
+   :source :openstreetmap,
+   :homepage "https://mtmu.no/en/museum/troms-armed-forces-museum/"}
+  {:name "Troms Kysten (Troms Fylkeskultursenter)",
+   :longitude 18.9326295,
+   :latitude 69.6377275,
+   :source :openstreetmap}
+  {:name "Tromsø Forsvarsmuseum",
+   :longitude 18.9406926,
+   :latitude 69.6104842,
+   :source :openstreetmap}
+  {:name "Tromsø Kunstforening (Tromsø Centre for Contemporary Art)",
+   :longitude 18.93339,
+   :latitude 69.6408655,
+   :source :openstreetmap}
+  {:name "Tromsø museum",
+   :longitude 18.9120995,
+   :latitude 69.634849,
+   :source :openstreetmap,
+   :homepage "https://uit.no/tmu"}
+  {:name "Trondenes historiske senter",
+   :longitude 16.5587095,
+   :latitude 68.8202087,
+   :source :openstreetmap,
+   :homepage
+   "https://stmu.no/attraksjoner/trondenes-historiske-senter/"}
+  {:name "TRYKKOKEREN Kunstlaboratorium",
+   :longitude 10.8082121,
+   :latitude 59.9264468,
+   :source :openstreetmap}
+  {:name "Trysil bydetun",
+   :longitude 12.2691334,
+   :latitude 61.3171324,
+   :source :openstreetmap}
+  {:name "Trysil/Engerdal museum",
+   :longitude 12.2624262,
+   :latitude 61.3151026,
+   :source :openstreetmap}
+  {:name "Træna bygdemuseum",
+   :longitude 12.0968764,
+   :latitude 66.5006433,
+   :source :openstreetmap}
+  {:name "Trøgstad bygdemuseum",
+   :longitude 11.3152544,
+   :latitude 59.6348927,
+   :source :openstreetmap}
+  {:name "Trøndelag Senter for Samtidskunst",
+   :longitude 10.4012996,
+   :latitude 63.4345652,
+   :source :openstreetmap,
+   :homepage "https://www.samtidskunst.no/"}
+  {:name "TS Museet",
+   :longitude 5.5860423,
+   :latitude 58.8422135,
+   :source :openstreetmap,
+   :homepage "https://www.tsmaskin.no/stangeland-gruppen/ts-museet"}
+  {:name "Tungenes fyr",
+   :longitude 5.5816001,
+   :latitude 59.0356879,
+   :source :openstreetmap,
+   :homepage "https://www.jaermuseet.no/tungenesfyr/"}
+  {:name "Tuomainengården",
+   :longitude 29.7695585,
+   :latitude 70.0752153,
+   :source :openstreetmap}
+  {:name "Tvedestrand museum - Forvaltergården",
+   :longitude 8.9304067,
+   :latitude 58.6223575,
+   :source :openstreetmap}
+  {:name "Tveitetunet",
+   :longitude 7.5291047,
+   :latitude 59.1926753,
+   :source :openstreetmap,
+   :homepage
+   "https://www.setesdalsmuseet.no/faste-utstillingar/tveitetunet-museum/"}
+  {:name "Tylldalen bygdetun",
+   :longitude 10.8036798,
+   :latitude 62.1432734,
+   :source :openstreetmap}
+  {:name "Tynset bygdemuseum",
+   :longitude 10.7942494,
+   :latitude 62.2778629,
+   :source :openstreetmap}
+  {:name "Tyssedal Hotel",
+   :longitude 6.5567307,
+   :latitude 60.1161547,
+   :source :openstreetmap}
+  {:name "Tyssedal kraftverk",
+   :longitude 6.555747,
+   :latitude 60.1216965,
+   :source :openstreetmap,
+   :homepage "https://www.nvim.no/"}
+  {:name "Tønsberg Sjøfartshistoriske Senter",
+   :longitude 10.4045645,
+   :latitude 59.2672564,
+   :source :openstreetmap}
+  {:name "Tørfoss kvengård",
+   :longitude 21.2827078,
+   :latitude 69.6606588,
+   :source :openstreetmap}
+  {:name "TØYsentralen Galleri",
+   :longitude 10.9964128,
+   :latitude 62.4096608,
+   :source :openstreetmap,
+   :homepage "https://www.xn--tysentralen-ggb.no/"}
+  {:name "Ulefos hovedgård",
+   :longitude 9.2473741,
+   :latitude 59.2870014,
+   :source :openstreetmap}
+  {:name "Ullensaker museum",
+   :longitude 11.069869,
+   :latitude 60.191131,
+   :source :openstreetmap,
+   :homepage "https://mia.no/ullensaker"}
+  {:name "Universitetsmuseet i Bergen",
+   :longitude 5.321563,
+   :latitude 60.387705,
+   :source :openstreetmap,
+   :homepage "https://www.universitetsmuseet.no"}
+  {:name "Urskog fort",
+   :longitude 11.5396035,
+   :latitude 59.9339448,
+   :source :openstreetmap}
+  {:name "Urskog-Hølandsbanen",
+   :longitude 11.2436743,
+   :latitude 59.9862762,
+   :source :openstreetmap,
+   :homepage "https://mia.no/tertitten/kalender"}
+  {:name "Uthaug Kunstsenter",
+   :longitude 11.0401767,
+   :latitude 60.4105779,
+   :source :openstreetmap}
+  {:name "Uthaugsgården",
+   :longitude 9.5962354,
+   :latitude 63.7255094,
+   :source :openstreetmap}
+  {:name "Utladalen Naturhus",
+   :longitude 7.8796875,
+   :latitude 61.3485186,
+   :source :openstreetmap}
+  {:name "Utstein kloster",
+   :longitude 5.5906486,
+   :latitude 59.103116,
+   :source :openstreetmap}
+  {:name "Uvdal stavkirke",
+   :longitude 8.8347794,
+   :latitude 60.2651442,
+   :source :openstreetmap,
+   :homepage "http://www.nore-og-uvdal-bygdetun.no/"}
+  {:name "Vadsø Museum",
+   :longitude 29.7496238,
+   :latitude 70.0777649,
+   :source :openstreetmap}
+  {:name "Vadsøya naturpark",
+   :longitude 29.7592474,
+   :latitude 70.0657655,
+   :source :openstreetmap}
+  {:name "Valborgsamlinga",
+   :longitude 5.5233519,
+   :latitude 62.034842,
+   :source :openstreetmap}
+  {:name "Valdres folkemuseum",
+   :longitude 9.2308376,
+   :latitude 60.9808069,
+   :source :openstreetmap,
+   :homepage "https://www.valdresmusea.no/"}
+  {:name "Vallø & omegn Historielag Museum",
+   :longitude 10.4930447,
+   :latitude 59.261088,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vallohistorie.no/2022/09/22/museet-til-vallo-og-omegn-historielag/"}
+  {:name "Vannbruksmuseum",
+   :longitude 10.2348308,
+   :latitude 61.8508739,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nasjonaleturistveger.no/no/turistvegene/rondane?attraksjon=Atnbrufossen%20Vannbruksmuseum%20"}
+  {:name "Varanger samiske museum",
+   :longitude 28.5579521,
+   :latitude 70.1724128,
+   :source :openstreetmap}
+  {:name "Varden sjøredningsmuseum",
+   :longitude 5.7735638,
+   :latitude 58.5317336,
+   :source :openstreetmap}
+  {:name "Vardø museum",
+   :longitude 31.1129969,
+   :latitude 70.3691763,
+   :source :openstreetmap}
+  {:name "Vardø museum",
+   :longitude 31.0874853,
+   :latitude 70.375969,
+   :source :openstreetmap}
+  {:name "Vardøhus festning",
+   :longitude 31.0953084,
+   :latitude 70.372115,
+   :source :openstreetmap}
+  {:name "Vega Verdensarvsenter",
+   :longitude 11.9142544,
+   :latitude 65.7138284,
+   :source :openstreetmap}
+  {:name "Vegstein gamle\nhandelssted",
+   :longitude 12.0263684,
+   :latitude 65.6860532,
+   :source :openstreetmap}
+  {:name "Vegårshei bygdetun",
+   :longitude 8.9491039,
+   :latitude 58.7458992,
+   :source :openstreetmap,
+   :homepage "https://www.vegarshei-bygdetun.no/"}
+  {:name "Veien Kulturminnepark",
+   :longitude 10.227027,
+   :latitude 60.170161,
+   :source :openstreetmap,
+   :homepage "https://buskerudmuseet.com/veien-kulturminnepark/"}
+  {:name "Velferden",
+   :longitude 6.3307534,
+   :latitude 58.3630494,
+   :source :openstreetmap,
+   :homepage "http://www.reddvelferden.org/"}
+  {:name "Velfjord bygdemuseum",
+   :longitude 12.5520542,
+   :latitude 65.4069676,
+   :source :openstreetmap}
+  {:name "Vennesla skole- og bygdemuseum",
+   :longitude 7.9672139,
+   :latitude 58.2752049,
+   :source :openstreetmap}
+  {:name "Vest-Telemark museum, Eidsborg",
+   :longitude 8.019664,
+   :latitude 59.4661935,
+   :source :openstreetmap,
+   :homepage
+   "http://www.vest-telemark.museum.no/museum/vest-telemark-museum-eidsborg-p515293"}
+  {:name "Vesterålsmuseet",
+   :longitude 14.7996643,
+   :latitude 68.5039608,
+   :source :openstreetmap}
+  {:name "Vestfoldarkivet",
+   :longitude 10.1754423,
+   :latitude 59.1332354,
+   :source :openstreetmap}
+  {:name "Vestfoldtunet",
+   :longitude 10.4040752,
+   :latitude 59.273103,
+   :source :openstreetmap,
+   :homepage "http://www.slottsfjellsmuseet.no/"}
+  {:name "Vestlandske Skolemuseum",
+   :longitude 5.7453891,
+   :latitude 58.9438518,
+   :source :openstreetmap}
+  {:name "Vestlandske sætermuseum",
+   :longitude 5.3610657,
+   :latitude 60.2559458,
+   :source :openstreetmap}
+  {:name "Vestnorsk utvandringssenter, Museumssenteret i Hordaland",
+   :longitude 5.049321,
+   :latitude 60.6844213,
+   :source :openstreetmap}
+  {:name "Vestre Sorken gårdmuseum",
+   :longitude 11.9387777,
+   :latitude 61.9721957,
+   :source :openstreetmap}
+  {:name "Veteran bensinstasjon",
+   :longitude 5.3319939,
+   :latitude 60.3855504,
+   :source :openstreetmap}
+  {:name "Veteranbilgarasje",
+   :longitude 7.2101626,
+   :latitude 62.0967456,
+   :source :openstreetmap,
+   :homepage "https://www.fjordsenter.com/"}
+  {:name "Vevelstad bygdetun",
+   :longitude 12.4529698,
+   :latitude 65.7080922,
+   :source :openstreetmap,
+   :homepage
+   "https://helgelandmuseum.no/besokssted/vevelstad-bygdetun/"}
+  {:name "Veøya prestegard og middelalderkirke",
+   :longitude 7.4272724,
+   :latitude 62.6748177,
+   :source :openstreetmap}
+  {:name "Vigatunet",
+   :longitude 6.1157774,
+   :latitude 59.209729,
+   :source :openstreetmap}
+  {:name "Villa Furulund",
+   :longitude 10.780076,
+   :latitude 59.9264225,
+   :source :openstreetmap,
+   :homepage
+   "https://www.norskbilledhoggerforening.no/foreningenoghuset"}
+  {:name "Villa Stenersen",
+   :longitude 10.69867,
+   :latitude 59.9392625,
+   :source :openstreetmap,
+   :homepage "www.villastenersen.net"}
+  {:name "VilVite",
+   :longitude 5.3291212,
+   :latitude 60.3813749,
+   :source :openstreetmap,
+   :homepage "https://www.vilvite.no/"}
+  {:name "Vindafjordmuseet",
+   :longitude 5.9230494,
+   :latitude 59.5021554,
+   :source :openstreetmap}
+  {:name "Vinje biletgalleri",
+   :longitude 7.7903305,
+   :latitude 59.6488005,
+   :source :openstreetmap}
+  {:name "Vinjestoga",
+   :longitude 7.8317634,
+   :latitude 59.6216771,
+   :source :openstreetmap}
+  {:name "Visnes Gruvemuseum",
+   :longitude 5.2214376,
+   :latitude 59.352496,
+   :source :openstreetmap,
+   :homepage "https://www.visitvisnes.no"}
+  {:name "Visningsenter havbruk",
+   :longitude 8.1340228,
+   :latitude 63.2867526,
+   :source :openstreetmap,
+   :homepage "https://opplevsmola.com/velkommen"}
+  {:name "Visningsrommet USF",
+   :longitude 5.3085167,
+   :latitude 60.3958646,
+   :source :openstreetmap,
+   :homepage
+   "https://usf.no/no/visningsrommet-usf/visningsrommet-usf/"}
+  {:name "Vistnes skole",
+   :longitude 5.5835486,
+   :latitude 58.9891621,
+   :source :openstreetmap}
+  {:name "Vistnestunet",
+   :longitude 5.574995,
+   :latitude 58.9849326,
+   :source :openstreetmap}
+  {:name "Vitenfabrikken",
+   :longitude 5.7309825,
+   :latitude 58.8514045,
+   :source :openstreetmap}
+  {:name "Vitensenteret Sørlandet",
+   :longitude 8.773097,
+   :latitude 58.459651,
+   :source :openstreetmap,
+   :homepage "https://vitensor.no/"}
+  {:name "Vognhallen",
+   :longitude 5.4683456,
+   :latitude 60.1834665,
+   :source :openstreetmap}
+  {:name "Volda bygdetun",
+   :longitude 6.0777705,
+   :latitude 62.1355833,
+   :source :openstreetmap}
+  {:name "Vollahaugen",
+   :longitude 9.1376365,
+   :latitude 63.4962279,
+   :source :openstreetmap}
+  {:name "Vollan Gård",
+   :longitude 10.3035343,
+   :latitude 62.5696043,
+   :source :openstreetmap}
+  {:name "Vollen Kystkultursenter",
+   :longitude 10.4922554,
+   :latitude 59.8067443,
+   :source :openstreetmap,
+   :homepage "https://mia.no/oslofjordmuseet/"}
+  {:name "Vonheim",
+   :longitude 12.3637643,
+   :latitude 64.2495831,
+   :source :openstreetmap}
+  {:name "Vorlandssaga",
+   :longitude 5.2444799,
+   :latitude 59.6248132,
+   :source :openstreetmap}
+  {:name "Vrådal Slusemuseum",
+   :longitude 8.4693506,
+   :latitude 59.3176558,
+   :source :openstreetmap,
+   :homepage "https://www.slusemuseet.no/"}
+  {:name "Vy galleri Randi Antonsen",
+   :longitude 11.3077396,
+   :latitude 63.9059872,
+   :source :openstreetmap}
+  {:name "Várdobáiki muséum",
+   :longitude 16.5731845,
+   :latitude 68.5831904,
+   :source :openstreetmap}
+  {:name "Våle prestegård",
+   :longitude 10.2709662,
+   :latitude 59.4255922,
+   :source :openstreetmap,
+   :homepage "https://vålehistorielag.no/varingle-prestegaringrd.html"}
+  {:name "Waldehuset",
+   :longitude 6.1670617,
+   :latitude 62.4724213,
+   :source :openstreetmap}
+  {:name "Wangbrygga",
+   :longitude 13.3814547,
+   :latitude 66.2172835,
+   :source :openstreetmap}
+  {:name "WildPhoto Travel",
+   :longitude 15.641569,
+   :latitude 78.220756,
+   :source :openstreetmap,
+   :homepage "https://wildphoto.com/"}
+  {:name "Wonderwall Galleri",
+   :longitude 5.276891,
+   :latitude 59.412892,
+   :source :openstreetmap,
+   :homepage "https://www.wonderwall.no/"}
+  {:name "WWII Museum",
+   :longitude 15.9889312,
+   :latitude 68.4102828,
+   :source :openstreetmap}
+  {:name "Ytre Arna museum",
+   :longitude 5.438241,
+   :latitude 60.460441,
+   :source :openstreetmap,
+   :homepage "http://www.ytrearnamuseum.no/"}
+  {:name "Ytste Skotet museumsgard",
+   :longitude 6.8945237,
+   :latitude 62.4145184,
+   :source :openstreetmap}
+  {:name "Ytterøy bygdetun",
+   :longitude 11.0900134,
+   :latitude 63.7756567,
+   :source :openstreetmap}
+  {:name "Z museum",
+   :longitude 8.5234866,
+   :latitude 59.011269,
+   :source :openstreetmap}
+  {:name "Znedi",
+   :longitude 10.4212383,
+   :latitude 63.4378073,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/galleriznedi/"}
+  {:name "Ådalsbruk motormuseum",
+   :longitude 11.3091468,
+   :latitude 60.7935169,
+   :source :openstreetmap,
+   :homepage "http://www.bmuseum.no/"}
+  {:name "Ål bygdemuseum",
+   :longitude 8.5396969,
+   :latitude 60.6297593,
+   :source :openstreetmap}
+  {:name "Ål Stavkyrkjemuseum",
+   :longitude 8.5536413,
+   :latitude 60.6279263,
+   :source :openstreetmap}
+  {:name "Ålen bygdemuseum",
+   :longitude 11.2888549,
+   :latitude 62.8360441,
+   :source :openstreetmap}
+  {:name "Ålesund museum",
+   :longitude 6.1569632,
+   :latitude 62.4716084,
+   :source :openstreetmap,
+   :homepage "https://www.aalesunds.museum.no/"}
+  {:name "Åmdals Verk gruver",
+   :longitude 8.033032,
+   :latitude 59.371124,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visittelemark.no/vest-telemark-museum/informasjon/produkt/amdals-verk-gruver-p515303"}
+  {:name "Årskog museum",
+   :longitude 5.3359642,
+   :latitude 59.9373944,
+   :source :openstreetmap}
+  {:name "Åsen bygdemuseum",
+   :longitude 8.6959398,
+   :latitude 62.9393989,
+   :source :openstreetmap}
+  {:name "Åsen Museum og Historielag",
+   :longitude 11.0577642,
+   :latitude 63.6124595,
+   :source :openstreetmap,
+   :homepage "https://aasenhistorie.no/"}
+  {:name "Ægir havbruksutstilling",
+   :longitude 9.1117711,
+   :latitude 63.5176138,
+   :source :openstreetmap,
+   :homepage "https://kystmuseet.no/aegir"}
+  {:name "Øksnes museum",
+   :longitude 15.2826233,
+   :latitude 68.9015879,
+   :source :openstreetmap}
+  {:name "Ørje Gamle veistasjon",
+   :longitude 11.6594636,
+   :latitude 59.4710415,
+   :source :openstreetmap}
+  {:name "Ørnes gamle handelssted",
+   :longitude 13.7047859,
+   :latitude 66.8683612,
+   :source :openstreetmap}
+  {:name "Østbysaga",
+   :longitude 11.476716,
+   :latitude 64.0360967,
+   :source :openstreetmap}
+  {:name "Østfold Kunstsenter / Galleri ØKS",
+   :longitude 10.94622,
+   :latitude 59.20685,
+   :source :openstreetmap}
+  {:name "Østhasselstrand Redningsstasjon",
+   :longitude 6.6479907,
+   :latitude 58.0719655,
+   :source :openstreetmap}
+  {:name "Øvingsparken",
+   :longitude 5.3445947,
+   :latitude 60.3797565,
+   :source :openstreetmap,
+   :homepage
+   "https://www.bergen.kommune.no/portico/bookingfrontend/?menuaction=bookingfrontend.uibuilding.show&id=70&click_history=1dc41fdf808c03b949703634947f6ffc"}
+  {:name "Øye mølle",
+   :longitude 6.9053395,
+   :latitude 58.2895263,
+   :source :openstreetmap}
+  {:name "Øyfjell bygdemuseum",
+   :longitude 8.1849495,
+   :latitude 59.5669948,
+   :source :openstreetmap}
+  {:name "Øystad kvernhusanlegg",
+   :longitude 6.6350683,
+   :latitude 59.516355,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

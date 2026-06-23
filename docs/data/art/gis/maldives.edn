@@ -1,0 +1,15 @@
+{:count 1,
+ :country "maldives",
+ :country-code "MV",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:34.032106Z",
+ :positions
+ [{:name "National Centre for the Arts",
+   :longitude 73.5130847,
+   :latitude 4.1749035,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

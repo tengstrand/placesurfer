@@ -1,0 +1,38 @@
+{:count 4,
+ :country "liberia",
+ :country-code "LR",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:56.359403Z",
+ :positions
+ [{:name "Bong Photo Star",
+   :longitude -9.4713306,
+   :latitude 6.9989833,
+   :source :openstreetmap,
+   :locality "Gbarnga",
+   :image "",
+   :description ""}
+  {:name "National Museum of Liberia",
+   :longitude -10.8039392,
+   :latitude 6.3168466,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Nature Arts Palace",
+   :longitude -8.9895904,
+   :latitude 7.2330322,
+   :source :openstreetmap,
+   :locality "Ganta",
+   :image "",
+   :description ""}
+  {:name "Sam Arts Production Center",
+   :longitude -9.4793128,
+   :latitude 7.0097881,
+   :source :openstreetmap,
+   :locality "Gbarnga",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

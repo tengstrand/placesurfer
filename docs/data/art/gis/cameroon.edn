@@ -1,0 +1,299 @@
+{:count 70,
+ :country "cameroon",
+ :country-code "CM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:05:57.965065Z",
+ :positions
+ [{:name "Alliance franco_ camerounaise",
+   :longitude 9.2443377,
+   :latitude 4.1538811,
+   :source :openstreetmap}
+  {:name "Animaux empaillés",
+   :longitude 11.4878007,
+   :latitude 3.8648282,
+   :source :openstreetmap}
+  {:name "Annie Kadji Art Gallery",
+   :longitude 9.7027746,
+   :latitude 4.0275536,
+   :source :openstreetmap}
+  {:name "Artelier de maconnerie du lycee technique",
+   :longitude 11.3689567,
+   :latitude 4.033312,
+   :source :openstreetmap}
+  {:name "Artisanay d'adoumri",
+   :longitude 13.7720733,
+   :latitude 9.2499533,
+   :source :openstreetmap}
+  {:name "Artisant;Centre Artisanal",
+   :longitude 13.3948749,
+   :latitude 9.3063141,
+   :source :openstreetmap}
+  {:name "Association socio culturelle bafung de l'ocean",
+   :longitude 9.9182655,
+   :latitude 2.9582484,
+   :source :openstreetmap}
+  {:name "Atelier 4",
+   :longitude 11.5085614,
+   :latitude 3.8856403,
+   :source :openstreetmap}
+  {:name "Atelier de menuiserie privee d'OKOLA",
+   :longitude 11.378094,
+   :latitude 4.0290473,
+   :source :openstreetmap}
+  {:name "Bandjoun Station",
+   :longitude 10.4269011,
+   :latitude 5.4228517,
+   :source :openstreetmap}
+  {:name "Blackitude Museum",
+   :longitude 11.5184328,
+   :latitude 3.8643269,
+   :source :openstreetmap}
+  {:name "Case communautaire",
+   :longitude 12.3198389,
+   :latitude 5.5392804,
+   :source :openstreetmap}
+  {:name "Centre Culturel",
+   :longitude 11.331458,
+   :latitude 3.5022301,
+   :source :openstreetmap}
+  {:name "Centre Culturel Camerounai",
+   :longitude 11.5148085,
+   :latitude 3.8808367,
+   :source :openstreetmap}
+  {:name "Centre Culturel Chrétien",
+   :longitude 11.5455257,
+   :latitude 3.8963913,
+   :source :openstreetmap}
+  {:name "Centre Culturel de La Valee du Logone",
+   :longitude 15.2243458,
+   :latitude 10.3318576,
+   :source :openstreetmap}
+  {:name "Centre Culturel De Lopere",
+   :longitude 13.4040118,
+   :latitude 9.3115532,
+   :source :openstreetmap}
+  {:name "Centre de promotion de la femme de mbankomo",
+   :longitude 11.405888,
+   :latitude 3.7971538,
+   :source :openstreetmap}
+  {:name "CERCLE MBANSOA",
+   :longitude 11.5253229,
+   :latitude 3.9137929,
+   :source :openstreetmap}
+  {:name
+   "Commission Nationale Pour La Promotion Du Bilinguisme Et Du Multiculturalisme",
+   :longitude 11.5218014,
+   :latitude 3.8610361,
+   :source :openstreetmap}
+  {:name "Complexe culturel \"Le passe simple\" chez Amerigo",
+   :longitude 11.5204855,
+   :latitude 3.8551096,
+   :source :openstreetmap}
+  {:name "Complexe Islamique Du Repentir",
+   :longitude 11.5498505,
+   :latitude 3.8744576,
+   :source :openstreetmap}
+  {:name "Djamtâri",
+   :longitude 11.4629199,
+   :latitude 3.8603888,
+   :source :openstreetmap}
+  {:name "Doual'art",
+   :longitude 9.6869138,
+   :latitude 4.0437735,
+   :source :openstreetmap,
+   :homepage "http://www.doualart.org",
+   :locality "Douala"}
+  {:name "Espace lumière",
+   :longitude 11.5028843,
+   :latitude 3.8527688,
+   :source :openstreetmap}
+  {:name "FIIA",
+   :longitude 11.4955762,
+   :latitude 3.8413291,
+   :source :openstreetmap}
+  {:name "Foyer Communautaire Babouin Tout De Yaoundé",
+   :longitude 11.5429608,
+   :latitude 3.8840518,
+   :source :openstreetmap}
+  {:name "Foyer Communautaire de Baham",
+   :longitude 10.4134606,
+   :latitude 5.4762596,
+   :source :openstreetmap}
+  {:name "Foyer Culturel",
+   :longitude 11.5446343,
+   :latitude 3.8618449,
+   :source :openstreetmap}
+  {:name "Foyer Culturel Bamendjou",
+   :longitude 13.3764043,
+   :latitude 9.3054513,
+   :source :openstreetmap}
+  {:name "Foyer Général Baloum De Yaounde",
+   :longitude 11.546789,
+   :latitude 3.886515,
+   :source :openstreetmap}
+  {:name "Foyer social et culturel baleng",
+   :longitude 9.9243728,
+   :latitude 2.9603728,
+   :source :openstreetmap}
+  {:name "Foyer socioculturel de la famille bansoa a kribi",
+   :longitude 9.916067,
+   :latitude 2.9533994,
+   :source :openstreetmap}
+  {:name "Foyer Touristique et Culturel de Bwadibo",
+   :longitude 9.5774269,
+   :latitude 4.0991317,
+   :source :openstreetmap}
+  {:name "Galerie ART Negro",
+   :longitude 11.5171949,
+   :latitude 3.8914348,
+   :source :openstreetmap}
+  {:name "Galerie MAM",
+   :longitude 9.6883375,
+   :latitude 4.0370453,
+   :source :openstreetmap}
+  {:name "Geecca",
+   :longitude 11.5341979,
+   :latitude 3.8747054,
+   :source :openstreetmap}
+  {:name "Handicraft training Centre",
+   :longitude 10.380166,
+   :latitude 5.98663,
+   :source :openstreetmap}
+  {:name "Jean Felicien Gacha Foundation Museum",
+   :longitude 10.5327672,
+   :latitude 5.0837374,
+   :source :openstreetmap}
+  {:name "Lawanat du Plateau",
+   :longitude 13.3809053,
+   :latitude 9.3198053,
+   :source :openstreetmap}
+  {:name "Maison de Ndiva",
+   :longitude 9.8247459,
+   :latitude 2.569456,
+   :source :openstreetmap}
+  {:name "Muse Sultanat",
+   :longitude 15.033168,
+   :latitude 12.0802569,
+   :source :openstreetmap}
+  {:name "Museum",
+   :longitude 10.1046988,
+   :latitude 6.0031518,
+   :source :openstreetmap}
+  {:name "Musée",
+   :longitude 11.5238549,
+   :latitude 3.8898475,
+   :source :openstreetmap}
+  {:name "Musée de Arts et Traditions Bamoun",
+   :longitude 10.9007552,
+   :latitude 5.7234043,
+   :source :openstreetmap}
+  {:name "Musée de Bandjoun",
+   :longitude 10.4096939,
+   :latitude 5.3492285,
+   :source :openstreetmap}
+  {:name "Musée de Kaélé",
+   :longitude 14.4474301,
+   :latitude 10.1147148,
+   :source :openstreetmap}
+  {:name "Musée de la Chefferie Bangoua",
+   :longitude 10.4792262,
+   :latitude 5.207144,
+   :source :openstreetmap}
+  {:name "Musée des arts nègres",
+   :longitude 11.1672813,
+   :latitude 2.8125365,
+   :source :openstreetmap}
+  {:name "Musée des beaux arts",
+   :longitude 12.7327487,
+   :latitude 3.3751204,
+   :source :openstreetmap}
+  {:name "Musée des Civilisations",
+   :longitude 10.0654164,
+   :latitude 5.4501124,
+   :source :openstreetmap}
+  {:name "Musée du Groupement Bafou",
+   :longitude 10.1133864,
+   :latitude 5.4743956,
+   :source :openstreetmap}
+  {:name "Musée Ecologique du Millénaire",
+   :longitude 11.65113,
+   :latitude 3.9403642,
+   :source :openstreetmap,
+   :homepage "http://www.ecologicalmuseum.org/"}
+  {:name
+   "Musée Ethnographique et d'Histoire des Peuples de la Forêt d'Afrique Centrale",
+   :longitude 11.5236132,
+   :latitude 3.8712749,
+   :source :openstreetmap}
+  {:name "Musée Maritime",
+   :longitude 9.6844456,
+   :latitude 4.0386218,
+   :source :openstreetmap,
+   :homepage "http://museemaritime.cm"}
+  {:name "Musée National",
+   :longitude 11.5155616,
+   :latitude 3.8604695,
+   :source :openstreetmap,
+   :homepage "http://www.nationalmuseum.cm/"}
+  {:name "N'dah Gouoah Sih",
+   :longitude 11.5110077,
+   :latitude 3.9529047,
+   :source :openstreetmap}
+  {:name "Office Régional du Tourisme de l'Ouest",
+   :longitude 10.4183703,
+   :latitude 5.4705786,
+   :source :openstreetmap}
+  {:name "Palais de la Culture Sawa",
+   :longitude 9.6909943,
+   :latitude 4.04475,
+   :source :openstreetmap}
+  {:name "Palais des Sultans Bamouns",
+   :longitude 10.9011939,
+   :latitude 5.7330272,
+   :source :openstreetmap}
+  {:name "PREPAFEN Maison communautaire",
+   :longitude 14.1806614,
+   :latitude 10.5368974,
+   :source :openstreetmap}
+  {:name "Press Handicraft centre",
+   :longitude 10.3567367,
+   :latitude 5.9958358,
+   :source :openstreetmap}
+  {:name "Rustick-home Musée Tmc",
+   :longitude 11.4830667,
+   :latitude 3.8783899,
+   :source :openstreetmap}
+  {:name "Salle de conférences et de fêtes de Pitoaré",
+   :longitude 14.3039881,
+   :latitude 10.5941677,
+   :source :openstreetmap}
+  {:name "Salle De Fêtes",
+   :longitude 11.4702898,
+   :latitude 3.8717611,
+   :source :openstreetmap}
+  {:name "Salle De Fêtes",
+   :longitude 11.4651263,
+   :latitude 3.8769026,
+   :source :openstreetmap}
+  {:name "Salle De Fêtes Ndougsa Palace",
+   :longitude 11.4587791,
+   :latitude 3.8730175,
+   :source :openstreetmap}
+  {:name "Salle Des Fêtes De Ngousso La Citadelle",
+   :longitude 11.54999,
+   :latitude 3.8983117,
+   :source :openstreetmap}
+  {:name "Toefl and ielts",
+   :longitude 9.2885823,
+   :latitude 4.1554745,
+   :source :openstreetmap}
+  {:name "wimbum cultural and development association",
+   :longitude 9.2098245,
+   :latitude 4.0324232,
+   :source :openstreetmap,
+   :locality "guinnes mile 2"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,33 @@
+{:count 3,
+ :country "panama",
+ :country-code "PA",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T10:19:59.457287Z",
+ :positions
+ [{:name "Corotü @ Parque Omar",
+   :longitude -79.5076324635556,
+   :latitude 9.00245510140762,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/34880",
+   :locality "Ciudad de Panamá"}
+  {:name "Guayacän @ Parque Omar",
+   :longitude -79.5120631415679,
+   :latitude 8.999132513740193,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/34881",
+   :locality "Ciudad de Panamá"}
+  {:name "La Ejecutiva",
+   :longitude -79.59103690850075,
+   :latitude 8.915922184573958,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/34885",
+   :locality "Veracruz"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

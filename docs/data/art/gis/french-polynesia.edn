@@ -1,0 +1,85 @@
+{:count 18,
+ :country "french-polynesia",
+ :country-code "PF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:11:54.163781Z",
+ :positions
+ [{:name "Archeological Museum",
+   :longitude -140.0819382,
+   :latitude -8.8283434,
+   :source :openstreetmap}
+  {:name "Centre Artisanal",
+   :longitude -149.584924,
+   :latitude -17.6905043,
+   :source :openstreetmap}
+  {:name "Centre Jacques Brel",
+   :longitude -139.0405994,
+   :latitude -9.8046284,
+   :source :openstreetmap}
+  {:name "Galerie Van der Heyde",
+   :longitude -149.8169726,
+   :latitude -17.4870635,
+   :source :openstreetmap}
+  {:name "Galerie Winkler",
+   :longitude -149.567743,
+   :latitude -17.5397978,
+   :source :openstreetmap}
+  {:name "Grelet",
+   :longitude -138.6846486,
+   :latitude -10.5135699,
+   :source :openstreetmap}
+  {:name "Maison de James Norman Hall",
+   :longitude -149.519216,
+   :latitude -17.524608,
+   :source :openstreetmap}
+  {:name "Maison du Pétroglyphe",
+   :longitude -139.5269066,
+   :latitude -8.9304634,
+   :source :openstreetmap}
+  {:name "Musee de rose corser",
+   :longitude -140.1091124,
+   :latitude -8.9169627,
+   :source :openstreetmap}
+  {:name "Musée comunal de Ua Huka",
+   :longitude -139.5544301,
+   :latitude -8.9315166,
+   :source :openstreetmap}
+  {:name "Musée de la Mer",
+   :longitude -139.5345241,
+   :latitude -8.9240696,
+   :source :openstreetmap}
+  {:name "Musée de la perle Robert Wan",
+   :longitude -149.5736433,
+   :latitude -17.5430627,
+   :source :openstreetmap}
+  {:name "Musée de Marine",
+   :longitude -151.7454802,
+   :latitude -16.470099,
+   :source :openstreetmap}
+  {:name "Musée de Tahiti et des Îles",
+   :longitude -149.6136282,
+   :latitude -17.6317889,
+   :source :openstreetmap,
+   :homepage "https://www.museetahiti.pf/"}
+  {:name "Musée du Coquillage",
+   :longitude -151.3704241,
+   :latitude -16.8748299,
+   :source :openstreetmap}
+  {:name "Musée Sainte-Thérèse",
+   :longitude -151.4435371,
+   :latitude -16.7301476,
+   :source :openstreetmap}
+  {:name "Te Fare Natura",
+   :longitude -149.850725,
+   :latitude -17.5186971,
+   :source :openstreetmap,
+   :homepage "https://www.farenatura.org"}
+  {:name "Écomusée du Fare Pote’e",
+   :longitude -150.9920194,
+   :latitude -16.6975624,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

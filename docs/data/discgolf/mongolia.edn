@@ -1,0 +1,23 @@
+{:count 1,
+ :country "mongolia",
+ :country-code "MN",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T10:10:54.242593Z",
+ :positions
+ [{:name "Turgen club",
+   :longitude 106.8277930762215,
+   :latitude 47.770004532304114,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/36329",
+   :locality "Ulaanbaatar",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

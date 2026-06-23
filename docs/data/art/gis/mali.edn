@@ -1,0 +1,110 @@
+{:count 24,
+ :country "mali",
+ :country-code "ML",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:40.919281Z",
+ :positions
+ [{:name "Case Ronde",
+   :longitude -7.9276383,
+   :latitude 12.2646554,
+   :source :openstreetmap}
+  {:name "Centre Bembanyouma",
+   :longitude -6.2508177,
+   :latitude 13.4479892,
+   :source :openstreetmap}
+  {:name "Centre Culturel Siraba TOGOLA",
+   :longitude -7.4845501,
+   :latitude 11.4217043,
+   :source :openstreetmap}
+  {:name "Centre Culturel Sénoufo de Sikasso",
+   :longitude -5.6761451,
+   :latitude 11.3256835,
+   :source :openstreetmap}
+  {:name "Centre de loisir de Bandiagara",
+   :longitude -3.6057049,
+   :latitude 14.3497565,
+   :source :openstreetmap}
+  {:name "Centre de loisir ex CEDERAB",
+   :longitude -3.0060187,
+   :latitude 16.7677831,
+   :source :openstreetmap}
+  {:name "Espace Culturel",
+   :longitude -5.9926235,
+   :latitude 14.2516477,
+   :source :openstreetmap}
+  {:name "Fomburi Dogon Museum",
+   :longitude -2.9404174,
+   :latitude 14.9780551,
+   :source :openstreetmap}
+  {:name "Foyer de Manantali",
+   :longitude -10.4483271,
+   :latitude 13.2014647,
+   :source :openstreetmap}
+  {:name "Galerie Medina",
+   :longitude -7.9956691,
+   :latitude 12.6546386,
+   :source :openstreetmap}
+  {:name "Grotte Préhistorique du Point G",
+   :longitude -7.9914196,
+   :latitude 12.6616466,
+   :source :openstreetmap}
+  {:name "Institut Français Du Mali",
+   :longitude -8.0047087,
+   :latitude 12.6377949,
+   :source :openstreetmap,
+   :homepage "https://www.institutfrancaismali.org/"}
+  {:name "Maison Africaine de la Photographie",
+   :longitude -7.9700196,
+   :latitude 12.5963614,
+   :source :openstreetmap}
+  {:name "Maison de Heinrich-Barth",
+   :longitude -3.0062534,
+   :latitude 16.77255,
+   :source :openstreetmap}
+  {:name "Museum Almansur",
+   :longitude -3.0094476,
+   :latitude 16.7720594,
+   :source :openstreetmap}
+  {:name "MUSO KUNDA",
+   :longitude -7.9527707,
+   :latitude 12.6677787,
+   :source :openstreetmap}
+  {:name "Musée Ali Farka Toure",
+   :longitude -3.9696505,
+   :latitude 15.9434632,
+   :source :openstreetmap}
+  {:name "Musée de Djenné",
+   :longitude -4.5556205,
+   :latitude 13.9063751,
+   :source :openstreetmap}
+  {:name "Musée National",
+   :longitude -7.9995924,
+   :latitude 12.6584191,
+   :source :openstreetmap,
+   :locality "Bamako"}
+  {:name "Musée régional de Sikasso",
+   :longitude -5.6852399,
+   :latitude 11.31432,
+   :source :openstreetmap}
+  {:name "Musée Régional des Masques et Marionnettes de Ségou",
+   :longitude -6.2775474,
+   :latitude 13.4371651,
+   :source :openstreetmap,
+   :locality "Ségou"}
+  {:name "Nouveau Musée du Sahel",
+   :longitude -0.0443213,
+   :latitude 16.282624,
+   :source :openstreetmap}
+  {:name "Salle de Spectacle",
+   :longitude -5.4651743,
+   :latitude 12.3866411,
+   :source :openstreetmap}
+  {:name "Vestibule du Mandé",
+   :longitude -8.3409738,
+   :latitude 12.3784232,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

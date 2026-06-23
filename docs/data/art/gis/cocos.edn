@@ -1,0 +1,15 @@
+{:count 1,
+ :country "cocos",
+ :country-code "CC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:07:59.014899Z",
+ :positions
+ [{:name "The Barge Art Gallery",
+   :longitude 96.8196508,
+   :latitude -12.1527116,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

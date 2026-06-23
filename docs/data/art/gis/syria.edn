@@ -1,0 +1,232 @@
+{:count 53,
+ :country "syria",
+ :country-code "SY",
+ :dataset :art,
+ :generated-at "2026-05-26T06:35:32.758329Z",
+ :positions
+ [{:name "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+   :longitude 37.1568538,
+   :latitude 36.1966973,
+   :source :openstreetmap}
+  {:name "Art Studio",
+   :longitude 36.3178156,
+   :latitude 33.5211305,
+   :source :openstreetmap}
+  {:name "blue house",
+   :longitude 36.3206716,
+   :latitude 33.5302645,
+   :source :openstreetmap}
+  {:name "Deniz Müzesi",
+   :longitude 36.1635733,
+   :latitude 36.5939393,
+   :source :openstreetmap,
+   :homepage "https://iskenderundenizmuzesi.dzkk.tsk.tr",
+   :locality "Hatay"}
+  {:name "Hatay Arkeoloji Müzesi",
+   :longitude 36.1836824,
+   :latitude 36.2213602,
+   :source :openstreetmap,
+   :homepage
+   "https://muze.gov.tr/muze-detay?SectionId=HTY01&DistId=HTY",
+   :locality "Antakya"}
+  {:name "Hatay Şehir Müzesi",
+   :longitude 36.1601524,
+   :latitude 36.2019181,
+   :source :openstreetmap,
+   :homepage "https://www.meclis.com.tr"}
+  {:name "Musadağ Müzesi",
+   :longitude 35.9751502,
+   :latitude 36.115622,
+   :source :openstreetmap}
+  {:name "National Museum of Aleppo",
+   :longitude 37.1502641,
+   :latitude 36.2035173,
+   :source :openstreetmap}
+  {:name "Necmi Asfuroglu Antakya Museum",
+   :longitude 36.1741994,
+   :latitude 36.2110662,
+   :source :openstreetmap}
+  {:name "somar",
+   :longitude 36.7383859,
+   :latitude 34.753135,
+   :source :openstreetmap}
+  {:name "The waterwheels of Al-Asharna",
+   :longitude 36.3947024,
+   :latitude 35.2868246,
+   :source :openstreetmap}
+  {:name "מוזאון ארכיאולוגי גולן",
+   :longitude 35.6883275,
+   :latitude 32.9953996,
+   :source :openstreetmap}
+  {:name "תל סאקי",
+   :longitude 35.8306447,
+   :latitude 32.8660485,
+   :source :openstreetmap}
+  {:name "البيمارستان النوري",
+   :longitude 36.3035735,
+   :latitude 33.5102509,
+   :source :openstreetmap}
+  {:name "الحمامات الرومانية",
+   :longitude 37.0533132,
+   :latitude 35.0119131,
+   :source :openstreetmap}
+  {:name "الدوار الشرقي",
+   :longitude 36.7173409,
+   :latitude 35.2648342,
+   :source :openstreetmap}
+  {:name "المتحف الآرامي",
+   :longitude 36.5110864,
+   :latitude 33.8218185,
+   :source :openstreetmap}
+  {:name "المتحف الحربي",
+   :longitude 36.2911841,
+   :latitude 33.5130145,
+   :source :openstreetmap,
+   :locality "دمشق"}
+  {:name "المتحف الوطني",
+   :longitude 35.772196,
+   :latitude 35.517661,
+   :source :openstreetmap}
+  {:name "المتحف الوطني",
+   :longitude 40.1330029,
+   :latitude 35.3408687,
+   :source :openstreetmap}
+  {:name "المتحف الوطني",
+   :longitude 36.7541768,
+   :latitude 35.1399915,
+   :source :openstreetmap}
+  {:name "المركز الثقافي",
+   :longitude 36.598465,
+   :latitude 35.3746402,
+   :source :openstreetmap,
+   :locality "كفرزيتا"}
+  {:name "المركز الثقافي العربي بدبسي فرج",
+   :longitude 38.1612988,
+   :latitude 35.8757764,
+   :source :openstreetmap,
+   :locality "دبسي فرج"}
+  {:name "الملتقى الاحترافي للنحت على الرمل",
+   :longitude 35.7567115,
+   :latitude 35.5470532,
+   :source :openstreetmap}
+  {:name "الملعب الكبير",
+   :longitude 36.7106135,
+   :latitude 35.2621528,
+   :source :openstreetmap}
+  {:name "بانوراما حرب تشرين",
+   :longitude 36.3211893,
+   :latitude 33.5354477,
+   :source :openstreetmap}
+  {:name "بيت فتحي",
+   :longitude 37.1736832,
+   :latitude 36.2050468,
+   :source :openstreetmap}
+  {:name "جامع الفتح",
+   :longitude 37.1973021,
+   :latitude 36.2004841,
+   :source :openstreetmap}
+  {:name "جامع سد اللوز",
+   :longitude 37.1813749,
+   :latitude 36.2093218,
+   :source :openstreetmap}
+  {:name "حديقة الأنسة رضية",
+   :longitude 36.5918466,
+   :latitude 34.6788659,
+   :source :openstreetmap}
+  {:name "خان أسعد باشا",
+   :longitude 36.3066711,
+   :latitude 33.5093059,
+   :source :openstreetmap}
+  {:name "خان الحرير",
+   :longitude 37.1552232,
+   :latitude 36.1997932,
+   :source :openstreetmap}
+  {:name "درعا",
+   :longitude 36.4413819,
+   :latitude 32.5826145,
+   :source :openstreetmap}
+  {:name "صالة الفن المعتصر",
+   :longitude 36.3132387,
+   :latitude 33.5264772,
+   :source :openstreetmap}
+  {:name "غالري أيام",
+   :longitude 36.2372672,
+   :latitude 33.4963249,
+   :source :openstreetmap}
+  {:name "قصر العظم",
+   :longitude 36.7533554,
+   :latitude 35.1340054,
+   :source :openstreetmap}
+  {:name "قصر شمسي پاشا",
+   :longitude 36.6977033,
+   :latitude 34.768545,
+   :source :openstreetmap}
+  {:name "كنيسة مار ضومط",
+   :longitude 36.3393068,
+   :latitude 34.8139215,
+   :source :openstreetmap}
+  {:name "متحف التقاليد الشعبية",
+   :longitude 37.1565206,
+   :latitude 36.2059965,
+   :source :openstreetmap}
+  {:name "متحف الرقة",
+   :longitude 39.0167238,
+   :latitude 35.9458348,
+   :source :openstreetmap}
+  {:name "متحف السريا بالنبك",
+   :longitude 36.731826,
+   :latitude 34.0234849,
+   :source :openstreetmap}
+  {:name "متحف السويداء الوطني",
+   :longitude 36.5803955,
+   :latitude 32.7211476,
+   :source :openstreetmap}
+  {:name "متحف الشهيد يوسف العظمة",
+   :longitude 36.279496,
+   :latitude 33.524565,
+   :source :openstreetmap}
+  {:name "متحف تدمر",
+   :longitude 38.2748249,
+   :latitude 34.5552672,
+   :source :openstreetmap}
+  {:name "متحف حمص",
+   :longitude 36.7112872,
+   :latitude 34.731898,
+   :source :openstreetmap}
+  {:name "متحف درعا الوطني",
+   :longitude 36.1155365,
+   :latitude 32.6246559,
+   :source :openstreetmap}
+  {:name "متحف ديرعطية",
+   :longitude 36.7732461,
+   :latitude 34.1098816,
+   :source :openstreetmap}
+  {:name "متحف طرطوس",
+   :longitude 35.878776,
+   :latitude 34.8918637,
+   :source :openstreetmap}
+  {:name "متحف عين عرب",
+   :longitude 38.3531735,
+   :latitude 36.8961625,
+   :source :openstreetmap}
+  {:name "متحف مدينة طيبة الامام",
+   :longitude 36.7062824,
+   :latitude 35.2654857,
+   :source :openstreetmap}
+  {:name "مركز يوسف عيسى للفنون التشكيلية",
+   :longitude 35.8931664,
+   :latitude 34.8764043,
+   :source :openstreetmap}
+  {:name "مسجد سراج الدين",
+   :longitude 37.1818453,
+   :latitude 36.1887173,
+   :source :openstreetmap}
+  {:name "معرض مصطفى علي (فنون ومقهى)",
+   :longitude 36.31251,
+   :latitude 33.5072599,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

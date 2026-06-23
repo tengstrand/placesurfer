@@ -1,0 +1,208 @@
+{:count 37,
+ :country "new-zealand",
+ :country-code "NZ",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:19:03.473816Z",
+ :positions
+ [{:name "10",
+   :longitude 175.6783795,
+   :latitude -40.9579143,
+   :source :openstreetmap}
+  {:name "7",
+   :longitude 175.6788624,
+   :latitude -40.9544999,
+   :source :openstreetmap}
+  {:name "Ascot Disk Golf Course",
+   :longitude 172.7049688,
+   :latitude -43.4877997,
+   :source :openstreetmap}
+  {:name "Auckland Henderson park",
+   :longitude 174.625021,
+   :latitude -36.878723,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/6976",
+   :locality "Auckland"}
+  {:name "Berhampore Hills Disc Golf Course",
+   :longitude 174.77333502212696,
+   :latitude -41.324764204005604,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/17593",
+   :locality "Wellington"}
+  {:name "Berhampore Social League",
+   :longitude 174.7708239400797,
+   :latitude -41.32529082410783,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/20839",
+   :locality "Wellington"}
+  {:name "Bottle Lake Disc Golf Course",
+   :longitude 172.6824304,
+   :latitude -43.4715755,
+   :source :openstreetmap}
+  {:name "Branford Park Disc Golf Course",
+   :longitude 173.3013684,
+   :latitude -41.2742008,
+   :source :openstreetmap}
+  {:name "Brooker Avenue Disk Golf Course",
+   :longitude 172.6976089,
+   :latitude -43.4998935,
+   :source :openstreetmap}
+  {:name "Caroline Bay Disc Golf Course",
+   :longitude 171.2529779,
+   :latitude -44.3898366,
+   :source :openstreetmap}
+  {:name "Hagley Disc Golf Course",
+   :longitude 172.6187832,
+   :latitude -43.5253554,
+   :source :openstreetmap}
+  {:name "Harcourt Park",
+   :longitude 175.0929524826239,
+   :latitude -41.11354116126519,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/37334",
+   :locality "Upper Hutt"}
+  {:name "Henderson NEW May 2017",
+   :longitude 174.62504,
+   :latitude -36.878809,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/7273",
+   :locality "Auckland"}
+  {:name "Ivon Wilson Disc Golf Course",
+   :longitude 167.7171366,
+   :latitude -45.4293611,
+   :source :openstreetmap}
+  {:name "Jardine",
+   :longitude 168.70023557181827,
+   :latitude -45.04376856891617,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/41816",
+   :locality "Queenstown"}
+  {:name "Knottingley Park Blue",
+   :longitude 171.05655632286465,
+   :latitude -44.749807356076666,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/46353"}
+  {:name "Lake Tekapo Regional Park Disc Golf Course",
+   :longitude 170.4966136,
+   :latitude -44.0078524,
+   :source :openstreetmap}
+  {:name "Linklater Reserve Disc Golf",
+   :longitude 175.6426391,
+   :latitude -40.3247769,
+   :source :openstreetmap}
+  {:name "Lismore Park",
+   :longitude 169.13607443676761,
+   :latitude -44.68946426228314,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/9125",
+   :locality "Wanaka"}
+  {:name "Matekai Golf Club",
+   :longitude 173.95152983927733,
+   :latitude -39.11717377104908,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/22793",
+   :locality "New Plymouth"}
+  {:name "McLaren Falls 18",
+   :longitude 176.0444544391744,
+   :latitude -37.81504313213904,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/13691",
+   :locality "Tauranga"}
+  {:name "mclaren falls xtreme 21",
+   :longitude 176.0442797483836,
+   :latitude -37.81421160380214,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/16482"}
+  {:name "Queenstown Gardens",
+   :longitude 168.66215229034424,
+   :latitude -45.0357458989341,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/10092",
+   :locality "Queenstown"}
+  {:name "Queenstown Tucker Beach",
+   :longitude 168.72672307730562,
+   :latitude -44.99158421420251,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/15867"}
+  {:name "Rosedale 18",
+   :longitude 174.7095816532957,
+   :latitude -36.745979717409746,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/21105",
+   :locality "Auckland"}
+  {:name "Rosedale Glow",
+   :longitude 174.71054111729723,
+   :latitude -36.74822277460736,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/32722",
+   :locality "Auckland"}
+  {:name "Scion Tree Nursery",
+   :longitude 176.27405777977782,
+   :latitude -38.149047954519965,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/24316",
+   :locality "Rotorua"}
+  {:name "Spa Park",
+   :longitude 176.08893544824576,
+   :latitude -38.67439123330919,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/24314",
+   :locality "Taupo"}
+  {:name "Twizel Disc Golf Course",
+   :longitude 170.1040434,
+   :latitude -44.2609742,
+   :source :openstreetmap}
+  {:name "Vortica Disc Golf",
+   :longitude 172.6725448,
+   :latitude -43.5257432,
+   :source :openstreetmap,
+   :homepage "https://www.vorticadiscgolf.co.nz/retail-store-chch",
+   :locality "Christchurch"}
+  {:name "Waiouru Community Disc Golf",
+   :longitude 175.67746686888097,
+   :latitude -39.4712441386893,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/36368",
+   :locality "Waiouru"}
+  {:name "Waitawa Coastal Cup Championship 27- Green + Champ",
+   :longitude 175.13881455299264,
+   :latitude -36.93946836686302,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/15288",
+   :locality "Auckland"}
+  {:name "Waitawa Coastal Cup Championship Green 18",
+   :longitude 175.1401672459682,
+   :latitude -36.93791664862106,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/15343",
+   :locality "Auckland"}
+  {:name "Waitawa Disc Golf Course",
+   :longitude 175.1340619,
+   :latitude -36.9428366,
+   :source :openstreetmap}
+  {:name "Wood Hill",
+   :longitude 172.70556999172413,
+   :latitude -43.56531125252896,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/23215",
+   :locality "Christchurch"}
+  {:name "Woodhill",
+   :longitude 174.423,
+   :latitude -36.73482,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/7195",
+   :locality "Auckland"}
+  {:name "Woodhill NEW May 2017",
+   :longitude 174.422231,
+   :latitude -36.739334,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/7269",
+   :locality "Auckland"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

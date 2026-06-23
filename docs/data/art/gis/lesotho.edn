@@ -1,0 +1,28 @@
+{:count 4,
+ :country "lesotho",
+ :country-code "LS",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:40.693076Z",
+ :positions
+ [{:name "Dinosaur Footprints",
+   :longitude 27.692991,
+   :latitude -30.3950582,
+   :source :openstreetmap}
+  {:name "Kolonyama Corporatives Society",
+   :longitude 27.7406622,
+   :latitude -29.0611497,
+   :source :openstreetmap}
+  {:name "LHDA Information Center",
+   :longitude 28.5065109,
+   :latitude -29.3440398,
+   :source :openstreetmap}
+  {:name "Morija Museum & Archives",
+   :longitude 27.5088475,
+   :latitude -29.6263121,
+   :source :openstreetmap,
+   :homepage "http://www.morija.co.ls/museum/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

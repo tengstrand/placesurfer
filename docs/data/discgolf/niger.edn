@@ -1,0 +1,23 @@
+{:count 1,
+ :country "niger",
+ :country-code "NE",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T10:15:40.564964Z",
+ :positions
+ [{:name "DESIGN BY RANTALA",
+   :longitude 8.725521281988051,
+   :latitude 17.767690721921042,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/24579",
+   :locality "Tchirozérine",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

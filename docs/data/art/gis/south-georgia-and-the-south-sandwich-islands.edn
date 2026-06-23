@@ -1,0 +1,18 @@
+{:count 1,
+ :country "south-georgia-and-the-south-sandwich-islands",
+ :country-code "GS",
+ :dataset :art,
+ :generated-at "2026-05-26T06:32:45.877781Z",
+ :positions
+ [{:name "The Carr Maritime Gallery",
+   :longitude -36.5079471,
+   :latitude -54.2802108,
+   :source :openstreetmap,
+   :homepage
+   "https://sgmuseum.gs/index.php?title=South_Georgia_Museum",
+   :locality "Grytviken"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

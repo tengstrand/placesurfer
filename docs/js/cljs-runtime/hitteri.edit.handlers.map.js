@@ -1,0 +1,919 @@
+goog.provide('hitteri.edit.handlers.map');
+hitteri.edit.handlers.map.popup_opts = (function hitteri$edit$handlers$map$popup_opts(s){
+return new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"source-label","source-label",585601639),hitteri.i18n.interface$.t.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"locale","locale",-2115712697).cljs$core$IFn$_invoke$arity$2(s,new cljs.core.Keyword(null,"en","en",88457073)),new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)], 0))], null);
+});
+hitteri.edit.handlers.map.update_map_center_zoom = (9);
+hitteri.edit.handlers.map.map_page_QMARK_ = (function hitteri$edit$handlers$map$map_page_QMARK_(page){
+return cljs.core.contains_QMARK_(new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"home","home",-74557309),null,new cljs.core.Keyword(null,"topic","topic",-1960480691),null,new cljs.core.Keyword(null,"country","country",312965309),null], null), null),page);
+});
+hitteri.edit.handlers.map.valid_topic_QMARK_ = (function hitteri$edit$handlers$map$valid_topic_QMARK_(topic){
+return cljs.core.contains_QMARK_(cljs.core.set(hitteri.topic.interface$.topic_keys()),topic);
+});
+hitteri.edit.handlers.map.coords_from_update_form = (function hitteri$edit$handlers$map$coords_from_update_form(s){
+var form = new cljs.core.Keyword(null,"update-form","update-form",475718790).cljs$core$IFn$_invoke$arity$1(s);
+var lon = hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(form));
+var lat = hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form));
+if(((typeof lon === 'number') && (typeof lat === 'number'))){
+return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat], null);
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.coords_from_update_url_form = (function hitteri$edit$handlers$map$coords_from_update_url_form(s){
+var temp__5825__auto__ = new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673).cljs$core$IFn$_invoke$arity$1(s);
+if(cljs.core.truth_(temp__5825__auto__)){
+var form = temp__5825__auto__;
+var lon = hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(form));
+var lat = hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form));
+if(((typeof lon === 'number') && (typeof lat === 'number'))){
+return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat], null);
+} else {
+return null;
+}
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.coords_for_pending_pin = (function hitteri$edit$handlers$map$coords_for_pending_pin(s){
+if(cljs.core.truth_(new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673).cljs$core$IFn$_invoke$arity$1(s))){
+var or__5025__auto__ = hitteri.edit.handlers.map.coords_from_update_url_form(s);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return hitteri.edit.handlers.map.coords_from_update_form(s);
+}
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.next_pending_row_id_BANG_ = (function hitteri$edit$handlers$map$next_pending_row_id_BANG_(){
+return cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(hitteri.app_ui.interface$.state._BANG_update_pending_id_seq,cljs.core.dec);
+});
+hitteri.edit.handlers.map.pending_place__GT_map_position = (function hitteri$edit$handlers$map$pending_place__GT_map_position(place,update_topic){
+return new cljs.core.PersistentArrayMap(null, 8, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"locality","locality",842809377),new cljs.core.Keyword(null,"locality","locality",842809377).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"source","source",-433931539),new cljs.core.Keyword(null,"source","source",-433931539).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"topic","topic",-1960480691),update_topic,new cljs.core.Keyword(null,"marker-topic","marker-topic",652240154),new cljs.core.Keyword(null,"url-pin","url-pin",924738382),new cljs.core.Keyword(null,"pending-id","pending-id",1999041996),new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(place)], null);
+});
+hitteri.edit.handlers.map.deleted_row__GT_map_position = (function hitteri$edit$handlers$map$deleted_row__GT_map_position(row,update_topic){
+var temp__5825__auto__ = hitteri.edit.interface$.coords.row_lon_lat(row);
+if(cljs.core.truth_(temp__5825__auto__)){
+var map__40036 = temp__5825__auto__;
+var map__40036__$1 = cljs.core.__destructure_map(map__40036);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40036__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40036__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var G__40037 = new cljs.core.PersistentArrayMap(null, 7, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),longitude,new cljs.core.Keyword(null,"latitude","latitude",394867543),latitude,new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(row),new cljs.core.Keyword(null,"locality","locality",842809377),new cljs.core.Keyword(null,"locality","locality",842809377).cljs$core$IFn$_invoke$arity$1(row),new cljs.core.Keyword(null,"source","source",-433931539),new cljs.core.Keyword(null,"source","source",-433931539).cljs$core$IFn$_invoke$arity$1(row),new cljs.core.Keyword(null,"topic","topic",-1960480691),update_topic,new cljs.core.Keyword(null,"marker-topic","marker-topic",652240154),new cljs.core.Keyword(null,"removed","removed",609626430)], null);
+var G__40037__$1 = (cljs.core.truth_(new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40037,new cljs.core.Keyword(null,"row-id","row-id",246619473),new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row)):G__40037);
+if(cljs.core.truth_(new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(row))){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40037__$1,new cljs.core.Keyword(null,"pending-id","pending-id",1999041996),new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(row));
+} else {
+return G__40037__$1;
+}
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.client_deleted_at_coords_QMARK_ = (function hitteri$edit$handlers$map$client_deleted_at_coords_QMARK_(s,longitude,latitude){
+return hitteri.edit.interface$.match.coords_match_deleted_row_at_QMARK_(new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(s),new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(s),longitude,latitude,hitteri.edit.interface$.rows.row_marked_deleted_QMARK_);
+});
+hitteri.edit.handlers.map.disk_tombstone_at_coords_QMARK_ = (function hitteri$edit$handlers$map$disk_tombstone_at_coords_QMARK_(s,longitude,latitude){
+return hitteri.edit.interface$.match.coords_match_deleted_row_at_QMARK_(new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(s),new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(s),longitude,latitude,hitteri.edit.interface$.rows.saved_delete_row_QMARK_);
+});
+hitteri.edit.handlers.map.position_hidden_on_update_map_QMARK_ = (function hitteri$edit$handlers$map$position_hidden_on_update_map_QMARK_(s,position){
+var map__40038 = position;
+var map__40038__$1 = cljs.core.__destructure_map(map__40038);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40038__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40038__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+return ((typeof longitude === 'number') && (((typeof latitude === 'number') && (((hitteri.edit.handlers.map.disk_tombstone_at_coords_QMARK_(s,longitude,latitude)) || (hitteri.edit.handlers.map.client_deleted_at_coords_QMARK_(s,longitude,latitude)))))));
+});
+hitteri.edit.handlers.map.client_deleted_map_positions = (function hitteri$edit$handlers$map$client_deleted_map_positions(s){
+var topic = new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(s);
+if(cljs.core.truth_(topic)){
+return cljs.core.reduce.cljs$core$IFn$_invoke$arity$3((function (acc,row){
+if(((hitteri.edit.interface$.rows.row_marked_deleted_QMARK_(row)) && ((!((hitteri.edit.interface$.coords.row_lon_lat(row) == null)))))){
+var pos = hitteri.edit.handlers.map.deleted_row__GT_map_position(row,topic);
+var dup_QMARK_ = cljs.core.some((function (existing){
+return hitteri.edit.interface$.match.coords_exact_match_QMARK_(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(pos),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(pos),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(existing),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(existing));
+}),acc);
+if(cljs.core.truth_(dup_QMARK_)){
+return acc;
+} else {
+return cljs.core.conj.cljs$core$IFn$_invoke$arity$2(acc,pos);
+}
+} else {
+return acc;
+}
+}),cljs.core.PersistentVector.EMPTY,cljs.core.concat.cljs$core$IFn$_invoke$arity$2(hitteri.edit.handlers.rows.as_update_rows(new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(s)),hitteri.edit.handlers.rows.as_update_pending_places(new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(s))));
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.pending_map_positions = (function hitteri$edit$handlers$map$pending_map_positions(s){
+var topic = new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(s);
+if(cljs.core.truth_(topic)){
+return cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__40039_SHARP_){
+return hitteri.edit.handlers.map.pending_place__GT_map_position(p1__40039_SHARP_,topic);
+}),cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (place){
+return (((!((hitteri.edit.interface$.coords.row_lon_lat(place) == null)))) && ((!(hitteri.edit.interface$.rows.row_marked_deleted_QMARK_(place)))));
+}),hitteri.edit.handlers.rows.as_update_pending_places(new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(s))));
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.saved_row__GT_map_position = (function hitteri$edit$handlers$map$saved_row__GT_map_position(row,update_topic){
+var temp__5825__auto__ = hitteri.edit.interface$.coords.row_lon_lat(row);
+if(cljs.core.truth_(temp__5825__auto__)){
+var map__40040 = temp__5825__auto__;
+var map__40040__$1 = cljs.core.__destructure_map(map__40040);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40040__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40040__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+if((((!(hitteri.edit.interface$.rows.row_marked_deleted_QMARK_(row)))) && ((!(hitteri.edit.interface$.rows.saved_delete_row_QMARK_(row)))))){
+var G__40041 = new cljs.core.PersistentArrayMap(null, 6, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),longitude,new cljs.core.Keyword(null,"latitude","latitude",394867543),latitude,new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(row),new cljs.core.Keyword(null,"locality","locality",842809377),new cljs.core.Keyword(null,"locality","locality",842809377).cljs$core$IFn$_invoke$arity$1(row),new cljs.core.Keyword(null,"source","source",-433931539),new cljs.core.Keyword(null,"source","source",-433931539).cljs$core$IFn$_invoke$arity$1(row),new cljs.core.Keyword(null,"topic","topic",-1960480691),update_topic], null);
+var G__40041__$1 = (cljs.core.truth_(new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40041,new cljs.core.Keyword(null,"row-id","row-id",246619473),new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row)):G__40041);
+if(cljs.core.truth_(new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(row))){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40041__$1,new cljs.core.Keyword(null,"pending-id","pending-id",1999041996),new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(row));
+} else {
+return G__40041__$1;
+}
+} else {
+return null;
+}
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.update_topic_positions = (function hitteri$edit$handlers$map$update_topic_positions(s){
+var temp__5825__auto__ = new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(s);
+if(cljs.core.truth_(temp__5825__auto__)){
+var topic = temp__5825__auto__;
+if(hitteri.edit.pure.topics.pins_topic_QMARK_(topic)){
+return null;
+} else {
+var rows = hitteri.edit.handlers.rows.as_update_rows(new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(s));
+if(cljs.core.seq(rows)){
+return cljs.core.vec(cljs.core.keep.cljs$core$IFn$_invoke$arity$2((function (p1__40042_SHARP_){
+return hitteri.edit.handlers.map.saved_row__GT_map_position(p1__40042_SHARP_,topic);
+}),rows));
+} else {
+return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__40043_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40043_SHARP_));
+}),new cljs.core.Keyword(null,"positions","positions",-1380538434).cljs$core$IFn$_invoke$arity$1(s)));
+}
+}
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.update_map_positions = (function hitteri$edit$handlers$map$update_map_positions(s){
+if(hitteri.edit.pure.topics.pins_topic_QMARK_(new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(s))){
+return hitteri.pin_ui.interface$.handlers.map.pins_only_map_positions.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([s], 0));
+} else {
+return cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__40044_SHARP_){
+return hitteri.edit.handlers.map.position_hidden_on_update_map_QMARK_(s,p1__40044_SHARP_);
+}),(function (){var or__5025__auto__ = hitteri.edit.handlers.map.update_topic_positions(s);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return cljs.core.PersistentVector.EMPTY;
+}
+})())),(function (){var or__5025__auto__ = hitteri.edit.handlers.map.pending_map_positions(s);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return cljs.core.PersistentVector.EMPTY;
+}
+})()),(function (){var or__5025__auto__ = hitteri.edit.handlers.map.client_deleted_map_positions(s);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return cljs.core.PersistentVector.EMPTY;
+}
+})());
+}
+});
+hitteri.edit.handlers.map.register_current_url_pending_place = (function hitteri$edit$handlers$map$register_current_url_pending_place(s){
+if(cljs.core.not(new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673).cljs$core$IFn$_invoke$arity$1(s))){
+return s;
+} else {
+var temp__5823__auto__ = hitteri.edit.handlers.map.coords_for_pending_pin(s);
+if(cljs.core.truth_(temp__5823__auto__)){
+var map__40045 = temp__5823__auto__;
+var map__40045__$1 = cljs.core.__destructure_map(map__40045);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40045__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40045__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+if(hitteri.edit.interface$.match.coords_exist_in_update_rows_QMARK_(longitude,latitude,new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(s))){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352),cljs.core.PersistentVector.EMPTY);
+} else {
+var url_form = new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673).cljs$core$IFn$_invoke$arity$1(s);
+var place = new cljs.core.PersistentArrayMap(null, 8, [new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(url_form),new cljs.core.Keyword(null,"locality","locality",842809377),new cljs.core.Keyword(null,"locality","locality",842809377).cljs$core$IFn$_invoke$arity$1(url_form),new cljs.core.Keyword(null,"homepage","homepage",-1646828249),new cljs.core.Keyword(null,"homepage","homepage",-1646828249).cljs$core$IFn$_invoke$arity$1(url_form),new cljs.core.Keyword(null,"description","description",-1428560544),(function (){var or__5025__auto__ = new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(url_form);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
+})(),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),longitude,new cljs.core.Keyword(null,"latitude","latitude",394867543),latitude,new cljs.core.Keyword(null,"source","source",-433931539),new cljs.core.Keyword(null,"manual","manual",-237370608),new cljs.core.Keyword(null,"url-form","url-form",426694546),url_form], null);
+var places = hitteri.edit.handlers.rows.as_update_pending_places(new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(s));
+var idx = hitteri.edit.interface$.match.find_pending_place_index(places,longitude,latitude);
+var pending_id = (((!((idx == null))))?new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(cljs.core.nth.cljs$core$IFn$_invoke$arity$2(places,idx)):hitteri.edit.handlers.rows.next_pending_row_id_BANG_());
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(place,new cljs.core.Keyword(null,"pending-id","pending-id",1999041996),pending_id),new cljs.core.Keyword(null,"action","action",-811238024),new cljs.core.Keyword(null,"added","added",2057651688))], null));
+}
+} else {
+return s;
+}
+}
+});
+hitteri.edit.handlers.map.prune_pending_places_matching_rows = (function hitteri$edit$handlers$map$prune_pending_places_matching_rows(s){
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352),(function (places){
+return cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (place){
+return hitteri.edit.interface$.match.coords_exist_in_update_rows_QMARK_(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(s));
+}),hitteri.edit.handlers.rows.as_update_pending_places(places)));
+}));
+});
+hitteri.edit.handlers.map.clear_orphaned_pending_selection = (function hitteri$edit$handlers$map$clear_orphaned_pending_selection(s){
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(s,new cljs.core.Keyword(null,"update-selected-row-id","update-selected-row-id",-407969563),null,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"update-selected-row","update-selected-row",-1179126191),null,new cljs.core.Keyword(null,"update-row-baseline","update-row-baseline",-1034088672),null,new cljs.core.Keyword(null,"update-form","update-form",475718790),hitteri.app_ui.interface$.state.default_update_form(),new cljs.core.Keyword(null,"update-form-field-errors","update-form-field-errors",-1735528956),cljs.core.PersistentArrayMap.EMPTY,new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673),null], 0)),new cljs.core.Keyword(null,"update-form-reset-token","update-form-reset-token",1427860817),cljs.core.fnil.cljs$core$IFn$_invoke$arity$2(cljs.core.inc,(0)));
+});
+hitteri.edit.handlers.map.reconcile_orphaned_pending_selection = (function hitteri$edit$handlers$map$reconcile_orphaned_pending_selection(s){
+var selected_id = new cljs.core.Keyword(null,"update-selected-row-id","update-selected-row-id",-407969563).cljs$core$IFn$_invoke$arity$1(s);
+if((((!((selected_id == null)))) && ((((selected_id < (0))) && ((hitteri.edit.handlers.rows.find_update_display_row(s,selected_id) == null)))))){
+var temp__5823__auto__ = hitteri.edit.handlers.map.coords_from_update_form(s);
+if(cljs.core.truth_(temp__5823__auto__)){
+var coords = temp__5823__auto__;
+if(hitteri.edit.interface$.match.coords_exist_in_update_rows_QMARK_(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(coords),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(coords),new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(s))){
+return hitteri.edit.handlers.rows.select_saved_row_for_exact_url_coords(s,new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(coords),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(coords));
+} else {
+return hitteri.edit.handlers.map.clear_orphaned_pending_selection(s);
+}
+} else {
+return hitteri.edit.handlers.map.clear_orphaned_pending_selection(s);
+}
+} else {
+return s;
+}
+});
+hitteri.edit.handlers.map.refresh_update_pending_places_STAR_ = (function hitteri$edit$handlers$map$refresh_update_pending_places_STAR_(reselect_row_QMARK_,p__40046){
+var map__40047 = p__40046;
+var map__40047__$1 = cljs.core.__destructure_map(map__40047);
+var recenter_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40047__$1,new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),true);
+cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(hitteri.app_ui.interface$.state._BANG_state,(function (s){
+var selected_id = new cljs.core.Keyword(null,"update-selected-row-id","update-selected-row-id",-407969563).cljs$core$IFn$_invoke$arity$1(s);
+var s__$1 = hitteri.edit.handlers.map.reconcile_orphaned_pending_selection(hitteri.edit.handlers.map.prune_pending_places_matching_rows(hitteri.edit.handlers.map.register_current_url_pending_place(s)));
+var temp__5823__auto__ = hitteri.edit.handlers.map.coords_for_pending_pin(s__$1);
+if(cljs.core.truth_(temp__5823__auto__)){
+var map__40048 = temp__5823__auto__;
+var map__40048__$1 = cljs.core.__destructure_map(map__40048);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40048__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40048__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+if(cljs.core.truth_((function (){var and__5023__auto__ = cljs.core.not(reselect_row_QMARK_);
+if(and__5023__auto__){
+var and__5023__auto____$1 = selected_id;
+if(cljs.core.truth_(and__5023__auto____$1)){
+return hitteri.edit.interface$.rows.saved_update_row_id_QMARK_(selected_id);
+} else {
+return and__5023__auto____$1;
+}
+} else {
+return and__5023__auto__;
+}
+})())){
+return s__$1;
+} else {
+return hitteri.edit.handlers.rows.select_row_for_url_coords(s__$1,longitude,latitude);
+}
+} else {
+return s__$1;
+}
+}));
+
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+hitteri.app_ui.interface$.effects.sync_update_map_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),recenter_QMARK_], null)], 0));
+
+return hitteri.app_ui.interface$.effects.render_BANG_();
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.refresh_update_pending_places_BANG_ = (function hitteri$edit$handlers$map$refresh_update_pending_places_BANG_(var_args){
+var G__40050 = arguments.length;
+switch (G__40050) {
+case 0:
+return hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$0();
+
+break;
+case 1:
+return hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
+
+break;
+case 2:
+return hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
+
+break;
+default:
+throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(arguments.length)].join('')));
+
+}
+});
+
+(hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$0 = (function (){
+return hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$2(false,null);
+}));
+
+(hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$1 = (function (reselect_row_QMARK_){
+if(cljs.core.map_QMARK_(reselect_row_QMARK_)){
+return hitteri.edit.handlers.map.refresh_update_pending_places_STAR_(false,reselect_row_QMARK_);
+} else {
+return hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$2(reselect_row_QMARK_,null);
+}
+}));
+
+(hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$core$IFn$_invoke$arity$2 = (function (reselect_row_QMARK_,opts){
+var map__40051 = (function (){var or__5025__auto__ = opts;
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return cljs.core.PersistentArrayMap.EMPTY;
+}
+})();
+var map__40051__$1 = cljs.core.__destructure_map(map__40051);
+var recenter_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40051__$1,new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),true);
+return hitteri.edit.handlers.map.refresh_update_pending_places_STAR_(reselect_row_QMARK_,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),recenter_QMARK_], null));
+}));
+
+(hitteri.edit.handlers.map.refresh_update_pending_places_BANG_.cljs$lang$maxFixedArity = 2);
+
+hitteri.edit.handlers.map.run_update_map_pin_sync_BANG_ = (function hitteri$edit$handlers$map$run_update_map_pin_sync_BANG_(p__40052){
+var map__40053 = p__40052;
+var map__40053__$1 = cljs.core.__destructure_map(map__40053);
+var recenter_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40053__$1,new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),true);
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+if(hitteri.edit.pure.topics.pins_topic_QMARK_(new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+return hitteri.app_ui.interface$.effects.sync_update_map_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),recenter_QMARK_], null)], 0));
+} else {
+hitteri.edit.handlers.map.refresh_update_pending_places_STAR_(false,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),recenter_QMARK_], null));
+
+var seq__40054 = cljs.core.seq(new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [(0),(80),(200),(500)], null));
+var chunk__40055 = null;
+var count__40056 = (0);
+var i__40057 = (0);
+while(true){
+if((i__40057 < count__40056)){
+var delay_ms = chunk__40055.cljs$core$IIndexed$_nth$arity$2(null,i__40057);
+setTimeout(((function (seq__40054,chunk__40055,count__40056,i__40057,delay_ms,map__40053,map__40053__$1,recenter_QMARK_){
+return (function (){
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+if(hitteri.edit.pure.topics.pins_topic_QMARK_(new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+return null;
+} else {
+return hitteri.edit.handlers.map.refresh_update_pending_places_STAR_(false,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),recenter_QMARK_], null));
+}
+} else {
+return null;
+}
+});})(seq__40054,chunk__40055,count__40056,i__40057,delay_ms,map__40053,map__40053__$1,recenter_QMARK_))
+,delay_ms);
+
+
+var G__40099 = seq__40054;
+var G__40100 = chunk__40055;
+var G__40101 = count__40056;
+var G__40102 = (i__40057 + (1));
+seq__40054 = G__40099;
+chunk__40055 = G__40100;
+count__40056 = G__40101;
+i__40057 = G__40102;
+continue;
+} else {
+var temp__5825__auto__ = cljs.core.seq(seq__40054);
+if(temp__5825__auto__){
+var seq__40054__$1 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(seq__40054__$1)){
+var c__5548__auto__ = cljs.core.chunk_first(seq__40054__$1);
+var G__40103 = cljs.core.chunk_rest(seq__40054__$1);
+var G__40104 = c__5548__auto__;
+var G__40105 = cljs.core.count(c__5548__auto__);
+var G__40106 = (0);
+seq__40054 = G__40103;
+chunk__40055 = G__40104;
+count__40056 = G__40105;
+i__40057 = G__40106;
+continue;
+} else {
+var delay_ms = cljs.core.first(seq__40054__$1);
+setTimeout(((function (seq__40054,chunk__40055,count__40056,i__40057,delay_ms,seq__40054__$1,temp__5825__auto__,map__40053,map__40053__$1,recenter_QMARK_){
+return (function (){
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+if(hitteri.edit.pure.topics.pins_topic_QMARK_(new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+return null;
+} else {
+return hitteri.edit.handlers.map.refresh_update_pending_places_STAR_(false,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),recenter_QMARK_], null));
+}
+} else {
+return null;
+}
+});})(seq__40054,chunk__40055,count__40056,i__40057,delay_ms,seq__40054__$1,temp__5825__auto__,map__40053,map__40053__$1,recenter_QMARK_))
+,delay_ms);
+
+
+var G__40107 = cljs.core.next(seq__40054__$1);
+var G__40108 = null;
+var G__40109 = (0);
+var G__40110 = (0);
+seq__40054 = G__40107;
+chunk__40055 = G__40108;
+count__40056 = G__40109;
+i__40057 = G__40110;
+continue;
+}
+} else {
+return null;
+}
+}
+break;
+}
+}
+} else {
+return null;
+}
+});
+/**
+ * Optional opts: {:recenter? true|false}. Called with no args from legacy call sites.
+ */
+hitteri.edit.handlers.map.schedule_update_map_pin_sync_BANG_ = (function hitteri$edit$handlers$map$schedule_update_map_pin_sync_BANG_(var_args){
+var args__5755__auto__ = [];
+var len__5749__auto___40111 = arguments.length;
+var i__5750__auto___40112 = (0);
+while(true){
+if((i__5750__auto___40112 < len__5749__auto___40111)){
+args__5755__auto__.push((arguments[i__5750__auto___40112]));
+
+var G__40113 = (i__5750__auto___40112 + (1));
+i__5750__auto___40112 = G__40113;
+continue;
+} else {
+}
+break;
+}
+
+var argseq__5756__auto__ = ((((0) < args__5755__auto__.length))?(new cljs.core.IndexedSeq(args__5755__auto__.slice((0)),(0),null)):null);
+return hitteri.edit.handlers.map.schedule_update_map_pin_sync_BANG_.cljs$core$IFn$_invoke$arity$variadic(argseq__5756__auto__);
+});
+
+(hitteri.edit.handlers.map.schedule_update_map_pin_sync_BANG_.cljs$core$IFn$_invoke$arity$variadic = (function (p__40059){
+var vec__40060 = p__40059;
+var opts = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__40060,(0),null);
+var map__40063 = (function (){var or__5025__auto__ = opts;
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return cljs.core.PersistentArrayMap.EMPTY;
+}
+})();
+var map__40063__$1 = cljs.core.__destructure_map(map__40063);
+var recenter_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40063__$1,new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),true);
+return hitteri.edit.handlers.map.run_update_map_pin_sync_BANG_(new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),recenter_QMARK_], null));
+}));
+
+(hitteri.edit.handlers.map.schedule_update_map_pin_sync_BANG_.cljs$lang$maxFixedArity = (0));
+
+/** @this {Function} */
+(hitteri.edit.handlers.map.schedule_update_map_pin_sync_BANG_.cljs$lang$applyTo = (function (seq40058){
+var self__5735__auto__ = this;
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40058));
+}));
+
+hitteri.edit.handlers.map.center_on_update_map_BANG_ = (function hitteri$edit$handlers$map$center_on_update_map_BANG_(coords){
+return hitteri.map_ui.interface$.center_on_position_BANG_(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(coords,new cljs.core.Keyword(null,"zoom","zoom",-1827487038),hitteri.edit.handlers.map.update_map_center_zoom,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true], 0)));
+});
+hitteri.edit.handlers.map.sync_update_map_BANG_ = (function hitteri$edit$handlers$map$sync_update_map_BANG_(var_args){
+var G__40065 = arguments.length;
+switch (G__40065) {
+case 0:
+return hitteri.edit.handlers.map.sync_update_map_BANG_.cljs$core$IFn$_invoke$arity$0();
+
+break;
+case 1:
+return hitteri.edit.handlers.map.sync_update_map_BANG_.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
+
+break;
+default:
+throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(arguments.length)].join('')));
+
+}
+});
+
+(hitteri.edit.handlers.map.sync_update_map_BANG_.cljs$core$IFn$_invoke$arity$0 = (function (){
+return hitteri.edit.handlers.map.sync_update_map_BANG_.cljs$core$IFn$_invoke$arity$1(cljs.core.PersistentArrayMap.EMPTY);
+}));
+
+(hitteri.edit.handlers.map.sync_update_map_BANG_.cljs$core$IFn$_invoke$arity$1 = (function (p__40066){
+var map__40067 = p__40066;
+var map__40067__$1 = cljs.core.__destructure_map(map__40067);
+var recenter_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40067__$1,new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),true);
+var s = cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state);
+var positions = hitteri.edit.handlers.map.update_map_positions(s);
+var pins_topic_QMARK_ = hitteri.edit.pure.topics.pins_topic_QMARK_(new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(s));
+var pin_form_coords = ((pins_topic_QMARK_)?(function (){var temp__5825__auto__ = new cljs.core.Keyword(null,"pin-form","pin-form",1370425130).cljs$core$IFn$_invoke$arity$1(s);
+if(cljs.core.truth_(temp__5825__auto__)){
+var form = temp__5825__auto__;
+var temp__5825__auto____$1 = hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(form));
+if(cljs.core.truth_(temp__5825__auto____$1)){
+var lon = temp__5825__auto____$1;
+var temp__5825__auto____$2 = hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form));
+if(cljs.core.truth_(temp__5825__auto____$2)){
+var lat = temp__5825__auto____$2;
+return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat], null);
+} else {
+return null;
+}
+} else {
+return null;
+}
+} else {
+return null;
+}
+})():null);
+var fit_pins_QMARK_ = ((pins_topic_QMARK_) && (((cljs.core.not(pin_form_coords)) && (cljs.core.seq(positions)))));
+hitteri.map_ui.interface$.apply_state_BANG_(new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"positions","positions",-1380538434),positions,new cljs.core.Keyword(null,"fit?","fit?",1773758200),fit_pins_QMARK_,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),fit_pins_QMARK_,new cljs.core.Keyword(null,"popup-opts","popup-opts",-1667184839),hitteri.edit.handlers.map.popup_opts(s)], null));
+
+if(cljs.core.truth_(recenter_QMARK_)){
+if(cljs.core.truth_((function (){var and__5023__auto__ = pins_topic_QMARK_;
+if(and__5023__auto__){
+return pin_form_coords;
+} else {
+return and__5023__auto__;
+}
+})())){
+return hitteri.edit.handlers.map.center_on_update_map_BANG_(pin_form_coords);
+} else {
+if((((!(pins_topic_QMARK_))) && ((!((hitteri.edit.handlers.map.coords_from_update_form(s) == null)))))){
+return hitteri.edit.handlers.map.center_on_update_map_BANG_(hitteri.edit.handlers.map.coords_from_update_form(s));
+} else {
+return null;
+}
+}
+} else {
+return null;
+}
+}));
+
+(hitteri.edit.handlers.map.sync_update_map_BANG_.cljs$lang$maxFixedArity = 1);
+
+hitteri.edit.handlers.map.schedule_center_on_position_BANG_ = (function hitteri$edit$handlers$map$schedule_center_on_position_BANG_(var_args){
+var G__40070 = arguments.length;
+switch (G__40070) {
+case 1:
+return hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
+
+break;
+case 2:
+return hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
+
+break;
+default:
+throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(arguments.length)].join('')));
+
+}
+});
+
+(hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$1 = (function (position){
+return hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$2(position,cljs.core.PersistentArrayMap.EMPTY);
+}));
+
+(hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$2 = (function (position,p__40071){
+var map__40072 = p__40071;
+var map__40072__$1 = cljs.core.__destructure_map(map__40072);
+var delay_ms = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40072__$1,new cljs.core.Keyword(null,"delay-ms","delay-ms",-59253516),(80));
+var preserve_zoom_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40072__$1,new cljs.core.Keyword(null,"preserve-zoom?","preserve-zoom?",-1650190790));
+if(((cljs.core.map_QMARK_(position)) && (((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position) === 'number') && (typeof new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position) === 'number'))))){
+return setTimeout((function (){
+if(cljs.core.truth_(preserve_zoom_QMARK_)){
+return hitteri.map_ui.interface$.center_on_position_BANG_(new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position),new cljs.core.Keyword(null,"preserve-zoom?","preserve-zoom?",-1650190790),true,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true], null));
+} else {
+return hitteri.edit.handlers.map.center_on_update_map_BANG_(new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position)], null));
+}
+}),delay_ms);
+} else {
+return null;
+}
+}));
+
+(hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$lang$maxFixedArity = 2);
+
+hitteri.edit.handlers.map.retry_update_row_popup_BANG_ = (function hitteri$edit$handlers$map$retry_update_row_popup_BANG_(var_args){
+var args__5755__auto__ = [];
+var len__5749__auto___40116 = arguments.length;
+var i__5750__auto___40117 = (0);
+while(true){
+if((i__5750__auto___40117 < len__5749__auto___40116)){
+args__5755__auto__.push((arguments[i__5750__auto___40117]));
+
+var G__40118 = (i__5750__auto___40117 + (1));
+i__5750__auto___40117 = G__40118;
+continue;
+} else {
+}
+break;
+}
+
+var argseq__5756__auto__ = ((((1) < args__5755__auto__.length))?(new cljs.core.IndexedSeq(args__5755__auto__.slice((1)),(0),null)):null);
+return hitteri.edit.handlers.map.retry_update_row_popup_BANG_.cljs$core$IFn$_invoke$arity$variadic((arguments[(0)]),argseq__5756__auto__);
+});
+
+(hitteri.edit.handlers.map.retry_update_row_popup_BANG_.cljs$core$IFn$_invoke$arity$variadic = (function (match,p__40077){
+var vec__40078 = p__40077;
+var map__40081 = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__40078,(0),null);
+var map__40081__$1 = cljs.core.__destructure_map(map__40081);
+var attempt = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40081__$1,new cljs.core.Keyword(null,"attempt","attempt",1611761308),(0));
+var delay_ms = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40081__$1,new cljs.core.Keyword(null,"delay-ms","delay-ms",-59253516),(150));
+if((attempt <= (8))){
+if(cljs.core.truth_(hitteri.map_ui.interface$.open_marker_popup_BANG_(match))){
+return null;
+} else {
+return setTimeout((function (){
+return hitteri.edit.handlers.map.retry_update_row_popup_BANG_.cljs$core$IFn$_invoke$arity$variadic(match,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"attempt","attempt",1611761308),(attempt + (1)),new cljs.core.Keyword(null,"delay-ms","delay-ms",-59253516),delay_ms], null)], 0));
+}),delay_ms);
+}
+} else {
+return null;
+}
+}));
+
+(hitteri.edit.handlers.map.retry_update_row_popup_BANG_.cljs$lang$maxFixedArity = (1));
+
+/** @this {Function} */
+(hitteri.edit.handlers.map.retry_update_row_popup_BANG_.cljs$lang$applyTo = (function (seq40074){
+var G__40075 = cljs.core.first(seq40074);
+var seq40074__$1 = cljs.core.next(seq40074);
+var self__5734__auto__ = this;
+return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__40075,seq40074__$1);
+}));
+
+/**
+ * Open the popup for an update table row, retrying until the marker is mounted.
+ */
+hitteri.edit.handlers.map.schedule_update_row_popup_BANG_ = (function hitteri$edit$handlers$map$schedule_update_row_popup_BANG_(row){
+if(cljs.core.truth_((function (){var and__5023__auto__ = row;
+if(cljs.core.truth_(and__5023__auto__)){
+return ((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(row) === 'number') && (typeof new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(row) === 'number'));
+} else {
+return and__5023__auto__;
+}
+})())){
+return hitteri.edit.handlers.map.retry_update_row_popup_BANG_(new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(row),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(row)], null));
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.normalize_map_position = (function hitteri$edit$handlers$map$normalize_map_position(raw){
+var p = ((cljs.core.map_QMARK_(raw))?raw:cljs.core.js__GT_clj.cljs$core$IFn$_invoke$arity$variadic(raw,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"keywordize-keys","keywordize-keys",1310784252),true], 0)));
+var topic_raw = new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p);
+var topic = (((topic_raw instanceof cljs.core.Keyword))?topic_raw:(((!((topic_raw == null))))?cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(cljs.core.str.cljs$core$IFn$_invoke$arity$1(topic_raw)):null
+));
+var source_raw = new cljs.core.Keyword(null,"source","source",-433931539).cljs$core$IFn$_invoke$arity$1(p);
+var source = (((source_raw instanceof cljs.core.Keyword))?source_raw:(((!((source_raw == null))))?cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(cljs.core.str.cljs$core$IFn$_invoke$arity$1(source_raw)):null
+));
+var lon = new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(p);
+var lat = new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(p);
+var G__40091 = p;
+var G__40091__$1 = ((hitteri.edit.handlers.map.valid_topic_QMARK_(topic))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40091,new cljs.core.Keyword(null,"topic","topic",-1960480691),topic):G__40091);
+var G__40091__$2 = (((!(hitteri.edit.handlers.map.valid_topic_QMARK_(topic))))?cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(G__40091__$1,new cljs.core.Keyword(null,"topic","topic",-1960480691)):G__40091__$1);
+var G__40091__$3 = (cljs.core.truth_(source)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40091__$2,new cljs.core.Keyword(null,"source","source",-433931539),source):G__40091__$2);
+var G__40091__$4 = ((typeof lon === 'string')?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40091__$3,new cljs.core.Keyword(null,"longitude","longitude",-1268876372),hitteri.edit.interface$.coords.parse_decimal(lon)):G__40091__$3);
+if(typeof lat === 'string'){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40091__$4,new cljs.core.Keyword(null,"latitude","latitude",394867543),hitteri.edit.interface$.coords.parse_decimal(lat));
+} else {
+return G__40091__$4;
+}
+});
+hitteri.edit.handlers.map.position__GT_update_form = (function hitteri$edit$handlers$map$position__GT_update_form(position){
+var map__40092 = position;
+var map__40092__$1 = cljs.core.__destructure_map(map__40092);
+var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40092__$1,new cljs.core.Keyword(null,"name","name",1843675177));
+var locality = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40092__$1,new cljs.core.Keyword(null,"locality","locality",842809377));
+var homepage = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40092__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249));
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40092__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40092__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40092__$1,new cljs.core.Keyword(null,"source","source",-433931539));
+return new cljs.core.PersistentArrayMap(null, 7, [new cljs.core.Keyword(null,"google-url","google-url",1168346589),"",new cljs.core.Keyword(null,"name","name",1843675177),(function (){var or__5025__auto__ = name;
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
+})(),new cljs.core.Keyword(null,"locality","locality",842809377),(function (){var or__5025__auto__ = locality;
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
+})(),new cljs.core.Keyword(null,"homepage","homepage",-1646828249),(function (){var or__5025__auto__ = homepage;
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
+})(),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),((typeof longitude === 'number')?cljs.core.str.cljs$core$IFn$_invoke$arity$1(longitude):(function (){var or__5025__auto__ = longitude;
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
+})()),new cljs.core.Keyword(null,"latitude","latitude",394867543),((typeof latitude === 'number')?cljs.core.str.cljs$core$IFn$_invoke$arity$1(latitude):(function (){var or__5025__auto__ = latitude;
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
+})()),new cljs.core.Keyword(null,"source","source",-433931539),hitteri.edit.interface$.baseline.normalize_update_source(source)], null);
+});
+hitteri.edit.handlers.map.apply_update_from_map_position_BANG_ = (function hitteri$edit$handlers$map$apply_update_from_map_position_BANG_(var_args){
+var G__40094 = arguments.length;
+switch (G__40094) {
+case 1:
+return hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
+
+break;
+case 2:
+return hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
+
+break;
+default:
+throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(arguments.length)].join('')));
+
+}
+});
+
+(hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$core$IFn$_invoke$arity$1 = (function (position){
+return hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$core$IFn$_invoke$arity$2(position,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"url-draft?","url-draft?",-1516200338),true,new cljs.core.Keyword(null,"select-existing-row?","select-existing-row?",1789681293),true], null));
+}));
+
+(hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$core$IFn$_invoke$arity$2 = (function (position,p__40095){
+var map__40096 = p__40095;
+var map__40096__$1 = cljs.core.__destructure_map(map__40096);
+var url_draft_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40096__$1,new cljs.core.Keyword(null,"url-draft?","url-draft?",-1516200338),true);
+var select_existing_row_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40096__$1,new cljs.core.Keyword(null,"select-existing-row?","select-existing-row?",1789681293),true);
+hitteri.app_ui.interface$.state.clear_update_status_BANG_();
+
+var topic = new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(position);
+var form = hitteri.edit.handlers.map.position__GT_update_form(position);
+var url_form = cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(form,new cljs.core.Keyword(null,"google-url","google-url",1168346589));
+var lon = ((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position) === 'number')?new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position):hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position)));
+var lat = ((typeof new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position) === 'number')?new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position):hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position)));
+cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(hitteri.app_ui.interface$.state._BANG_state,(function (s){
+var country = hitteri.app_ui.interface$.state.normalize_country_code((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"country-code","country-code",-927451124).cljs$core$IFn$_invoke$arity$1(position);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+var or__5025__auto____$1 = ((((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(s))) && ((!((new cljs.core.Keyword(null,"update-country-code","update-country-code",1545858722).cljs$core$IFn$_invoke$arity$1(s) == null))))))?new cljs.core.Keyword(null,"update-country-code","update-country-code",1545858722).cljs$core$IFn$_invoke$arity$1(s):null);
+if(cljs.core.truth_(or__5025__auto____$1)){
+return or__5025__auto____$1;
+} else {
+var or__5025__auto____$2 = new cljs.core.Keyword(null,"country-iso","country-iso",-1029731117).cljs$core$IFn$_invoke$arity$1(s);
+if(cljs.core.truth_(or__5025__auto____$2)){
+return or__5025__auto____$2;
+} else {
+return "SE";
+}
+}
+}
+})());
+var s__$1 = (function (){var G__40097 = cljs.core.update.cljs$core$IFn$_invoke$arity$3(cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"update-topic","update-topic",-406732688),topic),new cljs.core.Keyword(null,"update-country-code","update-country-code",1545858722),country),new cljs.core.Keyword(null,"update-form","update-form",475718790),form),new cljs.core.Keyword(null,"update-form-reset-token","update-form-reset-token",1427860817),cljs.core.inc);
+var G__40097__$1 = (cljs.core.truth_(url_draft_QMARK_)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40097,new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673),url_form):G__40097);
+if(cljs.core.not(url_draft_QMARK_)){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__40097__$1,new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673),null);
+} else {
+return G__40097__$1;
+}
+})();
+if(cljs.core.truth_((function (){var and__5023__auto__ = select_existing_row_QMARK_;
+if(cljs.core.truth_(and__5023__auto__)){
+return ((typeof lon === 'number') && (typeof lat === 'number'));
+} else {
+return and__5023__auto__;
+}
+})())){
+var temp__5823__auto__ = hitteri.edit.handlers.rows.find_display_row_in_state(s__$1,lon,lat);
+if(cljs.core.truth_(temp__5823__auto__)){
+var row = temp__5823__auto__;
+return hitteri.edit.handlers.rows.select_update_display_row(s__$1,new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row),row);
+} else {
+return s__$1;
+}
+} else {
+return s__$1;
+}
+}));
+
+if(((typeof lon === 'number') && (((typeof lat === 'number') && (clojure.string.blank_QMARK_(cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"locality","locality",842809377).cljs$core$IFn$_invoke$arity$1(position)))))))){
+hitteri.app_ui.interface$.effects.resolve_update_location_from_coordinates_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([lon,lat], 0));
+} else {
+}
+
+return position;
+}));
+
+(hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$lang$maxFixedArity = 2);
+
+hitteri.edit.handlers.map.pick_update_position_from_map_BANG_ = (function hitteri$edit$handlers$map$pick_update_position_from_map_BANG_(raw_position){
+if(cljs.core.truth_(new cljs.core.Keyword(null,"backend-online?","backend-online?",-200708729).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))){
+var normalized = hitteri.edit.handlers.map.normalize_map_position(raw_position);
+var position = cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(normalized,new cljs.core.Keyword(null,"topic","topic",-1960480691),(function (){var or__5025__auto__ = new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(normalized);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state));
+}
+})());
+var lon = ((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position) === 'number')?new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position):hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position)));
+var lat = ((typeof new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position) === 'number')?new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position):hitteri.edit.interface$.coords.parse_decimal(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position)));
+if(cljs.core.truth_(new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(position))){
+hitteri.map_ui.interface$.close_all_popups_BANG_();
+
+var temp__5823__auto__ = ((((typeof lon === 'number') && (typeof lat === 'number')))?hitteri.edit.handlers.rows.find_display_row_in_state.cljs$core$IFn$_invoke$arity$variadic(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state),lon,lat,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([false], 0)):null);
+if(cljs.core.truth_(temp__5823__auto__)){
+var row = temp__5823__auto__;
+return hitteri.edit.handlers.rows.toggle_update_row_BANG_(new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row));
+} else {
+hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$core$IFn$_invoke$arity$2(position,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"url-draft?","url-draft?",-1516200338),false,new cljs.core.Keyword(null,"select-existing-row?","select-existing-row?",1789681293),false], null));
+
+hitteri.app_ui.interface$.effects.render_BANG_();
+
+return hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$2(position,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"delay-ms","delay-ms",-59253516),(0),new cljs.core.Keyword(null,"preserve-zoom?","preserve-zoom?",-1650190790),true], null));
+}
+} else {
+return null;
+}
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.open_update_from_map_position_BANG_ = (function hitteri$edit$handlers$map$open_update_from_map_position_BANG_(raw_position){
+if(cljs.core.truth_((function (){var and__5023__auto__ = new cljs.core.Keyword(null,"backend-online?","backend-online?",-200708729).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state));
+if(cljs.core.truth_(and__5023__auto__)){
+return ((hitteri.edit.handlers.map.map_page_QMARK_(new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)))) && (cljs.core.not(hitteri.pin_ui.interface$.handlers.interaction.pin_map_position_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([raw_position], 0)))));
+} else {
+return and__5023__auto__;
+}
+})())){
+var position = hitteri.edit.handlers.map.normalize_map_position(raw_position);
+if(cljs.core.truth_(new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(position))){
+hitteri.map_ui.interface$.close_all_popups_BANG_();
+
+var was_update_QMARK_ = cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state)));
+hitteri.edit.handlers.map.apply_update_from_map_position_BANG_.cljs$core$IFn$_invoke$arity$2(position,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"url-draft?","url-draft?",-1516200338),false,new cljs.core.Keyword(null,"select-existing-row?","select-existing-row?",1789681293),false], null));
+
+cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(hitteri.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"page","page",849072397),new cljs.core.Keyword(null,"update","update",1045576396));
+
+(hitteri.edit.handlers.map.sync_marker_pick_handler_BANG_.cljs$core$IFn$_invoke$arity$0 ? hitteri.edit.handlers.map.sync_marker_pick_handler_BANG_.cljs$core$IFn$_invoke$arity$0() : hitteri.edit.handlers.map.sync_marker_pick_handler_BANG_.call(null));
+
+hitteri.app_ui.interface$.effects.render_BANG_();
+
+if(was_update_QMARK_){
+} else {
+hitteri.app_ui.interface$.effects.track_page_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"update","update",1045576396)], 0));
+}
+
+hitteri.app_ui.interface$.effects.reload_update_dataset_BANG_();
+
+if(was_update_QMARK_){
+return hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$2(position,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"delay-ms","delay-ms",-59253516),(0)], null));
+} else {
+return hitteri.edit.handlers.map.schedule_center_on_position_BANG_.cljs$core$IFn$_invoke$arity$2(position,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"delay-ms","delay-ms",-59253516),(120)], null));
+}
+} else {
+return null;
+}
+} else {
+return null;
+}
+});
+hitteri.edit.handlers.map.pick_map_position_from_map_BANG_ = (function hitteri$edit$handlers$map$pick_map_position_from_map_BANG_(raw_position){
+if(cljs.core.truth_(hitteri.pin_ui.interface$.handlers.interaction.pin_map_position_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([raw_position], 0)))){
+return hitteri.pin_ui.interface$.handlers.interaction.pick_pin_from_map_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([raw_position], 0));
+} else {
+var page = new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state));
+if(cljs.core.truth_((function (){var and__5023__auto__ = new cljs.core.Keyword(null,"backend-online?","backend-online?",-200708729).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state));
+if(cljs.core.truth_(and__5023__auto__)){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),page);
+} else {
+return and__5023__auto__;
+}
+})())){
+return hitteri.edit.handlers.map.pick_update_position_from_map_BANG_(raw_position);
+} else {
+if(cljs.core.truth_((function (){var and__5023__auto__ = new cljs.core.Keyword(null,"backend-online?","backend-online?",-200708729).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(hitteri.app_ui.interface$.state._BANG_state));
+if(cljs.core.truth_(and__5023__auto__)){
+return ((hitteri.edit.handlers.map.map_page_QMARK_(page)) && (cljs.core.not_EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"home","home",-74557309),page)));
+} else {
+return and__5023__auto__;
+}
+})())){
+return hitteri.edit.handlers.map.open_update_from_map_position_BANG_(raw_position);
+} else {
+return null;
+
+}
+}
+}
+});
+hitteri.edit.handlers.map.sync_marker_pick_handler_BANG_ = (function hitteri$edit$handlers$map$sync_marker_pick_handler_BANG_(){
+return hitteri.map_ui.interface$.set_marker_pick_handler_BANG_(hitteri.edit.handlers.map.pick_map_position_from_map_BANG_);
+});
+
+//# sourceMappingURL=hitteri.edit.handlers.map.js.map

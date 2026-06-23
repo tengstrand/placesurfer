@@ -1,0 +1,1 @@
+{"version":3,"sources":["placesurfer/topic_ui/pages.cljs"],"mappings":";AAEA,+CAAA,/CAAMA,sGACHC;AADH,AAEE,yDAAA,lDAACC,6CAAED","names":["placesurfer.topic-ui.pages/topic-page?","page","cljs.core._EQ_"],"sourcesContent":["(ns placesurfer.topic-ui.pages)\n\n(defn topic-page?\n  [page]\n  (= page :topic))\n"]}

@@ -1,0 +1,23 @@
+{:count 2,
+ :country "sao-tome-and-principe",
+ :country-code "ST",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:15.357480Z",
+ :positions
+ [{:name "Coffe Museum",
+   :longitude 6.6402646,
+   :latitude 0.299754,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Espaço Cacau",
+   :longitude 6.7372435,
+   :latitude 0.3437274,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

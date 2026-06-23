@@ -1,0 +1,146 @@
+{:count 32,
+ :country "laos",
+ :country-code "LA",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:26.594079Z",
+ :positions
+ [{:name "Ban Manda",
+   :longitude 102.6336052,
+   :latitude 20.549371,
+   :source :openstreetmap}
+  {:name "Bounnachanh",
+   :longitude 102.1385948,
+   :latitude 19.8944534,
+   :source :openstreetmap,
+   :homepage "https://www.heritageluangprabang.com/"}
+  {:name "Champasak Cultural Museum",
+   :longitude 105.797711,
+   :latitude 15.1152743,
+   :source :openstreetmap}
+  {:name "Coffee Ah'",
+   :longitude 102.6315456,
+   :latitude 17.952698,
+   :source :openstreetmap}
+  {:name "COPE Visitor Centre",
+   :longitude 102.6203163,
+   :latitude 17.9579516,
+   :source :openstreetmap,
+   :homepage "https://copelaos.org/"}
+  {:name "Culture Hall",
+   :longitude 104.0486691,
+   :latitude 20.413698,
+   :source :openstreetmap}
+  {:name "Don Khong History Museum",
+   :longitude 105.8539956,
+   :latitude 14.1150923,
+   :source :openstreetmap}
+  {:name "Elephant Museum",
+   :longitude 102.2329329,
+   :latitude 19.8683676,
+   :source :openstreetmap}
+  {:name "Friends Gallery",
+   :longitude 102.1345472,
+   :latitude 19.8877533,
+   :source :openstreetmap,
+   :homepage "http://www.fwablaos.org",
+   :locality "Luang Prabang"}
+  {:name "Lao Art Museum",
+   :longitude 102.6482421,
+   :latitude 18.1224786,
+   :source :openstreetmap}
+  {:name "Luang Namtha Museum",
+   :longitude 101.408186,
+   :latitude 21.0058078,
+   :source :openstreetmap}
+  {:name "MAG UXO Visitor Centre",
+   :longitude 103.2202135,
+   :latitude 19.4501151,
+   :source :openstreetmap}
+  {:name "MAG UXO Visitor Centre",
+   :longitude 104.803125,
+   :latitude 17.3953274,
+   :source :openstreetmap}
+  {:name "Nam Theun 2 Visitor Center",
+   :longitude 105.1535515,
+   :latitude 17.6760272,
+   :source :openstreetmap}
+  {:name "People's Security Museum",
+   :longitude 102.630659,
+   :latitude 17.9797554,
+   :source :openstreetmap}
+  {:name "Picturesque Old Museum",
+   :longitude 101.151299,
+   :latitude 21.1900572,
+   :source :openstreetmap}
+  {:name "Savannakhet Museum;ຫໍພິພິທະພັນ ແຂວງສະຫວັນນະເຂດ",
+   :longitude 104.7463051,
+   :latitude 16.5539721,
+   :source :openstreetmap}
+  {:name "Textile Museum",
+   :longitude 102.6165559,
+   :latitude 18.1765686,
+   :source :openstreetmap}
+  {:name "Tham Piew Cave Museum",
+   :longitude 103.5678415,
+   :latitude 19.673781,
+   :source :openstreetmap}
+  {:name "Tribal Park",
+   :longitude 102.7044353,
+   :latitude 17.882377,
+   :source :openstreetmap}
+  {:name "UXO Training",
+   :longitude 102.5039249,
+   :latitude 18.1332063,
+   :source :openstreetmap}
+  {:name "UXO Visitor's Center",
+   :longitude 102.1364098,
+   :latitude 19.8818264,
+   :source :openstreetmap}
+  {:name "Vat Bang Yor Museum",
+   :longitude 105.8329357,
+   :latitude 15.0927455,
+   :source :openstreetmap}
+  {:name "Viengxay Caves Visitor Centre & Tickets",
+   :longitude 104.2272899,
+   :latitude 20.4018399,
+   :source :openstreetmap}
+  {:name "Vietnam War Museum",
+   :longitude 106.4289872,
+   :latitude 16.6348057,
+   :source :openstreetmap}
+  {:name "Xiengkhouang Provintial Museum",
+   :longitude 103.2104317,
+   :latitude 19.4448044,
+   :source :openstreetmap}
+  {:name "ພາໂຕກລາວເດີມ",
+   :longitude 102.6038669,
+   :latitude 17.9669761,
+   :source :openstreetmap,
+   :homepage "https://www.maginternational.org/laos-visitor-centres/"}
+  {:name "ວັດພູງສະແດງຫ້ອງ",
+   :longitude 105.8273048,
+   :latitude 14.8464724,
+   :source :openstreetmap}
+  {:name "ຫໍຄຳ",
+   :longitude 102.1355203,
+   :latitude 19.8922532,
+   :source :openstreetmap,
+   :homepage "https://www.heritageluangprabang.com/"}
+  {:name "ຫໍພິພິຕະພັນໄກສອນ",
+   :longitude 102.6442746,
+   :latitude 18.0067554,
+   :source :openstreetmap}
+  {:name "ຫໍພິພິທະພັນ ໄດໂນເສົາ",
+   :longitude 104.7454326,
+   :latitude 16.56263,
+   :source :openstreetmap,
+   :locality "Savannakhet"}
+  {:name "ຫໍວັດທະນະທໍາ ທ່າພະຍານາກ 娜迦港文化馆",
+   :longitude 100.0991998,
+   :latitude 20.3413649,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,88 @@
+{:count 17,
+ :country "trinidad-and-tobago",
+ :country-code "TT",
+ :dataset :art,
+ :generated-at "2026-05-26T06:37:06.767845Z",
+ :positions
+ [{:name "BWIA L1011 Museum",
+   :longitude -61.6145771,
+   :latitude 10.6837875,
+   :source :openstreetmap}
+  {:name "Fort King George Museum",
+   :longitude -60.7269163,
+   :latitude 11.1774096,
+   :source :openstreetmap,
+   :locality "Scarborough"}
+  {:name "Highlanders Steel Orchestra",
+   :longitude -61.4893542,
+   :latitude 10.6468663,
+   :source :openstreetmap}
+  {:name "Kalomo Kings Pan Theatre",
+   :longitude -61.4545938,
+   :latitude 10.2706331,
+   :source :openstreetmap}
+  {:name "la brea pitch lake",
+   :longitude -61.622717,
+   :latitude 10.2356871,
+   :source :openstreetmap}
+  {:name "Loftt Art Gallery",
+   :longitude -61.5242096,
+   :latitude 10.6653555,
+   :source :openstreetmap}
+  {:name "Lopinot house",
+   :longitude -61.3238498,
+   :latitude 10.6916726,
+   :source :openstreetmap}
+  {:name "Maha Sabha Indian Museum",
+   :longitude -61.4586094,
+   :latitude 10.4799785,
+   :source :openstreetmap}
+  {:name "National Academy for the Performing Arts (South Campus)",
+   :longitude -61.4657728,
+   :latitude 10.2675032,
+   :source :openstreetmap,
+   :locality "San Fernando"}
+  {:name "National Museum & Art Gallery",
+   :longitude -61.5103176,
+   :latitude 10.6628611,
+   :source :openstreetmap,
+   :locality "Port of Spain"}
+  {:name "National Science Centre",
+   :longitude -61.3249517,
+   :latitude 10.6139359,
+   :source :openstreetmap,
+   :homepage "https://www.niherst.gov.tt/",
+   :locality "D'Abadie"}
+  {:name "Pointe-à-Pierre Train Station",
+   :longitude -61.4559207,
+   :latitude 10.3265274,
+   :source :openstreetmap}
+  {:name "River Estate Waterwheel Museum",
+   :longitude -61.5575626,
+   :latitude 10.7323866,
+   :source :openstreetmap}
+  {:name "The Big Black Box",
+   :longitude -61.5223613,
+   :latitude 10.6615453,
+   :source :openstreetmap}
+  {:name "The Museum of the City of Port of Spain",
+   :longitude -61.5097945,
+   :latitude 10.6479451,
+   :source :openstreetmap,
+   :homepage "http://www.nmag.gov.tt/content/museum-city-port-spain",
+   :locality "Port of Spain"}
+  {:name "Tobago Cocoa Estate",
+   :longitude -60.5898299,
+   :latitude 11.2516056,
+   :source :openstreetmap,
+   :homepage "https://www.tobagococoa.com/"}
+  {:name "Y",
+   :longitude -61.5288431,
+   :latitude 10.6658442,
+   :source :openstreetmap,
+   :locality "Port of Spain"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

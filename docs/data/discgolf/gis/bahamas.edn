@@ -1,0 +1,21 @@
+{:count 1,
+ :country "bahamas",
+ :country-code "BS",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:48:59.502475Z",
+ :positions
+ [{:name "TBA",
+   :longitude -77.41614979493039,
+   :latitude 25.02163511362771,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/39518",
+   :locality "Nassau"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

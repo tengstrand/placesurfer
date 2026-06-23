@@ -1,0 +1,1 @@
+{"version":3,"sources":["placesurfer/about_ui/interface.cljs"],"mappings":";AAGA,wCAAA,xCAAMA,uFAAOC;AAAb,AACE,OAACC,iCAAYD","names":["placesurfer.about-ui.interface/panel","props","placesurfer.about-ui.panel/panel"],"sourcesContent":["(ns placesurfer.about-ui.interface\n  (:require [placesurfer.about-ui.panel :as panel]))\n\n(defn panel [props]\n  (panel/panel props))\n"]}

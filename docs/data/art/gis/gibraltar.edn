@@ -1,0 +1,40 @@
+{:count 5,
+ :country "gibraltar",
+ :country-code "GI",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:06.662055Z",
+ :positions
+ [{:name "Gibraltar National Museum (Natural History)",
+   :longitude -5.3522714,
+   :latitude 36.1206999,
+   :source :openstreetmap,
+   :locality "Gibraltar"}
+  {:name "Gorham's Cave Complex viewing platform",
+   :longitude -5.3421055,
+   :latitude 36.1174337,
+   :source :openstreetmap,
+   :homepage "https://www.gorhamscave.gi/visit-us"}
+  {:name "Gustavo Bacarisas Exhibition Gallery",
+   :longitude -5.352705,
+   :latitude 36.145334,
+   :source :openstreetmap,
+   :homepage
+   "https://www.culture.gi/venues/gustavo-bacarisas-exhibition-gallery/"}
+  {:name "Mario Finlayson National Art Gallery",
+   :longitude -5.354523,
+   :latitude 36.140942,
+   :source :openstreetmap,
+   :homepage
+   "https://www.culture.gi/art_galleries/mario-finlayson-national-art-gallery/",
+   :locality "Gibraltar"}
+  {:name "Military Heritage Centre",
+   :longitude -5.3477369,
+   :latitude 36.1448217,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitgibraltar.gi/military-heritage-centre"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

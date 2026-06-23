@@ -1,0 +1,49 @@
+{:count 9,
+ :country "comoros",
+ :country-code "KM",
+ :dataset :art,
+ :generated-at "2026-05-26T06:08:09.500355Z",
+ :positions
+ [{:name "Bangwe Kuyu",
+   :longitude 43.3991811,
+   :latitude -11.5037111,
+   :source :openstreetmap}
+  {:name "Bangwé Stileza",
+   :longitude 43.2657616,
+   :latitude -11.7354358,
+   :source :openstreetmap}
+  {:name "CADC",
+   :longitude 43.4199537,
+   :latitude -11.8792736,
+   :source :openstreetmap}
+  {:name "Centre Barakat",
+   :longitude 43.2695074,
+   :latitude -11.7336061,
+   :source :openstreetmap,
+   :locality "Mkazi"}
+  {:name "Foyer",
+   :longitude 43.3209854,
+   :latitude -11.5565789,
+   :source :openstreetmap}
+  {:name "Foyer AJM Basmati",
+   :longitude 43.4353394,
+   :latitude -11.7949183,
+   :source :openstreetmap}
+  {:name "Foyer AMID",
+   :longitude 43.4352045,
+   :latitude -11.7984958,
+   :source :openstreetmap}
+  {:name "Foyer MABLAN",
+   :longitude 43.272278,
+   :latitude -11.563361,
+   :source :openstreetmap,
+   :locality "Hahaya"}
+  {:name "Musée des Comores متحف جزر القمر",
+   :longitude 43.2556284,
+   :latitude -11.703178,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

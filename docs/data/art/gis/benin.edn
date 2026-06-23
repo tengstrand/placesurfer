@@ -1,0 +1,228 @@
+{:count 52,
+ :country "benin",
+ :country-code "BJ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:04:04.535763Z",
+ :positions
+ [{:name "Art Ziza",
+   :longitude 2.0811867,
+   :latitude 6.359106,
+   :source :openstreetmap}
+  {:name "Atelier de Tenture et temple Vodum",
+   :longitude 1.9934034,
+   :latitude 7.1830655,
+   :source :openstreetmap}
+  {:name "Avion sur la plage",
+   :longitude 2.379782,
+   :latitude 6.347635,
+   :source :openstreetmap}
+  {:name "Case de Zomaï, route des esclaves",
+   :longitude 2.0890706,
+   :latitude 6.3410953,
+   :source :openstreetmap}
+  {:name "Centre Arts et Culture",
+   :longitude 2.3185623,
+   :latitude 6.3861796,
+   :source :openstreetmap}
+  {:name "Centre Culturel Africain",
+   :longitude 2.4368242,
+   :latitude 6.3624322,
+   :source :openstreetmap}
+  {:name "Centre Culturelle Chinois",
+   :longitude 2.423895,
+   :latitude 6.3523198,
+   :source :openstreetmap}
+  {:name "Centre de loisirs des personnes du troisième âge",
+   :longitude 2.6662167,
+   :latitude 6.5137151,
+   :source :openstreetmap}
+  {:name "Centre de promotion culturelle de Djakotomey",
+   :longitude 1.7150001,
+   :latitude 6.905004,
+   :source :openstreetmap}
+  {:name "Centre de promotion de l’artisanat",
+   :longitude 2.4189522,
+   :latitude 6.3594936,
+   :source :openstreetmap}
+  {:name "Centre des arts et métiers de mededjonou",
+   :longitude 2.6980845,
+   :latitude 6.5000478,
+   :source :openstreetmap}
+  {:name "Centre des jeunes et loisirs de la Commune d'adjarra",
+   :longitude 2.6640344,
+   :latitude 6.5212379,
+   :source :openstreetmap}
+  {:name "Chasse & FA",
+   :longitude 1.9872084,
+   :latitude 7.9295953,
+   :source :openstreetmap}
+  {:name "COLLECTIVITÉ MEFU OKPO KÉTOU",
+   :longitude 2.5971453,
+   :latitude 7.358298,
+   :source :openstreetmap}
+  {:name "Espace Mayton",
+   :longitude 2.3375699,
+   :latitude 6.4259951,
+   :source :openstreetmap}
+  {:name "Ets Joly",
+   :longitude 1.9829123,
+   :latitude 7.1967663,
+   :source :openstreetmap}
+  {:name "Fondation Zinsou",
+   :longitude 2.0853627,
+   :latitude 6.3615035,
+   :source :openstreetmap}
+  {:name "Fondation Zinsou",
+   :longitude 2.4206861,
+   :latitude 6.3625552,
+   :source :openstreetmap,
+   :homepage "http://www.fondationzinsou.org",
+   :locality "Cotonou"}
+  {:name "Forêt ORO de Kpankou",
+   :longitude 2.5876093,
+   :latitude 7.3314985,
+   :source :openstreetmap}
+  {:name "Galérie Nour",
+   :longitude 2.4000436,
+   :latitude 6.3640602,
+   :source :openstreetmap}
+  {:name "Gangan-Production",
+   :longitude 2.3460243,
+   :latitude 6.3953599,
+   :source :openstreetmap}
+  {:name "La galerie nationale",
+   :longitude 2.391547,
+   :latitude 6.3566512,
+   :source :openstreetmap}
+  {:name "Maison de la francophonie",
+   :longitude 2.3940311,
+   :latitude 6.4636144,
+   :source :openstreetmap}
+  {:name "Maison de Mémoire (Maison du Brésil)",
+   :longitude 2.0760861,
+   :latitude 6.3563056,
+   :source :openstreetmap}
+  {:name "Maison du roi de tchaorou",
+   :longitude 2.5958463,
+   :latitude 8.8881318,
+   :source :openstreetmap}
+  {:name "Maison GUÈLÈDE KÉTOU",
+   :longitude 2.5970836,
+   :latitude 7.3534226,
+   :source :openstreetmap}
+  {:name "Mini-Musée",
+   :longitude 2.4682948,
+   :latitude 7.2540801,
+   :source :openstreetmap}
+  {:name "MUSEE D'ART ET HISTOEIQUE YORUBA",
+   :longitude 2.6127633,
+   :latitude 6.4710553,
+   :source :openstreetmap}
+  {:name "Musée Akaba Idena",
+   :longitude 2.6016757,
+   :latitude 7.3634584,
+   :source :openstreetmap}
+  {:name "Musée Azandé",
+   :longitude 2.2356897,
+   :latitude 6.4233721,
+   :source :openstreetmap}
+  {:name "Musée d'histoire de Ouidah",
+   :longitude 2.0901242,
+   :latitude 6.3588947,
+   :source :openstreetmap,
+   :homepage "https://www.museeouidah.org/"}
+  {:name "Musée de la Porte du Non-Retour",
+   :longitude 2.0832343,
+   :latitude 6.3225582,
+   :source :openstreetmap,
+   :homepage "https://www.cdacelijah.com/"}
+  {:name "Musée de Nikki",
+   :longitude 3.2080877,
+   :latitude 9.9258176,
+   :source :openstreetmap}
+  {:name "Musée du Musicien Gnonnas Pedro",
+   :longitude 1.7145753,
+   :latitude 6.6325629,
+   :source :openstreetmap}
+  {:name "Musée du Voudon",
+   :longitude 2.6212588,
+   :latitude 6.47231,
+   :source :openstreetmap}
+  {:name "Musée d’Arts et de Traditions Populaires",
+   :longitude 1.3803631,
+   :latitude 10.3108944,
+   :source :openstreetmap}
+  {:name "Musée ethnographique et de plein air de Parakou",
+   :longitude 2.6185267,
+   :latitude 9.3289728,
+   :source :openstreetmap}
+  {:name "Musée Honmè",
+   :longitude 2.6251621,
+   :latitude 6.4693284,
+   :source :openstreetmap}
+  {:name "Musée Kaba",
+   :longitude 1.3814676,
+   :latitude 10.2545711,
+   :source :openstreetmap}
+  {:name "Musée éthnographique",
+   :longitude 2.6161703,
+   :latitude 6.6538925,
+   :source :openstreetmap}
+  {:name "Ouadada",
+   :longitude 2.6078975,
+   :latitude 6.5006841,
+   :source :openstreetmap,
+   :homepage "https://www.ouadada.com/",
+   :locality "Porto-Novo"}
+  {:name "Palais Agonglo",
+   :longitude 1.9998372,
+   :latitude 7.1827976,
+   :source :openstreetmap}
+  {:name "Palais du Roi Guèzo - Musée des Arts et Traditions",
+   :longitude 1.9717616,
+   :latitude 7.0861583,
+   :source :openstreetmap,
+   :homepage "https://www.youtube.com/watch?v=nQW43QFN72M"}
+  {:name "Palais royal d'Allada",
+   :longitude 2.1708558,
+   :latitude 6.6660784,
+   :source :openstreetmap}
+  {:name "Palais Royal de Atinkpaye",
+   :longitude 2.3641429,
+   :latitude 7.7205402,
+   :source :openstreetmap}
+  {:name "PALAIS ROYAL DE KE",
+   :longitude 2.5420855,
+   :latitude 6.5869185,
+   :source :openstreetmap}
+  {:name "Palais royal de Savalou",
+   :longitude 1.9722466,
+   :latitude 7.9316614,
+   :source :openstreetmap}
+  {:name "Petit Musée",
+   :longitude 1.8251099,
+   :latitude 6.2788514,
+   :source :openstreetmap,
+   :locality "Grand-Popo"}
+  {:name "Porte du Non-Retour",
+   :longitude 2.0878162,
+   :latitude 6.3229457,
+   :source :openstreetmap}
+  {:name
+   "Regroupement des artisans de Cotonou (RAC) village artisanal régional de l'amitié Espaces métiers",
+   :longitude 2.3807751,
+   :latitude 6.388522,
+   :source :openstreetmap}
+  {:name "Residence du prince walino Gbehanzin",
+   :longitude 2.0220264,
+   :latitude 7.1803105,
+   :source :openstreetmap}
+  {:name "Unik",
+   :longitude 2.015475,
+   :latitude 7.1946385,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

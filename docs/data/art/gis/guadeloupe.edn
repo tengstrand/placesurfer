@@ -1,0 +1,162 @@
+{:count 34,
+ :country "guadeloupe",
+ :country-code "GP",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:20.504631Z",
+ :positions
+ [{:name "Artco galerie",
+   :longitude -61.2678136,
+   :latitude 16.2517658,
+   :source :openstreetmap}
+  {:name "Atelier Odysée",
+   :longitude -61.5325657,
+   :latitude 16.2368753,
+   :source :openstreetmap,
+   :homepage "http://atelier-odyssee.simplesite.com/",
+   :locality "Pointe-à-Pitre"}
+  {:name "Beauport - Pays de la canne",
+   :longitude -61.5158973,
+   :latitude 16.4174298,
+   :source :openstreetmap}
+  {:name "Centre culturel de la Retraite",
+   :longitude -61.6173025,
+   :latitude 16.2285046,
+   :source :openstreetmap,
+   :locality "Baie-Mahault"}
+  {:name "Centre culturel de Sonis",
+   :longitude -61.5301002,
+   :latitude 16.2431573,
+   :source :openstreetmap}
+  {:name "Centre Culturel Eduard Coradin",
+   :longitude -61.6976076,
+   :latitude 16.0266928,
+   :source :openstreetmap}
+  {:name "Centre culturel Gérard Lockel",
+   :longitude -61.5891652,
+   :latitude 16.2602511,
+   :source :openstreetmap}
+  {:name "Centre culturel Rémi Nainsouta",
+   :longitude -61.5350021,
+   :latitude 16.2427912,
+   :source :openstreetmap,
+   :locality "Pointe-à-Pitre"}
+  {:name "Centre des métiers d'arts",
+   :longitude -61.53796,
+   :latitude 16.2458095,
+   :source :openstreetmap,
+   :locality "Pointe-à-Pitre"}
+  {:name "Centre guadeloupéen de la culture indienne",
+   :longitude -61.4858393,
+   :latitude 16.3739189,
+   :source :openstreetmap}
+  {:name "Centre Intercommunal René Philogène",
+   :longitude -61.7888361,
+   :latitude 16.234965,
+   :source :openstreetmap}
+  {:name "Distillerie Reimonenq (Musée du Rhum)",
+   :longitude -61.6895996,
+   :latitude 16.3151147,
+   :source :openstreetmap}
+  {:name "Ecomusée de Marie-Galante",
+   :longitude -61.2995603,
+   :latitude 15.8784483,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cg971.fr/lieu/habitation-murat-siege-de-lecomusee/",
+   :locality "Grand-Bourg"}
+  {:name "FelixArt",
+   :longitude -61.6985082,
+   :latitude 16.3342525,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/felix.christopher.90",
+   :locality "Sainte-Rose"}
+  {:name "Fort L'Olive - centre de broderie",
+   :longitude -61.7071852,
+   :latitude 15.9500825,
+   :source :openstreetmap}
+  {:name "Gallery Marche des esclaves",
+   :longitude -61.4916371,
+   :latitude 16.3792093,
+   :source :openstreetmap}
+  {:name "Habitation Côte-sous-le-Vent",
+   :longitude -61.7837869,
+   :latitude 16.2237501,
+   :source :openstreetmap}
+  {:name "La Maison du Cacao",
+   :longitude -61.7799751,
+   :latitude 16.2076302,
+   :source :openstreetmap,
+   :homepage "https://www.maisonducacao.fr/"}
+  {:name "Lakuka",
+   :longitude -61.5906235,
+   :latitude 16.1927903,
+   :source :openstreetmap}
+  {:name "Maison de la Banane",
+   :longitude -61.6509423,
+   :latitude 15.9935459,
+   :source :openstreetmap}
+  {:name "Maison de la culture Gilles Floro",
+   :longitude -61.69428,
+   :latitude 15.9941735,
+   :source :openstreetmap}
+  {:name "MJC",
+   :longitude -61.5083213,
+   :latitude 16.2674727,
+   :source :openstreetmap}
+  {:name "Musée Costumes et Traditions",
+   :longitude -61.4788893,
+   :latitude 16.2101581,
+   :source :openstreetmap}
+  {:name "Musée de la Préhistoire Edgar Clerc",
+   :longitude -61.3771244,
+   :latitude 16.3396546,
+   :source :openstreetmap,
+   :homepage "https://www.cg971.fr/lieu/musee-edgar-clerc/"}
+  {:name "Musée des Arts et Traditions Populaires",
+   :longitude -61.5821842,
+   :latitude 15.8752875,
+   :source :openstreetmap}
+  {:name "Musée Du Café (Café Chaulet)",
+   :longitude -61.7601358,
+   :latitude 16.0605484,
+   :source :openstreetmap,
+   :homepage "http://www.cafe-chaulet.com/"}
+  {:name "Musée départemental d'Art et d'Histoire - MUSARTH",
+   :longitude -61.5378958,
+   :latitude 16.2376066,
+   :source :openstreetmap,
+   :locality "Pointe-à-Pitre"}
+  {:name "Musée Gerty Archimède",
+   :longitude -61.7300439,
+   :latitude 15.9970121,
+   :source :openstreetmap}
+  {:name "Mémorial ACTe",
+   :longitude -61.5343666,
+   :latitude 16.2315505,
+   :source :openstreetmap,
+   :homepage "https://memorial-acte.fr/"}
+  {:name "Rêve de sable",
+   :longitude -61.7733979,
+   :latitude 16.2248748,
+   :source :openstreetmap}
+  {:name "Taonaba Maison de la Mangrove",
+   :longitude -61.5250947,
+   :latitude 16.2914196,
+   :source :openstreetmap}
+  {:name "Ti kaz'art",
+   :longitude -61.718392,
+   :latitude 15.9846293,
+   :source :openstreetmap}
+  {:name "Ville de Sainte-Anne Centre Culturel",
+   :longitude -61.3842405,
+   :latitude 16.2241761,
+   :source :openstreetmap}
+  {:name "École de musique",
+   :longitude -61.5645501,
+   :latitude 16.0451416,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

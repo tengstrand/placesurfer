@@ -1,0 +1,27 @@
+{:count 3,
+ :country "guam",
+ :country-code "GU",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:21.517264Z",
+ :positions
+ [{:name "Guam Museum",
+   :longitude 144.7293107,
+   :latitude 13.4805835,
+   :source :openstreetmap,
+   :homepage "https://www.guammuseumfoundation.org/"}
+  {:name "Pacific War Museum",
+   :longitude 144.7306321,
+   :latitude 13.4756552,
+   :source :openstreetmap,
+   :homepage "https://www.guampacificwar.org/"}
+  {:name "T. Stell Newman Visitor Center",
+   :longitude 144.6755344,
+   :latitude 13.4223974,
+   :source :openstreetmap,
+   :homepage
+   "http://home.nps.gov/wapa/t-stell-newman-visitor-center.htm"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

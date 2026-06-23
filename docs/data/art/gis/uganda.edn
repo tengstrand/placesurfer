@@ -1,0 +1,216 @@
+{:count 46,
+ :country "uganda",
+ :country-code "UG",
+ :dataset :art,
+ :generated-at "2026-05-26T06:38:09.378133Z",
+ :positions
+ [{:name "Afriart on 7th",
+   :longitude 32.6091593,
+   :latitude 0.3135057,
+   :source :openstreetmap,
+   :homepage "http://www.afriartgallery.org/"}
+  {:name "African Art",
+   :longitude 29.6923734,
+   :latitude -1.2828768,
+   :source :openstreetmap}
+  {:name "Armgod Black's Parlour",
+   :longitude 32.9075978,
+   :latitude 2.22765,
+   :source :openstreetmap}
+  {:name "Art Gallery",
+   :longitude 32.5645172,
+   :latitude 0.2289202,
+   :source :openstreetmap,
+   :locality "Kampala"}
+  {:name "ATEKER CULTURAL CENTRE MUSEUM",
+   :longitude 34.655269,
+   :latitude 2.5418253,
+   :source :openstreetmap}
+  {:name "ATEKER MUSUEM",
+   :longitude 33.608438,
+   :latitude 1.7194658,
+   :source :openstreetmap,
+   :locality "Soroti"}
+  {:name "Bidibidi Arts Center",
+   :longitude 31.3625099,
+   :latitude 3.5230907,
+   :source :openstreetmap}
+  {:name "BRIMS Heritage Resource Center",
+   :longitude 32.6653203,
+   :latitude 0.3983159,
+   :source :openstreetmap}
+  {:name "BUDDU COMMUNITY MUSEUM",
+   :longitude 31.740796,
+   :latitude -0.3191325,
+   :source :openstreetmap,
+   :locality "Ssaza Central"}
+  {:name "Buganda Kingdom museum",
+   :longitude 32.5655171,
+   :latitude 0.3023403,
+   :source :openstreetmap}
+  {:name "BUGUNGU HERITAGE AND INFORMATION CENTRE MUSEUM",
+   :longitude 31.4152287,
+   :latitude 2.1198517,
+   :source :openstreetmap}
+  {:name "BUNYORO COMMUNITY HISTORICAL MUSEUM ASSOCIATIONS FOR PEACE",
+   :longitude 30.9659303,
+   :latitude 1.5299612,
+   :source :openstreetmap}
+  {:name "C.N KIKONYOGO MONEY MUSEUM",
+   :longitude 32.5805999,
+   :latitude 0.3143923,
+   :source :openstreetmap,
+   :locality "Kampala"}
+  {:name "CULTURAL REASEARCH CENTRE MUSEUM",
+   :longitude 33.2070622,
+   :latitude 0.4338772,
+   :source :openstreetmap}
+  {:name "EAST AFRICAN REVIVAL MUSEUM",
+   :longitude 30.6317216,
+   :latitude -0.6124161,
+   :source :openstreetmap,
+   :locality "Mbarara , Ruharo"}
+  {:name "Eriijukiro Museum of Southwestern Uganda",
+   :longitude 30.7406948,
+   :latitude -0.5213425,
+   :source :openstreetmap,
+   :homepage "https://www.igongo.co.ug/"}
+  {:name "Gallery Antique",
+   :longitude 32.5923365,
+   :latitude 0.3031768,
+   :source :openstreetmap,
+   :homepage "https://www.africagalleryantique.com/",
+   :locality "Kampala"}
+  {:name "Great Lakes Museum",
+   :longitude 30.1282586,
+   :latitude -1.1531851,
+   :source :openstreetmap,
+   :homepage "www.greatlakesmuseum.co.ug",
+   :locality "Rwahi"}
+  {:name "HAM MUKASA MUSEUM",
+   :longitude 32.7563225,
+   :latitude 0.3667289,
+   :source :openstreetmap,
+   :locality "Mukono"}
+  {:name "KAKUNGULU MUSEUM",
+   :longitude 34.194878,
+   :latitude 1.0970525,
+   :source :openstreetmap}
+  {:name "Kampus villa watching room",
+   :longitude 29.984795,
+   :latitude -1.275075,
+   :source :openstreetmap}
+  {:name "Karamoja Cultural Museum",
+   :longitude 34.6844243,
+   :latitude 2.5211236,
+   :source :openstreetmap}
+  {:name "Kasubi Royal Tombs",
+   :longitude 32.5550877,
+   :latitude 0.3282645,
+   :source :openstreetmap}
+  {:name "Kigezi Home of Culture",
+   :longitude 29.7481144,
+   :latitude -1.2762652,
+   :source :openstreetmap}
+  {:name "KIGULU CULTURAL MUSEUM",
+   :longitude 33.4862655,
+   :latitude 0.6023468,
+   :source :openstreetmap}
+  {:name "kiwatule rec park history museum",
+   :longitude 32.6315172,
+   :latitude 0.3744628,
+   :source :openstreetmap}
+  {:name "KK Shop",
+   :longitude 31.4441809,
+   :latitude 3.5631902,
+   :source :openstreetmap,
+   :locality "Nabara"}
+  {:name "KOOGERE COMMUNITY MUSEUM",
+   :longitude 30.297102,
+   :latitude 0.6518201,
+   :source :openstreetmap}
+  {:name "LANGO HERITAGE CENTRE MUSEUM",
+   :longitude 32.8960461,
+   :latitude 2.245247,
+   :source :openstreetmap,
+   :locality "Lira City"}
+  {:name "law lib",
+   :longitude 32.7409283,
+   :latitude 0.3572535,
+   :source :openstreetmap}
+  {:name "Lendu chiefdom",
+   :longitude 30.7619776,
+   :latitude 2.4474472,
+   :source :openstreetmap}
+  {:name "Lugogo Show Grounds",
+   :longitude 32.609065,
+   :latitude 0.3266535,
+   :source :openstreetmap}
+  {:name "MADI COMMUNITY MUSEUM",
+   :longitude 31.7880499,
+   :latitude 3.6672145,
+   :source :openstreetmap}
+  {:name "MADI LUGBARA MUSUEM",
+   :longitude 30.9108215,
+   :latitude 3.0176121,
+   :source :openstreetmap,
+   :locality "Arua"}
+  {:name "Paidha Cultural Center",
+   :longitude 30.987655,
+   :latitude 2.4179383,
+   :source :openstreetmap,
+   :locality "Mvuli"}
+  {:name "RAILWAY MUSEUM",
+   :longitude 33.2184677,
+   :latitude 0.4453515,
+   :source :openstreetmap}
+  {:name "Rwenzori Founders",
+   :longitude 30.1073404,
+   :latitude 0.2568946,
+   :source :openstreetmap}
+  {:name "Rwoth Upanu tomb",
+   :longitude 30.82214,
+   :latitude 2.533035,
+   :source :openstreetmap}
+  {:name "Sipi Woman Craft Shop",
+   :longitude 34.3710784,
+   :latitude 1.3339219,
+   :source :openstreetmap}
+  {:name "Ssese Museum",
+   :longitude 32.2894968,
+   :latitude -0.3237416,
+   :source :openstreetmap}
+  {:name "ST. LUKE COMMUNITY MUSEUM",
+   :longitude 31.5637837,
+   :latitude -0.6173057,
+   :source :openstreetmap,
+   :locality "Kiteredde"}
+  {:name "Taks Centre",
+   :longitude 32.2976258,
+   :latitude 2.7821448,
+   :source :openstreetmap}
+  {:name "Uganda Museum",
+   :longitude 32.5825786,
+   :latitude 0.3358574,
+   :source :openstreetmap,
+   :homepage "http://www.ugandamuseums.ug/"}
+  {:name "UGANDA POLICE MUSEUM",
+   :longitude 32.5914114,
+   :latitude 0.3093973,
+   :source :openstreetmap,
+   :locality "Kampala"}
+  {:name
+   "UGANDA RURAL DEVELOPMENT AND TRAINING PROGRAM- CULTURAL ASSETS CENTRE",
+   :longitude 30.8164758,
+   :latitude 0.9433144,
+   :source :openstreetmap}
+  {:name "URA MUSEUM",
+   :longitude 32.6187588,
+   :latitude 0.3298613,
+   :source :openstreetmap,
+   :locality "Kampala"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

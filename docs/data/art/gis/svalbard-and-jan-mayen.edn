@@ -1,0 +1,37 @@
+{:count 6,
+ :country "svalbard-and-jan-mayen",
+ :country-code "SJ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:34:46.620999Z",
+ :positions
+ [{:name "ArtArcticGallery",
+   :longitude 14.2180495,
+   :latitude 78.0663641,
+   :source :openstreetmap}
+  {:name "Galleri Svalbard",
+   :longitude 15.5927227,
+   :latitude 78.2034357,
+   :source :openstreetmap}
+  {:name "Museumshytta",
+   :longitude 11.9279673,
+   :latitude 78.9252096,
+   :source :openstreetmap}
+  {:name "Svalbard Museum",
+   :longitude 15.652313,
+   :latitude 78.222378,
+   :source :openstreetmap,
+   :homepage "http://svalbardmuseum.no"}
+  {:name "Telegrafen",
+   :longitude 11.932912,
+   :latitude 78.9231181,
+   :source :openstreetmap}
+  {:name "WildPhoto Travel",
+   :longitude 15.641569,
+   :latitude 78.220756,
+   :source :openstreetmap,
+   :homepage "https://wildphoto.com/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

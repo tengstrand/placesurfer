@@ -1,0 +1,37 @@
+{:count 4,
+ :country "falkland-islands",
+ :country-code "FK",
+ :dataset :art,
+ :generated-at "2026-05-26T06:10:13.296697Z",
+ :positions
+ [{:name "Barnard Memorial Museum",
+   :longitude -61.3009588,
+   :latitude -51.7213625,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Falkland Islands Museum and National Trust",
+   :longitude -57.8651133,
+   :latitude -51.6911662,
+   :source :openstreetmap,
+   :homepage "https://falklands-museum.com/",
+   :locality "Port Stanley",
+   :image "",
+   :description ""}
+  {:name "Falkland Islands Museum and National Trust",
+   :longitude -57.8816197,
+   :latitude -51.6909904,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "The Goose Green Museum",
+   :longitude -58.9733761,
+   :latitude -51.8276518,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

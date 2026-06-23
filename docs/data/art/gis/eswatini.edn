@@ -1,0 +1,32 @@
+{:count 5,
+ :country "eswatini",
+ :country-code "SZ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:57.327864Z",
+ :positions
+ [{:name "Art Centre",
+   :longitude 31.1356299,
+   :latitude -26.3228768,
+   :source :openstreetmap}
+  {:name "Bulembu Museum",
+   :longitude 31.1274933,
+   :latitude -25.9537373,
+   :source :openstreetmap}
+  {:name "Indingilizi Art & Craft Gallery",
+   :longitude 31.1442867,
+   :latitude -26.3206053,
+   :source :openstreetmap,
+   :homepage "http://www.swaziplace.com/indinglizi/"}
+  {:name "Sugar Cane Museum",
+   :longitude 31.9216986,
+   :latitude -26.1054994,
+   :source :openstreetmap}
+  {:name "Swaziland National Museum",
+   :longitude 31.2076477,
+   :latitude -26.4467458,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

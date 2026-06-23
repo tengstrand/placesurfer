@@ -1,0 +1,838 @@
+{:count 187,
+ :country "georgia",
+ :country-code "GE",
+ :dataset :art,
+ :generated-at "2026-05-26T06:12:01.355534Z",
+ :positions
+ [{:name "\"ჰოვანეს თუმანიანის სახლი\" სამეცნიერო, კულტურული ცენტრი",
+   :longitude 44.793817,
+   :latitude 41.6897119,
+   :source :openstreetmap}
+  {:name "2008 წლის აგვისტოს მუზეუმი",
+   :longitude 43.9884981,
+   :latitude 42.2063646,
+   :source :openstreetmap,
+   :locality "ერგნეთი"}
+  {:name "Art Space Academy",
+   :longitude 44.819159,
+   :latitude 41.6903371,
+   :source :openstreetmap}
+  {:name "Cube in Context",
+   :longitude 44.7709179,
+   :latitude 41.7120015,
+   :source :openstreetmap}
+  {:name "ENP",
+   :longitude 41.0247893,
+   :latitude 42.9994411,
+   :source :openstreetmap}
+  {:name "Gallery 27",
+   :longitude 44.8055915,
+   :latitude 41.689828,
+   :source :openstreetmap,
+   :homepage "https://gallery-27.com/"}
+  {:name "Giorgi Leonidze State Museum of Georgian Literature",
+   :longitude 44.7991841,
+   :latitude 41.699388,
+   :source :openstreetmap,
+   :homepage "https://ladogudiashvili.ge/"}
+  {:name "Gremi Museum",
+   :longitude 45.6587644,
+   :latitude 42.0011396,
+   :source :openstreetmap}
+  {:name "Historic museum",
+   :longitude 43.2047072,
+   :latitude 42.0124512,
+   :source :openstreetmap}
+  {:name "iArt გალერეა",
+   :longitude 44.8029192,
+   :latitude 41.7031877,
+   :source :openstreetmap}
+  {:name "Korsha Museum",
+   :longitude 44.9274716,
+   :latitude 42.4856432,
+   :source :openstreetmap}
+  {:name "Kutaisi Museum of Sport",
+   :longitude 42.7048489,
+   :latitude 42.2722813,
+   :source :openstreetmap}
+  {:name "Machakhela Weapons Forge Museum",
+   :longitude 41.8552159,
+   :latitude 41.4906948,
+   :source :openstreetmap}
+  {:name "make",
+   :longitude 41.633187,
+   :latitude 41.642501,
+   :source :openstreetmap,
+   :homepage "https://ajaramuseums.ge/en/museums/arch"}
+  {:name "Maryart",
+   :longitude 44.7882079,
+   :latitude 41.7265766,
+   :source :openstreetmap}
+  {:name "Nini Bakashvili Gallery",
+   :longitude 44.8056812,
+   :latitude 41.6951211,
+   :source :openstreetmap,
+   :homepage "https://instagram.com/art_ninibak"}
+  {:name "Pirosmani Museum",
+   :longitude 45.9813139,
+   :latitude 41.5604594,
+   :source :openstreetmap,
+   :homepage "https://travelgeorgia.ru/559/"}
+  {:name "Terenti Graneli House-Museum",
+   :longitude 42.075096,
+   :latitude 42.6094259,
+   :source :openstreetmap,
+   :locality "Tsalenjikha"}
+  {:name "The First Borjomi Mineral Water Bottling Factory",
+   :longitude 43.3910553,
+   :latitude 41.8364351,
+   :source :openstreetmap}
+  {:name "Tsinandali Enoteca",
+   :longitude 45.564987,
+   :latitude 41.8948593,
+   :source :openstreetmap}
+  {:name "Uplistsikhe Museum",
+   :longitude 44.2101251,
+   :latitude 41.9658125,
+   :source :openstreetmap,
+   :homepage "https://whc.unesco.org/en/tentativelists/5234/"}
+  {:name "Абайты Васойы хæдзар-музей",
+   :longitude 43.9702759,
+   :latitude 42.2242015,
+   :source :openstreetmap}
+  {:name "Арт пространство ПОРТАЛ",
+   :longitude 43.9751973,
+   :latitude 42.2290469,
+   :source :openstreetmap}
+  {:name "Дворец-замок Ксанских-Эриставов",
+   :longitude 44.4877009,
+   :latitude 42.1193683,
+   :source :openstreetmap}
+  {:name "Детская школа искусств № 1 имени К.В. Ковач",
+   :longitude 41.0315322,
+   :latitude 43.005574,
+   :source :openstreetmap}
+  {:name "Дом культуры",
+   :longitude 40.3427492,
+   :latitude 43.1582314,
+   :source :openstreetmap}
+  {:name "Дом-музей Хецуриани",
+   :longitude 40.3596092,
+   :latitude 43.1769321,
+   :source :openstreetmap,
+   :locality "Лдзаа - Лӡаа"}
+  {:name "Литературно-мемориальный музей Д. Гулиа",
+   :longitude 41.0164604,
+   :latitude 43.0029744,
+   :source :openstreetmap,
+   :homepage "http://museum-gulia.com"}
+  {:name "музей Абазгия",
+   :longitude 40.6348079,
+   :latitude 43.1000684,
+   :source :openstreetmap}
+  {:name "Музей Абхазского Царства",
+   :longitude 40.8164747,
+   :latitude 43.0906365,
+   :source :openstreetmap,
+   :locality "ახალი ათონი - Новый Афон"}
+  {:name "Музей истории Гагры",
+   :longitude 40.2233674,
+   :latitude 43.3253957,
+   :source :openstreetmap}
+  {:name "Музей истории Пицунды",
+   :longitude 40.3389451,
+   :latitude 43.1595777,
+   :source :openstreetmap}
+  {:name "Музея Иванэ Мачабели (разрушен)",
+   :longitude 43.9612214,
+   :latitude 42.2603289,
+   :source :openstreetmap}
+  {:name "Сиротский дом",
+   :longitude 43.6938455,
+   :latitude 41.2152026,
+   :source :openstreetmap}
+  {:name "Сухумский Ботанический сад",
+   :longitude 41.0226258,
+   :latitude 43.0045717,
+   :source :openstreetmap}
+  {:name "Сухумское локомотивное депо",
+   :longitude 40.9794537,
+   :latitude 43.0041491,
+   :source :openstreetmap}
+  {:name "Фазиль Искандер ихьӡ зху Амузеи",
+   :longitude 41.0159496,
+   :latitude 43.0060251,
+   :source :openstreetmap,
+   :locality "Аҟəа"}
+  {:name "Хонский исторический музей",
+   :longitude 42.424514,
+   :latitude 42.3239475,
+   :source :openstreetmap,
+   :locality "ხონი"}
+  {:name "აბრეშუმის სახელმწიფო მუზეუმი",
+   :longitude 44.7882094,
+   :latitude 41.721885,
+   :source :openstreetmap,
+   :homepage "http://www.silkmuseum.ge"}
+  {:name "ავლაბრის სტამბა",
+   :longitude 44.830064,
+   :latitude 41.6907789,
+   :source :openstreetmap}
+  {:name "აკაკის ძიძისეული სახლ-მუზეუმი",
+   :longitude 43.4707224,
+   :latitude 42.322442,
+   :source :openstreetmap}
+  {:name "ანიმაციური თოჯინების მუზეუმი",
+   :longitude 44.7973734,
+   :latitude 41.712651,
+   :source :openstreetmap}
+  {:name "არტ სტუდია",
+   :longitude 41.6318099,
+   :latitude 41.6386936,
+   :source :openstreetmap,
+   :homepage "https://kornilovaschool.ru"}
+  {:name "არტ-ვილა \"გარიყულა\"",
+   :longitude 44.3297489,
+   :latitude 41.8819509,
+   :source :openstreetmap,
+   :homepage "http://cargocollective.com/Art-VillaGarikula"}
+  {:name "ბადრი კობახიძის სახელობის კულტურის სახლი",
+   :longitude 41.9031981,
+   :latitude 42.3183128,
+   :source :openstreetmap}
+  {:name "ბაია გალერეა",
+   :longitude 44.7578068,
+   :latitude 41.7075535,
+   :source :openstreetmap}
+  {:name "ბაია გელერეა",
+   :longitude 44.7965177,
+   :latitude 41.6962591,
+   :source :openstreetmap,
+   :homepage "http://www.galleryartbeat.com/"}
+  {:name "ბოლნისის კულტურის სახლი",
+   :longitude 44.5377754,
+   :latitude 41.4495852,
+   :source :openstreetmap}
+  {:name "ბოლნისის მუზეუმი",
+   :longitude 44.5643945,
+   :latitude 41.4527637,
+   :source :openstreetmap}
+  {:name "ბოლნისის რაიონის მუზეუმი",
+   :longitude 44.5407924,
+   :latitude 41.4491485,
+   :source :openstreetmap,
+   :homepage
+   "http://www.georgianmuseums.ge/?lang=eng&id=1_1&sec_id=6&th_id=236"}
+  {:name "ბორჯომის მხარეთმცოდნეობის მუზეუმი",
+   :longitude 43.3782882,
+   :latitude 41.8414827,
+   :source :openstreetmap,
+   :homepage
+   "https://georgianmuseums.ge/en/museum/borjomi-local-museum/"}
+  {:name "გალაკტიონ და ტიციან ტაბიძეების სახლ-მუზეუმი",
+   :longitude 42.4256439,
+   :latitude 42.1315334,
+   :source :openstreetmap}
+  {:name "გიორგი ლეონიძის სახლ-მუზეუმი",
+   :longitude 45.2455895,
+   :latitude 41.7433551,
+   :source :openstreetmap,
+   :locality "პატარძეული"}
+  {:name "გიორგი წერეთლის სახლ-მუზეუმი",
+   :longitude 43.2762982,
+   :latitude 42.2405731,
+   :source :openstreetmap}
+  {:name "გონიო–აფსაროსის არქეოლოგიურ–არქიტექტურული კომპლექსი",
+   :longitude 41.5733563,
+   :latitude 41.5729698,
+   :source :openstreetmap}
+  {:name "გორის კულტურის ცენტრი",
+   :longitude 44.0970875,
+   :latitude 41.9880487,
+   :source :openstreetmap,
+   :locality "გორი"}
+  {:name "გრიგოლ ფერაძის სახლ-მუზეუმი",
+   :longitude 45.8400685,
+   :latitude 41.6883731,
+   :source :openstreetmap}
+  {:name "დაგვის კულტურის სახლი",
+   :longitude 41.8135783,
+   :latitude 41.7538914,
+   :source :openstreetmap}
+  {:name "დადიანების სასახლეთა ისტორიულ-არქიტექტურული მუზეუმი",
+   :longitude 41.8739488,
+   :latitude 42.5122497,
+   :source :openstreetmap,
+   :homepage
+   "http://www.georgianmuseums.ge/?lang=eng&id=1_1&th_id=243",
+   :locality "ზუგდიდი"}
+  {:name "დავით გამრეკელის სახელობის ხელოვანთა სკოლა",
+   :longitude 44.7195982,
+   :latitude 41.8445982,
+   :source :openstreetmap}
+  {:name "დავით და სერგო კლდიაშვილის სახლ - მუზეუმი",
+   :longitude 42.8992498,
+   :latitude 42.2403445,
+   :source :openstreetmap}
+  {:name
+   "დავით კაკაბაძის სახელობის ქუთაისის სახვითი ხელოვნების გალერეა",
+   :longitude 42.7012014,
+   :latitude 42.2707909,
+   :source :openstreetmap,
+   :locality "ქუთაისი"}
+  {:name "დიდების მემორიალური მუზეუმი",
+   :longitude 45.7876508,
+   :latitude 41.744293,
+   :source :openstreetmap,
+   :locality "გურჯაანი"}
+  {:name "დიდი ლიახვის ხეობის სახელმწიფო მუზეუმ-ნაკრძალი",
+   :longitude 44.12675,
+   :latitude 42.0003107,
+   :source :openstreetmap}
+  {:name "დიმიტრი ყიფიანის სახლ-მუზეუმი",
+   :longitude 43.5003725,
+   :latitude 41.9646205,
+   :source :openstreetmap}
+  {:name "დმანისის კულტურის სახლი",
+   :longitude 44.2021572,
+   :latitude 41.3312559,
+   :source :openstreetmap}
+  {:name "დმანისის მუზეუმ-ნაკრძალი",
+   :longitude 44.3446122,
+   :latitude 41.3371421,
+   :source :openstreetmap,
+   :homepage "http://www.dmanisi.ge/"}
+  {:name "ე. თაყაიშვილის გურიის მხარის არქეოლოგიული მუზეუმ-ნაკეძალი",
+   :longitude 42.0012782,
+   :latitude 41.9230154,
+   :source :openstreetmap}
+  {:name "ეგნატე ნინოშვილის მუზეუმი",
+   :longitude 41.9167194,
+   :latitude 42.0567314,
+   :source :openstreetmap}
+  {:name "ეთნოგრაფიული ექსპოზიცია",
+   :longitude 44.8039119,
+   :latitude 41.7000136,
+   :source :openstreetmap}
+  {:name "ეთნოგრაფიული მუზეუმი",
+   :longitude 42.7191763,
+   :latitude 42.7886065,
+   :source :openstreetmap}
+  {:name "ეთნოგრაფიული მუზეუმი",
+   :longitude 43.0164425,
+   :latitude 42.9179742,
+   :source :openstreetmap}
+  {:name "ელენე ახვლედიანის სახლ-მუსეუმი",
+   :longitude 44.7905959,
+   :latitude 41.705794,
+   :source :openstreetmap,
+   :homepage "https://qr1.be/WYNA"}
+  {:name "ერისიმედის ხელოვნების ცენტრი (Erisimedi Arts Center)",
+   :longitude 46.329358,
+   :latitude 41.5979815,
+   :source :openstreetmap}
+  {:name "ესაძეების ძველი სახლი",
+   :longitude 41.9272654,
+   :latitude 41.85646,
+   :source :openstreetmap}
+  {:name "ექვთიმე თაყაიშვილის მემორიალური მუზეუმი",
+   :longitude 42.0091188,
+   :latitude 41.8740675,
+   :source :openstreetmap}
+  {:name "ექვთიმე თაყაიშვილის სახლ-მუზეუმი",
+   :longitude 42.0105869,
+   :latitude 41.8787668,
+   :source :openstreetmap}
+  {:name "ვაკირის ხელოვნების ცენტრი (Vakiri Arts Center)",
+   :longitude 45.9282057,
+   :latitude 41.6460011,
+   :source :openstreetmap}
+  {:name "ვალოდია წულაძის სახელობის მუზეუმი",
+   :longitude 42.0378226,
+   :latitude 42.0856474,
+   :source :openstreetmap}
+  {:name "ვანის არქეოლოგიური მუზეუმი",
+   :longitude 42.5049035,
+   :latitude 42.0854912,
+   :source :openstreetmap,
+   :homepage "https://vani.gov.ge/en/vani-archeological-museum/",
+   :locality "ვანი"}
+  {:name "ვაჟა-ფშაველას სახლ-მუზეუმი",
+   :longitude 44.9275959,
+   :latitude 42.3232713,
+   :source :openstreetmap}
+  {:name "ვლადიმერ მაიაკოვსკის სახლ-მუზეუმი",
+   :longitude 42.8276236,
+   :latitude 42.0557391,
+   :source :openstreetmap}
+  {:name "ზაქარია ფალიაშვილის მემორიალური სახლ-მუზეუმი",
+   :longitude 44.7857903,
+   :latitude 41.7055299,
+   :source :openstreetmap,
+   :homepage
+   "https://tbilisimuseumsunion.ge/en/museums/zakaria-faliashvilis-sakhl-muzeumi/"}
+  {:name "ზედა ჩხუტუნეთის მაჭახლის ისტორიულ-ეთნოგრაფიული მუზეუმი",
+   :longitude 41.8586847,
+   :latitude 41.48942,
+   :source :openstreetmap}
+  {:name
+   "ზემო მაჩხაანის ხელოვნების ცენტრი (Zemo Machkhaani Arts Center)",
+   :longitude 45.9584346,
+   :latitude 41.5675381,
+   :source :openstreetmap}
+  {:name "ზესტაფონის მხარეთმცოდნეობის მუზეუმი",
+   :longitude 43.0391993,
+   :latitude 42.1062901,
+   :source :openstreetmap}
+  {:name "ზღაპარი",
+   :longitude 45.473258,
+   :latitude 41.9246435,
+   :source :openstreetmap}
+  {:name "ზღვაიას კულტურის სასახლე (Zghvaia Cultural Center)",
+   :longitude 42.0175346,
+   :latitude 42.578259,
+   :source :openstreetmap}
+  {:name "თანამედროვე ხელოვნების გალერეა",
+   :longitude 44.7824734,
+   :latitude 41.7051661,
+   :source :openstreetmap}
+  {:name "თბილისის ავტომუზეუმი",
+   :longitude 44.902219,
+   :latitude 41.6770911,
+   :source :openstreetmap,
+   :homepage "https://www.automuseum.ge/"}
+  {:name "თემურ ფირცხალაიშვილის სახელობის შემოქმედთა მუზეუმი",
+   :longitude 42.0467013,
+   :latitude 42.0780455,
+   :source :openstreetmap,
+   :locality "ლანჩხუთი"}
+  {:name "იაკობ გოგოებაშვილის სახლ-მუზეუმი",
+   :longitude 44.0319759,
+   :latitude 42.0727754,
+   :source :openstreetmap}
+  {:name "იაკობ ნიკოლაძის სახლ-მუზეუმი",
+   :longitude 44.7821306,
+   :latitude 41.709044,
+   :source :openstreetmap,
+   :locality "თბილისი"}
+  {:name "ივანე ბერიტაშვილის მუზეუმი",
+   :longitude 45.820121,
+   :latitude 41.7089158,
+   :source :openstreetmap}
+  {:name
+   "ივანე ჯავახიშვილის სახელობის სამცხე-ჯავახეთის ისტორიის მუზეუმი",
+   :longitude 42.9763411,
+   :latitude 41.6421541,
+   :source :openstreetmap,
+   :homepage "https://museum.ge/index.php?lang_id=ENG&sec_id=49",
+   :locality "ახალციხე"}
+  {:name "ივანე ჯავახიშვილის სახლ-მუზეუმი",
+   :longitude 44.2407738,
+   :latitude 41.8921553,
+   :source :openstreetmap}
+  {:name "ილია ჩავჩავაძის სახელობის მუზეუმი",
+   :longitude 41.6219583,
+   :latitude 41.6455519,
+   :source :openstreetmap}
+  {:name "ილია ჭავჭავაძის ლიტერატურულ-მემორიალური მუზეუმი",
+   :longitude 44.8060909,
+   :latitude 41.7040069,
+   :source :openstreetmap,
+   :homepage "https://uhab.ge/"}
+  {:name "ილია ჭავჭავაძის სახლ-მუზეუმი",
+   :longitude 44.7604,
+   :latitude 41.8919039,
+   :source :openstreetmap,
+   :homepage
+   "http://www.georgianmuseums.ge/?lang=eng&id=1_1&sec_id=7&th_id=184"}
+  {:name "იოსებ ნონეშვილის სახლ-მუზეუმი",
+   :longitude 45.8921472,
+   :latitude 41.6667085,
+   :source :openstreetmap}
+  {:name "ისტორიულ-ეთნოგრაფიული მუზეუმი",
+   :longitude 44.1118648,
+   :latitude 41.9869427,
+   :source :openstreetmap,
+   :homepage "https://www.stalinmuseum.ge/"}
+  {:name "კალმიკოვების სახლ-მუზეუმი",
+   :longitude 43.6678747,
+   :latitude 41.2284442,
+   :source :openstreetmap}
+  {:name "კასპის კულტურის ცენტრი",
+   :longitude 44.4197325,
+   :latitude 41.9211345,
+   :source :openstreetmap}
+  {:name "კოტე მარჯანიშვილის სახელობის კულტურის სახლი",
+   :longitude 45.816287,
+   :latitude 41.9564464,
+   :source :openstreetmap,
+   :locality "ყვარელი"}
+  {:name "კულტურის კლუბი (Culture Club)",
+   :longitude 43.8460046,
+   :latitude 41.9997153,
+   :source :openstreetmap}
+  {:name "კულტურის სახლი",
+   :longitude 42.8237313,
+   :latitude 42.071544,
+   :source :openstreetmap}
+  {:name "კულტურის სახლი",
+   :longitude 46.1071763,
+   :latitude 41.4647632,
+   :source :openstreetmap}
+  {:name "კულტურის სახლი (Culture House)",
+   :longitude 41.7654999,
+   :latitude 42.4884576,
+   :source :openstreetmap}
+  {:name "კულტურის სახლი (Culture House)",
+   :longitude 41.9615929,
+   :latitude 42.6076064,
+   :source :openstreetmap}
+  {:name "კულტურის სახლი (House of Culture)",
+   :longitude 42.0349906,
+   :latitude 42.4116731,
+   :source :openstreetmap}
+  {:name "კულტურის ცენტრი",
+   :longitude 42.128395,
+   :latitude 42.5212974,
+   :source :openstreetmap}
+  {:name "კულტურული ცენტრი",
+   :longitude 44.2360364,
+   :latitude 41.8939546,
+   :source :openstreetmap}
+  {:name "ლაზური ეთნოგრაფიული მუზეუმი",
+   :longitude 41.5493173,
+   :latitude 41.521977,
+   :source :openstreetmap}
+  {:name "ლანჩხუთის მხარეთმცოდნეობის მუზეუმი",
+   :longitude 42.0384546,
+   :latitude 42.0901176,
+   :source :openstreetmap,
+   :locality "ლანჩხუთი"}
+  {:name "ლაშა გახარია სახლ-მუზეუმი",
+   :longitude 42.1724751,
+   :latitude 42.6373193,
+   :source :openstreetmap}
+  {:name "ლენტეხის კულტურული სახლი",
+   :longitude 42.7252218,
+   :latitude 42.7886596,
+   :source :openstreetmap}
+  {:name "ლესია უკრაინკას მუზეუმი",
+   :longitude 43.5539787,
+   :latitude 42.0220488,
+   :source :openstreetmap}
+  {:name "მარგიანის სახლ-მუზეუმი(კოშკი)",
+   :longitude 42.731793,
+   :latitude 43.0490398,
+   :source :openstreetmap,
+   :homepage "https://www.oldmestia.com/"}
+  {:name "მარტვილის მხარეთმცოდნეობის მუზეუმი",
+   :longitude 42.3793975,
+   :latitude 42.4145878,
+   :source :openstreetmap}
+  {:name "მარჯანიძეების სახლი-დარბაზი",
+   :longitude 44.4473493,
+   :latitude 41.8372727,
+   :source :openstreetmap}
+  {:name
+   "მეკი ყურაშვილის სახელობის მუსიკალური სკოლა (Meki Kurashvili Music School)",
+   :longitude 42.7713301,
+   :latitude 42.6507849,
+   :source :openstreetmap}
+  {:name "მემედ აბაშიძის სახლ-მუზეუმი",
+   :longitude 41.6394037,
+   :latitude 41.6520026,
+   :source :openstreetmap,
+   :homepage "https://ajaramuseums.ge/museums/abashidze"}
+  {:name
+   "მერაბ ბერძენიშვილის სახელობის თანამედროვე სახვეთი ხელოვნების ცენტრი",
+   :longitude 42.0052293,
+   :latitude 41.9237744,
+   :source :openstreetmap}
+  {:name
+   "მირზა ფათალი ახუნდოვის სახელობის აზერბაიჯანული კულტურის მუზეუმი",
+   :longitude 44.8160976,
+   :latitude 41.6884204,
+   :source :openstreetmap}
+  {:name "მოლითის ყოფილი რკინიგზის სადგური",
+   :longitude 43.3651561,
+   :latitude 41.9810168,
+   :source :openstreetmap}
+  {:name "მოსე თოიძის სახლ-მუზეუმი",
+   :longitude 44.7957577,
+   :latitude 41.6999428,
+   :source :openstreetmap}
+  {:name "მოსწავლე ახალგაზრდობის სასახლე (Pupilage Youth Palace)",
+   :longitude 42.0624522,
+   :latitude 42.2701637,
+   :source :openstreetmap}
+  {:name "მოსწავლე-ახალგაზრდობის სასახლე",
+   :longitude 44.1068515,
+   :latitude 41.9804542,
+   :source :openstreetmap}
+  {:name "მოსწავლე-ახალგაზრდობის სახლი (Pupilage-Youth House)",
+   :longitude 43.1532345,
+   :latitude 42.5202039,
+   :source :openstreetmap}
+  {:name "მუზა",
+   :longitude 44.7419161,
+   :latitude 41.7082148,
+   :source :openstreetmap,
+   :homepage "http://www.art-muza.ge/"}
+  {:name "მუხრან მაჭავარიანის სახლ-მუზეუმი",
+   :longitude 43.4672902,
+   :latitude 42.2967654,
+   :source :openstreetmap}
+  {:name "ნატო ვაჩნაძის სახლ-მუზეუმი",
+   :longitude 45.7986961,
+   :latitude 41.7289912,
+   :source :openstreetmap}
+  {:name "ნიგურიანების საცხოვრებელი კომპლექსი",
+   :longitude 42.729986,
+   :latitude 43.0460354,
+   :source :openstreetmap}
+  {:name
+   "ნიკო ბერძენიშვილის სახელობის ადგილობრივი ცოდნის მუზეუმი (Niko Berdzenishvili Museum of Local Lore)",
+   :longitude 42.2399696,
+   :latitude 42.0187509,
+   :source :openstreetmap,
+   :homepage "http://www.georgianmuseums.ge/?lang"}
+  {:name "ნიკო ლომოურის სახლ-მუზეუმი",
+   :longitude 44.0623929,
+   :latitude 42.2261476,
+   :source :openstreetmap}
+  {:name "ნიკო ლორთქიფანიძის სახლ-მუზეუმი",
+   :longitude 42.5617207,
+   :latitude 42.3667273,
+   :source :openstreetmap}
+  {:name "ნიკო ფიროსმანაშვილის სახელმწიფო მუზეუმი",
+   :longitude 44.8003272,
+   :latitude 41.7186659,
+   :source :openstreetmap}
+  {:name "ნიკოლაძის კოშკი",
+   :longitude 41.6736935,
+   :latitude 42.1420669,
+   :source :openstreetmap}
+  {:name "ნოდარ დუმბაძის სახლ-მუზეუმი",
+   :longitude 42.2230259,
+   :latitude 41.9729815,
+   :source :openstreetmap}
+  {:name "ნორიოს მუზეუმი",
+   :longitude 44.978756,
+   :latitude 41.7884979,
+   :source :openstreetmap}
+  {:name "ნოქალაქევის არქეოლოგიური მუზეუმი",
+   :longitude 42.1969244,
+   :latitude 42.3579554,
+   :source :openstreetmap,
+   :homepage
+   "http://www.georgianmuseums.ge/?lang=eng&id=1_1&sec_id=11&th_id=244"}
+  {:name "ნუმისის მარანი მუზეუმი",
+   :longitude 45.7505897,
+   :latitude 41.8076241,
+   :source :openstreetmap}
+  {:name "ოტია იოსელიანის სახლ-მუზეუმი",
+   :longitude 42.5922061,
+   :latitude 42.3205958,
+   :source :openstreetmap}
+  {:name "პანკისის ეთნოგრაფიული მუზეუმი",
+   :longitude 45.2855199,
+   :latitude 42.1394722,
+   :source :openstreetmap}
+  {:name "პაოლო იაშვილის სახლ-მუზეუმი",
+   :longitude 43.4697503,
+   :latitude 42.291308,
+   :source :openstreetmap}
+  {:name "რუსთავის ქალაქის მუზეუმი",
+   :longitude 45.0088466,
+   :latitude 41.5382327,
+   :source :openstreetmap}
+  {:name "საავტორო თოჯინების გალერეა",
+   :longitude 44.7886647,
+   :latitude 41.7183898,
+   :source :openstreetmap}
+  {:name "საგარეჯოს მხარეთმცოდნეობის მუზეუმი",
+   :longitude 45.33108,
+   :latitude 41.72642,
+   :source :openstreetmap,
+   :homepage
+   "https://georgianmuseums.ge/%E1%83%9B%E1%83%A3%E1%83%96%E1%83%94%E1%83%A3%E1%83%9B%E1%83%98/sagarejo-local-museum/"}
+  {:name "საქართველოს ეროვნული მუზეუმი",
+   :longitude 44.8002209,
+   :latitude 41.6960428,
+   :source :openstreetmap,
+   :homepage "https://museum.ge/",
+   :locality "თბილისი"}
+  {:name
+   "საქართველოს თეატრის, მუსიკის, კინოსა და ქორეოგრაფიის სახელმწიფო მუზეუმი",
+   :longitude 44.7942896,
+   :latitude 41.7158725,
+   :source :openstreetmap,
+   :locality "თბილისი"}
+  {:name "საქართველოს ფოლკლორის სახელმწიფო ცენტრი",
+   :longitude 44.7987905,
+   :latitude 41.7073015,
+   :source :openstreetmap,
+   :homepage "http://folk.gov.ge/"}
+  {:name "საჩხერის ჯურხა ნადირაძის სახელობის მხარეთმცოდნეობის მუზეუმი",
+   :longitude 43.4264807,
+   :latitude 42.3536493,
+   :source :openstreetmap}
+  {:name "სახელმწიფო ეთნოგრაფიული მუზეუმი",
+   :longitude 44.7436925,
+   :latitude 41.701824,
+   :source :openstreetmap,
+   :locality "თბილისი"}
+  {:name "სახვითი ხელოვნების აკადემია",
+   :longitude 42.3136084,
+   :latitude 41.6428641,
+   :source :openstreetmap}
+  {:name "სელიმ ხიმშიაშვილის სახ. მუზეუმი",
+   :longitude 42.247168,
+   :latitude 41.6496218,
+   :source :openstreetmap}
+  {:name "სვანეთის მუზეუმი",
+   :longitude 42.7265381,
+   :latitude 43.0411618,
+   :source :openstreetmap,
+   :locality "მესტია"}
+  {:name "სისაური სტუდია",
+   :longitude 44.7834261,
+   :latitude 41.6941809,
+   :source :openstreetmap}
+  {:name "სიღნაღის მუზეუმი",
+   :longitude 45.9229891,
+   :latitude 41.6197058,
+   :source :openstreetmap,
+   :homepage "https://museum.ge/index.php?lang_id=ENG&sec_id=52",
+   :locality "Signaghi"}
+  {:name "სმირნოვების მუზეუმი",
+   :longitude 44.8013947,
+   :latitude 41.6903608,
+   :source :openstreetmap}
+  {:name
+   "სტეფანწმინდის ისტორიული მუზეუმი. ალექსანდრე ყაზბეგის სახლ-მუზეუმი",
+   :longitude 44.6432782,
+   :latitude 42.6606841,
+   :source :openstreetmap,
+   :locality "სტეფანწმინდა"}
+  {:name "სულხან-საბა ორბელიანის ლიტერატორული მუზეუმი",
+   :longitude 44.3606687,
+   :latitude 41.4520309,
+   :source :openstreetmap}
+  {:name "სურამის კულტურის სახლი (Surami Culture House)",
+   :longitude 43.5625643,
+   :latitude 42.0179716,
+   :source :openstreetmap}
+  {:name "ტიბაანის ხელოვნების ცენტრი (Tibaani Arts Center)",
+   :longitude 45.9985764,
+   :latitude 41.5747358,
+   :source :openstreetmap}
+  {:name "უჯმანის ხელოვნების ცენტრი",
+   :longitude 43.5973551,
+   :latitude 41.3664721,
+   :source :openstreetmap}
+  {:name "ფორაქიშვილების დარბაზი",
+   :longitude 44.8127676,
+   :latitude 41.690772,
+   :source :openstreetmap}
+  {:name "ფრიდონ ხალვაშის სახლ-მუზეუმი",
+   :longitude 42.0790395,
+   :latitude 41.6466712,
+   :source :openstreetmap}
+  {:name "ფულის მუზეუმი",
+   :longitude 45.8141583,
+   :latitude 41.9522708,
+   :source :openstreetmap,
+   :homepage "https://nbg.gov.ge/en/media/albums/money-museum",
+   :locality "ყვარელი"}
+  {:name "ქართული სოფელი ეთნოგრაფიული მუზეუმი",
+   :longitude 41.6249715,
+   :latitude 41.6077926,
+   :source :openstreetmap}
+  {:name "ქართული ხალხური სიმღერისა და საკრავების სახელმწიფო მუზეუმი",
+   :longitude 44.8092418,
+   :latitude 41.6894754,
+   :source :openstreetmap}
+  {:name "ქეთევან იაშვილის გალერეა",
+   :longitude 45.4750082,
+   :latitude 41.9186351,
+   :source :openstreetmap}
+  {:name "ქვემო ქედის ხელოვნების ცენტრი (Kvemo Kedi Arts Center)",
+   :longitude 46.5111706,
+   :latitude 41.3711796,
+   :source :openstreetmap}
+  {:name "ქიტაანის ხელოვნების ცენტრი (Kitaani Arts Center)",
+   :longitude 45.815558,
+   :latitude 41.7944049,
+   :source :openstreetmap}
+  {:name "ქობულეთის მუზეუმი",
+   :longitude 41.7746985,
+   :latitude 41.8181805,
+   :source :openstreetmap}
+  {:name "ქრისტინე რობაქიძის გალერეა",
+   :longitude 42.7166565,
+   :latitude 42.2530694,
+   :source :openstreetmap,
+   :locality "ქუთაისი"}
+  {:name "ღია სივრცე",
+   :longitude 44.8499424,
+   :latitude 41.6772287,
+   :source :openstreetmap}
+  {:name "შერიფ ხიმშიაშვილის მუზეუმი",
+   :longitude 42.3255522,
+   :latitude 41.5851638,
+   :source :openstreetmap,
+   :homepage
+   "https://visitajara.com/ka/s/Sheriff_Khimshiashvili_House_Museum-196"}
+  {:name
+   "შოთა რუსთაველის სახელობის კულტურული ცენტრი (Shota Rustaveli Cultural Center)",
+   :longitude 43.3824283,
+   :latitude 41.8413475,
+   :source :openstreetmap}
+  {:name "ძველი ანაგას ხელოვნების ცენტრი (Dzveli Anaga Arts Center)",
+   :longitude 46.0478055,
+   :latitude 41.5449346,
+   :source :openstreetmap}
+  {:name "ძმები ნობელების სახელობის ტექნოლოგიური მუზეუმი",
+   :longitude 41.6804821,
+   :latitude 41.661716,
+   :source :openstreetmap}
+  {:name "ჭადრაკის სასახლე",
+   :longitude 42.069274,
+   :latitude 42.6090468,
+   :source :openstreetmap}
+  {:name "ხალხური რეწვის სახელოსნო-გალერეა “მოხეური თექა“",
+   :longitude 44.6411387,
+   :latitude 42.656252,
+   :source :openstreetmap}
+  {:name "ხელედის სახლი (Kheledi House)",
+   :longitude 42.6466074,
+   :latitude 42.7894767,
+   :source :openstreetmap}
+  {:name "ხელოვნების მუზეუმი",
+   :longitude 41.633863,
+   :latitude 41.6486216,
+   :source :openstreetmap,
+   :locality "ბათუმი"}
+  {:name "ხელოვნების ცენტრი",
+   :longitude 43.4430069,
+   :latitude 42.5832308,
+   :source :openstreetmap}
+  {:name "ხელოვნების ცენტრი (Arts Center)",
+   :longitude 43.0887653,
+   :latitude 42.4610735,
+   :source :openstreetmap}
+  {:name "ხერგიანის სახლ-მუზეუმი",
+   :longitude 42.7401276,
+   :latitude 43.053159,
+   :source :openstreetmap,
+   :locality "მესტია"}
+  {:name "ხრამის კულტურის ცენტრი (Khrami Cultural Center)",
+   :longitude 44.2359227,
+   :latitude 41.4694063,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

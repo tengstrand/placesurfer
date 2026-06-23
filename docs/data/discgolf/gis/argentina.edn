@@ -1,0 +1,21 @@
+{:count 1,
+ :country "argentina",
+ :country-code "AR",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:48:11.838142Z",
+ :positions
+ [{:name "RIO CUARTO GOLF CLUB",
+   :longitude -64.39150135221527,
+   :latitude -33.1143326707901,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/33041",
+   :locality "Río Cuarto"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,29 @@
+{:count 3,
+ :country "guinea-bissau",
+ :country-code "GW",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:33.597811Z",
+ :positions
+ [{:name "Memorial da Escravatura e do Tráfico Negreiro de Cacheu",
+   :longitude -16.1658831,
+   :latitude 12.2777336,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Museo Ethnográfico",
+   :longitude -15.6108021,
+   :latitude 11.8568659,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Museu Etnográfico",
+   :longitude -15.5852955,
+   :latitude 11.8629234,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["hitteri/app_ui/interface/ui.cljs"],"mappings":";AAGA,oCAAA,pCAAMA,+EAAMC;AAAZ,AACE,OAACC,4BAAUD","names":["hitteri.app-ui.interface.ui/view","props","hitteri.app-ui.ui.core/view"],"sourcesContent":["(ns hitteri.app-ui.interface.ui\n  (:require [hitteri.app-ui.ui.core :as core]))\n\n(defn view [props]\n  (core/view props))\n"]}

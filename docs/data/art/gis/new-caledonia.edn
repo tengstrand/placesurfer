@@ -1,0 +1,127 @@
+{:count 26,
+ :country "new-caledonia",
+ :country-code "NC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:24:06.000680Z",
+ :positions
+ [{:name "Amicale Vietnamienne",
+   :longitude 166.4742957,
+   :latitude -22.2474801,
+   :source :openstreetmap}
+  {:name "Arts Premiers Galerie",
+   :longitude 166.4452154,
+   :latitude -22.3014404,
+   :source :openstreetmap,
+   :locality "Nouméa"}
+  {:name "Boulangerie Guillain",
+   :longitude 166.4031097,
+   :latitude -22.2617452,
+   :source :openstreetmap,
+   :homepage "https://www.ile-nou.com/"}
+  {:name "Centre Culturel de Boulari",
+   :longitude 166.51747,
+   :latitude -22.2261033,
+   :source :openstreetmap}
+  {:name "Centre Culturel de Hienghène",
+   :longitude 164.9454085,
+   :latitude -20.6924181,
+   :source :openstreetmap}
+  {:name "Centre culturel de Paita",
+   :longitude 166.3663328,
+   :latitude -22.1294351,
+   :source :openstreetmap}
+  {:name "Centre Culturel Ko We Kara",
+   :longitude 166.4561546,
+   :latitude -22.2373016,
+   :source :openstreetmap,
+   :locality "Nouméa"}
+  {:name "Centre Culturel Ko We Kara",
+   :longitude 166.4560352,
+   :latitude -22.2338546,
+   :source :openstreetmap,
+   :locality "Nouméa"}
+  {:name "Centre culturel Pomémie",
+   :longitude 164.8852747,
+   :latitude -21.0685915,
+   :source :openstreetmap}
+  {:name "Centre Culturel Tjibaou",
+   :longitude 166.4818417,
+   :latitude -22.2563071,
+   :source :openstreetmap,
+   :homepage "https://www.adck.nc/"}
+  {:name "Centre d'Art",
+   :longitude 166.4487619,
+   :latitude -22.2769756,
+   :source :openstreetmap,
+   :homepage "http://maisondulivrenc.blogspot.com"}
+  {:name "Centre de Danse Jean-Yves Arroyo",
+   :longitude 166.4497801,
+   :latitude -22.2933999,
+   :source :openstreetmap}
+  {:name "Complexe culturel",
+   :longitude 164.8632622,
+   :latitude -21.0564076,
+   :source :openstreetmap}
+  {:name "Cyber-base de la Fédération des Oeuvres Laïques",
+   :longitude 166.4456651,
+   :latitude -22.2719585,
+   :source :openstreetmap}
+  {:name "Ecomusee du cafe de Voh",
+   :longitude 164.6842962,
+   :latitude -20.9534595,
+   :source :openstreetmap}
+  {:name "Le Mouv'",
+   :longitude 166.4659869,
+   :latitude -22.2341026,
+   :source :openstreetmap}
+  {:name "Maison de la Biodiversité",
+   :longitude 166.4688721,
+   :latitude -22.2786946,
+   :source :openstreetmap}
+  {:name "Maison de la Nature",
+   :longitude 166.4583905,
+   :latitude -22.2568323,
+   :source :openstreetmap}
+  {:name "Maison Lacroix",
+   :longitude 166.4784296,
+   :latitude -22.179658,
+   :source :openstreetmap}
+  {:name "Micro-Folie",
+   :longitude 166.473382,
+   :latitude -22.2179236,
+   :source :openstreetmap,
+   :homepage "https://www.ville-dumbea.nc/micro-folie/"}
+  {:name "Musée de Bourail",
+   :longitude 165.4990368,
+   :latitude -21.5716044,
+   :source :openstreetmap,
+   :homepage "https://www.bourailtourisme.nc/",
+   :locality "Bourail"}
+  {:name "Musée de l'Histoire Maritime",
+   :longitude 166.4339855,
+   :latitude -22.2681335,
+   :source :openstreetmap,
+   :homepage "www.patrimoine-maritime.asso.nc/",
+   :locality "Nouméa"}
+  {:name "Musée de la Nouvelle-Calédonie",
+   :longitude 166.4433978,
+   :latitude -22.2758754,
+   :source :openstreetmap}
+  {:name "Musée de la Ville",
+   :longitude 166.4422155,
+   :latitude -22.2704675,
+   :source :openstreetmap}
+  {:name "Nouméa Rock'n'Roll École de Danse",
+   :longitude 166.4794187,
+   :latitude -22.2254892,
+   :source :openstreetmap,
+   :locality "Nouméa"}
+  {:name "Villa musée de Païta",
+   :longitude 166.3781558,
+   :latitude -22.140787,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

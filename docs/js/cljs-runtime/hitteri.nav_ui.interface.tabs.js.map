@@ -1,0 +1,1 @@
+{"version":3,"sources":["hitteri/nav_ui/interface/tabs.cljs"],"mappings":";AAGA,sCAAA,tCAAMA,mFACHC;AADH,AAEE,OAACC,yBAAUD","names":["hitteri.nav-ui.interface.tabs/tabs","props","hitteri.nav-ui.tabs/tabs"],"sourcesContent":["(ns hitteri.nav-ui.interface.tabs\n  (:require [hitteri.nav-ui.tabs :as tabs]))\n\n(defn tabs\n  [props]\n  (tabs/tabs props))\n"]}

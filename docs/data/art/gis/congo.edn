@@ -1,0 +1,58 @@
+{:count 11,
+ :country "congo",
+ :country-code "CG",
+ :dataset :art,
+ :generated-at "2026-05-26T06:08:11.017928Z",
+ :positions
+ [{:name "Centre Culturel Russe",
+   :longitude 15.2827363,
+   :latitude -4.2766805,
+   :source :openstreetmap}
+  {:name "Cercle Africain",
+   :longitude 11.8639913,
+   :latitude -4.7872859,
+   :source :openstreetmap}
+  {:name "Institut francais",
+   :longitude 11.8595222,
+   :latitude -4.7925479,
+   :source :openstreetmap}
+  {:name "Institut Français",
+   :longitude 15.2587795,
+   :latitude -4.2802386,
+   :source :openstreetmap,
+   :locality "Brazzaville"}
+  {:name "La cite des arts",
+   :longitude 11.8599787,
+   :latitude -4.7958683,
+   :source :openstreetmap}
+  {:name "Manufacture d'Arts et d'Artisanat Congolais",
+   :longitude 15.2570951,
+   :latitude -4.2870295,
+   :source :openstreetmap,
+   :locality "Brazzaville"}
+  {:name "Musee De Diosso",
+   :longitude 11.8523758,
+   :latitude -4.625539,
+   :source :openstreetmap}
+  {:name "Musée de Diosso",
+   :longitude 11.8584453,
+   :latitude -4.6177995,
+   :source :openstreetmap}
+  {:name "Musée galerie du bassin du Congo",
+   :longitude 15.2913586,
+   :latitude -4.2692572,
+   :source :openstreetmap}
+  {:name "Mémorial Pierre Savorgnan de Brazza",
+   :longitude 15.2793798,
+   :latitude -4.2784887,
+   :source :openstreetmap}
+  {:name "yousef Alsagir ",
+   :longitude 14.7781437,
+   :latitude -1.2E-6,
+   :source :openstreetmap,
+   :homepage "www.sco.org.ly "}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

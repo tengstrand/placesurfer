@@ -1,0 +1,182 @@
+{:count 30,
+ :country "united-kingdom",
+ :country-code "GB",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:25:06.838866Z",
+ :positions
+ [{:name "Amesbury Disc Golf Course",
+   :longitude -1.7626592086881203,
+   :latitude 51.156750842564094,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35288",
+   :locality "Salisbury"}
+  {:name "Calcot",
+   :longitude -2.231553,
+   :latitude 51.653503,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/9415",
+   :locality "Tetbury"}
+  {:name "Clara Vale Recretion Ground",
+   :longitude -1.799217819648021,
+   :latitude 54.97773720829176,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/14275",
+   :locality "Ryton"}
+  {:name "Cotswold View DGC",
+   :longitude -1.4713753356331836,
+   :latitude 51.88531622660989,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/38722",
+   :locality "Charlburyб Chipping Norton OX7"}
+  {:name "Craggan",
+   :longitude -3.627805709838867,
+   :latitude 57.31283804495915,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/9613",
+   :locality "Grantown on Spey"}
+  {:name "Dinton Pastures Country Park -> WHITE",
+   :longitude -0.869382917650114,
+   :latitude 51.446425006136735,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/15615"}
+  {:name "Doncaster Golf Club",
+   :longitude -1.063419828443699,
+   :latitude 53.49011915772806,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/25431",
+   :locality "Doncaster"}
+  {:name "Harcourt Course",
+   :longitude -1.2812569,
+   :latitude 51.734627,
+   :source :openstreetmap}
+  {:name "High Lodge Disc Golf",
+   :longitude 0.6632905,
+   :latitude 52.4358339,
+   :source :openstreetmap,
+   :homepage
+   "https://www.forestryengland.uk/high-lodge/disc-golf-high-lodge"}
+  {:name "Horsenden Hill Activity Centre",
+   :longitude -0.3217103010286735,
+   :latitude 51.547575014135816,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/23165",
+   :locality "Greenford"}
+  {:name "Kenward Place disc golf",
+   :longitude 0.42109690963684443,
+   :latitude 51.2373567967243,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35238",
+   :locality "Maidstone"}
+  {:name "King George V Park",
+   :longitude -1.1688571475279161,
+   :latitude 53.12888931560775,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35325",
+   :locality "Mansfield"}
+  {:name "Lea Heath",
+   :longitude -0.8717681,
+   :latitude 51.4430914,
+   :source :openstreetmap,
+   :homepage "https://bdgclub.wordpress.com/"}
+  {:name "Lloyd Park Croydon",
+   :longitude -0.0808055,
+   :latitude 51.3642562,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/10267",
+   :locality "Croydon"}
+  {:name "Lloyd Park Disc Golf Course",
+   :longitude -0.0805418063229979,
+   :latitude 51.364306465731346,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/27902",
+   :locality "Croydon"}
+  {:name "Longford Park (advanced course)",
+   :longitude -2.291078567504883,
+   :latitude 53.448337207560684,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/13297",
+   :locality "Manchester"}
+  {:name "LVRP Disc Golf",
+   :longitude -0.0181481,
+   :latitude 51.6931341,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitleevalley.org.uk/en/content/cms/nature/nature-reserve/river-lee-country-park/lee-valley-disc-golf-course/"}
+  {:name "Mendip",
+   :longitude -2.813605,
+   :latitude 51.329911,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/6045",
+   :locality "Bristol"}
+  {:name "Mereside",
+   :longitude -2.7259721,
+   :latitude 52.6908788,
+   :source :openstreetmap}
+  {:name "Papworth Everard White",
+   :longitude -0.12119962936191087,
+   :latitude 52.25420863542698,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/38739",
+   :locality "Cambridge CB23 3RD"}
+  {:name "Quarry Park Disk Golf",
+   :longitude -1.547158,
+   :latitude 52.3085188,
+   :source :openstreetmap}
+  {:name "Quarry Park Open 2019 rd1",
+   :longitude -1.3700623441050368,
+   :latitude 54.846741463489565,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/15339",
+   :locality "Leamington Spa"}
+  {:name "Quarry Park Open 2019 rd2",
+   :longitude -0.6669556479178027,
+   :latitude 53.9947414237804,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/15348"}
+  {:name "Reboot Disc Golf",
+   :longitude -2.585394,
+   :latitude 55.9911034,
+   :source :openstreetmap,
+   :homepage "https://www.rebootdiscgolf.com/"}
+  {:name "Reboot Disc Golf Course ",
+   :longitude -2.7194941678774285,
+   :latitude 56.05861654366072,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/14685",
+   :locality "North Berwick"}
+  {:name "Riverside Park Disc Golf",
+   :longitude -3.1832144,
+   :latitude 56.2013648,
+   :source :openstreetmap}
+  {:name "Sharley Park (Disc Golf UK)",
+   :longitude -1.4042574296197756,
+   :latitude 53.164838429451834,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35182",
+   :locality "Chesterfield"}
+  {:name "Sherwood Pines",
+   :longitude -1.0876020651286922,
+   :latitude 53.16751947923575,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35068",
+   :locality "Mansfield"}
+  {:name "Springburn Park",
+   :longitude -4.221763856073096,
+   :latitude 55.89019112053353,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/21919",
+   :locality "Glasgow"}
+  {:name "VereinsmeisterschaftDGMUC2024",
+   :longitude 11.591511998089032,
+   :latitude 48.03633430881712,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/41596"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

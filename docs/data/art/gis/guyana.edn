@@ -1,0 +1,31 @@
+{:count 5,
+ :country "guyana",
+ :country-code "GY",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:34.520331Z",
+ :positions
+ [{:name "Castalaney House",
+   :longitude -58.1495915,
+   :latitude 6.8059421,
+   :source :openstreetmap}
+  {:name "Golden Heart Day and Night Care Centre",
+   :longitude -57.9991479,
+   :latitude 6.7639847,
+   :source :openstreetmap}
+  {:name "Guyana National Museum",
+   :longitude -58.1657305,
+   :latitude 6.8134432,
+   :source :openstreetmap}
+  {:name "Linden Museum",
+   :longitude -58.3051806,
+   :latitude 6.0071463,
+   :source :openstreetmap}
+  {:name "Walter Roth Museum",
+   :longitude -58.1639463,
+   :latitude 6.8175393,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

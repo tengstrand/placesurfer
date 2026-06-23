@@ -1,0 +1,1 @@
+{"version":3,"sources":["placesurfer/nav_ui/interface/tabs.cljs"],"mappings":";AAGA,0CAAA,1CAAMA,2FACHC;AADH,AAEE,OAACC,6BAAUD","names":["placesurfer.nav-ui.interface.tabs/tabs","props","placesurfer.nav-ui.tabs/tabs"],"sourcesContent":["(ns placesurfer.nav-ui.interface.tabs\n  (:require [placesurfer.nav-ui.tabs :as tabs]))\n\n(defn tabs\n  [props]\n  (tabs/tabs props))\n"]}

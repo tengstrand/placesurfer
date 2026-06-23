@@ -1,0 +1,25 @@
+{:count 2,
+ :country "brazil",
+ :country-code "BR",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:05:33.555946Z",
+ :positions
+ [{:name "Colinas Do Piracicaba Disc Golf",
+   :longitude -47.7873926,
+   :latitude -22.6628616,
+   :source :openstreetmap}
+  {:name "Golfe de Baia de Golfinho",
+   :longitude -38.63461665725117,
+   :latitude -12.799868756481587,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/26508",
+   :locality "Salvador"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,43 @@
+{:count 6,
+ :country "monaco",
+ :country-code "MC",
+ :dataset :art,
+ :generated-at "2026-05-26T06:22:16.632723Z",
+ :positions
+ [{:name "Hauser & Wirth",
+   :longitude 7.4258968,
+   :latitude 43.7397137,
+   :source :openstreetmap,
+   :homepage "https://www.hauserwirth.com/monaco/"}
+  {:name
+   "La Collection de voitures anciennes de SAS le Prince de Monaco",
+   :longitude 7.4171487,
+   :latitude 43.7308941,
+   :source :openstreetmap,
+   :homepage "https://www.mtcc.mc/"}
+  {:name "La Collection de Voitures de SAS le Prince de Monaco",
+   :longitude 7.4215683,
+   :latitude 43.7351727,
+   :source :openstreetmap,
+   :homepage "https://www.mtcc.mc/",
+   :locality "Monaco"}
+  {:name "Musée d'Anthropologie Préhistorique",
+   :longitude 7.413935,
+   :latitude 43.7320036,
+   :source :openstreetmap,
+   :homepage "https://map-mc.org/"}
+  {:name "Musée de la Chapelle de la Visitation",
+   :longitude 7.4254171,
+   :latitude 43.7314596,
+   :source :openstreetmap,
+   :homepage "https://www.monte-carlo.mc/en/tourism/musee-chapelle/"}
+  {:name "Nouveau Musée National de Monaco",
+   :longitude 7.4224217,
+   :latitude 43.738585,
+   :source :openstreetmap,
+   :homepage "https://www.nmnm.mc/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

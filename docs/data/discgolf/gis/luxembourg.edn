@@ -1,0 +1,44 @@
+{:count 5,
+ :country "luxembourg",
+ :country-code "LU",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T14:16:59.552525Z",
+ :positions
+ [{:name "Château de Bourglinster ",
+   :longitude 6.2153163630337644,
+   :latitude 49.702408846707044,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/40356",
+   :locality "Bourglinster"}
+  {:name "Disc Golf Park Dudelange",
+   :longitude 6.088487471634522,
+   :latitude 49.483945677780184,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/25614",
+   :locality "Dudelange"}
+  {:name "Disc Golf Park Um Belval",
+   :longitude 5.939002014088118,
+   :latitude 49.50564874690866,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/24585",
+   :locality "Belvaux"}
+  {:name "Disc Golf Park Um Belval 2x9",
+   :longitude 5.938071033767642,
+   :latitude 49.506043002205274,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/45370"}
+  {:name "DiscGolfPark Dudelange",
+   :longitude 6.088493977343518,
+   :latitude 49.483873602563335,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/17657",
+   :locality "Dudelange"}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

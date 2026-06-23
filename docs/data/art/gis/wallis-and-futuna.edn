@@ -1,0 +1,15 @@
+{:count 1,
+ :country "wallis-and-futuna",
+ :country-code "WF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:53.340661Z",
+ :positions
+ [{:name "Musée Saint-Pierre-Chanel",
+   :longitude -178.0931016,
+   :latitude -14.2951896,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,29 @@
+{:count 3,
+ :country "south-sudan",
+ :country-code "SS",
+ :dataset :art,
+ :generated-at "2026-05-26T06:33:09.842008Z",
+ :positions
+ [{:name "Fr. Leopoldo Anywar Museum",
+   :longitude 32.3004871,
+   :latitude 4.1257784,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Nyakuron Cultural Center",
+   :longitude 31.5847714,
+   :latitude 4.8456245,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Nyakuron Exhibition Center",
+   :longitude 31.584724,
+   :latitude 4.8425972,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

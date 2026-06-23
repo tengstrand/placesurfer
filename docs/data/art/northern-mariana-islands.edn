@@ -1,0 +1,26 @@
+{:count 2,
+ :country "northern-mariana-islands",
+ :country-code "MP",
+ :dataset :art,
+ :generated-at "2026-05-26T06:25:22.751746Z",
+ :positions
+ [{:name "American Memorial Park Visitor Center",
+   :longitude 145.7203986,
+   :latitude 15.2158139,
+   :source :openstreetmap,
+   :homepage "https://www.nps.gov/amme/index.htm",
+   :locality "Garapan",
+   :image "",
+   :description ""}
+  {:name "NMI Museum of History and Culture",
+   :longitude 145.7191711,
+   :latitude 15.2013594,
+   :source :openstreetmap,
+   :homepage "https://nmimuseum.org/",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,19 @@
+{:count 2,
+ :country "marshall-islands",
+ :country-code "MH",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:43.451744Z",
+ :positions
+ [{:name "Alele National Museum",
+   :longitude 171.3735814,
+   :latitude 7.1076412,
+   :source :openstreetmap}
+  {:name "Kwajalein Art Guild",
+   :longitude 167.7399127,
+   :latitude 8.7303998,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

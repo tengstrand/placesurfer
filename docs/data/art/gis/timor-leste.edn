@@ -1,0 +1,32 @@
+{:count 5,
+ :country "timor-leste",
+ :country-code "TL",
+ :dataset :art,
+ :generated-at "2026-05-26T06:36:42.955551Z",
+ :positions
+ [{:name "Balibo flag house",
+   :longitude 125.0436104,
+   :latitude -8.9695151,
+   :source :openstreetmap}
+  {:name "Chega! Exhibition",
+   :longitude 125.5777096,
+   :latitude -8.5653176,
+   :source :openstreetmap}
+  {:name "Galeria Memória Viva",
+   :longitude 125.5666669,
+   :latitude -8.5489616,
+   :source :openstreetmap,
+   :locality "Dili"}
+  {:name "Museum Resistensia de Timor-Leste",
+   :longitude 125.5775575,
+   :latitude -8.5556454,
+   :source :openstreetmap}
+  {:name "Posto Antigo Uatulari",
+   :longitude 126.5631645,
+   :latitude -8.7777242,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

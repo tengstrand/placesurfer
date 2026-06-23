@@ -1,0 +1,23 @@
+{:count 3,
+ :country "solomon-islands",
+ :country-code "SB",
+ :dataset :art,
+ :generated-at "2026-05-26T06:32:20.450338Z",
+ :positions
+ [{:name "Solomon Islands National Museum",
+   :longitude 159.9542598,
+   :latitude -9.4311487,
+   :source :openstreetmap}
+  {:name "Tetere Beach World War Museum",
+   :longitude 160.2159822,
+   :latitude -9.4276166,
+   :source :openstreetmap}
+  {:name "Vilu War Museum",
+   :longitude 159.7935439,
+   :latitude -9.3189826,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

@@ -1,0 +1,26 @@
+{:count 2,
+ :country "saint-barthelemy",
+ :country-code "BL",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:04.441435Z",
+ :positions
+ [{:name "Musée du Patrimoine Le Brigantin",
+   :longitude -62.8503687,
+   :latitude 17.8952438,
+   :source :openstreetmap,
+   :homepage "https://museesstbarth.com/fr/page/brigantin-index",
+   :image "",
+   :description ""}
+  {:name "Musée Wall House",
+   :longitude -62.8521286,
+   :latitude 17.8982635,
+   :source :openstreetmap,
+   :homepage "https://www.museesstbarth.com/fr/page/wall-house-index",
+   :locality "Saint-Barthélemy",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

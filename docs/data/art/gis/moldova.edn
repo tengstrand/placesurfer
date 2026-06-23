@@ -1,0 +1,664 @@
+{:count 134,
+ :country "moldova",
+ :country-code "MD",
+ :dataset :art,
+ :generated-at "2026-05-26T06:22:15.661977Z",
+ :positions
+ [{:name "Ad-art Gallery",
+   :longitude 28.80599,
+   :latitude 47.0315555,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Ansamblul Național Academic de Dans „Joc”",
+   :longitude 28.7947787,
+   :latitude 47.0441941,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Art-Labyrinth",
+   :longitude 28.8214239,
+   :latitude 47.0239184,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/art.labyrinth/",
+   :locality "Chișinău"}
+  {:name "Biblioteca satului pelinia",
+   :longitude 27.8308949,
+   :latitude 47.8752385,
+   :source :openstreetmap}
+  {:name "Casa Albă",
+   :longitude 28.1323515,
+   :latitude 45.6215004,
+   :source :openstreetmap}
+  {:name "Casa de Creație din Vadul lui Vodă",
+   :longitude 29.0801422,
+   :latitude 47.0888172,
+   :source :openstreetmap,
+   :locality "Vadul lui Vodă"}
+  {:name "Casa de Creație Rezina",
+   :longitude 28.9613068,
+   :latitude 47.7434437,
+   :source :openstreetmap,
+   :locality "Rezina"}
+  {:name "Casa de Creație „Piotr Alii și Cristin Miron”",
+   :longitude 28.8276343,
+   :latitude 47.0152079,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Casa de cultură",
+   :longitude 28.7699276,
+   :latitude 47.2512913,
+   :source :openstreetmap,
+   :locality "Peresecina"}
+  {:name "Casa de Cultură",
+   :longitude 28.2754166,
+   :latitude 46.8225406,
+   :source :openstreetmap,
+   :locality "Crasnoarmeiscoe"}
+  {:name "Casa de Cultură",
+   :longitude 28.7129801,
+   :latitude 47.1340439,
+   :source :openstreetmap}
+  {:name "Casa de Cultură",
+   :longitude 27.6960158,
+   :latitude 47.5044017,
+   :source :openstreetmap,
+   :locality "Măgureanca"}
+  {:name "Casa de cultură",
+   :longitude 28.7764465,
+   :latitude 46.232679,
+   :source :openstreetmap}
+  {:name "Casa de cultură",
+   :longitude 27.7117604,
+   :latitude 47.7421253,
+   :source :openstreetmap}
+  {:name "Casa de cultură",
+   :longitude 28.675013,
+   :latitude 46.0941428,
+   :source :openstreetmap}
+  {:name "Casa de Cultură",
+   :longitude 27.6222424,
+   :latitude 48.0866379,
+   :source :openstreetmap}
+  {:name "Casa de Cultură",
+   :longitude 27.301353,
+   :latitude 47.9787513,
+   :source :openstreetmap,
+   :locality "Pociumbeni"}
+  {:name "Casa de Cultură",
+   :longitude 28.8225091,
+   :latitude 47.237981,
+   :source :openstreetmap}
+  {:name "Casa de cultură a Satului Mîndrești",
+   :longitude 28.2726597,
+   :latitude 47.5046843,
+   :source :openstreetmap,
+   :locality "Mîndrești"}
+  {:name "Casa de cultură Ciuciuieni",
+   :longitude 28.1262058,
+   :latitude 47.5556723,
+   :source :openstreetmap,
+   :locality "Ciuciuieni"}
+  {:name "Casa de cultură Copăceni",
+   :longitude 28.2320486,
+   :latitude 47.6140358,
+   :source :openstreetmap,
+   :locality "Copăceni"}
+  {:name "Casa de Cultură din Hîrtop",
+   :longitude 27.7050042,
+   :latitude 47.4804647,
+   :source :openstreetmap,
+   :locality "Hîrtop"}
+  {:name "Casa de cultură Japca",
+   :longitude 28.7034589,
+   :latitude 47.9801444,
+   :source :openstreetmap,
+   :locality "Japca"}
+  {:name "Casa de Culură",
+   :longitude 27.901161,
+   :latitude 47.4461946,
+   :source :openstreetmap}
+  {:name "Casa Memorială \"Petru Zadnipru\"",
+   :longitude 27.7222231,
+   :latitude 48.3755197,
+   :source :openstreetmap,
+   :locality "Sauca"}
+  {:name "Casa Memorială ,,Moș Pantelii\"",
+   :longitude 27.809187,
+   :latitude 47.176988,
+   :source :openstreetmap,
+   :locality "Ungheni"}
+  {:name "Casa Memorială „Alexei Mateevici”",
+   :longitude 29.3539352,
+   :latitude 46.6173756,
+   :source :openstreetmap,
+   :locality "Zaim"}
+  {:name "Casa Muzeu Alexei Mateevici",
+   :longitude 29.0472082,
+   :latitude 46.6825151,
+   :source :openstreetmap,
+   :locality "Căinari"}
+  {:name "Casa Națională Nisporeni",
+   :longitude 28.1861989,
+   :latitude 47.0779996,
+   :source :openstreetmap,
+   :locality "Nisporeni"}
+  {:name "Casa-muzeu ”Alexandru Donici”",
+   :longitude 28.6712617,
+   :latitude 47.2892915,
+   :source :openstreetmap}
+  {:name "Casa-Muzeu „Alexandr Pușkin“",
+   :longitude 28.2729069,
+   :latitude 47.1253016,
+   :source :openstreetmap}
+  {:name "Casa-Muzeu „Alexandr Pușkin”",
+   :longitude 28.8366054,
+   :latitude 47.0317405,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Centru Cultural Chetrosu",
+   :longitude 27.8935937,
+   :latitude 48.074115,
+   :source :openstreetmap,
+   :locality "Chetrosu"}
+  {:name "Centrul cultural",
+   :longitude 28.2049388,
+   :latitude 45.9033405,
+   :source :openstreetmap}
+  {:name "Centrul de Creație al Copiilor -  Glodeni",
+   :longitude 27.5186822,
+   :latitude 47.7747431,
+   :source :openstreetmap}
+  {:name "Centrul Expozițional „Constantin Brâncuși”",
+   :longitude 28.8472265,
+   :latitude 47.0141403,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Centrul Raional de Cultură „Andrei Suruceanu“",
+   :longitude 28.8208765,
+   :latitude 47.3787794,
+   :source :openstreetmap,
+   :locality "Orhei"}
+  {:name "Centrul „Nicușor”",
+   :longitude 28.8188589,
+   :latitude 47.1000483,
+   :source :openstreetmap,
+   :locality "Grătiești"}
+  {:name "Codreanca",
+   :longitude 28.8115157,
+   :latitude 47.0350924,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Codrii",
+   :longitude 28.36235,
+   :latitude 47.1117985,
+   :source :openstreetmap}
+  {:name "Complexul Etno-Cultural Văleni",
+   :longitude 28.1726705,
+   :latitude 45.6240737,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/complexvaleni/"}
+  {:name "Complexul istorico-arhitectural „Manuc Bey”",
+   :longitude 28.5821521,
+   :latitude 46.8256347,
+   :source :openstreetmap,
+   :homepage "http://www.manucbey.md",
+   :locality "Hîncești"}
+  {:name "Conacul boierului Ion Hasnaș",
+   :longitude 27.87295,
+   :latitude 47.9440249,
+   :source :openstreetmap,
+   :locality "Satul Sofia"}
+  {:name "Conacul familiei Lazo",
+   :longitude 28.8955401,
+   :latitude 47.3606236,
+   :source :openstreetmap,
+   :locality "Piatra"}
+  {:name "Cămin cultural",
+   :longitude 28.2078179,
+   :latitude 46.7563563,
+   :source :openstreetmap}
+  {:name "Cămin Cultural",
+   :longitude 28.8442774,
+   :latitude 46.6585427,
+   :source :openstreetmap}
+  {:name "Cămin Cultural",
+   :longitude 29.8467259,
+   :latitude 46.4958622,
+   :source :openstreetmap}
+  {:name "Căminul Cultural",
+   :longitude 28.8734301,
+   :latitude 46.1212521,
+   :source :openstreetmap}
+  {:name "Căminul Cultural Chiștelnița",
+   :longitude 28.6486571,
+   :latitude 47.5699101,
+   :source :openstreetmap,
+   :locality "Chiștelnița"}
+  {:name "Căminul cultural Musaitu",
+   :longitude 28.5006772,
+   :latitude 45.8207701,
+   :source :openstreetmap,
+   :locality "Musaitu"}
+  {:name "Galeria Andrei Mudrea",
+   :longitude 28.8355387,
+   :latitude 47.0271018,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name
+   "Galeria Colecțiilor „Petru Costin” a Consiliului Raional Ialoveni",
+   :longitude 28.778279,
+   :latitude 46.9424868,
+   :source :openstreetmap,
+   :homepage
+   "https://nataliacostin2.wixsite.com/pcostinconsialoveni?fbclid=IwAR2SVpenOdObEchCWFGEFbpHu566uHlcEJKD_CACrDyoigy3QBFYwikPS48",
+   :locality "Ialoveni"}
+  {:name "Galeria de artă",
+   :longitude 28.6579178,
+   :latitude 46.300728,
+   :source :openstreetmap,
+   :locality "Comrat"}
+  {:name "Galeria de Artă Criuleni",
+   :longitude 29.1595473,
+   :latitude 47.2090081,
+   :source :openstreetmap,
+   :locality "Criuleni"}
+  {:name "Galeria de Artă „Alexander”",
+   :longitude 28.8317327,
+   :latitude 47.0262575,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "KidLand",
+   :longitude 28.8443375,
+   :latitude 47.0617776,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Muzeu",
+   :longitude 27.3029818,
+   :latitude 48.1719264,
+   :source :openstreetmap,
+   :locality "Edineț"}
+  {:name "Muzeu D. Matcovschi",
+   :longitude 28.826707,
+   :latitude 47.9300022,
+   :source :openstreetmap}
+  {:name "Muzeul de Arheologie și Antropologie",
+   :longitude 28.9641243,
+   :latitude 47.3081035,
+   :source :openstreetmap,
+   :locality "Butuceni"}
+  {:name "Muzeul de artă",
+   :longitude 28.4473425,
+   :latitude 46.3337171,
+   :source :openstreetmap,
+   :locality "Vișniovca"}
+  {:name "Muzeul de Etnografie Butuceni",
+   :longitude 28.968556,
+   :latitude 47.3013266,
+   :source :openstreetmap,
+   :locality "Butuceni"}
+  {:name "Muzeul de Istorie al Ministerului Afacerilor Interne",
+   :longitude 28.8385927,
+   :latitude 47.0200003,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name
+   "Muzeul de Istorie şi Etnografie a Ținutului Natal Molovata Nouă",
+   :longitude 29.090657,
+   :latitude 47.348438,
+   :source :openstreetmap,
+   :locality "Molovata Nouă"}
+  {:name "Muzeul de Istorie şi Etnografie Sculeni",
+   :longitude 27.6245856,
+   :latitude 47.3283929,
+   :source :openstreetmap,
+   :locality "Sculeni"}
+  {:name "Muzeul de Istorie și Etnografie",
+   :longitude 27.9207398,
+   :latitude 47.759767,
+   :source :openstreetmap,
+   :locality "Bălṭi"}
+  {:name "Muzeul de Istorie și Etnografie",
+   :longitude 28.3022845,
+   :latitude 48.1554739,
+   :source :openstreetmap,
+   :locality "Soroca"}
+  {:name "Muzeul de Istorie și Etnografie",
+   :longitude 28.3039777,
+   :latitude 47.8896922,
+   :source :openstreetmap,
+   :locality "Florești"}
+  {:name "Muzeul de Istorie și Etnografie Borogani",
+   :longitude 28.5191642,
+   :latitude 46.3685652,
+   :source :openstreetmap,
+   :locality "Borogani"}
+  {:name "Muzeul de Istorie și Etnografie Doroțcaia",
+   :longitude 29.2012865,
+   :latitude 47.173227,
+   :source :openstreetmap,
+   :locality "Doroțcaia"}
+  {:name "Muzeul de Istorie și Etnografie Iurceni",
+   :longitude 28.2617409,
+   :latitude 47.0794111,
+   :source :openstreetmap}
+  {:name "Muzeul de Istorie și Etnografie Leova",
+   :longitude 28.2525499,
+   :latitude 46.4810822,
+   :source :openstreetmap,
+   :locality "Leova"}
+  {:name "Muzeul de Istorie și Etnografie Rîșcani",
+   :longitude 27.5494334,
+   :latitude 47.957725,
+   :source :openstreetmap}
+  {:name "Muzeul de Istorie și Etnografie Ungheni",
+   :longitude 27.7927306,
+   :latitude 47.2019671,
+   :source :openstreetmap,
+   :locality "Ungheni"}
+  {:name "Muzeul de Istorie și Etnografie „Lazăr Dubinovschi”",
+   :longitude 27.7096989,
+   :latitude 47.5778896,
+   :source :openstreetmap,
+   :locality "Fălești"}
+  {:name
+   "Muzeul de istorie și studiere a ținutului - orașul Vulcănești",
+   :longitude 28.4022211,
+   :latitude 45.6833286,
+   :source :openstreetmap}
+  {:name "Muzeul Etnografic Sângerei",
+   :longitude 28.1391402,
+   :latitude 47.6347954,
+   :source :openstreetmap,
+   :locality "Sîngerei"}
+  {:name "Muzeul Etnografic „Leagănul Veșniciei”",
+   :longitude 28.8228999,
+   :latitude 47.0996229,
+   :source :openstreetmap,
+   :locality "Grătiești"}
+  {:name "Muzeul Fabricii de Vinuri din Stăuceni",
+   :longitude 28.8665323,
+   :latitude 47.0862736,
+   :source :openstreetmap,
+   :locality "Stăuceni"}
+  {:name "Muzeul Militar",
+   :longitude 28.8402887,
+   :latitude 47.0160147,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Muzeul Militar",
+   :longitude 28.865993,
+   :latitude 47.0546725,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Muzeul Național al Literaturii Române",
+   :longitude 28.8218861,
+   :latitude 47.0185191,
+   :source :openstreetmap,
+   :homepage "https://mnl.md/",
+   :locality "Chișinău"}
+  {:name "Muzeul Național de Artă al Moldovei",
+   :longitude 28.8300762,
+   :latitude 47.02184,
+   :source :openstreetmap,
+   :homepage "https://www.mnam.md/",
+   :locality "Chișinău"}
+  {:name "Muzeul Național de Artă al Moldovei, blocul 2",
+   :longitude 28.8258164,
+   :latitude 47.0284775,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Muzeul nemților din Basarabia",
+   :longitude 28.7497365,
+   :latitude 46.5816731,
+   :source :openstreetmap,
+   :locality "Ecaterinovca"}
+  {:name "Muzeul Patrimoniului Cultural Taraclia",
+   :longitude 28.6736496,
+   :latitude 45.9061406,
+   :source :openstreetmap,
+   :locality "Taraclia"}
+  {:name "Muzeul Raional de Istorie și Etnografie „Anatol Candu”",
+   :longitude 28.5786744,
+   :latitude 46.9726091,
+   :source :openstreetmap,
+   :locality "Văsieni"}
+  {:name "Muzeul Regiei Transport Electric Chișinău",
+   :longitude 28.8221299,
+   :latitude 47.0354742,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Muzeul satului",
+   :longitude 28.2167696,
+   :latitude 47.8417718,
+   :source :openstreetmap}
+  {:name "Muzeul satului Budești",
+   :longitude 29.002415,
+   :latitude 47.0628086,
+   :source :openstreetmap,
+   :locality "Budești"}
+  {:name "Muzeul Satului Pîrlița",
+   :longitude 27.8725544,
+   :latitude 47.3147949,
+   :source :openstreetmap,
+   :locality "Pîrlița"}
+  {:name "Muzeul Sătesc",
+   :longitude 29.0569953,
+   :latitude 46.9626158,
+   :source :openstreetmap}
+  {:name "Muzeul Tehnicii Agricole",
+   :longitude 27.8808829,
+   :latitude 47.3322532,
+   :source :openstreetmap,
+   :locality "Pîrlița"}
+  {:name "Muzeul în Aer Liber",
+   :longitude 27.7077539,
+   :latitude 47.5742658,
+   :source :openstreetmap,
+   :locality "Fălești"}
+  {:name "Muzeul în Aer Liber „Petru Costin”",
+   :longitude 28.6049663,
+   :latitude 47.0183638,
+   :source :openstreetmap,
+   :homepage
+   "https://nataliacostin2.wixsite.com/pcostinconsialoveni?fbclid=IwAR3CFbj8P2eGXikCfm6OPc1CdLlG04hKR_iA3FC_epVV6yQKpSRE8PKVz4I",
+   :locality "Malcoci"}
+  {:name "Muzeul Ținutului Cahul",
+   :longitude 28.1863868,
+   :latitude 45.9023575,
+   :source :openstreetmap,
+   :locality "Cahul"}
+  {:name "Muzeul „Vatra Dumeniului”",
+   :longitude 28.4390451,
+   :latitude 47.1537197,
+   :source :openstreetmap,
+   :locality "Vorniceni"}
+  {:name "Palatul culturii Tvardița",
+   :longitude 28.9640133,
+   :latitude 46.152636,
+   :source :openstreetmap,
+   :locality "Tvardița"}
+  {:name "Peperete",
+   :longitude 28.8252999,
+   :latitude 47.021425,
+   :source :openstreetmap,
+   :homepage "https://chiosc.oberliht.com/",
+   :locality "Chișinău"}
+  {:name "Pinacoteca „Antioh Cantemir”",
+   :longitude 27.9271816,
+   :latitude 47.7610125,
+   :source :openstreetmap,
+   :locality "Bălți"}
+  {:name "Scena din Parc",
+   :longitude 28.8312536,
+   :latitude 47.0329274,
+   :source :openstreetmap,
+   :homepage "https://parculzaikin.wordpress.com/",
+   :locality "Chișinău"}
+  {:name "Selfie Museum",
+   :longitude 28.8378857,
+   :latitude 47.0232315,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Sinagoga din Orhei",
+   :longitude 28.8255452,
+   :latitude 47.3822234,
+   :source :openstreetmap,
+   :locality "Orhei"}
+  {:name "Teatrul de vară",
+   :longitude 28.827787,
+   :latitude 47.1438203,
+   :source :openstreetmap,
+   :locality "Măgdăcești"}
+  {:name "Uniunea Cineaștilor",
+   :longitude 28.8479612,
+   :latitude 47.0206707,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Zard Art Lab",
+   :longitude 28.8145472,
+   :latitude 47.0011186,
+   :source :openstreetmap,
+   :locality "Chișinău"}
+  {:name "Școala de Arte Căușeni",
+   :longitude 29.4079086,
+   :latitude 46.6394883,
+   :source :openstreetmap,
+   :locality "Căușeni"}
+  {:name "Гагаузский этнографический музей",
+   :longitude 28.6444257,
+   :latitude 46.1687906,
+   :source :openstreetmap,
+   :locality "Beșalma"}
+  {:name "Городской Дворец Культуры",
+   :longitude 29.6129467,
+   :latitude 46.8372433,
+   :source :openstreetmap,
+   :homepage
+   "http://culture.gospmr.org/uchrezhdeniya-kultury-pmr/mu-kultury/uchrezhdeniya-kultury-klubnogo-tipa/dvortsy-kultury/mu-gorodskoj-dvorets-kultury",
+   :locality "Тирасполь"}
+  {:name "Дом-музей Героя Советского Союза И. Н. Коваля",
+   :longitude 28.7054172,
+   :latitude 48.0370842,
+   :source :openstreetmap}
+  {:name "Дом-музей И. С. Солтыса",
+   :longitude 28.6334806,
+   :latitude 48.0942902,
+   :source :openstreetmap,
+   :locality "Кузьмин"}
+  {:name "Дом-музей Ф. И. Жарчинского",
+   :longitude 28.8392593,
+   :latitude 47.9407544,
+   :source :openstreetmap,
+   :locality "Рашков"}
+  {:name "Дом-музей Я. А. Кучерова",
+   :longitude 28.7336923,
+   :latitude 48.1107936,
+   :source :openstreetmap}
+  {:name "Историко-краеведческий музей",
+   :longitude 29.9225711,
+   :latitude 46.6127424,
+   :source :openstreetmap}
+  {:name "Историко-краеведческий музей",
+   :longitude 29.606819,
+   :latitude 46.8355694,
+   :source :openstreetmap,
+   :locality "Тирасполь"}
+  {:name "Историко-краеведческий музей",
+   :longitude 29.1486811,
+   :latitude 47.2735302,
+   :source :openstreetmap,
+   :locality "Дубоссары"}
+  {:name "Каса Маре",
+   :longitude 28.8096696,
+   :latitude 48.1063176,
+   :source :openstreetmap}
+  {:name "Литературно-мемориальный музей П. П. Вершигоры",
+   :longitude 28.7165393,
+   :latitude 48.0689684,
+   :source :openstreetmap}
+  {:name "Музей",
+   :longitude 29.6849338,
+   :latitude 46.7802752,
+   :source :openstreetmap}
+  {:name "Музей",
+   :longitude 29.692811,
+   :latitude 46.7407286,
+   :source :openstreetmap}
+  {:name "Музей А. Г. Рубинштейна",
+   :longitude 28.9922161,
+   :latitude 47.6674198,
+   :source :openstreetmap,
+   :homepage "http://rybcult.org/?page_id=280"}
+  {:name "Музей археологии Поднестровья",
+   :longitude 29.6324631,
+   :latitude 46.8378757,
+   :source :openstreetmap,
+   :homepage "https://arhmuseum.spsu.ru/"}
+  {:name "Музей боевой славы",
+   :longitude 29.0011669,
+   :latitude 47.7607283,
+   :source :openstreetmap,
+   :homepage "http://rybcult.org/",
+   :locality "Рыбница"}
+  {:name "Музей Бутылка",
+   :longitude 29.5488056,
+   :latitude 46.817601,
+   :source :openstreetmap,
+   :homepage "http://www.butylka-museum.com",
+   :locality "Терновка"}
+  {:name "Музей крестьянского быта",
+   :longitude 28.9723661,
+   :latitude 47.7154714,
+   :source :openstreetmap,
+   :homepage "http://rybcult.org/"}
+  {:name "Музей Молдавской ГРЭС",
+   :longitude 29.9399605,
+   :latitude 46.6245827,
+   :source :openstreetmap}
+  {:name "Музей орудий пыток",
+   :longitude 29.4877086,
+   :latitude 46.8386645,
+   :source :openstreetmap}
+  {:name "Музей П. А. Румянцева и истории с. Строенцы",
+   :longitude 28.9385688,
+   :latitude 47.8855566,
+   :source :openstreetmap,
+   :homepage "http://rybcult.org/?page_id=277",
+   :locality "Строенцы"}
+  {:name "Музей под открытым небом «История, застывшая в металле»",
+   :longitude 29.4803144,
+   :latitude 46.8231856,
+   :source :openstreetmap,
+   :homepage "http://bikmus.com"}
+  {:name "Музей потерянных носков",
+   :longitude 29.6105058,
+   :latitude 46.8468077,
+   :source :openstreetmap}
+  {:name
+   "Музей революционной, боевой и трудовой Славы железнодорожников",
+   :longitude 29.4708021,
+   :latitude 46.8250079,
+   :source :openstreetmap}
+  {:name "Музей штаба кавалерийской бригады Г.И. Котовского",
+   :longitude 29.622457,
+   :latitude 46.8363685,
+   :source :openstreetmap,
+   :homepage "http://тираспольский-музей.рф"}
+  {:name "Рыбницкий историко-краеведческий музей",
+   :longitude 29.0018276,
+   :latitude 47.7639522,
+   :source :openstreetmap,
+   :homepage
+   "http://culture.gospmr.org/uchrezhdeniya-kultury-pmr/mu-kultury/muzejnye-uchrezhdeniya/istoriko-kraevedcheskie/rybnitskij-istoriko-kraevedcheskij-muzej-golovnoj-muzej"}
+  {:name "Этнографический музей",
+   :longitude 28.6206504,
+   :latitude 45.7795885,
+   :source :openstreetmap}
+  {:name "Этнографический музей «Культура и быт болгар»",
+   :longitude 29.5131029,
+   :latitude 46.831392,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

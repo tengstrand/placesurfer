@@ -1,0 +1,24 @@
+{:count 2,
+ :country "saint-martin",
+ :country-code "MF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:31:07.983152Z",
+ :positions
+ [{:name "Amuseum Naturalis - Musée et centre d'interprétation",
+   :longitude -63.0265389,
+   :latitude 18.0799582,
+   :source :openstreetmap,
+   :homepage "http://amuseumnaturalis.com",
+   :image "",
+   :description ""}
+  {:name "Art Gallery Minguet",
+   :longitude -63.0663896,
+   :latitude 18.0855168,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

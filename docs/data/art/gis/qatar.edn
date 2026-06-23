@@ -1,0 +1,84 @@
+{:count 16,
+ :country "qatar",
+ :country-code "QA",
+ :dataset :art,
+ :generated-at "2026-05-26T06:28:58.146241Z",
+ :positions
+ [{:name "Al Khor museum",
+   :longitude 51.5129448,
+   :latitude 25.6867578,
+   :source :openstreetmap}
+  {:name "Ansar Gallery",
+   :longitude 51.568161,
+   :latitude 25.2442731,
+   :source :openstreetmap}
+  {:name "Antique Gallery",
+   :longitude 51.4888004,
+   :latitude 25.2584635,
+   :source :openstreetmap}
+  {:name "Fire Station",
+   :longitude 51.5078127,
+   :latitude 25.3024894,
+   :source :openstreetmap}
+  {:name "Kahrama Awareness Park",
+   :longitude 51.5473525,
+   :latitude 25.2374754,
+   :source :openstreetmap}
+  {:name "Mathaf: Arab Museum of Modern Art",
+   :longitude 51.4198836,
+   :latitude 25.310619,
+   :source :openstreetmap,
+   :homepage "http://mathaf.org.qa/"}
+  {:name "Museum of Illusions Doha",
+   :longitude 51.5264991,
+   :latitude 25.3236462,
+   :source :openstreetmap}
+  {:name "Sheikh Faisal Museum",
+   :longitude 51.2595501,
+   :latitude 25.349682,
+   :source :openstreetmap}
+  {:name "Souq Waqif Art Center",
+   :longitude 51.5327408,
+   :latitude 25.2861522,
+   :source :openstreetmap}
+  {:name "Yousef Ahmad",
+   :longitude 51.5262996,
+   :latitude 25.3607757,
+   :source :openstreetmap,
+   :homepage "https://www.dohakac.com/"}
+  {:name "المتحف الوطني في قطر",
+   :longitude 51.5493373,
+   :latitude 25.2867416,
+   :source :openstreetmap,
+   :homepage "https://nmoq.org.qa/",
+   :locality "الدوحة"}
+  {:name "المعهد الفرنسي في قطر",
+   :longitude 51.5073412,
+   :latitude 25.3515536,
+   :source :openstreetmap,
+   :homepage "http://www.institutfrancais-qatar.com",
+   :locality "الدوحة"}
+  {:name "قاعة الرواق للمعارض",
+   :longitude 51.5432963,
+   :latitude 25.293039,
+   :source :openstreetmap}
+  {:name "متحف الفن الإسلامي",
+   :longitude 51.5393981,
+   :latitude 25.2955437,
+   :source :openstreetmap,
+   :homepage "https://mia.org.qa/"}
+  {:name "متحف مشيرب",
+   :longitude 51.5286787,
+   :latitude 25.2868923,
+   :source :openstreetmap,
+   :homepage "https://m7.org.qa/en/",
+   :locality "الدوحة"}
+  {:name "مركز الزوار - أكواريوم قطر",
+   :longitude 51.5825789,
+   :latitude 25.0337589,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

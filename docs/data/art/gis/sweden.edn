@@ -1,0 +1,6221 @@
+{:count 1303,
+ :country "sweden",
+ :country-code "SE",
+ :dataset :art,
+ :generated-at "2026-05-26T13:24:07.075267Z",
+ :positions
+ [{:name "007 Museum",
+   :longitude 15.8920032,
+   :latitude 56.7400572,
+   :source :openstreetmap,
+   :homepage "http://www.007museum.com/",
+   :locality "Nybro"}
+  {:name "2047 Science Center",
+   :longitude 15.4305918,
+   :latitude 60.4881598,
+   :source :openstreetmap,
+   :homepage "https://www.framtidsmuseet.se"}
+  {:name "Abecita Popkonst och Foto",
+   :longitude 12.9420474,
+   :latitude 57.7351272,
+   :source :openstreetmap,
+   :homepage "https://www.abecitakonst.se/",
+   :locality "Borås"}
+  {:name "ABU-museum i Svängsta",
+   :longitude 14.7689704,
+   :latitude 56.2658755,
+   :source :openstreetmap,
+   :locality "Svängsta"}
+  {:name "Accelerator konsthall",
+   :longitude 18.0561883,
+   :latitude 59.3660149,
+   :source :openstreetmap,
+   :homepage "https://acceleratorsu.art/"}
+  {:name "Aeroseum",
+   :longitude 11.8805734,
+   :latitude 57.7707666,
+   :source :openstreetmap,
+   :homepage "http://www.aeroseum.se",
+   :locality "Göteborg"}
+  {:name "Agora",
+   :longitude 15.5765826,
+   :latitude 58.4273815,
+   :source :openstreetmap,
+   :homepage "https://www.linkoping.se/agora",
+   :locality "Linköping"}
+  {:name "Aguélimuseet",
+   :longitude 16.610325,
+   :latitude 59.9226057,
+   :source :openstreetmap,
+   :homepage "http://aguelimuseet.se/"}
+  {:name "Ajtte Museum",
+   :longitude 19.8411501,
+   :latitude 66.6040078,
+   :source :openstreetmap,
+   :locality "Jokkmokk"}
+  {:name "Aktiveum",
+   :longitude 16.3297455,
+   :latitude 57.6987542,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/ankarsrum"}
+  {:name "Akvariet",
+   :longitude 15.1861494,
+   :latitude 60.1550001,
+   :source :openstreetmap}
+  {:name "Albert Engströms Ateljé",
+   :longitude 18.8185613,
+   :latitude 60.0946249,
+   :source :openstreetmap}
+  {:name "Albert Engströms Museum",
+   :longitude 18.8141785,
+   :latitude 60.0963243,
+   :source :openstreetmap}
+  {:name "Albert Engströmsgården",
+   :longitude 15.126538,
+   :latitude 57.6329823,
+   :source :openstreetmap}
+  {:name "Alfvéngården",
+   :longitude 15.0300214,
+   :latitude 60.7240149,
+   :source :openstreetmap,
+   :homepage "https://www.alfvengarden.se/",
+   :locality "Leksand"}
+  {:name "Alingsås Museum",
+   :longitude 12.532627,
+   :latitude 57.9285471,
+   :source :openstreetmap}
+  {:name "Allmogebåtarna",
+   :longitude 18.1765232,
+   :latitude 59.3287553,
+   :source :openstreetmap}
+  {:name "Alma Löv Museum of Unexp. Art",
+   :longitude 13.2268122,
+   :latitude 59.7059713,
+   :source :openstreetmap,
+   :homepage "https://www.almalov.com/"}
+  {:name "Almedahls Museum",
+   :longitude 13.1081843,
+   :latitude 57.7226718,
+   :source :openstreetmap,
+   :homepage "https://www.textilmuseet.se/om-museet/almedahls-museum"}
+  {:name "Almgrens Sidenväveri & Museum",
+   :longitude 18.0706768,
+   :latitude 59.3172955,
+   :source :openstreetmap,
+   :homepage "https://www.kasiden.se/"}
+  {:name "Alnarps Lantbruksmuseum",
+   :longitude 13.0789882,
+   :latitude 55.6574155,
+   :source :openstreetmap,
+   :homepage "https://www.alnarpsmuseerna.se/"}
+  {:name "Alta Art Space",
+   :longitude 13.034825,
+   :latitude 55.599537,
+   :source :openstreetmap,
+   :homepage "https://www.altaartspace.org/",
+   :locality "Malmö"}
+  {:name "Amazon",
+   :longitude 16.5908621,
+   :latitude 59.0622234,
+   :source :openstreetmap}
+  {:name "Anders Franzénmuseet",
+   :longitude 18.4077724,
+   :latitude 59.1308492,
+   :source :openstreetmap,
+   :homepage "https://www.dalarohembygd.se/Franzen.html"}
+  {:name "Andheims Musikhörna",
+   :longitude 15.7844843,
+   :latitude 56.1912743,
+   :source :openstreetmap}
+  {:name "Andreas Lundbergagården",
+   :longitude 12.8369706,
+   :latitude 55.3926553,
+   :source :openstreetmap}
+  {:name "Andrew Peterson museet",
+   :longitude 15.2041399,
+   :latitude 57.9043377,
+   :source :openstreetmap}
+  {:name "Annedalshuset",
+   :longitude 11.9608276,
+   :latitude 57.6933176,
+   :source :openstreetmap,
+   :locality "Göteborg"}
+  {:name "Anundsjö Hembygdsgård",
+   :longitude 18.1307298,
+   :latitude 63.4438451,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/anundsjo-hembygdsforening"}
+  {:name "Arbetarmuseum",
+   :longitude 14.4709592,
+   :latitude 56.0742601,
+   :source :openstreetmap}
+  {:name "Arbis",
+   :longitude 15.6275907,
+   :latitude 58.4081975,
+   :source :openstreetmap,
+   :homepage "https://www.linkoping.se/ungarbis",
+   :locality "Linköping"}
+  {:name "Arboga museum",
+   :longitude 15.8376674,
+   :latitude 59.394305,
+   :source :openstreetmap,
+   :homepage "https://arbogamuseum.se/",
+   :locality "Arboga"}
+  {:name "Arboga Robotmuseum",
+   :longitude 15.8556466,
+   :latitude 59.3968437,
+   :source :openstreetmap,
+   :homepage "https://www.robotmuseum.se/"}
+  {:name "Arkana",
+   :longitude 13.0083395,
+   :latitude 55.5930752,
+   :source :openstreetmap,
+   :homepage "https://www.instagram.com/ateljearkana/",
+   :locality "Malmö"}
+  {:name "Armémuseum",
+   :longitude 18.0802581,
+   :latitude 59.3347609,
+   :source :openstreetmap,
+   :homepage "https://www.armemuseum.se/"}
+  {:name "Arnolds Bilmuseum",
+   :longitude 17.8536216,
+   :latitude 62.8277734,
+   :source :openstreetmap}
+  {:name "Arnolds Kannibalmuseum",
+   :longitude 13.8852365,
+   :latitude 55.7922504,
+   :source :openstreetmap}
+  {:name "Arnäs Hembygdsgård",
+   :longitude 18.7860095,
+   :latitude 63.3102035,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/arnas"}
+  {:name "Arsenalen",
+   :longitude 16.9313648,
+   :latitude 59.3674748,
+   :source :openstreetmap,
+   :homepage "https://arsenalen.se",
+   :locality "Strängnäs"}
+  {:name "Art Institute",
+   :longitude 11.5481679,
+   :latitude 57.9944298,
+   :source :openstreetmap,
+   :homepage "http://artinstitute.se/",
+   :locality "Skärhamn"}
+  {:name "Art Åre",
+   :longitude 13.0823258,
+   :latitude 63.3993572,
+   :source :openstreetmap}
+  {:name "ArtGallery PeterPlato",
+   :longitude 12.8274552,
+   :latitude 55.8702259,
+   :source :openstreetmap,
+   :locality "Landskrona"}
+  {:name "Artillerimuseet",
+   :longitude 14.145688,
+   :latitude 55.9838057,
+   :source :openstreetmap,
+   :homepage "http://www.artillerimuseet.se",
+   :locality "Kristianstad"}
+  {:name "Artipelag",
+   :longitude 18.3466643,
+   :latitude 59.3066361,
+   :source :openstreetmap,
+   :homepage "https://www.artipelag.se/"}
+  {:name "Arvika Fordonsmuseum",
+   :longitude 12.5913862,
+   :latitude 59.6612207,
+   :source :openstreetmap}
+  {:name "Asarums Bygdemuseum",
+   :longitude 14.8359861,
+   :latitude 56.204024,
+   :source :openstreetmap,
+   :locality "Asarum"}
+  {:name "Askims hembygdsmuseum",
+   :longitude 11.9417886,
+   :latitude 57.5939581,
+   :source :openstreetmap}
+  {:name "Astrid Lindgrens Näs",
+   :longitude 15.8564065,
+   :latitude 57.6749726,
+   :source :openstreetmap,
+   :homepage "https://astridlindgrensnas.se/"}
+  {:name "Atelje Bastaskär",
+   :longitude 12.7726529,
+   :latitude 56.6440426,
+   :source :openstreetmap,
+   :homepage "https://bastaskar.se/"}
+  {:name "Atelje Sundet",
+   :longitude 17.0064539,
+   :latitude 57.3234277,
+   :source :openstreetmap}
+  {:name "Atelje Öga",
+   :longitude 18.0766577,
+   :latitude 59.5354277,
+   :source :openstreetmap,
+   :homepage "https://ateljeoga.se/"}
+  {:name "Ateljè VSA",
+   :longitude 11.9296658,
+   :latitude 57.6976549,
+   :source :openstreetmap,
+   :homepage "http://www.vsa-sweden.org",
+   :locality "Göteborg"}
+  {:name "Ateljé 89",
+   :longitude 18.0671488,
+   :latitude 59.3377296,
+   :source :openstreetmap}
+  {:name "Ateljé Alenhall",
+   :longitude 11.7348297,
+   :latitude 58.0164932,
+   :source :openstreetmap,
+   :locality "Hakenäset"}
+  {:name "Ateljé Avant",
+   :longitude 17.9477857,
+   :latitude 59.3306662,
+   :source :openstreetmap}
+  {:name "Ateljé Creativ",
+   :longitude 16.651028,
+   :latitude 56.8790102,
+   :source :openstreetmap,
+   :homepage "https://atelje-creativ.se"}
+  {:name "Ateljé Filip Rahim Hansson",
+   :longitude 13.0225647,
+   :latitude 55.5819512,
+   :source :openstreetmap,
+   :homepage "http://filiprahimhansson.com/",
+   :locality "Malmö"}
+  {:name "Ateljé FjällDesign",
+   :longitude 14.1456687,
+   :latitude 64.5037108,
+   :source :openstreetmap}
+  {:name "Ateljé Penseldraget",
+   :longitude 12.9891654,
+   :latitude 55.6179924,
+   :source :openstreetmap}
+  {:name "Ateljé Stillagatan",
+   :longitude 11.9180149,
+   :latitude 57.6841718,
+   :source :openstreetmap,
+   :homepage "https://klasparknas.se/ateljen_stillagatan/"}
+  {:name "Ateljéföreningen Addo",
+   :longitude 13.0213711,
+   :latitude 55.6157814,
+   :source :openstreetmap,
+   :homepage "https://kipi.se"}
+  {:name "Ateljéföreningen Sulfur",
+   :longitude 13.0312164,
+   :latitude 55.5985058,
+   :source :openstreetmap,
+   :homepage "https://artworks.se/gallerier/ateljefoereningen-sulfur"}
+  {:name "Attmars hembygdsgård",
+   :longitude 17.0481764,
+   :latitude 62.2957365,
+   :source :openstreetmap,
+   :homepage "http://www.attmarshbf.se/"}
+  {:name "Aunesgården",
+   :longitude 23.6434853,
+   :latitude 66.3947153,
+   :source :openstreetmap}
+  {:name "Autoseum - Nisse Nilsson Collection",
+   :longitude 14.3421785,
+   :latitude 55.54919,
+   :source :openstreetmap,
+   :homepage "https://autoseum.se/de/",
+   :locality "Simrishamn"}
+  {:name "Axbomsgården",
+   :longitude 15.0859206,
+   :latitude 58.3966889,
+   :source :openstreetmap}
+  {:name "Axel Ebbes Konsthall",
+   :longitude 13.1613429,
+   :latitude 55.3753754,
+   :source :openstreetmap,
+   :homepage
+   "https://www.trelleborg.se/sv/uppleva-gora/kultur/axel-ebbes-konsthall/"}
+  {:name "Axel Oxenstierna",
+   :longitude 16.6924724,
+   :latitude 59.4092589,
+   :source :openstreetmap}
+  {:name "Babettes Kulturpalats",
+   :longitude 15.6232919,
+   :latitude 58.4090904,
+   :source :openstreetmap,
+   :homepage "https://babettes.se/kultur/",
+   :locality "Linköping"}
+  {:name "Backamo Museum",
+   :longitude 11.9828628,
+   :latitude 58.1829278,
+   :source :openstreetmap,
+   :homepage "https://backamomuseum.se/"}
+  {:name "Backgården hembyggdsgård",
+   :longitude 13.9202872,
+   :latitude 63.3856007,
+   :source :openstreetmap,
+   :homepage "http://www.alsen.org/textback.htm"}
+  {:name "Bagerimuseet",
+   :longitude 21.0199985,
+   :latitude 65.6695528,
+   :source :openstreetmap}
+  {:name "Baltic Sea Science Center",
+   :longitude 18.1044657,
+   :latitude 59.3246058,
+   :source :openstreetmap}
+  {:name "Banco Bryggeri",
+   :longitude 15.3664893,
+   :latitude 56.6760146,
+   :source :openstreetmap}
+  {:name "Barnens Bruk",
+   :longitude 17.881595,
+   :latitude 60.4112974,
+   :source :openstreetmap,
+   :homepage "https://www.lövstabruk.com/kulforbarn#/",
+   :locality "Lövstabruk"}
+  {:name "Bastöna gammelgård",
+   :longitude 13.3514812,
+   :latitude 58.2510003,
+   :source :openstreetmap}
+  {:name "Batteri Arholma",
+   :longitude 19.1230591,
+   :latitude 59.8616199,
+   :source :openstreetmap}
+  {:name "Batteri Landsort",
+   :longitude 17.8637602,
+   :latitude 58.7648656,
+   :source :openstreetmap,
+   :homepage
+   "https://visitlandsort.se/maritima-kulturarvet/krigens-o/batteristaben/"}
+  {:name "Beeg Gallery",
+   :longitude 18.0387011,
+   :latitude 59.3462991,
+   :source :openstreetmap,
+   :homepage "https://www.gsa.se/"}
+  {:name "Begravningsmuseet",
+   :longitude 13.9413424,
+   :latitude 56.8437517,
+   :source :openstreetmap}
+  {:name "Bellmanmuséet",
+   :longitude 18.0257709,
+   :latitude 59.3219796,
+   :source :openstreetmap,
+   :homepage "https://www.storahenriksvik.se/bellmanmuseet"}
+  {:name "Bengtsgården",
+   :longitude 16.0365642,
+   :latitude 60.4521458,
+   :source :openstreetmap,
+   :homepage "https://www.brukshistoriska.se/",
+   :locality "Långshyttan"}
+  {:name "Beredskapsmuseet",
+   :longitude 12.63974,
+   :latitude 56.1293804,
+   :source :openstreetmap,
+   :homepage "https://www.beredskapsmuseet.com/",
+   :locality "Viken"}
+  {:name "Bergdala glastekniska museum",
+   :longitude 15.2221694,
+   :latitude 56.8348532,
+   :source :openstreetmap,
+   :homepage "https://bergdala-glastekniska-museum.se/"}
+  {:name "Bergrum Boliden",
+   :longitude 20.382872,
+   :latitude 64.8743565,
+   :source :openstreetmap}
+  {:name "Bergsgård",
+   :longitude 12.7792194,
+   :latitude 56.6646941,
+   :source :openstreetmap}
+  {:name "Bergströmska gården",
+   :longitude 16.4688288,
+   :latitude 59.420579,
+   :source :openstreetmap}
+  {:name "Bergööska huset",
+   :longitude 15.1146982,
+   :latitude 59.0671708,
+   :source :openstreetmap}
+  {:name "Berte Museum",
+   :longitude 12.6766293,
+   :latitude 56.8494691,
+   :source :openstreetmap,
+   :homepage "https://www.bertemuseum.se"}
+  {:name "Betel Konsthall",
+   :longitude 15.5801902,
+   :latitude 57.6160917,
+   :source :openstreetmap}
+  {:name "Bibelns värld",
+   :longitude 12.9718586,
+   :latitude 56.1945692,
+   :source :openstreetmap,
+   :homepage "https://bibelnsvarld.nu/"}
+  {:name "Big Bengt museum",
+   :longitude 13.8292656,
+   :latitude 57.2620421,
+   :source :openstreetmap}
+  {:name "Bildtska Hembygdsmuseet",
+   :longitude 11.5608158,
+   :latitude 58.2078806,
+   :source :openstreetmap}
+  {:name "Bilmuseum - Toveks Bil",
+   :longitude 12.5249902,
+   :latitude 56.8994809,
+   :source :openstreetmap,
+   :locality "Falkenberg"}
+  {:name "Bilmuseum Gotland",
+   :longitude 18.2515534,
+   :latitude 57.6076101,
+   :source :openstreetmap}
+  {:name "Biologiska museet",
+   :longitude 18.0977017,
+   :latitude 59.3271183,
+   :source :openstreetmap,
+   :homepage "https://www.liljevalchs.se"}
+  {:name "Biologiska museet",
+   :longitude 17.6349598,
+   :latitude 59.1995778,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sodertalje.se/kultur-och-fritid/torekallberget/om-torekallberget2/biologiska-museet/",
+   :locality "Södertälje"}
+  {:name "Biologiska museet i Oskarshamn",
+   :longitude 16.4379344,
+   :latitude 57.2527193,
+   :source :openstreetmap,
+   :homepage "https://www.bimon.se/",
+   :locality "Oskarshamn"}
+  {:name "Biotopia",
+   :longitude 17.6224032,
+   :latitude 59.8600522,
+   :source :openstreetmap,
+   :homepage "https://www.biotopia.nu/",
+   :locality "Uppsala"}
+  {:name "Birgit Nilsson Museum",
+   :longitude 12.7621197,
+   :latitude 56.4319162,
+   :source :openstreetmap,
+   :homepage "https://www.birgitnilsson.com/"}
+  {:name "Birkamuseet",
+   :longitude 17.5419742,
+   :latitude 59.330443,
+   :source :openstreetmap,
+   :homepage
+   "https://www.birkavikingastaden.se/hitta-pa-birka/museum/"}
+  {:name "Bitcoingalleriet",
+   :longitude 16.4238587,
+   :latitude 56.4810458,
+   :source :openstreetmap,
+   :homepage "https://bitcoingalleriet.se",
+   :locality "Mörbylånga"}
+  {:name "Bjersunds tegelbruksmuseum",
+   :longitude 13.0288797,
+   :latitude 55.7101679,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/lomma/about",
+   :locality "Bjärred"}
+  {:name "Bjuråker Forngård",
+   :longitude 16.556878,
+   :latitude 61.8607854,
+   :source :openstreetmap}
+  {:name "Bjärnums museum och hembygdsgård",
+   :longitude 13.7205599,
+   :latitude 56.2878913,
+   :source :openstreetmap}
+  {:name "Björkenäs Moped Museum",
+   :longitude 14.5934164,
+   :latitude 57.9668722,
+   :source :openstreetmap}
+  {:name "Björkliden Gårdsmuseum",
+   :longitude 18.63683,
+   :latitude 59.5003375,
+   :source :openstreetmap,
+   :homepage "http://www.bjorklidensgardsmuseum.se"}
+  {:name "Björkö hembygdsgård",
+   :longitude 11.6751788,
+   :latitude 57.7364685,
+   :source :openstreetmap,
+   :homepage "http://bjorko-hembygdsforening.webnode.se/",
+   :locality "Bohus-Björkö"}
+  {:name "Björkö-Arholma Sjöfartsmuseum",
+   :longitude 19.0736071,
+   :latitude 59.8709476,
+   :source :openstreetmap,
+   :homepage "https://www.sjomanna.se/",
+   :locality "Björkö"}
+  {:name "Björna Hembygdsgård",
+   :longitude 18.6062479,
+   :latitude 63.5459141,
+   :source :openstreetmap,
+   :homepage "https://www.bjorna.eu/hembygdsgarden"}
+  {:name "Björnsjö station",
+   :longitude 18.4623766,
+   :latitude 63.5075172,
+   :source :openstreetmap,
+   :homepage "http://www.ojs.nu/Bjornsjo/Bjornsjo.htm"}
+  {:name "Blackstad hembygdsgård",
+   :longitude 16.1906015,
+   :latitude 57.7937918,
+   :source :openstreetmap}
+  {:name "Blekinge Museum",
+   :longitude 15.5813116,
+   :latitude 56.1621531,
+   :source :openstreetmap,
+   :homepage "https://blekingemuseum.se/",
+   :locality "Karlskrona"}
+  {:name "Bläse kalkbruksmuseum",
+   :longitude 18.8399198,
+   :latitude 57.8942851,
+   :source :openstreetmap,
+   :homepage "https://blase.se/",
+   :locality "Lärbro"}
+  {:name "Boarps Konsthall",
+   :longitude 12.7928292,
+   :latitude 56.4355223,
+   :source :openstreetmap}
+  {:name "Boda Gammelgård",
+   :longitude 15.2122101,
+   :latitude 61.0213222,
+   :source :openstreetmap,
+   :homepage "https://www.bodabygden.se/"}
+  {:name "Bohusläns Försvarsmuseum",
+   :longitude 11.9597086,
+   :latitude 58.3489577,
+   :source :openstreetmap,
+   :homepage "https://www.bohuslans-forsvarsmuseum.se/",
+   :locality "Uddevalla"}
+  {:name "Bohusläns Museum",
+   :longitude 11.9280148,
+   :latitude 58.3492504,
+   :source :openstreetmap,
+   :homepage "https://www.bohuslansmuseum.se/",
+   :locality "Uddevalla"}
+  {:name "Bokmärkesmuseet",
+   :longitude 14.4741931,
+   :latitude 57.355693,
+   :source :openstreetmap,
+   :homepage "https://bankgarden.se/"}
+  {:name "Bolindermuseet",
+   :longitude 17.8074831,
+   :latitude 59.4542153,
+   :source :openstreetmap,
+   :homepage "https://bolindermuseet.se",
+   :locality "Järfälla"}
+  {:name "Bondens år",
+   :longitude 13.4977886,
+   :latitude 58.2172845,
+   :source :openstreetmap}
+  {:name "Bore",
+   :longitude 12.9970506,
+   :latitude 55.6116472,
+   :source :openstreetmap,
+   :homepage
+   "https://malmo.se/Uppleva-och-gora/Konst-och-museer/Bore.html",
+   :locality "Malmö"}
+  {:name "Borgholms Slott",
+   :longitude 16.6437573,
+   :latitude 56.8707942,
+   :source :openstreetmap}
+  {:name "Borgholms Stadsmuseum",
+   :longitude 16.6591947,
+   :latitude 56.8775891,
+   :source :openstreetmap,
+   :homepage "https://www.borgholmsstadsmuseum.com/",
+   :locality "Borgholm"}
+  {:name "Borgsjö Hembygdsgård",
+   :longitude 15.9014154,
+   :latitude 62.5415454,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/borgsjohembygdsforening",
+   :locality "Erikslund"}
+  {:name "Borstmuseum",
+   :longitude 14.0526165,
+   :latitude 55.598203,
+   :source :openstreetmap}
+  {:name "Bortom Åa",
+   :longitude 14.6333544,
+   :latitude 61.7964917,
+   :source :openstreetmap,
+   :homepage "https://www.fagelsjo.nu/"}
+  {:name "Borås Konstmuseum",
+   :longitude 12.9480147,
+   :latitude 57.7213283,
+   :source :openstreetmap,
+   :homepage "https://borasboras.se/turistguiden/biblioteksmuseet"}
+  {:name "Borås Museum",
+   :longitude 12.9180819,
+   :latitude 57.721194,
+   :source :openstreetmap}
+  {:name "Botaniska trädgårdens museum",
+   :longitude 13.201856,
+   :latitude 55.7044787,
+   :source :openstreetmap,
+   :homepage "http://www.botaniskatradgarden.se/"}
+  {:name "Botkyrka Konsthall",
+   :longitude 17.8594629,
+   :latitude 59.2486068,
+   :source :openstreetmap,
+   :homepage "https://www.botkyrkakonsthall.se"}
+  {:name "Bottarve Museigård",
+   :longitude 18.2465905,
+   :latitude 56.9921385,
+   :source :openstreetmap,
+   :homepage "http://www.bottarve.se/"}
+  {:name "Bovilgården",
+   :longitude 13.0401433,
+   :latitude 60.1620866,
+   :source :openstreetmap}
+  {:name "Boxholms bruksmuseum",
+   :longitude 15.0478059,
+   :latitude 58.1921001,
+   :source :openstreetmap,
+   :homepage "http://www.krafttaget.com/bruksmuseum/",
+   :locality "Boxholm"}
+  {:name "Brandbilsmuseum",
+   :longitude 16.8797253,
+   :latitude 60.292354,
+   :source :openstreetmap}
+  {:name "Brandmuseum",
+   :longitude 14.1444788,
+   :latitude 57.4990548,
+   :source :openstreetmap}
+  {:name "Branteviks Maritima Museum",
+   :longitude 14.3464147,
+   :latitude 55.5143944,
+   :source :openstreetmap,
+   :homepage "http://www.branteviksmuseum.se/"}
+  {:name "Brattbytorpet",
+   :longitude 15.095629,
+   :latitude 62.8836069,
+   :source :openstreetmap}
+  {:name "Braås hembygdsgård",
+   :longitude 15.055257,
+   :latitude 57.0676839,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/sjosas/hembygdsparken-i-braas",
+   :locality "Braås"}
+  {:name "Brevens Konsthall",
+   :longitude 15.5832314,
+   :latitude 59.0115485,
+   :source :openstreetmap}
+  {:name "Brigadmuseum",
+   :longitude 13.494734,
+   :latitude 59.3883036,
+   :source :openstreetmap,
+   :homepage "http://brigadmuseum.se/",
+   :locality "Karlstad"}
+  {:name "Brocenter Bil & Fordonmuseum",
+   :longitude 14.5294907,
+   :latitude 56.2584992,
+   :source :openstreetmap,
+   :homepage "https://brocenter.nu/"}
+  {:name "Bruksmuseet",
+   :longitude 16.4896837,
+   :latitude 59.1518082,
+   :source :openstreetmap}
+  {:name "Bruksmuseum",
+   :longitude 20.8526205,
+   :latitude 64.184713,
+   :source :openstreetmap}
+  {:name "Bruksmuseum",
+   :longitude 15.5785967,
+   :latitude 59.0122233,
+   :source :openstreetmap}
+  {:name "Bruksmuseum",
+   :longitude 15.8274313,
+   :latitude 60.2933338,
+   :source :openstreetmap,
+   :homepage "https://bruksmuseum.se/"}
+  {:name "Bruksmuseum",
+   :longitude 13.7297572,
+   :latitude 56.5547391,
+   :source :openstreetmap}
+  {:name "Bruksmuseum",
+   :longitude 13.4355546,
+   :latitude 58.6312484,
+   :source :openstreetmap}
+  {:name "Bruksmuseum",
+   :longitude 15.6754094,
+   :latitude 59.0228647,
+   :source :openstreetmap}
+  {:name "Brunnsbacka sågkvarn",
+   :longitude 13.5405799,
+   :latitude 56.9819109,
+   :source :openstreetmap}
+  {:name "Bruno Mathsson Center",
+   :longitude 14.0522727,
+   :latitude 57.1804101,
+   :source :openstreetmap,
+   :homepage "https://mathsson.se/utstallning/"}
+  {:name "Brunskogs Hembygdsgård",
+   :longitude 12.8906367,
+   :latitude 59.6570252,
+   :source :openstreetmap}
+  {:name "Brunstorp Gård",
+   :longitude 14.2727849,
+   :latitude 57.8225259,
+   :source :openstreetmap}
+  {:name "Bryggeriet Konst AB",
+   :longitude 15.0295948,
+   :latitude 59.5198615,
+   :source :openstreetmap,
+   :locality "Nora"}
+  {:name "Bryggerimuséet",
+   :longitude 15.8328256,
+   :latitude 59.3950561,
+   :source :openstreetmap,
+   :homepage "https://arbogamuseum.se/bryggerimuseet.html"}
+  {:name "Brynge kulturområde",
+   :longitude 18.3346152,
+   :latitude 63.2593548,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ornskoldsvik.se/upplevaochgora/kultur/museerochkonst/bryngekulturomrade.html"}
+  {:name "Bräcke hembyggdsmusem",
+   :longitude 11.6816375,
+   :latitude 58.0410695,
+   :source :openstreetmap,
+   :homepage "https://www.tjornshembygdsforening.se"}
+  {:name "Bräcke mölla",
+   :longitude 12.5338296,
+   :latitude 56.2563499,
+   :source :openstreetmap}
+  {:name "Bräkne-Hoby Hembygdsmuseum",
+   :longitude 15.1167087,
+   :latitude 56.2267357,
+   :source :openstreetmap,
+   :locality "Bräkne-Hoby"}
+  {:name "Brännö Lagård",
+   :longitude 11.7794394,
+   :latitude 57.6453558,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/branno"}
+  {:name "Bua fiskemuseum",
+   :longitude 12.1117391,
+   :latitude 57.2401963,
+   :source :openstreetmap}
+  {:name "Buffils Annas minne-stuga",
+   :longitude 14.8537102,
+   :latitude 60.7883284,
+   :source :openstreetmap}
+  {:name "Bunge Aviation Museum",
+   :longitude 19.031755,
+   :latitude 57.8522059,
+   :source :openstreetmap}
+  {:name "Bungemuseet",
+   :longitude 19.0286422,
+   :latitude 57.8538915,
+   :source :openstreetmap}
+  {:name "By Hembygdsgård",
+   :longitude 16.468495,
+   :latitude 60.1925446,
+   :source :openstreetmap}
+  {:name "Bynanders Motormuseum",
+   :longitude 13.139639,
+   :latitude 57.4970716,
+   :source :openstreetmap,
+   :homepage "http://bynandersmotormuseum.se/",
+   :locality "Svenljunga"}
+  {:name "Byske Hantverksmuseum",
+   :longitude 21.2226712,
+   :latitude 64.9493966,
+   :source :openstreetmap}
+  {:name "Byske Sportfiskemuseum",
+   :longitude 21.1904998,
+   :latitude 64.9546573,
+   :source :openstreetmap}
+  {:name "Bärnstensmuseet",
+   :longitude 12.9827549,
+   :latitude 55.4002384,
+   :source :openstreetmap}
+  {:name "Bävsjöryd Såg",
+   :longitude 12.3042719,
+   :latitude 57.7464095,
+   :source :openstreetmap,
+   :homepage "https://bavsjorydsag.se/"}
+  {:name "Bålerudsgården",
+   :longitude 14.2542968,
+   :latitude 58.8077847,
+   :source :openstreetmap}
+  {:name "Båt och Sjöfartsmuseet",
+   :longitude 12.0213372,
+   :latitude 57.4125081,
+   :source :openstreetmap,
+   :homepage "http://www.batmuseetonsala.se/"}
+  {:name "Båt- och fiskemuseum",
+   :longitude 18.614529,
+   :latitude 59.5253576,
+   :source :openstreetmap}
+  {:name "Båtbyggery",
+   :longitude 18.6631086,
+   :latitude 68.4334616,
+   :source :openstreetmap}
+  {:name "Båtmuseet i Galtabäck",
+   :longitude 12.3106438,
+   :latitude 57.0281366,
+   :source :openstreetmap,
+   :homepage
+   "https://museumhalland.se/museet-i-lanet/batmuseet-i-galtaback/"}
+  {:name "Båtmuseum",
+   :longitude 19.0168706,
+   :latitude 63.1923857,
+   :source :openstreetmap,
+   :homepage "https://fiskevistet.se/"}
+  {:name "Båtmuseumet",
+   :longitude 21.4650022,
+   :latitude 65.3132948,
+   :source :openstreetmap}
+  {:name "Bödeboden - Hanö museum",
+   :longitude 14.8362663,
+   :latitude 56.0097563,
+   :source :openstreetmap,
+   :locality "Sölvesborg"}
+  {:name "Callanderska gården",
+   :longitude 17.2237079,
+   :latitude 59.258031,
+   :source :openstreetmap}
+  {:name "Carl Eldhs Ateljémuseum",
+   :longitude 18.0516224,
+   :latitude 59.3528674,
+   :source :openstreetmap,
+   :homepage "https://www.eldhsatelje.se"}
+  {:name "Carlstad Art Gallery",
+   :longitude 13.4998715,
+   :latitude 59.3786446,
+   :source :openstreetmap}
+  {:name "Carolina Rediviva",
+   :longitude 17.6311725,
+   :latitude 59.8549918,
+   :source :openstreetmap,
+   :homepage "https://www.ub.uu.se/",
+   :locality "Uppsala"}
+  {:name "Charlottenborgs slott",
+   :longitude 15.0640796,
+   :latitude 58.540714,
+   :source :openstreetmap}
+  {:name "Clas Ohlson-museet",
+   :longitude 15.0903359,
+   :latitude 60.6740929,
+   :source :openstreetmap}
+  {:name "Cliff Burton Museum",
+   :longitude 13.9707198,
+   :latitude 56.9188912,
+   :source :openstreetmap,
+   :homepage "https://www.cliffburtonmuseum.se/"}
+  {:name "Curiosum",
+   :longitude 20.2775649,
+   :latitude 63.8207446,
+   :source :openstreetmap,
+   :homepage "https://curiosum.umu.se"}
+  {:name "Dag Hammarskjölds Backåkra",
+   :longitude 14.1306575,
+   :latitude 55.3884952,
+   :source :openstreetmap}
+  {:name "Dagmar Glemme Art Center",
+   :longitude 12.8168345,
+   :latitude 56.1362996,
+   :source :openstreetmap}
+  {:name "Dalarnas Museum",
+   :longitude 15.6274758,
+   :latitude 60.6059446,
+   :source :openstreetmap,
+   :homepage "https://dalarnasmuseum.se"}
+  {:name "Dalby Datormuseum",
+   :longitude 17.0494868,
+   :latitude 59.4897237,
+   :source :openstreetmap,
+   :homepage "https://www.datormuseum.se/"}
+  {:name "Dalens Hembygdsgård",
+   :longitude 11.9856167,
+   :latitude 57.9568594,
+   :source :openstreetmap}
+  {:name "Dalkarlså Lanthandelsmuseum",
+   :longitude 20.8570571,
+   :latitude 64.0450508,
+   :source :openstreetmap}
+  {:name "Dalregementets museum",
+   :longitude 15.6526595,
+   :latitude 60.6045641,
+   :source :openstreetmap,
+   :homepage
+   "http://www.dalregementetsmuseer.se/02_Falun/fln_museet/fln_museet001.htm",
+   :locality "Falun"}
+  {:name "Dalsland Konstmuseum",
+   :longitude 12.4368669,
+   :latitude 58.806879,
+   :source :openstreetmap,
+   :homepage "https://www.dalslandskonstmuseum.se/"}
+  {:name "Dalénium Science Center",
+   :longitude 13.713618,
+   :latitude 58.2747002,
+   :source :openstreetmap,
+   :homepage "https://dalenium.com/"}
+  {:name "Dammtorps hembygdsgård",
+   :longitude 14.6220263,
+   :latitude 58.7818871,
+   :source :openstreetmap}
+  {:name "Danhults kvarn",
+   :longitude 13.1904797,
+   :latitude 57.1409264,
+   :source :openstreetmap}
+  {:name "Danielsgården",
+   :longitude 15.6473586,
+   :latitude 61.0218622,
+   :source :openstreetmap}
+  {:name "Dannäs hembygdspark",
+   :longitude 13.8673701,
+   :latitude 57.0624386,
+   :source :openstreetmap}
+  {:name "Daskebackens kvarn",
+   :longitude 12.2775731,
+   :latitude 58.2831221,
+   :source :openstreetmap}
+  {:name "Dassmuseum",
+   :longitude 14.3708659,
+   :latitude 62.6372175,
+   :source :openstreetmap,
+   :homepage
+   "https://jlm.kulturhotell.se/items/locations/aosarnasdassmuseum/"}
+  {:name "Delsbo forngård",
+   :longitude 16.560469,
+   :latitude 61.8194359,
+   :source :openstreetmap}
+  {:name "Delsbohus",
+   :longitude 16.5700882,
+   :latitude 61.8072138,
+   :source :openstreetmap,
+   :homepage "https://delsbohus.se/",
+   :locality "Delsbo"}
+  {:name "Den förhistoriska världen",
+   :longitude 20.2404049,
+   :latitude 63.8369536,
+   :source :openstreetmap}
+  {:name "Disagården",
+   :longitude 17.62864,
+   :latitude 59.9004853,
+   :source :openstreetmap,
+   :homepage "https://www.upplandsmuseet.se/"}
+  {:name "Disgusting Food Museum",
+   :longitude 13.0013096,
+   :latitude 55.6008966,
+   :source :openstreetmap,
+   :homepage "https://disgustingfoodmuseum.com",
+   :locality "Malmö"}
+  {:name "Diö Konsthall",
+   :longitude 14.2230742,
+   :latitude 56.6410644,
+   :source :openstreetmap,
+   :homepage "https://ellatillema.se/about-dio-konsthall"}
+  {:name "Dragon Gate Art Hall",
+   :longitude 17.4158014,
+   :latitude 60.4626417,
+   :source :openstreetmap,
+   :homepage "https://www.dragongate.nu"}
+  {:name "Dragspelsmuseum",
+   :longitude 16.8270795,
+   :latitude 61.8270654,
+   :source :openstreetmap}
+  {:name "Drottningskärs kastell",
+   :longitude 15.5645833,
+   :latitude 56.1103782,
+   :source :openstreetmap,
+   :locality "Drottningskär"}
+  {:name "Dunkers kulturhus",
+   :longitude 12.6887069,
+   :latitude 56.0476884,
+   :source :openstreetmap,
+   :homepage "https://dunkerskulturhus.se",
+   :locality "Helsingborg"}
+  {:name "Dyvelstens Flottningsmuseum",
+   :longitude 13.4461675,
+   :latitude 59.5182666,
+   :source :openstreetmap}
+  {:name "Dådrans  Smedja",
+   :longitude 15.5405086,
+   :latitude 60.9411013,
+   :source :openstreetmap}
+  {:name "Döderhultarns ateljé",
+   :longitude 16.4491899,
+   :latitude 57.2685922,
+   :source :openstreetmap,
+   :homepage
+   "https://www2.oskarshamn.com/sv/se-gora/a378599/doderhultarns-atelje/detaljer",
+   :locality "Oskarshamn"}
+  {:name "Dövas kulturarvscentrum",
+   :longitude 14.9553794,
+   :latitude 60.7219331,
+   :source :openstreetmap,
+   :locality "Leksand"}
+  {:name "Ebbamåla bruk",
+   :longitude 14.6811041,
+   :latitude 56.3701895,
+   :source :openstreetmap,
+   :homepage "https://www.ebbamalabruk.se/"}
+  {:name "Ebbas hus",
+   :longitude 13.0057766,
+   :latitude 55.6053708,
+   :source :openstreetmap,
+   :locality "Malmö"}
+  {:name "Ebelingmuseet",
+   :longitude 16.473633,
+   :latitude 59.418782,
+   :source :openstreetmap,
+   :homepage "https://www.eskilstuna.se/ebelingmuseet"}
+  {:name "ed.",
+   :longitude 18.0520434,
+   :latitude 59.3451689,
+   :source :openstreetmap,
+   :homepage "https://ed-art.se/en/"}
+  {:name "Eda Glasmuseum",
+   :longitude 12.2613891,
+   :latitude 59.9223558,
+   :source :openstreetmap}
+  {:name "Eda Hembygdsgård",
+   :longitude 12.3354877,
+   :latitude 59.832619,
+   :source :openstreetmap}
+  {:name "Eda Skans Museum",
+   :longitude 12.3666459,
+   :latitude 59.7663837,
+   :source :openstreetmap}
+  {:name "Eds Motormuseum",
+   :longitude 11.9317876,
+   :latitude 58.9124316,
+   :source :openstreetmap}
+  {:name "Edsvik Konsthall",
+   :longitude 17.9588514,
+   :latitude 59.4405059,
+   :source :openstreetmap,
+   :homepage "https://www.atelje-edsvik.se"}
+  {:name "Ekenässjöns Industrimuseum",
+   :longitude 15.016754,
+   :latitude 57.4960121,
+   :source :openstreetmap,
+   :locality "Ekenässjön"}
+  {:name "Ekerum konsthall",
+   :longitude 16.5785591,
+   :latitude 56.7842332,
+   :source :openstreetmap}
+  {:name "Eketorp borgs museum",
+   :longitude 16.4860776,
+   :latitude 56.2955834,
+   :source :openstreetmap}
+  {:name "Ekholms Fotoateljé",
+   :longitude 15.2855122,
+   :latitude 56.2467107,
+   :source :openstreetmap,
+   :homepage
+   "http://www.ronneby.se/sv/uppleva-gora/kultur/museer/gjuteri-och-emaljmuseet/",
+   :locality "Kallinge"}
+  {:name "Eksjö Museum",
+   :longitude 14.9708645,
+   :latitude 57.6695746,
+   :source :openstreetmap,
+   :homepage "https://www.eksjo.se/kultur_fritid/eksjoe_museum",
+   :locality "Växjö"}
+  {:name "Elin Sundbergs museum",
+   :longitude 11.5357183,
+   :latitude 58.0247655,
+   :source :openstreetmap,
+   :homepage "http://elinsundberg.se/",
+   :locality "Kyrkesund"}
+  {:name "Elliseum",
+   :longitude 12.5052725,
+   :latitude 62.5514807,
+   :source :openstreetmap}
+  {:name "Elvisboden",
+   :longitude 15.9245155,
+   :latitude 60.0636955,
+   :source :openstreetmap}
+  {:name "Engelsbergs bruk",
+   :longitude 16.0096981,
+   :latitude 59.967599,
+   :source :openstreetmap}
+  {:name "Engelsbergs oljefabrik",
+   :longitude 16.0029501,
+   :latitude 59.9573025,
+   :source :openstreetmap,
+   :homepage "https://www.oljeon.se/"}
+  {:name "Erlandergården",
+   :longitude 13.4490908,
+   :latitude 59.7703664,
+   :source :openstreetmap,
+   :homepage "https://www.erlandergarden.se/"}
+  {:name "Eskilstuna stadsmuseum",
+   :longitude 16.5098523,
+   :latitude 59.3751439,
+   :source :openstreetmap,
+   :homepage
+   "https://www.eskilstuna.se/uppleva-och-gora/museer-och-konst/eskilstuna-stadsmuseum.html",
+   :locality "Eskilstuna"}
+  {:name "Esso",
+   :longitude 16.2426183,
+   :latitude 65.4310074,
+   :source :openstreetmap}
+  {:name "Eva Spångbergs Björkelund",
+   :longitude 14.5074796,
+   :latitude 57.3106044,
+   :source :openstreetmap,
+   :homepage "http://evaspangberg.se"}
+  {:name "Evolutionsmuseet Paleontologi",
+   :longitude 17.6220804,
+   :latitude 59.8492511,
+   :source :openstreetmap,
+   :homepage "https://www.evolutionsmuseet.uu.se/",
+   :locality "Uppsala"}
+  {:name "Evolutionsmuseet Zoologi",
+   :longitude 17.6262391,
+   :latitude 59.8501782,
+   :source :openstreetmap,
+   :homepage "https://www.evolutionsmuseet.uu.se/",
+   :locality "Uppsala"}
+  {:name "Eyvind Johnsons stuga",
+   :longitude 21.711562,
+   :latitude 65.8410121,
+   :source :openstreetmap}
+  {:name "F 7 Gårds- och flottiljmuseum",
+   :longitude 12.7230249,
+   :latitude 58.4364467,
+   :source :openstreetmap}
+  {:name "F.d. masugn",
+   :longitude 16.4657562,
+   :latitude 60.8409653,
+   :source :openstreetmap}
+  {:name "F11 Museum",
+   :longitude 16.9317736,
+   :latitude 58.7876951,
+   :source :openstreetmap,
+   :homepage "https://www.f11museum.se/"}
+  {:name "Falbygdens museum",
+   :longitude 13.5527223,
+   :latitude 58.1685776,
+   :source :openstreetmap,
+   :homepage "https://www.falkoping.se/museum"}
+  {:name "Falsterbo konsthall",
+   :longitude 12.8296544,
+   :latitude 55.3905868,
+   :source :openstreetmap,
+   :locality "Falsterbo"}
+  {:name "Falsterbo museum",
+   :longitude 12.8355966,
+   :latitude 55.388906,
+   :source :openstreetmap}
+  {:name "Falu Fängelse",
+   :longitude 15.6347536,
+   :latitude 60.6119581,
+   :source :openstreetmap,
+   :homepage "https://www.falufangelse.se/museum-guidning"}
+  {:name "Fatmomakke",
+   :longitude 15.1463294,
+   :latitude 65.0849636,
+   :source :openstreetmap}
+  {:name "Fattenborg",
+   :longitude 22.6243504,
+   :latitude 66.018666,
+   :source :openstreetmap,
+   :homepage "https://www.kalix.se/Uppleva/Kultur/Fattenborg/"}
+  {:name "Femorefortet",
+   :longitude 17.1081081,
+   :latitude 58.6490355,
+   :source :openstreetmap,
+   :homepage "http://femorefortet.se"}
+  {:name "Fenomenalen",
+   :longitude 18.2870526,
+   :latitude 57.6368867,
+   :source :openstreetmap,
+   :homepage "https://fenomenalen.se"}
+  {:name "Filfabriken",
+   :longitude 13.76218,
+   :latitude 56.1641511,
+   :source :openstreetmap}
+  {:name "Filmbyn Småland",
+   :longitude 15.5972632,
+   :latitude 57.6215124,
+   :source :openstreetmap,
+   :homepage "http://www.filmbyn.se/",
+   :locality "Mariannelund"}
+  {:name "Finnfors kraftverksmuseum",
+   :longitude 20.3377761,
+   :latitude 64.7935536,
+   :source :openstreetmap,
+   :homepage "https://www.skekraft.se/om-oss/foretaget/finnfors/"}
+  {:name "Finnskogsmuseet",
+   :longitude 15.8719256,
+   :latitude 61.2054971,
+   :source :openstreetmap,
+   :homepage "https://www.finnskogsmuseet.se/"}
+  {:name "Fiskaremuséet Gäddan",
+   :longitude 17.0609123,
+   :latitude 61.3017182,
+   :source :openstreetmap}
+  {:name "Fiskemuseet Hönö Klova",
+   :longitude 11.6436279,
+   :latitude 57.6794853,
+   :source :openstreetmap,
+   :homepage "http://www.fiskemuseet.se/"}
+  {:name "Fiskemuseet i Hällevik",
+   :longitude 14.6970069,
+   :latitude 56.0108765,
+   :source :openstreetmap,
+   :locality "Sölvesborg"}
+  {:name "Fiskemuseum",
+   :longitude 24.0367209,
+   :latitude 65.9649189,
+   :source :openstreetmap}
+  {:name "Fiskmuseum",
+   :longitude 17.6560102,
+   :latitude 62.2311194,
+   :source :openstreetmap}
+  {:name "Fixgalleriet",
+   :longitude 11.9103174,
+   :latitude 57.6863441,
+   :source :openstreetmap}
+  {:name "Fjärilshuset Haga Ocean",
+   :longitude 18.0306067,
+   :latitude 59.366082,
+   :source :openstreetmap,
+   :homepage "https://www.fjarilshuset.se/",
+   :locality "Solna"}
+  {:name "Flaménska galleriet",
+   :longitude 12.9421735,
+   :latitude 57.7186106,
+   :source :openstreetmap,
+   :homepage "https://www.flamenska.se/"}
+  {:name "Flottningsmuseum",
+   :longitude 20.3981571,
+   :latitude 65.8484931,
+   :source :openstreetmap}
+  {:name "Flottningsmuseum",
+   :longitude 16.884486,
+   :latitude 60.2874328,
+   :source :openstreetmap}
+  {:name "Flyg- och lottamuséet",
+   :longitude 14.7979376,
+   :latitude 63.1271002,
+   :source :openstreetmap,
+   :homepage "https://teknikland.se/"}
+  {:name "Flygmuseet F21",
+   :longitude 22.1056382,
+   :latitude 65.5417338,
+   :source :openstreetmap}
+  {:name "Flygmuseum",
+   :longitude 12.8463258,
+   :latitude 56.2883514,
+   :source :openstreetmap}
+  {:name "Flygmuseum Stenbäcks",
+   :longitude 13.4376142,
+   :latitude 55.4978455,
+   :source :openstreetmap,
+   :homepage "http://www.stenbacksflygmuseum.com",
+   :locality "Skurup"}
+  {:name "Flygvapenmuseum",
+   :longitude 15.5244868,
+   :latitude 58.4099325,
+   :source :openstreetmap,
+   :homepage "https://www.flygvapenmuseum.se/",
+   :locality "Linköping"}
+  {:name "Fläckebo hembygdsgård",
+   :longitude 16.3411796,
+   :latitude 59.8732748,
+   :source :openstreetmap}
+  {:name "Folk & Trädgårdsmuseet",
+   :longitude 18.0449171,
+   :latitude 59.1036022,
+   :source :openstreetmap}
+  {:name "FOLK i Skärholmen",
+   :longitude 17.9044996,
+   :latitude 59.2759196,
+   :source :openstreetmap,
+   :homepage "https://folkiskarholmen.se/"}
+  {:name "Fonus Begravningsmuseum",
+   :longitude 13.5758792,
+   :latitude 58.1654335,
+   :source :openstreetmap}
+  {:name "Forced Landing Collection",
+   :longitude 12.3853618,
+   :latitude 56.9833155,
+   :source :openstreetmap,
+   :locality "Långås"}
+  {:name "Fordonsmuseet",
+   :longitude 12.9995221,
+   :latitude 60.1338542,
+   :source :openstreetmap}
+  {:name "Form Design Center",
+   :longitude 12.9992059,
+   :latitude 55.6045029,
+   :source :openstreetmap,
+   :homepage "https://www.formdesigncenter.com/"}
+  {:name "Fornbyn",
+   :longitude 13.4424015,
+   :latitude 58.3898508,
+   :source :openstreetmap,
+   :homepage "https://vastergotlandsmuseum.se/"}
+  {:name "Forngården i Överhogdal",
+   :longitude 14.7856448,
+   :latitude 62.2956039,
+   :source :openstreetmap,
+   :homepage "www.forngarden.com"}
+  {:name "Fornminne, Gravhögar",
+   :longitude 14.7718541,
+   :latitude 57.7256795,
+   :source :openstreetmap}
+  {:name "Fornstugan",
+   :longitude 11.4596868,
+   :latitude 58.247068,
+   :source :openstreetmap}
+  {:name "Fornstugan",
+   :longitude 13.4672967,
+   :latitude 57.8997182,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vastsverige.com/en/ulricehamn/produkter/fornstugan/"}
+  {:name "Forsbacka Bruk",
+   :longitude 16.9039403,
+   :latitude 60.6122316,
+   :source :openstreetmap,
+   :locality "Forsbacka"}
+  {:name "Forsvik Bruk Museum",
+   :longitude 14.4351375,
+   :latitude 58.5788924,
+   :source :openstreetmap}
+  {:name "Fortet på Hyppeln",
+   :longitude 11.6144141,
+   :latitude 57.7616431,
+   :source :openstreetmap}
+  {:name "Forum Museum Rönnskär",
+   :longitude 21.271087,
+   :latitude 64.6686888,
+   :source :openstreetmap}
+  {:name "Fotbollsmuseet",
+   :longitude 14.4403756,
+   :latitude 59.2383246,
+   :source :openstreetmap,
+   :homepage "https://www.degerforsif.se/fotbollsmuseet/"}
+  {:name "Fotevikens Museum",
+   :longitude 12.9528115,
+   :latitude 55.4294431,
+   :source :openstreetmap,
+   :homepage "https://www.fotevikensmuseum.se/"}
+  {:name "Fotogalleri Stefan Idemark",
+   :longitude 13.8270762,
+   :latitude 55.4299239,
+   :source :openstreetmap}
+  {:name "Fotografiska",
+   :longitude 18.0847007,
+   :latitude 59.3180039,
+   :source :openstreetmap,
+   :homepage "https://www.fotografiska.com/sto/",
+   :locality "Stockholm"}
+  {:name "Fotomuseet",
+   :longitude 13.9969441,
+   :latitude 56.3799108,
+   :source :openstreetmap,
+   :homepage "https://www.fotomuseetiosby.nu/",
+   :locality "Osby"}
+  {:name "Fotomuseet Olympia",
+   :longitude 12.4881865,
+   :latitude 56.9034903,
+   :source :openstreetmap,
+   :homepage "http://www.fotomuseet-olympia.com/",
+   :locality "Falkenberg"}
+  {:name "FRANK",
+   :longitude 13.0077701,
+   :latitude 55.5890292,
+   :source :openstreetmap,
+   :homepage "https://frankart.se"}
+  {:name "Fredens hus",
+   :longitude 17.6389036,
+   :latitude 59.8577524,
+   :source :openstreetmap,
+   :homepage "https://www.fredenshus.se",
+   :locality "Uppsala"}
+  {:name "Fredriksbergs Hembygdsgård",
+   :longitude 14.3887343,
+   :latitude 60.1353265,
+   :source :openstreetmap}
+  {:name "Fredriksdal museer och trädgårdar",
+   :longitude 12.7137484,
+   :latitude 56.0560779,
+   :source :openstreetmap,
+   :homepage "https://www.fredriksdal.se/"}
+  {:name "Free Urban arts outdoor gallery",
+   :longitude 13.0045094,
+   :latitude 55.6011112,
+   :source :openstreetmap,
+   :homepage "https://www.redangalleri.se/"}
+  {:name "Fridegårdsmuseet",
+   :longitude 17.4831167,
+   :latitude 59.6305241,
+   :source :openstreetmap,
+   :homepage "https://www.haboportalen.se/nyheter1/fridegardsmuseet"}
+  {:name "Friesmuséet",
+   :longitude 13.3262992,
+   :latitude 56.8904056,
+   :source :openstreetmap,
+   :homepage "https://femsjo.com/2020/08/friesmuseet-3/",
+   :locality "Femsjö"}
+  {:name "Friluftsmuseet",
+   :longitude 14.1396708,
+   :latitude 57.7810021,
+   :source :openstreetmap,
+   :homepage
+   "https://jonkopingslansmuseum.se/besok-oss/friluftsmuseet/"}
+  {:name "Friluftsmuseet Hägnan",
+   :longitude 22.0359432,
+   :latitude 65.6489039,
+   :source :openstreetmap,
+   :homepage "https://www.lulea.se/hagnan"}
+  {:name "Friluftsmuséet Fiskartorpet",
+   :longitude 11.1892252,
+   :latitude 58.9410874,
+   :source :openstreetmap}
+  {:name "Frösthults Bygdegård",
+   :longitude 16.9501975,
+   :latitude 59.7397668,
+   :source :openstreetmap}
+  {:name "Frövi Maskin och Bruksbanemuseum",
+   :longitude 15.3958284,
+   :latitude 59.4599652,
+   :source :openstreetmap,
+   :homepage "https://frovi-maskin-bruksbanemuseum.blogspot.com/"}
+  {:name "Fullersta bio",
+   :longitude 17.972705,
+   :latitude 59.2401479,
+   :source :openstreetmap}
+  {:name "Funkisfabriken",
+   :longitude 14.2182839,
+   :latitude 56.6402185,
+   :source :openstreetmap}
+  {:name "Fyra Vindar",
+   :longitude 14.1112037,
+   :latitude 56.5028292,
+   :source :openstreetmap}
+  {:name "Fyrhistorisk utställning",
+   :longitude 17.8655988,
+   :latitude 58.7396376,
+   :source :openstreetmap}
+  {:name "Fyrmuseum",
+   :longitude 10.9903259,
+   :latitude 58.8326082,
+   :source :openstreetmap}
+  {:name "Fyrutställning",
+   :longitude 18.1509296,
+   :latitude 56.9215876,
+   :source :openstreetmap}
+  {:name "Fäboda fårbod",
+   :longitude 17.1212916,
+   :latitude 59.1819867,
+   :source :openstreetmap}
+  {:name "Färgargården friluftsmuseum",
+   :longitude 16.1676773,
+   :latitude 58.5880374,
+   :source :openstreetmap}
+  {:name "Färgfabriken",
+   :longitude 18.0193235,
+   :latitude 59.3152528,
+   :source :openstreetmap,
+   :homepage "https://fargfabriken.se/"}
+  {:name "Fästningsmuséet",
+   :longitude 14.5270297,
+   :latitude 58.5285924,
+   :source :openstreetmap,
+   :homepage "https://www.fastningsmuseet.se/"}
+  {:name "Fågelmuseet",
+   :longitude 14.1446453,
+   :latitude 57.7814439,
+   :source :openstreetmap}
+  {:name "Fårö museum",
+   :longitude 19.1384497,
+   :latitude 57.9189131,
+   :source :openstreetmap,
+   :homepage "https://bergmancenter.se/"}
+  {:name "Föreningen Hilma af Klints ateljé",
+   :longitude 17.5009998,
+   :latitude 59.3628694,
+   :source :openstreetmap,
+   :homepage "https://www.hilmaafklintsatelje.org/"}
+  {:name "Föreningshuset",
+   :longitude 14.5174212,
+   :latitude 62.9246684,
+   :source :openstreetmap}
+  {:name "Förslövs linbastua",
+   :longitude 12.8229752,
+   :latitude 56.3490577,
+   :source :openstreetmap}
+  {:name "Försvarsmuseum",
+   :longitude 21.6790694,
+   :latitude 65.8052755,
+   :source :openstreetmap,
+   :homepage
+   "https://boden.se/kommunen/kultur-och-fritid/forsvarsmuseum-boden"}
+  {:name "Gagnefs Minnesstuga (hembygdsgård)",
+   :longitude 15.0769407,
+   :latitude 60.5882108,
+   :source :openstreetmap}
+  {:name "Galleri",
+   :longitude 13.872757,
+   :latitude 60.8088837,
+   :source :openstreetmap,
+   :locality "Öje"}
+  {:name "Galleri 20",
+   :longitude 11.8993006,
+   :latitude 57.6798663,
+   :source :openstreetmap,
+   :locality "Västra Frölunda"}
+  {:name "Galleri Ann-Katrin Braf",
+   :longitude 12.9898452,
+   :latitude 55.5955858,
+   :source :openstreetmap,
+   :homepage "www.ann-katrinbraf.se"}
+  {:name "Galleri Bellman",
+   :longitude 18.0652434,
+   :latitude 59.3195064,
+   :source :openstreetmap,
+   :homepage "https://galleribellman.se"}
+  {:name "Galleri Blå",
+   :longitude 16.8980895,
+   :latitude 60.2886036,
+   :source :openstreetmap,
+   :locality "Gysinge"}
+  {:name "Galleri Cora Hillebrand",
+   :longitude 11.9941466,
+   :latitude 57.7002409,
+   :source :openstreetmap,
+   :homepage "https://remfabriken.se/",
+   :locality "Göteborg"}
+  {:name "Galleri Final",
+   :longitude 13.0212703,
+   :latitude 55.6057667,
+   :source :openstreetmap}
+  {:name "Galleri Gasell",
+   :longitude 12.8547644,
+   :latitude 56.6753209,
+   :source :openstreetmap,
+   :homepage "http://galle.ri-ga.se/ll/"}
+  {:name "Galleri Hattlösa",
+   :longitude 12.81858,
+   :latitude 56.3526749,
+   :source :openstreetmap}
+  {:name "Galleri Insikten, Röda Stugan",
+   :longitude 11.5821877,
+   :latitude 57.9212951,
+   :source :openstreetmap,
+   :homepage "https://astol.se/roda-stugan/",
+   :locality "Åstol"}
+  {:name "Galleri Kretsen",
+   :longitude 17.6297429,
+   :latitude 59.195991,
+   :source :openstreetmap,
+   :homepage "https://kretsen.info/"}
+  {:name "Galleri Källan Skanör",
+   :longitude 12.8462121,
+   :latitude 55.4149823,
+   :source :openstreetmap}
+  {:name "Galleri Loforsen",
+   :longitude 14.9257641,
+   :latitude 60.2162533,
+   :source :openstreetmap,
+   :homepage "http://loforsen.blogspot.se"}
+  {:name "Galleri Lohme",
+   :longitude 12.9934245,
+   :latitude 55.5978574,
+   :source :openstreetmap}
+  {:name "Galleri Lorentzon",
+   :longitude 18.0402008,
+   :latitude 59.3294992,
+   :source :openstreetmap,
+   :homepage "https://www.gallerilorentzon.com/"}
+  {:name "Galleri Långedrag",
+   :longitude 11.8499109,
+   :latitude 57.6697355,
+   :source :openstreetmap,
+   :homepage
+   "https://viktoriahallenius.com/events/venues/galleri-langedrag/"}
+  {:name "galleri nord",
+   :longitude 15.217496,
+   :latitude 59.279211,
+   :source :openstreetmap}
+  {:name "Galleri O",
+   :longitude 15.5264387,
+   :latitude 59.1634886,
+   :source :openstreetmap,
+   :homepage "http://segersjotorp.se"}
+  {:name "Galleri OSs",
+   :longitude 20.2524558,
+   :latitude 63.8275305,
+   :source :openstreetmap,
+   :homepage "https://gallerioss.se/",
+   :locality "Umeå"}
+  {:name "Galleri pi",
+   :longitude 12.5906144,
+   :latitude 59.6556947,
+   :source :openstreetmap}
+  {:name "Galleri Ping-Pong",
+   :longitude 13.0092775,
+   :latitude 55.6042176,
+   :source :openstreetmap,
+   :homepage "https://www.galleripingpong.se/"}
+  {:name "Galleri Sander",
+   :longitude 15.6200408,
+   :latitude 58.4093555,
+   :source :openstreetmap,
+   :homepage "https://gallerisander.se/linkoping/",
+   :locality "Linköping"}
+  {:name "Galleri Scandinavia",
+   :longitude 18.09341,
+   :latitude 59.338244,
+   :source :openstreetmap}
+  {:name "Galleri Stenlander",
+   :longitude 18.0814448,
+   :latitude 59.3384328,
+   :source :openstreetmap,
+   :homepage "https://www.galleristenlander.shop"}
+  {:name "Galleri Södra Hyttan",
+   :longitude 14.8087195,
+   :latitude 59.7677188,
+   :source :openstreetmap}
+  {:name "Galleri Tant Raffa",
+   :longitude 18.0525913,
+   :latitude 59.3175036,
+   :source :openstreetmap}
+  {:name "Galleri Verso",
+   :longitude 18.0371342,
+   :latitude 59.329705,
+   :source :openstreetmap,
+   :homepage "https://www.galleriverso.se"}
+  {:name "Galleri Zest",
+   :longitude 18.0857525,
+   :latitude 59.3348715,
+   :source :openstreetmap}
+  {:name "Galleri Ängelsbergs brukshandel",
+   :longitude 16.0084085,
+   :latitude 59.9605076,
+   :source :openstreetmap}
+  {:name "Galleri Örsta",
+   :longitude 15.1815056,
+   :latitude 59.1179021,
+   :source :openstreetmap,
+   :homepage "http://www.galleriorsta.se"}
+  {:name "Galleri Över Sjön",
+   :longitude 17.8519001,
+   :latitude 59.4504467,
+   :source :openstreetmap}
+  {:name "Galleri115",
+   :longitude 13.3950256,
+   :latitude 55.9943572,
+   :source :openstreetmap,
+   :homepage "https://galleri115.se/"}
+  {:name "Galleriet",
+   :longitude 13.6029205,
+   :latitude 59.3983962,
+   :source :openstreetmap,
+   :homepage
+   "https://karlstad.se/Alsters-herrgard/besok-alsters-herrgard/se-och-gora/lanshemslojdsforeningen-i-vastra-flygeln/"}
+  {:name "GalleriLi",
+   :longitude 15.9855644,
+   :latitude 58.4679571,
+   :source :openstreetmap,
+   :locality "Norsholm"}
+  {:name "Gallery Aveny",
+   :longitude 11.9554828,
+   :latitude 57.6932069,
+   :source :openstreetmap,
+   :homepage "https://www.galleriaveny.se/",
+   :locality "Göteborg"}
+  {:name "Gallery M1",
+   :longitude 13.8218132,
+   :latitude 55.4279981,
+   :source :openstreetmap,
+   :homepage "https://www.ystadsfbc.se/museum/"}
+  {:name "Gallery Studio 8",
+   :longitude 17.6274916,
+   :latitude 59.8593542,
+   :source :openstreetmap}
+  {:name "Gamel Remsgården",
+   :longitude 14.1625263,
+   :latitude 62.1251809,
+   :source :openstreetmap}
+  {:name "Gamla Bruket",
+   :longitude 11.6953953,
+   :latitude 58.4833073,
+   :source :openstreetmap}
+  {:name "Gamla Magasinet",
+   :longitude 12.4396692,
+   :latitude 58.8135131,
+   :source :openstreetmap}
+  {:name "Gamla prästgården",
+   :longitude 17.5024062,
+   :latitude 59.9949061,
+   :source :openstreetmap}
+  {:name "Gamla salteriet",
+   :longitude 20.8754448,
+   :latitude 63.7468604,
+   :source :openstreetmap}
+  {:name "Gamla skolan",
+   :longitude 18.6886533,
+   :latitude 59.1820903,
+   :source :openstreetmap}
+  {:name "Gamla skolan",
+   :longitude 18.1718745,
+   :latitude 60.1748451,
+   :source :openstreetmap,
+   :locality "Gimo"}
+  {:name "Gamla stans krukmakeri",
+   :longitude 17.1478691,
+   :latitude 60.6734908,
+   :source :openstreetmap,
+   :homepage "https://lansmuseetgavleborg.se/"}
+  {:name "Gamla Uppsala museum",
+   :longitude 17.6336159,
+   :latitude 59.8977665,
+   :source :openstreetmap,
+   :homepage "https://www.upplandsmuseet.se/gamla-uppsala-museum/",
+   :locality "Uppsala"}
+  {:name "Gamlegård Hembygdsmuseum",
+   :longitude 13.3333316,
+   :latitude 55.9618537,
+   :source :openstreetmap}
+  {:name "Gammelgården",
+   :longitude 16.0055646,
+   :latitude 59.5117341,
+   :source :openstreetmap}
+  {:name "Gammelgården",
+   :longitude 13.4822767,
+   :latitude 59.3679268,
+   :source :openstreetmap}
+  {:name "Gammelgården",
+   :longitude 17.6081014,
+   :latitude 63.5728481,
+   :source :openstreetmap,
+   :homepage
+   "https://vnmuseum.se/vara-anlaggningar/gammelgarden-i-myckelgensjo/"}
+  {:name "Gammelgården",
+   :longitude 14.357484,
+   :latitude 62.0398054,
+   :source :openstreetmap}
+  {:name "Gammelgården",
+   :longitude 15.0930658,
+   :latitude 60.8946631,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/rattvik/",
+   :locality "Rättvik"}
+  {:name "Gammelgårdens Friluftsmuseum",
+   :longitude 12.237563,
+   :latitude 59.0288594,
+   :source :openstreetmap}
+  {:name "Gammelgårdens Museum",
+   :longitude 14.2862263,
+   :latitude 63.1297688,
+   :source :openstreetmap,
+   :homepage "https://m.facebook.com/gammalgarden/"}
+  {:name "Gammelstan",
+   :longitude 15.2509743,
+   :latitude 61.1168565,
+   :source :openstreetmap}
+  {:name "Garnisonsmuseet",
+   :longitude 12.8611708,
+   :latitude 56.6881641,
+   :source :openstreetmap}
+  {:name "Garpenbergs Gruvkapell",
+   :longitude 16.186713,
+   :latitude 60.3079678,
+   :source :openstreetmap}
+  {:name "Garphyttan industrimuseum",
+   :longitude 14.9418166,
+   :latitude 59.3071496,
+   :source :openstreetmap,
+   :homepage "http://garphyttansindustrimuseum.se"}
+  {:name "Garvaregården",
+   :longitude 17.545855,
+   :latitude 58.8979248,
+   :source :openstreetmap}
+  {:name "Gathenhielmska Huset",
+   :longitude 11.9341299,
+   :latitude 57.6985833,
+   :source :openstreetmap,
+   :homepage "https://www.gathenhielmska.se/",
+   :locality "Göteborg"}
+  {:name "Ge-Hå:s Konst",
+   :longitude 12.0758091,
+   :latitude 57.4859294,
+   :source :openstreetmap}
+  {:name "Gene Fornby",
+   :longitude 18.6957586,
+   :latitude 63.2500459,
+   :source :openstreetmap}
+  {:name "Genesmons arkeologiska friluftsmuseum",
+   :longitude 18.6991703,
+   :latitude 63.2525955,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ornskoldsvik.se/upplevaochgora/kultur/museerochkonst/genesmonsarkeologiskafriluftsmuseum.html"}
+  {:name "Geologiska museet",
+   :longitude 15.4301434,
+   :latitude 60.4841572,
+   :source :openstreetmap,
+   :homepage "http://www.geologiskamuseet.se",
+   :locality "Borlänge"}
+  {:name "Geomuseum",
+   :longitude 18.7504263,
+   :latitude 65.1817543,
+   :source :openstreetmap}
+  {:name "Gerlesborgs Konsthall",
+   :longitude 11.3546154,
+   :latitude 58.4948671,
+   :source :openstreetmap,
+   :homepage "http://www.gerlesborgsskolan.se/kultur/utstallningar/"}
+  {:name "Gideå Hembygdsgård",
+   :longitude 18.9779162,
+   :latitude 63.4825874,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/gidea-hembygdsforening"}
+  {:name "Gladisvall (Heimathof mit Kräutergarten)",
+   :longitude 12.612551,
+   :latitude 59.5284236,
+   :source :openstreetmap}
+  {:name "Glasets hus",
+   :longitude 13.3539331,
+   :latitude 57.5355428,
+   :source :openstreetmap,
+   :homepage "https://glasetshuslimmared.se/",
+   :locality "Limmared"}
+  {:name "Glösa Älgriket",
+   :longitude 14.0237082,
+   :latitude 63.3828298,
+   :source :openstreetmap,
+   :homepage "http://www.glosaalgriket.se/"}
+  {:name "Gnisterhus",
+   :longitude 17.1261579,
+   :latitude 61.4592846,
+   :source :openstreetmap}
+  {:name "Godegårds Bruks- & Porslinsmuseum",
+   :longitude 15.179448,
+   :latitude 58.7437666,
+   :source :openstreetmap,
+   :homepage "http://www.svenskt.porslinsmuseum.dinstudio.se/"}
+  {:name "Gotlands försvarsmuseum",
+   :longitude 18.6130091,
+   :latitude 57.734775,
+   :source :openstreetmap,
+   :homepage "https://www.gotlandsforsvarsmuseum.se/",
+   :locality "Tingstäde"}
+  {:name "Gotlands Lantbruksmuseum",
+   :longitude 18.330718,
+   :latitude 57.1607292,
+   :source :openstreetmap,
+   :homepage "http://www.spenarve.se/"}
+  {:name "Gotlands Museum",
+   :longitude 18.2924131,
+   :latitude 57.6396406,
+   :source :openstreetmap,
+   :locality "Visby"}
+  {:name "Gottfrid Larsson Gården",
+   :longitude 14.8966048,
+   :latitude 58.4478993,
+   :source :openstreetmap,
+   :locality "Vadstena"}
+  {:name "Granbergsdals hytta",
+   :longitude 14.5803012,
+   :latitude 59.4020681,
+   :source :openstreetmap}
+  {:name "Granviks museum",
+   :longitude 14.5472802,
+   :latitude 58.6327291,
+   :source :openstreetmap}
+  {:name "Grava Hembygdsgård",
+   :longitude 13.379796,
+   :latitude 59.4657185,
+   :source :openstreetmap}
+  {:name "Grenna Museum",
+   :longitude 14.467527,
+   :latitude 58.0218981,
+   :source :openstreetmap,
+   :homepage "https://www.grennamuseum.se/",
+   :locality "Gränna"}
+  {:name "Gripsholms Slott",
+   :longitude 17.2200195,
+   :latitude 59.2557262,
+   :source :openstreetmap}
+  {:name "Ground",
+   :longitude 18.1089465,
+   :latitude 59.3060179,
+   :source :openstreetmap}
+  {:name "Grums Hembygdsgård",
+   :longitude 13.0833113,
+   :latitude 59.4309295,
+   :source :openstreetmap}
+  {:name "Grundsunda Hembygdsgård",
+   :longitude 19.1971064,
+   :latitude 63.3749625,
+   :source :openstreetmap,
+   :homepage "https://www.grundsundahbf.se/"}
+  {:name "Gruvmuseet",
+   :longitude 15.6165946,
+   :latitude 60.6002283,
+   :source :openstreetmap,
+   :homepage "https://www.falugruva.se/se-och-gora/gruvmuseet/"}
+  {:name "Gruvmuseet",
+   :longitude 18.329011,
+   :latitude 58.9671173,
+   :source :openstreetmap}
+  {:name "Gruvmuseum",
+   :longitude 15.2085096,
+   :latitude 60.1465536,
+   :source :openstreetmap}
+  {:name "Gruvmuseum Zinkgruvan",
+   :longitude 15.0891872,
+   :latitude 58.8110983,
+   :source :openstreetmap}
+  {:name "Grängesbergsbanornas Järnvägsmuseum GBBJ",
+   :longitude 14.9862075,
+   :latitude 60.072393,
+   :source :openstreetmap,
+   :homepage "https://www.gbbj.nu/"}
+  {:name "Grännabergets friluftsmuseum",
+   :longitude 14.4651171,
+   :latitude 58.0178181,
+   :source :openstreetmap}
+  {:name "Gränsfors Bruks Yxmuseum",
+   :longitude 17.088658,
+   :latitude 62.0407084,
+   :source :openstreetmap}
+  {:name "Gräsmarks hembygdsgård",
+   :longitude 12.9005771,
+   :latitude 59.9435575,
+   :source :openstreetmap}
+  {:name "Gråbo Arbetarmuseum",
+   :longitude 14.5481554,
+   :latitude 59.3329104,
+   :source :openstreetmap,
+   :locality "Karlskoga"}
+  {:name "Guddehjälms hembygdsgård",
+   :longitude 11.8861215,
+   :latitude 57.8786282,
+   :source :openstreetmap}
+  {:name "Guitars",
+   :longitude 20.2662784,
+   :latitude 63.8270461,
+   :source :openstreetmap,
+   :homepage "https://www.guitarsthemuseum.com/"}
+  {:name "Gunilla Mann",
+   :longitude 14.258172,
+   :latitude 55.6241595,
+   :source :openstreetmap}
+  {:name "Gustavsbergs Konsthall",
+   :longitude 18.3832571,
+   :latitude 59.3245553,
+   :source :openstreetmap,
+   :homepage "https://gustavsbergsporslinsmuseum.se/en/"}
+  {:name "Gustavsfors Hembygdsgård",
+   :longitude 13.8096849,
+   :latitude 60.1559201,
+   :source :openstreetmap}
+  {:name "Gylleboverket",
+   :longitude 14.2244503,
+   :latitude 55.5920686,
+   :source :openstreetmap,
+   :homepage "https://gylleboverket.se"}
+  {:name "Gyttja Keramik",
+   :longitude 17.8776661,
+   :latitude 59.3456692,
+   :source :openstreetmap,
+   :homepage "https://gyttja.se/",
+   :locality "Bromma"}
+  {:name "Gäddede hembygdsgård",
+   :longitude 14.1481966,
+   :latitude 64.4916303,
+   :source :openstreetmap}
+  {:name "Gällivare museum",
+   :longitude 20.6611333,
+   :latitude 67.1341524,
+   :source :openstreetmap,
+   :homepage "http://www.gellivare.se/Kommun/Kultur/Gallivare-museum/",
+   :locality "Gällivare"}
+  {:name "Gällö hembygdsmuseum",
+   :longitude 15.234232,
+   :latitude 62.914364,
+   :source :openstreetmap}
+  {:name "Gärsarnas museum",
+   :longitude 18.2802039,
+   :latitude 59.0870054,
+   :source :openstreetmap,
+   :homepage
+   "http://www.hembygd.se/galo-garsar-hembygdsforening/morarna-hembygdsgarden/museum/"}
+  {:name "Gårdsby hembygdspark",
+   :longitude 14.9078501,
+   :latitude 56.9437027,
+   :source :openstreetmap,
+   :locality "Växjö"}
+  {:name "Göhestra hembygdsgård",
+   :longitude 13.6698014,
+   :latitude 57.3859704,
+   :source :openstreetmap}
+  {:name "Göteborg Bildverkstad",
+   :longitude 11.9098542,
+   :latitude 57.6914432,
+   :source :openstreetmap,
+   :homepage "https://kbbf.se/"}
+  {:name "Göteborgs Konstförening",
+   :longitude 11.9803717,
+   :latitude 57.6995989,
+   :source :openstreetmap,
+   :homepage "https://goteborgskonstforening.org/",
+   :locality "Göteborg"}
+  {:name "Göteborgs konstmuseum",
+   :longitude 11.9808058,
+   :latitude 57.6965697,
+   :source :openstreetmap,
+   :homepage "https://goteborgskonstmuseum.se/en/"}
+  {:name "Göteborgs Naturhistoriska museum",
+   :longitude 11.9494256,
+   :latitude 57.6898887,
+   :source :openstreetmap,
+   :homepage "https://www.gnm.se/",
+   :locality "Göteborg"}
+  {:name "Göteborgs spårvägsmuseum",
+   :longitude 11.9925868,
+   :latitude 57.7100122,
+   :source :openstreetmap,
+   :homepage "https://www.ringlinien.org/sv/museum/besoek-museet/",
+   :locality "Göteborg"}
+  {:name "Haga Science Center",
+   :longitude 16.2892952,
+   :latitude 60.5451549,
+   :source :openstreetmap,
+   :homepage "https://www.hagasciencecenter.se/",
+   :locality "Hofors"}
+  {:name "Hallands Konstmuseum",
+   :longitude 12.8622922,
+   :latitude 56.6808063,
+   :source :openstreetmap,
+   :homepage "https://hallandskonstmuseum.se/",
+   :locality "Halmstad"}
+  {:name "Hallands kulturhistoriska museum",
+   :longitude 12.2395298,
+   :latitude 57.1059794,
+   :source :openstreetmap,
+   :homepage "https://museumhalland.se/varbergs-fastning/",
+   :locality "Varberg"}
+  {:name "Hallandsgården",
+   :longitude 12.8541629,
+   :latitude 56.6819731,
+   :source :openstreetmap}
+  {:name "Hallwylska palatset",
+   :longitude 18.0745279,
+   :latitude 59.3332771,
+   :source :openstreetmap,
+   :homepage "https://hallwylskamuseet.se/",
+   :locality "Stockholm"}
+  {:name "Halmstads konsthall",
+   :longitude 12.8625199,
+   :latitude 56.6754068,
+   :source :openstreetmap,
+   :homepage
+   "https://www.halmstad.se/upplevaochgora/kultur/konst/halmstadskonsthall",
+   :locality "Halmstad"}
+  {:name "Hammarede skogsmiljö",
+   :longitude 14.4236588,
+   :latitude 62.4821373,
+   :source :openstreetmap}
+  {:name "Hammargården hembygdsgård",
+   :longitude 19.0703773,
+   :latitude 63.6255865,
+   :source :openstreetmap}
+  {:name "Hammarö Skärgårdsmuseum",
+   :longitude 13.5226777,
+   :latitude 59.336677,
+   :source :openstreetmap,
+   :homepage "www.skärgårdsmuseet.se"}
+  {:name "Hamn",
+   :longitude 18.2600845,
+   :latitude 59.2953154,
+   :source :openstreetmap,
+   :homepage "https://www.hamnmuseum.se/"}
+  {:name "Hamnmagasinet",
+   :longitude 14.0581839,
+   :latitude 58.8025679,
+   :source :openstreetmap}
+  {:name "Handens muséum & Smedja",
+   :longitude 18.1388623,
+   :latitude 59.1768407,
+   :source :openstreetmap}
+  {:name "Hangaren Subtopia",
+   :longitude 17.8657817,
+   :latitude 59.2388051,
+   :source :openstreetmap,
+   :homepage "https://subtopia.se/om-subtopia.php?id2=119",
+   :locality "Norsborg"}
+  {:name "Hangaren – Centrum För Urbankonst",
+   :longitude 13.0242014,
+   :latitude 55.587979,
+   :source :openstreetmap,
+   :homepage "https://cfuk.nu/"}
+  {:name "Hans Hedberg museum",
+   :longitude 18.7129954,
+   :latitude 63.2877291,
+   :source :openstreetmap,
+   :homepage "https://www.hanshedbergmuseum.se/"}
+  {:name "Hantverk kring kanalen",
+   :longitude 14.1088801,
+   :latitude 58.7472664,
+   :source :openstreetmap,
+   :homepage "https://hantverkkringkanalen.se"}
+  {:name "Hantverks- & sjöfartsmuseum",
+   :longitude 17.2963655,
+   :latitude 62.3992488,
+   :source :openstreetmap}
+  {:name "Hantverksby",
+   :longitude 15.1973803,
+   :latitude 56.6246975,
+   :source :openstreetmap}
+  {:name "Hantverksmagasinet",
+   :longitude 12.5924759,
+   :latitude 59.6522401,
+   :source :openstreetmap}
+  {:name "Harbo Hembygdsgård",
+   :longitude 17.210185,
+   :latitude 60.110648,
+   :source :openstreetmap}
+  {:name "Harmånger hembygdsgård",
+   :longitude 17.2210045,
+   :latitude 61.9238663,
+   :source :openstreetmap}
+  {:name "Harstena skola",
+   :longitude 17.0105554,
+   :latitude 58.2533363,
+   :source :openstreetmap,
+   :homepage "https://www.harstenabyskola.se/"}
+  {:name "Hasse & Tage-museum",
+   :longitude 13.9502552,
+   :latitude 55.5444898,
+   :source :openstreetmap,
+   :homepage "https://hasseotagemuseet.se/"}
+  {:name "Haverö Hembygdsgård",
+   :longitude 15.1320842,
+   :latitude 62.3881347,
+   :source :openstreetmap}
+  {:name "Havre Magasinet",
+   :longitude 21.6498956,
+   :latitude 65.8247781,
+   :source :openstreetmap}
+  {:name "Hede hembygdsgård",
+   :longitude 13.5119657,
+   :latitude 62.420348,
+   :source :openstreetmap}
+  {:name "Hedemora MC-museum",
+   :longitude 15.9920808,
+   :latitude 60.2809462,
+   :source :openstreetmap}
+  {:name "Helsingborgs brandkårsmuseum",
+   :longitude 12.7098294,
+   :latitude 56.0341381,
+   :source :openstreetmap}
+  {:name "Helsingborgs idrottsmuseum",
+   :longitude 12.7001423,
+   :latitude 56.041331,
+   :source :openstreetmap,
+   :locality "Helsingborg"}
+  {:name "Helsingborgs medicinhistoriska museum",
+   :longitude 12.7015023,
+   :latitude 56.0479225,
+   :source :openstreetmap,
+   :homepage "https://hmhf.se/",
+   :locality "Helsingborg"}
+  {:name "Hem i Haga",
+   :longitude 11.9550425,
+   :latitude 57.6986316,
+   :source :openstreetmap,
+   :homepage "https://goteborgsstadsmuseum.se/besok-oss/hem-i-haga/",
+   :locality "Göteborg"}
+  {:name "Hembygdsgård",
+   :longitude 18.5194859,
+   :latitude 63.2021333,
+   :source :openstreetmap,
+   :homepage "https://natrahembygd.se/"}
+  {:name "Hembygdsgård",
+   :longitude 16.2930028,
+   :latitude 60.5476207,
+   :source :openstreetmap}
+  {:name "Hembygdsgård",
+   :longitude 16.2990198,
+   :latitude 58.1638606,
+   :source :openstreetmap}
+  {:name "Hembygdsgård",
+   :longitude 16.3407205,
+   :latitude 63.9264102,
+   :source :openstreetmap}
+  {:name "Hembygdsgård",
+   :longitude 16.8962038,
+   :latitude 63.6936944,
+   :source :openstreetmap}
+  {:name "Hembygdsgård",
+   :longitude 21.7865914,
+   :latitude 66.0471505,
+   :source :openstreetmap}
+  {:name "Hembygdsgård",
+   :longitude 13.6108793,
+   :latitude 57.1737422,
+   :source :openstreetmap}
+  {:name "Hembygdsgård Museum",
+   :longitude 18.3514727,
+   :latitude 59.4056204,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygd.se/vaxholms-hembygdsforening/museet/",
+   :locality "Vaxholm"}
+  {:name "Hembygdsgården",
+   :longitude 15.8010485,
+   :latitude 60.405371,
+   :source :openstreetmap}
+  {:name "Hembygdsgården",
+   :longitude 15.9124007,
+   :latitude 64.216902,
+   :source :openstreetmap}
+  {:name "Hembygdsgården",
+   :longitude 16.9258356,
+   :latitude 60.156521,
+   :source :openstreetmap}
+  {:name "Hembygdsgården Kollsberg",
+   :longitude 13.0212221,
+   :latitude 60.1313546,
+   :source :openstreetmap}
+  {:name "Hembygdsgården Skräddartorp",
+   :longitude 14.4977703,
+   :latitude 59.6718446,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseet",
+   :longitude 12.710924,
+   :latitude 59.0532234,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vastsverige.com/amal/produkter/amals-hembygdsmuseum/"}
+  {:name "Hembygdsmuseet i Burlövs by",
+   :longitude 13.1124207,
+   :latitude 55.6369361,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/bara-harad",
+   :locality "Arlöv"}
+  {:name "Hembygdsmuseet i Östgöta-Dal",
+   :longitude 14.6972173,
+   :latitude 58.3937798,
+   :source :openstreetmap,
+   :locality "Borghamn"}
+  {:name "Hembygdsmuseet ”Sladdstycket”",
+   :longitude 19.063742,
+   :latitude 59.7178796,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 15.581129,
+   :latitude 56.7219657,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 11.5819129,
+   :latitude 57.8875259,
+   :source :openstreetmap,
+   :locality "Marstrand"}
+  {:name "Hembygdsmuseum",
+   :longitude 15.1315987,
+   :latitude 56.6578713,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 18.7555336,
+   :latitude 59.4735841,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 17.9989146,
+   :latitude 59.3633487,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 19.1437595,
+   :latitude 65.5992584,
+   :source :openstreetmap,
+   :homepage "https://www.hembygdarvidsjaur.se/"}
+  {:name "Hembygdsmuseum",
+   :longitude 15.5366044,
+   :latitude 64.7036627,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 21.3189849,
+   :latitude 64.3697282,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 15.843414,
+   :latitude 58.6757225,
+   :source :openstreetmap}
+  {:name "Hembygdsmuseum",
+   :longitude 11.7812289,
+   :latitude 57.6176311,
+   :source :openstreetmap,
+   :locality "Styrsö"}
+  {:name "Hembygdsmuseum Bella Vista",
+   :longitude 11.9209231,
+   :latitude 58.2224689,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygd.se/ljungskileortens-hembygdsforening/activities/28759"}
+  {:name "Hembygdsmuséet",
+   :longitude 18.1136906,
+   :latitude 59.4557841,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/"}
+  {:name "Hembygdspark",
+   :longitude 13.7707264,
+   :latitude 56.8235636,
+   :source :openstreetmap,
+   :homepage "http://www.angelstad-hembygd.se/page4.html"}
+  {:name "Hemliga fortet",
+   :longitude 17.3416057,
+   :latitude 60.6585789,
+   :source :openstreetmap,
+   :homepage "https://furuvik.se/park/hemliga-fortet/"}
+  {:name "Hemvärnsmuseet",
+   :longitude 17.7119395,
+   :latitude 59.2617982,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hemvarnet.se/om-organisationen/hemvarnsforbanden/3674/3686"}
+  {:name "Hille Hembygdsgård",
+   :longitude 17.1845958,
+   :latitude 60.7404596,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/hille"}
+  {:name "Hillefors Grynkvarn",
+   :longitude 12.3200521,
+   :latitude 57.7943107,
+   :source :openstreetmap,
+   :homepage "http://hilleforsgrynkvarn.se",
+   :locality "Stenkullen"}
+  {:name "Himmelsberga Hembakt",
+   :longitude 16.0917945,
+   :latitude 59.4283829,
+   :source :openstreetmap,
+   :locality "Kungsör"}
+  {:name "Hishult konsthall",
+   :longitude 13.3110482,
+   :latitude 56.4268505,
+   :source :openstreetmap,
+   :homepage "https://www.hishult.com/om-konsthallen/"}
+  {:name "Historiska museet",
+   :longitude 18.0901504,
+   :latitude 59.3348465,
+   :source :openstreetmap,
+   :homepage "https://www.historiska.se",
+   :locality "Stockholm"}
+  {:name "Hjemstavnsgården",
+   :longitude 14.7986917,
+   :latitude 56.5864021,
+   :source :openstreetmap}
+  {:name "Hjorteds Mopedmuseum",
+   :longitude 16.3133801,
+   :latitude 57.6235183,
+   :source :openstreetmap,
+   :homepage "https://veteranmoped.se/",
+   :locality "Hjorted"}
+  {:name "Holens gammelgård",
+   :longitude 14.9996517,
+   :latitude 60.8190355,
+   :source :openstreetmap,
+   :homepage "https://www.valkommentilltallberg.se/holen/",
+   :locality "Tällberg"}
+  {:name "Holgers traktormuseum",
+   :longitude 22.8351574,
+   :latitude 66.2812845,
+   :source :openstreetmap,
+   :homepage "https://holgerstraktorer.blogg.se/"}
+  {:name "Holmedals Hembygdsgård",
+   :longitude 11.9609734,
+   :latitude 59.4731319,
+   :source :openstreetmap}
+  {:name "Holmöns båtmuseum",
+   :longitude 20.8643342,
+   :latitude 63.804918,
+   :source :openstreetmap,
+   :homepage "https://www.holmonsbatmuseum.se/"}
+  {:name "Honey Gallery",
+   :longitude 17.9571941,
+   :latitude 59.3238133,
+   :source :openstreetmap}
+  {:name "Hospitalmuseet",
+   :longitude 14.8940973,
+   :latitude 58.4515763,
+   :source :openstreetmap,
+   :homepage "https://www.sanctabirgitta.com/underniva/klostermusum/",
+   :locality "Vadstena"}
+  {:name "Hovermo Gårdsmuseum",
+   :longitude 14.3608904,
+   :latitude 62.8832364,
+   :source :openstreetmap}
+  {:name "Huddunge hembygdsgård",
+   :longitude 16.974352,
+   :latitude 60.0446997,
+   :source :openstreetmap}
+  {:name "Hulan",
+   :longitude 13.8715195,
+   :latitude 58.8401438,
+   :source :openstreetmap}
+  {:name "Hultsfreds hembygdsgård",
+   :longitude 15.8607254,
+   :latitude 57.4932184,
+   :source :openstreetmap}
+  {:name "Humlaledet hembygdsgård",
+   :longitude 13.2888222,
+   :latitude 58.2563053,
+   :source :openstreetmap}
+  {:name "Husby gammelgård",
+   :longitude 16.0081429,
+   :latitude 60.3932076,
+   :source :openstreetmap}
+  {:name "Husby Konsthall",
+   :longitude 17.9189584,
+   :latitude 59.406794,
+   :source :openstreetmap}
+  {:name "Huset",
+   :longitude 17.9929397,
+   :latitude 59.2308892,
+   :source :openstreetmap,
+   :locality "Huddinge"}
+  {:name "Husqvarna Fabriksmuseum",
+   :longitude 14.2852851,
+   :latitude 57.7873017,
+   :source :openstreetmap,
+   :homepage "https://husqvarnamuseum.se/"}
+  {:name "Husvagnsmuseet",
+   :longitude 16.4253246,
+   :latitude 64.2585248,
+   :source :openstreetmap,
+   :locality "Dorotea"}
+  {:name "Hvens kulturhus",
+   :longitude 12.6880925,
+   :latitude 55.9158864,
+   :source :openstreetmap}
+  {:name "Hylténs industrimuseum",
+   :longitude 13.7348679,
+   :latitude 57.3407895,
+   :source :openstreetmap,
+   :homepage
+   "https://jonkopingslansmuseum.se/se-och-gora/smultronstallen/gnosjo/hyltens-metallvarufabrik/"}
+  {:name "Hyssna hembygdsmuseum",
+   :longitude 12.5316345,
+   :latitude 57.5570869,
+   :source :openstreetmap}
+  {:name "Häggeby skolmuseum",
+   :longitude 17.5459352,
+   :latitude 59.6578559,
+   :source :openstreetmap,
+   :homepage "https://www.xn--hggeby-bua.se/"}
+  {:name "Hälleviksstrands Sjöbodsmuseum",
+   :longitude 11.4437826,
+   :latitude 58.1224671,
+   :source :openstreetmap,
+   :homepage "https://morlanda.org",
+   :locality "Hälleviksstrand"}
+  {:name "Hällristningsmuséet",
+   :longitude 16.1552391,
+   :latitude 58.591248,
+   :source :openstreetmap}
+  {:name "Hälsinglands Museum",
+   :longitude 17.1077268,
+   :latitude 61.7279662,
+   :source :openstreetmap,
+   :homepage "https://halsinglandsmuseum.se/",
+   :locality "Hudiksvall"}
+  {:name "Hängengården",
+   :longitude 19.6244682,
+   :latitude 65.2622979,
+   :source :openstreetmap}
+  {:name "Härjedalens Fjällmuseum",
+   :longitude 12.5373639,
+   :latitude 62.5483979,
+   :source :openstreetmap,
+   :homepage "https://www.fjallmuseet.se/",
+   :locality "Funäsdalen"}
+  {:name "Härledgården",
+   :longitude 17.0772599,
+   :latitude 59.7852365,
+   :source :openstreetmap}
+  {:name "Härnösands Bilmuseum",
+   :longitude 17.9343166,
+   :latitude 62.6367875,
+   :source :openstreetmap,
+   :homepage "https://harnosandsbilmuseum.se/"}
+  {:name "Hässleholm Kulturhus",
+   :longitude 13.7638275,
+   :latitude 56.1569634,
+   :source :openstreetmap}
+  {:name "Hässleholms Modelljärnväg",
+   :longitude 13.7281981,
+   :latitude 56.1457566,
+   :source :openstreetmap,
+   :homepage "https://www.hmjf.se"}
+  {:name "Hässleholms museum",
+   :longitude 13.7841251,
+   :latitude 56.161272,
+   :source :openstreetmap}
+  {:name "Häxmuseet",
+   :longitude 17.756095,
+   :latitude 63.078677,
+   :source :openstreetmap}
+  {:name "Högalinds bygdegard",
+   :longitude 15.9153958,
+   :latitude 57.9206496,
+   :source :openstreetmap}
+  {:name "Höganäs Museum",
+   :longitude 12.5742232,
+   :latitude 56.2002706,
+   :source :openstreetmap}
+  {:name "Hökeriet",
+   :longitude 13.1962677,
+   :latitude 55.7059959,
+   :source :openstreetmap,
+   :homepage "https://www.kulturen.com/vara-besoksmal/hokeriet/",
+   :locality "Lund"}
+  {:name "Hönsalottas luffarmuseum",
+   :longitude 15.6772253,
+   :latitude 56.7302509,
+   :source :openstreetmap}
+  {:name "Hönö hembygdsgård",
+   :longitude 11.6512491,
+   :latitude 57.6925521,
+   :source :openstreetmap,
+   :homepage "http://www.hono.se/hembygd"}
+  {:name "Höörs kulturskola",
+   :longitude 13.5466506,
+   :latitude 55.930708,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hoor.se/utbildning-barnomsorg/musikskola-kulturskola/"}
+  {:name "Höörs Mölla",
+   :longitude 13.533122,
+   :latitude 55.9271842,
+   :source :openstreetmap}
+  {:name "Idrottsmuseet",
+   :longitude 12.0326006,
+   :latitude 57.7361264,
+   :source :openstreetmap}
+  {:name "Idrottsmuseum",
+   :longitude 13.1558946,
+   :latitude 58.500837,
+   :source :openstreetmap,
+   :homepage "https://www.lidkopingsihs.se/"}
+  {:name "Iföverkens industrimuseum",
+   :longitude 14.466914,
+   :latitude 56.0764976,
+   :source :openstreetmap}
+  {:name "Iggesunds Bruksmuseum",
+   :longitude 17.0729083,
+   :latitude 61.6391165,
+   :source :openstreetmap}
+  {:name "IKEA Museum",
+   :longitude 14.1344319,
+   :latitude 56.5522552,
+   :source :openstreetmap,
+   :homepage "https://ikeamuseum.com/"}
+  {:name "Ilvars Bilmuseum",
+   :longitude 16.1748445,
+   :latitude 64.1081655,
+   :source :openstreetmap,
+   :homepage "https://www.ivarsbilmuseum.se/"}
+  {:name "Importhallen",
+   :longitude 18.0285353,
+   :latitude 59.2931974,
+   :source :openstreetmap,
+   :homepage "https://www.importhallen.se/",
+   :locality "Årsta"}
+  {:name "Indals Hembygdsförening",
+   :longitude 17.0728509,
+   :latitude 62.5857629,
+   :source :openstreetmap}
+  {:name "Industrimuseet i Norrahammar",
+   :longitude 14.1118748,
+   :latitude 57.7000836,
+   :source :openstreetmap,
+   :locality "Norrahammar"}
+  {:name "Industrimuseum",
+   :longitude 16.8338309,
+   :latitude 61.2597626,
+   :source :openstreetmap}
+  {:name "Ingeborrarps Friluftsmuseum",
+   :longitude 13.1769697,
+   :latitude 56.2257489,
+   :source :openstreetmap}
+  {:name "Inlandsbanemuseet",
+   :longitude 17.5424209,
+   :latitude 65.535237,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sorsele.se/kultur-och-fritid/kultur-och-museum/hembygdsomraaden-och-museum/inlandsbanemuseet/"}
+  {:name "J.A.G.S Museum",
+   :longitude 16.5357669,
+   :latitude 56.3635428,
+   :source :openstreetmap,
+   :homepage "http://jagsmuseum.se/",
+   :locality "Degerhamn"}
+  {:name "Jaktmuseum",
+   :longitude 18.6697866,
+   :latitude 64.6041375,
+   :source :openstreetmap}
+  {:name "Jamtli Historieland",
+   :longitude 14.635501,
+   :latitude 63.1879092,
+   :source :openstreetmap,
+   :homepage "https://www.jamtli.com/se-gora/nationalmuseum-jamtli/"}
+  {:name "Jim Reeves museum",
+   :longitude 15.571705,
+   :latitude 61.3395242,
+   :source :openstreetmap,
+   :homepage "http://www.jimreeves.se/"}
+  {:name "Johannamuseet",
+   :longitude 13.5219482,
+   :latitude 55.5000984,
+   :source :openstreetmap,
+   :homepage "https://johannamuseet.se/",
+   :locality "Skurup"}
+  {:name "Judiska muséet",
+   :longitude 18.0730173,
+   :latitude 59.3238321,
+   :source :openstreetmap,
+   :homepage "https://judiskamuseet.se/"}
+  {:name "Jukkasjärvi hembygdsgård",
+   :longitude 20.6164992,
+   :latitude 67.8470148,
+   :source :openstreetmap,
+   :homepage "https://jukkasjarvihembygdsforening.wordpress.com/"}
+  {:name "Julita Gård",
+   :longitude 16.0450753,
+   :latitude 59.1484103,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nordiskamuseet.se/slott-och-gardar/julita-gard"}
+  {:name "Julles Verkstad",
+   :longitude 15.5750508,
+   :latitude 57.6162648,
+   :source :openstreetmap}
+  {:name "Junta",
+   :longitude 13.0156633,
+   :latitude 55.5933541,
+   :source :openstreetmap,
+   :homepage "https://www.juntamalmo.se/",
+   :locality "Malmö"}
+  {:name "Jämshögs Hembygdsmuseum",
+   :longitude 14.5314333,
+   :latitude 56.2364815,
+   :source :openstreetmap,
+   :locality "Jämshög"}
+  {:name "Järn 74",
+   :longitude 11.9826164,
+   :latitude 57.870218,
+   :source :openstreetmap}
+  {:name "Järnvägens Museum Ängelholm",
+   :longitude 12.8539024,
+   :latitude 56.2428163,
+   :source :openstreetmap,
+   :homepage "http://www.engelholm.se/jarnvagsmuseum/",
+   :locality "Ängelholm"}
+  {:name "Järnvägsmuseum",
+   :longitude 13.6921438,
+   :latitude 60.0228188,
+   :source :openstreetmap,
+   :homepage "https://jvmuseet.se/"}
+  {:name "Järnvägsmuseum",
+   :longitude 14.6849959,
+   :latitude 56.3684722,
+   :source :openstreetmap}
+  {:name "Jönköpings läns museum",
+   :longitude 14.1759104,
+   :latitude 57.7801989,
+   :source :openstreetmap,
+   :homepage "https://jonkopingslansmuseum.se"}
+  {:name "Kalfträsk Historiska Museum",
+   :longitude 19.7955418,
+   :latitude 64.6712002,
+   :source :openstreetmap}
+  {:name "Kallvattenkuren",
+   :longitude 15.2856973,
+   :latitude 56.1988949,
+   :source :openstreetmap,
+   :locality "Ronneby"}
+  {:name "Kalmar läns museum",
+   :longitude 16.3704667,
+   :latitude 56.6643971,
+   :source :openstreetmap,
+   :homepage "https://www.kalmarlansmuseum.se/",
+   :locality "Kalmar"}
+  {:name "Kalsta Hembygdsgård",
+   :longitude 16.3344611,
+   :latitude 59.0723649,
+   :source :openstreetmap}
+  {:name "Kanalmuseum",
+   :longitude 13.9810339,
+   :latitude 58.8370203,
+   :source :openstreetmap}
+  {:name "Kanalmuseum",
+   :longitude 12.2661918,
+   :latitude 58.2677802,
+   :source :openstreetmap}
+  {:name "Kanalmuseum",
+   :longitude 15.6644366,
+   :latitude 58.2107473,
+   :source :openstreetmap}
+  {:name "Kanalmuseum Håverud",
+   :longitude 12.4127023,
+   :latitude 58.8217879,
+   :source :openstreetmap,
+   :homepage "https://www.kanalmuseet.se/"}
+  {:name "Karbennings stationshus",
+   :longitude 16.0724744,
+   :latitude 60.0369019,
+   :source :openstreetmap}
+  {:name "Kareby Hembygdsgård",
+   :longitude 11.9312302,
+   :latitude 57.9036398,
+   :source :openstreetmap}
+  {:name "Karl XII Stugan",
+   :longitude 11.9578406,
+   :latitude 59.472155,
+   :source :openstreetmap}
+  {:name "Karlfeldtsgården",
+   :longitude 16.2523641,
+   :latitude 60.124699,
+   :source :openstreetmap,
+   :homepage "http://www.karlfeldtsgarden.se/"}
+  {:name "Karlshamns museum",
+   :longitude 14.8592675,
+   :latitude 56.1738926,
+   :source :openstreetmap,
+   :homepage "https://karlshamnsmuseum.se/",
+   :locality "Karlshamn"}
+  {:name "Karlskrona konsthall",
+   :longitude 15.5972066,
+   :latitude 56.1597,
+   :source :openstreetmap,
+   :homepage "https://www.fabas.se/vara-museer/"}
+  {:name "Kata gård",
+   :longitude 13.6560035,
+   :latitude 58.383291,
+   :source :openstreetmap}
+  {:name "Kc galleri",
+   :longitude 11.9680576,
+   :latitude 57.6994031,
+   :source :openstreetmap}
+  {:name "Keramik & Konst",
+   :longitude 13.1522543,
+   :latitude 56.6099083,
+   :source :openstreetmap,
+   :locality "Laholm"}
+  {:name "KIKAIN",
+   :longitude 16.3556191,
+   :latitude 56.6624884,
+   :source :openstreetmap}
+  {:name "Kiviks Museum",
+   :longitude 14.2280855,
+   :latitude 55.6841549,
+   :source :openstreetmap,
+   :homepage "https://www.kiviksmuseum.se"}
+  {:name "Kjugekull",
+   :longitude 14.3638423,
+   :latitude 56.0745082,
+   :source :openstreetmap}
+  {:name "Klarälvsrummet",
+   :longitude 13.49259,
+   :latitude 59.526495,
+   :source :openstreetmap}
+  {:name "Klas Engmanmuseet",
+   :longitude 19.4993733,
+   :latitude 63.5701654,
+   :source :openstreetmap}
+  {:name "Klasatorpet",
+   :longitude 15.4631996,
+   :latitude 56.5750221,
+   :source :openstreetmap}
+  {:name "Klasro skolmuseum",
+   :longitude 17.9273078,
+   :latitude 59.4485605,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sollentuna.se/uppleva--gora/konst-kultur-och-sevardheter/kulturhistoria-kulturarv/Klasro-skolmuseum/",
+   :locality "Sollentuna"}
+  {:name "Klensmedjan",
+   :longitude 12.9587382,
+   :latitude 59.3532345,
+   :source :openstreetmap}
+  {:name "Klosters museum",
+   :longitude 16.1616481,
+   :latitude 60.3721878,
+   :source :openstreetmap}
+  {:name "Klostret",
+   :longitude 13.8198878,
+   :latitude 55.4313277,
+   :source :openstreetmap}
+  {:name "Klädesholmens museum",
+   :longitude 11.5450593,
+   :latitude 57.948989,
+   :source :openstreetmap,
+   :homepage "https://kladesholmen.com/att-gora/museum/",
+   :locality "Klädesholmen"}
+  {:name "Knutmassomuséet",
+   :longitude 18.18495,
+   :latitude 60.1787975,
+   :source :openstreetmap,
+   :locality "Gimo"}
+  {:name "Kollingen Studio",
+   :longitude 15.5358255,
+   :latitude 59.8213179,
+   :source :openstreetmap,
+   :homepage "https://studiokolingen.se/"}
+  {:name "Konsert & Kongress",
+   :longitude 15.6143922,
+   :latitude 58.413685,
+   :source :openstreetmap,
+   :homepage "https://ostergotlandsmuseum.se/"}
+  {:name "Konst & Kurs Anna-Greta Lindstam",
+   :longitude 14.0493824,
+   :latitude 55.4575622,
+   :source :openstreetmap,
+   :homepage "https://annagreta.se/wp/",
+   :locality "Glemmingebro"}
+  {:name "Konst i Karlstad",
+   :longitude 13.5088538,
+   :latitude 59.3810206,
+   :source :openstreetmap}
+  {:name "Konstakademien",
+   :longitude 18.0643695,
+   :latitude 59.3287664,
+   :source :openstreetmap,
+   :homepage "https://konstakademien.se/",
+   :locality "Stockholm"}
+  {:name "Konstateljé",
+   :longitude 16.5946715,
+   :latitude 60.7281786,
+   :source :openstreetmap,
+   :locality "Järbo"}
+  {:name "Konstcentrum",
+   :longitude 17.1248792,
+   :latitude 60.6723973,
+   :source :openstreetmap}
+  {:name "Konsthall",
+   :longitude 22.1515352,
+   :latitude 65.5858249,
+   :source :openstreetmap}
+  {:name "Konsthall C",
+   :longitude 18.0781786,
+   :latitude 59.2536729,
+   :source :openstreetmap,
+   :locality "Farsta"}
+  {:name "Konsthallen",
+   :longitude 11.6790596,
+   :latitude 58.2377337,
+   :source :openstreetmap}
+  {:name "Konsthallen",
+   :longitude 16.7798641,
+   :latitude 60.6205711,
+   :source :openstreetmap,
+   :locality "Sandviken"}
+  {:name "Konsthallen Längan",
+   :longitude 14.5250201,
+   :latitude 56.2660571,
+   :source :openstreetmap,
+   :locality "Olofström"}
+  {:name "Konsthallen Trollhättan",
+   :longitude 12.2799289,
+   :latitude 58.2730922,
+   :source :openstreetmap}
+  {:name "Konsthantverkarna",
+   :longitude 18.0701231,
+   :latitude 59.3203071,
+   :source :openstreetmap,
+   :homepage "https://konsthantverkarna.se"}
+  {:name "Konsthändigt",
+   :longitude 14.5299554,
+   :latitude 56.2797628,
+   :source :openstreetmap,
+   :locality "Olofström"}
+  {:name "Konstkraft Ljusne",
+   :longitude 17.1245507,
+   :latitude 61.2076246,
+   :source :openstreetmap,
+   :homepage "https://www.konstkraftljusne.se/",
+   :locality "Ljusne"}
+  {:name "Konstmuseet",
+   :longitude 13.8509918,
+   :latitude 58.3897668,
+   :source :openstreetmap}
+  {:name "Konstmuseet Gösta Werner och Havet",
+   :longitude 14.3519352,
+   :latitude 55.5589186,
+   :source :openstreetmap,
+   :homepage "https://www.gostawerner.se/",
+   :locality "Simrishamn"}
+  {:name "Konstnärsgården",
+   :longitude 13.0754084,
+   :latitude 60.2901111,
+   :source :openstreetmap}
+  {:name "Konstnärshemmet Brucebo",
+   :longitude 18.3524757,
+   :latitude 57.6881929,
+   :source :openstreetmap,
+   :homepage "https://www.brucebo.se/"}
+  {:name "Korgmuseet i Lönsboda",
+   :longitude 14.3205803,
+   :latitude 56.4001954,
+   :source :openstreetmap,
+   :homepage "https://hembygd.se/"}
+  {:name "Kornskruven (industrimuseum)",
+   :longitude 16.2906354,
+   :latitude 60.5528133,
+   :source :openstreetmap,
+   :locality "Hofors"}
+  {:name "Korså Bymuséum",
+   :longitude 16.1426071,
+   :latitude 60.6354333,
+   :source :openstreetmap}
+  {:name "Kortedala museum",
+   :longitude 12.035814,
+   :latitude 57.7582542,
+   :source :openstreetmap,
+   :homepage "https://kortedalamuseum.se"}
+  {:name "Kraftverksmuseum",
+   :longitude 16.0779374,
+   :latitude 63.1475894,
+   :source :openstreetmap}
+  {:name "Kreativum",
+   :longitude 14.8522579,
+   :latitude 56.1946651,
+   :source :openstreetmap,
+   :homepage "https://kreativum.se/",
+   :locality "Karlshamn"}
+  {:name "Kretseum",
+   :longitude 12.9780717,
+   :latitude 55.5654461,
+   :source :openstreetmap,
+   :homepage "http://www.kretseum.se/Kretseumhuset"}
+  {:name "Kristianstads järnvägsmuseum",
+   :longitude 14.1633633,
+   :latitude 56.0217293,
+   :source :openstreetmap,
+   :homepage "https://www.regionmuseet.se/jarnvagsmuseet.htm",
+   :locality "Kristianstad"}
+  {:name "Kristianstads konsthall",
+   :longitude 14.155554,
+   :latitude 56.0319427,
+   :source :openstreetmap,
+   :homepage "https://www.regionmuseet.se/"}
+  {:name "Kristinehamns historiska museum",
+   :longitude 14.1047107,
+   :latitude 59.309773,
+   :source :openstreetmap}
+  {:name "Kristinehamns konstmuseum",
+   :longitude 14.0858207,
+   :latitude 59.3270919,
+   :source :openstreetmap,
+   :homepage "http://www.kristinehamnskonstmuseum.com"}
+  {:name "Krognoshuset",
+   :longitude 13.1952742,
+   :latitude 55.7020138,
+   :source :openstreetmap,
+   :homepage "https://www.krognoshuset.se",
+   :locality "Lund"}
+  {:name "Kronobergs lantbruksmuseum",
+   :longitude 14.5575726,
+   :latitude 56.9257712,
+   :source :openstreetmap,
+   :homepage "https://www.kulturparkensmaland.se/1.0.1.0/68/1/"}
+  {:name "Kronobergshed",
+   :longitude 14.5679666,
+   :latitude 56.9747136,
+   :source :openstreetmap}
+  {:name "Kroppefjälls Hembygdsförening",
+   :longitude 12.358785,
+   :latitude 58.7204641,
+   :source :openstreetmap}
+  {:name "Kruthuset",
+   :longitude 14.2718005,
+   :latitude 57.8007118,
+   :source :openstreetmap}
+  {:name "Kullabergs Naturum",
+   :longitude 12.4519654,
+   :latitude 56.3013119,
+   :source :openstreetmap,
+   :homepage "https://www.kullabergsnatur.se/",
+   :locality "Mölle"}
+  {:name "Kulls Vingård",
+   :longitude 13.348848,
+   :latitude 56.9356822,
+   :source :openstreetmap}
+  {:name "Kultur vid Ekoln",
+   :longitude 17.6490776,
+   :latitude 59.785912,
+   :source :openstreetmap}
+  {:name "Kulturfabriken",
+   :longitude 13.8513798,
+   :latitude 58.4020059,
+   :source :openstreetmap,
+   :homepage "https://skovde.se/Kultur/kulturfabriken/stadsmuseum/"}
+  {:name "Kulturhuset",
+   :longitude 14.5263872,
+   :latitude 56.2775486,
+   :source :openstreetmap,
+   :locality "Olofström"}
+  {:name "Kulturhuset Fyren",
+   :longitude 12.0753024,
+   :latitude 57.4906621,
+   :source :openstreetmap}
+  {:name "Kulturhuset Hav & Land",
+   :longitude 11.2991909,
+   :latitude 58.4353458,
+   :source :openstreetmap,
+   :homepage "http://www.kulturhusethavochland.se/"}
+  {:name "Kulturhuset Slottsvakten",
+   :longitude 17.0096219,
+   :latitude 58.7493514,
+   :source :openstreetmap}
+  {:name "Kulturkapellet Sörfjärden",
+   :longitude 17.4240133,
+   :latitude 62.0304507,
+   :source :openstreetmap}
+  {:name "Kulturkossan",
+   :longitude 16.4389083,
+   :latitude 61.9528157,
+   :source :openstreetmap,
+   :homepage "http://www.kulturkossan.se",
+   :locality "Bjuråker"}
+  {:name "Kulturkvarteret Hallarna",
+   :longitude 16.1780047,
+   :latitude 58.5935043,
+   :source :openstreetmap,
+   :homepage "https://www.kulturkvarterethallarna.se/",
+   :locality "Norrköping"}
+  {:name "Kulturmagasinet",
+   :longitude 12.7088282,
+   :latitude 56.057875,
+   :source :openstreetmap,
+   :locality "Helsingborg"}
+  {:name "Kulturpunkten",
+   :longitude 17.629529,
+   :latitude 59.8095189,
+   :source :openstreetmap}
+  {:name "Kulturskolan",
+   :longitude 14.5232732,
+   :latitude 59.7843341,
+   :source :openstreetmap}
+  {:name "Kulturskolan",
+   :longitude 13.4897074,
+   :latitude 59.3793859,
+   :source :openstreetmap}
+  {:name "Kulturskolan i Vadstena",
+   :longitude 14.8973066,
+   :latitude 58.4523827,
+   :source :openstreetmap}
+  {:name "Kulturtemplet",
+   :longitude 11.9231164,
+   :latitude 57.6907125,
+   :source :openstreetmap}
+  {:name "Kumla skoindustrimuseum",
+   :longitude 15.1471284,
+   :latitude 59.1261497,
+   :source :openstreetmap}
+  {:name "Kungajaktmuseet Älgens Berg",
+   :longitude 12.4317079,
+   :latitude 58.3474067,
+   :source :openstreetmap,
+   :homepage "https://www.algensberg.com/se"}
+  {:name "Kungsängens Hembygdsgård",
+   :longitude 17.742185,
+   :latitude 59.4816949,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/stockholms-nas",
+   :locality "Kungsängen"}
+  {:name "Kurortsmuseum",
+   :longitude 14.4799526,
+   :latitude 59.6043123,
+   :source :openstreetmap}
+  {:name "Kvarnaslätts hembygdsgård",
+   :longitude 15.9201635,
+   :latitude 56.7352746,
+   :source :openstreetmap}
+  {:name "Kvarnbackens Teknik- & Prylmuseum",
+   :longitude 16.5370492,
+   :latitude 60.5909757,
+   :source :openstreetmap,
+   :locality "Storvik"}
+  {:name "Kvarnen",
+   :longitude 15.7751413,
+   :latitude 60.6521836,
+   :source :openstreetmap}
+  {:name "Kvarngården Bergshamra",
+   :longitude 18.6220515,
+   :latitude 59.6427534,
+   :source :openstreetmap}
+  {:name "Kvarntorp",
+   :longitude 12.5875746,
+   :latitude 60.1265578,
+   :source :openstreetmap,
+   :homepage "https://www.lekvattnet.se/turism/kvarntorp/"}
+  {:name "Kvarnvikens kvarn & såg",
+   :longitude 17.8694519,
+   :latitude 59.3485171,
+   :source :openstreetmap,
+   :homepage "https://kvarnvikensmuseum.se/",
+   :locality "Bromma"}
+  {:name "Kvekgården",
+   :longitude 17.2666939,
+   :latitude 59.7268637,
+   :source :openstreetmap}
+  {:name "Kvinnohistoriskt museum",
+   :longitude 20.2602586,
+   :latitude 63.8246122,
+   :source :openstreetmap,
+   :homepage "https://www.kvinnohistoriskt.se/"}
+  {:name "Kvärngården",
+   :longitude 23.4621286,
+   :latitude 65.9203628,
+   :source :openstreetmap}
+  {:name "KYRKHULTS HEMBYGDSMUSEUM",
+   :longitude 14.5909542,
+   :latitude 56.352827,
+   :source :openstreetmap,
+   :locality "Kyrkhult"}
+  {:name "Kyrkstallarna",
+   :longitude 15.6025716,
+   :latitude 56.5341896,
+   :source :openstreetmap}
+  {:name "Kärnebygd kvarn",
+   :longitude 12.8558681,
+   :latitude 57.1716697,
+   :source :openstreetmap,
+   :homepage
+   "https://www.skogssallskapet.se/om-oss/vara-egna-skogar/vastra-sverige/karnebygd-i-falkenberg.html"}
+  {:name "Kärnåsens hembygdsgård",
+   :longitude 13.5671607,
+   :latitude 59.9948136,
+   :source :openstreetmap,
+   :homepage "https://www.karnasen.nu/"}
+  {:name "Kåkstaden",
+   :longitude 20.6646224,
+   :latitude 67.1763496,
+   :source :openstreetmap}
+  {:name "Kållandsö Hembyggdsmuseum",
+   :longitude 13.1615893,
+   :latitude 58.6527683,
+   :source :openstreetmap}
+  {:name "Kålles Rekord-Magasin",
+   :longitude 13.0354796,
+   :latitude 58.2357987,
+   :source :openstreetmap}
+  {:name "Köla-ladan",
+   :longitude 12.2395278,
+   :latitude 59.8038499,
+   :source :openstreetmap}
+  {:name "Köpings Museum",
+   :longitude 16.0007152,
+   :latitude 59.5084025,
+   :source :openstreetmap,
+   :homepage "https://biloteknikmuseet.se/"}
+  {:name "Köttinspektionen",
+   :longitude 17.6495536,
+   :latitude 59.8534888,
+   :source :openstreetmap}
+  {:name "Lancashiresmedja",
+   :longitude 16.1836131,
+   :latitude 59.7798526,
+   :source :openstreetmap}
+  {:name "Landeryds Järnvägsmuseum",
+   :longitude 13.2598208,
+   :latitude 57.0758733,
+   :source :openstreetmap,
+   :homepage "https://landeryd.info/"}
+  {:name "Landskrona konsthall",
+   :longitude 12.8244095,
+   :latitude 55.8711785,
+   :source :openstreetmap}
+  {:name "Landsorts museum",
+   :longitude 17.8649985,
+   :latitude 58.7441483,
+   :source :openstreetmap,
+   :homepage
+   "https://visitlandsort.se/maritima-kulturarvet/skargardssamhallet-landsort/museum/"}
+  {:name "Lantbruksmuseum",
+   :longitude 13.6423481,
+   :latitude 57.2510208,
+   :source :openstreetmap}
+  {:name "Lanthandelsmuseum",
+   :longitude 17.0335495,
+   :latitude 63.1691605,
+   :source :openstreetmap}
+  {:name "Laxholmen Kulturhus",
+   :longitude 13.5443419,
+   :latitude 59.8488457,
+   :source :openstreetmap}
+  {:name "LEGO-verkstan",
+   :longitude 21.1813188,
+   :latitude 64.6171542,
+   :source :openstreetmap,
+   :homepage "https://bureacamping.se/verkstan/"}
+  {:name "Lekoseum",
+   :longitude 13.9926895,
+   :latitude 56.3792557,
+   :source :openstreetmap,
+   :homepage "https://www.lekoseum.se/",
+   :locality "Osby"}
+  {:name "Leksands Hembygdsgård",
+   :longitude 14.9876582,
+   :latitude 60.7311914,
+   :source :openstreetmap}
+  {:name "Lesjöfors Museum",
+   :longitude 14.1868232,
+   :latitude 59.9779052,
+   :source :openstreetmap,
+   :homepage "http://www.lesjoforsmuseum.com",
+   :locality "Lesjöfors"}
+  {:name "Lessebo Hembygdsmuseum",
+   :longitude 15.2692638,
+   :latitude 56.7472498,
+   :source :openstreetmap}
+  {:name "Lidingö museum",
+   :longitude 18.136017,
+   :latitude 59.3667052,
+   :source :openstreetmap,
+   :homepage "http://www.lidingohembygd.se/museet.html",
+   :locality "Lidingö"}
+  {:name "Lill-Babs museum",
+   :longitude 16.1874845,
+   :latitude 61.7094239,
+   :source :openstreetmap}
+  {:name "Lilla Björka",
+   :longitude 14.7109867,
+   :latitude 57.0806453,
+   :source :openstreetmap,
+   :homepage "https://lillabjorka.se/",
+   :locality "Lammhult"}
+  {:name "Lilla Rödde Museum",
+   :longitude 13.5602833,
+   :latitude 55.5889206,
+   :source :openstreetmap}
+  {:name "Lilla Änggården",
+   :longitude 11.9470877,
+   :latitude 57.677153,
+   :source :openstreetmap,
+   :homepage
+   "http://goteborgsstadsmuseum.se/besok-museet/lilla-anggaden",
+   :locality "Göteborg"}
+  {:name "Lillhersby Hembygdsgård",
+   :longitude 17.957225,
+   :latitude 59.422371,
+   :source :openstreetmap,
+   :homepage
+   "https://sollentunahembygd.se/hersby-hembygdsgard/hersby-hembygdsgard/",
+   :locality "Sollentuna"}
+  {:name "Lindgrens länga",
+   :longitude 14.1895447,
+   :latitude 55.7199844,
+   :source :openstreetmap,
+   :homepage "https://www.brosarp.com/lindgrens-langa/"}
+  {:name "Linmuseum",
+   :longitude 11.3594422,
+   :latitude 58.5774953,
+   :source :openstreetmap,
+   :homepage "https://www.bohuslin.se/",
+   :locality "Fjällbacka"}
+  {:name "Linnés bröllopsstuga",
+   :longitude 15.7255473,
+   :latitude 60.6118251,
+   :source :openstreetmap}
+  {:name "Linnés Hammarby",
+   :longitude 17.776227,
+   :latitude 59.8176056,
+   :source :openstreetmap,
+   :homepage "https://www.uu.se/linnes-hammarby"}
+  {:name "Linnés Råshult",
+   :longitude 14.1995061,
+   :latitude 56.6182443,
+   :source :openstreetmap,
+   :homepage "http://www.linnesrashult.se/"}
+  {:name "Listers Härads Tingshus",
+   :longitude 14.5771538,
+   :latitude 56.0510072,
+   :source :openstreetmap,
+   :homepage
+   "https://solvesborg.se/uppleva-och-gora/turism-att-besoka-solvesborg/sevardheter/listers-harads-tingshus.html",
+   :locality "Sölvesborg"}
+  {:name "Litografiska museet",
+   :longitude 18.0195929,
+   :latitude 59.2005685,
+   :source :openstreetmap,
+   :homepage "https://www.litografiskamuseet.se/om-sundby-gard/",
+   :locality "Huddinge"}
+  {:name "Ljungbergmuseet",
+   :longitude 13.9409219,
+   :latitude 56.830071,
+   :source :openstreetmap,
+   :homepage "https://www.ljungbergmuseet.se/",
+   :locality "Ljungby"}
+  {:name "Ljungby Bibliotek Konsthall",
+   :longitude 13.9472933,
+   :latitude 56.8329367,
+   :source :openstreetmap}
+  {:name "Ljungby Museum",
+   :longitude 13.9313863,
+   :latitude 56.8329004,
+   :source :openstreetmap,
+   :homepage "https://www.sagobygden.se/"}
+  {:name "Ljungby sockenmagasin",
+   :longitude 16.1729475,
+   :latitude 56.6328712,
+   :source :openstreetmap,
+   :homepage "https://ljungbyhembygd.se/sockenmagasin.html",
+   :locality "Ljungbyholm"}
+  {:name "Ljungbyheds Militärhistoriska Museum",
+   :longitude 13.2315258,
+   :latitude 56.079049,
+   :source :openstreetmap,
+   :homepage "http://www.lmhm.se/",
+   :locality "Ljungbyhed"}
+  {:name "Ljurhalla Fabriken",
+   :longitude 12.8607931,
+   :latitude 57.9654809,
+   :source :openstreetmap,
+   :homepage "https://konstellation.org/Ljurhalla-Fabriken"}
+  {:name "Ljusdalsbygdens museum",
+   :longitude 16.0890615,
+   :latitude 61.827395,
+   :source :openstreetmap,
+   :homepage "https://www.ljm.se/"}
+  {:name "Ljusterö Konstmuseum",
+   :longitude 18.6091635,
+   :latitude 59.5237372,
+   :source :openstreetmap}
+  {:name "LKAB Gruvmuseum",
+   :longitude 20.6423245,
+   :latitude 67.1768535,
+   :source :openstreetmap,
+   :homepage "https://www.gellivarelapland.se/en/See/Mining-museum/"}
+  {:name "LM Ericssons minnesgård",
+   :longitude 12.9008423,
+   :latitude 59.4722215,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygd.se/varmskog/lm-ericsson-garden-nordtomta/"}
+  {:name "Lokstallet",
+   :longitude 15.4157848,
+   :latitude 60.1391092,
+   :source :openstreetmap}
+  {:name "Lokstallet",
+   :longitude 13.4671272,
+   :latitude 59.6033527,
+   :source :openstreetmap}
+  {:name "Lomkällan Särna skogs- & försvarsmuseum",
+   :longitude 13.077,
+   :latitude 61.69391,
+   :source :openstreetmap,
+   :locality "Särna"}
+  {:name "Luftvärnsmuseet",
+   :longitude 12.9380309,
+   :latitude 56.6848997,
+   :source :openstreetmap}
+  {:name "Lugnets skidmuseum",
+   :longitude 15.6654817,
+   :latitude 60.6210908,
+   :source :openstreetmap}
+  {:name "Lundgrens Industrimuseum",
+   :longitude 15.5936511,
+   :latitude 60.4029964,
+   :source :openstreetmap,
+   :homepage "http://www.lundgrens.nu",
+   :locality "Gustafs"}
+  {:name "Lunds by",
+   :longitude 16.4455193,
+   :latitude 57.7106758,
+   :source :openstreetmap}
+  {:name "LUX",
+   :longitude 14.6364827,
+   :latitude 63.1766577,
+   :source :openstreetmap}
+  {:name "Lycksele Ateljé och Galleri",
+   :longitude 18.677251,
+   :latitude 64.5962391,
+   :source :openstreetmap}
+  {:name "Lyåsa Townhall",
+   :longitude 14.3758591,
+   :latitude 57.1298562,
+   :source :openstreetmap}
+  {:name "Läby lantbruksmuseum",
+   :longitude 17.5295146,
+   :latitude 59.8484382,
+   :source :openstreetmap,
+   :locality "Uppsala"}
+  {:name "Länna gamla prästgård",
+   :longitude 18.6139939,
+   :latitude 59.6869589,
+   :source :openstreetmap}
+  {:name "Långban gruv-och kulturby",
+   :longitude 14.2611345,
+   :latitude 59.8542422,
+   :source :openstreetmap}
+  {:name "Lödöse Museum",
+   :longitude 12.154215,
+   :latitude 58.0361501,
+   :source :openstreetmap,
+   :homepage "https://www.lodosemuseum.se/"}
+  {:name "Löfstad slott museum",
+   :longitude 16.0410356,
+   :latitude 58.5503512,
+   :source :openstreetmap,
+   :homepage "https://ostergotlandsmuseum.se/lofstad"}
+  {:name "Löfwings ataljé",
+   :longitude 13.5928312,
+   :latitude 58.2928937,
+   :source :openstreetmap,
+   :homepage "www.lofwings.se",
+   :locality "Broddetorp"}
+  {:name "Lövstabruks kulturförening",
+   :longitude 17.8807098,
+   :latitude 60.4046782,
+   :source :openstreetmap,
+   :homepage "https://leufstakultur.se/",
+   :locality "Lövstabruk"}
+  {:name "Madesjö Kyrkstallar Hembygdsmuseum",
+   :longitude 15.8807339,
+   :latitude 56.740222,
+   :source :openstreetmap}
+  {:name "Magasinet",
+   :longitude 15.643303,
+   :latitude 60.6039643,
+   :source :openstreetmap,
+   :homepage "https://magasinetfalun.se/",
+   :locality "Falun"}
+  {:name "Malexanders hembygdsgård",
+   :longitude 15.277651,
+   :latitude 58.0310746,
+   :source :openstreetmap}
+  {:name "Malmö konsthall",
+   :longitude 12.9992402,
+   :latitude 55.5952697,
+   :source :openstreetmap}
+  {:name "Malmö Museer Slottsholmen",
+   :longitude 12.9869844,
+   :latitude 55.6047507,
+   :source :openstreetmap,
+   :homepage "https://malmo.se/museer",
+   :locality "Malmö"}
+  {:name "Mankovsky Gallery",
+   :longitude 18.0777,
+   :latitude 59.3378681,
+   :source :openstreetmap,
+   :homepage "https://www.institutfrancais-suede.com/"}
+  {:name "Mannaminne",
+   :longitude 18.3035357,
+   :latitude 62.9110956,
+   :source :openstreetmap,
+   :homepage "https://www.mannaminne.se"}
+  {:name "Marabouparken konsthall",
+   :longitude 17.9573089,
+   :latitude 59.3643091,
+   :source :openstreetmap}
+  {:name "Marcus Wallenberg Hallen",
+   :longitude 17.6387193,
+   :latitude 59.1825264,
+   :source :openstreetmap,
+   :locality "Södertälje"}
+  {:name "Maria Vulfovitch Gallery",
+   :longitude 18.0463261,
+   :latitude 59.3473799,
+   :source :openstreetmap,
+   :homepage "https://www.mariavulfovitchgallery.com",
+   :locality "Stockholm"}
+  {:name "Mariestads Industrimuseum",
+   :longitude 13.8184984,
+   :latitude 58.70828,
+   :source :openstreetmap,
+   :homepage "https://www.immagalleri.se/"}
+  {:name "Maritiman",
+   :longitude 11.9604717,
+   :latitude 57.7094385,
+   :source :openstreetmap,
+   :homepage "https://www.maritiman.se",
+   :locality "Göteborg"}
+  {:name "Marmorbrukets museum",
+   :longitude 16.4236443,
+   :latitude 58.6607453,
+   :source :openstreetmap}
+  {:name "Maskinhuset",
+   :longitude 14.9895871,
+   :latitude 60.0759487,
+   :source :openstreetmap}
+  {:name "Maskinmuseum",
+   :longitude 17.0906229,
+   :latitude 62.5773913,
+   :source :openstreetmap}
+  {:name "Massmanska Kvarnen",
+   :longitude 15.2763485,
+   :latitude 56.2127232,
+   :source :openstreetmap,
+   :locality "Ronneby"}
+  {:name "MC Collection",
+   :longitude 16.4809216,
+   :latitude 59.5029923,
+   :source :openstreetmap,
+   :homepage "https://mc-collection.com"}
+  {:name "MC-logen i Fjugesta",
+   :longitude 14.8663007,
+   :latitude 59.1579065,
+   :source :openstreetmap}
+  {:name "Medborgarskolan",
+   :longitude 11.9061233,
+   :latitude 57.6815014,
+   :source :openstreetmap,
+   :homepage "https://www.medborgarskolan.se",
+   :locality "Göteborg"}
+  {:name "Medicinhistoriska museet",
+   :longitude 11.9665919,
+   :latitude 57.7088902,
+   :source :openstreetmap,
+   :homepage "https://www.sahlgrenska.se/museum",
+   :locality "Göteborg"}
+  {:name "Medicinhistoriska museet",
+   :longitude 15.6430852,
+   :latitude 60.6076296,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygd.se/medicinhistoriska-museets-v-nf-rening"}
+  {:name "Medicinhistoriska museet",
+   :longitude 17.6508822,
+   :latitude 59.8292868,
+   :source :openstreetmap,
+   :homepage "https://www.medicinhistoriskamuseet.uu.se/",
+   :locality "Uppsala"}
+  {:name "Mellanskånes Hemvärnsmuseum",
+   :longitude 13.3214269,
+   :latitude 55.8503089,
+   :source :openstreetmap,
+   :locality "Eslöv"}
+  {:name "Melleruds Museum & Släktforskningsarkiv",
+   :longitude 12.4498339,
+   :latitude 58.7001718,
+   :source :openstreetmap}
+  {:name "Mentalvårdsmuseet",
+   :longitude 15.711709,
+   :latitude 60.342132,
+   :source :openstreetmap,
+   :locality "Säter"}
+  {:name "Mermaid",
+   :longitude 11.4010382,
+   :latitude 58.178492,
+   :source :openstreetmap}
+  {:name "Miliseum",
+   :longitude 14.1024777,
+   :latitude 57.4268242,
+   :source :openstreetmap,
+   :homepage "http://www.vaggeryd.se/museum"}
+  {:name "Minivärlden Ljungby",
+   :longitude 13.9229876,
+   :latitude 56.8282581,
+   :source :openstreetmap,
+   :homepage "https://www.minivarlden.se/",
+   :locality "Ljungby"}
+  {:name "Minnenas bod",
+   :longitude 11.6167954,
+   :latitude 57.9262712,
+   :source :openstreetmap,
+   :homepage "https://www.dyron.se/se-gora/minnenas-bod/",
+   :locality "Dyrön"}
+  {:name "Minnenas Museum",
+   :longitude 13.547887,
+   :latitude 55.9270276,
+   :source :openstreetmap,
+   :homepage "https://minnenasmuseum.se"}
+  {:name "Minnesmaskinen",
+   :longitude 15.1259164,
+   :latitude 60.8890829,
+   :source :openstreetmap,
+   :homepage "https://minnesmaskinen.se/",
+   :locality "Rättvik"}
+  {:name "Misterhult Hembygdsgård",
+   :longitude 16.5449147,
+   :latitude 57.4652291,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/misterhult"}
+  {:name "Miva Fine Art",
+   :longitude 11.9664071,
+   :latitude 57.7046812,
+   :source :openstreetmap}
+  {:name "Mjellby Konstmuseum",
+   :longitude 12.7739293,
+   :latitude 56.678971,
+   :source :openstreetmap,
+   :homepage "http://www.mjellbykonstmuseum.se/",
+   :locality "Halmstad"}
+  {:name "Modelladan",
+   :longitude 15.2886102,
+   :latitude 56.2423498,
+   :source :openstreetmap,
+   :locality "Kallinge"}
+  {:name "Modelljärnvägens hus",
+   :longitude 18.0353373,
+   :latitude 60.0465671,
+   :source :openstreetmap,
+   :homepage "https://www.modelljarnvagenshus.se/",
+   :locality "Alunda"}
+  {:name "Modellkammaren",
+   :longitude 16.0402741,
+   :latitude 60.453769,
+   :source :openstreetmap,
+   :homepage "https://www.brukshistoriska.se/"}
+  {:name "Moderna museet",
+   :longitude 18.0840004,
+   :latitude 59.3263494,
+   :source :openstreetmap,
+   :homepage "https://www.modernamuseet.se/"}
+  {:name "MoDo museum",
+   :longitude 18.4581041,
+   :latitude 63.378304,
+   :source :openstreetmap,
+   :homepage "https://www.moliden.se/MoDomuseum/_index.html"}
+  {:name "Moheda Hembygdsgård",
+   :longitude 14.5693552,
+   :latitude 57.0078792,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/moheda"}
+  {:name "Molekyl Gallery",
+   :longitude 13.0238976,
+   :latitude 55.5953937,
+   :source :openstreetmap,
+   :homepage "https://molekylgallery.com/",
+   :locality "Malmö"}
+  {:name "Molekylverkstan",
+   :longitude 11.816892,
+   :latitude 58.0660543,
+   :source :openstreetmap,
+   :homepage "https://www.molekylverkstan.se/",
+   :locality "Stenungsund"}
+  {:name "Monica Zetterlund Museet",
+   :longitude 13.6933289,
+   :latitude 60.0270725,
+   :source :openstreetmap,
+   :homepage "https://monicazetterlundmuseet.se/"}
+  {:name "Monopoly Fanclub Sweden",
+   :longitude 12.9837479,
+   :latitude 55.5897772,
+   :source :openstreetmap,
+   :homepage "https://monopolyfanclub.com/",
+   :locality "Malmö"}
+  {:name "Moped MC museum",
+   :longitude 13.6504856,
+   :latitude 58.3867773,
+   :source :openstreetmap}
+  {:name "Mora-Nisses hus",
+   :longitude 14.5456688,
+   :latitude 61.0071717,
+   :source :openstreetmap,
+   :homepage "www.vasaloppet.se"}
+  {:name "Mosstakan skolmuseum",
+   :longitude 12.1297298,
+   :latitude 59.6343104,
+   :source :openstreetmap,
+   :homepage "http://uppleveda.se/mosstakan",
+   :locality "Koppom"}
+  {:name "Mot strömmen",
+   :longitude 16.1880931,
+   :latitude 58.590847,
+   :source :openstreetmap}
+  {:name "Motala Industrimuseum",
+   :longitude 15.0687057,
+   :latitude 58.5478978,
+   :source :openstreetmap,
+   :homepage "http://www.motala-industrimuseum.com/mim/"}
+  {:name "Motala motormuseum",
+   :longitude 15.0372619,
+   :latitude 58.5333176,
+   :source :openstreetmap}
+  {:name "Motor och Nostalgimuséet",
+   :longitude 14.9945647,
+   :latitude 60.0635002,
+   :source :openstreetmap,
+   :homepage "https://www.motornostalgimuseum.com/",
+   :locality "Grängesberg"}
+  {:name "Motorcycle Museum",
+   :longitude 18.2769512,
+   :latitude 58.953444,
+   :source :openstreetmap}
+  {:name "Motormuseum",
+   :longitude 15.5724933,
+   :latitude 60.4639944,
+   :source :openstreetmap,
+   :homepage "http://www.torsangshbf.se"}
+  {:name "Motorsågsmuseum",
+   :longitude 14.5627615,
+   :latitude 56.3101441,
+   :source :openstreetmap,
+   :locality "Olofström"}
+  {:name "Movikens masugn",
+   :longitude 16.6565763,
+   :latitude 61.9322407,
+   :source :openstreetmap}
+  {:name "Murbergets fiskeläge",
+   :longitude 17.9810237,
+   :latitude 62.6442051,
+   :source :openstreetmap}
+  {:name "Mus-Olles Museum",
+   :longitude 14.1695606,
+   :latitude 63.3271914,
+   :source :openstreetmap,
+   :homepage "http://www.musolles.com/"}
+  {:name "Museet Beredskapsåra",
+   :longitude 12.145751,
+   :latitude 59.675233,
+   :source :openstreetmap,
+   :homepage
+   "https://visiteda.se/sv/museum/museet-beredskapsara__3019"}
+  {:name "Museet Kvarnen Filipstad",
+   :longitude 14.1607207,
+   :latitude 59.7122741,
+   :source :openstreetmap,
+   :locality "Filipstad"}
+  {:name "Museet Stora Karlsö",
+   :longitude 17.9696444,
+   :latitude 57.2888671,
+   :source :openstreetmap,
+   :homepage
+   "https://storakarlso.se/om-on/platser-och-historia/museet-pa-stora-karlso/"}
+  {:name "Museifartygen",
+   :longitude 18.0907683,
+   :latitude 59.3272883,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sjohistoriska.se/sv/Besok/Besok-oss/Galarvarvet/Oppettider-pa-Galarvarvet/"}
+  {:name "Museijärnväg",
+   :longitude 18.5313212,
+   :latitude 57.54441,
+   :source :openstreetmap,
+   :homepage "https://gotlandstaget.se/"}
+  {:name "Museispårvägen",
+   :longitude 12.9831976,
+   :latitude 55.60553,
+   :source :openstreetmap,
+   :homepage "https://www.mss.se/"}
+  {:name "Museispårvägen Malmköping",
+   :longitude 16.73656,
+   :latitude 59.1329386,
+   :source :openstreetmap,
+   :homepage "https://www.muma.se/",
+   :locality "Malmköping"}
+  {:name "Museum de Vries",
+   :longitude 17.887831,
+   :latitude 59.3250139,
+   :source :openstreetmap}
+  {:name "Museum för rörligt kustartilleri",
+   :longitude 15.5290487,
+   :latitude 56.1167447,
+   :source :openstreetmap,
+   :homepage "http://www.ka2.se/",
+   :locality "Drottningskär"}
+  {:name "Museum Lars Jonsson",
+   :longitude 18.2292467,
+   :latitude 56.9692349,
+   :source :openstreetmap,
+   :homepage "https://larsjonsson.se/"}
+  {:name "Museum The Kulenovic Collection",
+   :longitude 15.5871648,
+   :latitude 56.1604854,
+   :source :openstreetmap}
+  {:name "Museum Torfrid Olsson",
+   :longitude 20.5365514,
+   :latitude 64.4239611,
+   :source :openstreetmap,
+   :homepage "http://bygdetrask.skelleftea.org/torfo.htm"}
+  {:name "Musik- och teaterbiblioteket",
+   :longitude 18.1140302,
+   :latitude 59.3400834,
+   :source :openstreetmap,
+   :locality "Stockholm"}
+  {:name "Muséet Gamla Kosta",
+   :longitude 15.3968635,
+   :latitude 56.8501633,
+   :source :openstreetmap,
+   :locality "Kosta"}
+  {:name "Myntmuseet",
+   :longitude 16.1675739,
+   :latitude 60.1498929,
+   :source :openstreetmap}
+  {:name "Mädans Minimuseum 1",
+   :longitude 18.2428515,
+   :latitude 62.9049295,
+   :source :openstreetmap}
+  {:name "Mädans Minimuseum 2",
+   :longitude 18.2329247,
+   :latitude 62.9142933,
+   :source :openstreetmap}
+  {:name "Målerimuseet",
+   :longitude 15.5901905,
+   :latitude 58.4056656,
+   :source :openstreetmap,
+   :homepage "https://gamlalinkoping.se/aktiviteter/postmuseet/"}
+  {:name "Mångkulturellt centrum",
+   :longitude 17.86496,
+   :latitude 59.246689,
+   :source :openstreetmap,
+   :homepage "https://mkcentrum.se/"}
+  {:name "Möklinta traktor och nostalgimuseum",
+   :longitude 16.4508541,
+   :latitude 60.0824251,
+   :source :openstreetmap,
+   :homepage "http://www.moklintatraktorochnostalgi.se"}
+  {:name "Möllegården kultur",
+   :longitude 13.1119049,
+   :latitude 55.6504255,
+   :source :openstreetmap}
+  {:name "Mölltorps museum",
+   :longitude 14.4043872,
+   :latitude 58.4930059,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygd.se/molltorp/plats/302955/picture/3382259"}
+  {:name "Mölndals museum",
+   :longitude 12.0320298,
+   :latitude 57.657641,
+   :source :openstreetmap,
+   :homepage "https://museum.molndal.se/"}
+  {:name "Nationalmuseum",
+   :longitude 18.0781821,
+   :latitude 59.3284806,
+   :source :openstreetmap,
+   :homepage "https://www.nationalmuseum.se"}
+  {:name "Naturhistoriska riksmuseet",
+   :longitude 18.0540033,
+   :latitude 59.3690466,
+   :source :openstreetmap,
+   :homepage "https://www.nrm.se/"}
+  {:name "Naturrum",
+   :longitude 17.8807414,
+   :latitude 59.1631948,
+   :source :openstreetmap}
+  {:name "Naturrum Billudden",
+   :longitude 17.4785319,
+   :latitude 60.6386167,
+   :source :openstreetmap}
+  {:name "Naturrum med Hembygdsmuseum",
+   :longitude 19.1929779,
+   :latitude 58.3921404,
+   :source :openstreetmap,
+   :homepage "https://www.gsh.nu/museet/"}
+  {:name "Naturum",
+   :longitude 12.7154024,
+   :latitude 61.6363153,
+   :source :openstreetmap}
+  {:name "Naturum",
+   :longitude 13.586951,
+   :latitude 58.3240989,
+   :source :openstreetmap}
+  {:name "Naturum",
+   :longitude 11.0477607,
+   :latitude 58.8930506,
+   :source :openstreetmap}
+  {:name "Naturum Laponia",
+   :longitude 18.3524263,
+   :latitude 67.4767168,
+   :source :openstreetmap,
+   :homepage "https://laponia.nu/en/naturum-visitor-centre/"}
+  {:name "Naturum Nationalparkernas hus",
+   :longitude 18.2366027,
+   :latitude 59.1689615,
+   :source :openstreetmap}
+  {:name "Naturum Ottenby",
+   :longitude 16.3990286,
+   :latitude 56.1964677,
+   :source :openstreetmap}
+  {:name "Naturum Sommen",
+   :longitude 15.0890207,
+   :latitude 58.0291124,
+   :source :openstreetmap}
+  {:name "Naturum Stendörren",
+   :longitude 17.3938354,
+   :latitude 58.7442563,
+   :source :openstreetmap,
+   :homepage
+   "https://www.lansstyrelsen.se/sodermanland/besoksmal/naturum-stendorren.html"}
+  {:name "Naturum Trollskogen",
+   :longitude 17.1186256,
+   :latitude 57.342807,
+   :source :openstreetmap}
+  {:name "Naturum Tåkern",
+   :longitude 14.8216756,
+   :latitude 58.332742,
+   :source :openstreetmap}
+  {:name "Naturum Vindelfjällen",
+   :longitude 15.1043551,
+   :latitude 65.8152222,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vindelfjallen.se/besok-naturum-vindelfjallen/naturum-vindelfjallen-hemavan/"}
+  {:name "Naturum Vindelfjällen",
+   :longitude 16.2064116,
+   :latitude 65.9573151,
+   :source :openstreetmap,
+   :homepage "https://www.vindelfjallen.se/naturum/amarnas"}
+  {:name "Naturum Vålådalen",
+   :longitude 12.9645997,
+   :latitude 63.1482805,
+   :source :openstreetmap,
+   :homepage "https://naturumvaladalen.se/",
+   :locality "Vålådalen"}
+  {:name "Njurunda hembygdsgård",
+   :longitude 17.3682177,
+   :latitude 62.275404,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/njurunda"}
+  {:name "Nobelmuseet - Björkborns Herrgård",
+   :longitude 14.5346845,
+   :latitude 59.3402732,
+   :source :openstreetmap,
+   :homepage
+   "https://nobelkarlskoga.se/utstallningar/bofors-industrimuseum/"}
+  {:name "Norbergs gruvmuseum",
+   :longitude 15.9460702,
+   :latitude 60.0811241,
+   :source :openstreetmap}
+  {:name "Nordic Art",
+   :longitude 18.035726,
+   :latitude 59.3412161,
+   :source :openstreetmap,
+   :homepage "https://www.nordicart.se"}
+  {:name "Nordiska Akvarellmuseet",
+   :longitude 11.5399157,
+   :latitude 57.9881083,
+   :source :openstreetmap,
+   :homepage "https://www.akvarellmuseet.org",
+   :locality "Skärhamn"}
+  {:name "Nordiska Tomtemuseet",
+   :longitude 12.4610242,
+   :latitude 58.6997412,
+   :source :openstreetmap}
+  {:name "Nordiska Travmuseet",
+   :longitude 12.1558203,
+   :latitude 59.3911768,
+   :source :openstreetmap}
+  {:name "Nordmarks gruvmuseum",
+   :longitude 14.1052613,
+   :latitude 59.8374509,
+   :source :openstreetmap}
+  {:name "Norgefarargården",
+   :longitude 14.7956013,
+   :latitude 65.0624115,
+   :source :openstreetmap}
+  {:name "Norrbottens Järnvägsmuseum",
+   :longitude 22.0683247,
+   :latitude 65.5965954,
+   :source :openstreetmap,
+   :homepage "https://www.nbjvm.se/",
+   :locality "Luleå"}
+  {:name "Norrbottens museum",
+   :longitude 22.1381755,
+   :latitude 65.5821322,
+   :source :openstreetmap,
+   :homepage "http://www.nll.se",
+   :locality "Luleå"}
+  {:name "Norrbys",
+   :longitude 18.3710882,
+   :latitude 57.4547542,
+   :source :openstreetmap}
+  {:name "Norrbyskärs museum",
+   :longitude 19.8761517,
+   :latitude 63.5566876,
+   :source :openstreetmap}
+  {:name "Norrköpings konstmuseum",
+   :longitude 16.1908737,
+   :latitude 58.5830325,
+   :source :openstreetmap,
+   :homepage "https://www.norrkopingskonstmuseum.se/"}
+  {:name "Norrköpings spårvägsmuseum",
+   :longitude 16.2069354,
+   :latitude 58.5854372,
+   :source :openstreetmap}
+  {:name "Norrköpings stadsmuseum",
+   :longitude 16.1799272,
+   :latitude 58.5896788,
+   :source :openstreetmap,
+   :homepage "https://www.norrkopingsstadsmuseum.se/"}
+  {:name "Norrlanda Fornstuga",
+   :longitude 18.6763177,
+   :latitude 57.5264279,
+   :source :openstreetmap}
+  {:name "Norrsundets Arbetarmuseum",
+   :longitude 17.1404285,
+   :latitude 60.9266995,
+   :source :openstreetmap,
+   :locality "Norrsundet"}
+  {:name "Norrtälje Luftvärnsmuseum",
+   :longitude 18.6769373,
+   :latitude 59.7473195,
+   :source :openstreetmap,
+   :homepage "http://www.lv3.se/mus/",
+   :locality "Norrtälje"}
+  {:name "Norrö Tingshus",
+   :longitude 18.2648432,
+   :latitude 59.4981409,
+   :source :openstreetmap,
+   :locality "Åkersberga"}
+  {:name "Norsjö skidlöparmuseum",
+   :longitude 19.4739296,
+   :latitude 64.9084076,
+   :source :openstreetmap}
+  {:name "Nostalgibyn",
+   :longitude 15.4691302,
+   :latitude 59.4714467,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/babsansfik",
+   :locality "Fellingsbro"}
+  {:name "Nostalgicafé the 50’s",
+   :longitude 13.9405936,
+   :latitude 55.5612929,
+   :source :openstreetmap,
+   :homepage "https://nostalgimuseum.com/"}
+  {:name "Nostalgimacken Åhs",
+   :longitude 12.3136269,
+   :latitude 57.045603,
+   :source :openstreetmap}
+  {:name "Nostalgimuseet",
+   :longitude 14.3381355,
+   :latitude 58.0429673,
+   :source :openstreetmap,
+   :homepage "https://www.visingso.net/nostalgimuseet"}
+  {:name "Nostalgimuseum",
+   :longitude 16.8295824,
+   :latitude 59.0761742,
+   :source :openstreetmap,
+   :homepage "https://graforssamlingar.se/"}
+  {:name "Nostalgimuseum",
+   :longitude 17.6033474,
+   :latitude 60.3990839,
+   :source :openstreetmap,
+   :homepage "https://www.nostalgimuseum.se/"}
+  {:name "Not Quite",
+   :longitude 12.4691121,
+   :latitude 58.994928,
+   :source :openstreetmap,
+   :homepage "https://www.notquite.se/"}
+  {:name "Nutti Sámi Siida - Márkanbáiki",
+   :longitude 20.620001,
+   :latitude 67.8469817,
+   :source :openstreetmap,
+   :homepage "https://nutti.se/",
+   :locality "Jukkasjärvi"}
+  {:name "Nya Gården",
+   :longitude 12.6866493,
+   :latitude 59.489094,
+   :source :openstreetmap}
+  {:name "Nya Lapphyttan",
+   :longitude 15.9073723,
+   :latitude 60.0596744,
+   :source :openstreetmap}
+  {:name "Nyboda hembygds- och skolmuseum",
+   :longitude 17.9853623,
+   :latitude 59.2387644,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygdhuddinge.se/museer/nyboda-skolmuseeum/",
+   :locality "Huddinge"}
+  {:name "Nybyggarland",
+   :longitude 16.8690553,
+   :latitude 60.0936435,
+   :source :openstreetmap,
+   :homepage "https://www.nybyggarland.se/",
+   :locality "Tärnsjö"}
+  {:name "Nynäshamns bildarkiv",
+   :longitude 17.946184,
+   :latitude 58.9022005,
+   :source :openstreetmap,
+   :locality "Nynäshamn"}
+  {:name "Nynäshamns järnvägsmuseum",
+   :longitude 17.9410423,
+   :latitude 58.9102198,
+   :source :openstreetmap}
+  {:name "Nysätra skolmuseum",
+   :longitude 17.1718961,
+   :latitude 59.7512251,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/lagunda/skolmuseet"}
+  {:name "Nyvångs gruvmuseum",
+   :longitude 12.9019199,
+   :latitude 56.129989,
+   :source :openstreetmap,
+   :homepage "https://nyvangsgruva.se/",
+   :locality "Nyvång"}
+  {:name "Näktergalen",
+   :longitude 15.8561704,
+   :latitude 57.6660454,
+   :source :openstreetmap}
+  {:name "Nämforsens Hällristningsmuseum",
+   :longitude 16.8858846,
+   :latitude 63.4437976,
+   :source :openstreetmap,
+   :homepage "https://www.namforsen.com/"}
+  {:name "Närsen-Grontjärns Järnväg",
+   :longitude 14.7255109,
+   :latitude 60.5134314,
+   :source :openstreetmap}
+  {:name "Nässjö Järnvägsmuseum",
+   :longitude 14.6967359,
+   :latitude 57.6496178,
+   :source :openstreetmap,
+   :homepage "http://www.lokstallet.se/",
+   :locality "Nässjö"}
+  {:name "Nättraby Vägmuseum",
+   :longitude 15.530946,
+   :latitude 56.2080452,
+   :source :openstreetmap,
+   :homepage "https://www.nattrabyvagmuseum.se/"}
+  {:name "Nääs konsthantverk",
+   :longitude 12.3942125,
+   :latitude 57.81414,
+   :source :openstreetmap,
+   :homepage "https://www.naaskonsthantverk.se/"}
+  {:name "Odensvi hembygspark",
+   :longitude 16.1656282,
+   :latitude 57.8918217,
+   :source :openstreetmap}
+  {:name "Olas Fiskebod",
+   :longitude 14.0629377,
+   :latitude 55.3837475,
+   :source :openstreetmap}
+  {:name "Olle Olsson Hagalund-museet",
+   :longitude 18.0160446,
+   :latitude 59.3610244,
+   :source :openstreetmap,
+   :homepage "https://www.solna.se/olleolssonmuseet",
+   :locality "Solna"}
+  {:name "Olofsfors Bruk",
+   :longitude 19.4479594,
+   :latitude 63.5815903,
+   :source :openstreetmap,
+   :homepage "https://olofsforsbruk.nu/",
+   :locality "Nordmaling"}
+  {:name "Opalen - Rimbo kulturscen",
+   :longitude 18.3565426,
+   :latitude 59.7481485,
+   :source :openstreetmap,
+   :homepage
+   "https://www.norrtalje.se/info/kultur-och-fritid/kultur-och-konst/scen/opalen-rimbo-kulturscen/"}
+  {:name "Oppstuhage",
+   :longitude 12.6124605,
+   :latitude 59.6706397,
+   :source :openstreetmap,
+   :homepage "https://www.rackstadmuseet.se/"}
+  {:name "Orangerimuseet",
+   :longitude 18.0136132,
+   :latitude 59.3906446,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nationalmuseum.se/sv/Om-samlingarna1/NM-runt-om-i-Sverige/Ulriksdals-slott-med-Orangerimuseet/"}
+  {:name "Orlunda radiostation",
+   :longitude 14.9772458,
+   :latitude 58.4269867,
+   :source :openstreetmap}
+  {:name "Ornässtugan",
+   :longitude 15.5529202,
+   :latitude 60.5070254,
+   :source :openstreetmap,
+   :homepage
+   "https://www.borlange.se/uppleva-och-gora/kultur/museer-gallerier-och-konst/ornasstugan"}
+  {:name "Ornö museum",
+   :longitude 18.4297727,
+   :latitude 59.0512517,
+   :source :openstreetmap,
+   :homepage "http://www.ornomuseum.se"}
+  {:name "Oscar Olsson-museet",
+   :longitude 13.0103432,
+   :latitude 55.5827535,
+   :source :openstreetmap,
+   :homepage "http://www.oomuseet.se/",
+   :locality "Malmö"}
+  {:name "Ottilia Adelborgmuseet",
+   :longitude 15.0638357,
+   :latitude 60.5916642,
+   :source :openstreetmap}
+  {:name "Pansarmuseum",
+   :longitude 21.6751533,
+   :latitude 65.8036046,
+   :source :openstreetmap}
+  {:name "Paradox Museum Stockholm",
+   :longitude 18.0638182,
+   :latitude 59.3344251,
+   :source :openstreetmap,
+   :homepage "https://www.paradoxmuseumstockholm.com"}
+  {:name "Pellasgården",
+   :longitude 15.1707677,
+   :latitude 61.725073,
+   :source :openstreetmap,
+   :homepage "https://gammeltomten.se/"}
+  {:name "Pengsjö museum",
+   :longitude 19.6305059,
+   :latitude 63.830224,
+   :source :openstreetmap}
+  {:name "Per Albin Hanssons födelsehem",
+   :longitude 12.9982189,
+   :latitude 55.5732506,
+   :source :openstreetmap,
+   :homepage "https://www.peralbinhuset.se/",
+   :locality "Malmö"}
+  {:name "Per-Jansgården",
+   :longitude 17.095292,
+   :latitude 61.7038867,
+   :source :openstreetmap,
+   :locality "Hudiksvall"}
+  {:name "Pers Mekaniska kabinett",
+   :longitude 15.4271263,
+   :latitude 58.0152391,
+   :source :openstreetmap}
+  {:name "Persnäs fattighus",
+   :longitude 16.9202966,
+   :latitude 57.0675115,
+   :source :openstreetmap}
+  {:name "PF Event",
+   :longitude 17.9991017,
+   :latitude 59.3348718,
+   :source :openstreetmap}
+  {:name "Piratenmuseet",
+   :longitude 13.7860343,
+   :latitude 55.7019666,
+   :source :openstreetmap,
+   :homepage "http://www.piratensallskapet.se/museet/"}
+  {:name "Piteå museum",
+   :longitude 21.483129,
+   :latitude 65.3161591,
+   :source :openstreetmap}
+  {:name "Plastens hus",
+   :longitude 13.3987811,
+   :latitude 56.135717,
+   :source :openstreetmap}
+  {:name "Platåbergens Geopark",
+   :longitude 13.7440349,
+   :latitude 58.4941444,
+   :source :openstreetmap}
+  {:name "Poeten på hörnet",
+   :longitude 13.0044193,
+   :latitude 55.5938624,
+   :source :openstreetmap}
+  {:name "Polhemsmuséet",
+   :longitude 16.2093175,
+   :latitude 60.4317425,
+   :source :openstreetmap}
+  {:name "Polismuseet",
+   :longitude 18.1184726,
+   :latitude 59.3331156,
+   :source :openstreetmap,
+   :homepage "https://www.polismuseet.se/"}
+  {:name "Porfyrmuseet",
+   :longitude 14.0359092,
+   :latitude 61.2292817,
+   :source :openstreetmap}
+  {:name "Porjus gamla kraftstation",
+   :longitude 19.7962253,
+   :latitude 66.9541447,
+   :source :openstreetmap}
+  {:name "Postmuseum",
+   :longitude 18.0680012,
+   :latitude 59.3240854,
+   :source :openstreetmap,
+   :homepage "https://www.postmuseum.se/"}
+  {:name "Prästalunds hembygdsmuseum",
+   :longitude 12.142703,
+   :latitude 57.9346606,
+   :source :openstreetmap}
+  {:name "Psykiatrins arbetsplatsmuseum",
+   :longitude 14.1923869,
+   :latitude 57.7705287,
+   :source :openstreetmap}
+  {:name "Pumphuset",
+   :longitude 12.8042884,
+   :latitude 55.8957804,
+   :source :openstreetmap}
+  {:name "Pumphuset",
+   :longitude 12.7804396,
+   :latitude 55.940449,
+   :source :openstreetmap}
+  {:name "Pumphuset",
+   :longitude 17.6414995,
+   :latitude 59.8545704,
+   :source :openstreetmap,
+   :homepage "https://www.uppsalavatten.se/pumphuset",
+   :locality "Uppsala"}
+  {:name "Pythagoras Industrimuseum",
+   :longitude 18.6994896,
+   :latitude 59.7556567,
+   :source :openstreetmap,
+   :homepage "https://pythagorasmuseum.se/",
+   :locality "Norrtälje"}
+  {:name "Radio Pelles",
+   :longitude 15.5846851,
+   :latitude 57.6160215,
+   :source :openstreetmap}
+  {:name "Radiomuseet",
+   :longitude 11.9452637,
+   :latitude 57.7087442,
+   :source :openstreetmap,
+   :homepage "https://radiomuseet.se/",
+   :locality "Göteborg"}
+  {:name "Radiomuseum",
+   :longitude 15.3671869,
+   :latitude 56.6790456,
+   :source :openstreetmap,
+   :homepage "https://radiomuseum.se/",
+   :locality "Skruv"}
+  {:name "Ragunda hembygdsgård",
+   :longitude 16.3731456,
+   :latitude 63.112105,
+   :source :openstreetmap}
+  {:name "Rallar- & gränsförsvarsmuseet",
+   :longitude 18.7773054,
+   :latitude 68.3594612,
+   :source :openstreetmap}
+  {:name "Rallarmuseet",
+   :longitude 19.4268836,
+   :latitude 65.882523,
+   :source :openstreetmap}
+  {:name "Ramsele Hembygdsgård",
+   :longitude 16.4589793,
+   :latitude 63.5374033,
+   :source :openstreetmap}
+  {:name "Rasmus kvarn",
+   :longitude 14.4311499,
+   :latitude 57.9945672,
+   :source :openstreetmap,
+   :homepage "https://kulturratten.se/rasmus-kvarn-i-rottle-by/"}
+  {:name "Raus Konsthall",
+   :longitude 12.7470685,
+   :latitude 56.0055888,
+   :source :openstreetmap,
+   :homepage "https://www.rausstenkarlsfabrik.se/"}
+  {:name "RAVINEN",
+   :longitude 12.7972159,
+   :latitude 56.4472577,
+   :source :openstreetmap,
+   :homepage "https://www.ravinenkultur.se/",
+   :locality "Båstad"}
+  {:name "Redvägs Jernvägsmuseum",
+   :longitude 13.5664047,
+   :latitude 58.0235241,
+   :source :openstreetmap,
+   :homepage "https://redvagsjernvag.se/"}
+  {:name "Regementsmuseet",
+   :longitude 20.2540596,
+   :latitude 63.8359075,
+   :source :openstreetmap}
+  {:name "Repslagarmuseet",
+   :longitude 12.1237007,
+   :latitude 57.9622252,
+   :source :openstreetmap,
+   :homepage "http://www.repslagarbanan.se",
+   :locality "Älvängen"}
+  {:name "RFN:s museum",
+   :longitude 20.1257362,
+   :latitude 65.8787117,
+   :source :openstreetmap}
+  {:name "Rian designmuseum",
+   :longitude 12.4947232,
+   :latitude 56.8989728,
+   :source :openstreetmap}
+  {:name "Ricklundsgården",
+   :longitude 15.355986,
+   :latitude 64.9710906,
+   :source :openstreetmap}
+  {:name "Rikstolvan",
+   :longitude 14.2892435,
+   :latitude 55.5382117,
+   :source :openstreetmap}
+  {:name "Rindö Konsthall Redutten",
+   :longitude 18.3664665,
+   :latitude 59.4062001,
+   :source :openstreetmap,
+   :homepage "https://www.redutten.se/"}
+  {:name "Risanäs Skolmuseum",
+   :longitude 15.2506703,
+   :latitude 56.1781694,
+   :source :openstreetmap,
+   :locality "Ronneby"}
+  {:name "Rogberga Hembygdsgård",
+   :longitude 14.3062706,
+   :latitude 57.7174233,
+   :source :openstreetmap}
+  {:name "Rogsta Hembygdsgård",
+   :longitude 17.2022028,
+   :latitude 61.7647718,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/rogsta/var-hembygdsgard"}
+  {:name "Roma Kungsgård",
+   :longitude 18.4589716,
+   :latitude 57.5160662,
+   :source :openstreetmap,
+   :homepage "http://www.romakungsgarden.se/"}
+  {:name "Ronneby kulturcentrum",
+   :longitude 15.2794933,
+   :latitude 56.2121949,
+   :source :openstreetmap,
+   :homepage
+   "http://www.ronneby.se/sv/uppleva-gora/kultur/kultur-och-aktivitetshus/kulturcentrum/",
+   :locality "Ronneby"}
+  {:name "Rosenlöfs tryckerimuseum",
+   :longitude 16.6226352,
+   :latitude 60.6017312,
+   :source :openstreetmap,
+   :homepage "https://www.rosenlofsvanner.se/",
+   :locality "Kungsgården"}
+  {:name "Roslagens Sjöfartsmuseum",
+   :longitude 18.8149923,
+   :latitude 59.9638072,
+   :source :openstreetmap,
+   :homepage "https://www.sjofartsmuseet.se/"}
+  {:name "Roslagsmuseet",
+   :longitude 18.6719836,
+   :latitude 59.7549509,
+   :source :openstreetmap,
+   :homepage "https://www.roslagsmuseet.se/",
+   :locality "Norrtälje"}
+  {:name "Runnevåls skolmuseum",
+   :longitude 13.3108006,
+   :latitude 59.5199043,
+   :source :openstreetmap}
+  {:name "Rydaholms Bil-, Musik- och Leksaksmuseum",
+   :longitude 14.3273607,
+   :latitude 56.9709283,
+   :source :openstreetmap,
+   :homepage "http://www.smalandsbilmuseum.se/"}
+  {:name "Rydals Museum",
+   :longitude 12.6930282,
+   :latitude 57.5551514,
+   :source :openstreetmap,
+   :homepage
+   "https://www.mark.se/uppleva-och-gora/kultur/rydals-museum"}
+  {:name "Rydénska huset",
+   :longitude 13.4439752,
+   :latitude 58.4723313,
+   :source :openstreetmap,
+   :homepage "https://www.rydenskahuset.se",
+   :locality "Lundsbrunn"}
+  {:name "Ryttarens torvströfabrik",
+   :longitude 13.7363889,
+   :latitude 58.0209857,
+   :source :openstreetmap,
+   :homepage "https://www.ryttaren.nu/"}
+  {:name "Räddningsstation Sandhammarens",
+   :longitude 14.1948335,
+   :latitude 55.3871534,
+   :source :openstreetmap,
+   :homepage "https://sandhammaren.nu"}
+  {:name "Rämmens skol- och hembygdsmuseum",
+   :longitude 14.1236844,
+   :latitude 60.0322567,
+   :source :openstreetmap}
+  {:name "Råå museum för fiske och sjöfart",
+   :longitude 12.7427583,
+   :latitude 55.9934292,
+   :source :openstreetmap,
+   :homepage "http://raamuseum.se/",
+   :locality "Råå"}
+  {:name "Röda Sten Konsthall",
+   :longitude 11.9016288,
+   :latitude 57.689173,
+   :source :openstreetmap,
+   :homepage "http://www.rodasten.com/",
+   :locality "Göteborg"}
+  {:name "Rödbergsfortet",
+   :longitude 21.6555389,
+   :latitude 65.7925977,
+   :source :openstreetmap,
+   :homepage "http://fastningsguiden.com/om-rodbergsfortet/"}
+  {:name "Röhsska museet",
+   :longitude 11.9735149,
+   :latitude 57.699984,
+   :source :openstreetmap,
+   :homepage "https://rohsska.se/",
+   :locality "Göteborg"}
+  {:name "Rörstrand Museum",
+   :longitude 13.1587213,
+   :latitude 58.5071385,
+   :source :openstreetmap}
+  {:name "Röstånga Konsthall",
+   :longitude 13.2924155,
+   :latitude 56.0014762,
+   :source :openstreetmap}
+  {:name "S/S Herbert",
+   :longitude 12.5081218,
+   :latitude 57.9292273,
+   :source :openstreetmap}
+  {:name "S:t Ragnhilds Gilles Stadshistoriska museum",
+   :longitude 16.3207192,
+   :latitude 58.4804138,
+   :source :openstreetmap}
+  {:name "Saab Car Museum",
+   :longitude 12.2764608,
+   :latitude 58.2721537,
+   :source :openstreetmap,
+   :homepage "http://www.saabbilmuseum.se/"}
+  {:name "Sagabiografen Arbetslivsmuseum",
+   :longitude 18.6005026,
+   :latitude 65.3598934,
+   :source :openstreetmap}
+  {:name "Sagobygden Lille Petter Johans stuga",
+   :longitude 14.3278875,
+   :latitude 56.7402143,
+   :source :openstreetmap,
+   :homepage
+   "https://sagobygden.se/sv/sagenplatser/38-lille-petter-johans-stuga/"}
+  {:name "Sala Silvergruva",
+   :longitude 16.5752937,
+   :latitude 59.9073719,
+   :source :openstreetmap,
+   :homepage "https://www.salasilvergruva.se/"}
+  {:name "Saltskog gård",
+   :longitude 17.6288583,
+   :latitude 59.1785033,
+   :source :openstreetmap}
+  {:name "Saltögården",
+   :longitude 11.1322683,
+   :latitude 58.875822,
+   :source :openstreetmap,
+   :homepage "http://www.saltogarden.se/"}
+  {:name "Sameby",
+   :longitude 16.216222,
+   :latitude 65.9608967,
+   :source :openstreetmap}
+  {:name "Samlarmuseum",
+   :longitude 14.6166388,
+   :latitude 60.9204242,
+   :source :openstreetmap}
+  {:name "Sandgrund Lars Lerin",
+   :longitude 13.5027642,
+   :latitude 59.38463,
+   :source :openstreetmap,
+   :homepage "https://sandgrund.org/",
+   :locality "Karlstad"}
+  {:name "Sandslåns flottarmuseum",
+   :longitude 17.7948496,
+   :latitude 63.0098959,
+   :source :openstreetmap}
+  {:name "Sankta Annas gille",
+   :longitude 14.2884534,
+   :latitude 55.9236783,
+   :source :openstreetmap}
+  {:name "Sannahed militär- och friluftsmuseum",
+   :longitude 15.1610386,
+   :latitude 59.0945427,
+   :source :openstreetmap}
+  {:name "Saxemara Båtvarv",
+   :longitude 15.2350733,
+   :latitude 56.1644766,
+   :source :openstreetmap,
+   :locality "Ronneby"}
+  {:name "Selma Lagerlöfs Mårbacka",
+   :longitude 13.2331427,
+   :latitude 59.7810462,
+   :source :openstreetmap}
+  {:name "Settler's Hut",
+   :longitude 15.3637764,
+   :latitude 65.0253766,
+   :source :openstreetmap}
+  {:name "Siaröfortet",
+   :longitude 18.623537,
+   :latitude 59.5558638,
+   :source :openstreetmap,
+   :homepage "https://www.antrophia.se/siarofortet/fortetmuseum/"}
+  {:name "Sidensjö Hembygdsgård",
+   :longitude 18.2990477,
+   :latitude 63.290644,
+   :source :openstreetmap}
+  {:name "Sigfrid Ericson Museum - Vargaslätten",
+   :longitude 13.1436074,
+   :latitude 56.7170706,
+   :source :openstreetmap,
+   :homepage "https://www.vargaslatten.se/"}
+  {:name "Siggebohyttans bergmansgård",
+   :longitude 15.0345945,
+   :latitude 59.6160822,
+   :source :openstreetmap,
+   :homepage
+   "https://www.bergslagen.se/se--gora/historiska-miljoer/siggebohyttan.html"}
+  {:name "Sigrid Storråda",
+   :longitude 13.3098157,
+   :latitude 58.5443664,
+   :source :openstreetmap}
+  {:name "Sigtuna rådhus",
+   :longitude 17.721329,
+   :latitude 59.6170013,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sigtuna.se/uppleva-och-gora/uppleva-kultur/sigtuna-museum--art/kulturmiljoer/radhuset.html"}
+  {:name "Sigurd Olsson Speceri & Diversehandel Museum",
+   :longitude 11.4733153,
+   :latitude 58.0724856,
+   :source :openstreetmap}
+  {:name "Siknäs Kustmuseum",
+   :longitude 22.6877744,
+   :latitude 65.8426955,
+   :source :openstreetmap}
+  {:name "Siknäsfortet",
+   :longitude 22.6435511,
+   :latitude 65.8680938,
+   :source :openstreetmap,
+   :homepage "https://siknasfortet.se"}
+  {:name "Silbodals Hembygdsgård",
+   :longitude 12.1263694,
+   :latitude 59.3812245,
+   :source :openstreetmap}
+  {:name "Siljansfors Skogsmuseum",
+   :longitude 14.3736165,
+   :latitude 60.8901116,
+   :source :openstreetmap}
+  {:name "Silvermuseet",
+   :longitude 17.887061,
+   :latitude 66.051072,
+   :source :openstreetmap,
+   :homepage "https://silvermuseet.se/"}
+  {:name "Silvii skola",
+   :longitude 12.7376713,
+   :latitude 58.430944,
+   :source :openstreetmap}
+  {:name "Simonstorp brandkårsmuseum",
+   :longitude 16.1468522,
+   :latitude 58.7911502,
+   :source :openstreetmap}
+  {:name "Sinnenas konstpark",
+   :longitude 15.6171428,
+   :latitude 62.5161238,
+   :source :openstreetmap}
+  {:name "Sixten Jernberg",
+   :longitude 13.3876486,
+   :latitude 60.8984089,
+   :source :openstreetmap,
+   :homepage "https://www.restaurangsixten.se/",
+   :locality "Lima"}
+  {:name "Själevads Hembygdsgård",
+   :longitude 18.5793614,
+   :latitude 63.2875238,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/sjalevad"}
+  {:name "Sjöfartsmuseet Karlshamn",
+   :longitude 14.8652097,
+   :latitude 56.1658341,
+   :source :openstreetmap,
+   :homepage "http://www.sjofartsmuseum.se/",
+   :locality "Karlshamn"}
+  {:name "Sjöfartsmuseum",
+   :longitude 18.8089209,
+   :latitude 57.7056907,
+   :source :openstreetmap}
+  {:name "Sjönäset",
+   :longitude 18.3923588,
+   :latitude 64.079971,
+   :source :openstreetmap}
+  {:name "Skalbanksmuseet",
+   :longitude 11.9673305,
+   :latitude 58.3565239,
+   :source :openstreetmap}
+  {:name "Skandiamuséet",
+   :longitude 11.4260373,
+   :latitude 58.2741861,
+   :source :openstreetmap,
+   :homepage "http://www.llaurin.se/"}
+  {:name "Skansen Klintaberg",
+   :longitude 14.1938789,
+   :latitude 64.0310607,
+   :source :openstreetmap}
+  {:name "Skantzen Kanalmuseum",
+   :longitude 16.2111238,
+   :latitude 59.611366,
+   :source :openstreetmap,
+   :homepage "https://ekomuseum.se/besoksmalen/skantzen/"}
+  {:name "Skara järnvägsmuseum",
+   :longitude 13.4399318,
+   :latitude 58.3830915,
+   :source :openstreetmap}
+  {:name "Skara Järnvägsmuseum",
+   :longitude 13.4504236,
+   :latitude 58.3836812,
+   :source :openstreetmap,
+   :homepage "https://www.sklj.se/"}
+  {:name "Skellefteå Museum",
+   :longitude 20.9409238,
+   :latitude 64.7488934,
+   :source :openstreetmap,
+   :homepage "https://skellefteamuseum.se/"}
+  {:name "Skelleftå Museums Lanthandeln",
+   :longitude 20.9364981,
+   :latitude 64.750001,
+   :source :openstreetmap,
+   :homepage "https://skellefteamuseum.se/om/mer/lanthandeln/"}
+  {:name "Skeppshams Fiskaremuseum",
+   :longitude 17.7264281,
+   :latitude 62.4045423,
+   :source :openstreetmap}
+  {:name "SKHLM Konsthall",
+   :longitude 17.9079436,
+   :latitude 59.2744147,
+   :source :openstreetmap,
+   :homepage "https://folkiskarholmen.se/verksamhet/skhlm-konsthall/"}
+  {:name "Skillingmarks Hembygdsgård",
+   :longitude 11.9835456,
+   :latitude 59.8185267,
+   :source :openstreetmap}
+  {:name "Skinn Museum",
+   :longitude 13.8788724,
+   :latitude 60.8153771,
+   :source :openstreetmap,
+   :homepage "https://oje.se",
+   :locality "Öje"}
+  {:name "Skogen",
+   :longitude 11.9438928,
+   :latitude 57.6977611,
+   :source :openstreetmap,
+   :homepage "https://www.skogen.pm/",
+   :locality "Göteborg"}
+  {:name "Skogsmuseum",
+   :longitude 14.597223,
+   :latitude 61.7448998,
+   :source :openstreetmap}
+  {:name "Skol- och hembyggdsmuseum",
+   :longitude 11.5171826,
+   :latitude 58.224052,
+   :source :openstreetmap}
+  {:name "Skolmuseet",
+   :longitude 15.2325766,
+   :latitude 59.2727335,
+   :source :openstreetmap}
+  {:name "Skolmuseet",
+   :longitude 13.5004923,
+   :latitude 59.5163748,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/forshaga"}
+  {:name "Skolmuseet i Löddeköpinge",
+   :longitude 13.0164636,
+   :latitude 55.7612774,
+   :source :openstreetmap,
+   :locality "Löddeköpinge"}
+  {:name "Skolmuseet i Svartbäcken",
+   :longitude 18.1913465,
+   :latitude 59.1705144,
+   :source :openstreetmap}
+  {:name "Skolmuseum",
+   :longitude 15.4551411,
+   :latitude 56.7510486,
+   :source :openstreetmap}
+  {:name "Skolmuseum",
+   :longitude 15.1787574,
+   :latitude 60.5492539,
+   :source :openstreetmap}
+  {:name "Skolmuseum",
+   :longitude 15.9729566,
+   :latitude 58.5391049,
+   :source :openstreetmap}
+  {:name "Skolmuseum",
+   :longitude 12.8653585,
+   :latitude 56.2536686,
+   :source :openstreetmap}
+  {:name "Skorpeds Hembygdsgård",
+   :longitude 17.837677,
+   :latitude 63.3876147,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/skorped"}
+  {:name "Skottvångs Gruvmuseum",
+   :longitude 17.1360073,
+   :latitude 59.1811579,
+   :source :openstreetmap}
+  {:name "Skräddargarden",
+   :longitude 14.9604451,
+   :latitude 60.8830394,
+   :source :openstreetmap}
+  {:name "Skultuna messingsbruk",
+   :longitude 16.4181792,
+   :latitude 59.7164847,
+   :source :openstreetmap,
+   :homepage "http://www.skultunafabriksbutiker.se/"}
+  {:name "Skylten",
+   :longitude 15.6251555,
+   :latitude 58.4180296,
+   :source :openstreetmap,
+   :homepage "https://www.linkoping.se/skylten/"}
+  {:name "Skyttorps Maskinmuseum",
+   :longitude 17.7385534,
+   :latitude 60.078003,
+   :source :openstreetmap}
+  {:name "Skäftekärr",
+   :longitude 17.0064277,
+   :latitude 57.2487563,
+   :source :openstreetmap}
+  {:name "Skägårdsmuseum",
+   :longitude 16.7275506,
+   :latitude 57.8625302,
+   :source :openstreetmap}
+  {:name "Skälsbäck skolmuseum",
+   :longitude 15.6173956,
+   :latitude 57.1955822,
+   :source :openstreetmap}
+  {:name "Skärgårdskraft",
+   :longitude 15.6191166,
+   :latitude 56.125684,
+   :source :openstreetmap,
+   :homepage "https://www.skargardskraft.se/"}
+  {:name "Skärgårdsmuseet",
+   :longitude 18.6881894,
+   :latitude 59.2930018,
+   :source :openstreetmap,
+   :homepage "https://www.skargardsmuseet.org/",
+   :locality "Stavsnäs"}
+  {:name "Skärhamns sjöfartsmuseum",
+   :longitude 11.5468602,
+   :latitude 57.9900907,
+   :source :openstreetmap,
+   :homepage "https://www.deseglade.se",
+   :locality "Skärhamn"}
+  {:name "Skånela hembygdsgård och museeum",
+   :longitude 17.9509047,
+   :latitude 59.5819841,
+   :source :openstreetmap}
+  {:name "Sliperiet",
+   :longitude 12.9526207,
+   :latitude 59.3496769,
+   :source :openstreetmap}
+  {:name "Slipstensmuseet Orsa",
+   :longitude 14.7508179,
+   :latitude 61.1829155,
+   :source :openstreetmap,
+   :homepage "https://www.orsaslipsten.se/"}
+  {:name "Slottsmuseet",
+   :longitude 15.2149287,
+   :latitude 59.2742207,
+   :source :openstreetmap}
+  {:name "Slöjdmuseet",
+   :longitude 15.9418792,
+   :latitude 62.5336354,
+   :source :openstreetmap}
+  {:name "Smaklösa Museum",
+   :longitude 18.1447596,
+   :latitude 57.4370285,
+   :source :openstreetmap,
+   :homepage "https://www.guteinfo.com/?id=3761"}
+  {:name "Smedjan-Museum",
+   :longitude 13.8769451,
+   :latitude 60.8092796,
+   :source :openstreetmap,
+   :homepage "https://oje.se",
+   :locality "Öje"}
+  {:name "Smedsbygget",
+   :longitude 17.4307381,
+   :latitude 59.1848618,
+   :source :openstreetmap}
+  {:name "Smedsgården Bruksmuseum",
+   :longitude 16.7799617,
+   :latitude 60.6168011,
+   :source :openstreetmap,
+   :locality "Sandviken"}
+  {:name "Smedsta skolmuseum",
+   :longitude 17.2446945,
+   :latitude 59.0543943,
+   :source :openstreetmap}
+  {:name "Smide",
+   :longitude 13.9858939,
+   :latitude 63.3844595,
+   :source :openstreetmap}
+  {:name "Smålands militärhistoriska centrum",
+   :longitude 13.966288,
+   :latitude 56.5411308,
+   :source :openstreetmap,
+   :homepage "http://smhs.com.dinstudio.se"}
+  {:name "Sofiehills kattmuseum",
+   :longitude 18.0215702,
+   :latitude 59.1062649,
+   :source :openstreetmap,
+   :homepage "https://www.juneskattsamling.se",
+   :locality "Tungelsta"}
+  {:name "Soldattorp",
+   :longitude 14.1308338,
+   :latitude 59.3140651,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygd.se/kristinehamns-och-varnums-hembygdsf-rening"}
+  {:name "Soldattorpet",
+   :longitude 12.9418905,
+   :latitude 55.5897543,
+   :source :openstreetmap}
+  {:name "Solförrådet",
+   :longitude 13.764664,
+   :latitude 55.8564683,
+   :source :openstreetmap,
+   :homepage "https://www.torstenandersson.com/"}
+  {:name "Solicentrum Konst & Hantverk",
+   :longitude 14.0857937,
+   :latitude 56.4654582,
+   :source :openstreetmap}
+  {:name "Sollefteå museum",
+   :longitude 17.2698769,
+   :latitude 63.1672896,
+   :source :openstreetmap}
+  {:name "Sollentuna kulturskola",
+   :longitude 17.9521835,
+   :latitude 59.4272611,
+   :source :openstreetmap,
+   :homepage "https://www.sollentuna.se/kulturskolan/"}
+  {:name "Solliden",
+   :longitude 12.2570354,
+   :latitude 58.3364685,
+   :source :openstreetmap,
+   :homepage
+   "https://www.vanersborgsmuseum.se/samlingar/kunskap--fakta/historien-om-ett-torp/"}
+  {:name "Solna Kulturskola",
+   :longitude 17.99664,
+   :latitude 59.3541407,
+   :source :openstreetmap,
+   :homepage "https://www.solna.se/kulturskolan"}
+  {:name "Sommarhagen",
+   :longitude 14.5219082,
+   :latitude 63.1718061,
+   :source :openstreetmap,
+   :homepage "https://sommarhagen.com/"}
+  {:name "Sommarviste",
+   :longitude 20.6770213,
+   :latitude 67.1289419,
+   :source :openstreetmap,
+   :homepage "https://www.gshg.se/hembygdsomradet/"}
+  {:name "Spelens Hus",
+   :longitude 13.0285006,
+   :latitude 55.6037459,
+   :source :openstreetmap,
+   :homepage "https://www.spelenshus.se/",
+   :locality "Malmö"}
+  {:name "Spritmuseum",
+   :longitude 18.0937996,
+   :latitude 59.3270286,
+   :source :openstreetmap,
+   :homepage "https://spritmuseum.se/"}
+  {:name "Spårvägsmuseet",
+   :longitude 18.0915339,
+   :latitude 59.3579094,
+   :source :openstreetmap,
+   :homepage "https://sparvagsmuseet.se"}
+  {:name "Stackenäs museum",
+   :longitude 12.5188136,
+   :latitude 57.275734,
+   :source :openstreetmap}
+  {:name "Stackgrönnans båtmuseum",
+   :longitude 21.1324211,
+   :latitude 64.7090762,
+   :source :openstreetmap}
+  {:name "Stadsmuseum",
+   :longitude 13.30506,
+   :latitude 55.8395868,
+   :source :openstreetmap,
+   :homepage "https://www.eslovsleksaksmuseum.se/",
+   :locality "Eslöv"}
+  {:name "Stadsmuséet Ahlbergshallen",
+   :longitude 14.6398261,
+   :latitude 63.1780417,
+   :source :openstreetmap}
+  {:name "Stafsjö Bruksmuseum",
+   :longitude 16.4243757,
+   :latitude 58.7247564,
+   :source :openstreetmap}
+  {:name "Statarmuseet",
+   :longitude 13.2065129,
+   :latitude 55.5715454,
+   :source :openstreetmap}
+  {:name "Statarmuseet",
+   :longitude 17.9928765,
+   :latitude 59.3878458,
+   :source :openstreetmap}
+  {:name "Stationen",
+   :longitude 11.9364987,
+   :latitude 58.1447315,
+   :source :openstreetmap}
+  {:name "Stenarbetsmuseum Yxhult",
+   :longitude 15.2250805,
+   :latitude 59.1106695,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitkumla.se/gora/aktorer/stenarbetsmuseum-yxhult/"}
+  {:name "Stenhallen",
+   :longitude 16.654068,
+   :latitude 56.8796349,
+   :source :openstreetmap,
+   :locality "Borgholm"}
+  {:name "Stenhuggarmuseum",
+   :longitude 11.301808,
+   :latitude 58.4305255,
+   :source :openstreetmap,
+   :homepage "https://stenhuggerimuseet.com/"}
+  {:name "Stenmuseum",
+   :longitude 14.475884,
+   :latitude 56.3533943,
+   :source :openstreetmap}
+  {:name "Stenmuseum",
+   :longitude 18.1495535,
+   :latitude 56.9424643,
+   :source :openstreetmap}
+  {:name "Stenstorps skolmuseum",
+   :longitude 13.7095089,
+   :latitude 58.2680188,
+   :source :openstreetmap}
+  {:name "Stjernfors herrgård",
+   :longitude 15.0066158,
+   :latitude 59.8315896,
+   :source :openstreetmap}
+  {:name "Stjärneborgs Museum",
+   :longitude 14.8003147,
+   :latitude 57.9042267,
+   :source :openstreetmap,
+   :homepage "http://www.stjarneborg.se/"}
+  {:name "Stockamöllans Industrimuseum",
+   :longitude 13.3747816,
+   :latitude 55.9466315,
+   :source :openstreetmap}
+  {:name "Stora magasinet",
+   :longitude 17.8771529,
+   :latitude 60.4086077,
+   :source :openstreetmap,
+   :homepage "https://www.leufstabygden.se/verksamhet/smedsbostaden/"}
+  {:name "Storumans hembygdsgård",
+   :longitude 17.0901805,
+   :latitude 65.1177423,
+   :source :openstreetmap}
+  {:name "Strandridaregården",
+   :longitude 18.712832,
+   :latitude 57.3237087,
+   :source :openstreetmap}
+  {:name "Strindbergsmuseet",
+   :longitude 18.0566136,
+   :latitude 59.3385327,
+   :source :openstreetmap,
+   :homepage "https://www.strindbergsmuseet.se/"}
+  {:name "Strömma Hembygdsgård",
+   :longitude 18.553122,
+   :latitude 59.2844776,
+   :source :openstreetmap}
+  {:name "Strömstads museum",
+   :longitude 11.175298,
+   :latitude 58.9391978,
+   :source :openstreetmap}
+  {:name "Studio Acusticum",
+   :longitude 21.4640012,
+   :latitude 65.3286187,
+   :source :openstreetmap,
+   :locality "Piteå"}
+  {:name "Studio Bantorget",
+   :longitude 13.1887632,
+   :latitude 55.7042515,
+   :source :openstreetmap,
+   :homepage "https://kliger.art"}
+  {:name "Studio Cecilia Carlstedt",
+   :longitude 18.0781352,
+   :latitude 59.3141573,
+   :source :openstreetmap,
+   :homepage "https://www.ceciliacarlstedt.com/"}
+  {:name "Studio Gynning",
+   :longitude 12.9382568,
+   :latitude 55.5894354,
+   :source :openstreetmap,
+   :locality "Malmö"}
+  {:name "Studio42",
+   :longitude 11.9192319,
+   :latitude 57.6884649,
+   :source :openstreetmap}
+  {:name "studion.",
+   :longitude 14.1399944,
+   :latitude 56.5516394,
+   :source :openstreetmap}
+  {:name "Ståhl Collection",
+   :longitude 16.1833079,
+   :latitude 58.5900262,
+   :source :openstreetmap,
+   :locality "Norrköping"}
+  {:name "Sundbybergs museum",
+   :longitude 17.9628285,
+   :latitude 59.364734,
+   :source :openstreetmap,
+   :homepage "https://museet.se/"}
+  {:name "Sundsbergs Gård",
+   :longitude 13.136002,
+   :latitude 59.8286234,
+   :source :openstreetmap}
+  {:name "Sundsvalls konstförening",
+   :longitude 17.3089503,
+   :latitude 62.3893512,
+   :source :openstreetmap}
+  {:name "Sundsvalls museum",
+   :longitude 17.3126155,
+   :latitude 62.3916631,
+   :source :openstreetmap,
+   :homepage "https://pipelinesundsvall.se/"}
+  {:name "Sunnemo Hembygdsgård, Gubbkroken",
+   :longitude 13.7251028,
+   :latitude 59.885455,
+   :source :openstreetmap}
+  {:name "Sunnäs post och skolmuseum",
+   :longitude 14.0210867,
+   :latitude 59.3322044,
+   :source :openstreetmap,
+   :homepage "https://www.nwt.se/kristinehamn/article1157637.ece"}
+  {:name "Surte Glasbruksmuseum",
+   :longitude 12.0139187,
+   :latitude 57.8294746,
+   :source :openstreetmap,
+   :homepage "https://www.glasbruksmuseet.se"}
+  {:name "Svansele Vildmarkscenter",
+   :longitude 19.8472919,
+   :latitude 64.981798,
+   :source :openstreetmap,
+   :homepage "https://www.svansele.se/"}
+  {:name "Svart Granit",
+   :longitude 14.25186,
+   :latitude 56.205054,
+   :source :openstreetmap}
+  {:name "Svarta Bergen",
+   :longitude 14.249802,
+   :latitude 56.3947732,
+   :source :openstreetmap,
+   :homepage "https://www.svartabergen.nu/"}
+  {:name "Svartsjö slott",
+   :longitude 17.7278649,
+   :latitude 59.3626643,
+   :source :openstreetmap,
+   :homepage "https://lustslottetab.wordpress.com/"}
+  {:name "Svedinos bil- och flygmuseum",
+   :longitude 12.6310288,
+   :latitude 56.8214373,
+   :source :openstreetmap,
+   :homepage "https://www.svedinos.se",
+   :locality "Ugglarp"}
+  {:name "Svenskbymuseet",
+   :longitude 18.4434244,
+   :latitude 57.527585,
+   :source :openstreetmap,
+   :homepage
+   "https://www.svenskbyborna.se/museet-och-svanskbygarden/museet-i-svenskbygarden/"}
+  {:name "Svergies museum om Förintelsen",
+   :longitude 18.0424675,
+   :latitude 59.3370921,
+   :source :openstreetmap,
+   :homepage "https://museumforintelsen.se"}
+  {:name "Sveriges Fängelsemuseum",
+   :longitude 17.1429879,
+   :latitude 60.6714508,
+   :source :openstreetmap,
+   :homepage "https://sverigesfangelsemuseum.se"}
+  {:name "Sveriges Järnvägsmuseum",
+   :longitude 17.1711135,
+   :latitude 60.6617484,
+   :source :openstreetmap,
+   :homepage "https://www.jarnvagsmuseet.se"}
+  {:name "Sveriges Järnvägsmuseum",
+   :longitude 17.1267148,
+   :latitude 60.680087,
+   :source :openstreetmap,
+   :homepage "https://www.jarnvagsmuseet.se"}
+  {:name "Sveriges rundradiomuseum",
+   :longitude 15.0427911,
+   :latitude 58.5455375,
+   :source :openstreetmap,
+   :homepage
+   "https://www.motala.se/uppleva-och-gora/kultur/museer-och-kulturarv/sveriges-rundradiomuseum"}
+  {:name "Sveriges Sjömanshusmuseum",
+   :longitude 11.9353893,
+   :latitude 58.3479458,
+   :source :openstreetmap,
+   :homepage "http://www.sjomanshusmuseum.se/"}
+  {:name "Sveriges VVS-museum",
+   :longitude 17.9577821,
+   :latitude 59.3571236,
+   :source :openstreetmap,
+   :homepage "http://www.sverigesvvsmuseum.se/"}
+  {:name "Svindersvik",
+   :longitude 18.1305018,
+   :latitude 59.3102156,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nordiskamuseet.se/slott-och-gardar/svindersvik"}
+  {:name "Säbygården",
+   :longitude 11.5997698,
+   :latitude 58.0197508,
+   :source :openstreetmap,
+   :homepage
+   "https://www.tjorn.se/kultur-fritid-och-turism/turism-och-sevardheter/sabygarden",
+   :locality "Kållekärr"}
+  {:name "Säldebråten Fornminnesgård",
+   :longitude 13.1095852,
+   :latitude 59.5356237,
+   :source :openstreetmap}
+  {:name "Särdals Livräddningsstation",
+   :longitude 12.6278701,
+   :latitude 56.7423769,
+   :source :openstreetmap}
+  {:name "Särestads landsbyggdsmuseum",
+   :longitude 12.7405377,
+   :latitude 58.3858,
+   :source :openstreetmap}
+  {:name "Säters Biografmuseum",
+   :longitude 15.7607585,
+   :latitude 60.3450458,
+   :source :openstreetmap}
+  {:name "Sågmyra museum",
+   :longitude 15.2937816,
+   :latitude 60.7123623,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitdalarna.se/en/do/attractions/sagmyra-homestead-museum",
+   :locality "Sågmyra"}
+  {:name "Såguddens hembygdsgård",
+   :longitude 12.6053464,
+   :latitude 59.6501999,
+   :source :openstreetmap}
+  {:name "Sågverksmuseet",
+   :longitude 20.3541651,
+   :latitude 63.7057491,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitumea.se/sv/boka/se-gora/a499949/vasterbackens-sagverksmuseum/detaljer"}
+  {:name "Söderblomsgården",
+   :longitude 16.8836083,
+   :latitude 61.3854656,
+   :source :openstreetmap}
+  {:name "Söderhamn/F15 Flygmuseum",
+   :longitude 17.0864846,
+   :latitude 61.2696511,
+   :source :openstreetmap,
+   :homepage "https://www.soderhamnflygmuseum.se/",
+   :locality "Söderhamn"}
+  {:name "Söderhamns museum",
+   :longitude 17.0446047,
+   :latitude 61.3010358,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitsoderhamn.se/boka/se-gora/a909080/s%C3%B6derhamns-stadsmuseum/detaljer",
+   :locality "Söderhamn"}
+  {:name "Söderhällgården",
+   :longitude 17.4050366,
+   :latitude 60.5353142,
+   :source :openstreetmap}
+  {:name "Södra Råda Kulturhus",
+   :longitude 14.1883419,
+   :latitude 59.0075755,
+   :source :openstreetmap,
+   :homepage "https://www.sodraradakulturhus.se/"}
+  {:name "Sölvesborgs museum",
+   :longitude 14.5882281,
+   :latitude 56.0514611,
+   :source :openstreetmap,
+   :locality "Sölvesborg"}
+  {:name "Sörmlands museum",
+   :longitude 17.0138387,
+   :latitude 58.7459492,
+   :source :openstreetmap,
+   :homepage "https://sormlandsmuseum.se"}
+  {:name "Sörmlandsgården",
+   :longitude 16.536119,
+   :latitude 59.3673242,
+   :source :openstreetmap,
+   :homepage "https://sormlandsgarden.eskilstuna.se/"}
+  {:name "Tabergs gruva",
+   :longitude 14.0827936,
+   :latitude 57.6766797,
+   :source :openstreetmap}
+  {:name "Tallbergsbroarna",
+   :longitude 19.3097206,
+   :latitude 63.7673679,
+   :source :openstreetmap,
+   :homepage "http://www.nyaker.com/utstallning.htm",
+   :locality "NYÅKER"}
+  {:name "Tallbo – Ecke Hedbergs konstnärshem",
+   :longitude 16.538638,
+   :latitude 60.7599065,
+   :source :openstreetmap,
+   :locality "Järbo"}
+  {:name "Talldungen",
+   :longitude 14.6630125,
+   :latitude 63.1780994,
+   :source :openstreetmap}
+  {:name "Tantmuseum",
+   :longitude 15.7296585,
+   :latitude 61.8713893,
+   :source :openstreetmap}
+  {:name "Taubemuseet",
+   :longitude 11.6034162,
+   :latitude 57.6323843,
+   :source :openstreetmap}
+  {:name "Teatermuseet",
+   :longitude 13.0027471,
+   :latitude 55.6059398,
+   :source :openstreetmap}
+  {:name "Technichus",
+   :longitude 17.9368165,
+   :latitude 62.6304778,
+   :source :openstreetmap,
+   :homepage "https://technichus.se/"}
+  {:name "Teckningsmuseet",
+   :longitude 13.0417275,
+   :latitude 56.5140683,
+   :source :openstreetmap,
+   :homepage "https://teckningsmuseet.se/"}
+  {:name "Tegelbruksmuseet",
+   :longitude 16.8669683,
+   :latitude 59.9376879,
+   :source :openstreetmap,
+   :homepage "https://tegelbruksmuseet.se/"}
+  {:name "Teknik på farfars tid",
+   :longitude 12.7194151,
+   :latitude 56.0748412,
+   :source :openstreetmap,
+   :locality "Helsingborg"}
+  {:name "Teknikens hus",
+   :longitude 22.1350862,
+   :latitude 65.6169223,
+   :source :openstreetmap}
+  {:name "Teknikmuseum",
+   :longitude 14.1368361,
+   :latitude 60.258608,
+   :source :openstreetmap}
+  {:name "Teknikmuseum",
+   :longitude 17.0226663,
+   :latitude 59.3777411,
+   :source :openstreetmap}
+  {:name "Tekniska kvarnen",
+   :longitude 15.1428568,
+   :latitude 59.2658781,
+   :source :openstreetmap,
+   :homepage "https://www.orebro.se/5977.html",
+   :locality "Örebro"}
+  {:name "Tekniska museet",
+   :longitude 16.8277975,
+   :latitude 59.0825107,
+   :source :openstreetmap}
+  {:name "Telemuseet",
+   :longitude 15.5910294,
+   :latitude 57.3171204,
+   :source :openstreetmap,
+   :homepage "https://mobelmuseum.se/"}
+  {:name "Tensta konsthall",
+   :longitude 17.9033027,
+   :latitude 59.393703,
+   :source :openstreetmap,
+   :homepage "http://www.tenstakonsthall.se/"}
+  {:name "Termos museumet",
+   :longitude 16.5537876,
+   :latitude 61.7972018,
+   :source :openstreetmap}
+  {:name "Textilmuseet",
+   :longitude 12.9376034,
+   :latitude 57.7249112,
+   :source :openstreetmap,
+   :homepage "https://textilmuseet.se/"}
+  {:name "The Cell",
+   :longitude 18.0322828,
+   :latitude 59.3476422,
+   :source :openstreetmap,
+   :homepage "https://thecell.se/"}
+  {:name "Thielska galleriet",
+   :longitude 18.1486291,
+   :latitude 59.3222975,
+   :source :openstreetmap,
+   :homepage "https://www.thielskagalleriet.se/"}
+  {:name "Thunströms köpmansgård",
+   :longitude 15.6256162,
+   :latitude 60.6104469,
+   :source :openstreetmap}
+  {:name "Tiansgården",
+   :longitude 14.4769601,
+   :latitude 56.0695091,
+   :source :openstreetmap}
+  {:name "Tibro Museum",
+   :longitude 14.1584425,
+   :latitude 58.4243427,
+   :source :openstreetmap}
+  {:name "Tidaholms Museum",
+   :longitude 13.9589573,
+   :latitude 58.1794931,
+   :source :openstreetmap}
+  {:name "Tierps hembygdsgille",
+   :longitude 17.5101401,
+   :latitude 60.3483276,
+   :source :openstreetmap}
+  {:name "Tignemåla Skola",
+   :longitude 15.5998751,
+   :latitude 58.1683116,
+   :source :openstreetmap,
+   :homepage "http://www.tignemala.se/"}
+  {:name "Tingstäde fästning",
+   :longitude 18.620095,
+   :latitude 57.7382755,
+   :source :openstreetmap}
+  {:name "Tjorven Café",
+   :longitude 16.3407657,
+   :latitude 56.8089844,
+   :source :openstreetmap}
+  {:name "Tjuls station, Järnvägsmuseum",
+   :longitude 18.2377516,
+   :latitude 57.4594478,
+   :source :openstreetmap,
+   :homepage "http://tjuls.se/Jarnvagsmus/start-j.htm",
+   :locality "Gotlands Tofta"}
+  {:name "Tjörnedalagården Baskemölla",
+   :longitude 14.3029459,
+   :latitude 55.5980893,
+   :source :openstreetmap,
+   :homepage "https://www.tjornedala.se/"}
+  {:name "Tobak- och Tändsticksmuseum",
+   :longitude 18.1007959,
+   :latitude 59.3248529,
+   :source :openstreetmap,
+   :homepage "http://www.tobaksochtandsticksmuseum.se"}
+  {:name "Tollereds Öfvre kraftstation",
+   :longitude 12.4193357,
+   :latitude 57.8185192,
+   :source :openstreetmap,
+   :homepage "https://www.toekmuseum.se/besok/"}
+  {:name "Tom Tits Experiment",
+   :longitude 17.622771,
+   :latitude 59.2001575,
+   :source :openstreetmap,
+   :homepage "https://www.tomtit.se/"}
+  {:name "Tomtemuseum",
+   :longitude 12.4242555,
+   :latitude 58.7929838,
+   :source :openstreetmap}
+  {:name "Torps Hembygdsgård",
+   :longitude 16.1648227,
+   :latitude 62.4989124,
+   :source :openstreetmap}
+  {:name "Torvsjö Kvarnar",
+   :longitude 17.2641157,
+   :latitude 64.3742877,
+   :source :openstreetmap,
+   :homepage
+   "https://www.asele.se/fritid-turism-och-kultur/kultur/torvsjo-kvarnar/"}
+  {:name "Trandansen Visitor Centre",
+   :longitude 13.488628,
+   :latitude 58.2763976,
+   :source :openstreetmap}
+  {:name "Trangia Museum",
+   :longitude 14.0183731,
+   :latitude 63.3344102,
+   :source :openstreetmap,
+   :homepage "https://trangia.se/en/factory-store-museum/"}
+  {:name "Trankokeri",
+   :longitude 17.0140343,
+   :latitude 58.2536614,
+   :source :openstreetmap}
+  {:name "Tre Kronor",
+   :longitude 18.0710534,
+   :latitude 59.3274107,
+   :source :openstreetmap,
+   :homepage
+   "http://www.kungahuset.se/kungligaslotten/kungligaslottet/museumtrekronor"}
+  {:name "Trehörningsjös Hembygdsgård (Linatorpet)",
+   :longitude 18.8995212,
+   :latitude 63.6954369,
+   :source :openstreetmap}
+  {:name "Trelleborgen",
+   :longitude 13.1471839,
+   :latitude 55.3763483,
+   :source :openstreetmap}
+  {:name "Trelleborgs museum",
+   :longitude 13.15805,
+   :latitude 55.3760388,
+   :source :openstreetmap}
+  {:name "Trä och nostalgimuseum",
+   :longitude 12.310069,
+   :latitude 57.2316491,
+   :source :openstreetmap,
+   :homepage "https://derometramuseum.se/"}
+  {:name "Trägårdstorp",
+   :longitude 17.8878564,
+   :latitude 59.217854,
+   :source :openstreetmap}
+  {:name "Trångfors Smedja",
+   :longitude 16.204211,
+   :latitude 59.6279328,
+   :source :openstreetmap}
+  {:name "Tumba Bruksmuseum",
+   :longitude 17.8172541,
+   :latitude 59.2013137,
+   :source :openstreetmap}
+  {:name "Tumbergs skolmuseum",
+   :longitude 12.8218179,
+   :latitude 58.046095,
+   :source :openstreetmap}
+  {:name "Tuna kyrkskola",
+   :longitude 16.8372424,
+   :latitude 58.7399224,
+   :source :openstreetmap,
+   :homepage
+   "https://www.hembygd.se/sodermanland-tuna/plats/13162/text/6569"}
+  {:name "Tunabergs hembygdsgård",
+   :longitude 16.9005414,
+   :latitude 58.6462327,
+   :source :openstreetmap}
+  {:name "Tunabygdens Gammelgård",
+   :longitude 15.4383025,
+   :latitude 60.4961162,
+   :source :openstreetmap,
+   :homepage "https://tunahembygd.se/",
+   :locality "Borlänge"}
+  {:name "Tycho Brahe museum",
+   :longitude 12.6955874,
+   :latitude 55.9082567,
+   :source :openstreetmap}
+  {:name "Tyringe Museum",
+   :longitude 13.595589,
+   :latitude 56.1603772,
+   :source :openstreetmap}
+  {:name "Tändsticksmuseet",
+   :longitude 14.1595873,
+   :latitude 57.7846565,
+   :source :openstreetmap}
+  {:name "Tågmuseum",
+   :longitude 14.3067735,
+   :latitude 57.8582372,
+   :source :openstreetmap}
+  {:name "Töllstorps Industrimuseum",
+   :longitude 13.7575248,
+   :latitude 57.3636478,
+   :source :openstreetmap,
+   :homepage
+   "https://jonkopingslansmuseum.se/se-och-gora/smultronstallen/gnosjo/tollstorps-industrimuseum/"}
+  {:name "Ullbergsträsk väckelsemuseum",
+   :longitude 19.853712,
+   :latitude 65.2421542,
+   :source :openstreetmap}
+  {:name "Ulrika museum",
+   :longitude 15.4294263,
+   :latitude 58.1236658,
+   :source :openstreetmap,
+   :homepage "http://ulrika-museum.ulrikainfo.se/"}
+  {:name "Umeå Energicentrum",
+   :longitude 20.1186055,
+   :latitude 63.8354049,
+   :source :openstreetmap}
+  {:name "Umeå MC-museum",
+   :longitude 20.1570073,
+   :latitude 63.8378801,
+   :source :openstreetmap}
+  {:name "Underslös museum",
+   :longitude 11.4036463,
+   :latitude 58.7348329,
+   :source :openstreetmap,
+   :homepage "http://www.rockartscandinavia.com/",
+   :locality "Tanumshede"}
+  {:name "Uniformsmuseet",
+   :longitude 13.3761872,
+   :latitude 55.3936593,
+   :source :openstreetmap,
+   :homepage "https://www.uniformsmuseet.se/"}
+  {:name "Upplandsmuseet",
+   :longitude 17.6349999,
+   :latitude 59.8588982,
+   :source :openstreetmap,
+   :homepage "https://www.upplandsmuseet.se/",
+   :locality "Uppsala"}
+  {:name "Upplevelse Museet",
+   :longitude 18.0826068,
+   :latitude 59.2921606,
+   :source :openstreetmap}
+  {:name "Uppsala konstmuseum",
+   :longitude 17.6351548,
+   :latitude 59.8532485,
+   :source :openstreetmap,
+   :homepage "https://konstmuseum.uppsala.se"}
+  {:name "Uppsala universitets myntkabinett",
+   :longitude 17.6317074,
+   :latitude 59.8580308,
+   :source :openstreetmap,
+   :homepage
+   "https://www.uu.se/gustavianum/om-museet/vara-samlingar/myntkabinettet",
+   :locality "Uppsala"}
+  {:name "Uppåkra Arkeologiska Center",
+   :longitude 13.1723086,
+   :latitude 55.6670407,
+   :source :openstreetmap}
+  {:name "Utemuseum Kanalhuset",
+   :longitude 14.1465705,
+   :latitude 56.0322948,
+   :source :openstreetmap}
+  {:name "Utmarksmuseet, Pilgrimstapeten, Hembygdgård",
+   :longitude 12.9386185,
+   :latitude 60.6805355,
+   :source :openstreetmap}
+  {:name "Utställning",
+   :longitude 16.9416222,
+   :latitude 58.4902886,
+   :source :openstreetmap}
+  {:name "Utvandrarnas hus",
+   :longitude 14.8088325,
+   :latitude 56.8756042,
+   :source :openstreetmap,
+   :homepage "https://www.kulturparkensmaland.se/1.0.1.0/14/1/",
+   :locality "Växjö"}
+  {:name "Vadstena Slott",
+   :longitude 14.8837747,
+   :latitude 58.4459523,
+   :source :openstreetmap}
+  {:name "Vadstena Stadsmuseum",
+   :longitude 14.8879642,
+   :latitude 58.44764,
+   :source :openstreetmap,
+   :homepage "https://www.vadstenastadsmuseum.se",
+   :locality "Vadstena"}
+  {:name "Vaggeryds Museum",
+   :longitude 14.1475784,
+   :latitude 57.4990317,
+   :source :openstreetmap}
+  {:name "Vagnsmuseet",
+   :longitude 16.8116281,
+   :latitude 60.6701565,
+   :source :openstreetmap,
+   :locality "Sandviken"}
+  {:name "Vandalorum",
+   :longitude 14.0644094,
+   :latitude 57.1656095,
+   :source :openstreetmap,
+   :homepage "https://vandalorum.se",
+   :locality "Värnamo"}
+  {:name "Vannslätten",
+   :longitude 15.100422,
+   :latitude 56.3966296,
+   :source :openstreetmap,
+   :locality "Hallabro"}
+  {:name "Vantörs konstförening",
+   :longitude 18.0432204,
+   :latitude 59.2629448,
+   :source :openstreetmap}
+  {:name "Vattenkraft- och Miljöcentrum",
+   :longitude 13.0490212,
+   :latitude 56.5162545,
+   :source :openstreetmap}
+  {:name "Vaxholms fästnings museum",
+   :longitude 18.3584685,
+   :latitude 59.4028807,
+   :source :openstreetmap,
+   :homepage "https://www.vaxholmsfastning.se/",
+   :locality "Vaxholm"}
+  {:name "Vemdalens hembygdsgård",
+   :longitude 13.856523,
+   :latitude 62.451685,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/vemdalen"}
+  {:name "Vendel visitor centre",
+   :longitude 17.6007984,
+   :latitude 60.1642046,
+   :source :openstreetmap}
+  {:name "Ventlinge konsthall",
+   :longitude 16.4094499,
+   :latitude 56.2861781,
+   :source :openstreetmap}
+  {:name "Verket/Avesta Art",
+   :longitude 16.1717242,
+   :latitude 60.1489142,
+   :source :openstreetmap}
+  {:name "Veteranmotor Museum",
+   :longitude 15.2688888,
+   :latitude 57.8341561,
+   :source :openstreetmap}
+  {:name "Veteranmuseum Furudal",
+   :longitude 15.1761896,
+   :latitude 61.1948291,
+   :source :openstreetmap,
+   :homepage "http://www.norskveteranmuseum.se/"}
+  {:name "Veterantraktorklubben Norrtelje",
+   :longitude 18.6884363,
+   :latitude 59.7753092,
+   :source :openstreetmap,
+   :homepage "http://www.veterantraktorklubben.nu"}
+  {:name "VIDA Museum & Konsthall",
+   :longitude 16.5891745,
+   :latitude 56.8020404,
+   :source :openstreetmap,
+   :homepage "https://www.vidamuseum.com/"}
+  {:name "Vikarvets Bohusmuseum",
+   :longitude 11.4284575,
+   :latitude 58.2682991,
+   :source :openstreetmap,
+   :homepage "www.vikarvet.se",
+   :locality "Lysekil"}
+  {:name "Vikens Sjöfartsmuseum",
+   :longitude 12.5769322,
+   :latitude 56.1426671,
+   :source :openstreetmap,
+   :homepage "https://vikensbyaforening.se/vikens-sjofartsmuseum/",
+   :locality "Viken"}
+  {:name "Vikingabyn Storholmen",
+   :longitude 18.6541151,
+   :latitude 59.8362092,
+   :source :openstreetmap,
+   :homepage "https://www.storholmen.org"}
+  {:name "Vikingagården Gunnes gård",
+   :longitude 17.9067973,
+   :latitude 59.5084012,
+   :source :openstreetmap,
+   :homepage "https://www.upplandsvasby.se/gunnes",
+   :locality "Upplands Väsby"}
+  {:name "Viksta traktorsmuseum",
+   :longitude 17.6222033,
+   :latitude 60.0713165,
+   :source :openstreetmap,
+   :homepage "https://vikstatraktor.se/"}
+  {:name "Vilhelmina museum",
+   :longitude 16.6494828,
+   :latitude 64.6288791,
+   :source :openstreetmap,
+   :homepage "https://www.vilhelmina.se/uppleva-och-gora/museum/"}
+  {:name "Vindö bilgalleri",
+   :longitude 18.704624,
+   :latitude 59.3601406,
+   :source :openstreetmap,
+   :locality "Djurhamn"}
+  {:name "Vinnsäter Skolmuseum",
+   :longitude 12.1473153,
+   :latitude 58.7311584,
+   :source :openstreetmap}
+  {:name "Vinylmuseum",
+   :longitude 20.3606531,
+   :latitude 63.7106082,
+   :source :openstreetmap,
+   :locality "Holmsund"}
+  {:name "Visby Bilmuseum",
+   :longitude 18.3873579,
+   :latitude 57.6515215,
+   :source :openstreetmap}
+  {:name "Visingsö museum",
+   :longitude 14.3465195,
+   :latitude 58.0535707,
+   :source :openstreetmap}
+  {:name "Vita Huset",
+   :longitude 22.4839494,
+   :latitude 68.4416433,
+   :source :openstreetmap,
+   :homepage "https://www.karesuando.se/",
+   :locality "Karesuando"}
+  {:name "Vitlycke Museum",
+   :longitude 11.3407738,
+   :latitude 58.7012333,
+   :source :openstreetmap,
+   :homepage "https://www.vitlyckemuseum.se/"}
+  {:name "Vitsands Hembygdsgård",
+   :longitude 12.9998563,
+   :latitude 60.3278342,
+   :source :openstreetmap}
+  {:name "Vittfarnas vikingaby",
+   :longitude 13.6690669,
+   :latitude 56.0171768,
+   :source :openstreetmap,
+   :homepage "https://www.vittfarnas.se/"}
+  {:name "VKV museum",
+   :longitude 16.6708043,
+   :latitude 57.7640078,
+   :source :openstreetmap}
+  {:name "Von Echstedtska Gården",
+   :longitude 12.7314017,
+   :latitude 59.2278126,
+   :source :openstreetmap}
+  {:name "Väderömuseet Lotsstugan",
+   :longitude 12.5713928,
+   :latitude 56.4341307,
+   :source :openstreetmap}
+  {:name "Välluvs hembygdsmuseum",
+   :longitude 12.7992862,
+   :latitude 56.0198096,
+   :source :openstreetmap}
+  {:name "Vänermuseet",
+   :longitude 13.1470425,
+   :latitude 58.5111229,
+   :source :openstreetmap,
+   :homepage "https://www.vanermuseet.se/",
+   :locality "Lidköping"}
+  {:name "Vänersborgs Museum",
+   :longitude 12.3292034,
+   :latitude 58.3798414,
+   :source :openstreetmap}
+  {:name "Vännäs Motormuseum",
+   :longitude 19.7338051,
+   :latitude 63.9085175,
+   :source :openstreetmap,
+   :homepage "https://www.vannasmotormuseum.se/",
+   :locality "Vännäs"}
+  {:name "Världsarvet Grimeton, besökscentrum",
+   :longitude 12.4051604,
+   :latitude 57.1131955,
+   :source :openstreetmap}
+  {:name "Världskulturmuseet",
+   :longitude 11.989581,
+   :latitude 57.6946662,
+   :source :openstreetmap,
+   :homepage "https://www.varldskulturmuseerna.se/varldskulturmuseet/",
+   :locality "Göteborg"}
+  {:name "Värmdö Hembygdsmuseum",
+   :longitude 18.499743,
+   :latitude 59.3582319,
+   :source :openstreetmap}
+  {:name "Värmlands brandhistoriska museum",
+   :longitude 14.2790413,
+   :latitude 59.537942,
+   :source :openstreetmap}
+  {:name "Värmlands Vikingacenter",
+   :longitude 12.7798157,
+   :latitude 59.2864383,
+   :source :openstreetmap,
+   :homepage "https://varmlandsvikingacenter.se/"}
+  {:name "Väsby konsthall",
+   :longitude 17.9147067,
+   :latitude 59.5257457,
+   :source :openstreetmap,
+   :homepage "https://www.vasbykonsthall.com/",
+   :locality "Upplands Väsby"}
+  {:name "Väsby Kungsgård",
+   :longitude 16.5935775,
+   :latitude 59.9275957,
+   :source :openstreetmap,
+   :homepage "https://vasbykungsgard.se/"}
+  {:name "Västanfors Hembygdsgård",
+   :longitude 15.8071245,
+   :latitude 59.9846315,
+   :source :openstreetmap}
+  {:name "Västerbottens museum",
+   :longitude 20.2893199,
+   :latitude 63.8293759,
+   :source :openstreetmap,
+   :homepage "https://www.vbm.se/",
+   :locality "Umeå"}
+  {:name "Västernorrlands museum",
+   :longitude 17.9236945,
+   :latitude 62.6452036,
+   :source :openstreetmap,
+   :homepage "https://vnmuseum.se/"}
+  {:name "Västerviks museum",
+   :longitude 16.6441311,
+   :latitude 57.7661308,
+   :source :openstreetmap,
+   :homepage "https://www.vasterviksmuseum.se/"}
+  {:name "Västerås Flygmuseum",
+   :longitude 16.6258317,
+   :latitude 59.5942943,
+   :source :openstreetmap,
+   :homepage "https://www.flygmuseum.com/"}
+  {:name "Västerås historiska skeppsmuseum",
+   :longitude 16.7603122,
+   :latitude 59.5317423,
+   :source :openstreetmap}
+  {:name "Västerås Konsthall",
+   :longitude 16.5477117,
+   :latitude 59.6106468,
+   :source :openstreetmap}
+  {:name "Västerås Konstmuseum",
+   :longitude 16.5520131,
+   :latitude 59.6100088,
+   :source :openstreetmap,
+   :homepage "http://www.krlsg2.se/",
+   :locality "Västerås"}
+  {:name "Västerås Slott",
+   :longitude 16.5444052,
+   :latitude 59.6065274,
+   :source :openstreetmap}
+  {:name "Västra Göinge Hembygdsmuseum",
+   :longitude 13.7713777,
+   :latitude 56.1559983,
+   :source :openstreetmap}
+  {:name "Vävstolsmuseet",
+   :longitude 14.1372857,
+   :latitude 56.309214,
+   :source :openstreetmap,
+   :homepage "https://www.vavmuseum.se/",
+   :locality "Glimåkra"}
+  {:name "Växbo kvarn",
+   :longitude 16.5555036,
+   :latitude 61.4051978,
+   :source :openstreetmap}
+  {:name "Våmhus Gammelgård",
+   :longitude 14.4963933,
+   :latitude 61.1269252,
+   :source :openstreetmap}
+  {:name "Vårgårda Vågmuseum",
+   :longitude 12.8307177,
+   :latitude 58.0305459,
+   :source :openstreetmap}
+  {:name "Våxtorps Landsbygdsmuseum",
+   :longitude 16.1385789,
+   :latitude 56.5360789,
+   :source :openstreetmap}
+  {:name "Vöäse hembygdsgård",
+   :longitude 13.8345937,
+   :latitude 59.4134331,
+   :source :openstreetmap}
+  {:name "Waldemarsudde",
+   :longitude 18.1137345,
+   :latitude 59.3200041,
+   :source :openstreetmap,
+   :homepage "https://www.waldemarsudde.se/"}
+  {:name "Wanås Konsthall",
+   :longitude 14.0464715,
+   :latitude 56.1875146,
+   :source :openstreetmap}
+  {:name "WAY gallery",
+   :longitude 18.0476621,
+   :latitude 59.3433128,
+   :source :openstreetmap,
+   :homepage "https://www.waygallerysthlm.com/",
+   :locality "Stockholm"}
+  {:name "Wetterling",
+   :longitude 18.0702628,
+   :latitude 59.3314546,
+   :source :openstreetmap}
+  {:name "Wij valsverk",
+   :longitude 16.7061657,
+   :latitude 60.8841121,
+   :source :openstreetmap}
+  {:name "Wira bruksmuseum",
+   :longitude 18.5482552,
+   :latitude 59.5709677,
+   :source :openstreetmap,
+   :homepage "https://www.wirabruk.se/"}
+  {:name "Wood shingle factory",
+   :longitude 18.3938854,
+   :latitude 64.1682987,
+   :source :openstreetmap}
+  {:name "World of Volvo",
+   :longitude 11.9979453,
+   :latitude 57.6895138,
+   :source :openstreetmap,
+   :homepage "https://www.worldofvolvo.com/",
+   :locality "Göteborg"}
+  {:name "Ystad Studios Visitor Center",
+   :longitude 13.8438383,
+   :latitude 55.4338621,
+   :source :openstreetmap}
+  {:name "Ystegårn",
+   :longitude 16.880992,
+   :latitude 61.7362534,
+   :source :openstreetmap,
+   :locality "Forsa"}
+  {:name "Zarah Leander museum",
+   :longitude 16.644618,
+   :latitude 58.5529753,
+   :source :openstreetmap}
+  {:name "Zornmuseet",
+   :longitude 14.5379334,
+   :latitude 61.0069958,
+   :source :openstreetmap,
+   :homepage "https://zorn.se/",
+   :locality "Mora"}
+  {:name "Zorns Gammelgård",
+   :longitude 14.5455102,
+   :latitude 60.9982617,
+   :source :openstreetmap,
+   :homepage
+   "https://zorn.se/besok/zorns-gammelgard-och-textilkammaren/",
+   :locality "Mora"}
+  {:name "Ädelfors Gruvmuseum",
+   :longitude 15.3194592,
+   :latitude 57.4138279,
+   :source :openstreetmap,
+   :homepage
+   "https://vetlanda.se/artikelarkiv/upplev/kikainpaadelforsgruvochmineralmuseum.5.1d2a7c7616342fe18ec4a967.html"}
+  {:name "Älgarås Vagnmuseum",
+   :longitude 14.2512624,
+   :latitude 58.8069795,
+   :source :openstreetmap}
+  {:name "Älgens hus",
+   :longitude 19.087792,
+   :latitude 63.911101,
+   :source :openstreetmap,
+   :homepage "https://www.algenshus.se/"}
+  {:name "Älgå Spiksmedja",
+   :longitude 12.4741021,
+   :latitude 59.6434531,
+   :source :openstreetmap}
+  {:name "älskas ... ätas",
+   :longitude 17.3626792,
+   :latitude 58.8089109,
+   :source :openstreetmap,
+   :homepage
+   "https://www.sormlandsmuseum.se/Sormlandsmuseum/Utstallningar/Alskas--atas/"}
+  {:name "Ängabacken Lantbruksmuseum",
+   :longitude 14.5342305,
+   :latitude 56.1837462,
+   :source :openstreetmap}
+  {:name "Ängsö slott",
+   :longitude 16.8572248,
+   :latitude 59.5329081,
+   :source :openstreetmap}
+  {:name "Äpplets hus",
+   :longitude 14.2676634,
+   :latitude 55.6729105,
+   :source :openstreetmap,
+   :homepage "https://kiviksmusteri.se/sv/besoek-oss/aepplets-hus/"}
+  {:name "Äskhults by",
+   :longitude 12.2830313,
+   :latitude 57.4270839,
+   :source :openstreetmap,
+   :homepage "https://www.askhultsby.se"}
+  {:name "Åbergs museum",
+   :longitude 17.5201505,
+   :latitude 59.5581969,
+   :source :openstreetmap,
+   :homepage "https://www.abergsmuseum.se/",
+   :locality "Bålsta"}
+  {:name "Ådalens Veteranbilmuseum",
+   :longitude 17.8692631,
+   :latitude 62.8797131,
+   :source :openstreetmap}
+  {:name "Åhus museum",
+   :longitude 14.2938511,
+   :latitude 55.9233056,
+   :source :openstreetmap}
+  {:name "Ålabodarnas museum",
+   :longitude 12.7743424,
+   :latitude 55.9396659,
+   :source :openstreetmap}
+  {:name "Ålgården",
+   :longitude 12.9286448,
+   :latitude 57.734409,
+   :source :openstreetmap,
+   :homepage "https://www.algarden.se/"}
+  {:name "Ållebergs Segelflygmuseum",
+   :longitude 13.599171,
+   :latitude 58.1372546,
+   :source :openstreetmap}
+  {:name "Åminne bruk",
+   :longitude 14.010442,
+   :latitude 57.1243123,
+   :source :openstreetmap}
+  {:name "Åmåls Järnvägsmuseum",
+   :longitude 12.6996178,
+   :latitude 59.0430858,
+   :source :openstreetmap,
+   :locality "Åmål"}
+  {:name "Ångkransbrottet",
+   :longitude 16.4521096,
+   :latitude 57.1859766,
+   :source :openstreetmap,
+   :homepage "http://www.hårdklang.se/page_1256153427973.html"}
+  {:name "Årstastugan",
+   :longitude 18.1642096,
+   :latitude 59.083242,
+   :source :openstreetmap}
+  {:name "Årsunda Viking",
+   :longitude 16.7507561,
+   :latitude 60.5269182,
+   :source :openstreetmap,
+   :locality "Årsunda"}
+  {:name "Åse Kalkmuseum",
+   :longitude 14.0912763,
+   :latitude 63.3190629,
+   :source :openstreetmap,
+   :homepage "https://www.ase-trang.nu/museerna/"}
+  {:name "Åsgårdarna",
+   :longitude 15.7536731,
+   :latitude 60.343049,
+   :source :openstreetmap}
+  {:name "Åsle Tå",
+   :longitude 13.6905823,
+   :latitude 58.1785718,
+   :source :openstreetmap,
+   :homepage "https://www.asleta.se/"}
+  {:name "Åstradsgården",
+   :longitude 13.2158705,
+   :latitude 55.645819,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/staffanstorp/page/24840",
+   :locality "Staffanstorp"}
+  {:name "Åtvidabergs Bruks- och Facitmuseum",
+   :longitude 16.00292,
+   :latitude 58.1984923,
+   :source :openstreetmap,
+   :homepage "www.brukskultur.se",
+   :locality "Åtivdaberg"}
+  {:name "Öckerö hembygdsgård",
+   :longitude 11.6450733,
+   :latitude 57.7068736,
+   :source :openstreetmap}
+  {:name "Ödbergska Gården",
+   :longitude 18.7243992,
+   :latitude 63.2923654,
+   :source :openstreetmap,
+   :homepage "https://www.hembygd.se/johan-odberg-sallskapet"}
+  {:name "Ödeborgs Fornsal",
+   :longitude 11.9799752,
+   :latitude 58.544872,
+   :source :openstreetmap}
+  {:name "Ögårn i Dusserud",
+   :longitude 11.8830728,
+   :latitude 59.4745661,
+   :source :openstreetmap}
+  {:name "Ölands Museum Himmelsberga",
+   :longitude 16.7113925,
+   :latitude 56.7391345,
+   :source :openstreetmap,
+   :homepage "https://olandsmuseum.com/",
+   :locality "Himmelsberga"}
+  {:name "Ölmestadsmuséet",
+   :longitude 13.6083484,
+   :latitude 57.1701472,
+   :source :openstreetmap}
+  {:name "Önneköps Lanthandelsmuseum",
+   :longitude 13.8710895,
+   :latitude 55.7864917,
+   :source :openstreetmap,
+   :homepage "http://www.onnekop.com"}
+  {:name "Örebro läns museum",
+   :longitude 15.2182311,
+   :latitude 59.2727198,
+   :source :openstreetmap}
+  {:name "Örslösa hembygdsmuseum",
+   :longitude 12.9981639,
+   :latitude 58.5065544,
+   :source :openstreetmap}
+  {:name "Örträsk hembygdsgård",
+   :longitude 18.9806848,
+   :latitude 64.1286733,
+   :source :openstreetmap}
+  {:name "Örumshuset",
+   :longitude 14.0930877,
+   :latitude 55.4572416,
+   :source :openstreetmap}
+  {:name "Östarpshallen",
+   :longitude 13.5577601,
+   :latitude 55.6095384,
+   :source :openstreetmap}
+  {:name "Österbybruks hembygdsgård",
+   :longitude 17.8945428,
+   :latitude 60.1911445,
+   :source :openstreetmap,
+   :locality "Österbybruk"}
+  {:name "Östergötlands Järnvägsmuseum",
+   :longitude 15.584779,
+   :latitude 58.4007811,
+   :source :openstreetmap,
+   :homepage "http://jvgmf.se"}
+  {:name "Österlens Flygmuseum§",
+   :longitude 14.2478625,
+   :latitude 55.5746028,
+   :source :openstreetmap}
+  {:name "Österlens Museum",
+   :longitude 14.3477497,
+   :latitude 55.5564072,
+   :source :openstreetmap,
+   :locality "Simrishamn"}
+  {:name "Östervåla hembygdsgård",
+   :longitude 17.1567467,
+   :latitude 60.1833636,
+   :source :openstreetmap}
+  {:name "Östgöta idrottsmuseum",
+   :longitude 15.6421436,
+   :latitude 58.371616,
+   :source :openstreetmap,
+   :homepage "https://www.idrottshistoria-ostergotland.se/"}
+  {:name "Överby kvarn",
+   :longitude 17.883289,
+   :latitude 59.4763406,
+   :source :openstreetmap}
+  {:name "Överlida industri o hantverksmuseum",
+   :longitude 12.899126,
+   :latitude 57.3528611,
+   :source :openstreetmap}
+  {:name "Överums Bruksmuseum",
+   :longitude 16.3238046,
+   :latitude 57.9871545,
+   :source :openstreetmap}
+  {:name "Övralid",
+   :longitude 14.9445553,
+   :latitude 58.6078835,
+   :source :openstreetmap,
+   :homepage "https://ovralid.se/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

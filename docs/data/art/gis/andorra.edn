@@ -1,0 +1,81 @@
+{:count 15,
+ :country "andorra",
+ :country-code "AD",
+ :dataset :art,
+ :generated-at "2026-05-26T06:00:42.771607Z",
+ :positions
+ [{:name "Auditori Nacional d'Andorra",
+   :longitude 1.5347739,
+   :latitude 42.5569178,
+   :source :openstreetmap}
+  {:name "Bici Lab Andorra",
+   :longitude 1.5211872,
+   :latitude 42.5062486,
+   :source :openstreetmap,
+   :homepage "https://www.bicilabandorra.com"}
+  {:name "Comics Museum",
+   :longitude 1.5141399,
+   :latitude 42.5466599,
+   :source :openstreetmap}
+  {:name "Espai Columba",
+   :longitude 1.4986672,
+   :latitude 42.4945673,
+   :source :openstreetmap,
+   :locality "Santa Coloma"}
+  {:name "Iron Museum",
+   :longitude 1.5210326,
+   :latitude 42.5459855,
+   :source :openstreetmap,
+   :locality "La Massana"}
+  {:name "Mina de Llorts",
+   :longitude 1.5324251,
+   :latitude 42.5995597,
+   :source :openstreetmap}
+  {:name "Museo Nacional de la Automòbil",
+   :longitude 1.5779572,
+   :latitude 42.5332368,
+   :source :openstreetmap}
+  {:name "Museu Carmen Thyssen",
+   :longitude 1.542006,
+   :latitude 42.5087599,
+   :source :openstreetmap,
+   :homepage "http://museucarmenthyssenandorra.ad/",
+   :locality "Escaldes-Engordany"}
+  {:name "Museu Casa Rull",
+   :longitude 1.5142133,
+   :latitude 42.5323576,
+   :source :openstreetmap,
+   :homepage "https://museus.ad/es/museos/museo-casa-rull",
+   :locality "Sispony"}
+  {:name "Museu de la Moto",
+   :longitude 1.6012062,
+   :latitude 42.5658713,
+   :source :openstreetmap}
+  {:name "Museu del Perfum",
+   :longitude 1.5348303,
+   :latitude 42.5083857,
+   :source :openstreetmap}
+  {:name "Museu del Tabac",
+   :longitude 1.4915252,
+   :latitude 42.4645035,
+   :source :openstreetmap}
+  {:name "Museu Etnogràfic Casa Cristo",
+   :longitude 1.582377,
+   :latitude 42.5351438,
+   :source :openstreetmap,
+   :homepage "https://museus.ad/museus/museu-etnografic-casa-cristo",
+   :locality "Encamp"}
+  {:name "Museu Obert de Geologia. Roques al Carrer",
+   :longitude 1.5252616,
+   :latitude 42.5061441,
+   :source :openstreetmap}
+  {:name "MW Museu de l'Electricitat",
+   :longitude 1.5534738,
+   :latitude 42.5146737,
+   :source :openstreetmap,
+   :homepage "https://www.fedacultura.ad/mw-museu-de-l-electricitat"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

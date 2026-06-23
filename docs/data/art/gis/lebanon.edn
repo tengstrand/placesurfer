@@ -1,0 +1,189 @@
+{:count 40,
+ :country "lebanon",
+ :country-code "LB",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:36.632630Z",
+ :positions
+ [{:name "392Rmeil393",
+   :longitude 35.5169412,
+   :latitude 33.8949613,
+   :source :openstreetmap}
+  {:name "Ardeco Gallery",
+   :longitude 35.5134897,
+   :latitude 33.889434,
+   :source :openstreetmap}
+  {:name "Beth oromoye",
+   :longitude 35.6617947,
+   :latitude 34.234819,
+   :source :openstreetmap}
+  {:name "Byblos Wax Museum",
+   :longitude 35.6459158,
+   :latitude 34.1215445,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/agomuseum/"}
+  {:name "Galerie Janine Rubeiz",
+   :longitude 35.4736033,
+   :latitude 33.8879535,
+   :source :openstreetmap,
+   :locality "الروشة"}
+  {:name "Galerie Sfeir-Semler",
+   :longitude 35.5366367,
+   :latitude 33.9005201,
+   :source :openstreetmap,
+   :locality "Beyrouth"}
+  {:name "Galerie Tanit",
+   :longitude 35.5227492,
+   :latitude 33.8960429,
+   :source :openstreetmap}
+  {:name "gallery Farid Alam",
+   :longitude 35.3746529,
+   :latitude 33.0821684,
+   :source :openstreetmap}
+  {:name "Gibran Museum",
+   :longitude 36.019121,
+   :latitude 34.2498604,
+   :source :openstreetmap}
+  {:name "Hand Made Crafts",
+   :longitude 35.5252606,
+   :latitude 33.6904706,
+   :source :openstreetmap}
+  {:name "Lebanese Museum Of The Heart Of The Rock",
+   :longitude 35.8659986,
+   :latitude 33.8662544,
+   :source :openstreetmap}
+  {:name "MACAM",
+   :longitude 35.6880747,
+   :latitude 34.090669,
+   :source :openstreetmap}
+  {:name "Moussa Castle",
+   :longitude 35.583233,
+   :latitude 33.7006158,
+   :source :openstreetmap,
+   :homepage "https://www.moussacastle.com/"}
+  {:name "Museum of Lebanese Prehistory",
+   :longitude 35.5081645,
+   :latitude 33.8915926,
+   :source :openstreetmap}
+  {:name "Musée Archéologique",
+   :longitude 35.6192897,
+   :latitude 33.9818079,
+   :source :openstreetmap}
+  {:name "Musée de la résistance",
+   :longitude 35.5255141,
+   :latitude 33.457294,
+   :source :openstreetmap,
+   :homepage "http://www.mleeta.com/"}
+  {:name "Nabu",
+   :longitude 35.7044005,
+   :latitude 34.3043379,
+   :source :openstreetmap,
+   :homepage "https://www.nabumuseum.com/about"}
+  {:name "آرت سين استوديو",
+   :longitude 35.5117853,
+   :latitude 33.8949173,
+   :source :openstreetmap,
+   :locality "جميزة"}
+  {:name "المتحف الأثري في الجامعة الأمريكية في بيروت",
+   :longitude 35.4836324,
+   :latitude 33.8994876,
+   :source :openstreetmap,
+   :locality "بيروت"}
+  {:name "المتحف الرومي",
+   :longitude 35.8971832,
+   :latitude 33.8472095,
+   :source :openstreetmap}
+  {:name "بيت بيروت",
+   :longitude 35.5083604,
+   :latitude 33.8869945,
+   :source :openstreetmap,
+   :homepage "http://www.beitbeirut.org",
+   :locality "بيروت"}
+  {:name "غاليري صالح بركات",
+   :longitude 35.4914993,
+   :latitude 33.8975835,
+   :source :openstreetmap,
+   :homepage "http://www.artonspears.com/"}
+  {:name "مؤسسة سلوى روضة شقير",
+   :longitude 35.6649009,
+   :latitude 33.8389221,
+   :source :openstreetmap,
+   :homepage "https://salouaraoudachoucair.com/"}
+  {:name "متحف الاستقلال",
+   :longitude 35.6438151,
+   :latitude 33.9881453,
+   :source :openstreetmap}
+  {:name "متحف الحرير",
+   :longitude 35.5722818,
+   :latitude 33.8178984,
+   :source :openstreetmap}
+  {:name "متحف الحياة البرية والبحرية",
+   :longitude 35.6337208,
+   :latitude 33.9486721,
+   :source :openstreetmap,
+   :homepage "http://lmwm.org"}
+  {:name "متحف الحيوانات والفراشات",
+   :longitude 36.2792697,
+   :latitude 34.5667187,
+   :source :openstreetmap,
+   :locality "القبيات"}
+  {:name "متحف الصابون في صيدا",
+   :longitude 35.3713787,
+   :latitude 33.5626307,
+   :source :openstreetmap}
+  {:name "متحف الطبليات",
+   :longitude 36.0805127,
+   :latitude 34.1771385,
+   :source :openstreetmap,
+   :locality "عيناتا - بعلبك"}
+  {:name "متحف المشاهير",
+   :longitude 35.6233074,
+   :latitude 33.9471575,
+   :source :openstreetmap}
+  {:name "متحف شمال لبنان",
+   :longitude 35.8443501,
+   :latitude 34.4333674,
+   :source :openstreetmap}
+  {:name "متحف علم الآثار",
+   :longitude 35.5051239,
+   :latitude 33.8965847,
+   :source :openstreetmap,
+   :locality "بيروت"}
+  {:name "متحف ميم",
+   :longitude 35.5141138,
+   :latitude 33.879842,
+   :source :openstreetmap,
+   :homepage "http://www.beirutnationalmuseum.com/"}
+  {:name "متحف ومنزل بغس سنابيان",
+   :longitude 35.930886,
+   :latitude 33.7290327,
+   :source :openstreetmap}
+  {:name "مركز الجمهور الرياضي",
+   :longitude 35.5660576,
+   :latitude 33.8331292,
+   :source :openstreetmap}
+  {:name "مركز العزم",
+   :longitude 35.7898726,
+   :latitude 34.3865125,
+   :source :openstreetmap}
+  {:name "مركز بلدية وادي خالد",
+   :longitude 36.3865984,
+   :latitude 34.6246269,
+   :source :openstreetmap}
+  {:name "مركز شغزويان الثقافي",
+   :longitude 35.538771,
+   :latitude 33.8958561,
+   :source :openstreetmap}
+  {:name "مركز فنون بيروت",
+   :longitude 35.5309156,
+   :latitude 33.8819597,
+   :source :openstreetmap}
+  {:name "مسجد جميل",
+   :longitude 35.4891729,
+   :latitude 33.8943395,
+   :source :openstreetmap,
+   :homepage "https://darelnimer.org/"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

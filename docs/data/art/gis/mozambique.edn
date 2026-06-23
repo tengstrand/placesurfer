@@ -1,0 +1,127 @@
+{:count 27,
+ :country "mozambique",
+ :country-code "MZ",
+ :dataset :art,
+ :generated-at "2026-05-26T06:22:47.766109Z",
+ :positions
+ [{:name "Associação dos Músicos de Moçambique",
+   :longitude 32.5808511,
+   :latitude -25.9645909,
+   :source :openstreetmap}
+  {:name "Associação Portuguesa em Moçambique",
+   :longitude 32.5929288,
+   :latitude -25.9817241,
+   :source :openstreetmap,
+   :locality "Maputo"}
+  {:name "Bota Fogo",
+   :longitude 32.5672476,
+   :latitude -25.9532921,
+   :source :openstreetmap}
+  {:name "Casa de Cultura",
+   :longitude 35.3817588,
+   :latitude -23.8689356,
+   :source :openstreetmap}
+  {:name "Casa do Artista",
+   :longitude 34.8337709,
+   :latitude -19.8281941,
+   :source :openstreetmap}
+  {:name "Casa Sigauque",
+   :longitude 32.5611223,
+   :latitude -25.9488793,
+   :source :openstreetmap,
+   :homepage
+   "https://www.facebook.com/pages/Casa-Sigauque/141399676031512?fref=ts"}
+  {:name "Centro Cultural Americano Martin Luther King Jr.",
+   :longitude 32.592915,
+   :latitude -25.965058,
+   :source :openstreetmap,
+   :locality "Maputo"}
+  {:name "Centro Cultural Franco-Moçambicano",
+   :longitude 32.5734959,
+   :latitude -25.9700408,
+   :source :openstreetmap,
+   :locality "Maputo"}
+  {:name "Fundação Fernando Leite Couto",
+   :longitude 32.5957031,
+   :latitude -25.9601046,
+   :source :openstreetmap}
+  {:name "ICMA - Insituto Cultural Mocambicano-Alemao",
+   :longitude 32.5847244,
+   :latitude -25.9680068,
+   :source :openstreetmap}
+  {:name "Instituto Camões Centro Cultural Português",
+   :longitude 32.5943739,
+   :latitude -25.9740153,
+   :source :openstreetmap}
+  {:name "Lion House",
+   :longitude 34.376659,
+   :latitude -18.9042849,
+   :source :openstreetmap}
+  {:name "Museu Arte Sacra",
+   :longitude 40.7373067,
+   :latitude -15.0318348,
+   :source :openstreetmap}
+  {:name "MUSEU DA MASACRE DE MUEDA",
+   :longitude 39.5460894,
+   :latitude -11.6596219,
+   :source :openstreetmap}
+  {:name "Museu da Moeda",
+   :longitude 32.5697484,
+   :latitude -25.9733756,
+   :source :openstreetmap,
+   :locality "Maputo"}
+  {:name "Museu da Revolução",
+   :longitude 32.5677907,
+   :latitude -25.9626375,
+   :source :openstreetmap}
+  {:name "Museu das FPLM",
+   :longitude 39.2570741,
+   :latitude -15.1261646,
+   :source :openstreetmap}
+  {:name "Museu de Chai A",
+   :longitude 40.1060739,
+   :latitude -11.9329041,
+   :source :openstreetmap}
+  {:name "Museu dos CFM",
+   :longitude 32.5632544,
+   :latitude -25.970282,
+   :source :openstreetmap}
+  {:name "Museu Mafalala",
+   :longitude 32.5717058,
+   :latitude -25.9518631,
+   :source :openstreetmap}
+  {:name "Museu Nacional de Arte",
+   :longitude 32.5717387,
+   :latitude -25.9667057,
+   :source :openstreetmap,
+   :locality "Maputo"}
+  {:name "Museu Nacional de Etnologia",
+   :longitude 39.266507,
+   :latitude -15.1180325,
+   :source :openstreetmap}
+  {:name "Museu Nacional de Geologia",
+   :longitude 32.5898037,
+   :latitude -25.9755154,
+   :source :openstreetmap,
+   :locality "Maputo"}
+  {:name "Old Military Headquarter",
+   :longitude 31.3308926,
+   :latitude -22.4562897,
+   :source :openstreetmap}
+  {:name "Portuguese Memorial",
+   :longitude 33.3461781,
+   :latitude -24.6642629,
+   :source :openstreetmap}
+  {:name "Posto Zongone",
+   :longitude 33.484816,
+   :latitude -25.1516908,
+   :source :openstreetmap}
+  {:name "Rock art",
+   :longitude 32.8475198,
+   :latitude -18.9659275,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

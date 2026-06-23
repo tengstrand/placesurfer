@@ -1,0 +1,1164 @@
+{:count 251,
+ :country "malaysia",
+ :country-code "MY",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:33.516877Z",
+ :positions
+ [{:name "3D Art",
+   :longitude 99.672048,
+   :latitude 6.3721578,
+   :source :openstreetmap}
+  {:name "A Place Where - APW",
+   :longitude 101.6740792,
+   :latitude 3.1242885,
+   :source :openstreetmap,
+   :homepage "https://apw.my/"}
+  {:name "A+ Works of Art",
+   :longitude 101.6925987,
+   :latitude 3.1811727,
+   :source :openstreetmap,
+   :homepage "https://linktr.ee/aplusart"}
+  {:name "Akash Classics Malaysia",
+   :longitude 101.11216,
+   :latitude 4.6031852,
+   :source :openstreetmap}
+  {:name "Alter /  Space Gallery & Studio",
+   :longitude 113.9763577,
+   :latitude 4.3787047,
+   :source :openstreetmap,
+   :locality "Miri"}
+  {:name "Art & Garden",
+   :longitude 100.2149436,
+   :latitude 5.4145675,
+   :source :openstreetmap}
+  {:name "Art Center",
+   :longitude 103.0876587,
+   :latitude 1.855177,
+   :source :openstreetmap}
+  {:name "Arts Workshop",
+   :longitude 116.1069318,
+   :latitude 5.9914192,
+   :source :openstreetmap}
+  {:name "ArtSense Studio",
+   :longitude 101.5428997,
+   :latitude 2.945414,
+   :source :openstreetmap,
+   :homepage "https://artsense.com.my/",
+   :locality "Teluk Panglima Garang"}
+  {:name "Asia Culture Education Centre",
+   :longitude 103.7468542,
+   :latitude 1.5738099,
+   :source :openstreetmap}
+  {:name "B01 Muzium & Galeri Tengku Fauziah",
+   :longitude 100.3067369,
+   :latitude 5.3608533,
+   :source :openstreetmap}
+  {:name "Balai Seni Lukis Kelantan",
+   :longitude 102.2381946,
+   :latitude 6.1243485,
+   :source :openstreetmap}
+  {:name "Balai Seni Negara Langkawi",
+   :longitude 99.8351764,
+   :latitude 6.3255985,
+   :source :openstreetmap}
+  {:name "Balai Seni Negeri",
+   :longitude 100.3655806,
+   :latitude 6.118785,
+   :source :openstreetmap}
+  {:name "Balai Seni Sasaran",
+   :longitude 101.306944,
+   :latitude 3.2596261,
+   :source :openstreetmap}
+  {:name "Balai Seni Visual Negara",
+   :longitude 101.7050833,
+   :latitude 3.1737611,
+   :source :openstreetmap,
+   :homepage "https://www.artgallery.gov.my/"}
+  {:name "Batik Painting Museum Penang",
+   :longitude 100.3377524,
+   :latitude 5.4147404,
+   :source :openstreetmap,
+   :homepage "https://asiacameramuseum.com/"}
+  {:name "Beautiful Terengganu",
+   :longitude 102.7177594,
+   :latitude 5.9177889,
+   :source :openstreetmap}
+  {:name "Believe 5D Art Museum",
+   :longitude 99.8561662,
+   :latitude 6.3113443,
+   :source :openstreetmap}
+  {:name "Beryl's",
+   :longitude 101.7115821,
+   :latitude 3.0206079,
+   :source :openstreetmap}
+  {:name "Camera Museum",
+   :longitude 100.3357532,
+   :latitude 5.4198765,
+   :source :openstreetmap,
+   :homepage "http://www.thecameramuseumpenang.com"}
+  {:name "Century ART Gallery",
+   :longitude 114.0072203,
+   :latitude 4.4165383,
+   :source :openstreetmap,
+   :locality "Miri"}
+  {:name "Chan Lok Hung Commemorative Hall",
+   :longitude 101.7201924,
+   :latitude 3.1975287,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/CLHMFKLMY/",
+   :locality "Kuala Lumpur"}
+  {:name "Cherating Sea Turtle Sanctuary",
+   :longitude 103.4088509,
+   :latitude 4.1496257,
+   :source :openstreetmap}
+  {:name "Chimney Museum",
+   :longitude 115.2486157,
+   :latitude 5.3811663,
+   :source :openstreetmap,
+   :homepage "https://www.jmm.gov.my/en/museum/chimney-museum"}
+  {:name "Chinese History Museum",
+   :longitude 110.3487511,
+   :latitude 1.5576861,
+   :source :openstreetmap,
+   :homepage "https://www.brookegallery.org/"}
+  {:name "Chun May Treding Co. 精美画框",
+   :longitude 100.4444333,
+   :latitude 5.3618961,
+   :source :openstreetmap}
+  {:name "Classical Art Centre",
+   :longitude 100.3086309,
+   :latitude 5.4034286,
+   :source :openstreetmap}
+  {:name "Colonial Penang Museum",
+   :longitude 100.306151,
+   :latitude 5.4289008,
+   :source :openstreetmap,
+   :locality "George Town"}
+  {:name "Commemorative Pavilion",
+   :longitude 118.0471668,
+   :latitude 5.8885952,
+   :source :openstreetmap}
+  {:name "Core Design Gallery",
+   :longitude 101.5898622,
+   :latitude 3.0815659,
+   :source :openstreetmap,
+   :homepage "https://corecontemporaryart.com/"}
+  {:name "Drongo House",
+   :longitude 117.9433394,
+   :latitude 5.8710828,
+   :source :openstreetmap}
+  {:name "EL Wajar Art",
+   :longitude 114.00812,
+   :latitude 4.4262208,
+   :source :openstreetmap,
+   :locality "Miri"}
+  {:name "Faizy Crystal Glass Blowing",
+   :longitude 99.7803027,
+   :latitude 6.4203345,
+   :source :openstreetmap}
+  {:name "Fo Guang Yuan Art Gallery Dong Chan Branch",
+   :longitude 101.491367,
+   :latitude 2.8691678,
+   :source :openstreetmap,
+   :homepage "https://www.fgs.org.my/fo-guang-yuan-art-gallery/"}
+  {:name "Forest Research Institute Malaysia Museum",
+   :longitude 101.6343457,
+   :latitude 3.2354397,
+   :source :openstreetmap}
+  {:name "Forestry Museum",
+   :longitude 100.2171091,
+   :latitude 5.4464666,
+   :source :openstreetmap}
+  {:name "Fort Alice",
+   :longitude 111.4618339,
+   :latitude 1.2397781,
+   :source :openstreetmap}
+  {:name "Galeri Arkeologi Lembah Lenggong",
+   :longitude 100.9738969,
+   :latitude 5.0549369,
+   :source :openstreetmap}
+  {:name "Galeri Azman Hashim UMS",
+   :longitude 116.1136346,
+   :latitude 6.0416379,
+   :source :openstreetmap}
+  {:name "Galeri Budi",
+   :longitude 101.6963397,
+   :latitude 3.155541,
+   :source :openstreetmap}
+  {:name "Galeri Darurat Bukit Kepong",
+   :longitude 102.8297824,
+   :latitude 2.3468679,
+   :source :openstreetmap}
+  {:name "Galeri Diraja Sultan Abdul Aziz",
+   :longitude 101.4492406,
+   :latitude 3.0412722,
+   :source :openstreetmap,
+   :locality "Klang"}
+  {:name "Galeri DiRaja Tuanku Ja'afar",
+   :longitude 101.9460239,
+   :latitude 2.7251043,
+   :source :openstreetmap,
+   :locality "Seremban"}
+  {:name "Galeri Interaktif NRE",
+   :longitude 101.7024185,
+   :latitude 3.1500612,
+   :source :openstreetmap}
+  {:name "Galeri Lenggong Geopark",
+   :longitude 100.9651166,
+   :latitude 5.0534275,
+   :source :openstreetmap}
+  {:name "Galeri Padi Sekinchan",
+   :longitude 101.1291425,
+   :latitude 3.5199813,
+   :source :openstreetmap,
+   :locality "Sekinchan"}
+  {:name "Galeri Penjara Ayer Molek",
+   :longitude 103.756776,
+   :latitude 1.4631756,
+   :source :openstreetmap}
+  {:name "Galeri Petronas",
+   :longitude 101.7120305,
+   :latitude 3.1579451,
+   :source :openstreetmap,
+   :homepage "http://www.galeripetronas.com.my/Pages/Current.aspx"}
+  {:name "Galeri Puo",
+   :longitude 101.1249075,
+   :latitude 4.5874428,
+   :source :openstreetmap}
+  {:name "Galeri Rundingan Baling",
+   :longitude 100.9221398,
+   :latitude 5.6726865,
+   :source :openstreetmap}
+  {:name "Galeri Sate",
+   :longitude 101.7847977,
+   :latitude 2.9945961,
+   :source :openstreetmap}
+  {:name "Galeri Seni dan Sejarah Kuala Kubu Bharu",
+   :longitude 101.6558972,
+   :latitude 3.5660387,
+   :source :openstreetmap,
+   :homepage "https://peskubu.org/lokasi-galeri-sejarah/"}
+  {:name "Galeri Seni N&G Cawangan Taiping",
+   :longitude 100.7386771,
+   :latitude 4.8484405,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/NnG.Art"}
+  {:name "Galeri Seri Negara",
+   :longitude 101.6819632,
+   :latitude 3.1417959,
+   :source :openstreetmap,
+   :homepage "https://serinegara.com.my/"}
+  {:name "Galeri Sultan Azlan Shah",
+   :longitude 100.9482084,
+   :latitude 4.766341,
+   :source :openstreetmap,
+   :homepage "http://gsas.perak.gov.my/"}
+  {:name "Galeri Tenun Bandar",
+   :longitude 103.322304,
+   :latitude 3.8037419,
+   :source :openstreetmap}
+  {:name "Galeri Warisan Fuzhou Dunia",
+   :longitude 111.8651163,
+   :latitude 2.2637754,
+   :source :openstreetmap,
+   :homepage "https://www.worldfuzhou.org/zread2.php?p=120"}
+  {:name "Galeri Warisan Portugis",
+   :longitude 102.2665499,
+   :latitude 2.1839597,
+   :source :openstreetmap}
+  {:name "Galeri Warisan Semporna",
+   :longitude 118.611253,
+   :latitude 4.4786244,
+   :source :openstreetmap}
+  {:name "Galeria Perdana",
+   :longitude 99.8541702,
+   :latitude 6.4024354,
+   :source :openstreetmap,
+   :homepage "http://www.jmm.gov.my/en/museum/galeria-perdana"}
+  {:name "Galeria Sri Perdana",
+   :longitude 101.6741826,
+   :latitude 3.1444044,
+   :source :openstreetmap,
+   :homepage
+   "https://www.arkib.gov.my/en/web/guest/galeria-sri-perdana"}
+  {:name "Gallery KEV",
+   :longitude 101.3248622,
+   :latitude 3.1157434,
+   :source :openstreetmap}
+  {:name "Geological Museum Ipoh",
+   :longitude 101.1193626,
+   :latitude 4.597758,
+   :source :openstreetmap}
+  {:name "Global Art",
+   :longitude 114.0157469,
+   :latitude 4.4195505,
+   :source :openstreetmap,
+   :homepage "https://malaysia.globalart.world/",
+   :locality "Miri"}
+  {:name "Global Art",
+   :longitude 101.6111941,
+   :latitude 2.9795559,
+   :source :openstreetmap,
+   :homepage "https://malaysia.globalart.world/"}
+  {:name "globalart",
+   :longitude 100.4764467,
+   :latitude 5.3171073,
+   :source :openstreetmap}
+  {:name "Globalart",
+   :longitude 100.3987837,
+   :latitude 5.3959219,
+   :source :openstreetmap}
+  {:name "Globalart",
+   :longitude 101.6163837,
+   :latitude 3.0137151,
+   :source :openstreetmap}
+  {:name "Gopeng Museum",
+   :longitude 101.1668145,
+   :latitude 4.4739699,
+   :source :openstreetmap}
+  {:name "Hakka Culture Museum",
+   :longitude 103.1304588,
+   :latitude 2.2957586,
+   :source :openstreetmap,
+   :homepage
+   "https://cn.tripadvisor.com/Attraction_Review-g676310-d16844070-Reviews-Hakka_Heritage_Gallery-Bekok_Segamat_District_Johor.html"}
+  {:name "Heartana Culture Hub",
+   :longitude 101.6301474,
+   :latitude 3.1371954,
+   :source :openstreetmap}
+  {:name "Herbarium",
+   :longitude 101.6869418,
+   :latitude 3.1468405,
+   :source :openstreetmap}
+  {:name "Hin Bus Depot Art Center",
+   :longitude 100.3277415,
+   :latitude 5.412056,
+   :source :openstreetmap,
+   :homepage "https://hinbusdepot.com/index.html",
+   :locality "George Town"}
+  {:name "House of bees",
+   :longitude 101.8669027,
+   :latitude 3.6762761,
+   :source :openstreetmap,
+   :homepage "https://www.melipoly.com/"}
+  {:name "ILHAM Gallery",
+   :longitude 101.7188203,
+   :latitude 3.1591109,
+   :source :openstreetmap,
+   :homepage "https://www.ilhamgallery.com/"}
+  {:name "Immersify Kuala Lumpur",
+   :longitude 101.7089805,
+   :latitude 3.1399242,
+   :source :openstreetmap,
+   :homepage "https://immersifykl.com/",
+   :locality "Kuala Lumpur"}
+  {:name "Indian Heritage Museum",
+   :longitude 100.3040368,
+   :latitude 5.4212438,
+   :source :openstreetmap}
+  {:name "Istana Besar",
+   :longitude 103.7564384,
+   :latitude 1.4550447,
+   :source :openstreetmap,
+   :locality "Johor Bahru"}
+  {:name "Istana Puteri Bongsu",
+   :longitude 101.7662922,
+   :latitude 2.9239652,
+   :source :openstreetmap}
+  {:name "Jabatan Kebudayaan dan Kesenian Negeri Kelantan",
+   :longitude 102.2529037,
+   :latitude 6.1447649,
+   :source :openstreetmap}
+  {:name "Jadi Batik Gallery",
+   :longitude 101.7190427,
+   :latitude 3.1457108,
+   :source :openstreetmap,
+   :homepage "https://www.jadibatek.com/"}
+  {:name "Jeff’s Art Deco",
+   :longitude 100.3278646,
+   :latitude 5.4165078,
+   :source :openstreetmap,
+   :homepage "https://www.techdomepenang.org/"}
+  {:name "Jetty 35",
+   :longitude 100.3407727,
+   :latitude 5.4141159,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/adjetty35/"}
+  {:name "Johor Bahru Chinese Heritage Museum",
+   :longitude 103.7632774,
+   :latitude 1.4560242,
+   :source :openstreetmap,
+   :locality "Johor Bahru"}
+  {:name "Johor Lama Museum",
+   :longitude 104.0174991,
+   :latitude 1.5804784,
+   :source :openstreetmap}
+  {:name "k7 Melaka Art Gallery",
+   :longitude 102.2424913,
+   :latitude 2.2087401,
+   :source :openstreetmap}
+  {:name "Kampung Budaya Sarawak",
+   :longitude 110.3169747,
+   :latitude 1.7497137,
+   :source :openstreetmap}
+  {:name "Kedai Bunga Romance Flower",
+   :longitude 103.784143,
+   :latitude 1.5202512,
+   :source :openstreetmap}
+  {:name "Kipandi Butterfly Park",
+   :longitude 116.250512,
+   :latitude 5.871446,
+   :source :openstreetmap,
+   :homepage
+   "https://sabahtourism.com/destination/kipandi-butterfly-park/"}
+  {:name "Kite Museum Pasir Gudang",
+   :longitude 103.9060608,
+   :latitude 1.4740442,
+   :source :openstreetmap}
+  {:name "Koloni Karyawan Amanjaya (PORT)",
+   :longitude 101.1077092,
+   :latitude 4.5811802,
+   :source :openstreetmap}
+  {:name "Kompleks Galeri Mat Kilau",
+   :longitude 102.4533092,
+   :latitude 3.9032147,
+   :source :openstreetmap}
+  {:name "Kompleks Kraf Melaka",
+   :longitude 102.3046861,
+   :latitude 2.2857386,
+   :source :openstreetmap}
+  {:name "Kompleks Sejarah Pasir Salak",
+   :longitude 100.9472327,
+   :latitude 4.1728656,
+   :source :openstreetmap,
+   :locality "Kampong Gajah"}
+  {:name "Kompleks Taman Seni Islam Selangor",
+   :longitude 101.5227827,
+   :latitude 3.0811975,
+   :source :openstreetmap,
+   :locality "Shah Alam"}
+  {:name "Kompleks Tuanku Nur Zahirah",
+   :longitude 103.0989034,
+   :latitude 5.3307867,
+   :source :openstreetmap}
+  {:name "Koo S Art Gallery",
+   :longitude 101.1110938,
+   :latitude 4.6113892,
+   :source :openstreetmap}
+  {:name "Koridor Sejarah",
+   :longitude 101.6208529,
+   :latitude 3.0865896,
+   :source :openstreetmap}
+  {:name "Kota Kayang Museum",
+   :longitude 100.1487784,
+   :latitude 6.4157924,
+   :source :openstreetmap,
+   :homepage "http://www.jmm.gov.my/en/museum/kota-kayang-museum"}
+  {:name "Kota Ngah Ibrahim",
+   :longitude 100.6756074,
+   :latitude 4.8123686,
+   :source :openstreetmap}
+  {:name "Kuala Lumpur City Gallery",
+   :longitude 101.693407,
+   :latitude 3.1472239,
+   :source :openstreetmap,
+   :homepage "http://www.klcitygallery.com.my/"}
+  {:name "Kwong Siew Heritage Gallery",
+   :longitude 103.7662649,
+   :latitude 1.4590751,
+   :source :openstreetmap}
+  {:name "Labuan Museum",
+   :longitude 115.2453498,
+   :latitude 5.2769357,
+   :source :openstreetmap}
+  {:name "Lakeside Pavilion",
+   :longitude 117.9443771,
+   :latitude 5.8760283,
+   :source :openstreetmap}
+  {:name "Laman Padi Langkawi",
+   :longitude 99.7223875,
+   :latitude 6.2985829,
+   :source :openstreetmap}
+  {:name "Langkawi Geopark Discovery Centre",
+   :longitude 99.8576696,
+   :latitude 6.4048356,
+   :source :openstreetmap,
+   :homepage "https://langkawigeopark.com.my/discovery-centre/"}
+  {:name "Lau King Howe Hospital Museum",
+   :longitude 111.8219721,
+   :latitude 2.2911753,
+   :source :openstreetmap}
+  {:name "Lin Xiang Xiong Art Gallery",
+   :longitude 100.319275,
+   :latitude 5.3765583,
+   :source :openstreetmap}
+  {:name "Lingzhi Museum",
+   :longitude 116.0694686,
+   :latitude 5.9212542,
+   :source :openstreetmap}
+  {:name "Lostgens' Contemporary Art Space (Findars)",
+   :longitude 101.6972314,
+   :latitude 3.1418599,
+   :source :openstreetmap,
+   :homepage "https://lostgens.org/"}
+  {:name "Malacca Stories Hall",
+   :longitude 102.2465301,
+   :latitude 2.2008848,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/MalaccaStoriesHall/"}
+  {:name "Malaysia Chocolate Museum",
+   :longitude 101.568956,
+   :latitude 3.155743,
+   :source :openstreetmap}
+  {:name "Mari Mari Cultural Village",
+   :longitude 116.2038427,
+   :latitude 5.9737112,
+   :source :openstreetmap,
+   :homepage "https://www.marimariculturalvillage.my/",
+   :locality "Kota Kinabalu"}
+  {:name "Memorial Lim Lian Geok",
+   :longitude 101.7012022,
+   :latitude 3.1370454,
+   :source :openstreetmap,
+   :homepage "https://llgcultural.com/memorialllg/",
+   :locality "Kuala Lumpur"}
+  {:name "Methodist Heritage Gallery Sibu",
+   :longitude 111.7984624,
+   :latitude 2.2492143,
+   :source :openstreetmap}
+  {:name "Miri Petroleum Science Museum",
+   :longitude 113.9949518,
+   :latitude 4.3893648,
+   :source :openstreetmap,
+   :homepage
+   "https://museum.sarawak.gov.my/web/subpage/webpage_view/97",
+   :locality "Miri"}
+  {:name "MS Marvelous Studio",
+   :longitude 101.6215121,
+   :latitude 3.0451214,
+   :source :openstreetmap}
+  {:name "Museum Bugis",
+   :longitude 103.4118507,
+   :latitude 1.4281571,
+   :source :openstreetmap}
+  {:name "museum marudi",
+   :longitude 114.3241246,
+   :latitude 4.1771508,
+   :source :openstreetmap}
+  {:name "Museum of Contemporary Art (MOCA)",
+   :longitude 103.3260787,
+   :latitude 3.8079912,
+   :source :openstreetmap}
+  {:name "Museum Tanahsahi (Entomology Meseum . Art and Culture)",
+   :longitude 101.1350575,
+   :latitude 4.5185542,
+   :source :openstreetmap,
+   :locality "Kampung Kepayang"}
+  {:name "Muzium Adat",
+   :longitude 102.0710413,
+   :latitude 2.9376664,
+   :source :openstreetmap}
+  {:name "Muzium Agop Batu Tulug.",
+   :longitude 117.9424088,
+   :latitude 5.4157015,
+   :source :openstreetmap}
+  {:name "Muzium Antanom",
+   :longitude 115.9427009,
+   :latitude 5.1220152,
+   :source :openstreetmap}
+  {:name "Muzium Arkeologi Lembah Bujang",
+   :longitude 100.4144826,
+   :latitude 5.7380819,
+   :source :openstreetmap}
+  {:name "Muzium Automobil Nasional",
+   :longitude 101.7316862,
+   :latitude 2.7593191,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jmm.gov.my/en/museum/national-automobile-museum"}
+  {:name "Muzium Beruas",
+   :longitude 100.7801462,
+   :latitude 4.5012171,
+   :source :openstreetmap,
+   :locality "Beruas"}
+  {:name "Muzium Bioperubatan",
+   :longitude 101.6988085,
+   :latitude 3.1683416,
+   :source :openstreetmap}
+  {:name "Muzium Bukit Besi",
+   :longitude 103.184512,
+   :latitude 4.7570171,
+   :source :openstreetmap,
+   :homepage
+   "https://tourism.ketengah.gov.my/history-and-heritage/muzium-bukit-besi/show"}
+  {:name "Muzium Cina Malaysia",
+   :longitude 101.7262698,
+   :latitude 3.004765,
+   :source :openstreetmap}
+  {:name "Muzium Daerah Dungun",
+   :longitude 103.4209054,
+   :latitude 4.7678863,
+   :source :openstreetmap}
+  {:name "Muzium dan Galeri Seni Bank Negara Malaysia",
+   :longitude 101.6907149,
+   :latitude 3.1573789,
+   :source :openstreetmap,
+   :homepage "https://museum.bnm.gov.my/"}
+  {:name "Muzium Darul Ridzuan",
+   :longitude 101.0780409,
+   :latitude 4.6045255,
+   :source :openstreetmap}
+  {:name "Muzium Diraja",
+   :longitude 101.6958886,
+   :latitude 3.1325443,
+   :source :openstreetmap,
+   :homepage "https://www.jmm.gov.my/ms/muzium/muzium-diraja",
+   :locality "Kuala Lumpur"}
+  {:name "Muzium DiRaja Istana Lama Seri Menanti",
+   :longitude 102.1571345,
+   :latitude 2.6979566,
+   :source :openstreetmap}
+  {:name "Muzium Diraja Perak",
+   :longitude 100.9557598,
+   :latitude 4.7602391,
+   :source :openstreetmap,
+   :locality "Kuala Kangsar"}
+  {:name "Muzium Geologi",
+   :longitude 101.6524093,
+   :latitude 3.1222885,
+   :source :openstreetmap}
+  {:name "Muzium Ibrahim Hussein",
+   :longitude 99.7278284,
+   :latitude 6.4302736,
+   :source :openstreetmap}
+  {:name "Muzium Insitu Jugra",
+   :longitude 101.4127741,
+   :latitude 2.8359391,
+   :source :openstreetmap}
+  {:name "Muzium Islam",
+   :longitude 102.2361172,
+   :latitude 6.1319463,
+   :source :openstreetmap}
+  {:name "Muzium Kapal Selam",
+   :longitude 102.1972863,
+   :latitude 2.2110072,
+   :source :openstreetmap,
+   :homepage "https://www.perzim.gov.my/"}
+  {:name "Muzium Kapit",
+   :longitude 112.9426639,
+   :latitude 2.0154939,
+   :source :openstreetmap}
+  {:name "Muzium Kecantikan",
+   :longitude 102.249167,
+   :latitude 2.1916483,
+   :source :openstreetmap}
+  {:name "Muzium Kemaman",
+   :longitude 103.427578,
+   :latitude 4.2315725,
+   :source :openstreetmap}
+  {:name "Muzium Kota Kuala Kedah",
+   :longitude 100.2873058,
+   :latitude 6.108947,
+   :source :openstreetmap}
+  {:name "Muzium Kota Lukut",
+   :longitude 101.8227892,
+   :latitude 2.5681508,
+   :source :openstreetmap,
+   :locality "Port Dickson"}
+  {:name "Muzium Kota Tinggi",
+   :longitude 103.9122258,
+   :latitude 1.7373305,
+   :source :openstreetmap,
+   :homepage "https://ywj.gov.my/"}
+  {:name "Muzium Kraf Kuala Lumpur",
+   :longitude 101.7187125,
+   :latitude 3.1489264,
+   :source :openstreetmap}
+  {:name "Muzium Kucing",
+   :longitude 110.3340284,
+   :latitude 1.5866837,
+   :source :openstreetmap}
+  {:name "Muzium Mempelam Kedah",
+   :longitude 100.4011559,
+   :latitude 5.9683467,
+   :source :openstreetmap}
+  {:name "Muzium Nanas",
+   :longitude 103.4467965,
+   :latitude 1.5073057,
+   :source :openstreetmap}
+  {:name "Muzium Negara",
+   :longitude 101.687381,
+   :latitude 3.137709,
+   :source :openstreetmap,
+   :homepage "https://www.muziumnegara.gov.my/",
+   :locality "Kuala Lumpur"}
+  {:name "Muzium Negeri Kedah Darul Aman",
+   :longitude 100.3688871,
+   :latitude 6.1356088,
+   :source :openstreetmap}
+  {:name "Muzium Negeri Terengganu",
+   :longitude 103.1021128,
+   :latitude 5.3185729,
+   :source :openstreetmap}
+  {:name "Muzium Nelayan",
+   :longitude 104.2579109,
+   :latitude 1.6147754,
+   :source :openstreetmap}
+  {:name "Muzium Orang Asli",
+   :longitude 101.8433711,
+   :latitude 5.6955247,
+   :source :openstreetmap}
+  {:name "Muzium Orang Asli Gombak",
+   :longitude 101.7320691,
+   :latitude 3.2943888,
+   :source :openstreetmap}
+  {:name "Muzium Padi",
+   :longitude 100.3259608,
+   :latitude 6.1913656,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziumkedah.gov.my/index.php/rangkaian/muzium-padi"}
+  {:name "Muzium Pengurusan UUM",
+   :longitude 100.5055824,
+   :latitude 6.4613495,
+   :source :openstreetmap}
+  {:name "Muzium Penjara Malaysia",
+   :longitude 102.2628098,
+   :latitude 2.1883991,
+   :source :openstreetmap}
+  {:name "Muzium Perak",
+   :longitude 100.7453221,
+   :latitude 4.860467,
+   :source :openstreetmap,
+   :locality "Taiping"}
+  {:name "Muzium Perang Penang",
+   :longitude 100.2889311,
+   :latitude 5.2812421,
+   :source :openstreetmap}
+  {:name "Muzium Perhutanan Gunung Jerai",
+   :longitude 100.4351582,
+   :latitude 5.8058269,
+   :source :openstreetmap}
+  {:name "Muzium Perlombongan Bijih Timah Kinta",
+   :longitude 101.1465162,
+   :latitude 4.3258987,
+   :source :openstreetmap}
+  {:name "Muzium Permainan Tradisional Rakyat",
+   :longitude 101.2461813,
+   :latitude 3.3406439,
+   :source :openstreetmap,
+   :homepage
+   "https://www.facebook.com/pages/Muzium-Sejarah-Daerah-Kuala-Selangor/334508276564563?ref=profile"}
+  {:name "Muzium Petaling Jaya",
+   :longitude 101.6503601,
+   :latitude 3.1053254,
+   :source :openstreetmap}
+  {:name "Muzium Polis Diraja Malaysia",
+   :longitude 101.6889136,
+   :latitude 3.1409386,
+   :source :openstreetmap,
+   :homepage "https://www.planetariumnegara.gov.my/",
+   :locality "Kuala Lumpur"}
+  {:name "Muzium Pulau Besar",
+   :longitude 102.3333961,
+   :latitude 2.1136477,
+   :source :openstreetmap}
+  {:name "Muzium RTM",
+   :longitude 101.6707053,
+   :latitude 3.1128638,
+   :source :openstreetmap}
+  {:name "Muzium Sarawak",
+   :longitude 110.3434605,
+   :latitude 1.5548004,
+   :source :openstreetmap,
+   :homepage
+   "https://museum.sarawak.gov.my/page-0-209-169-Borneo-Cultures-Museum.html"}
+  {:name "Muzium Seni Asia",
+   :longitude 101.6531754,
+   :latitude 3.1181972,
+   :source :openstreetmap,
+   :homepage "http://www.museum.um.edu.my/"}
+  {:name "Muzium Sultan Abu Bakar",
+   :longitude 103.3903544,
+   :latitude 3.4940172,
+   :source :openstreetmap,
+   :locality "Pekan"}
+  {:name "Muzium Tawau",
+   :longitude 117.8840751,
+   :latitude 4.2555842,
+   :source :openstreetmap}
+  {:name "Muzium Telekom",
+   :longitude 101.699278,
+   :latitude 3.149046,
+   :source :openstreetmap,
+   :locality "Kuala Lumpur"}
+  {:name "Muzium Tentera Darat",
+   :longitude 101.8480553,
+   :latitude 2.4968002,
+   :source :openstreetmap,
+   :locality "Port Dickson"}
+  {:name "Muzium Terusan Wan Mat Saman",
+   :longitude 100.4666792,
+   :latitude 5.84296,
+   :source :openstreetmap}
+  {:name "Muzium Tokoh Johor",
+   :longitude 103.7654071,
+   :latitude 1.4722561,
+   :source :openstreetmap,
+   :homepage "https://www.ywj.gov.my/muzium-tokoh-johor/",
+   :locality "Johor Bahru"}
+  {:name "Muzium Tun Mustapha",
+   :longitude 116.8560722,
+   :latitude 6.8861232,
+   :source :openstreetmap,
+   :homepage "https://museum.sabah.gov.my/exhibition/95"}
+  {:name "Muzium Tun Sakaran",
+   :longitude 118.6036442,
+   :latitude 4.4758616,
+   :source :openstreetmap,
+   :homepage
+   "https://sabahtourism.com/destination/tun-sakaran-museum/"}
+  {:name "Muzium UiTM & Galeri Seni",
+   :longitude 101.5059245,
+   :latitude 3.0658637,
+   :source :openstreetmap,
+   :locality "Shah Alam"}
+  {:name "Muzium Warisan Baba Dan Nyonya",
+   :longitude 102.2467247,
+   :latitude 2.1953339,
+   :source :openstreetmap,
+   :homepage "https://www.babanyonyamuseum.com/"}
+  {:name "Muzium Warisan Keningau",
+   :longitude 116.157916,
+   :latitude 5.3455842,
+   :source :openstreetmap}
+  {:name "Muzium Wau Kite",
+   :longitude 102.1266054,
+   :latitude 6.2156727,
+   :source :openstreetmap}
+  {:name "My Art Studio",
+   :longitude 114.018312,
+   :latitude 4.4481789,
+   :source :openstreetmap,
+   :homepage "https://www.myartstudio.com.my/",
+   :locality "Miri"}
+  {:name "My Art Studio",
+   :longitude 114.0109241,
+   :latitude 4.4156232,
+   :source :openstreetmap,
+   :homepage "https://www.myartstudio.com.my/",
+   :locality "Miri"}
+  {:name "One Art Gallery",
+   :longitude 100.7313525,
+   :latitude 4.8655543,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/profile.php?id=61576978986863"}
+  {:name "Oriental Art & Cultural Center",
+   :longitude 101.6707926,
+   :latitude 3.084761,
+   :source :openstreetmap,
+   :homepage "https://www.oacc.my/"}
+  {:name "Pakat Studio",
+   :longitude 113.9806338,
+   :latitude 4.3722329,
+   :source :openstreetmap,
+   :homepage "https://www.pakat.org/",
+   :locality "Miri"}
+  {:name "Panggung Seni",
+   :longitude 101.7790504,
+   :latitude 2.9309303,
+   :source :openstreetmap}
+  {:name "Penang Bee Gallery",
+   :longitude 100.2943313,
+   :latitude 5.4351155,
+   :source :openstreetmap}
+  {:name "Penang Heritage Gallery",
+   :longitude 100.3312583,
+   :latitude 5.4219671,
+   :source :openstreetmap}
+  {:name "Penang Toy Museum",
+   :longitude 100.2156763,
+   :latitude 5.4568917,
+   :source :openstreetmap}
+  {:name "Perbadanan Kemajuan Kraftangan Malaysia",
+   :longitude 100.1690654,
+   :latitude 6.395441,
+   :source :openstreetmap}
+  {:name "Persatuan Kebudayaan Hakka Negeri Sembilan",
+   :longitude 101.9377564,
+   :latitude 2.7336193,
+   :source :openstreetmap,
+   :homepage
+   "https://www.facebook.com/MalaysianHakkaCulturalSocietyNS/"}
+  {:name "Persatuan Peminat Lukisan Dan Kaligrafi Sim",
+   :longitude 102.2564757,
+   :latitude 2.1945773,
+   :source :openstreetmap,
+   :homepage "https://smymuseum.org.my/",
+   :locality "Melaka"}
+  {:name "Petrosains Playsmart Kuantan",
+   :longitude 103.3210723,
+   :latitude 3.7964686,
+   :source :openstreetmap}
+  {:name "PG Gold Museum",
+   :longitude 100.339951,
+   :latitude 5.4195597,
+   :source :openstreetmap,
+   :homepage "https://3d.penangtrickart.com/",
+   :locality "George Town"}
+  {:name "Pioneers Of Kuala Lumpur Museum",
+   :longitude 101.6965517,
+   :latitude 3.1456189,
+   :source :openstreetmap,
+   :homepage
+   "https://www.facebook.com/p/%E5%90%89%E9%9A%86%E5%9D%A1%E5%B8%88%E7%88%B7%E5%BA%99%E6%8B%93%E8%8D%92%E5%8D%9A%E7%89%A9%E9%A6%86-Sin-Sze-Si-Ya-Temple-Pioneers-of-Kuala-Lumpur-Museum-100090781340904/"}
+  {:name "Purple Houz",
+   :longitude 101.6535501,
+   :latitude 3.1018361,
+   :source :openstreetmap}
+  {:name "Pusat Kesenian Kampung Attap",
+   :longitude 101.6969659,
+   :latitude 3.1375999,
+   :source :openstreetmap,
+   :homepage
+   "https://mytkkf.com.my/cn/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%99%88%E5%98%89%E5%BA%9A%E7%BA%AA%E5%BF%B5%E9%A6%86/"}
+  {:name "Pusat Kraftangan Sabah",
+   :longitude 116.1845447,
+   :latitude 5.3693915,
+   :source :openstreetmap}
+  {:name "Pusat Kreatif Kanak-kanak Tuanku Bainun",
+   :longitude 101.6321937,
+   :latitude 3.1413065,
+   :source :openstreetmap,
+   :homepage "https://www.pkktuankubainun.com",
+   :locality "Kuala Lumpur"}
+  {:name "Pusat Pembangunan Siswa USM",
+   :longitude 100.497485,
+   :latitude 5.1492925,
+   :source :openstreetmap,
+   :locality "Nibong Tebal"}
+  {:name "Pusat Sains Negara",
+   :longitude 101.64485,
+   :latitude 3.1494931,
+   :source :openstreetmap,
+   :homepage "https://www.psn.gov.my/"}
+  {:name "Replica Royal Palace Melawar",
+   :longitude 102.115296,
+   :latitude 2.5058607,
+   :source :openstreetmap}
+  {:name "Rumah Agnes Keith",
+   :longitude 118.1155448,
+   :latitude 5.8430507,
+   :source :openstreetmap,
+   :homepage "https://museum.sabah.gov.my/exhibition/72",
+   :locality "Sandakan"}
+  {:name "Rumah Kelahiran & Galeri P. Ramlee",
+   :longitude 100.3135195,
+   :latitude 5.4102675,
+   :source :openstreetmap}
+  {:name "Rumah Sri Aman",
+   :longitude 111.4563552,
+   :latitude 1.2419086,
+   :source :openstreetmap}
+  {:name "Rumah Terbalik Upside Down PD",
+   :longitude 101.8596292,
+   :latitude 2.4463578,
+   :source :openstreetmap,
+   :locality "Port Dickson"}
+  {:name "Sabah Art Gallery",
+   :longitude 116.0817062,
+   :latitude 5.9532758,
+   :source :openstreetmap,
+   :homepage "https://sabahartgallery.com/",
+   :locality "Kota Kinabalu"}
+  {:name "Sabah State Museum & Heritage Village",
+   :longitude 116.0714545,
+   :latitude 5.960551,
+   :source :openstreetmap}
+  {:name "Sabak Bernam Museum",
+   :longitude 100.9842012,
+   :latitude 3.7710079,
+   :source :openstreetmap}
+  {:name "Selangor Culture Cove",
+   :longitude 101.6805706,
+   :latitude 3.2367705,
+   :source :openstreetmap}
+  {:name "SeniKome Péng Hēng East Coast Arts & Cultural Centre",
+   :longitude 101.7946592,
+   :latitude 3.4253371,
+   :source :openstreetmap,
+   :homepage
+   "https://www.rwgenting.com/en/things-to-do/leisure/senikome-peng-heng.html"}
+  {:name "Sibu Heritage Centre",
+   :longitude 111.8281559,
+   :latitude 2.2896295,
+   :source :openstreetmap}
+  {:name "Sitiawan Settlement Museum",
+   :longitude 100.7002074,
+   :latitude 4.1961582,
+   :source :openstreetmap}
+  {:name "Space Art Drawing & Art HQ",
+   :longitude 101.6414336,
+   :latitude 3.1885044,
+   :source :openstreetmap}
+  {:name "Sukha Art",
+   :longitude 114.0306524,
+   :latitude 4.4794675,
+   :source :openstreetmap,
+   :locality "Miri"}
+  {:name "Sun Yat-Sen Memorial Center Penang",
+   :longitude 100.3242019,
+   :latitude 5.4155318,
+   :source :openstreetmap,
+   :locality "George Town"}
+  {:name "Sungai Lembing Museum",
+   :longitude 103.0324427,
+   :latitude 3.9137441,
+   :source :openstreetmap}
+  {:name "Taiping Municipal Gallery",
+   :longitude 100.7412031,
+   :latitude 4.854823,
+   :source :openstreetmap}
+  {:name "Taksu Gallery",
+   :longitude 101.7326832,
+   :latitude 3.1720659,
+   :source :openstreetmap,
+   :homepage "https://www.taksu.com/"}
+  {:name "Taman Seni Budaya Johor",
+   :longitude 103.7452949,
+   :latitude 1.4729698,
+   :source :openstreetmap,
+   :locality "Johor Bahru"}
+  {:name "Tea Museum",
+   :longitude 101.07912,
+   :latitude 4.5963509,
+   :source :openstreetmap,
+   :homepage "https://www.ipohworld.org/reservation/"}
+  {:name "TeddyVille Museum",
+   :longitude 100.2695626,
+   :latitude 5.4770041,
+   :source :openstreetmap}
+  {:name "Telaga Simpul",
+   :longitude 103.453177,
+   :latitude 4.2399665,
+   :source :openstreetmap}
+  {:name "Teratak Perpatih",
+   :longitude 101.9205179,
+   :latitude 2.7177286,
+   :source :openstreetmap}
+  {:name "The Art School",
+   :longitude 114.0008315,
+   :latitude 4.4180161,
+   :source :openstreetmap,
+   :homepage "https://www.instagram.com/theartsschool_miri/",
+   :locality "Miri"}
+  {:name "The Art School",
+   :longitude 114.0015735,
+   :latitude 4.4063474,
+   :source :openstreetmap,
+   :locality "Miri"}
+  {:name "The Borneo House",
+   :longitude 110.3278178,
+   :latitude 1.470055,
+   :source :openstreetmap}
+  {:name "The Heritage Museum",
+   :longitude 102.0502698,
+   :latitude 4.183943,
+   :source :openstreetmap}
+  {:name "The Nanyang Volunteer Drivers & Mechanics Memorial",
+   :longitude 101.6978803,
+   :latitude 3.1238763,
+   :source :openstreetmap}
+  {:name "The Owl Museum",
+   :longitude 100.2688026,
+   :latitude 5.4244791,
+   :source :openstreetmap,
+   :homepage "http://theowlmuseum.com/"}
+  {:name "Time Tunnel Museum",
+   :longitude 101.3952605,
+   :latitude 4.4972912,
+   :source :openstreetmap,
+   :locality "Cameron Highlands"}
+  {:name "Traditional House",
+   :longitude 101.6285376,
+   :latitude 3.2359862,
+   :source :openstreetmap}
+  {:name "Tun Mustapha Gallery",
+   :longitude 116.1096361,
+   :latitude 6.0167974,
+   :source :openstreetmap}
+  {:name "Upside Down House Gallery Melaka",
+   :longitude 102.2457791,
+   :latitude 2.1892597,
+   :source :openstreetmap}
+  {:name "Upside Down Museum",
+   :longitude 100.3336047,
+   :latitude 5.4157586,
+   :source :openstreetmap,
+   :locality "Georgetown"}
+  {:name "Ur-Mu",
+   :longitude 101.7095135,
+   :latitude 3.1475486,
+   :source :openstreetmap,
+   :homepage "https://ur-mu.com/"}
+  {:name "Urban Craft",
+   :longitude 113.9844197,
+   :latitude 4.3933825,
+   :source :openstreetmap,
+   :locality "Miri"}
+  {:name "Wei-Ling Gallery",
+   :longitude 101.691433,
+   :latitude 3.1358904,
+   :source :openstreetmap,
+   :homepage "https://weiling-gallery.com/",
+   :locality "Kuala Lumpur"}
+  {:name "World's Bee Museum",
+   :longitude 102.311448,
+   :latitude 2.3000587,
+   :source :openstreetmap,
+   :locality "Hang Tuah Jaya"}
+  {:name "Yahong Art Gallery",
+   :longitude 100.2457196,
+   :latitude 5.4701631,
+   :source :openstreetmap}
+  {:name "吉隆坡广东义山历史文物馆",
+   :longitude 101.7051578,
+   :latitude 3.1299412,
+   :source :openstreetmap}
+  {:name "新山南方大学学院文物与艺术馆",
+   :longitude 103.6819021,
+   :latitude 1.5336731,
+   :source :openstreetmap,
+   :homepage "https://www.southern.edu.my/zh/mag/"}
+  {:name "森美兰华人文史馆",
+   :longitude 101.9263274,
+   :latitude 2.7277162,
+   :source :openstreetmap,
+   :homepage
+   "https://huatangns.org.my/%e6%a3%ae%e7%be%8e%e5%85%b0%e5%8d%8e%e4%ba%ba%e6%96%87%e5%8f%b2%e9%a6%86/%e6%96%87%e5%8f%b2%e9%a6%86%e7%ae%80%e4%bb%8b/"}
+  {:name "班厝 Rumah Papan Pandamaran",
+   :longitude 101.4181535,
+   :latitude 3.0113441,
+   :source :openstreetmap}
+  {:name "芙蓉泰和堂民俗文化馆",
+   :longitude 101.9392238,
+   :latitude 2.7294853,
+   :source :openstreetmap,
+   :homepage
+   "https://www.facebook.com/p/%E6%B3%B0%E5%92%8C%E5%A0%82%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96%E9%A4%A8-100069921041053/",
+   :locality "Seremban"}
+  {:name "霹雳洞中山文物馆",
+   :longitude 101.0999019,
+   :latitude 4.6436637,
+   :source :openstreetmap,
+   :homepage
+   "https://perak.chinapress.com.my/20230425/%E6%B2%BF%E8%91%97%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%B6%B3%E8%BF%B9%E6%9D%A5%E5%88%B0%E9%9C%B9%E9%9B%B3%E6%B4%9E-%E5%8F%B0%E5%8C%97%E5%9B%BD%E7%AB%8B%E5%9B%BD%E7%88%B6%E7%BA%AA%E5%BF%B5%E9%A6%86%E5%9B%A2/"}
+  {:name "高渊历史文物馆",
+   :longitude 100.4772625,
+   :latitude 5.1657801,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

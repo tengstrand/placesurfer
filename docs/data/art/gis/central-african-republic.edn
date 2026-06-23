@@ -1,0 +1,24 @@
+{:count 3,
+ :country "central-african-republic",
+ :country-code "CF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:06:43.482389Z",
+ :positions
+ [{:name "Centre Culturel Catholique",
+   :longitude 15.7914264,
+   :latitude 4.257895,
+   :source :openstreetmap}
+  {:name "Centre Culturel Catholique",
+   :longitude 15.5009575,
+   :latitude 3.9230409,
+   :source :openstreetmap,
+   :locality "Sosso-Nakombo"}
+  {:name "Musée National Barthélémy Boganda",
+   :longitude 18.5770013,
+   :latitude 4.3640957,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

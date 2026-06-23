@@ -1,0 +1,25 @@
+{:count 2,
+ :country "vatican-city",
+ :country-code "VA",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:34.568286Z",
+ :positions
+ [{:name "Padiglione delle carrozze",
+   :longitude 12.453587,
+   :latitude 41.9053818,
+   :source :openstreetmap,
+   :homepage
+   "https://www.museivaticani.va/content/museivaticani/en.html",
+   :image "",
+   :description ""}
+  {:name "Sacristia",
+   :longitude 12.4538555,
+   :latitude 41.9012399,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

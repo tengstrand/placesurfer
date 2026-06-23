@@ -1,0 +1,106 @@
+{:count 20,
+ :country "angola",
+ :country-code "AO",
+ :dataset :art,
+ :generated-at "2026-05-26T06:00:48.552892Z",
+ :positions
+ [{:name "Casa das Artes",
+   :longitude 13.1950657,
+   :latitude -8.9193385,
+   :source :openstreetmap,
+   :locality "Luanda"}
+  {:name "Casa Museu Óscar Ribas",
+   :longitude 13.2443927,
+   :latitude -8.8153194,
+   :source :openstreetmap,
+   :locality "Luanda"}
+  {:name "Centro Cultural da Huíla",
+   :longitude 13.4978802,
+   :latitude -14.9156694,
+   :source :openstreetmap,
+   :locality "Lubango"}
+  {:name "Centro de Artes Padú",
+   :longitude 13.5161646,
+   :latitude -14.9078635,
+   :source :openstreetmap,
+   :locality "Lalula"}
+  {:name "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL",
+   :longitude 12.1456614,
+   :latitude -15.2072315,
+   :source :openstreetmap,
+   :locality "Moçâmedes"}
+  {:name "Museu da Força Aérea",
+   :longitude 13.2280832,
+   :latitude -8.8487211,
+   :source :openstreetmap}
+  {:name "Museu da Moeda",
+   :longitude 13.2334048,
+   :latitude -8.8108992,
+   :source :openstreetmap,
+   :homepage "https://www.museudamoeda.bna.ao/",
+   :locality "Luanda"}
+  {:name "Museu das Telecomunicações",
+   :longitude 13.2711159,
+   :latitude -8.8181445,
+   :source :openstreetmap}
+  {:name "Museu de Cabinda",
+   :longitude 12.1964312,
+   :latitude -5.5587379,
+   :source :openstreetmap}
+  {:name "Museu de Ciência e Tecnologia da Huíla",
+   :longitude 13.4886878,
+   :latitude -14.9154348,
+   :source :openstreetmap,
+   :locality "Lubango"}
+  {:name "Museu de Geologia Facuan",
+   :longitude 13.2373657,
+   :latitude -8.8089663,
+   :source :openstreetmap,
+   :locality "Luanda"}
+  {:name "Museu Dos Caminhos de Ferro",
+   :longitude 13.5402629,
+   :latitude -12.4309023,
+   :source :openstreetmap}
+  {:name "Museu Municipal",
+   :longitude 15.7390366,
+   :latitude -12.7797142,
+   :source :openstreetmap}
+  {:name "Museu Nacional da Escravatura",
+   :longitude 13.1049569,
+   :latitude -8.9588698,
+   :source :openstreetmap,
+   :locality "Luanda"}
+  {:name "Museu Nacional de Antropologia",
+   :longitude 13.2278019,
+   :latitude -8.8135824,
+   :source :openstreetmap,
+   :locality "Luanda"}
+  {:name "Museu Nacional de Arqueologia",
+   :longitude 13.3969773,
+   :latitude -12.5778403,
+   :source :openstreetmap}
+  {:name "Museu Nacional de História Militar",
+   :longitude 13.2233993,
+   :latitude -8.8091638,
+   :source :openstreetmap,
+   :homepage "https://www.movart.co.ao",
+   :locality "Luanda"}
+  {:name "Museu Regional do Dundo",
+   :longitude 20.8347394,
+   :latitude -7.3788544,
+   :source :openstreetmap}
+  {:name "Museum dos Reis do Kongo",
+   :longitude 14.2468776,
+   :latitude -6.2656409,
+   :source :openstreetmap}
+  {:name
+   "Nossa Senhora da Muxima - Museu Nacional de Historia Natural",
+   :longitude 13.2384618,
+   :latitude -8.8153575,
+   :source :openstreetmap,
+   :locality "Luanda"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

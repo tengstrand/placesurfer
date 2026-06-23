@@ -1,0 +1,129 @@
+{:count 29,
+ :country "guinea",
+ :country-code "GN",
+ :dataset :art,
+ :generated-at "2026-05-26T06:13:32.786778Z",
+ :positions
+ [{:name "Centre Culturel de Dubréka",
+   :longitude -13.5213045,
+   :latitude 9.7903124,
+   :source :openstreetmap}
+  {:name "Centre Culturel Franco-Guinéen",
+   :longitude -13.6894039,
+   :latitude 9.5247475,
+   :source :openstreetmap,
+   :homepage "http://www.ccfg-conakry.org",
+   :locality "Conakry"}
+  {:name "centre culturel Jams Sylla de rogbanet",
+   :longitude -13.8252188,
+   :latitude 9.4837104,
+   :source :openstreetmap}
+  {:name "Foyer des jeunes de Beindou",
+   :longitude -10.0036404,
+   :latitude 9.1003193,
+   :source :openstreetmap}
+  {:name "Foyer des jeunes de dantiliyah",
+   :longitude -10.9503674,
+   :latitude 9.9394055,
+   :source :openstreetmap}
+  {:name "Galerie la fayette",
+   :longitude -13.6440151,
+   :latitude 9.604915,
+   :source :openstreetmap}
+  {:name "Joyce Galerie",
+   :longitude -13.6764917,
+   :latitude 9.5472517,
+   :source :openstreetmap}
+  {:name "les Studios Kira",
+   :longitude -13.6610135,
+   :latitude 9.5685718,
+   :source :openstreetmap}
+  {:name "Maison des jeunes bagadaye",
+   :longitude -14.9933766,
+   :latitude 10.9478418,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de kakignini",
+   :longitude -14.9122109,
+   :latitude 10.8406788,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de kalafmet",
+   :longitude -15.0049259,
+   :latitude 10.9026902,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de kamtchambom",
+   :longitude -15.0367966,
+   :latitude 10.8855913,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de karabath",
+   :longitude -15.0454784,
+   :latitude 10.8914537,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de kasmak",
+   :longitude -14.922631,
+   :latitude 10.9162037,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de katasnom",
+   :longitude -15.0150066,
+   :latitude 10.8463133,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de katchembè",
+   :longitude -15.0400557,
+   :latitude 10.8588019,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de katchék",
+   :longitude -15.0595146,
+   :latitude 10.8871283,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de kayétch",
+   :longitude -15.0298366,
+   :latitude 10.8462448,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de kougha",
+   :longitude -14.9506344,
+   :latitude 10.9070151,
+   :source :openstreetmap}
+  {:name "Maison des jeunes de Mengue",
+   :longitude -13.7575752,
+   :latitude 9.4960707,
+   :source :openstreetmap}
+  {:name "Maison des jeunes kamabanga",
+   :longitude -15.0109486,
+   :latitude 10.8941715,
+   :source :openstreetmap}
+  {:name "Maison des jeunes katfoura",
+   :longitude -15.0230829,
+   :latitude 10.803649,
+   :source :openstreetmap}
+  {:name "Maisoon des jeunes;Foyer des jeunes",
+   :longitude -8.2347293,
+   :latitude 8.0294741,
+   :source :openstreetmap}
+  {:name "Monopole",
+   :longitude -13.6007906,
+   :latitude 9.6549162,
+   :source :openstreetmap}
+  {:name "Musée Africain American",
+   :longitude -12.2588537,
+   :latitude 10.6835367,
+   :source :openstreetmap}
+  {:name "Musée du fortin de Boké",
+   :longitude -14.2959053,
+   :latitude 10.933358,
+   :source :openstreetmap}
+  {:name "Musée national de Guinée",
+   :longitude -13.7091103,
+   :latitude 9.5046142,
+   :source :openstreetmap}
+  {:name "Permanence Dixinn",
+   :longitude -13.6730241,
+   :latitude 9.552101,
+   :source :openstreetmap}
+  {:name "Petit Musée du Fouta",
+   :longitude -12.3065391,
+   :latitude 11.3131825,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

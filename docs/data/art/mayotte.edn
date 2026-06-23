@@ -1,0 +1,56 @@
+{:count 7,
+ :country "mayotte",
+ :country-code "YT",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:48.984847Z",
+ :positions
+ [{:name "Foyer culturel de Hagnoundrou",
+   :longitude 45.1018716,
+   :latitude -12.9052932,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Foyer des jeunes de M'Tsangamouji",
+   :longitude 45.085117,
+   :latitude -12.7610471,
+   :source :openstreetmap,
+   :locality "M'Tsangamouji",
+   :image "",
+   :description ""}
+  {:name "Musée de l'Artisanat",
+   :longitude 45.1042922,
+   :latitude -12.9259452,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Musée de Mayotte",
+   :longitude 45.2566991,
+   :latitude -12.7821907,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Musée des senteurs de Coconi",
+   :longitude 45.1328182,
+   :latitude -12.8333746,
+   :source :openstreetmap,
+   :locality "Ouangani",
+   :image "",
+   :description ""}
+  {:name "Pôle Culturel de Chirongui",
+   :longitude 45.1493221,
+   :latitude -12.9356162,
+   :source :openstreetmap,
+   :homepage "https://www.polecultureldechirongui.com/",
+   :image "",
+   :description ""}
+  {:name "Éco-musée du sel",
+   :longitude 45.1961075,
+   :latitude -12.91239,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

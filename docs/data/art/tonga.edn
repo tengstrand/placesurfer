@@ -1,0 +1,23 @@
+{:count 2,
+ :country "tonga",
+ :country-code "TO",
+ :dataset :art,
+ :generated-at "2026-05-26T06:36:53.878874Z",
+ :positions
+ [{:name "Tongan National Centre",
+   :longitude -175.218005,
+   :latitude -21.1556745,
+   :source :openstreetmap,
+   :image "",
+   :description ""}
+  {:name "Tuku'aho Museum",
+   :longitude -175.1611701,
+   :latitude -21.223533,
+   :source :openstreetmap,
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

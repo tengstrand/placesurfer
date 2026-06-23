@@ -1,0 +1,230 @@
+{:count 45,
+ :country "cambodia",
+ :country-code "KH",
+ :dataset :art,
+ :generated-at "2026-05-26T06:46:22.816983Z",
+ :positions
+ [{:name "Angkor Artwork",
+   :longitude 103.8625848,
+   :latitude 13.3438335,
+   :source :openstreetmap,
+   :homepage "http://www.angkorartwork.fr",
+   :locality "Siem Reap"}
+  {:name "Angkor Conservancy",
+   :longitude 103.86463,
+   :latitude 13.373402,
+   :source :openstreetmap,
+   :locality "Treang, Sla Kram, Krong Siem Reap, Siem Reap province"}
+  {:name "Angkor National Museum",
+   :longitude 103.8595207,
+   :latitude 13.3663847,
+   :source :openstreetmap,
+   :homepage "http://www.angkornationalmuseum.com",
+   :locality "Siem Reap"}
+  {:name "Art Bar",
+   :longitude 104.9179011,
+   :latitude 11.5878907,
+   :source :openstreetmap}
+  {:name "ArtBox",
+   :longitude 103.8320969,
+   :latitude 13.3618489,
+   :source :openstreetmap,
+   :homepage "http://www.artbox.studio/",
+   :locality "Siem Reap"}
+  {:name "Artisan d'Angkor",
+   :longitude 103.7455565,
+   :latitude 13.4685051,
+   :source :openstreetmap}
+  {:name "Artwork Gallery",
+   :longitude 103.8540101,
+   :latitude 13.3564104,
+   :source :openstreetmap,
+   :locality "Siem Reap"}
+  {:name "Battambang Museum",
+   :longitude 103.1981075,
+   :latitude 13.0948547,
+   :source :openstreetmap}
+  {:name "Bophana Audiovisual Resource Center",
+   :longitude 104.9215024,
+   :latitude 11.5614353,
+   :source :openstreetmap,
+   :homepage "https://bophana.org/",
+   :locality "Phnom Penh"}
+  {:name "Build Your Future Today Center",
+   :longitude 103.8663407,
+   :latitude 13.3643786,
+   :source :openstreetmap}
+  {:name "Chhan Dina Gallery",
+   :longitude 104.9293854,
+   :latitude 11.5665893,
+   :source :openstreetmap,
+   :homepage
+   "https://www.cambodiamuseum.info/en_information_visitors.html"}
+  {:name "Cultural Center",
+   :longitude 107.0120997,
+   :latitude 13.7319754,
+   :source :openstreetmap}
+  {:name "Diwo Gallery 1",
+   :longitude 103.8539988,
+   :latitude 13.3382678,
+   :source :openstreetmap,
+   :homepage "https://www.tdiwo.com/",
+   :locality "Siem Reap"}
+  {:name "Diwo Gallery 2",
+   :longitude 103.854251,
+   :latitude 13.3531137,
+   :source :openstreetmap,
+   :homepage "https://www.tdiwo.com/",
+   :locality "Siem Reap"}
+  {:name "HOMELESS Artists Collective",
+   :longitude 104.908974,
+   :latitude 11.5260914,
+   :source :openstreetmap,
+   :homepage "https://shanghaichang.portfoliobox.net/",
+   :locality "Phnom Penh"}
+  {:name "Jayav Art",
+   :longitude 103.8623675,
+   :latitude 13.3806687,
+   :source :openstreetmap}
+  {:name "Kep Museum",
+   :longitude 104.3170655,
+   :latitude 10.4861458,
+   :source :openstreetmap}
+  {:name "Khamer Habitat Interpretation Center",
+   :longitude 103.9010911,
+   :latitude 13.4327454,
+   :source :openstreetmap}
+  {:name "Khmer Kids Art Gallery",
+   :longitude 103.8568025,
+   :latitude 13.3485856,
+   :source :openstreetmap,
+   :homepage "https://www.damiendufresne.com/",
+   :locality "Siem Reap"}
+  {:name "Khmer Kite Museum",
+   :longitude 104.9348119,
+   :latitude 11.5531657,
+   :source :openstreetmap}
+  {:name "Landmine Museum",
+   :longitude 103.9457988,
+   :latitude 13.5395683,
+   :source :openstreetmap,
+   :homepage "https://www.cambodialandminemuseum.org/"}
+  {:name "MGC Asian Traditional Textiles Museum",
+   :longitude 103.8802421,
+   :latitude 13.3753729,
+   :source :openstreetmap,
+   :homepage "https://www.mgcattmuseum.com/",
+   :locality "Siem Reap"}
+  {:name "Military Museum",
+   :longitude 104.8853479,
+   :latitude 11.6776959,
+   :source :openstreetmap}
+  {:name "Miniature Replicas of Angkor",
+   :longitude 103.8632601,
+   :latitude 13.3637515,
+   :source :openstreetmap,
+   :locality "Siem Reap"}
+  {:name "Ny Art",
+   :longitude 104.9272695,
+   :latitude 11.5546522,
+   :source :openstreetmap,
+   :homepage
+   "https://www.instagram.com/nyartpp, https://www.youtube.com/channel/UCZd7SSzbE7wpwYi8eVVNAxw"}
+  {:name "Preah Norodom Sihanouk-Angkor Museum",
+   :longitude 103.8806983,
+   :latitude 13.3821076,
+   :source :openstreetmap,
+   :locality "Siem Reap"}
+  {:name "Pursat Museum",
+   :longitude 103.9185849,
+   :latitude 12.5334785,
+   :source :openstreetmap}
+  {:name "Sa Sa Art Projects",
+   :longitude 104.9203077,
+   :latitude 11.5487817,
+   :source :openstreetmap,
+   :homepage "http://www.tuolslenggenocidemuseum.com"}
+  {:name "Sosoro",
+   :longitude 104.9254421,
+   :latitude 11.5743548,
+   :source :openstreetmap,
+   :homepage "https://sosoro.nbc.org.kh"}
+  {:name "STP Cambodia",
+   :longitude 104.9307032,
+   :latitude 11.5508924,
+   :source :openstreetmap}
+  {:name "Tep Kao Sol",
+   :longitude 103.1984039,
+   :latitude 13.0995747,
+   :source :openstreetmap}
+  {:name "The Gallerist",
+   :longitude 104.9292808,
+   :latitude 11.5604593,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/Thegallerist.cambodia"}
+  {:name "VIMEAN SOKHA MUSEUM",
+   :longitude 103.8566458,
+   :latitude 13.3856143,
+   :source :openstreetmap}
+  {:name "War Museum Cambodia",
+   :longitude 103.8311829,
+   :latitude 13.3874346,
+   :source :openstreetmap,
+   :homepage "http://www.warmuseumcambodia.com/",
+   :locality "Siem Reap"}
+  {:name "Wat Indochina",
+   :longitude 104.8433983,
+   :latitude 11.4766076,
+   :source :openstreetmap}
+  {:name "ព្រះបាទជ័យវរន្ម័នទី​ ៧",
+   :longitude 104.7774149,
+   :latitude 10.9895196,
+   :source :openstreetmap}
+  {:name "មជ្ឍមណ្ឌល ត្រួតពិនិត្យសំបុត្រ",
+   :longitude 103.9666217,
+   :latitude 13.5991439,
+   :source :openstreetmap}
+  {:name "រថយន្តបុរាណ",
+   :longitude 103.5092573,
+   :latitude 10.6378444,
+   :source :openstreetmap,
+   :homepage "http://camboclassic.com"}
+  {:name "សារមន្ទីរ ខេត្តកំពង់ឆ្នាំង",
+   :longitude 104.666765,
+   :latitude 12.2544667,
+   :source :openstreetmap,
+   :locality "ក្រុងកំពង់ឆ្នាំង"}
+  {:name "សារមន្ទីរ ខេត្តកំពង់ធំ",
+   :longitude 104.888664,
+   :latitude 12.7269855,
+   :source :openstreetmap,
+   :locality "ក្រុងកំពង់ធំ"}
+  {:name "សារមន្ទីរខេត្ត បន្ទាយមានជ័យ",
+   :longitude 102.9722207,
+   :latitude 13.5893897,
+   :source :openstreetmap,
+   :locality "សិរីសោភ័ណ"}
+  {:name "សារមន្ទីរខេត្តតាកែវ",
+   :longitude 104.7819584,
+   :latitude 10.9923,
+   :source :openstreetmap,
+   :locality "ដូនកែវ"}
+  {:name "សារមន្ទីរខេត្តព្រៃវែង",
+   :longitude 105.325462,
+   :latitude 11.4828879,
+   :source :openstreetmap,
+   :locality "ក្រុងព្រៃវែង"}
+  {:name "សារមន្ទីរស្រុកស្វាយចេក",
+   :longitude 102.9629886,
+   :latitude 13.8022988,
+   :source :openstreetmap,
+   :locality "ស្រុកស្វាយចេក"}
+  {:name "សារមន្ទីរអង្គរបុរី",
+   :longitude 104.97793,
+   :latitude 10.9942224,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

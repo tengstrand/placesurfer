@@ -1,0 +1,432 @@
+{:count 98,
+ :country "egypt",
+ :country-code "EG",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:41.115618Z",
+ :positions
+ [{:name "Abu Simbel Temples salvage documentation center",
+   :longitude 31.616622,
+   :latitude 22.3401982,
+   :source :openstreetmap}
+  {:name "Amphitheater",
+   :longitude 34.3621962,
+   :latitude 25.9663789,
+   :source :openstreetmap}
+  {:name "Animalia",
+   :longitude 32.8882354,
+   :latitude 24.0894255,
+   :source :openstreetmap}
+  {:name "Art al-lewa",
+   :longitude 31.1872587,
+   :latitude 30.0498157,
+   :source :openstreetmap}
+  {:name "Aswan Museum",
+   :longitude 32.8869909,
+   :latitude 24.084979,
+   :source :openstreetmap}
+  {:name "Attar Art",
+   :longitude 31.4341179,
+   :latitude 29.9915813,
+   :source :openstreetmap,
+   :locality "New cairo"}
+  {:name "B'sarya for Arts",
+   :longitude 29.9047756,
+   :latitude 31.1975034,
+   :source :openstreetmap,
+   :homepage "https://linktr.ee/bsarya",
+   :locality "الإسكندرية"}
+  {:name "Cairo Photography Club",
+   :longitude 31.257741,
+   :latitude 29.959,
+   :source :openstreetmap,
+   :homepage "https://www.cairophotography.club/"}
+  {:name "Chinese Cultural Center in Cairo",
+   :longitude 31.1833593,
+   :latitude 30.0048026,
+   :source :openstreetmap}
+  {:name "Cleopatra’s Museum",
+   :longitude 31.217199,
+   :latitude 29.9972735,
+   :source :openstreetmap,
+   :homepage "https://www.pharaonicvillage.com"}
+  {:name "Contemporary Image Collective (CIC) - مركز الصورة المعاصرة",
+   :longitude 31.2403083,
+   :latitude 30.0498341,
+   :source :openstreetmap,
+   :locality "القاهرة"}
+  {:name "Egyptian Textile Museum",
+   :longitude 31.2613757,
+   :latitude 30.049967,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/EgyptianTextileMuseum",
+   :locality "Cairo"}
+  {:name "ElMadina Arts",
+   :longitude 29.9011964,
+   :latitude 31.1940878,
+   :source :openstreetmap,
+   :homepage "www.elmadinaart.com",
+   :locality "Alexandria"}
+  {:name "ENP",
+   :longitude 33.9408016,
+   :latitude 26.7975372,
+   :source :openstreetmap}
+  {:name "Falak Art Gallery",
+   :longitude 31.2331189,
+   :latitude 30.0371418,
+   :source :openstreetmap}
+  {:name "Goethe-Institut Alexandria",
+   :longitude 29.9091991,
+   :latitude 31.2010012,
+   :source :openstreetmap,
+   :homepage "https://www.goethe.de/ins/eg/de/sta/alx.html"}
+  {:name "King Tut Museum",
+   :longitude 34.3188138,
+   :latitude 27.9074779,
+   :source :openstreetmap}
+  {:name "Luxor Museum",
+   :longitude 32.644489,
+   :latitude 25.7076634,
+   :source :openstreetmap}
+  {:name "Madinet Habu",
+   :longitude 32.6021249,
+   :latitude 25.7174353,
+   :source :openstreetmap}
+  {:name "mahmoud saied museum",
+   :longitude 29.9685081,
+   :latitude 31.2451159,
+   :source :openstreetmap}
+  {:name "Mini Egypt",
+   :longitude 33.8565571,
+   :latitude 26.987356,
+   :source :openstreetmap}
+  {:name "Museum of Fine Arts",
+   :longitude 29.9135029,
+   :latitude 31.1950937,
+   :source :openstreetmap}
+  {:name "Nile Museum",
+   :longitude 32.8839688,
+   :latitude 24.0408009,
+   :source :openstreetmap}
+  {:name "Nomad Gallery Eg",
+   :longitude 31.226104,
+   :latitude 30.0545854,
+   :source :openstreetmap,
+   :locality "Cairo"}
+  {:name "Nūn Art Gallery",
+   :longitude 32.6328437,
+   :latitude 25.7039153,
+   :source :openstreetmap,
+   :homepage "https://www.nun-art-gallery.com/"}
+  {:name "Rokn Farouk",
+   :longitude 31.2948309,
+   :latitude 29.8470384,
+   :source :openstreetmap}
+  {:name "Sand City Museum",
+   :longitude 33.8230157,
+   :latitude 27.0995523,
+   :source :openstreetmap,
+   :homepage "http://www.sandcityegypt.com/"}
+  {:name "Talaat Harb Culture Center",
+   :longitude 31.2524145,
+   :latitude 30.0238453,
+   :source :openstreetmap}
+  {:name "TAM. GALLERY",
+   :longitude 33.6740019,
+   :latitude 27.4074145,
+   :source :openstreetmap}
+  {:name "Wax museum",
+   :longitude 31.3257085,
+   :latitude 29.8601958,
+   :source :openstreetmap}
+  {:name "Wissa Wassef Art Center",
+   :longitude 31.176465,
+   :latitude 29.9692025,
+   :source :openstreetmap,
+   :homepage "https://www.adamheneinmuseum.com/"}
+  {:name "السيدة نفيسه",
+   :longitude 31.2510038,
+   :latitude 30.019316,
+   :source :openstreetmap}
+  {:name "المتحف الحربي القومي",
+   :longitude 31.2625649,
+   :latitude 30.0309246,
+   :source :openstreetmap}
+  {:name "المتحف الزراعى",
+   :longitude 30.6802916,
+   :latitude 31.0949211,
+   :source :openstreetmap}
+  {:name "المتحف الزراعي",
+   :longitude 31.2091708,
+   :latitude 30.0466925,
+   :source :openstreetmap}
+  {:name "المتحف القومي للحضارة المصرية",
+   :longitude 31.2489634,
+   :latitude 30.0076128,
+   :source :openstreetmap,
+   :homepage "https://nmec.gov.eg/",
+   :locality "قاهرة"}
+  {:name "المتحف المصري",
+   :longitude 31.2336017,
+   :latitude 30.0478467,
+   :source :openstreetmap,
+   :homepage "https://egyptianmuseumcairo.eg/emc/ar/"}
+  {:name "المتحف المصري الكبير",
+   :longitude 31.1192355,
+   :latitude 29.9945706,
+   :source :openstreetmap,
+   :homepage "https://www.visit-gem.com"}
+  {:name "المتحف المفتوح",
+   :longitude 32.6574848,
+   :latitude 25.7203119,
+   :source :openstreetmap}
+  {:name "المتخف الجيولوجي المصري",
+   :longitude 31.2287249,
+   :latitude 29.9961855,
+   :source :openstreetmap}
+  {:name "المخزن المتحفي",
+   :longitude 31.2414257,
+   :latitude 30.0059135,
+   :source :openstreetmap}
+  {:name "المعرض التاريخى لقناة السويس",
+   :longitude 32.2725958,
+   :latitude 30.5861979,
+   :source :openstreetmap}
+  {:name "بيت السناري",
+   :longitude 31.2428189,
+   :latitude 30.0329644,
+   :source :openstreetmap,
+   :homepage "https://bibalex.org/BaytAlsinnari/"}
+  {:name "بيت سيوة",
+   :longitude 25.518037,
+   :latitude 29.2037725,
+   :source :openstreetmap,
+   :locality "سيوة"}
+  {:name "دار أوبرا دمنهور",
+   :longitude 30.4695151,
+   :latitude 31.0397927,
+   :source :openstreetmap}
+  {:name "دار بن لقمان",
+   :longitude 31.3799347,
+   :latitude 31.0452877,
+   :source :openstreetmap}
+  {:name "درب ١٧١٨",
+   :longitude 31.2318093,
+   :latitude 30.0029782,
+   :source :openstreetmap,
+   :homepage "https://www.darb1718.com/"}
+  {:name "ساقية الصاوي",
+   :longitude 31.2163319,
+   :latitude 30.0624069,
+   :source :openstreetmap}
+  {:name "سي أف سي سي",
+   :longitude 31.3330909,
+   :latitude 30.0839215,
+   :source :openstreetmap}
+  {:name "سيدنا الحسين",
+   :longitude 31.2614212,
+   :latitude 30.0465867,
+   :source :openstreetmap}
+  {:name "فصر ثقافة أسوان",
+   :longitude 32.8971871,
+   :latitude 24.0940278,
+   :source :openstreetmap}
+  {:name "فيلا فؤاد اللكوة",
+   :longitude 31.4591248,
+   :latitude 30.0583179,
+   :source :openstreetmap}
+  {:name "قصر الثقافه",
+   :longitude 31.1975938,
+   :latitude 30.0024511,
+   :source :openstreetmap}
+  {:name "قصر ثقافة مدينة السادات",
+   :longitude 30.5034379,
+   :latitude 30.3711885,
+   :source :openstreetmap,
+   :locality "مدينة السادات"}
+  {:name "متحف أحمد شوقي",
+   :longitude 31.2175989,
+   :latitude 30.0214538,
+   :source :openstreetmap}
+  {:name "متحف أم كلثوم",
+   :longitude 31.2248842,
+   :latitude 30.0076221,
+   :source :openstreetmap}
+  {:name "متحف إيمحتب",
+   :longitude 31.2248462,
+   :latitude 29.8698342,
+   :source :openstreetmap}
+  {:name "متحف اخناتون",
+   :longitude 30.7702706,
+   :latitude 28.0949215,
+   :source :openstreetmap}
+  {:name "متحف الأسماك",
+   :longitude 33.7722392,
+   :latitude 27.2836636,
+   :source :openstreetmap}
+  {:name "متحف الإسكندرية القومي",
+   :longitude 29.9131473,
+   :latitude 31.2011126,
+   :source :openstreetmap}
+  {:name "متحف الاسماعيلية",
+   :longitude 32.2830952,
+   :latitude 30.5931855,
+   :source :openstreetmap}
+  {:name "متحف التاريخ الطبيعي",
+   :longitude 29.9437077,
+   :latitude 31.2054762,
+   :source :openstreetmap}
+  {:name "متحف التمساح",
+   :longitude 32.9276894,
+   :latitude 24.4530467,
+   :source :openstreetmap}
+  {:name "متحف الحفريات و تغير المناخ",
+   :longitude 30.0215571,
+   :latitude 29.2639852,
+   :source :openstreetmap}
+  {:name "متحف السويس القومى",
+   :longitude 32.5670088,
+   :latitude 29.9550854,
+   :source :openstreetmap}
+  {:name "متحف السويس القومي",
+   :longitude 32.2732946,
+   :latitude 30.5900846,
+   :source :openstreetmap}
+  {:name "متحف الطفل",
+   :longitude 31.3369823,
+   :latitude 30.1022497,
+   :source :openstreetmap}
+  {:name "متحف العالمين الحربى",
+   :longitude 28.9429665,
+   :latitude 30.8415263,
+   :source :openstreetmap}
+  {:name "متحف الفن الحديث",
+   :longitude 31.2247209,
+   :latitude 30.0437152,
+   :source :openstreetmap}
+  {:name "متحف الفنون الأسلامية",
+   :longitude 31.2527223,
+   :latitude 30.0446521,
+   :source :openstreetmap}
+  {:name "متحف المجوهرات الملكية",
+   :longitude 29.9631277,
+   :latitude 31.2407873,
+   :source :openstreetmap}
+  {:name "متحف المركبات الملكية",
+   :longitude 31.2310665,
+   :latitude 30.05546,
+   :source :openstreetmap}
+  {:name "متحف الموزاييك",
+   :longitude 29.9189348,
+   :latitude 31.2033697,
+   :source :openstreetmap}
+  {:name "متحف النوبة",
+   :longitude 32.8891931,
+   :latitude 24.0794505,
+   :source :openstreetmap,
+   :homepage "https://egymonuments.gov.eg/en/museums/nubia-museum"}
+  {:name "متحف بنى سويف",
+   :longitude 31.1013031,
+   :latitude 29.0840621,
+   :source :openstreetmap}
+  {:name "متحف بور سعيد الحربي",
+   :longitude 32.2999977,
+   :latitude 31.2701213,
+   :source :openstreetmap}
+  {:name "متحف جاير أندرسون",
+   :longitude 31.2507258,
+   :latitude 30.0283804,
+   :source :openstreetmap}
+  {:name "متحف جمال عبد الناصر",
+   :longitude 31.3106874,
+   :latitude 30.0865458,
+   :source :openstreetmap}
+  {:name "متحف دير القديسة كاترين",
+   :longitude 33.9761113,
+   :latitude 28.5561737,
+   :source :openstreetmap}
+  {:name "متحف رشيد",
+   :longitude 30.4221213,
+   :latitude 31.4048922,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/RashidNationalMuseum"}
+  {:name "متحف قصر عابدين",
+   :longitude 31.2478331,
+   :latitude 30.0434053,
+   :source :openstreetmap}
+  {:name "متحف قصر محمد علي",
+   :longitude 31.2294836,
+   :latitude 30.0265186,
+   :source :openstreetmap}
+  {:name "متحف كهف رومل",
+   :longitude 27.2484349,
+   :latitude 31.36562,
+   :source :openstreetmap}
+  {:name "متحف كوم اوشيم",
+   :longitude 30.8981092,
+   :latitude 29.518671,
+   :source :openstreetmap}
+  {:name "متحف كڤافيس",
+   :longitude 29.9012293,
+   :latitude 31.1976064,
+   :source :openstreetmap,
+   :homepage "https://www.ifegypte.com/alexandrie/"}
+  {:name "متحف محمود خليل",
+   :longitude 31.2195836,
+   :latitude 30.0355567,
+   :source :openstreetmap}
+  {:name "متحف محمود مختار",
+   :longitude 31.2229447,
+   :latitude 30.0406374,
+   :source :openstreetmap}
+  {:name "متحف مرصد حلوان",
+   :longitude 31.3423795,
+   :latitude 29.8587406,
+   :source :openstreetmap}
+  {:name "متحف مصطفى كامل",
+   :longitude 31.2572396,
+   :latitude 30.0296912,
+   :source :openstreetmap}
+  {:name "متحف ممفيس",
+   :longitude 31.2552077,
+   :latitude 29.8495386,
+   :source :openstreetmap,
+   :homepage "https://www.mitrahinamuseum.com/"}
+  {:name "مجمع الفنون أخناتون",
+   :longitude 31.2249789,
+   :latitude 30.0589863,
+   :source :openstreetmap,
+   :homepage "http://www.icm.gov.eg/"}
+  {:name "مركز الجزويت الثقافي بالإسكندرية",
+   :longitude 29.9381614,
+   :latitude 31.2237918,
+   :source :openstreetmap}
+  {:name "مركز القبة السماوية العلمي",
+   :longitude 29.9081435,
+   :latitude 31.208971,
+   :source :openstreetmap}
+  {:name "مركز بيانو بيانو للفنون",
+   :longitude 30.9986823,
+   :latitude 30.0246575,
+   :source :openstreetmap}
+  {:name "مركز زوار محمية سانت كاترين",
+   :longitude 33.9667792,
+   :latitude 28.5671514,
+   :source :openstreetmap}
+  {:name "مسجد التوفيقي",
+   :longitude 32.2982815,
+   :latitude 31.266038,
+   :source :openstreetmap}
+  {:name "مسلة المطرية",
+   :longitude 31.3074812,
+   :latitude 30.1294036,
+   :source :openstreetmap}
+  {:name "معهد الموسيقى العربيه",
+   :longitude 31.239388,
+   :latitude 30.0545121,
+   :source :openstreetmap,
+   :locality "القاهرة"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

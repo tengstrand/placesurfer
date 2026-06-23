@@ -1,0 +1,1 @@
+{"version":3,"sources":["hitteri/about_ui/interface.cljs"],"mappings":";AAGA,oCAAA,pCAAMA,+EAAOC;AAAb,AACE,OAACC,6BAAYD","names":["hitteri.about-ui.interface/panel","props","hitteri.about-ui.panel/panel"],"sourcesContent":["(ns hitteri.about-ui.interface\n  (:require [hitteri.about-ui.panel :as panel]))\n\n(defn panel [props]\n  (panel/panel props))\n"]}

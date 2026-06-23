@@ -1,0 +1,23 @@
+{:count 1,
+ :country "cyprus",
+ :country-code "CY",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:53:59.936007Z",
+ :positions
+ [{:name "Kipra disc golf blu",
+   :longitude 32.39639877916724,
+   :latitude 34.80958176169645,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/36726",
+   :locality "Chlorakas",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

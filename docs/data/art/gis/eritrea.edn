@@ -1,0 +1,26 @@
+{:count 3,
+ :country "eritrea",
+ :country-code "ER",
+ :dataset :art,
+ :generated-at "2026-05-26T06:09:46.587708Z",
+ :positions
+ [{:name "Casa degli Italiani (Gallery)",
+   :longitude 38.9352242,
+   :latitude 15.3374654,
+   :source :openstreetmap,
+   :locality "Asmara"}
+  {:name "Northern Red Sea Region Museum متحف منطقة شمال البحر الأحمر",
+   :longitude 39.4517829,
+   :latitude 15.6055041,
+   :source :openstreetmap,
+   :locality "مصوع"}
+  {:name "ሃገራዊ ቤተ መዘክር متحف إرتريا الوطني",
+   :longitude 38.9272013,
+   :latitude 15.33349,
+   :source :openstreetmap,
+   :locality "أسمرة"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

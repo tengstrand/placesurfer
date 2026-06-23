@@ -1,0 +1,1715 @@
+{:count 374,
+ :country "philippines",
+ :country-code "PH",
+ :dataset :art,
+ :generated-at "2026-05-26T06:27:17.990361Z",
+ :positions
+ [{:name "8 Anchors",
+   :longitude 120.983551,
+   :latitude 14.2847804,
+   :source :openstreetmap}
+  {:name "Adasa Ancestral House",
+   :longitude 123.424356,
+   :latitude 8.6568179,
+   :source :openstreetmap}
+  {:name "Adoro Art Gallery and Museum",
+   :longitude 122.5574474,
+   :latitude 10.7054854,
+   :source :openstreetmap}
+  {:name "Aga Khan Museum of Islamic Arts",
+   :longitude 124.2586537,
+   :latitude 7.9981571,
+   :source :openstreetmap}
+  {:name "Aguinaldo Shrine",
+   :longitude 120.9069668,
+   :latitude 14.4450044,
+   :source :openstreetmap,
+   :locality "Kawit"}
+  {:name "Air Force Museum",
+   :longitude 120.4986306,
+   :latitude 14.9797335,
+   :source :openstreetmap}
+  {:name "Aklatan at Museo ni Pangulong Diosdado P. Macapagal",
+   :longitude 120.600523,
+   :latitude 14.939445,
+   :source :openstreetmap}
+  {:name "Albay Arts Foundation Art Campus",
+   :longitude 123.8182864,
+   :latitude 13.2325042,
+   :source :openstreetmap}
+  {:name
+   "All Japan Seamen's Union-AMOSUP Maritime Museum and Sports Complex",
+   :longitude 120.9891895,
+   :latitude 14.5733364,
+   :source :openstreetmap}
+  {:name "Altro Mondo Creative Space",
+   :longitude 121.0118687,
+   :latitude 14.564303,
+   :source :openstreetmap}
+  {:name "Angel Cacnio Art Gallery",
+   :longitude 120.941066,
+   :latitude 14.6802875,
+   :source :openstreetmap,
+   :locality "Malabon"}
+  {:name "Angeles University Foundation Museum",
+   :longitude 120.5979272,
+   :latitude 15.1545635,
+   :source :openstreetmap}
+  {:name "Aniversario Art Gallery",
+   :longitude 120.4936688,
+   :latitude 16.3432171,
+   :source :openstreetmap}
+  {:name "Apolinario Mabini Shrine",
+   :longitude 121.0994802,
+   :latitude 14.1011464,
+   :source :openstreetmap,
+   :locality "Tanauan"}
+  {:name "Apolonio Marasigan Heritage House",
+   :longitude 121.3947867,
+   :latitude 13.8253773,
+   :source :openstreetmap}
+  {:name "Aquino Ancestral House",
+   :longitude 120.6571181,
+   :latitude 15.324384,
+   :source :openstreetmap,
+   :locality "Concepcion"}
+  {:name "Aquino Center and Museum",
+   :longitude 120.6019265,
+   :latitude 15.4345211,
+   :source :openstreetmap,
+   :locality "Tarlac"}
+  {:name "Arevalo Sinamay House",
+   :longitude 122.5153524,
+   :latitude 10.6896039,
+   :source :openstreetmap,
+   :locality "Iloilo"}
+  {:name "Ariniego Art Gallery",
+   :longitude 123.3050448,
+   :latitude 9.3137092,
+   :source :openstreetmap,
+   :locality "Dumaguete"}
+  {:name "Arko Ni Apo Art Gallery",
+   :longitude 120.5762186,
+   :latitude 16.4298091,
+   :source :openstreetmap,
+   :locality "Baguio"}
+  {:name "Armed Forces Museum of the Province of Tarlac",
+   :longitude 120.5985286,
+   :latitude 15.4352483,
+   :source :openstreetmap}
+  {:name "Arsenio Escudero Memorial Museum",
+   :longitude 121.3420675,
+   :latitude 13.9959391,
+   :source :openstreetmap}
+  {:name "Art Center",
+   :longitude 118.8775691,
+   :latitude 9.9138419,
+   :source :openstreetmap}
+  {:name "Art In Island Interactive Museum",
+   :longitude 121.0575901,
+   :latitude 14.6226746,
+   :source :openstreetmap}
+  {:name "Art Lounge Manila",
+   :longitude 121.0267124,
+   :latitude 14.4248152,
+   :source :openstreetmap,
+   :homepage "https://www.artloungemanila.com/",
+   :locality "Muntinlupa"}
+  {:name "Art Underground",
+   :longitude 121.0407772,
+   :latitude 14.5947992,
+   :source :openstreetmap,
+   :homepage "http://aumanila.com/",
+   :locality "San Juan"}
+  {:name "ArtSector Gallery & Chimney Café 360º",
+   :longitude 121.1720944,
+   :latitude 14.5215785,
+   :source :openstreetmap,
+   :locality "Binangonan"}
+  {:name "Asi Studies Center for Culture and the Arts (ASCCA)",
+   :longitude 122.095864,
+   :latitude 12.9474377,
+   :source :openstreetmap}
+  {:name "Atiatihan Municipal Library & Museum",
+   :longitude 122.3629135,
+   :latitude 11.7087646,
+   :source :openstreetmap}
+  {:name "Ayala Museum",
+   :longitude 121.0232447,
+   :latitude 14.5535834,
+   :source :openstreetmap,
+   :locality "Makati"}
+  {:name "Baclayon Museum",
+   :longitude 123.9125647,
+   :latitude 9.6229116,
+   :source :openstreetmap}
+  {:name "Bagumbayan Light and Sound Museum",
+   :longitude 120.9753508,
+   :latitude 14.586619,
+   :source :openstreetmap,
+   :homepage "http://nationalmuseum.gov.ph"}
+  {:name "Bahay Mira-Nila",
+   :longitude 121.0500708,
+   :latitude 14.6114473,
+   :source :openstreetmap,
+   :homepage "https://www.miranila.org/",
+   :locality "Quezon City"}
+  {:name "Balangay Shrine Museum",
+   :longitude 125.4962876,
+   :latitude 8.9540738,
+   :source :openstreetmap,
+   :locality "Butuan City"}
+  {:name "Balay Hamoy Museum",
+   :longitude 123.4246836,
+   :latitude 8.6517773,
+   :source :openstreetmap,
+   :locality "Dapitan City"}
+  {:name "Balay Negrense Museum",
+   :longitude 122.9732269,
+   :latitude 10.8000224,
+   :source :openstreetmap}
+  {:name "Balay ti Santiago",
+   :longitude 121.5521397,
+   :latitude 16.6931219,
+   :source :openstreetmap}
+  {:name "Baldomero Aguinaldo Museum",
+   :longitude 120.9236762,
+   :latitude 14.4478186,
+   :source :openstreetmap,
+   :homepage "https://nhcp.gov.ph/meseums/mba/",
+   :locality "Kawit"}
+  {:name "Bale Herencia",
+   :longitude 120.5920708,
+   :latitude 15.1335339,
+   :source :openstreetmap,
+   :homepage
+   "https://nhcp.gov.ph/museums-2/museo-ng-kasaysayang-panlipunan-ng-pilipinas/"}
+  {:name "Balyuan Amphitheater",
+   :longitude 125.0091419,
+   :latitude 11.2421448,
+   :source :openstreetmap}
+  {:name "Bamban World War II Museum",
+   :longitude 120.5649232,
+   :latitude 15.2680239,
+   :source :openstreetmap,
+   :homepage "https://bambanmuseum.org"}
+  {:name "Banaue Museum",
+   :longitude 121.0602387,
+   :latitude 16.9118761,
+   :source :openstreetmap,
+   :locality "Banaue"}
+  {:name "Bantayog ng mga Bayani Museum",
+   :longitude 121.0395424,
+   :latitude 14.6438018,
+   :source :openstreetmap,
+   :homepage "https://bantayogngmgabayani.org/museum/"}
+  {:name "Bataan World War II Museum",
+   :longitude 120.5457489,
+   :latitude 14.680929,
+   :source :openstreetmap}
+  {:name "Bearseum - Teddy Bear Museum",
+   :longitude 120.9281341,
+   :latitude 14.1550883,
+   :source :openstreetmap}
+  {:name "Bell House",
+   :longitude 120.6182385,
+   :latitude 16.3989705,
+   :source :openstreetmap,
+   :locality "Baguio"}
+  {:name "BenCab Museum",
+   :longitude 120.5503446,
+   :latitude 16.4106002,
+   :source :openstreetmap,
+   :homepage "http://www.bencabmuseum.org/",
+   :locality "Tuba"}
+  {:name "Benguet Provincial Capitol Museum",
+   :longitude 120.5872062,
+   :latitude 16.4624504,
+   :source :openstreetmap}
+  {:name "Binmaley Museum",
+   :longitude 120.2690248,
+   :latitude 16.0288765,
+   :source :openstreetmap}
+  {:name "Biological Museum",
+   :longitude 123.9093094,
+   :latitude 10.354537,
+   :source :openstreetmap}
+  {:name "Blanco Family Museum",
+   :longitude 121.1495738,
+   :latitude 14.5252536,
+   :source :openstreetmap}
+  {:name "Bohol Abuev's Art Collection Gallery",
+   :longitude 124.4058529,
+   :latitude 9.70834,
+   :source :openstreetmap}
+  {:name "Bong Perez Art Gallery",
+   :longitude 125.541027,
+   :latitude 7.0574778,
+   :source :openstreetmap,
+   :locality "Davao City"}
+  {:name "Bonifacio Historical Center",
+   :longitude 123.6142219,
+   :latitude 8.0523306,
+   :source :openstreetmap}
+  {:name "Bonifacio Trial House",
+   :longitude 120.7369972,
+   :latitude 14.2742884,
+   :source :openstreetmap,
+   :locality "Maragondon"}
+  {:name "Bontoc Museum",
+   :longitude 120.9756594,
+   :latitude 17.0896882,
+   :source :openstreetmap,
+   :locality "Bontoc"}
+  {:name "Book Museum",
+   :longitude 121.1195409,
+   :latitude 14.6506748,
+   :source :openstreetmap}
+  {:name "Boston Gallery",
+   :longitude 121.0420242,
+   :latitude 14.6217937,
+   :source :openstreetmap,
+   :locality "Cubao, Quezon City"}
+  {:name "BPI Museum Cebu",
+   :longitude 123.9025359,
+   :latitude 10.2935668,
+   :source :openstreetmap,
+   :locality "Cebu"}
+  {:name "BPI Museum Zamboanga",
+   :longitude 122.0770757,
+   :latitude 6.9036358,
+   :source :openstreetmap}
+  {:name "Bukidnon Studies Center Museum",
+   :longitude 125.124443,
+   :latitude 8.1565446,
+   :source :openstreetmap}
+  {:name "Bulwagang Recoletos",
+   :longitude 121.0608874,
+   :latitude 14.6789124,
+   :source :openstreetmap}
+  {:name "Cagayan Museum and Historical Research Center",
+   :longitude 121.7308697,
+   :latitude 17.6116659,
+   :source :openstreetmap,
+   :locality "Tuguegarao"}
+  {:name "Calatrava Museum",
+   :longitude 122.0710401,
+   :latitude 12.6189322,
+   :source :openstreetmap}
+  {:name "Capilla Santa Ana Museum",
+   :longitude 123.6274597,
+   :latitude 10.3702127,
+   :source :openstreetmap}
+  {:name "Caraga Tourism Complex",
+   :longitude 126.5649631,
+   :latitude 7.3271019,
+   :source :openstreetmap}
+  {:name "Carcar Museum and former Dispensary",
+   :longitude 123.6409578,
+   :latitude 10.1058935,
+   :source :openstreetmap}
+  {:name "Casa Gamboa Jaro Museum",
+   :longitude 122.5602229,
+   :latitude 10.7221421,
+   :source :openstreetmap}
+  {:name "Casa Grande (General Aniceto Lacson Ancestral House)",
+   :longitude 122.9696391,
+   :latitude 10.7247853,
+   :source :openstreetmap}
+  {:name "Casa Hacienda de Tejeros",
+   :longitude 120.8607011,
+   :latitude 14.4010478,
+   :source :openstreetmap,
+   :locality "Rosario"}
+  {:name "Casa Mariquit",
+   :longitude 122.5567082,
+   :latitude 10.726849,
+   :source :openstreetmap}
+  {:name "Cata-al World War Ⅱ Museum",
+   :longitude 123.2467949,
+   :latitude 9.2836099,
+   :source :openstreetmap,
+   :locality "Cata-al"}
+  {:name "CCC Musuem",
+   :longitude 123.7053923,
+   :latitude 10.3132463,
+   :source :openstreetmap}
+  {:name "CHE Museum",
+   :longitude 121.0737931,
+   :latitude 14.652384,
+   :source :openstreetmap}
+  {:name "Chinatown Museum",
+   :longitude 120.9737244,
+   :latitude 14.6039486,
+   :source :openstreetmap,
+   :homepage "https://chinatownmuseum.org"}
+  {:name "City Museum",
+   :longitude 122.0722804,
+   :latitude 6.9541644,
+   :source :openstreetmap,
+   :homepage
+   "https://www.academia.edu/7130835/Cashiering_the_Last_Conquistador_The_Juicio_de_Residencia_of_Don_Sebasti%C3%A1n_Hurtado_de_Corcuera_1639_1658",
+   :locality "Zamboanga City"}
+  {:name "City Museum of Cagayan de Oro",
+   :longitude 124.642263,
+   :latitude 8.4747641,
+   :source :openstreetmap,
+   :locality "Cagayan de Oro City"}
+  {:name "City of Bogo Museum",
+   :longitude 124.0033991,
+   :latitude 11.0512428,
+   :source :openstreetmap,
+   :locality "Bogo"}
+  {:name "City of Ilagan Museum",
+   :longitude 121.889023,
+   :latitude 17.1435058,
+   :source :openstreetmap}
+  {:name "Clarin Ancestral House and Museum",
+   :longitude 124.011047,
+   :latitude 9.600174,
+   :source :openstreetmap,
+   :locality "Loay"}
+  {:name "Clark Museum",
+   :longitude 120.5268837,
+   :latitude 15.1821831,
+   :source :openstreetmap,
+   :locality "Clark Freeport"}
+  {:name "Cleanergy Center",
+   :longitude 121.2256544,
+   :latitude 14.0904809,
+   :source :openstreetmap,
+   :locality "Calauan"}
+  {:name "Club House",
+   :longitude 120.6442132,
+   :latitude 15.0693952,
+   :source :openstreetmap}
+  {:name "Co Tec Tai Medical Museum",
+   :longitude 120.9996106,
+   :latitude 14.5439551,
+   :source :openstreetmap}
+  {:name "Coldileran Culture Museum",
+   :longitude 121.0602302,
+   :latitude 16.9052201,
+   :source :openstreetmap,
+   :locality "Banaue"}
+  {:name "Cordova Museum",
+   :longitude 123.9496515,
+   :latitude 10.2521277,
+   :source :openstreetmap}
+  {:name "CPSU Museum",
+   :longitude 122.8903457,
+   :latitude 9.8537856,
+   :source :openstreetmap}
+  {:name "Crisologo Museum",
+   :longitude 120.3869057,
+   :latitude 17.5704381,
+   :source :openstreetmap,
+   :locality "Vigan"}
+  {:name "Crocodile Fossils",
+   :longitude 118.6936927,
+   :latitude 9.7991665,
+   :source :openstreetmap}
+  {:name "Crocoseum",
+   :longitude 120.988183,
+   :latitude 14.5544317,
+   :source :openstreetmap}
+  {:name "Culasi Museum & Library",
+   :longitude 122.0551333,
+   :latitude 11.4262502,
+   :source :openstreetmap}
+  {:name "Culion Museum and Archives",
+   :longitude 120.0231669,
+   :latitude 11.8913484,
+   :source :openstreetmap}
+  {:name "D' Bone Collector Museum",
+   :longitude 125.6126101,
+   :latitude 7.061065,
+   :source :openstreetmap,
+   :locality "Barangay 76-A"}
+  {:name "Dambana ng Kagitingan Museum",
+   :longitude 120.5096811,
+   :latitude 14.6056578,
+   :source :openstreetmap,
+   :locality "Pilar"}
+  {:name "Datu Bago Gallery",
+   :longitude 125.6075055,
+   :latitude 7.0791775,
+   :source :openstreetmap,
+   :locality "Davao City"}
+  {:name "Datu Paglas Municipal Mini Museum",
+   :longitude 124.8622415,
+   :latitude 6.7405314,
+   :source :openstreetmap}
+  {:name "Dayew na Pangasinan",
+   :longitude 120.2327737,
+   :latitude 16.0341206,
+   :source :openstreetmap}
+  {:name "De Leon - Bolastig Mausuleum",
+   :longitude 124.8868219,
+   :latitude 11.761432,
+   :source :openstreetmap,
+   :locality "Catbalogan"}
+  {:name "Dewil Valley Museum",
+   :longitude 119.5066857,
+   :latitude 11.1958165,
+   :source :openstreetmap}
+  {:name "Diosdado P. Macapagal Museum",
+   :longitude 120.6532208,
+   :latitude 14.9976679,
+   :source :openstreetmap}
+  {:name "Diwa ng Tarlac",
+   :longitude 120.5879348,
+   :latitude 15.4825462,
+   :source :openstreetmap}
+  {:name "Dizon-Ramos Museum",
+   :longitude 122.9516773,
+   :latitude 10.6709948,
+   :source :openstreetmap}
+  {:name "Don Bernardino Jalandoni Museum",
+   :longitude 122.9773376,
+   :latitude 10.80182,
+   :source :openstreetmap,
+   :locality "Silay City"}
+  {:name "Don Gregorio Agoncillo Mansion",
+   :longitude 120.9252868,
+   :latitude 13.8779386,
+   :source :openstreetmap}
+  {:name "Douglas DC-2 Plaza Cuartel Museum",
+   :longitude 118.7540661,
+   :latitude 9.744654,
+   :source :openstreetmap}
+  {:name "Dr. Yen's Museum",
+   :longitude 120.9767834,
+   :latitude 14.2612494,
+   :source :openstreetmap}
+  {:name "Eco Center",
+   :longitude 121.0723856,
+   :latitude 14.7126268,
+   :source :openstreetmap}
+  {:name "EDAYA Crafts & Design Studio",
+   :longitude 120.5664845,
+   :latitude 16.2710478,
+   :source :openstreetmap}
+  {:name "Encarnation Heritage Home",
+   :longitude 120.631859,
+   :latitude 14.9607694,
+   :source :openstreetmap}
+  {:name "Entertainment Center",
+   :longitude 123.127882,
+   :latitude 10.9411967,
+   :source :openstreetmap}
+  {:name "Exploreum",
+   :longitude 120.9807652,
+   :latitude 14.5336268,
+   :source :openstreetmap,
+   :homepage "https://www.exploreum.ph/",
+   :locality "Pasay"}
+  {:name "Filipino War Memorial",
+   :longitude 120.5996507,
+   :latitude 14.3892316,
+   :source :openstreetmap}
+  {:name "First Mass Gallery",
+   :longitude 125.0749727,
+   :latitude 9.9078413,
+   :source :openstreetmap}
+  {:name "FishWorld",
+   :longitude 122.3536488,
+   :latitude 10.6713696,
+   :source :openstreetmap}
+  {:name "Franciscan Missionaries of Sacred Heart",
+   :longitude 124.5950281,
+   :latitude 12.0672738,
+   :source :openstreetmap}
+  {:name "Friendship Hall",
+   :longitude 125.6174851,
+   :latitude 10.444233,
+   :source :openstreetmap}
+  {:name "Gala-Rodriguez Ancestral House",
+   :longitude 121.5248838,
+   :latitude 13.9619659,
+   :source :openstreetmap}
+  {:name "Galerie Raphael",
+   :longitude 125.6442415,
+   :latitude 7.1030504,
+   :source :openstreetmap,
+   :locality "Davao City"}
+  {:name "Galleria Taal",
+   :longitude 120.9199691,
+   :latitude 13.8794127,
+   :source :openstreetmap,
+   :homepage
+   "https://nhcp.gov.ph/museums/marcela-agoncillo-historical-landmark/"}
+  {:name "Gallery 1",
+   :longitude 121.16403,
+   :latitude 14.581627,
+   :source :openstreetmap,
+   :homepage "https://www.pintoart.org/museum"}
+  {:name "Gallery of the Peninsula and the Archipelago",
+   :longitude 122.0754264,
+   :latitude 6.9095958,
+   :source :openstreetmap}
+  {:name "Ganduyan Museum",
+   :longitude 120.9005664,
+   :latitude 17.0846626,
+   :source :openstreetmap,
+   :locality "Sagada"}
+  {:name "General Paulino Santos Museum",
+   :longitude 125.1713465,
+   :latitude 6.117528,
+   :source :openstreetmap,
+   :locality "General Santos"}
+  {:name "Geronimo Berenguer de los Reyes, Jr. (GBR) Museum",
+   :longitude 120.9189213,
+   :latitude 14.2646521,
+   :source :openstreetmap,
+   :locality "General Trias"}
+  {:name "Gimenez Gallery",
+   :longitude 121.0679576,
+   :latitude 14.6571957,
+   :source :openstreetmap}
+  {:name "Global Art",
+   :longitude 125.6134256,
+   :latitude 7.0818698,
+   :source :openstreetmap}
+  {:name "Governor's Mansion",
+   :longitude 121.6119317,
+   :latitude 13.9279442,
+   :source :openstreetmap}
+  {:name "Gravity Art Space",
+   :longitude 121.0218844,
+   :latitude 14.6319226,
+   :source :openstreetmap}
+  {:name "Green Papaya Art Projects",
+   :longitude 121.0362717,
+   :latitude 14.627791,
+   :source :openstreetmap,
+   :locality "Kamuning, Quezon City"}
+  {:name "Green Papaya Art Projects EXT",
+   :longitude 121.0396698,
+   :latitude 14.6332256,
+   :source :openstreetmap,
+   :homepage "https://greenpapayaartprojects.org/",
+   :locality "Quezon City"}
+  {:name "Gregoria M. Rivera Memorial Library & Museum",
+   :longitude 120.3865689,
+   :latitude 17.5749983,
+   :source :openstreetmap,
+   :locality "Vigan"}
+  {:name "GSIS Museo ng Sining",
+   :longitude 120.9843831,
+   :latitude 14.5474492,
+   :source :openstreetmap,
+   :locality "Pasay"}
+  {:name "Hiwang Museum",
+   :longitude 121.0529817,
+   :latitude 16.92636,
+   :source :openstreetmap}
+  {:name "Hiyas ng Bulacan Museum",
+   :longitude 120.8147261,
+   :latitude 14.8550951,
+   :source :openstreetmap}
+  {:name "House of Gongs",
+   :longitude 124.7094708,
+   :latitude 6.2188154,
+   :source :openstreetmap,
+   :locality "Lake Sebu"}
+  {:name "House of Mugs",
+   :longitude 122.8454299,
+   :latitude 10.5313562,
+   :source :openstreetmap,
+   :locality "Bago City"}
+  {:name "HUB: Make Lab",
+   :longitude 120.9794787,
+   :latitude 14.598871,
+   :source :openstreetmap,
+   :locality "Manila"}
+  {:name "Ifugao Ethnic Village",
+   :longitude 121.0560912,
+   :latitude 16.9479142,
+   :source :openstreetmap}
+  {:name "Iglesia ni cristo",
+   :longitude 120.8610873,
+   :latitude 15.2198693,
+   :source :openstreetmap}
+  {:name "Iglesia ni Cristo Museum",
+   :longitude 121.01666,
+   :latitude 14.5876374,
+   :source :openstreetmap,
+   :locality "Manila"}
+  {:name "Iglesia ni Cristo Museum and Gallery",
+   :longitude 121.0660028,
+   :latitude 14.6629914,
+   :source :openstreetmap}
+  {:name "Iloilo Maritime Museum",
+   :longitude 122.5525144,
+   :latitude 10.6992889,
+   :source :openstreetmap,
+   :locality "Iloilo City"}
+  {:name "Iloilo Museum of Contemporary Art",
+   :longitude 122.5483854,
+   :latitude 10.7182013,
+   :source :openstreetmap,
+   :homepage "https://ilomoca.org/"}
+  {:name "Imus Historical Museum",
+   :longitude 120.9400442,
+   :latitude 14.4296265,
+   :source :openstreetmap,
+   :locality "Imus"}
+  {:name "INC Museum and Gallery",
+   :longitude 121.0488347,
+   :latitude 14.6628895,
+   :source :openstreetmap,
+   :locality "Quezon City"}
+  {:name "International Doll House",
+   :longitude 126.3425891,
+   :latitude 8.1824602,
+   :source :openstreetmap}
+  {:name "Island Seashell Museum & Souvenir Shop",
+   :longitude 123.6118632,
+   :latitude 9.2983387,
+   :source :openstreetmap,
+   :locality "Larena"}
+  {:name "J Studio HQ",
+   :longitude 120.9910157,
+   :latitude 14.4407494,
+   :source :openstreetmap,
+   :locality "Las Piñas"}
+  {:name "Jose C. de Venecia Jr. Museum",
+   :longitude 121.0944595,
+   :latitude 14.6959776,
+   :source :openstreetmap,
+   :locality "Quezon City"}
+  {:name "Jose R. Gullas Halad Museum",
+   :longitude 123.9123065,
+   :latitude 10.3058932,
+   :source :openstreetmap}
+  {:name "Kaban ng Hiyas",
+   :longitude 121.0339604,
+   :latitude 14.5781056,
+   :source :openstreetmap}
+  {:name "Kalookan Diocesan Archives & Museum",
+   :longitude 120.9510773,
+   :latitude 14.6590886,
+   :source :openstreetmap}
+  {:name "Kapitolyo Art Space",
+   :longitude 121.0604879,
+   :latitude 14.5719774,
+   :source :openstreetmap}
+  {:name "Karen Arts and Studio",
+   :longitude 123.7234082,
+   :latitude 13.3589466,
+   :source :openstreetmap}
+  {:name "La Union Science Centrum and Museum",
+   :longitude 120.3639534,
+   :latitude 16.5894753,
+   :source :openstreetmap}
+  {:name "Lamlifew School of Living Traditions",
+   :longitude 125.2054411,
+   :latitude 6.3479094,
+   :source :openstreetmap}
+  {:name "LCB Performing Arts Studio",
+   :longitude 125.6206258,
+   :latitude 7.0846429,
+   :source :openstreetmap}
+  {:name "Learning Center",
+   :longitude 122.378586,
+   :latitude 9.8701922,
+   :source :openstreetmap}
+  {:name "León Gallery International",
+   :longitude 121.01889,
+   :latitude 14.5533258,
+   :source :openstreetmap,
+   :locality "Makati"}
+  {:name "Lizares Mansion",
+   :longitude 122.9664341,
+   :latitude 10.7380019,
+   :source :openstreetmap}
+  {:name "Los Baños Museum",
+   :longitude 121.2245121,
+   :latitude 14.181837,
+   :source :openstreetmap,
+   :locality "Los Baños"}
+  {:name "Luis Taruc Museum",
+   :longitude 120.7895421,
+   :latitude 15.0421265,
+   :source :openstreetmap}
+  {:name "Malacanang Ti Amianan",
+   :longitude 120.5399257,
+   :latitude 18.1281689,
+   :source :openstreetmap,
+   :locality "Paoay"}
+  {:name "Malagos Chocolate Museum",
+   :longitude 125.4279684,
+   :latitude 7.1917505,
+   :source :openstreetmap}
+  {:name "Malvar Shrine Museum",
+   :longitude 121.1422712,
+   :latitude 14.1100584,
+   :source :openstreetmap}
+  {:name "Manila Dance and Cultural Arts Center",
+   :longitude 120.9775726,
+   :latitude 14.5788485,
+   :source :openstreetmap,
+   :homepage "https://museopambata.org/",
+   :locality "Manila"}
+  {:name "Marcos Mansion",
+   :longitude 121.0418555,
+   :latitude 14.203508,
+   :source :openstreetmap}
+  {:name "Marcos Museum",
+   :longitude 120.5636247,
+   :latitude 18.0547784,
+   :source :openstreetmap}
+  {:name "Marian Orchard",
+   :longitude 121.118858,
+   :latitude 14.0176674,
+   :source :openstreetmap}
+  {:name "Meralco Museum",
+   :longitude 121.0659955,
+   :latitude 14.5894426,
+   :source :openstreetmap,
+   :locality "Pasig"}
+  {:name "Metta Gallery",
+   :longitude 120.5641018,
+   :latitude 15.1416209,
+   :source :openstreetmap}
+  {:name "Mindanao Folk Arts Museum",
+   :longitude 125.5940699,
+   :latitude 7.0551605,
+   :source :openstreetmap,
+   :locality "Davao"}
+  {:name "Miracle art",
+   :longitude 121.0562238,
+   :latitude 14.5495984,
+   :source :openstreetmap}
+  {:name "MIS Building",
+   :longitude 121.0012538,
+   :latitude 14.5986057,
+   :source :openstreetmap}
+  {:name "Modern Art",
+   :longitude 121.0323022,
+   :latitude 14.6130049,
+   :source :openstreetmap}
+  {:name "Mount Hamiguitan Natural Science Museum",
+   :longitude 126.1413744,
+   :latitude 6.7349556,
+   :source :openstreetmap}
+  {:name "Museo",
+   :longitude 123.8468047,
+   :latitude 8.1400222,
+   :source :openstreetmap}
+  {:name "Museo Ac-ac",
+   :longitude 121.4845238,
+   :latitude 14.3526787,
+   :source :openstreetmap}
+  {:name "Museo Bulawan",
+   :longitude 122.9551219,
+   :latitude 14.1118164,
+   :source :openstreetmap}
+  {:name "Museo Cainta",
+   :longitude 121.1167311,
+   :latitude 14.5779927,
+   :source :openstreetmap,
+   :locality "Cainta"}
+  {:name "Museo de Bacarra",
+   :longitude 120.6113333,
+   :latitude 18.2503672,
+   :source :openstreetmap}
+  {:name "Museo de Balanghai",
+   :longitude 125.5276337,
+   :latitude 8.9537859,
+   :source :openstreetmap,
+   :homepage
+   "https://www.nationalmuseum.gov.ph/nationalmuseumbeta/ASBMD/Butuan.html",
+   :locality "Butuan City"}
+  {:name "Museo de Baler",
+   :longitude 121.561766,
+   :latitude 15.7601092,
+   :source :openstreetmap}
+  {:name "Museo de Catanduanes",
+   :longitude 124.23511,
+   :latitude 13.5845261,
+   :source :openstreetmap}
+  {:name "Museo de Guimaras",
+   :longitude 122.5893976,
+   :latitude 10.5985298,
+   :source :openstreetmap}
+  {:name "Museo de Hayskulano",
+   :longitude 123.1904705,
+   :latitude 13.6302037,
+   :source :openstreetmap}
+  {:name "Museo de Indang",
+   :longitude 120.8784906,
+   :latitude 14.1955652,
+   :source :openstreetmap,
+   :locality "Indang"}
+  {:name "Museo de La Salle",
+   :longitude 122.96177,
+   :latitude 10.678904,
+   :source :openstreetmap}
+  {:name "Museo De La Salle",
+   :longitude 120.9610387,
+   :latitude 14.3209977,
+   :source :openstreetmap,
+   :locality "Dasmariñas"}
+  {:name "Museo de Legazpi",
+   :longitude 123.7333823,
+   :latitude 13.1391085,
+   :source :openstreetmap,
+   :locality "Legazpi"}
+  {:name "Museo de Loboc",
+   :longitude 124.0310671,
+   :latitude 9.6359367,
+   :source :openstreetmap}
+  {:name "Museo de Mangaldan - Heritage and Museum Center",
+   :longitude 120.4037049,
+   :latitude 16.0700058,
+   :source :openstreetmap}
+  {:name "Museo de Oro",
+   :longitude 124.6459752,
+   :latitude 8.4758675,
+   :source :openstreetmap}
+  {:name "Museo de San Jose",
+   :longitude 121.1043194,
+   :latitude 13.8784549,
+   :source :openstreetmap,
+   :locality "San Jose"}
+  {:name "Museo de San Pablo",
+   :longitude 121.3249216,
+   :latitude 14.0745377,
+   :source :openstreetmap,
+   :locality "San Pablo"}
+  {:name "Museo del Galeón",
+   :longitude 120.9800709,
+   :latitude 14.5369271,
+   :source :openstreetmap,
+   :homepage "https://museodelgaleon.org/",
+   :locality "Pasay"}
+  {:name "Museo del Seminario Conciliar de Nueva Caceres",
+   :longitude 123.1863652,
+   :latitude 13.6281027,
+   :source :openstreetmap}
+  {:name "Museo dela Parroquia de San Miguel",
+   :longitude 123.6081125,
+   :latitude 9.8821103,
+   :source :openstreetmap}
+  {:name "Museo di Don Bosco",
+   :longitude 121.0256144,
+   :latitude 14.5905044,
+   :source :openstreetmap}
+  {:name "Museo Dipolog",
+   :longitude 123.3444504,
+   :latitude 8.5866749,
+   :source :openstreetmap,
+   :locality "Dipolog City"}
+  {:name "Museo Franciscano",
+   :longitude 121.0124701,
+   :latitude 14.6366874,
+   :source :openstreetmap}
+  {:name "Museo Handurawan",
+   :longitude 123.7510971,
+   :latitude 8.0599843,
+   :source :openstreetmap}
+  {:name "Museo Ilocos Norte",
+   :longitude 120.5925208,
+   :latitude 18.1967287,
+   :source :openstreetmap,
+   :locality "Laoag"}
+  {:name "Museo Iloko",
+   :longitude 120.3667954,
+   :latitude 16.3233292,
+   :source :openstreetmap,
+   :locality "Agoo"}
+  {:name "Museo Kordilyera",
+   :longitude 120.5977773,
+   :latitude 16.4057604,
+   :source :openstreetmap,
+   :homepage "https://museokordilyera.upb.edu.ph/",
+   :locality "Baguio"}
+  {:name "Museo ng Bangko Sentral ng Pilipinas",
+   :longitude 120.9873301,
+   :latitude 14.5615051,
+   :source :openstreetmap,
+   :homepage "https://www.metmuseum.ph/"}
+  {:name "Museo ng Batangas",
+   :longitude 121.0619378,
+   :latitude 13.7649014,
+   :source :openstreetmap,
+   :locality "Batangas City"}
+  {:name "Museo ng Katipunan",
+   :longitude 121.0313277,
+   :latitude 14.6041571,
+   :source :openstreetmap}
+  {:name "Museo ng Lungsod Batangas",
+   :longitude 121.0584424,
+   :latitude 13.7548458,
+   :source :openstreetmap}
+  {:name
+   "Museo ng mga Kababaihan Ng Malolos sa Tahanan ni Alberta Uitangcoy-Santos",
+   :longitude 120.8103927,
+   :latitude 14.8419737,
+   :source :openstreetmap,
+   :locality "Malolos"}
+  {:name "Museo ng Muntinlupa",
+   :longitude 121.0464206,
+   :latitude 14.3877903,
+   :source :openstreetmap}
+  {:name "Museo ng Pag-asa",
+   :longitude 121.0056156,
+   :latitude 14.6224749,
+   :source :openstreetmap,
+   :locality "Quezon City"}
+  {:name "Museo ng Republika ng 1899",
+   :longitude 120.8126596,
+   :latitude 14.8465663,
+   :source :openstreetmap,
+   :locality "Malolos"}
+  {:name "Museo ng Santa Rosa",
+   :longitude 121.1119599,
+   :latitude 14.3136123,
+   :source :openstreetmap,
+   :locality "Santa Rosa"}
+  {:name "Museo ng Tanauan",
+   :longitude 121.1529063,
+   :latitude 14.0848478,
+   :source :openstreetmap}
+  {:name "Museo ni Apolinario Mabini – PUP",
+   :longitude 121.011223,
+   :latitude 14.5979024,
+   :source :openstreetmap,
+   :homepage "https://nhcp.gov.ph/meseums/mampup/"}
+  {:name "Museo ni Cipra 2",
+   :longitude 121.324006,
+   :latitude 14.0806396,
+   :source :openstreetmap,
+   :locality "San Pablo"}
+  {:name "Museo ni Dr. Pio Valenzuela",
+   :longitude 120.9449537,
+   :latitude 14.7086136,
+   :source :openstreetmap}
+  {:name "Museo Oslob",
+   :longitude 123.4342666,
+   :latitude 9.5199812,
+   :source :openstreetmap}
+  {:name "Museo Panabo",
+   :longitude 125.6818652,
+   :latitude 7.299429,
+   :source :openstreetmap,
+   :locality "Panabo City"}
+  {:name "Museo Pari-an sa Sugbo",
+   :longitude 123.9040778,
+   :latitude 10.2984449,
+   :source :openstreetmap}
+  {:name "Museo sang Bata sa Negros",
+   :longitude 123.4261791,
+   :latitude 10.9478149,
+   :source :openstreetmap}
+  {:name "Museo Sansó",
+   :longitude 121.0368282,
+   :latitude 14.5979071,
+   :source :openstreetmap,
+   :homepage "https://juvenalsanso.com/",
+   :locality "San Juan"}
+  {:name "Museo Sugbo",
+   :longitude 123.9066997,
+   :latitude 10.3038276,
+   :source :openstreetmap}
+  {:name "Museo Valenzuela",
+   :longitude 120.9804393,
+   :latitude 14.682212,
+   :source :openstreetmap}
+  {:name "Museo Vicente",
+   :longitude 123.3005686,
+   :latitude 9.3055003,
+   :source :openstreetmap,
+   :locality "Dumaguete"}
+  {:name "Museum & Archive Gallery",
+   :longitude 120.9769619,
+   :latitude 14.5831035,
+   :source :openstreetmap,
+   :homepage "http://nationalmuseum.gov.ph",
+   :locality "Manila"}
+  {:name "Museum of a History of Ideas",
+   :longitude 120.9843027,
+   :latitude 14.5786563,
+   :source :openstreetmap,
+   :locality "Manila"}
+  {:name "Museum of Community Heritage",
+   :longitude 120.0647628,
+   :latitude 14.9524503,
+   :source :openstreetmap}
+  {:name "Museum of Contemporary Art and Design",
+   :longitude 120.9965625,
+   :latitude 14.5627512,
+   :source :openstreetmap}
+  {:name "Museum of Philippine Economic History",
+   :longitude 122.5725365,
+   :latitude 10.6932275,
+   :source :openstreetmap,
+   :homepage
+   "https://nhcp.gov.ph/museums/the-museum-of-philippine-economic-history",
+   :locality "Iloilo"}
+  {:name "Museum of the Chinese in Philippine Life",
+   :longitude 120.9750357,
+   :latitude 14.590901,
+   :source :openstreetmap}
+  {:name "Museum of the Human Body",
+   :longitude 120.9465544,
+   :latitude 14.3331132,
+   :source :openstreetmap,
+   :locality "Dasmariñas"}
+  {:name "Museum of Three Cultures",
+   :longitude 124.6523822,
+   :latitude 8.4884584,
+   :source :openstreetmap,
+   :locality "Cagayan de Oro City"}
+  {:name "Musée d' Arsie",
+   :longitude 122.5379191,
+   :latitude 10.7386418,
+   :source :openstreetmap,
+   :locality "Jaro"}
+  {:name "Narda's Arts and Crafts",
+   :longitude 120.6016484,
+   :latitude 16.4060354,
+   :source :openstreetmap}
+  {:name "National Museum - Bicol Regional Museum",
+   :longitude 123.701695,
+   :latitude 13.1645878,
+   :source :openstreetmap}
+  {:name "National Museum Branch - Quezon",
+   :longitude 117.9941908,
+   :latitude 9.2317644,
+   :source :openstreetmap}
+  {:name "National Museum of Fine Arts",
+   :longitude 120.9812443,
+   :latitude 14.5868957,
+   :source :openstreetmap,
+   :homepage "https://www.nationalmuseum.gov.ph/",
+   :locality "Manila"}
+  {:name "National Museum of Natural History",
+   :longitude 120.9822516,
+   :latitude 14.5832809,
+   :source :openstreetmap,
+   :locality "Manila"}
+  {:name "National Museum of the Philippines - Antique",
+   :longitude 121.9419822,
+   :latitude 10.7440209,
+   :source :openstreetmap,
+   :locality "San Jose de Buenavista"}
+  {:name "National Museum of the Philippines - Bohol",
+   :longitude 123.8565493,
+   :latitude 9.6402782,
+   :source :openstreetmap,
+   :locality "Tagbilaran"}
+  {:name "National Museum of the Philippines - Cagayan",
+   :longitude 121.8190952,
+   :latitude 17.7029104,
+   :source :openstreetmap}
+  {:name "National Museum of the Philippines - Cordillera",
+   :longitude 121.0823359,
+   :latitude 16.7786605,
+   :source :openstreetmap}
+  {:name "National Museum of the Philippines - Davao",
+   :longitude 125.6091426,
+   :latitude 7.070155,
+   :source :openstreetmap,
+   :homepage "https://www.nationalmuseum.gov.ph/nmp-davao/",
+   :locality "Davao City"}
+  {:name "National Museum of the Philippines - Dumaguete",
+   :longitude 123.3093638,
+   :latitude 9.3051766,
+   :source :openstreetmap,
+   :homepage "https://nationalmuseum.gov.ph/dumaguete"}
+  {:name "National Museum of the Philippines - Iloilo",
+   :longitude 122.5687632,
+   :latitude 10.7032634,
+   :source :openstreetmap,
+   :locality "Iloilo City"}
+  {:name "National Museum of the Philippines - Kabayan",
+   :longitude 120.8344905,
+   :latitude 16.6236343,
+   :source :openstreetmap,
+   :locality "Kabayan"}
+  {:name "National Museum of the Philippines - Marinduque",
+   :longitude 121.8400605,
+   :latitude 13.4476783,
+   :source :openstreetmap,
+   :locality "Boac"}
+  {:name "National Museum of the Philippines - Rizal",
+   :longitude 121.1865228,
+   :latitude 14.5329948,
+   :source :openstreetmap,
+   :locality "Binangonan"}
+  {:name "National Museum of the Philippines - Sulu",
+   :longitude 121.0171268,
+   :latitude 6.0511105,
+   :source :openstreetmap,
+   :locality "Jolo"}
+  {:name "National Museum of the Philippines - Tabon Cave Complex",
+   :longitude 117.9755807,
+   :latitude 9.2724099,
+   :source :openstreetmap,
+   :homepage
+   "https://nationalmuseum.gov.ph/our-museums/regional-area-and-site-museums/tabon-cave-complex"}
+  {:name "National Museum of the Philippines - Zamboanga",
+   :longitude 122.0822064,
+   :latitude 6.9012174,
+   :source :openstreetmap}
+  {:name
+   "National Museum, Batanes Extension Office and Research Center",
+   :longitude 121.9697387,
+   :latitude 20.369312,
+   :source :openstreetmap,
+   :locality "Uyugan"}
+  {:name "Nationalista Party Museum",
+   :longitude 121.045386,
+   :latitude 14.5882288,
+   :source :openstreetmap,
+   :locality "Mandaluyong"}
+  {:name "Natural Museum and Herbarium",
+   :longitude 125.0086526,
+   :latitude 11.2471685,
+   :source :openstreetmap}
+  {:name "Nayong Pilipino",
+   :longitude 120.5871963,
+   :latitude 15.4791392,
+   :source :openstreetmap}
+  {:name "New Visitor Center",
+   :longitude 121.0506069,
+   :latitude 14.5396467,
+   :source :openstreetmap}
+  {:name "NHCP Museo ni Jesse Robredo",
+   :longitude 123.1971771,
+   :latitude 13.6285436,
+   :source :openstreetmap}
+  {:name "Nicolasa Dayrit Museum",
+   :longitude 120.6901238,
+   :latitude 15.0262171,
+   :source :openstreetmap}
+  {:name "Nova Art Gallery",
+   :longitude 121.0169794,
+   :latitude 14.5448655,
+   :source :openstreetmap,
+   :homepage "https://www.novagallerymanila.com/home.php",
+   :locality "Makati"}
+  {:name "Nova Shells Museum",
+   :longitude 123.7489748,
+   :latitude 9.580309,
+   :source :openstreetmap}
+  {:name "Olang Arts Park",
+   :longitude 123.6700766,
+   :latitude 9.2190327,
+   :source :openstreetmap}
+  {:name "Old Casa Real de Patnongon",
+   :longitude 121.9944363,
+   :latitude 10.9139848,
+   :source :openstreetmap}
+  {:name "Old Heritage House",
+   :longitude 121.4842025,
+   :latitude 14.3623153,
+   :source :openstreetmap}
+  {:name "Old Municipal Hall",
+   :longitude 123.9718136,
+   :latitude 9.7549456,
+   :source :openstreetmap}
+  {:name "ONAY Museum",
+   :longitude 123.354626,
+   :latitude 8.6236793,
+   :source :openstreetmap,
+   :locality "Dipolog City"}
+  {:name "One Art Gallery",
+   :longitude 121.0396337,
+   :latitude 14.6371958,
+   :source :openstreetmap}
+  {:name "Opera Haus",
+   :longitude 121.0016764,
+   :latitude 14.5568669,
+   :source :openstreetmap}
+  {:name "Orange Gallery",
+   :longitude 122.9599285,
+   :latitude 10.6951348,
+   :source :openstreetmap,
+   :homepage "http://facebook.com/orange."}
+  {:name "Ormoc City Museum",
+   :longitude 124.6090425,
+   :latitude 11.004996,
+   :source :openstreetmap}
+  {:name "Otto Shoe Museum",
+   :longitude 121.09589,
+   :latitude 14.63018,
+   :source :openstreetmap}
+  {:name "Our Lady of Peñafrancia Museum",
+   :longitude 123.19503,
+   :latitude 13.6332172,
+   :source :openstreetmap}
+  {:name "Pahiyas Museum and Art Gallery",
+   :longitude 121.5550974,
+   :latitude 14.1141337,
+   :source :openstreetmap,
+   :homepage "https://pahiyasmuseum.org",
+   :locality "Lucban"}
+  {:name "Palawan Heritage Center",
+   :longitude 118.7437142,
+   :latitude 9.738703,
+   :source :openstreetmap}
+  {:name "Palawan Museum",
+   :longitude 118.7369695,
+   :latitude 9.7396682,
+   :source :openstreetmap}
+  {:name "Palawan World War 2 Memorial Museum",
+   :longitude 118.7664461,
+   :latitude 9.7391028,
+   :source :openstreetmap,
+   :locality "Puerto Princesa"}
+  {:name "Panlilio Heritage Home",
+   :longitude 120.5796422,
+   :latitude 15.0167448,
+   :source :openstreetmap}
+  {:name "Pasig City Museum",
+   :longitude 121.0762842,
+   :latitude 14.5609949,
+   :source :openstreetmap,
+   :locality "Pasig"}
+  {:name "Paskuhan Village",
+   :longitude 120.6926593,
+   :latitude 15.0503781,
+   :source :openstreetmap}
+  {:name "Pastor Art Gallery",
+   :longitude 121.0594512,
+   :latitude 13.7592957,
+   :source :openstreetmap,
+   :locality "Batangas City"}
+  {:name "People's Museum",
+   :longitude 121.1498062,
+   :latitude 16.4833154,
+   :source :openstreetmap}
+  {:name "Peñafrancia Basilica Museum",
+   :longitude 123.2002921,
+   :latitude 13.6329261,
+   :source :openstreetmap}
+  {:name "Philippine Air Force Museum Complex",
+   :longitude 121.0195939,
+   :latitude 14.516233,
+   :source :openstreetmap}
+  {:name "Philippine Army Museum",
+   :longitude 121.0451592,
+   :latitude 14.5332416,
+   :source :openstreetmap,
+   :homepage "https://www.army.mil.ph/Welfare2/pa_museum.htm"}
+  {:name "Philippine Chinese Anti-Japanese War Memorial Hall",
+   :longitude 120.9846146,
+   :latitude 14.6308975,
+   :source :openstreetmap}
+  {:name "Philippine Navy Museum",
+   :longitude 120.9166177,
+   :latitude 14.4819023,
+   :source :openstreetmap}
+  {:name "Philippine Science Centrum",
+   :longitude 121.081469,
+   :latitude 14.6294061,
+   :source :openstreetmap}
+  {:name "Philippine-Japan Historical Museum",
+   :longitude 125.4603218,
+   :latitude 7.1882392,
+   :source :openstreetmap,
+   :locality "Davao City"}
+  {:name "Pila Museum",
+   :longitude 121.364754,
+   :latitude 14.2342855,
+   :source :openstreetmap}
+  {:name "Pineapple Lab",
+   :longitude 121.0345286,
+   :latitude 14.5652213,
+   :source :openstreetmap,
+   :homepage "http://www.pineapplelab.ph",
+   :locality "Makati"}
+  {:name "Pinoy Pawnstars Museum",
+   :longitude 121.055001,
+   :latitude 14.6336578,
+   :source :openstreetmap,
+   :locality "Quezon City"}
+  {:name "Pirate's Museum",
+   :longitude 124.6076851,
+   :latitude 8.5182999,
+   :source :openstreetmap}
+  {:name "PMA",
+   :longitude 120.62048,
+   :latitude 16.3613062,
+   :source :openstreetmap,
+   :locality "Baguio"}
+  {:name "PNP Museum",
+   :longitude 121.0547844,
+   :latitude 14.609939,
+   :source :openstreetmap}
+  {:name "Poblete Museum",
+   :longitude 121.429868,
+   :latitude 14.4254974,
+   :source :openstreetmap,
+   :locality "Mabitac"}
+  {:name "Ponce Gallery",
+   :longitude 125.608402,
+   :latitude 7.0839768,
+   :source :openstreetmap,
+   :locality "Davao City"}
+  {:name "Pope John Paul II Tower",
+   :longitude 122.9424152,
+   :latitude 10.6718917,
+   :source :openstreetmap}
+  {:name "Pototan Museum and Public Library",
+   :longitude 122.6357059,
+   :latitude 10.9441445,
+   :source :openstreetmap}
+  {:name "Presidential Museum",
+   :longitude 120.6214795,
+   :latitude 16.4123875,
+   :source :openstreetmap,
+   :homepage
+   "https://museums.gov.ph/presidential-museum-baguio-mansion-house/"}
+  {:name "Presidential Museum and Library",
+   :longitude 120.9946016,
+   :latitude 14.5945505,
+   :source :openstreetmap,
+   :homepage "http://malacanang.gov.ph/"}
+  {:name "Price Mansion",
+   :longitude 125.0041545,
+   :latitude 11.2439822,
+   :source :openstreetmap}
+  {:name "Prudencia D. Fule Ancestral House",
+   :longitude 121.2953903,
+   :latitude 14.067556,
+   :source :openstreetmap}
+  {:name "Quezon City Memorial Shrine Museum",
+   :longitude 121.0483098,
+   :latitude 14.6507215,
+   :source :openstreetmap}
+  {:name "Ramon Magsaysay Heritage house",
+   :longitude 120.1961707,
+   :latitude 14.9374651,
+   :source :openstreetmap}
+  {:name "Raul Gonzales Memorial Museum",
+   :longitude 122.5578585,
+   :latitude 10.7389837,
+   :source :openstreetmap}
+  {:name "Raymundo's Museum",
+   :longitude 121.1327701,
+   :latitude 14.2384121,
+   :source :openstreetmap}
+  {:name "Read Baron Vintage Bikes",
+   :longitude 120.0209258,
+   :latitude 16.0939475,
+   :source :openstreetmap}
+  {:name "Real Gabz Place",
+   :longitude 124.6325953,
+   :latitude 8.4438512,
+   :source :openstreetmap}
+  {:name "Riceworld",
+   :longitude 121.254548,
+   :latitude 14.168444,
+   :source :openstreetmap,
+   :locality "Los Baños"}
+  {:name "Rizal Park and Shrine Dapitan",
+   :longitude 123.4172234,
+   :latitude 8.6671248,
+   :source :openstreetmap}
+  {:name "Rizal Shrine",
+   :longitude 120.9697076,
+   :latitude 14.5945136,
+   :source :openstreetmap,
+   :locality "Manila"}
+  {:name "Rizal Shrine",
+   :longitude 121.1667954,
+   :latitude 14.2134589,
+   :source :openstreetmap,
+   :locality "Calamba"}
+  {:name "RMC Educational Media Center",
+   :longitude 125.6025391,
+   :latitude 7.0766862,
+   :source :openstreetmap}
+  {:name "Roberty and Gloria Tyrol Heritage Museum",
+   :longitude 121.9184123,
+   :latitude 11.9700572,
+   :source :openstreetmap}
+  {:name "Romblon Art Gallery",
+   :longitude 122.2611887,
+   :latitude 12.5470024,
+   :source :openstreetmap,
+   :locality "romblon"}
+  {:name "Ronac Art Center",
+   :longitude 121.040239,
+   :latitude 14.607173,
+   :source :openstreetmap,
+   :homepage "https://m.facebook.com/ronacartcenter/about?refid=17",
+   :locality "San Juan"}
+  {:name "Rosendo Mejica Museum and Historical Landmark",
+   :longitude 122.5479088,
+   :latitude 10.6921828,
+   :source :openstreetmap,
+   :locality "Iloilo"}
+  {:name "Roxas City Museum",
+   :longitude 122.7520539,
+   :latitude 11.5837606,
+   :source :openstreetmap,
+   :locality "Roxas City"}
+  {:name "Sablayan Museum",
+   :longitude 120.7793909,
+   :latitude 12.8473804,
+   :source :openstreetmap,
+   :locality "Sablayan"}
+  {:name "Safari Gallery",
+   :longitude 120.3748169,
+   :latitude 17.5521922,
+   :source :openstreetmap}
+  {:name "Sagada Dogo Siwang Art Hub",
+   :longitude 120.9062804,
+   :latitude 17.098368,
+   :source :openstreetmap}
+  {:name "Sagada Pottery",
+   :longitude 120.8955359,
+   :latitude 17.087109,
+   :source :openstreetmap,
+   :locality "Sagada"}
+  {:name "Sagada Weaving Showroom",
+   :longitude 120.9044629,
+   :latitude 17.0868752,
+   :source :openstreetmap,
+   :locality "Sagada"}
+  {:name "San Carlos City Museum",
+   :longitude 120.3471825,
+   :latitude 15.9256,
+   :source :openstreetmap}
+  {:name "Santo Niño Shrine",
+   :longitude 125.0019952,
+   :latitude 11.2359187,
+   :source :openstreetmap}
+  {:name "Sarayba Ancestral House Museum",
+   :longitude 120.8797705,
+   :latitude 14.3863632,
+   :source :openstreetmap}
+  {:name "School of Dr. Jose P. Rizal Site and Museum",
+   :longitude 121.0836606,
+   :latitude 14.3365788,
+   :source :openstreetmap,
+   :locality "Biñan"}
+  {:name "Seashell Museum",
+   :longitude 123.5082153,
+   :latitude 9.1454896,
+   :source :openstreetmap,
+   :locality "San Juan"}
+  {:name "SGI Davao Culture Center",
+   :longitude 125.5642967,
+   :latitude 7.0626766,
+   :source :openstreetmap}
+  {:name "Silliman Anthropology Museum",
+   :longitude 123.3064879,
+   :latitude 9.310391,
+   :source :openstreetmap,
+   :homepage "https://su.edu.ph/academics/museums/anthropology-museum",
+   :locality "Dumaguete"}
+  {:name "Silverlens",
+   :longitude 121.0196359,
+   :latitude 14.5394545,
+   :source :openstreetmap,
+   :homepage "https://www.silverlensgalleries.com/"}
+  {:name "Siningtinta Art Space",
+   :longitude 121.061689,
+   :latitude 14.637316,
+   :source :openstreetmap,
+   :homepage "https://www.siningtinta.com/",
+   :locality "Quezon City"}
+  {:name "SLU Museum of Igorot Cultures & Arts",
+   :longitude 120.5975733,
+   :latitude 16.4177728,
+   :source :openstreetmap,
+   :homepage "https://www.slu.edu.ph/museum/",
+   :locality "Baguio"}
+  {:name "Sorsogon Cultural Center for the Arts",
+   :longitude 124.0225348,
+   :latitude 12.9811365,
+   :source :openstreetmap}
+  {:name "Sorsogon Museum",
+   :longitude 124.0018847,
+   :latitude 12.9723269,
+   :source :openstreetmap}
+  {:name "South Sea Pearl Museum",
+   :longitude 119.3917767,
+   :latitude 11.1816155,
+   :source :openstreetmap,
+   :locality "El Nido"}
+  {:name "Spanish Museum",
+   :longitude 120.5768357,
+   :latitude 14.379755,
+   :source :openstreetmap}
+  {:name "Sports Museum",
+   :longitude 120.9920952,
+   :latitude 14.5623265,
+   :source :openstreetmap}
+  {:name "St. Francis of Assisi Parish Museum",
+   :longitude 120.9573936,
+   :latitude 14.7350093,
+   :source :openstreetmap}
+  {:name "Sta. Barbara Centennial Museum and Convention Center",
+   :longitude 122.5316795,
+   :latitude 10.8275761,
+   :source :openstreetmap}
+  {:name "STC Folklife Museum",
+   :longitude 123.8966272,
+   :latitude 10.3124402,
+   :source :openstreetmap}
+  {:name "Subangan",
+   :longitude 126.2483377,
+   :latitude 6.944233,
+   :source :openstreetmap,
+   :locality "Mati City"}
+  {:name "Subic Bay Historical Center",
+   :longitude 120.2819869,
+   :latitude 14.8192653,
+   :source :openstreetmap,
+   :locality "Olongapo"}
+  {:name "Sultan Kudarat Provincial Museum",
+   :longitude 124.6103923,
+   :latitude 6.6425798,
+   :source :openstreetmap}
+  {:name "Sulyap Museum",
+   :longitude 121.3124175,
+   :latitude 14.07652,
+   :source :openstreetmap,
+   :locality "San Pablo"}
+  {:name "Surigaonon Heritage Center",
+   :longitude 125.5010755,
+   :latitude 9.7841855,
+   :source :openstreetmap}
+  {:name "Tandang Sora Women's Museum",
+   :longitude 121.0456085,
+   :latitude 14.6831786,
+   :source :openstreetmap,
+   :locality "Quezon City"}
+  {:name "Tao Foundation School of Living Traditions",
+   :longitude 125.9933118,
+   :latitude 8.1830023,
+   :source :openstreetmap}
+  {:name "The Art Gallery",
+   :longitude 121.0481047,
+   :latitude 14.6440686,
+   :source :openstreetmap,
+   :locality "Quezon City"}
+  {:name "The Broadway Melodies",
+   :longitude 125.5568065,
+   :latitude 7.0557919,
+   :source :openstreetmap}
+  {:name "The Mind Museum",
+   :longitude 121.0454966,
+   :latitude 14.5520798,
+   :source :openstreetmap,
+   :homepage "https://www.themindmuseum.org/",
+   :locality "Taguig"}
+  {:name "The Negros Museum",
+   :longitude 122.9503214,
+   :latitude 10.6751599,
+   :source :openstreetmap,
+   :homepage "https://www.ncfiph.org/the-negros-museum/",
+   :locality "Bacolod"}
+  {:name "The Padilla Art Gallery",
+   :longitude 120.985895,
+   :latitude 14.5983659,
+   :source :openstreetmap,
+   :homepage "http://bahaynakpil.org/",
+   :locality "Manila"}
+  {:name "The Portrait House",
+   :longitude 125.3696503,
+   :latitude 6.747026,
+   :source :openstreetmap}
+  {:name "The Treasures of Maitum",
+   :longitude 124.4958728,
+   :latitude 6.0614727,
+   :source :openstreetmap,
+   :locality "Maitum"}
+  {:name "Thrive",
+   :longitude 122.5488242,
+   :latitude 10.7068526,
+   :source :openstreetmap}
+  {:name "Tiaong White House",
+   :longitude 121.3323138,
+   :latitude 13.953389,
+   :source :openstreetmap}
+  {:name "Tibiao Museum",
+   :longitude 122.0355196,
+   :latitude 11.2889103,
+   :source :openstreetmap,
+   :locality "Tibiao"}
+  {:name "Tribu K'Mindanawan Cultural Village",
+   :longitude 125.600053,
+   :latitude 7.098208,
+   :source :openstreetmap,
+   :locality "Davao City"}
+  {:name "UMak Performing Arts Theater",
+   :longitude 121.0559721,
+   :latitude 14.5627538,
+   :source :openstreetmap,
+   :homepage "https://www.umak.edu.ph/performingartstheater",
+   :locality "Taguig"}
+  {:name "University Museum",
+   :longitude 120.9396094,
+   :latitude 15.445236,
+   :source :openstreetmap}
+  {:name "University of San Carlos Museum",
+   :longitude 123.8983121,
+   :latitude 10.3001387,
+   :source :openstreetmap,
+   :homepage "https://usc.edu.ph/academics/museums"}
+  {:name "UPLB Museum of Natural History",
+   :longitude 121.2364671,
+   :latitude 14.1560104,
+   :source :openstreetmap,
+   :locality "Los Baños"}
+  {:name "UPV Museum of Natural Sciences",
+   :longitude 122.2289109,
+   :latitude 10.6404875,
+   :source :openstreetmap,
+   :locality "Miagao"}
+  {:name "UST Museum",
+   :longitude 120.9891706,
+   :latitude 14.6101615,
+   :source :openstreetmap,
+   :homepage "https://ustmuseum.ust.edu.ph/",
+   :locality "Manila"}
+  {:name "V Gallery x Museum",
+   :longitude 123.1883356,
+   :latitude 13.6344929,
+   :source :openstreetmap}
+  {:name "Vargas Museum",
+   :longitude 121.0668113,
+   :latitude 14.6533182,
+   :source :openstreetmap}
+  {:name "Victor Oteyza Community Art Space (VOCAS)",
+   :longitude 120.5980468,
+   :latitude 16.4116443,
+   :source :openstreetmap}
+  {:name "Vintage Glasses Museum",
+   :longitude 122.9201073,
+   :latitude 10.6004915,
+   :source :openstreetmap,
+   :locality "Bacolod"}
+  {:name "W-Autosports Museum",
+   :longitude 125.5952696,
+   :latitude 7.0974536,
+   :source :openstreetmap,
+   :locality "Davao City"}
+  {:name "Wee Siu Tuy Memorial Hall",
+   :longitude 122.1366477,
+   :latitude 6.6590382,
+   :source :openstreetmap}
+  {:name "Whale Bone Museum",
+   :longitude 123.3095377,
+   :latitude 9.3308241,
+   :source :openstreetmap}
+  {:name "Yuchengco Museum",
+   :longitude 121.0163586,
+   :latitude 14.5603989,
+   :source :openstreetmap,
+   :homepage "https://www.yuchengcomuseum.org/",
+   :locality "Makati"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

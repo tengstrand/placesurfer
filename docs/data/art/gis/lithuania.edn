@@ -1,0 +1,2415 @@
+{:count 409,
+ :country "lithuania",
+ :country-code "LT",
+ :dataset :art,
+ :generated-at "2026-05-26T06:21:04.808032Z",
+ :positions
+ [{:name "1863 metų sukilimo muziejus",
+   :longitude 23.9669987,
+   :latitude 55.5054223,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Kedainiai/Sukilimo_muz.htm"}
+  {:name "7 spalvos",
+   :longitude 23.3159394,
+   :latitude 55.9302559,
+   :source :openstreetmap,
+   :homepage "https://fotomuziejus.lt"}
+  {:name "A. Astrausko ortopedijos amato muziejus",
+   :longitude 23.850536,
+   :latitude 54.911251,
+   :source :openstreetmap,
+   :homepage "https://sites.google.com/site/ortopedijosmuziejus/",
+   :locality "Kaunas"}
+  {:name "A. Bagdono Tautodailės Muzėjus",
+   :longitude 22.107849,
+   :latitude 55.1885553,
+   :source :openstreetmap,
+   :locality "Griežpelkiai I"}
+  {:name "A. G. Audickų dviračių kolekcija",
+   :longitude 24.3770845,
+   :latitude 55.7203422,
+   :source :openstreetmap,
+   :locality "Panevėžys"}
+  {:name "A. ir J. Juškų etninės kultūros muziejus",
+   :longitude 23.583792,
+   :latitude 55.037702,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/Jusku_muziejus.htm",
+   :locality "Vilkija"}
+  {:name "A. Jonušo žemaitiška-japoniška sodyba-muziejus",
+   :longitude 22.230864,
+   :latitude 55.969229,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Telsiai/japoniska_sodyba.htm",
+   :locality "Telšiai"}
+  {:name "A. Matučio drevė",
+   :longitude 24.5833378,
+   :latitude 54.0944833,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitdzukija.lt/lankytinos-vietos/anzelmo-matucio-dreve-muziejus/"}
+  {:name "A. Poderio memorialinis muziejus",
+   :longitude 26.1347155,
+   :latitude 55.5833972,
+   :source :openstreetmap,
+   :locality "Salakas"}
+  {:name "Adelės ir Pauliaus Galaunių namai",
+   :longitude 23.9328801,
+   :latitude 54.9006975,
+   :source :openstreetmap,
+   :homepage
+   "https://ciurlionis.lt/veiklos/padaliniai/galauniu-namai-muziejus/",
+   :locality "Kaunas"}
+  {:name "Adomo Hrebnickio memorialinis muziejus",
+   :longitude 26.3648747,
+   :latitude 55.5301661,
+   :source :openstreetmap,
+   :homepage
+   "https://ignalinoskrastomuziejus.lt/padalinys/prof-adomo-hrebnickio-memorialinis-muziejus/"}
+  {:name "Adomo Petrausko sodyba-muziejus",
+   :longitude 24.7771365,
+   :latitude 55.8870322,
+   :source :openstreetmap,
+   :homepage
+   "https://etnografijosmuziejus.lt/muziejaus-struktura/a-petrausko-muziejus"}
+  {:name "Agluonėnų etnografinė sodyba",
+   :longitude 21.3936113,
+   :latitude 55.5852094,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/klaipeda/agluonenu_sodyba.htm",
+   :locality "Agluonėnai"}
+  {:name "Akis meno galerija",
+   :longitude 23.3075688,
+   :latitude 55.9308776,
+   :source :openstreetmap,
+   :homepage
+   "http://www.ausrosmuziejus.lt/Ekspozicijos/Poeto-Jovaro-namas"}
+  {:name "Akmenės krašto muziejus",
+   :longitude 22.7518096,
+   :latitude 56.2451376,
+   :source :openstreetmap,
+   :homepage "https://www.akmenesmuziejus.lt/",
+   :locality "Akmenė"}
+  {:name "Akvariumų salonas",
+   :longitude 26.4440204,
+   :latitude 55.5892491,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Visaginas/akvariumu_salonas.htm",
+   :locality "Visaginas"}
+  {:name "Aludarystės ekspozicija kaimo turizmo sodyboje „Alaušynė“",
+   :longitude 25.706713,
+   :latitude 55.584634,
+   :source :openstreetmap,
+   :homepage
+   "https://utenainfo.lt/lt/aludarystes_ekspozicija_kaimo_turizmo_sodyboje_alausyne"}
+  {:name "Alytaus kraštotyros muziejus",
+   :longitude 24.024033,
+   :latitude 54.414209,
+   :source :openstreetmap,
+   :homepage "https://www.alytausmuziejus.lt/",
+   :locality "Alytus"}
+  {:name "Amatininko Zenono Striškos medžio dirbtuvės",
+   :longitude 25.8640721,
+   :latitude 55.654107,
+   :source :openstreetmap}
+  {:name "Amatininkų kiemų rekonstrukcija",
+   :longitude 24.8472306,
+   :latitude 54.8839978,
+   :source :openstreetmap}
+  {:name "Amatų namas",
+   :longitude 25.5250027,
+   :latitude 56.1605608,
+   :source :openstreetmap}
+  {:name "Anatolijaus Tyčinos paveikslų ekspozicija",
+   :longitude 23.24698,
+   :latitude 56.096735,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Siauliai/tycinos_muziejus.htm",
+   :locality "Gruzdžiai"}
+  {:name "Angelo muziejus",
+   :longitude 23.3150693,
+   :latitude 55.9350269,
+   :source :openstreetmap,
+   :locality "Šiauliai"}
+  {:name "Angelų muziejus",
+   :longitude 25.1020319,
+   :latitude 55.5241358,
+   :source :openstreetmap,
+   :homepage "https://amenucentras.lt/angelu-muziejus/",
+   :locality "Anykščiai"}
+  {:name "Antalieptės Energetikos muziejus",
+   :longitude 25.867213,
+   :latitude 55.6593033,
+   :source :openstreetmap,
+   :homepage "http://antaliepte.lt/muziejai/"}
+  {:name
+   "Antano Baranausko ir Antano Vienuolio-Žukausko memorialinis muziejus",
+   :longitude 25.0977734,
+   :latitude 55.5270026,
+   :source :openstreetmap,
+   :homepage "http://www.baranauskas.lt",
+   :locality "Anykščiai"}
+  {:name "Antano Jonyno memorialinis muziejus",
+   :longitude 24.0617298,
+   :latitude 54.3867261,
+   :source :openstreetmap,
+   :homepage "https://www.alytausmuziejus.lt/jonynas/",
+   :locality "Alytus"}
+  {:name "Antano Mončio namai-muziejus",
+   :longitude 21.0592137,
+   :latitude 55.9139204,
+   :source :openstreetmap,
+   :homepage "https://www.antanasmoncys.com/lt/",
+   :locality "Palanga"}
+  {:name "Antano Truskausko medžioklės ir gamtos muziejus",
+   :longitude 25.5626908,
+   :latitude 55.2318735,
+   :source :openstreetmap,
+   :homepage
+   "https://www.infomoletai.lt/lankytinos-vietos/antano-truskausko-medziokles-ir-gamtos-ekspozicija-moletu-krasto-muziejaus-padalinys/",
+   :locality "Mindūnai"}
+  {:name "Antano Česnulio skulptūrų ir poilsio parkas",
+   :longitude 24.0372772,
+   :latitude 53.9899264,
+   :source :openstreetmap,
+   :homepage "http://www.cesnuliusodyba.lt",
+   :locality "Naujasodė"}
+  {:name "Anykščių menų centras",
+   :longitude 25.097583,
+   :latitude 55.5214663,
+   :source :openstreetmap,
+   :homepage "https://amenucentras.lt/",
+   :locality "Anykščiai"}
+  {:name "Anykščių menų inkubatorius - menų studija",
+   :longitude 25.1195796,
+   :latitude 55.5290094,
+   :source :openstreetmap,
+   :locality "Anykščiai"}
+  {:name "Anykščių miškų urėdijos Miško muziejus",
+   :longitude 24.878345,
+   :latitude 55.576949,
+   :source :openstreetmap}
+  {:name "Anykščių Retromobile istorinės technikos muziejus",
+   :longitude 25.1091539,
+   :latitude 55.5319233,
+   :source :openstreetmap,
+   :homepage "https://www.retromobile.lt"}
+  {:name "Anzelmo Matučio memorialinis muziejus",
+   :longitude 24.051842,
+   :latitude 54.3976,
+   :source :openstreetmap,
+   :homepage "https://www.alytausmuziejus.lt/matutis/",
+   :locality "Alytus"}
+  {:name "AP galerija",
+   :longitude 25.3027528,
+   :latitude 54.6814222,
+   :source :openstreetmap,
+   :homepage "https://www.apgalerija.lt/",
+   :locality "Vilnius"}
+  {:name "apiece",
+   :longitude 25.2644728,
+   :latitude 54.6823041,
+   :source :openstreetmap,
+   :homepage "https://www.apiece.lt/exhibitions/"}
+  {:name "Archeologinė ekspozicija Kai sieloms neliko medžių",
+   :longitude 24.0660398,
+   :latitude 54.4033024,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Alytus/alytaus_krastotyros_muziejus.htm",
+   :locality "Alytus"}
+  {:name "Arklio muziejus",
+   :longitude 25.0857676,
+   :latitude 55.5735755,
+   :source :openstreetmap,
+   :homepage "https://arkliomuziejus.lt/",
+   :locality "Niūronys"}
+  {:name "Atletika",
+   :longitude 25.3040634,
+   :latitude 54.6745831,
+   :source :openstreetmap,
+   :homepage "https://www.atletikaprojects.lt/"}
+  {:name "Atominis bunkeris",
+   :longitude 23.8421138,
+   :latitude 54.9139313,
+   :source :openstreetmap,
+   :homepage "https://www.atominisbunkeris.lt/",
+   :locality "Kaunas"}
+  {:name "Augulių muziejus",
+   :longitude 26.108943,
+   :latitude 55.3474379,
+   :source :openstreetmap,
+   :locality "Gaveikėnai"}
+  {:name "Automuziejus Vilnius",
+   :longitude 25.2738168,
+   :latitude 54.6650587,
+   :source :openstreetmap,
+   :homepage "https://automuziejus.lt/",
+   :locality "Vilnius"}
+  {:name "Aušros alėjos rūmai",
+   :longitude 23.3058169,
+   :latitude 55.9390761,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ausrosmuziejus.lt/Ekspozicijos/SAM-Edukacijos-centras",
+   :locality "Šiauliai"}
+  {:name "Aštuonračio muziejukas",
+   :longitude 22.76974,
+   :latitude 55.426673,
+   :source :openstreetmap,
+   :homepage "https://www.astuonratis.lt/lankomi-objektai-1",
+   :locality "Nemakščiai"}
+  {:name
+   "B. Grincevičiutės memorialinis butas-muziejus Beatričės namai",
+   :longitude 25.277289,
+   :latitude 54.689736,
+   :source :openstreetmap,
+   :homepage "https://bn.vilniausmuziejus.lt/",
+   :locality "Vilnius"}
+  {:name "Babtų kraštotyros ekspozicija",
+   :longitude 23.795468,
+   :latitude 55.087413,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/babtu_muz.htm",
+   :locality "Babtai"}
+  {:name "Balio ir Vandos Sruogų namai-muziejus",
+   :longitude 23.9502482,
+   :latitude 54.9068977,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/sruogu_muz.htm",
+   :locality "Kaunas"}
+  {:name "Balsių malūnas",
+   :longitude 24.3532933,
+   :latitude 56.0343279,
+   :source :openstreetmap,
+   :locality "Balsiai"}
+  {:name "Beepart kūrybinės dirbtuvės",
+   :longitude 25.1910178,
+   :latitude 54.7071825,
+   :source :openstreetmap,
+   :homepage "http://www.beepart.lt/",
+   :locality "Vilnius"}
+  {:name "Berteškių kaimo muziejus",
+   :longitude 23.3385698,
+   :latitude 55.3889954,
+   :source :openstreetmap,
+   :locality "Berteškiai"}
+  {:name "Betygalos muziejus",
+   :longitude 23.370281,
+   :latitude 55.359458,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Raseiniai/Raseiniu_muziejus.htm",
+   :locality "Betygala"}
+  {:name "Birštono muziejus",
+   :longitude 24.032502,
+   :latitude 54.604616,
+   :source :openstreetmap,
+   :homepage "https://www.birstonomuziejus.lt/",
+   :locality "Birštonas"}
+  {:name "Biržų Radvilų pilis",
+   :longitude 24.7533575,
+   :latitude 56.2048692,
+   :source :openstreetmap,
+   :homepage "https://www.birzumuziejus.lt/",
+   :locality "Biržai"}
+  {:name "Brazauskų namai-muziejus",
+   :longitude 24.462647,
+   :latitude 54.860152,
+   :source :openstreetmap,
+   :homepage "https://www.kaisiadoriumuziejus.lt/",
+   :locality "Kaišiadorys"}
+  {:name "Bronės ir Broniaus Radeckų keramikos muziejus",
+   :longitude 22.953796,
+   :latitude 56.006118,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Siauliai/rudecku_keramikos_muziejus.htm",
+   :locality "Kuršėnai"}
+  {:name "Buities rakandų muziejus",
+   :longitude 21.249567,
+   :latitude 55.9101213,
+   :source :openstreetmap,
+   :homepage "https://www.vienkiemis.lt/lt/buities-rakandu-muziejus",
+   :locality "Padvariai"}
+  {:name "Burbiškio dvaro istorijos ekspozicija",
+   :longitude 23.8981503,
+   :latitude 55.7823674,
+   :source :openstreetmap}
+  {:name "Buvusi areštinė",
+   :longitude 25.2941819,
+   :latitude 54.6888774,
+   :source :openstreetmap,
+   :homepage "https://www.lnm.lt/buvusi-arestine/",
+   :locality "Vilnius"}
+  {:name "Chaimo Frenkelio vila",
+   :longitude 23.3285576,
+   :latitude 55.9254571,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ausrosmuziejus.lt/Ekspozicijos/Chaimo-Frenkelio-vila",
+   :locality "Šiauliai"}
+  {:name "Compensa koncertų salė",
+   :longitude 25.2766353,
+   :latitude 54.7116309,
+   :source :openstreetmap,
+   :locality "Vilnius"}
+  {:name "Contour Art Gallery",
+   :longitude 25.398791,
+   :latitude 54.6927145,
+   :source :openstreetmap,
+   :homepage "https://contourart.gallery/"}
+  {:name "D. Poškos muziejus",
+   :longitude 22.5701918,
+   :latitude 55.4689177,
+   :source :openstreetmap,
+   :homepage
+   "https://silalesmuziejus.lt/dionizo-poskos-baubliu-muziejus/"}
+  {:name "Dingęs štetlas",
+   :longitude 23.7709238,
+   :latitude 55.7471206,
+   :source :openstreetmap,
+   :homepage "https://lostshtetl.lt/"}
+  {:name "Druskininkų Kultūros centras",
+   :longitude 23.9731201,
+   :latitude 54.021999,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/druskininkai/druskininku_rezistencijos.htm",
+   :locality "Druskininkai"}
+  {:name "Druskininkų miesto muziejus",
+   :longitude 23.9730874,
+   :latitude 54.0166567,
+   :source :openstreetmap,
+   :locality "Druskininkai"}
+  {:name "Dubingių krašto muziejus",
+   :longitude 25.4530655,
+   :latitude 55.0581399,
+   :source :openstreetmap,
+   :homepage "https://dubingiai.info/dubingiu-krastotyros-muziejus/",
+   :locality "Dubingiai"}
+  {:name "Dusetų meno mokykla",
+   :longitude 25.843824,
+   :latitude 55.7505357,
+   :source :openstreetmap,
+   :homepage "https://menas.dusetos.lm.lt/",
+   :locality "Dusetos"}
+  {:name "Dviračių muziejus",
+   :longitude 23.3198565,
+   :latitude 55.9283623,
+   :source :openstreetmap,
+   :homepage "https://www.ausrosmuziejus.lt",
+   :locality "Šiauliai"}
+  {:name "Dzūkijos nacionalinio parko etnografinė sodyba-muziejus",
+   :longitude 24.407939,
+   :latitude 54.0543634,
+   :source :openstreetmap,
+   :homepage "http://gamta.cepkeliai-dzukija.lt/index,lt,19923.html",
+   :locality "Marcinkonys"}
+  {:name "Eduardo Jonušo namai",
+   :longitude 20.987106,
+   :latitude 55.2999528,
+   :source :openstreetmap,
+   :locality "Neringa"}
+  {:name "Eglutės žaisliukų muziejus",
+   :longitude 24.5388302,
+   :latitude 55.6768675,
+   :source :openstreetmap,
+   :homepage
+   "https://www.panrbiblioteka.lt/interaktyvi-kelione/kalediniu-zaisliuku-muziejus/",
+   :locality "Miežiškiai"}
+  {:name "Ekspozicija „Laisvės kovos Šilavoto krašte“",
+   :longitude 23.7622705,
+   :latitude 54.6676199,
+   :source :openstreetmap,
+   :locality "Šilavotas"}
+  {:name "Elektrėnų savivaldybės literatūros ir meno muziejus",
+   :longitude 24.6553648,
+   :latitude 54.7811741,
+   :source :openstreetmap,
+   :homepage "https://www.elektrenumuziejus.lt/",
+   :locality "Elektrėnai"}
+  {:name "Emilijos Digrevičienės kūrybos muziejus",
+   :longitude 23.2293587,
+   :latitude 55.6209865,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/kelme/tytuvenu_parko_muziejai.htm",
+   :locality "Budraičiai"}
+  {:name "Energetikos ir technikos muziejus",
+   :longitude 25.2876346,
+   :latitude 54.6903518,
+   :source :openstreetmap,
+   :homepage "https://etm.lt/",
+   :locality "Vilnius"}
+  {:name "Etnografinė pajūrio žvejo sodyba",
+   :longitude 21.1043532,
+   :latitude 55.7140871,
+   :source :openstreetmap}
+  {:name "Etnografinė Prano Dzūko sodyba",
+   :longitude 23.468011,
+   :latitude 54.3571603,
+   :source :openstreetmap,
+   :homepage
+   "https://www.lazdijumuziejus.lt/lt/etnografin%C4%97-prano-dz%C5%ABko-sodyba",
+   :locality "Delnica"}
+  {:name "Etnokosmologijos muziejus",
+   :longitude 25.5561166,
+   :latitude 55.3150806,
+   :source :openstreetmap,
+   :homepage "https://www.etnokosmomuziejus.lt/",
+   :locality "Kulionys"}
+  {:name "Eugenijaus ir Leonardo Matuzevičių memorialinis muziejus",
+   :longitude 24.5324547,
+   :latitude 56.0806116,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/pasvalys/pasvalio_krasto_muziejus.htm",
+   :locality "Krinčinas"}
+  {:name "Europos centro muziejus Europos parkas",
+   :longitude 25.3516217,
+   :latitude 54.8308756,
+   :source :openstreetmap,
+   :homepage "https://www.europosparkas.org/",
+   :locality "Joneikiškės"}
+  {:name "Farmacijos muziejus",
+   :longitude 25.0630626,
+   :latitude 54.8902368,
+   :source :openstreetmap,
+   :homepage "https://www.entafarma.lt/farmacijos-muziejus",
+   :locality "Klonėnai"}
+  {:name "Gabrielės Petkevičaitės-Bitės muziejus",
+   :longitude 24.0653103,
+   :latitude 55.8685371,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Panevezys/petkevicaites_bites_muziejus.htm",
+   :locality "Puziniškis"}
+  {:name "Galerija AV17",
+   :longitude 25.2892129,
+   :latitude 54.6747855,
+   :source :openstreetmap,
+   :homepage "https://www.av17gallery.com/?lang=lt",
+   :locality "Vilnius"}
+  {:name "Gargždų krašto muziejus",
+   :longitude 21.403243,
+   :latitude 55.712551,
+   :source :openstreetmap,
+   :homepage "https://www.gargzdumuziejus.lt/",
+   :locality "Gargždai"}
+  {:name "Gedimino pilis",
+   :longitude 25.2906848,
+   :latitude 54.6867592,
+   :source :openstreetmap,
+   :homepage "https://www.lnm.lt/",
+   :locality "Vilnius"}
+  {:name "Geležinkelių muziejus",
+   :longitude 25.284226,
+   :latitude 54.670257,
+   :source :openstreetmap,
+   :homepage "https://ltgmuziejus.lt",
+   :locality "Vilnius"}
+  {:name "Generolo Jono Žemaičio Lietuvos karo akademijos muziejus",
+   :longitude 25.313119,
+   :latitude 54.703945,
+   :source :openstreetmap,
+   :homepage
+   "https://www.limis.lt/muzieju-kontaktai/-/museumSearch/view/806248?page=1&rowsOnPage=0",
+   :locality "Vilnius"}
+  {:name "Giedra Galerija",
+   :longitude 25.3893026,
+   :latitude 55.3441093,
+   :source :openstreetmap,
+   :locality "Svobiškėlis"}
+  {:name "Gintaro galerija-muziejus",
+   :longitude 25.2906805,
+   :latitude 54.6830285,
+   :source :openstreetmap,
+   :homepage "http://www.ambergallery.lt",
+   :locality "Vilnius"}
+  {:name "Gintaro galerija-muziejus",
+   :longitude 21.0078829,
+   :latitude 55.3085621,
+   :source :openstreetmap,
+   :homepage "http://www.ambergallery.lt/gintaro-galerija-muziejus/",
+   :locality "Neringa"}
+  {:name "Gintaro muziejus",
+   :longitude 21.0557696,
+   :latitude 55.9068276,
+   :source :openstreetmap,
+   :homepage "http://www.pgm.lt/",
+   :locality "Palanga"}
+  {:name "Ginučių vandens malūnas",
+   :longitude 25.9948451,
+   :latitude 55.385324,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ignalina.info/lankytinos-vietos/ginuciu-vandens-malunas/",
+   :locality "Ginučiai"}
+  {:name "Girstučio kultūros ir sporto centras",
+   :longitude 23.974902,
+   :latitude 54.9069454,
+   :source :openstreetmap,
+   :locality "Kaunas"}
+  {:name "Gubernija alaus darykla",
+   :longitude 23.3206323,
+   :latitude 55.9498585,
+   :source :openstreetmap,
+   :locality "Šiauliai"}
+  {:name "Gyvenimo mokykla",
+   :longitude 23.1702228,
+   :latitude 54.8509928,
+   :source :openstreetmap,
+   :homepage "https://www.gyvenimo-mokykla.com/",
+   :locality "Griškabūdis"}
+  {:name "Habil. dr. E. Šimkūnaitės memorialinė ekspozicija",
+   :longitude 25.2147745,
+   :latitude 54.6774773,
+   :source :openstreetmap,
+   :homepage
+   "https://www.simkunaites-fondas.lt/eugenijos-simkunaites-memorialine-ekspozicija-tautos-nacionalinis-paveldas/",
+   :locality "Vilnius"}
+  {:name "Ignalinos etninės kultūros centras",
+   :longitude 26.1600568,
+   :latitude 55.3434262,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/ignalina/muziejai_ignalinoje.htm",
+   :locality "Ignalina"}
+  {:name "Iliuzijų muziejus",
+   :longitude 25.2846364,
+   :latitude 54.6785271,
+   :source :openstreetmap,
+   :homepage "https://www.vilnil.lt/",
+   :locality "Vilnius"}
+  {:name "Iliuzijų namai „Eureka“",
+   :longitude 21.0608511,
+   :latitude 55.9182733,
+   :source :openstreetmap,
+   :homepage
+   "https://www.palangatic.lt/lankytinos-vietos/tremties-ir-rezistencijos-muziejus/",
+   :locality "Palanga"}
+  {:name "Inkilų muziejus",
+   :longitude 23.5113001,
+   :latitude 56.0216245,
+   :source :openstreetmap,
+   :homepage "https://naisiai.lt/lankytini-objektai/inkilu-muziejus/"}
+  {:name "Insektariumas",
+   :longitude 21.0758007,
+   :latitude 55.9208497,
+   :source :openstreetmap,
+   :homepage "http://www.insektariumas.lt",
+   :locality "Palanga"}
+  {:name "Irklavimo muziejus",
+   :longitude 24.9181557,
+   :latitude 54.6537115,
+   :source :openstreetmap,
+   :homepage "https://www.academia.lt/",
+   :locality "Trakai"}
+  {:name "Ivano Luckevičiaus vardo gudų muziejus",
+   :longitude 25.278633,
+   :latitude 54.673381,
+   :source :openstreetmap,
+   :locality "Vilnius"}
+  {:name "IX forto muziejus",
+   :longitude 23.8746974,
+   :latitude 54.9439835,
+   :source :openstreetmap,
+   :homepage "https://www.9fortomuziejus.lt",
+   :locality "Kaunas"}
+  {:name "J. Biliūno gimtinė",
+   :longitude 25.0933394,
+   :latitude 55.5706041,
+   :source :openstreetmap,
+   :homepage
+   "http://www.baranauskas.lt/lt/left/apie-mus/jono-biliuno-sodyba-muziejus/"}
+  {:name "J. Gižo etnografinė sodyba",
+   :longitude 21.240246,
+   :latitude 55.517442,
+   :source :openstreetmap,
+   :homepage "https://www.klaipedadistrict.lt/index.php?lang=LT",
+   :locality "Dreverna"}
+  {:name "J. Grundos galerija Skaptukas",
+   :longitude 26.17614,
+   :latitude 55.342812,
+   :source :openstreetmap,
+   :locality "Ignalina"}
+  {:name "Jakiškių dvaras",
+   :longitude 23.5309216,
+   :latitude 56.1802324,
+   :source :openstreetmap,
+   :locality "Jakiškiai"}
+  {:name "Jakų radijo stotis",
+   :longitude 21.2228116,
+   :latitude 55.7004136,
+   :source :openstreetmap,
+   :homepage
+   "https://www.gargzdumuziejus.lt/apie-ekspozicija/ekspozicijos/Jaku-radijo-stotis/",
+   :locality "Jakai"}
+  {:name "Janinos Monkutės-Marks muziejus-galerija",
+   :longitude 23.9780608,
+   :latitude 55.2917935,
+   :source :openstreetmap,
+   :homepage "https://www.jmm-muziejus.lt/",
+   :locality "Kėdainiai"}
+  {:name "Jautmalkės Gamtos mokykla",
+   :longitude 23.0271775,
+   :latitude 55.7999287,
+   :source :openstreetmap,
+   :homepage
+   "http://www.krpd.lt/puslapis/jautmalkes-gamtos-mokykla.304/"}
+  {:name "Jeruzalės skulptūrų sodas",
+   :longitude 25.2669481,
+   :latitude 54.7469224,
+   :source :openstreetmap,
+   :homepage "https://www.skulpturusodas.com"}
+  {:name "Jonavos krašto muziejus",
+   :longitude 24.2793596,
+   :latitude 55.0731226,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Jonava/jonavos_muziejus.htm",
+   :locality "Jonava"}
+  {:name "Jonavos kultūros centras",
+   :longitude 24.2750429,
+   :latitude 55.0749387,
+   :source :openstreetmap,
+   :locality "Jonava"}
+  {:name "Joniškio istorijos ir kultūros muziejus",
+   :longitude 23.6116169,
+   :latitude 56.2389732,
+   :source :openstreetmap,
+   :homepage "https://www.joniskiokc.lt/",
+   :locality "Joniškis"}
+  {:name "Jono Basanavičiaus gimtinė",
+   :longitude 22.9973804,
+   :latitude 54.4875591,
+   :source :openstreetmap,
+   :homepage "https://lnm.lt/muziejai/jono-basanaviciaus-gimtine/",
+   :locality "Ožkabaliai I"}
+  {:name "Jono Jablonskio tėviškė",
+   :longitude 23.1847895,
+   :latitude 54.8275272,
+   :source :openstreetmap,
+   :locality "Rygiškiai"}
+  {:name "Juodkrantės aplinkos tyrimų laboratorija",
+   :longitude 21.121061,
+   :latitude 55.545382,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/ivanausko_muziejus.htm",
+   :locality "Neringa"}
+  {:name "Juozo Gruodžio memorialinis muziejus",
+   :longitude 23.9139848,
+   :latitude 54.9152908,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/gruodzio_muziejus.htm",
+   :locality "Kaunas"}
+  {:name "Juozo Grušo memorialinis muziejus",
+   :longitude 23.926314,
+   :latitude 54.909965,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/gruso_muz.htm",
+   :locality "Kaunas"}
+  {:name "Juozo Tumo-Vaižganto ir knygnešių muziejus",
+   :longitude 24.1019896,
+   :latitude 55.6154239,
+   :source :openstreetmap,
+   :locality "Ustronė"}
+  {:name "Juozo Zikaro memorialinis muziejus",
+   :longitude 23.8994306,
+   :latitude 54.8997845,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/zikaro_mem_muziejus.htm",
+   :locality "Kaunas"}
+  {:name "Jurbarko krašto muziejus",
+   :longitude 22.7569563,
+   :latitude 55.079655,
+   :source :openstreetmap,
+   :homepage "https://www.jurbarkomuziejus.lt",
+   :locality "Jurbarkas"}
+  {:name "Justino Vienožinskio tėviškė",
+   :longitude 25.7457198,
+   :latitude 55.9420625,
+   :source :openstreetmap,
+   :homepage
+   "https://sites.google.com/site/dailesteorija/justino-vienozinskio-memoralinis-muziejus-daciunuose",
+   :locality "Audronys I"}
+  {:name "K. Banio etnografinė žvejo sodyba-muziejus",
+   :longitude 21.3623155,
+   :latitude 55.2937818,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Silute/etnografine_sodyba.htm",
+   :locality "Rusnė"}
+  {:name "K. Sakalausko privatus etnografinis muziejus",
+   :longitude 24.3599429,
+   :latitude 55.7801119,
+   :source :openstreetmap,
+   :locality "Piniava"}
+  {:name "Kaišiadorių muziejaus Jono Aisčio skyrius",
+   :longitude 24.221284,
+   :latitude 54.866837,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Kaisiadorys/Rumsiskiu_muziejus.htm",
+   :locality "Rumšiškės"}
+  {:name "Kaišiadorių muziejus",
+   :longitude 24.4489409,
+   :latitude 54.858123,
+   :source :openstreetmap,
+   :homepage "https://www.kaisiadoriumuziejus.lt/",
+   :locality "Kaišiadorys"}
+  {:name "Kaišiadorių muziejus",
+   :longitude 24.4372805,
+   :latitude 54.8555167,
+   :source :openstreetmap,
+   :homepage "https://www.kaisiadoriumuziejus.lt/",
+   :locality "Kaišiadorys"}
+  {:name "Kalvystės muziejus",
+   :longitude 21.137067,
+   :latitude 55.7066218,
+   :source :openstreetmap,
+   :homepage
+   "https://www.mlimuziejus.lt/lt/muziejus/kalvystes-muziejus/",
+   :locality "Klaipėda"}
+  {:name "Kapčiamiesčio Emilijos Pliaterytės muziejus",
+   :longitude 23.660486,
+   :latitude 54.004173,
+   :source :openstreetmap,
+   :homepage "https://lazdijumuziejus.lt/",
+   :locality "Kapčiamiestis"}
+  {:name "Katinų muziejus",
+   :longitude 23.337262,
+   :latitude 55.9269835,
+   :source :openstreetmap}
+  {:name "Kauno arkivyskupijos muziejus",
+   :longitude 23.8947853,
+   :latitude 54.8967816,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Kaunas/kauno_arkivyskupijos_muziejus.htm",
+   :locality "Kaunas"}
+  {:name "Kauno lėlių teatro muziejus",
+   :longitude 23.907356,
+   :latitude 54.897085,
+   :source :openstreetmap,
+   :homepage "https://www.kaunoleles.lt",
+   :locality "Kaunas"}
+  {:name "Kauno paveikslų galerija",
+   :longitude 23.9238754,
+   :latitude 54.8989717,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/paveikslu_galerija.htm",
+   :locality "Kaunas"}
+  {:name "Kauno rajono muziejus",
+   :longitude 23.7844573,
+   :latitude 54.9432994,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/kaunas/kauno_rajono_muziejus.htm",
+   :locality "Raudondvaris"}
+  {:name "Kauno Tado Ivanausko zoologijos muziejus",
+   :longitude 23.9039525,
+   :latitude 54.8982652,
+   :source :openstreetmap,
+   :homepage "https://www.zoomuziejus.lt",
+   :locality "Kaunas"}
+  {:name "Kauno tvirtovės VII fortas",
+   :longitude 23.926172,
+   :latitude 54.915673,
+   :source :openstreetmap,
+   :homepage "https://www.septintasfortas.lt/",
+   :locality "Kaunas"}
+  {:name "Kazio Varnelio namai-muziejus",
+   :longitude 25.287832,
+   :latitude 54.67835,
+   :source :openstreetmap,
+   :homepage "https://www.lnm.lt/",
+   :locality "Vilnius"}
+  {:name "Kazlų Rūdos miško muziejus",
+   :longitude 23.5103268,
+   :latitude 54.7489616,
+   :source :openstreetmap}
+  {:name "Kelių muziejus",
+   :longitude 24.8147967,
+   :latitude 54.7725904,
+   :source :openstreetmap,
+   :homepage "https://keliųmuziejus.lt/",
+   :locality "Vievis"}
+  {:name "Kelmės krašto muziejus",
+   :longitude 22.9383253,
+   :latitude 55.6383,
+   :source :openstreetmap,
+   :homepage "https://www.kelmesmuziejus.lt/",
+   :locality "Kelmė"}
+  {:name "Keramikos muziejus",
+   :longitude 23.8859373,
+   :latitude 54.8967673,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/keramikos_muziejus.htm",
+   :locality "Kaunas"}
+  {:name "Kernavės archeologijos ir istorijos muziejus",
+   :longitude 24.8538172,
+   :latitude 54.8855872,
+   :source :openstreetmap,
+   :homepage "https://www.kernave.org/",
+   :locality "Kernavė"}
+  {:name "Klaipėdos koncertų salė",
+   :longitude 21.1304796,
+   :latitude 55.7172774,
+   :source :openstreetmap,
+   :homepage "https://www.koncertusale.lt/",
+   :locality "Klaipėda"}
+  {:name "Klangių etnografinė sodyba",
+   :longitude 23.3248088,
+   :latitude 55.0859424,
+   :source :openstreetmap,
+   :homepage
+   "https://jurbarkomuziejus.lt/padaliniai/klangiu-etnografine-sodyba/"}
+  {:name "Kleboniškių kaimo buities ekspozicija",
+   :longitude 23.8557021,
+   :latitude 55.7700824,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/radviliskis/kleboniskes.htm"}
+  {:name "Klounų muziejus",
+   :longitude 23.94652,
+   :latitude 54.8709307,
+   :source :openstreetmap,
+   :homepage
+   "http://www.cirkas.lt/langlt/Cirko-veikla/Klounu-muziejus/"}
+  {:name "Konstantino Glinskio sodyba-muziejus",
+   :longitude 22.745776,
+   :latitude 55.082482,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Jurbarkas/glinskio_muz.htm",
+   :locality "Jurbarkas"}
+  {:name "Kražių M. K. Sarbievijaus kultūros centro muziejus",
+   :longitude 22.6891453,
+   :latitude 55.6058712,
+   :source :openstreetmap,
+   :homepage "https://www.kraziai.lt/",
+   :locality "Kražiai"}
+  {:name "Krepšinio muziejus",
+   :longitude 23.6161322,
+   :latitude 56.2427063,
+   :source :openstreetmap,
+   :homepage
+   "http://tic.siauliai.lt/place/joniskio-krepsinio-muziejus/",
+   :locality "Joniškis"}
+  {:name "Krepšinio namai",
+   :longitude 23.8828147,
+   :latitude 54.8961095,
+   :source :openstreetmap,
+   :homepage "https://ltu.basketball/",
+   :locality "Kaunas"}
+  {:name "Kretingos muziejus",
+   :longitude 21.2489077,
+   :latitude 55.8999231,
+   :source :openstreetmap,
+   :homepage "https://www.kretingosmuziejus.lt",
+   :locality "Kretinga"}
+  {:name "Kretingos rajono kultūros centras",
+   :longitude 21.2459955,
+   :latitude 55.8918665,
+   :source :openstreetmap,
+   :locality "Kretinga"}
+  {:name "Kriaunų istorijos muziejus",
+   :longitude 25.7971316,
+   :latitude 55.8511121,
+   :source :openstreetmap,
+   :locality "Kriaunos"}
+  {:name "Kudirkos muziejus",
+   :longitude 23.1844446,
+   :latitude 54.6571689,
+   :source :openstreetmap,
+   :locality "Paežeriai"}
+  {:name "Kulių krašto muziejus",
+   :longitude 21.6542345,
+   :latitude 55.8055907,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visitplunge.lt/index.php?module=tourism&action=view_poi&id=118"}
+  {:name "Kultūros namai",
+   :longitude 22.4003858,
+   :latitude 56.2368929,
+   :source :openstreetmap,
+   :locality "Užlieknė"}
+  {:name
+   "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+   :longitude 23.980552,
+   :latitude 55.285463,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kedainiai/Kedainiu_muziejus.htm",
+   :locality "Kėdainiai"}
+  {:name "Kunigo Antano Tatarės muziejus",
+   :longitude 22.9923856,
+   :latitude 54.8800852,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Sakiai/tatares_muziejus.htm",
+   :locality "Sintautai"}
+  {:name "Kunigo Prelato Juzefo Obrembskio muziejus",
+   :longitude 25.065823,
+   :latitude 54.8692516,
+   :source :openstreetmap,
+   :locality "Maišiagala"}
+  {:name "Kunigo Stanislovo Rimkaus (1912-1942) muziejus",
+   :longitude 22.2253831,
+   :latitude 55.6199556,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Silale/rimkaus_muz.htm",
+   :locality "Laukuva"}
+  {:name "Kuršių Nerijos Nacionalinio parko lankytojų centras",
+   :longitude 21.1207343,
+   :latitude 55.542099,
+   :source :openstreetmap,
+   :locality "Neringa"}
+  {:name "Kuršėnų kalendorių muziejus",
+   :longitude 22.930837,
+   :latitude 55.999538,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Siauliai/kursenu_kalendoriu_muziejus.htm",
+   :locality "Kuršėnai"}
+  {:name "Kuršėnų kūrybos namai",
+   :longitude 22.9235596,
+   :latitude 55.9929423,
+   :source :openstreetmap,
+   :homepage "https://kurybosnamai.lt/",
+   :locality "Kuršėnai"}
+  {:name "Kūrybinis inkubatorius „Kultūros fabrikas“",
+   :longitude 21.1410193,
+   :latitude 55.707939,
+   :source :openstreetmap,
+   :locality "Klaipėda"}
+  {:name "Laikrodžių muziejus",
+   :longitude 21.1341251,
+   :latitude 55.7122014,
+   :source :openstreetmap,
+   :homepage "https://www.ldm.lt/lm/",
+   :locality "Klaipėda"}
+  {:name "Laiptų galerija",
+   :longitude 23.3109211,
+   :latitude 55.9402956,
+   :source :openstreetmap,
+   :locality "Šiauliai"}
+  {:name "Laisvės kovų ir tremties istorijos muziejus",
+   :longitude 21.3171047,
+   :latitude 55.5566281,
+   :source :openstreetmap,
+   :homepage
+   "https://www.gargzdumuziejus.lt/filialas-laisves-kovu-ir-tremties-istorijos-muziejus/",
+   :locality "Priekulė"}
+  {:name "Laisvės kovų muziejus",
+   :longitude 23.5118409,
+   :latitude 54.2366062,
+   :source :openstreetmap,
+   :homepage "https://lazdijumuziejus.lt/laisves-kovu-muziejus/",
+   :locality "Lazdijai"}
+  {:name "Laisvės kovų muziejus",
+   :longitude 25.5821961,
+   :latitude 55.4941527,
+   :source :openstreetmap,
+   :homepage
+   "https://www.utenosmuziejus.lt/apie-muzieju/padaliniai/laisves-kovu-muziejus",
+   :locality "Utena"}
+  {:name "Laivas-muziejus M52 „Sūduvis“",
+   :longitude 21.1294553,
+   :latitude 55.7089958,
+   :source :openstreetmap,
+   :homepage
+   "https://muziejus.lt/lt/paslaugos/laivas-muziejus-m52-suduvis",
+   :locality "Klaipėda"}
+  {:name "Lakūno Stepono Dariaus gimtinė",
+   :longitude 21.8449056,
+   :latitude 55.5942732,
+   :source :openstreetmap,
+   :homepage
+   "https://www.lam.lt/susipazinkime/lakunu-gimtines-muziejai/",
+   :locality "Darius"}
+  {:name "Laukminiškių kaimo muziejus",
+   :longitude 25.0656576,
+   :latitude 55.9594621,
+   :source :openstreetmap,
+   :homepage
+   "https://etnografijosmuziejus.lt/muziejaus-struktura/laukminiskiu-kaimo-muziejus",
+   :locality "Laukminiškiai"}
+  {:name "Lazdijų krašto muziejus",
+   :longitude 23.5127919,
+   :latitude 54.2299551,
+   :source :openstreetmap,
+   :homepage "https://lazdijumuziejus.lt/",
+   :locality "Lazdijai"}
+  {:name "Lazdynų Pelėdos muziejus-ekspozicija",
+   :longitude 22.626329,
+   :latitude 56.105235,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Akmene/Paragiu_muz.htm"}
+  {:name "Liaudies amatų muziejus",
+   :longitude 24.016488,
+   :latitude 54.0017571,
+   :source :openstreetmap}
+  {:name "Lietuvos aklųjų istorijos muziejus",
+   :longitude 25.25661,
+   :latitude 54.669861,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Vilnius/akluju_muziejus.htm",
+   :locality "Vilnius"}
+  {:name "Lietuvos aviacijos muziejus",
+   :longitude 23.8904064,
+   :latitude 54.8779682,
+   :source :openstreetmap,
+   :homepage "https://www.lam.lt/",
+   :locality "Kaunas"}
+  {:name "Lietuvos banko Pinigų muziejus",
+   :longitude 25.2824605,
+   :latitude 54.6865081,
+   :source :openstreetmap,
+   :homepage "https://www.pinigumuziejus.lt/",
+   :locality "Vilnius"}
+  {:name
+   "Lietuvos didžiojo kunigaikščio Vytenio Bendrosios paramos logistikos bataliono muziejus",
+   :longitude 23.340891,
+   :latitude 54.539285,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/marijampole/bataliono_muziejus.htm",
+   :locality "Marijampolė"}
+  {:name "Lietuvos geležinkelių muziejus",
+   :longitude 25.2738379,
+   :latitude 54.6770904,
+   :source :openstreetmap,
+   :homepage
+   "https://ltg.lt/tvarumas/tvarumo-projektai/gelezinkeliu-muziejus/",
+   :locality "Vilnius"}
+  {:name "Lietuvos jūrų muziejus",
+   :longitude 21.0997578,
+   :latitude 55.7167672,
+   :source :openstreetmap,
+   :homepage "https://muziejus.lt/",
+   :locality "Klaipėda"}
+  {:name "Lietuvos laisvės kovų ir kančių muziejus",
+   :longitude 24.1836517,
+   :latitude 54.163442,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Varena/merkines_krastotyros.htm",
+   :locality "Merkinė"}
+  {:name "Lietuvos liaudies buities muziejus",
+   :longitude 24.2011716,
+   :latitude 54.8664246,
+   :source :openstreetmap,
+   :homepage "https://www.llbm.lt/",
+   :locality "Rumšiškės"}
+  {:name "Lietuvos partizanų ryšininkų Miknių sodyba",
+   :longitude 23.5527992,
+   :latitude 55.6275629,
+   :source :openstreetmap}
+  {:name "Lietuvos radijo ir televizijos muziejus",
+   :longitude 25.249974,
+   :latitude 54.677673,
+   :source :openstreetmap,
+   :homepage "https://apie.lrt.lt/naudinga-informacija/muziejus",
+   :locality "Vilnius"}
+  {:name "Lietuvos teatro, muzikos ir kino muziejus",
+   :longitude 25.2809898,
+   :latitude 54.6813187,
+   :source :openstreetmap,
+   :homepage "https://www.ltmkm.lt/",
+   :locality "Vilnius"}
+  {:name "Lietuvos totorių buities muziejus",
+   :longitude 24.177526,
+   :latitude 54.2080292,
+   :source :openstreetmap,
+   :locality "Subartonys"}
+  {:name "Lietuvos šaulių sąjungos muziejus",
+   :longitude 23.919352,
+   :latitude 54.897314,
+   :source :openstreetmap,
+   :homepage "https://www.sauliusajunga.lt/",
+   :locality "Kaunas"}
+  {:name "Lietuvos švietimo istorijos muziejus",
+   :longitude 23.9254296,
+   :latitude 54.8947913,
+   :source :openstreetmap,
+   :homepage "https://www.lsim.lt/",
+   :locality "Kaunas"}
+  {:name "Lietuvos žydų kultūros ir tapatybės muziejus",
+   :longitude 25.2773996,
+   :latitude 54.6836835,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jmuseum.lt/lt/lietuvos-zydu-kulturos-ir-tapatybes-muziejus/",
+   :locality "Vilnius"}
+  {:name "Linų muziejus",
+   :longitude 24.231186,
+   :latitude 55.6292361,
+   :source :openstreetmap}
+  {:name "LITEXPO",
+   :longitude 25.2251214,
+   :latitude 54.678689,
+   :source :openstreetmap,
+   :homepage "https://www.litexpo.lt/",
+   :locality "Vilnius"}
+  {:name "Lituanistikos židinys",
+   :longitude 25.304383,
+   :latitude 54.695448,
+   :source :openstreetmap,
+   :homepage "https://lki.lt/muziejus-lituanistikos-zidinys/",
+   :locality "Vilnius"}
+  {:name "Liubavo dvaro malūnas-muziejus",
+   :longitude 25.3413838,
+   :latitude 54.8506627,
+   :source :openstreetmap,
+   :homepage "https://www.liubavas.lt/",
+   :locality "Liubavas"}
+  {:name
+   "Liudvikos ir Stanislovo Didžiulių memorialinė sodyba-muziejus",
+   :longitude 25.0276925,
+   :latitude 55.6288647,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Anyksciai/vienuolio_muziejus.htm",
+   :locality "Griežionėlės"}
+  {:name "Lėlių muziejus",
+   :longitude 24.6107,
+   :latitude 56.2631882,
+   :source :openstreetmap}
+  {:name "M.K.Čiurlionio memorialinis muziejus",
+   :longitude 23.9694282,
+   :latitude 54.0177204,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Druskininkai/ciurlionio_mem_muziejus.htm",
+   :locality "Druskininkai"}
+  {:name "Macikų koncentracijos stovykla",
+   :longitude 21.518699,
+   :latitude 55.3567597,
+   :source :openstreetmap,
+   :homepage
+   "https://silutesmuziejus.lt/maciku-lageris-karceris-muziejus/",
+   :locality "Macikai"}
+  {:name "Margučių muziejus",
+   :longitude 21.9347298,
+   :latitude 55.3466934,
+   :source :openstreetmap,
+   :homepage "http://www.tpl.lt/marguciu-muziejus-silutes-rajone/"}
+  {:name "Marijampolės kolegijos muziejus",
+   :longitude 23.349654,
+   :latitude 54.548152,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/marijampole/visuome_muziejai.htm",
+   :locality "Marijampolė"}
+  {:name "Marijampolės kraštotyros muziejus",
+   :longitude 23.3487021,
+   :latitude 54.5521279,
+   :source :openstreetmap,
+   :homepage "https://www.marijampolesmuziejus.lt/",
+   :locality "Marijampolė"}
+  {:name "Marijos Pečkauskaitės memorialinis muziejus",
+   :longitude 22.012132,
+   :latitude 56.3233379,
+   :source :openstreetmap,
+   :locality "Židikai"}
+  {:name "Marijos Savickienės gamtos išdaigų muziejus",
+   :longitude 23.203333,
+   :latitude 55.600791,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/kelme/tytuvenu_parko_muziejai.htm",
+   :locality "Tytuvėnai"}
+  {:name "Markučių dvaro muziejus",
+   :longitude 25.3254738,
+   :latitude 54.6738628,
+   :source :openstreetmap,
+   :homepage "https://www.vilniausmuziejai.lt/a_puskinas/index.htm",
+   :locality "Vilnius"}
+  {:name "Martyno Jankaus muziejus",
+   :longitude 22.0477671,
+   :latitude 55.0828844,
+   :source :openstreetmap,
+   :homepage
+   "https://saugoma.lt/lt/objektai/ausrininko-spaustuvininko-martyno-jankaus-sodyba"}
+  {:name "Mato Grigonio literatūrinis muziejus",
+   :longitude 24.3831457,
+   :latitude 55.7527513,
+   :source :openstreetmap,
+   :homepage
+   "https://panrbiblioteka.lt/lt/struktura-ir-kontaktai/muziejai/280-mato-grigonio-literatrinis-muziejus",
+   :locality "Panevėžys"}
+  {:name "Mažeikių muziejus",
+   :longitude 22.3472465,
+   :latitude 56.3165183,
+   :source :openstreetmap}
+  {:name "Mažoji galerija",
+   :longitude 25.2497938,
+   :latitude 54.6950699,
+   :source :openstreetmap,
+   :homepage "https://smallgallery.net/",
+   :locality "Vilnius"}
+  {:name "Medicinos muziejus",
+   :longitude 24.366541,
+   :latitude 55.733436,
+   :source :openstreetmap,
+   :locality "Panevėžys"}
+  {:name "Medininkų pilis",
+   :longitude 25.6511087,
+   :latitude 54.5401403,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Trakai/traku_muziejus.htm"}
+  {:name "Medinės architektūros muziejus",
+   :longitude 25.3114602,
+   :latitude 54.6822406,
+   :source :openstreetmap,
+   :homepage "https://mmam.lt/",
+   :locality "Vilnius"}
+  {:name "Medžioklės trofėjų muziejus",
+   :longitude 21.078014,
+   :latitude 55.8232087,
+   :source :openstreetmap,
+   :homepage
+   "http://www.gamtosperlas.lt/lt/medziokles-trofeju-muziejus"}
+  {:name "Meilelės vandens malūnas",
+   :longitude 25.3304521,
+   :latitude 55.3359388,
+   :source :openstreetmap,
+   :locality "Meilelė"}
+  {:name "Memel Automuseum",
+   :longitude 21.1442769,
+   :latitude 55.7160367,
+   :source :openstreetmap,
+   :homepage "https://www.memelautomuseum.lt/",
+   :locality "Klaipėda"}
+  {:name "Memorialas tremtiniams",
+   :longitude 25.4099213,
+   :latitude 54.6934508,
+   :source :openstreetmap}
+  {:name
+   "Memorialinė tremtinės, gydytojos Dalios Grinkevičiutės (1927-1987) ekspozicija",
+   :longitude 22.232675,
+   :latitude 55.619,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/silale/grinkeviciutes_muz.htm",
+   :locality "Laukuva"}
+  {:name "Meno niša",
+   :longitude 25.2774025,
+   :latitude 54.6800487,
+   :source :openstreetmap,
+   :homepage "https://menonisa.lt/en/homepage/",
+   :locality "Vilnius"}
+  {:name "Metalo Fantazijos",
+   :longitude 22.7501374,
+   :latitude 54.4279527,
+   :source :openstreetmap,
+   :homepage "https://pusele.lt/muziejus-metalo-fantazija/"}
+  {:name "Mineralų muziejus",
+   :longitude 25.2636263,
+   :latitude 54.7528894,
+   :source :openstreetmap,
+   :homepage "https://gamtostyrimai.lt/mineralu-muziejus/",
+   :locality "Vilnius"}
+  {:name "Miško muziejus",
+   :longitude 24.8725777,
+   :latitude 55.5766114,
+   :source :openstreetmap}
+  {:name "Miško muziejus „Girios aidas“",
+   :longitude 24.0038484,
+   :latitude 54.0071154,
+   :source :openstreetmap,
+   :homepage
+   "http://info.druskininkai.lt/new/lt/ka-veikti/lankytinos-vietos/muziejai/item/93-misko-muziejus-girios-aidas",
+   :locality "Druskininkai"}
+  {:name "Molėtų krašto muziejus",
+   :longitude 25.4209152,
+   :latitude 55.2319641,
+   :source :openstreetmap,
+   :homepage "https://www.moletumuziejus.lt/",
+   :locality "Molėtai"}
+  {:name "Molėtų skulptūrų parkas",
+   :longitude 25.4262603,
+   :latitude 55.2320385,
+   :source :openstreetmap,
+   :homepage
+   "https://www.infomoletai.lt/lankytinos-vietos/moletu-skulpturu-parkas/"}
+  {:name "Molėtų technikos muziejus",
+   :longitude 25.3337157,
+   :latitude 55.1154873,
+   :source :openstreetmap,
+   :homepage "http://www.mtm.lt",
+   :locality "Tumenčizna"}
+  {:name "Muitinės muziejus",
+   :longitude 25.2789725,
+   :latitude 54.7450887,
+   :source :openstreetmap,
+   :homepage "https://www.lrmuitine.lt/web/guest/apiemus/muziejus",
+   :locality "Vilnius"}
+  {:name "Muziejus Čepkelių valstybiniame gamtiniame rezervate",
+   :longitude 24.404612,
+   :latitude 54.046165,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/kaunas/ivanausko_muziejus.htm",
+   :locality "Marcinkonys"}
+  {:name
+   "Muzikų brolių Motiejaus, Broniaus ir Antano Budriūnų gimtinė",
+   :longitude 24.640307,
+   :latitude 56.184378,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Birzai/Budriunu_muziejus.htm",
+   :locality "Pabiržė"}
+  {:name "Mūsų tautos istorijos atminties muziejus",
+   :longitude 24.053857,
+   :latitude 54.381098,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Alytus/tautos_atminties.htm",
+   :locality "Alytus"}
+  {:name "Nacionalinis M. K. Čiurlionio dailės muziejus",
+   :longitude 23.912019,
+   :latitude 54.9002641,
+   :source :openstreetmap,
+   :homepage "https://www.ciurlionis.lt",
+   :locality "Kaunas"}
+  {:name "Nalšios muziejus",
+   :longitude 26.1598667,
+   :latitude 55.1349145,
+   :source :openstreetmap,
+   :homepage "https://nalsia.lt/",
+   :locality "Švenčionys"}
+  {:name "Nemėžio dvaro rūmai",
+   :longitude 25.3699796,
+   :latitude 54.6376428,
+   :source :openstreetmap}
+  {:name "Obelių istorijos muziejus",
+   :longitude 25.796252,
+   :latitude 55.938442,
+   :source :openstreetmap,
+   :locality "Obeliai"}
+  {:name "Obelių kultūros ir sporto centras „Žalioji“",
+   :longitude 25.7945983,
+   :latitude 55.9438552,
+   :source :openstreetmap,
+   :locality "Obeliai"}
+  {:name "Okupacijų ir laisvės kovų muziejus",
+   :longitude 25.2706894,
+   :latitude 54.688023,
+   :source :openstreetmap,
+   :homepage "https://genocid.lt/muziejus/",
+   :locality "Vilnius"}
+  {:name "Orvidų sodyba",
+   :longitude 21.612272,
+   :latitude 56.0517054,
+   :source :openstreetmap,
+   :homepage "https://www.orvidusodyba.lt",
+   :locality "Gargždelė"}
+  {:name "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+   :longitude 26.2603932,
+   :latitude 55.7386367,
+   :source :openstreetmap}
+  {:name "Pakruojo dvaro rūmai",
+   :longitude 23.8790235,
+   :latitude 55.9861228,
+   :source :openstreetmap,
+   :homepage "https://pakruojo-dvaras.lt/",
+   :locality "Pakruojis"}
+  {:name "Pakruojo krašto muziejus Žiemgala",
+   :longitude 23.9988438,
+   :latitude 56.2725898,
+   :source :openstreetmap,
+   :homepage
+   "https://www.manokrastas.lt/straipsnis/-pakruojo-krasto-muziejus--ziemgala%E2%80%9C"}
+  {:name "Palaimintojo Jurgio Matulaičio muziejus",
+   :longitude 23.344338,
+   :latitude 54.555815,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Marijampole/matulaicio_muziejus.htm",
+   :locality "Marijampolė"}
+  {:name "Palangos kurorto muziejus",
+   :longitude 21.0558329,
+   :latitude 55.9182212,
+   :source :openstreetmap,
+   :locality "Palanga"}
+  {:name "Palangos Stasio Vainiūno meno mokykla",
+   :longitude 21.0662547,
+   :latitude 55.9219611,
+   :source :openstreetmap,
+   :homepage "https://www.vainiuno.lt/",
+   :locality "Palanga"}
+  {:name "Palaukinės kultūros centras",
+   :longitude 25.3108475,
+   :latitude 54.8500392,
+   :source :openstreetmap,
+   :homepage "http://palaukine.blogspot.com/"}
+  {:name "Panerių memorialinis muziejus",
+   :longitude 25.1610325,
+   :latitude 54.626337,
+   :source :openstreetmap,
+   :homepage "https://www.jmuseum.lt/",
+   :locality "Vilnius"}
+  {:name "Pasieniečių muziejus",
+   :longitude 25.6670532,
+   :latitude 54.5511751,
+   :source :openstreetmap,
+   :homepage
+   "http://tic.vrsa.lt/page&u=Pasienie%C4%8Di%C5%B3%20muziejus",
+   :locality "Medininkai"}
+  {:name "Pasipriešinimo sovietinei okupacijai ir Sąjudžio muziejus",
+   :longitude 24.3597365,
+   :latitude 55.7300873,
+   :source :openstreetmap,
+   :homepage "http://www.paneveziomuziejus.lt/",
+   :locality "Panevėžys"}
+  {:name "Pasvalio girnų muziejus",
+   :longitude 24.4059201,
+   :latitude 56.0652113,
+   :source :openstreetmap,
+   :locality "Pasvalys"}
+  {:name "Pasvalio krašto muziejus",
+   :longitude 24.3988602,
+   :latitude 56.0601256,
+   :source :openstreetmap,
+   :homepage "http://www.pasvaliomuziejus.lt",
+   :locality "Pasvalys"}
+  {:name "Paukščių migracijos muziejus",
+   :longitude 21.1901939,
+   :latitude 55.3425047,
+   :source :openstreetmap,
+   :locality "Ventė"}
+  {:name "Paveikslų galerija",
+   :longitude 25.1198556,
+   :latitude 55.2931012,
+   :source :openstreetmap,
+   :homepage
+   "https://www.infomoletai.lt/lankytinos-vietos/stiklo-muziejus-ir-paveikslu-galerija-moletu-krasto-muziejaus-padalinys/",
+   :locality "Balninkai"}
+  {:name "Pažaislio vienuolyno muziejinė ekspozicija",
+   :longitude 24.022319,
+   :latitude 54.876311,
+   :source :openstreetmap,
+   :locality "Kaunas"}
+  {:name
+   "Pietų Lietuvos buities ir akmenų muziejus „Jotvingių kiemas“",
+   :longitude 23.3298401,
+   :latitude 54.2680537,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Muziejus.lt.asp?Db_kodas=2814"}
+  {:name "Pilies muziejus",
+   :longitude 21.1289108,
+   :latitude 55.7059187,
+   :source :openstreetmap,
+   :homepage "https://www.mlimuziejus.lt/lt/muziejus/pilies-muziejus/",
+   :locality "Klaipėda"}
+  {:name
+   "Pirmojo pėstininkų didžiojo Lietuvos kunigaikščio Gedimino pulko štabo bataliono Gediminaičių muziejus",
+   :longitude 25.266472,
+   :latitude 54.759295,
+   :source :openstreetmap,
+   :homepage
+   "http://kariuomene.kam.lt/lt/kariuomenes_struktura/gedimino_stabo_batalionas/muziejus_1835.html",
+   :locality "Vilnius"}
+  {:name "Plaktukų muziejus",
+   :longitude 25.9532636,
+   :latitude 55.3163653,
+   :source :openstreetmap,
+   :homepage "https://www.pauksciukaimas.lt/plaktuku-muziejus/"}
+  {:name "Plaktukų muziejus",
+   :longitude 23.1244869,
+   :latitude 54.5282883,
+   :source :openstreetmap}
+  {:name "Platelių dvaro svirnas",
+   :longitude 21.8143165,
+   :latitude 56.0382502,
+   :source :openstreetmap,
+   :homepage "https://zemaitijosnp.lt/ekspozicijos/",
+   :locality "Plateliai"}
+  {:name "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+   :longitude 21.8280524,
+   :latitude 55.8986194,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/plunge/istorijos_etnografijos_muziejus.htm",
+   :locality "Plungė"}
+  {:name "Poeto Prano Vaičaičio muziejus",
+   :longitude 22.982887,
+   :latitude 54.876314,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Sakiai/poeto_vaicaicio_muziejus.htm",
+   :locality "Sintautai"}
+  {:name "Poeto Vytauto Mačernio muziejus",
+   :longitude 22.0117732,
+   :latitude 56.1077028,
+   :source :openstreetmap,
+   :homepage "http://macernio.landyne.lt/muziejus",
+   :locality "Žemaičių Kalvarija"}
+  {:name "Pogrindžio spaustuvė-muziejus „ab“",
+   :longitude 23.9223861,
+   :latitude 54.9594957,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/spaustuve_ab.htm",
+   :locality "Saliai"}
+  {:name "Povilo Višinskio memorialinis muziejus",
+   :longitude 22.7626164,
+   :latitude 55.8107294,
+   :source :openstreetmap,
+   :homepage
+   "https://www.kelmesmuziejus.lt/5543/muziejaus-filialai.html",
+   :locality "Ušnėnai"}
+  {:name "Prano Mašioto pasakų parkas",
+   :longitude 23.7130006,
+   :latitude 54.9329781,
+   :source :openstreetmap,
+   :locality "Kačerginė"}
+  {:name "Priekulės muzikos mokykla",
+   :longitude 21.3202733,
+   :latitude 55.5561656,
+   :source :openstreetmap,
+   :homepage "https://www.priekulesmm.lt/",
+   :locality "Priekulė"}
+  {:name "Prienų krašto muziejus",
+   :longitude 23.9452478,
+   :latitude 54.6321955,
+   :source :openstreetmap,
+   :homepage "https://www.prienumuziejus.lt/",
+   :locality "Prienai"}
+  {:name "Profesoriaus Stasio Ušinsko memorialinis kambarys",
+   :longitude 23.849527,
+   :latitude 55.977492,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Pakruojis/usinsko_muziejus.htm",
+   :locality "Pakruojis"}
+  {:name "Prospekto Galerija",
+   :longitude 25.2662029,
+   :latitude 54.6895512,
+   :source :openstreetmap,
+   :homepage "https://www.photography.lt",
+   :locality "Vilnius"}
+  {:name "Radijo ir televizijos muziejus",
+   :longitude 23.3109518,
+   :latitude 55.9339427,
+   :source :openstreetmap,
+   :homepage "https://www.ausrosmuziejus.lt",
+   :locality "Šiauliai"}
+  {:name "Raseinių krašto istorijos muziejus",
+   :longitude 23.13299,
+   :latitude 55.385632,
+   :source :openstreetmap,
+   :homepage "http://www.raseiniumuziejus.lt",
+   :locality "Raseiniai"}
+  {:name "Raudondvario kultūros centras",
+   :longitude 23.7801067,
+   :latitude 54.9380659,
+   :source :openstreetmap,
+   :locality "Raudondvaris"}
+  {:name "Rašytojo K. Binkio memorialinė ekspozicija",
+   :longitude 25.012106,
+   :latitude 56.1136429,
+   :source :openstreetmap,
+   :homepage "https://www.visitbirzai.lt/lt/muziejai",
+   :locality "Papilys"}
+  {:name "Rašytojos Žemaitės memorialinis muziejus",
+   :longitude 21.7543174,
+   :latitude 55.9868963,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/plunge/zemaites_muziejus.htm",
+   :locality "Godeliai"}
+  {:name "Renavo dvaras",
+   :longitude 22.056863,
+   :latitude 56.2277017,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/mazeikiai/renavo_rumai.htm",
+   :locality "Renavas"}
+  {:name "Rezistencijos ir tremties ekspozicija",
+   :longitude 21.1346295,
+   :latitude 55.7179104,
+   :source :openstreetmap,
+   :homepage
+   "https://www.mlimuziejus.lt/lt/muziejus/tremties-ir-rezistencijos-ekspozicija/"}
+  {:name "Rietavo Oginskių kultūros istorijos muziejus",
+   :longitude 21.9311105,
+   :latitude 55.7284906,
+   :source :openstreetmap,
+   :homepage "http://www.oginskiriet.lt",
+   :locality "Rietavas"}
+  {:name "Rinkuškių alaus muziejus",
+   :longitude 24.7233801,
+   :latitude 56.2077844,
+   :source :openstreetmap,
+   :homepage
+   "http://rinkuskiai.lt/article/lt/wide/menu/rinkuskiu-alaus-muziejus",
+   :locality "Biržai"}
+  {:name "Rokiškio krašto muziejus",
+   :longitude 25.600896,
+   :latitude 55.965382,
+   :source :openstreetmap,
+   :homepage "https://www.muziejusrokiskyje.lt/",
+   :locality "Rokiškis"}
+  {:name "Rokiškio kultūros centras",
+   :longitude 25.5875548,
+   :latitude 55.9538144,
+   :source :openstreetmap,
+   :locality "Rokiškis"}
+  {:name "Rupert",
+   :longitude 25.2949719,
+   :latitude 54.742947,
+   :source :openstreetmap,
+   :homepage "https://www.rupert.lt/",
+   :locality "Vilnius"}
+  {:name
+   "S. Chrisčinavičienės kūrybos darbų galerija Sniegenos giesmė akmenėliui",
+   :longitude 22.5215749,
+   :latitude 56.2357273,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/mazeikiai/chriscinavicienes_galerija_muziejus.htm",
+   :locality "Viekšniai"}
+  {:name "S. ir S. Lozoraičių muziejus",
+   :longitude 23.91506,
+   :latitude 54.899158,
+   :source :openstreetmap,
+   :homepage
+   "https://www.visit.kaunas.lt/lt/aplankykite/lankytinos-vietos/muziejai-ir-galerijos/muziejai/s-ir-s-lozoraiciu-muziejus-kurianciajai-diplomatijai-100/",
+   :locality "Kaunas"}
+  {:name "S. Pigagos muziejus",
+   :longitude 24.02161,
+   :latitude 54.3896192,
+   :source :openstreetmap,
+   :locality "Alytus"}
+  {:name "S. Šapšalo karaimų tautos muziejus",
+   :longitude 24.9330745,
+   :latitude 54.6471726,
+   :source :openstreetmap,
+   :homepage "https://www.trakaimuziejus.lt/",
+   :locality "Trakai"}
+  {:name "Salako krašto etnografinė ekspozicija",
+   :longitude 26.134355,
+   :latitude 55.579975,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/zarasai/salako_etno.htm",
+   :locality "Salakas"}
+  {:name "Salomėjos Nėries memorialinis muziejus",
+   :longitude 24.0616316,
+   :latitude 54.9099263,
+   :source :openstreetmap,
+   :homepage "https://maironiomuziejus.lt/index.php?id=18",
+   :locality "Kaunas"}
+  {:name "Samulevičių sodyba",
+   :longitude 24.2894438,
+   :latitude 55.101558,
+   :source :openstreetmap,
+   :homepage "http://www.samuleviciai.lt"}
+  {:name "Sartų regioninio parko lankytojų centro ekspozicija",
+   :longitude 25.8411942,
+   :latitude 55.7473388,
+   :source :openstreetmap,
+   :homepage
+   "http://www.sartai.info/index.php?option=com_content&view=article&id=140&Itemid=234",
+   :locality "Dusetos"}
+  {:name "Saugus Atstumas",
+   :longitude 24.8686711,
+   :latitude 55.5017521,
+   :source :openstreetmap}
+  {:name "Saviciunai Artistic Production",
+   :longitude 25.5840954,
+   :latitude 54.5788502,
+   :source :openstreetmap}
+  {:name "Senosios technikos ir įvairių remonto įrankių muziejus",
+   :longitude 23.9936856,
+   :latitude 56.2711142,
+   :source :openstreetmap,
+   :locality "Žeimelis"}
+  {:name "Senovinių arbatinukų galerija - muziejus",
+   :longitude 24.7561777,
+   :latitude 56.2011368,
+   :source :openstreetmap,
+   :homepage "https://www.birzuarbatine.lt/",
+   :locality "Biržai"}
+  {:name "Senovinių motociklų muziejus",
+   :longitude 22.4530479,
+   :latitude 55.8838581,
+   :source :openstreetmap,
+   :homepage "http://www.auksiniselnias.lt/muziejus_motociklai.html",
+   :locality "Rapaliai"}
+  {:name "Senovinės bitininkystės muziejus",
+   :longitude 25.9448428,
+   :latitude 55.4087085,
+   :source :openstreetmap,
+   :homepage "http://www.biciumuziejus.lt/index.php/home"}
+  {:name "Senovinės buities muziejus",
+   :longitude 24.638827,
+   :latitude 56.2907336,
+   :source :openstreetmap,
+   :homepage "https://www.sodeliskiudvaras.lt/buities-muziejus",
+   :locality "Sodeliškiai"}
+  {:name "Senovinės technikos muziejus",
+   :longitude 22.5766935,
+   :latitude 55.0743118,
+   :source :openstreetmap,
+   :homepage "https://techmuziejus.lt/",
+   :locality "Smalininkai"}
+  {:name "Senovinės technikos muziejus",
+   :longitude 24.6445307,
+   :latitude 56.2886585,
+   :source :openstreetmap,
+   :homepage "https://www.sodeliskiudvaras.lt/muziejus",
+   :locality "Sodeliškiai"}
+  {:name "Senų automobilių muziejus",
+   :longitude 24.5311894,
+   :latitude 54.7980495,
+   :source :openstreetmap,
+   :locality "Strošiūnai"}
+  {:name "Siaurojo geležinkelio muziejus",
+   :longitude 23.940078,
+   :latitude 56.0248293,
+   :source :openstreetmap}
+  {:name "Simono Daukanto muziejus-ekspozicija",
+   :longitude 22.7889081,
+   :latitude 56.1517933,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Akmene/SDaukanto_muz.htm",
+   :locality "Papilė"}
+  {:name "Skaudvilės krašto muziejus",
+   :longitude 22.5742086,
+   :latitude 55.4055226,
+   :source :openstreetmap,
+   :locality "Skaudvilė"}
+  {:name "Skriaudžių buities muziejaus kalendorių ekspozicija",
+   :longitude 23.6663011,
+   :latitude 54.7419834,
+   :source :openstreetmap,
+   :homepage
+   "https://www.prienumuziejus.lt/ekspozicija/skriaudziu-buities-muziejaus-kalendoriu-ekspozicija/",
+   :locality "Skriaudžiai"}
+  {:name "Skriaudžių buities muziejus",
+   :longitude 23.6592587,
+   :latitude 54.7421046,
+   :source :openstreetmap,
+   :homepage
+   "http://www.prienumuziejus.lt/ekspozicija/skriaudziu-buities-muziejus/",
+   :locality "Skriaudžiai"}
+  {:name "Skulptūros studija-galerija „Šulinys“",
+   :longitude 24.8569705,
+   :latitude 54.886648,
+   :source :openstreetmap,
+   :locality "Kernavė"}
+  {:name "Skulptūrų parkas",
+   :longitude 21.140744,
+   :latitude 55.71743,
+   :source :openstreetmap,
+   :homepage
+   "https://www.mlimuziejus.lt/lt/muziejus/skulpturu-parkas/"}
+  {:name "Skuodo kultūros centras",
+   :longitude 21.5295467,
+   :latitude 56.2694085,
+   :source :openstreetmap,
+   :locality "Skuodas"}
+  {:name "Skuodo muziejus",
+   :longitude 21.5215581,
+   :latitude 56.2691147,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Skuodas/Skuodo_muziejus.htm",
+   :locality "Skuodas"}
+  {:name "Smala",
+   :longitude 25.2690564,
+   :latitude 54.6985743,
+   :source :openstreetmap,
+   :homepage "https://www.smala.art/",
+   :locality "Vilnius"}
+  {:name "Smilgių etnografinė sodyba",
+   :longitude 24.0155473,
+   :latitude 55.8057522,
+   :source :openstreetmap}
+  {:name "Sovietinės dailės galerija",
+   :longitude 24.0813614,
+   :latitude 54.0220609,
+   :source :openstreetmap,
+   :homepage "http://grutoparkas.lt/",
+   :locality "Grūtas"}
+  {:name "Stakliškių midaus degustacijos",
+   :longitude 24.3227025,
+   :latitude 54.5926438,
+   :source :openstreetmap,
+   :homepage "http://midus.lt/degustacijos/"}
+  {:name "Stasio Brundzos automobilių ir transporto muziejus",
+   :longitude 25.150938,
+   :latitude 54.65301,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Vilnius/automobiliu_muziejus.htm",
+   :locality "Vilnius"}
+  {:name "Stasio Girėno gimtinė",
+   :longitude 22.3728979,
+   :latitude 55.4570085,
+   :source :openstreetmap,
+   :locality "Vytogala"}
+  {:name "Stelmužės Viešpaties Jėzaus Kryžiaus bažnyčia",
+   :longitude 26.2173376,
+   :latitude 55.8294461,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Zarasai/stelmuzes_muz.htm",
+   :locality "Stelmužė"}
+  {:name "Sugiharos Namai",
+   :longitude 23.9330585,
+   :latitude 54.8926339,
+   :source :openstreetmap,
+   :homepage "https://www.sugiharahouse.com/lt",
+   :locality "Kaunas"}
+  {:name "Tartle",
+   :longitude 25.2995801,
+   :latitude 54.6817561,
+   :source :openstreetmap,
+   :homepage "https://www.tartle.lt/lt/apie_mus.html",
+   :locality "Vilnius"}
+  {:name "Tauragnų krašto muziejus",
+   :longitude 25.81466,
+   :latitude 55.442772,
+   :source :openstreetmap,
+   :homepage
+   "https://www.utenosmuziejus.lt/16-padaliniai/6-tauragnu-krasto-muziejus",
+   :locality "Tauragnai"}
+  {:name "Tauragės krašto muziejus Santaka",
+   :longitude 22.2838401,
+   :latitude 55.252452,
+   :source :openstreetmap}
+  {:name "Tautodailės ir amatų centras",
+   :longitude 24.2573112,
+   :latitude 55.0446651,
+   :source :openstreetmap,
+   :homepage
+   "http://jonavosmuziejus.lt/filialai/tautodailes-ir-amatu-centras/"}
+  {:name "Teismų ekspozicija",
+   :longitude 25.3138626,
+   :latitude 54.699001,
+   :source :openstreetmap,
+   :homepage
+   "https://www.teismai.lt/lt/visuomenei/teismu-ekspozicija/1752",
+   :locality "Vilnius"}
+  {:name "Tomo Mano namelis",
+   :longitude 21.0133542,
+   :latitude 55.3134759,
+   :source :openstreetmap,
+   :homepage "https://www.mann.lt/index.php",
+   :locality "Neringa"}
+  {:name "Tradicinių amatų centras",
+   :longitude 25.0614908,
+   :latitude 54.8678613,
+   :source :openstreetmap,
+   :locality "Maišiagala"}
+  {:name "Tradicinių amatų centras „Svirnas“",
+   :longitude 25.6094933,
+   :latitude 55.495733,
+   :source :openstreetmap,
+   :homepage
+   "https://www.utenosmuziejus.lt/16-padaliniai/8-tradiciniu-amatu-centras-svirnas",
+   :locality "Utena"}
+  {:name "Trakto Paryžius-Maskva Pašto stotis",
+   :longitude 25.5924518,
+   :latitude 55.4972332,
+   :source :openstreetmap,
+   :homepage "https://www.daile.utena.lm.lt"}
+  {:name "Trakų istorijos muziejus",
+   :longitude 24.9360999,
+   :latitude 54.6454243,
+   :source :openstreetmap,
+   :homepage "https://www.trakaimuziejus.lt/",
+   :locality "Trakai"}
+  {:name "Trakų rajono kultūros namai",
+   :longitude 24.9331139,
+   :latitude 54.6383438,
+   :source :openstreetmap,
+   :locality "Trakai"}
+  {:name "Trakų salos pilies ekspozicija",
+   :longitude 24.9330854,
+   :latitude 54.652081,
+   :source :openstreetmap,
+   :homepage "https://trakaimuziejus.lt",
+   :locality "Trakai"}
+  {:name "Tuskulėnų rimties parko memorialinis kompleksas",
+   :longitude 25.3030159,
+   :latitude 54.6988536,
+   :source :openstreetmap,
+   :homepage "https://genocid.lt/tuskulenai",
+   :locality "Vilnius"}
+  {:name "Tytuvėnų miško muziejus",
+   :longitude 23.1900622,
+   :latitude 55.6089091,
+   :source :openstreetmap,
+   :homepage
+   "https://www.trp.lt/index.php/lankytinos-vietos/38-pirma-edukacija-14",
+   :locality "Tytuvėnai"}
+  {:name "Ukmergės kraštotyros muziejus",
+   :longitude 24.7645538,
+   :latitude 55.249735,
+   :source :openstreetmap,
+   :homepage
+   "https://muziejai.lt/Ukmerge/ukmerges_krastotyros_muziejus.htm",
+   :locality "Ukmergė"}
+  {:name "Upynos etnografijos muziejus",
+   :longitude 22.4408513,
+   :latitude 55.4505716,
+   :source :openstreetmap,
+   :locality "Upyna"}
+  {:name "Utenos kraštotyros muziejus",
+   :longitude 25.6011774,
+   :latitude 55.4961401,
+   :source :openstreetmap,
+   :homepage "https://www.utenosmuziejus.lt/",
+   :locality "Utena"}
+  {:name "Utenos kultūros centras",
+   :longitude 25.6005782,
+   :latitude 55.5065865,
+   :source :openstreetmap,
+   :homepage "https://utenoskc.lt/",
+   :locality "Utena"}
+  {:name "Užugirio krašto muziejus",
+   :longitude 24.5875906,
+   :latitude 55.4169342,
+   :source :openstreetmap,
+   :locality "Užulėnis"}
+  {:name "Užvenčio kraštotyros muziejus",
+   :longitude 22.6541613,
+   :latitude 55.7874451,
+   :source :openstreetmap,
+   :locality "Dvarčius"}
+  {:name "V. Mykolaičio-Putino gimtoji sodyba-muziejus",
+   :longitude 23.7072751,
+   :latitude 54.5534234,
+   :source :openstreetmap,
+   :homepage
+   "http://www.prienumuziejus.lt/ekspozicija/v-mykolaicio-putino-gimtoji-sodyba-muziejus/"}
+  {:name "Vabalninko muziejus",
+   :longitude 24.7471442,
+   :latitude 55.9806778,
+   :source :openstreetmap,
+   :homepage "https://www.birzumuziejus.lt/lt/vabalninko-skyrius/",
+   :locality "Vabalninkas"}
+  {:name "Vaclovo Into akmenų muziejus",
+   :longitude 21.5741891,
+   :latitude 56.165227,
+   :source :openstreetmap,
+   :homepage "https://www.akmenumuziejus.lt/",
+   :locality "Mosėdis"}
+  {:name "Vaclovo Into sodyba",
+   :longitude 21.573474,
+   :latitude 56.1687981,
+   :source :openstreetmap,
+   :homepage "https://intosodyba.lt/",
+   :locality "Mosėdis"}
+  {:name "Vaclovo ir Elenos Venckų etnografinė sodyba",
+   :longitude 23.196616,
+   :latitude 55.597296,
+   :source :openstreetmap,
+   :locality "Tytuvėnai"}
+  {:name
+   "Varnių regioninio parko ekspozicija Septyni keliai iš Varnių",
+   :longitude 22.384214,
+   :latitude 55.732251,
+   :source :openstreetmap,
+   :homepage "http://varniurp.am.lt",
+   :locality "Ožtakiai"}
+  {:name "VDU Žemės ūkio akademijos muziejus",
+   :longitude 23.835463,
+   :latitude 54.893939,
+   :source :openstreetmap,
+   :homepage
+   "http://asu.lt/universitetas-2/faktai-ir-pasiekimai/muziejus/",
+   :locality "Akademija"}
+  {:name "Veisiejų krašto muziejus",
+   :longitude 23.696577,
+   :latitude 54.100946,
+   :source :openstreetmap,
+   :homepage "https://lazdijumuziejus.lt/",
+   :locality "Veisiejai"}
+  {:name
+   "Veiverių krašto istorijos atminties muziejus, Partizano Juozo Lukšos-Daumanto ekspozicija",
+   :longitude 23.7264237,
+   :latitude 54.7663186,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/prienai/veiveriu_muz.htm",
+   :locality "Veiveriai"}
+  {:name "Veliuonos krašto istorijos muziejus",
+   :longitude 23.2731486,
+   :latitude 55.0787196,
+   :source :openstreetmap,
+   :homepage
+   "https://www.jurbarkomuziejus.lt/lt/padaliniai/veliuonos-krasto-istorijos-muziejus",
+   :locality "Veliuona"}
+  {:name "Veprių krašto muziejus",
+   :longitude 24.5809478,
+   :latitude 55.1462614,
+   :source :openstreetmap}
+  {:name "Veronikos Šleivytės paveikslų galerija",
+   :longitude 24.8196924,
+   :latitude 55.8989802,
+   :source :openstreetmap,
+   :homepage
+   "https://etnografijosmuziejus.lt/muziejaus-struktura/v-sleivytes-paveikslu-galerija"}
+  {:name "Videniškių vienuolyno muziejus",
+   :longitude 25.279245,
+   :latitude 55.217044,
+   :source :openstreetmap,
+   :homepage "http://www.muziejai.lt/moletai/krasto_muziejus.htm",
+   :locality "Videniškiai"}
+  {:name "Viekšnių pirmosios vaistinės muziejus",
+   :longitude 22.517753,
+   :latitude 56.232291,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/mazeikiai/Vieksniu_vaistine.htm",
+   :locality "Viekšniai"}
+  {:name "Vikingų kaimas",
+   :longitude 24.8733848,
+   :latitude 55.0190151,
+   :source :openstreetmap,
+   :homepage "http://vikingukaimas.lt/"}
+  {:name "Vilkaviškio kultūros centras",
+   :longitude 23.0302382,
+   :latitude 54.6493302,
+   :source :openstreetmap,
+   :locality "Vilkaviškis"}
+  {:name "Vilkijos kultūros centras",
+   :longitude 23.5826227,
+   :latitude 55.041495,
+   :source :openstreetmap,
+   :locality "Vilkija"}
+  {:name "Vilniaus dailės akademijos muziejus",
+   :longitude 25.2940182,
+   :latitude 54.6834335,
+   :source :openstreetmap,
+   :homepage "https://www.vda.lt/lt/muziejus",
+   :locality "Vilnius"}
+  {:name "Vilniaus gynybinės sienos Bastėja",
+   :longitude 25.29267,
+   :latitude 54.6770918,
+   :source :openstreetmap,
+   :homepage
+   "https://lnm.lt/muziejai/vilniaus-gynybines-sienos-basteja/",
+   :locality "Vilnius"}
+  {:name "Vilniaus krašto etnografijos muziejus",
+   :longitude 25.464994,
+   :latitude 54.846615,
+   :source :openstreetmap,
+   :homepage
+   "https://muziejai.lt/Vilnius/Vilniaus_krasto_muziejus.htm",
+   :locality "Nemenčinė"}
+  {:name "Vilniaus lenkų kultūros namai",
+   :longitude 25.2610313,
+   :latitude 54.6707081,
+   :source :openstreetmap,
+   :locality "Vilnius"}
+  {:name "Vilniaus universiteto Botanikos sodas (Vingio skyrius)",
+   :longitude 25.2318922,
+   :latitude 54.6831727,
+   :source :openstreetmap,
+   :homepage
+   "https://www.botanikos-sodas.vu.lt/lt/skyriai/vingio-skyrius",
+   :locality "Vilnius"}
+  {:name "Vilniaus universiteto Fizikos muziejus",
+   :longitude 25.331504,
+   :latitude 54.721784,
+   :source :openstreetmap,
+   :homepage "https://muziejai.lt/Vilnius/Fizikos_muz.htm",
+   :locality "Vilnius"}
+  {:name
+   "Vilniaus universiteto Medicinos fakulteto medicinos istorijos muziejus",
+   :longitude 25.2597092,
+   :latitude 54.6825205,
+   :source :openstreetmap,
+   :homepage "https://www.mf.vu.lt/galimybes/muziejus",
+   :locality "Vilnius"}
+  {:name "Vilniaus universiteto Zoologijos muziejus",
+   :longitude 25.3258726,
+   :latitude 54.7224152,
+   :source :openstreetmap,
+   :homepage "https://www.zoo.muziejus.vu.lt/"}
+  {:name "Vinco Grybo memorialinis muziejus",
+   :longitude 22.7488109,
+   :latitude 55.0824588,
+   :source :openstreetmap,
+   :homepage "https://nauja.vgrybomuziejus.lt/",
+   :locality "Jurbarkas"}
+  {:name "Vinco Mykolaičio-Putino memorialinis muziejus",
+   :longitude 23.3493075,
+   :latitude 54.5598757,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/marijampole/putino_muziejus.htm",
+   :locality "Marijampolė"}
+  {:name
+   "Visuomeninis Tarptautinės policijos asociacijos Lietuvos skyriaus Kauno poskyrio muziejus",
+   :longitude 23.9212899,
+   :latitude 54.8925873,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kaunas/policijos_muziejus.htm",
+   :locality "Kaunas"}
+  {:name "Vladislavo Sirokomlės muziejus",
+   :longitude 25.4632778,
+   :latitude 54.6163835,
+   :source :openstreetmap,
+   :homepage "http://tic.vrsa.lt/page&u=about_museum",
+   :locality "Bareikiškės"}
+  {:name "Vyskupo Motiejaus Valančiaus gimtinės muziejus",
+   :longitude 21.5180245,
+   :latitude 55.9908754,
+   :source :openstreetmap,
+   :homepage "http://www.mvalanciausmuziejus.lt/",
+   :locality "Nasrėnai"}
+  {:name "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+   :longitude 23.973611,
+   :latitude 55.288144,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/kedainiai/Kedainiu_muziejus.htm",
+   :locality "Kėdainiai"}
+  {:name "Vytauto Valiušio keramikos muziejus",
+   :longitude 25.393355,
+   :latitude 55.4755792,
+   :source :openstreetmap,
+   :homepage
+   "https://www.utenosmuziejus.lt/16-padaliniai/7-vytauto-valiusio-keramikos-muziejus",
+   :locality "Leliūnai"}
+  {:name "Vėtrungių galerija",
+   :longitude 21.1174849,
+   :latitude 55.5313675,
+   :source :openstreetmap,
+   :homepage "http://www.autentic.lt/index.php?id=8",
+   :locality "Neringa"}
+  {:name "Zanavykų muziejus",
+   :longitude 23.1959212,
+   :latitude 54.942541,
+   :source :openstreetmap,
+   :homepage "https://www.zanavykumuziejus.lt/",
+   :locality "Tubeliai"}
+  {:name "Zarasų krašto muziejus",
+   :longitude 26.2452488,
+   :latitude 55.7282136,
+   :source :openstreetmap,
+   :homepage "https://zarasumuziejus.lt/",
+   :locality "Zarasai"}
+  {:name "Zarasų meno mokykla",
+   :longitude 26.2513187,
+   :latitude 55.7320625,
+   :source :openstreetmap,
+   :homepage "https://www.zmm.lt/",
+   :locality "Zarasai"}
+  {:name "Zudermano muziejus",
+   :longitude 21.5125644,
+   :latitude 55.3510369,
+   :source :openstreetmap,
+   :homepage
+   "https://www.silutesmuziejus.lt/home/krasto-istorija/hermanas-zudermanas/",
+   :locality "Macikai"}
+  {:name "Zuikių muziejus",
+   :longitude 23.4623951,
+   :latitude 54.650414,
+   :source :openstreetmap,
+   :homepage
+   "https://marijampoletic.lt/lankytinos-vietos/muziejai/zuikiu-muziejus/",
+   :locality "Sasnava"}
+  {:name "Č. Milošo muziejus",
+   :longitude 24.0329334,
+   :latitude 55.3937513,
+   :source :openstreetmap,
+   :locality "Šeteniai"}
+  {:name "Čekauskų etnografinis muziejus",
+   :longitude 23.5043515,
+   :latitude 54.9851684,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Sakiai/cekausku_muziejus.htm",
+   :locality "Lekėčiai"}
+  {:name "Įstros aviacijos muziejus",
+   :longitude 24.3608733,
+   :latitude 55.827832,
+   :source :openstreetmap,
+   :homepage "https://www.aviapark.lt/about-museum.html",
+   :locality "Stanioniai"}
+  {:name "Šakių kultūros centras",
+   :longitude 23.0423264,
+   :latitude 54.9556008,
+   :source :openstreetmap,
+   :locality "Šakiai"}
+  {:name "Šakočių muziejus",
+   :longitude 24.0453252,
+   :latitude 53.9881863,
+   :source :openstreetmap,
+   :homepage "http://sodybaigne.lt/sakociu-muziejus/"}
+  {:name "Šaltojo Karo muziejus",
+   :longitude 21.9062891,
+   :latitude 56.0322657,
+   :source :openstreetmap,
+   :homepage "https://zemaitijosnp.lt/ekspozicijos/"}
+  {:name "Šeduvos kraštotyros ekspozicija",
+   :longitude 23.7561043,
+   :latitude 55.75282,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/radviliskis/seduvos_muz.htm",
+   :locality "Šeduva"}
+  {:name "Šeduvos Retromobile istorinės technikos muziejus",
+   :longitude 23.7663155,
+   :latitude 55.7568725,
+   :source :openstreetmap,
+   :homepage "https://www.retromobile.lt/",
+   :locality "Šeduva"}
+  {:name "Šeimyniškėlių (Vorutos) piliakalnio istorinis kompleksas",
+   :longitude 25.1405941,
+   :latitude 55.5446872,
+   :source :openstreetmap,
+   :homepage
+   "http://www.muziejai.lt/Anyksciai/vienuolio_muziejus.htm#padaliniai",
+   :locality "Anykščiai"}
+  {:name "Šiaulių Aušros muziejus",
+   :longitude 23.2717375,
+   :latitude 55.9239591,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ausrosmuziejus.lt/zaliukiu-malunininko-muziejus/",
+   :locality "Šiauliai"}
+  {:name "Šiaulių geležinkelio muziejus",
+   :longitude 23.300216,
+   :latitude 55.9266537,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Siauliai/gelezinkelio_muziejus.htm",
+   :locality "Šiauliai"}
+  {:name "Šiaulių r. Kuršėnų meno mokykla",
+   :longitude 22.9454814,
+   :latitude 56.006731,
+   :source :openstreetmap,
+   :homepage "https://kursenumenas.lt/",
+   :locality "Kuršėnai"}
+  {:name "Šiaulių sporto muziejus",
+   :longitude 23.28257,
+   :latitude 55.920331,
+   :source :openstreetmap,
+   :locality "Šiauliai"}
+  {:name "Šiaulių tardymo izoliatoriaus muziejus",
+   :longitude 23.32322,
+   :latitude 55.927944,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/siauliai/tardymo_izoliatoriaus_muz.htm",
+   :locality "Šiauliai"}
+  {:name "Šiaulių vyskupijos bažnytinio paveldo muziejus",
+   :longitude 23.2007394,
+   :latitude 55.5966268,
+   :source :openstreetmap,
+   :locality "Tytuvėnai"}
+  {:name "Šilalės Vlado Statkevičiaus muziejus",
+   :longitude 22.181419,
+   :latitude 55.49058,
+   :source :openstreetmap,
+   :homepage "https://www.silalesmuziejus.lt/",
+   :locality "Šilalė"}
+  {:name "Šilavoto Davatkynas",
+   :longitude 23.7555999,
+   :latitude 54.6652566,
+   :source :openstreetmap,
+   :homepage
+   "http://www.prienumuziejus.lt/ekspozicija/silavoto-davatkynas/",
+   :locality "Naujasodis"}
+  {:name "Šilinės smuklė",
+   :longitude 22.9560226,
+   :latitude 55.089727,
+   :source :openstreetmap,
+   :locality "Šilinė"}
+  {:name "Šilutės Hugo Šojaus muziejus",
+   :longitude 21.4599174,
+   :latitude 55.3408794,
+   :source :openstreetmap,
+   :homepage "https://www.silutesmuziejus.lt/",
+   :locality "Šilutė"}
+  {:name "Širvintos miestelio muziejus",
+   :longitude 22.861299,
+   :latitude 54.77555,
+   :source :openstreetmap,
+   :homepage
+   "https://www.muziejai.lt/Sakiai/sirvintos_miestelio_muziejus.htm",
+   :locality "Kudirkos Naumiestis"}
+  {:name "Šokolado muziejus",
+   :longitude 23.311771,
+   :latitude 55.929726,
+   :source :openstreetmap,
+   :homepage "http://www.sokoladomuziejus.lt",
+   :locality "Šiauliai"}
+  {:name "Šunų muziejus",
+   :longitude 21.0835862,
+   :latitude 55.9170266,
+   :source :openstreetmap,
+   :homepage "https://www.sunumuziejus.lt/",
+   :locality "Palanga"}
+  {:name "Šv. Faustinos namelis",
+   :longitude 25.3181423,
+   :latitude 54.7052015,
+   :source :openstreetmap,
+   :homepage
+   "https://cityofmercy.lt/en_GB/objektai/sv-faustinos-namelis/",
+   :locality "Vilnius"}
+  {:name "Švėkšnos muziejus",
+   :longitude 21.619846,
+   :latitude 55.5162835,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/Silute/Silutes_muziejus.htm",
+   :locality "Švėkšna"}
+  {:name "Žaslių kultūros centras",
+   :longitude 24.5900127,
+   :latitude 54.8639481,
+   :source :openstreetmap,
+   :locality "Žasliai"}
+  {:name "Žemaitijos kaimo ekspozicija",
+   :longitude 22.2424375,
+   :latitude 55.9653444,
+   :source :openstreetmap,
+   :homepage
+   "https://visit.telsiai.lt/lankytinos-vietos/zemaiciu-muziejaus-alka-zemaitijos-kaimo-ekspozicija/",
+   :locality "Telšiai"}
+  {:name "Žemaičių dailės muziejus",
+   :longitude 21.8445055,
+   :latitude 55.9194898,
+   :source :openstreetmap,
+   :homepage "https://www.oginski.lt/",
+   :locality "Plungė"}
+  {:name "Žemaičių muziejus Alka",
+   :longitude 22.235725,
+   :latitude 55.975222,
+   :source :openstreetmap,
+   :homepage "https://www.muziejusalka.lt",
+   :locality "Telšiai"}
+  {:name "Žemaičių Naumiesčio muziejus",
+   :longitude 21.700684,
+   :latitude 55.3591237,
+   :source :openstreetmap,
+   :homepage
+   "https://www.silutesmuziejus.lt/home/ekspozicijos/ekspozicija-zemaiciu-naumiestyje/",
+   :locality "Žemaičių Naumiestis"}
+  {:name "Žemaičių vyskupystės muziejus",
+   :longitude 22.3722638,
+   :latitude 55.7440699,
+   :source :openstreetmap,
+   :homepage "https://www.varniai-museum.lt/",
+   :locality "Varniai"}
+  {:name "Žemdirbio muziejus",
+   :longitude 21.6918987,
+   :latitude 56.2848861,
+   :source :openstreetmap,
+   :homepage
+   "https://skouds.lt/lt/lankytinos-vietos/item/2-zemdirbio-muziejus",
+   :locality "Aleksandrija"}
+  {:name "Židinys",
+   :longitude 24.9780567,
+   :latitude 55.8399793,
+   :source :openstreetmap,
+   :homepage "https://etnografijosmuziejus.lt/",
+   :locality "Kupiškis"}
+  {:name "Žiežmarių kultūros centras",
+   :longitude 24.4410584,
+   :latitude 54.8032029,
+   :source :openstreetmap,
+   :locality "Žiežmariai"}
+  {:name "Žvejo etnografinė sodyba",
+   :longitude 21.0062122,
+   :latitude 55.3015156,
+   :source :openstreetmap,
+   :homepage "https://www.muziejai.lt/neringa/neringos_muziejus.htm",
+   :locality "Neringa"}
+  {:name "„Utenos“ aludarystės pažinimo centras",
+   :longitude 25.6429752,
+   :latitude 55.4970183,
+   :source :openstreetmap,
+   :homepage "https://utenainfo.lt/lt/utenos_alaus_muziejus",
+   :locality "Utena"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

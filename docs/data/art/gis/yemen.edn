@@ -1,0 +1,92 @@
+{:count 20,
+ :country "yemen",
+ :country-code "YE",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:58.035462Z",
+ :positions
+ [{:name "Socotra Folk Museum",
+   :longitude 54.3127645,
+   :latitude 12.6073424,
+   :source :openstreetmap}
+  {:name "المتحف الحربي",
+   :longitude 44.2046076,
+   :latitude 15.3529146,
+   :source :openstreetmap}
+  {:name "المتحف العسكري",
+   :longitude 45.036435,
+   :latitude 12.779074,
+   :source :openstreetmap}
+  {:name "المتحف الوطني",
+   :longitude 45.0430623,
+   :latitude 12.7789176,
+   :source :openstreetmap}
+  {:name "امثبيب",
+   :longitude 45.8387849,
+   :latitude 14.1510226,
+   :source :openstreetmap}
+  {:name "جامع محل عابد القديم",
+   :longitude 43.1098636,
+   :latitude 15.4449298,
+   :source :openstreetmap}
+  {:name "دار الحجر",
+   :longitude 44.1251339,
+   :latitude 15.4410828,
+   :source :openstreetmap}
+  {:name "دوار المطاحن",
+   :longitude 43.0109053,
+   :latitude 14.7752171,
+   :source :openstreetmap}
+  {:name "ساحة العروض خورمكسر",
+   :longitude 45.0301144,
+   :latitude 12.8095591,
+   :source :openstreetmap}
+  {:name "عشره",
+   :longitude 44.9230038,
+   :latitude 16.6974007,
+   :source :openstreetmap}
+  {:name "قصر سيئون",
+   :longitude 48.784706,
+   :latitude 15.9457903,
+   :source :openstreetmap}
+  {:name "متحف الحديدة",
+   :longitude 42.9420524,
+   :latitude 14.7910673,
+   :source :openstreetmap,
+   :locality "الحديدة"}
+  {:name "متحف السلطان",
+   :longitude 49.1275553,
+   :latitude 14.5314802,
+   :source :openstreetmap}
+  {:name "متحف الغيضة",
+   :longitude 52.1871979,
+   :latitude 16.2084683,
+   :source :openstreetmap}
+  {:name "متحف المحضار",
+   :longitude 49.6079034,
+   :latitude 14.7666998,
+   :source :openstreetmap}
+  {:name "متحف اليمن للسيارات الكلاسيكية",
+   :longitude 48.7764794,
+   :latitude 15.948675,
+   :source :openstreetmap}
+  {:name "متحف تعز الوطني",
+   :longitude 44.0239808,
+   :latitude 13.5737249,
+   :source :openstreetmap}
+  {:name "متحف ثوبان الاثري بينون",
+   :longitude 44.6532636,
+   :latitude 14.7652237,
+   :source :openstreetmap}
+  {:name "متحف عدن",
+   :longitude 45.031532,
+   :latitude 12.775331,
+   :source :openstreetmap}
+  {:name "مركز الفنون الوطني",
+   :longitude 44.2152429,
+   :latitude 15.3540899,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

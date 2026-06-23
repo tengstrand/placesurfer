@@ -1,0 +1,481 @@
+{:count 100,
+ :country "uruguay",
+ :country-code "UY",
+ :dataset :art,
+ :generated-at "2026-05-26T06:41:25.662939Z",
+ :positions
+ [{:name "Arboleto Lussich",
+   :longitude -55.0358488,
+   :latitude -34.8848351,
+   :source :openstreetmap}
+  {:name "Asociación Cultural Cuareim 1080",
+   :longitude -56.1898923,
+   :latitude -34.9114814,
+   :source :openstreetmap,
+   :homepage
+   "https://montevideo.gub.uy/areas-tematicas/personas-y-ciudadania/afrodescendientes/mapeo-afrodescendencia-resiliente/asociacion-cultural-cuareim-1080",
+   :locality "Montevideo"}
+  {:name "Azotea de Haedo",
+   :longitude -54.9440013,
+   :latitude -34.918714,
+   :source :openstreetmap}
+  {:name "Bastión del Carmen",
+   :longitude -57.8502805,
+   :latitude -34.4692909,
+   :source :openstreetmap,
+   :homepage "https://www.museoscolonia.com.uy/espesp"}
+  {:name "BIT/Centro Cultural AFE",
+   :longitude -57.8454395,
+   :latitude -34.473067,
+   :source :openstreetmap}
+  {:name "Calera de las Huérfanas",
+   :longitude -58.1754304,
+   :latitude -34.0248965,
+   :source :openstreetmap}
+  {:name "Casa de Carlos Vaz Ferreira",
+   :longitude -56.1906111,
+   :latitude -34.8614805,
+   :source :openstreetmap}
+  {:name "Casa de Fructuoso Rivera",
+   :longitude -56.2066155,
+   :latitude -34.9070064,
+   :source :openstreetmap,
+   :homepage "https://www.museohistorico.gub.uy/",
+   :locality "Montevideo"}
+  {:name "Casa de Fructuoso Rivera",
+   :longitude -56.5229959,
+   :latitude -33.3802359,
+   :source :openstreetmap,
+   :locality "Durazno"}
+  {:name "Casa de la Cultura de Pan de Azucar",
+   :longitude -55.2232958,
+   :latitude -34.7753256,
+   :source :openstreetmap}
+  {:name "Casa de Manuel Ximénez y Gómez",
+   :longitude -56.205254,
+   :latitude -34.9029565,
+   :source :openstreetmap,
+   :homepage "https://www.museohistorico.gub.uy/",
+   :locality "Montevideo"}
+  {:name "Casa Quinta de Batlle y Ordóñez",
+   :longitude -56.1338488,
+   :latitude -34.8222807,
+   :source :openstreetmap}
+  {:name "Casa Quinta de Luis Alberto de Herrera",
+   :longitude -56.1762178,
+   :latitude -34.8637368,
+   :source :openstreetmap,
+   :locality "Montevideo"}
+  {:name "Casa Soubiron",
+   :longitude -55.1312913,
+   :latitude -33.1012301,
+   :source :openstreetmap}
+  {:name "Casona del Patriarca",
+   :longitude -57.9834463,
+   :latitude -31.6147881,
+   :source :openstreetmap}
+  {:name "Castillo de Piria",
+   :longitude -55.2515926,
+   :latitude -34.8286754,
+   :source :openstreetmap}
+  {:name "Centro Cultural Casa de Artigas",
+   :longitude -56.0651187,
+   :latitude -34.6502951,
+   :source :openstreetmap}
+  {:name "Centro Cultural La Calenda",
+   :longitude -56.1930542,
+   :latitude -34.912193,
+   :source :openstreetmap,
+   :homepage
+   "https://www.mapeosociedadcivil.uy/organizaciones/asociacion-de-integracion-cultural-tango/",
+   :locality "Montevideo"}
+  {:name "Centro Cultural Mi Morena",
+   :longitude -56.1858396,
+   :latitude -34.8985015,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/mimorenacandombe/"}
+  {:name "Centro de Interpretación",
+   :longitude -53.843201,
+   :latitude -34.3826036,
+   :source :openstreetmap}
+  {:name "Centro MEC",
+   :longitude -57.6783207,
+   :latitude -30.5805118,
+   :source :openstreetmap,
+   :homepage "http://centrosmec.org.uy/"}
+  {:name "El Ancla",
+   :longitude -57.2337293,
+   :latitude -32.2108643,
+   :source :openstreetmap}
+  {:name "Espacio del Azulejo",
+   :longitude -57.8533704,
+   :latitude -34.4722669,
+   :source :openstreetmap,
+   :homepage "https://www.museoscolonia.com.uy/index.php/esp-azulejo",
+   :locality "Colonia del Sacramento"}
+  {:name "Espacio Generaciones",
+   :longitude -56.1760263,
+   :latitude -34.8993328,
+   :source :openstreetmap,
+   :homepage
+   "https://montevideo.gub.uy/areas-tematicas/personas-y-ciudadania/espacio-generacciones"}
+  {:name "Fortaleza General Artigas",
+   :longitude -56.2599312,
+   :latitude -34.8884346,
+   :source :openstreetmap}
+  {:name "Fotogalería",
+   :longitude -56.215013,
+   :latitude -34.8725356,
+   :source :openstreetmap}
+  {:name "Galeria de Arte",
+   :longitude -56.071842,
+   :latitude -34.8822194,
+   :source :openstreetmap}
+  {:name "Galería de Arte & Subastas",
+   :longitude -56.0573469,
+   :latitude -34.8892757,
+   :source :openstreetmap}
+  {:name "Guerra",
+   :longitude -54.9490409,
+   :latitude -34.9654545,
+   :source :openstreetmap}
+  {:name "Guerro",
+   :longitude -56.134631,
+   :latitude -34.9054821,
+   :source :openstreetmap}
+  {:name "La Vista",
+   :longitude -54.9401196,
+   :latitude -34.9572088,
+   :source :openstreetmap}
+  {:name "Molino viejo",
+   :longitude -55.2450919,
+   :latitude -34.3776174,
+   :source :openstreetmap,
+   :locality "Minas"}
+  {:name "MUDE - Museo Uruguayo del Escultismo",
+   :longitude -56.0623623,
+   :latitude -34.8660744,
+   :source :openstreetmap}
+  {:name "Museo",
+   :longitude -56.2736022,
+   :latitude -34.5269211,
+   :source :openstreetmap}
+  {:name "Museo Agustín Araújo",
+   :longitude -54.3829929,
+   :latitude -33.2315661,
+   :source :openstreetmap}
+  {:name "Museo Batalla del Río de la Plata",
+   :longitude -55.6020367,
+   :latitude -33.315472,
+   :source :openstreetmap}
+  {:name "Museo Carlos Gardel",
+   :longitude -56.1769542,
+   :latitude -31.8236073,
+   :source :openstreetmap}
+  {:name "Museo Casa de Juan Zorrilla de San Martín",
+   :longitude -56.1597694,
+   :latitude -34.9276332,
+   :source :openstreetmap,
+   :locality "Montevideo"}
+  {:name "Museo Casa Villamajó",
+   :longitude -56.1633097,
+   :latitude -34.9149607,
+   :source :openstreetmap,
+   :homepage "https://www.fadu.edu.uy/museo-casa-vilamajo/",
+   :locality "Montevideo"}
+  {:name "Museo Castillo Pittamiglio",
+   :longitude -56.1498324,
+   :latitude -34.9209902,
+   :source :openstreetmap,
+   :homepage "https://universopittamiglio.com/",
+   :locality "Montevideo"}
+  {:name "Museo de Arte Americano",
+   :longitude -54.9595108,
+   :latitude -34.9120246,
+   :source :openstreetmap}
+  {:name "Museo de Arte Contemporáneo Atchugarry",
+   :longitude -54.821367,
+   :latitude -34.8662874,
+   :source :openstreetmap}
+  {:name "Museo de Arte de Piriápolis - Les Mouettes",
+   :longitude -55.2753573,
+   :latitude -34.8727355,
+   :source :openstreetmap}
+  {:name "Museo de Artes Visuales de Tacuarembó",
+   :longitude -55.9823897,
+   :latitude -31.7152455,
+   :source :openstreetmap,
+   :locality "Tacuarembó"}
+  {:name "Museo de Autos Antiguos",
+   :longitude -53.3807553,
+   :latitude -32.5901729,
+   :source :openstreetmap,
+   :homepage "museomediosdetransporte.blogspot.com"}
+  {:name "Museo de Carnaval",
+   :longitude -56.2121678,
+   :latitude -34.9057313,
+   :source :openstreetmap,
+   :homepage "https://www.museodelcarnaval.org/"}
+  {:name "Museo de Geociencias",
+   :longitude -55.9807022,
+   :latitude -31.7117,
+   :source :openstreetmap}
+  {:name "Museo de Historia",
+   :longitude -54.1681602,
+   :latitude -32.37377,
+   :source :openstreetmap}
+  {:name "Museo de Historia del Arte",
+   :longitude -56.1865331,
+   :latitude -34.9062399,
+   :source :openstreetmap,
+   :homepage "https://muhar.montevideo.gub.uy/",
+   :locality "Montevideo"}
+  {:name "Museo de Historia Natural Dr. Carlos Torres de la LLosa",
+   :longitude -56.175729,
+   :latitude -34.9034109,
+   :source :openstreetmap,
+   :homepage "https://museotorresdelallo.wixsite.com/museo",
+   :locality "Montevideo"}
+  {:name "Museo de la Dirección Nacional de Bomberos",
+   :longitude -56.1807665,
+   :latitude -34.9025571,
+   :source :openstreetmap,
+   :locality "Montevideo"}
+  {:name "Museo de la Revolucion Industrial",
+   :longitude -58.3321177,
+   :latitude -33.1166388,
+   :source :openstreetmap}
+  {:name "Museo de las Telecomunicaciones",
+   :longitude -56.1941027,
+   :latitude -34.8920853,
+   :source :openstreetmap,
+   :locality "Montevideo"}
+  {:name "Museo de Madeira",
+   :longitude -58.2859171,
+   :latitude -33.9975536,
+   :source :openstreetmap,
+   :homepage "http://escultorjosecastro.com.uy"}
+  {:name "Museo del Agua",
+   :longitude -56.3959875,
+   :latitude -34.5160604,
+   :source :openstreetmap}
+  {:name "Museo del Ferrocarril",
+   :longitude -57.8657446,
+   :latitude -34.4356096,
+   :source :openstreetmap}
+  {:name "Museo del Fútbol",
+   :longitude -56.1514874,
+   :latitude -34.8942474,
+   :source :openstreetmap,
+   :locality "Montevideo"}
+  {:name "Museo del Hombre y la Tecnología",
+   :longitude -57.9690985,
+   :latitude -31.3857947,
+   :source :openstreetmap,
+   :homepage "https://www.salto.gub.uy/museo-del-hombre",
+   :locality "Salto"}
+  {:name "Museo del Mar",
+   :longitude -54.8703642,
+   :latitude -34.8989584,
+   :source :openstreetmap,
+   :homepage "https://museodelmar.com.uy/"}
+  {:name "Museo del Observatorio Meteorológico y Astronómico",
+   :longitude -56.2494293,
+   :latitude -34.7965275,
+   :source :openstreetmap,
+   :locality "Montevideo"}
+  {:name "Museo del Tango y el Turf",
+   :longitude -56.1032917,
+   :latitude -34.896208,
+   :source :openstreetmap,
+   :homepage "https://municipioe.montevideo.gub.uy/villa-yeru%C3%A1",
+   :locality "Montevideo"}
+  {:name "Museo Ferroviario",
+   :longitude -55.277254,
+   :latitude -34.8639877,
+   :source :openstreetmap}
+  {:name "Museo Gral. Aparicio Saravia",
+   :longitude -55.1910557,
+   :latitude -32.9345549,
+   :source :openstreetmap}
+  {:name "Museo Historico Regional de Dolores",
+   :longitude -58.2249805,
+   :latitude -33.520297,
+   :source :openstreetmap}
+  {:name "Museo Horacio Quiroga",
+   :longitude -57.9589849,
+   :latitude -31.3740982,
+   :source :openstreetmap}
+  {:name "Museo Indígena",
+   :longitude -56.5276441,
+   :latitude -33.3889569,
+   :source :openstreetmap}
+  {:name "Museo Julio Sosa",
+   :longitude -56.2013962,
+   :latitude -34.7262004,
+   :source :openstreetmap}
+  {:name "Museo Luis Solari",
+   :longitude -58.3136706,
+   :latitude -33.1161265,
+   :source :openstreetmap}
+  {:name "Museo Mazzoni",
+   :longitude -54.9580738,
+   :latitude -34.9074381,
+   :source :openstreetmap,
+   :locality "Maldonado"}
+  {:name "Museo Militar Soldado de la Frontera",
+   :longitude -54.9618626,
+   :latitude -32.9191389,
+   :source :openstreetmap}
+  {:name "Museo Militar Tte. Gral. Pablo Galarza",
+   :longitude -56.5192187,
+   :latitude -33.3886321,
+   :source :openstreetmap,
+   :locality "Durazno"}
+  {:name "Museo Municipal de Bellas Artes Juan Manuel Blanes",
+   :longitude -56.1984523,
+   :latitude -34.8531544,
+   :source :openstreetmap,
+   :homepage "https://blanes.montevideo.gub.uy/",
+   :locality "Montevideo"}
+  {:name "Museo Nacional de Antropología",
+   :longitude -56.1999532,
+   :latitude -34.8450435,
+   :source :openstreetmap,
+   :homepage "https://www.mna.gub.uy/",
+   :locality "Montevideo"}
+  {:name "Museo Nacional de Historia Natural",
+   :longitude -56.179769,
+   :latitude -34.8944926,
+   :source :openstreetmap,
+   :homepage "https://www.mnhn.gub.uy/",
+   :locality "Montevideo"}
+  {:name "Museo Naval",
+   :longitude -56.1360302,
+   :latitude -34.9106553,
+   :source :openstreetmap,
+   :homepage "https://www.armada.mil.uy/",
+   :locality "Montevideo"}
+  {:name "Museo Numismático",
+   :longitude -56.1999881,
+   :latitude -34.9033367,
+   :source :openstreetmap,
+   :homepage "https://www.bcu.gub.uy/"}
+  {:name "Museo Oceanográfico",
+   :longitude -56.1235675,
+   :latitude -34.9033195,
+   :source :openstreetmap}
+  {:name "Museo Paleontologico “Armando Calcaterra”",
+   :longitude -57.8590019,
+   :latitude -34.4390468,
+   :source :openstreetmap}
+  {:name "Museo Pedagógico José Pedro Varela",
+   :longitude -56.1908329,
+   :latitude -34.9052619,
+   :source :openstreetmap,
+   :homepage "https://www.dgeip.edu.uy/museo-info/",
+   :locality "Montevideo"}
+  {:name "Museo Peugeot",
+   :longitude -56.1931137,
+   :latitude -34.9018726,
+   :source :openstreetmap,
+   :locality "Montevideo"}
+  {:name "Museo Ralli Punta del Este",
+   :longitude -54.9270489,
+   :latitude -34.9296699,
+   :source :openstreetmap,
+   :homepage "https://www.museoralli.com.uy/",
+   :locality "Punta del Este"}
+  {:name "Museo Spikerman",
+   :longitude -56.2812644,
+   :latitude -34.5269957,
+   :source :openstreetmap}
+  {:name "Museo Torres García",
+   :longitude -56.2013757,
+   :latitude -34.9064601,
+   :source :openstreetmap,
+   :homepage "https://www.torresgarcia.org.uy",
+   :locality "Montevideo"}
+  {:name "Museo Tourn",
+   :longitude -57.8189306,
+   :latitude -34.3377262,
+   :source :openstreetmap}
+  {:name "Museo U.T.U",
+   :longitude -56.1785943,
+   :latitude -34.9121067,
+   :source :openstreetmap,
+   :homepage "http://museocannabis.uy"}
+  {:name "Museo Wenceslao Varela",
+   :longitude -56.716764,
+   :latitude -34.3454674,
+   :source :openstreetmap,
+   :homepage
+   "https://sanjose.gub.uy/gobierno/dependencia/museo-wenceslao-varela/",
+   :locality "San Jose de Mayo"}
+  {:name "Museo y Casa De La Cultura de Tranqueras",
+   :longitude -55.7706843,
+   :latitude -31.1918051,
+   :source :openstreetmap}
+  {:name "Museo – Taller de Casapueblo",
+   :longitude -55.0445866,
+   :latitude -34.9087578,
+   :source :openstreetmap,
+   :homepage "https://casapueblo.com.uy/",
+   :locality "Maldonado"}
+  {:name "Musėo Paleontologico",
+   :longitude -58.0650526,
+   :latitude -33.2427868,
+   :source :openstreetmap}
+  {:name "Posta del Chuy",
+   :longitude -54.0296436,
+   :latitude -32.382376,
+   :source :openstreetmap}
+  {:name "Primer Templo Valdense de Sudamérica",
+   :longitude -57.311373,
+   :latitude -34.3462145,
+   :source :openstreetmap,
+   :locality "La Paz"}
+  {:name "Sala Eduardo Fabini",
+   :longitude -55.2382015,
+   :latitude -34.3791717,
+   :source :openstreetmap}
+  {:name "Salón Historico",
+   :longitude -53.376717,
+   :latitude -32.602508,
+   :source :openstreetmap}
+  {:name "Santa Teresa: Su Historia",
+   :longitude -53.5544471,
+   :latitude -34.0021574,
+   :source :openstreetmap}
+  {:name "Sede Comisión Vecinal Punta Negra",
+   :longitude -55.2216604,
+   :latitude -34.8848495,
+   :source :openstreetmap}
+  {:name "Subte",
+   :longitude -56.1945089,
+   :latitude -34.905928,
+   :source :openstreetmap,
+   :homepage "https://subte.montevideo.gub.uy"}
+  {:name "Taller Alonzo",
+   :longitude -56.1721187,
+   :latitude -34.8986495,
+   :source :openstreetmap,
+   :homepage "https://www.talleralonzo.com/"}
+  {:name "Tour 360º da Sede do Mercosul",
+   :longitude -56.1713835,
+   :latitude -34.9140025,
+   :source :openstreetmap,
+   :homepage "https://digitallab.ufg.br/"}
+  {:name "Usina Cultural Salto",
+   :longitude -57.9445842,
+   :latitude -31.3782974,
+   :source :openstreetmap}
+  {:name "Visitors Centre",
+   :longitude -58.3285722,
+   :latitude -33.118014,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

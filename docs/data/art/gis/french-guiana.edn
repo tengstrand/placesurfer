@@ -1,0 +1,118 @@
+{:count 23,
+ :country "french-guiana",
+ :country-code "GF",
+ :dataset :art,
+ :generated-at "2026-05-26T06:11:52.964541Z",
+ :positions
+ [{:name "Association Libi Na Wan",
+   :longitude -52.6393363,
+   :latitude 5.156555,
+   :source :openstreetmap}
+  {:name "Camp de la transportation",
+   :longitude -54.0313204,
+   :latitude 5.5045562,
+   :source :openstreetmap}
+  {:name "Centre A.M. Javouhey",
+   :longitude -53.7764624,
+   :latitude 5.6666781,
+   :source :openstreetmap}
+  {:name "Centre Culturel Mama Bobi",
+   :longitude -54.0331694,
+   :latitude 5.5007174,
+   :source :openstreetmap,
+   :locality "Saint-Laurent-du-Maroni"}
+  {:name "Centre d'Archéologie Amérindienne de Kourou",
+   :longitude -52.6654953,
+   :latitude 5.1589873,
+   :source :openstreetmap,
+   :homepage
+   "https://www.ville-kourou.fr/culture/centre-archeologie-amerindienne-de-kourou-caak/"}
+  {:name "Espace Culturel Joseph Ho Ten You",
+   :longitude -52.2738947,
+   :latitude 4.9109705,
+   :source :openstreetmap}
+  {:name "Espace Edmonde Rey",
+   :longitude -52.3158486,
+   :latitude 4.9440449,
+   :source :openstreetmap,
+   :homepage "https://www.facebook.com/espace.E.REY",
+   :locality "Cayenne"}
+  {:name "Ferronnerie D'Art",
+   :longitude -52.3277492,
+   :latitude 4.9418924,
+   :source :openstreetmap,
+   :homepage
+   "http://amazonian-museum-network.org/fr/les-musees-d-amazonie/musee-des-cultures-guyanaises",
+   :locality "Cayenne"}
+  {:name "Herbier de Guyane",
+   :longitude -52.318914,
+   :latitude 4.9422399,
+   :source :openstreetmap,
+   :homepage "https://herbier-guyane.ird.fr"}
+  {:name "Le Planeur Bleu",
+   :longitude -52.4689722,
+   :latitude 4.5698056,
+   :source :openstreetmap}
+  {:name "Maison Créole",
+   :longitude -52.3261768,
+   :latitude 4.7256385,
+   :source :openstreetmap}
+  {:name "Maison de la Nature",
+   :longitude -53.0439395,
+   :latitude 5.4180541,
+   :source :openstreetmap}
+  {:name "Maison de la Réserve naturelle",
+   :longitude -52.0370249,
+   :latitude 4.4877118,
+   :source :openstreetmap,
+   :homepage "https://www.reserves-naturelles.org/marais-de-kaw-roura"}
+  {:name "Maison Félix Éboué",
+   :longitude -52.3282062,
+   :latitude 4.9388644,
+   :source :openstreetmap,
+   :homepage
+   "http://amazonian-museum-network.org/fr/les-musees-d-amazonie/musee-des-cultures-guyanaises",
+   :locality "Cayenne"}
+  {:name "Makandra : centre d'action sociale",
+   :longitude -53.7767049,
+   :latitude 5.6702338,
+   :source :openstreetmap}
+  {:name "Musée de l'Espace",
+   :longitude -52.683663,
+   :latitude 5.1690143,
+   :source :openstreetmap}
+  {:name "Musée du bagne",
+   :longitude -52.588204,
+   :latitude 5.2870054,
+   :source :openstreetmap}
+  {:name "Musée départemental Alexandre Franconie",
+   :longitude -52.3344262,
+   :latitude 4.9382912,
+   :source :openstreetmap,
+   :locality "Cayenne"}
+  {:name "Musée Municipal",
+   :longitude -52.3314402,
+   :latitude 4.8501417,
+   :source :openstreetmap}
+  {:name "Médiathèque",
+   :longitude -52.6487464,
+   :latitude 5.1568897,
+   :source :openstreetmap}
+  {:name "Écomusée",
+   :longitude -52.4926755,
+   :latitude 4.8927912,
+   :source :openstreetmap}
+  {:name "Écomusée de Saül",
+   :longitude -53.2087132,
+   :latitude 3.6231787,
+   :source :openstreetmap}
+  {:name "Écomusée municipal d’Approuague-Kaw",
+   :longitude -52.1285455,
+   :latitude 4.3151512,
+   :source :openstreetmap,
+   :homepage "https://www.emak-regina.fr"}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

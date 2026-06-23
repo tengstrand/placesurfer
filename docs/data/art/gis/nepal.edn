@@ -1,0 +1,343 @@
+{:count 78,
+ :country "nepal",
+ :country-code "NP",
+ :dataset :art,
+ :generated-at "2026-05-26T06:23:23.891424Z",
+ :positions
+ [{:name "Andy's Art gallery",
+   :longitude 85.3252781,
+   :latitude 27.6741106,
+   :source :openstreetmap}
+  {:name "Annapurna Butterfly Museum",
+   :longitude 83.9914308,
+   :latitude 28.2392374,
+   :source :openstreetmap}
+  {:name "Army Museum",
+   :longitude 85.2894969,
+   :latitude 27.706519,
+   :source :openstreetmap,
+   :homepage "https://www.nationalmuseum.gov.np/"}
+  {:name "Bhav Art Gallery",
+   :longitude 85.3247484,
+   :latitude 27.7161261,
+   :source :openstreetmap}
+  {:name "Bikash Art and Silalekh",
+   :longitude 84.8890417,
+   :latitude 27.9114481,
+   :source :openstreetmap}
+  {:name "Brahmdev Museum",
+   :longitude 80.1337554,
+   :latitude 29.0640334,
+   :source :openstreetmap}
+  {:name "Brass & Bronze Museum",
+   :longitude 85.435587,
+   :latitude 27.6737206,
+   :source :openstreetmap}
+  {:name "Bridge the world",
+   :longitude 83.9572587,
+   :latitude 28.2208476,
+   :source :openstreetmap}
+  {:name "Buddha Atelier",
+   :longitude 83.9931755,
+   :latitude 28.2215702,
+   :source :openstreetmap}
+  {:name "Bungamati Museum",
+   :longitude 85.3024433,
+   :latitude 27.6288672,
+   :source :openstreetmap,
+   :homepage "http://www.facebook.com/bungamatimuseum",
+   :locality "Bungamati"}
+  {:name "Changu Museum",
+   :longitude 85.4292412,
+   :latitude 27.7165172,
+   :source :openstreetmap}
+  {:name "Chepang Museuw",
+   :longitude 84.8442994,
+   :latitude 27.5476345,
+   :source :openstreetmap}
+  {:name "China Cultural Center",
+   :longitude 85.3378342,
+   :latitude 27.7397517,
+   :source :openstreetmap}
+  {:name "Chyatriya Sangralaya",
+   :longitude 83.990756,
+   :latitude 28.2173146,
+   :source :openstreetmap}
+  {:name "Classic Art Gallery",
+   :longitude 85.325767,
+   :latitude 27.6792298,
+   :source :openstreetmap}
+  {:name "Decoration and Fine Art Gallery",
+   :longitude 85.315746,
+   :latitude 27.7489458,
+   :source :openstreetmap}
+  {:name "Destination Art Gallery",
+   :longitude 85.3288859,
+   :latitude 27.7868633,
+   :source :openstreetmap}
+  {:name "Dhuni Pati",
+   :longitude 84.629058,
+   :latitude 28.0042154,
+   :source :openstreetmap}
+  {:name "Dil Ceramics",
+   :longitude 85.3918023,
+   :latitude 27.6818796,
+   :source :openstreetmap}
+  {:name "Eco Museum",
+   :longitude 84.1029428,
+   :latitude 28.3551138,
+   :source :openstreetmap}
+  {:name "Ehwa Arts Collaboratory",
+   :longitude 85.5904749,
+   :latitude 27.5965945,
+   :source :openstreetmap,
+   :homepage "https://docskool.org.np"}
+  {:name "Ethnic Tharu Museum",
+   :longitude 84.2419358,
+   :latitude 27.6164679,
+   :source :openstreetmap}
+  {:name "Film Foundry",
+   :longitude 85.3118122,
+   :latitude 27.6715137,
+   :source :openstreetmap}
+  {:name "Flex Print",
+   :longitude 85.3452757,
+   :latitude 27.7143562,
+   :source :openstreetmap}
+  {:name "Ghandruk Cultural Museum",
+   :longitude 83.8048673,
+   :latitude 28.3813479,
+   :source :openstreetmap}
+  {:name "Gurkha Memorial Museum",
+   :longitude 83.9885326,
+   :latitude 28.2462063,
+   :source :openstreetmap,
+   :homepage "gurkhamuseum.org.np"}
+  {:name "Harmony Handicraft House",
+   :longitude 85.3078338,
+   :latitude 27.7073837,
+   :source :openstreetmap}
+  {:name "Hazari Arts and Craft",
+   :longitude 83.9570914,
+   :latitude 28.2099238,
+   :source :openstreetmap}
+  {:name "Himalayan Cultural Museum House",
+   :longitude 83.7742556,
+   :latitude 28.3101096,
+   :source :openstreetmap,
+   :locality "Annapurna Rural Municipality, Ward No.8"}
+  {:name "International Mountain Museum",
+   :longitude 83.9797903,
+   :latitude 28.1891632,
+   :source :openstreetmap,
+   :homepage "www.internationalmountainmuseum.org"}
+  {:name "Jama Masjid",
+   :longitude 84.8078368,
+   :latitude 27.01958,
+   :source :openstreetmap}
+  {:name "Johan Arts",
+   :longitude 85.3219526,
+   :latitude 27.7420656,
+   :source :openstreetmap}
+  {:name "Jyapu samaj",
+   :longitude 85.3319528,
+   :latitude 27.6736999,
+   :source :openstreetmap}
+  {:name "Kabi Shiromani Lekhnath Museum",
+   :longitude 84.0727486,
+   :latitude 28.1990198,
+   :source :openstreetmap,
+   :locality "Pokhara Lekhnath Metropolitan City"}
+  {:name "Kala Kendra",
+   :longitude 83.9635642,
+   :latitude 28.2088797,
+   :source :openstreetmap}
+  {:name "Kaski Ulleri Pun Magar Museum",
+   :longitude 83.7362044,
+   :latitude 28.3572634,
+   :source :openstreetmap}
+  {:name "Kathmandu Art House",
+   :longitude 85.3092129,
+   :latitude 27.7152166,
+   :source :openstreetmap}
+  {:name "KU Corner",
+   :longitude 85.5385823,
+   :latitude 27.6196854,
+   :source :openstreetmap}
+  {:name "Lumanthang Arts Shop",
+   :longitude 83.957489,
+   :latitude 28.2137792,
+   :source :openstreetmap}
+  {:name "Lumbini Museum",
+   :longitude 83.2769853,
+   :latitude 27.4891462,
+   :source :openstreetmap}
+  {:name "Lyaku Museum",
+   :longitude 85.275236,
+   :latitude 27.6794137,
+   :source :openstreetmap}
+  {:name "Madan Bhandari Museum",
+   :longitude 87.598974,
+   :latitude 26.6617396,
+   :source :openstreetmap}
+  {:name "Manang Culture Museum",
+   :longitude 84.0242465,
+   :latitude 28.6653753,
+   :source :openstreetmap}
+  {:name "Narayanhiti Palace Museum",
+   :longitude 85.3181031,
+   :latitude 27.7148956,
+   :source :openstreetmap,
+   :locality "Kathmandu"}
+  {:name "National History Museum",
+   :longitude 85.2878278,
+   :latitude 27.7145696,
+   :source :openstreetmap,
+   :homepage "http://nhmnepal@edu.np"}
+  {:name "Nepal Art Council",
+   :longitude 85.3234595,
+   :latitude 27.692219,
+   :source :openstreetmap}
+  {:name "Norbu Art Gallery Khumjung",
+   :longitude 86.7159905,
+   :latitude 27.8194668,
+   :source :openstreetmap,
+   :homepage "www.sherurai.com"}
+  {:name "Old Gurung Museum",
+   :longitude 83.8088567,
+   :latitude 28.3771245,
+   :source :openstreetmap}
+  {:name "Pal creations",
+   :longitude 87.988342,
+   :latitude 26.6387476,
+   :source :openstreetmap}
+  {:name "Panauti Museum",
+   :longitude 85.5171306,
+   :latitude 27.5850092,
+   :source :openstreetmap}
+  {:name "park",
+   :longitude 85.6161815,
+   :latitude 27.0110137,
+   :source :openstreetmap}
+  {:name "Phago Niwas",
+   :longitude 88.0624367,
+   :latitude 26.8959132,
+   :source :openstreetmap}
+  {:name "Planet Musical",
+   :longitude 85.3398092,
+   :latitude 27.6986729,
+   :source :openstreetmap}
+  {:name "Prativa Arts",
+   :longitude 83.4525072,
+   :latitude 27.5162253,
+   :source :openstreetmap}
+  {:name "Province Museum",
+   :longitude 87.3436979,
+   :latitude 26.9805909,
+   :source :openstreetmap,
+   :locality "Dhankuta"}
+  {:name "Regional Musium",
+   :longitude 81.6243081,
+   :latitude 28.596175,
+   :source :openstreetmap}
+  {:name "Royal Mahendra Museum",
+   :longitude 85.3077624,
+   :latitude 27.7041214,
+   :source :openstreetmap}
+  {:name "Sagarmatha Next",
+   :longitude 86.7150681,
+   :latitude 27.8105959,
+   :source :openstreetmap,
+   :homepage "https://sagarmathanext.com/"}
+  {:name "Sanskriti Youth Center",
+   :longitude 84.878107,
+   :latitude 27.010777,
+   :source :openstreetmap,
+   :homepage "www.sanskriti.org.np",
+   :locality "Birgunj"}
+  {:name "Santu Art Gallery",
+   :longitude 85.3327248,
+   :latitude 27.7236007,
+   :source :openstreetmap}
+  {:name "Shikhar Art Glass",
+   :longitude 81.6183463,
+   :latitude 28.0614647,
+   :source :openstreetmap}
+  {:name "Simulation Science Center",
+   :longitude 85.2864898,
+   :latitude 27.6678423,
+   :source :openstreetmap}
+  {:name "Sindhuli Cultural House",
+   :longitude 85.9110295,
+   :latitude 27.2069874,
+   :source :openstreetmap}
+  {:name "Sindhuli Gadhi War Museum",
+   :longitude 85.9561337,
+   :latitude 27.2798414,
+   :source :openstreetmap}
+  {:name "Tallo Durbar Prithivi Museum",
+   :longitude 84.6243602,
+   :latitude 27.9987667,
+   :source :openstreetmap}
+  {:name "Tamu Sangrahalaya",
+   :longitude 84.3773627,
+   :latitude 28.2331112,
+   :source :openstreetmap}
+  {:name "Taragaon Museum",
+   :longitude 85.3566228,
+   :latitude 27.7200271,
+   :source :openstreetmap,
+   :homepage "https://taragaonmuseum.com/",
+   :locality "Kathmandu"}
+  {:name "Tharu Cultural Museum",
+   :longitude 84.5084926,
+   :latitude 27.581435,
+   :source :openstreetmap}
+  {:name "Tharu Culture Center",
+   :longitude 84.1080658,
+   :latitude 27.5680476,
+   :source :openstreetmap}
+  {:name "Tharu Museum and Information Foundation",
+   :longitude 81.147398,
+   :latitude 28.4613729,
+   :source :openstreetmap,
+   :locality "Rajaput Municipality, Ward no 2"}
+  {:name "The City Museum Kathmandu",
+   :longitude 85.3182587,
+   :latitude 27.7110138,
+   :source :openstreetmap,
+   :homepage "http://thecitymuseum.org/"}
+  {:name "Tushita's Co-Operative Thangka School",
+   :longitude 85.3620176,
+   :latitude 27.7209285,
+   :source :openstreetmap}
+  {:name "Vijay Art Concern",
+   :longitude 85.3382483,
+   :latitude 27.711688,
+   :source :openstreetmap}
+  {:name "Yala Maya Kendra",
+   :longitude 85.3207694,
+   :latitude 27.6779867,
+   :source :openstreetmap}
+  {:name "थारु संग्रहालय",
+   :longitude 82.7851299,
+   :latitude 27.6579807,
+   :source :openstreetmap}
+  {:name "थारु सांस्कृतिक सङ्ग्रालय",
+   :longitude 82.201606,
+   :latitude 28.1159676,
+   :source :openstreetmap}
+  {:name "रचनात्मकहरूको ग्यालरी",
+   :longitude 85.3141023,
+   :latitude 27.7141342,
+   :source :openstreetmap,
+   :homepage "Galleryofcreatives.com"}
+  {:name "शेर्पा संस्कृति संग्रहालय",
+   :longitude 86.714347,
+   :latitude 27.8050388,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

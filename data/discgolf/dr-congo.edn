@@ -1,0 +1,31 @@
+{:count 2,
+ :country "dr-congo",
+ :country-code "CD",
+ :dataset :discgolf,
+ :generated-at "2026-05-25T09:54:38.573487Z",
+ :positions
+ [{:name "Jgjjh",
+   :longitude 22.750196143615398,
+   :latitude -6.1444330268516865,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/18865",
+   :locality "Dibaya",
+   :image "",
+   :description ""}
+  {:name "Savannah disc golf cource park",
+   :longitude 19.97022749760808,
+   :latitude -2.793978029980522,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/23312",
+   :locality "Oshwe",
+   :image "",
+   :description ""}],
+ :source
+ {:attribution
+  "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",
+  :discgolfapi "https://io.discgolfapi.com/v1",
+  :manual "data/discgolf/gis-manual",
+  :metrix "https://discgolfmetrix.com/api.php",
+  :name
+  "DiscGolfMetrix + DiscGolfAPI + OpenStreetMap + manual additions",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}

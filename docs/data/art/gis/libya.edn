@@ -1,0 +1,135 @@
+{:count 30,
+ :country "libya",
+ :country-code "LY",
+ :dataset :art,
+ :generated-at "2026-05-26T06:20:58.585984Z",
+ :positions
+ [{:name "Leptis Magna Museum",
+   :longitude 14.2885874,
+   :latitude 32.6343717,
+   :source :openstreetmap}
+  {:name "Museo Romano Sabratha",
+   :longitude 12.4831598,
+   :latitude 32.8036995,
+   :source :openstreetmap}
+  {:name "Samnu Arts Center",
+   :longitude 14.8814249,
+   :latitude 27.2756562,
+   :source :openstreetmap}
+  {:name "المتحف الإسلامي",
+   :longitude 13.1829893,
+   :latitude 32.8774831,
+   :source :openstreetmap,
+   :locality "طرابلس"}
+  {:name "المتحف التاريخي",
+   :longitude 15.0909132,
+   :latitude 32.3750289,
+   :source :openstreetmap}
+  {:name "المتحف الحربي اجدابيا",
+   :longitude 20.1990318,
+   :latitude 30.7184732,
+   :source :openstreetmap}
+  {:name "المتحف الوطني",
+   :longitude 23.9766447,
+   :latitude 32.0819124,
+   :source :openstreetmap}
+  {:name "المركز الثقافي صرمان",
+   :longitude 12.5680384,
+   :latitude 32.7614058,
+   :source :openstreetmap,
+   :locality "surman"}
+  {:name "بيت المدينة الثقافي",
+   :longitude 20.0597645,
+   :latitude 32.1190807,
+   :source :openstreetmap}
+  {:name "جمعية زوارة للهوية و التراث",
+   :longitude 12.0849691,
+   :latitude 32.9335412,
+   :source :openstreetmap}
+  {:name "رابش سيارات",
+   :longitude 14.613664,
+   :latitude 32.4913472,
+   :source :openstreetmap}
+  {:name "قصر نالوت",
+   :longitude 10.986893,
+   :latitude 31.8671558,
+   :source :openstreetmap,
+   :locality "نالوت"}
+  {:name "متحف اجدابيا",
+   :longitude 20.224158,
+   :latitude 30.7584936,
+   :source :openstreetmap}
+  {:name "متحف السرايا الحمراء",
+   :longitude 13.1811112,
+   :latitude 32.8959247,
+   :source :openstreetmap}
+  {:name "متحف الغزالات",
+   :longitude 14.5669455,
+   :latitude 32.4739651,
+   :source :openstreetmap}
+  {:name "متحف المنحوتات",
+   :longitude 21.86418,
+   :latitude 32.8178119,
+   :source :openstreetmap}
+  {:name "متحف بني وليد الأثري",
+   :longitude 14.0181157,
+   :latitude 31.755305,
+   :source :openstreetmap}
+  {:name "متحف جرمة",
+   :longitude 13.0670102,
+   :latitude 26.5255903,
+   :source :openstreetmap}
+  {:name "متحف جنزور",
+   :longitude 13.0276626,
+   :latitude 32.8283061,
+   :source :openstreetmap}
+  {:name "متحف سليمان باشا الباروني الاثري",
+   :longitude 12.0264706,
+   :latitude 31.9599077,
+   :source :openstreetmap}
+  {:name "متحف صرمان البلدي",
+   :longitude 12.5750366,
+   :latitude 32.7548385,
+   :source :openstreetmap}
+  {:name "متحف قصر ليبيا",
+   :longitude 21.3967752,
+   :latitude 32.6309714,
+   :source :openstreetmap}
+  {:name "متحف ليبيا",
+   :longitude 13.1893115,
+   :latitude 32.8880573,
+   :source :openstreetmap}
+  {:name "متحف نالوت للديناصورات",
+   :longitude 10.9826357,
+   :latitude 31.8648755,
+   :source :openstreetmap,
+   :locality "نالوت"}
+  {:name "مدرسة ابوتركية القرآنية",
+   :longitude 15.1549535,
+   :latitude 32.3865139,
+   :source :openstreetmap}
+  {:name "مركز مزدة التراث",
+   :longitude 12.9800716,
+   :latitude 31.4409543,
+   :source :openstreetmap}
+  {:name "مسجد الرعيضات",
+   :longitude 15.1576751,
+   :latitude 32.3662633,
+   :source :openstreetmap}
+  {:name "معرض الشهداء",
+   :longitude 15.0806919,
+   :latitude 32.3667078,
+   :source :openstreetmap}
+  {:name "معرض بنغازي التجاري",
+   :longitude 20.0675723,
+   :latitude 32.1175841,
+   :source :openstreetmap}
+  {:name "معرض طرابلس الدولي",
+   :longitude 13.1704037,
+   :latitude 32.8894096,
+   :source :openstreetmap}],
+ :source
+ {:attribution
+  "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
+  :name "OpenStreetMap",
+  :openstreetmap "https://overpass-api.de/api/interpreter"}}
