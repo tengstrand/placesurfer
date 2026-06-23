@@ -1,6 +1,6 @@
 # hitteri
 
-Live site: <https://hitteri.com>
+Live site: <https://placesurfer.com>
 
 Copyright © 2026 Joakim Tengstrand. All rights reserved. See [LICENSE](LICENSE).
 
