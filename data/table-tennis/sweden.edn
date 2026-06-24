@@ -351,15 +351,16 @@
    :image "",
    :description
    "Träning: Träningslokal Solanumhallen, Sockervägen, Kävlinge BTK Kävlinge är en bordtennisklubb baserad i Kävlinge, Skåne. Klubben erbjuder träning och tävlingsverksamhet för spelare i olika åldrar och nivåer. Träningarna hålls i Solanumhallen på Sockervägen i Kävlinge. Plats: Solanumhallen, Sockervägen, Kävlinge"}
-  {:name "Bordtennisklubben Linné",
-   :longitude 12.0315,
-   :latitude 57.7295,
-   :source :manual,
-   :homepage "https://www.svenskalag.se/btklinne",
+  {:description
+   "BTK Linné är en av Göteborgs största bordtennisklubbar, med verksamhet för alla åldrar och nivåer. Klubben erbjuder träning för nybörjare, ungdomar, elitspelare, motionärer och veteraner. Hemmahallen är Dunrosshallen i Kviberg, där även samarbeten med andra föreningar som Pensionärernas BTK äger rum. Klubben arrangerar regelbundet tävlingar och läger, inklusive den populära “Klubbresornas Klubbresa”. Plats: Dunrosshallen, Kvibergsvägen 5, 415 05 Göteborg",
    :locality "Dunrosshallen, Kvibergsvägen 5, 415 05 Göteborg",
+   :homepage "https://www.svenskalag.se/btklinne",
+   :name "Bordtennisklubben Linné",
+   :longitude 12.0315,
+   :source :manual,
+   :latitude 57.7295,
    :image "",
-   :description
-   "Träning: Medlems-/Träningsavgifter; Träningstider; Kansliet i Dunrosshallen är bemannat varje onsdag (under säsong) mellan 16:30-18:30.; Vill du bli medlem i BTK Linné skicka först ett mail till ogge_pingpong@hotmail.com för att få kontakt och erhåll ett svar och bli anvisad till en lämplig träningsgrupp innan du gör medlemsregistrering i formuläret nedan. BTK Linné är en av Göteborgs största bordtennisklubbar, med verksamhet för alla åldrar och nivåer. Klubben erbjuder träning för nybörjare, ungdomar, elitspelare, motionärer och veteraner. Hemmahallen är Dunrosshallen i Kviberg, där även samarbeten med andra föreningar som Pensionärernas BTK äger rum. Klubben arrangerar regelbundet tävlingar och läger, inklusive den populära “Klubbresornas Klubbresa”. Plats: Dunrosshallen, Kvibergsvägen 5, 415 05 Göteborg"}
+   :action :edited}
   {:name "Bordtennisklubben Norrskenet",
    :longitude 23.37,
    :latitude 67.21,
@@ -378,43 +379,47 @@
    :image "",
    :description
    "BTK Näcken är en bordtennisklubb baserad i Virserum, Småland. Klubben har en rik historia och erbjuder träning för både ungdomar och seniorer. Hemmahallen är Sparbankshallen i Virserum, där regelbundna träningar och tävlingar hålls. Klubben är aktiv i lokala serier och har deltagit i olika tävlingar inom regionen. Plats: Sparbankshallen, Virserum"}
-  {:name "Bordtennisklubben Ratic",
-   :longitude 12.7,
-   :latitude 56.72,
-   :source :manual,
-   :homepage "https://www.btkratic.se/",
+  {:description
+   "BTK Ratic är en bordtennisklubb baserad i Harplinge, Halland. Klubben bildades 1968 och bedriver verksamhet främst för ungdomar i byarna i närheten.",
    :locality "Ratichallen, Källvägen 1a, 305 60 Harplinge",
-   :image "",
-   :description
-   "Träning: Träningsgrupp 1; Träningsgrupp 2; Träningstider; Träningsgrupp 1 - 12 okt 2023; Ungdomsklasserna startar kl. 9:00!; Seniorer startar kl. 13:00!; Välkomna till uppstart och information för vår grupp Pingislek den 6 september kl 10:00 i Ratichallen. Information och prova på pingis. Välkomna ni som var med i förra årets succé och nya prova påare.; Träningsgrupperna... BTK Ratic är en bordtennisklubb baserad i Harplinge, Halland. Klubben bildades 1968 och bedriver verksamhet främst för ungdomar i byarna i närheten. BTK står inte enbart för BordtennisKlubb utan även för Bordtennis, Trivsel och Kamratskap. Klubben har många ungdomar och seniorer som regelbundet tränar i sina egna lokaler i Ratichallen. BTK Ratic arrangerar även tävlingar som Hallandsstarten och har deltagit i olika serier, inklusive division 4 mellersta Halland. Plats: Ratichallen, Källvägen 1a, 305 60 Harplinge"}
-  {:name "Bordtennisklubben Rekord",
-   :longitude 12.7209,
-   :latitude 56.0183,
+   :homepage "https://www.btkratic.se/",
+   :name "Bordtennisklubben Ratic",
+   :longitude 12.7,
    :source :manual,
-   :homepage "https://www.btkrekord.se/",
+   :latitude 56.72,
+   :image "",
+   :action :edited}
+  {:description
+   "Här hittar du samtliga träningstider för våra lag i BTK Rekord.; 20.30 – 22.00 Vuxengrupp; 17.30 – 19.00 Tjejgruppen; 21.00 – 22.00 Vuxengrupp (egen träning); 18.00 – 19.30 Tjejgruppen; 21.00 – 22.00 Vuxengrupp; Rydebäck Torsdagar: 16:15-17-15 födda 2017 eller senare. Hemmahallen är Idrottens Hus (B-hallen)",
    :locality "Planteringsvägen 96A, 252 31 Helsingborg",
-   :image "",
-   :description
-   "Träning: Träningstider 2025/2026; Träningstider 2025/2026 - BTK Rekord; TRÄNINGSTIDER; Här hittar du samtliga träningstider för våra lag i BTK Rekord.; 20.30 – 22.00 Vuxengrupp; 17.30 – 19.00 Tjejgruppen; 21.00 – 22.00 Vuxengrupp (egen träning); 18.00 – 19.30 Tjejgruppen; 21.00 – 22.00 Vuxengrupp; Rydebäck Torsdagar: 16:15-17-15 födda 2017 eller senare. BTK Rekord, grundad 1936, är en av Sveriges största bordtennisklubbar med bas i Helsingborg. Klubben erbjuder träning för alla nivåer, från nybörjare till elit, och har en stark ungdomsverksamhet. Hemmahallen är Idrottens Hus (B-hallen), och klubben arrangerar flera tävlingar, inklusive Rekord Open och WTT Youth Contender. BTK Rekord har även ett nära samarbete med Filbornaskolan för att kombinera studier och bordtennis. Plats: Planteringsvägen 96A, 252 31 Helsingborg"}
-  {:name "Bordtennisklubben Safir",
-   :longitude 15.223302143711084,
-   :latitude 59.26743921345496,
+   :homepage "https://www.btkrekord.se/",
+   :name "Bordtennisklubben Rekord",
+   :longitude 12.7209,
    :source :manual,
-   :homepage "https://www.btksafir.com/",
+   :latitude 56.0183,
+   :image "",
+   :action :edited}
+  {:description
+   "Seniorspelare i mån av lediga pingisbord. Träningsleda pass prioriteras först.; Önskar seniorer deltaga i träningsleda pass går det att lösa, samtala med tränare.",
    :locality "Idrottshuset, Eyragatan 1, 702 25 Örebro",
-   :image "",
-   :description
-   "Träning: Senaste Nytt Sommarläger 11-14 augusti By Simon Itkonen maj 25, 2026 maj 25, 2026 Bordtennisklubben Safir bjuder in till kostnadsfritt träningsläger för nybörjare och pingisspelare med klubbtillhörighet (Bordtennis) under sista sommarlovs veckan 33. Avgift: Örebro kommun stödjer/bidrar till Safir och Er deltagare med kostnadsfritt läger.I avgiften ingår: Utvecklande och rolig träning.Plats: Eyrahallen (Eyrabadet) Övrigt: Vi tränare ser framemot att utveckla er till bättre bordtennisspelare, ge er mycket feedback och…; Senaste Nytt Sommarläger 15-18 juni By Simon Itkonen mars 9, 2026 juni 1, 2026 Bordtennisklubben Safir bjuder in till träningsläger för nybörjare och pingisspelare med klubbtillhörighet (Bordtennisklubb) under sommarlovet vecka 25. Nybörjare Måndag-torsdag Kl. 10:00-12:30Födda 2018 och tidigare (äldre)Tränarna lär ut grundslag, fotarbete med anpassade sammarbetsövningar för nybörjare. EtableradeMåndag-torsdag kl. 13:30-17:00Födda 2018 och tidigare (äldre)Spelare med BT-klubbtillhörighet.Tränarna kräver förkunskaper i grundslag, övningar Avgift: 800 krI avgiften ingår: T-shirt, frukt,…; Senaste Nytt Sommaravslutning! By Simon Itkonen mars 9, 2026 mars 9, 2026 Onsdagen den 27 maj är det säsongsavslutning för alla våra pingisgrupper. Vi kommer att träffas i pingishallen klockan 18:00.Tillåter vädret så kommer vi att ha femkamp och tipspromenad på gräsytan mellan idrottshuset och Eyrabadet, annars i pingishallen. Safir Bjuder på fika och korv.Föräldrar och syskon är också välkomna!; Senaste Nytt Påsklovsläger 30 mars-1 april By Simon Itkonen mars 3, 2026 mars 16, 2026 Safir bjuder in till träningsläger för pingisspelare som har klubbtillhörighet och är motiverade/ fokuserade att träna efter sitt bästa i 3 ½ timme om dagen. Tränarna kommer att anpassa, dela in spelarna efter pingiskunnande, så alla spelare kan utvecklas på bästa sätt tillsammans. Vi kommer att ha rutinerade tränare på plats Safirtränarna Göte Svensson, Simon…; Senaste Nytt Domarträff! By Simon Itkonen januari 22, 2026 januari 22, 2026 Vi Safir kommer erbjuda två tillfällen/träffar där Ni kommer få möjlighet att förbereda Er för matchdömning under Safirs Internationella 20-22 februari. Vi kommer presentera genomförande och instruktioner, som kommer gälla under tävlingsdagarnaNi kommer också få möjlighet att döma träningsmatcher under träffen. Spelarna i träningsmatcherna kommer att utsätter er för olika regel o matchsituationer mm. (Rollspel)…; Träningstider HT-säsongen 2026 (17 augusti-18 december); 17:00-18:00 ? grupp; 17:30-19:30 ? grupp; 18:00-19:00 ? grupp; 19:00-21:00 ? grupp; 19:00-20:30 Tävlingsgrupp; 18:00-20:00 ? grupp; * Seniorspelare i mån av lediga pingisbord. Träningsleda pass prioriteras först.; Önskar seniorer deltaga i träningsleda pass går det att lösa, samtala med tränare. BTK Safir är en bordtennisklubb baserad i Örebro, grundad 1951. Klubben erbjuder träning för alla åldrar och nivåer, inklusive parasport. Hemmahallen är Idrottshuset på Eyragatan 1. BTK Safir arrangerar årligen den internationella tävlingen Safir International, som är en del av Sweden Tour. Plats: Idrottshuset, Eyragatan 1, 702 25 Örebro"}
-  {:name "Bordtennisklubben Scania",
-   :longitude 12.83,
-   :latitude 55.871,
+   :homepage "https://www.btksafir.com/",
+   :name "Bordtennisklubben Safir",
+   :longitude 15.223302143711084,
    :source :manual,
-   :homepage "https://www.btkscania.se/",
+   :latitude 59.26743921345496,
+   :image "",
+   :action :edited}
+  {:description
+   "Till höstterminen flyttar vi vår träningsverksamhet till puls arena, till större och bättre lokaler. Träningshallen BTK Scania är Landskronas enda bordtennisklubb och erbjuder träning för spelare i alla åldrar och nivåer. Klubben har en bred verksamhet med grupper för barn, ungdomar, vuxna, pensionärer och paraspelare.",
    :locality
    "Landskrona Idrottshall, Eriksgatan 90, 261 33 Landskrona",
+   :homepage "https://www.btkscania.se/",
+   :name "Bordtennisklubben Scania",
+   :longitude 12.83,
+   :source :manual,
+   :latitude 55.871,
    :image "",
-   :description
-   "Träning: Träningsgrupper; Träningstider; Medlems- &amp; Träningsavgift; Nu går vårterminen mot sitt slut och vi tar inte in några nya aktiva innan sommaren. Till höstterminen flyttar vi vår träningsverksamhet till puls arena, till större och bättre lokaler.; Absolut sista möjligheten är 12/7 17.00, sen börjar arbetet med höstens träningsgrupper.; Information gällande träningshall med mera; Nu på lördag spelar alla våra 3 ungsomsserielag på hemmaplan. Alla spelare + minst en vårdnadshavare SKA komma 08.00 och hjälpa till att ställa ordning hallen.; Träningshallen BTK Scania är Landskronas enda bordtennisklubb och erbjuder träning för spelare i alla åldrar och nivåer. Klubben har en bred verksamhet med grupper för barn, ungdomar, vuxna, pensionärer och paraspelare. BTK Scania arrangerar årligen tävlingar som Scania Open och Påskaspelen. A-laget vann division 4 västra Skåne säsongen 2024/2025 och hoppas på spel i division 3 kommande säsong. Plats: Landskrona Idrottshall, Eriksgatan 90, 261 33 Landskrona"}
+   :action :edited}
   {:name "Bordtennisklubben Warta",
    :longitude 11.9092,
    :latitude 57.7231,
@@ -432,24 +437,26 @@
    :image "",
    :description
    "BTK Åsen är en bordtennisklubb för seniorer baserad i Stockholm. Klubben har funnits i över 40 år och erbjuder träning för pensionärer. Träningarna hålls i Hägerstensåsens medborgarhus, där medlemmar samlas för både motion och gemenskap."}
-  {:name "Borgstena IF",
-   :longitude 13.0333,
-   :latitude 57.8333,
-   :source :manual,
-   :homepage "https://www.borgstena.nu/",
+  {:description
+   "Borgstena IF är en mångsidig idrottsförening baserad i Borgstena, Västra Götalands län. Klubben erbjuder verksamheter inom bordtennis, fotboll och skidor. Bordtennissektionen bedriver träningsverksamhet för barn och ungdomar från 6 år och uppåt. Klubben arrangerar även tävlingar som Stonecastle Open och Stonecastle Battle. Plats: Borgstena Allhall, Borgstena, Västra Götalands län",
    :locality "Borgstena Allhall, Borgstena, Västra Götalands län",
-   :image "",
-   :description
-   "Träning: Vi erbjuder aktiviteter inom Fotboll, Bordtennis, Discgolf och Motion. Supporterlotteriet Vinstlista Maj 2026 2026-05-04 08:34 Maj 2026; Save the date 2026-03-14 14:53 2026 års cykelfest kommer att gå av stapeln lördag 27:e juni.; Motion Vinnare av Marschallpromenaden 14/12 2025-12-16 13:25, Motion Vi gratulerar vinnarna av Marschallpromenaden, söndagen 14/12!; Nyheter från våra lag Vinnare av Marschallpromenaden 14/12 Motion , 16/12 13:25 Borgstena IF är en mångsidig idrottsförening baserad i Borgstena, Västra Götalands län. Klubben erbjuder verksamheter inom bordtennis, fotboll och skidor. Bordtennissektionen bedriver träningsverksamhet för barn och ungdomar från 6 år och uppåt. Klubben arrangerar även tävlingar som Stonecastle Open och Stonecastle Battle. Plats: Borgstena Allhall, Borgstena, Västra Götalands län"}
-  {:name "Borlänge Bordtennisklubb",
-   :longitude 15.4386,
-   :latitude 60.4787,
+   :homepage "https://www.borgstena.nu/",
+   :name "Borgstena IF",
+   :longitude 13.0333,
    :source :manual,
-   :homepage "https://www.svenskalag.se/borlangebtk",
-   :locality "Badmintonhallen, Gyllehemsvägen 24, 784 37 Borlänge",
+   :latitude 57.8333,
    :image "",
-   :description
-   "Träning: Träningsgrupper; C1, onsdag 17:30; C2, onsdag 18:30; Träningstider; Här hittar du information om träningstider, träningsgrupper, tävlingsanmälan, licens, racket och tips på gummin. Leta efter just det du söker i antingen toppmenyn eller sidomenyn.; Intresseanmälan träningsgrupper (prova på samt A,B,C); Gå in på webben och kika på vårt medlemssortiment där du kan beställa träningskläder med föreningens logga och ditt namn.... Borlänge Bordtennisklubb (BBTK) är en aktiv pingisförening i Dalarna med lag i division 3 och 4. Klubben erbjuder träning för både ungdomar och vuxna, med flera träningsgrupper varje vecka. Hemmamatcher och träningar hålls i Badmintonhallen på Gyllehemsvägen 24 i Borlänge. Klubben arrangerar även klubbmästerskap och deltar i regionala tävlingar som Dalatouren. Plats: Badmintonhallen, Gyllehemsvägen 24, 784 37 Borlänge"}
+   :action :edited}
+  {:description
+   "Borlänge Bordtennisklubb (BBTK) är en aktiv pingisförening i Dalarna med lag i division 3 och 4. Klubben erbjuder träning för både ungdomar och vuxna, med flera träningsgrupper varje vecka. Hemmamatcher och träningar hålls i Badmintonhallen på Gyllehemsvägen 24 i Borlänge. Klubben arrangerar även klubbmästerskap och deltar i regionala tävlingar som Dalatouren.",
+   :locality "Badmintonhallen, Gyllehemsvägen 24, 784 37 Borlänge",
+   :homepage "https://www.svenskalag.se/borlangebtk",
+   :name "Borlänge Bordtennisklubb",
+   :longitude 15.4386,
+   :source :manual,
+   :latitude 60.4787,
+   :image "",
+   :action :edited}
   {:name "Bortans Idrottsklubb",
    :longitude 12.457,
    :latitude 59.8861,
@@ -458,15 +465,16 @@
    :image "",
    :description
    "Bortans IK är en mångsidig idrottsförening baserad i Gunnarskog, Värmland. Klubben erbjuder verksamheter inom bordtennis, fotboll, skidor, innebandy och styrketräning. Bordtennissektionen har haft framgångar i seriespel, inklusive spel i division 2. Klubben är en viktig samlingspunkt i bygden och engagerar både ungdomar och vuxna i olika idrottsaktiviteter. Plats: Gunnarskog, Värmlands län"}
-  {:name "Breviks Sportklubb",
-   :longitude 12.4333,
-   :latitude 59.8833,
-   :source :manual,
-   :homepage "https://brevikssk.se/",
+  {:description
+   "Breviks Sportklubb (BSK) är en aktiv idrottsförening i Brevik, Värmland, med fokus på bordtennis och skidor. Klubben har en stark ungdomsverksamhet i bordtennis och arrangerar regelbundet klubbmästerskap och cuper. Hemmamatcher och träningar hålls i klubbhuset i Brevik, som nyligen har utrustats med nya pingisbord av professionell klass. Klubben har cirka 250 medlemmar och är en viktig samlingspunkt i bygden. Plats: Klubbhuset, Brevik, Värmlands län",
    :locality "Klubbhuset, Brevik, Värmlands län",
+   :homepage "https://brevikssk.se/",
+   :name "Breviks Sportklubb",
+   :longitude 12.4333,
+   :source :manual,
+   :latitude 59.8833,
    :image "",
-   :description
-   "Träning: Träningslokal för medlemmarna; Välkomna till årsmötet i Breviks sportklubb onsdagen den 4 februari kl 18.30. Traditionella förhandlingar med bl a val av styrelse och fastställande av budgeten för 2026.; Välkomna till Föreningskampen 2025 i Brevik. Onsdagen den 27 augusti kl 18.00. Klubbhuset. Samla poäng genom att jogga, promenera eller spring under en timme. Välj mellan två kortare slingor. Priser att vinna. Försäljning av kaffe, dricka och hamburgare m m.; En bra idé – börja träna på vårt fina gym i Klubbhuset i Brevik. Du behöver vara medlem i Breviks Sportklubb som för familj kostar 250 kr. Sedan löser du ett gymkort som för familj kostar 1 200 kronor. Gäller ett år från dagen du löst kortet. Dessutom behöver du ett nyckelkort som kostar 70 kronor. Betala gärna via Swish 123 534 5830. Du kan också kontakta vår kassör Anna Nolander så löser ni tillsammans starten för ditt nya träningsliv. Anna har telefon 070-6823958.; Välkomna på SOMMARMETE i Ränken onsdagen den 25 juni. Vi startar kl 18 och metar i två timmar. Samlingsplats Klubbhuset i Brevik.; Nu kan du som medlem i Breviks SK få tillträde till vår träningslokal utan att planera den tid på året som passar dig. När du betalat din träningsavgift och medlemsavgift får du tillträde till lokalerna 6 månader eller 1 år beroende vilken betalperiod du valt. Det här är en ny bokningsmodell som vi tillämpar från och med i vår. Ett familjeabonnemang kostar 1200 för hela året för enskild medlem 750. Tillkommer ett plastkort som ger dig möjlighet att ta dig in i gymmet. Det kostar 70 kronor. Medlemsavgiften är för familj 250 kronor. Anmäl till vår kassör Anna att du vill få tillträde till vår träningslokal (kassor@brevikssk.se) telefon 070-6823958.; Årsmötet sker tisdagen den 4 februari kl 19.00 i Klubbhuset Brevik. Välkomna!; Välkomna till vårt årsmöte i Klubbhuset i Brevik tisdagen den 4 februari kl 19.00. Då ska budgeten för 2025 beslutas och olika val förrättas.; Isen är borta och Ränken ligger stilla och fin. Inte alltid! Det blir sommarmete för de som är intresserade måndagen den 17 juni mellan kl 18 och 20. Fint Prisbord. Anmälan vid klubbhuset från klockan 17. Välkomna!; Har du som nyårslöfte lovat att börja träna? Välkommen till vårt gym. Där finns gott om redskap som du kan använda. Medlemmar i Breviks SK kan dagligen använda lokalen i vårt klubbhuset. Du löser ett träningskort och ett plastkort för att ta dig in i gymmet. Läs mera om vårt gym här.; Nu är isen på Ränken under kontroll. Och förberedelserna inför Breviksnappet 2024 är långt gångna. Välkomna till Breviksnappet söndagen den 18 februari. Starten sker vid klubbhuset där du kan anmäla dig från klockan 8. Startskottet går kl 10. Klockan 14 ska det vara färdigfiskat.; Seniorträningen startar i Klubbhuset måndagen den 8 januari kl 19.00. Ungdomsträningarna som vanligt på tisdagar och torsdagar mellan 17.30-18.30. Startar 9 januari. Nya och tidigare ungdomar välkomna.; KM för vuxna – måndagen den 4 december kl 19.; Jul-cupen vuxna – måndagen den 11 december kl 19.; KM för ungdomarna – tisdagen den 5 december kl 17.30; Jul-cupen ungdomar – tisdagen den 12 december 17.30; En bra idé – börja träna på vårt fina gym i Klubbhuset i Brevik. Du behöver vara medlem i Breviks Sportklubb. Ett årskort för familj kostar 250 kr. Sedan löser du ett gymkort som för familj kostar 750 kronor. Gäller ett halvår. Dessutom behöver du ett nyckelkort som kostar 50 kronor. Betala gärna via Swish 123 534 5830. Du kan också kontakta vår kassör Anna Nolander så löser ni tillsammans starten för ditt nya träningsliv. Anna har telefon 070-6823958.; Ungdomspingisen börjar tisdagen 10/10 och torsdagen 12/10 klockan 17:30-18:30. Vi kör med samma tider som ifjol. Ledarna på tisdagar är Stefan H, Sune H och Jan. Ledare på torsdagar är Johnny Ö, Peter L och Sune H. Det är alltså samma upplägg som i fjol. Om det kommer fler som vill vara med så får vi eventuellt dela upp grupperna och köra en extra dag eller extra timme samma dag.; Kom och delta. Gå, jogga eller spring i ditt tempo så många varv du vill under en timme. Det är en motionskamp mellan idrottsklubbar i västra Värmland. Första föreningskampen sker hos Breviks sportklubb onsdagen den 13 september. Start kl 18.00. Anmälan vid klubbhuset från klockan 17.00.; Välkomna till vårt årsmöte torsdagen den 2 februari kl 19.00. Plats: Klubbhuset i Brevik.Sedvanliga ärenden med bl a olika val och fastställande av medlemsavgift och budget. Vi bjuder på nånting vid mötet.; En intressant MOTORTRÄFF hos oss i klubbhuset i Brevik! Dubble världsmästaren i rallycross Johan Kristoffersson och hans far Tommy Kristoffersson som är stallchef i KMS är hos oss onsdagen den 4 januari kl 19.00.; Bilden nedan – arkivbild från träningstillfälle i Klubbhuset. Foto: Kjell Gustafsson; Prisutdelning för klubbmästerskapet i pingis för våra unga spelare blir det torsdagen den 15 december. Klubbhuset i Brevik kl 17.30. Välkomna att fira både vinnare och deltagande barn.; Höstens pingisträningar för barn mellan 10 och 13 år går mot ett slut. Det blir klubbmästerskap i klubbhuset tisdagen den 6 december med start klockan 17.30. (Ändrat sedan tidigare inlägg). Det ska bli spännande och se vem som tränat bäst i höst. Breviks Sportklubb (BSK) är en aktiv idrottsförening i Brevik, Värmland, med fokus på bordtennis och skidor. Klubben har en stark ungdomsverksamhet i bordtennis och arrangerar regelbundet klubbmästerskap och cuper. Hemmamatcher och träningar hålls i klubbhuset i Brevik, som nyligen har utrustats med nya pingisbord av professionell klass. Klubben har cirka 250 medlemmar och är en viktig samlingspunkt i bygden. Plats: Klubbhuset, Brevik, Värmlands län"}
+   :action :edited}
   {:name "Brittatorps Träningsklubb",
    :longitude 14.8333,
    :latitude 56.8833,
@@ -476,15 +484,16 @@
    :image "",
    :description
    "Träning: Brittatorp TK – Brittatorp Träningsklubb; lördagen den 17 januari 2026 kl.11.00 Brittatorps Träningsklubb (BTK), grundad 1942, är en mångsidig idrottsförening baserad i Brittatorp, Kronobergs län. Klubben erbjuder verksamheter inom bordtennis, cykel, friidrott, skidor och triathlon. BTK har en stark ungdomsverksamhet och arrangerar regelbundet evenemang som Vidingehem Triathlon och crawlkurs i samarbete med SRF. Klubben är en viktig samlingspunkt i bygden och engagerar både ungdomar och vuxna i olika idrottsaktiviteter."}
-  {:name "Bro Idrottsklubb",
-   :longitude 17.6294,
-   :latitude 59.5178,
-   :source :manual,
-   :homepage "https://www.broik.se/broik-bordtennis",
+  {:description
+   "Bro IK är en mångsidig idrottsförening i Upplands-Bro kommun, grundad 1912. Klubben erbjuder verksamheter inom bordtennis, fotboll, boxning, gymnastik och innebandy. Bordtennissektionen har en lång historia och har haft framgångar i seriespel, inklusive spel i division 1. Klubben bedriver träning för både ungdomar och vuxna, med flera träningsgrupper varje vecka. Hemmamatcher och träningar hålls i Kungshallen och Finnstaskolans gymnastiksal i Bro. Plats: Kungshallen, Klockvägen 5, 196 34 Kungsängen",
    :locality "Kungshallen, Klockvägen 5, 196 34 Kungsängen",
+   :homepage "https://www.broik.se/broik-bordtennis",
+   :name "Bro Idrottsklubb",
+   :longitude 17.6294,
+   :source :manual,
+   :latitude 59.5178,
    :image "",
-   :description
-   "Träning: Onsdag 5 maj kl 18:00, kval för veteran B (vet 2) mot Lidingö (borta). Hersbyhallen, Läroverksvägen 17, Lidingö; Vi kör igång höstens pingisskola tisdagen den 27:e augusti kl. 17:45-19:15.; Även fortsättningsvis är det tisdagar kl. 17:45, som gäller! Bro IK är en mångsidig idrottsförening i Upplands-Bro kommun, grundad 1912. Klubben erbjuder verksamheter inom bordtennis, fotboll, boxning, gymnastik och innebandy. Bordtennissektionen har en lång historia och har haft framgångar i seriespel, inklusive spel i division 1. Klubben bedriver träning för både ungdomar och vuxna, med flera träningsgrupper varje vecka. Hemmamatcher och träningar hålls i Kungshallen och Finnstaskolans gymnastiksal i Bro. Plats: Kungshallen, Klockvägen 5, 196 34 Kungsängen"}
+   :action :edited}
   {:name "Bromölla Bordtennisklubb",
    :longitude 14.4663,
    :latitude 56.0651,
@@ -494,15 +503,16 @@
    :image "",
    :description
    "Träning: Anders kommer vara på seniorträningen ifall det är några juniorer som vill träna då, 18.30 - 20.00. Bromölla BTK är en aktiv bordtennisklubb i Skåne, grundad 1978. Klubben erbjuder träning för nybörjare, ungdomar och seniorer i sin välkända pingishall på Sjöstjärnegatan 1 i Bromölla. Med 12 bord och utrustning att låna, välkomnas spelare i alla åldrar. Träningar hålls på onsdagar och lördagar, och klubben arrangerar regelbundet klubbmästerskap och deltar i regionala tävlingar. BBTK är också engagerad i lokala evenemang som Sweden Rock Festival. Plats: Bordtennishallen, Sjöstjärnegatan 1, 295 36 Bromölla"}
-  {:name "Brunflo Idrottsförening",
-   :longitude 14.7833,
-   :latitude 63.1,
-   :source :manual,
-   :homepage "https://www.brunfloif.se/",
+  {:description
+   "Brunflo IF är en anrik idrottsförening i Jämtland, grundad 1925. Klubben erbjuder verksamhet inom bordtennis, cykel, friidrott, orientering och skidor. Bordtennissektionen välkomnar spelare i alla åldrar och nivåer, med träningar och tävlingar som främjar både motion och tävlingsinriktning. Föreningen är en viktig del av det lokala idrottslivet i Brunflo och engagerar både ungdomar och vuxna i olika idrottsaktiviteter. Plats: Brunflo, Jämtlands län",
    :locality "Brunflo, Jämtlands län",
+   :homepage "https://www.brunfloif.se/",
+   :name "Brunflo Idrottsförening",
+   :longitude 14.7833,
+   :source :manual,
+   :latitude 63.1,
    :image "",
-   :description
-   "Träning: Du behöver vara medlem i Brunflo IF. Medlemskapet kostar 150 kr/år och inkluderar alla Brunflo IF:s barn- och ungdomsaktiviteter (men du ska som vårdnadshavare ställa upp på ett arbetstillfälle för Brunflo IF, t ex som parkeringsvakt på Vitgårdens bilbingo eller Kommunlöpet/skidan, tidsåtgång ca 2h, annars faktureras träningsavgift i efterhand).; Torsdag 23/4 kl 19-20 är det dags för årsmöte. Mötet kommer att hållas på det nya kansliet, von Essens väg 19. Möjlighet att delta digitalt finns, meddela det vid anmälan.; Skidor Brunflo IF Motion 2026-01-20 10:01, Skidor Nu kör vi äntligen igång en träningsgrupp för alla över 12 år. Det är valfritt om man vill träna klassiskt eller skejt. Vi kommer köra under perioden 27/1-31/3.; Tid: Tisdagar kl 18-19 . (möjlighet finns också att vara med på draghundsträning på söndagar mellan kl 10-12 då vi kör ca 1h hund och 1h skidåkning). ANMÄLAN HÄR; Bordtennis våren 2026 2026-01-08 12:56 På söndag 11/1 smäller det, då kör vi igång vårens bordtennisträning; Träningen är i idrottshallen på Storvikenskolan på söndagar kl 16-17 . Vi välkomnar barn och ungdomar från 8 år och uppåt.; Brunflo IF tar inte ut någon träningsavgift för barn under förutsättning av vårdnadshavare/annan representant deltar i arbetsuppgifter kopplade till föreningen t ex bilbingo på Vitgården, kommunskidan eller kommunlöpet. Träningsavgift (800:-) kommer att faktureras i efterhand om detta INTE sker. Barnet måste vara medlem i föreningen (medlemsavgift betalas).; Nyheter från vår verksamhet Pumptrack träning i Brunflo Cykel , 19/05 21:48 Orienteringsträning 2026 Orientering , 31/03 14:45 Brunflo IF Motion Skidor , 20/01 10:01 Bordtennis hösten 2025 Bordtennis , 16/09 09:46 Brunflo IF Draghund Draghundsport , 16/09 09:44 Rullskidträning Brunflo IF 2025 Skidor , 20/03 13:00 Brunflo IF är en anrik idrottsförening i Jämtland, grundad 1925. Klubben erbjuder verksamhet inom bordtennis, cykel, friidrott, orientering och skidor. Bordtennissektionen välkomnar spelare i alla åldrar och nivåer, med träningar och tävlingar som främjar både motion och tävlingsinriktning. Föreningen är en viktig del av det lokala idrottslivet i Brunflo och engagerar både ungdomar och vuxna i olika idrottsaktiviteter. Plats: Brunflo, Jämtlands län"}
+   :action :edited}
   {:name "Bruzaholms Sportklubb",
    :longitude 15.2833,
    :latitude 57.6,
@@ -528,15 +538,16 @@
    :image "",
    :description
    "BTK-72 Trönninge är en bordtennisklubb baserad i Halmstad, Hallands län. Klubben har en lång tradition inom bordtennis och har deltagit i olika serier, inklusive Division 4 Södra Halland. Hemmamatcher spelas på Kyrkvägen 11 i Halmstad. Klubben har även haft framgångar på veteran-SM-nivå, med bland annat guld i herrsingel 40 genom Anders Snygg och lagguld tillsammans med Anders Fredriksson. Plats: Kyrkvägen 11, 302 65 Halmstad"}
-  {:name "Bullarens Gymnastik och Idrottsförening",
-   :longitude 11.5667,
-   :latitude 58.8333,
-   :source :manual,
-   :homepage "https://www.bullarensgoif.se/",
+  {:description
+   "Bullarens GoIF är en ideell förening i Bullaren, Västra Götaland, grundad 1971. Klubben erbjuder verksamheter inom fotboll, bordtennis, gymnastik och skidor. Bordtennissektionen har grupper för barn, ungdomar, seniorer och pensionärer, medan gymnastiksektionen erbjuder BAMSE barngympa för barn födda 2018–2022. Föreningen arrangerar även evenemang som fotbollsskola och “Kul på hjul”. Plats: Kvännevi Idrottsplats, 457 50 Bullaren",
    :locality "Kvännevi Idrottsplats, 457 50 Bullaren",
+   :homepage "https://www.bullarensgoif.se/",
+   :name "Bullarens Gymnastik och Idrottsförening",
+   :longitude 11.5667,
+   :source :manual,
+   :latitude 58.8333,
    :image "",
-   :description
-   "Träning: Senior träningsgrupp; Jippi Äntligen är det dags att anmäla sig till Sparbanken Tanum s fotbollsskola som vi i BGoIF anordnar för alla, oavsett klubbtillhörighet. Vi tillsammans med Sparbanken Tanum vill göra det möjligt för fler att få lira boll och ha kul på sommarlovet! Tackvare sponsring från vår huvudsponsor Sparbanken Tanum och ideella krafter kan vi erbjuda fotbollsskola till självkostnadspris på endast 350kr. Sparbanken Tanum Fotbollskola hålls på Kvännevi, Bullaren! Låt slå deltagarrekord för fjärde året på raken Fotbollsskolan går av stapeln 24-25/6 6-7 år kl 10-12:30 8-14 år kl 10-15:00 I priset 350kr ingår förutom T-shirt och fotboll även lunch samt frukt båda dagarna! Sista dag för anmälan för att vara garanterad T-shirt och fotboll är 31/5! Anmälan via länken ANMÄL HÄR Vid frågor hör av er via mail till emma.augustin@hotmail.com Hör gärna av er till samma mailadress om ni kan tänka er att hjälpa till på ett eller annat sätt kan vara i köket och förbereda lunch eller vara med i grupperna och hålla i övningar etc; Jippi Äntligen är det dags att anmäla sig till Sparbanken Tanum s fotbollsskolla som vi i BGoIF anordnar för alla, oavsett klubbtillhörighet. Vi tillsammans med Sparbanken Tanum vill göra det möjligt för fler att få lira boll och ha kul på sommarlovet! Tackvare sponsring från vår huvudsponsor Sparbanken Tanum och ideella krafter kan vi erbjuda fotbollsskola till självkostnadspris: Anmäl via länken: KLICKA HÄR OBS: välj fraktsätt ”avhämtning på plats”. Ni skall alltså inte betala någon frakt! Sparbanken Tanum Fotbollskola ⚽ hålls på Kvännevi, Bullaren! Låt slå deltagarrekord för tredje året på raken 🙌 💙 ⚽ 💙 Fotbollsskolan går av stapeln 25-26/6 6-7 år kl 10-12:30 8-14 år kl 10-15:00 I priset 350kr ingår förutom T-shirt och fotboll även lunch samt frukt båda dagarna! Sista dag för anmälan för att vara garanterad T-shirt och fotboll är 4/6! Vid frågor hör av er via mail till emma.augustin@hotmail.com Hör gärna av er till samma mailadress om ni kan tänka er att hjälpa till på ett eller annat sätt kan vara i köket och förbereda lunch eller vara med i grupperna och hålla i övningar etc Vi ses! ✌ Bullarens GoIF är en ideell förening i Bullaren, Västra Götaland, grundad 1971. Klubben erbjuder verksamheter inom fotboll, bordtennis, gymnastik och skidor. Bordtennissektionen har grupper för barn, ungdomar, seniorer och pensionärer, medan gymnastiksektionen erbjuder BAMSE barngympa för barn födda 2018–2022. Föreningen arrangerar även evenemang som fotbollsskola och “Kul på hjul”. Plats: Kvännevi Idrottsplats, 457 50 Bullaren"}
+   :action :edited}
   {:name "Byttorps Idrottsförening",
    :longitude 12.9401,
    :latitude 57.721,
@@ -546,24 +557,26 @@
    :image "",
    :description
    "Byttorps IF är en idrottsförening i Borås, grundad 1949. Föreningen bedriver verksamhet inom fotboll, handboll och bordtennis. Bordtennissektionen är aktiv med grupper för nybörjare, fortsättningsspelare, tävlingsspelare samt veteraner. Klubben deltar i seriespel och arrangerar interna tävlingar som Ungdomstouren och Pensionärstouren. Veteraner från klubben har även deltagit i internationella mästerskap, såsom Veteran-EM i bordtennis. Plats: Klingarevägen 8, 504 71 Borås"}
-  {:name "Bäckefors Idrottsförening",
-   :longitude 12.2333,
-   :latitude 58.9167,
-   :source :manual,
-   :homepage "https://www.laget.se/backeforsif",
+  {:description
+   "Bäckefors IF är en mångsidig idrottsförening i Dalsland som erbjuder aktiviteter inom fotboll, bordtennis, friidrott och skidor. Bordtennissektionen är aktiv med flera lag och deltar i seriespel samt breddtävlingar som BD-touren. Föreningen driver även anläggningen Bäckevallen med fotbollsplaner, motionsspår och en hockeyrink som spolas vintertid. För sitt engagemang i att främja folkhälsa tilldelades Bäckefors IF Bengtsfors kommuns folkhälsopris 2020. Plats: Bäckevallen, 668 40 Bäckefors",
    :locality "Bäckevallen, 668 40 Bäckefors",
-   :image "",
-   :description
-   "Träning: Äntligen träningsmatcher!; Nu startar vi igång träning för killar 15-20 år som vill komma till bollhallen och spela Futsal på torsdagar mellan 18.30-20.00. Vi spelar och har kul tillsammans utan några stora krav. Start 9/11. Vid frågor kontakta Mikael Israelsson 0702275385; Bäckefors IFs årsmöte 2022 Datum: onsdag 16 mars Tid: kl 19:00 Plats: Bäckevallen Hej alla medlemmar! Nu är det snart dags för årsmöte och detta år kommer vi kunna genomföra det fysiskt igen. Vi ser gärna att ni som tänkt att ansluta anmäler er till Hanna Svensson på sms till telefon: 0725380891. Välkomna!; Herrarna har fått till några riktigt bra träningsmatcher under juni månad. 3/6 kl 19.00 Melleruds IF - Bäckefors IF 12/6 kl 14.00 Bengtsfors IF - Bäckefors IF Forza BIF!!; Bli medlem i Bäckefors IF och stöd vårt engagemang i samhället. Bäckefors IF är en aktiv idrottsförening som bedriver träningar och matcher inom både fotboll och bordtennis. Vår anläggning, Bäckevallen, består av ett klubbhus, fullstor gräsplan samt en sjumannaplan på gräs. Vi har en hockeyrink som spolas när vädret tillåter, samt fem olika motionsspår, varav ett har elbelysning. Vi drar skidspår på flera av slingorna under vintertid. Bredvid Bollhallen i Bäckefors har vi en Multiplan där man kan spela tennis, fotboll m.m. Under året vill vi köpa in ett multifunktionsnät för ännu bättre idrottsupplevelse där. Vi är även en av tre föreningar som ansvarar för skötsel av vårt utegym. På vår gamla fotbollsplan Ljungbyvallen, som ligger strax söder om Bäckefors, har vi en fullstor träningsplan på gräs samt en omklädningshytt som är med på en sammanställning av Länsstyrelsen över kulturhistoriskt intressanta byggnader. Vi fick Folkhälsopriset 2020 av Bengtsfors kommun för vårt engagemang i att erbjuda en meningsfull fritid samt uppmuntra många invånare till rörelse och välmående. Våra medlemmar gör det möjligt för oss att fortsätta bedriva vår verksamhet. I år kan du betala din medlemsavgift via swish eller bankgiro. OBS! Vi kommer inte skicka ut faktura via e-postmeddelande eller brev som vi gjort tidigare år. I meddelandefältet vill vi att du skriver fullständigt namn och telefonnummer för medlemmen. Det är viktigt att du gör en unik överföring för varje medlem. SWISH 1234363990 BANKGIRO 610-8039 MEDLEMSPRISER 2021: Vuxen: 200 kr Barn och ungdom under 18 år: 150 kr Tack för ditt bidrag!; Hej! På söndag 2 maj startar äntligen vårens tipspromenader igen. Vi utgår från Bollhallen där vi står utomhus så långt vädret tillåter mellan kl 11-13. Pennor kommer att finnas, men ta gärna med egna av hygieniska skäl. Vi kommer även att erbjuda kaffe samt inplastad fika på grund av rådande omständigheter. Passa på att utmana din familj och vänner på frågesport och samtidigt ta en promenad genom Bäckefors! Vårens tipspromenader kommer att hållas söndagar: 2 maj 9 maj 16 maj 23 maj OBS! I år kommer tipspromenaderna att hållas mellan kl 11-13! Hoppas vi ses 💙; Hej! Nu har vi ny information angående vårt årsmöte 17/3 kl 19:00, samt ett testmöte 16/3 kl 19:00 som kommer att hållas för den som vill testa tekniken inför. Båda möten kommer hållas i Google Meet, och för att delta vill vi att ni anmäler er. Anmälan till årsmötet sker till Ebba Bergman på sms (telefon: 0707173744), inkludera ert namn och mejladress. Vi ser gärna att ni anmäler er senast söndag 14/3. Mötet hålls i år digitalt och vi vill att ni uppmärksammar nedanstående regler och rekommendationer för att mötet ska bli lyckat: 1. Håll din mikrofon avstängd under hela mötet (undantag se punkt två) 2. Om du vill prata, räck upp handen så får du ordet av mötets ordförande. 3. Ha på din kamera (det är trevligt att se varandra :) ). 4. Vid röstning kommer din tystnad att tolkas som bifall till förslaget, om du har något att invända så trycker du på &quot;räck upp handen&quot; och får sedan ordet av mötets ordförande. Vi kommer gå igenom detta tillsammans vid mötets start. Alla dokument kommer att finnas bifogade i den inbjudan till mötet som skickas ut via mejl. Detta mejl skickas 15/3. Läs gärna igenom dokumentet innan mötet. Om du vill ha papperskopia på dokumenten så kommer vi skriva ut några exemplar som går att hämta på Taxi Dalslands kontor, 15-17 mars mellan kl. 7 - 17. Vi kommer finnas till hands för att hjälpa er så gott vi kan för att göra detta till en trevlig upplevelse för oss alla.; Föreningen har även träningsplanen Ljungbyvallen till förfogande. Denna plan kan beträdas på tidig vår. Bäckefors IF är en mångsidig idrottsförening i Dalsland som erbjuder aktiviteter inom fotboll, bordtennis, friidrott och skidor. Bordtennissektionen är aktiv med flera lag och deltar i seriespel samt breddtävlingar som BD-touren. Föreningen driver även anläggningen Bäckevallen med fotbollsplaner, motionsspår och en hockeyrink som spolas vintertid. För sitt engagemang i att främja folkhälsa tilldelades Bäckefors IF Bengtsfors kommuns folkhälsopris 2020. Plats: Bäckevallen, 668 40 Bäckefors"}
-  {:name "Bälinge Idrottsförening",
-   :longitude 17.5167,
-   :latitude 59.9333,
+   :homepage "https://www.laget.se/backeforsif",
+   :name "Bäckefors Idrottsförening",
+   :longitude 12.2333,
    :source :manual,
-   :homepage "https://www.laget.se/BIF_BORDTENNIS",
-   :locality "Bälinge Idrottsplats, 743 82 Bälinge",
+   :latitude 58.9167,
    :image "",
-   :description
-   "Träning: Hej Nu till helgen går den sista Touren i Uppsala life Arena. Ni som är anmälda har fått kallelse till vilket pass ni är med på. Ingen Divisionsindelningen finns ännu. Meddela Tobias vid förhinder. t_alm_@hotmail.com Igår fick vi nedan utskick av arrangören om en extra klass &quot; DUBBEL-TURNERING När: Lördag 30 Maj, förmiddagspasset 9:00 (avprickning senast 8:20) För vem: Endast för spelare som också är anmälda till singelklass lör em, sön fm eller sön em. Kostnad: GRATIS! Partner: Anmäl dig med en partner eller anmäl dig ensam och få en partner lottad innan spelet börjar. Anmälan: Senast Fredag 29 Maj, 17:00 Antal: Max 50 par (100 spelare) Fokus är att ha roligt - därför kommer vi ha simplifierade dubbel-regler! Mer om dessa på lördag! &quot; Anmälan er i kommentarerna för denna nyhet så skickar vi in anmälan. Mvh BT-sektionen; Välkommen att spela pingis i Bälinge IF. Vi erbjuder flera olika träningsgrupper utifrån ålder och kunskapsnivå. Våra träningspass genomförs i Bälinge skolas lilla gymnastiksal där vi har tillgång till eget utbildningsmaterial anpassat för vår verksamhet. Intresseanmälan sker genom nedan länk.; Träningstider VT26; Grupp 1: 19:10-20:30; Grupp 2: 18:00-19:10; Grupp 3: 18:50:20; Grupp 4 17:45-18:45; Torsdagar: Pass 1 18-19:10; För att spela pingis i Bälinge IF behövs ett medlemskap i Bälinge IF och att man betalar träningsavgiften. När du tränar med oss får du utan kostnad delta i de tävlingar som anordnas av klubben. Du behöver också köpa ett eget pingisrack. Bälinge IF är en idrottsförening i Bälinge, Uppsala län, grundad 1936. Föreningen bedriver verksamhet inom bland annat bordtennis, fotboll, innebandy, badminton, friidrott och skidor. Bordtennissektionen erbjuder träning för både ungdomar och motionärer, med grupper som Grupp 1 och Motionspingis. Klubben arrangerar även interna tävlingar som klubbmästerskap och deltar i ungdomstourer i regionen. Plats: Bälinge Idrottsplats, 743 82 Bälinge"}
+   :action :edited}
+  {:description
+   "Bälinge IF är en idrottsförening i Bälinge, Uppsala län, grundad 1936. Föreningen bedriver verksamhet inom bland annat bordtennis, fotboll, innebandy, badminton, friidrott och skidor. Bordtennissektionen erbjuder träning för både ungdomar och motionärer, med grupper som Grupp 1 och Motionspingis. Klubben arrangerar även interna tävlingar som klubbmästerskap och deltar i ungdomstourer i regionen. Plats: Bälinge Idrottsplats, 743 82 Bälinge",
+   :locality "Bälinge Idrottsplats, 743 82 Bälinge",
+   :homepage "https://www.laget.se/BIF_BORDTENNIS",
+   :name "Bälinge Idrottsförening",
+   :longitude 17.5167,
+   :source :manual,
+   :latitude 59.9333,
+   :image "",
+   :action :edited}
   {:name "Bärke Bordtennisklubb",
    :longitude 15.4167,
    :latitude 60.1333,
@@ -589,34 +602,37 @@
    :image "",
    :description
    "Böksholms IF är en liten bordtennisklubb belägen utanför Braås i Småland. Klubben har en aktiv ungdomsverksamhet och deltar i seriespel i Division 4 Norra Småland. Föreningen har fostrat spelare som Kristof Németh och Theo Grahn Skoog, som deltagit i nationella tävlingar som Pingisiaden. Träningarna bedrivs i klubbens egna lokal i Böksholm. Plats: Böksholms IF Klubblokalen, Böksholm, Småland"}
-  {:name "Börje Sportklubb",
-   :longitude 17.4667,
-   :latitude 59.9167,
-   :source :manual,
-   :homepage "https://www.laget.se/BorjeSK-Ovrigt-Bordtennis",
+  {:description
+   "Bordtennissektionen riktar sig främst till barn i åldrarna 7–12 år, med träningar på tisdagar i Idrottsgården. Klubben deltar i seriespel i Division 4 Nordöstra Svealand och arrangerar interna tävlingar samt ungdomstourer i regionen. Föreningen är ideellt driven och engagerar föräldrar i verksamheten. Plats: Idrottsgården, Börje, Uppsala län",
    :locality "Idrottsgården, Börje, Uppsala län",
-   :image "",
-   :description
-   "Träning: Fyra träningstillfällen till bokade; Idrottsgården är bokad på tisdagar från 5/11 17:00-19:00 fram till jul. Vi startar nu upp pingisträning för barn, inspirerat av den fantastiska &quot;Truls-effekten&quot; som vi hoppas har nått hela vägen till Börje! Med två grupper, indelade efter ålder och förkunskaper, får barnen möjlighet att utvecklas och ha roligt en timme per grupp. Barn mellan 7 och 12 år är välkomna, och varje grupp har plats för max 12 deltagare, så först till kvarn gäller. Första träningstillfället, 5/11, kräver närvaro av en vårdnadshavare, då vi ger viktig information. Under hösten kör vi detta upplägg på prov för att kolla intresset, och ingen terminsavgift tas ut men medlemskap i BSK är obligatoriskt. Vi föräldrar skapar detta tillsammans så det är en förutsättning att ni hjälper till antingen med att leda träningarna eller med administrativa uppgifter. Pingiskunskap är ett plus men inget krav. Anmälan med barnets namn, ålder och förkunskap skickas till: mariadessle80@gmail.com Välkomna till en höst fylld med energi och pingisglädje! Maria 076-7800952 Johan 070-8563720; Nu är hallen bokad för ytterligare fyra träningar för äldre gruppen kl. 18-19. 22 april (Frida) 29 april (Frida) 6 maj 13 maj De första två tillfällena kan jag hålla i, men om någon vill vara med och hjälpa till är det välkommet. Sista två tillfällena kan jag inte. Vem kan ansvara då? Börje SK är en aktiv idrottsförening i Börje, Uppsala län, som erbjuder verksamhet inom bland annat bordtennis, fotboll, friidrott och skidor. Bordtennissektionen riktar sig främst till barn i åldrarna 7–12 år, med träningar på tisdagar i Idrottsgården. Klubben deltar i seriespel i Division 4 Nordöstra Svealand och arrangerar interna tävlingar samt ungdomstourer i regionen. Föreningen är ideellt driven och engagerar föräldrar i verksamheten. Plats: Idrottsgården, Börje, Uppsala län"}
-  {:name "Carlshamns Bordtennisklubb",
-   :longitude 14.8636,
-   :latitude 56.1708,
+   :homepage "https://www.laget.se/BorjeSK-Ovrigt-Bordtennis",
+   :name "Börje Sportklubb",
+   :longitude 17.4667,
    :source :manual,
-   :homepage "https://carlshamnsbtk.se/",
+   :latitude 59.9167,
+   :image "",
+   :action :edited}
+  {:description
+   "BTK är en aktiv bordtennisklubb i Karlshamn, Blekinge, med cirka 100 medlemmar. Klubben erbjuder träning för alla nivåer, från nybörjare till avancerade spelare, och har en stark ungdomsverksamhet. CBTK arrangerar årligen Karlshamnsspelen och har firat sitt 50-årsjubileum med olika aktiviteter. Träningarna hålls i Väggahallen, där samtliga bord ofta är upptagna under träningskvällarna. Plats: Väggahallen, Karlshamn",
    :locality "Väggahallen, Karlshamn",
-   :image "",
-   :description
-   "Träning: Träningstider HT/VT 26-27; 17:30-18:50 Nybörjargrupp – Killar (Tränare: Jan-Oscar m.fl.); 19:00-21:00 Senior- och fortsättningsgrupp (Tränare: Tom Nilsson); 17:30-18:30 Nybörjargrupp – Tjejer (Tränare: Maria Edvardsson m.fl); 18:30-20:00 Mellangrupp – Ungdom (Tränare: Jan-Oscar och Andreas Ekdahl); 17:30-18:50 Nybörjargrupp – Vuxna + ungdomar åk 7 och äldre (Tränare: Tom Nilsson); 18:00-19:30 Mellangrupp – Ungdom (Tränare: Jan-Oscar m.fl.); 19:30-21:00 Fortsättningsgrupp (Tränare: Jan-Oscar) Carlshamns BTK är en aktiv bordtennisklubb i Karlshamn, Blekinge, med cirka 100 medlemmar. Klubben erbjuder träning för alla nivåer, från nybörjare till avancerade spelare, och har en stark ungdomsverksamhet. CBTK arrangerar årligen Karlshamnsspelen och har firat sitt 50-årsjubileum med olika aktiviteter. Träningarna hålls i Väggahallen, där samtliga bord ofta är upptagna under träningskvällarna. Plats: Väggahallen, Karlshamn"}
-  {:name "Carlstads Bordtennisklubb",
-   :longitude 13.5046,
-   :latitude 59.3793,
+   :homepage "https://carlshamnsbtk.se/",
+   :name "Carlshamns Bordtennisklubb",
+   :longitude 14.8636,
    :source :manual,
-   :homepage "https://www.svenskalag.se/carlstadsbtk",
+   :latitude 56.1708,
+   :image "",
+   :action :edited}
+  {:description
+   "Carlstads BTK är en aktiv bordtennisklubb i Karlstad, Värmland, som erbjuder träning för både barn, ungdomar, vuxna och parasportare. Träningarna hålls i Sundsta Idrottshus och i Stodene. Klubben arrangerar årligen tävlingar som Joola Ungdoms- och Veteranpoolen och har deltagit i nationella seriespel. CBTK har även firat framgångar i Veteran-SM med flera medaljer. Plats: Sundsta Idrottshus, Drottning Kristinas väg 3, 654 63 Karlstad",
    :locality
    "Sundsta Idrottshus, Drottning Kristinas väg 3, 654 63 Karlstad",
+   :homepage "https://www.svenskalag.se/carlstadsbtk",
+   :name "Carlstads Bordtennisklubb",
+   :longitude 13.5046,
+   :source :manual,
+   :latitude 59.3793,
    :image "",
-   :description
-   "Träning: Träningsgrupp A; Träningsgrupp B; Träningsgrupp C; Träningstider vårterminen 2026; Sommarträningstider mån 8/6 - 9/8; Nästa torsdag den 14 maj är det Kristi himmelsfärdsdag så då stänger huset kl 18, så ingen ungdomsgrupp eller A-grupp denna kväll. Carlstads BTK är en aktiv bordtennisklubb i Karlstad, Värmland, som erbjuder träning för både barn, ungdomar, vuxna och parasportare. Träningarna hålls i Sundsta Idrottshus och i Stodene. Klubben arrangerar årligen tävlingar som Joola Ungdoms- och Veteranpoolen och har deltagit i nationella seriespel. CBTK har även firat framgångar i Veteran-SM med flera medaljer. Plats: Sundsta Idrottshus, Drottning Kristinas väg 3, 654 63 Karlstad"}
+   :action :edited}
   {:name "Croatia Göteborg",
    :longitude 12.02,
    :latitude 57.739,
@@ -626,33 +642,36 @@
    :image "",
    :description
    "Croatia Göteborg är en idrottsförening i Göteborg som erbjuder verksamhet inom fotboll och bordtennis. Klubben har en aktiv ungdomsverksamhet och deltar i lokala serier. Träningarna hålls på olika platser i Göteborg, inklusive Bergsjövallen. Plats: Bergsjövallen, Göteborg"}
-  {:name "Dagsbergs Idrottsförening",
-   :longitude 16.2333,
-   :latitude 58.6167,
-   :source :manual,
-   :homepage "https://www.svenskalag.se/dif-bordtennis",
+  {:description
+   "Dagsbergs IF är en aktiv idrottsförening i Dagsberg, Norrköping, som erbjuder verksamhet inom fotboll, bordtennis och motion. Bordtennissektionen riktar sig till både ungdomar och seniorer, med träningar och matcher i olika serier. Klubben har en stark lokal förankring och arrangerar även olika evenemang för att främja gemenskapen i området. Plats: Dagsbergs skola 1, 605 91 Norrköping",
    :locality "Dagsbergs skola 1, 605 91 Norrköping",
-   :image "",
-   :description
-   "Träning: Sön 3 mar 12:00 | Östergötland Ungdom C; Träningstider hösten 2025; Måndagar 17:30-18:30 nybörjargrupp; Måndagar 18:40-19:45 fortsättningsgrupp; Onsdagar 17:30-18:30 nybörjargrupp; Onsdagar 18:40-19:45 senior och tävlingsgrupp. Dagsbergs IF är en aktiv idrottsförening i Dagsberg, Norrköping, som erbjuder verksamhet inom fotboll, bordtennis och motion. Bordtennissektionen riktar sig till både ungdomar och seniorer, med träningar och matcher i olika serier. Klubben har en stark lokal förankring och arrangerar även olika evenemang för att främja gemenskapen i området. Plats: Dagsbergs skola 1, 605 91 Norrköping"}
-  {:name "Dala-Järna Idrottsklubb",
-   :longitude 13.6833,
-   :latitude 60.55,
+   :homepage "https://www.svenskalag.se/dif-bordtennis",
+   :name "Dagsbergs Idrottsförening",
+   :longitude 16.2333,
    :source :manual,
-   :homepage "https://www.svenskalag.se/djik-bordtennis",
+   :latitude 58.6167,
+   :image "",
+   :action :edited}
+  {:description
+   "Dala-Järna IK är en anrik idrottsförening i Dala-Järna, Dalarna, grundad 1902. Klubben erbjuder verksamhet inom fotboll, bordtennis, cykel, friidrott, skidor och skidskytte. Bordtennissektionen är aktiv med träningar för både ungdomar och vuxna, samt deltagande i seriespel. Klubben arrangerar även egna tävlingar och evenemang för att främja gemenskapen i området. Plats: Emaus 2, 786 72 Dala-Järna",
    :locality "Emaus 2, 786 72 Dala-Järna",
-   :image "",
-   :description
-   "Träning: 17.45 - 18.30 Nybörjare från ca 7 år; 18.30 - 20.00 fortsättningsgrupp; Vårens träningstider Dala-Järna IK är en anrik idrottsförening i Dala-Järna, Dalarna, grundad 1902. Klubben erbjuder verksamhet inom fotboll, bordtennis, cykel, friidrott, skidor och skidskytte. Bordtennissektionen är aktiv med träningar för både ungdomar och vuxna, samt deltagande i seriespel. Klubben arrangerar även egna tävlingar och evenemang för att främja gemenskapen i området. Plats: Emaus 2, 786 72 Dala-Järna"}
-  {:name "Damsnäs Idrottsförening",
-   :longitude 14.1375,
-   :latitude 56.5525,
+   :homepage "https://www.svenskalag.se/djik-bordtennis",
+   :name "Dala-Järna Idrottsklubb",
+   :longitude 13.6833,
    :source :manual,
-   :homepage "https://damsnas.se/",
-   :locality "Haganässkolan, Älmhult",
+   :latitude 60.55,
    :image "",
-   :description
-   "Träning: Träningstider; Välkommen att spela bordtennis! Träningstider; Träningstider – Damsnäs IF; Hem &gt; Träningstider; Vi har följande träningstider i Haganässkolan.; Måndagar 18.00 – 19.00 Juniorträning grupp 1; Tisdagar 18.00 – 19.00 Juniorträning grupp 3; Onsdagar 18.00 – 19.00 Juniorträning grupp 2; Måndagar 19.00 – 21.00 Seniorträning. Damsnäs IF är en bordtennisklubb i Älmhult, Småland, med träningar för både juniorer och seniorer i Haganässkolan. Klubben har en aktiv verksamhet med flera träningsgrupper och deltar regelbundet i tävlingar. Damsnäs IF har en stark lokal förankring och samarbetar med andra föreningar i området. Plats: Haganässkolan, Älmhult"}
+   :action :edited}
+  {:description
+   "Klubben har en aktiv verksamhet med flera träningsgrupper och deltar regelbundet i tävlingar. Damsnäs IF har en stark lokal förankring och samarbetar med andra föreningar i området. Plats: Haganässkolan, Älmhult",
+   :locality "Haganässkolan, Älmhult",
+   :homepage "https://damsnas.se/",
+   :name "Damsnäs Idrottsförening",
+   :longitude 14.1375,
+   :source :manual,
+   :latitude 56.5525,
+   :image "",
+   :action :edited}
   {:name "Degeberga Gymnastik och Idrottsförening",
    :longitude 14.1167,
    :latitude 55.8333,
@@ -680,24 +699,26 @@
    :image "",
    :description
    "Träning: Bygdegården 17.30 Nybörjare; 18.30 Tävlingsgrupp; 17.30 Nybörjare; 18.30 Tävlingsgrupp 13.30 Motionspingis Docksta BTK är en aktiv idrottsförening i Docksta, Kramfors kommun, grundad 1963. Klubben erbjuder verksamhet inom bordtennis, fotboll, gymnastik och parasport. Bordtennissektionen är särskilt framstående med en jämn könsfördelning och deltagare i åldrar från 5 till 80 år. Träningarna hålls i Bygdegården med grupper för nybörjare, tävlingsspelare och seniorer. Klubben har en stark lokal förankring och engagerar sig i olika aktiviteter för att främja gemenskapen i området. Plats: Bygdegården, Docksta, Kramfors kommun"}
-  {:name "Dänningelanda Bordtennisklubb",
-   :longitude 14.8167,
-   :latitude 56.85,
-   :source :manual,
-   :homepage "https://www.svenskalag.se/danningelanda",
+  {:description
+   "Dänningelanda BTK är en bordtennisklubb i Växjö, Småland, grundad 1966. Klubben erbjuder träning för alla åldrar och nivåer, med fokus på både bredd och tävling. Träningarna hålls i Skirs gamla skola, där klubben har plats för åtta bord. Dänningelanda BTK arrangerar även tävlingar som Växjöspelen och zontävlingar, samt har ett elitserielag för damer som vann SM-guld 2008. Plats: Skirs gamla skola, 355 91 Växjö",
    :locality "Skirs gamla skola, 355 91 Växjö",
-   :image "",
-   :description
-   "Träning: Fortsättning Grupp Onsdagar kl 17.00; Fortsättning Onsdagar kl 18.15; Tävlingsgrupp ungdom ons kl 19.30; Fortsättning Grupp Tis 18.15; Fortsättning Tisdagar grupp 17.00; Fortsättning Söndagar kl 18.30; Fortsättning Söndagar kl 17.15; Fortsättning fredagar kl 17.00; Fortsättning Söndagar kl 16.00; Träningsgrupper/Tider; Fortsättning fredagar kl 17.00 - 24 maj; Fortsättning fredagar kl 17.00 - 10 maj; Fortsättning fredagar kl 17.00 - 27 apr; Fortsättning fredagar kl 17.00 - 28 mar Dänningelanda BTK är en bordtennisklubb i Växjö, Småland, grundad 1966. Klubben erbjuder träning för alla åldrar och nivåer, med fokus på både bredd och tävling. Träningarna hålls i Skirs gamla skola, där klubben har plats för åtta bord. Dänningelanda BTK arrangerar även tävlingar som Växjöspelen och zontävlingar, samt har ett elitserielag för damer som vann SM-guld 2008. Plats: Skirs gamla skola, 355 91 Växjö"}
-  {:name "Eds Fotbollsförening",
-   :longitude 11.9333,
-   :latitude 58.9144,
+   :homepage "https://www.svenskalag.se/danningelanda",
+   :name "Dänningelanda Bordtennisklubb",
+   :longitude 14.8167,
    :source :manual,
-   :homepage "https://www.laget.se/EdsFF",
-   :locality "Bergslättsvägen 1, 668 31 Ed",
+   :latitude 56.85,
    :image "",
-   :description
-   "Träning: Bergslätt är vår hemmaplan och där finns tillgång till två stora planer samt en 7-mannaplan. Klubblokal och omklädningsrum ligger inom samma område och där finns även det kansli som bemannas av Mats Gren och Göthe Jensen. Bordtennisen har sin träningslokal nere vid G:a Real.; • 1938, 11 maj spelades den första matchen, en träningsmatch mot Håbol. Eds Fotbollsförening (Eds FF) är en idrottsförening i Dals-Ed, Västra Götaland, grundad 1938. Klubben erbjuder verksamhet inom fotboll, bordtennis och parasport. Bordtennissektionen är aktiv med flera träningsgrupper för både ungdomar och vuxna, samt deltagande i seriespel. Klubben har en stark lokal förankring och engagerar sig i olika aktiviteter för att främja gemenskapen i området. Plats: Bergslättsvägen 1, 668 31 Ed"}
+   :action :edited}
+  {:description
+   "Klubben erbjuder verksamhet inom fotboll, bordtennis och parasport. Bordtennissektionen är aktiv med flera träningsgrupper för både ungdomar och vuxna, samt deltagande i seriespel. Klubben har en stark lokal förankring och engagerar sig i olika aktiviteter för att främja gemenskapen i området.",
+   :locality "Bergslättsvägen 1, 668 31 Ed",
+   :homepage "https://www.laget.se/EdsFF",
+   :name "Eds Fotbollsförening",
+   :longitude 11.9333,
+   :source :manual,
+   :latitude 58.9144,
+   :image "",
+   :action :edited}
   {:name "Edsvära Bordtennisklubb",
    :longitude 12.95,
    :latitude 58.27,
@@ -706,24 +727,26 @@
    :image "",
    :description
    "Edsvära BTK är en bordtennisklubb i Edsvära, Västra Götaland, grundad 1953. Klubben har en lång tradition inom bordtennis och erbjuder träning för både ungdomar och vuxna. Edsvära BTK deltar regelbundet i seriespel och har en stark lokal förankring."}
-  {:name "Ekeby IF Bordtennis",
-   :longitude 15.1431,
-   :latitude 59.1275,
-   :source :manual,
-   :homepage "https://www.laget.se/Ekebybordtennis",
+  {:description
+   "Ekeby IF är en aktiv förening i Kumla, Örebro län, med verksamhet inom flera idrotter – däribland bordtennis. Klubben har en lång tradition inom breddidrott och välkomnar spelare i alla åldrar. Bordtennissektionen deltar i seriespel och arrangerar egna matcher i Ekebyhallen. Plats: Ekebyhallen, Kumla",
    :locality "Ekebyhallen, Kumla",
-   :image "",
-   :description
-   "Träning: ENKRONAS-MATCHEN 2026 Vi gör det tillsammans 📅 Lördag 7 mars 2026, kl. 17.00 📍 Viahallen Ekeby IF – Ramnäs SS Lördag den 7 mars är det dags för årets stora Enkronas-match! Tack vare våra fantastiska sponsorer är det fri entré för alla, och tillsammans fyller vi Viahallen med puls, glädje och fest. -Bollkstning -Ansiktsmålning -50/50 -Välfylld Cafeteria Nu har både företag och privatpersoner möjlighet att vara med och bidra till Ekeby IF:s fortsatta utveckling. -ett stort antalföretag är med, vi kommer presentera alla via våran fb sida. Tveka inte, haka på du med! För företag Välj hur ni vill stötta föreningen: • 5 / 10 kr per åskådare • 10 kr per åskådare (tak 400 åskådare) – inkluderar 6 fikabiljetter – exponering i sociala medier &amp; i hallen • 5 kr per åskådare (tak 400 åskådare) – inkluderar 4 fikabiljetter – exponering i sociala medier &amp; i hallen • Valfritt fast sponsorbelopp För privatpersoner Alla kan bidra – stort som smått! • 1/3/5 kr per åskådare (tak 400 kr-1200kr-2000kr) • eller valfritt fast belopp Alla som deltar får fikabiljett och tackas i Ekeby IF:s sociala medier. Tillsammans fyller vi hallen! Vi skapar en kväll att minnas – med gemenskap, kamp, glädje och fullsatta läktare. 📩 Kontakt Magnus – koordinator@ekebyif.se – 073-800 51 08 Alex – marknad@ekebyif.se – 076-318 63 55 Ekeby IF – föreningen vi bygger tillsammans En stad. En klubb. En dröm. 1971!; Äntligen! Alla ni som längtat efter att få köpa bingolotter-julkalender och Sverigelotter, tiden är inne! Ekeby IF säljer nu för hela föreningens räkning, lotter till uppesittarkvällen! Vi har följande: Enkellott 100kr Dubbellott 200kr Trippellott 300kr Julkalender 100kr Sverigelott 25kr Du beställer via Bingolotto@ekebyif.se Allt finns på plats på kansliet, och kan hämtas under helgerna i cafeterian i Kumlahallen. Du betalar med Swish eller kontant, och hämtar sedan ut dina lotter-kalendrar i caféet. Dessa går att hämta lördagar och söndagar mellan 09:00-16:00 Genom att köpa lotter av oss i Ekeby IF, kan vi fortsätta bedriva en välfungerande barn och ungdoms verksamhet, alla pengar vi får in via denna försäljning kommer att gå till barn &amp; ungdomsverksamheten. Ekeby IF-1971, En stad, En klubb, En dröm Ekeby IF är en aktiv förening i Kumla, Örebro län, med verksamhet inom flera idrotter – däribland bordtennis. Klubben har en lång tradition inom breddidrott och välkomnar spelare i alla åldrar. Bordtennissektionen deltar i seriespel och arrangerar egna matcher i Ekebyhallen. Plats: Ekebyhallen, Kumla"}
-  {:name "Ekerö IK Bordtennis",
-   :longitude 17.815,
-   :latitude 59.2876,
+   :homepage "https://www.laget.se/Ekebybordtennis",
+   :name "Ekeby IF Bordtennis",
+   :longitude 15.1431,
    :source :manual,
-   :homepage "https://www.ekeroik.se/sida/?ID=180817",
-   :locality "Ekebyhovshallen, Ekerö",
+   :latitude 59.1275,
    :image "",
-   :description
-   "Träning: Klubben Armbrytning Armbrytning AR- Kommitté Badminton Badminton Startsida BD - Kommitté BD - Senior BD - Junior BD - Motion Bordtennis Bordtennis Startsida BT - A-lag BT - Träningsgrupp Grön BT - Träningsgrupp Gul BT - Träningsgrupp Blå BT - Träningsgrupp Vit BT - Träningsgrupp Röd BT - Träningsgrupp Svart Bågskytte Bågskytte Bågskytte Kommitté Parabåskytte Vikingacuper Bågskytte Fotboll Fotboll Startsida FB - A lag Dam FB - Dam Junior FB - 2012 F FB - 2013 F FB - 2014 F FB - 2015 F FB - 2016 F Gul FB - 2016 F Blå FB - 2017 F FB - 2018 F Gul FB - 2018 F Blå FB - A lag Herr FB - Veteran Herr FB - Herr Junior FB - 2009 P FB - 2010 P FB - 2011 P FB - 2012 P Blå FB - 2012 P Gul FB - 2012 P Vit FB - 2013 P - 1 FB - 2013 P - 2 FB - 2013 P - 3 FB - 2014 P - 1 FB - 2014 P - 2 FB - 2014 P - 3 FB - 2015 P - 1 FB - 2015 P - 2 FB - 2015 P - 3 FB - 2016 P - 1 FB - 2016 P - 2 FB - 2016 P - 3 FB - 2017 P Blå FB - 2017 P Svart FB - 2017 P Vit FB - 2018 P Blå FB - 2018 P Svart FB - 2018 P Vit FB - Knatteverksamhet 5-6 år FB - Camper, Fotbollsskolan FB - Målvaktsspelare FB - Kommitté FB - Ledarinfo FB - Domare Futsal Futsal startsida FU - F15 FU - 2012 F FU - 2013 F FU - 2014 F FU - 2015 F FU - 2016 F FU - 2017 F FU - 2018 F FU - Junior Herr FU - 2010 P FU - 2011 P FU - 2012 P FU - 2013 P FU - 2014 P FU - 2015 P - 1 FU - 2015 P - 2 FU - 2015 P - 3 FU - 2016 P - 1 FU - 2016 P - 2 FU - 2016 P - 3 FU - 2017 Blå/Svart FU - 2017 Vit FU - 2018 P Svart FU - 2018 P Blå FU - 2018 P Vit FU - Knatteverksamhet 5-6 år Ledarinfo Innebandy Innebandy IB - Ledare IB - Knatteskola IB - Camper IB - Dam Div 1 IB - Herr Div 3 IB - Herr Div 5 IB - Dam Junior, Div 2 IB - Herr Junior, Div 2 IB - 2010/11/12 F IB - 2012/13 P IB - 2013/14/15 F IB - 2014 P IB - 2015 P IB - 2016/17 F IB - 2016/17 P IB - 2018 F IB - 2018 P IB - Veteraner Dam &quot;Queens&quot; IB - Veteraner Herr Parasport Medlem Ledare Kansliet; Hem Medlems och aktivitetsavgifter Träningsgrupper Tävlingar Kalender Nyheter Kontakt Dokument Roller i Bordtennisen Länkar Ekerö IK är en av Mälaröarnas största idrottsföreningar med över 1800 medlemmar. Bordtennissektionen erbjuder träning för barn, ungdomar och vuxna i olika nivåer. Träningarna hålls i Ekebyhovshallen på Ekerö. Plats: Ekebyhovshallen, Ekerö"}
+   :action :edited}
+  {:description
+   "Länkar Ekerö IK är en av Mälaröarnas största idrottsföreningar med över 1800 medlemmar. Bordtennissektionen erbjuder träning för barn, ungdomar och vuxna i olika nivåer. Träningarna hålls i Ekebyhovshallen på Ekerö. Plats: Ekebyhovshallen, Ekerö",
+   :locality "Ekebyhovshallen, Ekerö",
+   :homepage "https://www.ekeroik.se/sida/?ID=180817",
+   :name "Ekerö IK Bordtennis",
+   :longitude 17.815,
+   :source :manual,
+   :latitude 59.2876,
+   :image "",
+   :action :edited}
   {:name "Enköpings Pingisveteraner",
    :longitude 17.0775,
    :latitude 59.636,
@@ -769,15 +792,16 @@
    :image "",
    :description
    "Essunga Södra BTK är en ideell förening grundad 1985, baserad i Nossebro, Västra Götaland. Klubben är aktiv i seriespel, bland annat i Division 3 herrar, och deltar i ungdomsturneringar inom Nordvästra Götalands Bordtennisförbund. Träning och matcher hålls i lokala idrottsanläggningar i Essunga kommun. Plats: Essunga Lilla Nilstorp 402, 465 93 Nossebro"}
-  {:name "Fagersta Södra IK Bordtennis",
-   :longitude 15.7939,
-   :latitude 60.0042,
-   :source :manual,
-   :homepage "https://www.laget.se/fsik",
+  {:description
+   "Fagersta Södra IK:s bordtennissektion erbjuder träning för både nybörjare och spelare över 65 år. Träningarna hålls i kommunens idrottshallar, med säsongsstart i januari och aktiviteter som sträcker sig över hela året. Klubben har ett starkt fokus på inkludering och gemenskap. Plats: Onsjövallen 1, 737 91 Fagersta",
    :locality "Onsjövallen 1, 737 91 Fagersta",
+   :homepage "https://www.laget.se/fsik",
+   :name "Fagersta Södra IK Bordtennis",
+   :longitude 15.7939,
+   :source :manual,
+   :latitude 60.0042,
    :image "",
-   :description
-   "Träning: Hej! Vi välkomnar våra medlemmar i Fagersta Södra IK att delta på vårt årsmöte. Onsdagen den 25 mars, klockan 19.00 i klubblokalen på Onsjövallen. Motioner till årsmötet skall vara styrelsen tillhanda senast lördagen den 28 februari, 2026. Motioner kan skickas till: fotboll@fsik.nu Samtliga medlemmar som fyller lägst 16 år under mötesåret har rösträtt på mötet. Med vänlig hälsning, Styrelsen i Fagersta Södra IK; God fortsättning på det nya året. Här är årets insamlingsdagar för pappersinsamlingen 2026. Tack för att ni ställer ut ert papper och stödjer vår stora ungdomsverksamhet, samt gör en värdefull insats för miljön. 12 januari 2 februari 2 mars 13 april 4 maj 1 juni 6 juli 3 augusti 7 september 5 oktober 2 november 7 december Vi samlar in: Papper Tidningar Wellpapp Så här gör du Stöd oss i vår stora ungdomsverksamhet genom att samla och bunta ihop dina tidningar, kontorspapper och wellpapp. Vi hämtar det utanför din port. Ställ ut det på våra hämtdagar senast kl. 10.00. ⚠ Observera: Kontorspapper/tidningar sorteras för sig Wellpapp sorteras för sig Alternativa inlämningsplatser: Det går även bra att lämna tidningar och kontorspapper i container alla dagar i veckan vid: Jysks parkering Bakom Carlos pizzeria i Västanfors Oti Krogs parkering Extra påminnelse Wellpapp, tidningar och kontorspapper kan även lämnas vid: Nordfeldts Åkeri, Verkstadsvägen 1 (Färbo-området) Går att lämna alla dagar. Vardagar mellan 07.00–15.00 går det bra att åka in på området och lämna på markerad plats. Övriga tider lämnas det i container vid infarten Kontakt till pappersinsamlingen: 070-828 36 04 072-335 36 66 fotboll@fsik.nu Fagersta Södra IK:s bordtennissektion erbjuder träning för både nybörjare och spelare över 65 år. Träningarna hålls i kommunens idrottshallar, med säsongsstart i januari och aktiviteter som sträcker sig över hela året. Klubben har ett starkt fokus på inkludering och gemenskap. Plats: Onsjövallen 1, 737 91 Fagersta"}
+   :action :edited}
   {:name "Faggemåla Bordtennisklubb",
    :longitude 15.8436,
    :latitude 57.3861,
@@ -787,15 +811,16 @@
    :image "",
    :description
    "Faggemåla BTK är en bordtennisklubb baserad i Silverdalen, Småland. Klubben bedriver verksamhet i Silverdalens sporthall för barn och ungdomar mellan 7 och 15 år. De har en aktiv ungdomsverksamhet med cirka 35–40 ungdomar som tränar regelbundet. Klubben arrangerar även zontävlingar och har ett seniorlag i seriespel. Plats: Silverdalens sporthall, Parkvägen 20, 577 51 Silverdalen"}
-  {:name "Fair Play Sport Club",
-   :longitude 12.9816,
-   :latitude 55.5916,
-   :source :manual,
-   :homepage "https://fairplaysportclub.se/",
+  {:description
+   "Fair Play Sport Club i Malmö erbjuder bordtennisträning för barn och ungdomar i åldrarna 7 år och uppåt. Träningarna hålls tre dagar i veckan i multisporthallen på System Verification Fair Play Stadion. Klubben fokuserar på glädje och gemenskap, och erbjuder möjlighet att prova på gratis samt låna utrustning vid behov. Plats: Erikslustvägen 56, 217 73 Malmö",
    :locality "Erikslustvägen 56, 217 73 Malmö",
+   :homepage "https://fairplaysportclub.se/",
+   :name "Fair Play Sport Club",
+   :longitude 12.9816,
+   :source :manual,
+   :latitude 55.5916,
    :image "",
-   :description
-   "Träning: Fair Play Sport Club bedriver en omfattande träningsverksamhet i badminton, fotboll och bordtennis på System Verification Fair Play Stadion i Malmö. Glädjen och gemenskapen är viktig i vår klubb där alla ska kunna träna och trivas tillsammans och vi erbjuder träning för alla åldrar i anläggningen på Erikslustvägen 56. Du kan låna utrustning och får också möjligheten att testa en gång gratis innan du bokar plats i någon av våra träningsgrupper.; TRÄNINGSALTERNATIV; Måndagar 17.00-18.00 (7-10 år); Tisdagar 18.00-19.00 (11 år och äldre); Lördagar 15.00-16.00 (7-10 år); Lördagar 16.00-17.00 (11 år och äldre); Söndagar 13.00-14.00 (7-10 år); Träningsavgift; Medlemsavgift tillkommer. Träningsavgiften subventioneras vid start senare på terminen. Fair Play Sport Club i Malmö erbjuder bordtennisträning för barn och ungdomar i åldrarna 7 år och uppåt. Träningarna hålls tre dagar i veckan i multisporthallen på System Verification Fair Play Stadion. Klubben fokuserar på glädje och gemenskap, och erbjuder möjlighet att prova på gratis samt låna utrustning vid behov. Plats: Erikslustvägen 56, 217 73 Malmö"}
+   :action :edited}
   {:name "Falkenbergs Bordtennisklubb",
    :longitude 12.4916,
    :latitude 56.9026,
@@ -805,15 +830,16 @@
    :image "",
    :description
    "Falkenbergs BTK, grundad 1925, är en av Sveriges mest framgångsrika bordtennisklubbar med tio nationella mästerskapstitlar och en seger i ETTU-cupen. Klubben har fostrat flera världsspelare och erbjuder idag träning för alla åldrar och nivåer, från pingisskola till elitlag. Träningarna hålls i Falkhallen i Falkenberg. Plats: Falkhallen, Nyhemsplan 1, 311 35 Falkenberg"}
-  {:name "Falu Bordtennisklubb",
-   :longitude 15.6356,
-   :latitude 60.6061,
-   :source :manual,
-   :homepage "https://falubordtennisklubb.klubbenonline.se/",
+  {:description
+   "Falu BTK är en aktiv bordtennisklubb i Falun som erbjuder träning för nybörjare, tävlingsspelare och motionärer. Klubben har lag i division 1 och 3 samt arrangerar träningar för både ungdomar och vuxna. Träningarna hålls i klubbens lokaler på Soldatvägen 10. Plats: Soldatvägen 10, 791 40 Falun",
    :locality "Soldatvägen 10, 791 40 Falun",
+   :homepage "https://falubordtennisklubb.klubbenonline.se/",
+   :name "Falu Bordtennisklubb",
+   :longitude 15.6356,
+   :source :manual,
+   :latitude 60.6061,
    :image "",
-   :description
-   "Träning: Träningstider; Träningstider enligt länk ovan.; Första sammandraget division 3 Herrar arrangeras av Falu BTK i vår pingishall lördagen den 20 september med första match kl 11:00 mot Borlänge BTK. Välkomna!; Träningstider - Falu Bordtennisklubb - KlubbenOnline; Kl 17:45 - 19:00 Ungdomar (nybörjare); Kl 19:00 - 21:00 Ungdomar (fortsättningsgrupp) samt vuxna i serielag; Kl 17:00 - 18:30 Tävlingsgruppen; Kl 17:00 - 18:30 Ungdomar; Träningssäsong Falu BTK är en aktiv bordtennisklubb i Falun som erbjuder träning för nybörjare, tävlingsspelare och motionärer. Klubben har lag i division 1 och 3 samt arrangerar träningar för både ungdomar och vuxna. Träningarna hålls i klubbens lokaler på Soldatvägen 10. Plats: Soldatvägen 10, 791 40 Falun"}
+   :action :edited}
   {:name "Fellingsbro Bordtennisklubb",
    :longitude 15.5833,
    :latitude 59.4333,
@@ -822,16 +848,17 @@
    :image "",
    :description
    "Fellingsbro BTK är en liten pingisklubb i Fellingsbro. Klubben bedriver sin verksamhet i idrottshallen i Fellingsbro och välkomnar spelare i olika åldrar och nivåer. För aktuell information om träningstider och aktiviteter, besök klubbens Facebook-sida. Plats: Idrottshallen, Fellingsbro"}
-  {:name "Flens Bordtennisklubb",
-   :longitude 16.5894,
-   :latitude 59.0586,
-   :source :manual,
-   :homepage "https://www.svenskalag.se/flensbtk",
+  {:description
+   "Flens BTK är en aktiv bordtennisklubb som erbjuder träning för barn, ungdomar och seniorer. Klubben har flera träningsgrupper och lag i seriespel, inklusive division 5 och 6. Träningarna hålls i Hammarvallens pingislokal i Flen. Plats: Hammarvallens Sim &amp; Sporthall, Hammarvallen 1-9, 642 81 Flen",
    :locality
    "Hammarvallens Sim & Sporthall, Hammarvallen 1-9, 642 81 Flen",
+   :homepage "https://www.svenskalag.se/flensbtk",
+   :name "Flens Bordtennisklubb",
+   :longitude 16.5894,
+   :source :manual,
+   :latitude 59.0586,
    :image "",
-   :description
-   "Träning: Träningsgrupp Div 5&amp;6; Träningsgrupp Ungdom Seriespel; Ungdom träningsgrupp 1; Ungdom träningsgrupp 2; Sön 29 mar 13:00 | Division 7 - LS27342; Träningsgrupp Div 5&amp;6 - 21 mar; Ungdom träningsgrupp 2 - 26 jan; Ungdom träningsgrupp 1 - 26 jan; Träningsgrupp Div 5&amp;6 - 18 dec 2024; Träningsgrupp Div 5&amp;6 - 17 dec 2024; Måndagar 18.00 - 19.00 *Slut för säsongen; Måndagar 19.00 - 21.00 *Slut för säsongen; Onsdagar 18.00 - 20.00 * Sista träningen är 10/6; Tisdagar 19.15 - 21.00 *Slut för säsongen; Torsdagar 19.00 - 21.00 *Slut för säsongen; Kom med till bowlinghallen för en kväll fylld av skratt, strikes och fika. Tisdag 12 maj klockan 18.00. Flens BTK är en aktiv bordtennisklubb som erbjuder träning för barn, ungdomar och seniorer. Klubben har flera träningsgrupper och lag i seriespel, inklusive division 5 och 6. Träningarna hålls i Hammarvallens pingislokal i Flen. Plats: Hammarvallens Sim &amp; Sporthall, Hammarvallen 1-9, 642 81 Flen"}
+   :action :edited}
   {:name "Flärke Idrottsförening",
    :longitude 19.024921322926712,
    :latitude 63.57762499915798,
@@ -873,24 +900,26 @@
    :image "",
    :description
    "Träning: FGoIK Träningströja Barn 539 kr Fårösunds GoIK, grundad 1932, är en mångsidig idrottsförening på norra Gotland. Klubben erbjuder aktiviteter inom bordtennis, badminton, fotboll och gymnastik för både barn och vuxna. Träningarna hålls i Bungehallen och på Fårösund IP. Plats: Tretvägen 2, 624 62 Fårösund"}
-  {:name "Föreningen Idrott För Handikappade (FIFH Malmö)",
-   :longitude 13.0072,
-   :latitude 55.5916,
-   :source :manual,
-   :homepage "https://fifh.com/",
+  {:description
+   "FIFH Malmö är en av Europas största parasportföreningar med över 900 medlemmar. Föreningen erbjuder träning i 13 olika idrotter, inklusive bordtennis, fotboll, bowling, basket och simning. Verksamheten riktar sig till personer med funktionsnedsättning i alla åldrar och bedrivs i FIFH-hallen i Malmö. Plats: Pildammsvägen 26, 214 66 Malmö",
    :locality "Pildammsvägen 26, 214 66 Malmö",
-   :image "",
-   :description
-   "Träning: Nu är det snart dags för årsmöte. Samma stämma arrangeras på FIFH-Hallen tisdagen den 28 april kl. 19.00. Jubileumsåret till ära så bjuder FIFH på smörgåstårta.; Inom FIFH finns det olika träningsgrupper beroende på spelskicklighet. Alla är välkomna, från nybörjare till världsmästare. FIFH Malmö är en av Europas största parasportföreningar med över 900 medlemmar. Föreningen erbjuder träning i 13 olika idrotter, inklusive bordtennis, fotboll, bowling, basket och simning. Verksamheten riktar sig till personer med funktionsnedsättning i alla åldrar och bedrivs i FIFH-hallen i Malmö. Plats: Pildammsvägen 26, 214 66 Malmö"}
-  {:name "Föreningen Kärrtorps Pingisakademi",
-   :longitude 18.1016,
-   :latitude 59.2842,
+   :homepage "https://fifh.com/",
+   :name "Föreningen Idrott För Handikappade (FIFH Malmö)",
+   :longitude 13.0072,
    :source :manual,
-   :homepage "https://www.svenskalag.se/karrtorpssk",
-   :locality "Kärrtorpshallen, Karlsövägen 9, 121 55 Johanneshov",
+   :latitude 55.5916,
    :image "",
-   :description
-   "Träning: Träningstider 26/27; Träningsdatum 26/27; Match/Träningströja; Stiga kommer på besök lördag 20:e sept kl 15:30; Lördag den 20:e september kommer Stiga Sports medarbetare Joakim och besöker oss i Kärrtorsphallen från kl 15:30. Föreningen Kärrtorps Pingisakademi är en bordtennisklubb i Stockholm som erbjuder träning för barn och ungdomar. Klubben fokuserar på att skapa en inkluderande och utvecklande miljö för spelare på alla nivåer. Träningarna hålls i Kärrtorpshallen vid Kärrtorps Gymnasium. Plats: Kärrtorpshallen, Karlsövägen 9, 121 55 Johanneshov"}
+   :action :edited}
+  {:description
+   "Föreningen Kärrtorps Pingisakademi är en bordtennisklubb i Stockholm som erbjuder träning för barn och ungdomar. Klubben fokuserar på att skapa en inkluderande och utvecklande miljö för spelare på alla nivåer. Träningarna hålls i Kärrtorpshallen vid Kärrtorps Gymnasium. Plats: Kärrtorpshallen, Karlsövägen 9, 121 55 Johanneshov",
+   :locality "Kärrtorpshallen, Karlsövägen 9, 121 55 Johanneshov",
+   :homepage "https://www.svenskalag.se/karrtorpssk",
+   :name "Föreningen Kärrtorps Pingisakademi",
+   :longitude 18.1016,
+   :source :manual,
+   :latitude 59.2842,
+   :image "",
+   :action :edited}
   {:name "Föreningen Örebro Bordtennis Seniorer",
    :longitude 15.2134,
    :latitude 59.2702,
@@ -944,24 +973,26 @@
    :image "",
    :description
    "Gesäters IF är en idrottsförening i Dals-Eds kommun, Västra Götalands län, med verksamhet inom bordtennis och andra aktiviteter. Föreningen är ansluten till RF-SISU Västra Götaland och deltar i lokala evenemang och tävlingar. Plats: Gesäter, Dals-Eds kommun, Västra Götalands län"}
-  {:name "Gilleby Idrottsförening",
-   :longitude 11.6797,
-   :latitude 58.2325,
-   :source :manual,
-   :homepage "https://gillebyif.se/",
+  {:description
+   "Gilleby IF är en idrottsförening på Orust i Västra Götalands län, grundad 1943. Föreningen bedriver verksamhet inom fotboll och bordtennis och är ansluten till RF-SISU Västra Götaland. Bordtennisträningarna hålls i samlingslokalen “Knatt” vid Tavlebordsvallen i Henån. Klubben har cirka 250 medlemmar och deltar aktivt i lokala tävlingar och evenemang. Plats: Tavlebordsvallen, Tavlebord 150, 473 97 Henån",
    :locality "Tavlebordsvallen, Tavlebord 150, 473 97 Henån",
-   :image "",
-   :description
-   "Träning: Arbetsdag på Tavlebordsvallen LÖRDAG 2 MAJ 9:00 - 14:00 Fika och trevligt sällskap utlovas. Välkomna! Slide 12 - Stöd föreningen; Lördag 18 april är det hemmapremiärer på Tavlebordsvallen. Damerna i Orust FC möter IK Rössö kl.13. Herrarna möter IFK Åmål kl.16. Välkomna. ... Läs mer Komprimera View on Facebook · Share Share on Facebook Share on Twitter Share on LinkedIn Share by Email Gilleby IF är en idrottsförening på Orust i Västra Götalands län, grundad 1943. Föreningen bedriver verksamhet inom fotboll och bordtennis och är ansluten till RF-SISU Västra Götaland. Bordtennisträningarna hålls i samlingslokalen “Knatt” vid Tavlebordsvallen i Henån. Klubben har cirka 250 medlemmar och deltar aktivt i lokala tävlingar och evenemang. Plats: Tavlebordsvallen, Tavlebord 150, 473 97 Henån"}
-  {:name "Gistad Sport- och Motionsklubb",
-   :longitude 15.7833,
-   :latitude 58.4167,
+   :homepage "https://gillebyif.se/",
+   :name "Gilleby Idrottsförening",
+   :longitude 11.6797,
    :source :manual,
-   :homepage "https://www.svenskalag.se/gistadsomk-pingis",
-   :locality "Sandstensvägen, 585 63 Linghem",
+   :latitude 58.2325,
    :image "",
-   :description
-   "Träning: Tisdagar; 18.00 - 19.00.; Träningsavgift 650kr/termin; Efter dialog mellan föräldrar och tränare och sen till mig hoppas jag vi mött en gyllene medelväg gällande träningstiden. Gistad SoMK är en aktiv förening i Linghem, Östergötlands län, som erbjuder bordtennisträning för barn födda 2016 eller tidigare. Träningarna hålls på tisdagar kl. 18:15–19:15 i klubbstugan. Föreningen är ansluten till RF-SISU Östergötland och deltar i lokala evenemang och tävlingar. Plats: Sandstensvägen, 585 63 Linghem"}
+   :action :edited}
+  {:description
+   "Gistad SoMK är en aktiv förening i Linghem, Östergötlands län, som erbjuder bordtennisträning för barn födda 2016 eller tidigare. Träningarna hålls på tisdagar kl. 18:15–19:15 i klubbstugan. Föreningen är ansluten till RF-SISU Östergötland och deltar i lokala evenemang och tävlingar. Plats: Sandstensvägen, 585 63 Linghem",
+   :locality "Sandstensvägen, 585 63 Linghem",
+   :homepage "https://www.svenskalag.se/gistadsomk-pingis",
+   :name "Gistad Sport- och Motionsklubb",
+   :longitude 15.7833,
+   :source :manual,
+   :latitude 58.4167,
+   :image "",
+   :action :edited}
   {:name "Grebbestads Idrottsförening",
    :longitude 11.2556,
    :latitude 58.6889,
@@ -971,15 +1002,16 @@
    :image "",
    :description
    "Grebbestads IF är en idrottsförening i Grebbestad, Västra Götalands län, grundad 1922. Föreningen bedriver verksamhet inom fotboll, bordtennis och tennis och är ansluten till RF-SISU Västra Götaland. Bordtennisträningarna hålls i Grebbestadskolans gymnastiksal, med ungdomsgrupper som tränar på söndagsförmiddagar och äldre spelare på torsdagskvällar. Plats: Grebbestadskolans gymnastiksal, Grebbestad"}
-  {:name "Grevie Gymnastik och Idrottsklubb",
-   :longitude 12.855,
-   :latitude 56.402,
-   :source :manual,
-   :homepage "https://www.greviegik.se/",
+  {:description
+   "Grevie GIK är en idrottsförening i Grevie, Båstads kommun, grundad 1926. Föreningen erbjuder aktiviteter inom fotboll, bordtennis, basket, gymnastik och padel, och är ansluten till RF-SISU Skåne. Bordtennisträningen bedrivs i klubbens Multiarena med grupper för barn födda 2010–2019 samt motionspingis för vuxna. Grevie GIK har en stark lokal förankring och verkar för gemenskap och inkludering genom idrott. Plats: Grevieparken, Hålarpsvägen 14, 269 62 Grevie",
    :locality "Grevieparken, Hålarpsvägen 14, 269 62 Grevie",
+   :homepage "https://www.greviegik.se/",
+   :name "Grevie Gymnastik och Idrottsklubb",
+   :longitude 12.855,
+   :source :manual,
+   :latitude 56.402,
    :image "",
-   :description
-   "Träning: Träningsgrupp; Tis 16 jun 19:00 | Division 6 Herr Nordvästra A Skåne; Tor 11 jun 19:00 | Division 6 Herr Nordvästra A Skåne; Ny hemmamatch väntar när Össjö IS kommer till Grevie På torsdag den 11 juni klockan 19.00 är det dags för ny seriematch i Herrseniorer A-lag när Grevie GIK tar emot Össjö IS på hemmaplan. Det är två lag som kommer till matchen från olika lägen i serien, och för publiken fin; På torsdag den 11 juni klockan 19.00 är det dags för ny seriematch i Herrseniorer A-lag när Grevie GIK tar emot Össjö IS på hemmaplan. Det är två lag som kommer till...; På onsdag 3 juni klockan 19.00 väntar hemmamatch för Grevie GIK i Herrseniorer A-lag när Jonstorps IF kommer på besök. Det är ett motstånd som fått en fin start på serien och som redan hunnit sätta avtryck i tabellen.; På onsdag 3 juni klockan 19.00 väntar hemmamatch för Grevie GIK i Herrseniorer A-lag när Jonstorps IF kommer på besök. Det är ett motstånd som fått en fin start på serien och som redan hunnit sätta avtryck i tabellen....; Grevie Träningsplan Grevie GIK är en idrottsförening i Grevie, Båstads kommun, grundad 1926. Föreningen erbjuder aktiviteter inom fotboll, bordtennis, basket, gymnastik och padel, och är ansluten till RF-SISU Skåne. Bordtennisträningen bedrivs i klubbens Multiarena med grupper för barn födda 2010–2019 samt motionspingis för vuxna. Grevie GIK har en stark lokal förankring och verkar för gemenskap och inkludering genom idrott. Plats: Grevieparken, Hålarpsvägen 14, 269 62 Grevie"}
+   :action :edited}
   {:name "Gropens Idrottsförening",
    :longitude 14.8983,
    :latitude 59.1739,
@@ -1016,33 +1048,36 @@
    :image "",
    :description
    "Grythyttans IF är en idrottsförening i Grythyttan, Hällefors kommun, grundad 1947. Föreningen bedriver verksamhet inom fotboll och bordtennis och är ansluten till RF-SISU Örebro län. Bordtennisträningen sker i Hällefors sporthall, där även andra inomhusidrotter utövas. Föreningen har en aktiv ungdomsverksamhet och arrangerar årligen Grythyttans marknad. Plats: Hällefors sporthall, Hällefors"}
-  {:name "Grästorps Bordtennisklubb",
-   :longitude 12.6833,
-   :latitude 58.3333,
-   :source :manual,
-   :homepage "https://www.laget.se/GrastorpsBTK",
+  {:description
+   "Grästorps BTK är en aktiv bordtennisklubb i Grästorp, Västra Götalands län. Klubben bedriver verksamhet för både ungdomar, seniorer och veteraner i sin lokal på andra våningen i Åse Vistehallen. A-laget spelar i division 3 och B-laget i division 6 under säsongen 2024/2025. Träningstiderna är tisdagar och torsdagar, med ungdomsgrupper kl. 17:30–18:30 och seniorträning kl. 18:30–20:30. Veteranpingis erbjuds tisdagar och fredagar kl. 9:00–11:00. Klubben är ansluten till RF-SISU Västra Götaland. Plats: Åse Vistehallen, Smultronvägen 5, 467 32 Grästorp",
    :locality "Åse Vistehallen, Smultronvägen 5, 467 32 Grästorp",
-   :image "",
-   :description
-   "Träning: Vår lokal finns på 2:a våningen i ÅseViste hallen. 2 lag spelade i seriesystemet 2025/2026. Resultaten finns i länkarna nedan. A-laget <a href=\"https://www.profixio.com/fx/serieoppsett.php?t=SBTF_SERIE_AVD27239\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.profixio.com/fx/serieoppsett.php?t=SBTF_SERIE_AVD27239</a>&amp;k=LS27239&amp;p=1 B-laget <a href=\"https://www.profixio.com/fx/serieoppsett.php?t=SBTF_SERIE_AVD27245\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.profixio.com/fx/serieoppsett.php?t=SBTF_SERIE_AVD27245</a>&amp;k=LS27245&amp;p=1 Seniorträning mån 18:00- och torsdag 19:00- Ungdomarna tränar i 2 olika åldersgrupper, tis och tors, 18:00-19:00. Mer info Senior + ungdom, kan fås av Joakim 0723191028 Veteranpingisen (pensionärer + daglediga) spelar tis och fre 8:30-11:10. (Sommaruppehåll juni-augusti.) Mer info kan fås av Ingemar 0761420295, som även hanterar bokning+lånenyckel+taggar för kodlåsen till Bollhallen. Facebook Här kan du som har intresse av vår verksamhet, bli gruppmedlem och se aktuell info. Logga in på FB och sök på Grästorps btk, skicka in ansökan för att bli gruppmedlem. Grästorps BTK är en aktiv bordtennisklubb i Grästorp, Västra Götalands län. Klubben bedriver verksamhet för både ungdomar, seniorer och veteraner i sin lokal på andra våningen i Åse Vistehallen. A-laget spelar i division 3 och B-laget i division 6 under säsongen 2024/2025. Träningstiderna är tisdagar och torsdagar, med ungdomsgrupper kl. 17:30–18:30 och seniorträning kl. 18:30–20:30. Veteranpingis erbjuds tisdagar och fredagar kl. 9:00–11:00. Klubben är ansluten till RF-SISU Västra Götaland. Plats: Åse Vistehallen, Smultronvägen 5, 467 32 Grästorp"}
-  {:name "Gullabo Sportklubb",
-   :longitude 15.8167,
-   :latitude 56.4333,
+   :homepage "https://www.laget.se/GrastorpsBTK",
+   :name "Grästorps Bordtennisklubb",
+   :longitude 12.6833,
    :source :manual,
-   :homepage "https://www.laget.se/GullaboSportklubb",
+   :latitude 58.3333,
+   :image "",
+   :action :edited}
+  {:description
+   "Gullabo SK är en idrottsförening i Gullabo, Torsås kommun, grundad 1950. Föreningen bedriver verksamhet inom fotboll och bordtennis och är ansluten till RF-SISU Småland. Bordtennisträningarna hålls i Gullabo gymnastiksal, med ungdomsträningar på måndagar och onsdagar kl. 18–20 samt seniorträning på onsdagar kl. 20–21.30. Föreningen har en lång tradition av idrottsengagemang och arrangerar regelbundet klubbmästerskap och deltar i lokala tävlingar. Plats: Gullabo gymnastiksal, Gullabo",
    :locality "Gullabo gymnastiksal, Gullabo",
-   :image "",
-   :description
-   "Träning: Nu är det damernas tur att spela hemmamatch på Dackehed. På söndag kl 17:00 kommer de spela mot Rödeby AIF C. Välkomna!; Torsdagen den 4/6 kl 1900 spelar herrarna mot Runsten-Möckleby IF. Välkomna!; Missa inte herrarnas derby mot Bergkvara AIF på fredag kl 19:00! Välkomna! Gullabo SK är en idrottsförening i Gullabo, Torsås kommun, grundad 1950. Föreningen bedriver verksamhet inom fotboll och bordtennis och är ansluten till RF-SISU Småland. Bordtennisträningarna hålls i Gullabo gymnastiksal, med ungdomsträningar på måndagar och onsdagar kl. 18–20 samt seniorträning på onsdagar kl. 20–21.30. Föreningen har en lång tradition av idrottsengagemang och arrangerar regelbundet klubbmästerskap och deltar i lokala tävlingar. Plats: Gullabo gymnastiksal, Gullabo"}
-  {:name "Gymnastik & Idrottsföreningen Ginsten",
-   :longitude 12.5167,
-   :latitude 56.8833,
+   :homepage "https://www.laget.se/GullaboSportklubb",
+   :name "Gullabo Sportklubb",
+   :longitude 15.8167,
    :source :manual,
-   :homepage "https://www.laget.se/Ginsten",
-   :locality "Ginstavallen, Hällarp 310, 311 95 Falkenberg",
+   :latitude 56.4333,
    :image "",
-   :description
-   "Träning: Välkomna på årsmöte! Härmed inbjuds samtliga medlemmar i Goif Ginsten till årsmöte för Ginsten och Idrottplatsföreningen.. Tisdag 17 februari kl 18.00 på Ginstavallen. Ginstavallens Idrottplatsförening håller årsmöte direkt efter avslutat möte för Ginsten. Efteråt finns det utrymme för mer diskussioner samtidigt som vi avnjuter någon gott att äta. Hälsningar Goif Ginstens styrelse och Ginstavallens Idrottplatsförenings styrelse.; TRÄNA MED GINSTEN HÖST 2025! Ginsten har gympapass i Ljungbyskolans idrottshall. Det är enkel träning för alla. Kom som du e till träning nära dig. Vecka 37 startar vi höstterminen. Kom och prova på 1 gång på varje pass gratis.. Mer info på facebookgruppen: Goif Ginsten Gymnastik eller ta kontakt med ledarna eller gympasektionen se nr nedan. Välkomna!! Måndagar: Jennys Allroundpass kl 17.30-18.30 Starta veckan med styrka, kondition och rörlighet i intervaller. Ledare Jenny 073-027 23 00 Tisdagar Barngympa 4-7 år kl 17.15-18.00 Rörelse lek och redskap! Begränsat antal platser. Ledare och anmälan till Emma 076-328 09 24. Christinas Pinnapass kl 18.30-19-30 Gympa för hela kroppen med kvastskaft som redskap. Ledare Christina 070-612 49 63 Torsdagar: Mickes styrkepass kl 17.30-18.30 Styrkepass som ger styrka, kondition och energi. Ledare Michael: 070-552 22 58 Telenr till sektionen Christer 070-865 44 03, Louise 073-844 56 56 Gymnastik &amp; Idrottsföreningen Ginsten (GoIF Ginsten) är en idrottsförening i Falkenberg, Hallands län, grundad 1935. Föreningen bedriver verksamhet inom fotboll, bordtennis och gymnastik och är ansluten till RF-SISU Halland. Fotbollen har en lång tradition i klubben, och bordtennisen är en aktiv sektion med både ungdoms- och seniorverksamhet. Gymnastiken har varit en del av föreningen sedan dess grundande. Plats: Ginstavallen, Hällarp 310, 311 95 Falkenberg"}
+   :action :edited}
+  {:description
+   "Gymnastik &amp; Idrottsföreningen Ginsten (GoIF Ginsten) är en idrottsförening i Falkenberg, Hallands län, grundad 1935. Föreningen bedriver verksamhet inom fotboll, bordtennis och gymnastik och är ansluten till RF-SISU Halland. Fotbollen har en lång tradition i klubben, och bordtennisen är en aktiv sektion med både ungdoms- och seniorverksamhet. Gymnastiken har varit en del av föreningen sedan dess grundande. Plats: Ginstavallen, Hällarp 310, 311 95 Falkenberg",
+   :locality "Ginstavallen, Hällarp 310, 311 95 Falkenberg",
+   :homepage "https://www.laget.se/Ginsten",
+   :name "Gymnastik & Idrottsföreningen Ginsten",
+   :longitude 12.5167,
+   :source :manual,
+   :latitude 56.8833,
+   :image "",
+   :action :edited}
   {:name "Gävle Handikappades IF",
    :longitude 17.1413,
    :latitude 60.6745,
