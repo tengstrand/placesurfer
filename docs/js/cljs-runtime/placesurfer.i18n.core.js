@@ -11,16 +11,16 @@ return placesurfer.i18n.core.default_locale;
 }
 });
 placesurfer.i18n.core.interpolate = (function placesurfer$i18n$core$interpolate(text,params){
-return cljs.core.reduce.cljs$core$IFn$_invoke$arity$3((function (s,p__38774){
-var vec__38775 = p__38774;
-var k = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__38775,(0),null);
-var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__38775,(1),null);
+return cljs.core.reduce.cljs$core$IFn$_invoke$arity$3((function (s,p__44049){
+var vec__44050 = p__44049;
+var k = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__44050,(0),null);
+var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__44050,(1),null);
 return clojure.string.replace(s,["{",cljs.core.name(k),"}"].join(''),cljs.core.str.cljs$core$IFn$_invoke$arity$1(v));
 }),cljs.core.str.cljs$core$IFn$_invoke$arity$1(text),params);
 });
 placesurfer.i18n.core.t = (function placesurfer$i18n$core$t(var_args){
-var G__38779 = arguments.length;
-switch (G__38779) {
+var G__44054 = arguments.length;
+switch (G__44054) {
 case 2:
 return placesurfer.i18n.core.t.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 

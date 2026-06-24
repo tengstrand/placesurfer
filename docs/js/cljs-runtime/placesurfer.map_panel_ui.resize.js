@@ -6,10 +6,10 @@ placesurfer.map_panel_ui.resize._BANG_resize_timeout = cljs.core.atom.cljs$core$
 placesurfer.map_panel_ui.resize.schedule_resize_BANG_ = (function placesurfer$map_panel_ui$resize$schedule_resize_BANG_(resize_map_BANG_){
 placesurfer.map_panel_ui.layout.sync_layout_BANG_();
 
-var temp__5825__auto___40574 = cljs.core.deref(placesurfer.map_panel_ui.resize._BANG_resize_timeout);
-if(cljs.core.truth_(temp__5825__auto___40574)){
-var tid_40575 = temp__5825__auto___40574;
-clearTimeout(tid_40575);
+var temp__5825__auto___44078 = cljs.core.deref(placesurfer.map_panel_ui.resize._BANG_resize_timeout);
+if(cljs.core.truth_(temp__5825__auto___44078)){
+var tid_44079 = temp__5825__auto___44078;
+clearTimeout(tid_44079);
 } else {
 }
 

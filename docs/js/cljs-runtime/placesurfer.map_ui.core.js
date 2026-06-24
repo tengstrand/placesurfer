@@ -64,14 +64,14 @@ if(placesurfer.map_ui.core.mock_map_QMARK_(m)){
 return true;
 } else {
 var or__5025__auto__ = (function (){try{return m.loaded() === true;
-}catch (e39265){var _ = e39265;
+}catch (e45211){var _ = e45211;
 return false;
 }})();
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
 try{return m.isStyleLoaded() === true;
-}catch (e39266){var _ = e39266;
+}catch (e45212){var _ = e45212;
 return false;
 }}
 
@@ -81,7 +81,7 @@ return false;
 placesurfer.map_ui.core.safe_resize_BANG_ = (function placesurfer$map_ui$core$safe_resize_BANG_(m){
 if(cljs.core.truth_(m)){
 try{return m.resize();
-}catch (e39267){var _ = e39267;
+}catch (e45213){var _ = e45213;
 return null;
 }} else {
 return null;
@@ -99,7 +99,7 @@ return and__5023__auto____$1;
 } else {
 return and__5023__auto__;
 }
-}catch (e39268){var _ = e39268;
+}catch (e45214){var _ = e45214;
 return false;
 }});
 placesurfer.map_ui.core.marker_style_for = (function placesurfer$map_ui$core$marker_style_for(topic){
@@ -135,19 +135,19 @@ return null;
 }
 });
 placesurfer.map_ui.core.marker_visual_el_from_marker = (function placesurfer$map_ui$core$marker_visual_el_from_marker(marker){
-var G__39270 = (function (){try{return marker.getElement();
-}catch (e39272){var _ = e39272;
+var G__45215 = (function (){try{return marker.getElement();
+}catch (e45216){var _ = e45216;
 return null;
 }})();
-if((G__39270 == null)){
+if((G__45215 == null)){
 return null;
 } else {
-return placesurfer.map_ui.core.marker_visual_el(G__39270);
+return placesurfer.map_ui.core.marker_visual_el(G__45215);
 }
 });
 placesurfer.map_ui.core.marker_element = (function placesurfer$map_ui$core$marker_element(var_args){
-var G__39274 = arguments.length;
-switch (G__39274) {
+var G__45218 = arguments.length;
+switch (G__45218) {
 case 1:
 return placesurfer.map_ui.core.marker_element.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -169,12 +169,12 @@ return placesurfer.map_ui.core.marker_element.cljs$core$IFn$_invoke$arity$2(topi
 (placesurfer.map_ui.core.marker_element.cljs$core$IFn$_invoke$arity$2 = (function (topic,image_url_override){
 var el = document.createElement("div");
 var visual = document.createElement("div");
-var map__39275 = placesurfer.map_ui.core.marker_style_for(topic);
-var map__39275__$1 = cljs.core.__destructure_map(map__39275);
-var width_px = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39275__$1,new cljs.core.Keyword(null,"width-px","width-px",65122451));
-var height_px = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39275__$1,new cljs.core.Keyword(null,"height-px","height-px",-1391665005));
-var background_position = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39275__$1,new cljs.core.Keyword(null,"background-position","background-position",1112702746));
-var anchor = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39275__$1,new cljs.core.Keyword(null,"anchor","anchor",1549638489));
+var map__45219 = placesurfer.map_ui.core.marker_style_for(topic);
+var map__45219__$1 = cljs.core.__destructure_map(map__45219);
+var width_px = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45219__$1,new cljs.core.Keyword(null,"width-px","width-px",65122451));
+var height_px = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45219__$1,new cljs.core.Keyword(null,"height-px","height-px",-1391665005));
+var background_position = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45219__$1,new cljs.core.Keyword(null,"background-position","background-position",1112702746));
+var anchor = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45219__$1,new cljs.core.Keyword(null,"anchor","anchor",1549638489));
 var image_url = (function (){var or__5025__auto__ = image_url_override;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -232,22 +232,22 @@ el.classList.add("placesurfer-marker--removed");
 if(img_QMARK_){
 (el.style.zIndex = placesurfer.map_ui.core.marker_z_index_default);
 
-var img_39447 = document.createElement("img");
-(img_39447.src = image_url);
+var img_45308 = document.createElement("img");
+(img_45308.src = image_url);
 
-(img_39447.alt = "");
+(img_45308.alt = "");
 
-(img_39447.draggable = false);
+(img_45308.draggable = false);
 
-(img_39447.style.width = "100%");
+(img_45308.style.width = "100%");
 
-(img_39447.style.height = "100%");
+(img_45308.style.height = "100%");
 
-(img_39447.style.display = "block");
+(img_45308.style.display = "block");
 
-(img_39447.style.pointerEvents = "none");
+(img_45308.style.pointerEvents = "none");
 
-visual.appendChild(img_39447);
+visual.appendChild(img_45308);
 } else {
 }
 
@@ -270,55 +270,55 @@ return el;
 (placesurfer.map_ui.core.marker_element.cljs$lang$maxFixedArity = 2);
 
 placesurfer.map_ui.core.clear_markers_BANG_ = (function placesurfer$map_ui$core$clear_markers_BANG_(){
-var seq__39278_39448 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
-var chunk__39279_39449 = null;
-var count__39280_39450 = (0);
-var i__39281_39451 = (0);
+var seq__45220_45309 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
+var chunk__45221_45310 = null;
+var count__45222_45311 = (0);
+var i__45223_45312 = (0);
 while(true){
-if((i__39281_39451 < count__39280_39450)){
-var marker_39452 = chunk__39279_39449.cljs$core$IIndexed$_nth$arity$2(null,i__39281_39451);
-try{marker_39452.remove();
-}catch (e39287){var __39453 = e39287;
+if((i__45223_45312 < count__45222_45311)){
+var marker_45313 = chunk__45221_45310.cljs$core$IIndexed$_nth$arity$2(null,i__45223_45312);
+try{marker_45313.remove();
+}catch (e45226){var __45314 = e45226;
 }
 
-var G__39454 = seq__39278_39448;
-var G__39455 = chunk__39279_39449;
-var G__39456 = count__39280_39450;
-var G__39457 = (i__39281_39451 + (1));
-seq__39278_39448 = G__39454;
-chunk__39279_39449 = G__39455;
-count__39280_39450 = G__39456;
-i__39281_39451 = G__39457;
+var G__45315 = seq__45220_45309;
+var G__45316 = chunk__45221_45310;
+var G__45317 = count__45222_45311;
+var G__45318 = (i__45223_45312 + (1));
+seq__45220_45309 = G__45315;
+chunk__45221_45310 = G__45316;
+count__45222_45311 = G__45317;
+i__45223_45312 = G__45318;
 continue;
 } else {
-var temp__5825__auto___39458 = cljs.core.seq(seq__39278_39448);
-if(temp__5825__auto___39458){
-var seq__39278_39459__$1 = temp__5825__auto___39458;
-if(cljs.core.chunked_seq_QMARK_(seq__39278_39459__$1)){
-var c__5548__auto___39460 = cljs.core.chunk_first(seq__39278_39459__$1);
-var G__39461 = cljs.core.chunk_rest(seq__39278_39459__$1);
-var G__39462 = c__5548__auto___39460;
-var G__39463 = cljs.core.count(c__5548__auto___39460);
-var G__39464 = (0);
-seq__39278_39448 = G__39461;
-chunk__39279_39449 = G__39462;
-count__39280_39450 = G__39463;
-i__39281_39451 = G__39464;
+var temp__5825__auto___45319 = cljs.core.seq(seq__45220_45309);
+if(temp__5825__auto___45319){
+var seq__45220_45320__$1 = temp__5825__auto___45319;
+if(cljs.core.chunked_seq_QMARK_(seq__45220_45320__$1)){
+var c__5548__auto___45321 = cljs.core.chunk_first(seq__45220_45320__$1);
+var G__45322 = cljs.core.chunk_rest(seq__45220_45320__$1);
+var G__45323 = c__5548__auto___45321;
+var G__45324 = cljs.core.count(c__5548__auto___45321);
+var G__45325 = (0);
+seq__45220_45309 = G__45322;
+chunk__45221_45310 = G__45323;
+count__45222_45311 = G__45324;
+i__45223_45312 = G__45325;
 continue;
 } else {
-var marker_39465 = cljs.core.first(seq__39278_39459__$1);
-try{marker_39465.remove();
-}catch (e39291){var __39466 = e39291;
+var marker_45326 = cljs.core.first(seq__45220_45320__$1);
+try{marker_45326.remove();
+}catch (e45227){var __45327 = e45227;
 }
 
-var G__39467 = cljs.core.next(seq__39278_39459__$1);
-var G__39468 = null;
-var G__39469 = (0);
-var G__39470 = (0);
-seq__39278_39448 = G__39467;
-chunk__39279_39449 = G__39468;
-count__39280_39450 = G__39469;
-i__39281_39451 = G__39470;
+var G__45328 = cljs.core.next(seq__45220_45320__$1);
+var G__45329 = null;
+var G__45330 = (0);
+var G__45331 = (0);
+seq__45220_45309 = G__45328;
+chunk__45221_45310 = G__45329;
+count__45222_45311 = G__45330;
+i__45223_45312 = G__45331;
 continue;
 }
 } else {
@@ -334,69 +334,69 @@ cljs.core.reset_BANG_(placesurfer.map_ui.core._BANG_hover_popup,null);
 return cljs.core.reset_BANG_(placesurfer.map_ui.core._BANG_row_hover_match,null);
 });
 placesurfer.map_ui.core.reset_marker_layering_BANG_ = (function placesurfer$map_ui$core$reset_marker_layering_BANG_(){
-var seq__39292 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
-var chunk__39293 = null;
-var count__39294 = (0);
-var i__39295 = (0);
+var seq__45228 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
+var chunk__45229 = null;
+var count__45230 = (0);
+var i__45231 = (0);
 while(true){
-if((i__39295 < count__39294)){
-var marker = chunk__39293.cljs$core$IIndexed$_nth$arity$2(null,i__39295);
-var temp__5825__auto___39471 = (function (){try{return marker.getElement();
-}catch (e39300){var _ = e39300;
+if((i__45231 < count__45230)){
+var marker = chunk__45229.cljs$core$IIndexed$_nth$arity$2(null,i__45231);
+var temp__5825__auto___45332 = (function (){try{return marker.getElement();
+}catch (e45234){var _ = e45234;
 return null;
 }})();
-if(cljs.core.truth_(temp__5825__auto___39471)){
-var el_39472 = temp__5825__auto___39471;
-(el_39472.style.zIndex = placesurfer.map_ui.core.marker_z_index_default);
+if(cljs.core.truth_(temp__5825__auto___45332)){
+var el_45333 = temp__5825__auto___45332;
+(el_45333.style.zIndex = placesurfer.map_ui.core.marker_z_index_default);
 } else {
 }
 
 
-var G__39473 = seq__39292;
-var G__39474 = chunk__39293;
-var G__39475 = count__39294;
-var G__39476 = (i__39295 + (1));
-seq__39292 = G__39473;
-chunk__39293 = G__39474;
-count__39294 = G__39475;
-i__39295 = G__39476;
+var G__45334 = seq__45228;
+var G__45335 = chunk__45229;
+var G__45336 = count__45230;
+var G__45337 = (i__45231 + (1));
+seq__45228 = G__45334;
+chunk__45229 = G__45335;
+count__45230 = G__45336;
+i__45231 = G__45337;
 continue;
 } else {
-var temp__5825__auto__ = cljs.core.seq(seq__39292);
+var temp__5825__auto__ = cljs.core.seq(seq__45228);
 if(temp__5825__auto__){
-var seq__39292__$1 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(seq__39292__$1)){
-var c__5548__auto__ = cljs.core.chunk_first(seq__39292__$1);
-var G__39477 = cljs.core.chunk_rest(seq__39292__$1);
-var G__39478 = c__5548__auto__;
-var G__39479 = cljs.core.count(c__5548__auto__);
-var G__39480 = (0);
-seq__39292 = G__39477;
-chunk__39293 = G__39478;
-count__39294 = G__39479;
-i__39295 = G__39480;
+var seq__45228__$1 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(seq__45228__$1)){
+var c__5548__auto__ = cljs.core.chunk_first(seq__45228__$1);
+var G__45338 = cljs.core.chunk_rest(seq__45228__$1);
+var G__45339 = c__5548__auto__;
+var G__45340 = cljs.core.count(c__5548__auto__);
+var G__45341 = (0);
+seq__45228 = G__45338;
+chunk__45229 = G__45339;
+count__45230 = G__45340;
+i__45231 = G__45341;
 continue;
 } else {
-var marker = cljs.core.first(seq__39292__$1);
-var temp__5825__auto___39481__$1 = (function (){try{return marker.getElement();
-}catch (e39301){var _ = e39301;
+var marker = cljs.core.first(seq__45228__$1);
+var temp__5825__auto___45342__$1 = (function (){try{return marker.getElement();
+}catch (e45235){var _ = e45235;
 return null;
 }})();
-if(cljs.core.truth_(temp__5825__auto___39481__$1)){
-var el_39482 = temp__5825__auto___39481__$1;
-(el_39482.style.zIndex = placesurfer.map_ui.core.marker_z_index_default);
+if(cljs.core.truth_(temp__5825__auto___45342__$1)){
+var el_45343 = temp__5825__auto___45342__$1;
+(el_45343.style.zIndex = placesurfer.map_ui.core.marker_z_index_default);
 } else {
 }
 
 
-var G__39483 = cljs.core.next(seq__39292__$1);
-var G__39484 = null;
-var G__39485 = (0);
-var G__39486 = (0);
-seq__39292 = G__39483;
-chunk__39293 = G__39484;
-count__39294 = G__39485;
-i__39295 = G__39486;
+var G__45344 = cljs.core.next(seq__45228__$1);
+var G__45345 = null;
+var G__45346 = (0);
+var G__45347 = (0);
+seq__45228 = G__45344;
+chunk__45229 = G__45345;
+count__45230 = G__45346;
+i__45231 = G__45347;
 continue;
 }
 } else {
@@ -410,7 +410,7 @@ placesurfer.map_ui.core.elevate_active_marker_BANG_ = (function placesurfer$map_
 placesurfer.map_ui.core.reset_marker_layering_BANG_();
 
 var temp__5825__auto__ = (function (){try{return marker.getElement();
-}catch (e39304){var _ = e39304;
+}catch (e45236){var _ = e45236;
 return null;
 }})();
 if(cljs.core.truth_(temp__5825__auto__)){
@@ -422,7 +422,7 @@ return null;
 });
 placesurfer.map_ui.core.elevate_popup_layer_BANG_ = (function placesurfer$map_ui$core$elevate_popup_layer_BANG_(popup){
 var temp__5825__auto__ = (function (){try{return popup.getElement();
-}catch (e39305){var _ = e39305;
+}catch (e45237){var _ = e45237;
 return null;
 }})();
 if(cljs.core.truth_(temp__5825__auto__)){
@@ -454,7 +454,7 @@ return popup.isOpen() === true;
 });
 placesurfer.map_ui.core.marker_popup_open_QMARK_ = (function placesurfer$map_ui$core$marker_popup_open_QMARK_(marker){
 var temp__5825__auto__ = (function (){try{return marker.getPopup();
-}catch (e39310){var _ = e39310;
+}catch (e45238){var _ = e45238;
 return null;
 }})();
 if(cljs.core.truth_(temp__5825__auto__)){
@@ -479,11 +479,11 @@ var or__5025__auto__ = (marker["placesurferPositionClj"]);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
-var G__39311 = (marker["placesurferPosition"]);
-if((G__39311 == null)){
+var G__45239 = (marker["placesurferPosition"]);
+if((G__45239 == null)){
 return null;
 } else {
-return placesurfer.map_ui.core.position_map(G__39311);
+return placesurfer.map_ui.core.position_map(G__45239);
 }
 }
 });
@@ -505,12 +505,12 @@ return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(pos,new cljs.core.Keyword(n
 return pos;
 }
 });
-placesurfer.map_ui.core.position_match_QMARK_ = (function placesurfer$map_ui$core$position_match_QMARK_(pos,p__39312){
-var map__39313 = p__39312;
-var map__39313__$1 = cljs.core.__destructure_map(map__39313);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39313__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39313__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39313__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+placesurfer.map_ui.core.position_match_QMARK_ = (function placesurfer$map_ui$core$position_match_QMARK_(pos,p__45240){
+var map__45241 = p__45240;
+var map__45241__$1 = cljs.core.__destructure_map(map__45241);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45241__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45241__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45241__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
 var or__5025__auto__ = (function (){var and__5023__auto__ = id;
 if(cljs.core.truth_(and__5023__auto__)){
 return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(pos));
@@ -538,68 +538,68 @@ return marker;
 } else {
 return null;
 }
-}catch (e39314){var _ = e39314;
+}catch (e45242){var _ = e45242;
 return null;
 }}),cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
 });
 placesurfer.map_ui.core.refresh_row_hover_emphasis_BANG_ = (function placesurfer$map_ui$core$refresh_row_hover_emphasis_BANG_(){
-var seq__39315_39499 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
-var chunk__39316_39500 = null;
-var count__39317_39501 = (0);
-var i__39318_39502 = (0);
+var seq__45243_45348 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
+var chunk__45244_45349 = null;
+var count__45245_45350 = (0);
+var i__45246_45351 = (0);
 while(true){
-if((i__39318_39502 < count__39317_39501)){
-var marker_39503 = chunk__39316_39500.cljs$core$IIndexed$_nth$arity$2(null,i__39318_39502);
-var temp__5825__auto___39504 = placesurfer.map_ui.core.marker_visual_el_from_marker(marker_39503);
-if(cljs.core.truth_(temp__5825__auto___39504)){
-var visual_39506 = temp__5825__auto___39504;
-visual_39506.classList.remove(placesurfer.map_ui.core.marker_row_hover_class);
+if((i__45246_45351 < count__45245_45350)){
+var marker_45352 = chunk__45244_45349.cljs$core$IIndexed$_nth$arity$2(null,i__45246_45351);
+var temp__5825__auto___45353 = placesurfer.map_ui.core.marker_visual_el_from_marker(marker_45352);
+if(cljs.core.truth_(temp__5825__auto___45353)){
+var visual_45354 = temp__5825__auto___45353;
+visual_45354.classList.remove(placesurfer.map_ui.core.marker_row_hover_class);
 } else {
 }
 
 
-var G__39507 = seq__39315_39499;
-var G__39508 = chunk__39316_39500;
-var G__39509 = count__39317_39501;
-var G__39510 = (i__39318_39502 + (1));
-seq__39315_39499 = G__39507;
-chunk__39316_39500 = G__39508;
-count__39317_39501 = G__39509;
-i__39318_39502 = G__39510;
+var G__45355 = seq__45243_45348;
+var G__45356 = chunk__45244_45349;
+var G__45357 = count__45245_45350;
+var G__45358 = (i__45246_45351 + (1));
+seq__45243_45348 = G__45355;
+chunk__45244_45349 = G__45356;
+count__45245_45350 = G__45357;
+i__45246_45351 = G__45358;
 continue;
 } else {
-var temp__5825__auto___39512 = cljs.core.seq(seq__39315_39499);
-if(temp__5825__auto___39512){
-var seq__39315_39513__$1 = temp__5825__auto___39512;
-if(cljs.core.chunked_seq_QMARK_(seq__39315_39513__$1)){
-var c__5548__auto___39514 = cljs.core.chunk_first(seq__39315_39513__$1);
-var G__39515 = cljs.core.chunk_rest(seq__39315_39513__$1);
-var G__39516 = c__5548__auto___39514;
-var G__39517 = cljs.core.count(c__5548__auto___39514);
-var G__39518 = (0);
-seq__39315_39499 = G__39515;
-chunk__39316_39500 = G__39516;
-count__39317_39501 = G__39517;
-i__39318_39502 = G__39518;
+var temp__5825__auto___45359 = cljs.core.seq(seq__45243_45348);
+if(temp__5825__auto___45359){
+var seq__45243_45360__$1 = temp__5825__auto___45359;
+if(cljs.core.chunked_seq_QMARK_(seq__45243_45360__$1)){
+var c__5548__auto___45361 = cljs.core.chunk_first(seq__45243_45360__$1);
+var G__45362 = cljs.core.chunk_rest(seq__45243_45360__$1);
+var G__45363 = c__5548__auto___45361;
+var G__45364 = cljs.core.count(c__5548__auto___45361);
+var G__45365 = (0);
+seq__45243_45348 = G__45362;
+chunk__45244_45349 = G__45363;
+count__45245_45350 = G__45364;
+i__45246_45351 = G__45365;
 continue;
 } else {
-var marker_39519 = cljs.core.first(seq__39315_39513__$1);
-var temp__5825__auto___39525__$1 = placesurfer.map_ui.core.marker_visual_el_from_marker(marker_39519);
-if(cljs.core.truth_(temp__5825__auto___39525__$1)){
-var visual_39526 = temp__5825__auto___39525__$1;
-visual_39526.classList.remove(placesurfer.map_ui.core.marker_row_hover_class);
+var marker_45366 = cljs.core.first(seq__45243_45360__$1);
+var temp__5825__auto___45367__$1 = placesurfer.map_ui.core.marker_visual_el_from_marker(marker_45366);
+if(cljs.core.truth_(temp__5825__auto___45367__$1)){
+var visual_45369 = temp__5825__auto___45367__$1;
+visual_45369.classList.remove(placesurfer.map_ui.core.marker_row_hover_class);
 } else {
 }
 
 
-var G__39542 = cljs.core.next(seq__39315_39513__$1);
-var G__39543 = null;
-var G__39544 = (0);
-var G__39545 = (0);
-seq__39315_39499 = G__39542;
-chunk__39316_39500 = G__39543;
-count__39317_39501 = G__39544;
-i__39318_39502 = G__39545;
+var G__45370 = cljs.core.next(seq__45243_45360__$1);
+var G__45371 = null;
+var G__45372 = (0);
+var G__45373 = (0);
+seq__45243_45348 = G__45370;
+chunk__45244_45349 = G__45371;
+count__45245_45350 = G__45372;
+i__45246_45351 = G__45373;
 continue;
 }
 } else {
@@ -655,85 +655,85 @@ cljs.core.reset_BANG_(placesurfer.map_ui.core._BANG_row_hover_match,null);
 return placesurfer.map_ui.core.refresh_row_hover_emphasis_BANG_();
 });
 placesurfer.map_ui.core.close_all_popups_BANG_ = (function placesurfer$map_ui$core$close_all_popups_BANG_(){
-var seq__39321_39549 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
-var chunk__39322_39550 = null;
-var count__39323_39551 = (0);
-var i__39324_39552 = (0);
+var seq__45247_45374 = cljs.core.seq(cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
+var chunk__45248_45375 = null;
+var count__45249_45376 = (0);
+var i__45250_45377 = (0);
 while(true){
-if((i__39324_39552 < count__39323_39551)){
-var marker_39553 = chunk__39322_39550.cljs$core$IIndexed$_nth$arity$2(null,i__39324_39552);
-var temp__5825__auto___39554 = (function (){try{return marker_39553.getPopup();
-}catch (e39329){var _ = e39329;
+if((i__45250_45377 < count__45249_45376)){
+var marker_45378 = chunk__45248_45375.cljs$core$IIndexed$_nth$arity$2(null,i__45250_45377);
+var temp__5825__auto___45379 = (function (){try{return marker_45378.getPopup();
+}catch (e45255){var _ = e45255;
 return null;
 }})();
-if(cljs.core.truth_(temp__5825__auto___39554)){
-var popup_39555 = temp__5825__auto___39554;
-placesurfer.map_ui.core.cancel_hover_close_BANG_(popup_39555);
+if(cljs.core.truth_(temp__5825__auto___45379)){
+var popup_45380 = temp__5825__auto___45379;
+placesurfer.map_ui.core.cancel_hover_close_BANG_(popup_45380);
 
-placesurfer.map_ui.core.set_popup_open_mode_BANG_(popup_39555,null);
+placesurfer.map_ui.core.set_popup_open_mode_BANG_(popup_45380,null);
 
-if(placesurfer.map_ui.core.popup_open_QMARK_(popup_39555)){
-try{marker_39553.togglePopup();
-}catch (e39331){var __39556 = e39331;
+if(placesurfer.map_ui.core.popup_open_QMARK_(popup_45380)){
+try{marker_45378.togglePopup();
+}catch (e45256){var __45381 = e45256;
 }} else {
 }
 } else {
 }
 
 
-var G__39557 = seq__39321_39549;
-var G__39558 = chunk__39322_39550;
-var G__39559 = count__39323_39551;
-var G__39560 = (i__39324_39552 + (1));
-seq__39321_39549 = G__39557;
-chunk__39322_39550 = G__39558;
-count__39323_39551 = G__39559;
-i__39324_39552 = G__39560;
+var G__45382 = seq__45247_45374;
+var G__45383 = chunk__45248_45375;
+var G__45384 = count__45249_45376;
+var G__45385 = (i__45250_45377 + (1));
+seq__45247_45374 = G__45382;
+chunk__45248_45375 = G__45383;
+count__45249_45376 = G__45384;
+i__45250_45377 = G__45385;
 continue;
 } else {
-var temp__5825__auto___39561 = cljs.core.seq(seq__39321_39549);
-if(temp__5825__auto___39561){
-var seq__39321_39562__$1 = temp__5825__auto___39561;
-if(cljs.core.chunked_seq_QMARK_(seq__39321_39562__$1)){
-var c__5548__auto___39563 = cljs.core.chunk_first(seq__39321_39562__$1);
-var G__39564 = cljs.core.chunk_rest(seq__39321_39562__$1);
-var G__39565 = c__5548__auto___39563;
-var G__39566 = cljs.core.count(c__5548__auto___39563);
-var G__39567 = (0);
-seq__39321_39549 = G__39564;
-chunk__39322_39550 = G__39565;
-count__39323_39551 = G__39566;
-i__39324_39552 = G__39567;
+var temp__5825__auto___45386 = cljs.core.seq(seq__45247_45374);
+if(temp__5825__auto___45386){
+var seq__45247_45387__$1 = temp__5825__auto___45386;
+if(cljs.core.chunked_seq_QMARK_(seq__45247_45387__$1)){
+var c__5548__auto___45388 = cljs.core.chunk_first(seq__45247_45387__$1);
+var G__45389 = cljs.core.chunk_rest(seq__45247_45387__$1);
+var G__45390 = c__5548__auto___45388;
+var G__45391 = cljs.core.count(c__5548__auto___45388);
+var G__45392 = (0);
+seq__45247_45374 = G__45389;
+chunk__45248_45375 = G__45390;
+count__45249_45376 = G__45391;
+i__45250_45377 = G__45392;
 continue;
 } else {
-var marker_39568 = cljs.core.first(seq__39321_39562__$1);
-var temp__5825__auto___39569__$1 = (function (){try{return marker_39568.getPopup();
-}catch (e39333){var _ = e39333;
+var marker_45393 = cljs.core.first(seq__45247_45387__$1);
+var temp__5825__auto___45394__$1 = (function (){try{return marker_45393.getPopup();
+}catch (e45257){var _ = e45257;
 return null;
 }})();
-if(cljs.core.truth_(temp__5825__auto___39569__$1)){
-var popup_39570 = temp__5825__auto___39569__$1;
-placesurfer.map_ui.core.cancel_hover_close_BANG_(popup_39570);
+if(cljs.core.truth_(temp__5825__auto___45394__$1)){
+var popup_45395 = temp__5825__auto___45394__$1;
+placesurfer.map_ui.core.cancel_hover_close_BANG_(popup_45395);
 
-placesurfer.map_ui.core.set_popup_open_mode_BANG_(popup_39570,null);
+placesurfer.map_ui.core.set_popup_open_mode_BANG_(popup_45395,null);
 
-if(placesurfer.map_ui.core.popup_open_QMARK_(popup_39570)){
-try{marker_39568.togglePopup();
-}catch (e39334){var __39571 = e39334;
+if(placesurfer.map_ui.core.popup_open_QMARK_(popup_45395)){
+try{marker_45393.togglePopup();
+}catch (e45258){var __45396 = e45258;
 }} else {
 }
 } else {
 }
 
 
-var G__39572 = cljs.core.next(seq__39321_39562__$1);
-var G__39573 = null;
-var G__39574 = (0);
-var G__39575 = (0);
-seq__39321_39549 = G__39572;
-chunk__39322_39550 = G__39573;
-count__39323_39551 = G__39574;
-i__39324_39552 = G__39575;
+var G__45397 = cljs.core.next(seq__45247_45387__$1);
+var G__45398 = null;
+var G__45399 = (0);
+var G__45400 = (0);
+seq__45247_45374 = G__45397;
+chunk__45248_45375 = G__45398;
+count__45249_45376 = G__45399;
+i__45250_45377 = G__45400;
 continue;
 }
 } else {
@@ -751,7 +751,7 @@ placesurfer.map_ui.core.cancel_hover_close_BANG_(popup);
 
 if(placesurfer.map_ui.core.popup_open_QMARK_(popup)){
 try{marker.togglePopup();
-}catch (e39337){var __39576 = e39337;
+}catch (e45259){var __45401 = e45259;
 }} else {
 }
 
@@ -772,7 +772,7 @@ placesurfer.map_ui.core.open_popup_BANG_ = (function placesurfer$map_ui$core$ope
 placesurfer.map_ui.core.close_all_popups_BANG_();
 
 try{marker.togglePopup();
-}catch (e39340){var __39578 = e39340;
+}catch (e45260){var __45402 = e45260;
 }
 placesurfer.map_ui.core.set_popup_open_mode_BANG_(popup,mode);
 
@@ -785,13 +785,13 @@ return cljs.core.reset_BANG_(placesurfer.map_ui.core._BANG_hover_popup,new cljs.
 /**
  * Open the click popup on the marker matching `match` (:id or :longitude/:latitude).
  */
-placesurfer.map_ui.core.open_marker_popup_BANG_ = (function placesurfer$map_ui$core$open_marker_popup_BANG_(p__39341){
-var map__39342 = p__39341;
-var map__39342__$1 = cljs.core.__destructure_map(map__39342);
-var match = map__39342__$1;
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39342__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39342__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39342__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+placesurfer.map_ui.core.open_marker_popup_BANG_ = (function placesurfer$map_ui$core$open_marker_popup_BANG_(p__45261){
+var map__45262 = p__45261;
+var map__45262__$1 = cljs.core.__destructure_map(map__45262);
+var match = map__45262__$1;
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45262__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45262__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45262__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
 if(cljs.core.truth_((function (){var or__5025__auto__ = id;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -826,7 +826,7 @@ return null;
 } else {
 return null;
 }
-}catch (e39345){var _ = e39345;
+}catch (e45263){var _ = e45263;
 return null;
 }}),cljs.core.deref(placesurfer.map_ui.core._BANG_markers));
 } else {
@@ -877,11 +877,11 @@ return ({"x": dom.clientX, "y": dom.clientY});
 placesurfer.map_ui.core.pointer_over_hover_zone_QMARK_ = (function placesurfer$map_ui$core$pointer_over_hover_zone_QMARK_(client_x,client_y){
 var temp__5823__auto__ = cljs.core.deref(placesurfer.map_ui.core._BANG_hover_popup);
 if(cljs.core.truth_(temp__5823__auto__)){
-var map__39349 = temp__5823__auto__;
-var map__39349__$1 = cljs.core.__destructure_map(map__39349);
-var root_el = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39349__$1,new cljs.core.Keyword(null,"root-el","root-el",1068654895));
-var marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39349__$1,new cljs.core.Keyword(null,"marker","marker",865118313));
-var popup = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39349__$1,new cljs.core.Keyword(null,"popup","popup",635890211));
+var map__45264 = temp__5823__auto__;
+var map__45264__$1 = cljs.core.__destructure_map(map__45264);
+var root_el = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45264__$1,new cljs.core.Keyword(null,"root-el","root-el",1068654895));
+var marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45264__$1,new cljs.core.Keyword(null,"marker","marker",865118313));
+var popup = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45264__$1,new cljs.core.Keyword(null,"popup","popup",635890211));
 var marker__$1 = marker;
 var popup__$1 = popup;
 var or__5025__auto__ = placesurfer.map_ui.core.el_contains_point_QMARK_(root_el,client_x,client_y);
@@ -914,7 +914,7 @@ return false;
 });
 placesurfer.map_ui.core.set_map_cursor_BANG_ = (function placesurfer$map_ui$core$set_map_cursor_BANG_(m,cursor){
 var temp__5825__auto__ = (function (){try{return m.getCanvas();
-}catch (e39353){var _ = e39353;
+}catch (e45265){var _ = e45265;
 return null;
 }})();
 if(cljs.core.truth_(temp__5825__auto__)){
@@ -943,8 +943,8 @@ return ((typeof ll.lng === 'number') && (typeof ll.lat === 'number'));
 return and__5023__auto__;
 }
 })())){
-var G__39354 = new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),ll.lng,new cljs.core.Keyword(null,"latitude","latitude",394867543),ll.lat], null);
-return (handler.cljs$core$IFn$_invoke$arity$1 ? handler.cljs$core$IFn$_invoke$arity$1(G__39354) : handler.call(null,G__39354));
+var G__45266 = new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),ll.lng,new cljs.core.Keyword(null,"latitude","latitude",394867543),ll.lat], null);
+return (handler.cljs$core$IFn$_invoke$arity$1 ? handler.cljs$core$IFn$_invoke$arity$1(G__45266) : handler.call(null,G__45266));
 } else {
 return null;
 }
@@ -982,13 +982,13 @@ return null;
 } else {
 (map.placesurferPopupGuard = true);
 
-return map.on("mousemove",(function (e){
+map.on("mousemove",(function (e){
 var temp__5825__auto__ = cljs.core.deref(placesurfer.map_ui.core._BANG_hover_popup);
 if(cljs.core.truth_(temp__5825__auto__)){
-var map__39357 = temp__5825__auto__;
-var map__39357__$1 = cljs.core.__destructure_map(map__39357);
-var marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39357__$1,new cljs.core.Keyword(null,"marker","marker",865118313));
-var popup = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39357__$1,new cljs.core.Keyword(null,"popup","popup",635890211));
+var map__45267 = temp__5825__auto__;
+var map__45267__$1 = cljs.core.__destructure_map(map__45267);
+var marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45267__$1,new cljs.core.Keyword(null,"marker","marker",865118313));
+var popup = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45267__$1,new cljs.core.Keyword(null,"popup","popup",635890211));
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("hover",placesurfer.map_ui.core.popup_open_mode(popup))){
 var pt = placesurfer.map_ui.core.map_event_client_point(e);
 var x = pt.x;
@@ -1004,13 +1004,15 @@ return null;
 } else {
 return null;
 }
-}),map.on("click",(function (e){
+}));
+
+return map.on("click",(function (e){
 var temp__5825__auto__ = cljs.core.deref(placesurfer.map_ui.core._BANG_hover_popup);
 if(cljs.core.truth_(temp__5825__auto__)){
-var map__39358 = temp__5825__auto__;
-var map__39358__$1 = cljs.core.__destructure_map(map__39358);
-var marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39358__$1,new cljs.core.Keyword(null,"marker","marker",865118313));
-var popup = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39358__$1,new cljs.core.Keyword(null,"popup","popup",635890211));
+var map__45268 = temp__5825__auto__;
+var map__45268__$1 = cljs.core.__destructure_map(map__45268);
+var marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45268__$1,new cljs.core.Keyword(null,"marker","marker",865118313));
+var popup = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45268__$1,new cljs.core.Keyword(null,"popup","popup",635890211));
 if(placesurfer.map_ui.core.popup_open_QMARK_(popup)){
 var target = (function (){var or__5025__auto__ = e.originalEvent;
 if(cljs.core.truth_(or__5025__auto__)){
@@ -1030,7 +1032,7 @@ return null;
 } else {
 return null;
 }
-})));
+}));
 }
 });
 placesurfer.map_ui.core.marker_click_position = (function placesurfer$map_ui$core$marker_click_position(marker,root_el,position){
@@ -1059,10 +1061,10 @@ return null;
 });
 placesurfer.map_ui.core.attach_marker_interactions_BANG_ = (function placesurfer$map_ui$core$attach_marker_interactions_BANG_(marker,popup,root_el,position){
 root_el.addEventListener("mouseenter",(function (_){
-var temp__5825__auto___39594 = placesurfer.map_ui.core.marker_visual_el(root_el);
-if(cljs.core.truth_(temp__5825__auto___39594)){
-var visual_39598 = temp__5825__auto___39594;
-visual_39598.classList.add(placesurfer.map_ui.core.marker_map_hover_class);
+var temp__5825__auto___45406 = placesurfer.map_ui.core.marker_visual_el(root_el);
+if(cljs.core.truth_(temp__5825__auto___45406)){
+var visual_45407 = temp__5825__auto___45406;
+visual_45407.classList.add(placesurfer.map_ui.core.marker_map_hover_class);
 } else {
 }
 
@@ -1074,10 +1076,10 @@ return placesurfer.map_ui.core.open_popup_BANG_(marker,popup,"hover",root_el);
 }));
 
 root_el.addEventListener("mouseleave",(function (_){
-var temp__5825__auto___39599 = placesurfer.map_ui.core.marker_visual_el(root_el);
-if(cljs.core.truth_(temp__5825__auto___39599)){
-var visual_39600 = temp__5825__auto___39599;
-visual_39600.classList.remove(placesurfer.map_ui.core.marker_map_hover_class);
+var temp__5825__auto___45408 = placesurfer.map_ui.core.marker_visual_el(root_el);
+if(cljs.core.truth_(temp__5825__auto___45408)){
+var visual_45409 = temp__5825__auto___45408;
+visual_45409.classList.remove(placesurfer.map_ui.core.marker_map_hover_class);
 } else {
 }
 
@@ -1140,24 +1142,24 @@ return null;
 }));
 });
 placesurfer.map_ui.core.add_markers_BANG_ = (function placesurfer$map_ui$core$add_markers_BANG_(m,positions,popup_opts){
-var seq__39359 = cljs.core.seq(positions);
-var chunk__39360 = null;
-var count__39361 = (0);
-var i__39362 = (0);
+var seq__45269 = cljs.core.seq(positions);
+var chunk__45270 = null;
+var count__45271 = (0);
+var i__45272 = (0);
 while(true){
-if((i__39362 < count__39361)){
-var position = chunk__39360.cljs$core$IIndexed$_nth$arity$2(null,i__39362);
-var map__39368_39606 = position;
-var map__39368_39607__$1 = cljs.core.__destructure_map(map__39368_39606);
-var longitude_39608 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39368_39607__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude_39609 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39368_39607__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var topic_39610 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39368_39607__$1,new cljs.core.Keyword(null,"topic","topic",-1960480691));
-var marker_topic_39611 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39368_39607__$1,new cljs.core.Keyword(null,"marker-topic","marker-topic",652240154));
-var resolved_topic_39612 = (function (){var or__5025__auto__ = marker_topic_39611;
+if((i__45272 < count__45271)){
+var position = chunk__45270.cljs$core$IIndexed$_nth$arity$2(null,i__45272);
+var map__45277_45410 = position;
+var map__45277_45411__$1 = cljs.core.__destructure_map(map__45277_45410);
+var longitude_45412 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45277_45411__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude_45413 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45277_45411__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var topic_45414 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45277_45411__$1,new cljs.core.Keyword(null,"topic","topic",-1960480691));
+var marker_topic_45415 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45277_45411__$1,new cljs.core.Keyword(null,"marker-topic","marker-topic",652240154));
+var resolved_topic_45416 = (function (){var or__5025__auto__ = marker_topic_45415;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
-var or__5025__auto____$1 = topic_39610;
+var or__5025__auto____$1 = topic_45414;
 if(cljs.core.truth_(or__5025__auto____$1)){
 return or__5025__auto____$1;
 } else {
@@ -1165,66 +1167,66 @@ return new cljs.core.Keyword(null,"discgolf","discgolf",416907656);
 }
 }
 })();
-var map__39369_39613 = placesurfer.map_ui.core.marker_style_for(resolved_topic_39612);
-var map__39369_39614__$1 = cljs.core.__destructure_map(map__39369_39613);
-var anchor_39615 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39369_39614__$1,new cljs.core.Keyword(null,"anchor","anchor",1549638489));
-var root_el_39616 = placesurfer.map_ui.core.marker_element.cljs$core$IFn$_invoke$arity$2(resolved_topic_39612,new cljs.core.Keyword(null,"marker-icon-url","marker-icon-url",1866421282).cljs$core$IFn$_invoke$arity$1(position));
-var marker_39617 = (new maplibregl.Marker(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"element","element",1974019749),root_el_39616,new cljs.core.Keyword(null,"anchor","anchor",1549638489),anchor_39615], null))));
-var popup_39618 = (new maplibregl.Popup(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"closeButton","closeButton",1038725049),false,new cljs.core.Keyword(null,"closeOnClick","closeOnClick",174981882),false,new cljs.core.Keyword(null,"offset","offset",296498311),(20),new cljs.core.Keyword(null,"className","className",-1983287057),"map-marker-popup"], null))));
-(marker_39617["placesurferPosition"] = cljs.core.clj__GT_js(position));
+var map__45278_45417 = placesurfer.map_ui.core.marker_style_for(resolved_topic_45416);
+var map__45278_45418__$1 = cljs.core.__destructure_map(map__45278_45417);
+var anchor_45419 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45278_45418__$1,new cljs.core.Keyword(null,"anchor","anchor",1549638489));
+var root_el_45420 = placesurfer.map_ui.core.marker_element.cljs$core$IFn$_invoke$arity$2(resolved_topic_45416,new cljs.core.Keyword(null,"marker-icon-url","marker-icon-url",1866421282).cljs$core$IFn$_invoke$arity$1(position));
+var marker_45421 = (new maplibregl.Marker(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"element","element",1974019749),root_el_45420,new cljs.core.Keyword(null,"anchor","anchor",1549638489),anchor_45419], null))));
+var popup_45422 = (new maplibregl.Popup(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"closeButton","closeButton",1038725049),false,new cljs.core.Keyword(null,"closeOnClick","closeOnClick",174981882),false,new cljs.core.Keyword(null,"offset","offset",296498311),(20),new cljs.core.Keyword(null,"className","className",-1983287057),"map-marker-popup"], null))));
+(marker_45421["placesurferPosition"] = cljs.core.clj__GT_js(position));
 
-(marker_39617["placesurferPositionClj"] = position);
+(marker_45421["placesurferPositionClj"] = position);
 
-popup_39618.setHTML(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2(position,popup_opts));
+popup_45422.setHTML(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2(position,popup_opts));
 
-marker_39617.setLngLat([longitude_39608,latitude_39609]);
+marker_45421.setLngLat([longitude_45412,latitude_45413]);
 
-marker_39617.setPopup(popup_39618);
+marker_45421.setPopup(popup_45422);
 
-placesurfer.map_ui.core.attach_marker_interactions_BANG_(marker_39617,popup_39618,root_el_39616,position);
+placesurfer.map_ui.core.attach_marker_interactions_BANG_(marker_45421,popup_45422,root_el_45420,position);
 
-marker_39617.addTo(m);
+marker_45421.addTo(m);
 
-cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$3(placesurfer.map_ui.core._BANG_markers,cljs.core.conj,marker_39617);
+cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$3(placesurfer.map_ui.core._BANG_markers,cljs.core.conj,marker_45421);
 
 
-var G__39628 = seq__39359;
-var G__39629 = chunk__39360;
-var G__39630 = count__39361;
-var G__39631 = (i__39362 + (1));
-seq__39359 = G__39628;
-chunk__39360 = G__39629;
-count__39361 = G__39630;
-i__39362 = G__39631;
+var G__45423 = seq__45269;
+var G__45424 = chunk__45270;
+var G__45425 = count__45271;
+var G__45426 = (i__45272 + (1));
+seq__45269 = G__45423;
+chunk__45270 = G__45424;
+count__45271 = G__45425;
+i__45272 = G__45426;
 continue;
 } else {
-var temp__5825__auto__ = cljs.core.seq(seq__39359);
+var temp__5825__auto__ = cljs.core.seq(seq__45269);
 if(temp__5825__auto__){
-var seq__39359__$1 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(seq__39359__$1)){
-var c__5548__auto__ = cljs.core.chunk_first(seq__39359__$1);
-var G__39632 = cljs.core.chunk_rest(seq__39359__$1);
-var G__39633 = c__5548__auto__;
-var G__39634 = cljs.core.count(c__5548__auto__);
-var G__39635 = (0);
-seq__39359 = G__39632;
-chunk__39360 = G__39633;
-count__39361 = G__39634;
-i__39362 = G__39635;
+var seq__45269__$1 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(seq__45269__$1)){
+var c__5548__auto__ = cljs.core.chunk_first(seq__45269__$1);
+var G__45427 = cljs.core.chunk_rest(seq__45269__$1);
+var G__45428 = c__5548__auto__;
+var G__45429 = cljs.core.count(c__5548__auto__);
+var G__45430 = (0);
+seq__45269 = G__45427;
+chunk__45270 = G__45428;
+count__45271 = G__45429;
+i__45272 = G__45430;
 continue;
 } else {
-var position = cljs.core.first(seq__39359__$1);
-var map__39370_39636 = position;
-var map__39370_39637__$1 = cljs.core.__destructure_map(map__39370_39636);
-var longitude_39638 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39370_39637__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude_39639 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39370_39637__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var topic_39640 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39370_39637__$1,new cljs.core.Keyword(null,"topic","topic",-1960480691));
-var marker_topic_39641 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39370_39637__$1,new cljs.core.Keyword(null,"marker-topic","marker-topic",652240154));
-var resolved_topic_39642 = (function (){var or__5025__auto__ = marker_topic_39641;
+var position = cljs.core.first(seq__45269__$1);
+var map__45279_45431 = position;
+var map__45279_45432__$1 = cljs.core.__destructure_map(map__45279_45431);
+var longitude_45433 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45279_45432__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude_45434 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45279_45432__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var topic_45435 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45279_45432__$1,new cljs.core.Keyword(null,"topic","topic",-1960480691));
+var marker_topic_45436 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45279_45432__$1,new cljs.core.Keyword(null,"marker-topic","marker-topic",652240154));
+var resolved_topic_45437 = (function (){var or__5025__auto__ = marker_topic_45436;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
-var or__5025__auto____$1 = topic_39640;
+var or__5025__auto____$1 = topic_45435;
 if(cljs.core.truth_(or__5025__auto____$1)){
 return or__5025__auto____$1;
 } else {
@@ -1232,37 +1234,37 @@ return new cljs.core.Keyword(null,"discgolf","discgolf",416907656);
 }
 }
 })();
-var map__39371_39643 = placesurfer.map_ui.core.marker_style_for(resolved_topic_39642);
-var map__39371_39644__$1 = cljs.core.__destructure_map(map__39371_39643);
-var anchor_39645 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39371_39644__$1,new cljs.core.Keyword(null,"anchor","anchor",1549638489));
-var root_el_39646 = placesurfer.map_ui.core.marker_element.cljs$core$IFn$_invoke$arity$2(resolved_topic_39642,new cljs.core.Keyword(null,"marker-icon-url","marker-icon-url",1866421282).cljs$core$IFn$_invoke$arity$1(position));
-var marker_39647 = (new maplibregl.Marker(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"element","element",1974019749),root_el_39646,new cljs.core.Keyword(null,"anchor","anchor",1549638489),anchor_39645], null))));
-var popup_39648 = (new maplibregl.Popup(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"closeButton","closeButton",1038725049),false,new cljs.core.Keyword(null,"closeOnClick","closeOnClick",174981882),false,new cljs.core.Keyword(null,"offset","offset",296498311),(20),new cljs.core.Keyword(null,"className","className",-1983287057),"map-marker-popup"], null))));
-(marker_39647["placesurferPosition"] = cljs.core.clj__GT_js(position));
+var map__45280_45438 = placesurfer.map_ui.core.marker_style_for(resolved_topic_45437);
+var map__45280_45439__$1 = cljs.core.__destructure_map(map__45280_45438);
+var anchor_45440 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45280_45439__$1,new cljs.core.Keyword(null,"anchor","anchor",1549638489));
+var root_el_45441 = placesurfer.map_ui.core.marker_element.cljs$core$IFn$_invoke$arity$2(resolved_topic_45437,new cljs.core.Keyword(null,"marker-icon-url","marker-icon-url",1866421282).cljs$core$IFn$_invoke$arity$1(position));
+var marker_45442 = (new maplibregl.Marker(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"element","element",1974019749),root_el_45441,new cljs.core.Keyword(null,"anchor","anchor",1549638489),anchor_45440], null))));
+var popup_45443 = (new maplibregl.Popup(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"closeButton","closeButton",1038725049),false,new cljs.core.Keyword(null,"closeOnClick","closeOnClick",174981882),false,new cljs.core.Keyword(null,"offset","offset",296498311),(20),new cljs.core.Keyword(null,"className","className",-1983287057),"map-marker-popup"], null))));
+(marker_45442["placesurferPosition"] = cljs.core.clj__GT_js(position));
 
-(marker_39647["placesurferPositionClj"] = position);
+(marker_45442["placesurferPositionClj"] = position);
 
-popup_39648.setHTML(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2(position,popup_opts));
+popup_45443.setHTML(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2(position,popup_opts));
 
-marker_39647.setLngLat([longitude_39638,latitude_39639]);
+marker_45442.setLngLat([longitude_45433,latitude_45434]);
 
-marker_39647.setPopup(popup_39648);
+marker_45442.setPopup(popup_45443);
 
-placesurfer.map_ui.core.attach_marker_interactions_BANG_(marker_39647,popup_39648,root_el_39646,position);
+placesurfer.map_ui.core.attach_marker_interactions_BANG_(marker_45442,popup_45443,root_el_45441,position);
 
-marker_39647.addTo(m);
+marker_45442.addTo(m);
 
-cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$3(placesurfer.map_ui.core._BANG_markers,cljs.core.conj,marker_39647);
+cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$3(placesurfer.map_ui.core._BANG_markers,cljs.core.conj,marker_45442);
 
 
-var G__39651 = cljs.core.next(seq__39359__$1);
-var G__39652 = null;
-var G__39653 = (0);
-var G__39654 = (0);
-seq__39359 = G__39651;
-chunk__39360 = G__39652;
-count__39361 = G__39653;
-i__39362 = G__39654;
+var G__45444 = cljs.core.next(seq__45269__$1);
+var G__45445 = null;
+var G__45446 = (0);
+var G__45447 = (0);
+seq__45269 = G__45444;
+chunk__45270 = G__45445;
+count__45271 = G__45446;
+i__45272 = G__45447;
 continue;
 }
 } else {
@@ -1272,33 +1274,33 @@ return null;
 break;
 }
 });
-placesurfer.map_ui.core.fit_mock_map_BANG_ = (function placesurfer$map_ui$core$fit_mock_map_BANG_(m,p__39372){
-var map__39373 = p__39372;
-var map__39373__$1 = cljs.core.__destructure_map(map__39373);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39373__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39373__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39373__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39373__$1,new cljs.core.Keyword(null,"north","north",651323902));
+placesurfer.map_ui.core.fit_mock_map_BANG_ = (function placesurfer$map_ui$core$fit_mock_map_BANG_(m,p__45281){
+var map__45282 = p__45281;
+var map__45282__$1 = cljs.core.__destructure_map(map__45282);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45282__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45282__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45282__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45282__$1,new cljs.core.Keyword(null,"north","north",651323902));
 (m.fitBoundsCalled = true);
 
-var c_39655 = m.getCenter();
-(c_39655.lng = ((west + east) / 2.0));
+var c_45448 = m.getCenter();
+(c_45448.lng = ((west + east) / 2.0));
 
-(c_39655.lat = ((south + north) / 2.0));
+(c_45448.lat = ((south + north) / 2.0));
 
 return m.setZoom(placesurfer.map_ui.core.fit_max_zoom);
 });
-placesurfer.map_ui.core.fit_lng_lat_box_BANG_ = (function placesurfer$map_ui$core$fit_lng_lat_box_BANG_(m,box,p__39374){
-var map__39375 = p__39374;
-var map__39375__$1 = cljs.core.__destructure_map(map__39375);
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39375__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
+placesurfer.map_ui.core.fit_lng_lat_box_BANG_ = (function placesurfer$map_ui$core$fit_lng_lat_box_BANG_(m,box,p__45283){
+var map__45284 = p__45283;
+var map__45284__$1 = cljs.core.__destructure_map(map__45284);
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45284__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
 if(placesurfer.map_ui.bounds.valid_lng_lat_box_QMARK_(box)){
-var map__39376 = placesurfer.map_ui.bounds.pad_degenerate_box(box);
-var map__39376__$1 = cljs.core.__destructure_map(map__39376);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39376__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39376__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39376__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39376__$1,new cljs.core.Keyword(null,"north","north",651323902));
+var map__45285 = placesurfer.map_ui.bounds.pad_degenerate_box(box);
+var map__45285__$1 = cljs.core.__destructure_map(map__45285);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45285__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45285__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45285__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45285__$1,new cljs.core.Keyword(null,"north","north",651323902));
 if(placesurfer.map_ui.core.mock_map_QMARK_(m)){
 return placesurfer.map_ui.core.fit_mock_map_BANG_(m,box);
 } else {
@@ -1311,10 +1313,10 @@ return m.fitBounds(lng_bounds,cljs.core.clj__GT_js(new cljs.core.PersistentArray
 return null;
 }
 });
-placesurfer.map_ui.core.fit_bounds_BANG_ = (function placesurfer$map_ui$core$fit_bounds_BANG_(m,positions,p__39377){
-var map__39378 = p__39377;
-var map__39378__$1 = cljs.core.__destructure_map(map__39378);
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39378__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
+placesurfer.map_ui.core.fit_bounds_BANG_ = (function placesurfer$map_ui$core$fit_bounds_BANG_(m,positions,p__45286){
+var map__45287 = p__45286;
+var map__45287__$1 = cljs.core.__destructure_map(map__45287);
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45287__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
 var temp__5825__auto__ = placesurfer.map_ui.bounds.fit_lng_lat_bounds(positions);
 if(cljs.core.truth_(temp__5825__auto__)){
 var box = temp__5825__auto__;
@@ -1323,16 +1325,16 @@ return placesurfer.map_ui.core.fit_lng_lat_box_BANG_(m,box,new cljs.core.Persist
 return null;
 }
 });
-placesurfer.map_ui.core.normalize_state = (function placesurfer$map_ui$core$normalize_state(p__39379){
-var map__39380 = p__39379;
-var map__39380__$1 = cljs.core.__destructure_map(map__39380);
-var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39380__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
-var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39380__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200));
-var fit_bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39380__$1,new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854));
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39380__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
-var draft_marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39380__$1,new cljs.core.Keyword(null,"draft-marker","draft-marker",1558685003));
-var open_popup_for = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39380__$1,new cljs.core.Keyword(null,"open-popup-for","open-popup-for",1279326185));
-var popup_opts = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39380__$1,new cljs.core.Keyword(null,"popup-opts","popup-opts",-1667184839));
+placesurfer.map_ui.core.normalize_state = (function placesurfer$map_ui$core$normalize_state(p__45288){
+var map__45289 = p__45288;
+var map__45289__$1 = cljs.core.__destructure_map(map__45289);
+var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45289__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
+var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45289__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200));
+var fit_bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45289__$1,new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854));
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45289__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
+var draft_marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45289__$1,new cljs.core.Keyword(null,"draft-marker","draft-marker",1558685003));
+var open_popup_for = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45289__$1,new cljs.core.Keyword(null,"open-popup-for","open-popup-for",1279326185));
+var popup_opts = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45289__$1,new cljs.core.Keyword(null,"popup-opts","popup-opts",-1667184839));
 return new cljs.core.PersistentArrayMap(null, 7, [new cljs.core.Keyword(null,"positions","positions",-1380538434),cljs.core.vec(positions),new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854),fit_bounds,new cljs.core.Keyword(null,"draft-marker","draft-marker",1558685003),draft_marker,new cljs.core.Keyword(null,"open-popup-for","open-popup-for",1279326185),open_popup_for,new cljs.core.Keyword(null,"popup-opts","popup-opts",-1667184839),(function (){var or__5025__auto__ = popup_opts;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -1341,16 +1343,16 @@ return cljs.core.PersistentArrayMap.EMPTY;
 }
 })(),new cljs.core.Keyword(null,"fit?","fit?",1773758200),cljs.core.boolean$(fit_QMARK_),new cljs.core.Keyword(null,"animate?","animate?",-1559039739),(((!((animate_QMARK_ == null))))?cljs.core.boolean$(animate_QMARK_):true)], null);
 });
-placesurfer.map_ui.core.apply_now_BANG_ = (function placesurfer$map_ui$core$apply_now_BANG_(m,p__39383){
-var map__39384 = p__39383;
-var map__39384__$1 = cljs.core.__destructure_map(map__39384);
-var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39384__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
-var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39384__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200));
-var fit_bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39384__$1,new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854));
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39384__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
-var draft_marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39384__$1,new cljs.core.Keyword(null,"draft-marker","draft-marker",1558685003));
-var open_popup_for = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39384__$1,new cljs.core.Keyword(null,"open-popup-for","open-popup-for",1279326185));
-var popup_opts = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39384__$1,new cljs.core.Keyword(null,"popup-opts","popup-opts",-1667184839));
+placesurfer.map_ui.core.apply_now_BANG_ = (function placesurfer$map_ui$core$apply_now_BANG_(m,p__45290){
+var map__45291 = p__45290;
+var map__45291__$1 = cljs.core.__destructure_map(map__45291);
+var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45291__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
+var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45291__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200));
+var fit_bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45291__$1,new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854));
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45291__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739));
+var draft_marker = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45291__$1,new cljs.core.Keyword(null,"draft-marker","draft-marker",1558685003));
+var open_popup_for = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45291__$1,new cljs.core.Keyword(null,"open-popup-for","open-popup-for",1279326185));
+var popup_opts = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45291__$1,new cljs.core.Keyword(null,"popup-opts","popup-opts",-1667184839));
 if((m === cljs.core.deref(placesurfer.map_ui.core._BANG_map))){
 placesurfer.map_ui.core.clear_markers_BANG_();
 
@@ -1407,14 +1409,14 @@ return null;
 }
 });
 placesurfer.map_ui.core.schedule_consume_when_ready_BANG_ = (function placesurfer$map_ui$core$schedule_consume_when_ready_BANG_(m){
-var seq__39391 = cljs.core.seq(new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [(0),(50),(150),(400),(800),(1500)], null));
-var chunk__39392 = null;
-var count__39393 = (0);
-var i__39394 = (0);
+var seq__45292 = cljs.core.seq(new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [(0),(50),(150),(400),(800),(1500)], null));
+var chunk__45293 = null;
+var count__45294 = (0);
+var i__45295 = (0);
 while(true){
-if((i__39394 < count__39393)){
-var delay_ms = chunk__39392.cljs$core$IIndexed$_nth$arity$2(null,i__39394);
-setTimeout(((function (seq__39391,chunk__39392,count__39393,i__39394,delay_ms){
+if((i__45295 < count__45294)){
+var delay_ms = chunk__45293.cljs$core$IIndexed$_nth$arity$2(null,i__45295);
+setTimeout(((function (seq__45292,chunk__45293,count__45294,i__45295,delay_ms){
 return (function (){
 if(cljs.core.truth_((function (){var and__5023__auto__ = (m === cljs.core.deref(placesurfer.map_ui.core._BANG_map));
 if(and__5023__auto__){
@@ -1432,37 +1434,37 @@ return placesurfer.map_ui.core.consume_pending_BANG_(m);
 } else {
 return null;
 }
-});})(seq__39391,chunk__39392,count__39393,i__39394,delay_ms))
+});})(seq__45292,chunk__45293,count__45294,i__45295,delay_ms))
 ,delay_ms);
 
 
-var G__39674 = seq__39391;
-var G__39675 = chunk__39392;
-var G__39676 = count__39393;
-var G__39677 = (i__39394 + (1));
-seq__39391 = G__39674;
-chunk__39392 = G__39675;
-count__39393 = G__39676;
-i__39394 = G__39677;
+var G__45449 = seq__45292;
+var G__45450 = chunk__45293;
+var G__45451 = count__45294;
+var G__45452 = (i__45295 + (1));
+seq__45292 = G__45449;
+chunk__45293 = G__45450;
+count__45294 = G__45451;
+i__45295 = G__45452;
 continue;
 } else {
-var temp__5825__auto__ = cljs.core.seq(seq__39391);
+var temp__5825__auto__ = cljs.core.seq(seq__45292);
 if(temp__5825__auto__){
-var seq__39391__$1 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(seq__39391__$1)){
-var c__5548__auto__ = cljs.core.chunk_first(seq__39391__$1);
-var G__39680 = cljs.core.chunk_rest(seq__39391__$1);
-var G__39681 = c__5548__auto__;
-var G__39682 = cljs.core.count(c__5548__auto__);
-var G__39683 = (0);
-seq__39391 = G__39680;
-chunk__39392 = G__39681;
-count__39393 = G__39682;
-i__39394 = G__39683;
+var seq__45292__$1 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(seq__45292__$1)){
+var c__5548__auto__ = cljs.core.chunk_first(seq__45292__$1);
+var G__45453 = cljs.core.chunk_rest(seq__45292__$1);
+var G__45454 = c__5548__auto__;
+var G__45455 = cljs.core.count(c__5548__auto__);
+var G__45456 = (0);
+seq__45292 = G__45453;
+chunk__45293 = G__45454;
+count__45294 = G__45455;
+i__45295 = G__45456;
 continue;
 } else {
-var delay_ms = cljs.core.first(seq__39391__$1);
-setTimeout(((function (seq__39391,chunk__39392,count__39393,i__39394,delay_ms,seq__39391__$1,temp__5825__auto__){
+var delay_ms = cljs.core.first(seq__45292__$1);
+setTimeout(((function (seq__45292,chunk__45293,count__45294,i__45295,delay_ms,seq__45292__$1,temp__5825__auto__){
 return (function (){
 if(cljs.core.truth_((function (){var and__5023__auto__ = (m === cljs.core.deref(placesurfer.map_ui.core._BANG_map));
 if(and__5023__auto__){
@@ -1480,18 +1482,18 @@ return placesurfer.map_ui.core.consume_pending_BANG_(m);
 } else {
 return null;
 }
-});})(seq__39391,chunk__39392,count__39393,i__39394,delay_ms,seq__39391__$1,temp__5825__auto__))
+});})(seq__45292,chunk__45293,count__45294,i__45295,delay_ms,seq__45292__$1,temp__5825__auto__))
 ,delay_ms);
 
 
-var G__39684 = cljs.core.next(seq__39391__$1);
-var G__39685 = null;
-var G__39686 = (0);
-var G__39687 = (0);
-seq__39391 = G__39684;
-chunk__39392 = G__39685;
-count__39393 = G__39686;
-i__39394 = G__39687;
+var G__45457 = cljs.core.next(seq__45292__$1);
+var G__45458 = null;
+var G__45459 = (0);
+var G__45460 = (0);
+seq__45292 = G__45457;
+chunk__45293 = G__45458;
+count__45294 = G__45459;
+i__45295 = G__45460;
 continue;
 }
 } else {
@@ -1511,11 +1513,11 @@ return cljs.core.reset_BANG_(placesurfer.map_ui.core._BANG_marker_pick_handler,h
 /**
  * Toggle country-pick mode: arrow cursor and map clicks invoke `on-click` when active.
  */
-placesurfer.map_ui.core.sync_country_pick_state_BANG_ = (function placesurfer$map_ui$core$sync_country_pick_state_BANG_(p__39398){
-var map__39399 = p__39398;
-var map__39399__$1 = cljs.core.__destructure_map(map__39399);
-var active_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39399__$1,new cljs.core.Keyword(null,"active?","active?",459499776));
-var on_click = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39399__$1,new cljs.core.Keyword(null,"on-click","on-click",1632826543));
+placesurfer.map_ui.core.sync_country_pick_state_BANG_ = (function placesurfer$map_ui$core$sync_country_pick_state_BANG_(p__45296){
+var map__45297 = p__45296;
+var map__45297__$1 = cljs.core.__destructure_map(map__45297);
+var active_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45297__$1,new cljs.core.Keyword(null,"active?","active?",459499776));
+var on_click = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45297__$1,new cljs.core.Keyword(null,"on-click","on-click",1632826543));
 cljs.core.reset_BANG_(placesurfer.map_ui.core._BANG_country_pick_active_QMARK_,cljs.core.boolean$(active_QMARK_));
 
 cljs.core.reset_BANG_(placesurfer.map_ui.core._BANG_country_pick_click_handler,(cljs.core.truth_(active_QMARK_)?on_click:null));
@@ -1538,7 +1540,7 @@ var m = temp__5825__auto__;
 if(cljs.core.truth_(placesurfer.map_ui.core.map_ready_QMARK_(m))){
 var c = m.getCenter();
 var zoom = (function (){try{return m.getZoom();
-}catch (e39401){var _ = e39401;
+}catch (e45298){var _ = e45298;
 return null;
 }})();
 if(cljs.core.truth_((function (){var and__5023__auto__ = c;
@@ -1574,20 +1576,20 @@ return null;
 /**
  * Restore a previously captured {:longitude :latitude :zoom} view.
  */
-placesurfer.map_ui.core.fly_to_view_BANG_ = (function placesurfer$map_ui$core$fly_to_view_BANG_(p__39405){
-var map__39406 = p__39405;
-var map__39406__$1 = cljs.core.__destructure_map(map__39406);
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39406__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39406__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var zoom = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39406__$1,new cljs.core.Keyword(null,"zoom","zoom",-1827487038));
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__39406__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
+placesurfer.map_ui.core.fly_to_view_BANG_ = (function placesurfer$map_ui$core$fly_to_view_BANG_(p__45299){
+var map__45300 = p__45299;
+var map__45300__$1 = cljs.core.__destructure_map(map__45300);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45300__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45300__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var zoom = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45300__$1,new cljs.core.Keyword(null,"zoom","zoom",-1827487038));
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__45300__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
 if(((typeof longitude === 'number') && (((typeof latitude === 'number') && (typeof zoom === 'number'))))){
 var temp__5825__auto__ = cljs.core.deref(placesurfer.map_ui.core._BANG_map);
 if(cljs.core.truth_(temp__5825__auto__)){
 var m = temp__5825__auto__;
 var fly_BANG_ = (function (){
 try{return m.flyTo(cljs.core.clj__GT_js(new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"center","center",-748944368),[longitude,latitude],new cljs.core.Keyword(null,"zoom","zoom",-1827487038),zoom,new cljs.core.Keyword(null,"duration","duration",1444101068),(cljs.core.truth_(animate_QMARK_)?placesurfer.map_ui.core.center_fly_duration_ms:(0))], null)));
-}catch (e39409){var _ = e39409;
+}catch (e45301){var _ = e45301;
 return null;
 }});
 if(cljs.core.truth_(placesurfer.map_ui.core.map_ready_QMARK_(m))){
@@ -1608,27 +1610,27 @@ return null;
  * Fly the map to `longitude` / `latitude`. No-op when the map is not mounted.
  * With `:preserve-zoom? true`, only pans — current zoom is unchanged.
  */
-placesurfer.map_ui.core.center_on_position_BANG_ = (function placesurfer$map_ui$core$center_on_position_BANG_(p__39412){
-var map__39413 = p__39412;
-var map__39413__$1 = cljs.core.__destructure_map(map__39413);
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39413__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39413__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var zoom = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__39413__$1,new cljs.core.Keyword(null,"zoom","zoom",-1827487038),placesurfer.map_ui.core.center_default_zoom);
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__39413__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
-var preserve_zoom_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39413__$1,new cljs.core.Keyword(null,"preserve-zoom?","preserve-zoom?",-1650190790));
+placesurfer.map_ui.core.center_on_position_BANG_ = (function placesurfer$map_ui$core$center_on_position_BANG_(p__45302){
+var map__45303 = p__45302;
+var map__45303__$1 = cljs.core.__destructure_map(map__45303);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45303__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45303__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var zoom = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__45303__$1,new cljs.core.Keyword(null,"zoom","zoom",-1827487038),placesurfer.map_ui.core.center_default_zoom);
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__45303__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
+var preserve_zoom_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__45303__$1,new cljs.core.Keyword(null,"preserve-zoom?","preserve-zoom?",-1650190790));
 if(((typeof longitude === 'number') && (typeof latitude === 'number'))){
 var temp__5825__auto__ = cljs.core.deref(placesurfer.map_ui.core._BANG_map);
 if(cljs.core.truth_(temp__5825__auto__)){
 var m = temp__5825__auto__;
 var fly_BANG_ = (function (){
-try{return m.flyTo(cljs.core.clj__GT_js((function (){var G__39415 = new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"center","center",-748944368),[longitude,latitude],new cljs.core.Keyword(null,"duration","duration",1444101068),(cljs.core.truth_(animate_QMARK_)?placesurfer.map_ui.core.center_fly_duration_ms:(0))], null);
+try{return m.flyTo(cljs.core.clj__GT_js((function (){var G__45305 = new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"center","center",-748944368),[longitude,latitude],new cljs.core.Keyword(null,"duration","duration",1444101068),(cljs.core.truth_(animate_QMARK_)?placesurfer.map_ui.core.center_fly_duration_ms:(0))], null);
 if(cljs.core.not(preserve_zoom_QMARK_)){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39415,new cljs.core.Keyword(null,"zoom","zoom",-1827487038),zoom);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__45305,new cljs.core.Keyword(null,"zoom","zoom",-1827487038),zoom);
 } else {
-return G__39415;
+return G__45305;
 }
 })()));
-}catch (e39414){var _ = e39414;
+}catch (e45304){var _ = e45304;
 return null;
 }});
 if(cljs.core.truth_(placesurfer.map_ui.core.map_ready_QMARK_(m))){
@@ -1731,11 +1733,11 @@ return null;
 placesurfer.map_ui.core.destroy_map_BANG_ = (function placesurfer$map_ui$core$destroy_map_BANG_(){
 placesurfer.map_ui.core.disconnect_resize_observer_BANG_();
 
-var temp__5825__auto___39695 = cljs.core.deref(placesurfer.map_ui.core._BANG_map);
-if(cljs.core.truth_(temp__5825__auto___39695)){
-var m_39696 = temp__5825__auto___39695;
-try{m_39696.remove();
-}catch (e39422){var __39697 = e39422;
+var temp__5825__auto___45461 = cljs.core.deref(placesurfer.map_ui.core._BANG_map);
+if(cljs.core.truth_(temp__5825__auto___45461)){
+var m_45462 = temp__5825__auto___45461;
+try{m_45462.remove();
+}catch (e45306){var __45463 = e45306;
 }} else {
 }
 
