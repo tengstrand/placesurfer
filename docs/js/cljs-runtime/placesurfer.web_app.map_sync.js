@@ -3,8 +3,8 @@ placesurfer.web_app.map_sync.popup_opts = (function placesurfer$web_app$map_sync
 return new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"source-label","source-label",585601639),placesurfer.i18n.interface$.t.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"locale","locale",-2115712697).cljs$core$IFn$_invoke$arity$2(s,new cljs.core.Keyword(null,"en","en",88457073)),new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)], 0))], null);
 });
 placesurfer.web_app.map_sync.sync_map_BANG_ = (function placesurfer$web_app$map_sync$sync_map_BANG_(var_args){
-var G__40643 = arguments.length;
-switch (G__40643) {
+var G__47171 = arguments.length;
+switch (G__47171) {
 case 0:
 return placesurfer.web_app.map_sync.sync_map_BANG_.cljs$core$IFn$_invoke$arity$0();
 
@@ -23,12 +23,12 @@ throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(
 return placesurfer.web_app.map_sync.sync_map_BANG_.cljs$core$IFn$_invoke$arity$1(cljs.core.PersistentArrayMap.EMPTY);
 }));
 
-(placesurfer.web_app.map_sync.sync_map_BANG_.cljs$core$IFn$_invoke$arity$1 = (function (p__40653){
-var map__40655 = p__40653;
-var map__40655__$1 = cljs.core.__destructure_map(map__40655);
-var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40655__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200),false);
-var fit_bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40655__$1,new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854));
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40655__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
+(placesurfer.web_app.map_sync.sync_map_BANG_.cljs$core$IFn$_invoke$arity$1 = (function (p__47175){
+var map__47176 = p__47175;
+var map__47176__$1 = cljs.core.__destructure_map(map__47176);
+var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__47176__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200),false);
+var fit_bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__47176__$1,new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854));
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__47176__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state)))){
 placesurfer.edit.interface$.handlers.map.refresh_update_pending_places_BANG_();
 
