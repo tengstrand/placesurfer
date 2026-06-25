@@ -1,14 +1,14 @@
 goog.provide('placesurfer.clipboard_ui.interface$.handlers.paste');
 placesurfer.clipboard_ui.interface$.handlers.paste.apply_place_clipboard_text_BANG_ = (function placesurfer$clipboard_ui$interface$handlers$paste$apply_place_clipboard_text_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___40538 = arguments.length;
-var i__5750__auto___40539 = (0);
+var len__5749__auto___40620 = arguments.length;
+var i__5750__auto___40621 = (0);
 while(true){
-if((i__5750__auto___40539 < len__5749__auto___40538)){
-args__5755__auto__.push((arguments[i__5750__auto___40539]));
+if((i__5750__auto___40621 < len__5749__auto___40620)){
+args__5755__auto__.push((arguments[i__5750__auto___40621]));
 
-var G__40540 = (i__5750__auto___40539 + (1));
-i__5750__auto___40539 = G__40540;
+var G__40623 = (i__5750__auto___40621 + (1));
+i__5750__auto___40621 = G__40623;
 continue;
 } else {
 }
@@ -26,21 +26,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.ha
 (placesurfer.clipboard_ui.interface$.handlers.paste.apply_place_clipboard_text_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.interface$.handlers.paste.apply_place_clipboard_text_BANG_.cljs$lang$applyTo = (function (seq40524){
+(placesurfer.clipboard_ui.interface$.handlers.paste.apply_place_clipboard_text_BANG_.cljs$lang$applyTo = (function (seq40617){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40524));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40617));
 }));
 
 placesurfer.clipboard_ui.interface$.handlers.paste.apply_hemnet_clipboard_text_BANG_ = (function placesurfer$clipboard_ui$interface$handlers$paste$apply_hemnet_clipboard_text_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___40542 = arguments.length;
-var i__5750__auto___40543 = (0);
+var len__5749__auto___40624 = arguments.length;
+var i__5750__auto___40625 = (0);
 while(true){
-if((i__5750__auto___40543 < len__5749__auto___40542)){
-args__5755__auto__.push((arguments[i__5750__auto___40543]));
+if((i__5750__auto___40625 < len__5749__auto___40624)){
+args__5755__auto__.push((arguments[i__5750__auto___40625]));
 
-var G__40544 = (i__5750__auto___40543 + (1));
-i__5750__auto___40543 = G__40544;
+var G__40626 = (i__5750__auto___40625 + (1));
+i__5750__auto___40625 = G__40626;
 continue;
 } else {
 }
@@ -58,21 +58,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.ha
 (placesurfer.clipboard_ui.interface$.handlers.paste.apply_hemnet_clipboard_text_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.interface$.handlers.paste.apply_hemnet_clipboard_text_BANG_.cljs$lang$applyTo = (function (seq40528){
+(placesurfer.clipboard_ui.interface$.handlers.paste.apply_hemnet_clipboard_text_BANG_.cljs$lang$applyTo = (function (seq40618){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40528));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40618));
 }));
 
 placesurfer.clipboard_ui.interface$.handlers.paste.paste_place_from_clipboard_BANG_ = (function placesurfer$clipboard_ui$interface$handlers$paste$paste_place_from_clipboard_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___40545 = arguments.length;
-var i__5750__auto___40546 = (0);
+var len__5749__auto___40627 = arguments.length;
+var i__5750__auto___40628 = (0);
 while(true){
-if((i__5750__auto___40546 < len__5749__auto___40545)){
-args__5755__auto__.push((arguments[i__5750__auto___40546]));
+if((i__5750__auto___40628 < len__5749__auto___40627)){
+args__5755__auto__.push((arguments[i__5750__auto___40628]));
 
-var G__40547 = (i__5750__auto___40546 + (1));
-i__5750__auto___40546 = G__40547;
+var G__40629 = (i__5750__auto___40628 + (1));
+i__5750__auto___40628 = G__40629;
 continue;
 } else {
 }
@@ -90,9 +90,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.ha
 (placesurfer.clipboard_ui.interface$.handlers.paste.paste_place_from_clipboard_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.interface$.handlers.paste.paste_place_from_clipboard_BANG_.cljs$lang$applyTo = (function (seq40529){
+(placesurfer.clipboard_ui.interface$.handlers.paste.paste_place_from_clipboard_BANG_.cljs$lang$applyTo = (function (seq40619){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40529));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40619));
 }));
 
 

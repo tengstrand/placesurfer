@@ -1,14 +1,14 @@
 goog.provide('placesurfer.pin_ui.interface$.handlers.map');
 placesurfer.pin_ui.interface$.handlers.map.sync_pin_map_BANG_ = (function placesurfer$pin_ui$interface$handlers$map$sync_pin_map_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39821 = arguments.length;
-var i__5750__auto___39822 = (0);
+var len__5749__auto___39939 = arguments.length;
+var i__5750__auto___39940 = (0);
 while(true){
-if((i__5750__auto___39822 < len__5749__auto___39821)){
-args__5755__auto__.push((arguments[i__5750__auto___39822]));
+if((i__5750__auto___39940 < len__5749__auto___39939)){
+args__5755__auto__.push((arguments[i__5750__auto___39940]));
 
-var G__39824 = (i__5750__auto___39822 + (1));
-i__5750__auto___39822 = G__39824;
+var G__39941 = (i__5750__auto___39940 + (1));
+i__5750__auto___39940 = G__39941;
 continue;
 } else {
 }
@@ -26,21 +26,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.sync_pin_map_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.sync_pin_map_BANG_.cljs$lang$applyTo = (function (seq39795){
+(placesurfer.pin_ui.interface$.handlers.map.sync_pin_map_BANG_.cljs$lang$applyTo = (function (seq39874){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39795));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39874));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.schedule_pin_map_sync_BANG_ = (function placesurfer$pin_ui$interface$handlers$map$schedule_pin_map_sync_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39828 = arguments.length;
-var i__5750__auto___39829 = (0);
+var len__5749__auto___39942 = arguments.length;
+var i__5750__auto___39943 = (0);
 while(true){
-if((i__5750__auto___39829 < len__5749__auto___39828)){
-args__5755__auto__.push((arguments[i__5750__auto___39829]));
+if((i__5750__auto___39943 < len__5749__auto___39942)){
+args__5755__auto__.push((arguments[i__5750__auto___39943]));
 
-var G__39833 = (i__5750__auto___39829 + (1));
-i__5750__auto___39829 = G__39833;
+var G__39944 = (i__5750__auto___39943 + (1));
+i__5750__auto___39943 = G__39944;
 continue;
 } else {
 }
@@ -58,21 +58,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.schedule_pin_map_sync_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.schedule_pin_map_sync_BANG_.cljs$lang$applyTo = (function (seq39796){
+(placesurfer.pin_ui.interface$.handlers.map.schedule_pin_map_sync_BANG_.cljs$lang$applyTo = (function (seq39882){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39796));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39882));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.schedule_center_on_pin_BANG_ = (function placesurfer$pin_ui$interface$handlers$map$schedule_center_on_pin_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39835 = arguments.length;
-var i__5750__auto___39836 = (0);
+var len__5749__auto___39945 = arguments.length;
+var i__5750__auto___39946 = (0);
 while(true){
-if((i__5750__auto___39836 < len__5749__auto___39835)){
-args__5755__auto__.push((arguments[i__5750__auto___39836]));
+if((i__5750__auto___39946 < len__5749__auto___39945)){
+args__5755__auto__.push((arguments[i__5750__auto___39946]));
 
-var G__39837 = (i__5750__auto___39836 + (1));
-i__5750__auto___39836 = G__39837;
+var G__39948 = (i__5750__auto___39946 + (1));
+i__5750__auto___39946 = G__39948;
 continue;
 } else {
 }
@@ -90,21 +90,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.schedule_center_on_pin_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.schedule_center_on_pin_BANG_.cljs$lang$applyTo = (function (seq39797){
+(placesurfer.pin_ui.interface$.handlers.map.schedule_center_on_pin_BANG_.cljs$lang$applyTo = (function (seq39895){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39797));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39895));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.focus_pin_on_map_BANG_ = (function placesurfer$pin_ui$interface$handlers$map$focus_pin_on_map_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39842 = arguments.length;
-var i__5750__auto___39843 = (0);
+var len__5749__auto___39951 = arguments.length;
+var i__5750__auto___39952 = (0);
 while(true){
-if((i__5750__auto___39843 < len__5749__auto___39842)){
-args__5755__auto__.push((arguments[i__5750__auto___39843]));
+if((i__5750__auto___39952 < len__5749__auto___39951)){
+args__5755__auto__.push((arguments[i__5750__auto___39952]));
 
-var G__39844 = (i__5750__auto___39843 + (1));
-i__5750__auto___39843 = G__39844;
+var G__39953 = (i__5750__auto___39952 + (1));
+i__5750__auto___39952 = G__39953;
 continue;
 } else {
 }
@@ -122,21 +122,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.focus_pin_on_map_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.focus_pin_on_map_BANG_.cljs$lang$applyTo = (function (seq39798){
+(placesurfer.pin_ui.interface$.handlers.map.focus_pin_on_map_BANG_.cljs$lang$applyTo = (function (seq39903){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39798));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39903));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.sync_marker_pick_handler_BANG_ = (function placesurfer$pin_ui$interface$handlers$map$sync_marker_pick_handler_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39845 = arguments.length;
-var i__5750__auto___39846 = (0);
+var len__5749__auto___39954 = arguments.length;
+var i__5750__auto___39955 = (0);
 while(true){
-if((i__5750__auto___39846 < len__5749__auto___39845)){
-args__5755__auto__.push((arguments[i__5750__auto___39846]));
+if((i__5750__auto___39955 < len__5749__auto___39954)){
+args__5755__auto__.push((arguments[i__5750__auto___39955]));
 
-var G__39847 = (i__5750__auto___39846 + (1));
-i__5750__auto___39846 = G__39847;
+var G__39956 = (i__5750__auto___39955 + (1));
+i__5750__auto___39955 = G__39956;
 continue;
 } else {
 }
@@ -154,21 +154,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.sync_marker_pick_handler_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.sync_marker_pick_handler_BANG_.cljs$lang$applyTo = (function (seq39799){
+(placesurfer.pin_ui.interface$.handlers.map.sync_marker_pick_handler_BANG_.cljs$lang$applyTo = (function (seq39904){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39799));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39904));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.pin_map_positions = (function placesurfer$pin_ui$interface$handlers$map$pin_map_positions(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39849 = arguments.length;
-var i__5750__auto___39850 = (0);
+var len__5749__auto___39958 = arguments.length;
+var i__5750__auto___39959 = (0);
 while(true){
-if((i__5750__auto___39850 < len__5749__auto___39849)){
-args__5755__auto__.push((arguments[i__5750__auto___39850]));
+if((i__5750__auto___39959 < len__5749__auto___39958)){
+args__5755__auto__.push((arguments[i__5750__auto___39959]));
 
-var G__39851 = (i__5750__auto___39850 + (1));
-i__5750__auto___39850 = G__39851;
+var G__39960 = (i__5750__auto___39959 + (1));
+i__5750__auto___39959 = G__39960;
 continue;
 } else {
 }
@@ -186,21 +186,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.pin_map_positions.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.pin_map_positions.cljs$lang$applyTo = (function (seq39800){
+(placesurfer.pin_ui.interface$.handlers.map.pin_map_positions.cljs$lang$applyTo = (function (seq39906){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39800));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39906));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.pins_only_map_positions = (function placesurfer$pin_ui$interface$handlers$map$pins_only_map_positions(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39852 = arguments.length;
-var i__5750__auto___39853 = (0);
+var len__5749__auto___39961 = arguments.length;
+var i__5750__auto___39962 = (0);
 while(true){
-if((i__5750__auto___39853 < len__5749__auto___39852)){
-args__5755__auto__.push((arguments[i__5750__auto___39853]));
+if((i__5750__auto___39962 < len__5749__auto___39961)){
+args__5755__auto__.push((arguments[i__5750__auto___39962]));
 
-var G__39854 = (i__5750__auto___39853 + (1));
-i__5750__auto___39853 = G__39854;
+var G__39963 = (i__5750__auto___39962 + (1));
+i__5750__auto___39962 = G__39963;
 continue;
 } else {
 }
@@ -218,21 +218,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.pins_only_map_positions.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.pins_only_map_positions.cljs$lang$applyTo = (function (seq39802){
+(placesurfer.pin_ui.interface$.handlers.map.pins_only_map_positions.cljs$lang$applyTo = (function (seq39910){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39802));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39910));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.main_map_positions = (function placesurfer$pin_ui$interface$handlers$map$main_map_positions(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39859 = arguments.length;
-var i__5750__auto___39860 = (0);
+var len__5749__auto___39965 = arguments.length;
+var i__5750__auto___39966 = (0);
 while(true){
-if((i__5750__auto___39860 < len__5749__auto___39859)){
-args__5755__auto__.push((arguments[i__5750__auto___39860]));
+if((i__5750__auto___39966 < len__5749__auto___39965)){
+args__5755__auto__.push((arguments[i__5750__auto___39966]));
 
-var G__39861 = (i__5750__auto___39860 + (1));
-i__5750__auto___39860 = G__39861;
+var G__39968 = (i__5750__auto___39966 + (1));
+i__5750__auto___39966 = G__39968;
 continue;
 } else {
 }
@@ -250,21 +250,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.main_map_positions.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.main_map_positions.cljs$lang$applyTo = (function (seq39804){
+(placesurfer.pin_ui.interface$.handlers.map.main_map_positions.cljs$lang$applyTo = (function (seq39913){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39804));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39913));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.selected_pin_on_main_map_QMARK_ = (function placesurfer$pin_ui$interface$handlers$map$selected_pin_on_main_map_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39863 = arguments.length;
-var i__5750__auto___39864 = (0);
+var len__5749__auto___39969 = arguments.length;
+var i__5750__auto___39970 = (0);
 while(true){
-if((i__5750__auto___39864 < len__5749__auto___39863)){
-args__5755__auto__.push((arguments[i__5750__auto___39864]));
+if((i__5750__auto___39970 < len__5749__auto___39969)){
+args__5755__auto__.push((arguments[i__5750__auto___39970]));
 
-var G__39865 = (i__5750__auto___39864 + (1));
-i__5750__auto___39864 = G__39865;
+var G__39971 = (i__5750__auto___39970 + (1));
+i__5750__auto___39970 = G__39971;
 continue;
 } else {
 }
@@ -282,21 +282,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.selected_pin_on_main_map_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.selected_pin_on_main_map_QMARK_.cljs$lang$applyTo = (function (seq39806){
+(placesurfer.pin_ui.interface$.handlers.map.selected_pin_on_main_map_QMARK_.cljs$lang$applyTo = (function (seq39920){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39806));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39920));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.schedule_selected_pin_popup_BANG_ = (function placesurfer$pin_ui$interface$handlers$map$schedule_selected_pin_popup_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39867 = arguments.length;
-var i__5750__auto___39868 = (0);
+var len__5749__auto___39973 = arguments.length;
+var i__5750__auto___39974 = (0);
 while(true){
-if((i__5750__auto___39868 < len__5749__auto___39867)){
-args__5755__auto__.push((arguments[i__5750__auto___39868]));
+if((i__5750__auto___39974 < len__5749__auto___39973)){
+args__5755__auto__.push((arguments[i__5750__auto___39974]));
 
-var G__39869 = (i__5750__auto___39868 + (1));
-i__5750__auto___39868 = G__39869;
+var G__39975 = (i__5750__auto___39974 + (1));
+i__5750__auto___39974 = G__39975;
 continue;
 } else {
 }
@@ -314,21 +314,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.schedule_selected_pin_popup_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.schedule_selected_pin_popup_BANG_.cljs$lang$applyTo = (function (seq39807){
+(placesurfer.pin_ui.interface$.handlers.map.schedule_selected_pin_popup_BANG_.cljs$lang$applyTo = (function (seq39923){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39807));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39923));
 }));
 
 placesurfer.pin_ui.interface$.handlers.map.schedule_focus_selected_pin_on_main_map_BANG_ = (function placesurfer$pin_ui$interface$handlers$map$schedule_focus_selected_pin_on_main_map_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39879 = arguments.length;
-var i__5750__auto___39880 = (0);
+var len__5749__auto___39976 = arguments.length;
+var i__5750__auto___39977 = (0);
 while(true){
-if((i__5750__auto___39880 < len__5749__auto___39879)){
-args__5755__auto__.push((arguments[i__5750__auto___39880]));
+if((i__5750__auto___39977 < len__5749__auto___39976)){
+args__5755__auto__.push((arguments[i__5750__auto___39977]));
 
-var G__39881 = (i__5750__auto___39880 + (1));
-i__5750__auto___39880 = G__39881;
+var G__39978 = (i__5750__auto___39977 + (1));
+i__5750__auto___39977 = G__39978;
 continue;
 } else {
 }
@@ -346,9 +346,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.map.schedule_focus_selected_pin_on_main_map_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.map.schedule_focus_selected_pin_on_main_map_BANG_.cljs$lang$applyTo = (function (seq39808){
+(placesurfer.pin_ui.interface$.handlers.map.schedule_focus_selected_pin_on_main_map_BANG_.cljs$lang$applyTo = (function (seq39932){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39808));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39932));
 }));
 
 

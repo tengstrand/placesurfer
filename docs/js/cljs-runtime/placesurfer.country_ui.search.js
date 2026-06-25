@@ -20,20 +20,20 @@ return null;
 placesurfer.country_ui.search.handle_keydown_BANG_ = (function placesurfer$country_ui$search$handle_keydown_BANG_(e,country_highlight_index,visible,n,select_country_BANG_,set_country_highlight_index_BANG_,navigate_BANG_){
 var key = e.key;
 var trimmed = e.target.value.trim();
-var G__40977 = key;
-switch (G__40977) {
+var G__41055 = key;
+switch (G__41055) {
 case "ArrowDown":
 e.preventDefault();
 
-var G__40978 = placesurfer.country.interface$.step_highlight_index(country_highlight_index,n,(1));
-return (set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1(G__40978) : set_country_highlight_index_BANG_.call(null,G__40978));
+var G__41056 = placesurfer.country.interface$.step_highlight_index(country_highlight_index,n,(1));
+return (set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1(G__41056) : set_country_highlight_index_BANG_.call(null,G__41056));
 
 break;
 case "ArrowUp":
 e.preventDefault();
 
-var G__40980 = placesurfer.country.interface$.step_highlight_index(country_highlight_index,n,(-1));
-return (set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1(G__40980) : set_country_highlight_index_BANG_.call(null,G__40980));
+var G__41057 = placesurfer.country.interface$.step_highlight_index(country_highlight_index,n,(-1));
+return (set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_country_highlight_index_BANG_.cljs$core$IFn$_invoke$arity$1(G__41057) : set_country_highlight_index_BANG_.call(null,G__41057));
 
 break;
 case "Enter":
@@ -71,17 +71,17 @@ placesurfer.country_ui.search.search_input = (function placesurfer$country_ui$se
 var visible_for_query = (function (query){
 return placesurfer.country_ui.filter.visible_countries(countries,query,country_slug);
 });
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input.country-search","input.country-search",1269050040),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"type","type",1174270348),"search",new cljs.core.Keyword(null,"placeholder","placeholder",-104873083),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("country","search-placeholder","country/search-placeholder",-1195805085)) : t.call(null,new cljs.core.Keyword("country","search-placeholder","country/search-placeholder",-1195805085))),new cljs.core.Keyword(null,"aria-label","aria-label",455891514),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("country","search-aria","country/search-aria",1854596116)) : t.call(null,new cljs.core.Keyword("country","search-aria","country/search-aria",1854596116))),new cljs.core.Keyword("replicant","on-render","replicant/on-render",1674377901),(function (p__40981){
-var map__40982 = p__40981;
-var map__40982__$1 = cljs.core.__destructure_map(map__40982);
-var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40982__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input.country-search","input.country-search",1269050040),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"type","type",1174270348),"search",new cljs.core.Keyword(null,"placeholder","placeholder",-104873083),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("country","search-placeholder","country/search-placeholder",-1195805085)) : t.call(null,new cljs.core.Keyword("country","search-placeholder","country/search-placeholder",-1195805085))),new cljs.core.Keyword(null,"aria-label","aria-label",455891514),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("country","search-aria","country/search-aria",1854596116)) : t.call(null,new cljs.core.Keyword("country","search-aria","country/search-aria",1854596116))),new cljs.core.Keyword("replicant","on-render","replicant/on-render",1674377901),(function (p__41059){
+var map__41060 = p__41059;
+var map__41060__$1 = cljs.core.__destructure_map(map__41060);
+var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41060__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
 return placesurfer.country_ui.search.sync_input_BANG_(node,value);
 }),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
 var query = e.target.value;
 var visible = visible_for_query(query);
-var G__40985 = query;
-var G__40986 = cljs.core.count(visible);
-return (set_country_filter_BANG_.cljs$core$IFn$_invoke$arity$2 ? set_country_filter_BANG_.cljs$core$IFn$_invoke$arity$2(G__40985,G__40986) : set_country_filter_BANG_.call(null,G__40985,G__40986));
+var G__41061 = query;
+var G__41062 = cljs.core.count(visible);
+return (set_country_filter_BANG_.cljs$core$IFn$_invoke$arity$2 ? set_country_filter_BANG_.cljs$core$IFn$_invoke$arity$2(G__41061,G__41062) : set_country_filter_BANG_.call(null,G__41061,G__41062));
 }),new cljs.core.Keyword(null,"keydown","keydown",-629268186),(function (e){
 var trimmed = e.target.value.trim();
 var visible = visible_for_query(trimmed);

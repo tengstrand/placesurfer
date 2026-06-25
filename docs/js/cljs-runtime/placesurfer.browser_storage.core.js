@@ -19,7 +19,7 @@ return decodeURIComponent(cljs.core.subs.cljs$core$IFn$_invoke$arity$2(trimmed,(
 return null;
 }
 }),pairs);
-}catch (e40563){var _ = e40563;
+}catch (e40703){var _ = e40703;
 return null;
 }});
 placesurfer.browser_storage.core.write_cookie_BANG_ = (function placesurfer$browser_storage$core$write_cookie_BANG_(k,v){
@@ -57,12 +57,12 @@ return placesurfer.browser_storage.core.write_cookie_BANG_(placesurfer.browser_s
 }
 });
 placesurfer.browser_storage.core.read_country_slug = (function placesurfer$browser_storage$core$read_country_slug(){
-var G__40564 = placesurfer.browser_storage.core.read_cookie(placesurfer.browser_storage.core.country_cookie_key);
-var G__40564__$1 = (((G__40564 == null))?null:clojure.string.trim(G__40564));
-if((G__40564__$1 == null)){
+var G__40704 = placesurfer.browser_storage.core.read_cookie(placesurfer.browser_storage.core.country_cookie_key);
+var G__40704__$1 = (((G__40704 == null))?null:clojure.string.trim(G__40704));
+if((G__40704__$1 == null)){
 return null;
 } else {
-return cljs.core.not_empty(G__40564__$1);
+return cljs.core.not_empty(G__40704__$1);
 }
 });
 placesurfer.browser_storage.core.save_country_slug_BANG_ = (function placesurfer$browser_storage$core$save_country_slug_BANG_(slug){
@@ -81,13 +81,13 @@ return "";
 }
 })()));
 var raw = params.get("topic");
-var topic = (function (){var G__40566 = raw;
-var G__40566__$1 = (((G__40566 == null))?null:clojure.string.trim(G__40566));
-var G__40566__$2 = (((G__40566__$1 == null))?null:clojure.string.lower_case(G__40566__$1));
-if((G__40566__$2 == null)){
+var topic = (function (){var G__40706 = raw;
+var G__40706__$1 = (((G__40706 == null))?null:clojure.string.trim(G__40706));
+var G__40706__$2 = (((G__40706__$1 == null))?null:clojure.string.lower_case(G__40706__$1));
+if((G__40706__$2 == null)){
 return null;
 } else {
-return cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(G__40566__$2);
+return cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(G__40706__$2);
 }
 })();
 var allowed = cljs.core.set(placesurfer.topic.interface$.topic_keys());
@@ -96,7 +96,7 @@ return topic;
 } else {
 return null;
 }
-}catch (e40565){var _ = e40565;
+}catch (e40705){var _ = e40705;
 return null;
 }});
 placesurfer.browser_storage.core.allowed_url_pages = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 7, [new cljs.core.Keyword(null,"home","home",-74557309),null,new cljs.core.Keyword(null,"settings","settings",1556144875),null,new cljs.core.Keyword(null,"update","update",1045576396),null,new cljs.core.Keyword(null,"topic","topic",-1960480691),null,new cljs.core.Keyword(null,"pin","pin",-2111774834),null,new cljs.core.Keyword(null,"country","country",312965309),null,new cljs.core.Keyword(null,"about","about",1423892543),null], null), null);
@@ -109,13 +109,13 @@ return "";
 }
 })()));
 var raw = params.get("page");
-var page = (function (){var G__40568 = raw;
-var G__40568__$1 = (((G__40568 == null))?null:clojure.string.trim(G__40568));
-var G__40568__$2 = (((G__40568__$1 == null))?null:clojure.string.lower_case(G__40568__$1));
-if((G__40568__$2 == null)){
+var page = (function (){var G__40708 = raw;
+var G__40708__$1 = (((G__40708 == null))?null:clojure.string.trim(G__40708));
+var G__40708__$2 = (((G__40708__$1 == null))?null:clojure.string.lower_case(G__40708__$1));
+if((G__40708__$2 == null)){
 return null;
 } else {
-return cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(G__40568__$2);
+return cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(G__40708__$2);
 }
 })();
 if(cljs.core.contains_QMARK_(placesurfer.browser_storage.core.allowed_url_pages,page)){
@@ -123,7 +123,7 @@ return page;
 } else {
 return null;
 }
-}catch (e40567){var _ = e40567;
+}catch (e40707){var _ = e40707;
 return null;
 }});
 

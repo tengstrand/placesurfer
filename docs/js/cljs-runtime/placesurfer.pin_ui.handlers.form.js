@@ -5,6 +5,8 @@ return placesurfer.pin_ui.handlers.editor.schedule_inline_auto_save_BANG_();
 placesurfer.pin_ui.handlers.form.set_pin_name_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_name_BANG_(v){
 placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"name","name",1843675177),v);
 
+placesurfer.pin_ui.handlers.rows.update_draft_pin_field_BANG_(new cljs.core.Keyword(null,"name","name",1843675177),v);
+
 return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
 });
 placesurfer.pin_ui.handlers.form.set_pin_address_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_address_BANG_(v){

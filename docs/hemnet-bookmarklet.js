@@ -2,6 +2,7 @@
   "use strict";
 
   var GRAPHQL_URL = "https://www.hemnet.se/graphql";
+  var PHOTON_URL = "https://photon.komoot.io/api/";
   var GRAPHQL_QUERY =
     "query PropertyListing($id: ID!) {" +
     " listing(id: $id) {" +
@@ -574,6 +575,48 @@
     return {v: 1, type: "placesurfer/pin-list", pins: [item]};
   }
 
+  function fetchCoordsFromPhoton(street, city) {
+    var query = street + (city ? ", " + city : "");
+    var url = PHOTON_URL + "?q=" + encodeURIComponent(query) + "&limit=3&lang=sv";
+    return fetch(url)
+      .then(function (resp) { return resp.json(); })
+      .then(function (body) {
+        var features = body && body.features;
+        if (!features || !features.length) return null;
+        for (var i = 0; i < features.length; i++) {
+          var feature = features[i];
+          var props = feature && feature.properties;
+          var geom = feature && feature.geometry;
+          if (!props || !geom) continue;
+          if (!props.countrycode || props.countrycode.toLowerCase() !== "se") continue;
+          var coords = geom.coordinates;
+          if (!coords || coords.length < 2) continue;
+          var lon = coords[0];
+          var lat = coords[1];
+          if (typeof lon === "number" && typeof lat === "number") {
+            return { longitude: lon, latitude: lat };
+          }
+        }
+        return null;
+      })
+      .catch(function () { return null; });
+  }
+
+  function geocodeAndFinish(merged, finish) {
+    var hasCoords = merged && merged.latitude != null && merged.longitude != null;
+    if (!hasCoords && merged && listingCompleteAddress(merged)) {
+      fetchCoordsFromPhoton(merged.streetAddress, merged.postalCity).then(function (coords) {
+        if (coords) {
+          merged.latitude = coords.latitude;
+          merged.longitude = coords.longitude;
+        }
+        finish(merged);
+      });
+    } else {
+      finish(merged);
+    }
+  }
+
   function run() {
     var script = document.getElementById("__NEXT_DATA__");
     if (!script) {
@@ -609,16 +652,12 @@
     }
 
     if (!id) {
-      if (!listingNeedsGraphqlFallback(listing)) {
-        finish(listing);
-        return;
-      }
-      finish(listing);
+      geocodeAndFinish(listing, finish);
       return;
     }
 
     fetchListingFromGraphql(id).then(function (graphqlListing) {
-      finish(mergeListings(listing, graphqlListing));
+      geocodeAndFinish(mergeListings(listing, graphqlListing), finish);
     });
   }
 

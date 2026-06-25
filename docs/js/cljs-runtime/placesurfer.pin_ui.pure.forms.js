@@ -22,8 +22,8 @@ placesurfer.pin_ui.pure.forms.remap_legacy_icon = (function placesurfer$pin_ui$p
 return cljs.core.get.cljs$core$IFn$_invoke$arity$3(placesurfer.pin_ui.pure.forms.legacy_icon_map,v,v);
 });
 placesurfer.pin_ui.pure.forms.normalize_icon = (function placesurfer$pin_ui$pure$forms$normalize_icon(var_args){
-var G__39348 = arguments.length;
-switch (G__39348) {
+var G__39292 = arguments.length;
+switch (G__39292) {
 case 1:
 return placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 

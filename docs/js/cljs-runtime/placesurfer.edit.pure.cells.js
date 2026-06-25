@@ -28,12 +28,12 @@ return null;
 }
 });
 placesurfer.edit.pure.cells.source_icon_src = (function placesurfer$edit$pure$cells$source_icon_src(source){
-var temp__5825__auto__ = (function (){var G__41117 = placesurfer.edit.pure.cells.source_label(source);
-var G__41117__$1 = (((G__41117 == null))?null:clojure.string.lower_case(G__41117));
-if((G__41117__$1 == null)){
+var temp__5825__auto__ = (function (){var G__41176 = placesurfer.edit.pure.cells.source_label(source);
+var G__41176__$1 = (((G__41176 == null))?null:clojure.string.lower_case(G__41176));
+if((G__41176__$1 == null)){
 return null;
 } else {
-return cljs.core.not_empty(G__41117__$1);
+return cljs.core.not_empty(G__41176__$1);
 }
 })();
 if(cljs.core.truth_(temp__5825__auto__)){

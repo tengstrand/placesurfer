@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="2" />
+    <meta name="app-version" content="1" />
     <!-- Google tag (gtag.js) -->
     <script
       async
@@ -103,6 +103,9 @@
         --indicator-color: var(--sl-color-primary-600);
         --track-color: var(--sl-color-neutral-200);
         --track-width: 1px;
+      }
+      .nav-tab-group::part(active-tab-indicator) {
+        border-bottom-width: 3px;
       }
       .nav-tab-group sl-tab::part(base) {
         padding-top: calc(var(--sl-spacing-x-small) / 2);
@@ -530,15 +533,7 @@
         height: 16px;
         vertical-align: text-bottom;
       }
-      .pin-pick-btn img {
-        width: 20px;
-        height: 20px;
-        display: block;
-      }
-      .pin-pick-btn--active {
-        background-color: #dbeafe;
-      }
-.about-sources-table {
+      .about-sources-table {
         width: 100%;
         border-collapse: collapse;
         font-size: 0.82rem;
@@ -1135,6 +1130,39 @@
       }
       .placesurfer-marker--url-pin {
         z-index: 3 !important;
+      }
+      .update-map-panel {
+        position: relative;
+      }
+      .update-map-add-pin-btn {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 10;
+        padding: 3px;
+        background: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 1px 4px rgba(0,0,0,.2);
+      }
+      .update-map-add-pin-btn:hover {
+        background: #f0f0f0;
+      }
+      .update-map-add-pin-btn--active {
+        background: #dceeff;
+        border-color: #4a90d9;
+      }
+      .update-map-add-pin-btn img {
+        width: 24px;
+        height: 24px;
+        display: block;
+      }
+      .map-add-pin-active .placesurfer-marker {
+        cursor: default !important;
       }
       .update-editor {
         position: sticky;
@@ -2809,6 +2837,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1782295335165"></script>
+    <script src="js/main.js?v=1782397547481"></script>
   </body>
 </html>

@@ -1,14 +1,14 @@
 goog.provide('placesurfer.edit.interface$.forms');
 placesurfer.edit.interface$.forms.update_form_field_error = (function placesurfer$edit$interface$forms$update_form_field_error(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39081 = arguments.length;
-var i__5750__auto___39082 = (0);
+var len__5749__auto___39066 = arguments.length;
+var i__5750__auto___39067 = (0);
 while(true){
-if((i__5750__auto___39082 < len__5749__auto___39081)){
-args__5755__auto__.push((arguments[i__5750__auto___39082]));
+if((i__5750__auto___39067 < len__5749__auto___39066)){
+args__5755__auto__.push((arguments[i__5750__auto___39067]));
 
-var G__39083 = (i__5750__auto___39082 + (1));
-i__5750__auto___39082 = G__39083;
+var G__39068 = (i__5750__auto___39067 + (1));
+i__5750__auto___39067 = G__39068;
 continue;
 } else {
 }
@@ -26,18 +26,18 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$4(placesurfer.edit.pure.forms
 (placesurfer.edit.interface$.forms.update_form_field_error.cljs$lang$maxFixedArity = (2));
 
 /** @this {Function} */
-(placesurfer.edit.interface$.forms.update_form_field_error.cljs$lang$applyTo = (function (seq39063){
-var G__39064 = cljs.core.first(seq39063);
-var seq39063__$1 = cljs.core.next(seq39063);
-var G__39065 = cljs.core.first(seq39063__$1);
-var seq39063__$2 = cljs.core.next(seq39063__$1);
+(placesurfer.edit.interface$.forms.update_form_field_error.cljs$lang$applyTo = (function (seq39061){
+var G__39062 = cljs.core.first(seq39061);
+var seq39061__$1 = cljs.core.next(seq39061);
+var G__39063 = cljs.core.first(seq39061__$1);
+var seq39061__$2 = cljs.core.next(seq39061__$1);
 var self__5734__auto__ = this;
-return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__39064,G__39065,seq39063__$2);
+return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__39062,G__39063,seq39061__$2);
 }));
 
 placesurfer.edit.interface$.forms.compute_update_form_field_errors = (function placesurfer$edit$interface$forms$compute_update_form_field_errors(var_args){
-var G__39077 = arguments.length;
-switch (G__39077) {
+var G__39065 = arguments.length;
+switch (G__39065) {
 case 1:
 return placesurfer.edit.interface$.forms.compute_update_form_field_errors.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 

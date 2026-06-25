@@ -3,12 +3,12 @@ goog.provide('placesurfer.edit.pure.dataset_cache');
  * Stable cache key for a loaded update dataset.
  */
 placesurfer.edit.pure.dataset_cache.cache_key = (function placesurfer$edit$pure$dataset_cache$cache_key(topic,country_code){
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(topic),(function (){var G__39858 = country_code;
-var G__39858__$1 = (((G__39858 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__39858));
-if((G__39858__$1 == null)){
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(topic),(function (){var G__39998 = country_code;
+var G__39998__$1 = (((G__39998 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__39998));
+if((G__39998__$1 == null)){
 return null;
 } else {
-return clojure.string.upper_case(G__39858__$1);
+return clojure.string.upper_case(G__39998__$1);
 }
 })()], null);
 });

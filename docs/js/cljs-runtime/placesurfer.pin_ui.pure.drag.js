@@ -19,8 +19,8 @@ var mid = (rect.top + (rect.height / (2)));
 if((client_y < mid)){
 return i;
 } else {
-var G__41250 = (i + (1));
-i = G__41250;
+var G__41386 = (i + (1));
+i = G__41386;
 continue;
 }
 }
@@ -30,53 +30,53 @@ break;
 }
 });
 placesurfer.pin_ui.pure.drag.clear_drop_targets_BANG_ = (function placesurfer$pin_ui$pure$drag$clear_drop_targets_BANG_(scroll_node){
-var seq__41233 = cljs.core.seq(scroll_node.querySelectorAll(".pin-row--drop-target"));
-var chunk__41234 = null;
-var count__41235 = (0);
-var i__41236 = (0);
+var seq__41352 = cljs.core.seq(scroll_node.querySelectorAll(".pin-row--drop-target"));
+var chunk__41353 = null;
+var count__41354 = (0);
+var i__41355 = (0);
 while(true){
-if((i__41236 < count__41235)){
-var row = chunk__41234.cljs$core$IIndexed$_nth$arity$2(null,i__41236);
+if((i__41355 < count__41354)){
+var row = chunk__41353.cljs$core$IIndexed$_nth$arity$2(null,i__41355);
 row.classList.remove("pin-row--drop-target");
 
 
-var G__41251 = seq__41233;
-var G__41252 = chunk__41234;
-var G__41253 = count__41235;
-var G__41254 = (i__41236 + (1));
-seq__41233 = G__41251;
-chunk__41234 = G__41252;
-count__41235 = G__41253;
-i__41236 = G__41254;
+var G__41387 = seq__41352;
+var G__41388 = chunk__41353;
+var G__41389 = count__41354;
+var G__41390 = (i__41355 + (1));
+seq__41352 = G__41387;
+chunk__41353 = G__41388;
+count__41354 = G__41389;
+i__41355 = G__41390;
 continue;
 } else {
-var temp__5825__auto__ = cljs.core.seq(seq__41233);
+var temp__5825__auto__ = cljs.core.seq(seq__41352);
 if(temp__5825__auto__){
-var seq__41233__$1 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(seq__41233__$1)){
-var c__5548__auto__ = cljs.core.chunk_first(seq__41233__$1);
-var G__41255 = cljs.core.chunk_rest(seq__41233__$1);
-var G__41256 = c__5548__auto__;
-var G__41257 = cljs.core.count(c__5548__auto__);
-var G__41258 = (0);
-seq__41233 = G__41255;
-chunk__41234 = G__41256;
-count__41235 = G__41257;
-i__41236 = G__41258;
+var seq__41352__$1 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(seq__41352__$1)){
+var c__5548__auto__ = cljs.core.chunk_first(seq__41352__$1);
+var G__41391 = cljs.core.chunk_rest(seq__41352__$1);
+var G__41392 = c__5548__auto__;
+var G__41393 = cljs.core.count(c__5548__auto__);
+var G__41394 = (0);
+seq__41352 = G__41391;
+chunk__41353 = G__41392;
+count__41354 = G__41393;
+i__41355 = G__41394;
 continue;
 } else {
-var row = cljs.core.first(seq__41233__$1);
+var row = cljs.core.first(seq__41352__$1);
 row.classList.remove("pin-row--drop-target");
 
 
-var G__41259 = cljs.core.next(seq__41233__$1);
-var G__41260 = null;
-var G__41261 = (0);
-var G__41262 = (0);
-seq__41233 = G__41259;
-chunk__41234 = G__41260;
-count__41235 = G__41261;
-i__41236 = G__41262;
+var G__41395 = cljs.core.next(seq__41352__$1);
+var G__41396 = null;
+var G__41397 = (0);
+var G__41398 = (0);
+seq__41352 = G__41395;
+chunk__41353 = G__41396;
+count__41354 = G__41397;
+i__41355 = G__41398;
 continue;
 }
 } else {
@@ -113,11 +113,11 @@ return null;
 }
 });
 placesurfer.pin_ui.pure.drag.row_id = (function placesurfer$pin_ui$pure$drag$row_id(row){
-var G__41238 = row.dataset;
-if((G__41238 == null)){
+var G__41367 = row.dataset;
+if((G__41367 == null)){
 return null;
 } else {
-return G__41238.pinRowId;
+return G__41367.pinRowId;
 }
 });
 placesurfer.pin_ui.pure.drag.interactive_target_QMARK_ = (function placesurfer$pin_ui$pure$drag$interactive_target_QMARK_(target){
@@ -191,10 +191,10 @@ document.addEventListener("mousemove",handle_mousemove);
 
 return document.addEventListener("mouseup",handle_mouseup);
 });
-placesurfer.pin_ui.pure.drag.handle_row_drag_mousedown_BANG_ = (function placesurfer$pin_ui$pure$drag$handle_row_drag_mousedown_BANG_(e,scroll_node,reorder_pin_row_BANG_,p__41241){
-var map__41242 = p__41241;
-var map__41242__$1 = cljs.core.__destructure_map(map__41242);
-var drag_from_whole_row_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41242__$1,new cljs.core.Keyword(null,"drag-from-whole-row?","drag-from-whole-row?",-1511920820),false);
+placesurfer.pin_ui.pure.drag.handle_row_drag_mousedown_BANG_ = (function placesurfer$pin_ui$pure$drag$handle_row_drag_mousedown_BANG_(e,scroll_node,reorder_pin_row_BANG_,p__41380){
+var map__41381 = p__41380;
+var map__41381__$1 = cljs.core.__destructure_map(map__41381);
+var drag_from_whole_row_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41381__$1,new cljs.core.Keyword(null,"drag-from-whole-row?","drag-from-whole-row?",-1511920820),false);
 var temp__5825__auto__ = placesurfer.pin_ui.pure.drag.drag_handle_from_event(e,drag_from_whole_row_QMARK_);
 if(cljs.core.truth_(temp__5825__auto__)){
 var handle = temp__5825__auto__;
@@ -276,8 +276,8 @@ return null;
  * Replicant hook: keep drag handlers in sync with current props.
  */
 placesurfer.pin_ui.pure.drag.mount_pin_row_drag_BANG_ = (function placesurfer$pin_ui$pure$drag$mount_pin_row_drag_BANG_(var_args){
-var G__41247 = arguments.length;
-switch (G__41247) {
+var G__41383 = arguments.length;
+switch (G__41383) {
 case 1:
 return placesurfer.pin_ui.pure.drag.mount_pin_row_drag_BANG_.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -297,10 +297,10 @@ return placesurfer.pin_ui.pure.drag.mount_pin_row_drag_BANG_.cljs$core$IFn$_invo
 }));
 
 (placesurfer.pin_ui.pure.drag.mount_pin_row_drag_BANG_.cljs$core$IFn$_invoke$arity$2 = (function (reorder_pin_row_BANG_,opts){
-return (function (p__41248){
-var map__41249 = p__41248;
-var map__41249__$1 = cljs.core.__destructure_map(map__41249);
-var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41249__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
+return (function (p__41384){
+var map__41385 = p__41384;
+var map__41385__$1 = cljs.core.__destructure_map(map__41385);
+var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41385__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
 return placesurfer.pin_ui.pure.drag.ensure_pin_row_drag_BANG_(node,reorder_pin_row_BANG_,opts);
 });
 }));

@@ -5,7 +5,7 @@ goog.provide('cljs.tools.reader.reader_types');
  */
 cljs.tools.reader.reader_types.Reader = function(){};
 
-var cljs$tools$reader$reader_types$Reader$read_char$dyn_37676 = (function (reader){
+var cljs$tools$reader$reader_types$Reader$read_char$dyn_37674 = (function (reader){
 var x__5373__auto__ = (((reader == null))?null:reader);
 var m__5374__auto__ = (cljs.tools.reader.reader_types.read_char[goog.typeOf(x__5373__auto__)]);
 if((!((m__5374__auto__ == null)))){
@@ -26,7 +26,7 @@ cljs.tools.reader.reader_types.read_char = (function cljs$tools$reader$reader_ty
 if((((!((reader == null)))) && ((!((reader.cljs$tools$reader$reader_types$Reader$read_char$arity$1 == null)))))){
 return reader.cljs$tools$reader$reader_types$Reader$read_char$arity$1(reader);
 } else {
-return cljs$tools$reader$reader_types$Reader$read_char$dyn_37676(reader);
+return cljs$tools$reader$reader_types$Reader$read_char$dyn_37674(reader);
 }
 });
 
@@ -61,7 +61,7 @@ return cljs$tools$reader$reader_types$Reader$peek_char$dyn_37680(reader);
  */
 cljs.tools.reader.reader_types.IPushbackReader = function(){};
 
-var cljs$tools$reader$reader_types$IPushbackReader$unread$dyn_37681 = (function (reader,ch){
+var cljs$tools$reader$reader_types$IPushbackReader$unread$dyn_37687 = (function (reader,ch){
 var x__5373__auto__ = (((reader == null))?null:reader);
 var m__5374__auto__ = (cljs.tools.reader.reader_types.unread[goog.typeOf(x__5373__auto__)]);
 if((!((m__5374__auto__ == null)))){
@@ -82,7 +82,7 @@ cljs.tools.reader.reader_types.unread = (function cljs$tools$reader$reader_types
 if((((!((reader == null)))) && ((!((reader.cljs$tools$reader$reader_types$IPushbackReader$unread$arity$2 == null)))))){
 return reader.cljs$tools$reader$reader_types$IPushbackReader$unread$arity$2(reader,ch);
 } else {
-return cljs$tools$reader$reader_types$IPushbackReader$unread$dyn_37681(reader,ch);
+return cljs$tools$reader$reader_types$IPushbackReader$unread$dyn_37687(reader,ch);
 }
 });
 
@@ -117,7 +117,7 @@ return cljs$tools$reader$reader_types$IndexingReader$get_line_number$dyn_37692(r
 }
 });
 
-var cljs$tools$reader$reader_types$IndexingReader$get_column_number$dyn_37696 = (function (reader){
+var cljs$tools$reader$reader_types$IndexingReader$get_column_number$dyn_37699 = (function (reader){
 var x__5373__auto__ = (((reader == null))?null:reader);
 var m__5374__auto__ = (cljs.tools.reader.reader_types.get_column_number[goog.typeOf(x__5373__auto__)]);
 if((!((m__5374__auto__ == null)))){
@@ -138,11 +138,11 @@ cljs.tools.reader.reader_types.get_column_number = (function cljs$tools$reader$r
 if((((!((reader == null)))) && ((!((reader.cljs$tools$reader$reader_types$IndexingReader$get_column_number$arity$1 == null)))))){
 return reader.cljs$tools$reader$reader_types$IndexingReader$get_column_number$arity$1(reader);
 } else {
-return cljs$tools$reader$reader_types$IndexingReader$get_column_number$dyn_37696(reader);
+return cljs$tools$reader$reader_types$IndexingReader$get_column_number$dyn_37699(reader);
 }
 });
 
-var cljs$tools$reader$reader_types$IndexingReader$get_file_name$dyn_37700 = (function (reader){
+var cljs$tools$reader$reader_types$IndexingReader$get_file_name$dyn_37705 = (function (reader){
 var x__5373__auto__ = (((reader == null))?null:reader);
 var m__5374__auto__ = (cljs.tools.reader.reader_types.get_file_name[goog.typeOf(x__5373__auto__)]);
 if((!((m__5374__auto__ == null)))){
@@ -163,7 +163,7 @@ cljs.tools.reader.reader_types.get_file_name = (function cljs$tools$reader$reade
 if((((!((reader == null)))) && ((!((reader.cljs$tools$reader$reader_types$IndexingReader$get_file_name$arity$1 == null)))))){
 return reader.cljs$tools$reader$reader_types$IndexingReader$get_file_name$arity$1(reader);
 } else {
-return cljs$tools$reader$reader_types$IndexingReader$get_file_name$dyn_37700(reader);
+return cljs$tools$reader$reader_types$IndexingReader$get_file_name$dyn_37705(reader);
 }
 });
 
@@ -658,8 +658,8 @@ return (new cljs.tools.reader.reader_types.StringReader(s,cljs.core.count(s),(0)
  * Creates a PushbackReader from a given string
  */
 cljs.tools.reader.reader_types.string_push_back_reader = (function cljs$tools$reader$reader_types$string_push_back_reader(var_args){
-var G__37642 = arguments.length;
-switch (G__37642) {
+var G__37589 = arguments.length;
+switch (G__37589) {
 case 1:
 return cljs.tools.reader.reader_types.string_push_back_reader.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -691,8 +691,8 @@ return (new cljs.tools.reader.reader_types.PushbackReader((new cljs.tools.reader
  * Creates an IndexingPushbackReader from a given string or PushbackReader
  */
 cljs.tools.reader.reader_types.indexing_push_back_reader = (function cljs$tools$reader$reader_types$indexing_push_back_reader(var_args){
-var G__37645 = arguments.length;
-switch (G__37645) {
+var G__37605 = arguments.length;
+switch (G__37605) {
 case 1:
 return cljs.tools.reader.reader_types.indexing_push_back_reader.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -729,8 +729,8 @@ return (new cljs.tools.reader.reader_types.IndexingPushbackReader(((typeof s_or_
  * Creates a SourceLoggingPushbackReader from a given string or PushbackReader
  */
 cljs.tools.reader.reader_types.source_logging_push_back_reader = (function cljs$tools$reader$reader_types$source_logging_push_back_reader(var_args){
-var G__37648 = arguments.length;
-switch (G__37648) {
+var G__37626 = arguments.length;
+switch (G__37626) {
 case 1:
 return cljs.tools.reader.reader_types.source_logging_push_back_reader.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -773,10 +773,10 @@ while(true){
 if(cljs.tools.reader.impl.utils.newline_QMARK_(c)){
 return cljs.core.str.cljs$core$IFn$_invoke$arity$1(s);
 } else {
-var G__37860 = rdr.cljs$tools$reader$reader_types$Reader$read_char$arity$1(null);
-var G__37861 = s.append(c);
-c = G__37860;
-s = G__37861;
+var G__37811 = rdr.cljs$tools$reader$reader_types$Reader$read_char$arity$1(null);
+var G__37812 = s.append(c);
+c = G__37811;
+s = G__37812;
 continue;
 }
 break;

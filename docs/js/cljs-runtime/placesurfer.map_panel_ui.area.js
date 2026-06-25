@@ -1,10 +1,10 @@
 goog.provide('placesurfer.map_panel_ui.area');
-placesurfer.map_panel_ui.area.area = (function placesurfer$map_panel_ui$area$area(p__41006){
-var map__41007 = p__41006;
-var map__41007__$1 = cljs.core.__destructure_map(map__41007);
-var map_status = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41007__$1,new cljs.core.Keyword(null,"map-status","map-status",1191308996),"");
-var mount_map_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41007__$1,new cljs.core.Keyword(null,"mount-map!","mount-map!",1433564372));
-var unmount_map_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41007__$1,new cljs.core.Keyword(null,"unmount-map!","unmount-map!",-416381601));
+placesurfer.map_panel_ui.area.area = (function placesurfer$map_panel_ui$area$area(p__41073){
+var map__41074 = p__41073;
+var map__41074__$1 = cljs.core.__destructure_map(map__41074);
+var map_status = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41074__$1,new cljs.core.Keyword(null,"map-status","map-status",1191308996),"");
+var mount_map_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41074__$1,new cljs.core.Keyword(null,"mount-map!","mount-map!",1433564372));
+var unmount_map_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41074__$1,new cljs.core.Keyword(null,"unmount-map!","unmount-map!",-416381601));
 return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.map-area","div.map-area",1865513234),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"key","key",-1516042587),"map-area"], null),(function (){var temp__5825__auto__ = placesurfer.map_panel_ui.status.display_status_text(map_status);
 if(cljs.core.truth_(temp__5825__auto__)){
 var text = temp__5825__auto__;

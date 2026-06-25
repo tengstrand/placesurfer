@@ -1,11 +1,11 @@
 goog.provide('placesurfer.edit.pure.topic_switch_dialog');
-placesurfer.edit.pure.topic_switch_dialog.dialog = (function placesurfer$edit$pure$topic_switch_dialog$dialog(p__41141){
-var map__41142 = p__41141;
-var map__41142__$1 = cljs.core.__destructure_map(map__41142);
-var cancel_update_topic_switch_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41142__$1,new cljs.core.Keyword(null,"cancel-update-topic-switch!","cancel-update-topic-switch!",1929727784));
-var discard_update_topic_switch_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41142__$1,new cljs.core.Keyword(null,"discard-update-topic-switch!","discard-update-topic-switch!",306244655));
-var save_and_switch_update_topic_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41142__$1,new cljs.core.Keyword(null,"save-and-switch-update-topic!","save-and-switch-update-topic!",482330176));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41142__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.edit.pure.topic_switch_dialog.dialog = (function placesurfer$edit$pure$topic_switch_dialog$dialog(p__41185){
+var map__41186 = p__41185;
+var map__41186__$1 = cljs.core.__destructure_map(map__41186);
+var cancel_update_topic_switch_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41186__$1,new cljs.core.Keyword(null,"cancel-update-topic-switch!","cancel-update-topic-switch!",1929727784));
+var discard_update_topic_switch_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41186__$1,new cljs.core.Keyword(null,"discard-update-topic-switch!","discard-update-topic-switch!",306244655));
+var save_and_switch_update_topic_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41186__$1,new cljs.core.Keyword(null,"save-and-switch-update-topic!","save-and-switch-update-topic!",482330176));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41186__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
 return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-topic-switch-overlay","div.update-topic-switch-overlay",-1136349875),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-topic-switch-sheet","div.update-topic-switch-sheet",531567584),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.update-topic-switch-message","p.update-topic-switch-message",-165530618),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("update","unsaved-changes","update/unsaved-changes",1938988479)) : t.call(null,new cljs.core.Keyword("update","unsaved-changes","update/unsaved-changes",1938988479)))], null),new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-topic-switch-actions","div.update-topic-switch-actions",1621901761),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.update-topic-switch-save","button.update-topic-switch-save",841887388),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){

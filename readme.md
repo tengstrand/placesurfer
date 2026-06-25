@@ -183,7 +183,7 @@ Copyright © 2026 Joakim Tengstrand. All rights reserved. See [LICENSE](LICENSE)
 | Puerto Rico 🇵🇷 | 69 | 0 | 0 |
 | Qatar 🇶🇦 | 16 | 0 | 0 |
 | Romania 🇷🇴 | 1136 | 1 | 0 |
-| Russia 🇷🇺 | 5852 | 74 | 0 |
+| Russia 🇷🇺 | 5852 | 73 | 0 |
 | Rwanda 🇷🇼 | 14 | 0 | 0 |
 | Réunion 🇷🇪 | 46 | 0 | 0 |
 | Saint Barthélemy 🇧🇱 | 2 | 0 | 0 |

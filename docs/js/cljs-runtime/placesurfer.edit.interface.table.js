@@ -3,8 +3,8 @@ goog.provide('placesurfer.edit.interface$.table');
  * Display label for an update-table column key.
  */
 placesurfer.edit.interface$.table.column_label = (function placesurfer$edit$interface$table$column_label(var_args){
-var G__39271 = arguments.length;
-switch (G__39271) {
+var G__39266 = arguments.length;
+switch (G__39266) {
 case 1:
 return placesurfer.edit.interface$.table.column_label.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -51,8 +51,8 @@ placesurfer.edit.interface$.table.preferred_column_keys = (function placesurfer$
 return placesurfer.edit.pure.table.preferred_column_keys(update_columns);
 });
 placesurfer.edit.interface$.table.table_columns = (function placesurfer$edit$interface$table$table_columns(var_args){
-var G__39277 = arguments.length;
-switch (G__39277) {
+var G__39270 = arguments.length;
+switch (G__39270) {
 case 1:
 return placesurfer.edit.interface$.table.table_columns.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 

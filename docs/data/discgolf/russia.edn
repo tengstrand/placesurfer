@@ -1,4 +1,4 @@
-{:count 74,
+{:count 73,
  :country "russia",
  :country-code "RU",
  :dataset :discgolf,
@@ -514,12 +514,13 @@
    :image "",
    :description ""}
   {:name "Роза ветров основная трасса",
-   :longitude 1.23456789E8,
-   :latitude 1.2345678E7,
+   :longitude 123456789,
+   :latitude 12345678,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44321",
    :image "",
-   :description ""}
+   :description "",
+   :action :deleted}
   {:name "Ростех Арена",
    :longitude 20.53382612833616,
    :latitude 54.69810568904262,

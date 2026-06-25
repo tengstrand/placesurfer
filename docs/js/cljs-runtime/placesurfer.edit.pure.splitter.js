@@ -17,14 +17,14 @@ return new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"ed
 return null;
 }
 });
-placesurfer.edit.pure.splitter.fixed_form_height = (function placesurfer$edit$pure$splitter$fixed_form_height(p__41131){
-var map__41132 = p__41131;
-var map__41132__$1 = cljs.core.__destructure_map(map__41132);
-var editor = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41132__$1,new cljs.core.Keyword(null,"editor","editor",-989377770));
-var form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41132__$1,new cljs.core.Keyword(null,"form","form",-1624062471));
-var description_pane = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41132__$1,new cljs.core.Keyword(null,"description-pane","description-pane",1039084608));
-var map_panel = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41132__$1,new cljs.core.Keyword(null,"map-panel","map-panel",1786257571));
-var splitter_node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41132__$1,new cljs.core.Keyword(null,"splitter-node","splitter-node",55578606));
+placesurfer.edit.pure.splitter.fixed_form_height = (function placesurfer$edit$pure$splitter$fixed_form_height(p__41189){
+var map__41191 = p__41189;
+var map__41191__$1 = cljs.core.__destructure_map(map__41191);
+var editor = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41191__$1,new cljs.core.Keyword(null,"editor","editor",-989377770));
+var form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41191__$1,new cljs.core.Keyword(null,"form","form",-1624062471));
+var description_pane = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41191__$1,new cljs.core.Keyword(null,"description-pane","description-pane",1039084608));
+var map_panel = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41191__$1,new cljs.core.Keyword(null,"map-panel","map-panel",1786257571));
+var splitter_node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41191__$1,new cljs.core.Keyword(null,"splitter-node","splitter-node",55578606));
 return (((editor.clientHeight - description_pane.clientHeight) - splitter_node.clientHeight) - map_panel.clientHeight);
 });
 placesurfer.edit.pure.splitter.apply_map_height_BANG_ = (function placesurfer$edit$pure$splitter$apply_map_height_BANG_(map_panel,height_px){
@@ -40,10 +40,10 @@ return (map_panel.style.height = [cljs.core.str.cljs$core$IFn$_invoke$arity$1(he
  * Attach drag handlers on the horizontal splitter between description and map.
  */
 placesurfer.edit.pure.splitter.mount_splitter_BANG_ = (function placesurfer$edit$pure$splitter$mount_splitter_BANG_(set_update_map_height_BANG_,schedule_map_resize_BANG_){
-return (function (p__41149){
-var map__41150 = p__41149;
-var map__41150__$1 = cljs.core.__destructure_map(map__41150);
-var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41150__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
+return (function (p__41198){
+var map__41199 = p__41198;
+var map__41199__$1 = cljs.core.__destructure_map(map__41199);
+var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41199__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
 var temp__5825__auto__ = node;
 if(cljs.core.truth_(temp__5825__auto__)){
 var splitter_node = temp__5825__auto__;
@@ -51,11 +51,11 @@ var mousedown_handler = (function (e){
 e.preventDefault();
 
 var nodes = cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(placesurfer.edit.pure.splitter.editor_nodes(splitter_node),new cljs.core.Keyword(null,"splitter-node","splitter-node",55578606),splitter_node);
-var map__41152 = nodes;
-var map__41152__$1 = cljs.core.__destructure_map(map__41152);
-var map_panel = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41152__$1,new cljs.core.Keyword(null,"map-panel","map-panel",1786257571));
-var editor = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41152__$1,new cljs.core.Keyword(null,"editor","editor",-989377770));
-var form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41152__$1,new cljs.core.Keyword(null,"form","form",-1624062471));
+var map__41205 = nodes;
+var map__41205__$1 = cljs.core.__destructure_map(map__41205);
+var map_panel = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41205__$1,new cljs.core.Keyword(null,"map-panel","map-panel",1786257571));
+var editor = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41205__$1,new cljs.core.Keyword(null,"editor","editor",-989377770));
+var form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41205__$1,new cljs.core.Keyword(null,"form","form",-1624062471));
 var start_y = e.clientY;
 var start_map_h = map_panel.clientHeight;
 var form_h = (cljs.core.truth_(form)?form.clientHeight:placesurfer.edit.pure.splitter.fixed_form_height(nodes));
@@ -80,8 +80,8 @@ splitter_node.classList.remove("update-editor-splitter--dragging");
 
 (document.body.userSelect = "");
 
-var G__41159 = map_panel.clientHeight;
-return (set_update_map_height_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_update_map_height_BANG_.cljs$core$IFn$_invoke$arity$1(G__41159) : set_update_map_height_BANG_.call(null,G__41159));
+var G__41210 = map_panel.clientHeight;
+return (set_update_map_height_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_update_map_height_BANG_.cljs$core$IFn$_invoke$arity$1(G__41210) : set_update_map_height_BANG_.call(null,G__41210));
 });
 document.addEventListener("mousemove",handle_mousemove);
 

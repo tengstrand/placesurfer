@@ -35,22 +35,22 @@ return Promise.reject((new Error(["Failed to load ",cljs.core.str.cljs$core$IFn$
 }));
 });
 placesurfer.load.gis.merge_country_counts = (function placesurfer$load$gis$merge_country_counts(countries,counts_by_slug){
-return cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__38721_SHARP_){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__38721_SHARP_,new cljs.core.Keyword(null,"count","count",2139924085),cljs.core.get.cljs$core$IFn$_invoke$arity$3(counts_by_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__38721_SHARP_),(0)));
+return cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__38723_SHARP_){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__38723_SHARP_,new cljs.core.Keyword(null,"count","count",2139924085),cljs.core.get.cljs$core$IFn$_invoke$arity$3(counts_by_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__38723_SHARP_),(0)));
 }),countries);
 });
 placesurfer.load.gis.load_counts_BANG_ = (function placesurfer$load$gis$load_counts_BANG_(counts_url){
-return placesurfer.load.gis.fetch_text_BANG_(counts_url).then((function (p1__38722_SHARP_){
-return Promise.resolve(cljs.reader.read_string.cljs$core$IFn$_invoke$arity$1(p1__38722_SHARP_));
+return placesurfer.load.gis.fetch_text_BANG_(counts_url).then((function (p1__38724_SHARP_){
+return Promise.resolve(cljs.reader.read_string.cljs$core$IFn$_invoke$arity$1(p1__38724_SHARP_));
 })).catch((function (_){
 return Promise.resolve(cljs.core.PersistentArrayMap.EMPTY);
 }));
 });
 placesurfer.load.gis.load_countries_BANG_ = (function placesurfer$load$gis$load_countries_BANG_(counts_url){
-return Promise.all(new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [placesurfer.load.gis.fetch_text_BANG_(placesurfer.load.gis.countries_url),placesurfer.load.gis.load_counts_BANG_(counts_url)], null)).then((function (p__38723){
-var vec__38724 = p__38723;
-var countries_text = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__38724,(0),null);
-var counts = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__38724,(1),null);
+return Promise.all(new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [placesurfer.load.gis.fetch_text_BANG_(placesurfer.load.gis.countries_url),placesurfer.load.gis.load_counts_BANG_(counts_url)], null)).then((function (p__38725){
+var vec__38726 = p__38725;
+var countries_text = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__38726,(0),null);
+var counts = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__38726,(1),null);
 var countries = cljs.reader.read_string.cljs$core$IFn$_invoke$arity$1(countries_text);
 return Promise.resolve(cljs.core.sort_by.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"label","label",1718410804),placesurfer.load.gis.merge_country_counts(countries,counts)));
 }));

@@ -5,11 +5,11 @@ return (!(((cljs.core.truth_(s)?cljs.core.seq(clojure.string.trim(cljs.core.str.
 placesurfer.map_ui.popup.escape_html = (function placesurfer$map_ui$popup$escape_html(s){
 return clojure.string.replace(clojure.string.replace(clojure.string.replace(clojure.string.replace(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s),"&","&amp;"),"<","&lt;"),">","&gt;"),"\"","&quot;");
 });
-placesurfer.map_ui.popup.popup_page_url = (function placesurfer$map_ui$popup$popup_page_url(p__39236){
-var map__39237 = p__39236;
-var map__39237__$1 = cljs.core.__destructure_map(map__39237);
-var homepage = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39237__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249));
-var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39237__$1,new cljs.core.Keyword(null,"url","url",276297046));
+placesurfer.map_ui.popup.popup_page_url = (function placesurfer$map_ui$popup$popup_page_url(p__39256){
+var map__39257 = p__39256;
+var map__39257__$1 = cljs.core.__destructure_map(map__39257);
+var homepage = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39257__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249));
+var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39257__$1,new cljs.core.Keyword(null,"url","url",276297046));
 if(placesurfer.map_ui.popup.non_blank_QMARK_(homepage)){
 return homepage;
 } else {
@@ -22,13 +22,13 @@ return null;
 }
 });
 placesurfer.map_ui.popup.popup_image_html = (function placesurfer$map_ui$popup$popup_image_html(position){
-var temp__5825__auto__ = (function (){var G__39241 = new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position);
-var G__39241__$1 = (((G__39241 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__39241));
-var G__39241__$2 = (((G__39241__$1 == null))?null:clojure.string.trim(G__39241__$1));
-if((G__39241__$2 == null)){
+var temp__5825__auto__ = (function (){var G__39258 = new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position);
+var G__39258__$1 = (((G__39258 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__39258));
+var G__39258__$2 = (((G__39258__$1 == null))?null:clojure.string.trim(G__39258__$1));
+if((G__39258__$2 == null)){
 return null;
 } else {
-return cljs.core.not_empty(G__39241__$2);
+return cljs.core.not_empty(G__39258__$2);
 }
 })();
 if(cljs.core.truth_(temp__5825__auto__)){
@@ -66,8 +66,8 @@ return null;
  * HTML for a place popup (map marker or pin list preview).
  */
 placesurfer.map_ui.popup.popup_html = (function placesurfer$map_ui$popup$popup_html(var_args){
-var G__39258 = arguments.length;
-switch (G__39258) {
+var G__39260 = arguments.length;
+switch (G__39260) {
 case 1:
 return placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -86,27 +86,27 @@ throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(
 return placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2(position,cljs.core.PersistentArrayMap.EMPTY);
 }));
 
-(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2 = (function (position,p__39259){
-var map__39260 = p__39259;
-var map__39260__$1 = cljs.core.__destructure_map(map__39260);
-var source_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__39260__$1,new cljs.core.Keyword(null,"source-label","source-label",585601639),"Source: ");
-var map__39261 = position;
-var map__39261__$1 = cljs.core.__destructure_map(map__39261);
-var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39261__$1,new cljs.core.Keyword(null,"name","name",1843675177));
-var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39261__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
-var locality = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39261__$1,new cljs.core.Keyword(null,"locality","locality",842809377));
-var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39261__$1,new cljs.core.Keyword(null,"source","source",-433931539));
-var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39261__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
-var map__39262 = (function (){var or__5025__auto__ = placesurfer.googlestreetmap.interface$.place_external_links.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([position], 0));
+(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2 = (function (position,p__39261){
+var map__39262 = p__39261;
+var map__39262__$1 = cljs.core.__destructure_map(map__39262);
+var source_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__39262__$1,new cljs.core.Keyword(null,"source-label","source-label",585601639),"Source: ");
+var map__39263 = position;
+var map__39263__$1 = cljs.core.__destructure_map(map__39263);
+var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39263__$1,new cljs.core.Keyword(null,"name","name",1843675177));
+var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39263__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
+var locality = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39263__$1,new cljs.core.Keyword(null,"locality","locality",842809377));
+var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39263__$1,new cljs.core.Keyword(null,"source","source",-433931539));
+var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39263__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
+var map__39264 = (function (){var or__5025__auto__ = placesurfer.googlestreetmap.interface$.place_external_links.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([position], 0));
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
 return cljs.core.PersistentArrayMap.EMPTY;
 }
 })();
-var map__39262__$1 = cljs.core.__destructure_map(map__39262);
-var google_maps_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39262__$1,new cljs.core.Keyword(null,"google-maps-url","google-maps-url",1524070940));
-var hemnet_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39262__$1,new cljs.core.Keyword(null,"hemnet-url","hemnet-url",-1665312184));
+var map__39264__$1 = cljs.core.__destructure_map(map__39264);
+var google_maps_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39264__$1,new cljs.core.Keyword(null,"google-maps-url","google-maps-url",1524070940));
+var hemnet_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39264__$1,new cljs.core.Keyword(null,"hemnet-url","hemnet-url",-1665312184));
 var source_html = placesurfer.map_ui.popup.popup_source_html(source,source_label);
 var address_row_html = placesurfer.map_ui.popup.popup_address_row_html(position);
 var hemnet_link_html = (cljs.core.truth_(hemnet_url)?placesurfer.googlestreetmap.interface$.build_external_icon_link_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"url","url",276297046),hemnet_url,new cljs.core.Keyword(null,"icon-src","icon-src",1550418733),"/images/hemnet.png",new cljs.core.Keyword(null,"icon-class","icon-class",-216197803),"place-external-link-icon",new cljs.core.Keyword(null,"link-class","link-class",609379382),"place-external-link--hemnet",new cljs.core.Keyword(null,"aria-label","aria-label",455891514),"Hemnet"], null)], 0)):null);
@@ -126,15 +126,15 @@ return or__5025__auto__;
 return "Place";
 }
 })()),"</div>"].join(''));
-var parts = (function (){var G__39263 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [name_html], null);
-var G__39263__$1 = ((placesurfer.map_ui.popup.non_blank_QMARK_(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position)))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39263,["<div class=\"map-popup-image\">",placesurfer.map_ui.popup.popup_image_html(position),"</div>"].join('')):G__39263);
-var G__39263__$2 = (cljs.core.truth_(address_row_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39263__$1,address_row_html):G__39263__$1);
-var G__39263__$3 = ((placesurfer.map_ui.popup.non_blank_QMARK_(description))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39263__$2,["<div class=\"map-popup-description\">",cljs.core.str.cljs$core$IFn$_invoke$arity$1(placesurfer.html.interface$.sanitize.sanitize_description_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([description], 0))),"</div>"].join('')):G__39263__$2);
-var G__39263__$4 = ((placesurfer.map_ui.popup.non_blank_QMARK_(locality))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39263__$3,["<div class=\"map-popup-locality\">",placesurfer.map_ui.popup.escape_html(locality),"</div>"].join('')):G__39263__$3);
+var parts = (function (){var G__39267 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [name_html], null);
+var G__39267__$1 = ((placesurfer.map_ui.popup.non_blank_QMARK_(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position)))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39267,["<div class=\"map-popup-image\">",placesurfer.map_ui.popup.popup_image_html(position),"</div>"].join('')):G__39267);
+var G__39267__$2 = (cljs.core.truth_(address_row_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39267__$1,address_row_html):G__39267__$1);
+var G__39267__$3 = ((placesurfer.map_ui.popup.non_blank_QMARK_(description))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39267__$2,["<div class=\"map-popup-description\">",cljs.core.str.cljs$core$IFn$_invoke$arity$1(placesurfer.html.interface$.sanitize.sanitize_description_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([description], 0))),"</div>"].join('')):G__39267__$2);
+var G__39267__$4 = ((placesurfer.map_ui.popup.non_blank_QMARK_(locality))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39267__$3,["<div class=\"map-popup-locality\">",placesurfer.map_ui.popup.escape_html(locality),"</div>"].join('')):G__39267__$3);
 if(cljs.core.truth_(source_html)){
-return cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39263__$4,source_html);
+return cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__39267__$4,source_html);
 } else {
-return G__39263__$4;
+return G__39267__$4;
 }
 })();
 return ["<div class=\"map-popup\">",clojure.string.join.cljs$core$IFn$_invoke$arity$2("",parts),"</div>"].join('');

@@ -31,11 +31,8 @@ return placesurfer.map_ui.core.set_marker_pick_handler_BANG_(handler);
 placesurfer.map_ui.interface$.sync_country_pick_state_BANG_ = (function placesurfer$map_ui$interface$sync_country_pick_state_BANG_(state){
 return placesurfer.map_ui.core.sync_country_pick_state_BANG_(state);
 });
-placesurfer.map_ui.interface$.sync_pin_pick_state_BANG_ = (function placesurfer$map_ui$interface$sync_pin_pick_state_BANG_(state){
-return placesurfer.map_ui.core.sync_pin_pick_state_BANG_(state);
-});
-placesurfer.map_ui.interface$.add_pin_pick_control_BANG_ = (function placesurfer$map_ui$interface$add_pin_pick_control_BANG_(on_pick){
-return placesurfer.map_ui.core.add_pin_pick_control_BANG_(on_pick);
+placesurfer.map_ui.interface$.sync_add_pin_mode_BANG_ = (function placesurfer$map_ui$interface$sync_add_pin_mode_BANG_(state){
+return placesurfer.map_ui.core.sync_add_pin_mode_BANG_(state);
 });
 placesurfer.map_ui.interface$.close_all_popups_BANG_ = (function placesurfer$map_ui$interface$close_all_popups_BANG_(){
 return placesurfer.map_ui.core.close_all_popups_BANG_();
@@ -63,14 +60,14 @@ return placesurfer.map_ui.core.center_on_position_BANG_(position);
 });
 placesurfer.map_ui.interface$.popup_html = (function placesurfer$map_ui$interface$popup_html(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___48668 = arguments.length;
-var i__5750__auto___48669 = (0);
+var len__5749__auto___39572 = arguments.length;
+var i__5750__auto___39573 = (0);
 while(true){
-if((i__5750__auto___48669 < len__5749__auto___48668)){
-args__5755__auto__.push((arguments[i__5750__auto___48669]));
+if((i__5750__auto___39573 < len__5749__auto___39572)){
+args__5755__auto__.push((arguments[i__5750__auto___39573]));
 
-var G__48670 = (i__5750__auto___48669 + (1));
-i__5750__auto___48669 = G__48670;
+var G__39574 = (i__5750__auto___39573 + (1));
+i__5750__auto___39573 = G__39574;
 continue;
 } else {
 }
@@ -88,9 +85,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.map_ui.popup.po
 (placesurfer.map_ui.interface$.popup_html.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq48650){
+(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq39571){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq48650));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39571));
 }));
 
 

@@ -3,9 +3,9 @@ goog.provide('placesurfer.edit.pure.sort');
  * Maps UI sort keys to row data keys.
  */
 placesurfer.edit.pure.sort.table_sort_data_field = (function placesurfer$edit$pure$sort$table_sort_data_field(sort_key){
-var G__38859 = sort_key;
-var G__38859__$1 = (((G__38859 instanceof cljs.core.Keyword))?G__38859.fqn:null);
-switch (G__38859__$1) {
+var G__38891 = sort_key;
+var G__38891__$1 = (((G__38891 instanceof cljs.core.Keyword))?G__38891.fqn:null);
+switch (G__38891__$1) {
 case "action-icon":
 return new cljs.core.Keyword(null,"action","action",-811238024);
 
