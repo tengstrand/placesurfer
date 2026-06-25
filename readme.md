@@ -1,4 +1,4 @@
-# hitteri
+# Placesurfer
 
 Live site: <https://placesurfer.com>
 
