@@ -557,8 +557,8 @@
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24551",
    :image "",
-   :description "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "Eenokki Frisbeegolf",
    :longitude 22.274662256240845,
    :latitude 61.064779764720434,
@@ -3229,14 +3229,14 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Köyliö",
    :homepage "https://discgolfmetrix.com/course/40999",
    :name "Kepola 4kierrosta",
    :longitude 4.672521438127035,
    :source :discgolfmetrix,
    :latitude -16.071978076245358,
    :image "",
-   :action :deleted}
+   :action :deleted,
+   :location "Köyliö"}
   {:name "Kepolan frisbeegolrata 3 kierrosta",
    :longitude 22.305304845222906,
    :latitude 61.122152158700715,
@@ -5341,14 +5341,14 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Niitty",
    :homepage "https://discgolfmetrix.com/course/27384",
    :name "Malminiitty",
    :longitude 26.707233528936968,
    :source :discgolfmetrix,
    :latitude 58.79721430434853,
    :image "",
-   :action :deleted}
+   :action :deleted,
+   :location "Niitty"}
   {:name "Malminiityn frisbeegolfrata",
    :longitude 25.0410495,
    :latitude 60.3158543,
@@ -7140,14 +7140,14 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Kuopio",
    :homepage "https://discgolfmetrix.com/course/27190",
    :name "Peikkometsä",
    :longitude 34.038059051865474,
    :source :discgolfmetrix,
    :latitude 63.40331548765485,
    :image "",
-   :action :deleted}
+   :action :deleted,
+   :location "Kuopio"}
   {:name "Peikkometsän Frisbeegolfrata",
    :longitude 27.699814179337608,
    :latitude 62.8366194404405,
@@ -10663,8 +10663,8 @@
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45182",
    :image "",
-   :description "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "Vörå DiscgolfPark",
    :longitude 22.26262877150151,
    :latitude 63.135803343357026,

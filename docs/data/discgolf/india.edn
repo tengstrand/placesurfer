@@ -5,14 +5,14 @@
  :generated-at "2026-05-25T14:14:01.651187Z",
  :positions
  [{:description "",
-   :location "Hisar",
    :homepage "https://discgolfmetrix.com/course/33563",
    :name "Ajay",
    :longitude 5.9521665155012045,
    :source :discgolfmetrix,
    :latitude 21.76021145761655,
    :image "",
-   :action :deleted}
+   :action :deleted,
+   :location "Hisar"}
   {:name "ashok mali",
    :longitude 76.40942138537758,
    :latitude 19.172676359916437,

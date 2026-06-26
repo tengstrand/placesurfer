@@ -94,7 +94,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Grametschlag",
    :name "Discgolf in da Pampa",
    :layout-name "Main Layout",
    :longitude 16.173202,
@@ -102,7 +101,8 @@
    :holes 9,
    :layout-holes 9,
    :latitude 47.444338,
-   :image ""}
+   :image "",
+   :location "Grametschlag"}
   {:description "",
    :layout-par 57,
    :homepage "https://dgus.at/",
@@ -119,8 +119,8 @@
    :source :discgolfapi,
    :homepage "https://dgus.at/t",
    :image "",
-   :description "",
-   :layout-name "Main Layout"}
+   :layout-name "Main Layout",
+   :description ""}
   {:name "Eisenstadt - DG Pannonia",
    :longitude 16.526995413265297,
    :latitude 47.85877940536204,
@@ -158,10 +158,9 @@
    :source :discgolfapi,
    :homepage "http://www.discgolfgraz.at/parcours/hebalm/",
    :image "",
-   :description "",
-   :layout-name "Main Layout"}
+   :layout-name "Main Layout",
+   :description ""}
   {:description "",
-   :location "Graz",
    :name "Josefhof",
    :layout-name "Main Layout",
    :longitude 15.501823,
@@ -169,7 +168,8 @@
    :holes 18,
    :layout-holes 18,
    :latitude 47.1268158,
-   :image ""}
+   :image "",
+   :location "Graz"}
   {:name "Karlingberger Gut",
    :longitude 14.642751871793536,
    :latitude 48.252804993702114,
@@ -337,7 +337,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Kappl",
    :homepage
    "http://www.andersgolfen.com/parcours/sunny-mountain-disc-golf-parcours-in-kappl/",
    :name "Sunny Mountain Disc Golf Parcours",
@@ -347,7 +346,8 @@
    :holes 9,
    :layout-holes 9,
    :latitude 47.0667068,
-   :image ""}
+   :image "",
+   :location "Kappl"}
   {:name "USI Innsbruck",
    :longitude 11.352943182031112,
    :latitude 47.25612129545186,

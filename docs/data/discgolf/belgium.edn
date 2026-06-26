@@ -13,7 +13,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "De Pinte",
    :name "DePiDiGo Parkbos",
    :layout-name "Main Layout",
    :longitude 3.67484948733065,
@@ -21,7 +20,8 @@
    :holes 9,
    :layout-holes 9,
    :latitude 50.9872283868067,
-   :image ""}
+   :image "",
+   :location "De Pinte"}
   {:name "Disc Golf #8",
    :longitude 4.6112967,
    :latitude 50.6633567,
@@ -29,7 +29,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Louvain-la-Neuve",
    :name "Discgolf Louvain-la-neuve",
    :layout-name "Main Layout",
    :longitude 4.6069621,
@@ -37,7 +36,8 @@
    :holes 9,
    :layout-holes 9,
    :latitude 50.6664988,
-   :image ""}
+   :image "",
+   :location "Louvain-la-Neuve"}
   {:name "Domaine d'Ahinvaux",
    :longitude 4.9085544,
    :latitude 50.3414324,

@@ -3,10 +3,10 @@ placesurfer.app_ui.state.default_active_topics = (function placesurfer$app_ui$st
 return new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"discgolf","discgolf",416907656),null], null), null);
 });
 placesurfer.app_ui.state.default_update_form = (function placesurfer$app_ui$state$default_update_form(){
-return new cljs.core.PersistentArrayMap(null, 8, [new cljs.core.Keyword(null,"google-url","google-url",1168346589),"",new cljs.core.Keyword(null,"name","name",1843675177),"",new cljs.core.Keyword(null,"locality","locality",842809377),"",new cljs.core.Keyword(null,"homepage","homepage",-1646828249),"",new cljs.core.Keyword(null,"description","description",-1428560544),"",new cljs.core.Keyword(null,"longitude","longitude",-1268876372),"",new cljs.core.Keyword(null,"latitude","latitude",394867543),"",new cljs.core.Keyword(null,"source","source",-433931539),new cljs.core.Keyword(null,"manual","manual",-237370608)], null);
+return new cljs.core.PersistentArrayMap(null, 8, [new cljs.core.Keyword(null,"google-url","google-url",1168346589),"",new cljs.core.Keyword(null,"name","name",1843675177),"",new cljs.core.Keyword(null,"location","location",1815599388),"",new cljs.core.Keyword(null,"homepage","homepage",-1646828249),"",new cljs.core.Keyword(null,"description","description",-1428560544),"",new cljs.core.Keyword(null,"longitude","longitude",-1268876372),"",new cljs.core.Keyword(null,"latitude","latitude",394867543),"",new cljs.core.Keyword(null,"source","source",-433931539),new cljs.core.Keyword(null,"manual","manual",-237370608)], null);
 });
 placesurfer.app_ui.state.default_pin_form = (function placesurfer$app_ui$state$default_pin_form(){
-return new cljs.core.PersistentArrayMap(null, 8, [new cljs.core.Keyword(null,"name","name",1843675177),"",new cljs.core.Keyword(null,"address","address",559499426),"",new cljs.core.Keyword(null,"icon","icon",1679606541),"pin-orange.png",new cljs.core.Keyword(null,"longitude","longitude",-1268876372),"",new cljs.core.Keyword(null,"latitude","latitude",394867543),"",new cljs.core.Keyword(null,"url","url",276297046),"",new cljs.core.Keyword(null,"image","image",-58725096),"",new cljs.core.Keyword(null,"description","description",-1428560544),""], null);
+return new cljs.core.PersistentArrayMap(null, 8, [new cljs.core.Keyword(null,"name","name",1843675177),"",new cljs.core.Keyword(null,"location","location",1815599388),"",new cljs.core.Keyword(null,"icon","icon",1679606541),"pin-orange.png",new cljs.core.Keyword(null,"longitude","longitude",-1268876372),"",new cljs.core.Keyword(null,"latitude","latitude",394867543),"",new cljs.core.Keyword(null,"url","url",276297046),"",new cljs.core.Keyword(null,"image","image",-58725096),"",new cljs.core.Keyword(null,"description","description",-1428560544),""], null);
 });
 placesurfer.app_ui.state.clear_update_selection_state = (function placesurfer$app_ui$state$clear_update_selection_state(state){
 return cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(state,new cljs.core.Keyword(null,"update-selected-row-id","update-selected-row-id",-407969563),null,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"update-selected-row","update-selected-row",-1179126191),null,new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352),cljs.core.PersistentVector.EMPTY,new cljs.core.Keyword(null,"update-url-form","update-url-form",-125092673),null,new cljs.core.Keyword(null,"update-form","update-form",475718790),placesurfer.app_ui.state.default_update_form(),new cljs.core.Keyword(null,"update-form-field-errors","update-form-field-errors",-1735528956),cljs.core.PersistentArrayMap.EMPTY,new cljs.core.Keyword(null,"update-row-baseline","update-row-baseline",-1034088672),null,new cljs.core.Keyword(null,"update-sort","update-sort",-1611336622),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"field","field",-1302436500),null,new cljs.core.Keyword(null,"dir","dir",1734754661),new cljs.core.Keyword(null,"asc","asc",356854569)], null)], 0));
@@ -55,13 +55,13 @@ placesurfer.app_ui.state.clear_update_status_BANG_ = (function placesurfer$app_u
 return cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"update-error","update-error",-572386700),null,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"update-message","update-message",109684659),null], 0));
 });
 placesurfer.app_ui.state.normalize_country_code = (function placesurfer$app_ui$state$normalize_country_code(s){
-var G__38774 = s;
-var G__38774__$1 = (((G__38774 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__38774));
-var G__38774__$2 = (((G__38774__$1 == null))?null:clojure.string.trim(G__38774__$1));
-if((G__38774__$2 == null)){
+var G__48366 = s;
+var G__48366__$1 = (((G__48366 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__48366));
+var G__48366__$2 = (((G__48366__$1 == null))?null:clojure.string.trim(G__48366__$1));
+if((G__48366__$2 == null)){
 return null;
 } else {
-return clojure.string.upper_case(G__38774__$2);
+return clojure.string.upper_case(G__48366__$2);
 }
 });
 placesurfer.app_ui.state.non_empty_js_string_QMARK_ = (function placesurfer$app_ui$state$non_empty_js_string_QMARK_(v){
@@ -108,8 +108,8 @@ return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keywor
 });
 placesurfer.app_ui.state.visible_positions = (function placesurfer$app_ui$state$visible_positions(s){
 var active = cljs.core.set(new cljs.core.Keyword(null,"active-topics","active-topics",1278012558).cljs$core$IFn$_invoke$arity$1(s));
-return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__38775_SHARP_){
-return cljs.core.contains_QMARK_(active,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__38775_SHARP_));
+return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__48387_SHARP_){
+return cljs.core.contains_QMARK_(active,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__48387_SHARP_));
 }),new cljs.core.Keyword(null,"positions","positions",-1380538434).cljs$core$IFn$_invoke$arity$1(s)));
 });
 placesurfer.app_ui.state.bump_description_sync_token = (function placesurfer$app_ui$state$bump_description_sync_token(s){

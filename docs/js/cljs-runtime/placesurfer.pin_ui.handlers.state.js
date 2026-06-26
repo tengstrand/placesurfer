@@ -12,14 +12,14 @@ return placesurfer.pin_ui.handlers.state.render_BANG_();
 });
 placesurfer.pin_ui.handlers.state.update_form_field_BANG_ = (function placesurfer$pin_ui$handlers$state$update_form_field_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___39732 = arguments.length;
-var i__5750__auto___39733 = (0);
+var len__5749__auto___47928 = arguments.length;
+var i__5750__auto___47929 = (0);
 while(true){
-if((i__5750__auto___39733 < len__5749__auto___39732)){
-args__5755__auto__.push((arguments[i__5750__auto___39733]));
+if((i__5750__auto___47929 < len__5749__auto___47928)){
+args__5755__auto__.push((arguments[i__5750__auto___47929]));
 
-var G__39734 = (i__5750__auto___39733 + (1));
-i__5750__auto___39733 = G__39734;
+var G__47930 = (i__5750__auto___47929 + (1));
+i__5750__auto___47929 = G__47930;
 continue;
 } else {
 }
@@ -30,12 +30,12 @@ var argseq__5756__auto__ = ((((2) < args__5755__auto__.length))?(new cljs.core.I
 return placesurfer.pin_ui.handlers.state.update_form_field_BANG_.cljs$core$IFn$_invoke$arity$variadic((arguments[(0)]),(arguments[(1)]),argseq__5756__auto__);
 });
 
-(placesurfer.pin_ui.handlers.state.update_form_field_BANG_.cljs$core$IFn$_invoke$arity$variadic = (function (k,v,p__39720){
-var map__39721 = p__39720;
-var map__39721__$1 = cljs.core.__destructure_map(map__39721);
-var recenter_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__39721__$1,new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),false);
-placesurfer.pin_ui.handlers.state.swap_state_BANG_((function (p1__39712_SHARP_){
-return cljs.core.assoc_in(p1__39712_SHARP_,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"pin-form","pin-form",1370425130),k], null),v);
+(placesurfer.pin_ui.handlers.state.update_form_field_BANG_.cljs$core$IFn$_invoke$arity$variadic = (function (k,v,p__47921){
+var map__47923 = p__47921;
+var map__47923__$1 = cljs.core.__destructure_map(map__47923);
+var recenter_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__47923__$1,new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),false);
+placesurfer.pin_ui.handlers.state.swap_state_BANG_((function (p1__47913_SHARP_){
+return cljs.core.assoc_in(p1__47913_SHARP_,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"pin-form","pin-form",1370425130),k], null),v);
 }));
 
 placesurfer.pin_ui.handlers.state.render_BANG_();
@@ -50,13 +50,13 @@ return null;
 (placesurfer.pin_ui.handlers.state.update_form_field_BANG_.cljs$lang$maxFixedArity = (2));
 
 /** @this {Function} */
-(placesurfer.pin_ui.handlers.state.update_form_field_BANG_.cljs$lang$applyTo = (function (seq39716){
-var G__39717 = cljs.core.first(seq39716);
-var seq39716__$1 = cljs.core.next(seq39716);
-var G__39718 = cljs.core.first(seq39716__$1);
-var seq39716__$2 = cljs.core.next(seq39716__$1);
+(placesurfer.pin_ui.handlers.state.update_form_field_BANG_.cljs$lang$applyTo = (function (seq47915){
+var G__47916 = cljs.core.first(seq47915);
+var seq47915__$1 = cljs.core.next(seq47915);
+var G__47917 = cljs.core.first(seq47915__$1);
+var seq47915__$2 = cljs.core.next(seq47915__$1);
 var self__5734__auto__ = this;
-return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__39717,G__39718,seq39716__$2);
+return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__47916,G__47917,seq47915__$2);
 }));
 
 /**

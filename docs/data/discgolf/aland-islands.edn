@@ -10,8 +10,8 @@
    :source :discgolfapi,
    :homepage "https://www.discgolf.ax/",
    :image "",
-   :description "",
-   :layout-name "Main Layout"}
+   :layout-name "Main Layout",
+   :description ""}
   {:name "Föglö DiscGolfPark",
    :longitude 20.5970358,
    :latitude 60.022825,
@@ -41,14 +41,14 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Sund",
    :homepage "https://www.discgolf.ax/",
    :name "Kastelholm DiscGolfPark",
    :layout-name "Main Layout",
    :longitude 20.0838953255498,
    :source :discgolfapi,
    :latitude 60.2304309303902,
-   :image ""}
+   :image "",
+   :location "Sund"}
   {:name "Käringsund DiscGolfPark",
    :longitude 19.5493264,
    :latitude 60.2390529,
@@ -56,7 +56,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Kökar",
    :layout-par 39,
    :homepage "https://frisbeegolfradat.fi/rata/kokar-discgolfpark/",
    :name "Kökar DiscGolfPark",
@@ -66,33 +65,34 @@
    :holes 12,
    :layout-holes 12,
    :latitude 59.9300063,
-   :image ""}
+   :image "",
+   :location "Kökar"}
   {:description "",
-   :location "Lappo",
    :homepage "https://www.discgolf.ax/",
    :name "Lappo DiscGolfPark",
    :layout-name "Main Layout",
    :longitude 20.9877435408934,
    :source :discgolfapi,
    :latitude 60.3186530340049,
-   :image ""}
+   :image "",
+   :location "Lappo"}
   {:description "",
-   :location "Mariehamn",
    :homepage "https://www.discgolf.ax/",
    :name "Lions Club Mariehamn DiscGolfPark",
    :layout-name "Main Layout",
    :longitude 19.925832890573,
    :source :discgolfapi,
    :latitude 60.0981378227401,
-   :image ""}
+   :image "",
+   :location "Mariehamn"}
   {:name "Soltuna DiscGolfPark",
    :longitude 19.844072813024,
    :latitude 60.3862844265615,
    :source :discgolfapi,
    :location "Geta",
    :image "",
-   :description "",
-   :layout-name "Main Layout"}],
+   :layout-name "Main Layout",
+   :description ""}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

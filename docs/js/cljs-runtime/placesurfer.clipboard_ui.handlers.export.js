@@ -8,23 +8,23 @@ return or__5025__auto__;
 return cljs.core.PersistentVector.EMPTY;
 }
 })();
-var groups = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__41404_SHARP_){
-return cljs.core.select_keys(p1__41404_SHARP_,new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label","label",1718410804)], null));
-}),cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__41405_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"separator","separator",-1628749125),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(p1__41405_SHARP_));
+var groups = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__44324_SHARP_){
+return cljs.core.select_keys(p1__44324_SHARP_,new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label","label",1718410804)], null));
+}),cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__44325_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"separator","separator",-1628749125),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(p1__44325_SHARP_));
 }),items));
-var pins = cljs.core.first(cljs.core.reduce.cljs$core$IFn$_invoke$arity$3((function (p__41406,item){
-var vec__41407 = p__41406;
-var acc = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41407,(0),null);
-var current_label = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41407,(1),null);
+var pins = cljs.core.first(cljs.core.reduce.cljs$core$IFn$_invoke$arity$3((function (p__44326,item){
+var vec__44327 = p__44326;
+var acc = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__44327,(0),null);
+var current_label = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__44327,(1),null);
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"separator","separator",-1628749125),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(item))){
 return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [acc,new cljs.core.Keyword(null,"label","label",1718410804).cljs$core$IFn$_invoke$arity$1(item)], null);
 } else {
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.conj.cljs$core$IFn$_invoke$arity$2(acc,(function (){var G__41410 = cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(item,new cljs.core.Keyword(null,"id","id",-1388402092));
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.conj.cljs$core$IFn$_invoke$arity$2(acc,(function (){var G__44330 = clojure.set.rename_keys(cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(item,new cljs.core.Keyword(null,"id","id",-1388402092)),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"location","location",1815599388)], null));
 if(cljs.core.truth_(current_label)){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__41410,new cljs.core.Keyword(null,"group","group",582596132),current_label);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__44330,new cljs.core.Keyword(null,"group","group",582596132),current_label);
 } else {
-return G__41410;
+return G__44330;
 }
 })()),current_label], null);
 }

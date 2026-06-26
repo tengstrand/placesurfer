@@ -5,10 +5,10 @@ placesurfer.edit.pure.save.empty_save_value_QMARK_ = (function placesurfer$edit$
 return (((v == null)) || (((typeof v === 'string') && (clojure.string.blank_QMARK_(v)))));
 });
 placesurfer.edit.pure.save.compact_save_position = (function placesurfer$edit$pure$save$compact_save_position(position){
-return cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.PersistentArrayMap.EMPTY,cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p__39199){
-var vec__39201 = p__39199;
-var _ = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__39201,(0),null);
-var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__39201,(1),null);
+return cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.PersistentArrayMap.EMPTY,cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p__49941){
+var vec__49942 = p__49941;
+var _ = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__49942,(0),null);
+var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__49942,(1),null);
 return placesurfer.edit.pure.save.empty_save_value_QMARK_(v);
 }),position));
 });
@@ -22,17 +22,17 @@ return or__5025__auto__;
 return country_code;
 }
 })();
-var base = (function (){var base = cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic((function (p1__39204_SHARP_){
+var base = (function (){var base = cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic((function (p1__49945_SHARP_){
 return cljs.core.reduce.cljs$core$IFn$_invoke$arity$3((function (m,k){
 return cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(m,k);
-}),p1__39204_SHARP_,placesurfer.edit.pure.save.tombstone_dissoc_keys);
+}),p1__49945_SHARP_,placesurfer.edit.pure.save.tombstone_dissoc_keys);
 })(row),new cljs.core.Keyword(null,"country-code","country-code",-927451124),country_code_STAR_,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat,new cljs.core.Keyword(null,"action","action",-811238024),new cljs.core.Keyword(null,"deleted","deleted",-510100639)], 0));
-var name = (function (){var G__39206 = new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(base);
-var G__39206__$1 = (((G__39206 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__39206));
-if((G__39206__$1 == null)){
+var name = (function (){var G__49946 = new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(base);
+var G__49946__$1 = (((G__49946 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__49946));
+if((G__49946__$1 == null)){
 return null;
 } else {
-return clojure.string.trim(G__39206__$1);
+return clojure.string.trim(G__49946__$1);
 }
 })();
 if(cljs.core.seq(name)){
@@ -58,9 +58,9 @@ return or__5025__auto__;
 } else {
 return placesurfer.edit.pure.rows.pending_row_QMARK_(row);
 }
-})())?cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(base__$2,new cljs.core.Keyword(null,"action","action",-811238024)):(cljs.core.truth_((function (){var G__39210 = new cljs.core.Keyword(null,"action","action",-811238024).cljs$core$IFn$_invoke$arity$1(base__$2);
-var fexpr__39209 = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"deleted","deleted",-510100639),null,new cljs.core.Keyword(null,"delete","delete",-1768633620),null], null), null);
-return (fexpr__39209.cljs$core$IFn$_invoke$arity$1 ? fexpr__39209.cljs$core$IFn$_invoke$arity$1(G__39210) : fexpr__39209.call(null,G__39210));
+})())?cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(base__$2,new cljs.core.Keyword(null,"action","action",-811238024)):(cljs.core.truth_((function (){var G__49948 = new cljs.core.Keyword(null,"action","action",-811238024).cljs$core$IFn$_invoke$arity$1(base__$2);
+var fexpr__49947 = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"deleted","deleted",-510100639),null,new cljs.core.Keyword(null,"delete","delete",-1768633620),null], null), null);
+return (fexpr__49947.cljs$core$IFn$_invoke$arity$1 ? fexpr__49947.cljs$core$IFn$_invoke$arity$1(G__49948) : fexpr__49947.call(null,G__49948));
 })())?cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(base__$2,new cljs.core.Keyword(null,"action","action",-811238024)):base__$2
 ))));
 }
@@ -77,19 +77,19 @@ return null;
 }
 });
 placesurfer.edit.pure.save.normalize_save_position_for_compare = (function placesurfer$edit$pure$save$normalize_save_position_for_compare(position){
-var map__39212 = position;
-var map__39212__$1 = cljs.core.__destructure_map(map__39212);
-var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
-var locality = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"locality","locality",842809377));
-var homepage = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249));
-var layout_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"layout-name","layout-name",-861676759));
-var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"name","name",1843675177));
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var country_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"country-code","country-code",-927451124));
-var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"source","source",-433931539));
-var holes = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"holes","holes",188002959));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var action = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39212__$1,new cljs.core.Keyword(null,"action","action",-811238024));
+var map__49949 = position;
+var map__49949__$1 = cljs.core.__destructure_map(map__49949);
+var location__$1 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"location","location",1815599388));
+var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
+var homepage = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249));
+var layout_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"layout-name","layout-name",-861676759));
+var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"name","name",1843675177));
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var country_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"country-code","country-code",-927451124));
+var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"source","source",-433931539));
+var holes = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"holes","holes",188002959));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var action = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49949__$1,new cljs.core.Keyword(null,"action","action",-811238024));
 var description_STAR_ = clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1((function (){var or__5025__auto__ = description;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -106,8 +106,8 @@ return "";
 })()));
 var src = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(source))))?(((source instanceof cljs.core.Keyword))?source:cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(source)))):null);
 var action_kw = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(action))))?(function (){var kw = (((action instanceof cljs.core.Keyword))?action:cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(action))));
-if(cljs.core.truth_((function (){var fexpr__39215 = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"deleted","deleted",-510100639),null,new cljs.core.Keyword(null,"delete","delete",-1768633620),null], null), null);
-return (fexpr__39215.cljs$core$IFn$_invoke$arity$1 ? fexpr__39215.cljs$core$IFn$_invoke$arity$1(kw) : fexpr__39215.call(null,kw));
+if(cljs.core.truth_((function (){var fexpr__49950 = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"deleted","deleted",-510100639),null,new cljs.core.Keyword(null,"delete","delete",-1768633620),null], null), null);
+return (fexpr__49950.cljs$core$IFn$_invoke$arity$1 ? fexpr__49950.cljs$core$IFn$_invoke$arity$1(kw) : fexpr__49950.call(null,kw));
 })())){
 return new cljs.core.Keyword(null,"deleted","deleted",-510100639);
 } else {
@@ -115,43 +115,43 @@ return kw;
 }
 })():null);
 if(((typeof longitude === 'number') && (typeof latitude === 'number'))){
-var G__39216 = new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"name","name",1843675177),trimmed_name,new cljs.core.Keyword(null,"longitude","longitude",-1268876372),longitude,new cljs.core.Keyword(null,"latitude","latitude",394867543),latitude,new cljs.core.Keyword(null,"country-code","country-code",-927451124),(function (){var G__39217 = country_code;
-var G__39217__$1 = (((G__39217 == null))?null:clojure.string.trim(G__39217));
-if((G__39217__$1 == null)){
+var G__49951 = new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"name","name",1843675177),trimmed_name,new cljs.core.Keyword(null,"longitude","longitude",-1268876372),longitude,new cljs.core.Keyword(null,"latitude","latitude",394867543),latitude,new cljs.core.Keyword(null,"country-code","country-code",-927451124),(function (){var G__49952 = country_code;
+var G__49952__$1 = (((G__49952 == null))?null:clojure.string.trim(G__49952));
+if((G__49952__$1 == null)){
 return null;
 } else {
-return clojure.string.upper_case(G__39217__$1);
+return clojure.string.upper_case(G__49952__$1);
 }
 })(),new cljs.core.Keyword(null,"description","description",-1428560544),description_STAR_], null);
-var G__39216__$1 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(locality))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39216,new cljs.core.Keyword(null,"locality","locality",842809377),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(locality))):G__39216);
-var G__39216__$2 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39216__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))):G__39216__$1);
-var G__39216__$3 = (cljs.core.truth_(src)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39216__$2,new cljs.core.Keyword(null,"source","source",-433931539),src):G__39216__$2);
-var G__39216__$4 = (cljs.core.truth_(action_kw)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39216__$3,new cljs.core.Keyword(null,"action","action",-811238024),action_kw):G__39216__$3);
-var G__39216__$5 = (((!((holes == null))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39216__$4,new cljs.core.Keyword(null,"holes","holes",188002959),holes):G__39216__$4);
+var G__49951__$1 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(location__$1))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49951,new cljs.core.Keyword(null,"location","location",1815599388),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(location__$1))):G__49951);
+var G__49951__$2 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49951__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))):G__49951__$1);
+var G__49951__$3 = (cljs.core.truth_(src)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49951__$2,new cljs.core.Keyword(null,"source","source",-433931539),src):G__49951__$2);
+var G__49951__$4 = (cljs.core.truth_(action_kw)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49951__$3,new cljs.core.Keyword(null,"action","action",-811238024),action_kw):G__49951__$3);
+var G__49951__$5 = (((!((holes == null))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49951__$4,new cljs.core.Keyword(null,"holes","holes",188002959),holes):G__49951__$4);
 if(cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(layout_name)))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39216__$5,new cljs.core.Keyword(null,"layout-name","layout-name",-861676759),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(layout_name)));
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49951__$5,new cljs.core.Keyword(null,"layout-name","layout-name",-861676759),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(layout_name)));
 } else {
-return G__39216__$5;
+return G__49951__$5;
 }
 } else {
 if(cljs.core.seq(trimmed_name)){
-var G__39218 = new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"name","name",1843675177),trimmed_name,new cljs.core.Keyword(null,"country-code","country-code",-927451124),(function (){var G__39219 = country_code;
-var G__39219__$1 = (((G__39219 == null))?null:clojure.string.trim(G__39219));
-if((G__39219__$1 == null)){
+var G__49953 = new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"name","name",1843675177),trimmed_name,new cljs.core.Keyword(null,"country-code","country-code",-927451124),(function (){var G__49954 = country_code;
+var G__49954__$1 = (((G__49954 == null))?null:clojure.string.trim(G__49954));
+if((G__49954__$1 == null)){
 return null;
 } else {
-return clojure.string.upper_case(G__39219__$1);
+return clojure.string.upper_case(G__49954__$1);
 }
 })(),new cljs.core.Keyword(null,"description","description",-1428560544),description_STAR_], null);
-var G__39218__$1 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(locality))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39218,new cljs.core.Keyword(null,"locality","locality",842809377),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(locality))):G__39218);
-var G__39218__$2 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39218__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))):G__39218__$1);
-var G__39218__$3 = (cljs.core.truth_(src)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39218__$2,new cljs.core.Keyword(null,"source","source",-433931539),src):G__39218__$2);
-var G__39218__$4 = (cljs.core.truth_(action_kw)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39218__$3,new cljs.core.Keyword(null,"action","action",-811238024),action_kw):G__39218__$3);
-var G__39218__$5 = (((!((holes == null))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39218__$4,new cljs.core.Keyword(null,"holes","holes",188002959),holes):G__39218__$4);
+var G__49953__$1 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(location__$1))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49953,new cljs.core.Keyword(null,"location","location",1815599388),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(location__$1))):G__49953);
+var G__49953__$2 = ((cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49953__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(homepage))):G__49953__$1);
+var G__49953__$3 = (cljs.core.truth_(src)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49953__$2,new cljs.core.Keyword(null,"source","source",-433931539),src):G__49953__$2);
+var G__49953__$4 = (cljs.core.truth_(action_kw)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49953__$3,new cljs.core.Keyword(null,"action","action",-811238024),action_kw):G__49953__$3);
+var G__49953__$5 = (((!((holes == null))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49953__$4,new cljs.core.Keyword(null,"holes","holes",188002959),holes):G__49953__$4);
 if(cljs.core.seq(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(layout_name)))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39218__$5,new cljs.core.Keyword(null,"layout-name","layout-name",-861676759),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(layout_name)));
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__49953__$5,new cljs.core.Keyword(null,"layout-name","layout-name",-861676759),clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(layout_name)));
 } else {
-return G__39218__$5;
+return G__49953__$5;
 }
 } else {
 return null;

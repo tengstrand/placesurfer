@@ -475,8 +475,8 @@
    :source :discgolfapi,
    :location "Vessigebro",
    :image "",
-   :description "",
-   :layout-name "Main Layout"}
+   :layout-name "Main Layout",
+   :description ""}
   {:name "Klintsøgård Disc Golf",
    :longitude 11.5978027,
    :latitude 55.9479015,
@@ -492,7 +492,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Kokkedal",
    :homepage "http://home.kfgk.dk/",
    :name "Kokkedal",
    :layout-name "Main Layout",
@@ -501,7 +500,8 @@
    :holes 18,
    :layout-holes 18,
    :latitude 55.9067043090098,
-   :image ""}
+   :image "",
+   :location "Kokkedal"}
   {:name "Kokkedal discgolfbane",
    :longitude 12.464209982052836,
    :latitude 55.90588237604371,
@@ -553,8 +553,8 @@
    :source :discgolfapi,
    :homepage "https://www.facebook.com/MDK2630/",
    :image "",
-   :description "",
-   :layout-name "Main Layout"}
+   :layout-name "Main Layout",
+   :description ""}
   {:name "Nature Park",
    :longitude 14.907340949883263,
    :latitude 55.196350335030075,
@@ -616,8 +616,8 @@
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23779",
    :image "",
-   :description "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "Ringsted disc golf",
    :longitude 11.800328252837204,
    :latitude 55.449283798963364,
@@ -727,7 +727,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Frederikssund",
    :homepage "https://www.sdgk.dk",
    :name "Slangerup Disc Golf Bane",
    :layout-name "Main Layout",
@@ -736,7 +735,8 @@
    :holes 18,
    :layout-holes 18,
    :latitude 55.8378282,
-   :image ""}
+   :image "",
+   :location "Frederikssund"}
   {:name "Smørhullet",
    :longitude 12.595098636178562,
    :latitude 56.02795610169332,
@@ -753,7 +753,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Sorø",
    :homepage "https://soroediscgolf.dk/",
    :name "Sorø Disc Golf",
    :layout-name "Main Layout",
@@ -762,7 +761,8 @@
    :holes 18,
    :layout-holes 18,
    :latitude 55.4385073,
-   :image ""}
+   :image "",
+   :location "Sorø"}
   {:name "Sorø disc golf bane -Oldie Tour",
    :longitude 11.545416583701439,
    :latitude 55.39622750542844,
@@ -836,8 +836,8 @@
    :source :discgolfapi,
    :homepage "https://www.opdrift.org/the-bunker",
    :image "",
-   :description "",
-   :layout-name "Main Layout"}
+   :layout-name "Main Layout",
+   :description ""}
   {:name "Tilst Bypark, ny",
    :longitude 10.093166153040784,
    :latitude 56.186928873813855,

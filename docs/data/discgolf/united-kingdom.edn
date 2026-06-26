@@ -225,14 +225,14 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Furth",
    :homepage "https://discgolfmetrix.com/course/41596",
    :name "VereinsmeisterschaftDGMUC2024",
    :longitude 11.591511998089032,
    :source :discgolfmetrix,
    :latitude 48.03633430881712,
    :image "",
-   :action :deleted}],
+   :action :deleted,
+   :location "Furth"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

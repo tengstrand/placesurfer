@@ -356,13 +356,13 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Boomey",
    :name "Dragon’s Reach",
    :layout-name "Main Layout",
    :longitude 149.0089371,
    :source :discgolfapi,
    :latitude -32.9765992,
    :image "",
+   :location "Boomey",
    :region-code "NSW"}
   {:name "Eddison Park",
    :longitude 149.09166179149548,
@@ -560,7 +560,6 @@
    :image "",
    :description ""}
   {:description "",
-   :location "Nashdale",
    :name "Lake Canobolas",
    :layout-name "Main Layout",
    :longitude 149.018287870255,
@@ -569,6 +568,7 @@
    :layout-holes 18,
    :latitude -33.2886571280295,
    :image "",
+   :location "Nashdale",
    :region-code "NSW"}
   {:name "Lake Crackenback",
    :longitude 148.45077648495027,

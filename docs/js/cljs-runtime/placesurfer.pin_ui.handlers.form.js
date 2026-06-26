@@ -10,7 +10,7 @@ placesurfer.pin_ui.handlers.rows.update_draft_pin_field_BANG_(new cljs.core.Keyw
 return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
 });
 placesurfer.pin_ui.handlers.form.set_pin_address_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_address_BANG_(v){
-placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"address","address",559499426),v);
+placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"location","location",1815599388),v);
 
 return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
 });

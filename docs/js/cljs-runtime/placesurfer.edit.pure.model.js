@@ -22,11 +22,11 @@ return cljs.core.boolean$(cljs.core.re_matches(/^[A-Z]{2}$/,clojure.string.trim(
 placesurfer.edit.pure.model.display_rows = (function placesurfer$edit$pure$model$display_rows(state){
 return placesurfer.edit.pure.rows.display_rows(new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(state),new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(state));
 });
-placesurfer.edit.pure.model.meter_calculation_active_QMARK_ = (function placesurfer$edit$pure$model$meter_calculation_active_QMARK_(p__39046){
-var map__39047 = p__39046;
-var map__39047__$1 = cljs.core.__destructure_map(map__39047);
-var update_sort = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39047__$1,new cljs.core.Keyword(null,"update-sort","update-sort",-1611336622));
-var update_show_duplicates_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39047__$1,new cljs.core.Keyword(null,"update-show-duplicates?","update-show-duplicates?",962796900));
+placesurfer.edit.pure.model.meter_calculation_active_QMARK_ = (function placesurfer$edit$pure$model$meter_calculation_active_QMARK_(p__49925){
+var map__49926 = p__49925;
+var map__49926__$1 = cljs.core.__destructure_map(map__49926);
+var update_sort = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49926__$1,new cljs.core.Keyword(null,"update-sort","update-sort",-1611336622));
+var update_show_duplicates_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49926__$1,new cljs.core.Keyword(null,"update-show-duplicates?","update-show-duplicates?",962796900));
 var or__5025__auto__ = update_show_duplicates_QMARK_;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -36,8 +36,8 @@ return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(field,new cljs.core.Keywor
 }
 });
 placesurfer.edit.pure.model.table_model = (function placesurfer$edit$pure$model$table_model(var_args){
-var G__39051 = arguments.length;
-switch (G__39051) {
+var G__49930 = arguments.length;
+switch (G__49930) {
 case 1:
 return placesurfer.edit.pure.model.table_model.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -56,21 +56,21 @@ throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(
 return placesurfer.edit.pure.model.table_model.cljs$core$IFn$_invoke$arity$2(state,cljs.core.PersistentArrayMap.EMPTY);
 }));
 
-(placesurfer.edit.pure.model.table_model.cljs$core$IFn$_invoke$arity$2 = (function (state,p__39052){
-var map__39053 = p__39052;
-var map__39053__$1 = cljs.core.__destructure_map(map__39053);
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39053__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
-var map__39054 = state;
-var map__39054__$1 = cljs.core.__destructure_map(map__39054);
-var update_selected_row_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39054__$1,new cljs.core.Keyword(null,"update-selected-row-id","update-selected-row-id",-407969563));
-var update_sort = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39054__$1,new cljs.core.Keyword(null,"update-sort","update-sort",-1611336622));
-var update_show_duplicates_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39054__$1,new cljs.core.Keyword(null,"update-show-duplicates?","update-show-duplicates?",962796900));
+(placesurfer.edit.pure.model.table_model.cljs$core$IFn$_invoke$arity$2 = (function (state,p__49931){
+var map__49932 = p__49931;
+var map__49932__$1 = cljs.core.__destructure_map(map__49932);
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49932__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+var map__49933 = state;
+var map__49933__$1 = cljs.core.__destructure_map(map__49933);
+var update_selected_row_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49933__$1,new cljs.core.Keyword(null,"update-selected-row-id","update-selected-row-id",-407969563));
+var update_sort = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49933__$1,new cljs.core.Keyword(null,"update-sort","update-sort",-1611336622));
+var update_show_duplicates_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49933__$1,new cljs.core.Keyword(null,"update-show-duplicates?","update-show-duplicates?",962796900));
 var all_rows = placesurfer.edit.pure.model.display_rows(state);
 var duplicate_filter_QMARK_ = cljs.core.boolean$(update_show_duplicates_QMARK_);
 var meter_calc_QMARK_ = placesurfer.edit.pure.model.meter_calculation_active_QMARK_(state);
-var reference_row = (cljs.core.truth_(meter_calc_QMARK_)?(function (){var or__5025__auto__ = (cljs.core.truth_(update_selected_row_id)?cljs.core.some((function (p1__39048_SHARP_){
-if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(update_selected_row_id,new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(p1__39048_SHARP_))){
-return p1__39048_SHARP_;
+var reference_row = (cljs.core.truth_(meter_calc_QMARK_)?(function (){var or__5025__auto__ = (cljs.core.truth_(update_selected_row_id)?cljs.core.some((function (p1__49927_SHARP_){
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(update_selected_row_id,new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(p1__49927_SHARP_))){
+return p1__49927_SHARP_;
 } else {
 return null;
 }
@@ -84,23 +84,23 @@ return new cljs.core.Keyword(null,"update-selected-row","update-selected-row",-1
 var with_meters = (cljs.core.truth_(meter_calc_QMARK_)?cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (row){
 return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(row,new cljs.core.Keyword(null,"meters","meters",-1644078545),placesurfer.edit.pure.coords.row_distance_m(reference_row,row));
 }),all_rows):all_rows);
-var map__39055 = ((duplicate_filter_QMARK_)?(function (){var dup_ids = placesurfer.edit.pure.duplicates.duplicate_row_id_set(all_rows);
-var dup_rows = cljs.core.filterv((function (p1__39049_SHARP_){
-return cljs.core.contains_QMARK_(dup_ids,new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(p1__39049_SHARP_));
+var map__49934 = ((duplicate_filter_QMARK_)?(function (){var dup_ids = placesurfer.edit.pure.duplicates.duplicate_row_id_set(all_rows);
+var dup_rows = cljs.core.filterv((function (p1__49928_SHARP_){
+return cljs.core.contains_QMARK_(dup_ids,new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(p1__49928_SHARP_));
 }),with_meters);
 return new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"visible-rows","visible-rows",1032226164),placesurfer.edit.pure.duplicates.sort_rows_by_duplicate_clusters(dup_rows),new cljs.core.Keyword(null,"ui-sort-field","ui-sort-field",690376728),new cljs.core.Keyword(null,"duplicates","duplicates",1265485699),new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757),new cljs.core.Keyword(null,"asc","asc",356854569)], null);
-})():(function (){var map__39056 = placesurfer.edit.pure.table.resolve_table_sort(update_sort,false);
-var map__39056__$1 = cljs.core.__destructure_map(map__39056);
-var ui_sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39056__$1,new cljs.core.Keyword(null,"ui-sort-field","ui-sort-field",690376728));
-var sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39056__$1,new cljs.core.Keyword(null,"sort-field","sort-field",-941433793));
-var sort_dir = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39056__$1,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757));
+})():(function (){var map__49935 = placesurfer.edit.pure.table.resolve_table_sort(update_sort,false);
+var map__49935__$1 = cljs.core.__destructure_map(map__49935);
+var ui_sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49935__$1,new cljs.core.Keyword(null,"ui-sort-field","ui-sort-field",690376728));
+var sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49935__$1,new cljs.core.Keyword(null,"sort-field","sort-field",-941433793));
+var sort_dir = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49935__$1,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757));
 var sorted_rows = placesurfer.edit.pure.table.sort_update_table_rows(with_meters,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"sort-field","sort-field",-941433793),sort_field,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757),sort_dir], null),placesurfer.edit.pure.rows.incomplete_manual_draft_QMARK_);
 return new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"visible-rows","visible-rows",1032226164),sorted_rows,new cljs.core.Keyword(null,"ui-sort-field","ui-sort-field",690376728),ui_sort_field,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757),sort_dir], null);
 })());
-var map__39055__$1 = cljs.core.__destructure_map(map__39055);
-var visible_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39055__$1,new cljs.core.Keyword(null,"visible-rows","visible-rows",1032226164));
-var ui_sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39055__$1,new cljs.core.Keyword(null,"ui-sort-field","ui-sort-field",690376728));
-var sort_dir = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39055__$1,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757));
+var map__49934__$1 = cljs.core.__destructure_map(map__49934);
+var visible_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49934__$1,new cljs.core.Keyword(null,"visible-rows","visible-rows",1032226164));
+var ui_sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49934__$1,new cljs.core.Keyword(null,"ui-sort-field","ui-sort-field",690376728));
+var sort_dir = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__49934__$1,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757));
 var table_columns = placesurfer.edit.pure.table.table_columns.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update-columns","update-columns",666065227).cljs$core$IFn$_invoke$arity$1(state),t);
 var field_errors_QMARK_ = placesurfer.edit.pure.model.form_field_errors_QMARK_(state);
 var table_rows = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (row){
@@ -127,9 +127,9 @@ return and__5023__auto__;
 })())){
 return true;
 } else {
-if(cljs.core.truth_((function (){var and__5023__auto__ = placesurfer.edit.pure.rows.row_marked_edited_QMARK_(row);
+if(cljs.core.truth_((function (){var and__5023__auto__ = placesurfer.edit.pure.rows.saved_update_row_id_QMARK_(new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row));
 if(and__5023__auto__){
-var and__5023__auto____$1 = placesurfer.edit.pure.rows.saved_update_row_id_QMARK_(new cljs.core.Keyword(null,"row-id","row-id",246619473).cljs$core$IFn$_invoke$arity$1(row));
+var and__5023__auto____$1 = placesurfer.edit.pure.rows.row_save_fields_valid_QMARK_(row);
 if(and__5023__auto____$1){
 return placesurfer.edit.pure.rows.row_differs_from_disk_baseline_QMARK_(row,disk_baseline);
 } else {
@@ -217,8 +217,8 @@ placesurfer.edit.pure.model.work_rows_for_change_counts = (function placesurfer$
 var rows = placesurfer.edit.pure.model.as_update_rows(new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(state));
 var places = placesurfer.edit.pure.model.as_update_pending_places(new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(state));
 var row_pending_ids = cljs.core.set(cljs.core.keep.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"row-id","row-id",246619473),cljs.core.filter.cljs$core$IFn$_invoke$arity$2(placesurfer.edit.pure.rows.pending_row_QMARK_,rows)));
-var orphan_places = cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__39057_SHARP_){
-return cljs.core.contains_QMARK_(row_pending_ids,new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(p1__39057_SHARP_));
+var orphan_places = cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__49936_SHARP_){
+return cljs.core.contains_QMARK_(row_pending_ids,new cljs.core.Keyword(null,"pending-id","pending-id",1999041996).cljs$core$IFn$_invoke$arity$1(p1__49936_SHARP_));
 }),places);
 return cljs.core.into.cljs$core$IFn$_invoke$arity$2(rows,cljs.core.map.cljs$core$IFn$_invoke$arity$2(placesurfer.edit.pure.rows.pending_place__GT_row,orphan_places));
 });
@@ -234,8 +234,8 @@ var current_ids = placesurfer.edit.pure.model.active_saved_row_ids(new cljs.core
 var client_tombstone_ids = clojure.set.intersection.cljs$core$IFn$_invoke$arity$2(baseline_ids,cljs.core.set(cljs.core.map.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"row-id","row-id",246619473),cljs.core.filter.cljs$core$IFn$_invoke$arity$2(placesurfer.edit.pure.rows.row_marked_deleted_QMARK_,rows))));
 var removed_ids = clojure.set.difference.cljs$core$IFn$_invoke$arity$2(baseline_ids,current_ids);
 var deleted = cljs.core.count(clojure.set.union.cljs$core$IFn$_invoke$arity$2(client_tombstone_ids,removed_ids));
-var edited = cljs.core.count(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__39058_SHARP_){
-return placesurfer.edit.pure.model.row_unsaved_edited_QMARK_(p1__39058_SHARP_,disk_baseline);
+var edited = cljs.core.count(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__49937_SHARP_){
+return placesurfer.edit.pure.model.row_unsaved_edited_QMARK_(p1__49937_SHARP_,disk_baseline);
 }),rows));
 var added = cljs.core.count(cljs.core.filter.cljs$core$IFn$_invoke$arity$2(placesurfer.edit.pure.model.row_unsaved_added_QMARK_,all_rows));
 return new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"deleted","deleted",-510100639),deleted,new cljs.core.Keyword(null,"edited","edited",-262616624),edited,new cljs.core.Keyword(null,"added","added",2057651688),added], null);
@@ -246,14 +246,14 @@ var or__5025__auto__ = placesurfer.edit.pure.model.disk_saved_row_ids_changed_QM
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
-var or__5025__auto____$1 = cljs.core.some((function (p1__39059_SHARP_){
-return placesurfer.edit.pure.model.row_client_save_pending_QMARK_(p1__39059_SHARP_,disk_baseline);
+var or__5025__auto____$1 = cljs.core.some((function (p1__49938_SHARP_){
+return placesurfer.edit.pure.model.row_client_save_pending_QMARK_(p1__49938_SHARP_,disk_baseline);
 }),placesurfer.edit.pure.model.as_update_rows(new cljs.core.Keyword(null,"update-rows","update-rows",-1638458040).cljs$core$IFn$_invoke$arity$1(state)));
 if(cljs.core.truth_(or__5025__auto____$1)){
 return or__5025__auto____$1;
 } else {
-return cljs.core.some((function (p1__39060_SHARP_){
-return placesurfer.edit.pure.model.row_client_save_pending_QMARK_(p1__39060_SHARP_,disk_baseline);
+return cljs.core.some((function (p1__49939_SHARP_){
+return placesurfer.edit.pure.model.row_client_save_pending_QMARK_(p1__49939_SHARP_,disk_baseline);
 }),placesurfer.edit.pure.model.as_update_pending_places(new cljs.core.Keyword(null,"update-pending-places","update-pending-places",-1248905352).cljs$core$IFn$_invoke$arity$1(state)));
 }
 }

@@ -33,7 +33,7 @@ return or__5025__auto__;
 return cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.random_uuid());
 }
 })();
-var G__39363 = cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"id","id",-1388402092),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[cljs.core.str.cljs$core$IFn$_invoke$arity$1((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(item);
+var G__47380 = cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"id","id",-1388402092),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[cljs.core.str.cljs$core$IFn$_invoke$arity$1((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(item);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
@@ -76,15 +76,15 @@ return or__5025__auto__;
 return "";
 }
 })())]);
-var G__39363__$1 = ((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item) === 'string')?cljs.core.update.cljs$core$IFn$_invoke$arity$3(G__39363,new cljs.core.Keyword(null,"longitude","longitude",-1268876372),(function (p1__39361_SHARP_){
-return parseFloat(p1__39361_SHARP_);
-})):G__39363);
+var G__47380__$1 = ((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item) === 'string')?cljs.core.update.cljs$core$IFn$_invoke$arity$3(G__47380,new cljs.core.Keyword(null,"longitude","longitude",-1268876372),(function (p1__47377_SHARP_){
+return parseFloat(p1__47377_SHARP_);
+})):G__47380);
 if(typeof new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(item) === 'string'){
-return cljs.core.update.cljs$core$IFn$_invoke$arity$3(G__39363__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543),(function (p1__39362_SHARP_){
-return parseFloat(p1__39362_SHARP_);
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(G__47380__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543),(function (p1__47379_SHARP_){
+return parseFloat(p1__47379_SHARP_);
 }));
 } else {
-return G__39363__$1;
+return G__47380__$1;
 }
 } else {
 return null;
@@ -104,7 +104,7 @@ return null;
 placesurfer.pin_ui.pure.storage.parse_items = (function placesurfer$pin_ui$pure$storage$parse_items(raw){
 try{var parsed = JSON.parse(raw);
 return cljs.core.vec(cljs.core.keep.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.pure.storage.normalize_item,cljs.core.js__GT_clj.cljs$core$IFn$_invoke$arity$variadic(parsed,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"keywordize-keys","keywordize-keys",1310784252),true], 0))));
-}catch (e39367){var _ = e39367;
+}catch (e47383){var _ = e47383;
 return cljs.core.PersistentVector.EMPTY;
 }});
 /**
@@ -118,7 +118,7 @@ return placesurfer.pin_ui.pure.storage.parse_items(raw);
 } else {
 return cljs.core.PersistentVector.EMPTY;
 }
-}catch (e39368){var _ = e39368;
+}catch (e47385){var _ = e47385;
 return cljs.core.PersistentVector.EMPTY;
 }});
 /**
@@ -126,7 +126,7 @@ return cljs.core.PersistentVector.EMPTY;
  */
 placesurfer.pin_ui.pure.storage.save_pins_BANG_ = (function placesurfer$pin_ui$pure$storage$save_pins_BANG_(items){
 try{return localStorage.setItem(placesurfer.pin_ui.pure.storage.storage_key,JSON.stringify(cljs.core.clj__GT_js(cljs.core.mapv.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.pure.storage.normalize_item,items))));
-}catch (e39370){var _ = e39370;
+}catch (e47386){var _ = e47386;
 return null;
 }});
 placesurfer.pin_ui.pure.storage.new_pin_id = (function placesurfer$pin_ui$pure$storage$new_pin_id(){
