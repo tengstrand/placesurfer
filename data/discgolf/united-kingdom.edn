@@ -224,15 +224,15 @@
    :locality "Glasgow",
    :image "",
    :description ""}
-  {:description "",
-   :locality "Furth",
-   :homepage "https://discgolfmetrix.com/course/41596",
-   :name "VereinsmeisterschaftDGMUC2024",
+  {:name "VereinsmeisterschaftDGMUC2024",
    :longitude 11.591511998089032,
-   :source :discgolfmetrix,
    :latitude 48.03633430881712,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/41596",
+   :locality "Furth",
    :image "",
-   :action :deleted}],
+   :action :deleted,
+   :description ""}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

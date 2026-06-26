@@ -2328,8 +2328,8 @@
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44287",
    :image "",
-   :description "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "El Dorado Park",
    :longitude -118.09796349562822,
    :latitude 33.808285665178275,
@@ -2773,15 +2773,15 @@
    :locality "Maple Valley",
    :image "",
    :description ""}
-  {:description "",
-   :locality "Чабани",
-   :homepage "https://discgolfmetrix.com/course/42273",
-   :name "Game1new",
+  {:name "Game1new",
    :longitude 30.425364198361137,
-   :source :discgolfmetrix,
    :latitude 50.34596011616941,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/42273",
+   :locality "Чабани",
    :image "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "Garbage Hill",
    :longitude -85.6693390227251,
    :latitude 44.82340090474952,
@@ -4920,15 +4920,15 @@
    :locality "Johnsburg",
    :image "",
    :description ""}
-  {:description "",
-   :locality "Brisbane",
-   :homepage "https://discgolfmetrix.com/course/35914",
-   :name "Minnippi Parklands Disc Golf Course",
+  {:name "Minnippi Parklands Disc Golf Course",
    :longitude 153.11046385777894,
-   :source :discgolfmetrix,
    :latitude -27.481252375473602,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/35914",
+   :locality "Brisbane",
    :image "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "MLK Park Disc Golf",
    :longitude -92.4410788,
    :latitude 44.0225219,
@@ -6821,15 +6821,15 @@
    :source :openstreetmap,
    :image "",
    :description ""}
-  {:description "",
-   :locality "Lampeland",
-   :homepage "https://discgolfmetrix.com/course/39650",
-   :name "Stevningsmogen Fritidspark",
+  {:name "Stevningsmogen Fritidspark",
    :longitude 9.570022444366913,
-   :source :discgolfmetrix,
    :latitude 59.83768441642519,
+   :source :discgolfmetrix,
+   :homepage "https://discgolfmetrix.com/course/39650",
+   :locality "Lampeland",
    :image "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "Stoughton Kiwanis Disc Golf Course",
    :longitude -89.2086278,
    :latitude 42.9251512,

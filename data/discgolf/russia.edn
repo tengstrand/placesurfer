@@ -519,8 +519,8 @@
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44321",
    :image "",
-   :description "",
-   :action :deleted}
+   :action :deleted,
+   :description ""}
   {:name "Ростех Арена",
    :longitude 20.53382612833616,
    :latitude 54.69810568904262,
