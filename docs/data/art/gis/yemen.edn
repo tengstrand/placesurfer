@@ -52,7 +52,7 @@
    :longitude 42.9420524,
    :latitude 14.7910673,
    :source :openstreetmap,
-   :locality "الحديدة"}
+   :location "الحديدة"}
   {:name "متحف السلطان",
    :longitude 49.1275553,
    :latitude 14.5314802,

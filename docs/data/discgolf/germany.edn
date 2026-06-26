@@ -9,7 +9,7 @@
    :latitude 51.58745235062037,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30717",
-   :locality "Sallgast",
+   :location "Sallgast",
    :image "",
    :description ""}
   {:name "1.Geierstal Open Vielbrunn/Michelstadt",
@@ -17,7 +17,7 @@
    :latitude 49.708465813151435,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19745",
-   :locality "Michelstadt",
+   :location "Michelstadt",
    :image "",
    :description ""}
   {:name "12er Wuhlheide BackYard",
@@ -25,7 +25,7 @@
    :latitude 52.46529600611021,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45070",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "2. Münchener Gipfeltreffen",
@@ -33,7 +33,7 @@
    :latitude 48.21449172635158,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32548",
-   :locality "München",
+   :location "München",
    :image "",
    :description ""}
   {:name "3. Trierer Disc Golf Open",
@@ -41,7 +41,7 @@
    :latitude 49.7704866046129,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39428",
-   :locality "Trier",
+   :location "Trier",
    :image "",
    :description ""}
   {:name "4 Nations Cup 2026",
@@ -70,7 +70,7 @@
    :latitude 51.76287548787175,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26305",
-   :locality "Beckum",
+   :location "Beckum",
    :image "",
    :description ""}
   {:name "Ahrensburg Pro",
@@ -78,7 +78,7 @@
    :latitude 53.675808990140695,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14251",
-   :locality "Ahrensburg",
+   :location "Ahrensburg",
    :image "",
    :description ""}
   {:name "Ahrensburg v2.0",
@@ -86,7 +86,7 @@
    :latitude 53.67674054655424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26899",
-   :locality "Ahrensburg",
+   :location "Ahrensburg",
    :image "",
    :description ""}
   {:name "Alb Doubles Di-Do Cup",
@@ -101,7 +101,7 @@
    :latitude 53.48743183447024,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43507",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Alsterdorfer Markt",
@@ -109,7 +109,7 @@
    :latitude 53.61312373710007,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27173",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Altastenberg",
@@ -124,7 +124,7 @@
    :latitude 51.603504797413535,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20185",
-   :locality "Lünen",
+   :location "Lünen",
    :image "",
    :description ""}
   {:name "Alte Ziegelei (Open Layout)",
@@ -132,7 +132,7 @@
    :latitude 51.60069427610401,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45161",
-   :locality "Lünen",
+   :location "Lünen",
    :image "",
    :description ""}
   {:name "Altenkirchen",
@@ -140,7 +140,7 @@
    :latitude 50.69292539953287,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25424",
-   :locality "Altenkirchen (Westerwald)",
+   :location "Altenkirchen (Westerwald)",
    :image "",
    :description ""}
   {:name "Autumn Run Special",
@@ -148,7 +148,7 @@
    :latitude 52.47273580178597,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35223",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Bad Fredeburg Open",
@@ -156,7 +156,7 @@
    :latitude 51.1965483380074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33572",
-   :locality "Schmallenberg",
+   :location "Schmallenberg",
    :image "",
    :description ""}
   {:name "Bad Rappenau Kurpark",
@@ -164,7 +164,7 @@
    :latitude 49.240392180134506,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32339",
-   :locality "Bad Rappenau",
+   :location "Bad Rappenau",
    :image "",
    :description ""}
   {:name "Bad Rappenau Kurpark -> Spieltag Januar 2025",
@@ -172,7 +172,7 @@
    :latitude 49.24033491915361,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41614",
-   :locality "Bad Rappenau",
+   :location "Bad Rappenau",
    :image "",
    :description ""}
   {:name "Bad Wörishofen Ostpark (Layout 16)",
@@ -180,7 +180,7 @@
    :latitude 48.00585171738908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17446",
-   :locality "Bad Wörishofen",
+   :location "Bad Wörishofen",
    :image "",
    :description ""}
   {:name "Bad Wörishofen Ostpark (Layout 18) Neu!",
@@ -188,7 +188,7 @@
    :latitude 48.006449314360765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29643",
-   :locality "Bad Wörishofen",
+   :location "Bad Wörishofen",
    :image "",
    :description ""}
   {:name "Bad Wörishofen Putt Challenge",
@@ -196,7 +196,7 @@
    :latitude 48.00610015077319,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22511",
-   :locality "Bad Wörishofen",
+   :location "Bad Wörishofen",
    :image "",
    :description ""}
   {:name "Bad Wörishofen Safari Kettarüttler",
@@ -204,7 +204,7 @@
    :latitude 48.00605288162012,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26066",
-   :locality "Bad Wörishofen",
+   :location "Bad Wörishofen",
    :image "",
    :description ""}
   {:name "Bad Wörishofen Turnierkurs GT Serie Süd",
@@ -212,7 +212,7 @@
    :latitude 48.005873437533495,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20627",
-   :locality "Bad Wörishofen",
+   :location "Bad Wörishofen",
    :image "",
    :description ""}
   {:name "Bad Wörishofen Turnierkurs SST",
@@ -220,7 +220,7 @@
    :latitude 48.00610753457903,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20264",
-   :locality "Bad Wörishofen",
+   :location "Bad Wörishofen",
    :image "",
    :description ""}
   {:name "Bahn 15",
@@ -252,7 +252,7 @@
    :latitude 54.08156177768856,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20389",
-   :locality "Rostock",
+   :location "Rostock",
    :image "",
    :description ""}
   {:name "Baumholder Rolling Hills Discgolf Parcours",
@@ -260,7 +260,7 @@
    :latitude 49.60683529992295,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15689",
-   :locality "55774 Baumholder",
+   :location "55774 Baumholder",
    :image "",
    :description ""}
   {:name "Baumholder Tee Off for Tee Pads",
@@ -268,7 +268,7 @@
    :latitude 49.96643368410139,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24381",
-   :locality "Baumholder",
+   :location "Baumholder",
    :image "",
    :description ""}
   {:name "Beckum Aktivpark Phönix",
@@ -276,7 +276,7 @@
    :latitude 51.762824,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6008",
-   :locality "Beckum",
+   :location "Beckum",
    :image "",
    :description ""}
   {:name "Benningham 6  OBJECT COURSE !!",
@@ -284,7 +284,7 @@
    :latitude 48.94455880801155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26002",
-   :locality "Benningen am Neckar",
+   :location "Benningen am Neckar",
    :image "",
    :description ""}
   {:name "Bergholz-Rehbrücke",
@@ -292,7 +292,7 @@
    :latitude 52.336581092744126,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19357",
-   :locality "Nuthetal",
+   :location "Nuthetal",
    :image "",
    :description ""}
   {:name "Berlin Weißensee 2022",
@@ -300,7 +300,7 @@
    :latitude 52.56491775559368,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26977",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Bernau Kurpark",
@@ -308,7 +308,7 @@
    :latitude 47.81204504825061,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41040",
-   :locality "Bernau am Chiemseee",
+   :location "Bernau am Chiemseee",
    :image "",
    :description ""}
   {:name "Bernau Kurpark B",
@@ -323,7 +323,7 @@
    :latitude 52.06217473458017,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19408",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Bielefeld Obersee",
@@ -331,7 +331,7 @@
    :latitude 52.05980446274859,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22981",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Bielefeld Obersee",
@@ -339,7 +339,7 @@
    :latitude 52.060104548345095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46546",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Bielefeld Obersee - Putt & Approach",
@@ -347,7 +347,7 @@
    :latitude 52.059717202226295,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46545",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Bielefeld Obersee - Westfalentour 2022",
@@ -355,7 +355,7 @@
    :latitude 52.06224768441504,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29353",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Bielefeld Obersee Classics 2022",
@@ -363,7 +363,7 @@
    :latitude 52.05894366826206,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27921",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Bielefeld Sennestadt",
@@ -371,7 +371,7 @@
    :latitude 51.94843489994389,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43586",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Bonn 18 Bahnen Vereinsmeisterschaft",
@@ -379,7 +379,7 @@
    :latitude 50.7049323,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22898",
-   :locality "Bonn",
+   :location "Bonn",
    :image "",
    :description ""}
   {:name "Bonnsai Vereinsmeisterschaft 2022 - Derletal",
@@ -387,7 +387,7 @@
    :latitude 50.70544432175879,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31173",
-   :locality "Bonn",
+   :location "Bonn",
    :image "",
    :description ""}
   {:name "Braunschweig Bürgerpark",
@@ -395,7 +395,7 @@
    :latitude 52.24997981829273,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/3806",
-   :locality "Braunschweig",
+   :location "Braunschweig",
    :image "",
    :description ""}
   {:name "Braunschweig Bürgerpark",
@@ -403,7 +403,7 @@
    :latitude 52.24993540937456,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42308",
-   :locality "Braunschweig",
+   :location "Braunschweig",
    :image "",
    :description ""}
   {:name "Braunschweig Bürgerpark -> Intermediate",
@@ -411,7 +411,7 @@
    :latitude 52.249935161332985,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41948",
-   :locality "Braunschweig",
+   :location "Braunschweig",
    :image "",
    :description ""}
   {:name "Braunschweig Bürgerpark Doubles Event",
@@ -419,7 +419,7 @@
    :latitude 52.2462568241711,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32390",
-   :locality "Braunschweig",
+   :location "Braunschweig",
    :image "",
    :description ""}
   {:name "Braunschweig Westpark -> Crazy 20",
@@ -427,7 +427,7 @@
    :latitude 52.25546231752756,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42207",
-   :locality "Braunschweig",
+   :location "Braunschweig",
    :image "",
    :description ""}
   {:name "Braunschweig Westpark Putt&Approach 2.0",
@@ -435,7 +435,7 @@
    :latitude 52.25536294024306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41319",
-   :locality "Braunschweig",
+   :location "Braunschweig",
    :image "",
    :description ""}
   {:name "Braunschweig Westpark Putt&Approach 2.0",
@@ -443,7 +443,7 @@
    :latitude 52.25540563290241,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41321",
-   :locality "Braunschweig",
+   :location "Braunschweig",
    :image "",
    :description ""}
   {:name "Bremerhaven Championships 2025",
@@ -451,7 +451,7 @@
    :latitude 53.53840839920741,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44416",
-   :locality "Bremerhaven",
+   :location "Bremerhaven",
    :image "",
    :description ""}
   {:name "Bremerhaven Disc Golf Park",
@@ -459,7 +459,7 @@
    :latitude 53.53838460890458,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9364",
-   :locality "Bremerhaven",
+   :location "Bremerhaven",
    :image "",
    :description ""}
   {:name "Bremervörde, Vörder See",
@@ -467,7 +467,7 @@
    :latitude 53.49188596761897,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30449",
-   :locality "Bremervörde",
+   :location "Bremervörde",
    :image "",
    :description ""}
   {:name "Brückenkopf Park",
@@ -475,7 +475,7 @@
    :latitude 50.92278307514465,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22382",
-   :locality "Jülich",
+   :location "Jülich",
    :image "",
    :description ""}
   {:name "Bäkepark XL",
@@ -483,7 +483,7 @@
    :latitude 52.43672837805562,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29904",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Bärenloch",
@@ -491,7 +491,7 @@
    :latitude 51.18782614017607,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41036",
-   :locality "Solingen",
+   :location "Solingen",
    :image "",
    :description ""}
   {:name "Bühl Gewerbeschule",
@@ -499,7 +499,7 @@
    :latitude 48.69548251857228,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24014",
-   :locality "Bühl",
+   :location "Bühl",
    :image "",
    :description ""}
   {:name "C-Cup Kelle",
@@ -514,7 +514,7 @@
    :latitude 51.39193040799634,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14618",
-   :locality "Calden",
+   :location "Calden",
    :image "",
    :description ""}
   {:name "Calden new main caurs",
@@ -522,7 +522,7 @@
    :latitude 51.395042289746954,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20622",
-   :locality "Calden",
+   :location "Calden",
    :image "",
    :description ""}
   {:name "Campus Flensburg",
@@ -530,7 +530,7 @@
    :latitude 54.775508,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5582",
-   :locality "Flensburg",
+   :location "Flensburg",
    :image "",
    :description ""}
   {:name "Campus-Parcours Chemnitz",
@@ -538,7 +538,7 @@
    :latitude 50.81642726854977,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32618",
-   :locality "Chemnitz",
+   :location "Chemnitz",
    :image "",
    :description ""}
   {:name "Challenge the Island",
@@ -546,7 +546,7 @@
    :latitude 52.15222909088257,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34806",
-   :locality "Salzgitter",
+   :location "Salzgitter",
    :image "",
    :description ""}
   {:name "Christmas Cup 2025 Kelle",
@@ -568,7 +568,7 @@
    :latitude 53.60468649079499,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47002",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "City-Nord 18 Loch 2024",
@@ -576,7 +576,7 @@
    :latitude 53.608950014219204,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40412",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "City-Nord Hamburg Liga Kurs",
@@ -584,7 +584,7 @@
    :latitude 53.60908044172089,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23565",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Darmstadt Glow",
@@ -592,7 +592,7 @@
    :latitude 49.86154209550881,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45158",
-   :locality "Darmstadt",
+   :location "Darmstadt",
    :image "",
    :description ""}
   {:name "Darmstadt Lichtwiese 18 Bahnen",
@@ -600,7 +600,7 @@
    :latitude 49.86191774960304,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21649",
-   :locality "Darmstadt",
+   :location "Darmstadt",
    :image "",
    :description ""}
   {:name "Darmstadt university disc golf course",
@@ -608,7 +608,7 @@
    :latitude 49.861701875198094,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16287",
-   :locality "Darmstadt",
+   :location "Darmstadt",
    :image "",
    :description ""}
   {:name "Dassel Stadion",
@@ -616,7 +616,7 @@
    :latitude 51.804896136291006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45338",
-   :locality "Dassel",
+   :location "Dassel",
    :image "",
    :description ""}
   {:name "Delmenhorster Alternative",
@@ -624,7 +624,7 @@
    :latitude 53.042510505255194,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43302",
-   :locality "Delmenhorst",
+   :location "Delmenhorst",
    :image "",
    :description ""}
   {:name "DGC Berlin Weißensee",
@@ -632,7 +632,7 @@
    :latitude 53.039354699996295,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17134",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "DGC Bürgerheide Finsterwalde",
@@ -640,7 +640,7 @@
    :latitude 51.62808532697977,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14856",
-   :locality "Finsterwalde",
+   :location "Finsterwalde",
    :image "",
    :description ""}
   {:name "DGC Eduard-Spranger-Promenade (Festwochen-Park)",
@@ -648,7 +648,7 @@
    :latitude 52.436846444624166,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19267",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "DGC Schlosspark Marquardt",
@@ -656,7 +656,7 @@
    :latitude 52.4579,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11841",
-   :locality "Marquardt",
+   :location "Marquardt",
    :image "",
    :description ""}
   {:name "DGCA Eninger Weide",
@@ -664,7 +664,7 @@
    :latitude 48.491381513743306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41298",
-   :locality "Enigen u. Achalm",
+   :location "Enigen u. Achalm",
    :image "",
    :description ""}
   {:name "DGCA TOUR 11/22",
@@ -672,7 +672,7 @@
    :latitude 48.491965819394125,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29807",
-   :locality "Eningen unter Achalm",
+   :location "Eningen unter Achalm",
    :image "",
    :description ""}
   {:name "DGLH Parcours Lüdinghausen",
@@ -680,7 +680,7 @@
    :latitude 51.76691701244749,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24519",
-   :locality "Lüdinghausen",
+   :location "Lüdinghausen",
    :image "",
    :description ""}
   {:name "DGP Scheibenstraße Köln",
@@ -688,7 +688,7 @@
    :latitude 50.988003,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13810",
-   :locality "Köln",
+   :location "Köln",
    :image "",
    :description ""}
   {:name "Dietenbach Freiburg",
@@ -696,7 +696,7 @@
    :latitude 48.00089548304703,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17726",
-   :locality "Freiburg im Breisgau",
+   :location "Freiburg im Breisgau",
    :image "",
    :description ""}
   {:name "Disc Golf Anlage (Buga 2023)",
@@ -710,7 +710,7 @@
    :latitude 53.169247271555804,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34423",
-   :locality "Westoverledingen",
+   :location "Westoverledingen",
    :image "",
    :description ""}
   {:name "Disc Golf Bonn Derletal",
@@ -718,7 +718,7 @@
    :latitude 50.70460452971744,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22547",
-   :locality "Bonn",
+   :location "Bonn",
    :image "",
    :description ""}
   {:name "Disc Golf Harburg",
@@ -732,7 +732,7 @@
    :latitude 53.58971962898687,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9944",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Disc Golf Lappwald",
@@ -748,7 +748,7 @@
    :latitude 53.47551491410701,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29172",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Disc Golf Parcours",
@@ -768,7 +768,7 @@
    :latitude 51.69032915845801,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44982",
-   :locality "Salzkotten",
+   :location "Salzkotten",
    :image "",
    :description ""}
   {:name "Disc-Golf Bahn",
@@ -788,7 +788,7 @@
    :latitude 52.56397911433726,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31902",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Discgolf Am Ulenhoff Westoverledingen",
@@ -796,7 +796,7 @@
    :latitude 53.170696774380616,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46030",
-   :locality "Westoverledingen",
+   :location "Westoverledingen",
    :image "",
    :description ""}
   {:name "Discgolf Anlage",
@@ -810,7 +810,7 @@
    :latitude 51.41163583255877,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33284",
-   :locality "Breuna",
+   :location "Breuna",
    :image "",
    :description ""}
   {:name "Discgolf at Golf Fleesensee",
@@ -818,7 +818,7 @@
    :latitude 53.47522519745027,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38650",
-   :locality "Göhren-Lebbin",
+   :location "Göhren-Lebbin",
    :image "",
    :description ""}
   {:name "DiscGolf Bergparcours Altenau",
@@ -833,7 +833,7 @@
    :latitude 48.49362,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1095",
-   :locality "Eningen unter Achalm",
+   :location "Eningen unter Achalm",
    :image "",
    :description ""}
   {:name "Discgolf Club Achalm",
@@ -841,7 +841,7 @@
    :latitude 48.488007068922855,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19862",
-   :locality "Eningen unter Achalm",
+   :location "Eningen unter Achalm",
    :image "",
    :description ""}
   {:name "Discgolf Emden Turnierlayout",
@@ -849,7 +849,7 @@
    :latitude 53.372363262003006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45742",
-   :locality "Emden",
+   :location "Emden",
    :image "",
    :description ""}
   {:name "Discgolf Finsterwalde Bürgerheide",
@@ -877,7 +877,7 @@
    :latitude 50.7638520845432,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37832",
-   :locality "Aachen",
+   :location "Aachen",
    :image "",
    :description ""}
   {:name "Discgolf Park Neu Zippendorf",
@@ -892,7 +892,7 @@
    :latitude 53.10756939174854,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36235",
-   :locality "Rotenburg (Wümme)",
+   :location "Rotenburg (Wümme)",
    :image "",
    :description ""}
   {:name "Discgolf-Anlage Bäkepark Pokal der Freundschaft",
@@ -900,7 +900,7 @@
    :latitude 52.43685768319574,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36617",
-   :locality "Lichterfelde",
+   :location "Lichterfelde",
    :image "",
    :description ""}
   {:name "Discgolf-Anlage Pellens Park",
@@ -908,7 +908,7 @@
    :latitude 53.17711948893054,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33127",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "Discgolf-Parcours Witten",
@@ -923,7 +923,7 @@
    :latitude 53.00586871253219,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20587",
-   :locality "Stuhr",
+   :location "Stuhr",
    :image "",
    :description ""}
   {:name "DiscGolfPark - Rheindahlen",
@@ -937,7 +937,7 @@
    :latitude 53.59265976304843,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34583",
-   :locality "Schwerin",
+   :location "Schwerin",
    :image "",
    :description ""}
   {:name "DiscGolfPark TVD Enterchainer Hemer",
@@ -951,7 +951,7 @@
    :latitude 50.01855795730418,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28021",
-   :locality "Dolní Žandov",
+   :location "Dolní Žandov",
    :image "",
    :description ""}
   {:name "Dynamikum Rizzi Open Pirmasens",
@@ -959,7 +959,7 @@
    :latitude 49.20118355202203,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27938",
-   :locality "Pirmasens",
+   :location "Pirmasens",
    :image "",
    :description ""}
   {:name "EBB Autumn Run 2024",
@@ -967,7 +967,7 @@
    :latitude 52.46847352449339,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40453",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "EBB Neujahrsturnier",
@@ -975,7 +975,7 @@
    :latitude 52.472801492153366,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45804",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "EBB-Midsummer2024",
@@ -997,7 +997,7 @@
    :latitude 52.138972786245006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42517",
-   :locality "Magdeburg",
+   :location "Magdeburg",
    :image "",
    :description ""}
   {:name "EMDGC 2025",
@@ -1005,7 +1005,7 @@
    :latitude 52.15252099258177,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44076",
-   :locality "SALZGITTER",
+   :location "SALZGITTER",
    :image "",
    :description ""}
   {:name "Eninger Weide (3B/3C/3D statt 1/15/18)",
@@ -1027,7 +1027,7 @@
    :latitude 48.491542719938934,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27172",
-   :locality "72800 Eningen unter Achalm",
+   :location "72800 Eningen unter Achalm",
    :image "",
    :description ""}
   {:name "Eninger Weide 3c",
@@ -1035,7 +1035,7 @@
    :latitude 48.491966221368756,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25579",
-   :locality "Eningen unter Achalm",
+   :location "Eningen unter Achalm",
    :image "",
    :description ""}
   {:name "Eninger Weide extra long",
@@ -1057,7 +1057,7 @@
    :latitude 48.49200330885927,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22376",
-   :locality "Eningen unter Achalm",
+   :location "Eningen unter Achalm",
    :image "",
    :description ""}
   {:name "Eninger Weide Standardkurs",
@@ -1065,7 +1065,7 @@
    :latitude 48.49348104553172,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24407",
-   :locality "Eningen unter Achalm",
+   :location "Eningen unter Achalm",
    :image "",
    :description ""}
   {:name "Familien-Parcours Ruhpolding",
@@ -1087,7 +1087,7 @@
    :latitude 49.40302695639005,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44511",
-   :locality "Nürnberg",
+   :location "Nürnberg",
    :image "",
    :description ""}
   {:name "Freizeitbad Aquarell",
@@ -1095,7 +1095,7 @@
    :latitude 51.74125549258807,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36251",
-   :locality "Haltern am See",
+   :location "Haltern am See",
    :image "",
    :description ""}
   {:name "Friedenspark Hemer",
@@ -1103,7 +1103,7 @@
    :latitude 51.38697815087758,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29235",
-   :locality "Hemer",
+   :location "Hemer",
    :image "",
    :description ""}
   {:name "Frizbee.at Disc Golf Allgäu",
@@ -1111,7 +1111,7 @@
    :latitude 47.50677821620437,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12435",
-   :locality "Ofterschwang",
+   :location "Ofterschwang",
    :image "",
    :description ""}
   {:name "Frizbee.at Disc Golf Allgäu",
@@ -1119,7 +1119,7 @@
    :latitude 47.50678978253845,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21107",
-   :locality "Ofterschwang",
+   :location "Ofterschwang",
    :image "",
    :description ""}
   {:name "Fröndenberg",
@@ -1127,7 +1127,7 @@
    :latitude 51.4717966,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10149",
-   :locality "Fröndenberg/Ruhr",
+   :location "Fröndenberg/Ruhr",
    :image "",
    :description ""}
   {:name "Frött ohne 6 7 8, mit neuer & alter 4",
@@ -1135,7 +1135,7 @@
    :latitude 48.2163530654737,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26351",
-   :locality "München",
+   :location "München",
    :image "",
    :description ""}
   {:name "frött_13",
@@ -1143,7 +1143,7 @@
    :latitude 48.22189347996161,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19861",
-   :locality "München",
+   :location "München",
    :image "",
    :description ""}
   {:name "Funaten Glow Roderbruch",
@@ -1151,7 +1151,7 @@
    :latitude 52.39453329175379,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35945",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Funaten Glow Vahrenheide",
@@ -1159,7 +1159,7 @@
    :latitude 52.414183860384384,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36406",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Galgenberg",
@@ -1167,7 +1167,7 @@
    :latitude 48.62934643426678,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25981",
-   :locality "Nürtingen",
+   :location "Nürtingen",
    :image "",
    :description ""}
   {:name "Galgenberg Nürtingen (DFCN e. V.)",
@@ -1175,7 +1175,7 @@
    :latitude 48.6290525954044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20625",
-   :locality "Nürtingen",
+   :location "Nürtingen",
    :image "",
    :description ""}
   {:name "Galgenbergpark",
@@ -1183,7 +1183,7 @@
    :latitude 48.628877839447455,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32276",
-   :locality "Nürtingen",
+   :location "Nürtingen",
    :image "",
    :description ""}
   {:name "GDG VM(TM) 2024",
@@ -1191,7 +1191,7 @@
    :latitude 51.49448998095397,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41141",
-   :locality "Dortmund",
+   :location "Dortmund",
    :image "",
    :description ""}
   {:name "Gillbach 18 Bahnen Vereinsmeisterscahft",
@@ -1199,7 +1199,7 @@
    :latitude 51.151489078516676,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22867",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "GLOW FUNATEN Roderbruch",
@@ -1207,7 +1207,7 @@
    :latitude 52.39389348968638,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31301",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Glow Oberhaching",
@@ -1222,7 +1222,7 @@
    :latitude 51.51420496892891,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41800",
-   :locality "Dortmund",
+   :location "Dortmund",
    :image "",
    :description ""}
   {:name "GO Wintermasters 2025 2",
@@ -1230,7 +1230,7 @@
    :latitude 51.520523750027536,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41801",
-   :locality "Dortmund",
+   :location "Dortmund",
    :image "",
    :description ""}
   {:name "Goldstein",
@@ -1244,7 +1244,7 @@
    :latitude 49.54532604351624,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32395",
-   :locality "Mudau",
+   :location "Mudau",
    :image "",
    :description ""}
   {:name "Gravitees Weekly 2026",
@@ -1259,7 +1259,7 @@
    :latitude 51.54918155007084,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46662",
-   :locality "Göttingen",
+   :location "Göttingen",
    :image "",
    :description ""}
   {:name "Grebenstein Steinbruch 2025",
@@ -1267,7 +1267,7 @@
    :latitude 51.456748734668906,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44712",
-   :locality "Grebenstein",
+   :location "Grebenstein",
    :image "",
    :description ""}
   {:name "Greifswald Disc Golf Parcours",
@@ -1275,7 +1275,7 @@
    :latitude 54.08628362714671,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19249",
-   :locality "Greifswald",
+   :location "Greifswald",
    :image "",
    :description ""}
   {:name "Grüttpark",
@@ -1283,7 +1283,7 @@
    :latitude 47.62629663159029,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27513",
-   :locality "Lörrach",
+   :location "Lörrach",
    :image "",
    :description ""}
   {:name "Gutspark",
@@ -1291,7 +1291,7 @@
    :latitude 52.14819787754897,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5385",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "Gutspark - Alternative Nine -",
@@ -1299,7 +1299,7 @@
    :latitude 52.14767554952516,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21133",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "Gutspark Nahmitzer Damm klein",
@@ -1307,7 +1307,7 @@
    :latitude 52.41033454770178,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27148",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Gutspark WF (VM TT 2023)",
@@ -1315,7 +1315,7 @@
    :latitude 52.14812115295405,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33076",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "Göttingen Hochschulsport 12 Bahnen Kurs",
@@ -1323,7 +1323,7 @@
    :latitude 51.54905911801367,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26332",
-   :locality "Göttingen",
+   :location "Göttingen",
    :image "",
    :description ""}
   {:name "Hallenputting",
@@ -1331,7 +1331,7 @@
    :latitude 53.17771620510055,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41618",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "Hamm, Lippeaue",
@@ -1339,7 +1339,7 @@
    :latitude 51.68625738012091,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46522",
-   :locality "Hamm",
+   :location "Hamm",
    :image "",
    :description ""}
   {:name "Hangar 21 Putt & Approach",
@@ -1347,7 +1347,7 @@
    :latitude 51.94216958885545,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44094",
-   :locality "Detmold",
+   :location "Detmold",
    :image "",
    :description ""}
   {:name "Hannover Roderbruch Nord",
@@ -1355,7 +1355,7 @@
    :latitude 52.39168902204512,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/615",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Hannover Vahrenheide",
@@ -1363,7 +1363,7 @@
    :latitude 52.41376318309963,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26607",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Hasenwald Erlebnispark",
@@ -1378,7 +1378,7 @@
    :latitude 54.204095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13951",
-   :locality "Heide",
+   :location "Heide",
    :image "",
    :description ""}
   {:name "Helmstedt 28er",
@@ -1386,7 +1386,7 @@
    :latitude 52.224306764985755,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22214",
-   :locality "Helmstedt",
+   :location "Helmstedt",
    :image "",
    :description ""}
   {:name "Heywood Park",
@@ -1394,7 +1394,7 @@
    :latitude 52.33400823739843,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4945",
-   :locality "Peine",
+   :location "Peine",
    :image "",
    :description ""}
   {:name "Heywoodpark Peine",
@@ -1402,7 +1402,7 @@
    :latitude 52.30377620953362,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32295",
-   :locality "Peine",
+   :location "Peine",
    :image "",
    :description ""}
   {:name "Hilburghausen Schlosspark",
@@ -1410,7 +1410,7 @@
    :latitude 50.42447000802545,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41621",
-   :locality "Hildburghausen",
+   :location "Hildburghausen",
    :image "",
    :description ""}
   {:name "hildesheim",
@@ -1425,7 +1425,7 @@
    :latitude 52.169182948684124,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43213",
-   :locality "Hildesheim",
+   :location "Hildesheim",
    :image "",
    :description ""}
   {:name "Hildesheim.",
@@ -1433,7 +1433,7 @@
    :latitude 52.169639971353945,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21445",
-   :locality "Hildesheim",
+   :location "Hildesheim",
    :image "",
    :description ""}
   {:name "Hochschulsport Göttingen",
@@ -1441,7 +1441,7 @@
    :latitude 51.54925466764226,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29334",
-   :locality "Göttingen",
+   :location "Göttingen",
    :image "",
    :description ""}
   {:name "Homburg Stadtpark",
@@ -1449,7 +1449,7 @@
    :latitude 49.326982216390405,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17708",
-   :locality "Homburg",
+   :location "Homburg",
    :image "",
    :description ""}
   {:name "HoSpo Uni Bremen",
@@ -1457,7 +1457,7 @@
    :latitude 53.10753601705745,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10142",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "Humboldthain Classic",
@@ -1465,7 +1465,7 @@
    :latitude 52.544385642979876,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31225",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Hyzernauts Discgolfparcours, Volkspark Potsdam",
@@ -1473,7 +1473,7 @@
    :latitude 52.42793,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6113",
-   :locality "Potsdam",
+   :location "Potsdam",
    :image "",
    :description ""}
   {:name "Hyzernauts Frauen*Golfen Sommer 2023 (12 Körbe)",
@@ -1481,7 +1481,7 @@
    :latitude 52.426020240840074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33458",
-   :locality "Potsdam",
+   :location "Potsdam",
    :image "",
    :description ""}
   {:name "Hüttengelände Circuit Challenge",
@@ -1489,7 +1489,7 @@
    :latitude 52.260076076814045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43262",
-   :locality "Ilsede",
+   :location "Ilsede",
    :image "",
    :description ""}
   {:name "Hüttengelände Ilsede",
@@ -1497,7 +1497,7 @@
    :latitude 52.26026471178639,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7410",
-   :locality "Ilsede",
+   :location "Ilsede",
    :image "",
    :description ""}
   {:name "Hüttengelände Putt & Approach",
@@ -1505,7 +1505,7 @@
    :latitude 52.25976292997808,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43651",
-   :locality "Ilsede",
+   :location "Ilsede",
    :image "",
    :description ""}
   {:name "Hüttengelände Test-Layout 2024 schwer",
@@ -1513,7 +1513,7 @@
    :latitude 52.26017349394647,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41450",
-   :locality "Groß Ilsede",
+   :location "Groß Ilsede",
    :image "",
    :description ""}
   {:name "Ilsede Hüttengelände",
@@ -1521,7 +1521,7 @@
    :latitude 52.26015653483722,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17519",
-   :locality "Ilsede",
+   :location "Ilsede",
    :image "",
    :description ""}
   {:name "Ilsede Hüttengelände am Wassertum",
@@ -1529,7 +1529,7 @@
    :latitude 52.26012885549517,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42460",
-   :locality "Ilsede",
+   :location "Ilsede",
    :image "",
    :description ""}
   {:name "Ingolstadt Discgolf im Glacis",
@@ -1537,7 +1537,7 @@
    :latitude 48.769655592639396,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26540",
-   :locality "Ingolstadt",
+   :location "Ingolstadt",
    :image "",
    :description ""}
   {:name "Interne Discgolf Hochschulmeisterschaft Darmstadt",
@@ -1545,7 +1545,7 @@
    :latitude 49.86119478869645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27699",
-   :locality "Darmstadt",
+   :location "Darmstadt",
    :image "",
    :description ""}
   {:name "Irhove",
@@ -1560,7 +1560,7 @@
    :latitude 51.39688410418998,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27239",
-   :locality "Iserlohn",
+   :location "Iserlohn",
    :image "",
    :description ""}
   {:name "Jahnstadion",
@@ -1568,7 +1568,7 @@
    :latitude 49.25368816281727,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22207",
-   :locality "Oberhausen-Rheinhausen",
+   :location "Oberhausen-Rheinhausen",
    :image "",
    :description ""}
   {:name "Karlsgarten Nord-Wuhlheide",
@@ -1583,7 +1583,7 @@
    :latitude 52.3322971056391,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11722",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Kellenhusen Hubertus Open",
@@ -1591,7 +1591,7 @@
    :latitude 54.187027648863875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36009",
-   :locality "Kellenhusen (Ostsee)",
+   :location "Kellenhusen (Ostsee)",
    :image "",
    :description ""}
   {:name "Kellenhusen Turnier",
@@ -1599,7 +1599,7 @@
    :latitude 54.184609506891036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32831",
-   :locality "Kellenhusen (Ostsee)",
+   :location "Kellenhusen (Ostsee)",
    :image "",
    :description ""}
   {:name "Kiel Nordmarksportfeld",
@@ -1607,7 +1607,7 @@
    :latitude 54.337202405597054,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34767",
-   :locality "Kiel",
+   :location "Kiel",
    :image "",
    :description ""}
   {:name "Kiesgrube Dollern",
@@ -1615,7 +1615,7 @@
    :latitude 53.54527503994697,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22761",
-   :locality "Dollern",
+   :location "Dollern",
    :image "",
    :description ""}
   {:name "Kissingen-Sportplatz",
@@ -1636,7 +1636,7 @@
    :latitude 54.06762842392868,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34038",
-   :locality "Rostock",
+   :location "Rostock",
    :image "",
    :description ""}
   {:name "Kur-/ Salinenpark Bad Rappenau 18er",
@@ -1644,7 +1644,7 @@
    :latitude 49.24039017786103,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46399",
-   :locality "Bad Rappenau",
+   :location "Bad Rappenau",
    :image "",
    :description ""}
   {:name "Kurpark",
@@ -1673,7 +1673,7 @@
    :latitude 47.921137884886065,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36192",
-   :locality "Bad Krozingen",
+   :location "Bad Krozingen",
    :image "",
    :description ""}
   {:name "Kurpark Bernau C",
@@ -1681,7 +1681,7 @@
    :latitude 47.81088480145715,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44805",
-   :locality "Bernau am Chiemseee",
+   :location "Bernau am Chiemseee",
    :image "",
    :description ""}
   {:name "Kurpark Endorf",
@@ -1703,7 +1703,7 @@
    :latitude 50.98809042457188,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20508",
-   :locality "Köln",
+   :location "Köln",
    :image "",
    :description ""}
   {:name "Königsbrunn",
@@ -1711,7 +1711,7 @@
    :latitude 48.272742849856996,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26410",
-   :locality "Königsbrunn",
+   :location "Königsbrunn",
    :image "",
    :description ""}
   {:name "Königsbrunn",
@@ -1719,7 +1719,7 @@
    :latitude 48.27036367356749,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45571",
-   :locality "Königsbrunn",
+   :location "Königsbrunn",
    :image "",
    :description ""}
   {:name "Königsfeld 15",
@@ -1727,7 +1727,7 @@
    :latitude 48.1346567452222,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30563",
-   :locality "Königsfeld im Schwarzwald",
+   :location "Königsfeld im Schwarzwald",
    :image "",
    :description ""}
   {:name "Königsfeld 18",
@@ -1735,7 +1735,7 @@
    :latitude 48.134741133168404,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31513",
-   :locality "Königsfeld im Schwarzwald",
+   :location "Königsfeld im Schwarzwald",
    :image "",
    :description ""}
   {:name "Landgang Putting League",
@@ -1743,7 +1743,7 @@
    :latitude 53.5656809964419,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36898",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Leinen Los Discgolf Gößweinstein - Grande",
@@ -1751,7 +1751,7 @@
    :latitude 49.77627690832051,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29698",
-   :locality "Gößweinstein",
+   :location "Gößweinstein",
    :image "",
    :description ""}
   {:name "Leintal Schule Schwaigern  - Pokal2023",
@@ -1759,7 +1759,7 @@
    :latitude 49.143676548875476,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34556",
-   :locality "Schwaigern",
+   :location "Schwaigern",
    :image "",
    :description ""}
   {:name "Lengede Seilbahnberg",
@@ -1767,7 +1767,7 @@
    :latitude 52.21002432265399,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23188",
-   :locality "Lengede",
+   :location "Lengede",
    :image "",
    :description ""}
   {:name "Lichterfelde Bäkepark 23er Layout",
@@ -1775,7 +1775,7 @@
    :latitude 52.43679107129765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46811",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Lichterfelde Große Runde",
@@ -1783,7 +1783,7 @@
    :latitude 52.43687999938848,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41279",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Lichterfelder",
@@ -1791,7 +1791,7 @@
    :latitude 52.43704668646234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24897",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Limeplace",
@@ -1799,7 +1799,7 @@
    :latitude 51.39140666660475,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23638",
-   :locality "Calden",
+   :location "Calden",
    :image "",
    :description ""}
   {:name "Loch 10",
@@ -1844,7 +1844,7 @@
    :latitude 49.24033147549818,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32061",
-   :locality "Bad Rappenau",
+   :location "Bad Rappenau",
    :image "",
    :description ""}
   {:name "Luitpoldhain",
@@ -1852,7 +1852,7 @@
    :latitude 49.43252076100384,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5395",
-   :locality "Nürnberg",
+   :location "Nürnberg",
    :image "",
    :description ""}
   {:name "Luitpoldpark Schwabmünchen",
@@ -1860,7 +1860,7 @@
    :latitude 48.18359991029095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20599",
-   :locality "Schwabmünchen",
+   :location "Schwabmünchen",
    :image "",
    :description ""}
   {:name "Luitpolthain Nürnberg",
@@ -1868,7 +1868,7 @@
    :latitude 49.43447846433406,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17145",
-   :locality "Nürnberg",
+   :location "Nürnberg",
    :image "",
    :description ""}
   {:name "Lußsee",
@@ -1876,7 +1876,7 @@
    :latitude 48.20133991433525,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32187",
-   :locality "München",
+   :location "München",
    :image "",
    :description ""}
   {:name "Lüdinghausen (Regular 14)",
@@ -1884,7 +1884,7 @@
    :latitude 51.76636530958376,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32086",
-   :locality "Lüdinghausen",
+   :location "Lüdinghausen",
    :image "",
    :description ""}
   {:name "Lüdinghausen WT-Layout",
@@ -1892,7 +1892,7 @@
    :latitude 51.76690185778082,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41731",
-   :locality "Lüdinghausen",
+   :location "Lüdinghausen",
    :image "",
    :description ""}
   {:name "Lünen",
@@ -1900,7 +1900,7 @@
    :latitude 51.59957363650745,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5948",
-   :locality "Lünen",
+   :location "Lünen",
    :image "",
    :description ""}
   {:name "Lünen",
@@ -1908,7 +1908,7 @@
    :latitude 51.6032555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10265",
-   :locality "Lünen",
+   :location "Lünen",
    :image "",
    :description ""}
   {:name "Lünen,  Seepark - 13 Bahnen (WT-Tour #11 2021)",
@@ -1916,7 +1916,7 @@
    :latitude 51.600432792464005,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25469",
-   :locality "Lünen-Horstmar",
+   :location "Lünen-Horstmar",
    :image "",
    :description ""}
   {:name "Madeline Bertrand",
@@ -1931,7 +1931,7 @@
    :latitude 49.986588,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5529",
-   :locality "Mainz",
+   :location "Mainz",
    :image "",
    :description ""}
   {:name "MarienBergPark",
@@ -1939,7 +1939,7 @@
    :latitude 49.47506471134139,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33522",
-   :locality "Nürnberg",
+   :location "Nürnberg",
    :image "",
    :description ""}
   {:name "Massenbach 9er",
@@ -1947,7 +1947,7 @@
    :latitude 49.157499314871245,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33003",
-   :locality "Schwaigern",
+   :location "Schwaigern",
    :image "",
    :description ""}
   {:name "Michis BackYard",
@@ -1962,7 +1962,7 @@
    :latitude 52.285373,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4860",
-   :locality "Minden",
+   :location "Minden",
    :image "",
    :description ""}
   {:name "Minigolf Züschen",
@@ -1970,7 +1970,7 @@
    :latitude 51.172694867006044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43200",
-   :locality "Züschen",
+   :location "Züschen",
    :image "",
    :description ""}
   {:name "Mobiler Discgolf Parcours am Spektepark",
@@ -1978,7 +1978,7 @@
    :latitude 52.54135208141224,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26591",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Modul E",
@@ -2006,7 +2006,7 @@
    :latitude 47.501696061984376,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19048",
-   :locality "Ofterschwang",
+   :location "Ofterschwang",
    :image "",
    :description ""}
   {:name "Neuss Ende  im Gelände",
@@ -2014,7 +2014,7 @@
    :latitude 51.19852923694887,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34086",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "Neuss Gillbach",
@@ -2022,7 +2022,7 @@
    :latitude 51.152044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13934",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "Neuss Rennbahn Vereinsmeisterschaft",
@@ -2030,7 +2030,7 @@
    :latitude 51.19730378804849,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27038",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "Neuss RennbahnPark",
@@ -2038,7 +2038,7 @@
    :latitude 51.197899,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12695",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "Nikolauskurs Wietzepark Langenhagen",
@@ -2046,7 +2046,7 @@
    :latitude 52.4544099867542,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21427",
-   :locality "Langenhagen",
+   :location "Langenhagen",
    :image "",
    :description ""}
   {:name "Norderstedt HC 27 (3x9 Bahnen)",
@@ -2054,7 +2054,7 @@
    :latitude 53.71086966224277,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25646",
-   :locality "Norderstedt",
+   :location "Norderstedt",
    :image "",
    :description ""}
   {:name "Norderstedt Syltkuhlen NSV Turnier Layout",
@@ -2062,7 +2062,7 @@
    :latitude 53.713468539322264,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24003",
-   :locality "Norderstedt",
+   :location "Norderstedt",
    :image "",
    :description ""}
   {:name "Norderstedt Syltkühlen NSV",
@@ -2070,7 +2070,7 @@
    :latitude 53.721109933762875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20042",
-   :locality "Norderstedt",
+   :location "Norderstedt",
    :image "",
    :description ""}
   {:name "Northeim Wilhelmswiese",
@@ -2078,7 +2078,7 @@
    :latitude 51.70534396719265,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31125",
-   :locality "Northeim",
+   :location "Northeim",
    :image "",
    :description ""}
   {:name "Oberhaching Sportschule",
@@ -2086,7 +2086,7 @@
    :latitude 48.03607374877086,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38425",
-   :locality "82041 Oberhaching",
+   :location "82041 Oberhaching",
    :image "",
    :description ""}
   {:name "Oberschleissheim",
@@ -2094,7 +2094,7 @@
    :latitude 48.24633209988863,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35956",
-   :locality "Oberschleißheim",
+   :location "Oberschleißheim",
    :image "",
    :description ""}
   {:name "Obersee 16er",
@@ -2102,7 +2102,7 @@
    :latitude 52.04739083486098,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16744",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Obersee 16er Best Shot",
@@ -2110,7 +2110,7 @@
    :latitude 52.00950408533362,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17425",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "Obersee Classics - Bielefeld",
@@ -2118,7 +2118,7 @@
    :latitude 52.05980368855245,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24588",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "ODK-Spaßparcours",
@@ -2126,7 +2126,7 @@
    :latitude 54.1835330403604,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36056",
-   :locality "Kellenhusen (Ostsee)",
+   :location "Kellenhusen (Ostsee)",
    :image "",
    :description ""}
   {:name "ODK-Spaßturnier 2023",
@@ -2134,7 +2134,7 @@
    :latitude 54.18656676391416,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31771",
-   :locality "Kellenhusen (Ostsee)",
+   :location "Kellenhusen (Ostsee)",
    :image "",
    :description ""}
   {:name "Oldenburg i.H. 23758",
@@ -2142,7 +2142,7 @@
    :latitude 54.2935422097687,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26175",
-   :locality "23758 Oldenburg in Holstein",
+   :location "23758 Oldenburg in Holstein",
    :image "",
    :description ""}
   {:name "Oldenburger Generalprobe",
@@ -2157,7 +2157,7 @@
    :latitude 54.29356853263346,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32204",
-   :locality "Oldenburg in Holstein",
+   :location "Oldenburg in Holstein",
    :image "",
    :description ""}
   {:name "Olsberg-Bruchhausen",
@@ -2165,7 +2165,7 @@
    :latitude 51.286,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5240",
-   :locality "Olsberg",
+   :location "Olsberg",
    :image "",
    :description ""}
   {:name "Ostfriesisches Osterturnier 2026",
@@ -2180,7 +2180,7 @@
    :latitude 53.17096117922807,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44837",
-   :locality "Westoverledingen",
+   :location "Westoverledingen",
    :image "",
    :description ""}
   {:name "Ostpark Open 2020",
@@ -2188,7 +2188,7 @@
    :latitude 49.99255284786565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19497",
-   :locality "Rüsselsheim am Main",
+   :location "Rüsselsheim am Main",
    :image "",
    :description ""}
   {:name "Ostritz",
@@ -2196,7 +2196,7 @@
    :latitude 51.00902086133843,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36733",
-   :locality "Ostritz",
+   :location "Ostritz",
    :image "",
    :description ""}
   {:name "Ostsee Discgolf Kellenhusen",
@@ -2204,7 +2204,7 @@
    :latitude 54.182623,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5330",
-   :locality "Grömitz",
+   :location "Grömitz",
    :image "",
    :description ""}
   {:name "Ostsee Discgolf Kellenhusen",
@@ -2212,7 +2212,7 @@
    :latitude 54.193085,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5331",
-   :locality "Kellenhusen (Ostsee)",
+   :location "Kellenhusen (Ostsee)",
    :image "",
    :description ""}
   {:name "Ostsee Discgolf Kellenhusen Normal",
@@ -2220,7 +2220,7 @@
    :latitude 54.212340728040374,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15548",
-   :locality "Kellenhusen",
+   :location "Kellenhusen",
    :image "",
    :description ""}
   {:name "Ostsee Open Air",
@@ -2242,7 +2242,7 @@
    :latitude 52.286138183100064,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27753",
-   :locality "Minden",
+   :location "Minden",
    :image "",
    :description ""}
   {:name "Pankow Concrete",
@@ -2250,7 +2250,7 @@
    :latitude 52.562914880949734,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26309",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Parcours Kelle Januar",
@@ -2265,7 +2265,7 @@
    :latitude 52.43689988639349,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31676",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Peißenberg",
@@ -2273,7 +2273,7 @@
    :latitude 47.790496488492806,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26886",
-   :locality "Peißenberg",
+   :location "Peißenberg",
    :image "",
    :description ""}
   {:name "Peißenberg Standard",
@@ -2281,7 +2281,7 @@
    :latitude 47.79653564426371,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26887",
-   :locality "Peißenberg",
+   :location "Peißenberg",
    :image "",
    :description ""}
   {:name "Pfad Loch 1",
@@ -2295,7 +2295,7 @@
    :latitude 51.43685320481168,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26973",
-   :locality "Witten",
+   :location "Witten",
    :image "",
    :description ""}
   {:name "Piepenbrink Park Helmstedt",
@@ -2303,7 +2303,7 @@
    :latitude 52.222805594033645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1068",
-   :locality "Helmstedt",
+   :location "Helmstedt",
    :image "",
    :description ""}
   {:name "Pirmasens Dynamikum Winter",
@@ -2311,7 +2311,7 @@
    :latitude 49.200937911168126,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14178",
-   :locality "Pirmasens",
+   :location "Pirmasens",
    :image "",
    :description ""}
   {:name "Plattdeutsch Open",
@@ -2326,7 +2326,7 @@
    :latitude 52.42508654329748,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28050",
-   :locality "Potsdam",
+   :location "Potsdam",
    :image "",
    :description ""}
   {:name "Putt and Approach Spot - Oslebshauser Park",
@@ -2334,7 +2334,7 @@
    :latitude 53.130451246298975,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27088",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "PuttPuttsEi",
@@ -2342,7 +2342,7 @@
    :latitude 48.62681268598075,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40817",
-   :locality "Nürtingen",
+   :location "Nürtingen",
    :image "",
    :description ""}
   {:name "Quartalsturnier ODK September 22",
@@ -2350,7 +2350,7 @@
    :latitude 54.18511116080495,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30139",
-   :locality "Kellenhusen (Ostsee)",
+   :location "Kellenhusen (Ostsee)",
    :image "",
    :description ""}
   {:name "rabbits schanze",
@@ -2358,7 +2358,7 @@
    :latitude 48.096668859294454,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19447",
-   :locality "Krailling",
+   :location "Krailling",
    :image "",
    :description ""}
   {:name "Rappenauer DGC BagTag",
@@ -2366,7 +2366,7 @@
    :latitude 49.241161894016955,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31435",
-   :locality "Bad Rappenau",
+   :location "Bad Rappenau",
    :image "",
    :description ""}
   {:name "Ravensberge Neu",
@@ -2374,7 +2374,7 @@
    :latitude 52.375881783483095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23805",
-   :locality "Potsdam",
+   :location "Potsdam",
    :image "",
    :description ""}
   {:name "Recklinghausen Süd 2020",
@@ -2382,7 +2382,7 @@
    :latitude 51.57460437039205,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27641",
-   :locality "Recklinghausen",
+   :location "Recklinghausen",
    :image "",
    :description ""}
   {:name "Rennbahn-DirkB.",
@@ -2390,7 +2390,7 @@
    :latitude 51.19832506573445,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18793",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "Reutlingen/ Carl-Diem-Stadion",
@@ -2405,7 +2405,7 @@
    :latitude 51.519650286314544,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15953",
-   :locality "Dortmund",
+   :location "Dortmund",
    :image "",
    :description ""}
   {:name "Revierpark Wischlingen - Trilogy Layout",
@@ -2413,7 +2413,7 @@
    :latitude 51.51931450055534,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19172",
-   :locality "Dortmund",
+   :location "Dortmund",
    :image "",
    :description ""}
   {:name "Roderbruch",
@@ -2421,7 +2421,7 @@
    :latitude 52.40045363283866,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37791",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Roderbruch 18 Körbe Layout",
@@ -2429,7 +2429,7 @@
    :latitude 52.39346709380371,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30488",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Roderbruch Turnierlayout 2021",
@@ -2437,7 +2437,7 @@
    :latitude 52.394211437245986,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24920",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Rothenbergpark",
@@ -2445,7 +2445,7 @@
    :latitude 51.326102115342735,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39330",
-   :locality "Kassel",
+   :location "Kassel",
    :image "",
    :description ""}
   {:name "Rubicon",
@@ -2453,7 +2453,7 @@
    :latitude 49.77550704070393,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39916",
-   :locality "Gössweinstein",
+   :location "Gössweinstein",
    :image "",
    :description ""}
   {:name "Ruhpolding",
@@ -2461,7 +2461,7 @@
    :latitude 47.7143312,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11454",
-   :locality "Ruhpolding",
+   :location "Ruhpolding",
    :image "",
    :description ""}
   {:name "Rüsselsheim Ostpark",
@@ -2469,7 +2469,7 @@
    :latitude 49.99131230305525,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5327",
-   :locality "Rüsselsheim am Main",
+   :location "Rüsselsheim am Main",
    :image "",
    :description ""}
   {:name "Rüsselsheim Waldschwimmbad",
@@ -2477,7 +2477,7 @@
    :latitude 49.994268934203205,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16695",
-   :locality "Rüsselsheim",
+   :location "Rüsselsheim",
    :image "",
    :description ""}
   {:name "Rüsselsheim Waldschwimmbad",
@@ -2485,7 +2485,7 @@
    :latitude 49.99434239949184,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22199",
-   :locality "Rüsselsheim am Main",
+   :location "Rüsselsheim am Main",
    :image "",
    :description ""}
   {:name "Salzgitter - Salzgittersee",
@@ -2493,7 +2493,7 @@
    :latitude 52.152160932781,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19584",
-   :locality "Salzgitter",
+   :location "Salzgitter",
    :image "",
    :description ""}
   {:name "Schlossblick Open",
@@ -2501,7 +2501,7 @@
    :latitude 49.87009126317113,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42055",
-   :locality "Heiligenstadt",
+   :location "Heiligenstadt",
    :image "",
    :description ""}
   {:name "Schlosspark Biebrich (Objekt Discgolf)",
@@ -2509,7 +2509,7 @@
    :latitude 50.03996432296901,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45928",
-   :locality "Biebrich",
+   :location "Biebrich",
    :image "",
    :description ""}
   {:name "Schlosspark Hildburghausen",
@@ -2538,7 +2538,7 @@
    :latitude 48.18347361306621,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14314",
-   :locality "Schwabmünchen",
+   :location "Schwabmünchen",
    :image "",
    :description ""}
   {:name "Schöningen Open",
@@ -2546,7 +2546,7 @@
    :latitude 52.14081064379385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5236",
-   :locality "Schöningen",
+   :location "Schöningen",
    :image "",
    :description ""}
   {:name "Seeligerpark Wolfenbüttel",
@@ -2554,7 +2554,7 @@
    :latitude 52.161626213377815,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26902",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "Seepark Lünen",
@@ -2562,7 +2562,7 @@
    :latitude 51.603251381178325,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41768",
-   :locality "Lünen",
+   :location "Lünen",
    :image "",
    :description ""}
   {:name "Silbersee Turnier Layout",
@@ -2570,7 +2570,7 @@
    :latitude 51.29652669097206,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34073",
-   :locality "Leipzig",
+   :location "Leipzig",
    :image "",
    :description ""}
   {:name "Spaßbahnen Oldenburg Januar 2024",
@@ -2578,7 +2578,7 @@
    :latitude 54.293538580454566,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37022",
-   :locality "Oldenburg in Holstein",
+   :location "Oldenburg in Holstein",
    :image "",
    :description ""}
   {:name "Spaßturnier ODK September 24",
@@ -2593,7 +2593,7 @@
    :latitude 49.26470907828303,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39726",
-   :locality "Bad Friedrichshall",
+   :location "Bad Friedrichshall",
    :image "",
    :description ""}
   {:name "Sportzentrum Augsburg",
@@ -2607,7 +2607,7 @@
    :latitude 51.7474,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20747",
-   :locality "Cottbus",
+   :location "Cottbus",
    :image "",
    :description ""}
   {:name "Spring Open 2024",
@@ -2615,7 +2615,7 @@
    :latitude 52.465301638903384,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38038",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Stadtpark Homburg",
@@ -2623,7 +2623,7 @@
    :latitude 49.32706637876936,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24158",
-   :locality "Homburg",
+   :location "Homburg",
    :image "",
    :description ""}
   {:name "Stadtpark Ilmenau",
@@ -2631,7 +2631,7 @@
    :latitude 50.68134858203882,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33290",
-   :locality "Ilmenau",
+   :location "Ilmenau",
    :image "",
    :description ""}
   {:name "Stadtpark Moringen",
@@ -2639,7 +2639,7 @@
    :latitude 51.6980109111544,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21280",
-   :locality "Moringen",
+   :location "Moringen",
    :image "",
    :description ""}
   {:name "Stadtpark Worms 15 Bahnen",
@@ -2647,7 +2647,7 @@
    :latitude 49.617330122466086,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21644",
-   :locality "Worms",
+   :location "Worms",
    :image "",
    :description ""}
   {:name "Stadtpark Worms, Wäldchen 18er",
@@ -2655,7 +2655,7 @@
    :latitude 49.617701605730275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28715",
-   :locality "Worms",
+   :location "Worms",
    :image "",
    :description ""}
   {:name "Stuttgart 202x",
@@ -2663,7 +2663,7 @@
    :latitude 48.79705153646998,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44296",
-   :locality "Stuttgart",
+   :location "Stuttgart",
    :image "",
    :description ""}
   {:name "SuperFly Scheibensport",
@@ -2671,7 +2671,7 @@
    :latitude 53.0847809,
    :source :openstreetmap,
    :homepage "http://www.skyflydiscgolf.de/",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "Söhnstetten Mauertal",
@@ -2679,7 +2679,7 @@
    :latitude 48.67535708210963,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17904",
-   :locality "Söhnstetten",
+   :location "Söhnstetten",
    :image "",
    :description ""}
   {:name "Südstaatentour 2023",
@@ -2687,7 +2687,7 @@
    :latitude 48.6760075107093,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35157",
-   :locality "Steinheim am Albuch",
+   :location "Steinheim am Albuch",
    :image "",
    :description ""}
   {:name "Trabrennbahn Panitzsch Borsdorf Leipzig",
@@ -2695,7 +2695,7 @@
    :latitude 51.359157468826055,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43852",
-   :locality "Leipzig",
+   :location "Leipzig",
    :image "",
    :description ""}
   {:name "Trier Uni",
@@ -2710,7 +2710,7 @@
    :latitude 49.742599661662126,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38194",
-   :locality "Trier",
+   :location "Trier",
    :image "",
    :description ""}
   {:name "Uni Trier - Front 8",
@@ -2718,7 +2718,7 @@
    :latitude 49.74316957612709,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38195",
-   :locality "Trier",
+   :location "Trier",
    :image "",
    :description ""}
   {:name "Uni Trier 18er",
@@ -2726,7 +2726,7 @@
    :latitude 49.74257907368241,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38196",
-   :locality "Trier",
+   :location "Trier",
    :image "",
    :description ""}
   {:name "Unteres Gehäu Disc Golf Challenge",
@@ -2734,7 +2734,7 @@
    :latitude 49.97194126429176,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35445",
-   :locality "Breitengüßbach",
+   :location "Breitengüßbach",
    :image "",
    :description ""}
   {:name "Untermeitingen",
@@ -2742,7 +2742,7 @@
    :latitude 48.179240125334616,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25959",
-   :locality "Untermeitingen",
+   :location "Untermeitingen",
    :image "",
    :description ""}
   {:name "Vahrenheide-Bronx",
@@ -2750,7 +2750,7 @@
    :latitude 52.41351301495948,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16611",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Vereinsmeisterschaft Disc Golf Niederrhein 2021",
@@ -2758,7 +2758,7 @@
    :latitude 51.19761974187438,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23070",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "Vereinsmeisterschaft Funaten 2019 - Vahrenh./Bronx",
@@ -2766,7 +2766,7 @@
    :latitude 52.41354747988859,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16678",
-   :locality "Hannover",
+   :location "Hannover",
    :image "",
    :description ""}
   {:name "Vereinsmeisterschaft™",
@@ -2774,7 +2774,7 @@
    :latitude 51.5202798493952,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9419",
-   :locality "Dortmund",
+   :location "Dortmund",
    :image "",
    :description ""}
   {:name "Volkspark Langendreer Bochum",
@@ -2782,7 +2782,7 @@
    :latitude 51.4746870271085,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35093",
-   :locality "Bochum",
+   :location "Bochum",
    :image "",
    :description ""}
   {:name "Volkspark Potsdam",
@@ -2790,7 +2790,7 @@
    :latitude 52.42793,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/969",
-   :locality "Potsdam",
+   :location "Potsdam",
    :image "",
    :description ""}
   {:name "Volkspark Potsdam",
@@ -2798,7 +2798,7 @@
    :latitude 52.42553433720042,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46016",
-   :locality "Potsdam",
+   :location "Potsdam",
    :image "",
    :description ""}
   {:name "Volkspark Potsdam (Sommer)",
@@ -2806,7 +2806,7 @@
    :latitude 52.42588476748031,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19067",
-   :locality "Potsdam",
+   :location "Potsdam",
    :image "",
    :description ""}
   {:name "Volkspark Schöningen",
@@ -2814,7 +2814,7 @@
    :latitude 52.140652614711804,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11156",
-   :locality "Schöningen",
+   :location "Schöningen",
    :image "",
    :description ""}
   {:name "Waldschwimmbad Rüsselsheim",
@@ -2822,7 +2822,7 @@
    :latitude 49.99408119062946,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26464",
-   :locality "Rüsselsheim am Main",
+   :location "Rüsselsheim am Main",
    :image "",
    :description ""}
   {:name "Waldstadt Iserlohn",
@@ -2830,7 +2830,7 @@
    :latitude 51.37054554414641,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44646",
-   :locality "Iserlohn",
+   :location "Iserlohn",
    :image "",
    :description ""}
   {:name "Warsteiner Bikepark",
@@ -2838,7 +2838,7 @@
    :latitude 51.439693,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12183",
-   :locality "Rüthen",
+   :location "Rüthen",
    :image "",
    :description ""}
   {:name "Warsteiner Bikepark, Kallenhardt",
@@ -2846,7 +2846,7 @@
    :latitude 51.43954573744526,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25670",
-   :locality "Rüthen",
+   :location "Rüthen",
    :image "",
    :description ""}
   {:name "weilheim",
@@ -2854,7 +2854,7 @@
    :latitude 47.83101135698524,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17756",
-   :locality "Weilheim in Oberbayern",
+   :location "Weilheim in Oberbayern",
    :image "",
    :description ""}
   {:name "Weißensee",
@@ -2862,7 +2862,7 @@
    :latitude 52.52348854226514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32923",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "Wenzenbach Aue",
@@ -2870,7 +2870,7 @@
    :latitude 49.06779432144688,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39245",
-   :locality "Gonnersdorf",
+   :location "Gonnersdorf",
    :image "",
    :description ""}
   {:name "Wesel 15 Körbe",
@@ -2878,7 +2878,7 @@
    :latitude 51.66531615433021,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41318",
-   :locality "Wesel",
+   :location "Wesel",
    :image "",
    :description ""}
   {:name "Weseruferpark",
@@ -2886,7 +2886,7 @@
    :latitude 53.09716153799848,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5061",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "Westen",
@@ -2901,7 +2901,7 @@
    :latitude 52.062293880841594,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23910",
-   :locality "Bielefeld",
+   :location "Bielefeld",
    :image "",
    :description ""}
   {:name "WF 54",
@@ -2909,7 +2909,7 @@
    :latitude 52.163046194887784,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22206",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "Wiesenburg Country Golf",
@@ -2917,7 +2917,7 @@
    :latitude 52.098959196553096,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28476",
-   :locality "Wiesenburg/Mark",
+   :location "Wiesenburg/Mark",
    :image "",
    :description ""}
   {:name "Wiley 12er",
@@ -2925,7 +2925,7 @@
    :latitude 48.38167992426753,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31485",
-   :locality "Neu-Ulm",
+   :location "Neu-Ulm",
    :image "",
    :description ""}
   {:name "Wilhelmsburg Inselpark Standard",
@@ -2933,7 +2933,7 @@
    :latitude 53.49227023482183,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15418",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Wilhelmsburg Pro12",
@@ -2941,7 +2941,7 @@
    :latitude 53.49243742704181,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20420",
-   :locality "Hamburg",
+   :location "Hamburg",
    :image "",
    :description ""}
   {:name "Wischlingen GDG Herbstmasters 2023",
@@ -2949,7 +2949,7 @@
    :latitude 51.52051344659591,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35783",
-   :locality "Dortmund",
+   :location "Dortmund",
    :image "",
    :description ""}
   {:name "WOD DiscGolf Parcours Gersthofen",
@@ -2983,7 +2983,7 @@
    :latitude 52.16349596719155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22184",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "Wolfenbüttel Seeliger Park",
@@ -2991,7 +2991,7 @@
    :latitude 52.16174453830627,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7328",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "Wolfenbüttel Seeliger Park (SONenTour)",
@@ -2999,7 +2999,7 @@
    :latitude 52.1616288706484,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41700",
-   :locality "Wolfenbüttel",
+   :location "Wolfenbüttel",
    :image "",
    :description ""}
   {:name "WSCA Weißwurst Doubles",
@@ -3014,7 +3014,7 @@
    :latitude 51.19762536641829,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31967",
-   :locality "Neuss",
+   :location "Neuss",
    :image "",
    :description ""}
   {:name "WT #04 2025 Lünen",
@@ -3029,7 +3029,7 @@
    :latitude 51.19135063087691,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43862",
-   :locality "Winterberg",
+   :location "Winterberg",
    :image "",
    :description ""}
   {:name "WT-Tour #04 24 Lünen-Seepark",
@@ -3037,7 +3037,7 @@
    :latitude 51.60115024617946,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37538",
-   :locality "Lünen",
+   :location "Lünen",
    :image "",
    :description ""}
   {:name "Wuhlheide Games Parcours",
@@ -3045,7 +3045,7 @@
    :latitude 52.46848000566999,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36653",
-   :locality "Berlin",
+   :location "Berlin",
    :image "",
    :description ""}
   {:name "WUP -> VM",
@@ -3053,7 +3053,7 @@
    :latitude 53.09707534350866,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35455",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "Wup -> VM",
@@ -3061,7 +3061,7 @@
    :latitude 53.09708801874481,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35458",
-   :locality "Bremen",
+   :location "Bremen",
    :image "",
    :description ""}
   {:name "Ymergårdens Discgolfcenter - Gold",

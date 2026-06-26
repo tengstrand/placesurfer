@@ -20,7 +20,7 @@
    :longitude 15.2587795,
    :latitude -4.2802386,
    :source :openstreetmap,
-   :locality "Brazzaville"}
+   :location "Brazzaville"}
   {:name "La cite des arts",
    :longitude 11.8599787,
    :latitude -4.7958683,
@@ -29,7 +29,7 @@
    :longitude 15.2570951,
    :latitude -4.2870295,
    :source :openstreetmap,
-   :locality "Brazzaville"}
+   :location "Brazzaville"}
   {:name "Musee De Diosso",
    :longitude 11.8523758,
    :latitude -4.625539,

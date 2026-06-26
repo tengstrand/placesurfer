@@ -9,7 +9,7 @@
    :latitude 46.96230835426775,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29046",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "11i",
@@ -17,7 +17,7 @@
    :latitude 46.95567487310802,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38309",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "12h Challenge 18er Schmitten",
@@ -25,7 +25,7 @@
    :latitude 46.857990991142145,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38092",
-   :locality "Schmitten",
+   :location "Schmitten",
    :image "",
    :description ""}
   {:name "15Grün Schmitten",
@@ -33,7 +33,7 @@
    :latitude 46.85922042871525,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45271",
-   :locality "Sense",
+   :location "Sense",
    :image "",
    :description ""}
   {:name "18 panier Sarasin",
@@ -41,7 +41,7 @@
    :latitude 46.232805582165014,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27676",
-   :locality "Le Grand-Saconnex",
+   :location "Le Grand-Saconnex",
    :image "",
    :description ""}
   {:name "2024 Düdingen 11",
@@ -49,7 +49,7 @@
    :latitude 46.845841489301336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39065",
-   :locality "Düdingen",
+   :location "Düdingen",
    :image "",
    :description ""}
   {:name "7 Pro Alterswil",
@@ -57,7 +57,7 @@
    :latitude 46.803361617950344,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27321",
-   :locality "Tafers",
+   :location "Tafers",
    :image "",
    :description ""}
   {:name "Adliswil Tal",
@@ -65,7 +65,7 @@
    :latitude 47.31209151080827,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39256",
-   :locality "Adliswil",
+   :location "Adliswil",
    :image "",
    :description ""}
   {:name "Adliswil Tal - Circuit Challenge",
@@ -73,7 +73,7 @@
    :latitude 47.312109345573106,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34559",
-   :locality "Adliswil",
+   :location "Adliswil",
    :image "",
    :description ""}
   {:name "Aebischer Sascha",
@@ -81,7 +81,7 @@
    :latitude 46.84584524913771,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39063",
-   :locality "Düdingen",
+   :location "Düdingen",
    :image "",
    :description ""}
   {:name "Alterswil 10ner",
@@ -89,7 +89,7 @@
    :latitude 46.80370974471151,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27323",
-   :locality "Tafers",
+   :location "Tafers",
    :image "",
    :description ""}
   {:name "Alterswil 15 Mix (9/9long/15/18/7pro)",
@@ -97,7 +97,7 @@
    :latitude 46.80332849690666,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29814",
-   :locality "Tafers",
+   :location "Tafers",
    :image "",
    :description ""}
   {:name "Alterswil 18 Pro",
@@ -105,7 +105,7 @@
    :latitude 46.80313661708385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30377",
-   :locality "Tafers",
+   :location "Tafers",
    :image "",
    :description ""}
   {:name "Au centre la pierre",
@@ -113,7 +113,7 @@
    :latitude 46.23210333606215,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24299",
-   :locality "Le Grand-Saconnex",
+   :location "Le Grand-Saconnex",
    :image "",
    :description ""}
   {:name "BELLID 14 Random doubles",
@@ -121,7 +121,7 @@
    :latitude 46.2084450674877,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31991",
-   :locality "Thônex",
+   :location "Thônex",
    :image "",
    :description ""}
   {:name "Bellid Putting Course",
@@ -129,7 +129,7 @@
    :latitude 46.20718745884449,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31135",
-   :locality "Thônex",
+   :location "Thônex",
    :image "",
    :description ""}
   {:name "Bern Neufeld - Studerstein Discgolf Parcours",
@@ -137,7 +137,7 @@
    :latitude 46.96209512964501,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47085",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Blowpen 2022 R1",
@@ -145,7 +145,7 @@
    :latitude 46.95567533594814,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30543",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "Blowpen 2022 R2",
@@ -153,7 +153,7 @@
    :latitude 46.95526058482679,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30561",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "Blowpen23",
@@ -161,7 +161,7 @@
    :latitude 46.95538537326851,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36306",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "Blowpen25",
@@ -176,7 +176,7 @@
    :latitude 47.70474090146533,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36356",
-   :locality "Schaffhausen",
+   :location "Schaffhausen",
    :image "",
    :description ""}
   {:name "Camping Sutz",
@@ -184,7 +184,7 @@
    :latitude 47.10955403667211,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22609",
-   :locality "Sutz-Lattrigen",
+   :location "Sutz-Lattrigen",
    :image "",
    :description ""}
   {:name "Crazy 5 after 9long",
@@ -192,7 +192,7 @@
    :latitude 46.80423348666065,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27420",
-   :locality "Tafers",
+   :location "Tafers",
    :image "",
    :description ""}
   {:name "Cugy Highland Disc Golf Parc",
@@ -200,7 +200,7 @@
    :latitude 46.57572465834156,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41691",
-   :locality "Cugy",
+   :location "Cugy",
    :image "",
    :description ""}
   {:name "Disc Golf Engiadina",
@@ -208,7 +208,7 @@
    :latitude 46.54186178675232,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32821",
-   :locality "Samedan",
+   :location "Samedan",
    :image "",
    :description ""}
   {:name "Disc Golf Park Albisbrunn",
@@ -216,7 +216,7 @@
    :latitude 47.236813086405164,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26848",
-   :locality "Hausen am Albis",
+   :location "Hausen am Albis",
    :image "",
    :description ""}
   {:name "Disc Golf Park Alterswil",
@@ -224,7 +224,7 @@
    :latitude 46.80422585234109,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24506",
-   :locality "Alterswil",
+   :location "Alterswil",
    :image "",
    :description ""}
   {:name "Disc Golf Stans",
@@ -232,7 +232,7 @@
    :latitude 46.95530931450722,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19307",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "Discgolf Park Albisbrunn *Sound of Chains*",
@@ -240,7 +240,7 @@
    :latitude 47.23702120521321,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37766",
-   :locality "Hausen am Albis",
+   :location "Hausen am Albis",
    :image "",
    :description ""}
   {:name "Düdingen 11go and 7back",
@@ -255,7 +255,7 @@
    :latitude 46.84588525610417,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40396",
-   :locality "Sense",
+   :location "Sense",
    :image "",
    :description ""}
   {:name "Düdingen BigArms 8er",
@@ -270,7 +270,7 @@
    :latitude 47.39508137537925,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19260",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Grüze 11",
@@ -278,7 +278,7 @@
    :latitude 47.49224135403108,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19344",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Grüzefeld",
@@ -286,7 +286,7 @@
    :latitude 47.492318646327085,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13922",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Gurten Bern Open",
@@ -294,7 +294,7 @@
    :latitude 46.91936674354275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18261",
-   :locality "Köniz",
+   :location "Köniz",
    :image "",
    :description ""}
   {:name "Gurten Biggest",
@@ -302,7 +302,7 @@
    :latitude 46.918691930364474,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22316",
-   :locality "Köniz",
+   :location "Köniz",
    :image "",
    :description ""}
   {:name "Gurten Spring Clang 2024",
@@ -310,7 +310,7 @@
    :latitude 46.91897900969562,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27437",
-   :locality "Köniz",
+   :location "Köniz",
    :image "",
    :description ""}
   {:name "Gurten „offizial layout“",
@@ -318,7 +318,7 @@
    :latitude 46.91927507743685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23927",
-   :locality "Köniz",
+   :location "Köniz",
    :image "",
    :description ""}
   {:name "Hardhof Juniors Cup",
@@ -326,7 +326,7 @@
    :latitude 47.395769434719824,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42274",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Hardhof League",
@@ -334,7 +334,7 @@
    :latitude 47.39544075337079,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20797",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Hardhof Montagabend Liga",
@@ -342,7 +342,7 @@
    :latitude 47.394697155034095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34705",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Hardhof Spring 2021 18 Hole",
@@ -350,7 +350,7 @@
    :latitude 47.39488032444382,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23059",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Hardhof Standard",
@@ -358,7 +358,7 @@
    :latitude 47.39457717260194,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26647",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Hofstetten",
@@ -366,7 +366,7 @@
    :latitude 47.470100798313865,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26783",
-   :locality "Hofstetten-Flüh",
+   :location "Hofstetten-Flüh",
    :image "",
    :description ""}
   {:name "Kreuzlingen seeburgpark",
@@ -374,7 +374,7 @@
    :latitude 47.64967261610917,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19545",
-   :locality "Kreuzlingen",
+   :location "Kreuzlingen",
    :image "",
    :description ""}
   {:name "kreuzlingen seeburgpark k2 open 15 körbe",
@@ -382,7 +382,7 @@
    :latitude 47.64968588820312,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24774",
-   :locality "Kreuzlingen",
+   :location "Kreuzlingen",
    :image "",
    :description ""}
   {:name "Kriegstetten disc golf area",
@@ -390,7 +390,7 @@
    :latitude 47.175140331081565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26083",
-   :locality "Kriegstetten",
+   :location "Kriegstetten",
    :image "",
    :description ""}
   {:name "La butte de Plan-les-Ouates",
@@ -398,7 +398,7 @@
    :latitude 46.16609506595839,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27326",
-   :locality "Plan-les-Ouates",
+   :location "Plan-les-Ouates",
    :image "",
    :description ""}
   {:name "Langenthal 15er",
@@ -406,7 +406,7 @@
    :latitude 47.21141458285004,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26819",
-   :locality "Langenthal",
+   :location "Langenthal",
    :image "",
    :description ""}
   {:name "Les Evaux - Revolution 2024",
@@ -414,7 +414,7 @@
    :latitude 46.18909136697317,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29741",
-   :locality "Onex",
+   :location "Onex",
    :image "",
    :description ""}
   {:name "Longvalley Disc Golf Park",
@@ -422,7 +422,7 @@
    :latitude 47.21997219081899,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46141",
-   :locality "Langenthal",
+   :location "Langenthal",
    :image "",
    :description ""}
   {:name "Longvalley Glow",
@@ -430,7 +430,7 @@
    :latitude 47.21963870801335,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45541",
-   :locality "Langenthal",
+   :location "Langenthal",
    :image "",
    :description ""}
   {:name "Novum Castellum",
@@ -438,7 +438,7 @@
    :latitude 47.00446793031859,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6308",
-   :locality "Neuchâtel",
+   :location "Neuchâtel",
    :image "",
    :description ""}
   {:name "Oekingen disc golf area",
@@ -446,7 +446,7 @@
    :latitude 47.17893109527978,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26084",
-   :locality "Oekingen",
+   :location "Oekingen",
    :image "",
    :description ""}
   {:name "Parc de Pierre-a-Bot",
@@ -454,7 +454,7 @@
    :latitude 47.00344821744508,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21114",
-   :locality "Neuchâtel",
+   :location "Neuchâtel",
    :image "",
    :description ""}
   {:name "Parc de Pierre-à-Bot Reversed Course",
@@ -462,7 +462,7 @@
    :latitude 46.98102518369501,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27324",
-   :locality "Neuchâtel",
+   :location "Neuchâtel",
    :image "",
    :description ""}
   {:name "Samnaun, Vitaparcours",
@@ -470,7 +470,7 @@
    :latitude 46.94290083130329,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43455",
-   :locality "Samnaun",
+   :location "Samnaun",
    :image "",
    :description ""}
   {:name "Sarasin 18 panier",
@@ -478,7 +478,7 @@
    :latitude 46.23276921044402,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27675",
-   :locality "Le Grand-Saconnex",
+   :location "Le Grand-Saconnex",
    :image "",
    :description ""}
   {:name "Sarrasin",
@@ -486,7 +486,7 @@
    :latitude 46.232751523914516,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21869",
-   :locality "Le Grand-Saconnex",
+   :location "Le Grand-Saconnex",
    :image "",
    :description ""}
   {:name "Sarrasin locals",
@@ -494,7 +494,7 @@
    :latitude 46.23278399731612,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27327",
-   :locality "Le Grand-Saconnex",
+   :location "Le Grand-Saconnex",
    :image "",
    :description ""}
   {:name "Schmitten Gwatt",
@@ -502,7 +502,7 @@
    :latitude 46.858188205195006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18827",
-   :locality "Schmitten",
+   :location "Schmitten",
    :image "",
    :description ""}
   {:name "Schmitten Gwatt 18 NEW Layout 2025",
@@ -510,7 +510,7 @@
    :latitude 46.85964936471339,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41889",
-   :locality "Sense",
+   :location "Sense",
    :image "",
    :description ""}
   {:name "Schmitten Gwatt 7er PRO",
@@ -518,7 +518,7 @@
    :latitude 46.85922976533291,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22672",
-   :locality "Schmitten",
+   :location "Schmitten",
    :image "",
    :description ""}
   {:name "Schmitten Gwatt 9 Neu 2025",
@@ -526,7 +526,7 @@
    :latitude 46.85885072507199,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41890",
-   :locality "Sense",
+   :location "Sense",
    :image "",
    :description ""}
   {:name "Sportzentrum Kerenzerberg",
@@ -534,7 +534,7 @@
    :latitude 47.12237,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22955",
-   :locality "Glarus Nord",
+   :location "Glarus Nord",
    :image "",
    :description ""}
   {:name "Sportzentrum Kerenzerberg - 18 Körbe 2025",
@@ -542,7 +542,7 @@
    :latitude 47.122352161221244,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44306",
-   :locality "8757 Filzbach",
+   :location "8757 Filzbach",
    :image "",
    :description ""}
   {:name "Stans Kleinerunde",
@@ -550,7 +550,7 @@
    :latitude 46.955428755876,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31515",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "Test für 30.6",
@@ -565,7 +565,7 @@
    :latitude 46.791076394799234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37868",
-   :locality "Guggisberg",
+   :location "Guggisberg",
    :image "",
    :description ""}
   {:name "Unterengstringen disc golf area",
@@ -573,7 +573,7 @@
    :latitude 47.41276668457286,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26085",
-   :locality "Unterengstringen",
+   :location "Unterengstringen",
    :image "",
    :description ""}
   {:name "Voodoo Warriors Putter Challenge",
@@ -581,7 +581,7 @@
    :latitude 47.396137007275996,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22396",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Vouvry Disc Golf",
@@ -589,7 +589,7 @@
    :latitude 46.340113513845296,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28953",
-   :locality "Vouvry",
+   :location "Vouvry",
    :image "",
    :description ""}
   {:name "Weyerli (15.Okt - 30.April)",
@@ -597,7 +597,7 @@
    :latitude 46.94773948235428,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31216",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "WindEckBärje",
@@ -605,7 +605,7 @@
    :latitude 46.821616462397,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36345",
-   :locality "Tafers",
+   :location "Tafers",
    :image "",
    :description ""}
   {:name "Wintertour - Adliswil Tal",
@@ -613,7 +613,7 @@
    :latitude 47.31240956391516,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12867",
-   :locality "Adliswil",
+   :location "Adliswil",
    :image "",
    :description ""}
   {:name "Wintertour - The Solitude - Milandia",
@@ -621,7 +621,7 @@
    :latitude 47.378148589693524,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31029",
-   :locality "Greifensee",
+   :location "Greifensee",
    :image "",
    :description ""}
   {:name "Wintertour - Winterthur Grüzefeld",
@@ -629,7 +629,7 @@
    :latitude 47.491886196704485,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25445",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "WPT - Bernex 25-26",
@@ -644,7 +644,7 @@
    :latitude 47.395974323609636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20548",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}],
  :source

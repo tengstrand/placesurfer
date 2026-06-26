@@ -8,13 +8,13 @@
    :longitude 19.6258656,
    :latitude 45.8190248,
    :source :openstreetmap,
-   :locality "Topolya"}
+   :location "Topolya"}
   {:name "AMC HALL",
    :longitude 21.1214771,
    :latitude 42.7001858,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/amchall/",
-   :locality "Obiliq"}
+   :location "Obiliq"}
   {:name "Ansambli Kombëtar Shota",
    :longitude 21.1555234,
    :latitude 42.6630887,
@@ -46,7 +46,7 @@
    :longitude 21.3027735,
    :latitude 42.1378776,
    :source :openstreetmap,
-   :locality "Hani i Elezit"}
+   :location "Hani i Elezit"}
   {:name "Blok gallery",
    :longitude 20.3774635,
    :latitude 44.797535,
@@ -69,7 +69,7 @@
    :longitude 20.8386112,
    :latitude 42.9089302,
    :source :openstreetmap,
-   :locality "Zvečan"}
+   :location "Zvečan"}
   {:name "Dorćol Platz",
    :longitude 20.4669818,
    :latitude 44.8233363,
@@ -79,7 +79,7 @@
    :longitude 18.9286097,
    :latitude 45.7929113,
    :source :openstreetmap,
-   :locality "Bački Monoštor"}
+   :location "Bački Monoštor"}
   {:name "Etno muzeum Česko Selo",
    :longitude 21.3708329,
    :latitude 44.9484786,
@@ -114,13 +114,13 @@
    :longitude 20.8619022,
    :latitude 42.8929184,
    :source :openstreetmap,
-   :locality "Severna Kosovska Mitrovica / Mitrovicë Veriore"}
+   :location "Severna Kosovska Mitrovica / Mitrovicë Veriore"}
   {:name "Galerija Novembar",
    :longitude 20.4735359,
    :latitude 44.8003036,
    :source :openstreetmap,
    :homepage "https://novembargallery.com/",
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Galerija S",
    :longitude 20.4687757,
    :latitude 45.8304558,
@@ -131,7 +131,7 @@
    :latitude 44.8000882,
    :source :openstreetmap,
    :homepage "https://www.artbeliandjeo.rs/",
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Hyseni",
    :longitude 20.3209736,
    :latitude 42.6405195,
@@ -157,12 +157,12 @@
    :latitude 42.6550374,
    :source :openstreetmap,
    :homepage "http://k-tre.com",
-   :locality "Prishtinë"}
+   :location "Prishtinë"}
   {:name "Kulla e Avdullah Pashe Drenit",
    :longitude 20.4277624,
    :latitude 42.3831596,
    :source :openstreetmap,
-   :locality "Gjakova"}
+   :location "Gjakova"}
   {:name "Kulturni Centar Topola",
    :longitude 20.6779017,
    :latitude 44.2546702,
@@ -188,18 +188,18 @@
    :longitude 19.7683304,
    :latitude 45.916373,
    :source :openstreetmap,
-   :locality "Čantavir"}
+   :location "Čantavir"}
   {:name "Moderna galerija",
    :longitude 20.2604373,
    :latitude 44.3807483,
    :source :openstreetmap,
    :homepage "https://czklazarevac.rs/moderna-galerija",
-   :locality "Лазаревац"}
+   :location "Лазаревац"}
   {:name "Mulli",
    :longitude 20.4004919,
    :latitude 42.7729626,
    :source :openstreetmap,
-   :locality "Vrellë,Istog"}
+   :location "Vrellë,Istog"}
   {:name "Mulliri i Haxhi Zekës",
    :longitude 20.2994848,
    :latitude 42.6629707,
@@ -249,7 +249,7 @@
    :latitude 42.3794709,
    :source :openstreetmap,
    :homepage "https://dtk.rks-gov.net/tkk_objekti_en.aspx?id=3207",
-   :locality "Gjakovë"}
+   :location "Gjakovë"}
   {:name "Muzeu i Burgut të Prishtinës - Burgu i Idealit",
    :longitude 21.1598874,
    :latitude 42.6629924,
@@ -279,7 +279,7 @@
    :longitude 20.8685905,
    :latitude 42.887281,
    :source :openstreetmap,
-   :locality "Mitrovicë"}
+   :location "Mitrovicë"}
   {:name "Muzeu i Pejës",
    :longitude 20.2922026,
    :latitude 42.6587043,
@@ -292,7 +292,7 @@
    :longitude 21.2563805,
    :latitude 42.2355493,
    :source :openstreetmap,
-   :locality "Kaçanik"}
+   :location "Kaçanik"}
   {:name "Muzeu i Vushtrrise",
    :longitude 20.9643498,
    :latitude 42.8197825,
@@ -326,7 +326,7 @@
    :latitude 44.0122424,
    :source :openstreetmap,
    :homepage "https://galerijarima.com/",
-   :locality "Крагујевац"}
+   :location "Крагујевац"}
   {:name "Ruski Dom",
    :longitude 19.7687945,
    :latitude 45.8484385,
@@ -340,12 +340,12 @@
    :longitude 21.2500568,
    :latitude 42.5741199,
    :source :openstreetmap,
-   :locality "Janjevë"}
+   :location "Janjevë"}
   {:name "SHTEPIA TRADICIONALE E FAMILJES QERKEZI MUZEU HISTORIK 1999",
    :longitude 20.4389994,
    :latitude 42.3728753,
    :source :openstreetmap,
-   :locality "Gjakove"}
+   :location "Gjakove"}
   {:name "Shtëpia e Herticëve",
    :longitude 21.1576284,
    :latitude 42.6775115,
@@ -372,7 +372,7 @@
    :latitude 45.8522031,
    :source :openstreetmap,
    :homepage "http://domkulturebt.org/sr/?page_id=29",
-   :locality "Зобнатица"}
+   :location "Зобнатица"}
   {:name "Vajat muzej",
    :longitude 20.0408385,
    :latitude 44.1250116,
@@ -381,19 +381,19 @@
    :longitude 21.0444411,
    :latitude 43.4590363,
    :source :openstreetmap,
-   :locality "Александровац"}
+   :location "Александровац"}
   {:name "Zenit 4",
    :longitude 20.2880849,
    :latitude 44.9874477,
    :source :openstreetmap,
-   :locality "Стари Бановци"}
+   :location "Стари Бановци"}
   {:name "Апотека на степеницама",
    :longitude 21.2969965,
    :latitude 45.1223003,
    :source :openstreetmap,
    :homepage
    "https://nasledje.gov.rs/index.cfm/spomenici/pregled_spomenika?spomenik_id=104012",
-   :locality "Вршац"}
+   :location "Вршац"}
   {:name "Арт Студио Радован Мића Трнавац",
    :longitude 19.8994811,
    :latitude 44.2643848,
@@ -409,7 +409,7 @@
    :latitude 44.6123543,
    :source :openstreetmap,
    :homepage "http://www.narodnimuzej.rs",
-   :locality "Kladovo"}
+   :location "Kladovo"}
   {:name "Банатска кућа",
    :longitude 20.5894724,
    :latitude 45.4989013,
@@ -440,7 +440,7 @@
    :latitude 44.6650117,
    :source :openstreetmap,
    :homepage "https://www.mus.org.rs",
-   :locality "Смедерево"}
+   :location "Смедерево"}
   {:name "Галерија '73",
    :longitude 20.4144394,
    :latitude 44.7740127,
@@ -467,7 +467,7 @@
    :longitude 21.3253602,
    :latitude 43.5806034,
    :source :openstreetmap,
-   :locality "Крушевац"}
+   :location "Крушевац"}
   {:name "Галерија Поповић",
    :longitude 20.4308014,
    :latitude 44.7484705,
@@ -477,7 +477,7 @@
    :latitude 44.826546,
    :source :openstreetmap,
    :homepage "https://www.dksg.rs/",
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Галерија Стара Србија",
    :longitude 20.4780172,
    :latitude 44.7941849,
@@ -495,7 +495,7 @@
    :longitude 20.125472,
    :latitude 45.6045359,
    :source :openstreetmap,
-   :locality "Vranjevo, Novi Bečej"}
+   :location "Vranjevo, Novi Bečej"}
   {:name "Градска галерија",
    :longitude 21.9353663,
    :latitude 44.422421,
@@ -505,7 +505,7 @@
    :latitude 43.8567584,
    :source :openstreetmap,
    :homepage "https://www.galerijauzice.org/",
-   :locality "Ужице"}
+   :location "Ужице"}
   {:name "Градска галерија",
    :longitude 20.0970133,
    :latitude 43.7533078,
@@ -532,7 +532,7 @@
    :latitude 45.1193365,
    :source :openstreetmap,
    :homepage "https://muzejvrsac.org.rs/",
-   :locality "Вршац"}
+   :location "Вршац"}
   {:name "Градски музеј",
    :longitude 20.08977,
    :latitude 45.93184,
@@ -554,7 +554,7 @@
    :longitude 19.6298202,
    :latitude 45.8151538,
    :source :openstreetmap,
-   :locality "Бачка Топола"}
+   :location "Бачка Топола"}
   {:name "Грудоњске воденице",
    :longitude 21.8531335,
    :latitude 43.6404198,
@@ -580,7 +580,7 @@
    :longitude 22.2557225,
    :latitude 43.568642,
    :source :openstreetmap,
-   :locality "Књажевац"}
+   :location "Књажевац"}
   {:name "Дом културе",
    :longitude 21.806999,
    :latitude 43.3995795,
@@ -601,7 +601,7 @@
    :longitude 20.6434645,
    :latitude 44.8690161,
    :source :openstreetmap,
-   :locality "Панчево"}
+   :location "Панчево"}
   {:name "Др Винко Перчић",
    :longitude 19.6646241,
    :latitude 46.0974659,
@@ -629,12 +629,12 @@
    :longitude 20.1260689,
    :latitude 45.5988358,
    :source :openstreetmap,
-   :locality "Novi Bečej"}
+   :location "Novi Bečej"}
   {:name "Житни магацин и Котарка",
    :longitude 20.2977323,
    :latitude 45.7074589,
    :source :openstreetmap,
-   :locality "Novo Miloševo"}
+   :location "Novo Miloševo"}
   {:name "Завичајна кућа",
    :longitude 20.6056037,
    :latitude 45.8209825,
@@ -664,25 +664,25 @@
    :longitude 19.5256363,
    :latitude 43.5823151,
    :source :openstreetmap,
-   :locality "Прибој"}
+   :location "Прибој"}
   {:name "Завичајни музеј Сокобања",
    :longitude 21.8711874,
    :latitude 43.6442615,
    :source :openstreetmap,
-   :locality "Сокобања"}
+   :location "Сокобања"}
   {:name "Завичајни музеј Хомоља у Жагубици",
    :longitude 21.7877694,
    :latitude 44.1975791,
    :source :openstreetmap,
    :homepage "https://muzejzagubica.org/",
-   :locality "Жагубица"}
+   :location "Жагубица"}
   {:name "Замак Белимарковић",
    :longitude 20.8980853,
    :latitude 43.618404,
    :source :openstreetmap,
    :homepage
    "http://spomenicikulture.mi.sanu.ac.rs/spomenik.php?id=871",
-   :locality "Vrnjačka Banja"}
+   :location "Vrnjačka Banja"}
   {:name "Збирка стране уметности",
    :longitude 19.8502817,
    :latitude 45.2565935,
@@ -749,7 +749,7 @@
    :longitude 19.2217821,
    :latitude 44.5309242,
    :source :openstreetmap,
-   :locality "Лозница"}
+   :location "Лозница"}
   {:name "Кућа Краља Петра",
    :longitude 20.4396601,
    :latitude 44.7902059,
@@ -799,7 +799,7 @@
    :latitude 44.8039553,
    :source :openstreetmap,
    :homepage "https://malakoloskimuzej.rs/",
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Манакова кућа",
    :longitude 20.4543839,
    :latitude 44.813746,
@@ -846,13 +846,13 @@
    :source :openstreetmap,
    :homepage
    "http://www.mgb.org.rs/sr/stalne-postavke/banjicki-logor/album/33",
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Музеј Бицикала и Поп Културе „20 Цола”",
    :longitude 20.9218502,
    :latitude 44.0087603,
    :source :openstreetmap,
    :homepage "http://20cola.com/",
-   :locality "Крагујевац"}
+   :location "Крагујевац"}
   {:name "Музеј ваздухопловства",
    :longitude 20.2851101,
    :latitude 44.8183692,
@@ -875,7 +875,7 @@
    :longitude 22.2542494,
    :latitude 43.5649759,
    :source :openstreetmap,
-   :locality "Књажевац"}
+   :location "Књажевац"}
   {:name "Музеј Града Новог Сада",
    :longitude 19.8622054,
    :latitude 45.2524054,
@@ -906,7 +906,7 @@
    :longitude 20.4946922,
    :latitude 44.7472471,
    :source :openstreetmap,
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Музеј камена",
    :longitude 20.0989663,
    :latitude 44.2057502,
@@ -923,7 +923,7 @@
    :longitude 21.9002101,
    :latitude 42.549286,
    :source :openstreetmap,
-   :locality "Врање"}
+   :location "Врање"}
   {:name "Музеј магије",
    :longitude 19.9570307,
    :latitude 45.1504354,
@@ -936,7 +936,7 @@
    :longitude 20.4788241,
    :latitude 44.8145411,
    :source :openstreetmap,
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Музеј Николе Тесле",
    :longitude 20.4706999,
    :latitude 44.805105,
@@ -946,7 +946,7 @@
    :longitude 18.9420154,
    :latitude 45.8439008,
    :source :openstreetmap,
-   :locality "Бездан"}
+   :location "Бездан"}
   {:name "Музеј Паје Јовановића",
    :longitude 20.4643211,
    :latitude 44.8074899,
@@ -1001,12 +1001,12 @@
    :latitude 45.7286949,
    :source :openstreetmap,
    :homepage "https://www.muzejzeravica.org/",
-   :locality "Novo Miloševo"}
+   :location "Novo Miloševo"}
   {:name "Музеј Старо село",
    :longitude 19.8795828,
    :latitude 43.6889175,
    :source :openstreetmap,
-   :locality "Сирогојно"}
+   :location "Сирогојно"}
   {:name "Музеј старовременских мотоцикала Панчево",
    :longitude 20.6363569,
    :latitude 44.8760738,
@@ -1016,13 +1016,13 @@
    :latitude 44.8066879,
    :source :openstreetmap,
    :homepage "https://www.starcevo.org.rs/",
-   :locality "Старчево"}
+   :location "Старчево"}
   {:name "Музеј текстилне индустрије у Стројковцу",
    :longitude 21.9233165,
    :latitude 42.9053283,
    :source :openstreetmap,
    :homepage "https://muzejleskovac.rs/tekstilni-muzej/",
-   :locality "Стројковце"}
+   :location "Стројковце"}
   {:name "Музеј Тимочке буне",
    :longitude 21.958125,
    :latitude 43.8298267,
@@ -1041,7 +1041,7 @@
    :longitude 20.4634171,
    :latitude 44.7846698,
    :source :openstreetmap,
-   :locality "Београд"}
+   :location "Београд"}
   {:name "Музеј Хајдук Вељка",
    :longitude 22.5289387,
    :latitude 44.226482,
@@ -1062,7 +1062,7 @@
    :longitude 21.0014005,
    :latitude 43.6206452,
    :source :openstreetmap,
-   :locality "Трстеник"}
+   :location "Трстеник"}
   {:name "Музејски комплекс Кулпин",
    :longitude 19.5875803,
    :latitude 45.4023792,
@@ -1078,7 +1078,7 @@
    :latitude 43.7253058,
    :source :openstreetmap,
    :homepage "https://nmkv.rs",
-   :locality "Краљево"}
+   :location "Краљево"}
   {:name "Народни музеј",
    :longitude 21.9464852,
    :latitude 42.994197,
@@ -1118,7 +1118,7 @@
    :longitude 19.6926799,
    :latitude 44.7553102,
    :source :openstreetmap,
-   :locality "Шабац"}
+   :location "Шабац"}
   {:name "Наташа ликовни салон",
    :longitude 19.4585075,
    :latitude 45.6575786,
@@ -1261,7 +1261,7 @@
    :latitude 44.9162768,
    :source :openstreetmap,
    :homepage "http://www.muzejhleba.rs/",
-   :locality "Пећинци"}
+   :location "Пећинци"}
   {:name "Стара скупштина",
    :longitude 20.9127773,
    :latitude 44.0079607,
@@ -1292,7 +1292,7 @@
    :longitude 21.9662717,
    :latitude 43.3166798,
    :source :openstreetmap,
-   :locality "Брзи Брод"}
+   :location "Брзи Брод"}
   {:name "Француски институт",
    :longitude 19.8451617,
    :latitude 45.2588251,
@@ -1311,13 +1311,13 @@
    :latitude 44.9853338,
    :source :openstreetmap,
    :homepage "http://www.czkstarapazova.com/",
-   :locality "Стара Пазова"}
+   :location "Стара Пазова"}
   {:name "Центар за посетиоце Лепенски Вир",
    :longitude 22.0264319,
    :latitude 44.5567441,
    :source :openstreetmap,
    :homepage "http://www.lepenski-vir.rs/",
-   :locality "Donji Milanovac"}
+   :location "Donji Milanovac"}
   {:name "Центар за туризам, културу и спорт",
    :longitude 22.1240385,
    :latitude 43.4119326,
@@ -1334,7 +1334,7 @@
    :source :openstreetmap,
    :homepage
    "https://narodnimuzejnis.rs/o-muzeju/objekti/cele-kula/?lang=RS",
-   :locality "Ниш"}],
+   :location "Ниш"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

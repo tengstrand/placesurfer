@@ -14,7 +14,7 @@
    :longitude -62.996783,
    :latitude 18.2361585,
    :source :openstreetmap,
-   :locality "East End",
+   :location "East End",
    :image "",
    :description ""}
   {:name "Lynne Bernbaum Art Gallery",

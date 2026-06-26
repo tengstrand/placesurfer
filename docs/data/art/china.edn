@@ -56,7 +56,7 @@
    :longitude 114.4041954,
    :latitude 23.1221243,
    :source :openstreetmap,
-   :locality "惠州市",
+   :location "惠州市",
    :image "",
    :description ""}
   {:name "5·12汶川特大地震纪念馆",
@@ -150,7 +150,7 @@
    :latitude 22.5436377,
    :source :openstreetmap,
    :homepage "https://www.b10live.cn",
-   :locality "Shenzhen",
+   :location "Shenzhen",
    :image "",
    :description ""}
   {:name "Beishan Arts",
@@ -194,7 +194,7 @@
    :latitude 22.3679678,
    :source :openstreetmap,
    :homepage "https://dope.gallery",
-   :locality "荃灣 Tsuen Wan",
+   :location "荃灣 Tsuen Wan",
    :image "",
    :description ""}
   {:name "Elephant Studio",
@@ -415,7 +415,7 @@
    :longitude 121.466996,
    :latitude 31.2181505,
    :source :openstreetmap,
-   :locality "上海",
+   :location "上海",
    :image "",
    :description ""}
   {:name "OCAT",
@@ -441,7 +441,7 @@
    :latitude 29.4892971,
    :source :openstreetmap,
    :homepage "http://www.organhaus.com",
-   :locality "重庆市",
+   :location "重庆市",
    :image "",
    :description ""}
   {:name "Osage",
@@ -499,7 +499,7 @@
    :longitude 121.4296816,
    :latitude 31.2461731,
    :source :openstreetmap,
-   :locality "Shanghai",
+   :location "Shanghai",
    :image "",
    :description ""}
   {:name "Reignwood Theatre",
@@ -760,7 +760,7 @@
    :longitude 105.7329558,
    :latitude 34.5820834,
    :source :openstreetmap,
-   :locality "天水市",
+   :location "天水市",
    :image "",
    :description ""}
   {:name "万州三峡科技馆",
@@ -782,7 +782,7 @@
    :latitude 23.1280559,
    :source :openstreetmap,
    :homepage "https://www.nywmuseum.org.cn/",
-   :locality "广州市",
+   :location "广州市",
    :image "",
    :description ""}
   {:name "万林艺术博物馆",
@@ -917,7 +917,7 @@
    :latitude 36.0791135,
    :source :openstreetmap,
    :homepage "http://www.zxcbwg.cn/",
-   :locality "雁北街道",
+   :location "雁北街道",
    :image "",
    :description ""}
   {:name "三棟屋博物館 Sam Tung Uk Museum",
@@ -1113,7 +1113,7 @@
    :latitude 31.2431755,
    :source :openstreetmap,
    :homepage "https://www.rockbundartmuseum.org/",
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "上海多伦现代美术馆",
@@ -1217,7 +1217,7 @@
    :longitude 121.5048154,
    :latitude 31.2561287,
    :source :openstreetmap,
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "上海玻璃博物馆",
@@ -1243,21 +1243,21 @@
    :latitude 31.2205893,
    :source :openstreetmap,
    :homepage "https://en.sstm.org.cn",
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "上海纺织博物馆",
    :longitude 121.4415271,
    :latitude 31.248646,
    :source :openstreetmap,
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "上海艺术礼品博物馆",
    :longitude 121.4099248,
    :latitude 31.2127879,
    :source :openstreetmap,
-   :locality "Shanghai",
+   :location "Shanghai",
    :image "",
    :description ""}
   {:name "上海观复博物馆",
@@ -1272,7 +1272,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.cbpm.cn/cn/aboutus/struct/tzqyqb/201910/t20191017_2661.html",
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "上海邮政博物馆",
@@ -1383,14 +1383,14 @@
    :latitude 31.1963919,
    :source :openstreetmap,
    :homepage "http://www.expo-museum.cn/sbbwg/n55/index.html",
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "世太史第",
    :longitude 117.0420913,
    :latitude 30.5082498,
    :source :openstreetmap,
-   :locality "安庆市",
+   :location "安庆市",
    :image "",
    :description ""}
   {:name "世界八大奇迹馆",
@@ -1439,7 +1439,7 @@
    :longitude 108.9677502,
    :latitude 34.222868,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "世界茶文化博物馆",
@@ -1453,14 +1453,14 @@
    :latitude 34.902531,
    :source :openstreetmap,
    :homepage "http://www.e-muzeo.com/",
-   :locality "枣庄市",
+   :location "枣庄市",
    :image "",
    :description ""}
   {:name "世纪留声·世界音乐文化博物馆",
    :longitude 121.6854548,
    :latitude 38.9240478,
    :source :openstreetmap,
-   :locality "大连市",
+   :location "大连市",
    :image "",
    :description ""}
   {:name "丘逢甲故居",
@@ -1569,7 +1569,7 @@
    :longitude 112.3730001,
    :latitude 34.6727007,
    :source :openstreetmap,
-   :locality "洛阳市",
+   :location "洛阳市",
    :image "",
    :description ""}
   {:name "东旦村文化大礼堂",
@@ -1582,14 +1582,14 @@
    :longitude 115.9656561,
    :latitude 36.4443258,
    :source :openstreetmap,
-   :locality "聊城市",
+   :location "聊城市",
    :image "",
    :description ""}
   {:name "东昌艺术馆",
    :longitude 115.9696183,
    :latitude 36.444389,
    :source :openstreetmap,
-   :locality "聊城市",
+   :location "聊城市",
    :image "",
    :description ""}
   {:name "东村徐家祠堂徐伯荣艺术馆",
@@ -1662,7 +1662,7 @@
    :longitude 113.7198077,
    :latitude 23.0249034,
    :source :openstreetmap,
-   :locality "东莞市",
+   :location "东莞市",
    :image "",
    :description ""}
   {:name "东莞市科学技术博物馆",
@@ -1675,7 +1675,7 @@
    :longitude 113.9657192,
    :latitude 23.0141051,
    :source :openstreetmap,
-   :locality "东莞市",
+   :location "东莞市",
    :image "",
    :description ""}
   {:name "东莞蚝岗遗址博物馆",
@@ -1923,7 +1923,7 @@
    :latitude 31.1864842,
    :source :openstreetmap,
    :homepage "https://www.artmuseumonline.org",
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "中华苏维埃人民共和国川滇黔省革命委员会旧址",
@@ -2011,7 +2011,7 @@
    :latitude 30.2251936,
    :source :openstreetmap,
    :homepage "http://chinasilkmuseum.com",
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "中国乡镇企业博物馆",
@@ -2048,7 +2048,7 @@
    :longitude 120.3238996,
    :latitude 36.0547934,
    :source :openstreetmap,
-   :locality "青岛",
+   :location "青岛",
    :image "",
    :description ""}
   {:name "中国人民解放军海军诞生地旧址",
@@ -2062,7 +2062,7 @@
    :latitude 32.4274288,
    :source :openstreetmap,
    :homepage "http://www.hjdsd.com",
-   :locality "白马镇",
+   :location "白马镇",
    :image "",
    :description ""}
   {:name "中国会计博物馆",
@@ -2144,7 +2144,7 @@
    :latitude 39.7419714,
    :source :openstreetmap,
    :homepage "http://bwg.chinapublish.com.cn/",
-   :locality "北京市大兴区",
+   :location "北京市大兴区",
    :image "",
    :description ""}
   {:name "中国印学博物馆",
@@ -2213,7 +2213,7 @@
    :latitude 39.9218619,
    :source :openstreetmap,
    :homepage "http://www.gmc.org.cn/",
-   :locality "北京市",
+   :location "北京市",
    :image "",
    :description ""}
   {:name "中国地质大学逸夫博物馆",
@@ -2335,7 +2335,7 @@
    :longitude 120.1973866,
    :latitude 30.2117575,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "中国杭州工艺美术博物馆",
@@ -2486,7 +2486,7 @@
    :longitude 121.9056681,
    :latitude 29.7587151,
    :source :openstreetmap,
-   :locality "宁波市",
+   :location "宁波市",
    :image "",
    :description ""}
   {:name "中国湖笔博物馆",
@@ -2505,7 +2505,7 @@
    :longitude 120.0827675,
    :latitude 30.2665269,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "中国溱湖湿地科普馆",
@@ -2640,7 +2640,7 @@
    :longitude 119.6550565,
    :latitude 30.594588,
    :source :openstreetmap,
-   :locality "湖州",
+   :location "湖州",
    :image "",
    :description ""}
   {:name "中国第一社区纪念馆",
@@ -2683,7 +2683,7 @@
    :longitude 121.2707738,
    :latitude 31.2737972,
    :source :openstreetmap,
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "中国航海博物馆",
@@ -2722,7 +2722,7 @@
    :latitude 30.2346737,
    :source :openstreetmap,
    :homepage "https://www.teamuseum.cn/",
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "中国荔枝博览馆",
@@ -3120,7 +3120,7 @@
    :longitude 119.7248783,
    :latitude 30.2285289,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "临工博物馆",
@@ -3151,7 +3151,7 @@
    :longitude 118.3508073,
    :latitude 35.0900245,
    :source :openstreetmap,
-   :locality "临沂市",
+   :location "临沂市",
    :image "",
    :description ""}
   {:name "临洮县博物馆",
@@ -3524,7 +3524,7 @@
    :longitude 112.751281,
    :latitude 22.5694064,
    :source :openstreetmap,
-   :locality "云乡镇",
+   :location "云乡镇",
    :image "",
    :description ""}
   {:name "云冈博物馆",
@@ -3591,7 +3591,7 @@
    :longitude 102.7027193,
    :latitude 25.0401259,
    :source :openstreetmap,
-   :locality "昆明",
+   :location "昆明",
    :image "",
    :description ""}
   {:name "云南铁路博物馆",
@@ -3604,7 +3604,7 @@
    :longitude 102.6990026,
    :latitude 25.0507979,
    :source :openstreetmap,
-   :locality "昆明市",
+   :location "昆明市",
    :image "",
    :description ""}
   {:name "云堡二十四节气馆",
@@ -3630,7 +3630,7 @@
    :latitude 35.7544076,
    :source :openstreetmap,
    :homepage "https://www.pysqicheng.com/newsinfo/2026254.html",
-   :locality "濮阳市",
+   :location "濮阳市",
    :image "",
    :description ""}
   {:name "云来邝公祠",
@@ -4004,7 +4004,7 @@
    :longitude 112.8824411,
    :latitude 23.0547156,
    :source :openstreetmap,
-   :locality "佛山市",
+   :location "佛山市",
    :image "",
    :description ""}
   {:name "佛山古镇历史风貌展示馆",
@@ -4024,7 +4024,7 @@
    :latitude 23.0666813,
    :source :openstreetmap,
    :homepage "http://www.fslnjrmuseum.com/",
-   :locality "Foshan",
+   :location "Foshan",
    :image "",
    :description ""}
   {:name "佛山市石景宜刘紫英伉俪文化艺术馆",
@@ -4424,7 +4424,7 @@
    :longitude 108.950575,
    :latitude 34.2746365,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "八路军驻新疆办事处纪念馆",
@@ -4485,7 +4485,7 @@
    :longitude 103.8429364,
    :latitude 36.0668827,
    :source :openstreetmap,
-   :locality "兰州市",
+   :location "兰州市",
    :image "",
    :description ""}
   {:name "兰州大学校史馆博物馆",
@@ -4553,7 +4553,7 @@
    :latitude 22.5521004,
    :source :openstreetmap,
    :homepage "http://www.gsyart.com/",
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "兴义国家地质公园博物馆",
@@ -4854,14 +4854,14 @@
    :longitude 120.3364323,
    :latitude 36.064471,
    :source :openstreetmap,
-   :locality "青岛市",
+   :location "青岛市",
    :image "",
    :description ""}
   {:name "刘海粟美术馆",
    :longitude 121.4146186,
    :latitude 31.2113561,
    :source :openstreetmap,
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "刘海粟美术馆",
@@ -5385,7 +5385,7 @@
    :longitude 112.6082507,
    :latitude 37.886201,
    :source :openstreetmap,
-   :locality "太原市",
+   :location "太原市",
    :image "",
    :description ""}
   {:name "半坡博物馆",
@@ -5398,7 +5398,7 @@
    :longitude 113.9780516,
    :latitude 22.535924,
    :source :openstreetmap,
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "华中大学西迁纪念馆（大慈寺）",
@@ -5502,7 +5502,7 @@
    :longitude 114.4436378,
    :latitude 23.0799899,
    :source :openstreetmap,
-   :locality "惠州市",
+   :location "惠州市",
    :image "",
    :description ""}
   {:name "华茂美术馆",
@@ -5570,7 +5570,7 @@
    :longitude 118.8193491,
    :latitude 32.0429527,
    :source :openstreetmap,
-   :locality "南京市",
+   :location "南京市",
    :image "",
    :description ""}
   {:name "南京博物院南农大分院",
@@ -5583,7 +5583,7 @@
    :longitude 118.7901638,
    :latitude 32.061572,
    :source :openstreetmap,
-   :locality "南京市",
+   :location "南京市",
    :image "",
    :description ""}
   {:name "南京地质博物馆",
@@ -5680,7 +5680,7 @@
    :longitude 106.0728444,
    :latitude 30.8094462,
    :source :openstreetmap,
-   :locality "南充市",
+   :location "南充市",
    :image "",
    :description ""}
   {:name "南区创艺中心",
@@ -5723,7 +5723,7 @@
    :longitude 108.4055872,
    :latitude 22.8084798,
    :source :openstreetmap,
-   :locality "南宁市",
+   :location "南宁市",
    :image "",
    :description ""}
   {:name "南宁市规划展览馆",
@@ -5736,7 +5736,7 @@
    :longitude 108.3176824,
    :latitude 22.8163374,
    :source :openstreetmap,
-   :locality "南宁市",
+   :location "南宁市",
    :image "",
    :description ""}
   {:name "南宁警察博物馆",
@@ -5768,7 +5768,7 @@
    :latitude 22.5449359,
    :source :openstreetmap,
    :homepage "https://www.nsqwhg.com/",
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "南山博物馆",
@@ -5776,7 +5776,7 @@
    :latitude 22.5380438,
    :source :openstreetmap,
    :homepage "https://www.nanshanmuseum.com",
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "南山艺堂",
@@ -5910,7 +5910,7 @@
    :latitude 23.0496696,
    :source :openstreetmap,
    :homepage "https://www.gzkaogu.com",
-   :locality "广州市",
+   :location "广州市",
    :image "",
    :description ""}
   {:name "南海博物馆",
@@ -6013,7 +6013,7 @@
    :longitude 112.5005532,
    :latitude 32.973052,
    :source :openstreetmap,
-   :locality "南阳市",
+   :location "南阳市",
    :image "",
    :description ""}
   {:name "博兴京博文化艺术博物馆",
@@ -6188,7 +6188,7 @@
    :longitude 118.0741639,
    :latitude 24.496912,
    :source :openstreetmap,
-   :locality "厦门市",
+   :location "厦门市",
    :image "",
    :description ""}
   {:name "县文化展示中心",
@@ -6507,7 +6507,7 @@
    :longitude 105.8346667,
    :latitude 28.8049469,
    :source :openstreetmap,
-   :locality "泸州市",
+   :location "泸州市",
    :image "",
    :description ""}
   {:name "合江省政府旧址博物馆",
@@ -6574,7 +6574,7 @@
    :longitude 125.3128176,
    :latitude 43.8792755,
    :source :openstreetmap,
-   :locality "长春市",
+   :location "长春市",
    :image "",
    :description ""}
   {:name "吉林大学考古与艺术博物馆",
@@ -6593,7 +6593,7 @@
    :longitude 129.4848438,
    :latitude 42.9048649,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "吉林梨树关东农耕博物馆",
@@ -6757,7 +6757,7 @@
    :latitude 31.2558181,
    :source :openstreetmap,
    :homepage "https://www.wuzhongmuseum.com/",
-   :locality "苏州市",
+   :location "苏州市",
    :image "",
    :description ""}
   {:name "吴昌硕纪念馆",
@@ -7014,7 +7014,7 @@
    :latitude 22.9356578,
    :source :openstreetmap,
    :homepage "https://hem.org/",
-   :locality "佛山市",
+   :location "佛山市",
    :image "",
    :description ""}
   {:name "咸宁市博物馆",
@@ -7033,7 +7033,7 @@
    :longitude 108.7353114,
    :latitude 34.300107,
    :source :openstreetmap,
-   :locality "咸阳",
+   :location "咸阳",
    :image "",
    :description ""}
   {:name "品图美术馆",
@@ -7210,7 +7210,7 @@
    :longitude 108.9539295,
    :latitude 34.2829055,
    :source :openstreetmap,
-   :locality "Xian",
+   :location "Xian",
    :image "",
    :description ""}
   {:name "商丘博物馆",
@@ -7417,7 +7417,7 @@
    :longitude 104.0388458,
    :latitude 30.6599672,
    :source :openstreetmap,
-   :locality "成都",
+   :location "成都",
    :image "",
    :description ""}
   {:name "四川福宝美术馆",
@@ -8017,7 +8017,7 @@
    :longitude 108.9033611,
    :latitude 34.2491473,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "大地湾博物馆",
@@ -8121,7 +8121,7 @@
    :latitude 34.2903731,
    :source :openstreetmap,
    :homepage "http://dmgpark.com/",
-   :locality "Xian",
+   :location "Xian",
    :image "",
    :description ""}
   {:name "大桥游展厅",
@@ -8369,7 +8369,7 @@
    :longitude 120.0885938,
    :latitude 30.1313282,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "天一阁博物馆",
@@ -8377,7 +8377,7 @@
    :latitude 29.8736392,
    :source :openstreetmap,
    :homepage "https://www.tianyige.com.cn/",
-   :locality "宁波市",
+   :location "宁波市",
    :image "",
    :description ""}
   {:name "天下第一壶",
@@ -8414,7 +8414,7 @@
    :longitude 112.4369602,
    :latitude 34.6746871,
    :source :openstreetmap,
-   :locality "Luoyang",
+   :location "Luoyang",
    :image "",
    :description ""}
   {:name "天宇自然博物馆",
@@ -8524,7 +8524,7 @@
    :longitude 117.1957311,
    :latitude 39.1340022,
    :source :openstreetmap,
-   :locality "天津市",
+   :location "天津市",
    :image "",
    :description ""}
   {:name "天津科学技术馆",
@@ -8801,7 +8801,7 @@
    :longitude 122.1353081,
    :latitude 37.4665896,
    :source :openstreetmap,
-   :locality "威海市",
+   :location "威海市",
    :image "",
    :description ""}
   {:name "娄山关红军战斗遗址陈列馆",
@@ -8826,7 +8826,7 @@
    :longitude 104.1010007,
    :latitude 26.2190159,
    :source :openstreetmap,
-   :locality "曲靖市",
+   :location "曲靖市",
    :image "",
    :description ""}
   {:name "孙中山先生生平展",
@@ -9011,7 +9011,7 @@
    :latitude 29.8810164,
    :source :openstreetmap,
    :homepage "https://www.nma.org.cn/",
-   :locality "宁波市",
+   :location "宁波市",
    :image "",
    :description ""}
   {:name "宁波老外滩展览馆",
@@ -9132,7 +9132,7 @@
    :longitude 117.3279147,
    :latitude 31.7131205,
    :source :openstreetmap,
-   :locality "合肥市",
+   :location "合肥市",
    :image "",
    :description ""}
   {:name "安徽古楼小镇博物馆",
@@ -9441,7 +9441,7 @@
    :longitude 118.2948524,
    :latitude 33.956206,
    :source :openstreetmap,
-   :locality "宿迁市",
+   :location "宿迁市",
    :image "",
    :description ""}
   {:name "宿迁水利博物馆",
@@ -9490,7 +9490,7 @@
    :longitude 119.528933,
    :latitude 26.665235,
    :source :openstreetmap,
-   :locality "寧德市",
+   :location "寧德市",
    :image "",
    :description ""}
   {:name "对印自卫反击战张国华将军前线指挥部旧址",
@@ -9551,7 +9551,7 @@
    :longitude 115.0328292,
    :latitude 35.7728955,
    :source :openstreetmap,
-   :locality "濮阳市",
+   :location "濮阳市",
    :image "",
    :description ""}
   {:name "小城故事历史展览馆",
@@ -9703,7 +9703,7 @@
    :latitude 22.3917098,
    :source :openstreetmap,
    :homepage "https://www.lcsd.gov.hk/en/tmth/index.html",
-   :locality "屯門 Tuen Mun",
+   :location "屯門 Tuen Mun",
    :image "",
    :description ""}
   {:name "山东博物馆",
@@ -9752,7 +9752,7 @@
    :longitude 116.8654316,
    :latitude 36.6750283,
    :source :openstreetmap,
-   :locality "济南市",
+   :location "济南市",
    :image "",
    :description ""}
   {:name "山东艺术馆",
@@ -9939,7 +9939,7 @@
    :longitude 112.9404176,
    :latitude 28.1602004,
    :source :openstreetmap,
-   :locality "长沙市",
+   :location "长沙市",
    :image "",
    :description ""}
   {:name "峨山县博物馆",
@@ -10168,7 +10168,7 @@
    :longitude 116.2693524,
    :latitude 39.9360182,
    :source :openstreetmap,
-   :locality "北京",
+   :location "北京",
    :image "",
    :description ""}
   {:name "巩义市博物馆",
@@ -10526,7 +10526,7 @@
    :latitude 23.1174149,
    :source :openstreetmap,
    :homepage "http://www.gdmuseum.com/",
-   :locality "广州市",
+   :location "广州市",
    :image "",
    :description ""}
   {:name "广东科学中心",
@@ -10557,7 +10557,7 @@
    :longitude 113.2780654,
    :latitude 23.1311597,
    :source :openstreetmap,
-   :locality "广州市",
+   :location "广州市",
    :image "",
    :description ""}
   {:name "广元市博物馆",
@@ -10601,7 +10601,7 @@
    :latitude 23.1156732,
    :source :openstreetmap,
    :homepage "https://www.gzhqbwg.org.cn",
-   :locality "广州",
+   :location "广州",
    :image "",
    :description ""}
   {:name "广州博物馆",
@@ -10644,7 +10644,7 @@
    :longitude 113.3230651,
    :latitude 23.0776709,
    :source :openstreetmap,
-   :locality "广州市",
+   :location "广州市",
    :image "",
    :description ""}
   {:name "广州市第二工人文化宫",
@@ -10725,7 +10725,7 @@
    :longitude 113.266491,
    :latitude 23.1452004,
    :source :openstreetmap,
-   :locality "广州市",
+   :location "广州市",
    :image "",
    :description ""}
   {:name "广府博物馆",
@@ -10810,7 +10810,7 @@
    :longitude 108.3258796,
    :latitude 22.8059696,
    :source :openstreetmap,
-   :locality "南宁市",
+   :location "南宁市",
    :image "",
    :description ""}
   {:name "庄世平博物馆",
@@ -10931,14 +10931,14 @@
    :longitude 129.4771104,
    :latitude 42.904632,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "延吉市文化馆 연길시문화관",
    :longitude 129.4339882,
    :latitude 42.8886747,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "延安北京知青博物馆",
@@ -10987,7 +10987,7 @@
    :longitude 109.4719554,
    :latitude 36.609552,
    :source :openstreetmap,
-   :locality "延安",
+   :location "延安",
    :image "",
    :description ""}
   {:name "延庆世界地质公园北方岩溶陈列室",
@@ -11006,14 +11006,14 @@
    :longitude 129.4164679,
    :latitude 42.887724,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "延边大学博物馆",
    :longitude 129.4837376,
    :latitude 42.9078881,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "延边州科技馆",
@@ -11026,14 +11026,14 @@
    :longitude 129.4119942,
    :latitude 42.8954,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "延边革命烈士纪念馆 연변혁명렬사기념관",
    :longitude 129.4882424,
    :latitude 42.9163653,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "建库开河纪念馆",
@@ -11112,7 +11112,7 @@
    :longitude 114.3451056,
    :latitude 34.791236,
    :source :openstreetmap,
-   :locality "开封市",
+   :location "开封市",
    :image "",
    :description ""}
   {:name "开封艺术博物馆",
@@ -11294,7 +11294,7 @@
    :longitude 121.400314,
    :latitude 37.5402592,
    :source :openstreetmap,
-   :locality "烟台市",
+   :location "烟台市",
    :image "",
    :description ""}
   {:name "张謇纪念馆",
@@ -11518,7 +11518,7 @@
    :longitude 98.5691358,
    :latitude 24.448835,
    :source :openstreetmap,
-   :locality "德宏傣族景颇族自治州",
+   :location "德宏傣族景颇族自治州",
    :image "",
    :description ""}
   {:name "德州博物馆",
@@ -11641,7 +11641,7 @@
    :latitude 29.3989521,
    :source :openstreetmap,
    :homepage "http://www.zdm.cn/",
-   :locality "自贡市",
+   :location "自贡市",
    :image "",
    :description ""}
   {:name "恒庐美术馆",
@@ -11697,7 +11697,7 @@
    :latitude 23.1089131,
    :source :openstreetmap,
    :homepage "http://www.hzbwg.com",
-   :locality "惠州市",
+   :location "惠州市",
    :image "",
    :description ""}
   {:name "惠州府衙遗址展示馆",
@@ -11710,7 +11710,7 @@
    :longitude 114.572214,
    :latitude 23.1154106,
    :source :openstreetmap,
-   :locality "惠州市",
+   :location "惠州市",
    :image "",
    :description ""}
   {:name "惠民县魏集镇魏氏庄园",
@@ -11741,7 +11741,7 @@
    :longitude 121.4475842,
    :latitude 29.987684,
    :source :openstreetmap,
-   :locality "宁波市",
+   :location "宁波市",
    :image "",
    :description ""}
   {:name "慈山寺佛教藝術博物館 Tsz Shan Monastery Buddhist Art Museum",
@@ -11833,7 +11833,7 @@
    :longitude 104.0443055,
    :latitude 30.6777962,
    :source :openstreetmap,
-   :locality "成都",
+   :location "成都",
    :image "",
    :description ""}
   {:name "成都烈士纪念馆",
@@ -12080,7 +12080,7 @@
    :longitude 113.9089413,
    :latitude 22.4807937,
    :source :openstreetmap,
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "拟建江右民居博览园",
@@ -12197,7 +12197,7 @@
    :longitude 117.0428892,
    :latitude 30.5166498,
    :source :openstreetmap,
-   :locality "安庆市",
+   :location "安庆市",
    :image "",
    :description ""}
   {:name "敬羅家塾 King Law Ka Shuk",
@@ -12240,7 +12240,7 @@
    :longitude 113.8607134,
    :latitude 22.5785636,
    :source :openstreetmap,
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "文化艺术中心",
@@ -12436,7 +12436,7 @@
    :latitude 30.8458728,
    :source :openstreetmap,
    :homepage "http://hubeiyd.ctwenhuayun.cn/xzqwhg/web/index.html",
-   :locality "武汉",
+   :location "武汉",
    :image "",
    :description ""}
   {:name "新洲博物馆",
@@ -12775,7 +12775,7 @@
    :longitude 87.252307,
    :latitude 44.008748,
    :source :openstreetmap,
-   :locality "昌吉市",
+   :location "昌吉市",
    :image "",
    :description ""}
   {:name "昌吉市清代粮仓遗址博物馆",
@@ -13064,7 +13064,7 @@
    :longitude 118.3003311,
    :latitude 34.0269251,
    :source :openstreetmap,
-   :locality "宿迁市",
+   :location "宿迁市",
    :image "",
    :description ""}
   {:name "曲山艺海博物馆（山东红十字会诊所旧址）",
@@ -13185,7 +13185,7 @@
    :longitude 129.3618872,
    :latitude 42.8734566,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "朝阳市博物馆",
@@ -13258,7 +13258,7 @@
    :longitude 120.6683989,
    :latitude 31.2562561,
    :source :openstreetmap,
-   :locality "苏州市",
+   :location "苏州市",
    :image "",
    :description ""}
   {:name "本钢博物馆",
@@ -13307,7 +13307,7 @@
    :longitude 112.1630915,
    :latitude 36.2277897,
    :source :openstreetmap,
-   :locality "临汾市",
+   :location "临汾市",
    :image "",
    :description ""}
   {:name "朱慧珍纪念馆",
@@ -13320,7 +13320,7 @@
    :longitude 120.1624862,
    :latitude 30.2422751,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "朱熹纪念馆",
@@ -13571,7 +13571,7 @@
    :longitude 109.4635009,
    :latitude 36.6193112,
    :source :openstreetmap,
-   :locality "延安",
+   :location "延安",
    :image "",
    :description ""}
   {:name "杨家湾老屋",
@@ -13674,7 +13674,7 @@
    :longitude 120.1784513,
    :latitude 30.2597412,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "杭帮菜博物馆",
@@ -13773,7 +13773,7 @@
    :longitude 119.2924187,
    :latitude 26.0814743,
    :source :openstreetmap,
-   :locality "福州市",
+   :location "福州市",
    :image "",
    :description ""}
   {:name "林景云故居",
@@ -13792,7 +13792,7 @@
    :longitude 116.7152671,
    :latitude 23.363632,
    :source :openstreetmap,
-   :locality "汕头市",
+   :location "汕头市",
    :image "",
    :description ""}
   {:name "林芝自然博物馆",
@@ -13865,7 +13865,7 @@
    :longitude 109.4079315,
    :latitude 24.3217053,
    :source :openstreetmap,
-   :locality "柳州市",
+   :location "柳州市",
    :image "",
    :description ""}
   {:name "柳州奇石博物馆",
@@ -14143,7 +14143,7 @@
    :latitude 25.2738285,
    :source :openstreetmap,
    :homepage "http://www.ghbl.org.cn",
-   :locality "桂林市",
+   :location "桂林市",
    :image "",
    :description ""}
   {:name "桑墟历史展览馆",
@@ -14180,7 +14180,7 @@
    :longitude 110.0587667,
    :latitude 36.8202836,
    :source :openstreetmap,
-   :locality "延安市",
+   :location "延安市",
    :image "",
    :description ""}
   {:name "梁带村芮国遗址博物馆",
@@ -14393,14 +14393,14 @@
    :longitude 112.9657726,
    :latitude 37.0665664,
    :source :openstreetmap,
-   :locality "晋中市",
+   :location "晋中市",
    :image "",
    :description ""}
   {:name "横琴文化艺术中心",
    :longitude 113.5301086,
    :latitude 22.137897,
    :source :openstreetmap,
-   :locality "珠海市",
+   :location "珠海市",
    :image "",
    :description ""}
   {:name "正定县博物馆",
@@ -14420,7 +14420,7 @@
    :latitude 30.6483863,
    :source :openstreetmap,
    :homepage "https://www.wuhouci.net.cn/index.html",
-   :locality "成都市",
+   :location "成都市",
    :image "",
    :description ""}
   {:name "武夷山自然博物馆",
@@ -14457,7 +14457,7 @@
    :longitude 120.156301,
    :latitude 30.2489934,
    :source :openstreetmap,
-   :locality "杭州",
+   :location "杭州",
    :image "",
    :description ""}
   {:name "武汉中央军事政治学校陈列馆",
@@ -14598,7 +14598,7 @@
    :longitude 114.2938525,
    :latitude 30.5534562,
    :source :openstreetmap,
-   :locality "中华路街道",
+   :location "中华路街道",
    :image "",
    :description ""}
   {:name "毛泽东同志故居",
@@ -14912,21 +14912,21 @@
    :longitude 116.6780973,
    :latitude 23.3584431,
    :source :openstreetmap,
-   :locality "汕头市",
+   :location "汕头市",
    :image "",
    :description ""}
   {:name "汕头市革命历史博物馆",
    :longitude 116.6859188,
    :latitude 23.3583988,
    :source :openstreetmap,
-   :locality "汕头市",
+   :location "汕头市",
    :image "",
    :description ""}
   {:name "汕头科技馆",
    :longitude 116.6873102,
    :latitude 23.3543253,
    :source :openstreetmap,
-   :locality "汕头市",
+   :location "汕头市",
    :image "",
    :description ""}
   {:name "汕头邮政总局大楼",
@@ -14951,7 +14951,7 @@
    :longitude 118.7854834,
    :latitude 32.0230861,
    :source :openstreetmap,
-   :locality "南京市",
+   :location "南京市",
    :image "",
    :description ""}
   {:name "江南造船厂博物馆",
@@ -15049,7 +15049,7 @@
    :latitude 32.0461959,
    :source :openstreetmap,
    :homepage "https://www.jsmsg.com/",
-   :locality "南京",
+   :location "南京",
    :image "",
    :description ""}
   {:name "江西会馆",
@@ -15266,7 +15266,7 @@
    :longitude 123.355049,
    :latitude 41.6805078,
    :source :openstreetmap,
-   :locality "沈阳市",
+   :location "沈阳市",
    :image "",
    :description ""}
   {:name "沙县博物馆",
@@ -15370,7 +15370,7 @@
    :longitude 113.8618936,
    :latitude 34.778556,
    :source :openstreetmap,
-   :locality "zhengzhou",
+   :location "zhengzhou",
    :image "",
    :description ""}
   {:name "河南省美术馆",
@@ -15480,7 +15480,7 @@
    :longitude 118.271678,
    :latitude 25.1280727,
    :source :openstreetmap,
-   :locality "泉州市",
+   :location "泉州市",
    :image "",
    :description ""}
   {:name "泉州博物馆",
@@ -15601,7 +15601,7 @@
    :longitude 117.1979804,
    :latitude 36.2139392,
    :source :openstreetmap,
-   :locality "泰安市",
+   :location "泰安市",
    :image "",
    :description ""}
   {:name "泰山楼",
@@ -15686,7 +15686,7 @@
    :longitude 112.4218862,
    :latitude 34.6687136,
    :source :openstreetmap,
-   :locality "洛阳市",
+   :location "洛阳市",
    :image "",
    :description ""}
   {:name "洛阳市规划展示馆",
@@ -15885,7 +15885,7 @@
    :longitude 120.7866982,
    :latitude 30.7422502,
    :source :openstreetmap,
-   :locality "嘉兴市",
+   :location "嘉兴市",
    :image "",
    :description ""}
   {:name "浙江兴业银行大楼",
@@ -15916,7 +15916,7 @@
    :longitude 120.09559,
    :latitude 30.1634919,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "浙江监狱陈列馆",
@@ -15947,7 +15947,7 @@
    :longitude 120.0991569,
    :latitude 30.1621582,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "浙江美术馆",
@@ -15960,7 +15960,7 @@
    :longitude 120.159624,
    :latitude 30.2789358,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "浙江自然博物馆安吉馆",
@@ -16028,7 +16028,7 @@
    :latitude 22.4833124,
    :source :openstreetmap,
    :homepage "http://www.designsociety.cn",
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "海上丝绸之路博物馆",
@@ -16131,7 +16131,7 @@
    :longitude 119.4123383,
    :latitude 25.9998869,
    :source :openstreetmap,
-   :locality "福州市",
+   :location "福州市",
    :image "",
    :description ""}
   {:name "海战博物馆",
@@ -16163,7 +16163,7 @@
    :longitude 122.403904,
    :latitude 37.119866,
    :source :openstreetmap,
-   :locality "威海市",
+   :location "威海市",
    :image "",
    :description ""}
   {:name "海淀区少年宫",
@@ -16291,14 +16291,14 @@
    :latitude 22.5462992,
    :source :openstreetmap,
    :homepage "https://www.shenzhenmuseum.com/",
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "深圳博物馆古代艺术馆",
    :longitude 114.09614,
    :latitude 22.5448955,
    :source :openstreetmap,
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "深圳古生物博物馆",
@@ -16324,7 +16324,7 @@
    :latitude 22.5510175,
    :source :openstreetmap,
    :homepage "https://www.szaac.com/",
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "深圳望野博物馆",
@@ -16337,7 +16337,7 @@
    :longitude 114.0575858,
    :latitude 22.5733266,
    :source :openstreetmap,
-   :locality "Shenzhen",
+   :location "Shenzhen",
    :image "",
    :description ""}
   {:name "深圳湾文化广场",
@@ -16356,7 +16356,7 @@
    :longitude 114.0800537,
    :latitude 22.5774537,
    :source :openstreetmap,
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "深圳科学技术馆",
@@ -16388,7 +16388,7 @@
    :longitude 114.0187698,
    :latitude 22.6276978,
    :source :openstreetmap,
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "深沪文化中心",
@@ -16407,7 +16407,7 @@
    :longitude 119.4239008,
    :latitude 32.211761,
    :source :openstreetmap,
-   :locality "镇江市",
+   :location "镇江市",
    :image "",
    :description ""}
   {:name "清军护藏卫国纪念馆",
@@ -16420,7 +16420,7 @@
    :longitude 116.3256132,
    :latitude 39.9902189,
    :source :openstreetmap,
-   :locality "北京市海淀区",
+   :location "北京市海淀区",
    :image "",
    :description ""}
   {:name "清华大学科学博物馆（筹）",
@@ -16748,7 +16748,7 @@
    :longitude 119.4883184,
    :latitude 31.395607,
    :source :openstreetmap,
-   :locality "常州市",
+   :location "常州市",
    :image "",
    :description ""}
   {:name "溧阳市文化馆",
@@ -16931,7 +16931,7 @@
    :longitude 119.1092102,
    :latitude 36.703731,
    :source :openstreetmap,
-   :locality "潍坊市",
+   :location "潍坊市",
    :image "",
    :description ""}
   {:name "潍坊党史教育纪念馆",
@@ -16951,7 +16951,7 @@
    :latitude 36.7115584,
    :source :openstreetmap,
    :homepage "http://www.wfsbwg.com/",
-   :locality "潍坊市",
+   :location "潍坊市",
    :image "",
    :description ""}
   {:name "潍坊市美术馆",
@@ -17125,7 +17125,7 @@
    :latitude 35.7545367,
    :source :openstreetmap,
    :homepage "https://www.pysqicheng.com/newsinfo/2026254.html",
-   :locality "濮阳市",
+   :location "濮阳市",
    :image "",
    :description ""}
   {:name "濮阳市博物馆",
@@ -17138,7 +17138,7 @@
    :longitude 115.0255734,
    :latitude 35.7818479,
    :source :openstreetmap,
-   :locality "濮阳市",
+   :location "濮阳市",
    :image "",
    :description ""}
   {:name "濮阳市工人文化宫",
@@ -17151,7 +17151,7 @@
    :longitude 114.9446662,
    :latitude 35.7756075,
    :source :openstreetmap,
-   :locality "濮阳市",
+   :location "濮阳市",
    :image "",
    :description ""}
   {:name "火山探知館 Volcano Discovery Centre",
@@ -17188,7 +17188,7 @@
    :longitude 114.2630896,
    :latitude 39.4385739,
    :source :openstreetmap,
-   :locality "灵丘县",
+   :location "灵丘县",
    :image "",
    :description ""}
   {:name "灵丘规划展览馆",
@@ -17244,7 +17244,7 @@
    :latitude 37.5359332,
    :source :openstreetmap,
    :homepage "https://www.ytmuseum.com/",
-   :locality "烟台市",
+   :location "烟台市",
    :image "",
    :description ""}
   {:name "烟台民俗博物馆",
@@ -17528,7 +17528,7 @@
    :longitude 119.2935412,
    :latitude 26.0874669,
    :source :openstreetmap,
-   :locality "福州市",
+   :location "福州市",
    :image "",
    :description ""}
   {:name "玉我唐公祠",
@@ -17625,7 +17625,7 @@
    :longitude 117.1645667,
    :latitude 39.10797,
    :source :openstreetmap,
-   :locality "天津市（Tianjin）",
+   :location "天津市（Tianjin）",
    :image "",
    :description ""}
   {:name "王安石美术馆",
@@ -17770,7 +17770,7 @@
    :longitude 110.2644199,
    :latitude 25.2855743,
    :source :openstreetmap,
-   :locality "桂林市",
+   :location "桂林市",
    :image "",
    :description ""}
   {:name "珠江啤酒博物馆",
@@ -17819,7 +17819,7 @@
    :longitude 130.3915336,
    :latitude 43.1234238,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "珲春市科学技术馆",
@@ -17916,14 +17916,14 @@
    :longitude 103.8148933,
    :latitude 36.0516936,
    :source :openstreetmap,
-   :locality "兰州市",
+   :location "兰州市",
    :image "",
    :description ""}
   {:name "甘肃地质博物馆",
    :longitude 103.8586318,
    :latitude 36.0693289,
    :source :openstreetmap,
-   :locality "兰州市",
+   :location "兰州市",
    :image "",
    :description ""}
   {:name "甘肃循环经济展览馆",
@@ -17936,14 +17936,14 @@
    :longitude 103.7720067,
    :latitude 36.0668147,
    :source :openstreetmap,
-   :locality "兰州市",
+   :location "兰州市",
    :image "",
    :description ""}
   {:name "甘肃科技馆",
    :longitude 103.7025643,
    :latitude 36.0995115,
    :source :openstreetmap,
-   :locality "兰州市",
+   :location "兰州市",
    :image "",
    :description ""}
   {:name "甘肃秦文化博物馆",
@@ -18403,14 +18403,14 @@
    :longitude 114.5370082,
    :latitude 38.004773,
    :source :openstreetmap,
-   :locality "石家庄市",
+   :location "石家庄市",
    :image "",
    :description ""}
   {:name "石家庄市博物馆",
    :longitude 114.5067522,
    :latitude 38.0454328,
    :source :openstreetmap,
-   :locality "石家庄市",
+   :location "石家庄市",
    :image "",
    :description ""}
   {:name "石家庄市群众艺术馆",
@@ -18453,7 +18453,7 @@
    :longitude 113.9389217,
    :latitude 22.6743886,
    :source :openstreetmap,
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "石峁博物馆",
@@ -18820,7 +18820,7 @@
    :longitude 120.368351,
    :latitude 36.0571628,
    :source :openstreetmap,
-   :locality "青岛市",
+   :location "青岛市",
    :image "",
    :description ""}
   {:name "科技艺术馆",
@@ -18944,7 +18944,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.taoheung.com.hk/tc/museum/introduction/index.html",
-   :locality "Hong Kong",
+   :location "Hong Kong",
    :image "",
    :description ""}
   {:name "章丘区美术馆",
@@ -19048,7 +19048,7 @@
    :longitude 114.1697019,
    :latitude 22.4465954,
    :source :openstreetmap,
-   :locality "大埔 Tai Po",
+   :location "大埔 Tai Po",
    :image "",
    :description ""}
   {:name "綦江农民版画院",
@@ -19487,7 +19487,7 @@
    :longitude 103.6714695,
    :latitude 30.6313761,
    :source :openstreetmap,
-   :locality "崇州市",
+   :location "崇州市",
    :image "",
    :description ""}
   {:name "羅屋民俗館 Law Uk Folk Museum",
@@ -19659,14 +19659,14 @@
    :latitude 34.286537,
    :source :openstreetmap,
    :homepage "http://dmgpark.com/",
-   :locality "Xian",
+   :location "Xian",
    :image "",
    :description ""}
   {:name "耒阳农耕文化博物馆",
    :longitude 112.8554886,
    :latitude 26.4260705,
    :source :openstreetmap,
-   :locality "衡阳市",
+   :location "衡阳市",
    :image "",
    :description ""}
   {:name "耒阳市文化馆",
@@ -19697,7 +19697,7 @@
    :longitude 115.9640514,
    :latitude 36.4488354,
    :source :openstreetmap,
-   :locality "聊城市",
+   :location "聊城市",
    :image "",
    :description ""}
   {:name "聊城山陕会馆",
@@ -19842,7 +19842,7 @@
    :longitude 122.1007055,
    :latitude 30.0199352,
    :source :openstreetmap,
-   :locality "定海区",
+   :location "定海区",
    :image "",
    :description ""}
   {:name "良心博物馆",
@@ -19939,7 +19939,7 @@
    :longitude 98.5518323,
    :latitude 24.4476551,
    :source :openstreetmap,
-   :locality "德宏傣族景颇族自治州",
+   :location "德宏傣族景颇族自治州",
    :image "",
    :description ""}
   {:name "芒砀山汉文化博物馆",
@@ -20378,7 +20378,7 @@
    :longitude 120.2359974,
    :latitude 31.5579631,
    :source :openstreetmap,
-   :locality "无锡市",
+   :location "无锡市",
    :image "",
    :description ""}
   {:name "荣田世居",
@@ -20529,7 +20529,7 @@
    :longitude 129.5039537,
    :latitude 42.9177541,
    :source :openstreetmap,
-   :locality "延边朝鲜族自治州",
+   :location "延边朝鲜族自治州",
    :image "",
    :description ""}
   {:name "董寿平美术馆",
@@ -20682,7 +20682,7 @@
    :latitude 22.2607064,
    :source :openstreetmap,
    :homepage "https://www.pokfulamfarm.org.hk",
-   :locality "薄扶林 Pok Fu Lam",
+   :location "薄扶林 Pok Fu Lam",
    :image "",
    :description ""}
   {:name "薛瑞丰砻坊",
@@ -20728,7 +20728,7 @@
    :latitude 22.8271486,
    :source :openstreetmap,
    :homepage "http://www.ypzz.cn",
-   :locality "东莞市",
+   :location "东莞市",
    :image "",
    :description ""}
   {:name "虢国博物馆",
@@ -20850,7 +20850,7 @@
    :latitude 32.0202683,
    :source :openstreetmap,
    :homepage "http://www.xymuseum.cn",
-   :locality "襄阳市",
+   :location "襄阳市",
    :image "",
    :description ""}
   {:name "襄阳市博物馆",
@@ -20858,21 +20858,21 @@
    :latitude 31.9941827,
    :source :openstreetmap,
    :homepage "http://www.xymuseum.cn/",
-   :locality "襄阳市",
+   :location "襄阳市",
    :image "",
    :description ""}
   {:name "襄阳市文化艺术中心",
    :longitude 112.2205659,
    :latitude 32.0686941,
    :source :openstreetmap,
-   :locality "襄阳市",
+   :location "襄阳市",
    :image "",
    :description ""}
   {:name "襄阳市科技馆",
    :longitude 112.221332,
    :latitude 32.0639834,
    :source :openstreetmap,
-   :locality "襄阳市",
+   :location "襄阳市",
    :image "",
    :description ""}
   {:name "襄阳市科技馆旧馆",
@@ -20891,14 +20891,14 @@
    :longitude 112.2175076,
    :latitude 32.0685137,
    :source :openstreetmap,
-   :locality "襄阳市",
+   :location "襄阳市",
    :image "",
    :description ""}
   {:name "襄阳美术馆",
    :longitude 112.1492047,
    :latitude 32.014298,
    :source :openstreetmap,
-   :locality "襄阳市",
+   :location "襄阳市",
    :image "",
    :description ""}
   {:name "西北农耕博物馆",
@@ -20995,7 +20995,7 @@
    :longitude 109.0839184,
    :latitude 34.2895519,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "西安市云之翼航空博物馆",
@@ -21027,7 +21027,7 @@
    :latitude 34.2551738,
    :source :openstreetmap,
    :homepage "https://www.beilin-museum.com/",
-   :locality "西安市",
+   :location "西安市",
    :image "",
    :description ""}
   {:name "西安科技馆",
@@ -21040,7 +21040,7 @@
    :longitude 108.9265253,
    :latitude 34.2204067,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "西安鼓楼博物馆",
@@ -21235,7 +21235,7 @@
    :source :openstreetmap,
    :homepage
    "https://baike.baidu.com/item/%E5%A4%94%E5%B7%9E%E5%8F%A4%E5%9F%8E/6577870",
-   :locality "Fengjie County",
+   :location "Fengjie County",
    :image "",
    :description ""}
   {:name "诗歌殿堂",
@@ -21338,7 +21338,7 @@
    :longitude 114.2111272,
    :latitude 22.4160767,
    :source :openstreetmap,
-   :locality "新界",
+   :location "新界",
    :image "",
    :description ""}
   {:name "賽馬會鯉魚門創意館 Jockey Club Lei Yue Mun Plus",
@@ -21756,7 +21756,7 @@
    :longitude 120.1223843,
    :latitude 30.3040189,
    :source :openstreetmap,
-   :locality "杭州市",
+   :location "杭州市",
    :image "",
    :description ""}
   {:name "运河记忆馆",
@@ -21848,7 +21848,7 @@
    :longitude 115.0392328,
    :latitude 35.7638397,
    :source :openstreetmap,
-   :locality "濮阳市",
+   :location "濮阳市",
    :image "",
    :description ""}
   {:name "逸吾谭公祠",
@@ -21873,7 +21873,7 @@
    :longitude 120.31799,
    :latitude 36.0806563,
    :source :openstreetmap,
-   :locality "青岛市",
+   :location "青岛市",
    :image "",
    :description ""}
   {:name "遵义会议期间毛泽东、张闻天、王稼祥住址",
@@ -22201,7 +22201,7 @@
    :latitude 39.5999912,
    :source :openstreetmap,
    :homepage "http://www.ordosbwg.com",
-   :locality "内蒙古鄂尔多斯市康巴什新区",
+   :location "内蒙古鄂尔多斯市康巴什新区",
    :image "",
    :description ""}
   {:name "鄂尔多斯市科学技术馆",
@@ -22406,7 +22406,7 @@
    :longitude 119.6393799,
    :latitude 29.1016918,
    :source :openstreetmap,
-   :locality "金华市",
+   :location "金华市",
    :image "",
    :description ""}
   {:name "金啤坊",
@@ -22485,7 +22485,7 @@
    :longitude 113.3571891,
    :latitude 22.119022,
    :source :openstreetmap,
-   :locality "珠海市",
+   :location "珠海市",
    :image "",
    :description ""}
   {:name "金田起义博物馆",
@@ -22529,7 +22529,7 @@
    :longitude 118.7816509,
    :latitude 32.0147634,
    :source :openstreetmap,
-   :locality "南京市",
+   :location "南京市",
    :image "",
    :description ""}
   {:name "銀河藝萃 Galaxy Art",
@@ -22632,7 +22632,7 @@
    :longitude 124.8690941,
    :latitude 40.4540098,
    :source :openstreetmap,
-   :locality "丹东市",
+   :location "丹东市",
    :image "",
    :description ""}
   {:name "铁道兵博物馆",
@@ -22783,7 +22783,7 @@
    :longitude 120.8987405,
    :latitude 31.0215392,
    :source :openstreetmap,
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "长乐区博物馆",
@@ -23001,7 +23001,7 @@
    :longitude 126.4308231,
    :latitude 41.9511199,
    :source :openstreetmap,
-   :locality "白山市",
+   :location "白山市",
    :image "",
    :description ""}
   {:name "长白山萨满文化馆",
@@ -23429,14 +23429,14 @@
    :longitude 108.8504833,
    :latitude 34.2004541,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "陕西体育博物馆",
    :longitude 108.8830216,
    :latitude 34.2032723,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "陕西历史博物馆",
@@ -23444,7 +23444,7 @@
    :latitude 34.2257568,
    :source :openstreetmap,
    :homepage "https://www.sxhm.com/",
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "陕西历史博物馆（秦汉馆）",
@@ -23452,7 +23452,7 @@
    :latitude 34.4078317,
    :source :openstreetmap,
    :homepage "https://www.sxhm.com/en/index.html",
-   :locality "西咸新区",
+   :location "西咸新区",
    :image "",
    :description ""}
   {:name "陕西省文化馆(曲江馆区)",
@@ -23465,7 +23465,7 @@
    :longitude 108.9396607,
    :latitude 34.2326999,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "陕西科技馆",
@@ -23492,7 +23492,7 @@
    :longitude 108.90095,
    :latitude 34.2316924,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "陕西黄河壶口瀑布地质博物馆",
@@ -23621,7 +23621,7 @@
    :latitude 22.5550281,
    :source :openstreetmap,
    :homepage "http://www.artron.com.cn/about/gallery/index/shenzhen",
-   :locality "深圳市",
+   :location "深圳市",
    :image "",
    :description ""}
   {:name "集安博物馆",
@@ -23804,7 +23804,7 @@
    :longitude 120.3237461,
    :latitude 36.061437,
    :source :openstreetmap,
-   :locality "Qingdao",
+   :location "Qingdao",
    :image "",
    :description ""}
   {:name "青岛汉画像砖博物馆",
@@ -23829,7 +23829,7 @@
    :longitude 120.0901506,
    :latitude 35.9060183,
    :source :openstreetmap,
-   :locality "青岛市",
+   :location "青岛市",
    :image "",
    :description ""}
   {:name "青岛科技馆",
@@ -23867,7 +23867,7 @@
    :longitude 120.316602,
    :latitude 36.0632588,
    :source :openstreetmap,
-   :locality "Qingdao",
+   :location "Qingdao",
    :image "",
    :description ""}
   {:name "青岛雕塑园室外区域",
@@ -24133,7 +24133,7 @@
    :longitude 113.288382,
    :latitude 22.8013179,
    :source :openstreetmap,
-   :locality "佛山市",
+   :location "佛山市",
    :image "",
    :description ""}
   {:name "顺德工业发展博物馆",
@@ -24146,7 +24146,7 @@
    :longitude 113.2920522,
    :latitude 22.8041904,
    :source :openstreetmap,
-   :locality "佛山市",
+   :location "佛山市",
    :image "",
    :description ""}
   {:name "顺德第二工人文化宫",
@@ -24400,7 +24400,7 @@
    :source :openstreetmap,
    :homepage
    "https://corporate.hkjc.com/corporate/english/history-and-reports/plan-your-visit.aspx",
-   :locality "跑馬地馬場 Happy Valley Racecourse",
+   :location "跑馬地馬場 Happy Valley Racecourse",
    :image "",
    :description ""}
   {:name "香港鐵路博物館 Hong Kong Railway Museum",
@@ -24585,7 +24585,7 @@
    :longitude 108.6508373,
    :latitude 34.2560074,
    :source :openstreetmap,
-   :locality "西安",
+   :location "西安",
    :image "",
    :description ""}
   {:name "高要书店旧址",
@@ -24670,7 +24670,7 @@
    :longitude 114.1518588,
    :latitude 22.2452596,
    :source :openstreetmap,
-   :locality "Ap Lei Chau, Hong Kong",
+   :location "Ap Lei Chau, Hong Kong",
    :image "",
    :description ""}
   {:name "鸡西市博物馆",
@@ -24843,7 +24843,7 @@
    :longitude 114.3967177,
    :latitude 23.092429,
    :source :openstreetmap,
-   :locality "惠州市",
+   :location "惠州市",
    :image "",
    :description ""}
   {:name "黄河三盛公景区博物馆",
@@ -24911,7 +24911,7 @@
    :latitude 23.1321492,
    :source :openstreetmap,
    :homepage "https://www.nywmuseum.org.cn/",
-   :locality "广州市",
+   :location "广州市",
    :image "",
    :description ""}
   {:name "黄道婆纪念堂",
@@ -25082,7 +25082,7 @@
    :longitude 123.9494651,
    :latitude 47.3539436,
    :source :openstreetmap,
-   :locality "齐齐哈尔市",
+   :location "齐齐哈尔市",
    :image "",
    :description ""}
   {:name "龍泉青瓷博物馆",
@@ -25090,7 +25090,7 @@
    :latitude 28.0581202,
    :source :openstreetmap,
    :homepage "https://www.lsszbwg.com/",
-   :locality "丽水市",
+   :location "丽水市",
    :image "",
    :description ""}
   {:name "龍環葡韻住宅式博物館 Casas-Museu da Taipa",
@@ -25181,7 +25181,7 @@
    :longitude 116.7111193,
    :latitude 23.375827,
    :source :openstreetmap,
-   :locality "汕头市",
+   :location "汕头市",
    :image "",
    :description ""}
   {:name "龙湾世居",
@@ -25207,7 +25207,7 @@
    :latitude 31.2181258,
    :source :openstreetmap,
    :homepage "http://thelongmuseum.org/",
-   :locality "上海市",
+   :location "上海市",
    :image "",
    :description ""}
   {:name "龙美术馆（西岸馆）",
@@ -25215,7 +25215,7 @@
    :latitude 31.1859164,
    :source :openstreetmap,
    :homepage "http://thelongmuseum.org/",
-   :locality "上海",
+   :location "上海",
    :image "",
    :description ""}
   {:name "龙脊印象",

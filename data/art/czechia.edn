@@ -16,14 +16,14 @@
    :latitude 49.8087743,
    :source :openstreetmap,
    :homepage "http://airpark.wz.cz/",
-   :locality "Zruč-Senec",
+   :location "Zruč-Senec",
    :image "",
    :description ""}
   {:name "Ajeto Art Glass",
    :longitude 14.5530514,
    :latitude 50.7535267,
    :source :openstreetmap,
-   :locality "Nový Bor",
+   :location "Nový Bor",
    :image "",
    :description ""}
   {:name "Alternativa",
@@ -42,7 +42,7 @@
    :longitude 16.0557702,
    :latitude 48.8574765,
    :source :openstreetmap,
-   :locality "Znojmo",
+   :location "Znojmo",
    :image "",
    :description ""}
   {:name "Anglikánsky Kostel",
@@ -56,7 +56,7 @@
    :latitude 49.1921153,
    :source :openstreetmap,
    :homepage "https://www.mzm.cz/pavilon-anthropos",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Archeologická expozice",
@@ -70,14 +70,14 @@
    :latitude 50.6873655,
    :source :openstreetmap,
    :homepage "https://www.muzeumcl.cz/archeologicke_muzeum.html",
-   :locality "Česká Lípa",
+   :location "Česká Lípa",
    :image "",
    :description ""}
   {:name "Archeologický depozitář a specializovaná muzejní pracoviště",
    :longitude 13.857351,
    :latitude 50.6609685,
    :source :openstreetmap,
-   :locality "Teplice",
+   :location "Teplice",
    :image "",
    :description ""}
   {:name "Archeologický park Liboc",
@@ -85,14 +85,14 @@
    :latitude 50.0870685,
    :source :openstreetmap,
    :homepage "http://www.archaia.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Archeopark Chotěbuz",
    :longitude 18.5901476,
    :latitude 49.787652,
    :source :openstreetmap,
-   :locality "Chotěbuz",
+   :location "Chotěbuz",
    :image "",
    :description ""}
   {:name "Archeopark Pavlov",
@@ -100,7 +100,7 @@
    :latitude 48.8771962,
    :source :openstreetmap,
    :homepage "https://www.archeoparkpavlov.cz/",
-   :locality "Pavlov",
+   :location "Pavlov",
    :image "",
    :description ""}
   {:name "Archeopark Všestary",
@@ -161,7 +161,7 @@
    :longitude 17.2581192,
    :latitude 49.5873155,
    :source :openstreetmap,
-   :locality "Olomouc",
+   :location "Olomouc",
    :image "",
    :description ""}
   {:name "ART Viko",
@@ -201,7 +201,7 @@
    :latitude 50.0958059,
    :source :openstreetmap,
    :homepage "https://www.artwallgallery.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Astronomické muzeum Vojtěcha Šafaříka",
@@ -228,7 +228,7 @@
    :latitude 48.8072753,
    :source :openstreetmap,
    :homepage "http://www.schieleartcentrum.cz/",
-   :locality "Český Krumlov",
+   :location "Český Krumlov",
    :image "",
    :description ""}
   {:name "Atommuzeum Javor 51",
@@ -269,7 +269,7 @@
    :longitude 12.3502345,
    :latitude 50.1130302,
    :source :openstreetmap,
-   :locality "Františkovy Lázně",
+   :location "Františkovy Lázně",
    :image "",
    :description ""}
   {:name "Automobilmuseum",
@@ -315,7 +315,7 @@
    :longitude 15.1829269,
    :latitude 50.877008,
    :source :openstreetmap,
-   :locality "Hejnice",
+   :location "Hejnice",
    :image "",
    :description ""}
   {:name "Bertramka",
@@ -335,7 +335,7 @@
    :longitude 14.6992694,
    :latitude 49.1873159,
    :source :openstreetmap,
-   :locality "Veselí nad Lužnicí",
+   :location "Veselí nad Lužnicí",
    :image "",
    :description ""}
   {:name "Blatské muzeum - Smrčkův dům",
@@ -362,7 +362,7 @@
    :latitude 48.9039333,
    :source :openstreetmap,
    :homepage "https://www.branadorimskerise.cz/",
-   :locality "Pasohlávky",
+   :location "Pasohlávky",
    :image "",
    :description ""}
   {:name "Budova soudu a šatlavy Javorník",
@@ -404,7 +404,7 @@
    :latitude 50.1521892,
    :source :openstreetmap,
    :homepage "https://www.bustehrad.cz/",
-   :locality "Buštěhrad",
+   :location "Buštěhrad",
    :image "",
    :description ""}
   {:name "Bylinková zahrada a muzeum života na venkově Bystřice",
@@ -456,7 +456,7 @@
    :latitude 50.0729815,
    :source :openstreetmap,
    :homepage "https://praha.camp/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Catherine_A_R_T_",
@@ -482,7 +482,7 @@
    :longitude 15.8576083,
    :latitude 50.1964061,
    :source :openstreetmap,
-   :locality "Nový Hradec Králové",
+   :location "Nový Hradec Králové",
    :image "",
    :description ""}
   {:name "Centrum setkávání",
@@ -490,7 +490,7 @@
    :latitude 50.9830288,
    :source :openstreetmap,
    :homepage "https://www.dolnipoustevna.cz/",
-   :locality "Dolní Poustevna",
+   :location "Dolní Poustevna",
    :image "",
    :description ""}
   {:name "Centrum slovanské archeologie",
@@ -512,7 +512,7 @@
    :latitude 50.6842804,
    :source :openstreetmap,
    :homepage "http://www.lipy.cz",
-   :locality "Česká Lípa",
+   :location "Česká Lípa",
    :image "",
    :description ""}
   {:name "Cesta mramoru",
@@ -533,7 +533,7 @@
    :latitude 50.0800983,
    :source :openstreetmap,
    :homepage "https://muzeumcheb.cz/",
-   :locality "Cheb",
+   :location "Cheb",
    :image "",
    :description ""}
   {:name "Chlupáčovo muzeum historie Země",
@@ -541,7 +541,7 @@
    :latitude 50.0687528,
    :source :openstreetmap,
    :homepage "https://www.natur.cuni.cz/geologie/chlupacovo-muzeum",
-   :locality "Praha 2",
+   :location "Praha 2",
    :image "",
    :description ""}
   {:name "Chodovská tvrz",
@@ -568,7 +568,7 @@
    :longitude 14.4501925,
    :latitude 50.0765376,
    :source :openstreetmap,
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "co.labs",
@@ -628,7 +628,7 @@
    :latitude 48.6354818,
    :source :openstreetmap,
    :homepage "https://www.czechrepubrick.cz/lipno-nad-vltavou",
-   :locality "Lipno nad Vltavou",
+   :location "Lipno nad Vltavou",
    :image "",
    :description ""}
   {:name "DDM Praha 2",
@@ -636,14 +636,14 @@
    :latitude 50.076366,
    :source :openstreetmap,
    :homepage "https://www.leroyal.cz/",
-   :locality "Praha 2",
+   :location "Praha 2",
    :image "",
    :description ""}
   {:name "Depozitář Muzeum Vysočiny",
    :longitude 15.885884,
    :latitude 49.208624,
    :source :openstreetmap,
-   :locality "Třebíč",
+   :location "Třebíč",
    :image "",
    :description ""}
   {:name "Depozitář Technického muzea v Brně",
@@ -657,7 +657,7 @@
    :latitude 49.1913943,
    :source :openstreetmap,
    :homepage "https://www.dieceznimuzeum.cz",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Dietrichsteinská hrobka",
@@ -673,7 +673,7 @@
    :latitude 50.1262791,
    :source :openstreetmap,
    :homepage "https://www.dinosauria.cz/",
-   :locality "Tuchoměřice",
+   :location "Tuchoměřice",
    :image "",
    :description ""}
   {:name "Dinosauří Muzeum Čertoryje",
@@ -681,7 +681,7 @@
    :latitude 49.5096334,
    :source :openstreetmap,
    :homepage "https://www.dinosaurimuzeumcertoryje.cz/",
-   :locality "Charváty",
+   :location "Charváty",
    :image "",
    :description ""}
   {:name "Dobrovická muza",
@@ -708,7 +708,7 @@
    :latitude 50.094743,
    :source :openstreetmap,
    :homepage "https://www.muzeumzamberk.cz/domek-prokopa-divise/",
-   :locality "Žamberk",
+   :location "Žamberk",
    :image "",
    :description ""}
   {:name "Domek T. G. Masaryka",
@@ -728,7 +728,7 @@
    :latitude 50.1067852,
    :source :openstreetmap,
    :homepage "https://www.dox.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Draw Planet",
@@ -787,7 +787,7 @@
    :longitude 14.6589916,
    :latitude 50.0763361,
    :source :openstreetmap,
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Dům dětí a mládeže",
@@ -795,7 +795,7 @@
    :latitude 50.2412107,
    :source :openstreetmap,
    :homepage "https://www.ddmkralupy.cz",
-   :locality "Kralupy nad Vltavou",
+   :location "Kralupy nad Vltavou",
    :image "",
    :description ""}
   {:name "Dům dětí a mládeže Hranice",
@@ -882,7 +882,7 @@
    :latitude 48.9738373,
    :source :openstreetmap,
    :homepage "https://dumumenicb.cz",
-   :locality "České Budějovice",
+   :location "České Budějovice",
    :image "",
    :description ""}
   {:name "Dům umění",
@@ -890,7 +890,7 @@
    :latitude 49.940422,
    :source :openstreetmap,
    :homepage "www.oko-opava.cz",
-   :locality "Opava",
+   :location "Opava",
    :image "",
    :description ""}
   {:name "Dům umění Ústí nad Labem",
@@ -905,7 +905,7 @@
    :latitude 48.8106543,
    :source :openstreetmap,
    :homepage "http://www.schieleartcentrum.cz/",
-   :locality "Český Krumlov",
+   :location "Český Krumlov",
    :image "",
    :description ""}
   {:name "Elektroskanzen Čechův mlýn",
@@ -947,7 +947,7 @@
    :longitude 17.1041499,
    :latitude 48.9218446,
    :source :openstreetmap,
-   :locality "Dubňany",
+   :location "Dubňany",
    :image "",
    :description ""}
   {:name "Expozice hudebních nástrojů",
@@ -989,21 +989,21 @@
    :latitude 49.4883343,
    :source :openstreetmap,
    :homepage "http://zelenohorskaposta.cz/",
-   :locality "Nepomuk",
+   :location "Nepomuk",
    :image "",
    :description ""}
   {:name "Expozice zemědělských a hasičských strojů",
    :longitude 16.2130638,
    :latitude 50.5428371,
    :source :openstreetmap,
-   :locality "Žďár nad Metují",
+   :location "Žďár nad Metují",
    :image "",
    :description ""}
   {:name "Expozice času",
    :longitude 17.2974137,
    :latitude 49.72959,
    :source :openstreetmap,
-   :locality "Šternberk",
+   :location "Šternberk",
    :image "",
    :description ""}
   {:name "Expozice železniční tratě Kostelec - Slavonice",
@@ -1023,7 +1023,7 @@
    :longitude 14.9926146,
    :latitude 49.4427898,
    :source :openstreetmap,
-   :locality "Eš",
+   :location "Eš",
    :image "",
    :description ""}
   {:name "Fajna dílna",
@@ -1037,7 +1037,7 @@
    :longitude 14.4846175,
    :latitude 50.1051485,
    :source :openstreetmap,
-   :locality "Praha 9",
+   :location "Praha 9",
    :image "",
    :description ""}
   {:name "Filmový klub",
@@ -1063,7 +1063,7 @@
    :latitude 50.4275455,
    :source :openstreetmap,
    :homepage "https://www.lazne-belohrad.cz/",
-   :locality "Lázně Bělohrad",
+   :location "Lázně Bělohrad",
    :image "",
    :description ""}
   {:name "Fórum",
@@ -1108,7 +1108,7 @@
    :latitude 49.8733969,
    :source :openstreetmap,
    :homepage "http://www.zamecky-dvur.cz/",
-   :locality "Všeradice",
+   :location "Všeradice",
    :image "",
    :description ""}
   {:name "Galerie a sklárna - Jaroslav Svoboda AGS",
@@ -1152,7 +1152,7 @@
    :longitude 16.4313604,
    :latitude 49.3512048,
    :source :openstreetmap,
-   :locality "Tišnov",
+   :location "Tišnov",
    :image "",
    :description ""}
   {:name "Galerie Aukce",
@@ -1179,7 +1179,7 @@
    :longitude 12.8887813,
    :latitude 50.2215799,
    :source :openstreetmap,
-   :locality "Karlovy Vary",
+   :location "Karlovy Vary",
    :image "",
    :description ""}
   {:name "Galerie Daria",
@@ -1193,14 +1193,14 @@
    :latitude 50.068766,
    :source :openstreetmap,
    :homepage "https://www.galeriedeset.cz/",
-   :locality "Praha 10",
+   :location "Praha 10",
    :image "",
    :description ""}
   {:name "Galerie Emila Fily",
    :longitude 14.0073484,
    :latitude 50.6621442,
    :source :openstreetmap,
-   :locality "Ústí nad Labem",
+   :location "Ústí nad Labem",
    :image "",
    :description ""}
   {:name "Galerie Emila Juliše",
@@ -1214,7 +1214,7 @@
    :latitude 50.086126,
    :source :openstreetmap,
    :homepage "https://entrancegallery.com/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Galerie ES",
@@ -1228,7 +1228,7 @@
    :latitude 50.2290677,
    :source :openstreetmap,
    :homepage "https://sdhhoudkovice.estranky.cz/clanky/galerie-h/",
-   :locality "Houdkovice",
+   :location "Houdkovice",
    :image "",
    :description ""}
   {:name "Galerie hlavního města Prahy",
@@ -1236,7 +1236,7 @@
    :latitude 50.0951953,
    :source :openstreetmap,
    :homepage "https://www.ghmp.cz/",
-   :locality "Praha 1",
+   :location "Praha 1",
    :image "",
    :description ""}
   {:name "Galerie Hrádek",
@@ -1257,14 +1257,14 @@
    :latitude 49.9952295,
    :source :openstreetmap,
    :homepage "https://www.galerie-svatos.cz",
-   :locality "Kostelec nad Černými lesy",
+   :location "Kostelec nad Černými lesy",
    :image "",
    :description ""}
   {:name "Galerie Jirkov",
    :longitude 13.447859,
    :latitude 50.49887,
    :source :openstreetmap,
-   :locality "Jirkov",
+   :location "Jirkov",
    :image "",
    :description ""}
   {:name "Galerie Josefa Sudka",
@@ -1272,14 +1272,14 @@
    :latitude 50.0882701,
    :source :openstreetmap,
    :homepage "https://www.ngprague.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Galerie Kafka",
    :longitude 13.505809,
    :latitude 50.2331641,
    :source :openstreetmap,
-   :locality "Blšany",
+   :location "Blšany",
    :image "",
    :description ""}
   {:name "Galerie Karla Samšiňáka",
@@ -1339,7 +1339,7 @@
    :latitude 50.0379621,
    :source :openstreetmap,
    :homepage "https://www.galerie-linea.cz/",
-   :locality "Pardubice",
+   :location "Pardubice",
    :image "",
    :description ""}
   {:name "Galerie MATHIAS - akad.malíř Josef Minařík",
@@ -1347,7 +1347,7 @@
    :latitude 49.1933886,
    :source :openstreetmap,
    :homepage "http://www.galerieminarik.cz",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Galerie Melantrich",
@@ -1369,7 +1369,7 @@
    :latitude 50.4164457,
    :source :openstreetmap,
    :homepage "https://www.mineral-blaha.cz/",
-   :locality "Dvůr Králové nad Labem",
+   :location "Dvůr Králové nad Labem",
    :image "",
    :description ""}
   {:name "Galerie moderního umění",
@@ -1382,7 +1382,7 @@
    :longitude 12.8870134,
    :latitude 50.2171762,
    :source :openstreetmap,
-   :locality "Karlovy Vary",
+   :location "Karlovy Vary",
    :image "",
    :description ""}
   {:name "Galerie Morzin",
@@ -1428,7 +1428,7 @@
    :latitude 49.0253249,
    :source :openstreetmap,
    :homepage "www.mjakub.cz",
-   :locality "Uherský Brod",
+   :location "Uherský Brod",
    :image "",
    :description ""}
   {:name "Galerie plastik Hořice",
@@ -1449,7 +1449,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.pre.cz/cs/profil-spolecnosti/dalsi-aktivity-pre/kultura-pre/galerie-pre/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Galerie Rudolfinum",
@@ -1477,7 +1477,7 @@
    :longitude 17.4576609,
    :latitude 49.0717443,
    :source :openstreetmap,
-   :locality "Uherské Hradiště",
+   :location "Uherské Hradiště",
    :image "",
    :description ""}
   {:name "Galerie Smečky",
@@ -1491,7 +1491,7 @@
    :longitude 13.9010631,
    :latitude 49.2629603,
    :source :openstreetmap,
-   :locality "Strakonice",
+   :location "Strakonice",
    :image "",
    :description ""}
   {:name "Galerie Stříbský mlýn",
@@ -1532,7 +1532,7 @@
    :latitude 50.584359,
    :source :openstreetmap,
    :homepage "https://www.galerie-ubrany.cz/",
-   :locality "Úštěk",
+   :location "Úštěk",
    :image "",
    :description ""}
   {:name "Galerie U lávky",
@@ -1552,14 +1552,14 @@
    :latitude 48.9774134,
    :source :openstreetmap,
    :homepage "https://www.popartshop.cz/",
-   :locality "České Budějovice",
+   :location "České Budějovice",
    :image "",
    :description ""}
   {:name "Galerie u Vavřince",
    :longitude 12.7485808,
    :latitude 50.2402613,
    :source :openstreetmap,
-   :locality "Chodov",
+   :location "Chodov",
    :image "",
    :description ""}
   {:name "Galerie uměleckého smaltu a litiny a Památník Ferdiše Duši",
@@ -1612,14 +1612,14 @@
    :longitude 15.5788352,
    :latitude 49.6074504,
    :source :openstreetmap,
-   :locality "Havlíčkův Brod",
+   :location "Havlíčkův Brod",
    :image "",
    :description ""}
   {:name "Galerie výtvarného umění v Náchodě",
    :longitude 16.1608428,
    :latitude 50.4198605,
    :source :openstreetmap,
-   :locality "Náchod",
+   :location "Náchod",
    :image "",
    :description ""}
   {:name "Galerie výtvarného umění v Ostravě",
@@ -1633,7 +1633,7 @@
    :longitude 13.7717524,
    :latitude 49.0536634,
    :source :openstreetmap,
-   :locality "Vimperk",
+   :location "Vimperk",
    :image "",
    :description ""}
   {:name "Galerie z ruky",
@@ -1706,7 +1706,7 @@
    :longitude 14.3179671,
    :latitude 50.253057,
    :source :openstreetmap,
-   :locality "Kralupy nad Vltavou",
+   :location "Kralupy nad Vltavou",
    :image "",
    :description ""}
   {:name "Gelerie Žofín",
@@ -1719,7 +1719,7 @@
    :longitude 12.364887,
    :latitude 50.1721686,
    :source :openstreetmap,
-   :locality "Skalná",
+   :location "Skalná",
    :image "",
    :description ""}
   {:name "Geologická expozice",
@@ -1745,7 +1745,7 @@
    :longitude 14.4787097,
    :latitude 50.9349141,
    :source :openstreetmap,
-   :locality "Krásná Lípa",
+   :location "Krásná Lípa",
    :image "",
    :description ""}
   {:name "Geopark",
@@ -1759,7 +1759,7 @@
    :latitude 50.0652396,
    :source :openstreetmap,
    :homepage "https://www.praha-vysehrad.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Gottfrei",
@@ -1774,7 +1774,7 @@
    :latitude 50.038818,
    :source :openstreetmap,
    :homepage "https://www.gocarovagalerie.cz/",
-   :locality "Pardubice",
+   :location "Pardubice",
    :image "",
    :description ""}
   {:name "Grafitový důl",
@@ -1782,7 +1782,7 @@
    :latitude 48.8169722,
    :source :openstreetmap,
    :homepage "http://www.grafitovydul.cz/",
-   :locality "Český Krumlov",
+   :location "Český Krumlov",
    :image "",
    :description ""}
   {:name "guitars",
@@ -1803,7 +1803,7 @@
    :latitude 50.0804311,
    :source :openstreetmap,
    :homepage "https://www.hafstudio.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Hamousův statek",
@@ -1831,7 +1831,7 @@
    :latitude 50.1964413,
    :source :openstreetmap,
    :homepage "https://www.hanicka.cz/",
-   :locality "Rokytnice v Orlických horách",
+   :location "Rokytnice v Orlických horách",
    :image "",
    :description ""}
   {:name "Hanácký skanzen",
@@ -1839,7 +1839,7 @@
    :latitude 49.6449892,
    :source :openstreetmap,
    :homepage "https://www.hanackeskanzen.cz/",
-   :locality "Příkazy",
+   :location "Příkazy",
    :image "",
    :description ""}
   {:name "Hasičské",
@@ -1853,7 +1853,7 @@
    :latitude 49.170102,
    :source :openstreetmap,
    :homepage "http://www.sdhzabori.cz/hasicske-minimuzeum/",
-   :locality "Protivín",
+   :location "Protivín",
    :image "",
    :description ""}
   {:name "Hasičské muzeum",
@@ -1896,7 +1896,7 @@
    :longitude 13.9086598,
    :latitude 49.1942299,
    :source :openstreetmap,
-   :locality "Hoštice",
+   :location "Hoštice",
    :image "",
    :description ""}
   {:name "Hasičské muzeum Hutisko-Solanec",
@@ -1956,7 +1956,7 @@
    :latitude 49.5409282,
    :source :openstreetmap,
    :homepage "https://hlinik3.webnode.cz/hlinikarium/",
-   :locality "Humpolec",
+   :location "Humpolec",
    :image "",
    :description ""}
   {:name "Hnojový Dům",
@@ -1989,7 +1989,7 @@
    :latitude 49.8662863,
    :source :openstreetmap,
    :homepage "https://muzeumplana.cz",
-   :locality "Planá",
+   :location "Planá",
    :image "",
    :description ""}
   {:name "Hornické muzeum",
@@ -2088,7 +2088,7 @@
    :latitude 50.0826928,
    :source :openstreetmap,
    :homepage "https://huntkastner.com/",
-   :locality "Praha 3",
+   :location "Praha 3",
    :image "",
    :description ""}
   {:name "Hvězdárna",
@@ -2102,7 +2102,7 @@
    :latitude 49.2047665,
    :source :openstreetmap,
    :homepage "https://www.hvezdarna.cz/",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Hřebečský grunt",
@@ -2123,7 +2123,7 @@
    :latitude 49.2025674,
    :source :openstreetmap,
    :homepage "https://www.artstudio-incolor.cz",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Institut Paměti národa",
@@ -2168,7 +2168,7 @@
    :longitude 12.9342713,
    :latitude 49.4411323,
    :source :openstreetmap,
-   :locality "Domažlice",
+   :location "Domažlice",
    :image "",
    :description ""}
   {:name "Jiráskovo muzeum",
@@ -2182,14 +2182,14 @@
    :latitude 50.874145,
    :source :openstreetmap,
    :homepage "https://www.muzeumjizerky.cz",
-   :locality "Bílý Potok",
+   :location "Bílý Potok",
    :image "",
    :description ""}
   {:name "Jurkovičova vila",
    :longitude 16.5761152,
    :latitude 49.2066195,
    :source :openstreetmap,
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "K-Bg-S 12b \"Utržený\"",
@@ -2246,7 +2246,7 @@
    :latitude 48.8150425,
    :source :openstreetmap,
    :homepage "https://www.schw-kan.com/",
-   :locality "Nová Pec",
+   :location "Nová Pec",
    :image "",
    :description ""}
   {:name "Kaolin na Podbořansku",
@@ -2267,7 +2267,7 @@
    :longitude 17.8286078,
    :latitude 49.661712,
    :source :openstreetmap,
-   :locality "Odry",
+   :location "Odry",
    :image "",
    :description ""}
   {:name "KC Řehlovice",
@@ -2275,7 +2275,7 @@
    :latitude 50.6077034,
    :source :openstreetmap,
    :homepage "https://www.kcrehlo.cz",
-   :locality "Řehlovice",
+   :location "Řehlovice",
    :image "",
    :description ""}
   {:name "KD Ostrov",
@@ -2289,7 +2289,7 @@
    :latitude 50.4491953,
    :source :openstreetmap,
    :homepage "https://www.keramiko.cz/",
-   :locality "Kohoutov",
+   :location "Kohoutov",
    :image "",
    :description ""}
   {:name "Keramika Labounek",
@@ -2297,7 +2297,7 @@
    :latitude 50.0356355,
    :source :openstreetmap,
    :homepage "http://web.me.com/labounek",
-   :locality "Praha 4",
+   :location "Praha 4",
    :image "",
    :description ""}
   {:name "Klamovka",
@@ -2331,7 +2331,7 @@
    :latitude 49.8496597,
    :source :openstreetmap,
    :homepage "http://www.hzsmsk.cz/index.php?ID=1719",
-   :locality "Ostrava",
+   :location "Ostrava",
    :image "",
    :description ""}
   {:name "Klukovský sen, holčičkám vstup dovolen",
@@ -2351,7 +2351,7 @@
    :longitude 17.1872303,
    :latitude 50.2410138,
    :source :openstreetmap,
-   :locality "Jeseník",
+   :location "Jeseník",
    :image "",
    :description ""}
   {:name "Konírna - tradiční remesla",
@@ -2413,14 +2413,14 @@
    :longitude 12.8729192,
    :latitude 49.4350642,
    :source :openstreetmap,
-   :locality "Újezd",
+   :location "Újezd",
    :image "",
    :description ""}
   {:name "Košíkářské muzeum",
    :longitude 17.2078687,
    :latitude 49.248281,
    :source :openstreetmap,
-   :locality "Morkovice",
+   :location "Morkovice",
    :image "",
    :description ""}
   {:name "Kožané město",
@@ -2469,7 +2469,7 @@
    :latitude 50.0677948,
    :source :openstreetmap,
    :homepage "https://krytfolimanka.cz/",
-   :locality "Praha 2",
+   :location "Praha 2",
    :image "",
    :description ""}
   {:name "Královská mincovna",
@@ -2477,7 +2477,7 @@
    :latitude 50.3713936,
    :source :openstreetmap,
    :homepage "http://kvmuz.cz/muz/muzeum-kralovska-mincovna-jachymov",
-   :locality "Jáchymov",
+   :location "Jáchymov",
    :image "",
    :description ""}
   {:name "Království panenek",
@@ -2500,7 +2500,7 @@
    :latitude 50.0713236,
    :source :openstreetmap,
    :homepage "https://www.kralovstvi-zeleznic.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Kubova vila",
@@ -2521,7 +2521,7 @@
    :latitude 50.0300423,
    :source :openstreetmap,
    :homepage "https://zahorskeho.webnode.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Kulturní centrum",
@@ -2535,7 +2535,7 @@
    :latitude 49.9074353,
    :source :openstreetmap,
    :homepage "https://www.kclanskroun.cz/",
-   :locality "Lanškroun",
+   :location "Lanškroun",
    :image "",
    :description ""}
   {:name "Kulturní centrum Sever",
@@ -2543,7 +2543,7 @@
    :latitude 50.7790639,
    :source :openstreetmap,
    :homepage "http://www.cvikov.cz/",
-   :locality "Cvikov",
+   :location "Cvikov",
    :image "",
    :description ""}
   {:name "Kulturní centrum Svoboda",
@@ -2556,28 +2556,28 @@
    :longitude 14.482327,
    :latitude 50.3505407,
    :source :openstreetmap,
-   :locality "Mělník",
+   :location "Mělník",
    :image "",
    :description ""}
   {:name "Kulturní dům",
    :longitude 15.9878813,
    :latitude 50.0713926,
    :source :openstreetmap,
-   :locality "Holice",
+   :location "Holice",
    :image "",
    :description ""}
   {:name "Kulturní dům",
    :longitude 17.3826889,
    :latitude 48.9514064,
    :source :openstreetmap,
-   :locality "Veselí nad Moravou",
+   :location "Veselí nad Moravou",
    :image "",
    :description ""}
   {:name "Kulturní dům",
    :longitude 14.5329999,
    :latitude 50.6573697,
    :source :openstreetmap,
-   :locality "Sosnová",
+   :location "Sosnová",
    :image "",
    :description ""}
   {:name "Kulturní dům",
@@ -2596,21 +2596,21 @@
    :longitude 13.1791987,
    :latitude 50.3866191,
    :source :openstreetmap,
-   :locality "Klášterec nad Ohří",
+   :location "Klášterec nad Ohří",
    :image "",
    :description ""}
   {:name "Kulturní dům",
    :longitude 18.2383823,
    :latitude 49.9469016,
    :source :openstreetmap,
-   :locality "Hať",
+   :location "Hať",
    :image "",
    :description ""}
   {:name "Kulturní dům",
    :longitude 17.9699835,
    :latitude 49.9596514,
    :source :openstreetmap,
-   :locality "Chlebičov",
+   :location "Chlebičov",
    :image "",
    :description ""}
   {:name "Kulturní dům",
@@ -2630,7 +2630,7 @@
    :latitude 50.0734927,
    :source :openstreetmap,
    :homepage "https://kdbarikadniku.cz/",
-   :locality "Praha 10",
+   :location "Praha 10",
    :image "",
    :description ""}
   {:name "Kulturní Dům Bolatice",
@@ -2655,7 +2655,7 @@
    :longitude 17.9949894,
    :latitude 49.9886889,
    :source :openstreetmap,
-   :locality "Služovice",
+   :location "Služovice",
    :image "",
    :description ""}
   {:name "Kulturní dům Stod",
@@ -2668,7 +2668,7 @@
    :longitude 13.7121021,
    :latitude 50.541655,
    :source :openstreetmap,
-   :locality "Braňany",
+   :location "Braňany",
    :image "",
    :description ""}
   {:name "Kulturní dům TRISIA",
@@ -2695,7 +2695,7 @@
    :latitude 49.781337,
    :source :openstreetmap,
    :homepage "http://www.kddobris.cz/",
-   :locality "Dobříš",
+   :location "Dobříš",
    :image "",
    :description ""}
   {:name "kulturní středisko Omega",
@@ -2711,7 +2711,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.npu.cz/cs/hrady-a-zamky/tipy-na-vylet/92928-statek-kvitkuv-dvur",
-   :locality "Český Krumlov",
+   :location "Český Krumlov",
    :image "",
    :description ""}
   {:name "Křižovnický špýchar",
@@ -2738,7 +2738,7 @@
    :longitude 15.0198946,
    :latitude 50.2835474,
    :source :openstreetmap,
-   :locality "Loučeň",
+   :location "Loučeň",
    :image "",
    :description ""}
   {:name "letecké muzeum",
@@ -2805,7 +2805,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.zamek-ceskykrumlov.cz/cs/informace-pro-navstevniky/prohlidkove-okruhy/106363-letohradek-bellarie",
-   :locality "Český Krumlov",
+   :location "Český Krumlov",
    :image "",
    :description ""}
   {:name "Lichtenštejnský dům",
@@ -2833,7 +2833,7 @@
    :longitude 14.0530631,
    :latitude 50.5121306,
    :source :openstreetmap,
-   :locality "Lovosice",
+   :location "Lovosice",
    :image "",
    :description ""}
   {:name "Luštírna",
@@ -2889,7 +2889,7 @@
    :latitude 49.3344267,
    :source :openstreetmap,
    :homepage "https://www.holesov.info/misto/8-male-muzeum-kovarstvi",
-   :locality "Holešov",
+   :location "Holešov",
    :image "",
    :description ""}
   {:name "Malé muzeum techniky",
@@ -2962,7 +2962,7 @@
    :latitude 50.0870963,
    :source :openstreetmap,
    :homepage "https://www.gallerymillennium.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Mineralogické muzeum",
@@ -3015,7 +3015,7 @@
    :latitude 49.1856546,
    :source :openstreetmap,
    :homepage "https://www.muzeum-st.cz/",
-   :locality "Hoslovice",
+   :location "Hoslovice",
    :image "",
    :description ""}
   {:name "Mlýn u Veselých",
@@ -3044,14 +3044,14 @@
    :latitude 50.1051906,
    :source :openstreetmap,
    :homepage "https://www.nm.cz/",
-   :locality "Praha 7",
+   :location "Praha 7",
    :image "",
    :description ""}
   {:name "Mohyla míru",
    :longitude 16.7629552,
    :latitude 49.1280406,
    :source :openstreetmap,
-   :locality "Prace",
+   :location "Prace",
    :image "",
    :description ""}
   {:name "Mona Lisa",
@@ -3085,7 +3085,7 @@
    :latitude 50.5360993,
    :source :openstreetmap,
    :homepage "https://www.motomuzeumborek.cz/",
-   :locality "Borek",
+   :location "Borek",
    :image "",
    :description ""}
   {:name "Motomuzeum Jawa",
@@ -3099,7 +3099,7 @@
    :latitude 50.0841764,
    :source :openstreetmap,
    :homepage "https://www.mucha.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Museum dr. Šimona Adlera",
@@ -3107,7 +3107,7 @@
    :latitude 49.1558382,
    :source :openstreetmap,
    :homepage "https://www.muzeumsumavy.cz/muzeumsumavy/dobravoda.asp",
-   :locality "Hartmanice",
+   :location "Hartmanice",
    :image "",
    :description ""}
   {:name "Museum Kampa",
@@ -3115,7 +3115,7 @@
    :latitude 50.0839986,
    :source :openstreetmap,
    :homepage "https://www.museumkampa.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Museum kouzel Pardubice",
@@ -3123,7 +3123,7 @@
    :latitude 50.0279867,
    :source :openstreetmap,
    :homepage "https://www.klubkouzel.cz/museum-kouzel-pardubice.php",
-   :locality "Pardubice",
+   :location "Pardubice",
    :image "",
    :description ""}
   {:name "Museum Moser",
@@ -3180,7 +3180,7 @@
    :latitude 49.8444967,
    :source :openstreetmap,
    :homepage "https://www.muzeum.skutec.cz/",
-   :locality "Skuteč",
+   :location "Skuteč",
    :image "",
    :description ""}
   {:name "Muzeum",
@@ -3219,7 +3219,7 @@
    :latitude 49.020242,
    :source :openstreetmap,
    :homepage "https://www.muzeumvedrovice.cz/",
-   :locality "Vedrovice",
+   :location "Vedrovice",
    :image "",
    :description ""}
   {:name "Muzeum a pamětní síň Sigmunda Freuda v Příboře",
@@ -3272,7 +3272,7 @@
    :latitude 50.0736877,
    :source :openstreetmap,
    :homepage "https://www.nm.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Muzeum Arcade hry",
@@ -3280,7 +3280,7 @@
    :latitude 50.0731543,
    :source :openstreetmap,
    :homepage "https://www.arcadehry.cz/",
-   :locality "Červený Újezd",
+   :location "Červený Újezd",
    :image "",
    :description ""}
   {:name "Muzeum automobilů Jaguár",
@@ -3288,7 +3288,7 @@
    :latitude 49.2176713,
    :source :openstreetmap,
    :homepage "www.jaguar-trebic.cz",
-   :locality "Třebíč",
+   :location "Třebíč",
    :image "",
    :description ""}
   {:name "Muzeum autíček",
@@ -3296,7 +3296,7 @@
    :latitude 49.3389913,
    :source :openstreetmap,
    :homepage "https://www.muzeumauticek.cz/",
-   :locality "Příseka",
+   :location "Příseka",
    :image "",
    :description ""}
   {:name "Muzeum Avia",
@@ -3304,7 +3304,7 @@
    :latitude 50.2145733,
    :source :openstreetmap,
    :homepage "https://www.avia-muzeum.cz/",
-   :locality "Panenské Břežany",
+   :location "Panenské Břežany",
    :image "",
    :description ""}
   {:name "Muzeum Aš",
@@ -3312,7 +3312,7 @@
    :latitude 50.2247536,
    :source :openstreetmap,
    :homepage "https://www.muzeum-as.cz/",
-   :locality "Aš",
+   :location "Aš",
    :image "",
    :description ""}
   {:name "Muzeum Ašska",
@@ -3356,7 +3356,7 @@
    :latitude 49.9650175,
    :source :openstreetmap,
    :homepage "http://muzeum-beroun.cz",
-   :locality "Beroun-Centrum",
+   :location "Beroun-Centrum",
    :image "",
    :description ""}
   {:name "Muzeum Betlémů",
@@ -3371,7 +3371,7 @@
    :latitude 49.9374942,
    :source :openstreetmap,
    :homepage "https://www.muzeumbetlemu.cz/",
-   :locality "Karlštejn",
+   :location "Karlštejn",
    :image "",
    :description ""}
   {:name "Muzeum betlémů",
@@ -3390,14 +3390,14 @@
    :longitude 12.5658655,
    :latitude 50.187278,
    :source :openstreetmap,
-   :locality "Habartov",
+   :location "Habartov",
    :image "",
    :description ""}
   {:name "Muzeum Blatnice",
    :longitude 17.4669592,
    :latitude 48.944495,
    :source :openstreetmap,
-   :locality "Blatnice pod Svatým Antonínkem",
+   :location "Blatnice pod Svatým Antonínkem",
    :image "",
    :description ""}
   {:name "Muzeum Bojkovska",
@@ -3455,14 +3455,14 @@
    :latitude 50.5013675,
    :source :openstreetmap,
    :homepage "https://www.muzeumbela.cz/",
-   :locality "Bělá pod Bezdězem",
+   :location "Bělá pod Bezdězem",
    :image "",
    :description ""}
   {:name "Muzeum břidlice",
    :longitude 17.6286472,
    :latitude 49.7938412,
    :source :openstreetmap,
-   :locality "Budišov nad Budišovkou",
+   :location "Budišov nad Budišovkou",
    :image "",
    :description ""}
   {:name "Muzeum Dašovský mlýn",
@@ -3476,7 +3476,7 @@
    :latitude 49.7315333,
    :source :openstreetmap,
    :homepage "https://skodabusklub.cz/",
-   :locality "Strašice",
+   :location "Strašice",
    :image "",
    :description ""}
   {:name "Muzeum Doubice",
@@ -3491,7 +3491,7 @@
    :latitude 49.54139,
    :source :openstreetmap,
    :homepage "https://muzeum.humpolec.cz",
-   :locality "Humpolec",
+   :location "Humpolec",
    :image "",
    :description ""}
   {:name "Muzeum Dr. Bohuslava Horáka v Rokycanech",
@@ -3499,7 +3499,7 @@
    :latitude 49.7431859,
    :source :openstreetmap,
    :homepage "https://www.zcm.cz/",
-   :locality "Rokycany",
+   :location "Rokycany",
    :image "",
    :description ""}
   {:name "Muzeum Drahanské vrchoviny",
@@ -3552,7 +3552,7 @@
    :longitude 14.909712,
    :latitude 49.0686259,
    :source :openstreetmap,
-   :locality "Stráž nad Nežárkou",
+   :location "Stráž nad Nežárkou",
    :image "",
    :description ""}
   {:name "Muzeum energetiky",
@@ -3578,7 +3578,7 @@
    :latitude 48.6617427,
    :source :openstreetmap,
    :homepage "https://www.ifrymburk.info/",
-   :locality "Frymburk",
+   :location "Frymburk",
    :image "",
    :description ""}
   {:name "Muzeum generálporučíka Františka Peřiny",
@@ -3600,7 +3600,7 @@
    :latitude 50.1694574,
    :source :openstreetmap,
    :homepage "https://hasicske-muzeum-skalna61.webnode.cz/",
-   :locality "Skalná",
+   :location "Skalná",
    :image "",
    :description ""}
   {:name "Muzeum hasičské techniky ve Zděchově",
@@ -3616,7 +3616,7 @@
    :latitude 49.7359503,
    :source :openstreetmap,
    :homepage "https://arcadeplzen.cz",
-   :locality "Plzeň",
+   :location "Plzeň",
    :image "",
    :description ""}
   {:name "Muzeum historické hasičské techniky",
@@ -3630,7 +3630,7 @@
    :latitude 49.1376235,
    :source :openstreetmap,
    :homepage "https://www.historickemoto.cz/zelezna-ruda",
-   :locality "Železná Ruda",
+   :location "Železná Ruda",
    :image "",
    :description ""}
   {:name "Muzeum historických motocyklů",
@@ -3638,7 +3638,7 @@
    :latitude 49.1443026,
    :source :openstreetmap,
    :homepage "http://muzeum.sumava.net/muzeum_sumavy/kh/m-k-hory.html",
-   :locality "Kašperské Hory",
+   :location "Kašperské Hory",
    :image "",
    :description ""}
   {:name "Muzeum historických motorcyklů",
@@ -3658,7 +3658,7 @@
    :longitude 14.1758923,
    :latitude 48.7651167,
    :source :openstreetmap,
-   :locality "Hořice na Šumavě",
+   :location "Hořice na Šumavě",
    :image "",
    :description ""}
   {:name "Muzeum historických vozidel a staré zemědělské techniky",
@@ -3674,7 +3674,7 @@
    :latitude 50.0447586,
    :source :openstreetmap,
    :homepage "https://www.motoracek.cz/;http://www.pshzd.cz/",
-   :locality "Pardubice",
+   :location "Pardubice",
    :image "",
    :description ""}
   {:name "Muzeum Hlučínska",
@@ -3718,7 +3718,7 @@
    :latitude 50.2907828,
    :source :openstreetmap,
    :homepage "https://www.muzeumhracekbydzov.cz/",
-   :locality "Benátky nad Jizerou",
+   :location "Benátky nad Jizerou",
    :image "",
    :description ""}
   {:name "Muzeum hraček Lednice",
@@ -3738,14 +3738,14 @@
    :longitude 17.599555,
    :latitude 49.2042263,
    :source :openstreetmap,
-   :locality "Zlín",
+   :location "Zlín",
    :image "",
    :description ""}
   {:name "Muzeum iluzí Tábor",
    :longitude 14.6710025,
    :latitude 49.4127424,
    :source :openstreetmap,
-   :locality "Tábor",
+   :location "Tábor",
    :image "",
    :description ""}
   {:name "Muzeum izolace, internace a integrace",
@@ -3753,7 +3753,7 @@
    :latitude 50.4423826,
    :source :openstreetmap,
    :homepage "https://www.muzeumbilavoda.cz/",
-   :locality "Bílá Voda",
+   :location "Bílá Voda",
    :image "",
    :description ""}
   {:name "Muzeum izolátorů a bleskojistek",
@@ -3779,7 +3779,7 @@
    :latitude 49.9046874,
    :source :openstreetmap,
    :homepage "https://www.liten.cz/",
-   :locality "Liteň",
+   :location "Liteň",
    :image "",
    :description ""}
   {:name "Muzeum Jaroslava Foglara",
@@ -3888,14 +3888,14 @@
    :latitude 50.0865112,
    :source :openstreetmap,
    :homepage "https://www.muzeumkarlovamostu.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Muzeum Karlovy Vary",
    :longitude 12.8797099,
    :latitude 50.2202629,
    :source :openstreetmap,
-   :locality "Karlovy Vary",
+   :location "Karlovy Vary",
    :image "",
    :description ""}
   {:name "Muzeum každodennosti",
@@ -3923,7 +3923,7 @@
    :longitude 13.378036,
    :latitude 49.8501628,
    :source :openstreetmap,
-   :locality "Horní Bříza",
+   :location "Horní Bříza",
    :image "",
    :description ""}
   {:name "Muzeum Kladská",
@@ -3943,14 +3943,14 @@
    :latitude 50.0878515,
    :source :openstreetmap,
    :homepage "https://muzeumkomunismu.cz",
-   :locality "Praha 1",
+   :location "Praha 1",
    :image "",
    :description ""}
   {:name "Muzeum koněspřežné dráhy",
    :longitude 14.4323066,
    :latitude 48.7017211,
    :source :openstreetmap,
-   :locality "Bujanov",
+   :location "Bujanov",
    :image "",
    :description ""}
   {:name "Muzeum Kostek LEGO",
@@ -3965,7 +3965,7 @@
    :latitude 50.0914341,
    :source :openstreetmap,
    :homepage "http://kouzlostarychcasu.com",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Muzeum Kouřimska",
@@ -4000,7 +4000,7 @@
    :longitude 13.9982122,
    :latitude 49.0122648,
    :source :openstreetmap,
-   :locality "Prachatice",
+   :location "Prachatice",
    :image "",
    :description ""}
   {:name "Muzeum Kraslické dráhy",
@@ -4014,7 +4014,7 @@
    :longitude 15.4667224,
    :latitude 50.6622407,
    :source :openstreetmap,
-   :locality "Poniklá",
+   :location "Poniklá",
    :image "",
    :description ""}
   {:name "Muzeum krojů",
@@ -4034,7 +4034,7 @@
    :longitude 13.8550155,
    :latitude 50.6868366,
    :source :openstreetmap,
-   :locality "Krupka",
+   :location "Krupka",
    :image "",
    :description ""}
   {:name "Muzeum Lašská jizba",
@@ -4096,7 +4096,7 @@
    :longitude 14.5096281,
    :latitude 48.8238534,
    :source :openstreetmap,
-   :locality "Svatý Jan nad Malší",
+   :location "Svatý Jan nad Malší",
    :image "",
    :description ""}
   {:name "Muzeum loutkářských kultur",
@@ -4111,7 +4111,7 @@
    :latitude 49.1006507,
    :source :openstreetmap,
    :homepage "http://muzeumluhacovice.cz/",
-   :locality "Luhačovice",
+   :location "Luhačovice",
    :image "",
    :description ""}
   {:name "Muzeum Luka nad Jihlavou",
@@ -4131,7 +4131,7 @@
    :longitude 15.9347936,
    :latitude 50.3618795,
    :source :openstreetmap,
-   :locality "Jaroměř",
+   :location "Jaroměř",
    :image "",
    :description ""}
   {:name "Muzeum Malešov",
@@ -4152,7 +4152,7 @@
    :latitude 48.8119215,
    :source :openstreetmap,
    :homepage "https://marionettemuseum.cz/",
-   :locality "Český Krumlov",
+   :location "Český Krumlov",
    :image "",
    :description ""}
   {:name "Muzeum Masné krámy",
@@ -4167,7 +4167,7 @@
    :latitude 50.0133888,
    :source :openstreetmap,
    :homepage "https://muzeumceskychvanoc.cz/",
-   :locality "Ořech",
+   :location "Ořech",
    :image "",
    :description ""}
   {:name "Muzeum meteoritů",
@@ -4194,7 +4194,7 @@
    :latitude 49.7518031,
    :source :openstreetmap,
    :homepage "https://duchmaus.cz/",
-   :locality "Stříbro",
+   :location "Stříbro",
    :image "",
    :description ""}
   {:name "Muzeum Mohelnice",
@@ -4258,7 +4258,7 @@
    :longitude 13.7460359,
    :latitude 50.6029643,
    :source :openstreetmap,
-   :locality "Duchcov",
+   :location "Duchcov",
    :image "",
    :description ""}
   {:name "Muzeum města Horní Cerekev",
@@ -4319,7 +4319,7 @@
    :latitude 50.0939532,
    :source :openstreetmap,
    :homepage "https://www.dpp.cz/muzeum-mhd/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Muzeum na demarkační linii",
@@ -4339,7 +4339,7 @@
    :longitude 17.5853197,
    :latitude 48.9659185,
    :source :openstreetmap,
-   :locality "Dolní Němčí",
+   :location "Dolní Němčí",
    :image "",
    :description ""}
   {:name "Muzeum naftového dobývání a geologie",
@@ -4398,7 +4398,7 @@
    :longitude 16.8905113,
    :latitude 48.9327175,
    :source :openstreetmap,
-   :locality "Kobylí",
+   :location "Kobylí",
    :image "",
    :description ""}
   {:name "Muzeum obecné školy",
@@ -4431,7 +4431,7 @@
    :longitude 17.3604171,
    :latitude 48.8752529,
    :source :openstreetmap,
-   :locality "Tvarožná Lhota",
+   :location "Tvarožná Lhota",
    :image "",
    :description ""}
   {:name "Muzeum osobních automobilů Tatra",
@@ -4484,7 +4484,7 @@
    :latitude 50.1925952,
    :source :openstreetmap,
    :homepage "https://muzeumpetrof.cz/",
-   :locality "Hradec Králové",
+   :location "Hradec Králové",
    :image "",
    :description ""}
   {:name "Muzeum pivovarnictví",
@@ -4541,7 +4541,7 @@
    :latitude 50.0688998,
    :source :openstreetmap,
    :homepage "https://www.muzeumpolicie.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Muzeum Prahy",
@@ -4581,7 +4581,7 @@
    :latitude 49.6275269,
    :source :openstreetmap,
    :homepage "https://arksfoundation.net/",
-   :locality "Brněnec",
+   :location "Brněnec",
    :image "",
    :description ""}
   {:name "Muzeum Přimda",
@@ -4641,7 +4641,7 @@
    :latitude 49.2005278,
    :source :openstreetmap,
    :homepage "http://www.rommuz.cz",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Muzeum Roubenka",
@@ -4686,7 +4686,7 @@
    :longitude 14.210404,
    :latitude 48.8536185,
    :source :openstreetmap,
-   :locality "Chvalšiny",
+   :location "Chvalšiny",
    :image "",
    :description ""}
   {:name "Muzeum seismologie",
@@ -4723,7 +4723,7 @@
    :longitude 15.1720825,
    :latitude 50.7226263,
    :source :openstreetmap,
-   :locality "Jablonec nad Nisou",
+   :location "Jablonec nad Nisou",
    :image "",
    :description ""}
   {:name "Muzeum sklářství",
@@ -4830,7 +4830,7 @@
    :latitude 49.7338423,
    :source :openstreetmap,
    :homepage "http://www.muzeumstrasice.eu/",
-   :locality "Strašice",
+   :location "Strašice",
    :image "",
    :description ""}
   {:name "Muzeum Středního Pootaví",
@@ -4852,7 +4852,7 @@
    :latitude 50.1034888,
    :source :openstreetmap,
    :homepage "https://www.muzeumtgm.cz/",
-   :locality "Rakovník",
+   :location "Rakovník",
    :image "",
    :description ""}
   {:name "Muzeum Tajnych Spolku",
@@ -4873,7 +4873,7 @@
    :latitude 49.4869793,
    :source :openstreetmap,
    :homepage "http://www.muzeum-kolovec.cz/",
-   :locality "Koloveč",
+   :location "Koloveč",
    :image "",
    :description ""}
   {:name "Muzeum techniky v Loukově",
@@ -4952,7 +4952,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.dolni-strela.cz/turisticke-informace/tipy-na-vylety/muzeum-tezby-borove-smoly/",
-   :locality "Lomnička",
+   :location "Lomnička",
    :image "",
    :description ""}
   {:name "Muzeum Třineckých železáren a města Třince",
@@ -4966,7 +4966,7 @@
    :longitude 14.6909522,
    :latitude 49.7836458,
    :source :openstreetmap,
-   :locality "Benešov",
+   :location "Benešov",
    :image "",
    :description ""}
   {:name "Muzeum v Jurkovičově sále",
@@ -5026,7 +5026,7 @@
    :longitude 16.2522,
    :latitude 49.8239813,
    :source :openstreetmap,
-   :locality "Dolní Újezd",
+   :location "Dolní Újezd",
    :image "",
    :description ""}
   {:name "Muzeum veteránů",
@@ -5097,7 +5097,7 @@
    :longitude 15.5889244,
    :latitude 49.3965238,
    :source :openstreetmap,
-   :locality "Jihlava",
+   :location "Jihlava",
    :image "",
    :description ""}
   {:name "Muzeum Vysočiny Jihlava - pobočka Třešť",
@@ -5120,14 +5120,14 @@
    :latitude 49.1762458,
    :source :openstreetmap,
    :homepage "https://mvji.cz/pobocka-telc/",
-   :locality "Telč",
+   :location "Telč",
    :image "",
    :description ""}
   {:name "Muzeum vystěhovalectví",
    :longitude 18.2143298,
    :latitude 49.5460763,
    :source :openstreetmap,
-   :locality "Frenštát pod Radhoštěm",
+   :location "Frenštát pod Radhoštěm",
    :image "",
    :description ""}
   {:name "Muzeum vystěhovalectví do Brazílie",
@@ -5150,7 +5150,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.muzeumhk.cz/muzeum-valky-1866/zakladni-info-muzeum-valky-1866.html",
-   :locality "Všestary",
+   :location "Všestary",
    :image "",
    :description ""}
   {:name "Muzeum Vápenka",
@@ -5247,7 +5247,7 @@
    :latitude 49.9787616,
    :source :openstreetmap,
    :homepage "http://zvonarstvi.carillon.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Muzeum Zvonková",
@@ -5255,7 +5255,7 @@
    :latitude 48.7233224,
    :source :openstreetmap,
    :homepage "https://www.gloeckelberg.at/?page_id=1328",
-   :locality "Bližší Lhota",
+   :location "Bližší Lhota",
    :image "",
    :description ""}
   {:name "Muzeum Častolovicka",
@@ -5288,7 +5288,7 @@
    :latitude 49.2097958,
    :source :openstreetmap,
    :homepage "http://muzeumexil.cz",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Muzeum českého granátu",
@@ -5336,7 +5336,7 @@
    :latitude 50.5685688,
    :source :openstreetmap,
    :homepage "http://muzeum.mksdoksy.cz/",
-   :locality "Doksy",
+   :location "Doksy",
    :image "",
    :description ""}
   {:name "Muzeum řemesel",
@@ -5349,7 +5349,7 @@
    :longitude 12.673527,
    :latitude 50.1950325,
    :source :openstreetmap,
-   :locality "Královské Poříčí",
+   :location "Královské Poříčí",
    :image "",
    :description ""}
   {:name "Muzeum Říčany",
@@ -5388,7 +5388,7 @@
    :longitude 13.89521,
    :latitude 49.8757501,
    :source :openstreetmap,
-   :locality "Žebrák",
+   :location "Žebrák",
    :image "",
    :description ""}
   {:name "Muzeum železnice",
@@ -5409,7 +5409,7 @@
    :latitude 49.1377519,
    :source :openstreetmap,
    :homepage "http://muzeum.sumava.net/",
-   :locality "Železná Ruda",
+   :location "Železná Ruda",
    :image "",
    :description ""}
   {:name "Muzeum železné opony",
@@ -5417,7 +5417,7 @@
    :latitude 49.6557899,
    :source :openstreetmap,
    :homepage "http://muzeumrozvadov.eu/",
-   :locality "Rozvadov",
+   :location "Rozvadov",
    :image "",
    :description ""}
   {:name "Muzeum železné opony",
@@ -5457,7 +5457,7 @@
    :latitude 49.1976369,
    :source :openstreetmap,
    :homepage "https://www.mzm.cz/palac-slechticen",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Müllerova vila",
@@ -5465,7 +5465,7 @@
    :latitude 50.0925756,
    :source :openstreetmap,
    :homepage "https://www.muzeumprahy.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Měděný důl Bohumír",
@@ -5574,7 +5574,7 @@
    :latitude 49.7526576,
    :source :openstreetmap,
    :homepage "https://www.muzeum-stribro.cz/",
-   :locality "Stříbro",
+   :location "Stříbro",
    :image "",
    :description ""}
   {:name "Městské muzeum",
@@ -5629,7 +5629,7 @@
    :longitude 14.3041849,
    :latitude 50.2401059,
    :source :openstreetmap,
-   :locality "Kralupy nad Vltavou",
+   :location "Kralupy nad Vltavou",
    :image "",
    :description ""}
   {:name "Městské muzeum",
@@ -5642,7 +5642,7 @@
    :longitude 13.886436,
    :latitude 49.1674499,
    :source :openstreetmap,
-   :locality "Volyně",
+   :location "Volyně",
    :image "",
    :description ""}
   {:name "Městské muzeum",
@@ -5687,7 +5687,7 @@
    :latitude 49.049154,
    :source :openstreetmap,
    :homepage "www.meksmk.cz",
-   :locality "Moravský Krumlov",
+   :location "Moravský Krumlov",
    :image "",
    :description ""}
   {:name "Městské Muzeum Blatná",
@@ -5719,7 +5719,7 @@
    :longitude 13.7704449,
    :latitude 49.8591901,
    :source :openstreetmap,
-   :locality "Zbiroh",
+   :location "Zbiroh",
    :image "",
    :description ""}
   {:name "Městské muzeum Kožlany",
@@ -5746,7 +5746,7 @@
    :longitude 16.6584834,
    :latitude 49.7582525,
    :source :openstreetmap,
-   :locality "Moravská Třebová",
+   :location "Moravská Třebová",
    :image "",
    :description ""}
   {:name "Městské muzeum Přelouč",
@@ -5779,7 +5779,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.pevnostjosefov.cz/portfolio/muzeum-v-zasobovacim-urade/",
-   :locality "Josefov",
+   :location "Josefov",
    :image "",
    :description ""}
   {:name "Městské muzeum ve Strážnici",
@@ -5793,7 +5793,7 @@
    :longitude 14.7516595,
    :latitude 50.1660115,
    :source :openstreetmap,
-   :locality "Čelákovice",
+   :location "Čelákovice",
    :image "",
    :description ""}
   {:name "Městské muzeum Žacléř",
@@ -5844,21 +5844,21 @@
    :latitude 50.0828531,
    :source :openstreetmap,
    :homepage "http://www.nikonphotogallery.cz/",
-   :locality "Praha 1",
+   :location "Praha 1",
    :image "",
    :description ""}
   {:name "NKP - Pietní území Ležáky",
    :longitude 15.8993097,
    :latitude 49.8319625,
    :source :openstreetmap,
-   :locality "Dachov",
+   :location "Dachov",
    :image "",
    :description ""}
   {:name "Novostrašecké kulturní centrum",
    :longitude 13.897804,
    :latitude 50.1524467,
    :source :openstreetmap,
-   :locality "Nové Strašecí",
+   :location "Nové Strašecí",
    :image "",
    :description ""}
   {:name "Nové Strašecí",
@@ -5866,7 +5866,7 @@
    :latitude 50.1527233,
    :source :openstreetmap,
    :homepage "https://www.muzeumtgm.cz/",
-   :locality "Nové Strašecí",
+   :location "Nové Strašecí",
    :image "",
    :description ""}
   {:name "Námořní muzeum",
@@ -5881,14 +5881,14 @@
    :latitude 50.1015228,
    :source :openstreetmap,
    :homepage "https://www.ngprague.cz/",
-   :locality "Praha 7",
+   :location "Praha 7",
    :image "",
    :description ""}
   {:name "Národní památník II. světové války",
    :longitude 18.0513398,
    :latitude 49.8857449,
    :source :openstreetmap,
-   :locality "Hrabyně",
+   :location "Hrabyně",
    :image "",
    :description ""}
   {:name "Národní památník na Vítkově",
@@ -5908,7 +5908,7 @@
    :latitude 50.0970732,
    :source :openstreetmap,
    :homepage "https://nzm.cz/",
-   :locality "Praha 7",
+   :location "Praha 7",
    :image "",
    :description ""}
   {:name "Národní zemědělské muzeum - pokladna",
@@ -5922,7 +5922,7 @@
    :latitude 50.0769772,
    :source :openstreetmap,
    :homepage "https://www.nm.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Návštěvnické centrum Nový Jičín",
@@ -5993,7 +5993,7 @@
    :latitude 50.5174259,
    :source :openstreetmap,
    :homepage "https://www.muzeummost.cz/",
-   :locality "Most",
+   :location "Most",
    :image "",
    :description ""}
   {:name
@@ -6015,7 +6015,7 @@
    :latitude 50.5338499,
    :source :openstreetmap,
    :homepage "http://www.muzeumlitomerice.cz",
-   :locality "Litoměřice",
+   :location "Litoměřice",
    :image "",
    :description ""}
   {:name "Obuvnické muzeum",
@@ -6035,7 +6035,7 @@
    :longitude 14.901046,
    :latitude 50.4100488,
    :source :openstreetmap,
-   :locality "Mladá Boleslav I",
+   :location "Mladá Boleslav I",
    :image "",
    :description ""}
   {:name "Old Radiomuseum",
@@ -6043,7 +6043,7 @@
    :latitude 49.3873364,
    :source :openstreetmap,
    :homepage "https://old-radiomuseum-museum.business.site",
-   :locality "Dobrochov",
+   :location "Dobrochov",
    :image "",
    :description ""}
   {:name "Ornitologická stanice",
@@ -6083,14 +6083,14 @@
    :latitude 49.6368784,
    :source :openstreetmap,
    :homepage "https://www.antonindvorak.cz/",
-   :locality "Vysoká u Příbrami",
+   :location "Vysoká u Příbrami",
    :image "",
    :description ""}
   {:name "Památník Antonína Strnadla",
    :longitude 18.2010699,
    :latitude 49.3381339,
    :source :openstreetmap,
-   :locality "Nový Hrozenkov",
+   :location "Nový Hrozenkov",
    :image "",
    :description ""}
   {:name "Památník Bedřicha Smetany",
@@ -6110,7 +6110,7 @@
    :longitude 16.7879129,
    :latitude 48.9890168,
    :source :openstreetmap,
-   :locality "Diváky",
+   :location "Diváky",
    :image "",
    :description ""}
   {:name "Památník holokaustu Romů a Sintů na Moravě",
@@ -6138,7 +6138,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nm.cz/navstivte-nas/objekty/pamatnik-jana-palacha-ve-vsetatech",
-   :locality "Všetaty",
+   :location "Všetaty",
    :image "",
    :description ""}
   {:name "Památník Jana Žižky",
@@ -6166,7 +6166,7 @@
    :latitude 49.905229,
    :source :openstreetmap,
    :homepage "http://www.muzeumompv.cz/pamatnik-josefa-lady/",
-   :locality "Hrusice",
+   :location "Hrusice",
    :image "",
    :description ""}
   {:name "Památník Karla Václava Raise",
@@ -6195,7 +6195,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.belcice.cz/kultura/rodny-dum-ladislava-stehlika",
-   :locality "Bělčice",
+   :location "Bělčice",
    :image "",
    :description ""}
   {:name "Památník Leoše Janáčka",
@@ -6211,7 +6211,7 @@
    :latitude 50.0866429,
    :source :openstreetmap,
    :homepage "https://pamatniknarodnihopisemnictvi.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Památník národního písemnictví",
@@ -6225,7 +6225,7 @@
    :latitude 50.2129681,
    :source :openstreetmap,
    :homepage "https://panenske-brezany.muzeumbrandys.cz/",
-   :locality "Panenské Břežany",
+   :location "Panenské Břežany",
    :image "",
    :description ""}
   {:name "Památník obětem šoa",
@@ -6278,7 +6278,7 @@
    :latitude 50.0275146,
    :source :openstreetmap,
    :homepage "https://www.zamecek-memorial.cz/",
-   :locality "Pardubice",
+   :location "Pardubice",
    :image "",
    :description ""}
   {:name "Památník Životice",
@@ -6292,7 +6292,7 @@
    :longitude 18.2305244,
    :latitude 49.5096841,
    :source :openstreetmap,
-   :locality "Trojanovice",
+   :location "Trojanovice",
    :image "",
    :description ""}
   {:name "Pamětní síň Jindřicha Mošny",
@@ -6300,7 +6300,7 @@
    :latitude 49.7167069,
    :source :openstreetmap,
    :homepage "https://www.zcm.cz/",
-   :locality "Dobřív",
+   :location "Dobřív",
    :image "",
    :description ""}
   {:name "Pamětní síň Leoše Janáčka",
@@ -6368,7 +6368,7 @@
    :latitude 49.5928814,
    :source :openstreetmap,
    :homepage "https://www.pevnostpoznani.cz/",
-   :locality "Olomouc",
+   :location "Olomouc",
    :image "",
    :description ""}
   {:name "Pevnostní muzeum Sazená",
@@ -6422,7 +6422,7 @@
    :latitude 50.056201,
    :source :openstreetmap,
    :homepage "https://www.ppas.cz/o-spolecnosti/plynarenske-muzeum",
-   :locality "Praha 4",
+   :location "Praha 4",
    :image "",
    :description ""}
   {:name "Plzeňské historické podzemí",
@@ -6437,7 +6437,7 @@
    :latitude 49.6016255,
    :source :openstreetmap,
    :homepage "https://www.podbrdskemuzeum.cz/",
-   :locality "Rožmitál pod Třemšínem",
+   :location "Rožmitál pod Třemšínem",
    :image "",
    :description ""}
   {:name "Podhorácké muzeum Předklášteří",
@@ -6520,7 +6520,7 @@
    :latitude 50.1419898,
    :source :openstreetmap,
    :homepage "https://www.polabskemuzeum.cz/",
-   :locality "Poděbrady",
+   :location "Poděbrady",
    :image "",
    :description ""}
   {:name "Polabské muzeum - Muzeum Bedřicha Hrozného",
@@ -6542,7 +6542,7 @@
    :latitude 48.8130703,
    :source :openstreetmap,
    :homepage "https://www.port1560.cz/",
-   :locality "Český Krumlov",
+   :location "Český Krumlov",
    :image "",
    :description ""}
   {:name "Portmoneum",
@@ -6551,7 +6551,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.rml.cz/cs/muzeum/rodny-byt-bedricha-smetany.html",
-   :locality "Záhradí",
+   :location "Záhradí",
    :image "",
    :description ""}
   {:name "Potomákovo muzeum krojů",
@@ -6565,7 +6565,7 @@
    :latitude 50.0923124,
    :source :openstreetmap,
    :homepage "https://www.postovnimuzeum.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Poštovní muzeum",
@@ -6573,7 +6573,7 @@
    :latitude 48.620696,
    :source :openstreetmap,
    :homepage "https://www.postovnimuzeum.cz/",
-   :locality "Vyšší Brod",
+   :location "Vyšší Brod",
    :image "",
    :description ""}
   {:name "Pošumavská jižní dráha",
@@ -6581,7 +6581,7 @@
    :latitude 48.8290359,
    :source :openstreetmap,
    :homepage "https://www.noveudoli.eu/",
-   :locality "Stožec",
+   :location "Stožec",
    :image "",
    :description ""}
   {:name "pravěká osada Křivolík",
@@ -6602,7 +6602,7 @@
    :latitude 49.2645459,
    :source :openstreetmap,
    :homepage "http://www.leteckemuzeum.destna.cz",
-   :locality "Deštná",
+   :location "Deštná",
    :image "",
    :description ""}
   {:name "První české muzeum cyklistiky",
@@ -6617,7 +6617,7 @@
    :latitude 49.3088535,
    :source :openstreetmap,
    :homepage "https://www.prachenskemuzeum.cz/",
-   :locality "Písek",
+   :location "Písek",
    :image "",
    :description ""}
   {:name "Průmyslové muzeum Mladějov",
@@ -6663,7 +6663,7 @@
    :latitude 49.2336224,
    :source :openstreetmap,
    :homepage "https://www.muzeumsemenec.cz/",
-   :locality "Týn nad Vltavou",
+   :location "Týn nad Vltavou",
    :image "",
    :description ""}
   {:name "R. Jelínek distillery centre",
@@ -6692,7 +6692,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.rml.cz/cs/muzeum/rodny-byt-bedricha-smetany.html",
-   :locality "Litomyšl-Město",
+   :location "Litomyšl-Město",
    :image "",
    :description ""}
   {:name "Regionální muzeum",
@@ -6718,7 +6718,7 @@
    :longitude 13.5405083,
    :latitude 50.3226174,
    :source :openstreetmap,
-   :locality "Žatec",
+   :location "Žatec",
    :image "",
    :description ""}
   {:name "Regionální muzeum Kladrubska",
@@ -6765,7 +6765,7 @@
    :latitude 50.026891,
    :source :openstreetmap,
    :homepage "https://www.muzeumkolin.cz",
-   :locality "Kolín",
+   :location "Kolín",
    :image "",
    :description ""}
   {:name "Regionální muzeum v Teplicích",
@@ -6821,7 +6821,7 @@
    :latitude 48.7656335,
    :source :openstreetmap,
    :homepage "https://www.muzeumck.cz/",
-   :locality "Horní Planá",
+   :location "Horní Planá",
    :image "",
    :description ""}
   {:name "Rodný domek F. V. Heka",
@@ -6861,7 +6861,7 @@
    :latitude 50.7453851,
    :source :openstreetmap,
    :homepage "https://museum.skoda-auto.cz/porsche-house",
-   :locality "Liberec",
+   :location "Liberec",
    :image "",
    :description ""}
   {:name "Rodný dům Jana Kubiše",
@@ -6914,7 +6914,7 @@
    :longitude 14.1018518,
    :latitude 48.778341,
    :source :openstreetmap,
-   :locality "Polná na Šumavě",
+   :location "Polná na Šumavě",
    :image "",
    :description ""}
   {:name "Sbor českých bratří",
@@ -6964,7 +6964,7 @@
    :latitude 50.083451,
    :source :openstreetmap,
    :homepage "https://www.sinstudiogallery.com/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Skalní galerie Vojtěcha Kopice",
@@ -7020,7 +7020,7 @@
    :longitude 14.3862105,
    :latitude 49.6213981,
    :source :openstreetmap,
-   :locality "Vysoký Chlumec",
+   :location "Vysoký Chlumec",
    :image "",
    :description ""}
   {:name "Skanzen Zubrnice",
@@ -7028,7 +7028,7 @@
    :latitude 50.6488557,
    :source :openstreetmap,
    :homepage "http://www.skanzen.zubrnice.cz",
-   :locality "Zubrnice",
+   :location "Zubrnice",
    :image "",
    :description ""}
   {:name "Skanzen železné opony",
@@ -7062,7 +7062,7 @@
    :latitude 50.7595775,
    :source :openstreetmap,
    :homepage "https://www.glassmuseum.eu/",
-   :locality "Nový Bor",
+   :location "Nový Bor",
    :image "",
    :description ""}
   {:name "Skácelík",
@@ -7077,7 +7077,7 @@
    :latitude 50.0675133,
    :source :openstreetmap,
    :homepage "https://www.slavia.cz/museum",
-   :locality "Praha 10",
+   :location "Praha 10",
    :image "",
    :description ""}
   {:name "Slezské zemské muzeum Opava",
@@ -7139,7 +7139,7 @@
    :latitude 49.5965505,
    :source :openstreetmap,
    :homepage "https://www.vmo.cz/",
-   :locality "Olomouc",
+   :location "Olomouc",
    :image "",
    :description ""}
   {:name "Stary Kravin",
@@ -7193,7 +7193,7 @@
    :latitude 50.105947,
    :source :openstreetmap,
    :homepage "https://www.svetova1.cz/",
-   :locality "Praha 8",
+   :location "Praha 8",
    :image "",
    :description ""}
   {:name "Studio Dobeška",
@@ -7201,7 +7201,7 @@
    :latitude 50.0412145,
    :source :openstreetmap,
    :homepage "https://www.divadlodobeska.cz/studio/",
-   :locality "Praha 4",
+   :location "Praha 4",
    :image "",
    :description ""}
   {:name "Stálá expozice Františka Kupky a Luboše Sluky",
@@ -7223,7 +7223,7 @@
    :latitude 50.5901585,
    :source :openstreetmap,
    :homepage "https://expozice-ralsko.estranky.cz/",
-   :locality "Kuřívody",
+   :location "Kuřívody",
    :image "",
    :description ""}
   {:name "středověká vesnice Řepora",
@@ -7237,7 +7237,7 @@
    :latitude 50.1581976,
    :source :openstreetmap,
    :homepage "https://www.muzeum-roztoky.cz/",
-   :locality "Roztoky",
+   :location "Roztoky",
    :image "",
    :description ""}
   {:name "Sucholožská chalupa",
@@ -7257,7 +7257,7 @@
    :latitude 49.4839827,
    :source :openstreetmap,
    :homepage "https://www.sjmn.cz/",
-   :locality "Nepomuk",
+   :location "Nepomuk",
    :image "",
    :description ""}
   {:name "svatý Jan Křtitel",
@@ -7277,7 +7277,7 @@
    :latitude 49.8437229,
    :source :openstreetmap,
    :homepage "https://www.svet-skodovek.cz/",
-   :locality "Čerčany",
+   :location "Čerčany",
    :image "",
    :description ""}
   {:name "Světelské podzemí",
@@ -7296,7 +7296,7 @@
    :longitude 17.0310038,
    :latitude 49.000955,
    :source :openstreetmap,
-   :locality "Stavěšice",
+   :location "Stavěšice",
    :image "",
    :description ""}
   {:name "Sál B. Bakaly",
@@ -7339,7 +7339,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.muzeumtgm.cz/pametni-sin-alice-g-masyrykove-a-cck/",
-   :locality "Lány",
+   :location "Lány",
    :image "",
    :description ""}
   {:name "Taurus",
@@ -7353,7 +7353,7 @@
    :latitude 49.7406147,
    :source :openstreetmap,
    :homepage "https://techmania.cz/",
-   :locality "Plzeň",
+   :location "Plzeň",
    :image "",
    :description ""}
   {:name "Technické muzeum",
@@ -7434,7 +7434,7 @@
    :latitude 50.0988169,
    :source :openstreetmap,
    :homepage "https://trafogallery.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Trčkovská galerie",
@@ -7475,14 +7475,14 @@
    :latitude 49.0037364,
    :source :openstreetmap,
    :homepage "trebonvmarcipanu.cz",
-   :locality "Třeboň I",
+   :location "Třeboň I",
    :image "",
    :description ""}
   {:name "U6",
    :longitude 18.2806482,
    :latitude 49.8193161,
    :source :openstreetmap,
-   :locality "Vítkovice",
+   :location "Vítkovice",
    :image "",
    :description ""}
   {:name "Ulička Františka Palackého v Hodslavicích",
@@ -7495,7 +7495,7 @@
    :longitude 15.603265,
    :latitude 50.5719688,
    :source :openstreetmap,
-   :locality "Horní Kalná",
+   :location "Horní Kalná",
    :image "",
    :description ""}
   {:name "Vagonářské muzeum",
@@ -7545,7 +7545,7 @@
    :latitude 48.9809095,
    :source :openstreetmap,
    :homepage "https://www.mestovracov.cz/en/409-museums-baraky",
-   :locality "Vracov",
+   :location "Vracov",
    :image "",
    :description ""}
   {:name "venkovské zemědělské muzeum",
@@ -7586,7 +7586,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.lhenice.cz/mestys/mistni-casti/vodice-743cs.html",
-   :locality "Lhenice",
+   :location "Lhenice",
    :image "",
    :description ""}
   {:name "Vesnické Muzeum",
@@ -7658,7 +7658,7 @@
    :latitude 49.2060936,
    :source :openstreetmap,
    :homepage "https://www.vilalowbeer.cz/",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Vila Stiassny",
@@ -7679,14 +7679,14 @@
    :latitude 50.0990046,
    :source :openstreetmap,
    :homepage "https://villapelle.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Viniční Domek",
    :longitude 14.4034906,
    :latitude 50.0108845,
    :source :openstreetmap,
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Vlastivědné muzeum",
@@ -7712,7 +7712,7 @@
    :longitude 17.1286208,
    :latitude 49.0093321,
    :source :openstreetmap,
-   :locality "Kyjov",
+   :location "Kyjov",
    :image "",
    :description ""}
   {:name "Vlastivědné muzeum v Šumperku",
@@ -7739,7 +7739,7 @@
    :longitude 14.8951042,
    :latitude 49.707213,
    :source :openstreetmap,
-   :locality "Vlašim",
+   :location "Vlašim",
    :image "",
    :description ""}
   {:name "Vodní dům",
@@ -7754,7 +7754,7 @@
    :latitude 49.7196333,
    :source :openstreetmap,
    :homepage "https://www.zcm.cz/",
-   :locality "Dobřív",
+   :location "Dobřív",
    :image "",
    :description ""}
   {:name "Vodní mlýn ve Slupi",
@@ -7771,7 +7771,7 @@
    :source :openstreetmap,
    :homepage
    "https://podzemibrno.cz/mista-v-podzemi/vodojemy-na-zlutem-kopci/",
-   :locality "Brno",
+   :location "Brno",
    :image "",
    :description ""}
   {:name "Vojenská technika",
@@ -7792,7 +7792,7 @@
    :latitude 49.1697833,
    :source :openstreetmap,
    :homepage "https://www.vojenske-muzeum.cz/",
-   :locality "Loučka",
+   :location "Loučka",
    :image "",
    :description ""}
   {:name "Vojenské muzeum Chuchelná",
@@ -7841,7 +7841,7 @@
    :latitude 48.9114078,
    :source :openstreetmap,
    :homepage "https://www.mestovolary.cz/volny-cas/volarske-muzeum/",
-   :locality "Volary",
+   :location "Volary",
    :image "",
    :description ""}
   {:name "Vondráčkova továrna",
@@ -7849,7 +7849,7 @@
    :latitude 49.9975188,
    :source :openstreetmap,
    :homepage "https://vondrackovatovarna.cz",
-   :locality "Kostelec nad Černými lesy",
+   :location "Kostelec nad Černými lesy",
    :image "",
    :description ""}
   {:name "Vzlet",
@@ -7884,7 +7884,7 @@
    :latitude 50.2115132,
    :source :openstreetmap,
    :homepage "https://www.vanocnidum.cz/",
-   :locality "Karlovy Vary",
+   :location "Karlovy Vary",
    :image "",
    :description ""}
   {:name "Vísecká rychta",
@@ -7892,7 +7892,7 @@
    :latitude 50.6355619,
    :source :openstreetmap,
    :homepage "https://www.muzeumcl.cz/obsah/visecka_rychta_kravare",
-   :locality "Kravaře",
+   :location "Kravaře",
    :image "",
    :description ""}
   {:name "Východočeské muzeum v Pardubicích",
@@ -7930,7 +7930,7 @@
    :longitude 13.7745103,
    :latitude 50.5475498,
    :source :openstreetmap,
-   :locality "Bílina",
+   :location "Bílina",
    :image "",
    :description ""}
   {:name "Výstavní síň u sv. Jana - Síň rodáků Jimramova",
@@ -7944,7 +7944,7 @@
    :latitude 49.9068279,
    :source :openstreetmap,
    :homepage "http://www.saxi.cz/",
-   :locality "Zdice",
+   :location "Zdice",
    :image "",
    :description ""}
   {:name "Včelařské muzeum",
@@ -8036,14 +8036,14 @@
    :latitude 48.8543355,
    :source :openstreetmap,
    :homepage "https://www.znojemskabeseda.cz/",
-   :locality "Znojmo",
+   :location "Znojmo",
    :image "",
    :description ""}
   {:name "Zubrnická museální železnice",
    :longitude 14.2175544,
    :latitude 50.6470854,
    :source :openstreetmap,
-   :locality "Týniště",
+   :location "Týniště",
    :image "",
    :description ""}
   {:name "ZUŠ Jižní Město",
@@ -8064,28 +8064,28 @@
    :latitude 49.8831725,
    :source :openstreetmap,
    :homepage "https://www.zus-zabreh.cz/",
-   :locality "Zábřeh",
+   :location "Zábřeh",
    :image "",
    :description ""}
   {:name "Základní umělecká škola A.M. Buxton",
    :longitude 16.0081163,
    :latitude 50.5128976,
    :source :openstreetmap,
-   :locality "Úpice",
+   :location "Úpice",
    :image "",
    :description ""}
   {:name "Základní umělecká škola Josefa Suka",
    :longitude 14.6870769,
    :latitude 49.7791601,
    :source :openstreetmap,
-   :locality "Benešov",
+   :location "Benešov",
    :image "",
    :description ""}
   {:name "Základní škola umění",
    :longitude 14.5150619,
    :latitude 50.2584884,
    :source :openstreetmap,
-   :locality "Neratovice",
+   :location "Neratovice",
    :image "",
    :description ""}
   {:name "Zámek Chotěboř",
@@ -8104,7 +8104,7 @@
    :longitude 17.9991425,
    :latitude 49.9287568,
    :source :openstreetmap,
-   :locality "Kravaře",
+   :location "Kravaře",
    :image "",
    :description ""}
   {:name "Zámek Litenčice",
@@ -8119,7 +8119,7 @@
    :latitude 49.8912336,
    :source :openstreetmap,
    :homepage "https://www.zamek-radun.cz/",
-   :locality "Raduň",
+   :location "Raduň",
    :image "",
    :description ""}
   {:name "Zámek Svijany",
@@ -8196,7 +8196,7 @@
    :longitude 18.1482868,
    :latitude 49.461095,
    :source :openstreetmap,
-   :locality "Rožnov pod Radhoštěm",
+   :location "Rožnov pod Radhoštěm",
    :image "",
    :description ""}
   {:name "Človíčkova stezka",
@@ -8217,7 +8217,7 @@
    :latitude 50.7698628,
    :source :openstreetmap,
    :homepage "https://www.krnap.cz/expozice-sindelka-harrachov/",
-   :locality "Harrachov",
+   :location "Harrachov",
    :image "",
    :description ""}
   {:name "ŠKODA Muzeum",
@@ -8282,7 +8282,7 @@
    :latitude 50.471767,
    :source :openstreetmap,
    :homepage "https://muzeumzeleznice.webk.cz/",
-   :locality "Železnice",
+   :location "Železnice",
    :image "",
    :description ""}
   {:name
@@ -8310,7 +8310,7 @@
    :latitude 49.5006163,
    :source :openstreetmap,
    :homepage "https://vytopna-nepomuk.cz/",
-   :locality "Nepomuk",
+   :location "Nepomuk",
    :image "",
    :description ""}
   {:name "Železniční muzeum Kamenice u Humpolce",
@@ -8331,7 +8331,7 @@
    :longitude 16.4662587,
    :latitude 50.1601909,
    :source :openstreetmap,
-   :locality "Rokytnice v Orlických horách",
+   :location "Rokytnice v Orlických horách",
    :image "",
    :description ""}
   {:name "Železniční muzeum sdělovací a zabezpečovací techniky",
@@ -8345,7 +8345,7 @@
    :latitude 50.2872497,
    :source :openstreetmap,
    :homepage "http://zmzlonice.draha.net/",
-   :locality "Zlonice",
+   :location "Zlonice",
    :image "",
    :description ""}
   {:name "Železniční výtopna Jaroměř",
@@ -8366,7 +8366,7 @@
    :latitude 50.0902854,
    :source :openstreetmap,
    :homepage "https://www.jewishmuseum.cz/",
-   :locality "Praha",
+   :location "Praha",
    :image "",
    :description ""}
   {:name "Živá voda",

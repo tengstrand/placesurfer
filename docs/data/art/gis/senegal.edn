@@ -29,7 +29,7 @@
    :longitude -13.6745028,
    :latitude 13.7799785,
    :source :openstreetmap,
-   :locality "Tambacounda"}
+   :location "Tambacounda"}
   {:name "Centre culturel des Six Jarres",
    :longitude -14.9352629,
    :latitude 12.8970837,
@@ -74,13 +74,13 @@
    :longitude -17.1511607,
    :latitude 14.6057233,
    :source :openstreetmap,
-   :locality "Toubab Dialaw"}
+   :location "Toubab Dialaw"}
   {:name "FabLab DefkoAkNiep",
    :longitude -17.4582215,
    :latitude 14.7135058,
    :source :openstreetmap,
    :homepage "https://www.ker-thiossane.org/",
-   :locality "Dakar"}
+   :location "Dakar"}
   {:name "Fabrique",
    :longitude -16.5401068,
    :latitude 12.5026618,
@@ -204,7 +204,7 @@
    :longitude -16.2437734,
    :latitude 15.6264813,
    :source :openstreetmap,
-   :locality "Louga"}
+   :location "Louga"}
   {:name "Musée Diola",
    :longitude -16.7451449,
    :latitude 12.9326889,
@@ -223,7 +223,7 @@
    :latitude 14.1198016,
    :source :openstreetmap,
    :homepage "https://mahicao.org/",
-   :locality "Djilor Djidiack"}
+   :location "Djilor Djidiack"}
   {:name "OH Gallery",
    :longitude -17.4366702,
    :latitude 14.666048,
@@ -266,7 +266,7 @@
    :longitude -17.4573141,
    :latitude 14.7463589,
    :source :openstreetmap,
-   :locality "Dakar"}
+   :location "Dakar"}
   {:name "Waru Studio",
    :longitude -17.4778355,
    :latitude 14.7111382,

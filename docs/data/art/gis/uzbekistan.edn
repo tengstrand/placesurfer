@@ -12,7 +12,7 @@
    :longitude 69.269606,
    :latitude 41.3209659,
    :source :openstreetmap,
-   :locality "Tashkent"}
+   :location "Tashkent"}
   {:name "139 Documentary Center",
    :longitude 69.325695,
    :latitude 41.3086889,
@@ -29,7 +29,7 @@
    :longitude 69.2187153,
    :latitude 41.3136837,
    :source :openstreetmap,
-   :locality "Toshkent"}
+   :location "Toshkent"}
   {:name "Abu Ali ibn Sino museyi",
    :longitude 64.3820301,
    :latitude 39.9944812,
@@ -39,13 +39,13 @@
    :latitude 41.3868651,
    :source :openstreetmap,
    :homepage "http://xorazmiy.uz/oz/pages/view/183",
-   :locality "Xiva"}
+   :location "Xiva"}
   {:name "Amet hám Ayımxan Shamuratovlar úy muzeyi",
    :longitude 59.6115828,
    :latitude 42.4674057,
    :source :openstreetmap,
    :homepage "http://shamuratova.uz",
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name "Ana-Muna o'lkashunoslik uy-muzeyi",
    :longitude 67.3299377,
    :latitude 40.3849178,
@@ -58,7 +58,7 @@
    :longitude 59.6032139,
    :latitude 42.4541841,
    :source :openstreetmap,
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name "Archaeological museum of Old Termez",
    :longitude 67.1898981,
    :latitude 37.2671045,
@@ -80,13 +80,13 @@
    :longitude 59.6270623,
    :latitude 42.4521105,
    :source :openstreetmap,
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name "Bonum Factum Gallery",
    :longitude 69.2939784,
    :latitude 41.3050645,
    :source :openstreetmap,
    :homepage "https://t.me/bonum_factum",
-   :locality "Tashkent"}
+   :location "Tashkent"}
   {:name "Bukhara Photo Gallery",
    :longitude 64.4167869,
    :latitude 39.7718721,
@@ -103,7 +103,7 @@
    :longitude 69.585845,
    :latitude 41.4662111,
    :source :openstreetmap,
-   :locality "Chirchiq"}
+   :location "Chirchiq"}
   {:name "Cousinia dubia",
    :longitude 68.1112475,
    :latitude 39.6446408,
@@ -116,7 +116,7 @@
    :longitude 65.380328,
    :latitude 40.0944278,
    :source :openstreetmap,
-   :locality "Navoiy"}
+   :location "Navoiy"}
   {:name "Fayoz-Tepa muzeyi",
    :longitude 67.1919716,
    :latitude 37.2865702,
@@ -183,7 +183,7 @@
    :longitude 69.5802189,
    :latitude 41.4731537,
    :source :openstreetmap,
-   :locality "Chirchiq"}
+   :location "Chirchiq"}
   {:name "Madeniyat sarayi",
    :longitude 59.7723328,
    :latitude 42.9377391,
@@ -216,7 +216,7 @@
    :longitude 71.6687874,
    :latitude 40.9986605,
    :source :openstreetmap,
-   :locality "Namangan"}
+   :location "Namangan"}
   {:name "Navoiy viloyati tarixi va madaniyati davlat muzeyi",
    :longitude 65.3666848,
    :latitude 40.1294843,
@@ -238,7 +238,7 @@
    :latitude 41.311623,
    :source :openstreetmap,
    :homepage "https://www.history-museum.uz/",
-   :locality "Toshkent"}
+   :location "Toshkent"}
   {:name "Odina masjid va madrasasi",
    :longitude 65.8033053,
    :latitude 38.8677031,
@@ -255,7 +255,7 @@
    :longitude 69.2598583,
    :latitude 41.3082912,
    :source :openstreetmap,
-   :locality "Toshkent"}
+   :location "Toshkent"}
   {:name "Orif Gulxaniy Uy Muzeyi",
    :longitude 66.9632818,
    :latitude 39.6400638,
@@ -277,7 +277,7 @@
    :latitude 41.3142415,
    :source :openstreetmap,
    :homepage "https://www.konservatoriya.uz",
-   :locality "Tashkent"}
+   :location "Tashkent"}
   {:name "Paikend",
    :longitude 64.0013676,
    :latitude 39.5909144,
@@ -287,18 +287,18 @@
    :longitude 59.6131631,
    :latitude 42.4574701,
    :source :openstreetmap,
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name "Qaraqalpaqstan tariyx hám mádeniyat muzeyi",
    :longitude 59.6111267,
    :latitude 42.4622663,
    :source :openstreetmap,
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name
    "Qaraqalpaqstan xalıq xudojnigi Bazarbay Serekeevtiń úy muzeyi",
    :longitude 59.5698363,
    :latitude 42.4667556,
    :source :openstreetmap,
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name "Qazaqdarya danq muzeyi",
    :longitude 59.6641466,
    :latitude 43.4266541,
@@ -315,7 +315,7 @@
    :longitude 66.9724349,
    :latitude 39.6527337,
    :source :openstreetmap,
-   :locality "Samarkand"}
+   :location "Samarkand"}
   {:name
    "Samarqand Davlat Universiteti Ilmiy-Amaliy Muzey-Laboratoriasi",
    :longitude 66.9602771,
@@ -331,7 +331,7 @@
    :longitude 65.3641639,
    :latitude 40.1044347,
    :source :openstreetmap,
-   :locality "Navoiy"}
+   :location "Navoiy"}
   {:name "San'at saroyi",
    :longitude 71.8008229,
    :latitude 40.3756775,
@@ -356,7 +356,7 @@
    :longitude 69.2789874,
    :latitude 41.3136825,
    :source :openstreetmap,
-   :locality "Toshkent"}
+   :location "Toshkent"}
   {:name "Termiz Arxeologiya Muzeyi",
    :longitude 67.2826468,
    :latitude 37.2442693,
@@ -374,7 +374,7 @@
    :latitude 41.2943648,
    :source :openstreetmap,
    :homepage "https://uzbekfilm.uz/",
-   :locality "Tashkent"}
+   :location "Tashkent"}
   {:name "Viloyat oʻlkashunoslik muzeyi",
    :longitude 64.4103224,
    :latitude 39.7777309,
@@ -408,18 +408,18 @@
    :longitude 59.6076844,
    :latitude 42.4648413,
    :source :openstreetmap,
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name
    "Ózbekstan súwretshiler akademiyası Qaraqalpaqstan bólimi kórgizbe sarayı",
    :longitude 59.6116883,
    :latitude 42.4534782,
    :source :openstreetmap,
-   :locality "Nókis"}
+   :location "Nókis"}
   {:name "Академия ментальной арифметики \"Smartum\"",
    :longitude 69.3540968,
    :latitude 41.2956256,
    :source :openstreetmap,
-   :locality "Tashkent"}
+   :location "Tashkent"}
   {:name "Акбаршох Махмудов Шухратович",
    :longitude 71.8549017,
    :latitude 40.9017945,
@@ -453,7 +453,7 @@
    :longitude 69.3076446,
    :latitude 41.3075812,
    :source :openstreetmap,
-   :locality "Tashkent"}
+   :location "Tashkent"}
   {:name "ДК Современник",
    :longitude 63.5610813,
    :latitude 42.1550651,
@@ -482,12 +482,12 @@
    :longitude 69.2944928,
    :latitude 41.3215007,
    :source :openstreetmap,
-   :locality "Tashkent"}
+   :location "Tashkent"}
   {:name "Дом-музей Тамары Ханум",
    :longitude 69.3014526,
    :latitude 41.3194523,
    :source :openstreetmap,
-   :locality "Ташкент"}
+   :location "Ташкент"}
   {:name "Дом-музей Урала Тансыкбаева",
    :longitude 69.3311572,
    :latitude 41.3345909,
@@ -508,7 +508,7 @@
    :longitude 64.8426208,
    :latitude 40.0414738,
    :source :openstreetmap,
-   :locality "Qiziltepa"}
+   :location "Qiziltepa"}
   {:name "Клуб",
    :longitude 72.229945,
    :latitude 40.6786796,
@@ -541,7 +541,7 @@
    :longitude 69.1973335,
    :latitude 40.8133066,
    :source :openstreetmap,
-   :locality "Бука"}
+   :location "Бука"}
   {:name "Литературный музей Г. Гуляма",
    :longitude 70.923608,
    :latitude 40.5348271,
@@ -609,13 +609,13 @@
    :latitude 41.3087617,
    :source :openstreetmap,
    :homepage "https://kbmsm.uz/",
-   :locality "Toshkent"}
+   :location "Toshkent"}
   {:name "Музей истории связи",
    :longitude 69.2528186,
    :latitude 41.3230906,
    :source :openstreetmap,
    :homepage "https://aloqamuzeyi.uz/",
-   :locality "Xadra (C-14) daxasi"}
+   :location "Xadra (C-14) daxasi"}
   {:name "Музей Керамики",
    :longitude 64.663996,
    :latitude 40.0895807,

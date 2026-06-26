@@ -46,7 +46,7 @@
    :latitude 27.6288672,
    :source :openstreetmap,
    :homepage "http://www.facebook.com/bungamatimuseum",
-   :locality "Bungamati"}
+   :location "Bungamati"}
   {:name "Changu Museum",
    :longitude 85.4292412,
    :latitude 27.7165172,
@@ -125,7 +125,7 @@
    :longitude 83.7742556,
    :latitude 28.3101096,
    :source :openstreetmap,
-   :locality "Annapurna Rural Municipality, Ward No.8"}
+   :location "Annapurna Rural Municipality, Ward No.8"}
   {:name "International Mountain Museum",
    :longitude 83.9797903,
    :latitude 28.1891632,
@@ -147,7 +147,7 @@
    :longitude 84.0727486,
    :latitude 28.1990198,
    :source :openstreetmap,
-   :locality "Pokhara Lekhnath Metropolitan City"}
+   :location "Pokhara Lekhnath Metropolitan City"}
   {:name "Kala Kendra",
    :longitude 83.9635642,
    :latitude 28.2088797,
@@ -188,7 +188,7 @@
    :longitude 85.3181031,
    :latitude 27.7148956,
    :source :openstreetmap,
-   :locality "Kathmandu"}
+   :location "Kathmandu"}
   {:name "National History Museum",
    :longitude 85.2878278,
    :latitude 27.7145696,
@@ -235,7 +235,7 @@
    :longitude 87.3436979,
    :latitude 26.9805909,
    :source :openstreetmap,
-   :locality "Dhankuta"}
+   :location "Dhankuta"}
   {:name "Regional Musium",
    :longitude 81.6243081,
    :latitude 28.596175,
@@ -254,7 +254,7 @@
    :latitude 27.010777,
    :source :openstreetmap,
    :homepage "www.sanskriti.org.np",
-   :locality "Birgunj"}
+   :location "Birgunj"}
   {:name "Santu Art Gallery",
    :longitude 85.3327248,
    :latitude 27.7236007,
@@ -288,7 +288,7 @@
    :latitude 27.7200271,
    :source :openstreetmap,
    :homepage "https://taragaonmuseum.com/",
-   :locality "Kathmandu"}
+   :location "Kathmandu"}
   {:name "Tharu Cultural Museum",
    :longitude 84.5084926,
    :latitude 27.581435,
@@ -301,7 +301,7 @@
    :longitude 81.147398,
    :latitude 28.4613729,
    :source :openstreetmap,
-   :locality "Rajaput Municipality, Ward no 2"}
+   :location "Rajaput Municipality, Ward no 2"}
   {:name "The City Museum Kathmandu",
    :longitude 85.3182587,
    :latitude 27.7110138,

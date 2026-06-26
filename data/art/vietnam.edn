@@ -20,7 +20,7 @@
    :longitude 106.6888392,
    :latitude 10.7900269,
    :source :openstreetmap,
-   :locality "Ho Chi Minh City",
+   :location "Ho Chi Minh City",
    :image "",
    :description ""}
   {:name "Art Gallery",
@@ -39,7 +39,7 @@
    :longitude 103.9673382,
    :latitude 10.192845,
    :source :openstreetmap,
-   :locality "Duong Dong",
+   :location "Duong Dong",
    :image "",
    :description ""}
   {:name "Bao Tang Xo Viet Nghe-Tinh",
@@ -59,7 +59,7 @@
    :latitude 21.0249365,
    :source :openstreetmap,
    :homepage "https://dongphongartgallery.com/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Boi Tran Garden",
@@ -67,7 +67,7 @@
    :latitude 16.4074433,
    :source :openstreetmap,
    :homepage "https://boitran.com/",
-   :locality "Hue",
+   :location "Hue",
    :image "",
    :description ""}
   {:name "Bào Tàng Alexandre Yersin",
@@ -116,7 +116,7 @@
    :longitude 105.8266305,
    :latitude 21.0303429,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng Binh đoàn Quyết Thắng",
@@ -141,7 +141,7 @@
    :longitude 106.0747379,
    :latitude 21.1841232,
    :source :openstreetmap,
-   :locality "Bac Ninh",
+   :location "Bac Ninh",
    :image "",
    :description ""}
   {:name "Bảo tàng Chiến dịch Hồ Chí Minh",
@@ -181,7 +181,7 @@
    :latitude 10.7793793,
    :source :openstreetmap,
    :homepage "https://www.baotangchungtichchientranh.vn/contact.html",
-   :locality "Ho Chi Minh City",
+   :location "Ho Chi Minh City",
    :image "",
    :description ""}
   {:name "Bảo tàng Công binh",
@@ -207,7 +207,7 @@
    :latitude 21.0403941,
    :source :openstreetmap,
    :homepage "https://www.vme.org.vn/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng dân tộc tỉnh Lai Châu",
@@ -245,14 +245,14 @@
    :longitude 103.8623621,
    :latitude 10.3255936,
    :source :openstreetmap,
-   :locality "Thành phố Phú Quốc",
+   :location "Thành phố Phú Quốc",
    :image "",
    :description ""}
   {:name "Bảo tàng Hoàng gia Nam Hồng",
    :longitude 105.9526383,
    :latitude 21.113771,
    :source :openstreetmap,
-   :locality "Bắc Ninh",
+   :location "Bắc Ninh",
    :image "",
    :description ""}
   {:name "Bảo tàng Hà Nội",
@@ -260,7 +260,7 @@
    :latitude 21.010013,
    :source :openstreetmap,
    :homepage "https://baotanghanoi.com.vn/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng Hùng Vương",
@@ -297,7 +297,7 @@
    :longitude 105.7729992,
    :latitude 21.0189071,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng Hồ Chí Minh",
@@ -311,14 +311,14 @@
    :latitude 21.0356178,
    :source :openstreetmap,
    :homepage "https://baotanghochiminh.vn/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng Hồ Chí Minh",
    :longitude 107.5811082,
    :latitude 16.4596249,
    :source :openstreetmap,
-   :locality "Huế",
+   :location "Huế",
    :image "",
    :description ""}
   {:name "Bảo tàng Hồ Chí Minh",
@@ -368,7 +368,7 @@
    :latitude 21.0115766,
    :source :openstreetmap,
    :homepage "https://btlsqsvn.mod.gov.vn/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng Lực lượng Vũ trang miền Đông Nam Bộ",
@@ -406,7 +406,7 @@
    :longitude 108.9994344,
    :latitude 11.563952,
    :source :openstreetmap,
-   :locality "Phường Tấn Tài",
+   :location "Phường Tấn Tài",
    :image "",
    :description ""}
   {:name "Bảo tàng Pháo binh",
@@ -419,7 +419,7 @@
    :longitude 105.8292331,
    :latitude 20.999274,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng Phú Yên",
@@ -506,7 +506,7 @@
    :latitude 19.0570278,
    :source :openstreetmap,
    :homepage "https://pumat.vn/en/home-english/",
-   :locality "Con Cuông",
+   :location "Con Cuông",
    :image "",
    :description ""}
   {:name "Bảo tàng Thiên nhiên Việt Nam",
@@ -519,7 +519,7 @@
    :longitude 105.967977,
    :latitude 21.11012,
    :source :openstreetmap,
-   :locality "Bắc Ninh",
+   :location "Bắc Ninh",
    :image "",
    :description ""}
   {:name "Bảo tàng Thế giới Cà phê",
@@ -661,7 +661,7 @@
    :latitude 10.9584601,
    :source :openstreetmap,
    :homepage "https://baotangdongnai.com.vn/",
-   :locality "Thành phố Biên Hòa",
+   :location "Thành phố Biên Hòa",
    :image "",
    :description ""}
   {:name "Bảo tàng Tịch Hồ Chí Minh CN Gia lai",
@@ -674,7 +674,7 @@
    :longitude 105.7938659,
    :latitude 21.0398614,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo Tàng Tổng Hợp Bình Định",
@@ -693,7 +693,7 @@
    :longitude 105.8385294,
    :latitude 21.59704,
    :source :openstreetmap,
-   :locality "Thái Nguyên",
+   :location "Thái Nguyên",
    :image "",
    :description ""}
   {:name "Bảo tàng Vĩnh Phúc",
@@ -776,7 +776,7 @@
    :latitude 21.0235524,
    :source :openstreetmap,
    :homepage "https://dongphongartgallery.com/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Bảo tàng địa đạo Long Phước",
@@ -813,7 +813,7 @@
    :longitude 106.7718011,
    :latitude 10.7925945,
    :source :openstreetmap,
-   :locality "Thủ Đức",
+   :location "Thủ Đức",
    :image "",
    :description ""}
   {:name "Chùa mộ bà cô",
@@ -840,7 +840,7 @@
    :latitude 11.9345615,
    :source :openstreetmap,
    :homepage "https://www.crazyhouse.vn/",
-   :locality "Da Lat City",
+   :location "Da Lat City",
    :image "",
    :description ""}
   {:name "CSO Gallery",
@@ -884,7 +884,7 @@
    :longitude 105.9059661,
    :latitude 10.6365071,
    :source :openstreetmap,
-   :locality "Xã Nhơn Hòa Lập",
+   :location "Xã Nhơn Hòa Lập",
    :image "",
    :description ""}
   {:name "Di tích chùa xà xía",
@@ -1030,7 +1030,7 @@
    :longitude 107.5781266,
    :latitude 16.4689726,
    :source :openstreetmap,
-   :locality "Huế",
+   :location "Huế",
    :image "",
    :description ""}
   {:name "Hòa Khánh Nam",
@@ -1079,7 +1079,7 @@
    :longitude 106.6837446,
    :latitude 20.8577421,
    :source :openstreetmap,
-   :locality "Hồng Bàng",
+   :location "Hồng Bàng",
    :image "",
    :description ""}
   {:name "Hội lạp miếu",
@@ -1098,7 +1098,7 @@
    :longitude 106.5506255,
    :latitude 10.8392898,
    :source :openstreetmap,
-   :locality "Thành phố Hồ Chí Minh",
+   :location "Thành phố Hồ Chí Minh",
    :image "",
    :description ""}
   {:name "Khu di tích lịch sử Căn cứ Ban An ninh khu IX",
@@ -1123,7 +1123,7 @@
    :longitude 105.9314653,
    :latitude 21.1485131,
    :source :openstreetmap,
-   :locality "Bắc Ninh",
+   :location "Bắc Ninh",
    :image "",
    :description ""}
   {:name "khám lớn Cần Thơ",
@@ -1221,7 +1221,7 @@
    :longitude 105.7865649,
    :latitude 21.0418009,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Ngã rẽ",
@@ -1241,7 +1241,7 @@
    :latitude 21.0285199,
    :source :openstreetmap,
    :homepage "https://lunetart.vn/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Ngã tư Đức Hòa",
@@ -1290,7 +1290,7 @@
    :longitude 105.8504388,
    :latitude 21.0343278,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Nhà anh Lê Thành Duy",
@@ -1315,7 +1315,7 @@
    :longitude 108.3273582,
    :latitude 15.8770533,
    :source :openstreetmap,
-   :locality "Hội An",
+   :location "Hội An",
    :image "",
    :description ""}
   {:name "Nhà Hát Hội An",
@@ -1412,7 +1412,7 @@
    :longitude 105.8464274,
    :latitude 21.0253763,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "nhà văn hóa - Bảo Tàng xã Liên Minh",
@@ -1455,7 +1455,7 @@
    :longitude 106.7312075,
    :latitude 10.8101315,
    :source :openstreetmap,
-   :locality "Ho Chi Minh City",
+   :location "Ho Chi Minh City",
    :image "",
    :description ""}
   {:name "Phòng Trưng Bày Chloe",
@@ -1511,7 +1511,7 @@
    :latitude 15.8771754,
    :source :openstreetmap,
    :homepage "https://www.rehahnphotographer.com",
-   :locality "Hội An",
+   :location "Hội An",
    :image "",
    :description ""}
   {:name "Project renew",
@@ -1617,7 +1617,7 @@
    :longitude 108.2939032,
    :latitude 15.9256934,
    :source :openstreetmap,
-   :locality "Điện Bàn",
+   :location "Điện Bàn",
    :image "",
    :description ""}
   {:name "Terracotta Park",
@@ -1648,7 +1648,7 @@
    :longitude 105.7927328,
    :latitude 21.0450209,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Thành Đồ Bàn",
@@ -1685,7 +1685,7 @@
    :longitude 106.0749318,
    :latitude 21.0705778,
    :source :openstreetmap,
-   :locality "Bắc Ninh",
+   :location "Bắc Ninh",
    :image "",
    :description ""}
   {:name "Trung tâm Lưu trữ và Triển lãm Ảnh Nghệ thuật Việt Nam",
@@ -1694,7 +1694,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/TrungTamLuuTruvaTrienLamAnhNgheThuatVietNam/",
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Trung Tâm Nghiên Cứu Văn Hóa Chăm",
@@ -1702,7 +1702,7 @@
    :latitude 11.5636673,
    :source :openstreetmap,
    :homepage "https://ttncvhc.ninhthuan.gov.vn",
-   :locality "Phan Rang-Tháp Chàm",
+   :location "Phan Rang-Tháp Chàm",
    :image "",
    :description ""}
   {:name "Trung tâm nghệ thuật VCCA",
@@ -1715,7 +1715,7 @@
    :longitude 105.8122755,
    :latitude 21.0184325,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Trung Tâm Nghệ Thuật Đại Dương The Factory",
@@ -1747,7 +1747,7 @@
    :longitude 107.5962777,
    :latitude 16.4632767,
    :source :openstreetmap,
-   :locality "Huế",
+   :location "Huế",
    :image "",
    :description ""}
   {:name "Trưng bày Từ Dinh Norodom đến Dinh Độc Lập",
@@ -1779,7 +1779,7 @@
    :longitude 103.0493106,
    :latitude 21.4282265,
    :source :openstreetmap,
-   :locality "Điện Biên Phủ",
+   :location "Điện Biên Phủ",
    :image "",
    :description ""}
   {:name "TÂN TRUNG",
@@ -1829,7 +1829,7 @@
    :longitude 105.8513401,
    :latitude 21.010054,
    :source :openstreetmap,
-   :locality "Hà Nội",
+   :location "Hà Nội",
    :image "",
    :description ""}
   {:name "Vịnh Mốc Tunnels Museum",

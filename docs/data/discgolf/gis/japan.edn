@@ -9,19 +9,19 @@
    :latitude 40.712839024627954,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25967",
-   :locality "Japan"}
+   :location "Japan"}
   {:name "Saiki Golf Course",
    :longitude 131.90620391396834,
    :latitude 32.95470698163395,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26498",
-   :locality "Saiki, Oita"}
+   :location "Saiki, Oita"}
   {:name "Showa Kinen Koen",
    :longitude 139.39139418250755,
    :latitude 35.711116973203985,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35641",
-   :locality "Tokyo"}
+   :location "Tokyo"}
   {:name "ひるがのピクニックガーデン",
    :longitude 136.9077841,
    :latitude 36.0055521,

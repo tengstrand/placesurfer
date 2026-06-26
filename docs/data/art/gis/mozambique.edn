@@ -12,7 +12,7 @@
    :longitude 32.5929288,
    :latitude -25.9817241,
    :source :openstreetmap,
-   :locality "Maputo"}
+   :location "Maputo"}
   {:name "Bota Fogo",
    :longitude 32.5672476,
    :latitude -25.9532921,
@@ -35,12 +35,12 @@
    :longitude 32.592915,
    :latitude -25.965058,
    :source :openstreetmap,
-   :locality "Maputo"}
+   :location "Maputo"}
   {:name "Centro Cultural Franco-Moçambicano",
    :longitude 32.5734959,
    :latitude -25.9700408,
    :source :openstreetmap,
-   :locality "Maputo"}
+   :location "Maputo"}
   {:name "Fundação Fernando Leite Couto",
    :longitude 32.5957031,
    :latitude -25.9601046,
@@ -69,7 +69,7 @@
    :longitude 32.5697484,
    :latitude -25.9733756,
    :source :openstreetmap,
-   :locality "Maputo"}
+   :location "Maputo"}
   {:name "Museu da Revolução",
    :longitude 32.5677907,
    :latitude -25.9626375,
@@ -94,7 +94,7 @@
    :longitude 32.5717387,
    :latitude -25.9667057,
    :source :openstreetmap,
-   :locality "Maputo"}
+   :location "Maputo"}
   {:name "Museu Nacional de Etnologia",
    :longitude 39.266507,
    :latitude -15.1180325,
@@ -103,7 +103,7 @@
    :longitude 32.5898037,
    :latitude -25.9755154,
    :source :openstreetmap,
-   :locality "Maputo"}
+   :location "Maputo"}
   {:name "Old Military Headquarter",
    :longitude 31.3308926,
    :latitude -22.4562897,

@@ -9,7 +9,7 @@
    :latitude 50.50318257897837,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42467",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Black Muromets",
@@ -17,7 +17,7 @@
    :latitude 50.503427132667156,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22297",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Bucha Glass",
@@ -25,7 +25,7 @@
    :latitude 50.53598030831833,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15235",
-   :locality "Bucha",
+   :location "Bucha",
    :image "",
    :description ""}
   {:name "Disc Golf Park Kremenchuk",
@@ -33,7 +33,7 @@
    :latitude 49.05838545385387,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42286",
-   :locality "Kremenchuk",
+   :location "Kremenchuk",
    :image "",
    :description ""}
   {:name "DUKE 9 Odesa",
@@ -41,7 +41,7 @@
    :latitude 46.48336038137717,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45187",
-   :locality "Odesa",
+   :location "Odesa",
    :image "",
    :description ""}
   {:name "DUKE ODESA",
@@ -49,7 +49,7 @@
    :latitude 46.48339249469288,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41888",
-   :locality "Odesa",
+   :location "Odesa",
    :image "",
    :description ""}
   {:name "Dunaivtsi",
@@ -57,7 +57,7 @@
    :latitude 49.73146824435017,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30988",
-   :locality "Миронівський район",
+   :location "Миронівський район",
    :image "",
    :description ""}
   {:name "Dunaivtsi Training Course",
@@ -65,7 +65,7 @@
    :latitude 48.892892448267474,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22876",
-   :locality "Дунаєвецький район",
+   :location "Дунаєвецький район",
    :image "",
    :description ""}
   {:name "Frozen Challenge 2025 (AM, FPO…)",
@@ -80,7 +80,7 @@
    :latitude 51.93916935387625,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47099",
-   :locality "Detmold",
+   :location "Detmold",
    :image "",
    :description ""}
   {:name "Hydropark",
@@ -88,7 +88,7 @@
    :latitude 50.45034509664691,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6036",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Hydropark 9x2",
@@ -96,7 +96,7 @@
    :latitude 50.450182657377866,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37246",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "If Open Competition",
@@ -104,7 +104,7 @@
    :latitude 48.908437930884645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23686",
-   :locality "Івано-Франківськ",
+   :location "Івано-Франківськ",
    :image "",
    :description ""}
   {:name "Ivano-Frankivsk Open",
@@ -112,7 +112,7 @@
    :latitude 48.909533211943796,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19093",
-   :locality "Івано-Франківськ",
+   :location "Івано-Франківськ",
    :image "",
    :description ""}
   {:name "Jubilee Park",
@@ -120,7 +120,7 @@
    :latitude 49.058627934860795,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39846",
-   :locality "Кременчук",
+   :location "Кременчук",
    :image "",
    :description ""}
   {:name "KarpatoBlast",
@@ -128,7 +128,7 @@
    :latitude 48.52667706814836,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34910",
-   :locality "Міжгірський район",
+   :location "Міжгірський район",
    :image "",
    :description ""}
   {:name "Kids Ace Fun",
@@ -136,7 +136,7 @@
    :latitude 50.743973261600786,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37877",
-   :locality "Луцький район",
+   :location "Луцький район",
    :image "",
    :description ""}
   {:name "Kremenchuk Park",
@@ -144,7 +144,7 @@
    :latitude 49.06183351141223,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34240",
-   :locality "Кременчук",
+   :location "Кременчук",
    :image "",
    :description ""}
   {:name "Kyiv Open 2024",
@@ -152,7 +152,7 @@
    :latitude 50.502942650867425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38295",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Lubart Open 2025",
@@ -167,7 +167,7 @@
    :latitude 50.74395455501556,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31076",
-   :locality "Луцький район",
+   :location "Луцький район",
    :image "",
    :description ""}
   {:name "Lutsk Open (13) 2023",
@@ -175,7 +175,7 @@
    :latitude 50.742028316061266,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32898",
-   :locality "Луцький район",
+   :location "Луцький район",
    :image "",
    :description ""}
   {:name "Lutsk Open 2023",
@@ -183,7 +183,7 @@
    :latitude 50.74344314227997,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32889",
-   :locality "Луцький район",
+   :location "Луцький район",
    :image "",
    :description ""}
   {:name "Mizhhirya 1st",
@@ -191,7 +191,7 @@
    :latitude 48.52668937037626,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34775",
-   :locality "Міжгірський район",
+   :location "Міжгірський район",
    :image "",
    :description ""}
   {:name "Mountain View Mizhhirya",
@@ -199,7 +199,7 @@
    :latitude 48.52667259882517,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34780",
-   :locality "Міжгірський район",
+   :location "Міжгірський район",
    :image "",
    :description ""}
   {:name "Muromets - Frozen Chains Challenge 2025 (MPO)",
@@ -207,7 +207,7 @@
    :latitude 50.50208312319717,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41975",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets 2 baskets (Sudden Death)",
@@ -215,7 +215,7 @@
    :latitude 50.501978122156515,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45991",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets 4 baskets (1a|1b|11a|11b)",
@@ -223,7 +223,7 @@
    :latitude 50.50222626629835,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45989",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets 4 baskets (1|2|10|11)",
@@ -231,7 +231,7 @@
    :latitude 50.50172212863819,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45990",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets 4 baskets (1|2|10|9)",
@@ -239,7 +239,7 @@
    :latitude 50.50199050496468,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45993",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets 6 baskets (1|2|3|6|9|11)",
@@ -247,7 +247,7 @@
    :latitude 50.503371355699926,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45987",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets 7 baskets (12-18)",
@@ -255,7 +255,7 @@
    :latitude 50.503711990106325,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45992",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "MUROMETS 9 BASKETS (10-18)",
@@ -263,7 +263,7 @@
    :latitude 50.50379713339285,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45988",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets Disc Golf Park",
@@ -271,7 +271,7 @@
    :latitude 50.50238667831948,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19011",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Muromets Disc Golf Park (9 baskets)",
@@ -279,7 +279,7 @@
    :latitude 50.50261524994704,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18989",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Muromets First 11 baskets",
@@ -287,7 +287,7 @@
    :latitude 50.50100612886072,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37566",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Muromets First 9 baskets",
@@ -295,7 +295,7 @@
    :latitude 50.50284684712156,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37565",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Muromets For Beginners",
@@ -303,7 +303,7 @@
    :latitude 50.50189959359392,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21964",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Muromets x3",
@@ -311,7 +311,7 @@
    :latitude 50.46464606934671,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42336",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets | Reverse 13",
@@ -319,7 +319,7 @@
    :latitude 50.504272547349785,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40488",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Muromets-blue (DOUBLES)",
@@ -327,7 +327,7 @@
    :latitude 50.50092322798341,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42370",
-   :locality "Ukraine / Kyiv",
+   :location "Ukraine / Kyiv",
    :image "",
    :description ""}
   {:name "park Dubovyy Hay",
@@ -335,7 +335,7 @@
    :latitude 47.809003202010246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20898",
-   :locality "Запоріжжя",
+   :location "Запоріжжя",
    :image "",
    :description ""}
   {:name "Park Partyzanskoyi Slavy",
@@ -343,7 +343,7 @@
    :latitude 50.40755384562442,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37829",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Pidhaichyky Disc Golf Park",
@@ -351,7 +351,7 @@
    :latitude 48.566191987598074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46777",
-   :locality "Podgajchiki",
+   :location "Podgajchiki",
    :image "",
    :description ""}
   {:name "UA Champ 25 MA2 MP40",
@@ -359,7 +359,7 @@
    :latitude 50.50192928672308,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44260",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "UDGC IF",
@@ -367,7 +367,7 @@
    :latitude 48.909155117136606,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18854",
-   :locality "Івано-Франківськ",
+   :location "Івано-Франківськ",
    :image "",
    :description ""}
   {:name "Ukraine DG Championship",
@@ -375,7 +375,7 @@
    :latitude 50.50239484210897,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24598",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Ukrainian Disc Golf Championship 2019",
@@ -383,7 +383,7 @@
    :latitude 50.498870328167754,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15547",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "Ukrainian Disc Golf Championship 2025 MPO",
@@ -391,7 +391,7 @@
    :latitude 50.50389174211429,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44305",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name "UNITY",
@@ -399,7 +399,7 @@
    :latitude 49.060217568890266,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30989",
-   :locality "Кременчук",
+   :location "Кременчук",
    :image "",
    :description ""}
   {:name "Unity Disc-Golf Kremenchuk",
@@ -407,7 +407,7 @@
    :latitude 49.05833873879698,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33837",
-   :locality "Кременчук",
+   :location "Кременчук",
    :image "",
    :description ""}
   {:name "VDNG course by KDGC",
@@ -415,7 +415,7 @@
    :latitude 50.37226831097968,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27582",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "VDNG park ⛳",
@@ -423,7 +423,7 @@
    :latitude 50.372896522437884,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25598",
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "канава",
@@ -431,7 +431,7 @@
    :latitude 50.74412672740834,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47004",
-   :locality "Lutsk",
+   :location "Lutsk",
    :image "",
    :description ""}
   {:name "Кубок України 2024, Луцьк",
@@ -439,7 +439,7 @@
    :latitude 50.74362411094231,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40931",
-   :locality "Lutsk",
+   :location "Lutsk",
    :image "",
    :description ""}],
  :source

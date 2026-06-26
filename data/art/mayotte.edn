@@ -14,7 +14,7 @@
    :longitude 45.085117,
    :latitude -12.7610471,
    :source :openstreetmap,
-   :locality "M'Tsangamouji",
+   :location "M'Tsangamouji",
    :image "",
    :description ""}
   {:name "Musée de l'Artisanat",
@@ -33,7 +33,7 @@
    :longitude 45.1328182,
    :latitude -12.8333746,
    :source :openstreetmap,
-   :locality "Ouangani",
+   :location "Ouangani",
    :image "",
    :description ""}
   {:name "Pôle Culturel de Chirongui",

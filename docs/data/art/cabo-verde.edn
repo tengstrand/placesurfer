@@ -8,7 +8,7 @@
    :longitude -23.5192531,
    :latitude 14.9176898,
    :source :openstreetmap,
-   :locality "Praia",
+   :location "Praia",
    :image "",
    :description ""}
   {:name "Centro Cultural Norberto Tavares",

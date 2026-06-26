@@ -14,13 +14,13 @@
    :latitude 1.4794707792373458,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41701",
-   :locality "Johor Bahru"}
+   :location "Johor Bahru"}
   {:name "Lake Valley DGC",
    :longitude 101.7623773303456,
    :latitude 3.045162050240563,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32935",
-   :locality "Cheras"}],
+   :location "Cheras"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

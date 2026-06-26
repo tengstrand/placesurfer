@@ -18,12 +18,12 @@
    :longitude -70.7035288,
    :latitude 19.4520451,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Arte San Ramon",
    :longitude -69.9369875,
    :latitude 18.4769366,
    :source :openstreetmap,
-   :locality "Santo Domingo"}
+   :location "Santo Domingo"}
   {:name "Camelot",
    :longitude -69.5385737,
    :latitude 19.3218186,
@@ -34,7 +34,7 @@
    :source :openstreetmap,
    :homepage
    "https://es.wikipedia.org/wiki/Casa_Museo_Hermanas_Mirabal",
-   :locality "Tenares"}
+   :location "Tenares"}
   {:name "Casa natal de Máximo Gómez Báez",
    :longitude -70.3303261,
    :latitude 18.2805586,
@@ -49,12 +49,12 @@
    :latitude 18.4703855,
    :source :openstreetmap,
    :homepage "https://www.ccesd.org/",
-   :locality "Ciudad Colonial"}
+   :location "Ciudad Colonial"}
   {:name "Centro Cultural Eduardo León Jimenes",
    :longitude -70.6706463,
    :latitude 19.4632744,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Centro Cultural Narciso González",
    :longitude -69.9042899,
    :latitude 18.4905231,
@@ -101,7 +101,7 @@
    :longitude -70.3981031,
    :latitude 18.9396942,
    :source :openstreetmap,
-   :locality "Bonao"}
+   :location "Bonao"}
   {:name "Galería de Arte Las Carreras",
    :longitude -70.6980669,
    :latitude 19.4534784,
@@ -142,7 +142,7 @@
    :longitude -68.71481,
    :latitude 18.6164976,
    :source :openstreetmap,
-   :locality "Higuey"}
+   :location "Higuey"}
   {:name "Museo de La Frontera",
    :longitude -71.7004611,
    :latitude 18.875598,
@@ -151,7 +151,7 @@
    :longitude -69.3848103,
    :latitude 19.0657547,
    :source :openstreetmap,
-   :locality "Sabana de la Mar"}
+   :location "Sabana de la Mar"}
   {:name "Museo de Larimar",
    :longitude -71.0955739,
    :latitude 18.0746446,
@@ -177,7 +177,7 @@
    :longitude -69.9198857,
    :latitude 18.4750229,
    :source :openstreetmap,
-   :locality "Santo Domingo"}
+   :location "Santo Domingo"}
   {:name "Museo del Ámbar",
    :longitude -70.6921771,
    :latitude 19.7963742,
@@ -186,12 +186,12 @@
    :longitude -69.3842463,
    :latitude 19.0627261,
    :source :openstreetmap,
-   :locality "Sabana de la Mar"}
+   :location "Sabana de la Mar"}
   {:name "Museo Folklorico Don Tomas Morel",
    :longitude -70.7078857,
    :latitude 19.4530729,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Fuerte Juan Ponce de León",
    :longitude -68.6787794,
    :latitude 18.4416172,
@@ -234,7 +234,7 @@
    :longitude -71.232012,
    :latitude 18.8070105,
    :source :openstreetmap,
-   :locality "San Juan de la Maguana"}
+   :location "San Juan de la Maguana"}
   {:name "Plaza Artesanal De La Madera Petroficada",
    :longitude -70.8380576,
    :latitude 19.7538784,

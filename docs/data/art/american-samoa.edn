@@ -15,7 +15,7 @@
    :longitude -170.6968979,
    :latitude -14.2744514,
    :source :openstreetmap,
-   :locality "Pago Pago",
+   :location "Pago Pago",
    :image "",
    :description ""}
   {:name "Tauese P.F. Sunia Ocean Center",

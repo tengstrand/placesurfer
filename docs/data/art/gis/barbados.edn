@@ -8,12 +8,12 @@
    :longitude -59.6433952,
    :latitude 13.2482882,
    :source :openstreetmap,
-   :locality "Speightstown"}
+   :location "Speightstown"}
   {:name "Barbados Arts Council Art Gallery",
    :longitude -59.623162,
    :latitude 13.0982995,
    :source :openstreetmap,
-   :locality "Bridgetown"}
+   :location "Bridgetown"}
   {:name "Barbados Museum",
    :longitude -59.6021207,
    :latitude 13.0833261,
@@ -58,7 +58,7 @@
    :latitude 13.0949877,
    :source :openstreetmap,
    :homepage "https://www.pinelandscreativeworkshop.org/",
-   :locality "Wildey"}
+   :location "Wildey"}
   {:name "Queen's Park Steelshed",
    :longitude -59.6104775,
    :latitude 13.0985581,
@@ -79,17 +79,17 @@
    :longitude -59.5967736,
    :latitude 13.074276,
    :source :openstreetmap,
-   :locality "Hastings"}
+   :location "Hastings"}
   {:name "The Cricket Legends of Barbados Inc.",
    :longitude -59.6243252,
    :latitude 13.1041144,
    :source :openstreetmap,
-   :locality "Bridgetown"}
+   :location "Bridgetown"}
   {:name "Wildey House",
    :longitude -59.582189,
    :latitude 13.0918319,
    :source :openstreetmap,
-   :locality "Bridgetown"}],
+   :location "Bridgetown"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

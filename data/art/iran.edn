@@ -52,7 +52,7 @@
    :longitude 51.4549061,
    :latitude 35.8129046,
    :source :openstreetmap,
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "RooBeRoo Mansion Tajrish",
@@ -66,7 +66,7 @@
    :longitude 50.9970053,
    :latitude 35.8416071,
    :source :openstreetmap,
-   :locality "Karaj",
+   :location "Karaj",
    :image "",
    :description ""}
   {:name "Vakil Cultural House Gallery",
@@ -86,7 +86,7 @@
    :longitude 54.3686419,
    :latitude 31.9010854,
    :source :openstreetmap,
-   :locality "Yazd",
+   :location "Yazd",
    :image "",
    :description ""}
   {:name "آب انبار سردار",
@@ -111,7 +111,7 @@
    :longitude 57.0889864,
    :latitude 30.2962902,
    :source :openstreetmap,
-   :locality "کرمان",
+   :location "کرمان",
    :image "",
    :description ""}
   {:name "آتلیه جوان",
@@ -149,14 +149,14 @@
    :latitude 35.5881592,
    :source :openstreetmap,
    :homepage "https://instagram.com/parisa_adab_",
-   :locality "سمنان",
+   :location "سمنان",
    :image "",
    :description ""}
   {:name "آموزشگاه تخصصی عکس و تصویر هومان",
    :longitude 50.993519,
    :latitude 35.799918,
    :source :openstreetmap,
-   :locality "کرج",
+   :location "کرج",
    :image "",
    :description ""}
   {:name "آموزشگاه صنایع دستی فنی و حرفه ای توپال",
@@ -170,7 +170,7 @@
    :longitude 50.8631099,
    :latitude 32.3240411,
    :source :openstreetmap,
-   :locality "شهر کرد",
+   :location "شهر کرد",
    :image "",
    :description ""}
   {:name "آموزشگاه نقاشی سایه روشن",
@@ -183,21 +183,21 @@
    :longitude 49.5939148,
    :latitude 37.2524174,
    :source :openstreetmap,
-   :locality "rasht",
+   :location "rasht",
    :image "",
    :description ""}
   {:name "آموزشگاه هنر ها تجمی رنگ نو",
    :longitude 52.5351781,
    :latitude 29.6174245,
    :source :openstreetmap,
-   :locality "شیراز",
+   :location "شیراز",
    :image "",
    :description ""}
   {:name "آموزشگاه هنرهای تجسمی منا آذرنوش",
    :longitude 51.4416613,
    :latitude 33.9898633,
    :source :openstreetmap,
-   :locality "کاشان",
+   :location "کاشان",
    :image "",
    :description ""}
   {:name "آموزشگاه هنرهای تجسمی نور",
@@ -210,14 +210,14 @@
    :longitude 59.4646883,
    :latitude 36.3417955,
    :source :openstreetmap,
-   :locality "شهر مشهد",
+   :location "شهر مشهد",
    :image "",
    :description ""}
   {:name "آموزشگاه هنری ققنوس",
    :longitude 50.0630058,
    :latitude 36.1850362,
    :source :openstreetmap,
-   :locality "الوند",
+   :location "الوند",
    :image "",
    :description ""}
   {:name "آکادمی زیبایی سرای گل",
@@ -225,14 +225,14 @@
    :latitude 35.6911474,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/m.zohrevand_/",
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "آکادمی غزاله دریس",
    :longitude 50.8445511,
    :latitude 34.6137602,
    :source :openstreetmap,
-   :locality "قم",
+   :location "قم",
    :image "",
    :description ""}
   {:name "آینه خانه مفخم",
@@ -251,14 +251,14 @@
    :longitude 56.3408527,
    :latitude 27.2095212,
    :source :openstreetmap,
-   :locality "بندرعباس",
+   :location "بندرعباس",
    :image "",
    :description ""}
   {:name "استودیو هنری ویوا",
    :longitude 52.6734925,
    :latitude 36.5966738,
    :source :openstreetmap,
-   :locality "امیرکلا",
+   :location "امیرکلا",
    :image "",
    :description ""}
   {:name "اموزشگاه موسیقی ارغنون",
@@ -266,7 +266,7 @@
    :latitude 33.5009545,
    :source :openstreetmap,
    :homepage "https://arghanoon-music.ir/",
-   :locality "خرم آباد",
+   :location "خرم آباد",
    :image "",
    :description ""}
   {:name "انجمن آفتاب مهرورزی",
@@ -441,7 +441,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.esfahanfarhang.ir/fa-IR/DouranPortal/4942/page/%D8%AA%D8%A7%D9%84%D8%A7%D8%B1-%D9%87%D9%86%D8%B1",
-   :locality "اصفهان",
+   :location "اصفهان",
    :image "",
    :description ""}
   {:name "توپ مروارید",
@@ -503,7 +503,7 @@
    :longitude 50.6505589,
    :latitude 36.9114681,
    :source :openstreetmap,
-   :locality "رامسر",
+   :location "رامسر",
    :image "",
    :description ""}
   {:name "خانه اردیبهشت اودلاجان",
@@ -511,7 +511,7 @@
    :latitude 35.6827361,
    :source :openstreetmap,
    :homepage "https://www.iacoo.ir/",
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "خانه باستانی مجیر",
@@ -530,7 +530,7 @@
    :longitude 46.0481057,
    :latitude 37.3393327,
    :source :openstreetmap,
-   :locality "بناب",
+   :location "بناب",
    :image "",
    :description ""}
   {:name "خانه تاریخی ضیایی و‌بادگیر میرعلی اقا",
@@ -561,7 +561,7 @@
    :longitude 49.693709,
    :latitude 34.0926618,
    :source :openstreetmap,
-   :locality "اراک",
+   :location "اراک",
    :image "",
    :description ""}
   {:name "خانه صولت موزه مردم شناسی",
@@ -581,7 +581,7 @@
    :latitude 35.6954565,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/khanehfamouri/",
-   :locality "Tehran",
+   :location "Tehran",
    :image "",
    :description ""}
   {:name "خانه فرهنگ امامزاده یحیی ع",
@@ -612,7 +612,7 @@
    :longitude 53.9425888,
    :latitude 26.5709491,
    :source :openstreetmap,
-   :locality "کیش",
+   :location "کیش",
    :image "",
    :description ""}
   {:name "خانه مشروطیت اصفهان",
@@ -692,7 +692,7 @@
    :longitude 51.4434841,
    :latitude 35.7219723,
    :source :openstreetmap,
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "خانه هنر کیوان",
@@ -705,7 +705,7 @@
    :longitude 50.8290506,
    :latitude 35.9370514,
    :source :openstreetmap,
-   :locality "کردان",
+   :location "کردان",
    :image "",
    :description ""}
   {:name "خانه هنر گردآفرید",
@@ -754,7 +754,7 @@
    :longitude 59.395679,
    :latitude 36.3988726,
    :source :openstreetmap,
-   :locality "ویرانی",
+   :location "ویرانی",
    :image "",
    :description ""}
   {:name "رختشویخانه",
@@ -767,7 +767,7 @@
    :longitude 48.525175,
    :latitude 34.8038788,
    :source :openstreetmap,
-   :locality "همدان",
+   :location "همدان",
    :image "",
    :description ""}
   {:name "رودفرق",
@@ -810,14 +810,14 @@
    :longitude 46.2760357,
    :latitude 37.3436812,
    :source :openstreetmap,
-   :locality "مراغه",
+   :location "مراغه",
    :image "",
    :description ""}
   {:name "سایت موزه همدان",
    :longitude 48.5148509,
    :latitude 34.7983207,
    :source :openstreetmap,
-   :locality "شهر همدان",
+   :location "شهر همدان",
    :image "",
    :description ""}
   {:name "سرای افضل",
@@ -844,7 +844,7 @@
    :latitude 35.702969,
    :source :openstreetmap,
    :homepage "https://sevinagroup.com/",
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "سید المشعشعی",
@@ -869,7 +869,7 @@
    :longitude 50.978701,
    :latitude 35.8548443,
    :source :openstreetmap,
-   :locality "کرج",
+   :location "کرج",
    :image "",
    :description ""}
   {:name "شیپ",
@@ -986,7 +986,7 @@
    :longitude 51.3973207,
    :latitude 35.6468178,
    :source :openstreetmap,
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "فرهنگسرای خاتم",
@@ -1053,7 +1053,7 @@
    :longitude 52.1548603,
    :latitude 35.6206701,
    :source :openstreetmap,
-   :locality "آبسرد",
+   :location "آبسرد",
    :image "",
    :description ""}
   {:name "فرهنگسرای شهرداری منطقه ۶ تبریز",
@@ -1084,7 +1084,7 @@
    :longitude 56.2898488,
    :latitude 27.1875587,
    :source :openstreetmap,
-   :locality "بندرعباس",
+   :location "بندرعباس",
    :image "",
    :description ""}
   {:name "فرهنگسرای غدیر",
@@ -1115,7 +1115,7 @@
    :longitude 52.5462326,
    :latitude 29.5999751,
    :source :openstreetmap,
-   :locality "شیراز",
+   :location "شیراز",
    :image "",
    :description ""}
   {:name "فرهنگسرای نیاوران",
@@ -1152,7 +1152,7 @@
    :longitude 59.5078328,
    :latitude 36.3387454,
    :source :openstreetmap,
-   :locality "مشهد",
+   :location "مشهد",
    :image "",
    :description ""}
   {:name "قبرستان زرتشتی",
@@ -1213,7 +1213,7 @@
    :longitude 49.6065163,
    :latitude 37.3124177,
    :source :openstreetmap,
-   :locality "رشت",
+   :location "رشت",
    :image "",
    :description ""}
   {:name "مادر",
@@ -1262,7 +1262,7 @@
    :longitude 47.0058537,
    :latitude 35.301725,
    :source :openstreetmap,
-   :locality "شهر سنندج",
+   :location "شهر سنندج",
    :image "",
    :description ""}
   {:name "مجتمع فرهنگی هنری",
@@ -1353,7 +1353,7 @@
    :longitude 53.9532258,
    :latitude 26.5717901,
    :source :openstreetmap,
-   :locality "کیش",
+   :location "کیش",
    :image "",
    :description ""}
   {:name "مجموعه تاریخی فرهنگی هفت برج خارون",
@@ -1366,7 +1366,7 @@
    :longitude 54.0229222,
    :latitude 26.553389,
    :source :openstreetmap,
-   :locality "کیش",
+   :location "کیش",
    :image "",
    :description ""}
   {:name "مجموعه فرهنگی ارشاد",
@@ -1435,7 +1435,7 @@
    :longitude 48.2721033,
    :latitude 38.2171903,
    :source :openstreetmap,
-   :locality "اردبیل",
+   :location "اردبیل",
    :image "",
    :description ""}
   {:name "مسجد ابوالفضل روستای گاوسوار",
@@ -1496,14 +1496,14 @@
    :longitude 46.2370698,
    :latitude 37.382497,
    :source :openstreetmap,
-   :locality "مراغه",
+   :location "مراغه",
    :image "",
    :description ""}
   {:name "مقبره امامزاده سید عبدالعزیز (س)",
    :longitude 48.3285786,
    :latitude 38.2360335,
    :source :openstreetmap,
-   :locality "نیار",
+   :location "نیار",
    :image "",
    :description ""}
   {:name "منزل استاد ایرج شمسى زاده",
@@ -1542,7 +1542,7 @@
    :longitude 48.3958088,
    :latitude 32.3848847,
    :source :openstreetmap,
-   :locality "دزفول",
+   :location "دزفول",
    :image "",
    :description ""}
   {:name "موزه آب",
@@ -1569,7 +1569,7 @@
    :longitude 46.3000384,
    :latitude 38.0735795,
    :source :openstreetmap,
-   :locality "تبریز",
+   :location "تبریز",
    :image "",
    :description ""}
   {:name "موزه آرداک مانوکیان",
@@ -1667,7 +1667,7 @@
    :longitude 52.6762344,
    :latitude 36.5446208,
    :source :openstreetmap,
-   :locality "بابل",
+   :location "بابل",
    :image "",
    :description ""}
   {:name "موزه بازارومشاغل تبریز",
@@ -1740,7 +1740,7 @@
    :longitude 48.5132046,
    :latitude 34.7915773,
    :source :openstreetmap,
-   :locality "همدان",
+   :location "همدان",
    :image "",
    :description ""}
   {:name "موزه تاریخ آمل",
@@ -1765,7 +1765,7 @@
    :longitude 45.1113531,
    :latitude 37.5381821,
    :source :openstreetmap,
-   :locality "ارومیه",
+   :location "ارومیه",
    :image "",
    :description ""}
   {:name "موزه تاریخ طبیعی تبریز",
@@ -1839,7 +1839,7 @@
    :longitude 51.419294,
    :latitude 35.6931716,
    :source :openstreetmap,
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "موزه حسین آباد",
@@ -1907,7 +1907,7 @@
    :longitude 51.3641455,
    :latitude 35.7470598,
    :source :openstreetmap,
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "موزه حیات وحش چهل میر",
@@ -2036,7 +2036,7 @@
    :longitude 51.4141357,
    :latitude 35.7622267,
    :source :openstreetmap,
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "موزه دکتر نادعلیان",
@@ -2077,7 +2077,7 @@
    :latitude 35.7408691,
    :source :openstreetmap,
    :homepage "http://www.rezaabbasimuseum.ir",
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "موزه روباز صنعت نفت",
@@ -2132,7 +2132,7 @@
    :longitude 46.2998058,
    :latitude 38.0882601,
    :source :openstreetmap,
-   :locality "تبریز",
+   :location "تبریز",
    :image "",
    :description ""}
   {:name "موزه سنندج",
@@ -2214,7 +2214,7 @@
    :longitude 46.2952924,
    :latitude 38.0697059,
    :source :openstreetmap,
-   :locality "تبریز",
+   :location "تبریز",
    :image "",
    :description ""}
   {:name "موزه شهید مطهری",
@@ -2234,7 +2234,7 @@
    :latitude 32.0121149,
    :source :openstreetmap,
    :homepage "@muze_saneei",
-   :locality "شهرضا",
+   :location "شهرضا",
    :image "",
    :description ""}
   {:name "موزه صبا",
@@ -2375,14 +2375,14 @@
    :longitude 48.8225863,
    :latitude 34.2880676,
    :source :openstreetmap,
-   :locality "ملایر",
+   :location "ملایر",
    :image "",
    :description ""}
   {:name "موزه محلی سراوان",
    :longitude 62.3367783,
    :latitude 27.3647081,
    :source :openstreetmap,
-   :locality "سراوان",
+   :location "سراوان",
    :image "",
    :description ""}
   {:name "موزه مدرسه سعادت",
@@ -2449,14 +2449,14 @@
    :longitude 48.2888067,
    :latitude 38.2497389,
    :source :openstreetmap,
-   :locality "محله عالی قاپو",
+   :location "محله عالی قاپو",
    :image "",
    :description ""}
   {:name "موزه مردم شناسی اقلید",
    :longitude 52.6863687,
    :latitude 30.8919411,
    :source :openstreetmap,
-   :locality "اقلید",
+   :location "اقلید",
    :image "",
    :description ""}
   {:name "موزه مردم شناسی بادرود",
@@ -2469,14 +2469,14 @@
    :longitude 48.7575227,
    :latitude 33.9020568,
    :source :openstreetmap,
-   :locality "بروجرد",
+   :location "بروجرد",
    :image "",
    :description ""}
   {:name "موزه مردم شناسی جنوب سهند بناب",
    :longitude 46.0618635,
    :latitude 37.3376162,
    :source :openstreetmap,
-   :locality "Bonab",
+   :location "Bonab",
    :image "",
    :description ""}
   {:name "موزه مردم شناسی حمام مهدی قلی بیگ",
@@ -2489,7 +2489,7 @@
    :longitude 56.2582768,
    :latitude 27.1754355,
    :source :openstreetmap,
-   :locality "بندرعباس",
+   :location "بندرعباس",
    :image "",
    :description ""}
   {:name "موزه مردم شناسی خیام",
@@ -2532,7 +2532,7 @@
    :longitude 50.8951424,
    :latitude 32.2820287,
    :source :openstreetmap,
-   :locality "شهر کیان",
+   :location "شهر کیان",
    :image "",
    :description ""}
   {:name "موزه مردم شناسی شهرستان دزفول",
@@ -2624,7 +2624,7 @@
    :longitude 46.102196,
    :latitude 36.9678334,
    :source :openstreetmap,
-   :locality "میاندوآب",
+   :location "میاندوآب",
    :image "",
    :description ""}
   {:name "موزه میراث روستایی استان گیلان",
@@ -2643,7 +2643,7 @@
    :longitude 59.2090868,
    :latitude 32.8812964,
    :source :openstreetmap,
-   :locality "بیرجند",
+   :location "بیرجند",
    :image "",
    :description ""}
   {:name "موزه میمه",
@@ -2680,7 +2680,7 @@
    :longitude 45.3869955,
    :latitude 36.955639,
    :source :openstreetmap,
-   :locality "نقده",
+   :location "نقده",
    :image "",
    :description ""}
   {:name "موزه نقشه",
@@ -2730,7 +2730,7 @@
    :longitude 48.5183258,
    :latitude 34.8034865,
    :source :openstreetmap,
-   :locality "همدان",
+   :location "همدان",
    :image "",
    :description ""}
   {:name "موزه و آب انبار حوض میان",
@@ -2810,7 +2810,7 @@
    :longitude 46.4603672,
    :latitude 38.0328819,
    :source :openstreetmap,
-   :locality "تبریز",
+   :location "تبریز",
    :image "",
    :description ""}
   {:name "موزه کلیسا",
@@ -2830,7 +2830,7 @@
    :latitude 35.6928444,
    :source :openstreetmap,
    :homepage "http://www.glasswaremuseum.ir/",
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "موزه کویر",
@@ -2873,7 +2873,7 @@
    :longitude 57.6839371,
    :latitude 36.2147523,
    :source :openstreetmap,
-   :locality "سبزوار",
+   :location "سبزوار",
    :image "",
    :description ""}
   {:name "موسسه سینما تئاتر همای سعادت",
@@ -2893,7 +2893,7 @@
    :latitude 35.7855012,
    :source :openstreetmap,
    :homepage "https://www.padan-art.com/",
-   :locality "tehran",
+   :location "tehran",
    :image "",
    :description ""}
   {:name "موسسه فرهنگی هنری پایتخت",
@@ -2901,14 +2901,14 @@
    :latitude 35.6992115,
    :source :openstreetmap,
    :homepage "http://www.irps.ir",
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "موسسه فرهنگی و هنری صالحی البرز",
    :longitude 51.0050956,
    :latitude 35.8124252,
    :source :openstreetmap,
-   :locality "کرج",
+   :location "کرج",
    :image "",
    :description ""}
   {:name "موسسه فرهنگی و هنری هفت آینه",
@@ -2916,7 +2916,7 @@
    :latitude 36.5536555,
    :source :openstreetmap,
    :homepage "https://www.haftan.ir/",
-   :locality "Sari",
+   :location "Sari",
    :image "",
    :description ""}
   {:name "موسسه فرهنگی وهنری فردای روشن",
@@ -2929,7 +2929,7 @@
    :longitude 50.9971527,
    :latitude 35.8175168,
    :source :openstreetmap,
-   :locality "کرج",
+   :location "کرج",
    :image "",
    :description ""}
   {:name "میدان تعزیه",
@@ -3000,7 +3000,7 @@
    :latitude 35.7998825,
    :source :openstreetmap,
    :homepage "https://shamis.gallery/",
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "نگارخانه لاله",
@@ -3025,7 +3025,7 @@
    :longitude 51.4415037,
    :latitude 35.813002,
    :source :openstreetmap,
-   :locality "تهران",
+   :location "تهران",
    :image "",
    :description ""}
   {:name "نگارخانه هنرهای معاصر نگاران",
@@ -3056,14 +3056,14 @@
    :longitude 51.6313801,
    :latitude 32.6297895,
    :source :openstreetmap,
-   :locality "اصفهان",
+   :location "اصفهان",
    :image "",
    :description ""}
   {:name "هنرکده نقش ماندگار",
    :longitude 50.9009948,
    :latitude 35.7971894,
    :source :openstreetmap,
-   :locality "مهرشهر",
+   :location "مهرشهر",
    :image "",
    :description ""}
   {:name "وزارت فرهنگ و ارشاد",
@@ -3100,7 +3100,7 @@
    :longitude 48.6686413,
    :latitude 31.3191874,
    :source :openstreetmap,
-   :locality "اهواز",
+   :location "اهواز",
    :image "",
    :description ""}
   {:name "چارتاقی جاجرم",
@@ -3131,7 +3131,7 @@
    :longitude 51.5630805,
    :latitude 32.4191253,
    :source :openstreetmap,
-   :locality "مبارکه",
+   :location "مبارکه",
    :image "",
    :description ""}
   {:name "کاخ سردار",
@@ -3174,7 +3174,7 @@
    :longitude 49.4635666,
    :latitude 37.4664351,
    :source :openstreetmap,
-   :locality "چهارفریضه",
+   :location "چهارفریضه",
    :image "",
    :description ""}
   {:name "کاخ موزه ثابت پاسال",
@@ -3254,7 +3254,7 @@
    :longitude 54.0183679,
    :latitude 32.2226886,
    :source :openstreetmap,
-   :locality "meybod",
+   :location "meybod",
    :image "",
    :description ""}
   {:name "کانون فرهنگی تربیتی حر",
@@ -3285,7 +3285,7 @@
    :longitude 52.6805164,
    :latitude 30.8759485,
    :source :openstreetmap,
-   :locality "اقلید",
+   :location "اقلید",
    :image "",
    :description ""}
   {:name "کانون فرهنگی قلمچی",
@@ -3382,14 +3382,14 @@
    :longitude 48.2972029,
    :latitude 38.2424523,
    :source :openstreetmap,
-   :locality "اردبیل",
+   :location "اردبیل",
    :image "",
    :description ""}
   {:name "کانون پرورش فکری کودکان و نوجوانان",
    :longitude 53.6334148,
    :latitude 30.4670288,
    :source :openstreetmap,
-   :locality "بوانات",
+   :location "بوانات",
    :image "",
    :description ""}
   {:name "کانون پرورش فکری کودکان و نوجوانان",
@@ -3402,7 +3402,7 @@
    :longitude 48.3009532,
    :latitude 38.2215194,
    :source :openstreetmap,
-   :locality "اردبیل",
+   :location "اردبیل",
    :image "",
    :description ""}
   {:name "کانون پرورش فکری کودکان و نوجوانان شماره‌ی دو",
@@ -3451,7 +3451,7 @@
    :longitude 46.0659936,
    :latitude 37.3365055,
    :source :openstreetmap,
-   :locality "بناب",
+   :location "بناب",
    :image "",
    :description ""}
   {:name "گالری آ",
@@ -3472,14 +3472,14 @@
    :longitude 49.4516276,
    :latitude 37.4733898,
    :source :openstreetmap,
-   :locality "چهارفریضه",
+   :location "چهارفریضه",
    :image "",
    :description ""}
   {:name "گالری آریانا",
    :longitude 51.4284556,
    :latitude 35.786577,
    :source :openstreetmap,
-   :locality "Tehran",
+   :location "Tehran",
    :image "",
    :description ""}
   {:name "گالری الماس",
@@ -3499,7 +3499,7 @@
    :longitude 50.9132006,
    :latitude 34.6543505,
    :source :openstreetmap,
-   :locality "قم",
+   :location "قم",
    :image "",
    :description ""}
   {:name "گالری جام جم",
@@ -3550,7 +3550,7 @@
    :longitude 51.4489721,
    :latitude 33.9827044,
    :source :openstreetmap,
-   :locality "کاشان",
+   :location "کاشان",
    :image "",
    :description ""}
   {:name "گالری صنایع دستی پیدوم",
@@ -3563,14 +3563,14 @@
    :longitude 51.3980023,
    :latitude 35.7485751,
    :source :openstreetmap,
-   :locality "Tehran",
+   :location "Tehran",
    :image "",
    :description ""}
   {:name "گالری قاب و معرق بختیاری",
    :longitude 59.5845165,
    :latitude 36.2901914,
    :source :openstreetmap,
-   :locality "شهر مشهد",
+   :location "شهر مشهد",
    :image "",
    :description ""}
   {:name "گالری لو",
@@ -3589,7 +3589,7 @@
    :longitude 50.9427501,
    :latitude 35.8177544,
    :source :openstreetmap,
-   :locality "کرج",
+   :location "کرج",
    :image "",
    :description ""}
   {:name "گالری محسن",
@@ -3609,7 +3609,7 @@
    :longitude 51.6726297,
    :latitude 32.6857442,
    :source :openstreetmap,
-   :locality "Isfahan",
+   :location "Isfahan",
    :image "",
    :description ""}
   {:name "گالری هلنا",
@@ -3654,7 +3654,7 @@
    :longitude 49.5670146,
    :latitude 37.2720787,
    :source :openstreetmap,
-   :locality "رشت",
+   :location "رشت",
    :image "",
    :description ""}
   {:name "گالری هنری شاپینه",
@@ -3667,7 +3667,7 @@
    :longitude 51.3912355,
    :latitude 35.6811966,
    :source :openstreetmap,
-   :locality "شهر تهران",
+   :location "شهر تهران",
    :image "",
    :description ""}
   {:name "گالری و آموزشگاه هنرهای تجسمی ایرانی",
@@ -3675,7 +3675,7 @@
    :latitude 38.0443947,
    :source :openstreetmap,
    :homepage "https://www.galleryraminirani.com/",
-   :locality "tabriz",
+   :location "tabriz",
    :image "",
    :description ""}
   {:name "گالری ژیان",
@@ -3683,7 +3683,7 @@
    :latitude 26.5549148,
    :source :openstreetmap,
    :homepage "https://www.zhiangallery.com/",
-   :locality "کیش",
+   :location "کیش",
    :image "",
    :description ""}
   {:name "گالری کارن شعبه یک",
@@ -3702,7 +3702,7 @@
    :longitude 50.0100868,
    :latitude 37.2042124,
    :source :openstreetmap,
-   :locality "Lahijan",
+   :location "Lahijan",
    :image "",
    :description ""}
   {:name "گالری گیلدا",
@@ -3721,7 +3721,7 @@
    :longitude 52.6791219,
    :latitude 36.5606515,
    :source :openstreetmap,
-   :locality "بابل",
+   :location "بابل",
    :image "",
    :description ""}
   {:name "گروه هنری دلارته",
@@ -3729,7 +3729,7 @@
    :latitude 35.7242038,
    :source :openstreetmap,
    :homepage "http://pelatoreserve.ir",
-   :locality "tehran",
+   :location "tehran",
    :image "",
    :description ""}
   {:name "گروه هنری شادی",
@@ -3737,7 +3737,7 @@
    :latitude 35.6866744,
    :source :openstreetmap,
    :homepage "https://instagram.com/shadi.artgroup",
-   :locality "Tehran",
+   :location "Tehran",
    :image "",
    :description ""}
   {:name "گنجینه ایثار و شهادت اردکان",

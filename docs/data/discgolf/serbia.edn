@@ -16,7 +16,7 @@
    :latitude 44.65162234802105,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43285",
-   :locality "Belgrade",
+   :location "Belgrade",
    :image "",
    :description ""}
   {:name "Ključ Open",
@@ -24,7 +24,7 @@
    :latitude 44.23299803966225,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24194",
-   :locality "Мионица",
+   :location "Мионица",
    :image "",
    :description ""}
   {:name "Palilulac",
@@ -32,7 +32,7 @@
    :latitude 44.84020686467855,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27876",
-   :locality "Палилула",
+   :location "Палилула",
    :image "",
    :description ""}
   {:name "Palilulac",
@@ -40,7 +40,7 @@
    :latitude 44.841030640482415,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28707",
-   :locality "Палилула",
+   :location "Палилула",
    :image "",
    :description ""}
   {:name "Ušće liga 20/21",
@@ -48,7 +48,7 @@
    :latitude 44.817727547762956,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21446",
-   :locality "Београд",
+   :location "Београд",
    :image "",
    :description ""}],
  :source

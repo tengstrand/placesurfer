@@ -9,7 +9,7 @@
    :latitude 57.00646285280121,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7091",
-   :locality "Riga",
+   :location "Riga",
    :image "",
    :description ""}
   {:name "Alūksnes Mežinieki",
@@ -17,7 +17,7 @@
    :latitude 57.41378782452845,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12200",
-   :locality "Jaunalūksnes pagasts",
+   :location "Jaunalūksnes pagasts",
    :image "",
    :description ""}
   {:name "Andy",
@@ -32,7 +32,7 @@
    :latitude 57.02435111133687,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45109",
-   :locality "Dobele",
+   :location "Dobele",
    :image "",
    :description ""}
   {:name "Auri",
@@ -40,7 +40,7 @@
    :latitude 56.86867299475469,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45300",
-   :locality "Dobele novads",
+   :location "Dobele novads",
    :image "",
    :description ""}
   {:name "Baldone",
@@ -48,7 +48,7 @@
    :latitude 56.768702492146616,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24993",
-   :locality "Baldones pagasts",
+   :location "Baldones pagasts",
    :image "",
    :description ""}
   {:name "Blue mix",
@@ -56,7 +56,7 @@
    :latitude 57.23724567053907,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43398",
-   :locality "Talsi",
+   :location "Talsi",
    :image "",
    :description ""}
   {:name "Braku Takas",
@@ -64,7 +64,7 @@
    :latitude 56.899628888529534,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11964",
-   :locality "Ērgļi",
+   :location "Ērgļi",
    :image "",
    :description ""}
   {:name "Bērnu čempionāts 2025 Lēdurgā",
@@ -79,7 +79,7 @@
    :latitude 57.006459732293905,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44238",
-   :locality "Rīga",
+   :location "Rīga",
    :image "",
    :description ""}
   {:name "Bērnu čempionāts 2025 Tukumā",
@@ -87,7 +87,7 @@
    :latitude 56.966298687960744,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43692",
-   :locality "Tukums",
+   :location "Tukums",
    :image "",
    :description ""}
   {:name "Ceļa ēzeļi",
@@ -95,7 +95,7 @@
    :latitude 56.60516452221782,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32710",
-   :locality "Auri",
+   :location "Auri",
    :image "",
    :description ""}
   {:name "Deviņkalnu Disku Golfa Parks",
@@ -103,7 +103,7 @@
    :latitude 57.2382762,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11957",
-   :locality "Talsi",
+   :location "Talsi",
    :image "",
    :description ""}
   {:name "DEVIŅKALNU vecais izkārtojums",
@@ -111,7 +111,7 @@
    :latitude 57.23808018305709,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26742",
-   :locality "Talsi",
+   :location "Talsi",
    :image "",
    :description ""}
   {:name "DGP Palsa 14-21",
@@ -119,7 +119,7 @@
    :latitude 57.38879096476677,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29341",
-   :locality "Palsmane",
+   :location "Palsmane",
    :image "",
    :description ""}
   {:name "Discgokfpark Ērgļi, mazais aplis 12/39",
@@ -127,7 +127,7 @@
    :latitude 56.906081532971086,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42357",
-   :locality "Ērgļi",
+   :location "Ērgļi",
    :image "",
    :description ""}
   {:name "DiscGolfPark® Balvi (LAT)",
@@ -135,7 +135,7 @@
    :latitude 57.13549,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12227",
-   :locality "Balvi",
+   :location "Balvi",
    :image "",
    :description ""}
   {:name "DiscGolfPark® Vilce (LAT)",
@@ -143,7 +143,7 @@
    :latitude 56.42050553523065,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16450",
-   :locality "Vilce",
+   :location "Vilce",
    :image "",
    :description ""}
   {:name "Disku golfa parks - Pauku Priedes",
@@ -151,7 +151,7 @@
    :latitude 57.53113598112938,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22506",
-   :locality "Valmiera",
+   :location "Valmiera",
    :image "",
    :description ""}
   {:name "Disku golfa parks ABULS",
@@ -159,7 +159,7 @@
    :latitude 57.426460777763,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36328",
-   :locality "Smiltene",
+   :location "Smiltene",
    :image "",
    :description ""}
   {:name "Disku golfa parks PALSA 10- 13",
@@ -167,7 +167,7 @@
    :latitude 57.38875376393841,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26611",
-   :locality "Palsmane",
+   :location "Palsmane",
    :image "",
    :description ""}
   {:name "Disku golfa parks Stari",
@@ -175,7 +175,7 @@
    :latitude 57.129945,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9047",
-   :locality "Daukstes",
+   :location "Daukstes",
    :image "",
    :description ""}
   {:name "Disku golfa parks Zibeņi",
@@ -190,7 +190,7 @@
    :latitude 57.388502,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12993",
-   :locality "Palsmane",
+   :location "Palsmane",
    :image "",
    :description ""}
   {:name "Disku golfs Reinis (Reiņa trase)",
@@ -198,7 +198,7 @@
    :latitude 57.17986311414967,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23108",
-   :locality "Krimuldas pagasts",
+   :location "Krimuldas pagasts",
    :image "",
    :description ""}
   {:name "Disku golfs Sīmaņi",
@@ -206,7 +206,7 @@
    :latitude 57.05940108902308,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43639",
-   :locality "Kuldīgas novads",
+   :location "Kuldīgas novads",
    :image "",
    :description ""}
   {:name "Erglu Gaisa Speki (18/63)",
@@ -214,7 +214,7 @@
    :latitude 56.877572351931015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/3940",
-   :locality "Ērgļi",
+   :location "Ērgļi",
    :image "",
    :description ""}
   {:name "Garozas disku golfa parks",
@@ -222,7 +222,7 @@
    :latitude 56.629313660592004,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25055",
-   :locality "Salgales pagasts",
+   :location "Salgales pagasts",
    :image "",
    :description ""}
   {:name "Ikšķile",
@@ -230,7 +230,7 @@
    :latitude 56.830271225990174,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26867",
-   :locality "Ikšķile",
+   :location "Ikšķile",
    :image "",
    :description ""}
   {:name "Ikšķiles disku golfa parks",
@@ -238,7 +238,7 @@
    :latitude 56.83031905425335,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21655",
-   :locality "Ikšķile",
+   :location "Ikšķile",
    :image "",
    :description ""}
   {:name "Inčukalna Medību Pils laukums",
@@ -246,7 +246,7 @@
    :latitude 57.12790740059842,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23884",
-   :locality "Kārļzemnieki",
+   :location "Kārļzemnieki",
    :image "",
    :description ""}
   {:name "Jumpravas Disku golfa laukums",
@@ -261,7 +261,7 @@
    :latitude 56.48301370819573,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20811",
-   :locality "Jēkabpils",
+   :location "Jēkabpils",
    :image "",
    :description ""}
   {:name "Lauku Kūrorts",
@@ -269,7 +269,7 @@
    :latitude 56.718122006775474,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17469",
-   :locality "Kazdanga",
+   :location "Kazdanga",
    :image "",
    :description ""}
   {:name "Laumas Disku Golfa Parks",
@@ -277,7 +277,7 @@
    :latitude 57.37148571121471,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9577",
-   :locality "Īve",
+   :location "Īve",
    :image "",
    :description ""}
   {:name "Laumas Disku golfa Parks - mazā sarkanā trase",
@@ -285,7 +285,7 @@
    :latitude 57.37181310869042,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41031",
-   :locality "Valdemārpils",
+   :location "Valdemārpils",
    :image "",
    :description ""}
   {:name "Lettes",
@@ -293,7 +293,7 @@
    :latitude 56.93063244989753,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14456",
-   :locality "Indrāni",
+   :location "Indrāni",
    :image "",
    :description ""}
   {:name "Lettes 18",
@@ -301,7 +301,7 @@
    :latitude 56.93237660743674,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25576",
-   :locality "Lettes",
+   :location "Lettes",
    :image "",
    :description ""}
   {:name "Lettes 23 LNAT",
@@ -309,7 +309,7 @@
    :latitude 56.930569609533876,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22893",
-   :locality "Indrāni",
+   :location "Indrāni",
    :image "",
    :description ""}
   {:name "Lettes MČ 2023",
@@ -317,7 +317,7 @@
    :latitude 56.931088126957036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35027",
-   :locality "Madonas novads",
+   :location "Madonas novads",
    :image "",
    :description ""}
   {:name "LIMBO disku golfa parks",
@@ -325,7 +325,7 @@
    :latitude 57.50289078016519,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35700",
-   :locality "Limbaži",
+   :location "Limbaži",
    :image "",
    :description ""}
   {:name "Limbo disku golfa parks",
@@ -339,7 +339,7 @@
    :latitude 56.90814899820057,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23346",
-   :locality "Lubāna",
+   :location "Lubāna",
    :image "",
    :description ""}
   {:name "Lēdurgas Dendroparka disku golfa parks (Sarkanā)",
@@ -347,7 +347,7 @@
    :latitude 57.37502851162941,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37560",
-   :locality "Lēdurga",
+   :location "Lēdurga",
    :image "",
    :description ""}
   {:name "Lēdurgas Dendroparka disku golfa parks (Zilā)",
@@ -355,7 +355,7 @@
    :latitude 57.37502851162941,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37555",
-   :locality "Lēdurga",
+   :location "Lēdurga",
    :image "",
    :description ""}
   {:name "LĪGATNES DISKU GOLFA PARKS",
@@ -363,7 +363,7 @@
    :latitude 57.18908308807656,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39426",
-   :locality "Augšlīgatne",
+   :location "Augšlīgatne",
    :image "",
    :description ""}
   {:name "Līvbērze Disc Golf Park",
@@ -371,7 +371,7 @@
    :latitude 56.68992775198336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45538",
-   :locality "Jelgavas Novads",
+   :location "Jelgavas Novads",
    :image "",
    :description ""}
   {:name "Marcis",
@@ -379,7 +379,7 @@
    :latitude 57.42352345340424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35560",
-   :locality "Alūksne",
+   :location "Alūksne",
    :image "",
    :description ""}
   {:name "Meža Golfs Laumas",
@@ -387,7 +387,7 @@
    :latitude 57.37086853664823,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29836",
-   :locality "Laumas",
+   :location "Laumas",
    :image "",
    :description ""}
   {:name "Meža Parka diska golfa laukums",
@@ -395,7 +395,7 @@
    :latitude 57.78215978317698,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43337",
-   :locality "Valka",
+   :location "Valka",
    :image "",
    :description ""}
   {:name "Muiža - DGP Malnova",
@@ -403,7 +403,7 @@
    :latitude 56.776308144957056,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43898",
-   :locality "Malnava",
+   :location "Malnava",
    :image "",
    :description ""}
   {:name "Mārupes disku golfa parks",
@@ -411,7 +411,7 @@
    :latitude 56.87872609647567,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11372",
-   :locality "Mārupe",
+   :location "Mārupe",
    :image "",
    :description ""}
   {:name "NORDCRUNCH disku golfa pagaidu laukums",
@@ -419,7 +419,7 @@
    :latitude 56.60766941439027,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44816",
-   :locality "Nākotne",
+   :location "Nākotne",
    :image "",
    :description ""}
   {:name "NRC “Vaivari” disku golfa parks",
@@ -427,7 +427,7 @@
    :latitude 56.95916702763262,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27653",
-   :locality "Jūrmala",
+   :location "Jūrmala",
    :image "",
    :description ""}
   {:name "Odzienas muiža",
@@ -435,7 +435,7 @@
    :latitude 56.71171947422937,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17720",
-   :locality "Vietalva",
+   :location "Vietalva",
    :image "",
    :description ""}
   {:name "Oskars Kuzins",
@@ -443,7 +443,7 @@
    :latitude 57.529874101910025,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27639",
-   :locality "Valmiera",
+   :location "Valmiera",
    :image "",
    :description ""}
   {:name "Pabažu disku golfa parks",
@@ -451,7 +451,7 @@
    :latitude 57.266049764217996,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34655",
-   :locality "Pabaži",
+   :location "Pabaži",
    :image "",
    :description ""}
   {:name "Pauku Priedes",
@@ -459,7 +459,7 @@
    :latitude 56.64501492761784,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44001",
-   :locality "Latvia Valmiera",
+   :location "Latvia Valmiera",
    :image "",
    :description ""}
   {:name "Piņki",
@@ -481,7 +481,7 @@
    :latitude 57.31140516773331,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33478",
-   :locality "Priekuļi",
+   :location "Priekuļi",
    :image "",
    :description ""}
   {:name "Priekulu",
@@ -489,7 +489,7 @@
    :latitude 57.311606011940114,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43998",
-   :locality "Priekuļi",
+   :location "Priekuļi",
    :image "",
    :description ""}
   {:name "Priekuļi",
@@ -504,7 +504,7 @@
    :latitude 57.31160154328654,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41506",
-   :locality "Priekuļi",
+   :location "Priekuļi",
    :image "",
    :description ""}
   {:name "Priekuļu disku golfa laukums VTDT - Ziemas versija",
@@ -512,7 +512,7 @@
    :latitude 57.31150407256524,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45646",
-   :locality "Priekuļi",
+   :location "Priekuļi",
    :image "",
    :description ""}
   {:name "Priekuļu disku golfa laukums VTDT / 4a; 4b; 15a",
@@ -520,7 +520,7 @@
    :latitude 57.30906849953905,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38050",
-   :locality "Priekuļi",
+   :location "Priekuļi",
    :image "",
    :description ""}
   {:name "Priekuļu VTDT AM",
@@ -535,7 +535,7 @@
    :latitude 56.8797466080043,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35604",
-   :locality "Baloži",
+   :location "Baloži",
    :image "",
    :description ""}
   {:name "Propark",
@@ -550,7 +550,7 @@
    :latitude 56.87822608371232,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44878",
-   :locality "Baloži",
+   :location "Baloži",
    :image "",
    :description ""}
   {:name "PROPARK disku golfa parks Baložos",
@@ -558,7 +558,7 @@
    :latitude 56.877954792446275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26527",
-   :locality "Baloži",
+   :location "Baloži",
    :image "",
    :description ""}
   {:name "Pērkone disku golfa parks",
@@ -566,7 +566,7 @@
    :latitude 56.49577519074012,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15069",
-   :locality "Liepāja",
+   :location "Liepāja",
    :image "",
    :description ""}
   {:name "Pūzurgravas Disku Golfa parks",
@@ -581,7 +581,7 @@
    :latitude 57.16082432326484,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30202",
-   :locality "Strazde",
+   :location "Strazde",
    :image "",
    :description ""}
   {:name "Rezidence Kurzeme PRO (dzeltenā trase)",
@@ -589,7 +589,7 @@
    :latitude 57.160701166340345,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37227",
-   :locality "Strazde",
+   :location "Strazde",
    :image "",
    :description ""}
   {:name "Rojas disku golfa parks (9 grozi)",
@@ -597,7 +597,7 @@
    :latitude 57.4992420039346,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46751",
-   :locality "Roja",
+   :location "Roja",
    :image "",
    :description ""}
   {:name "Sabiles graviņas disku golfa parks",
@@ -613,7 +613,7 @@
    :latitude 57.0480951062971,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43895",
-   :locality "Sabile",
+   :location "Sabile",
    :image "",
    :description ""}
   {:name "Salaspils Ako",
@@ -621,7 +621,7 @@
    :latitude 56.84365463175564,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30598",
-   :locality "Salaspils pagasts",
+   :location "Salaspils pagasts",
    :image "",
    :description ""}
   {:name "Salaspils disku golfa parks",
@@ -629,7 +629,7 @@
    :latitude 56.843651793238195,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30736",
-   :locality "Salaspils pagasts",
+   :location "Salaspils pagasts",
    :image "",
    :description ""}
   {:name "Skolas trase (19 holes)",
@@ -637,7 +637,7 @@
    :latitude 56.9055928,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12124",
-   :locality "Ērgļi",
+   :location "Ērgļi",
    :image "",
    :description ""}
   {:name "Stāķu parks",
@@ -645,7 +645,7 @@
    :latitude 57.12947247156467,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14633",
-   :locality "Stradu pagasts",
+   :location "Stradu pagasts",
    :image "",
    :description ""}
   {:name "Talsi",
@@ -653,7 +653,7 @@
    :latitude 57.23839054308979,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42578",
-   :locality "Talsi",
+   :location "Talsi",
    :image "",
    :description ""}
   {:name "Tukuma trase.",
@@ -675,7 +675,7 @@
    :latitude 56.96294492813908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45865",
-   :locality "Tukums",
+   :location "Tukums",
    :image "",
    :description ""}
   {:name "Turlavas disku golfa parks",
@@ -683,7 +683,7 @@
    :latitude 56.83186119353911,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33673",
-   :locality "Turlava",
+   :location "Turlava",
    :image "",
    :description ""}
   {:name "Ungurpils parks",
@@ -691,7 +691,7 @@
    :latitude 57.7723916629277,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17734",
-   :locality "Alojas pagasts",
+   :location "Alojas pagasts",
    :image "",
    :description ""}
   {:name "Upes ielas parks",
@@ -699,7 +699,7 @@
    :latitude 56.60348843738896,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33647",
-   :locality "Vecumnieki",
+   :location "Vecumnieki",
    :image "",
    :description ""}
   {:name "Vaidava",
@@ -707,7 +707,7 @@
    :latitude 57.43297116050556,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39197",
-   :locality "Vaidava",
+   :location "Vaidava",
    :image "",
    :description ""}
   {:name "Vaidavas disku golfa parks",
@@ -715,7 +715,7 @@
    :latitude 57.433036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8269",
-   :locality "Vaidava",
+   :location "Vaidava",
    :image "",
    :description ""}
   {:name "Valka läti discgolfi rada",
@@ -723,7 +723,7 @@
    :latitude 57.782213737455976,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47089",
-   :locality "Valka",
+   :location "Valka",
    :image "",
    :description ""}
   {:name "Valmieras viestura viduskola",
@@ -738,7 +738,7 @@
    :latitude 57.54979070685579,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43725",
-   :locality "Valmiera",
+   :location "Valmiera",
    :image "",
    :description ""}
   {:name "Velogarāža",
@@ -746,7 +746,7 @@
    :latitude 58.926028487387754,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21218",
-   :locality "Talsi",
+   :location "Talsi",
    :image "",
    :description ""}
   {:name "Ventspils Disku Golfa Parks",
@@ -754,7 +754,7 @@
    :latitude 57.374162183327314,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39684",
-   :locality "Ventspils",
+   :location "Ventspils",
    :image "",
    :description ""}
   {:name "Viesturu vidusskolas disku golfa parks",
@@ -762,7 +762,7 @@
    :latitude 57.54967272640576,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31699",
-   :locality "Valmiera",
+   :location "Valmiera",
    :image "",
    :description ""}
   {:name "Vtdt",
@@ -770,7 +770,7 @@
    :latitude 57.31319110984353,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27530",
-   :locality "Priekuļi",
+   :location "Priekuļi",
    :image "",
    :description ""}
   {:name "Zaķumuižas disku golfa parks",
@@ -778,7 +778,7 @@
    :latitude 56.96964907493671,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20047",
-   :locality "Ropaži",
+   :location "Ropaži",
    :image "",
    :description ""}
   {:name "Zaķusala",
@@ -793,7 +793,7 @@
    :latitude 56.92988108561167,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40741",
-   :locality "Riga",
+   :location "Riga",
    :image "",
    :description ""}
   {:name "Zibeņi",
@@ -801,7 +801,7 @@
    :latitude 57.00875105793412,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37607",
-   :locality "Rīga",
+   :location "Rīga",
    :image "",
    :description ""}
   {:name "Ziedoņi",
@@ -809,7 +809,7 @@
    :latitude 56.412628,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34652",
-   :locality "Rundāles pagasts",
+   :location "Rundāles pagasts",
    :image "",
    :description ""}
   {:name "Zīdūņs - DGP Malnova",
@@ -817,7 +817,7 @@
    :latitude 56.77383860697665,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44011",
-   :locality "Malnava",
+   :location "Malnava",
    :image "",
    :description ""}
   {:name "ZŪRAS",
@@ -825,7 +825,7 @@
    :latitude 57.255107487852825,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27648",
-   :locality "Vārve",
+   :location "Vārve",
    :image "",
    :description ""}
   {:name "ĀBVS disku golfa parciņš",
@@ -833,7 +833,7 @@
    :latitude 57.07610889902705,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31375",
-   :locality "Ādaži",
+   :location "Ādaži",
    :image "",
    :description ""}
   {:name "ĒRGĻU GAISA SPĒKI (white)",
@@ -841,7 +841,7 @@
    :latitude 56.87769,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6960",
-   :locality "Ērgļi",
+   :location "Ērgļi",
    :image "",
    :description ""}
   {:name "Ķeguma Skolas disku golfa laukums",
@@ -849,7 +849,7 @@
    :latitude 56.74735907223803,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24666",
-   :locality "Ķegums",
+   :location "Ķegums",
    :image "",
    :description ""}
   {:name "Ļaudona_GRIEZE",
@@ -857,7 +857,7 @@
    :latitude 56.70360739455859,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39014",
-   :locality "Ļaudona",
+   :location "Ļaudona",
    :image "",
    :description ""}],
  :source

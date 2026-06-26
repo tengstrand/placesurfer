@@ -14,7 +14,7 @@
    :longitude 12.5130671,
    :latitude 43.9906508,
    :source :openstreetmap,
-   :locality "Falciano",
+   :location "Falciano",
    :image "",
    :description ""}
   {:name "Museo Armi Moderne",

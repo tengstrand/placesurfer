@@ -8,7 +8,7 @@
    :longitude 173.1207258,
    :latitude 1.3657276,
    :source :openstreetmap,
-   :locality "Bikenibeu"}],
+   :location "Bikenibeu"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

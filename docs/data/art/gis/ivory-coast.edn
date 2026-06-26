@@ -12,7 +12,7 @@
    :longitude -5.0267399,
    :latitude 7.6793237,
    :source :openstreetmap,
-   :locality "Bouaké"}
+   :location "Bouaké"}
   {:name "Centre artistique de Korhogo",
    :longitude -5.6349014,
    :latitude 9.4499971,
@@ -41,7 +41,7 @@
    :longitude -5.4160615,
    :latitude 6.3800337,
    :source :openstreetmap,
-   :locality "Oumé"}
+   :location "Oumé"}
   {:name "Centre de la Culture Jean Baptiste Mockey de Grand-Bassam",
    :longitude -3.7320359,
    :latitude 5.1961795,
@@ -75,7 +75,7 @@
    :longitude -3.9895473,
    :latitude 5.3640475,
    :source :openstreetmap,
-   :locality "Cocody"}
+   :location "Cocody"}
   {:name "Institut français",
    :longitude -4.008475,
    :latitude 5.3341165,
@@ -97,7 +97,7 @@
    :longitude -3.9935541,
    :latitude 5.3586901,
    :source :openstreetmap,
-   :locality "Cocody"}
+   :location "Cocody"}
   {:name "Marché D'Art",
    :longitude -3.9885111,
    :latitude 5.2958828,
@@ -123,7 +123,7 @@
    :longitude -3.7369216,
    :latitude 5.1961359,
    :source :openstreetmap,
-   :locality "Grand Bassam"}
+   :location "Grand Bassam"}
   {:name "peinture naturelle sur toile",
    :longitude -5.4905527,
    :latitude 9.2955217,

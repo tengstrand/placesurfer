@@ -16,17 +16,17 @@
    :longitude -87.6518042,
    :latitude 13.2932364,
    :source :openstreetmap,
-   :locality "Amapala"}
+   :location "Amapala"}
   {:name "Casa De La Cultura",
    :longitude -87.6832415,
    :latitude 14.3267683,
    :source :openstreetmap,
-   :locality "La Paz"}
+   :location "La Paz"}
   {:name "Casa de la Cultura",
    :longitude -87.0811682,
    :latitude 14.4013616,
    :source :openstreetmap,
-   :locality "Talanga"}
+   :location "Talanga"}
   {:name "Casa de la Cultura",
    :longitude -87.6412378,
    :latitude 14.4596162,
@@ -35,22 +35,22 @@
    :longitude -88.1106872,
    :latitude 14.0943235,
    :source :openstreetmap,
-   :locality "Santa Elena"}
+   :location "Santa Elena"}
   {:name "Casa de la Cultura Ceibeña",
    :longitude -86.7938794,
    :latitude 15.7887915,
    :source :openstreetmap,
-   :locality "La Ceiba"}
+   :location "La Ceiba"}
   {:name "Casa de la Cultura José María Leiva",
    :longitude -88.2358813,
    :latitude 14.9180211,
    :source :openstreetmap,
-   :locality "Santa Bárbara"}
+   :location "Santa Bárbara"}
   {:name "Casa Fortín",
    :longitude -86.8527696,
    :latitude 13.9438066,
    :source :openstreetmap,
-   :locality "Yuscarán"}
+   :location "Yuscarán"}
   {:name "Casa Galeano",
    :longitude -88.5833774,
    :latitude 14.5856141,
@@ -64,17 +64,17 @@
    :latitude 14.1040647,
    :source :openstreetmap,
    :homepage "https://ccetegucigalpa.org/",
-   :locality "Tegucigalpa"}
+   :location "Tegucigalpa"}
   {:name "Centro de Cultura Popular Lic. Ismael Hernández Redondo",
    :longitude -87.4522372,
    :latitude 15.7838121,
    :source :openstreetmap,
-   :locality "Tela"}
+   :location "Tela"}
   {:name "Chiminike - Museo de los Niños",
    :longitude -87.2029199,
    :latitude 14.0716292,
    :source :openstreetmap,
-   :locality "Tegucigalpa"}
+   :location "Tegucigalpa"}
   {:name "Coxen Cafe",
    :longitude -86.5964288,
    :latitude 16.2830128,
@@ -83,7 +83,7 @@
    :longitude -87.2071485,
    :latitude 14.0987088,
    :source :openstreetmap,
-   :locality "Comayaguela"}
+   :location "Comayaguela"}
   {:name "Fundación Cayos Cochinos",
    :longitude -86.5002783,
    :latitude 15.9528115,
@@ -100,7 +100,7 @@
    :longitude -88.0236898,
    :latitude 15.5080549,
    :source :openstreetmap,
-   :locality "San Pedro Sula"}
+   :location "San Pedro Sula"}
   {:name "Museo de Arqueología",
    :longitude -89.1558297,
    :latitude 14.838543,
@@ -117,7 +117,7 @@
    :longitude -87.8113046,
    :latitude 15.4000523,
    :source :openstreetmap,
-   :locality "El Progreso"}
+   :location "El Progreso"}
   {:name "Museo de Historia Militar",
    :longitude -87.2022137,
    :latitude 14.1056568,
@@ -126,7 +126,7 @@
    :longitude -87.2063337,
    :latitude 14.1123946,
    :source :openstreetmap,
-   :locality "Tegucigalpa"}
+   :location "Tegucigalpa"}
   {:name "Museo del Aire",
    :longitude -87.2163166,
    :latitude 14.0538951,
@@ -135,7 +135,7 @@
    :longitude -88.0347436,
    :latitude 15.4793632,
    :source :openstreetmap,
-   :locality "San Pedro Sula"}
+   :location "San Pedro Sula"}
   {:name "Museo Ferroviario",
    :longitude -87.8101663,
    :latitude 15.3942748,
@@ -148,17 +148,17 @@
    :longitude -86.5677979,
    :latitude 14.0309015,
    :source :openstreetmap,
-   :locality "Danlí"}
+   :location "Danlí"}
   {:name "Museo para la Identidad Nacional",
    :longitude -87.2081046,
    :latitude 14.106774,
    :source :openstreetmap,
-   :locality "Tegucigalpa"}
+   :location "Tegucigalpa"}
   {:name "Museo San Fernando de Omoa",
    :longitude -88.0396758,
    :latitude 15.7780753,
    :source :openstreetmap,
-   :locality "Omoa"}
+   :location "Omoa"}
   {:name "Museo y Piscinas Naturales Riveras del Pedregal",
    :longitude -85.9591576,
    :latitude 15.9125764,

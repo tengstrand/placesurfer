@@ -12,7 +12,7 @@
    :longitude 25.9197043,
    :latitude -24.6568021,
    :source :openstreetmap,
-   :locality "Gaborone"}
+   :location "Gaborone"}
   {:name "Douma's Crocodile Farm",
    :longitude 27.4741331,
    :latitude -21.1014698,
@@ -25,12 +25,12 @@
    :longitude 25.1484338,
    :latitude -17.80417,
    :source :openstreetmap,
-   :locality "Kasane"}
+   :location "Kasane"}
   {:name "Kgosi Bathoen II Museum",
    :longitude 25.3404664,
    :latitude -24.9825093,
    :source :openstreetmap,
-   :locality "Kanye"}
+   :location "Kanye"}
   {:name "Khama III Memorial Museum",
    :longitude 26.7080896,
    :latitude -22.3821068,
@@ -55,7 +55,7 @@
    :longitude 21.9449721,
    :latitude -21.5198599,
    :source :openstreetmap,
-   :locality "D'kar"}
+   :location "D'kar"}
   {:name "SISO Afro Gallery",
    :longitude 23.4205378,
    :latitude -19.9804094,
@@ -73,7 +73,7 @@
    :latitude -19.9426741,
    :source :openstreetmap,
    :homepage "https://thespacebotswana.com",
-   :locality "Maun"}],
+   :location "Maun"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

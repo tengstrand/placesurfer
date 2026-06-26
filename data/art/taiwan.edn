@@ -9,14 +9,14 @@
    :latitude 22.9920108,
    :source :openstreetmap,
    :homepage "http://taiwanwarship.tainan.gov.tw/",
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "19臻味茶苑",
    :longitude 121.5284334,
    :latitude 25.0334002,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "235環境教育綠能生活館",
@@ -30,7 +30,7 @@
    :latitude 25.0557372,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/TwoThreeComedy/",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "768藝術空間",
@@ -75,7 +75,7 @@
    :latitude 25.0443214,
    :source :openstreetmap,
    :homepage "https://d-art.tw",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "Dream Community",
@@ -83,7 +83,7 @@
    :latitude 25.0695785,
    :source :openstreetmap,
    :homepage "https://www.workaway.info/218947653121-en.html",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "Empress Gallery",
@@ -108,7 +108,7 @@
    :longitude 121.5502721,
    :latitude 25.0279353,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "PAGE CAFE台東故事館",
@@ -122,14 +122,14 @@
    :latitude 24.606368,
    :source :openstreetmap,
    :homepage "http://taximuseum.com/",
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "一滴水紀念館",
    :longitude 121.4309079,
    :latitude 25.1781966,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "七星潭遊客藝文中心",
@@ -162,7 +162,7 @@
    :latitude 24.1540103,
    :source :openstreetmap,
    :homepage "https://www.base02.com/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "世界警察博物館",
@@ -182,7 +182,7 @@
    :latitude 24.0125126,
    :source :openstreetmap,
    :homepage "http://www.ctwm.org.tw/",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "中山藝文廊",
@@ -197,7 +197,7 @@
    :latitude 25.0346367,
    :source :openstreetmap,
    :homepage "https://www.cksmh.gov.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "中正藝文廊",
@@ -212,7 +212,7 @@
    :latitude 24.6943081,
    :source :openstreetmap,
    :homepage "https://chccp.e-land.gov.tw/",
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "中華民國六房媽會文博館籌備處",
@@ -238,7 +238,7 @@
    :latitude 24.0425689,
    :source :openstreetmap,
    :homepage "http://www.921emt.edu.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "九份金礦博物館",
@@ -254,7 +254,7 @@
    :source :openstreetmap,
    :homepage
    "http://archives.lib.ntnu.edu.tw/liangshihchiu/ug-501.jsp",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "九族文化博物館",
@@ -291,14 +291,14 @@
    :longitude 121.7746442,
    :latitude 24.705423,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "于彭（巫坤任）藝術紀念館",
    :longitude 121.5340177,
    :latitude 25.0978444,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "亞洲大學附屬現代美術館",
@@ -306,7 +306,7 @@
    :latitude 24.0470694,
    :source :openstreetmap,
    :homepage "https://asiamodern.asia.edu.tw/",
-   :locality "台中市",
+   :location "台中市",
    :image "",
    :description ""}
   {:name "他里霧文化園區",
@@ -320,7 +320,7 @@
    :latitude 24.1556556,
    :source :openstreetmap,
    :homepage "https://yiriarts.com.tw/",
-   :locality "台中市",
+   :location "台中市",
    :image "",
    :description ""}
   {:name "佛光緣美術館",
@@ -333,7 +333,7 @@
    :longitude 121.5789421,
    :latitude 25.04863,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "佛光緣美術館台中分館",
@@ -341,14 +341,14 @@
    :latitude 24.1490017,
    :source :openstreetmap,
    :homepage "http://fgsarts.fgs.org.tw/taiwan/taichung",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "佛圖館",
    :longitude 120.3042861,
    :latitude 22.6779715,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "來義鄉原住民文物館",
@@ -356,14 +356,14 @@
    :latitude 22.4345689,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/laiyi1000105",
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "俞大維紀念館",
    :longitude 118.4314893,
    :latitude 24.4430009,
    :source :openstreetmap,
-   :locality "金門縣",
+   :location "金門縣",
    :image "",
    :description ""}
   {:name "信不信由你搜奇博物館",
@@ -371,7 +371,7 @@
    :latitude 25.1685281,
    :source :openstreetmap,
    :homepage "https://www.zhenqi99.com/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "信義梅子夢工廠",
@@ -402,7 +402,7 @@
    :longitude 121.5635088,
    :latitude 25.0790787,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "僑鄉文化展示館",
@@ -428,21 +428,21 @@
    :latitude 24.0577825,
    :source :openstreetmap,
    :homepage "http://www.klmm.com.tw/",
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "克朗德美術館",
    :longitude 120.2875771,
    :latitude 22.622473,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "兒童科學館",
    :longitude 120.2114375,
    :latitude 23.0035991,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "兒美館",
@@ -456,7 +456,7 @@
    :latitude 24.7062133,
    :source :openstreetmap,
    :homepage "https://hsinchu.forest.gov.tw/culture",
-   :locality "新竹縣",
+   :location "新竹縣",
    :image "",
    :description ""}
   {:name "八塊厝民俗藝術村",
@@ -487,7 +487,7 @@
    :longitude 120.2887818,
    :latitude 22.6926674,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "凱達格蘭文化館",
@@ -495,21 +495,21 @@
    :latitude 25.1371211,
    :source :openstreetmap,
    :homepage "http://www.ketagalan.taipei.gov.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "利澤國際偶戲藝術村",
    :longitude 121.8233994,
    :latitude 24.6677565,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "前國防管理學院中正堂",
    :longitude 121.4763243,
    :latitude 25.0008579,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "創媒藝廊",
@@ -522,7 +522,7 @@
    :longitude 121.5866759,
    :latitude 23.9449798,
    :source :openstreetmap,
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "勝大莊",
@@ -530,7 +530,7 @@
    :latitude 25.041961,
    :source :openstreetmap,
    :homepage "https://www.drnh.gov.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "勞工博物館",
@@ -538,7 +538,7 @@
    :latitude 22.6270361,
    :source :openstreetmap,
    :homepage "http://museum_new.kcg.gov.tw/index.php",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "勞工安全衛生展示館",
@@ -558,7 +558,7 @@
    :latitude 25.0245669,
    :source :openstreetmap,
    :homepage "https://montue.ntue.edu.tw/",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "北投文物館",
@@ -566,14 +566,14 @@
    :latitude 25.1380926,
    :source :openstreetmap,
    :homepage "https://www.beitoumuseum.org.tw/",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "北斗郡守官舍",
    :longitude 120.5247782,
    :latitude 23.8758684,
    :source :openstreetmap,
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "北港文化中心",
@@ -586,7 +586,7 @@
    :longitude 120.7215723,
    :latitude 24.2606175,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "北火時光廊",
@@ -599,7 +599,7 @@
    :longitude 120.3619057,
    :latitude 22.631197,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "區域探索館",
@@ -612,7 +612,7 @@
    :longitude 121.2392918,
    :latitude 24.8361557,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "十三姨古美術館",
@@ -620,7 +620,7 @@
    :latitude 24.9456046,
    :source :openstreetmap,
    :homepage "http://www.facebook.com/beta13i/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "十三行博物館",
@@ -628,7 +628,7 @@
    :latitude 25.157026,
    :source :openstreetmap,
    :homepage "https://www.sshm.ntpc.gov.tw/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "十字藝廊",
@@ -642,14 +642,14 @@
    :longitude 120.2284836,
    :latitude 23.0037628,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "卑南遺址公園 展示廳",
    :longitude 121.1164847,
    :latitude 22.793908,
    :source :openstreetmap,
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "南屯麻芛文化館",
@@ -686,7 +686,7 @@
    :longitude 120.3585841,
    :latitude 23.3592743,
    :source :openstreetmap,
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "卡樂藝文空間",
@@ -705,7 +705,7 @@
    :longitude 121.2822468,
    :latitude 24.8960674,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "原住民文化歷史館",
@@ -748,7 +748,7 @@
    :longitude 120.6883566,
    :latitude 23.7584189,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "古笨港考古園區",
@@ -761,7 +761,7 @@
    :longitude 120.7423289,
    :latitude 24.1172339,
    :source :openstreetmap,
-   :locality "台中市",
+   :location "台中市",
    :image "",
    :description ""}
   {:name "台中文學公園",
@@ -769,7 +769,7 @@
    :latitude 24.1396747,
    :source :openstreetmap,
    :homepage "https://www.tlm.taichung.gov.tw/Eng/index.aspx",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "台北原住民當代藝術中心",
@@ -797,7 +797,7 @@
    :latitude 25.0374227,
    :source :openstreetmap,
    :homepage "http://discovery.gov.taipei",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "台北當代藝術中心",
@@ -805,7 +805,7 @@
    :latitude 25.0599286,
    :source :openstreetmap,
    :homepage "https://www.museum207.org/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "台南市文化中心",
@@ -813,7 +813,7 @@
    :latitude 22.9745075,
    :source :openstreetmap,
    :homepage "http://www.tmcc.gov.tw/",
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "台南文化創意產業園區",
@@ -832,7 +832,7 @@
    :longitude 120.1876516,
    :latitude 23.0451951,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "台江鯨豚館",
@@ -845,7 +845,7 @@
    :longitude 121.7519444,
    :latitude 24.3000471,
    :source :openstreetmap,
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "台灣不二衛生套知識館",
@@ -853,7 +853,7 @@
    :latitude 25.1986138,
    :source :openstreetmap,
    :homepage "https://www.fujicondom.com/center/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "台灣創價學會創價美術館",
@@ -861,7 +861,7 @@
    :latitude 22.7243082,
    :source :openstreetmap,
    :homepage "https://www.sokaculture.org.tw/art-centers",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "台灣國際創價學會大溪文化中心",
@@ -881,28 +881,28 @@
    :latitude 24.1397387,
    :source :openstreetmap,
    :homepage "https://www.sunnycake.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "台灣意象書法館",
    :longitude 120.4677437,
    :latitude 23.3845339,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "台灣戲劇館",
    :longitude 121.7452868,
    :latitude 24.749166,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "台灣木材故事館",
    :longitude 120.5035648,
    :latitude 23.3370731,
    :source :openstreetmap,
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "台灣檜木博物館",
@@ -916,7 +916,7 @@
    :latitude 24.2474576,
    :source :openstreetmap,
    :homepage "https://www.prolloon.com.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "台灣油礦陳列館",
@@ -929,7 +929,7 @@
    :longitude 120.123649,
    :latitude 23.2696093,
    :source :openstreetmap,
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "台灣癌症博物館",
@@ -942,7 +942,7 @@
    :longitude 121.7653635,
    :latitude 24.7080322,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "台灣糖業博物館",
@@ -951,7 +951,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.taisugar.com.tw/chinese/CP.aspx?s=360&n=10468",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "台灣花磚古厝",
@@ -959,21 +959,21 @@
    :latitude 23.4833387,
    :source :openstreetmap,
    :homepage "https://www.1920t.com/",
-   :locality "嘉義市",
+   :location "嘉義市",
    :image "",
    :description ""}
   {:name "台灣菇類文化館",
    :longitude 120.6981021,
    :latitude 24.0650089,
    :source :openstreetmap,
-   :locality "台中市",
+   :location "台中市",
    :image "",
    :description ""}
   {:name "台灣螺絲博物館",
    :longitude 120.287072,
    :latitude 22.8016831,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "台灣電力公司展示館",
@@ -987,7 +987,7 @@
    :latitude 25.0118149,
    :source :openstreetmap,
    :homepage "https://tdiscovery.thsrc.com.tw/",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "台積創新館",
@@ -995,7 +995,7 @@
    :latitude 24.77394,
    :source :openstreetmap,
    :homepage "https://www.tsmcmoi.com/",
-   :locality "新竹市",
+   :location "新竹市",
    :image "",
    :description ""}
   {:name "台西海口生活館",
@@ -1009,14 +1009,14 @@
    :latitude 25.2065571,
    :source :openstreetmap,
    :homepage "http://wapp4.taipower.com.tw/nsis/north/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "台電金水基地",
    :longitude 121.8607419,
    :latitude 25.1227353,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "史料文獻館",
@@ -1054,21 +1054,21 @@
    :longitude 120.770354,
    :latitude 24.5246531,
    :source :openstreetmap,
-   :locality "苗栗縣",
+   :location "苗栗縣",
    :image "",
    :description ""}
   {:name "呂美麗精雕藝術館",
    :longitude 121.7838561,
    :latitude 24.8155033,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "和窯文創園區",
    :longitude 121.17071,
    :latitude 24.8505957,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "咖希",
@@ -1082,14 +1082,14 @@
    :longitude 121.2934346,
    :latitude 24.9865569,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "喵玩藝美術屋",
    :longitude 121.3686171,
    :latitude 24.9361991,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "嘉義市史蹟資料館",
@@ -1109,7 +1109,7 @@
    :latitude 23.5213167,
    :source :openstreetmap,
    :homepage "https://event.ttl.com.tw/cy/",
-   :locality "嘉義縣",
+   :location "嘉義縣",
    :image "",
    :description ""}
   {:name "嘉義鐵道藝術村",
@@ -1131,7 +1131,7 @@
    :latitude 23.9365486,
    :source :openstreetmap,
    :homepage "https://www.th.gov.tw/",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "國家廣播文物館",
@@ -1144,7 +1144,7 @@
    :longitude 121.3741145,
    :latitude 25.073448,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "國家漫畫博物館",
@@ -1152,7 +1152,7 @@
    :latitude 24.1338598,
    :source :openstreetmap,
    :homepage "https://www.ntmc.gov.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "國家鐵道博物館籌備處",
@@ -1160,7 +1160,7 @@
    :latitude 25.0474009,
    :source :openstreetmap,
    :homepage "http://www.pact.org.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "國家電影及視聽文化中心",
@@ -1168,7 +1168,7 @@
    :latitude 25.0562482,
    :source :openstreetmap,
    :homepage "https://www.tfai.org.tw/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "國巨洋傘文創園區",
@@ -1176,7 +1176,7 @@
    :latitude 25.0679723,
    :source :openstreetmap,
    :homepage "https://www.yamaiji-umbrella.com/",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "國父紀念館",
@@ -1184,7 +1184,7 @@
    :latitude 25.0400096,
    :source :openstreetmap,
    :homepage "https://www.yatsen.gov.tw/",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "國立台灣工藝研究發展中心",
@@ -1192,7 +1192,7 @@
    :latitude 23.9801352,
    :source :openstreetmap,
    :homepage "https://www.ntcri.gov.tw/",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "國立彰化生活美學館",
@@ -1200,14 +1200,14 @@
    :latitude 24.0767939,
    :source :openstreetmap,
    :homepage "http://www.chcsec.gov.tw/home",
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "國立成功大學博物館",
    :longitude 120.2196291,
    :latitude 22.9967342,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "國立故宮博物院",
@@ -1215,7 +1215,7 @@
    :latitude 25.1015788,
    :source :openstreetmap,
    :homepage "https://www.npm.gov.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "國立故宮博物院南部院區",
@@ -1223,7 +1223,7 @@
    :latitude 23.4738433,
    :source :openstreetmap,
    :homepage "https://south.npm.gov.tw/",
-   :locality "嘉義縣",
+   :location "嘉義縣",
    :image "",
    :description ""}
   {:name "國立海洋生物博物館",
@@ -1231,7 +1231,7 @@
    :latitude 22.0455421,
    :source :openstreetmap,
    :homepage "https://www.nmmba.gov.tw/",
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "國立海洋科技博物館",
@@ -1239,7 +1239,7 @@
    :latitude 25.1425754,
    :source :openstreetmap,
    :homepage "https://www.nmmst.gov.tw/",
-   :locality "基隆市",
+   :location "基隆市",
    :image "",
    :description ""}
   {:name "國立科學工藝博物館",
@@ -1247,21 +1247,21 @@
    :latitude 22.6416174,
    :source :openstreetmap,
    :homepage "https://www.nstm.gov.tw/",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "國立科學工藝博物館 南館",
    :longitude 120.3218699,
    :latitude 22.6385551,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "國立臺灣史前博物館南科考古館",
    :longitude 120.2837115,
    :latitude 23.1009336,
    :source :openstreetmap,
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "國立臺灣史前文化博物館",
@@ -1269,7 +1269,7 @@
    :latitude 22.7605362,
    :source :openstreetmap,
    :homepage "https://www.nmp.gov.tw/",
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "國立臺灣歷史博物館",
@@ -1277,7 +1277,7 @@
    :latitude 23.0583124,
    :source :openstreetmap,
    :homepage "https://www.nmth.gov.tw",
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "國立臺灣美術館",
@@ -1285,28 +1285,28 @@
    :latitude 24.1415026,
    :source :openstreetmap,
    :homepage "https://www.ntmofa.gov.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "土城藝文館",
    :longitude 121.4430004,
    :latitude 24.9730175,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "土牛客家文化館",
    :longitude 120.8095168,
    :latitude 24.2652214,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "地耕味-玩味蕃樂園",
    :longitude 121.6086773,
    :latitude 24.0716987,
    :source :openstreetmap,
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "地雷主題館",
@@ -1328,7 +1328,7 @@
    :source :openstreetmap,
    :homepage
    "https://pinglin.tpcgo.org.tw/_file/2549/upload/tea/index.html",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "基隆市原住民文化會館",
@@ -1336,14 +1336,14 @@
    :latitude 25.1537034,
    :source :openstreetmap,
    :homepage "http://keelungich.blogspot.tw/",
-   :locality "基隆市",
+   :location "基隆市",
    :image "",
    :description ""}
   {:name "基隆文化中心",
    :longitude 121.7440743,
    :latitude 25.131374,
    :source :openstreetmap,
-   :locality "基隆市",
+   :location "基隆市",
    :image "",
    :description ""}
   {:name "基隆要塞司令部(博物館)",
@@ -1356,7 +1356,7 @@
    :longitude 121.2221931,
    :latitude 24.9534627,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "壹號館",
@@ -1364,7 +1364,7 @@
    :latitude 24.8834998,
    :source :openstreetmap,
    :homepage "http://wem.tyccc.gov.tw/main/index.aspx",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "多力米故事館",
@@ -1373,7 +1373,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.pioneeringeastriftvalleygranaryfestivities.com.tw/?p=4768",
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "夢想館",
@@ -1393,7 +1393,7 @@
    :longitude 121.5215226,
    :latitude 25.0645887,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "大園尖山考古展示館",
@@ -1402,7 +1402,7 @@
    :source :openstreetmap,
    :homepage
    "https://tmofa.tycg.gov.tw/ch?fbclid=IwAR3ulfx7lDInU-cKFgRgNbzFsGTBW9J1iV4l0eqIx8MbUa2r6u3aCkqiS_o",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "大城演藝廳",
@@ -1415,7 +1415,7 @@
    :longitude 120.4136808,
    :latitude 23.6305658,
    :source :openstreetmap,
-   :locality "雲林縣",
+   :location "雲林縣",
    :image "",
    :description ""}
   {:name "大寮茶文館",
@@ -1423,7 +1423,7 @@
    :latitude 24.909222,
    :source :openstreetmap,
    :homepage "https://www.ttch.com.tw/index.php?categoryid=349",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "大專集訓歷史館",
@@ -1436,7 +1436,7 @@
    :longitude 120.8669714,
    :latitude 24.425026,
    :source :openstreetmap,
-   :locality "苗栗縣",
+   :location "苗栗縣",
    :image "",
    :description ""}
   {:name "大美無言藝術空間",
@@ -1444,21 +1444,21 @@
    :latitude 24.1602901,
    :source :openstreetmap,
    :homepage "http://www.dmwe.com.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "大觀藝術空間",
    :longitude 121.5531458,
    :latitude 25.0817235,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "大陳故事館",
    :longitude 120.3278404,
    :latitude 22.8394078,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "天仁茶文化館",
@@ -1489,14 +1489,14 @@
    :longitude 120.3397898,
    :latitude 23.4516933,
    :source :openstreetmap,
-   :locality "嘉義縣",
+   :location "嘉義縣",
    :image "",
    :description ""}
   {:name "太平洋自行車博物館",
    :longitude 121.0323669,
    :latitude 24.9862548,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "奇美博物館",
@@ -1504,7 +1504,7 @@
    :latitude 22.9344726,
    :source :openstreetmap,
    :homepage "https://www.chimeimuseum.org/",
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "奇美原住民文物館",
@@ -1531,7 +1531,7 @@
    :source :openstreetmap,
    :homepage
    "http://culturalvolunteer.tchac.taichung.gov.tw/public/1-2.asp?viid=1&proid=20120612201758",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "孫運璿科技．人文紀念館",
@@ -1539,7 +1539,7 @@
    :latitude 25.0335779,
    :source :openstreetmap,
    :homepage "http://www.sysmm.org",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "孫雅各牧師紀念館",
@@ -1565,14 +1565,14 @@
    :latitude 22.998357,
    :source :openstreetmap,
    :homepage "https://www.butterflylove.com.tw/",
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "安平蚵灰窯文化館",
    :longitude 120.1651274,
    :latitude 23.0022299,
    :source :openstreetmap,
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "宜蘭文學館",
@@ -1585,7 +1585,7 @@
    :longitude 121.1637664,
    :latitude 25.0018919,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "客家文化園區",
@@ -1594,7 +1594,7 @@
    :source :openstreetmap,
    :homepage
    "https://tour.taitung.gov.tw/zh-tw/attraction/details/493",
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "家俱博物館",
@@ -1619,7 +1619,7 @@
    :longitude 120.8479412,
    :latitude 24.2555146,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "寶町藝文中心",
@@ -1627,14 +1627,14 @@
    :latitude 22.7579684,
    :source :openstreetmap,
    :homepage "https://tour.taitung.gov.tw/",
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "小丑魚主題館",
    :longitude 121.3808958,
    :latitude 23.0983583,
    :source :openstreetmap,
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "小林平埔族群文物館",
@@ -1653,7 +1653,7 @@
    :longitude 121.5151934,
    :latitude 25.0744827,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "小門地質探索館",
@@ -1666,7 +1666,7 @@
    :longitude 120.5428647,
    :latitude 22.5503772,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "屏東熱帶農業博覽會",
@@ -1679,28 +1679,28 @@
    :longitude 120.5024732,
    :latitude 22.6781696,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "屏東縣客家文物館",
    :longitude 120.5232447,
    :latitude 22.6182384,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "屏東縣王船文化館",
    :longitude 120.4600313,
    :latitude 22.463793,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "屏東縣鄉土藝術館",
    :longitude 120.5072048,
    :latitude 22.6731735,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "屏東美術館",
@@ -1713,7 +1713,7 @@
    :longitude 120.4771249,
    :latitude 22.677049,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "山隴排練場",
@@ -1744,7 +1744,7 @@
    :longitude 121.2902638,
    :latitude 24.9418642,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "市立兒童美術館",
@@ -1764,7 +1764,7 @@
    :longitude 121.5110512,
    :latitude 24.9981275,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "帝國製糖廠臺中營業所",
@@ -1772,7 +1772,7 @@
    :latitude 24.1377737,
    :source :openstreetmap,
    :homepage "https://facebook.com/atsugarstudio",
-   :locality "台中市",
+   :location "台中市",
    :image "",
    :description ""}
   {:name "平溪煤礦博物館",
@@ -1786,7 +1786,7 @@
    :latitude 25.0269655,
    :source :openstreetmap,
    :homepage "http://twhwmuseum.thb.gov.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "張雨生故事館",
@@ -1805,7 +1805,7 @@
    :longitude 120.5458437,
    :latitude 24.0775097,
    :source :openstreetmap,
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "後山水起水資源文物館",
@@ -1825,7 +1825,7 @@
    :longitude 121.5264117,
    :latitude 25.1071261,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "德鴻畫廊",
@@ -1833,21 +1833,21 @@
    :latitude 22.9930803,
    :source :openstreetmap,
    :homepage "https://www.derhorng.com/",
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "心雕居",
    :longitude 120.6449694,
    :latitude 24.4550225,
    :source :openstreetmap,
-   :locality "苗栗縣",
+   :location "苗栗縣",
    :image "",
    :description ""}
   {:name "志生紀念館",
    :longitude 121.5221053,
    :latitude 25.0676412,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "忠孝復興藝文廊",
@@ -1860,7 +1860,7 @@
    :longitude 121.5389719,
    :latitude 24.9994463,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "慕野畫室",
@@ -1895,7 +1895,7 @@
    :source :openstreetmap,
    :homepage
    "https://warpeace.khm.org.tw/index.aspx?AspxAutoDetectCookieSupport=1",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "戰爭與和平紀念館",
@@ -1944,7 +1944,7 @@
    :longitude 121.5820696,
    :latitude 24.9975851,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "敲敲木工房",
@@ -1952,7 +1952,7 @@
    :latitude 23.9749077,
    :source :openstreetmap,
    :homepage "https://www.kokomu.com/",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "文創PLUS",
@@ -2003,7 +2003,7 @@
    :latitude 24.9525252,
    :source :openstreetmap,
    :homepage "https://ntcart.museum/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "新北市藝文中心",
@@ -2011,7 +2011,7 @@
    :latitude 25.025958,
    :source :openstreetmap,
    :homepage "https://www.artcenter.ntpc.gov.tw/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "新埔鎮宗祠客家文化導覽館",
@@ -2024,14 +2024,14 @@
    :longitude 120.996077,
    :latitude 24.9511291,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "新店溪流域水力發電文物展示館",
    :longitude 121.5579843,
    :latitude 24.9035026,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "新板藝廊",
@@ -2039,7 +2039,7 @@
    :latitude 25.0142114,
    :source :openstreetmap,
    :homepage "https://www.culture.ntpc.gov.tw/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "新港社地方文化館",
@@ -2058,7 +2058,7 @@
    :longitude 120.9667714,
    :latitude 24.8140749,
    :source :openstreetmap,
-   :locality "新竹市",
+   :location "新竹市",
    :image "",
    :description ""}
   {:name "新竹市美術館暨開拓館",
@@ -2072,7 +2072,7 @@
    :longitude 121.4439534,
    :latitude 25.0472392,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "方圓美術館",
@@ -2086,14 +2086,14 @@
    :latitude 22.8846148,
    :source :openstreetmap,
    :homepage "https://cishanstation.khcc.gov.tw",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "旗津貝殼博物館",
    :longitude 120.2741805,
    :latitude 22.6014143,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "日統博物館",
@@ -2106,7 +2106,7 @@
    :longitude 120.4935053,
    :latitude 23.8521037,
    :source :openstreetmap,
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "昆蟲標本館",
@@ -2131,14 +2131,14 @@
    :longitude 121.4265716,
    :latitude 25.0469968,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "明爵美術",
    :longitude 121.5257812,
    :latitude 25.09099,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "春之美術館",
@@ -2152,7 +2152,7 @@
    :latitude 24.1607363,
    :source :openstreetmap,
    :homepage "https://crystal-museum.com.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "曲藝館",
@@ -2166,7 +2166,7 @@
    :latitude 23.9651133,
    :source :openstreetmap,
    :homepage "http://www.insect.com.tw",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "木雕分館",
@@ -2174,14 +2174,14 @@
    :latitude 24.0108357,
    :source :openstreetmap,
    :homepage "http://www.ctwm.org.tw/",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "未來世界藝術墓園",
    :longitude 121.7601472,
    :latitude 25.112361,
    :source :openstreetmap,
-   :locality "基隆市",
+   :location "基隆市",
    :image "",
    :description ""}
   {:name "本館",
@@ -2195,7 +2195,7 @@
    :latitude 22.995438,
    :source :openstreetmap,
    :homepage "https://web.tainan.gov.tw/Nation/cp.aspx?n=923",
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "朱銘美術館",
@@ -2203,7 +2203,7 @@
    :latitude 25.244164,
    :source :openstreetmap,
    :homepage "https://www.juming.org.tw",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "朱魯清私人美術館(預約制)",
@@ -2212,7 +2212,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/%E6%9C%B1%E9%AD%AF%E9%9D%92%E7%BE%8E%E8%A1%93%E9%A4%A8-910831372416915/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "朴子刺繡文化館",
@@ -2220,7 +2220,7 @@
    :latitude 23.4680666,
    :source :openstreetmap,
    :homepage "cihshiou.org.tw",
-   :locality "嘉義縣",
+   :location "嘉義縣",
    :image "",
    :description ""}
   {:name "李梅樹紀念館",
@@ -2228,7 +2228,7 @@
    :latitude 24.9305499,
    :source :openstreetmap,
    :homepage "https://limeishu.org.tw",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "李澤藩美術館",
@@ -2236,14 +2236,14 @@
    :latitude 24.8014076,
    :source :openstreetmap,
    :homepage "https://www.nhclac.gov.tw/",
-   :locality "新竹市",
+   :location "新竹市",
    :image "",
    :description ""}
   {:name "東吳大學數位校史館",
    :longitude 121.5466891,
    :latitude 25.0940764,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "東山農會咖啡文化館",
@@ -2268,7 +2268,7 @@
    :longitude 121.1279318,
    :latitude 22.7675465,
    :source :openstreetmap,
-   :locality "台東縣",
+   :location "台東縣",
    :image "",
    :description ""}
   {:name "松山文創園區",
@@ -2276,14 +2276,14 @@
    :latitude 25.0439183,
    :source :openstreetmap,
    :homepage "https://www.songshanculturalpark.org",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "松鶴園",
    :longitude 120.7948641,
    :latitude 23.7286876,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "林務局台車博物館",
@@ -2303,14 +2303,14 @@
    :longitude 120.9776205,
    :latitude 23.9003406,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "林獻堂文物紀念館",
    :longitude 120.7035187,
    :latitude 24.061053,
    :source :openstreetmap,
-   :locality "台中市",
+   :location "台中市",
    :image "",
    :description ""}
   {:name "柴山白宮",
@@ -2353,7 +2353,7 @@
    :longitude 121.2377988,
    :latitude 24.9354654,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園劍道故事館",
@@ -2366,7 +2366,7 @@
    :longitude 121.2622918,
    :latitude 24.9343745,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園市兒童美術館",
@@ -2374,7 +2374,7 @@
    :latitude 25.0053304,
    :source :openstreetmap,
    :homepage "https://tmofa.tycg.gov.tw/en",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園市土地公文化館",
@@ -2382,7 +2382,7 @@
    :latitude 24.9982438,
    :source :openstreetmap,
    :homepage "https://www.taoyuantudigong.org.tw/",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園市婦女館",
@@ -2396,14 +2396,14 @@
    :latitude 24.8455431,
    :source :openstreetmap,
    :homepage "https://www.hakka.tycg.gov.tw/",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園市政府文化局",
    :longitude 121.3001735,
    :latitude 24.9939021,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園市立兒童美術館",
@@ -2417,7 +2417,7 @@
    :latitude 24.9939469,
    :source :openstreetmap,
    :homepage "https://tylm.tycg.gov.tw/tylm/wSite/mp?mp=1",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園航空城博物館—05警戒區",
@@ -2425,21 +2425,21 @@
    :latitude 25.0474733,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/taoyuanairbase/",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園鐵道願景館",
    :longitude 121.3156038,
    :latitude 24.9898533,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "桃園馬祖會館",
    :longitude 121.2987899,
    :latitude 24.9349036,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "梅嶺美術館",
@@ -2477,14 +2477,14 @@
    :longitude 121.5423372,
    :latitude 25.0055138,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "楊三郎美術館",
    :longitude 121.5169126,
    :latitude 25.0160083,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "楊梅故事館",
@@ -2497,14 +2497,14 @@
    :longitude 120.3077655,
    :latitude 23.0379005,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "楠仔樹腳聖經博物館",
    :longitude 120.4933534,
    :latitude 22.6712223,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "楠梓水環境教育中心",
@@ -2523,7 +2523,7 @@
    :longitude 121.7747475,
    :latitude 24.7306613,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "樂賞大坡池音樂館",
@@ -2532,7 +2532,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/pg/pocoeast/about/?ref=page_internal",
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "樂農館",
@@ -2557,7 +2557,7 @@
    :longitude 121.0947957,
    :latitude 24.7354072,
    :source :openstreetmap,
-   :locality "新竹縣",
+   :location "新竹縣",
    :image "",
    :description ""}
   {:name "樹林藝文中心",
@@ -2565,7 +2565,7 @@
    :latitude 24.9961684,
    :source :openstreetmap,
    :homepage "https://www.culture.ntpc.gov.tw/shulin_artcenter_chi",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "樹谷生活科學館",
@@ -2604,21 +2604,21 @@
    :latitude 23.992882,
    :source :openstreetmap,
    :homepage "https://www.yu-hsiu.org/",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "永信醫藥文物館",
    :longitude 120.6477661,
    :latitude 24.3608143,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "永安海螺文化館",
    :longitude 121.0152299,
    :latitude 24.9898038,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "永春宮客家文物館",
@@ -2638,7 +2638,7 @@
    :latitude 22.9571285,
    :source :openstreetmap,
    :homepage "https://www.paulchiang.org/",
-   :locality "台東縣",
+   :location "台東縣",
    :image "",
    :description ""}
   {:name "沙鹿電影藝術館",
@@ -2646,21 +2646,21 @@
    :latitude 24.2334725,
    :source :openstreetmap,
    :homepage "https://shalumovie.pixnet.net/blog",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "泰山收費站文物陳列室",
    :longitude 121.4150623,
    :latitude 25.0620151,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "泰武有機咖啡產業發展館",
    :longitude 120.610364,
    :latitude 22.6046022,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "泰雅文化館",
@@ -2691,7 +2691,7 @@
    :longitude 120.7153005,
    :latitude 22.0901621,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "海端鄉布農文物館",
@@ -2711,21 +2711,21 @@
    :latitude 25.0509158,
    :source :openstreetmap,
    :homepage "https://museum.customs.gov.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "涵藝術",
    :longitude 120.1963729,
    :latitude 22.9826224,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "淡水藝術工坊",
    :longitude 121.4375137,
    :latitude 25.1722885,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "港區藝術中心",
@@ -2733,7 +2733,7 @@
    :latitude 24.2703646,
    :source :openstreetmap,
    :homepage "http://www.tcsac.gov.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "湖井頭戰史館",
@@ -2753,7 +2753,7 @@
    :latitude 23.6034509,
    :source :openstreetmap,
    :homepage "https://sikou.cyhg.gov.tw/cp.aspx?n=B7411BDCD003C9EC",
-   :locality "嘉義縣",
+   :location "嘉義縣",
    :image "",
    :description ""}
   {:name "演藝廳",
@@ -2779,7 +2779,7 @@
    :latitude 25.1448772,
    :source :openstreetmap,
    :homepage "https://iocean.nmmst.gov.tw/",
-   :locality "基隆市",
+   :location "基隆市",
    :image "",
    :description ""}
   {:name "澎湖海洋資源館",
@@ -2805,7 +2805,7 @@
    :latitude 23.5699364,
    :source :openstreetmap,
    :homepage "https://phkt.phhcc.gov.tw/",
-   :locality "澎湖縣",
+   :location "澎湖縣",
    :image "",
    :description ""}
   {:name "火炎山森林生態教育館",
@@ -2825,7 +2825,7 @@
    :latitude 24.8641737,
    :source :openstreetmap,
    :homepage "https://www.atayal.ntpc.gov.tw/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "牛軋糖博物館",
@@ -2839,7 +2839,7 @@
    :latitude 22.1291038,
    :source :openstreetmap,
    :homepage "https://sites.google.com/view/mudanstory/",
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "物理文物廳",
@@ -2866,14 +2866,14 @@
    :latitude 23.4864273,
    :source :openstreetmap,
    :homepage "https://prisonmuseum.moj.gov.tw/mp.asp?mp=1",
-   :locality "嘉義市",
+   :location "嘉義市",
    :image "",
    :description ""}
   {:name "獅子鄉文物陳列館",
    :longitude 120.7057355,
    :latitude 22.2017759,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "玉兔鉛筆學校",
@@ -2886,14 +2886,14 @@
    :longitude 121.7675288,
    :latitude 24.764784,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "王雲五紀念館",
    :longitude 121.5354819,
    :latitude 25.0248633,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "玻璃工藝博物館",
@@ -2906,7 +2906,7 @@
    :longitude 120.3815529,
    :latitude 22.3541562,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "瑞三煤礦天車間",
@@ -2919,7 +2919,7 @@
    :longitude 120.3206857,
    :latitude 22.6799852,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "璞石藝術館",
@@ -2932,7 +2932,7 @@
    :longitude 120.7420233,
    :latitude 21.9653998,
    :source :openstreetmap,
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "瓶蓋工廠台北製造所",
@@ -2940,7 +2940,7 @@
    :latitude 25.053523,
    :source :openstreetmap,
    :homepage "https://www.popoptaipei.com/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "生菜物語館",
@@ -2965,21 +2965,21 @@
    :longitude 120.5383119,
    :latitude 24.0786658,
    :source :openstreetmap,
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "療癒與something",
    :longitude 120.7712696,
    :latitude 23.9912689,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "白冷大甲溪電力文物館",
    :longitude 120.9252268,
    :latitude 24.1825981,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "白色恐怖景美紀念園區",
@@ -2987,7 +2987,7 @@
    :latitude 24.9873018,
    :source :openstreetmap,
    :homepage "https://www.nhrm.gov.tw/content_146.html",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "白蘭氏健康博物館",
@@ -2995,7 +2995,7 @@
    :latitude 24.0779134,
    :source :openstreetmap,
    :homepage "http://www.brandsworld.com.tw/",
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "益品美術館",
@@ -3008,14 +3008,14 @@
    :longitude 120.6840512,
    :latitude 23.7509826,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "石油展示館",
    :longitude 121.5696281,
    :latitude 25.0394556,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "石雕博物館",
@@ -3042,7 +3042,7 @@
    :longitude 121.2838806,
    :latitude 24.9022507,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "科學園區探索館",
@@ -3050,7 +3050,7 @@
    :latitude 24.7832801,
    :source :openstreetmap,
    :homepage "http://explore.sipa.gov.tw/",
-   :locality "新竹市",
+   :location "新竹市",
    :image "",
    :description ""}
   {:name "穀倉美術館",
@@ -3064,7 +3064,7 @@
    :latitude 24.7319748,
    :source :openstreetmap,
    :homepage "https://www.brickark.com/",
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "空軍第427聯隊隊史館",
@@ -3091,14 +3091,14 @@
    :source :openstreetmap,
    :homepage
    "http://npda.cpami.gov.tw/tab8/web8_page2.php?park=C&ct=488",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "第一銀行行史館",
    :longitude 121.5250272,
    :latitude 25.0492659,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "築空間",
@@ -3106,7 +3106,7 @@
    :latitude 25.0468386,
    :source :openstreetmap,
    :homepage "http://www.arki.com.tw",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "米倉劇場",
@@ -3114,14 +3114,14 @@
    :latitude 24.9955973,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/barn169theater",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "糖廍文化園區",
    :longitude 121.4948735,
    :latitude 25.0334169,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "紅樓",
@@ -3146,7 +3146,7 @@
    :longitude 121.4735776,
    :latitude 25.0840942,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "經國紀念行館",
@@ -3171,7 +3171,7 @@
    :longitude 119.506859,
    :latitude 23.3650304,
    :source :openstreetmap,
-   :locality "澎湖縣",
+   :location "澎湖縣",
    :image "",
    :description ""}
   {:name "維新客家文物館",
@@ -3185,14 +3185,14 @@
    :latitude 24.0999135,
    :source :openstreetmap,
    :homepage "http://mofia.taichung.gov.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "羅東文化工場本館",
    :longitude 121.764627,
    :latitude 24.6718533,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "美崙山公園生態展示館",
@@ -3223,7 +3223,7 @@
    :longitude 121.5670513,
    :latitude 25.079207,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "胡伯玉將軍紀念館",
@@ -3242,7 +3242,7 @@
    :longitude 120.2161062,
    :latitude 23.1392071,
    :source :openstreetmap,
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "自然史教育館",
@@ -3255,14 +3255,14 @@
    :longitude 120.6589683,
    :latitude 24.1370404,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "自行車文化探索館",
    :longitude 120.6113114,
    :latitude 24.208654,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺中客家故事館",
@@ -3271,7 +3271,7 @@
    :source :openstreetmap,
    :homepage
    "https://travel.taichung.gov.tw/zh-tw/attractions/intro/100",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺中市屯區藝文中心",
@@ -3279,14 +3279,14 @@
    :latitude 24.1572142,
    :source :openstreetmap,
    :homepage "https://www.ttdac.taichung.gov.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺中市眷村文物館",
    :longitude 120.6951962,
    :latitude 24.1613132,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺中市立美術館",
@@ -3299,7 +3299,7 @@
    :longitude 120.6908772,
    :latitude 24.149861,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺中海洋館",
@@ -3307,7 +3307,7 @@
    :latitude 24.296753,
    :source :openstreetmap,
    :homepage "https://tcaqua.com.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺中營林出張所宿泊所",
@@ -3321,7 +3321,7 @@
    :latitude 24.1424596,
    :source :openstreetmap,
    :homepage "https://www.tcp.moj.gov.tw/309667/309670/728264/729071/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺中酒廠文物館",
@@ -3340,7 +3340,7 @@
    :longitude 121.5256521,
    :latitude 25.0196633,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "臺北市立天文科學教育館",
@@ -3348,7 +3348,7 @@
    :latitude 25.0959779,
    :source :openstreetmap,
    :homepage "https://www.ntsec.gov.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "臺北市藝文推廣處",
@@ -3356,7 +3356,7 @@
    :latitude 25.048423,
    :source :openstreetmap,
    :homepage "http://www.tapo.gov.taipei/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "臺北市鄉土教育中心",
@@ -3364,7 +3364,7 @@
    :latitude 25.0366992,
    :source :openstreetmap,
    :homepage "http://59.120.8.196/enable2007/",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "臺北流行音樂中心",
@@ -3391,14 +3391,14 @@
    :latitude 23.0645298,
    :source :openstreetmap,
    :homepage "https://fossil.tnc.gov.tw/",
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "臺南市學甲藝文展示館",
    :longitude 120.1821894,
    :latitude 23.2301814,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "臺南市立新營文化中心",
@@ -3413,7 +3413,7 @@
    :source :openstreetmap,
    :homepage
    "https://ga.ntu.edu.tw/doc/main_ch/sub/archive/index.aspx",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "臺東美術館",
@@ -3421,7 +3421,7 @@
    :latitude 22.7645008,
    :source :openstreetmap,
    :homepage "https://tm.ccl.ttct.edu.tw/",
-   :locality "臺東縣",
+   :location "臺東縣",
    :image "",
    :description ""}
   {:name "臺灣印刷探索館",
@@ -3429,7 +3429,7 @@
    :latitude 24.0872536,
    :source :openstreetmap,
    :homepage "http://twin.ppmof.gov.tw/exploratorium.htm",
-   :locality "台中市",
+   :location "台中市",
    :image "",
    :description ""}
   {:name "臺灣國寶美術館",
@@ -3437,14 +3437,14 @@
    :latitude 23.9922708,
    :source :openstreetmap,
    :homepage "http://hl-tntam.com",
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "臺灣客家茶文化館",
    :longitude 121.1914848,
    :latitude 24.8311059,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "臺灣文學館臺北分館",
@@ -3452,7 +3452,7 @@
    :latitude 25.045247,
    :source :openstreetmap,
    :homepage "https://www.huashan1914.com/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "臺灣民窯生態教學園區",
@@ -3466,14 +3466,14 @@
    :latitude 25.0500053,
    :source :openstreetmap,
    :homepage "https://www.tcb.tw",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "臺灣火柴故事館",
    :longitude 120.663715,
    :latitude 24.1171307,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "臺灣玻璃館",
@@ -3487,7 +3487,7 @@
    :latitude 25.0397921,
    :source :openstreetmap,
    :homepage "https://clab.org.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "臺灣鹽博物館",
@@ -3496,7 +3496,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.twtainan.net/zh-tw/Attractions/Detail/489/%E5%8F%B0%E7%81%A3%E9%B9%BD%E5%8D%9A%E7%89%A9%E9%A4%A8",
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "舊打狗驛故事館",
@@ -3510,14 +3510,14 @@
    :longitude 120.3891373,
    :latitude 22.6223491,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "航空教育展示館",
    :longitude 120.2694627,
    :latitude 22.7938138,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "艸魚禾堂複合式藝文中心",
@@ -3525,7 +3525,7 @@
    :latitude 22.6746745,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/profile.php?id=61559336332668",
-   :locality "屏東縣",
+   :location "屏東縣",
    :image "",
    :description ""}
   {:name "芒果故事館",
@@ -3544,7 +3544,7 @@
    :longitude 121.6063106,
    :latitude 24.0302572,
    :source :openstreetmap,
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "花糖文物館",
@@ -3557,7 +3557,7 @@
    :longitude 120.5349936,
    :latitude 23.888674,
    :source :openstreetmap,
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "花蓮將軍府1936",
@@ -3577,7 +3577,7 @@
    :longitude 121.5808605,
    :latitude 23.9698716,
    :source :openstreetmap,
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "花蓮縣客家文化會館",
@@ -3585,7 +3585,7 @@
    :latitude 23.9637761,
    :source :openstreetmap,
    :homepage "https://hk.hl.gov.tw/bin/home.php",
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "花蓮縣考古博物館",
@@ -3599,7 +3599,7 @@
    :latitude 24.0202343,
    :source :openstreetmap,
    :homepage "https://hldp.hlcfd.gov.tw/",
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "苗栗火車頭園區願景館",
@@ -3618,7 +3618,7 @@
    :longitude 121.5941967,
    :latitude 24.9690704,
    :source :openstreetmap,
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "草山行館",
@@ -3626,14 +3626,14 @@
    :latitude 25.1544032,
    :source :openstreetmap,
    :homepage "http://www.grassmountainchateau.com.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "草漯沙丘地景展示館",
    :longitude 121.0760028,
    :latitude 25.0466389,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "菁桐礦業生活館",
@@ -3647,7 +3647,7 @@
    :latitude 25.1373457,
    :source :openstreetmap,
    :homepage "https://hkm.pccu.edu.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "華梵大學文物館",
@@ -3668,7 +3668,7 @@
    :latitude 23.7164073,
    :source :openstreetmap,
    :homepage "http://210.242.93.239/04_culture/taroko.aspx",
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "萬華故事館",
@@ -3681,7 +3681,7 @@
    :longitude 121.6760723,
    :latitude 25.1708764,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "葫蘆墩文化中心",
@@ -3689,7 +3689,7 @@
    :latitude 24.2526961,
    :source :openstreetmap,
    :homepage "http://www.huludun.taichung.gov.tw/",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "蒸汽火車展示館",
@@ -3720,14 +3720,14 @@
    :longitude 119.9192325,
    :latitude 26.1678765,
    :source :openstreetmap,
-   :locality "連江縣",
+   :location "連江縣",
    :image "",
    :description ""}
   {:name "藝文中心",
    :longitude 120.9533703,
    :latitude 24.7596351,
    :source :openstreetmap,
-   :locality "新竹市",
+   :location "新竹市",
    :image "",
    :description ""}
   {:name "藝術中心",
@@ -3758,7 +3758,7 @@
    :longitude 120.6978271,
    :latitude 24.0812641,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "蘇花改視聽室",
@@ -3789,7 +3789,7 @@
    :longitude 121.832452,
    :latitude 24.8687941,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "蘭陽原創館",
@@ -3808,14 +3808,14 @@
    :longitude 120.1558759,
    :latitude 22.983094,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "蜜蜂故事館",
    :longitude 120.5402852,
    :latitude 23.6584297,
    :source :openstreetmap,
-   :locality "雲林縣",
+   :location "雲林縣",
    :image "",
    :description ""}
   {:name "螃蟹博物館",
@@ -3841,7 +3841,7 @@
    :latitude 25.0502862,
    :source :openstreetmap,
    :homepage "https://www.mmot.com.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "襲園美術館",
@@ -3849,14 +3849,14 @@
    :latitude 25.0055925,
    :source :openstreetmap,
    :homepage "https://www.aheritage.tw/",
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "西嶼藝文中心",
    :longitude 119.5063799,
    :latitude 23.5834789,
    :source :openstreetmap,
-   :locality "澎湖縣",
+   :location "澎湖縣",
    :image "",
    :description ""}
   {:name "見城館",
@@ -3864,7 +3864,7 @@
    :latitude 22.6769325,
    :source :openstreetmap,
    :homepage "http://village.khcc.gov.tw/",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "視覺展覽館",
@@ -3878,7 +3878,7 @@
    :longitude 121.1145069,
    :latitude 24.506551,
    :source :openstreetmap,
-   :locality "苗栗縣",
+   :location "苗栗縣",
    :image "",
    :description ""}
   {:name "觀音山猛禽展示館",
@@ -3898,7 +3898,7 @@
    :latitude 23.7639121,
    :source :openstreetmap,
    :homepage "https://www.zhaoanka.org.tw/",
-   :locality "雲林縣",
+   :location "雲林縣",
    :image "",
    :description ""}
   {:name "諦願寺藝石館",
@@ -3917,14 +3917,14 @@
    :longitude 120.5741013,
    :latitude 23.9593557,
    :source :openstreetmap,
-   :locality "彰化縣",
+   :location "彰化縣",
    :image "",
    :description ""}
   {:name "谷關遊客中心暨溫泉文化館",
    :longitude 121.0068579,
    :latitude 24.2034922,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "豐原漆藝館",
@@ -3955,7 +3955,7 @@
    :longitude 120.681928,
    :latitude 23.7563301,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "赫蒂法莊園",
@@ -4010,7 +4010,7 @@
    :longitude 120.6771499,
    :latitude 23.7530575,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "郭元益糕餅博物館",
@@ -4037,14 +4037,14 @@
    :source :openstreetmap,
    :homepage
    "https://museum.post.gov.tw/post/Postal_Museum/museum_en/index.jsp?ID=1648774404373",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "鄒族自然與文化中心",
    :longitude 120.7494048,
    :latitude 23.4539346,
    :source :openstreetmap,
-   :locality "嘉義縣",
+   :location "嘉義縣",
    :image "",
    :description ""}
   {:name "鄧南光攝影館",
@@ -4070,21 +4070,21 @@
    :latitude 25.061535,
    :source :openstreetmap,
    :homepage "http://www.nylon.org.tw",
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "鄭曼青紀念館",
    :longitude 121.5175586,
    :latitude 25.0106254,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "金廣成文化館",
    :longitude 121.2125641,
    :latitude 24.7884522,
    :source :openstreetmap,
-   :locality "新竹縣",
+   :location "新竹縣",
    :image "",
    :description ""}
   {:name "金彩玫瑰石博物館",
@@ -4097,7 +4097,7 @@
    :longitude 121.2920819,
    :latitude 24.9197338,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "金車文藝中心B1F",
@@ -4117,21 +4117,21 @@
    :latitude 22.6277642,
    :source :openstreetmap,
    :homepage "https://www.alien.com.tw/",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "鍾理和紀念館",
    :longitude 120.5861283,
    :latitude 22.9332039,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "鐵道工程館",
    :longitude 120.3093521,
    :latitude 22.6899939,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "長榮海事博物館",
@@ -4139,7 +4139,7 @@
    :latitude 25.038662,
    :source :openstreetmap,
    :homepage "https://www.evergreenmuseum.org.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "長流當代美術館桃園館",
@@ -4152,7 +4152,7 @@
    :longitude 121.5273978,
    :latitude 25.1195167,
    :source :openstreetmap,
-   :locality "台北市",
+   :location "台北市",
    :image "",
    :description ""}
   {:name "關渡美術館",
@@ -4165,7 +4165,7 @@
    :longitude 121.1861173,
    :latitude 24.8015727,
    :source :openstreetmap,
-   :locality "新竹縣",
+   :location "新竹縣",
    :image "",
    :description ""}
   {:name "防災科學教育館",
@@ -4173,7 +4173,7 @@
    :latitude 25.0694046,
    :source :openstreetmap,
    :homepage "https://fsm.119.gov.taipei/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "阿嬤家 和平與女性人權館",
@@ -4181,7 +4181,7 @@
    :latitude 25.0644497,
    :source :openstreetmap,
    :homepage "https://www.amamuseum.org.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "阿發放工作室",
@@ -4213,14 +4213,14 @@
    :longitude 120.8038352,
    :latitude 24.2282421,
    :source :openstreetmap,
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "陳力維竹木藝-臺灣工藝之家",
    :longitude 121.2993055,
    :latitude 24.8737529,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "陳定南紀念館",
@@ -4239,7 +4239,7 @@
    :longitude 120.7456766,
    :latitude 23.8685105,
    :source :openstreetmap,
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "陳逢顯毫芒雕刻館",
@@ -4247,7 +4247,7 @@
    :latitude 24.9613839,
    :source :openstreetmap,
    :homepage "https://www.hulien.org.tw/",
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "陳進士紀念館",
@@ -4261,7 +4261,7 @@
    :latitude 24.1510108,
    :source :openstreetmap,
    :homepage "https://www.live-forever.com.tw/lf/art/newslist",
-   :locality "臺中市",
+   :location "臺中市",
    :image "",
    :description ""}
   {:name "陽明海洋探索館",
@@ -4275,7 +4275,7 @@
    :latitude 25.1326011,
    :source :openstreetmap,
    :homepage "https://www.ocam.org.tw/",
-   :locality "基隆市",
+   :location "基隆市",
    :image "",
    :description ""}
   {:name "隆田文化資產教育園區入口",
@@ -4289,7 +4289,7 @@
    :latitude 23.8286557,
    :source :openstreetmap,
    :homepage "http://jijibanana.com",
-   :locality "南投縣",
+   :location "南投縣",
    :image "",
    :description ""}
   {:name "集集攔河堰水資源館",
@@ -4334,14 +4334,14 @@
    :latitude 25.1010057,
    :source :openstreetmap,
    :homepage "https://www.museum.org.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "頭圍文創園區",
    :longitude 121.82245,
    :latitude 24.8580031,
    :source :openstreetmap,
-   :locality "宜蘭縣",
+   :location "宜蘭縣",
    :image "",
    :description ""}
   {:name "頭廷魁文史館",
@@ -4354,7 +4354,7 @@
    :longitude 120.2553029,
    :latitude 23.5734559,
    :source :openstreetmap,
-   :locality "雲林縣",
+   :location "雲林縣",
    :image "",
    :description ""}
   {:name "飛魚文化會館",
@@ -4367,7 +4367,7 @@
    :longitude 120.1570031,
    :latitude 23.1922064,
    :source :openstreetmap,
-   :locality "台南市",
+   :location "台南市",
    :image "",
    :description ""}
   {:name "馬場風華館",
@@ -4382,7 +4382,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.matsu-nsa.gov.tw/Attraction-Content.aspx?a=2728&l=1",
-   :locality "連江縣",
+   :location "連江縣",
    :image "",
    :description ""}
   {:name "高醫校史暨南臺灣醫療史料館",
@@ -4408,7 +4408,7 @@
    :longitude 120.286203,
    :latitude 22.656514,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "高雄文學圖書館",
@@ -4422,14 +4422,14 @@
    :latitude 22.6269793,
    :source :openstreetmap,
    :homepage "http://khm.org.tw/home01.aspx?ID=1",
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "高雄流行音樂中心-礁群",
    :longitude 120.2921604,
    :latitude 22.6187188,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "高雄流行音樂中心-高低塔",
@@ -4461,7 +4461,7 @@
    :longitude 120.3488493,
    :latitude 22.6300473,
    :source :openstreetmap,
-   :locality "高雄市",
+   :location "高雄市",
    :image "",
    :description ""}
   {:name "鳳林客家文物館",
@@ -4470,7 +4470,7 @@
    :source :openstreetmap,
    :homepage
    "https://tour-hualien.hl.gov.tw/Portal/Content.aspx?lang=0&p=005040001&area=4&id=39",
-   :locality "花蓮縣",
+   :location "花蓮縣",
    :image "",
    :description ""}
   {:name "鳳甲美術館",
@@ -4478,21 +4478,21 @@
    :latitude 25.1252814,
    :source :openstreetmap,
    :homepage "https://hong-gah.org.tw/",
-   :locality "臺北市",
+   :location "臺北市",
    :image "",
    :description ""}
   {:name "鳳飛飛故事館",
    :longitude 121.2870843,
    :latitude 24.8799349,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}
   {:name "鶯歌陶瓷博物館",
    :longitude 121.3519925,
    :latitude 24.9492372,
    :source :openstreetmap,
-   :locality "新北市",
+   :location "新北市",
    :image "",
    :description ""}
   {:name "鹽如玉",
@@ -4517,7 +4517,7 @@
    :longitude 120.4340027,
    :latitude 23.707812,
    :source :openstreetmap,
-   :locality "雲林縣",
+   :location "雲林縣",
    :image "",
    :description ""}
   {:name "黃蠟石文化館",
@@ -4525,7 +4525,7 @@
    :latitude 25.1046492,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/chrismatinemuseum",
-   :locality "基隆市",
+   :location "基隆市",
    :image "",
    :description ""}
   {:name "黃金蝙蝠館",
@@ -4550,14 +4550,14 @@
    :longitude 120.1843894,
    :latitude 22.9797387,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "黑面琵鷺展示館",
    :longitude 120.0623666,
    :latitude 23.0811897,
    :source :openstreetmap,
-   :locality "臺南市",
+   :location "臺南市",
    :image "",
    :description ""}
   {:name "龍南漆器博物館",
@@ -4570,7 +4570,7 @@
    :longitude 121.0544894,
    :latitude 24.7001814,
    :source :openstreetmap,
-   :locality "新竹縣",
+   :location "新竹縣",
    :image "",
    :description ""}
   {:name "龍鑾潭自然中心",
@@ -4583,7 +4583,7 @@
    :longitude 121.3404615,
    :latitude 24.9984437,
    :source :openstreetmap,
-   :locality "桃園市",
+   :location "桃園市",
    :image "",
    :description ""}],
  :source

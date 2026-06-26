@@ -105,7 +105,7 @@
    :latitude -20.1557969,
    :source :openstreetmap,
    :homepage "https://naturalhistorymuseumzimbabwe.com/",
-   :locality "Bulawayo"}
+   :location "Bulawayo"}
   {:name "Zimbabwe Military Museum",
    :longitude 29.8150343,
    :latitude -19.4602551,

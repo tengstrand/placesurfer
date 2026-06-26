@@ -43,7 +43,7 @@
    :latitude 19.8877533,
    :source :openstreetmap,
    :homepage "http://www.fwablaos.org",
-   :locality "Luang Prabang"}
+   :location "Luang Prabang"}
   {:name "Lao Art Museum",
    :longitude 102.6482421,
    :latitude 18.1224786,
@@ -134,7 +134,7 @@
    :longitude 104.7454326,
    :latitude 16.56263,
    :source :openstreetmap,
-   :locality "Savannakhet"}
+   :location "Savannakhet"}
   {:name "ຫໍວັດທະນະທໍາ ທ່າພະຍານາກ 娜迦港文化馆",
    :longitude 100.0991998,
    :latitude 20.3413649,

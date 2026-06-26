@@ -12,7 +12,7 @@
    :longitude -74.0816532,
    :latitude 4.6373453,
    :source :openstreetmap,
-   :locality "Bogotá D.C."}
+   :location "Bogotá D.C."}
   {:name "52",
    :longitude -76.5423532,
    :latitude 3.4359781,
@@ -38,7 +38,7 @@
    :latitude 3.3774305,
    :source :openstreetmap,
    :homepage "https://www.algoencomun.co/",
-   :locality "Cali"}
+   :location "Cali"}
   {:name "Antigua casa de la culture",
    :longitude -74.099264,
    :latitude 4.5975882,
@@ -59,7 +59,7 @@
    :longitude -74.0740868,
    :latitude 4.6476176,
    :source :openstreetmap,
-   :locality "Bogotá"}
+   :location "Bogotá"}
   {:name "Arte Contemporaneo",
    :longitude -74.0671978,
    :latitude 4.6529665,
@@ -97,13 +97,13 @@
    :longitude -73.5427666,
    :latitude 5.5841633,
    :source :openstreetmap,
-   :locality "Sachica"}
+   :location "Sachica"}
   {:name "Banrepcultural Pereira",
    :longitude -75.6938612,
    :latitude 4.8127687,
    :source :openstreetmap,
    :homepage "https://www.banrepcultural.org/pereira",
-   :locality "Pereira"}
+   :location "Pereira"}
   {:name "Biblioteca Museo Carlos Lleras Restrepo, UJTL",
    :longitude -74.0566875,
    :latitude 4.6535872,
@@ -162,7 +162,7 @@
    :longitude -75.5862523,
    :latitude 6.2290891,
    :source :openstreetmap,
-   :locality "Medellín"}
+   :location "Medellín"}
   {:name "Casa Cultural Gustavo Rojas Pinilla",
    :longitude -73.3634634,
    :latitude 5.5301927,
@@ -175,7 +175,7 @@
    :longitude -73.6712992,
    :latitude 6.0152418,
    :source :openstreetmap,
-   :locality "Vélez"}
+   :location "Vélez"}
   {:name "Casa de Cultura",
    :longitude -75.252314,
    :latitude 0.6985144,
@@ -188,7 +188,7 @@
    :longitude -75.5967877,
    :latitude 6.2465056,
    :source :openstreetmap,
-   :locality "Medellín"}
+   :location "Medellín"}
   {:name "Casa de la Cultura",
    :longitude -74.9634554,
    :latitude 10.4475925,
@@ -209,7 +209,7 @@
    :longitude -76.5404185,
    :latitude 3.2621544,
    :source :openstreetmap,
-   :locality "Jamundí"}
+   :location "Jamundí"}
   {:name "Casa de la Cultura",
    :longitude -76.0457934,
    :latitude 2.582427,
@@ -250,18 +250,18 @@
    :longitude -73.7914255,
    :latitude 5.9184632,
    :source :openstreetmap,
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Casa de la Cultura",
    :longitude -73.7703132,
    :latitude 5.9891679,
    :source :openstreetmap,
-   :locality "Bolívar"}
+   :location "Bolívar"}
   {:name "Casa de la Cultura",
    :longitude -76.13102,
    :latitude 1.7216146,
    :source :openstreetmap,
    :homepage "www.palestina-huila.gov.co",
-   :locality "Palestina"}
+   :location "Palestina"}
   {:name "Casa de la Cultura",
    :longitude -74.8250638,
    :latitude 11.0389247,
@@ -278,7 +278,7 @@
    :longitude -75.7382647,
    :latitude 4.703698,
    :source :openstreetmap,
-   :locality "Ulloa"}
+   :location "Ulloa"}
   {:name "Casa de la Cultura",
    :longitude -75.751215,
    :latitude 4.5668338,
@@ -295,7 +295,7 @@
    :longitude -73.6716004,
    :latitude 6.0116679,
    :source :openstreetmap,
-   :locality "Vélez"}
+   :location "Vélez"}
   {:name "Casa de la cultura",
    :longitude -75.4971663,
    :latitude 6.2096619,
@@ -348,7 +348,7 @@
    :longitude -73.7833381,
    :latitude 5.8758928,
    :source :openstreetmap,
-   :locality "Jesús María"}
+   :location "Jesús María"}
   {:name "Casa de la Cultura Las Estancias",
    :longitude -75.5388779,
    :latitude 6.2341317,
@@ -369,7 +369,7 @@
    :longitude -73.6853594,
    :latitude 5.385012,
    :source :openstreetmap,
-   :locality "Guachetá"}
+   :location "Guachetá"}
   {:name "Casa de la Cultura Nazareth",
    :longitude -72.8955028,
    :latitude 5.7679063,
@@ -382,7 +382,7 @@
    :longitude -73.9702381,
    :latitude 5.8039396,
    :source :openstreetmap,
-   :locality "Florián"}
+   :location "Florián"}
   {:name "Casa de la Cultura Poblado",
    :longitude -75.5786691,
    :latitude 6.1907033,
@@ -391,7 +391,7 @@
    :longitude -72.7633474,
    :latitude 11.0662289,
    :source :openstreetmap,
-   :locality "HATONUEVO, LA GUAJIRA"}
+   :location "HATONUEVO, LA GUAJIRA"}
   {:name "Casa de la Cultura Támara Padilla",
    :longitude -75.3059706,
    :latitude 9.3336034,
@@ -410,13 +410,13 @@
    :latitude 6.2488395,
    :source :openstreetmap,
    :homepage "http://www.comfenalcoantioquia.com",
-   :locality "Medellín"}
+   :location "Medellín"}
   {:name
    "Casa de la memoria por la reconciliación y la Paz El Castillo Meta",
    :longitude -73.7943829,
    :latitude 3.5650813,
    :source :openstreetmap,
-   :locality "El Castillo"}
+   :location "El Castillo"}
   {:name "Casa de la Segunda Expedición Botánica",
    :longitude -74.8975848,
    :latitude 5.2006592,
@@ -477,7 +477,7 @@
    :longitude -74.069536,
    :latitude 4.6308151,
    :source :openstreetmap,
-   :locality "Bogotá D.C."}
+   :location "Bogotá D.C."}
   {:name "Casa Museo Juan Vargas",
    :longitude -73.0707483,
    :latitude 5.7385161,
@@ -501,18 +501,18 @@
    :longitude -76.6097237,
    :latitude 2.4424268,
    :source :openstreetmap,
-   :locality "Popayán"}
+   :location "Popayán"}
   {:name "Casa Museo Otraparte",
    :longitude -75.5838794,
    :latitude 6.1791816,
    :source :openstreetmap,
-   :locality "Envigado"}
+   :location "Envigado"}
   {:name "Casa Museo Rafael Núñez",
    :longitude -75.5440975,
    :latitude 10.4311363,
    :source :openstreetmap,
    :homepage "http://www fortificacionescartagena.com",
-   :locality "Cartagena"}
+   :location "Cartagena"}
   {:name "Casa Museo Salsipuedes",
    :longitude -75.5989984,
    :latitude 6.2812457,
@@ -537,7 +537,7 @@
    :longitude -75.6130202,
    :latitude 6.1503963,
    :source :openstreetmap,
-   :locality "Sabaneta, Antioquia"}
+   :location "Sabaneta, Antioquia"}
   {:name "CasaTinta",
    :longitude -74.0710335,
    :latitude 4.6350106,
@@ -559,7 +559,7 @@
    :longitude -73.8164943,
    :latitude 5.6185958,
    :source :openstreetmap,
-   :locality "Chiquinquirá"}
+   :location "Chiquinquirá"}
   {:name "Centro cultural \"La Casa Grande\"",
    :longitude -72.6439724,
    :latitude 2.5733208,
@@ -568,7 +568,7 @@
    :longitude -75.5443187,
    :latitude 10.4220078,
    :source :openstreetmap,
-   :locality "Cartagena"}
+   :location "Cartagena"}
   {:name "Centro Cultural Colombo",
    :longitude -74.061323,
    :latitude 4.680672,
@@ -593,7 +593,7 @@
    :longitude -72.7389953,
    :latitude 8.6471948,
    :source :openstreetmap,
-   :locality "Tibú"}
+   :location "Tibú"}
   {:name "Centro de cultural del Parque los Algarrobillos",
    :longitude -73.2375708,
    :latitude 10.4567289,
@@ -618,12 +618,12 @@
    :longitude -75.929497,
    :latitude 4.2654697,
    :source :openstreetmap,
-   :locality "Sevilla"}
+   :location "Sevilla"}
   {:name "CMDHM",
    :longitude -73.8558437,
    :latitude 7.0626694,
    :source :openstreetmap,
-   :locality "Barrancabermeja"}
+   :location "Barrancabermeja"}
   {:name "Comisaria De Familia Localidad Santafe",
    :longitude -74.07846,
    :latitude 4.6052172,
@@ -666,7 +666,7 @@
    :longitude -74.0737601,
    :latitude 4.6422919,
    :source :openstreetmap,
-   :locality "Bogotá D.C."}
+   :location "Bogotá D.C."}
   {:name "Culto",
    :longitude -74.0563277,
    :latitude 4.6635026,
@@ -700,7 +700,7 @@
    :longitude -75.7049496,
    :latitude 4.8151456,
    :source :openstreetmap,
-   :locality "Pereira"}
+   :location "Pereira"}
   {:name "Escenario",
    :longitude -75.5138282,
    :latitude 2.6619727,
@@ -746,7 +746,7 @@
    :longitude -75.697329,
    :latitude 4.8142727,
    :source :openstreetmap,
-   :locality "Pereira"}
+   :location "Pereira"}
   {:name "Galería Alejandro Obregón",
    :longitude -74.7984334,
    :latitude 10.9964841,
@@ -796,7 +796,7 @@
    :longitude -74.0792449,
    :latitude 4.6264146,
    :source :openstreetmap,
-   :locality "Transversal 29 # 37 38"}
+   :location "Transversal 29 # 37 38"}
   {:name "Ishkra",
    :longitude -75.2126317,
    :latitude 4.4312401,
@@ -818,7 +818,7 @@
    :longitude -76.7229541,
    :latitude 8.0890294,
    :source :openstreetmap,
-   :locality "Turbo"}
+   :location "Turbo"}
   {:name "La Bendita Chicheria",
    :longitude -74.0693285,
    :latitude 4.5973831,
@@ -860,7 +860,7 @@
    :latitude 5.7904296,
    :source :openstreetmap,
    :homepage "https://museomaja.com/",
-   :locality "Jericó"}
+   :location "Jericó"}
   {:name "Maloka",
    :longitude -74.1094912,
    :latitude 4.655432,
@@ -878,7 +878,7 @@
    :latitude 6.2449132,
    :source :openstreetmap,
    :homepage "https://www.matacandelas.com/",
-   :locality "Medellín"}
+   :location "Medellín"}
   {:name "Mega Ludoteca de Tocancipá",
    :longitude -73.9056118,
    :latitude 4.9688329,
@@ -943,7 +943,7 @@
    :longitude -74.217511,
    :latitude 4.5819202,
    :source :openstreetmap,
-   :locality "Soacha Central"}
+   :location "Soacha Central"}
   {:name "Museo arqueológico Calima",
    :longitude -76.4870904,
    :latitude 3.9327908,
@@ -964,12 +964,12 @@
    :longitude -76.6043296,
    :latitude 2.441821,
    :source :openstreetmap,
-   :locality "Popayán"}
+   :location "Popayán"}
   {:name "Museo Arte y Cultura Universal",
    :longitude -75.6574235,
    :latitude 4.6744748,
    :source :openstreetmap,
-   :locality "Filandia"}
+   :location "Filandia"}
   {:name "Museo Aéreo Fénix",
    :longitude -76.3858157,
    :latitude 3.5540327,
@@ -978,7 +978,7 @@
    :longitude -74.7624541,
    :latitude 10.9158428,
    :source :openstreetmap,
-   :locality "Soledad"}
+   :location "Soledad"}
   {:name "Museo Bolivariano de Arte Contemporáneo",
    :longitude -74.1795851,
    :latitude 11.2286948,
@@ -988,7 +988,7 @@
    :longitude -72.6489831,
    :latitude 7.3743674,
    :source :openstreetmap,
-   :locality "Pamplona"}
+   :location "Pamplona"}
   {:name "Museo Casa Consistorial",
    :longitude -75.6428396,
    :latitude 6.1577824,
@@ -998,7 +998,7 @@
    :latitude 6.2458983,
    :source :openstreetmap,
    :homepage "http://www.museocasadelamemoria.org/",
-   :locality "Medellín"}
+   :location "Medellín"}
   {:name "Museo Casa Natal Francisco de Paula Santander",
    :longitude -72.4624713,
    :latitude 7.8338572,
@@ -1042,7 +1042,7 @@
    :longitude -75.6959948,
    :latitude 4.8043237,
    :source :openstreetmap,
-   :locality "Pereira"}
+   :location "Pereira"}
   {:name "Museo de Arte del Quindío MAQUI",
    :longitude -75.6810148,
    :latitude 4.5328672,
@@ -1055,7 +1055,7 @@
    :longitude -73.116861,
    :latitude 7.1199594,
    :source :openstreetmap,
-   :locality "Bucaramanga"}
+   :location "Bucaramanga"}
   {:name "Museo de Arte Moderno de Medellín",
    :longitude -75.5740365,
    :latitude 6.2236744,
@@ -1079,7 +1079,7 @@
    :longitude -75.5798217,
    :latitude 6.2361034,
    :source :openstreetmap,
-   :locality "Medellin"}
+   :location "Medellin"}
   {:name "Museo de Crucifijos",
    :longitude -75.3338258,
    :latitude 6.1729807,
@@ -1161,7 +1161,7 @@
    :longitude -76.0938582,
    :latitude 4.5306849,
    :source :openstreetmap,
-   :locality "La Unión Valle"}
+   :location "La Unión Valle"}
   {:name "Museo de la Vida",
    :longitude -72.9185982,
    :latitude 5.8595503,
@@ -1174,7 +1174,7 @@
    :longitude -72.6928308,
    :latitude 5.9960216,
    :source :openstreetmap,
-   :locality "Socha"}
+   :location "Socha"}
   {:name "Museo de Mulaló",
    :longitude -76.4837741,
    :latitude 3.6353543,
@@ -1184,7 +1184,7 @@
    :latitude 10.478679,
    :source :openstreetmap,
    :homepage "https://www.museodelacordeonvalledupar.com/",
-   :locality "valledupar"}
+   :location "valledupar"}
   {:name "Museo del Algodón",
    :longitude -73.4494705,
    :latitude 6.1601625,
@@ -1227,7 +1227,7 @@
    :latitude 10.9928411,
    :source :openstreetmap,
    :homepage "https://museocarnavaldebarranquilla.org/",
-   :locality "Barranquilla"}
+   :location "Barranquilla"}
   {:name "Museo del Chicó",
    :longitude -74.0439653,
    :latitude 4.6739743,
@@ -1239,7 +1239,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.utadeo.edu.co/es/espacios-fisicos/museos/museo-del-mar",
-   :locality "Bogotá"}
+   :location "Bogotá"}
   {:name "Museo del Milagroso",
    :longitude -76.3026559,
    :latitude 3.8969897,
@@ -1294,7 +1294,7 @@
    :longitude -72.9142272,
    :latitude 5.991952,
    :source :openstreetmap,
-   :locality "2"}
+   :location "2"}
   {:name "Museo El Fósil",
    :longitude -73.5586209,
    :latitude 5.6370558,
@@ -1351,7 +1351,7 @@
    :longitude -73.5149831,
    :latitude 3.369387,
    :source :openstreetmap,
-   :locality "Puerto Santander"}
+   :location "Puerto Santander"}
   {:name "Museo Hato del Hombre Llanero",
    :longitude -72.2819368,
    :latitude 4.813418,
@@ -1397,7 +1397,7 @@
    :longitude -72.882767,
    :latitude 5.5161219,
    :source :openstreetmap,
-   :locality "Aquitania"}
+   :location "Aquitania"}
   {:name "Museo Luis Acuña",
    :longitude -73.5236689,
    :latitude 5.6344249,
@@ -1414,7 +1414,7 @@
    :longitude -73.4545236,
    :latitude 5.5440194,
    :source :openstreetmap,
-   :locality "Cucaita"}
+   :location "Cucaita"}
   {:name "Museo Médico de la Lepra",
    :longitude -74.66778,
    :latitude 4.3772459,
@@ -1428,7 +1428,7 @@
    :latitude 4.6155119,
    :source :openstreetmap,
    :homepage "https://www.museonacional.gov.co/",
-   :locality "Bogotá"}
+   :location "Bogotá"}
   {:name "Museo Norte de Santander y ciudad de Cúcuta",
    :longitude -72.4994028,
    :latitude 7.8832042,
@@ -1454,7 +1454,7 @@
    :latitude 6.2784154,
    :source :openstreetmap,
    :homepage "https://museopedronelgomez.org/",
-   :locality "Medellín"}
+   :location "Medellín"}
   {:name "museo popular de siloé",
    :longitude -76.5596547,
    :latitude 3.4156858,
@@ -1468,7 +1468,7 @@
    :longitude -73.6692877,
    :latitude 5.9983138,
    :source :openstreetmap,
-   :locality "Vélez"}
+   :location "Vélez"}
   {:name "museo religioso",
    :longitude -75.6220328,
    :latitude 8.8744035,
@@ -1485,7 +1485,7 @@
    :longitude -75.4902463,
    :latitude 5.0618439,
    :source :openstreetmap,
-   :locality "Manizales"}
+   :location "Manizales"}
   {:name "Museo veredal",
    :longitude -75.3217361,
    :latitude 4.5559041,
@@ -1494,13 +1494,13 @@
    :longitude -72.4449378,
    :latitude 6.4120226,
    :source :openstreetmap,
-   :locality "El Cocuy"}
+   :location "El Cocuy"}
   {:name "Museo y Jardines El Castillo",
    :longitude -75.5696585,
    :latitude 6.1903607,
    :source :openstreetmap,
    :homepage "https://www.museoelcastillo.org/",
-   :locality "Medellín"}
+   :location "Medellín"}
   {:name "MuseoZenú Manuel Huertas Vergara",
    :longitude -75.3855166,
    :latitude 9.302577,
@@ -1546,18 +1546,18 @@
    :latitude 4.6120661,
    :source :openstreetmap,
    :homepage "https://www.planetariodebogota.gov.co/",
-   :locality "Bogotá"}
+   :location "Bogotá"}
   {:name "Planetario de Medellín",
    :longitude -75.5661052,
    :latitude 6.2689919,
    :source :openstreetmap,
    :homepage "https://www.planetariomedellin.org",
-   :locality "Medellin"}
+   :location "Medellin"}
   {:name "Platino Real",
    :longitude -74.1390805,
    :latitude 4.5941452,
    :source :openstreetmap,
-   :locality "Bogotá D.C."}
+   :location "Bogotá D.C."}
   {:name "Puentes que Unen",
    :longitude -74.0785977,
    :latitude 4.6425942,
@@ -1631,12 +1631,12 @@
    :longitude -76.5375477,
    :latitude 3.4429219,
    :source :openstreetmap,
-   :locality "cali"}
+   :location "cali"}
   {:name "Teatro al Aire Libre Los Cristales",
    :longitude -76.5465043,
    :latitude 3.4447652,
    :source :openstreetmap,
-   :locality "cali"}
+   :location "cali"}
   {:name "Tres revuelos",
    :longitude -76.555291,
    :latitude 2.528649,
@@ -1654,7 +1654,7 @@
    :latitude 3.4290815,
    :source :openstreetmap,
    :homepage "https://yawacali.com/",
-   :locality "Cali"}
+   :location "Cali"}
   {:name "Yisus Art Studio",
    :longitude -75.5934323,
    :latitude 6.2359443,

@@ -9,13 +9,13 @@
    :latitude 31.957680457247264,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32643",
-   :locality "Benguerir "}
+   :location "Benguerir "}
   {:name "Random Discgolf Test",
    :longitude -5.119906636902641,
    :latitude 33.692604627908466,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31579",
-   :locality "أيت السبع لجروف"}],
+   :location "أيت السبع لجروف"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

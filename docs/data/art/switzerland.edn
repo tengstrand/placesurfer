@@ -16,7 +16,7 @@
    :latitude 46.7959168,
    :source :openstreetmap,
    :homepage "https://www.fr.ch/mhnf/le-projet-de-nouveau-musee",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "1",
@@ -62,7 +62,7 @@
    :latitude 47.39002,
    :source :openstreetmap,
    :homepage "https://aargauerkunsthaus.ch/",
-   :locality "Aarau",
+   :location "Aarau",
    :image "",
    :description ""}
   {:name "Abegg Stiftung",
@@ -70,7 +70,7 @@
    :latitude 46.8154769,
    :source :openstreetmap,
    :homepage "https://www.abegg-stiftung.ch/",
-   :locality "Riggisberg",
+   :location "Riggisberg",
    :image "",
    :description ""}
   {:name "Ackermannshof",
@@ -86,28 +86,28 @@
    :source :openstreetmap,
    :homepage
    "http://www.kunstraum-kreuzlingen.ch/ad_dietrich-haus.htm",
-   :locality "Berlingen am Untersee",
+   :location "Berlingen am Untersee",
    :image "",
    :description ""}
   {:name "Adéléa",
    :longitude 6.1343931,
    :latitude 46.2118612,
    :source :openstreetmap,
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Agenstein Haus",
    :longitude 7.5535011,
    :latitude 46.6601694,
    :source :openstreetmap,
-   :locality "Erlenbach im Simmental",
+   :location "Erlenbach im Simmental",
    :image "",
    :description ""}
   {:name "Agrar-Museum",
    :longitude 9.1264446,
    :latitude 47.4987207,
    :source :openstreetmap,
-   :locality "Hosenruck",
+   :location "Hosenruck",
    :image "",
    :description ""}
   {:name "Ai Art",
@@ -121,7 +121,7 @@
    :latitude 46.5207243,
    :source :openstreetmap,
    :homepage "https://www.aisance-creativite.ch/",
-   :locality "Pully",
+   :location "Pully",
    :image "",
    :description ""}
   {:name "akku Kunstplattform",
@@ -142,7 +142,7 @@
    :latitude 46.8172692,
    :source :openstreetmap,
    :homepage "http://www.alberto-giacometti-museum.ch",
-   :locality "Sent",
+   :location "Sent",
    :image "",
    :description ""}
   {:name "Alphüttenmuseum",
@@ -150,7 +150,7 @@
    :latitude 46.8550598,
    :source :openstreetmap,
    :homepage "http://kempfklaus.ch",
-   :locality "Unterschächen",
+   :location "Unterschächen",
    :image "",
    :description ""}
   {:name "Alpines Museum der Schweiz",
@@ -158,7 +158,7 @@
    :latitude 46.9440652,
    :source :openstreetmap,
    :homepage "https://www.alpinesmuseum.ch",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Alpinmuseum",
@@ -166,7 +166,7 @@
    :latitude 46.9390355,
    :source :openstreetmap,
    :homepage "https://www.alpinmuseum-gl.ch/",
-   :locality "Braunwald",
+   :location "Braunwald",
    :image "",
    :description ""}
   {:name "Alpmuseum",
@@ -186,14 +186,14 @@
    :latitude 46.1862955,
    :source :openstreetmap,
    :homepage "https://www.ecomuseum.ch",
-   :locality "Gabi (Simplon)",
+   :location "Gabi (Simplon)",
    :image "",
    :description ""}
   {:name "Alte Kirche St. Georg und Nikolaus",
    :longitude 8.6249978,
    :latitude 46.9026997,
    :source :openstreetmap,
-   :locality "Flüelen",
+   :location "Flüelen",
    :image "",
    :description ""}
   {:name "Alte Post",
@@ -207,7 +207,7 @@
    :longitude 7.9218173,
    :latitude 47.136044,
    :source :openstreetmap,
-   :locality "Zell LU",
+   :location "Zell LU",
    :image "",
    :description ""}
   {:name "alter Bären",
@@ -228,7 +228,7 @@
    :source :openstreetmap,
    :homepage
    "https://mmbe.ch/wspx/de/museumswelt/museum-spittel-buren-a.d.aare/",
-   :locality "Büren an der Aare",
+   :location "Büren an der Aare",
    :image "",
    :description ""}
   {:name "Altes Bad Pfäfers",
@@ -243,7 +243,7 @@
    :latitude 47.3941376,
    :source :openstreetmap,
    :homepage "https://schwaenberg.ch",
-   :locality "Herisau",
+   :location "Herisau",
    :image "",
    :description ""}
   {:name "Altes Spritzenhaus",
@@ -257,7 +257,7 @@
    :latitude 47.3870066,
    :source :openstreetmap,
    :homepage "https://zeughausteufen.ch/",
-   :locality "Teufen AR",
+   :location "Teufen AR",
    :image "",
    :description ""}
   {:name "Anatomisches Museum",
@@ -265,7 +265,7 @@
    :latitude 47.5648908,
    :source :openstreetmap,
    :homepage "https://anatomie.unibas.ch/museum/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Ancienne Poste",
@@ -273,14 +273,14 @@
    :latitude 47.0592348,
    :source :openstreetmap,
    :homepage "https://www.ancienne-poste.ch/",
-   :locality "Le Locle",
+   :location "Le Locle",
    :image "",
    :description ""}
   {:name "Ancienne Scierie",
    :longitude 7.5747185,
    :latitude 46.1780666,
    :source :openstreetmap,
-   :locality "Grimentz",
+   :location "Grimentz",
    :image "",
    :description ""}
   {:name "Anna Göldi-Museum",
@@ -303,7 +303,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.iaw.unibe.ch/forschung/archaeologie_des_mittelmeerraumes/antikensammlung/index_ger.html",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Appenzeller Brauchtumsmuseum Urnäsch",
@@ -311,7 +311,7 @@
    :latitude 47.3173352,
    :source :openstreetmap,
    :homepage "http://www.museum-urnaesch.ch",
-   :locality "Urnäsch",
+   :location "Urnäsch",
    :image "",
    :description ""}
   {:name "Appenzeller Volkskunde-Museum",
@@ -319,7 +319,7 @@
    :latitude 47.3729142,
    :source :openstreetmap,
    :homepage "https://www.appenzeller-museum.ch/",
-   :locality "Stein AR",
+   :location "Stein AR",
    :image "",
    :description ""}
   {:name "Art & Collections",
@@ -327,7 +327,7 @@
    :latitude 46.3124896,
    :source :openstreetmap,
    :homepage "https://www.art-et-collections.ch/",
-   :locality "Crans-Montana",
+   :location "Crans-Montana",
    :image "",
    :description ""}
   {:name "Art Amazone",
@@ -341,7 +341,7 @@
    :latitude 47.383033,
    :source :openstreetmap,
    :homepage "https://artempowers.ch",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Art Forum Ute Barth",
@@ -349,7 +349,7 @@
    :latitude 47.3556277,
    :source :openstreetmap,
    :homepage "http://www.utebarth.com/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Art&Cadre",
@@ -357,7 +357,7 @@
    :latitude 46.2789038,
    :source :openstreetmap,
    :homepage "https://www.artcadre.com/",
-   :locality "Versoix",
+   :location "Versoix",
    :image "",
    :description ""}
   {:name "art-insect",
@@ -379,7 +379,7 @@
    :latitude 46.2117915,
    :source :openstreetmap,
    :homepage "https://www.lescreateliers.ch/",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Association RVT-Historique",
@@ -408,21 +408,21 @@
    :longitude 7.5453661,
    :latitude 47.0496132,
    :source :openstreetmap,
-   :locality "Hindelbank",
+   :location "Hindelbank",
    :image "",
    :description ""}
   {:name "Atelier Guido Caminada",
    :longitude 8.7419154,
    :latitude 46.2257302,
    :source :openstreetmap,
-   :locality "Gordevio",
+   :location "Gordevio",
    :image "",
    :description ""}
   {:name "Atelier Löwenhaus – Anne M. Stauffer & Yasmin Vieli",
    :longitude 9.5758363,
    :latitude 46.9816065,
    :source :openstreetmap,
-   :locality "Malans GR",
+   :location "Malans GR",
    :image "",
    :description ""}
   {:name "Atelier Maya Rochat",
@@ -430,7 +430,7 @@
    :latitude 46.4899794,
    :source :openstreetmap,
    :homepage "https://mayarochat.com/en",
-   :locality "Cully",
+   :location "Cully",
    :image "",
    :description ""}
   {:name "Atelier Suzanne Rüegg",
@@ -443,7 +443,7 @@
    :longitude 8.8500132,
    :latitude 47.3038695,
    :source :openstreetmap,
-   :locality "Hinwil",
+   :location "Hinwil",
    :image "",
    :description ""}
   {:name "Atelier-Musée Encre & Plomb",
@@ -451,7 +451,7 @@
    :latitude 46.5341317,
    :source :openstreetmap,
    :homepage "https://encretplomb.ch/",
-   :locality "Chavannes-près-Renens",
+   :location "Chavannes-près-Renens",
    :image "",
    :description ""}
   {:name "Atelier-musée Espace Gutenberg",
@@ -459,7 +459,7 @@
    :latitude 46.7981066,
    :source :openstreetmap,
    :homepage "https://espacegutenberg.ch/",
-   :locality "Yvonand",
+   :location "Yvonand",
    :image "",
    :description ""}
   {:name "ATHMOS Gallery",
@@ -473,14 +473,14 @@
    :longitude 7.4217108,
    :latitude 46.940705,
    :source :openstreetmap,
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Ausstellung Schalensteine in der Region Viamala",
    :longitude 9.4279739,
    :latitude 46.5942017,
    :source :openstreetmap,
-   :locality "Andeer",
+   :location "Andeer",
    :image "",
    :description ""}
   {:name "Ausstellungsraum Klingental",
@@ -488,7 +488,7 @@
    :latitude 47.5626431,
    :source :openstreetmap,
    :homepage "https://www.mkk.ch/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Bacio",
@@ -518,7 +518,7 @@
    :latitude 46.6309209,
    :source :openstreetmap,
    :homepage "https://www.bahnmuseum-albula.ch/",
-   :locality "Bergün/Bravuogn",
+   :location "Bergün/Bravuogn",
    :image "",
    :description ""}
   {:name "Bahnpark Brugg",
@@ -533,14 +533,14 @@
    :latitude 47.5545085,
    :source :openstreetmap,
    :homepage "https://www.baliere-frauenfeld.ch/",
-   :locality "Frauenfeld",
+   :location "Frauenfeld",
    :image "",
    :description ""}
   {:name "Bally-Schuhmuseum",
    :longitude 8.0017951,
    :latitude 47.3718471,
    :source :openstreetmap,
-   :locality "Schönenwerd",
+   :location "Schönenwerd",
    :image "",
    :description ""}
   {:name "Barryland - Musée et Chiens du Saint-Bernard",
@@ -548,7 +548,7 @@
    :latitude 46.0952397,
    :source :openstreetmap,
    :homepage "https://barryland.ch/de/",
-   :locality "Martigny",
+   :location "Martigny",
    :image "",
    :description ""}
   {:name "Barzmühle",
@@ -569,7 +569,7 @@
    :longitude 7.2138347,
    :latitude 46.9583074,
    :source :openstreetmap,
-   :locality "Ferenbalm",
+   :location "Ferenbalm",
    :image "",
    :description ""}
   {:name "beaugarage",
@@ -583,21 +583,21 @@
    :longitude 8.7037176,
    :latitude 47.3472751,
    :source :openstreetmap,
-   :locality "Uster",
+   :location "Uster",
    :image "",
    :description ""}
   {:name "Begegnungszentrum",
    :longitude 7.1924332,
    :latitude 46.8453242,
    :source :openstreetmap,
-   :locality "Düdingen",
+   :location "Düdingen",
    :image "",
    :description ""}
   {:name "Begegnungszentrum",
    :longitude 7.2487825,
    :latitude 46.856529,
    :source :openstreetmap,
-   :locality "Schmitten FR",
+   :location "Schmitten FR",
    :image "",
    :description ""}
   {:name "Begegnungszentrum Riedholz",
@@ -611,7 +611,7 @@
    :latitude 47.5664743,
    :source :openstreetmap,
    :homepage "https://bellevue-fotografie.ch",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Bergbaumuseum",
@@ -633,7 +633,7 @@
    :longitude 7.8017456,
    :latitude 46.1756761,
    :source :openstreetmap,
-   :locality "St. Niklaus VS",
+   :location "St. Niklaus VS",
    :image "",
    :description ""}
   {:name "Bergsturzmuseum",
@@ -662,7 +662,7 @@
    :latitude 47.4738499,
    :source :openstreetmap,
    :homepage "https://www.bergwerkherznach.ch/",
-   :locality "Herznach",
+   :location "Herznach",
    :image "",
    :description ""}
   {:name "Bergwerkmuseum",
@@ -670,7 +670,7 @@
    :latitude 47.253292,
    :source :openstreetmap,
    :homepage "http://www.bergwerk-kaepfnach.ch",
-   :locality "Horgen",
+   :location "Horgen",
    :image "",
    :description ""}
   {:name "Bernapark Museum - Kunstraum Thomas Demarmels",
@@ -694,7 +694,7 @@
    :latitude 47.5658275,
    :source :openstreetmap,
    :homepage "https://www.garedunord.ch/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Beyeler Art Editions",
@@ -702,7 +702,7 @@
    :latitude 47.5861216,
    :source :openstreetmap,
    :homepage "https://www.kunstraumriehen.ch/",
-   :locality "Riehen",
+   :location "Riehen",
    :image "",
    :description ""}
   {:name "Bezirksmuseum Höfli",
@@ -710,7 +710,7 @@
    :latitude 47.5869518,
    :source :openstreetmap,
    :homepage "https://www.museumzz.ch/",
-   :locality "Bad Zurzach",
+   :location "Bad Zurzach",
    :image "",
    :description ""}
   {:name "Bielensäge",
@@ -725,7 +725,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.schuetzengarten.ch/de/biererlebnis/bierflaschenmuseum",
-   :locality "St.Gallen",
+   :location "St.Gallen",
    :image "",
    :description ""}
   {:name "Biermuseum",
@@ -739,7 +739,7 @@
    :latitude 47.3694326,
    :source :openstreetmap,
    :homepage "https://www.bildhalle.ch",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Bioscope",
@@ -767,7 +767,7 @@
    :latitude 47.0002195,
    :source :openstreetmap,
    :homepage "https://www.blindenmuseum.ch",
-   :locality "Zollikofen",
+   :location "Zollikofen",
    :image "",
    :description ""}
   {:name "Bloodhound-Museum",
@@ -782,7 +782,7 @@
    :latitude 47.3707685,
    :source :openstreetmap,
    :homepage "https://www.bluevelvetprojects.com/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Bourbaki Panorama",
@@ -810,14 +810,14 @@
    :latitude 47.4051799,
    :source :openstreetmap,
    :homepage "https://weberpark.ch/",
-   :locality "Dietikon",
+   :location "Dietikon",
    :image "",
    :description ""}
   {:name "Brücker Museum Teufen",
    :longitude 9.4001435,
    :latitude 47.3921158,
    :source :openstreetmap,
-   :locality "Teufen AR",
+   :location "Teufen AR",
    :image "",
    :description ""}
   {:name "Brünig Dampfbahn BDB",
@@ -825,7 +825,7 @@
    :latitude 46.6910854,
    :source :openstreetmap,
    :homepage "https://www.ballenberg-dampfbahn.ch/",
-   :locality "Interlaken",
+   :location "Interlaken",
    :image "",
    :description ""}
   {:name "Bucher Museum",
@@ -840,7 +840,7 @@
    :latitude 47.0221275,
    :source :openstreetmap,
    :homepage "https://www.bundesbrief.ch/en",
-   :locality "Schwyz",
+   :location "Schwyz",
    :image "",
    :description ""}
   {:name "Burg Maur",
@@ -855,7 +855,7 @@
    :latitude 47.1841057,
    :source :openstreetmap,
    :homepage "https://www.bretzelstube.ch/service.html",
-   :locality "Benken SG",
+   :location "Benken SG",
    :image "",
    :description ""}
   {:name "Bündner Kunstmuseum",
@@ -895,7 +895,7 @@
    :latitude 47.5545291,
    :source :openstreetmap,
    :homepage "https://www.cartoonmuseum.ch/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Casa Latour",
@@ -908,14 +908,14 @@
    :longitude 8.9638829,
    :latitude 46.0705861,
    :source :openstreetmap,
-   :locality "Tesserete",
+   :location "Tesserete",
    :image "",
    :description ""}
   {:name "Casa Pasquée",
    :longitude 8.9427399,
    :latitude 46.0108429,
    :source :openstreetmap,
-   :locality "Massagno",
+   :location "Massagno",
    :image "",
    :description ""}
   {:name "Casa Pessina",
@@ -935,7 +935,7 @@
    :longitude 9.427936,
    :latitude 46.6006455,
    :source :openstreetmap,
-   :locality "Andeer",
+   :location "Andeer",
    :image "",
    :description ""}
   {:name "Castello Visconteo",
@@ -957,7 +957,7 @@
    :latitude 47.1519026,
    :source :openstreetmap,
    :homepage "https://www.musee-de-saint-imier.ch/",
-   :locality "St-Imier",
+   :location "St-Imier",
    :image "",
    :description ""}
   {:name "Centre Albert Anker",
@@ -971,7 +971,7 @@
    :longitude 7.0543663,
    :latitude 46.6161058,
    :source :openstreetmap,
-   :locality "Bulle",
+   :location "Bulle",
    :image "",
    :description ""}
   {:name "Centre Culturel Le Baladin",
@@ -986,7 +986,7 @@
    :latitude 47.0131955,
    :source :openstreetmap,
    :homepage "https://www.centre-samekh.ch/",
-   :locality "Les Geneveys-sur-Coffrane",
+   :location "Les Geneveys-sur-Coffrane",
    :image "",
    :description ""}
   {:name "Centre de Formation Artistique et Littéraire (C–FAL)",
@@ -994,7 +994,7 @@
    :latitude 46.1954799,
    :source :openstreetmap,
    :homepage "https://cfal.allyou.net/",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Centre de la photographie",
@@ -1002,7 +1002,7 @@
    :latitude 46.1986968,
    :source :openstreetmap,
    :homepage "https://www.centrephotogeneve.ch/",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Centre de quartier des Bossons - Plaines-du-Loup",
@@ -1010,7 +1010,7 @@
    :latitude 46.5378214,
    :source :openstreetmap,
    :homepage "https://bossons.ch/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Centre Dürrenmatt",
@@ -1018,7 +1018,7 @@
    :latitude 47.0012165,
    :source :openstreetmap,
    :homepage "https://www.cdn.ch/",
-   :locality "Neuchâtel",
+   :location "Neuchâtel",
    :image "",
    :description ""}
   {:name "Centre Général Guisan",
@@ -1033,7 +1033,7 @@
    :latitude 47.24332,
    :source :openstreetmap,
    :homepage "https://www.centre-cerlatez.ch/",
-   :locality "Saignelégier",
+   :location "Saignelégier",
    :image "",
    :description ""}
   {:name
@@ -1054,7 +1054,7 @@
    :longitude 8.9767407,
    :latitude 45.8674278,
    :source :openstreetmap,
-   :locality "Mendrisio",
+   :location "Mendrisio",
    :image "",
    :description ""}
   {:name "Centro San Maurizio",
@@ -1082,14 +1082,14 @@
    :latitude 46.8161034,
    :source :openstreetmap,
    :homepage "https://www.kaeserberg.ch/",
-   :locality "Granges-Paccot",
+   :location "Granges-Paccot",
    :image "",
    :description ""}
   {:name "Chez Camille Bloch",
    :longitude 7.0642142,
    :latitude 47.1758372,
    :source :openstreetmap,
-   :locality "Courtelary",
+   :location "Courtelary",
    :image "",
    :description ""}
   {:name "ChocoWelt",
@@ -1104,7 +1104,7 @@
    :latitude 47.3633439,
    :source :openstreetmap,
    :homepage "https://christopheguye.com",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Chärnehus",
@@ -1112,7 +1112,7 @@
    :latitude 47.1260226,
    :source :openstreetmap,
    :homepage "https://www.chaernehus.ch",
-   :locality "Einsiedeln",
+   :location "Einsiedeln",
    :image "",
    :description ""}
   {:name "Chüechlihaus",
@@ -1135,7 +1135,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.omegawatches.com/planet-omega/heritage/museum",
-   :locality "Biel/Bienne",
+   :location "Biel/Bienne",
    :image "",
    :description ""}
   {:name "Club 44",
@@ -1172,7 +1172,7 @@
    :latitude 46.5273164,
    :source :openstreetmap,
    :homepage "https://www.artbrut.ch",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Colonia Libra Italiana",
@@ -1180,7 +1180,7 @@
    :latitude 47.0518845,
    :source :openstreetmap,
    :homepage "https://lacolonia.ch/",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Computermuseum beider Basel",
@@ -1206,7 +1206,7 @@
    :longitude 6.5495361,
    :latitude 46.5467697,
    :source :openstreetmap,
-   :locality "Bussigny",
+   :location "Bussigny",
    :image "",
    :description ""}
   {:name "Cuadro 22",
@@ -1249,7 +1249,7 @@
    :latitude 47.3634467,
    :source :openstreetmap,
    :homepage "https://www.delemontbd.ch/",
-   :locality "Delémont",
+   :location "Delémont",
    :image "",
    :description ""}
   {:name "Der Kleine Prinz und seine Welt",
@@ -1271,7 +1271,7 @@
    :latitude 47.6936625,
    :source :openstreetmap,
    :homepage "https://diskette.ch",
-   :locality "Schaffhausen",
+   :location "Schaffhausen",
    :image "",
    :description ""}
   {:name "Dienstgebäude",
@@ -1312,14 +1312,14 @@
    :latitude 47.048381,
    :source :openstreetmap,
    :homepage "https://www.dorfmuseum-jegenstorf.ch",
-   :locality "Jegenstorf",
+   :location "Jegenstorf",
    :image "",
    :description ""}
   {:name "Dorfmuseum",
    :longitude 8.0743644,
    :latitude 47.3888221,
    :source :openstreetmap,
-   :locality "Buchs AG",
+   :location "Buchs AG",
    :image "",
    :description ""}
   {:name "Dorfmuseum",
@@ -1339,7 +1339,7 @@
    :latitude 47.3457966,
    :source :openstreetmap,
    :homepage "http://dorfmuseumseon.anydns.info/",
-   :locality "Seon",
+   :location "Seon",
    :image "",
    :description ""}
   {:name "Dorfmuseum",
@@ -1363,7 +1363,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.boenigen.ch/vereine/22-heimatverein-dorfmuseum-boenigen.html",
-   :locality "Bönigen",
+   :location "Bönigen",
    :image "",
    :description ""}
   {:name "Dorfmuseum Hüntwangen",
@@ -1379,7 +1379,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.koelliken.ch/freizeit/sehenswuerdigkeiten/dorfmuseum/information-und-kontakte.html/271",
-   :locality "Kölliken",
+   :location "Kölliken",
    :image "",
    :description ""}
   {:name "Dorfmuseum Mellikon",
@@ -1393,7 +1393,7 @@
    :longitude 7.8409909,
    :latitude 47.5592793,
    :source :openstreetmap,
-   :locality "Möhlin",
+   :location "Möhlin",
    :image "",
    :description ""}
   {:name "Dorfmuseum Obermutten",
@@ -1401,7 +1401,7 @@
    :latitude 46.672444,
    :source :openstreetmap,
    :homepage "https://www.obermutten.ch/dorfmuseum-obermutten/",
-   :locality "Obermutten",
+   :location "Obermutten",
    :image "",
    :description ""}
   {:name "Dorfmuseum Sool",
@@ -1415,7 +1415,7 @@
    :longitude 8.078762,
    :latitude 47.375651,
    :source :openstreetmap,
-   :locality "Suhr",
+   :location "Suhr",
    :image "",
    :description ""}
   {:name "Dorfmuseum Therwil",
@@ -1429,7 +1429,7 @@
    :latitude 46.9104561,
    :source :openstreetmap,
    :homepage "https://www.ortsgemeinde-vaettis.ch/kultur2/museum",
-   :locality "Vättis",
+   :location "Vättis",
    :image "",
    :description ""}
   {:name "Dracolorium",
@@ -1444,7 +1444,7 @@
    :latitude 47.3716904,
    :source :openstreetmap,
    :homepage "https://dreamfactory.ch",
-   :locality "Degersheim",
+   :location "Degersheim",
    :image "",
    :description ""}
   {:name "Drechslerei Museum Chlithal",
@@ -1452,7 +1452,7 @@
    :latitude 47.3489184,
    :source :openstreetmap,
    :homepage "https://drechslereimuseum.ch",
-   :locality "Steg im Tösstal",
+   :location "Steg im Tösstal",
    :image "",
    :description ""}
   {:name "Drehpunkt Aarau",
@@ -1460,7 +1460,7 @@
    :latitude 47.3987663,
    :source :openstreetmap,
    :homepage "https://www.netzwerk-asyl.ch/projekte/drehpunkt/",
-   :locality "Aarau",
+   :location "Aarau",
    :image "",
    :description ""}
   {:name "Duplex : espace d'arts contemporains",
@@ -1468,7 +1468,7 @@
    :latitude 46.2101713,
    :source :openstreetmap,
    :homepage "https://www.aduplex.ch/",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Dutoit Rahmenkunst",
@@ -1476,7 +1476,7 @@
    :latitude 47.3669144,
    :source :openstreetmap,
    :homepage "https://www.dutoit-rahmenkunst.ch/",
-   :locality "Unterentfelden",
+   :location "Unterentfelden",
    :image "",
    :description ""}
   {:name "Dynamo",
@@ -1484,7 +1484,7 @@
    :latitude 47.3833127,
    :source :openstreetmap,
    :homepage "https://www.dynamo.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Dörflihaus-Museum",
@@ -1501,7 +1501,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.gossau-zh.ch/freizeit/ortsmuseum-duerstelerhaus.html",
-   :locality "Ottikon (Gossau ZH)",
+   :location "Ottikon (Gossau ZH)",
    :image "",
    :description ""}
   {:name "Ebianum Baggermuseum",
@@ -1509,7 +1509,7 @@
    :latitude 47.5658823,
    :source :openstreetmap,
    :homepage "https://www.ebianum.ch/",
-   :locality "Fisibach",
+   :location "Fisibach",
    :image "",
    :description ""}
   {:name "Echosphère",
@@ -1517,7 +1517,7 @@
    :latitude 46.8043296,
    :source :openstreetmap,
    :homepage "https://echosphere.ch/",
-   :locality "Payerne",
+   :location "Payerne",
    :image "",
    :description ""}
   {:name "Eck – Raum für Kunst",
@@ -1525,7 +1525,7 @@
    :latitude 47.3935913,
    :source :openstreetmap,
    :homepage "https://www.kunst-im-eck.ch/",
-   :locality "Aarau",
+   :location "Aarau",
    :image "",
    :description ""}
   {:name "Eduard Spörri Museum",
@@ -1533,7 +1533,7 @@
    :latitude 47.4656384,
    :source :openstreetmap,
    :homepage "https://www.eduardspoerri.ch/",
-   :locality "Wettingen",
+   :location "Wettingen",
    :image "",
    :description ""}
   {:name "Einsteinhaus",
@@ -1541,7 +1541,7 @@
    :latitude 46.9476741,
    :source :openstreetmap,
    :homepage "https://www.einstein-bern.ch",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Eisenbahn-Sammlung Uster",
@@ -1549,7 +1549,7 @@
    :latitude 47.35062,
    :source :openstreetmap,
    :homepage "https://eisenbahnsammlung.ch/",
-   :locality "Uster",
+   :location "Uster",
    :image "",
    :description ""}
   {:name "Eisenbahnbetriebslabor Schweiz AG",
@@ -1597,7 +1597,7 @@
    :latitude 47.4487577,
    :source :openstreetmap,
    :homepage "https://www.emma-kunz.com/",
-   :locality "Würenlos",
+   :location "Würenlos",
    :image "",
    :description ""}
   {:name "Emmentaler Schaukäserei",
@@ -1605,7 +1605,7 @@
    :latitude 47.0636294,
    :source :openstreetmap,
    :homepage "https://www.emmentaler-schaukaeserei.ch/",
-   :locality "Affoltern i. E.",
+   :location "Affoltern i. E.",
    :image "",
    :description ""}
   {:name "EMSORAMA",
@@ -1620,7 +1620,7 @@
    :latitude 47.2242839,
    :source :openstreetmap,
    :homepage "https://www.enea.ch/baummuseum/",
-   :locality "Jona",
+   :location "Jona",
    :image "",
    :description ""}
   {:name "Enter Technikwelt Solothurn",
@@ -1647,7 +1647,7 @@
    :longitude 8.4684172,
    :latitude 46.9703147,
    :source :openstreetmap,
-   :locality "Beckenried",
+   :location "Beckenried",
    :image "",
    :description ""}
   {:name "Espace 25",
@@ -1662,7 +1662,7 @@
    :latitude 46.5246946,
    :source :openstreetmap,
    :homepage "https://amaretto.online/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Espace des Inventions",
@@ -1670,7 +1670,7 @@
    :latitude 46.5195145,
    :source :openstreetmap,
    :homepage "https://www.espace-des-inventions.ch/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Espace Ella Maillart",
@@ -1685,7 +1685,7 @@
    :latitude 46.6041042,
    :source :openstreetmap,
    :homepage "https://espacehorloger.ch/",
-   :locality "Le Sentier",
+   :location "Le Sentier",
    :image "",
    :description ""}
   {:name "Espace Indiana",
@@ -1693,7 +1693,7 @@
    :latitude 46.4640709,
    :source :openstreetmap,
    :homepage "https://indianavevey.ch",
-   :locality "Vevey",
+   :location "Vevey",
    :image "",
    :description ""}
   {:name "Espace La Bottolière",
@@ -1701,21 +1701,21 @@
    :latitude 46.4594787,
    :source :openstreetmap,
    :homepage "https://bottoliere.ch/",
-   :locality "Vevey",
+   :location "Vevey",
    :image "",
    :description ""}
   {:name "Espace La Velle",
    :longitude 6.959307,
    :latitude 47.2277077,
    :source :openstreetmap,
-   :locality "Le Noirmont",
+   :location "Le Noirmont",
    :image "",
    :description ""}
   {:name "Evangelisches Kirchgemeindehaus",
    :longitude 9.6102115,
    :latitude 47.4083651,
    :source :openstreetmap,
-   :locality "Balgach",
+   :location "Balgach",
    :image "",
    :description ""}
   {:name "Extraball",
@@ -1736,7 +1736,7 @@
    :longitude 8.7673271,
    :latitude 47.36432,
    :source :openstreetmap,
-   :locality "Pfäffikon ZH",
+   :location "Pfäffikon ZH",
    :image "",
    :description ""}
   {:name "FBW-Museum",
@@ -1744,7 +1744,7 @@
    :latitude 47.3283404,
    :source :openstreetmap,
    :homepage "https://www.fbw.ch/",
-   :locality "Wetzikon",
+   :location "Wetzikon",
    :image "",
    :description ""}
   {:name "FCZ Museum",
@@ -1759,7 +1759,7 @@
    :latitude 46.9831756,
    :source :openstreetmap,
    :homepage "https://nidwaldner-museum.ch/oeffnungszeiten/",
-   :locality "Stansstad",
+   :location "Stansstad",
    :image "",
    :description ""}
   {:name "Festung Naters",
@@ -1781,7 +1781,7 @@
    :latitude 47.4432619,
    :source :openstreetmap,
    :homepage "http://www.festung.ch",
-   :locality "St. Margrethen",
+   :location "St. Margrethen",
    :image "",
    :description ""}
   {:name "Festungsmuseum Reuenthal",
@@ -1816,7 +1816,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.feuerwehrverein-maennedorf.ch/Fotos/Museum.html",
-   :locality "Männedorf",
+   :location "Männedorf",
    :image "",
    :description ""}
   {:name "Feuerwehrmuseum",
@@ -1824,7 +1824,7 @@
    :latitude 47.283878,
    :source :openstreetmap,
    :homepage "https://www.wali118.ch/museum",
-   :locality "Wattwil",
+   :location "Wattwil",
    :image "",
    :description ""}
   {:name "Feuerwehrmuseum",
@@ -1838,7 +1838,7 @@
    :latitude 47.4173212,
    :source :openstreetmap,
    :homepage "https://nfsg.ch/museum/",
-   :locality "St.Gallen",
+   :location "St.Gallen",
    :image "",
    :description ""}
   {:name "Feuerwehrmuseum",
@@ -1852,7 +1852,7 @@
    :latitude 47.3021692,
    :source :openstreetmap,
    :homepage "https://www.ortsmuseum.ch/",
-   :locality "Hinwil",
+   :location "Hinwil",
    :image "",
    :description ""}
   {:name "FFA Museum – Fliegermuseum Fahrzeugmuseum Altenrhein",
@@ -1860,7 +1860,7 @@
    :latitude 47.4884466,
    :source :openstreetmap,
    :homepage "https://ffamuseum.ch/",
-   :locality "Altenrhein",
+   :location "Altenrhein",
    :image "",
    :description ""}
   {:name "FIFA Museum",
@@ -1868,7 +1868,7 @@
    :latitude 47.3635785,
    :source :openstreetmap,
    :homepage "https://www.fifamuseum.com/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Filiale",
@@ -1889,7 +1889,7 @@
    :latitude 46.2978171,
    :source :openstreetmap,
    :homepage "https://www.fim-rmm.com",
-   :locality "Mies",
+   :location "Mies",
    :image "",
    :description ""}
   {:name "Fine Art Gallery & Contemporary Jewelry",
@@ -1903,7 +1903,7 @@
    :latitude 47.0780331,
    :source :openstreetmap,
    :homepage "https://www.fischereimuseum-glarus.ch/museum-des-kfvg",
-   :locality "Netstal",
+   :location "Netstal",
    :image "",
    :description ""}
   {:name "Flachs- und Weinbaumuseum",
@@ -1911,7 +1911,7 @@
    :latitude 47.5273348,
    :source :openstreetmap,
    :homepage "http://www.museum-neftenbach.ch/",
-   :locality "Neftenbach",
+   :location "Neftenbach",
    :image "",
    :description ""}
   {:name "Flaschenmuseum Willisau",
@@ -1926,7 +1926,7 @@
    :latitude 46.7389599,
    :source :openstreetmap,
    :homepage "https://www.flechtereien.ch/index.php/flechtmuseum",
-   :locality "Thun",
+   :location "Thun",
    :image "",
    :description ""}
   {:name "Focus Terra",
@@ -1934,7 +1934,7 @@
    :latitude 47.3783567,
    :source :openstreetmap,
    :homepage "https://focusterra.ethz.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Fondation de l'Hermitage",
@@ -1942,7 +1942,7 @@
    :latitude 46.5281584,
    :source :openstreetmap,
    :homepage "https://fondation-hermitage.ch/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Fondation Esp'Asse",
@@ -1957,7 +1957,7 @@
    :latitude 46.6079757,
    :source :openstreetmap,
    :homepage "https://fondation-janmichalski.com",
-   :locality "Montricher",
+   :location "Montricher",
    :image "",
    :description ""}
   {:name "Fondation Martin Bodmer",
@@ -1972,7 +1972,7 @@
    :latitude 46.2822501,
    :source :openstreetmap,
    :homepage "https://www.fondationopale.ch/",
-   :locality "Lens",
+   :location "Lens",
    :image "",
    :description ""}
   {:name "Fondation SAPA",
@@ -1980,7 +1980,7 @@
    :latitude 46.5183923,
    :source :openstreetmap,
    :homepage "https://sapa.swiss",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Fondazione Arp Marguerite",
@@ -2000,7 +2000,7 @@
    :latitude 46.4922692,
    :source :openstreetmap,
    :homepage "https://www.lafabbricadelcioccolato.ch/",
-   :locality "Torre-Blenio",
+   :location "Torre-Blenio",
    :image "",
    :description ""}
   {:name "Forge à Oreiller",
@@ -2021,7 +2021,7 @@
    :latitude 46.4144557,
    :source :openstreetmap,
    :homepage "https://www.fortdechillon.ch",
-   :locality "Veytaux",
+   :location "Veytaux",
    :image "",
    :description ""}
   {:name "Fort de Pré Giroud",
@@ -2036,7 +2036,7 @@
    :latitude 47.0213542,
    :source :openstreetmap,
    :homepage "https://www.forumschwyz.ch/",
-   :locality "Schwyz",
+   :location "Schwyz",
    :image "",
    :description ""}
   {:name "Forum Würth Arlesheim",
@@ -2080,7 +2080,7 @@
    :latitude 46.7487621,
    :source :openstreetmap,
    :homepage "https://www.ballenberg.ch/",
-   :locality "Hofstetten bei Brienz",
+   :location "Hofstetten bei Brienz",
    :image "",
    :description ""}
   {:name "Freilichtmuseum Steinbruch Antonini",
@@ -2096,7 +2096,7 @@
    :latitude 46.9381197,
    :source :openstreetmap,
    :homepage "https://freimaurermuseum.ch/",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Frey Näpfli Stiftung",
@@ -2111,14 +2111,14 @@
    :latitude 46.803261,
    :source :openstreetmap,
    :homepage "http://www.fri-art.ch",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "Friedhof Forum",
    :longitude 8.5107447,
    :latitude 47.3756644,
    :source :openstreetmap,
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Froschmuseum",
@@ -2146,7 +2146,7 @@
    :latitude 46.2028949,
    :source :openstreetmap,
    :homepage "https://www.galerie123.com/",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "galerie 94",
@@ -2154,7 +2154,7 @@
    :latitude 47.475592,
    :source :openstreetmap,
    :homepage "https://www.galerie94.ch",
-   :locality "Baden",
+   :location "Baden",
    :image "",
    :description ""}
   {:name "Galerie 95",
@@ -2162,7 +2162,7 @@
    :latitude 47.1339522,
    :source :openstreetmap,
    :homepage "http://www.galerie95.ch/",
-   :locality "Biel/Bienne",
+   :location "Biel/Bienne",
    :image "",
    :description ""}
   {:name "Galerie am Gleis",
@@ -2204,7 +2204,7 @@
    :latitude 46.9852263,
    :source :openstreetmap,
    :homepage "http://www.galerieartemis.ch/",
-   :locality "Corcelles",
+   :location "Corcelles",
    :image "",
    :description ""}
   {:name "Galerie Brand",
@@ -2218,7 +2218,7 @@
    :latitude 47.2620022,
    :source :openstreetmap,
    :homepage "https://www.brunobischofberger.com/",
-   :locality "Männedorf",
+   :location "Männedorf",
    :image "",
    :description ""}
   {:name "Galerie d'art Humus",
@@ -2233,7 +2233,7 @@
    :latitude 46.9484853,
    :source :openstreetmap,
    :homepage "https://www.damihi.com/",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Galerie du Château d'Avenches",
@@ -2261,7 +2261,7 @@
    :longitude 6.5644688,
    :latitude 46.5265635,
    :source :openstreetmap,
-   :locality "Ecublens (VD)",
+   :location "Ecublens (VD)",
    :image "",
    :description ""}
   {:name "Galerie du Raccard",
@@ -2288,7 +2288,7 @@
    :latitude 46.2211622,
    :source :openstreetmap,
    :homepage "https://galeriefrancoisfontaine.ch/",
-   :locality "Satigny",
+   :location "Satigny",
    :image "",
    :description ""}
   {:name "Galerie GK",
@@ -2329,7 +2329,7 @@
    :latitude 47.0699984,
    :source :openstreetmap,
    :homepage "https://www.muehle-lyss.ch/",
-   :locality "Lyss",
+   :location "Lyss",
    :image "",
    :description ""}
   {:name "Galerie Kornfeld",
@@ -2337,7 +2337,7 @@
    :latitude 46.9472607,
    :source :openstreetmap,
    :homepage "https://www.kornfeld.ch/",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Galerie Kunsthaus Rapp",
@@ -2357,7 +2357,7 @@
    :longitude 8.5099047,
    :latitude 47.3697263,
    :source :openstreetmap,
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Galerie la Craquelure",
@@ -2371,7 +2371,7 @@
    :latitude 46.9753484,
    :source :openstreetmap,
    :homepage "https://www.langepult.com/",
-   :locality "Auvernier",
+   :location "Auvernier",
    :image "",
    :description ""}
   {:name "Galerie Maste 4",
@@ -2392,7 +2392,7 @@
    :latitude 47.559671,
    :source :openstreetmap,
    :homepage "https://www.galeriemueller.com",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Galerie Nane Cailler",
@@ -2419,7 +2419,7 @@
    :latitude 47.3864352,
    :source :openstreetmap,
    :homepage "https://www.peterkilchmann.com",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Galerie Platini",
@@ -2427,7 +2427,7 @@
    :latitude 46.3074603,
    :source :openstreetmap,
    :homepage "https://galerie-platini.com",
-   :locality "Crans-Montana",
+   :location "Crans-Montana",
    :image "",
    :description ""}
   {:name "Galerie Rathausplatz",
@@ -2449,7 +2449,7 @@
    :latitude 47.3157483,
    :source :openstreetmap,
    :homepage "https://galerie-roessli.ch/",
-   :locality "Balstahl",
+   :location "Balstahl",
    :image "",
    :description ""}
   {:name "Galerie St. Laurent",
@@ -2481,7 +2481,7 @@
    :longitude 8.6654337,
    :latitude 47.4997662,
    :source :openstreetmap,
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Galerie zum Schwanen",
@@ -2495,7 +2495,7 @@
    :latitude 46.8697563,
    :source :openstreetmap,
    :homepage "https://galerie-zum-seeweg3.ch/",
-   :locality "Sachseln",
+   :location "Sachseln",
    :image "",
    :description ""}
   {:name "Galleria Art on... Paper",
@@ -2510,7 +2510,7 @@
    :latitude 45.8707637,
    :source :openstreetmap,
    :homepage "https://www.galleriabaumgartner.ch/en/",
-   :locality "Mendrisio",
+   :location "Mendrisio",
    :image "",
    :description ""}
   {:name "Galleria Doppia V",
@@ -2550,14 +2550,14 @@
    :latitude 47.0507449,
    :source :openstreetmap,
    :homepage "https://www.gameorama.ch/de",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Gandahus",
    :longitude 9.1785644,
    :latitude 46.6173833,
    :source :openstreetmap,
-   :locality "Vals",
+   :location "Vals",
    :image "",
    :description ""}
   {:name "Gare de Lion",
@@ -2565,7 +2565,7 @@
    :latitude 47.4612928,
    :source :openstreetmap,
    :homepage "https://garedelion.ch/",
-   :locality "Wil SG",
+   :location "Wil SG",
    :image "",
    :description ""}
   {:name "Gasi-Museum",
@@ -2580,7 +2580,7 @@
    :latitude 47.5876337,
    :source :openstreetmap,
    :homepage "http://www.gedenkstaetteriehen.ch",
-   :locality "Riehen",
+   :location "Riehen",
    :image "",
    :description ""}
   {:name "Genossenschaft STADTUFER",
@@ -2588,7 +2588,7 @@
    :latitude 47.3234091,
    :source :openstreetmap,
    :homepage "https://stadtufer.ch",
-   :locality "Lichtensteig",
+   :location "Lichtensteig",
    :image "",
    :description ""}
   {:name "Genève Enchères",
@@ -2602,7 +2602,7 @@
    :latitude 47.3672693,
    :source :openstreetmap,
    :homepage "https://www.germannauktionen.ch",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "GGG Atelierhaus",
@@ -2610,14 +2610,14 @@
    :latitude 47.5560957,
    :source :openstreetmap,
    :homepage "https://www.ggg-basel.ch/service/ggg-atelierhaus/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Gilli's Museum Sufers",
    :longitude 9.3681156,
    :latitude 46.5708894,
    :source :openstreetmap,
-   :locality "Sufers",
+   :location "Sufers",
    :image "",
    :description ""}
   {:name "Gipsmuseum Schleitheim",
@@ -2625,7 +2625,7 @@
    :latitude 47.7487102,
    :source :openstreetmap,
    :homepage "https://www.museum-schleitheim.ch/",
-   :locality "Schleitheim",
+   :location "Schleitheim",
    :image "",
    :description ""}
   {:name "Glasi Hergiswil",
@@ -2633,7 +2633,7 @@
    :latitude 46.9819588,
    :source :openstreetmap,
    :homepage "https://www.glasi.ch/",
-   :locality "Hergiswil NW",
+   :location "Hergiswil NW",
    :image "",
    :description ""}
   {:name "Gletscher Museum",
@@ -2660,7 +2660,7 @@
    :latitude 47.4860456,
    :source :openstreetmap,
    :homepage "https://goetheanum.ch",
-   :locality "Dornach",
+   :location "Dornach",
    :image "",
    :description ""}
   {:name "Goldwasch-Tour&Shop inkl. Museum",
@@ -2703,7 +2703,7 @@
    :latitude 46.9986677,
    :source :openstreetmap,
    :homepage "https://greisinger.museum/en/",
-   :locality "Jenins",
+   :location "Jenins",
    :image "",
    :description ""}
   {:name "Grosse Halle",
@@ -2711,7 +2711,7 @@
    :latitude 46.9530193,
    :source :openstreetmap,
    :homepage "https://www.grossehalle.ch/",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Grünhornhütte",
@@ -2719,7 +2719,7 @@
    :latitude 46.8104673,
    :source :openstreetmap,
    :homepage "https://www.sac-toedi.ch/",
-   :locality "Linthal",
+   :location "Linthal",
    :image "",
    :description ""}
   {:name "Gugelmann Museum",
@@ -2741,7 +2741,7 @@
    :latitude 47.5717792,
    :source :openstreetmap,
    :homepage "http://h95.ch",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Hafenmuseum Basel",
@@ -2755,7 +2755,7 @@
    :longitude 6.9413723,
    :latitude 46.8241322,
    :source :openstreetmap,
-   :locality "Payerne",
+   :location "Payerne",
    :image "",
    :description ""}
   {:name "Halle Nord",
@@ -2791,7 +2791,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.vtg.admin.ch/de/organisation/kdo-op/lw/flpl-mei/erlebnis-militaerflugplatz-meiringen.html",
-   :locality "Unterbach BE",
+   :location "Unterbach BE",
    :image "",
    :description ""}
   {:name "Hartdurm",
@@ -2806,7 +2806,7 @@
    :latitude 47.0308493,
    :source :openstreetmap,
    :homepage "https://www.hausderinstrumente.ch/",
-   :locality "Kriens",
+   :location "Kriens",
    :image "",
    :description ""}
   {:name "Haus der Kunst",
@@ -2849,7 +2849,7 @@
    :latitude 47.4625826,
    :source :openstreetmap,
    :homepage "https://ursulahausercollection.org/",
-   :locality "Henau",
+   :location "Henau",
    :image "",
    :description ""}
   {:name "Havana Galerie",
@@ -2871,7 +2871,7 @@
    :latitude 46.6907785,
    :source :openstreetmap,
    :homepage "https://www.museum-spiez.ch/",
-   :locality "Spiez",
+   :location "Spiez",
    :image "",
    :description ""}
   {:name "Heimatkundliche Sammlung",
@@ -2920,7 +2920,7 @@
    :latitude 46.8083064,
    :source :openstreetmap,
    :homepage "https://www.heimatmuseum-davos.ch/",
-   :locality "Davos Dorf",
+   :location "Davos Dorf",
    :image "",
    :description ""}
   {:name "Heimatmuseum",
@@ -2928,14 +2928,14 @@
    :latitude 47.0805656,
    :source :openstreetmap,
    :homepage "https://heimatmuseum.ch/",
-   :locality "Küssnacht am Rigi",
+   :location "Küssnacht am Rigi",
    :image "",
    :description ""}
   {:name "Heimatmuseum",
    :longitude 8.8730895,
    :latitude 47.488932,
    :source :openstreetmap,
-   :locality "Elgg",
+   :location "Elgg",
    :image "",
    :description ""}
   {:name "Heimatmuseum",
@@ -2943,7 +2943,7 @@
    :latitude 46.624967,
    :source :openstreetmap,
    :homepage "https://grindelwald-museum.ch/",
-   :locality "Grindelwald",
+   :location "Grindelwald",
    :image "",
    :description ""}
   {:name "Heimatmuseum",
@@ -2951,14 +2951,14 @@
    :latitude 47.5017093,
    :source :openstreetmap,
    :homepage "https://www.zumv.ch/",
-   :locality "Oberweningen",
+   :location "Oberweningen",
    :image "",
    :description ""}
   {:name "Heimatmuseum",
    :longitude 7.5390162,
    :latitude 47.5515977,
    :source :openstreetmap,
-   :locality "Allschwil",
+   :location "Allschwil",
    :image "",
    :description ""}
   {:name "Heimatmuseum Aarburg",
@@ -2966,7 +2966,7 @@
    :latitude 47.3216301,
    :source :openstreetmap,
    :homepage "https://www.museum-aarburg.ch",
-   :locality "Aarburg",
+   :location "Aarburg",
    :image "",
    :description ""}
   {:name "Heimatmuseum Ackerhus",
@@ -2981,7 +2981,7 @@
    :latitude 47.465883,
    :source :openstreetmap,
    :homepage "https://www.heimatmuseum-aesch.ch/index.html",
-   :locality "Aesch BL",
+   :location "Aesch BL",
    :image "",
    :description ""}
   {:name "Heimatmuseum der Region Schwarzwasser",
@@ -2989,7 +2989,7 @@
    :latitude 46.8186924,
    :source :openstreetmap,
    :homepage "https://www.regionalmuseum.info/",
-   :locality "Schwarzenburg",
+   :location "Schwarzenburg",
    :image "",
    :description ""}
   {:name "Heimatmuseum des Schwarzbubenlandes",
@@ -3003,7 +3003,7 @@
    :longitude 9.196827,
    :latitude 47.5543581,
    :source :openstreetmap,
-   :locality "Donzhausen",
+   :location "Donzhausen",
    :image "",
    :description ""}
   {:name "Heimatmuseum Nutli Hüschi",
@@ -3016,14 +3016,14 @@
    :longitude 9.3221865,
    :latitude 46.5538628,
    :source :openstreetmap,
-   :locality "Splügen",
+   :location "Splügen",
    :image "",
    :description ""}
   {:name "Heimatmuseum Safien",
    :longitude 9.2904558,
    :latitude 46.6681828,
    :source :openstreetmap,
-   :locality "Thalkirch",
+   :location "Thalkirch",
    :image "",
    :description ""}
   {:name "Heimatmuseum Schanfigg",
@@ -3037,7 +3037,7 @@
    :latitude 47.4639461,
    :source :openstreetmap,
    :homepage "https://www.museum-sissach.ch/",
-   :locality "Sissach",
+   :location "Sissach",
    :image "",
    :description ""}
   {:name "Heimatmuseum Trubschachen",
@@ -3058,7 +3058,7 @@
    :latitude 47.443315,
    :source :openstreetmap,
    :homepage "http://www.dunant-museum.ch/",
-   :locality "Heiden",
+   :location "Heiden",
    :image "",
    :description ""}
   {:name "Hexenmuseum",
@@ -3101,7 +3101,7 @@
    :latitude 47.5158821,
    :source :openstreetmap,
    :homepage "https://museum-arbon.ch/",
-   :locality "Arbon",
+   :location "Arbon",
    :image "",
    :description ""}
   {:name "Historisches Museum Uri",
@@ -3134,7 +3134,7 @@
    :latitude 47.1540077,
    :source :openstreetmap,
    :homepage "https://houseofladerach.com",
-   :locality "Bilten",
+   :location "Bilten",
    :image "",
    :description ""}
   {:name "HR Giger",
@@ -3142,7 +3142,7 @@
    :latitude 46.5841114,
    :source :openstreetmap,
    :homepage "https://www.hrgigermuseum.com/",
-   :locality "Gruyères",
+   :location "Gruyères",
    :image "",
    :description ""}
   {:name "Hôtel de Ville",
@@ -3162,7 +3162,7 @@
    :latitude 46.00165,
    :source :openstreetmap,
    :homepage "https://imago-artgallery.com",
-   :locality "Lugano",
+   :location "Lugano",
    :image "",
    :description ""}
   {:name "Improvisorium",
@@ -3170,7 +3170,7 @@
    :latitude 47.113121,
    :source :openstreetmap,
    :homepage "https://improvisorium.ch/",
-   :locality "Huttwil",
+   :location "Huttwil",
    :image "",
    :description ""}
   {:name "Indianland",
@@ -3178,7 +3178,7 @@
    :latitude 47.3065691,
    :source :openstreetmap,
    :homepage "https://www.indianland.ch/",
-   :locality "Gossau ZH",
+   :location "Gossau ZH",
    :image "",
    :description ""}
   {:name "Industrie Ensemble Bäretswil",
@@ -3201,7 +3201,7 @@
    :latitude 46.7157803,
    :source :openstreetmap,
    :homepage "https://www.stalusa.ch/",
-   :locality "Disentis/Mustér",
+   :location "Disentis/Mustér",
    :image "",
    :description ""}
   {:name "Inforama Valle di Lei",
@@ -3223,7 +3223,7 @@
    :latitude 47.3306145,
    :source :openstreetmap,
    :homepage "https://ink-appenzell.ch",
-   :locality "Appenzell",
+   :location "Appenzell",
    :image "",
    :description ""}
   {:name "Isabella Kaiser",
@@ -3236,7 +3236,7 @@
    :longitude 8.793744,
    :latitude 47.3211957,
    :source :openstreetmap,
-   :locality "Wetzikon",
+   :location "Wetzikon",
    :image "",
    :description ""}
   {:name "J. Waldesbühl",
@@ -3250,7 +3250,7 @@
    :latitude 47.031918,
    :source :openstreetmap,
    :homepage "https://jkunst.ch/",
-   :locality "Weggis",
+   :location "Weggis",
    :image "",
    :description ""}
   {:name "Johann Jacobs Museum",
@@ -3258,7 +3258,7 @@
    :latitude 47.3596981,
    :source :openstreetmap,
    :homepage "http://www.johannjacobs.com/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Johanna Spyri Museum",
@@ -3266,7 +3266,7 @@
    :latitude 47.216378,
    :source :openstreetmap,
    :homepage "https://spyri-museum.ch/",
-   :locality "Hirzel",
+   :location "Hirzel",
    :image "",
    :description ""}
   {:name "Jugendhaus",
@@ -3286,7 +3286,7 @@
    :latitude 47.3797162,
    :source :openstreetmap,
    :homepage "http://jugi4.ch/index.html/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Jugendzentrum",
@@ -3300,7 +3300,7 @@
    :latitude 47.5576405,
    :source :openstreetmap,
    :homepage "https://www.juedisches-museum.ch",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Karin Thür",
@@ -3314,14 +3314,14 @@
    :longitude 7.4510048,
    :latitude 46.9751676,
    :source :openstreetmap,
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Keramikmuseum Matzendorf",
    :longitude 7.6263827,
    :latitude 47.3070582,
    :source :openstreetmap,
-   :locality "Matzendorf",
+   :location "Matzendorf",
    :image "",
    :description ""}
   {:name "Kesselhaus Josephson",
@@ -3329,7 +3329,7 @@
    :latitude 47.4106838,
    :source :openstreetmap,
    :homepage "http://www.sitterwerk.ch/kunstbibliothek.html",
-   :locality "St.Gallen",
+   :location "St.Gallen",
    :image "",
    :description ""}
   {:name "Kimmelstiftung für Postgeschichte Museum Bauernhof",
@@ -3344,7 +3344,7 @@
    :latitude 47.4035026,
    :source :openstreetmap,
    :homepage "https://www.kinderzirkus.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Kirchbözberg",
@@ -3372,7 +3372,7 @@
    :latitude 47.200993,
    :source :openstreetmap,
    :homepage "https://www.kklb.ch/",
-   :locality "Beromünster",
+   :location "Beromünster",
    :image "",
    :description ""}
   {:name "Klanghaus Toggenburg",
@@ -3388,7 +3388,7 @@
    :source :openstreetmap,
    :homepage
    "https://klangwelt.swiss/de/klangwelt-erleben/klangschmiede.html",
-   :locality "Alt St. Johann",
+   :location "Alt St. Johann",
    :image "",
    :description ""}
   {:name "Kleberei",
@@ -3396,7 +3396,7 @@
    :latitude 47.4748669,
    :source :openstreetmap,
    :homepage "www.kleberei.ch",
-   :locality "Rorschach",
+   :location "Rorschach",
    :image "",
    :description ""}
   {:name "Kleiderbügelmuseum",
@@ -3410,7 +3410,7 @@
    :longitude 7.436909,
    :latitude 46.8194992,
    :source :openstreetmap,
-   :locality "Rüeggisberg",
+   :location "Rüeggisberg",
    :image "",
    :description ""}
   {:name "Klostermuseum Müstair",
@@ -3425,7 +3425,7 @@
    :latitude 47.6584679,
    :source :openstreetmap,
    :homepage "https://www.klostersanktgeorgen.ch/",
-   :locality "Stein am Rhein",
+   :location "Stein am Rhein",
    :image "",
    :description ""}
   {:name "KMM Kulturzentrum",
@@ -3439,7 +3439,7 @@
    :longitude 8.5223752,
    :latitude 47.3618344,
    :source :openstreetmap,
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Kommandobunker Grenzbrigade 8",
@@ -3447,7 +3447,7 @@
    :latitude 47.3584235,
    :source :openstreetmap,
    :homepage "https://www.festung.ch",
-   :locality "Haslen AI",
+   :location "Haslen AI",
    :image "",
    :description ""}
   {:name "Kornhaus Romanshorn",
@@ -3455,7 +3455,7 @@
    :latitude 47.5644612,
    :source :openstreetmap,
    :homepage "https://www.kornhaus-romanshorn.ch/",
-   :locality "Romanshorn",
+   :location "Romanshorn",
    :image "",
    :description ""}
   {:name "Kraftwerk Höngg",
@@ -3470,7 +3470,7 @@
    :longitude 7.7356013,
    :latitude 47.4511142,
    :source :openstreetmap,
-   :locality "Bubendorf",
+   :location "Bubendorf",
    :image "",
    :description ""}
   {:name "Krone",
@@ -3478,7 +3478,7 @@
    :latitude 47.1418739,
    :source :openstreetmap,
    :homepage "https://www.nmbiel.ch/index.php?id=27",
-   :locality "Biel/Bienne",
+   :location "Biel/Bienne",
    :image "",
    :description ""}
   {:name "Kräuter-Pfarrer Künzle Museum",
@@ -3486,7 +3486,7 @@
    :latitude 47.0229705,
    :source :openstreetmap,
    :homepage "https://pfarrerkuenzle.ch/museum/",
-   :locality "Vilters",
+   :location "Vilters",
    :image "",
    :description ""}
   {:name "Kudos Gallery",
@@ -3494,7 +3494,7 @@
    :latitude 47.5641369,
    :source :openstreetmap,
    :homepage "https://kudos-gallery.ch",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "kuk!",
@@ -3502,7 +3502,7 @@
    :latitude 47.5047837,
    :source :openstreetmap,
    :homepage "http://kuk-art.weebly.com/",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Kultur- und Heimatmuseum",
@@ -3529,14 +3529,14 @@
    :longitude 9.418644,
    :latitude 46.7175199,
    :source :openstreetmap,
-   :locality "Tartar",
+   :location "Tartar",
    :image "",
    :description ""}
   {:name "Kulturfabrik",
    :longitude 8.7869095,
    :latitude 47.3248119,
    :source :openstreetmap,
-   :locality "Wetzikon",
+   :location "Wetzikon",
    :image "",
    :description ""}
   {:name "Kulturforum Amriswil",
@@ -3544,7 +3544,7 @@
    :latitude 47.5479761,
    :source :openstreetmap,
    :homepage "https://www.kulturforum-amriswil.ch/",
-   :locality "Amriswil",
+   :location "Amriswil",
    :image "",
    :description ""}
   {:name "Kulturmühle",
@@ -3559,7 +3559,7 @@
    :latitude 47.5015557,
    :source :openstreetmap,
    :homepage "https://feilenhauer.net",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Kulturraum Doble A",
@@ -3567,7 +3567,7 @@
    :latitude 47.5682447,
    :source :openstreetmap,
    :homepage "https://www.doblea.ch/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Kulturschür",
@@ -3581,7 +3581,7 @@
    :longitude 9.8924592,
    :latitude 46.8726264,
    :source :openstreetmap,
-   :locality "Klosters",
+   :location "Klosters",
    :image "",
    :description ""}
   {:name "Kulturturm",
@@ -3602,7 +3602,7 @@
    :latitude 47.1977303,
    :source :openstreetmap,
    :homepage "https://www.herbertbeyer.ch/kunschtgaertli",
-   :locality "Herzogenbuchsee",
+   :location "Herzogenbuchsee",
    :image "",
    :description ""}
   {:name "Kunst im Stellwerk",
@@ -3616,7 +3616,7 @@
    :latitude 47.227825,
    :source :openstreetmap,
    :homepage "https://www.kunstzeughaus.ch/",
-   :locality "Rapperswil",
+   :location "Rapperswil",
    :image "",
    :description ""}
   {:name "Kunstgalerie Walter Hongler",
@@ -3630,7 +3630,7 @@
    :longitude 9.4604473,
    :latitude 46.7072457,
    :source :openstreetmap,
-   :locality "Sils im Domleschg",
+   :location "Sils im Domleschg",
    :image "",
    :description ""}
   {:name "Kunsthalle Ziegelhütte",
@@ -3638,7 +3638,7 @@
    :latitude 47.3256512,
    :source :openstreetmap,
    :homepage "https://www.kunsthalleziegelhuette.ch",
-   :locality "Appenzell",
+   :location "Appenzell",
    :image "",
    :description ""}
   {:name "Kunsthaus",
@@ -3652,7 +3652,7 @@
    :longitude 7.3982936,
    :latitude 47.1891716,
    :source :openstreetmap,
-   :locality "Grenchen",
+   :location "Grenchen",
    :image "",
    :description ""}
   {:name "Kunsthaus Baselland",
@@ -3660,14 +3660,14 @@
    :latitude 47.5327391,
    :source :openstreetmap,
    :homepage "https://kunsthausbaselland.ch/",
-   :locality "Münchenstein",
+   :location "Münchenstein",
    :image "",
    :description ""}
   {:name "Kunsthaus Krucker",
    :longitude 9.2456983,
    :latitude 47.3551611,
    :source :openstreetmap,
-   :locality "Schwellbrunn",
+   :location "Schwellbrunn",
    :image "",
    :description ""}
   {:name "Kunsthaus Sursee Vier",
@@ -3675,7 +3675,7 @@
    :latitude 47.1705288,
    :source :openstreetmap,
    :homepage "https://www.kunsthaus-sursee.ch/",
-   :locality "Sursee",
+   :location "Sursee",
    :image "",
    :description ""}
   {:name "Kunsthaus Zofingen",
@@ -3683,7 +3683,7 @@
    :latitude 47.2889986,
    :source :openstreetmap,
    :homepage "https://museumzofingen.ch/",
-   :locality "Zofingen",
+   :location "Zofingen",
    :image "",
    :description ""}
   {:name "Kunstkabine",
@@ -3697,7 +3697,7 @@
    :latitude 47.3281731,
    :source :openstreetmap,
    :homepage "https://kunstmuseum-kunsthalle.ch/de/",
-   :locality "Appenzell",
+   :location "Appenzell",
    :image "",
    :description ""}
   {:name "Kunstmuseum Luzern",
@@ -3705,7 +3705,7 @@
    :latitude 47.0504373,
    :source :openstreetmap,
    :homepage "https://www.kunstmuseumluzern.ch/",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Kunstmuseum Thun",
@@ -3720,7 +3720,7 @@
    :latitude 47.5837617,
    :source :openstreetmap,
    :homepage "http://www.kunstmuseum.ch",
-   :locality "Warth",
+   :location "Warth",
    :image "",
    :description ""}
   {:name "Kunstraum B74",
@@ -3728,7 +3728,7 @@
    :latitude 47.0537929,
    :source :openstreetmap,
    :homepage "https://www.b74-luzern.ch/",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Kunstraum Dreiviertel",
@@ -3742,14 +3742,14 @@
    :longitude 9.175284,
    :latitude 47.651161,
    :source :openstreetmap,
-   :locality "Kreuzlingen",
+   :location "Kreuzlingen",
    :image "",
    :description ""}
   {:name "Kunstraum Winterhur",
    :longitude 8.7215099,
    :latitude 47.500999,
    :source :openstreetmap,
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Kunstschule Wetzikon",
@@ -3757,7 +3757,7 @@
    :latitude 47.3203728,
    :source :openstreetmap,
    :homepage "https://www.kunstschule-wetzikon.ch/",
-   :locality "Wetzikon",
+   :location "Wetzikon",
    :image "",
    :description ""}
   {:name "kunstsichtbar Galerie",
@@ -3765,7 +3765,7 @@
    :latitude 47.3752429,
    :source :openstreetmap,
    :homepage "https://kunstsichtbar.com",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Kunstspielwelt Frida",
@@ -3787,7 +3787,7 @@
    :latitude 47.5429603,
    :source :openstreetmap,
    :homepage "https://www.kutschensammlung.ch/",
-   :locality "Amriswil",
+   :location "Amriswil",
    :image "",
    :description ""}
   {:name "Kästeli",
@@ -3801,7 +3801,7 @@
    :latitude 46.8848006,
    :source :openstreetmap,
    :homepage "https://www.kuenstlereikoeniz.ch",
-   :locality "Köniz",
+   :location "Köniz",
    :image "",
    :description ""}
   {:name "Künstlerhaus S11",
@@ -3816,7 +3816,7 @@
    :latitude 47.3401932,
    :source :openstreetmap,
    :homepage "http://www.arche-noe.ch/",
-   :locality "Vicques",
+   :location "Vicques",
    :image "",
    :description ""}
   {:name "La Banderette",
@@ -3830,7 +3830,7 @@
    :latitude 46.8233245,
    :source :openstreetmap,
    :homepage "https://www.pantograpge.info",
-   :locality "Sainte-Croix",
+   :location "Sainte-Croix",
    :image "",
    :description ""}
   {:name "La Chaumière",
@@ -3838,7 +3838,7 @@
    :latitude 46.799605,
    :source :openstreetmap,
    :homepage "https://auboisdemoncoeur.ch/infrastructure/chaumiere/",
-   :locality "Villars-sur-Glâne",
+   :location "Villars-sur-Glâne",
    :image "",
    :description ""}
   {:name "La Congiunta",
@@ -3867,7 +3867,7 @@
    :latitude 46.9548644,
    :source :openstreetmap,
    :homepage "https://maison-industrie.ch/",
-   :locality "Noiraigue",
+   :location "Noiraigue",
    :image "",
    :description ""}
   {:name "La Maison de la Rivière",
@@ -3875,7 +3875,7 @@
    :latitude 46.492822,
    :source :openstreetmap,
    :homepage "https://www.maisondelariviere.ch/",
-   :locality "Tolochenaz",
+   :location "Tolochenaz",
    :image "",
    :description ""}
   {:name "La Maison du Gruyère",
@@ -3883,7 +3883,7 @@
    :latitude 46.5822622,
    :source :openstreetmap,
    :homepage "https://www.lamaisondugruyere.ch",
-   :locality "Pringy",
+   :location "Pringy",
    :image "",
    :description ""}
   {:name "La Maison du Récit",
@@ -3891,7 +3891,7 @@
    :latitude 46.5323131,
    :source :openstreetmap,
    :homepage "https://lamaisondurecit.ch",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "La Morille",
@@ -3918,7 +3918,7 @@
    :latitude 46.7497404,
    :source :openstreetmap,
    :homepage "http://gressyland.ch",
-   :locality "Gressy",
+   :location "Gressy",
    :image "",
    :description ""}
   {:name "La Saceba",
@@ -3926,7 +3926,7 @@
    :latitude 45.8557839,
    :source :openstreetmap,
    :homepage "https://www.parcobreggia.ch/node/140",
-   :locality "Morbio Inferiore",
+   :location "Morbio Inferiore",
    :image "",
    :description ""}
   {:name "La Tuffière - salle de spectacles",
@@ -3940,7 +3940,7 @@
    :latitude 46.5342564,
    :source :openstreetmap,
    :homepage "https://www.latuor.ch",
-   :locality "Samedan",
+   :location "Samedan",
    :image "",
    :description ""}
   {:name "La Vidondée",
@@ -3954,7 +3954,7 @@
    :latitude 47.0835748,
    :source :openstreetmap,
    :homepage "https://www.lac-cdf.ch/",
-   :locality "La Chaux-de-Fonds",
+   :location "La Chaux-de-Fonds",
    :image "",
    :description ""}
   {:name "Laboratoire Jardin cosmique",
@@ -3976,7 +3976,7 @@
    :latitude 47.418567,
    :source :openstreetmap,
    :homepage "https://sammlung-spoerri.ch/",
-   :locality "Ehrikon",
+   :location "Ehrikon",
    :image "",
    :description ""}
   {:name "Laténium",
@@ -3984,7 +3984,7 @@
    :latitude 47.0072266,
    :source :openstreetmap,
    :homepage "https://www.latenium.ch",
-   :locality "Hauterive (NE)",
+   :location "Hauterive (NE)",
    :image "",
    :description ""}
   {:name "Le balcon",
@@ -4025,14 +4025,14 @@
    :latitude 47.0582183,
    :source :openstreetmap,
    :homepage "https://www.parc-evologia.ch",
-   :locality "Cernier",
+   :location "Cernier",
    :image "",
    :description ""}
   {:name "Le Picoulet",
    :longitude 6.244578,
    :latitude 46.3023378,
    :source :openstreetmap,
-   :locality "Hermance",
+   :location "Hermance",
    :image "",
    :description ""}
   {:name "Le Port Franc",
@@ -4060,7 +4060,7 @@
    :latitude 46.2907359,
    :source :openstreetmap,
    :homepage "https://www.bellesintentions.ch/",
-   :locality "Sierre",
+   :location "Sierre",
    :image "",
    :description ""}
   {:name "Les Complices*",
@@ -4075,7 +4075,7 @@
    :latitude 46.2308265,
    :source :openstreetmap,
    :homepage "https://www.vimoti.ch/",
-   :locality "Troistorrents",
+   :location "Troistorrents",
    :image "",
    :description ""}
   {:name "Lichtspiel / Kinemathek",
@@ -4083,7 +4083,7 @@
    :latitude 46.9404989,
    :source :openstreetmap,
    :homepage "https://www.lichtspiel.ch/",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Lindt Home of Chocolate",
@@ -4091,7 +4091,7 @@
    :latitude 47.3183542,
    :source :openstreetmap,
    :homepage "https://www.lindt-home-of-chocolate.com/en/",
-   :locality "Kilchberg",
+   :location "Kilchberg",
    :image "",
    :description ""}
   {:name "Linksmähder-Halle",
@@ -4105,7 +4105,7 @@
    :latitude 47.1064737,
    :source :openstreetmap,
    :homepage "https://www.linth-escher.ch/de/auditorium.htm",
-   :locality "Mollis",
+   :location "Mollis",
    :image "",
    :description ""}
   {:name "Local SEB",
@@ -4113,7 +4113,7 @@
    :latitude 47.3397497,
    :source :openstreetmap,
    :homepage "https://laseb.ch",
-   :locality "Bassecourt",
+   :location "Bassecourt",
    :image "",
    :description ""}
   {:name "lokal.int",
@@ -4126,7 +4126,7 @@
    :longitude 8.2291605,
    :latitude 47.6030666,
    :source :openstreetmap,
-   :locality "Koblenz",
+   :location "Koblenz",
    :image "",
    :description ""}
   {:name "Lokremise Kunstzone",
@@ -4141,7 +4141,7 @@
    :latitude 47.4150309,
    :source :openstreetmap,
    :homepage "https://www.longtang.life/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Lorihiischi",
@@ -4156,7 +4156,7 @@
    :latitude 46.6172716,
    :source :openstreetmap,
    :homepage "https://vals.ch/laerchebodastall/",
-   :locality "Vals",
+   :location "Vals",
    :image "",
    :description ""}
   {:name "Lötschentaler Museum",
@@ -4171,7 +4171,7 @@
    :latitude 46.1462566,
    :source :openstreetmap,
    :homepage "https://fishnetcollective.com/M-A-D",
-   :locality "Magadino",
+   :location "Magadino",
    :image "",
    :description ""}
   {:name "MACT/CACT Arte Contemporanea Ticino",
@@ -4198,7 +4198,7 @@
    :latitude 46.4936572,
    :source :openstreetmap,
    :homepage "https://www.buttin-de-loes.ch/",
-   :locality "Grandvaux",
+   :location "Grandvaux",
    :image "",
    :description ""}
   {:name "Maison de Courten - Musée Rainer Maria Rilke",
@@ -4213,7 +4213,7 @@
    :latitude 46.9100534,
    :source :openstreetmap,
    :homepage "https://maison-absinthe.ch/",
-   :locality "Môtiers NE",
+   :location "Môtiers NE",
    :image "",
    :description ""}
   {:name "Maison de l'île aux oiseaux",
@@ -4221,7 +4221,7 @@
    :latitude 46.5083761,
    :source :openstreetmap,
    :homepage "https://ileauxoiseaux.ch/",
-   :locality "Préverenges",
+   :location "Préverenges",
    :image "",
    :description ""}
   {:name "Maison de la Créativité",
@@ -4229,7 +4229,7 @@
    :latitude 46.1807705,
    :source :openstreetmap,
    :homepage "https://maisondelacreativite.ch/",
-   :locality "Conches",
+   :location "Conches",
    :image "",
    :description ""}
   {:name "Maison de la nature Montorge",
@@ -4237,7 +4237,7 @@
    :latitude 46.2331076,
    :source :openstreetmap,
    :homepage "https://www.maisondelanature.ch/",
-   :locality "Sion",
+   :location "Sion",
    :image "",
    :description ""}
   {:name "Maison de la Tourbière",
@@ -4252,7 +4252,7 @@
    :latitude 47.2617853,
    :source :openstreetmap,
    :homepage "https://maisondelatetedemoine.ch/en/",
-   :locality "Bellelay",
+   :location "Bellelay",
    :image "",
    :description ""}
   {:name "Maison du Diable",
@@ -4261,7 +4261,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.fondation-fellini.ch/fr/pages/maison-du-diable/la-maison-du-diable-246",
-   :locality "Sion",
+   :location "Sion",
    :image "",
    :description ""}
   {:name "Maison du Futur",
@@ -4270,7 +4270,7 @@
    :source :openstreetmap,
    :homepage
    "https://ww2.sig-ge.ch/a-propos-de-sig/nous-connaitre/sites_expositions/maison-du-futur",
-   :locality "Vessy",
+   :location "Vessy",
    :image "",
    :description ""}
   {:name "Mammutmuseum",
@@ -4278,7 +4278,7 @@
    :latitude 47.5053301,
    :source :openstreetmap,
    :homepage "https://www.mammutmuseum.ch/",
-   :locality "Niederweningen",
+   :location "Niederweningen",
    :image "",
    :description ""}
   {:name "Manoir de la Ville",
@@ -4306,14 +4306,14 @@
    :latitude 47.4775269,
    :source :openstreetmap,
    :homepage "https://www.museum-rorschach.ch",
-   :locality "Rorschach",
+   :location "Rorschach",
    :image "",
    :description ""}
   {:name "Masi Palazzo Reali",
    :longitude 8.9533755,
    :latitude 46.0041452,
    :source :openstreetmap,
-   :locality "Lugano",
+   :location "Lugano",
    :image "",
    :description ""}
   {:name "Maskenkeller",
@@ -4335,7 +4335,7 @@
    :latitude 46.0883981,
    :source :openstreetmap,
    :homepage "https://www.plancerisier.ch/",
-   :locality "Martigny-Croix",
+   :location "Martigny-Croix",
    :image "",
    :description ""}
   {:name "Mechanische Werkstatt Wiesental",
@@ -4344,7 +4344,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.muse.tg/museen/mechanische-werkstaette-wiesental-78.html",
-   :locality "Eschlikon TG",
+   :location "Eschlikon TG",
    :image "",
    :description ""}
   {:name "Medizinsammlung Inselspital Bern",
@@ -4352,7 +4352,7 @@
    :latitude 46.9498302,
    :source :openstreetmap,
    :homepage "http://medizinmuseumbern.ch",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Meister da Vuorz",
@@ -4360,7 +4360,7 @@
    :latitude 46.7767654,
    :source :openstreetmap,
    :homepage "https://www.waltensburger-meister.ch/",
-   :locality "Waltensburg/Vuorz",
+   :location "Waltensburg/Vuorz",
    :image "",
    :description ""}
   {:name "Memorial Room Clay Regazzoni",
@@ -4374,7 +4374,7 @@
    :latitude 47.3595639,
    :source :openstreetmap,
    :homepage "https://www.meyerhofscheune.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "MiglenArt",
@@ -4395,14 +4395,14 @@
    :latitude 46.497464,
    :source :openstreetmap,
    :homepage "https://www.miliweber.ch/",
-   :locality "St. Moritz",
+   :location "St. Moritz",
    :image "",
    :description ""}
   {:name "Militärmuseum",
    :longitude 9.5292392,
    :latitude 47.0296023,
    :source :openstreetmap,
-   :locality "Maienfeld",
+   :location "Maienfeld",
    :image "",
    :description ""}
   {:name "Militärmuseum VEAM",
@@ -4410,7 +4410,7 @@
    :latitude 46.7613979,
    :source :openstreetmap,
    :homepage "https://www.veam.ch/",
-   :locality "Tentlingen",
+   :location "Tentlingen",
    :image "",
    :description ""}
   {:name "Militärmuseum Wildegg",
@@ -4430,7 +4430,7 @@
    :longitude 8.2141915,
    :latitude 46.369392,
    :source :openstreetmap,
-   :locality "Binn",
+   :location "Binn",
    :image "",
    :description ""}
   {:name "Mines de Sel de Bex",
@@ -4438,14 +4438,14 @@
    :latitude 46.2858137,
    :source :openstreetmap,
    :homepage "https://www.seldesalpes.ch/fr/mines-de-sel/",
-   :locality "Bex",
+   :location "Bex",
    :image "",
    :description ""}
   {:name "Mini Kultur Lichtensteig",
    :longitude 9.0794644,
    :latitude 47.3158878,
    :source :openstreetmap,
-   :locality "Lichtensteig",
+   :location "Lichtensteig",
    :image "",
    :description ""}
   {:name "Mini musée de Fang",
@@ -4458,7 +4458,7 @@
    :longitude 8.1408745,
    :latitude 47.445347,
    :source :openstreetmap,
-   :locality "Schinznach Dorf",
+   :location "Schinznach Dorf",
    :image "",
    :description ""}
   {:name "MoMö",
@@ -4466,7 +4466,7 @@
    :latitude 47.5070786,
    :source :openstreetmap,
    :homepage "https://www.moehl.ch/de/besuche-das-momoe/momoe/",
-   :locality "Stachen",
+   :location "Stachen",
    :image "",
    :description ""}
   {:name "MoneyMuseum",
@@ -4494,14 +4494,14 @@
    :latitude 47.6905106,
    :source :openstreetmap,
    :homepage "https://www.charlottenfels-museum.ch/",
-   :locality "Neuhausen am Rheinfall",
+   :location "Neuhausen am Rheinfall",
    :image "",
    :description ""}
   {:name "Moulin de Saint-George",
    :longitude 6.2644252,
    :latitude 46.5091232,
    :source :openstreetmap,
-   :locality "Saint-George",
+   :location "Saint-George",
    :image "",
    :description ""}
   {:name "Moulins souterrains du Col-des-Roches",
@@ -4516,7 +4516,7 @@
    :latitude 46.5185536,
    :source :openstreetmap,
    :homepage "https://mudac.ch/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Mueseo d'arte sacra",
@@ -4538,7 +4538,7 @@
    :latitude 46.6695912,
    :source :openstreetmap,
    :homepage "https://eugeneburnand.ch/",
-   :locality "Moudon",
+   :location "Moudon",
    :image "",
    :description ""}
   {:name "Musee Jurassien des Arts",
@@ -4552,7 +4552,7 @@
    :latitude 47.4771861,
    :source :openstreetmap,
    :homepage "https://www.dottenwil.ch/",
-   :locality "Wittenbach",
+   :location "Wittenbach",
    :image "",
    :description ""}
   {:name "Museen Kloster Muri",
@@ -4607,7 +4607,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bellinzonaevalli.ch/it/commons/details/Castello-di-Sasso-Corbaro/2797.html",
-   :locality "Bellinzona",
+   :location "Bellinzona",
    :image "",
    :description ""}
   {:name "Museo Castello San Materno",
@@ -4621,7 +4621,7 @@
    :latitude 46.1855101,
    :source :openstreetmap,
    :homepage "https://www.teatrodimitri.ch/mondo-dimitri/museo-comico",
-   :locality "Verscio",
+   :location "Verscio",
    :image "",
    :description ""}
   {:name "Museo Comunale d'Arte Moderna",
@@ -4629,7 +4629,7 @@
    :latitude 46.1557009,
    :source :openstreetmap,
    :homepage "https://www.museoascona.ch/",
-   :locality "Ascona",
+   :location "Ascona",
    :image "",
    :description ""}
   {:name "Museo Cà da Rivöi",
@@ -4637,7 +4637,7 @@
    :latitude 46.5298694,
    :source :openstreetmap,
    :homepage "https://museovallediblenio.ch/",
-   :locality "Olivone",
+   :location "Olivone",
    :image "",
    :description ""}
   {:name "Museo D'arte Mendrisio",
@@ -4695,7 +4695,7 @@
    :longitude 8.8788583,
    :latitude 46.2297411,
    :source :openstreetmap,
-   :locality "Vogorno",
+   :location "Vogorno",
    :image "",
    :description ""}
   {:name "Museo del Forte di Airolo",
@@ -4703,7 +4703,7 @@
    :latitude 46.5284942,
    :source :openstreetmap,
    :homepage "https://forteairolo.ch/museo/",
-   :locality "Airolo",
+   :location "Airolo",
    :image "",
    :description ""}
   {:name "Museo del Malcantone",
@@ -4711,7 +4711,7 @@
    :latitude 46.002759,
    :source :openstreetmap,
    :homepage "https://www.museodelmalcantone.ch/",
-   :locality "Curio",
+   :location "Curio",
    :image "",
    :description ""}
   {:name "Museo della civiltà contadina del Mendrisiotto",
@@ -4743,7 +4743,7 @@
    :longitude 8.8837822,
    :latitude 45.9672539,
    :source :openstreetmap,
-   :locality "Caslano",
+   :location "Caslano",
    :image "",
    :description ""}
   {:name "Museo della radio",
@@ -4777,7 +4777,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bellinzonaevalli.ch/it/commons/details/Castelgrande/2793.html",
-   :locality "Bellinzona",
+   :location "Bellinzona",
    :image "",
    :description ""}
   {:name "Museo di Leventina",
@@ -4785,7 +4785,7 @@
    :latitude 46.4017288,
    :source :openstreetmap,
    :homepage "https://museodileventina.ch/",
-   :locality "Giornico",
+   :location "Giornico",
    :image "",
    :description ""}
   {:name "Museo di Val Verzasca",
@@ -4793,7 +4793,7 @@
    :latitude 46.3502057,
    :source :openstreetmap,
    :homepage "https://www.museovalverzasca.ch",
-   :locality "Sonogno",
+   :location "Sonogno",
    :image "",
    :description ""}
   {:name "Museo Doganale Svizzero",
@@ -4829,7 +4829,7 @@
    :latitude 46.1511568,
    :source :openstreetmap,
    :homepage "https://www.museoforteolimpio.ch/it",
-   :locality "Magadino",
+   :location "Magadino",
    :image "",
    :description ""}
   {:name "Museo Hermann Hesse",
@@ -4837,7 +4837,7 @@
    :latitude 45.9829674,
    :source :openstreetmap,
    :homepage "https://www.hessemontagnola.ch",
-   :locality "Montagnola",
+   :location "Montagnola",
    :image "",
    :description ""}
   {:name "Museo Mario Bernasconi",
@@ -4922,7 +4922,7 @@
    :latitude 45.8640268,
    :source :openstreetmap,
    :homepage "https://www.museo-vela.ch/",
-   :locality "Ligornetto",
+   :location "Ligornetto",
    :image "",
    :description ""}
   {:name "Museo Walserhaus",
@@ -4959,7 +4959,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.pontresina.ch/winter/kultur-freizeit/museum-alpin/willkommen.html",
-   :locality "Pontresina",
+   :location "Pontresina",
    :image "",
    :description ""}
   {:name "Museum am Dorfplatz Gais",
@@ -4968,7 +4968,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museen-im-appenzellerland.ch/museen/museum-am-dorfplatz-gais/",
-   :locality "Gais",
+   :location "Gais",
    :image "",
    :description ""}
   {:name "Museum am Pfäffikersee",
@@ -4976,14 +4976,14 @@
    :latitude 47.3642275,
    :source :openstreetmap,
    :homepage "https://www.agp-pfaeffikon.ch/",
-   :locality "Pfäffikon ZH",
+   :location "Pfäffikon ZH",
    :image "",
    :description ""}
   {:name "Museum Amden",
    :longitude 9.1490384,
    :latitude 47.148085,
    :source :openstreetmap,
-   :locality "Amden",
+   :location "Amden",
    :image "",
    :description ""}
   {:name "Museum Appenzeller Bahnen Wasserauen",
@@ -4992,14 +4992,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.museumsverein-appenzeller-bahnen.ch/home-bahnmuseum.html",
-   :locality "Wasserauen",
+   :location "Wasserauen",
    :image "",
    :description ""}
   {:name "Museum auf der Burg",
    :longitude 7.803356,
    :latitude 46.3108919,
    :source :openstreetmap,
-   :locality "Raron",
+   :location "Raron",
    :image "",
    :description ""}
   {:name "Museum Augusta Raurica",
@@ -5014,7 +5014,7 @@
    :latitude 47.4936965,
    :source :openstreetmap,
    :homepage "https://www.museum-bischofszell.ch/",
-   :locality "Bischofszell",
+   :location "Bischofszell",
    :image "",
    :description ""}
   {:name "Museum Blumenstein",
@@ -5029,7 +5029,7 @@
    :latitude 46.8682562,
    :source :openstreetmap,
    :homepage "https://museumbruderklaus.ch/",
-   :locality "Sachseln",
+   :location "Sachseln",
    :image "",
    :description ""}
   {:name "Museum Burg Zug",
@@ -5044,7 +5044,7 @@
    :latitude 46.600036,
    :source :openstreetmap,
    :homepage "https://www.chasajaura.ch/de/",
-   :locality "Valchava",
+   :location "Valchava",
    :image "",
    :description ""}
   {:name "Museum Cristallina",
@@ -5065,7 +5065,7 @@
    :latitude 47.5571966,
    :source :openstreetmap,
    :homepage "https://www.mkb.ch/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Museum der Landschaft Hasli",
@@ -5073,7 +5073,7 @@
    :latitude 46.7291649,
    :source :openstreetmap,
    :homepage "https://www.haslimuseum.ch/",
-   :locality "Meiringen",
+   :location "Meiringen",
    :image "",
    :description ""}
   {:name "Museum des Landes Glarus",
@@ -5088,7 +5088,7 @@
    :latitude 46.4939637,
    :source :openstreetmap,
    :homepage "https://www.museum-engiadinais.ch/",
-   :locality "St. Moritz",
+   :location "St. Moritz",
    :image "",
    :description ""}
   {:name "Museum Eschenz",
@@ -5096,7 +5096,7 @@
    :latitude 47.6523472,
    :source :openstreetmap,
    :homepage "https://www.museum-eschenz.ch",
-   :locality "Eschenz",
+   :location "Eschenz",
    :image "",
    :description ""}
   {:name "Museum Eva Wipf",
@@ -5105,7 +5105,7 @@
    :source :openstreetmap,
    :homepage
    "https://pfaeffikon.ch/KulturFreizeit/Museen/MuseumUndKunstvereinEvaWipf/default.htm",
-   :locality "Pfäffikon ZH",
+   :location "Pfäffikon ZH",
    :image "",
    :description ""}
   {:name "Museum Frank Buchser",
@@ -5113,7 +5113,7 @@
    :latitude 47.2109982,
    :source :openstreetmap,
    :homepage "https://www.frank-buchser.ch/",
-   :locality "Bettlach",
+   :location "Bettlach",
    :image "",
    :description ""}
   {:name "Museum Franz Gertsch",
@@ -5121,7 +5121,7 @@
    :latitude 47.0579333,
    :source :openstreetmap,
    :homepage "https://www.museum-franzgertsch.ch/",
-   :locality "Burgdorf",
+   :location "Burgdorf",
    :image "",
    :description ""}
   {:name "Museum für Archäologie des Kantons Thurgau",
@@ -5129,7 +5129,7 @@
    :latitude 47.5564574,
    :source :openstreetmap,
    :homepage "https://archaeologiemuseum.tg.ch/",
-   :locality "Frauenfeld",
+   :location "Frauenfeld",
    :image "",
    :description ""}
   {:name "Museum für Gestaltung",
@@ -5137,7 +5137,7 @@
    :latitude 47.3829824,
    :source :openstreetmap,
    :homepage "https://www.museum-gestaltung.ch",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Museum für Gestaltung - Schaudepot",
@@ -5158,7 +5158,7 @@
    :latitude 47.4405834,
    :source :openstreetmap,
    :homepage "https://www.musikautomaten.ch/",
-   :locality "Seewen SO",
+   :location "Seewen SO",
    :image "",
    :description ""}
   {:name "Museum für Uhren und Mechanische Musik",
@@ -5166,7 +5166,7 @@
    :latitude 46.7284834,
    :source :openstreetmap,
    :homepage "https://www.uhrenmuseum.ch/",
-   :locality "Oberhofen am Thunersee",
+   :location "Oberhofen am Thunersee",
    :image "",
    :description ""}
   {:name "Museum für Urgeschichte",
@@ -5174,7 +5174,7 @@
    :latitude 47.1597728,
    :source :openstreetmap,
    :homepage "https://www.urgeschichte-zug.ch/",
-   :locality "Zug",
+   :location "Zug",
    :image "",
    :description ""}
   {:name "Museum GT Neuchâtel",
@@ -5188,7 +5188,7 @@
    :latitude 47.3381828,
    :source :openstreetmap,
    :homepage "https://haarundkamm.ch",
-   :locality "Mümliswil-Ramiswil",
+   :location "Mümliswil-Ramiswil",
    :image "",
    :description ""}
   {:name "Museum Haus C.G. Jung",
@@ -5203,7 +5203,7 @@
    :latitude 47.4445312,
    :source :openstreetmap,
    :homepage "https://www.museum-heiden.ch",
-   :locality "Heiden",
+   :location "Heiden",
    :image "",
    :description ""}
   {:name "Museum Herisau",
@@ -5211,7 +5211,7 @@
    :latitude 47.385566,
    :source :openstreetmap,
    :homepage "https://museumherisau.ch/",
-   :locality "Herisau",
+   :location "Herisau",
    :image "",
    :description ""}
   {:name "Museum im Alten Zollhaus",
@@ -5225,7 +5225,7 @@
    :latitude 47.0345073,
    :source :openstreetmap,
    :homepage "https://www.bellpark.ch/",
-   :locality "Kriens",
+   :location "Kriens",
    :image "",
    :description ""}
   {:name "Museum im Turmhof",
@@ -5233,7 +5233,7 @@
    :latitude 47.6688894,
    :source :openstreetmap,
    :homepage "https://turmhof-museum.ch/",
-   :locality "Steckborn",
+   :location "Steckborn",
    :image "",
    :description ""}
   {:name "Museum im Zeughaus",
@@ -5254,7 +5254,7 @@
    :latitude 47.0075341,
    :source :openstreetmap,
    :homepage "https://www.museumkrauchthal.ch/",
-   :locality "Krauchthal",
+   :location "Krauchthal",
    :image "",
    :description ""}
   {:name "Museum Kunst + Wissen",
@@ -5270,7 +5270,7 @@
    :latitude 47.2128078,
    :source :openstreetmap,
    :homepage "https://www.museumlangenthal.ch/",
-   :locality "Langenthal",
+   :location "Langenthal",
    :image "",
    :description ""}
   {:name "Museum Langmatt",
@@ -5278,14 +5278,14 @@
    :latitude 47.4814839,
    :source :openstreetmap,
    :homepage "http://www.langmatt.ch",
-   :locality "Baden",
+   :location "Baden",
    :image "",
    :description ""}
   {:name "Museum Laufental",
    :longitude 7.499645,
    :latitude 47.4229454,
    :source :openstreetmap,
-   :locality "Laufen",
+   :location "Laufen",
    :image "",
    :description ""}
   {:name "Museum Lindengut",
@@ -5294,7 +5294,7 @@
    :source :openstreetmap,
    :homepage
    "https://historischer-verein-winterthur.ch/site/lindengut/",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Museum local",
@@ -5308,7 +5308,7 @@
    :latitude 46.4364497,
    :source :openstreetmap,
    :homepage "https://museumlv.com/",
-   :locality "Montreux",
+   :location "Montreux",
    :image "",
    :description ""}
   {:name "Museum Mellingen",
@@ -5323,7 +5323,7 @@
    :latitude 46.7736637,
    :source :openstreetmap,
    :homepage "http://www.museumregiunal.ch/",
-   :locality "Ilanz",
+   :location "Ilanz",
    :image "",
    :description ""}
   {:name "Museum Regiunal Savognin",
@@ -5338,7 +5338,7 @@
    :latitude 47.3589183,
    :source :openstreetmap,
    :homepage "https://www.rietberg.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Museum Ronmühle",
@@ -5353,7 +5353,7 @@
    :latitude 47.6443593,
    :source :openstreetmap,
    :homepage "https://www.museumrosenegg.ch/",
-   :locality "Kreuzlingen",
+   :location "Kreuzlingen",
    :image "",
    :description ""}
   {:name "Museum Sarganserland",
@@ -5361,7 +5361,7 @@
    :latitude 47.050044,
    :source :openstreetmap,
    :homepage "https://www.museumsargans.ch",
-   :locality "Sargans",
+   :location "Sargans",
    :image "",
    :description ""}
   {:name "Museum Schaffen",
@@ -5369,7 +5369,7 @@
    :latitude 47.4952488,
    :source :openstreetmap,
    :homepage "https://www.museumschaffen.ch/",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Museum Schiff",
@@ -5391,7 +5391,7 @@
    :latitude 47.0549742,
    :source :openstreetmap,
    :homepage "https://schloss-burgdorf.ch/de/museum/",
-   :locality "Burgdorf",
+   :location "Burgdorf",
    :image "",
    :description ""}
   {:name "Museum Schloss Grüningen",
@@ -5413,7 +5413,7 @@
    :longitude 8.1834862,
    :latitude 47.2496094,
    :source :openstreetmap,
-   :locality "Reinach AG",
+   :location "Reinach AG",
    :image "",
    :description ""}
   {:name "Museum Sein und Schein",
@@ -5435,7 +5435,7 @@
    :latitude 47.6966564,
    :source :openstreetmap,
    :homepage "https://www.iwc.com/ch-en/company/museum",
-   :locality "Schaffhausen",
+   :location "Schaffhausen",
    :image "",
    :description ""}
   {:name "Museum Sursilvan Cuort Ligia Grischa",
@@ -5444,7 +5444,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.trun.ch/kultursport/museum/default.htm?client_locale=DE",
-   :locality "Trun",
+   :location "Trun",
    :image "",
    :description ""}
   {:name "Museum Tinguely",
@@ -5452,7 +5452,7 @@
    :latitude 47.5591721,
    :source :openstreetmap,
    :homepage "https://www.tinguely.ch",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Museum TLF-Club Inwil",
@@ -5460,7 +5460,7 @@
    :latitude 47.1207883,
    :source :openstreetmap,
    :homepage "http://www.tlf-club-inwil.ch/",
-   :locality "Inwil",
+   :location "Inwil",
    :image "",
    :description ""}
   {:name "Museum Vaz/Obervaz",
@@ -5468,7 +5468,7 @@
    :latitude 46.6954599,
    :source :openstreetmap,
    :homepage "https://museumvaz-lenzerheide.ch/",
-   :locality "Vaz/Obervaz",
+   :location "Vaz/Obervaz",
    :image "",
    :description ""}
   {:name "Museum Wolfhalden",
@@ -5476,7 +5476,7 @@
    :latitude 47.4533341,
    :source :openstreetmap,
    :homepage "http://museumwolfhalden.ch/",
-   :locality "Wolfhalden",
+   :location "Wolfhalden",
    :image "",
    :description ""}
   {:name "Museum zum Feld",
@@ -5491,7 +5491,7 @@
    :latitude 47.1218073,
    :source :openstreetmap,
    :homepage "https://www.museumbickel.ch/",
-   :locality "Walenstadt",
+   :location "Walenstadt",
    :image "",
    :description ""}
   {:name "Museümli",
@@ -5499,7 +5499,7 @@
    :latitude 47.1570156,
    :source :openstreetmap,
    :homepage "https://museümli.ch",
-   :locality "Buchs (SG)",
+   :location "Buchs (SG)",
    :image "",
    :description ""}
   {:name "Musikpalast",
@@ -5507,7 +5507,7 @@
    :latitude 47.5761246,
    :source :openstreetmap,
    :homepage "https://www.musikpalast.ch/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Musée Ariana",
@@ -5515,7 +5515,7 @@
    :latitude 46.2254045,
    :source :openstreetmap,
    :homepage "https://www.musee-ariana.ch/",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Musée Atelier Audemars Piguet",
@@ -5523,14 +5523,14 @@
    :latitude 46.5801289,
    :source :openstreetmap,
    :homepage "https://museeatelier.audemarspiguet.com/en/home.html",
-   :locality "Le Brassus",
+   :location "Le Brassus",
    :image "",
    :description ""}
   {:name "Musée BIBLE+ORIENT",
    :longitude 7.1518175,
    :latitude 46.8068288,
    :source :openstreetmap,
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "Musée Bolo",
@@ -5538,7 +5538,7 @@
    :latitude 46.5187352,
    :source :openstreetmap,
    :homepage "https://www.museebolo.ch/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Musée CFF (Usine de Barberine)",
@@ -5560,7 +5560,7 @@
    :source :openstreetmap,
    :homepage
    "https://fribourg.ch/fr/fribourg/musees/musee-art-et-histoire/",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "Musée d'art de Pully",
@@ -5568,7 +5568,7 @@
    :latitude 46.5090345,
    :source :openstreetmap,
    :homepage "https://www.museedartdepully.ch/fr/accueil/",
-   :locality "Pully",
+   :location "Pully",
    :image "",
    :description ""}
   {:name "Musée d'art du Valais",
@@ -5584,7 +5584,7 @@
    :latitude 46.9915876,
    :source :openstreetmap,
    :homepage "https://www.mahn.ch",
-   :locality "Neuchâtel",
+   :location "Neuchâtel",
    :image "",
    :description ""}
   {:name "Musée d'ethnographie",
@@ -5628,7 +5628,7 @@
    :latitude 46.7931478,
    :source :openstreetmap,
    :homepage "https://www.fr.ch/mhn/",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "Musée d'Horlogerie du Locle",
@@ -5643,7 +5643,7 @@
    :latitude 46.7232778,
    :source :openstreetmap,
    :homepage "https://www.pro-urba.ch/musee",
-   :locality "Orbe",
+   :location "Orbe",
    :image "",
    :description ""}
   {:name "Musée d'Yverdon et région",
@@ -5651,7 +5651,7 @@
    :latitude 46.7783927,
    :source :openstreetmap,
    :homepage "https://musee-yverdon-region.ch/",
-   :locality "Yverdon-les-Bains",
+   :location "Yverdon-les-Bains",
    :image "",
    :description ""}
   {:name "Musée de Bagnes",
@@ -5659,7 +5659,7 @@
    :latitude 46.0801709,
    :source :openstreetmap,
    :homepage "www.museedebagnes.ch",
-   :locality "Le Châble VS",
+   :location "Le Châble VS",
    :image "",
    :description ""}
   {:name "Musée de Carouge",
@@ -5667,7 +5667,7 @@
    :latitude 46.1842913,
    :source :openstreetmap,
    :homepage "https://www.carouge.ch/musee",
-   :locality "Carouge GE",
+   :location "Carouge GE",
    :image "",
    :description ""}
   {:name "Musée de Charmey",
@@ -5675,7 +5675,7 @@
    :latitude 46.6184333,
    :source :openstreetmap,
    :homepage "https://www.musee-charmey.ch/",
-   :locality "Charmey (Gruyère)",
+   :location "Charmey (Gruyère)",
    :image "",
    :description ""}
   {:name "Musée de l'Areuse",
@@ -5690,7 +5690,7 @@
    :latitude 46.8462948,
    :source :openstreetmap,
    :homepage "https://clindailes.ch/",
-   :locality "Morens FR",
+   :location "Morens FR",
    :image "",
    :description ""}
   {:name "Musée de l'Hospice du Grand Saint-Bernard",
@@ -5718,7 +5718,7 @@
    :longitude 7.1852212,
    :latitude 46.1716531,
    :source :openstreetmap,
-   :locality "Saillon",
+   :location "Saillon",
    :image "",
    :description ""}
   {:name "Musée de la laiterie et des costumes",
@@ -5727,7 +5727,7 @@
    :source :openstreetmap,
    :homepage
    "https://nax-region.ch/activites/en-detail/musee-de-la-laiterie-et-des-costumes",
-   :locality "Vernamiège",
+   :location "Vernamiège",
    :image "",
    :description ""}
   {:name "Musée de la mécanique d'art et du patrimoine",
@@ -5748,7 +5748,7 @@
    :latitude 46.1210128,
    :source :openstreetmap,
    :homepage "https://www.fondation-marconi.ch",
-   :locality "Salvan",
+   :location "Salvan",
    :image "",
    :description ""}
   {:name "Musée de la Vigne et du Vin",
@@ -5756,7 +5756,7 @@
    :latitude 46.2936877,
    :source :openstreetmap,
    :homepage "https://www.museeduvin-valais.ch",
-   :locality "Sierre",
+   :location "Sierre",
    :image "",
    :description ""}
   {:name "Musée de Leysin",
@@ -5765,7 +5765,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.lafromagerie-leysin.ch/en/souvenir-corner/museum",
-   :locality "Leysin",
+   :location "Leysin",
    :image "",
    :description ""}
   {:name "Musée de Montreux",
@@ -5780,7 +5780,7 @@
    :latitude 46.9277043,
    :source :openstreetmap,
    :homepage "https://www.museummurten.ch",
-   :locality "Murten",
+   :location "Murten",
    :image "",
    :description ""}
   {:name "Musée de vacherin",
@@ -5788,7 +5788,7 @@
    :latitude 46.6667778,
    :source :openstreetmap,
    :homepage "https://vacherin-le-pelerin.ch/",
-   :locality "Les Charbonnières",
+   :location "Les Charbonnières",
    :image "",
    :description ""}
   {:name "Musée des arts d'Extrême-Orient",
@@ -5803,7 +5803,7 @@
    :latitude 46.2760195,
    :source :openstreetmap,
    :homepage "https://www.musee-des-bisses.ch/",
-   :locality "Botyre (Ayent)",
+   :location "Botyre (Ayent)",
    :image "",
    :description ""}
   {:name "Musée des civilisations de l'Islam",
@@ -5811,7 +5811,7 @@
    :latitude 47.0970009,
    :source :openstreetmap,
    :homepage "https://www.mucivi.ch/",
-   :locality "La Chaux-de-Fonds",
+   :location "La Chaux-de-Fonds",
    :image "",
    :description ""}
   {:name "Musée des EAN",
@@ -5834,7 +5834,7 @@
    :latitude 46.5219873,
    :source :openstreetmap,
    :homepage "https://museemigrations.wordpress.com/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Musée des Ormonts",
@@ -5842,7 +5842,7 @@
    :latitude 46.353822,
    :source :openstreetmap,
    :homepage "https://museeormonts.ch",
-   :locality "Vers-l'Eglise",
+   :location "Vers-l'Eglise",
    :image "",
    :description ""}
   {:name "Musée Des Sapeurs Pompiers",
@@ -5863,7 +5863,7 @@
    :longitude 6.6325294,
    :latitude 46.6419982,
    :source :openstreetmap,
-   :locality "Echallens",
+   :location "Echallens",
    :image "",
    :description ""}
   {:name "Musée du Bois",
@@ -5878,7 +5878,7 @@
    :latitude 46.6601332,
    :source :openstreetmap,
    :homepage "https://www.museeducheval.ch/",
-   :locality "La Sarraz",
+   :location "La Sarraz",
    :image "",
    :description ""}
   {:name "Musée du fer et du chemin de fer",
@@ -5893,7 +5893,7 @@
    :latitude 46.3799759,
    :source :openstreetmap,
    :homepage "https://www.museeduleman.ch/",
-   :locality "Nyon",
+   :location "Nyon",
    :image "",
    :description ""}
   {:name "Musée du Mont-Repais",
@@ -5942,7 +5942,7 @@
    :latitude 46.7899191,
    :source :openstreetmap,
    :homepage "https://www.museebaulmes.ch/",
-   :locality "Baulmes",
+   :location "Baulmes",
    :image "",
    :description ""}
   {:name "Musée du Vieux-Coppet",
@@ -5950,7 +5950,7 @@
    :latitude 46.3163684,
    :source :openstreetmap,
    :homepage "https://www.coppet.ch/avisiter/8245",
-   :locality "Coppet",
+   :location "Coppet",
    :image "",
    :description ""}
   {:name "Musée du Vigneron",
@@ -5958,7 +5958,7 @@
    :latitude 46.4676231,
    :source :openstreetmap,
    :homepage "https://www.montbenay.ch/le-musee-du-vigneron",
-   :locality "Mont-sur-Rolle",
+   :location "Mont-sur-Rolle",
    :image "",
    :description ""}
   {:name "Musée du Vélo",
@@ -5966,7 +5966,7 @@
    :latitude 46.2791535,
    :source :openstreetmap,
    :homepage "http://www.museeduvelo.ch/",
-   :locality "Chippis",
+   :location "Chippis",
    :image "",
    :description ""}
   {:name "Musée du Vélo",
@@ -5975,7 +5975,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.fribourgregion.ch/fr/fribourg/musees/musee-du-velo-de-fribourg/",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "musée d’Argine",
@@ -5996,7 +5996,7 @@
    :latitude 46.0951152,
    :source :openstreetmap,
    :homepage "https://www.gianadda.ch/espaces/musee_gallo-romain/",
-   :locality "Martigny",
+   :location "Martigny",
    :image "",
    :description ""}
   {:name "Musée Gruérien",
@@ -6004,7 +6004,7 @@
    :latitude 46.6167104,
    :source :openstreetmap,
    :homepage "https://musee-gruerien.ch/",
-   :locality "Bulle",
+   :location "Bulle",
    :image "",
    :description ""}
   {:name "Musée militaire",
@@ -6018,7 +6018,7 @@
    :latitude 46.2323688,
    :source :openstreetmap,
    :homepage "https://museemilitaire.ch/",
-   :locality "Chambésy",
+   :location "Chambésy",
    :image "",
    :description ""}
   {:name "Musée National Suisse",
@@ -6026,7 +6026,7 @@
    :latitude 46.3941172,
    :source :openstreetmap,
    :homepage "https://www.chateaudeprangins.ch",
-   :locality "Prangins",
+   :location "Prangins",
    :image "",
    :description ""}
   {:name "Musée Observatoire de Neuchâtel",
@@ -6041,7 +6041,7 @@
    :latitude 46.5086744,
    :source :openstreetmap,
    :homepage "https://www.olympics.com/museum/",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Musée paysan et artisanal",
@@ -6049,7 +6049,7 @@
    :latitude 47.0894846,
    :source :openstreetmap,
    :homepage "https://www.chaux-de-fonds.ch/musees/mpa",
-   :locality "La Chaux-de-Fonds",
+   :location "La Chaux-de-Fonds",
    :image "",
    :description ""}
   {:name "Musée Roger Monney",
@@ -6057,7 +6057,7 @@
    :latitude 46.9227681,
    :source :openstreetmap,
    :homepage "https://roger-monney.ch/",
-   :locality "Bellerive VD",
+   :location "Bellerive VD",
    :image "",
    :description ""}
   {:name "Musée romain de Lausanne-Vidy",
@@ -6073,7 +6073,7 @@
    :latitude 46.8766133,
    :source :openstreetmap,
    :homepage "https://museevallon.ch/",
-   :locality "Vallon",
+   :location "Vallon",
    :image "",
    :description ""}
   {:name "Musée Romand de la Machine Agricole",
@@ -6081,7 +6081,7 @@
    :latitude 46.4038678,
    :source :openstreetmap,
    :homepage "https://www.musee-chiblins.ch/",
-   :locality "Gingins",
+   :location "Gingins",
    :image "",
    :description ""}
   {:name "Musée Rosinski",
@@ -6095,7 +6095,7 @@
    :latitude 46.7101433,
    :source :openstreetmap,
    :homepage "https://www.lucens.ch/sherlockholmes",
-   :locality "Lucens",
+   :location "Lucens",
    :image "",
    :description ""}
   {:name "Musée suisse de l'appareil photographique",
@@ -6103,7 +6103,7 @@
    :latitude 46.4593512,
    :source :openstreetmap,
    :homepage "https://cameramuseum.ch/",
-   :locality "Vevey",
+   :location "Vevey",
    :image "",
    :description ""}
   {:name "Musée Suisse de l'Orgue",
@@ -6111,7 +6111,7 @@
    :latitude 46.3596877,
    :source :openstreetmap,
    :homepage "http://www.orgue.ch",
-   :locality "Roche VD",
+   :location "Roche VD",
    :image "",
    :description ""}
   {:name "Musée suisse de la machine à coudre",
@@ -6119,7 +6119,7 @@
    :latitude 46.8056473,
    :source :openstreetmap,
    :homepage "https://museewassmer.com/",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "Musée suisse de la marionnette",
@@ -6127,7 +6127,7 @@
    :latitude 46.8027656,
    :source :openstreetmap,
    :homepage "https://www.marionnette.ch/",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "Musée Suisse du Jeu",
@@ -6135,7 +6135,7 @@
    :latitude 46.4526847,
    :source :openstreetmap,
    :homepage "https://museedujeu.ch/",
-   :locality "La Tour-de-Peilz",
+   :location "La Tour-de-Peilz",
    :image "",
    :description ""}
   {:name "Musée Voltaire",
@@ -6143,7 +6143,7 @@
    :latitude 46.2076268,
    :source :openstreetmap,
    :homepage "https://www.bge-geneve.ch/voltaire",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Muzeum Susch",
@@ -6158,14 +6158,14 @@
    :latitude 47.105449,
    :source :openstreetmap,
    :homepage "https://muzoo.ch/",
-   :locality "La Chaux-de-Fonds",
+   :location "La Chaux-de-Fonds",
    :image "",
    :description ""}
   {:name "Mühle",
    :longitude 7.8587107,
    :latitude 46.6601539,
    :source :openstreetmap,
-   :locality "Wilderswil",
+   :location "Wilderswil",
    :image "",
    :description ""}
   {:name "Mühlemuseum",
@@ -6186,7 +6186,7 @@
    :latitude 47.5029876,
    :source :openstreetmap,
    :homepage "https://www.villastraeuli.ch/de/villa",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Nagelschmiede",
@@ -6200,7 +6200,7 @@
    :latitude 47.6726822,
    :source :openstreetmap,
    :homepage "http://www.napoleonmuseum.ch",
-   :locality "Salenstein",
+   :location "Salenstein",
    :image "",
    :description ""}
   {:name "Nationalparkzentrum (Center dal Parc Naziunal)",
@@ -6208,7 +6208,7 @@
    :latitude 46.6992531,
    :source :openstreetmap,
    :homepage "https://nationalpark.ch/besuchen/nationalparkzentrum/",
-   :locality "Zernez",
+   :location "Zernez",
    :image "",
    :description ""}
   {:name "Naturama",
@@ -6216,7 +6216,7 @@
    :latitude 47.3924915,
    :source :openstreetmap,
    :homepage "https://www.naturama.ch/",
-   :locality "Aarau",
+   :location "Aarau",
    :image "",
    :description ""}
   {:name "Naturhistorisches Museum",
@@ -6224,7 +6224,7 @@
    :latitude 47.3751766,
    :source :openstreetmap,
    :homepage "https://www.nmz.uzh.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Naturkundesammlung",
@@ -6238,7 +6238,7 @@
    :latitude 47.43948,
    :source :openstreetmap,
    :homepage "https://www.naturmuseumsg.ch/",
-   :locality "St. Gallen",
+   :location "St. Gallen",
    :image "",
    :description ""}
   {:name "Naturzentrum Thurauen",
@@ -6246,7 +6246,7 @@
    :latitude 47.5789571,
    :source :openstreetmap,
    :homepage "https://www.naturzentrum-thurauen.ch/",
-   :locality "Flaach",
+   :location "Flaach",
    :image "",
    :description ""}
   {:name "Nellimya Arthouse land",
@@ -6260,7 +6260,7 @@
    :latitude 47.1867404,
    :source :openstreetmap,
    :homepage "https://www.nicolaernicollection.ch/",
-   :locality "Steinhausen",
+   :location "Steinhausen",
    :image "",
    :description ""}
   {:name "NiQo Kunstatelier und Galerie",
@@ -6268,7 +6268,7 @@
    :latitude 47.4038931,
    :source :openstreetmap,
    :homepage "https://niqo.ch/",
-   :locality "Dübendorf",
+   :location "Dübendorf",
    :image "",
    :description ""}
   {:name "Nordamerika Native Museum NONAM",
@@ -6276,7 +6276,7 @@
    :latitude 47.347021,
    :source :openstreetmap,
    :homepage "https://www.stadt-zuerich.ch/nonam/de.html",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Novartis Pavillon",
@@ -6284,7 +6284,7 @@
    :latitude 47.5715702,
    :source :openstreetmap,
    :homepage "https://www.campus.novartis.com/novartis-pavillon",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "nufnuf-art fondation",
@@ -6321,7 +6321,7 @@
    :latitude 47.4284545,
    :source :openstreetmap,
    :homepage "https://www.overgersdajoie.ch/fr/le-musee/",
-   :locality "Porrentruy",
+   :location "Porrentruy",
    :image "",
    :description ""}
   {:name "Oberes Bad",
@@ -6338,7 +6338,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.oldtimergalerie.ch/en/latest-offers/?oid=55&lang=en",
-   :locality "Toffen",
+   :location "Toffen",
    :image "",
    :description ""}
   {:name "Oldtimermuseum Lömmenschwil",
@@ -6346,7 +6346,7 @@
    :latitude 47.5026598,
    :source :openstreetmap,
    :homepage "https://automuseum.ch",
-   :locality "Lömmenschwil",
+   :location "Lömmenschwil",
    :image "",
    :description ""}
   {:name "OPENeSPACE",
@@ -6355,14 +6355,14 @@
    :source :openstreetmap,
    :homepage
    "https://sites.google.com/site/indiavilleneuve/openespace",
-   :locality "Villeneuve VD",
+   :location "Villeneuve VD",
    :image "",
    :description ""}
   {:name "Orgel- und Harmonium-Museum",
    :longitude 7.7266685,
    :latitude 47.4847463,
    :source :openstreetmap,
-   :locality "Liestal",
+   :location "Liestal",
    :image "",
    :description ""}
   {:name "Ortsmuseum",
@@ -6383,7 +6383,7 @@
    :latitude 47.3263116,
    :source :openstreetmap,
    :homepage "https://www.museum-wetzikon.ch/",
-   :locality "Wetzikon ZH",
+   :location "Wetzikon ZH",
    :image "",
    :description ""}
   {:name "Ortsmuseum",
@@ -6396,7 +6396,7 @@
    :longitude 9.0503499,
    :latitude 47.1540442,
    :source :openstreetmap,
-   :locality "Schänis",
+   :location "Schänis",
    :image "",
    :description ""}
   {:name "Ortsmuseum",
@@ -6422,7 +6422,7 @@
    :longitude 8.7884993,
    :latitude 47.520571,
    :source :openstreetmap,
-   :locality "Wiesendangen",
+   :location "Wiesendangen",
    :image "",
    :description ""}
   {:name "Ortsmuseum",
@@ -6448,7 +6448,7 @@
    :latitude 47.4197233,
    :source :openstreetmap,
    :homepage "https://www.wila.ch/leben/ortsmuseum.html/235",
-   :locality "Wila",
+   :location "Wila",
    :image "",
    :description ""}
   {:name "Ortsmuseum",
@@ -6461,14 +6461,14 @@
    :longitude 8.3746639,
    :latitude 47.2598889,
    :source :openstreetmap,
-   :locality "Merenschwand",
+   :location "Merenschwand",
    :image "",
    :description ""}
   {:name "Ortsmuseum",
    :longitude 7.7171676,
    :latitude 47.5015915,
    :source :openstreetmap,
-   :locality "Frenkendorf",
+   :location "Frenkendorf",
    :image "",
    :description ""}
   {:name "Ortsmuseum Affoltern am Albis",
@@ -6476,7 +6476,7 @@
    :latitude 47.2872018,
    :source :openstreetmap,
    :homepage "https://museum-affoltern.ch",
-   :locality "Zwillikon",
+   :location "Zwillikon",
    :image "",
    :description ""}
   {:name "Ortsmuseum Albisrieden",
@@ -6491,7 +6491,7 @@
    :latitude 47.388622,
    :source :openstreetmap,
    :homepage "http://www.ortsmuseum-altstetten.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Ortsmuseum Bellikon",
@@ -6518,7 +6518,7 @@
    :latitude 47.3506878,
    :source :openstreetmap,
    :homepage "http://www.ortsmuseum-birmensdorf.ch/",
-   :locality "Birmensdorf (ZH)",
+   :location "Birmensdorf (ZH)",
    :image "",
    :description ""}
   {:name "Ortsmuseum Brunngasshus",
@@ -6539,14 +6539,14 @@
    :latitude 47.4523184,
    :source :openstreetmap,
    :homepage "https://ortsmuseum-kloten.ch/",
-   :locality "Kloten",
+   :location "Kloten",
    :image "",
    :description ""}
   {:name "Ortsmuseum Dietikon",
    :longitude 8.4033858,
    :latitude 47.4016009,
    :source :openstreetmap,
-   :locality "Dietikon",
+   :location "Dietikon",
    :image "",
    :description ""}
   {:name "Ortsmuseum Dättlikon und Pfungen",
@@ -6559,14 +6559,14 @@
    :longitude 8.7342798,
    :latitude 47.2386039,
    :source :openstreetmap,
-   :locality "Stäfa",
+   :location "Stäfa",
    :image "",
    :description ""}
   {:name "Ortsmuseum Fischenthal",
    :longitude 8.9290873,
    :latitude 47.3579611,
    :source :openstreetmap,
-   :locality "Steg im Tösstal",
+   :location "Steg im Tösstal",
    :image "",
    :description ""}
   {:name "Ortsmuseum Flawil im Lindengut",
@@ -6574,7 +6574,7 @@
    :latitude 47.4126411,
    :source :openstreetmap,
    :homepage "https://www.ortsmuseumflawil.ch/",
-   :locality "Flawil",
+   :location "Flawil",
    :image "",
    :description ""}
   {:name "Ortsmuseum Gaiserwald",
@@ -6582,14 +6582,14 @@
    :latitude 47.4246882,
    :source :openstreetmap,
    :homepage "https://www.gaiserwald.ch/sehenswuerdigmuseum/579",
-   :locality "St. Josefen",
+   :location "St. Josefen",
    :image "",
    :description ""}
   {:name "Ortsmuseum Hanselispycher",
    :longitude 8.7953588,
    :latitude 47.552275,
    :source :openstreetmap,
-   :locality "Rickenbach (ZH)",
+   :location "Rickenbach (ZH)",
    :image "",
    :description ""}
   {:name "Ortsmuseum Hinwil",
@@ -6597,7 +6597,7 @@
    :latitude 47.2984637,
    :source :openstreetmap,
    :homepage "https://www.ortsmuseum.ch/",
-   :locality "Wernetshausen",
+   :location "Wernetshausen",
    :image "",
    :description ""}
   {:name "Ortsmuseum Höngg",
@@ -6611,14 +6611,14 @@
    :longitude 8.5459579,
    :latitude 47.3185346,
    :source :openstreetmap,
-   :locality "Kilchberg (ZH)",
+   :location "Kilchberg (ZH)",
    :image "",
    :description ""}
   {:name "Ortsmuseum Küsnacht",
    :longitude 8.5868557,
    :latitude 47.3172973,
    :source :openstreetmap,
-   :locality "Küsnacht",
+   :location "Küsnacht",
    :image "",
    :description ""}
   {:name "Ortsmuseum Meilen",
@@ -6626,7 +6626,7 @@
    :latitude 47.2684474,
    :source :openstreetmap,
    :homepage "https://www.ortsmuseum-meilen.ch/",
-   :locality "Meilen",
+   :location "Meilen",
    :image "",
    :description ""}
   {:name "Ortsmuseum Müllisperg",
@@ -6635,7 +6635,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kaltbrunn.ch/de/tourismus/sehenswuerdigkeiten/welcome.php?action=showobject&object_id=9146",
-   :locality "Kaltbrunn",
+   :location "Kaltbrunn",
    :image "",
    :description ""}
   {:name "Ortsmuseum Niederrohrdorf",
@@ -6650,7 +6650,7 @@
    :longitude 9.1191059,
    :latitude 47.4310562,
    :source :openstreetmap,
-   :locality "Oberuzwil",
+   :location "Oberuzwil",
    :image "",
    :description ""}
   {:name "Ortsmuseum Oftringen",
@@ -6658,7 +6658,7 @@
    :latitude 47.3188757,
    :source :openstreetmap,
    :homepage "https://www.museum-oftringen.ch/",
-   :locality "Oftringen",
+   :location "Oftringen",
    :image "",
    :description ""}
   {:name "Ortsmuseum Rebstein",
@@ -6671,7 +6671,7 @@
    :longitude 8.5532378,
    :latitude 47.3073987,
    :source :openstreetmap,
-   :locality "Rüschlikon",
+   :location "Rüschlikon",
    :image "",
    :description ""}
   {:name "Ortsmuseum Schlieren",
@@ -6693,7 +6693,7 @@
    :latitude 47.4908662,
    :source :openstreetmap,
    :homepage "https://www.museum-steinmaur.ch",
-   :locality "Sünikon",
+   :location "Sünikon",
    :image "",
    :description ""}
   {:name "Ortsmuseum Sust",
@@ -6722,7 +6722,7 @@
    :latitude 47.3827834,
    :source :openstreetmap,
    :homepage "https://ortsmuseum-urdorf.ch/",
-   :locality "Urdorf",
+   :location "Urdorf",
    :image "",
    :description ""}
   {:name "Ortsmuseum Wallisellen",
@@ -6751,7 +6751,7 @@
    :longitude 8.4561452,
    :latitude 47.4145838,
    :source :openstreetmap,
-   :locality "Unterengstringen",
+   :location "Unterengstringen",
    :image "",
    :description ""}
   {:name "Ortsmuseum Weierbachhus",
@@ -6759,7 +6759,7 @@
    :latitude 47.5756737,
    :source :openstreetmap,
    :homepage "https://www.weierbachhus.ch/",
-   :locality "Eglisau",
+   :location "Eglisau",
    :image "",
    :description ""}
   {:name "Ortsmuseum Wiedikon",
@@ -6767,7 +6767,7 @@
    :latitude 47.3682345,
    :source :openstreetmap,
    :homepage "https://www.ortsmuseum-wiedikon.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Ortsmuseum Wollishofen",
@@ -6780,7 +6780,7 @@
    :longitude 8.5746837,
    :latitude 47.340854,
    :source :openstreetmap,
-   :locality "Zollikon",
+   :location "Zollikon",
    :image "",
    :description ""}
   {:name "Oxyd Kunsträume",
@@ -6788,7 +6788,7 @@
    :latitude 47.4979497,
    :source :openstreetmap,
    :homepage "https://oxydart.ch/",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Palais de Rumine",
@@ -6810,7 +6810,7 @@
    :latitude 46.3426664,
    :source :openstreetmap,
    :homepage "https://palazzo-castelmur.ch/",
-   :locality "Stampa",
+   :location "Stampa",
    :image "",
    :description ""}
   {:name "Palazzo dei Landfogti",
@@ -6825,7 +6825,7 @@
    :latitude 47.1316092,
    :source :openstreetmap,
    :homepage "https://panorama-einsiedeln.ch/de",
-   :locality "Einsiedeln",
+   :location "Einsiedeln",
    :image "",
    :description ""}
   {:name "Pantheon",
@@ -6833,14 +6833,14 @@
    :latitude 47.5378091,
    :source :openstreetmap,
    :homepage "https://pantheonbasel.ch/museum/",
-   :locality "Muttenz",
+   :location "Muttenz",
    :image "",
    :description ""}
   {:name "Panzermuseum Thun",
    :longitude 7.6123873,
    :latitude 46.7587021,
    :source :openstreetmap,
-   :locality "Thun",
+   :location "Thun",
    :image "",
    :description ""}
   {:name "Parco dei Mulini",
@@ -6862,7 +6862,7 @@
    :latitude 47.1388476,
    :source :openstreetmap,
    :homepage "https://www.pasquart.ch/",
-   :locality "Biel/Bienne",
+   :location "Biel/Bienne",
    :image "",
    :description ""}
   {:name "Pavillon Audrey Hepburn",
@@ -6884,7 +6884,7 @@
    :latitude 47.356045,
    :source :openstreetmap,
    :homepage "https://www.pavillon-le-corbusier.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Pavillon Würzenbach",
@@ -6892,7 +6892,7 @@
    :latitude 47.0535124,
    :source :openstreetmap,
    :homepage "https://www.pawb.ch/",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Pegasus Small World",
@@ -6900,7 +6900,7 @@
    :latitude 47.2777892,
    :source :openstreetmap,
    :homepage "https://www.spielzeug-museum.ch/",
-   :locality "Aeugstertal",
+   :location "Aeugstertal",
    :image "",
    :description ""}
   {:name "Pfahlbaumuseum",
@@ -6908,7 +6908,7 @@
    :latitude 47.0456237,
    :source :openstreetmap,
    :homepage "https://www.xn--pfahlbaumuseum-lscherz-7lc.ch/",
-   :locality "Lüscherz",
+   :location "Lüscherz",
    :image "",
    :description ""}
   {:name "Pfahlbaumuseum",
@@ -6934,7 +6934,7 @@
    :latitude 47.6853156,
    :source :openstreetmap,
    :homepage "https://www.pflugmuseum.ch/",
-   :locality "Guntmadingen",
+   :location "Guntmadingen",
    :image "",
    :description ""}
   {:name "Pharmaziemuseum Universität Basel",
@@ -6942,7 +6942,7 @@
    :latitude 47.5585496,
    :source :openstreetmap,
    :homepage "https://www.pharmaziemuseum.ch/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Phänomena",
@@ -6950,7 +6950,7 @@
    :latitude 47.4142574,
    :source :openstreetmap,
    :homepage "https://www.phaenomena.ch",
-   :locality "Dietikon",
+   :location "Dietikon",
    :image "",
    :description ""}
   {:name "Piccolo Museo dela Radio e della fotografia",
@@ -6970,7 +6970,7 @@
    :latitude 45.8717356,
    :source :openstreetmap,
    :homepage "https://www.ti.ch/zuest",
-   :locality "Rancate",
+   :location "Rancate",
    :image "",
    :description ""}
   {:name "popup galerie am dreieck",
@@ -6989,7 +6989,7 @@
    :longitude 9.1989762,
    :latitude 46.5311294,
    :source :openstreetmap,
-   :locality "Hinterrhein",
+   :location "Hinterrhein",
    :image "",
    :description ""}
   {:name "Postlis Stadel",
@@ -6997,7 +6997,7 @@
    :latitude 47.0976114,
    :source :openstreetmap,
    :homepage "https://www.postlis-stadel.ch/",
-   :locality "Oberschan",
+   :location "Oberschan",
    :image "",
    :description ""}
   {:name "Primeo Energie Kosmos - Lernwelt Energie",
@@ -7025,7 +7025,7 @@
    :latitude 47.0557589,
    :source :openstreetmap,
    :homepage "https://puppenhausmuseum-luzern.ch/",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Pôle Musique",
@@ -7041,7 +7041,7 @@
    :source :openstreetmap,
    :homepage
    "https://ww2.sig-ge.ch/a-propos-de-sig/nous-connaitre/sites_expositions/quartier-libre-pont-de-la-machine",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Radiomuseum Dorf",
@@ -7063,14 +7063,14 @@
    :latitude 47.0833821,
    :source :openstreetmap,
    :homepage "https://www.rebbaumuseum.ch/",
-   :locality "Ligerz",
+   :location "Ligerz",
    :image "",
    :description ""}
   {:name "Ref. Kirchgemeindehaus",
    :longitude 8.7638663,
    :latitude 47.3009319,
    :source :openstreetmap,
-   :locality "Gossau ZH",
+   :location "Gossau ZH",
    :image "",
    :description ""}
   {:name "Regards croisés - Atelier galerie",
@@ -7084,7 +7084,7 @@
    :latitude 47.4898246,
    :source :openstreetmap,
    :homepage "https://landwirtschaftsmuseum.ch",
-   :locality "Lömmenschwil",
+   :location "Lömmenschwil",
    :image "",
    :description ""}
   {:name "Regionalmuseum Binn",
@@ -7092,7 +7092,7 @@
    :latitude 46.3643491,
    :source :openstreetmap,
    :homepage "https://mexogape.cyon.site/infos.html",
-   :locality "Binn",
+   :location "Binn",
    :image "",
    :description ""}
   {:name "Regionalmuseum Vitznau-Rigi",
@@ -7127,7 +7127,7 @@
    :latitude 47.0423895,
    :source :openstreetmap,
    :homepage "https://www.richard-wagner-museum.ch/",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Ritterhaus Bubikon",
@@ -7135,7 +7135,7 @@
    :latitude 47.2666801,
    :source :openstreetmap,
    :homepage "https://www.ritterhaus.ch/",
-   :locality "Bubikon",
+   :location "Bubikon",
    :image "",
    :description ""}
   {:name "RLC Totem",
@@ -7143,7 +7143,7 @@
    :latitude 46.2381433,
    :source :openstreetmap,
    :homepage "https://www.rlcsion.ch/totem",
-   :locality "Sion",
+   :location "Sion",
    :image "",
    :description ""}
   {:name "Rolla.info",
@@ -7186,7 +7186,7 @@
    :longitude 9.3944495,
    :latitude 47.4356417,
    :source :openstreetmap,
-   :locality "St. Gallen",
+   :location "St. Gallen",
    :image "",
    :description ""}
   {:name "Saaser Museeum",
@@ -7199,21 +7199,21 @@
    :longitude 7.9416212,
    :latitude 46.3149413,
    :source :openstreetmap,
-   :locality "Mund",
+   :location "Mund",
    :image "",
    :description ""}
   {:name "Sagi Menziken",
    :longitude 8.1873361,
    :latitude 47.2406338,
    :source :openstreetmap,
-   :locality "Menziken",
+   :location "Menziken",
    :image "",
    :description ""}
   {:name "Sagi Stockrüti",
    :longitude 8.8783437,
    :latitude 47.3324157,
    :source :openstreetmap,
-   :locality "Bäretswil",
+   :location "Bäretswil",
    :image "",
    :description ""}
   {:name "Sala-Cine Excelsior",
@@ -7240,14 +7240,14 @@
    :latitude 46.9587469,
    :source :openstreetmap,
    :homepage "https://nidwaldner-museum.ch/",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "sam scherrer contemporary",
    :longitude 8.553339,
    :latitude 47.3636938,
    :source :openstreetmap,
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name
@@ -7263,7 +7263,7 @@
    :latitude 47.5652287,
    :source :openstreetmap,
    :homepage "https://www.sammlunghoernli.ch/",
-   :locality "Riehen",
+   :location "Riehen",
    :image "",
    :description ""}
   {:name "Sammlung Oskar Reinhart Am Römerholz",
@@ -7271,7 +7271,7 @@
    :latitude 47.511386,
    :source :openstreetmap,
    :homepage "https://www.roemerholz.ch/",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Sammlung Rosengart",
@@ -7304,7 +7304,7 @@
    :longitude 7.6461453,
    :latitude 46.3192399,
    :source :openstreetmap,
-   :locality "Brentjong",
+   :location "Brentjong",
    :image "",
    :description ""}
   {:name "Sauerstofffabrik",
@@ -7312,7 +7312,7 @@
    :latitude 46.7721682,
    :source :openstreetmap,
    :homepage "https://www.sauerstoff-fabrik.ch",
-   :locality "Ilanz",
+   :location "Ilanz",
    :image "",
    :description ""}
   {:name "Saurer Museum DEPOT",
@@ -7320,7 +7320,7 @@
    :latitude 47.5100539,
    :source :openstreetmap,
    :homepage "https://www.saurermuseum.ch/saurer-museum-depot/",
-   :locality "Arbon",
+   :location "Arbon",
    :image "",
    :description ""}
   {:name "Sauriermuseum",
@@ -7335,7 +7335,7 @@
    :latitude 47.3387073,
    :source :openstreetmap,
    :homepage "https://www.sauriermuseum.ch/",
-   :locality "Aathal-Seegräben",
+   :location "Aathal-Seegräben",
    :image "",
    :description ""}
   {:name "Sauriermuseum Bellach",
@@ -7350,7 +7350,7 @@
    :latitude 47.1273008,
    :source :openstreetmap,
    :homepage "https://goldapfel.ch/museum/index.html",
-   :locality "Einsiedeln",
+   :location "Einsiedeln",
    :image "",
    :description ""}
   {:name "Schaffhauser Forstmuseum",
@@ -7370,7 +7370,7 @@
    :longitude 8.2762747,
    :latitude 47.0339322,
    :source :openstreetmap,
-   :locality "Kriens",
+   :location "Kriens",
    :image "",
    :description ""}
   {:name
@@ -7378,7 +7378,7 @@
    :longitude 8.736922,
    :latitude 47.6909985,
    :source :openstreetmap,
-   :locality "Diessenhofen",
+   :location "Diessenhofen",
    :image "",
    :description ""}
   {:name "Schaulager",
@@ -7386,7 +7386,7 @@
    :latitude 47.5284459,
    :source :openstreetmap,
    :homepage "https://www.schaulager.org/",
-   :locality "Münchenstein",
+   :location "Münchenstein",
    :image "",
    :description ""}
   {:name "Schaulager Ortsgeschichte Seuzach",
@@ -7434,7 +7434,7 @@
    :latitude 47.2166844,
    :source :openstreetmap,
    :homepage "https://www.heidegg.ch/",
-   :locality "Gelfingen",
+   :location "Gelfingen",
    :image "",
    :description ""}
   {:name "Schloss Spiez",
@@ -7442,7 +7442,7 @@
    :latitude 46.689374,
    :source :openstreetmap,
    :homepage "https://www.schloss-spiez.ch",
-   :locality "Spiez",
+   :location "Spiez",
    :image "",
    :description ""}
   {:name "Schloss Waldegg",
@@ -7515,7 +7515,7 @@
    :longitude 9.2737792,
    :latitude 47.5443811,
    :source :openstreetmap,
-   :locality "Amriswil",
+   :location "Amriswil",
    :image "",
    :description ""}
   {:name "Schulmuseum Bern",
@@ -7523,14 +7523,14 @@
    :latitude 46.920996,
    :source :openstreetmap,
    :homepage "https://www.schulmuseumbern.ch/",
-   :locality "Köniz",
+   :location "Köniz",
    :image "",
    :description ""}
   {:name "Schutzbauten Welschdörfli",
    :longitude 9.5267225,
    :latitude 46.8466988,
    :source :openstreetmap,
-   :locality "Chur",
+   :location "Chur",
    :image "",
    :description ""}
   {:name "Schweizer Dufour Museum",
@@ -7552,7 +7552,7 @@
    :latitude 47.5306372,
    :source :openstreetmap,
    :homepage "http://www.sportmuseum.ch/",
-   :locality "Münchenstein",
+   :location "Münchenstein",
    :image "",
    :description ""}
   {:name "Schweizerische Vogelwarte Sempach",
@@ -7560,7 +7560,7 @@
    :latitude 47.1278016,
    :source :openstreetmap,
    :homepage "https://www.vogelwarte.ch/",
-   :locality "Sempach",
+   :location "Sempach",
    :image "",
    :description ""}
   {:name "Schweizerisches Agrarmuseum Burgrain",
@@ -7575,7 +7575,7 @@
    :latitude 47.5537658,
    :source :openstreetmap,
    :homepage "https://www.sam-basel.org/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Schweizerisches Gastronomie Museum",
@@ -7603,7 +7603,7 @@
    :latitude 47.2691873,
    :source :openstreetmap,
    :homepage "https://www.sammlungszentrum.ch/",
-   :locality "Affoltern am Albis",
+   :location "Affoltern am Albis",
    :image "",
    :description ""}
   {:name "Schweizerisches Psychiatrie-Museum Bern",
@@ -7611,7 +7611,7 @@
    :latitude 46.9649012,
    :source :openstreetmap,
    :homepage "https://psychiatrie-museum.ch",
-   :locality "Ostermundigen",
+   :location "Ostermundigen",
    :image "",
    :description ""}
   {:name "Schynige Platte Bahn",
@@ -7625,7 +7625,7 @@
    :latitude 47.4081862,
    :source :openstreetmap,
    :homepage "https://museumtrogen.ch",
-   :locality "Trogen",
+   :location "Trogen",
    :image "",
    :description ""}
   {:name "Seedamm Vögele Kulturzentrum",
@@ -7633,7 +7633,7 @@
    :latitude 47.1991961,
    :source :openstreetmap,
    :homepage "https://www.voegelekultur.ch/",
-   :locality "Pfäffikon SZ",
+   :location "Pfäffikon SZ",
    :image "",
    :description ""}
   {:name "Seemuseum",
@@ -7641,7 +7641,7 @@
    :latitude 47.6488189,
    :source :openstreetmap,
    :homepage "https://www.seemuseum.ch/",
-   :locality "Kreuzlingen",
+   :location "Kreuzlingen",
    :image "",
    :description ""}
   {:name "Seifenmuseum",
@@ -7649,7 +7649,7 @@
    :latitude 47.4304198,
    :source :openstreetmap,
    :homepage "https://www.seifenmuseum.ch/",
-   :locality "St. Gallen",
+   :location "St. Gallen",
    :image "",
    :description ""}
   {:name "Seilbahnmuseum",
@@ -7657,14 +7657,14 @@
    :latitude 46.5034269,
    :source :openstreetmap,
    :homepage "https://www.seilbahnmuseum.ch/",
-   :locality "Kandersteg",
+   :location "Kandersteg",
    :image "",
    :description ""}
   {:name "Selz Art contemporain",
    :longitude 7.3404301,
    :latitude 47.2751211,
    :source :openstreetmap,
-   :locality "Perrefitte",
+   :location "Perrefitte",
    :image "",
    :description ""}
   {:name "Sensler Museum",
@@ -7679,7 +7679,7 @@
    :latitude 46.9394725,
    :source :openstreetmap,
    :homepage "https://www.ruettihubelbad.ch/de/sensorium/",
-   :locality "Walkringen",
+   :location "Walkringen",
    :image "",
    :description ""}
   {:name "Sernftalbahn-Museum",
@@ -7687,7 +7687,7 @@
    :latitude 46.9222677,
    :source :openstreetmap,
    :homepage "https://www.sernftalbahn.ch/",
-   :locality "Elm",
+   :location "Elm",
    :image "",
    :description ""}
   {:name "Setz Museum",
@@ -7702,7 +7702,7 @@
    :latitude 47.3434473,
    :source :openstreetmap,
    :homepage "https://www,shedhalle.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "SiLO12 Das Industriemuseum zum Thema Stein.",
@@ -7710,7 +7710,7 @@
    :latitude 47.3901369,
    :source :openstreetmap,
    :homepage "https://silo12.ch/",
-   :locality "Läufelfingen",
+   :location "Läufelfingen",
    :image "",
    :description ""}
   {:name "Sils Museum",
@@ -7725,7 +7725,7 @@
    :latitude 47.0434393,
    :source :openstreetmap,
    :homepage "https://simgalerie.ch/",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Skulpturenmuseum Erwin Rehmann",
@@ -7733,7 +7733,7 @@
    :latitude 47.5601915,
    :source :openstreetmap,
    :homepage "https://www.rehmann-museum.ch/",
-   :locality "Laufenburg",
+   :location "Laufenburg",
    :image "",
    :description ""}
   {:name "Skulpturhalle",
@@ -7741,7 +7741,7 @@
    :latitude 47.5603665,
    :source :openstreetmap,
    :homepage "https://www.museums.ch/org/de/Skulpturhalle",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "Small Railway Museum Filisur",
@@ -7755,7 +7755,7 @@
    :latitude 47.6826455,
    :source :openstreetmap,
    :homepage "https://www.smilestones.ch/",
-   :locality "Neuhausen am Rheinfall",
+   :location "Neuhausen am Rheinfall",
    :image "",
    :description ""}
   {:name "Spanschachtelmuseum",
@@ -7775,7 +7775,7 @@
    :longitude 8.9614097,
    :latitude 46.0102673,
    :source :openstreetmap,
-   :locality "Viganello",
+   :location "Viganello",
    :image "",
    :description ""}
   {:name "Spazio28",
@@ -7788,7 +7788,7 @@
    :longitude 8.3631665,
    :latitude 47.41736,
    :source :openstreetmap,
-   :locality "Spreitenbach",
+   :location "Spreitenbach",
    :image "",
    :description ""}
   {:name "Sperre Roffla Links",
@@ -7796,7 +7796,7 @@
    :latitude 46.5830468,
    :source :openstreetmap,
    :homepage "https://www.crestawald.ch/archiv/sperren/",
-   :locality "Andeer",
+   :location "Andeer",
    :image "",
    :description ""}
   {:name "Spielzeugmuseum Münchenbuchsee",
@@ -7804,7 +7804,7 @@
    :latitude 47.0205714,
    :source :openstreetmap,
    :homepage "https://www.spielzeugmuseum-muenchenbuchsee.ch/",
-   :locality "Münchenbuchsee",
+   :location "Münchenbuchsee",
    :image "",
    :description ""}
   {:name "Spielzeugmuseum Spiez",
@@ -7819,7 +7819,7 @@
    :latitude 46.759638,
    :source :openstreetmap,
    :homepage "https://spielzeugmuseum-wattenwil.ch/",
-   :locality "Wattenwil",
+   :location "Wattenwil",
    :image "",
    :description ""}
   {:name "Spy World",
@@ -7834,7 +7834,7 @@
    :latitude 47.17365,
    :source :openstreetmap,
    :homepage "https://www.sankturbanhof.ch/",
-   :locality "Sursee",
+   :location "Sursee",
    :image "",
    :description ""}
   {:name "St.Beatus-Höhlen Museum",
@@ -7858,7 +7858,7 @@
    :latitude 47.4853848,
    :source :openstreetmap,
    :homepage "https://stadtmuseumbrugg.ch/",
-   :locality "Brugg AG",
+   :location "Brugg AG",
    :image "",
    :description ""}
   {:name "Stadtmuseum Bremgarten",
@@ -7880,7 +7880,7 @@
    :latitude 47.4673562,
    :source :openstreetmap,
    :homepage "https://www.stadtmuseum-wil.ch/",
-   :locality "Wil",
+   :location "Wil",
    :image "",
    :description ""}
   {:name "Stadtmühle Willisau",
@@ -7895,7 +7895,7 @@
    :latitude 47.4630852,
    :source :openstreetmap,
    :homepage "https://buehne-am-gleis.ch/",
-   :locality "Wil SG",
+   :location "Wil SG",
    :image "",
    :description ""}
   {:name "Stalla Madulain",
@@ -7910,7 +7910,7 @@
    :latitude 46.5238597,
    :source :openstreetmap,
    :homepage "http://standard-deluxe.ch",
-   :locality "Lausanne",
+   :location "Lausanne",
    :image "",
    :description ""}
   {:name "Stapferhaus",
@@ -7918,7 +7918,7 @@
    :latitude 47.3904257,
    :source :openstreetmap,
    :homepage "https://www.stapferhaus.ch/",
-   :locality "Lenzburg",
+   :location "Lenzburg",
    :image "",
    :description ""}
   {:name "Station Saanen",
@@ -7926,7 +7926,7 @@
    :latitude 46.4890479,
    :source :openstreetmap,
    :homepage "https://stationsaanen.ch",
-   :locality "Saanen",
+   :location "Saanen",
    :image "",
    :description ""}
   {:name "Steinbockmuseum",
@@ -7955,7 +7955,7 @@
    :latitude 46.9491447,
    :source :openstreetmap,
    :homepage "https://sapa.swiss",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Stiftung SAPA",
@@ -7963,7 +7963,7 @@
    :latitude 47.3883637,
    :source :openstreetmap,
    :homepage "https://sapa.swiss",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Streetart Limited",
@@ -7978,7 +7978,7 @@
    :latitude 47.2433545,
    :source :openstreetmap,
    :homepage "https://www.prohombrechtikon.ch/",
-   :locality "Hombrechtikon",
+   :location "Hombrechtikon",
    :image "",
    :description ""}
   {:name "Strohdachhaus Muhen",
@@ -7987,7 +7987,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.muhen.ch/kulturelles-und-freizeit/strohdachhaus-muhen/",
-   :locality "Muhen",
+   :location "Muhen",
    :image "",
    :description ""}
   {:name "Strohmuseum",
@@ -8001,7 +8001,7 @@
    :longitude 8.522476,
    :latitude 47.5480504,
    :source :openstreetmap,
-   :locality "Glattfelden",
+   :location "Glattfelden",
    :image "",
    :description ""}
   {:name "Studio Omelani Art Gallery Beauty & Massage",
@@ -8028,7 +8028,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.verkehrshaus.ch/besuchen/swiss-chocolate-adventure.html",
-   :locality "Luzern",
+   :location "Luzern",
    :image "",
    :description ""}
   {:name "Swiss Museum for Electronic Music Instruments",
@@ -8036,7 +8036,7 @@
    :latitude 46.7977094,
    :source :openstreetmap,
    :homepage "https://www.smemmusic.ch",
-   :locality "Fribourg",
+   :location "Fribourg",
    :image "",
    :description ""}
   {:name "Swiss Space Museum",
@@ -8085,7 +8085,7 @@
    :latitude 46.1849548,
    :source :openstreetmap,
    :homepage "https://www.series-rates.ch",
-   :locality "Carouge GE",
+   :location "Carouge GE",
    :image "",
    :description ""}
   {:name "Tabakmuseum",
@@ -8093,7 +8093,7 @@
    :latitude 47.2405502,
    :source :openstreetmap,
    :homepage "https://www.tabakmuseum.ch/",
-   :locality "Menziken",
+   :location "Menziken",
    :image "",
    :description ""}
   {:name "Talmuseum Engelberg",
@@ -8101,7 +8101,7 @@
    :latitude 46.8214384,
    :source :openstreetmap,
    :homepage "https://www.talmuseum.ch/",
-   :locality "Engelberg",
+   :location "Engelberg",
    :image "",
    :description ""}
   {:name "Talmuseum Lauterbrunnen",
@@ -8109,7 +8109,7 @@
    :latitude 46.5933676,
    :source :openstreetmap,
    :homepage "https://www.talmuseum-sagenwelt-lauterbrunnen.ch/",
-   :locality "Lauterbrunnen",
+   :location "Lauterbrunnen",
    :image "",
    :description ""}
   {:name "Talmuseum Samnaun",
@@ -8118,7 +8118,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.graubuenden.ch/de/regionen-entdecken/engadin-samnaun-val-muestair/talmuseum-samnaun",
-   :locality "Samnaun-Compatsch",
+   :location "Samnaun-Compatsch",
    :image "",
    :description ""}
   {:name "Talmuseum Ursern",
@@ -8140,7 +8140,7 @@
    :latitude 47.2624304,
    :source :openstreetmap,
    :homepage "https://www.energypark.ch/museum/",
-   :locality "Gänsbrunnen",
+   :location "Gänsbrunnen",
    :image "",
    :description ""}
   {:name "Technorama",
@@ -8148,7 +8148,7 @@
    :latitude 47.514009,
    :source :openstreetmap,
    :homepage "https://www.technorama.ch/",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Teddybär Museum",
@@ -8163,7 +8163,7 @@
    :latitude 47.1358235,
    :source :openstreetmap,
    :homepage "https://www.sempach.ch/besucherzentren-museen/47918",
-   :locality "Sempach",
+   :location "Sempach",
    :image "",
    :description ""}
   {:name "Telefonmuseum Telephonica im Greuterhof",
@@ -8177,7 +8177,7 @@
    :longitude 7.8176416,
    :latitude 47.5271523,
    :source :openstreetmap,
-   :locality "Magden",
+   :location "Magden",
    :image "",
    :description ""}
   {:name "Tell-Museum",
@@ -8185,7 +8185,7 @@
    :latitude 46.8753603,
    :source :openstreetmap,
    :homepage "https://www.tellmuseum.ch/",
-   :locality "Bürglen UR",
+   :location "Bürglen UR",
    :image "",
    :description ""}
   {:name "Textilmuseum",
@@ -8193,7 +8193,7 @@
    :latitude 47.4233859,
    :source :openstreetmap,
    :homepage "https://www.textilmuseum.ch/",
-   :locality "St. Gallen",
+   :location "St. Gallen",
    :image "",
    :description ""}
   {:name "Textilmuseum Sorntal",
@@ -8214,7 +8214,7 @@
    :latitude 47.5701547,
    :source :openstreetmap,
    :homepage "https://www.thegreatprint.net/",
-   :locality "Basel",
+   :location "Basel",
    :image "",
    :description ""}
   {:name "THE VIEW Contemporary Art Space",
@@ -8229,7 +8229,7 @@
    :latitude 46.7457552,
    :source :openstreetmap,
    :homepage "https://www.thun-panorama.com/",
-   :locality "Thun",
+   :location "Thun",
    :image "",
    :description ""}
   {:name "Toggenburger Schmiede- & Werkzeugmuseum",
@@ -8244,21 +8244,21 @@
    :latitude 47.4289351,
    :source :openstreetmap,
    :homepage "https://tolle.ch/impressum-datenschutz/",
-   :locality "Rehetobel",
+   :location "Rehetobel",
    :image "",
    :description ""}
   {:name "Toobe-Museum",
    :longitude 9.3624686,
    :latitude 47.3262453,
    :source :openstreetmap,
-   :locality "Gontenbad",
+   :location "Gontenbad",
    :image "",
    :description ""}
   {:name "Traktorenmuseum",
    :longitude 9.4809718,
    :latitude 47.4238354,
    :source :openstreetmap,
-   :locality "Rehetobel",
+   :location "Rehetobel",
    :image "",
    :description ""}
   {:name "Tram-Museum",
@@ -8267,7 +8267,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.trittbrett.ch/trammverein-bern/tram-museum/index.php",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Tram-Museum Basel",
@@ -8282,7 +8282,7 @@
    :latitude 47.357733,
    :source :openstreetmap,
    :homepage "https://www.tram-museum.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Trauffer",
@@ -8316,7 +8316,7 @@
    :latitude 47.4927213,
    :source :openstreetmap,
    :homepage "https://www.typorama.ch/",
-   :locality "Bischofszell",
+   :location "Bischofszell",
    :image "",
    :description ""}
   {:name "Uetiker Museum",
@@ -8324,7 +8324,7 @@
    :latitude 47.2635762,
    :source :openstreetmap,
    :homepage "https://www.uetikermuseum.ch/",
-   :locality "Uetikon am See",
+   :location "Uetikon am See",
    :image "",
    :description ""}
   {:name "Uhrenmuseum Beyer Zürich",
@@ -8332,7 +8332,7 @@
    :latitude 47.3709245,
    :source :openstreetmap,
    :homepage "https://www.beyer-ch.com/de/uhrenmuseum/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Uhrenmuseum zum Rösli",
@@ -8354,7 +8354,7 @@
    :latitude 47.4244109,
    :source :openstreetmap,
    :homepage "https://www.umweltarena.ch/",
-   :locality "Spreitenbach",
+   :location "Spreitenbach",
    :image "",
    :description ""}
   {:name "Unicus GmbH",
@@ -8369,7 +8369,7 @@
    :latitude 46.8860609,
    :source :openstreetmap,
    :homepage "https://www.mineralienfreund.ch/mineralienmuseum/",
-   :locality "Seedorf UR",
+   :location "Seedorf UR",
    :image "",
    :description ""}
   {:name "Urwaldpavillon",
@@ -8392,7 +8392,7 @@
    :latitude 46.9084052,
    :source :openstreetmap,
    :homepage "https://www.vvt.ch/",
-   :locality "St-Sulpice NE",
+   :location "St-Sulpice NE",
    :image "",
    :description ""}
   {:name "Velomuseum",
@@ -8406,7 +8406,7 @@
    :longitude 8.7888132,
    :latitude 47.3652407,
    :source :openstreetmap,
-   :locality "Pfäffikon ZH",
+   :location "Pfäffikon ZH",
    :image "",
    :description ""}
   {:name "Verein für ein Ortsmuseum in Turbenthal",
@@ -8414,14 +8414,14 @@
    :latitude 47.415424,
    :source :openstreetmap,
    :homepage "https://www.ortsmuseum-turbenthal.ch/",
-   :locality "Schmidrüti",
+   :location "Schmidrüti",
    :image "",
    :description ""}
   {:name "Viktor-Schwaller-Haus",
    :longitude 7.2595071,
    :latitude 46.8249223,
    :source :openstreetmap,
-   :locality "St. Antoni",
+   :location "St. Antoni",
    :image "",
    :description ""}
   {:name "Villa dei Cedri",
@@ -8436,7 +8436,7 @@
    :latitude 47.4964478,
    :source :openstreetmap,
    :homepage "https://www.kmw.ch/en",
-   :locality "Winterthur",
+   :location "Winterthur",
    :image "",
    :description ""}
   {:name "Villa Grunholzer",
@@ -8444,7 +8444,7 @@
    :latitude 47.3475408,
    :source :openstreetmap,
    :homepage "https://www.villagrunholzer.ch/",
-   :locality "Uster",
+   :location "Uster",
    :image "",
    :description ""}
   {:name "Villa romaine",
@@ -8459,7 +8459,7 @@
    :latitude 47.6687546,
    :source :openstreetmap,
    :homepage "https://www.vinorama-ermatingen.ch/",
-   :locality "Ermatingen",
+   :location "Ermatingen",
    :image "",
    :description ""}
   {:name "Vito Schnabel Gallery",
@@ -8467,7 +8467,7 @@
    :latitude 46.5000764,
    :source :openstreetmap,
    :homepage "https://www.vitoschnabel.com/",
-   :locality "St. Moritz",
+   :location "St. Moritz",
    :image "",
    :description ""}
   {:name "Vitromusée Romont",
@@ -8475,7 +8475,7 @@
    :latitude 46.6949031,
    :source :openstreetmap,
    :homepage "https://vitromusee.ch",
-   :locality "Romont FR",
+   :location "Romont FR",
    :image "",
    :description ""}
   {:name "Vivarium de Meyrin",
@@ -8483,7 +8483,7 @@
    :latitude 46.225517,
    :source :openstreetmap,
    :homepage "http://www.vivariumdemeyrin.ch/",
-   :locality "Meyrin",
+   :location "Meyrin",
    :image "",
    :description ""}
   {:name "Volkswrecks Bar & Museum",
@@ -8491,7 +8491,7 @@
    :latitude 46.9109609,
    :source :openstreetmap,
    :homepage "https://www.musee-vw.ch/",
-   :locality "St-Sulpice NE",
+   :location "St-Sulpice NE",
    :image "",
    :description ""}
   {:name "volume Kunstraum",
@@ -8512,14 +8512,14 @@
    :latitude 47.3708256,
    :source :openstreetmap,
    :homepage "https://www.musethno.uzh.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Wafa-Hüs",
    :longitude 7.7822209,
    :latitude 46.3136678,
    :source :openstreetmap,
-   :locality "Niedergesteln",
+   :location "Niedergesteln",
    :image "",
    :description ""}
   {:name "Wagi Museum",
@@ -8539,7 +8539,7 @@
    :longitude 9.245066,
    :latitude 46.5392154,
    :source :openstreetmap,
-   :locality "Nufenen",
+   :location "Nufenen",
    :image "",
    :description ""}
   {:name "Walter Eglin Museum",
@@ -8565,7 +8565,7 @@
    :longitude 8.7396131,
    :latitude 47.2709624,
    :source :openstreetmap,
-   :locality "Oetwil am See",
+   :location "Oetwil am See",
    :image "",
    :description ""}
   {:name "Weinbaumuseum",
@@ -8580,7 +8580,7 @@
    :latitude 47.5576831,
    :source :openstreetmap,
    :homepage "https://www.weinbau-museum.ch/",
-   :locality "Tegerfelden",
+   :location "Tegerfelden",
    :image "",
    :description ""}
   {:name "Weinbaumuseum Torculum",
@@ -8611,7 +8611,7 @@
    :latitude 47.3729944,
    :source :openstreetmap,
    :homepage "https://www.window-of-fame.ch/index.html",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Wine Museum",
@@ -8619,7 +8619,7 @@
    :latitude 46.3124098,
    :source :openstreetmap,
    :homepage "https://www.museeduvin-valais.ch/",
-   :locality "Salgesch",
+   :location "Salgesch",
    :image "",
    :description ""}
   {:name "Winkelriedhaus",
@@ -8627,7 +8627,7 @@
    :latitude 46.9555782,
    :source :openstreetmap,
    :homepage "https://nidwaldner-museum.ch/",
-   :locality "Stans",
+   :location "Stans",
    :image "",
    :description ""}
   {:name "Wintersport-Museum Davos",
@@ -8642,7 +8642,7 @@
    :latitude 46.3223228,
    :source :openstreetmap,
    :homepage "https://wnf.ch/",
-   :locality "Naters",
+   :location "Naters",
    :image "",
    :description ""}
   {:name "WOW Museum",
@@ -8650,7 +8650,7 @@
    :latitude 47.3750223,
    :source :openstreetmap,
    :homepage "https://www.wow-museum.ch/",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "www.kunst in der fabrik.ch",
@@ -8658,7 +8658,7 @@
    :latitude 47.5176138,
    :source :openstreetmap,
    :homepage "www.kunstinderfabrik.ch",
-   :locality "Lommis",
+   :location "Lommis",
    :image "",
    :description ""}
   {:name "Yehudi Menuhin Museum",
@@ -8666,7 +8666,7 @@
    :latitude 46.489733,
    :source :openstreetmap,
    :homepage "https://menuhincenter.ch/museum/",
-   :locality "Saanen",
+   :location "Saanen",
    :image "",
    :description ""}
   {:name "Yellow corner",
@@ -8674,7 +8674,7 @@
    :latitude 46.2012057,
    :source :openstreetmap,
    :homepage "www.eternitygallery.com;eternitygallery.com",
-   :locality "Genève",
+   :location "Genève",
    :image "",
    :description ""}
   {:name "Z88",
@@ -8682,7 +8682,7 @@
    :latitude 47.6480127,
    :source :openstreetmap,
    :homepage "https://www.z88.ch/",
-   :locality "Kreuzlingen",
+   :location "Kreuzlingen",
    :image "",
    :description ""}
   {:name "Zentrum Lina Bögli",
@@ -8697,7 +8697,7 @@
    :latitude 46.9490661,
    :source :openstreetmap,
    :homepage "https://www.zpk.org/",
-   :locality "Bern",
+   :location "Bern",
    :image "",
    :description ""}
   {:name "Ziegeleimuseum Cham",
@@ -8705,7 +8705,7 @@
    :latitude 47.1963432,
    :source :openstreetmap,
    :homepage "https://www.ziegelei-museum.ch/",
-   :locality "Cham",
+   :location "Cham",
    :image "",
    :description ""}
   {:name "Zieglerhaus",
@@ -8713,7 +8713,7 @@
    :latitude 47.3172542,
    :source :openstreetmap,
    :homepage "https://www.stiftung-reusstal.ch/zieglerhaus/",
-   :locality "Rottenschwil",
+   :location "Rottenschwil",
    :image "",
    :description ""}
   {:name "Zirkus Mugg",
@@ -8721,7 +8721,7 @@
    :latitude 46.9457856,
    :source :openstreetmap,
    :homepage "https://www.mugg.ch",
-   :locality "Betschwanden",
+   :location "Betschwanden",
    :image "",
    :description ""}
   {:name "Zithermuseum",
@@ -8742,7 +8742,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.stadt-zuerich.ch/pd/de/index/schutz_u_rettung_zuerich/zivilschutz/zivilschutz-museum.html",
-   :locality "Zürich",
+   :location "Zürich",
    :image "",
    :description ""}
   {:name "Zone 30 Art Public",
@@ -8750,7 +8750,7 @@
    :latitude 46.2936269,
    :source :openstreetmap,
    :homepage "https://www.sierre.ch/fr/anciens-abattoirs-1953.html",
-   :locality "Sierre / Siders",
+   :location "Sierre / Siders",
    :image "",
    :description ""}
   {:name "Zooom The Matterhorn",
@@ -8771,7 +8771,7 @@
    :latitude 47.2009701,
    :source :openstreetmap,
    :homepage "https://www.zwingli-zentrum-toggenburg.ch/",
-   :locality "Wildhaus",
+   :location "Wildhaus",
    :image "",
    :description ""}
   {:name "Zürcher",
@@ -8786,7 +8786,7 @@
    :latitude 45.9238488,
    :source :openstreetmap,
    :homepage "http://www.john-keiser.com",
-   :locality "Morcote",
+   :location "Morcote",
    :image "",
    :description ""}],
  :source

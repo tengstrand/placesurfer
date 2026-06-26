@@ -17,7 +17,7 @@
    :latitude 8.4867692,
    :source :openstreetmap,
    :homepage "https://www.sierraleoneheritage.org/museum/",
-   :locality "Freetown"}
+   :location "Freetown"}
   {:name "National Railway Museum",
    :longitude -13.2088469,
    :latitude 8.489415,

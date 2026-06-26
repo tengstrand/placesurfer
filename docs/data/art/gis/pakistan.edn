@@ -8,7 +8,7 @@
    :longitude 74.3304671,
    :latitude 31.5057811,
    :source :openstreetmap,
-   :locality "Lahore"}
+   :location "Lahore"}
   {:name "Alhamra Art Centre",
    :longitude 74.3296198,
    :latitude 31.5579936,
@@ -31,27 +31,27 @@
    :longitude 67.0346027,
    :latitude 24.808424,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Artciti",
    :longitude 67.063747,
    :latitude 24.7917634,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Artistic Mehendi by laiba",
    :longitude 67.0656877,
    :latitude 24.9150602,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "ArtKaam Gallery",
    :longitude 67.1012056,
    :latitude 24.8294646,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Artline Studio",
    :longitude 67.0427569,
    :latitude 24.8081216,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Auditorium",
    :longitude 71.756762,
    :latitude 29.3788156,
@@ -60,7 +60,7 @@
    :longitude 67.5234903,
    :latitude 24.75505,
    :source :openstreetmap,
-   :locality "Dhabeji"}
+   :location "Dhabeji"}
   {:name "Butkara Stupa",
    :longitude 72.3678289,
    :latitude 34.7657421,
@@ -69,7 +69,7 @@
    :longitude 71.685362,
    :latitude 29.390187,
    :source :openstreetmap,
-   :locality "BAHAWALPUR"}
+   :location "BAHAWALPUR"}
   {:name "Chitral Museum",
    :longitude 71.7857812,
    :latitude 35.8478585,
@@ -94,7 +94,7 @@
    :longitude 74.3524385,
    :latitude 31.5139662,
    :source :openstreetmap,
-   :locality "Lahore"}
+   :location "Lahore"}
   {:name "Expo Center",
    :longitude 74.2611479,
    :latitude 31.4648663,
@@ -103,7 +103,7 @@
    :longitude 73.08625,
    :latitude 31.4312209,
    :source :openstreetmap,
-   :locality "فیصل آباد"}
+   :location "فیصل آباد"}
   {:name "Fish Museum of Jewani",
    :longitude 61.7360535,
    :latitude 25.0459699,
@@ -112,7 +112,7 @@
    :longitude 73.0755499,
    :latitude 33.7294241,
    :source :openstreetmap,
-   :locality "اسلام آباد"}
+   :location "اسلام آباد"}
   {:name "Golra Sharif Railway Museum",
    :longitude 72.9485887,
    :latitude 33.6695263,
@@ -125,7 +125,7 @@
    :longitude 74.2354516,
    :latitude 31.4529883,
    :source :openstreetmap,
-   :locality
+   :location
    "Lahore Canal Bank Co-Operative Housing Society Phase 1 (Gulbahar Park)"}
   {:name "Hayatabad Museum",
    :longitude 71.4391613,
@@ -167,12 +167,12 @@
    :longitude 67.0248193,
    :latitude 24.8753015,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Khaas Art Gallery",
    :longitude 73.0804158,
    :latitude 33.7407683,
    :source :openstreetmap,
-   :locality "اسلام آباد"}
+   :location "اسلام آباد"}
   {:name "Khyber Pakhtunkhwa Arts And Craft Gallery",
    :longitude 73.0563098,
    :latitude 33.7206937,
@@ -181,18 +181,18 @@
    :longitude 67.0684804,
    :latitude 24.9298206,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Komal Naheed",
    :longitude 67.0215062,
    :latitude 24.9193585,
    :source :openstreetmap,
    :homepage "https://komalnaheed.com/",
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Laar Museum & Molvi Haji Ahmed Mallah Library Badin",
    :longitude 68.8283407,
    :latitude 24.6551986,
    :source :openstreetmap,
-   :locality "بدين"}
+   :location "بدين"}
   {:name "Lahore City Museum",
    :longitude 74.3094235,
    :latitude 31.5681162,
@@ -201,22 +201,22 @@
    :longitude 67.072751,
    :latitude 24.8325525,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Makli Sindh Pakistan",
    :longitude 67.8909215,
    :latitude 24.7439093,
    :source :openstreetmap,
-   :locality "مکلی"}
+   :location "مکلی"}
   {:name "Malir Garrison Museum",
    :longitude 67.2115507,
    :latitude 24.9441102,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Mehendi Art by Suman",
    :longitude 67.0541738,
    :latitude 24.9183292,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Mehran Arts Council",
    :longitude 68.3590185,
    :latitude 25.3740496,
@@ -225,28 +225,28 @@
    :longitude 67.0326631,
    :latitude 24.8142748,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Multi Craft & Fashion",
    :longitude 67.0433046,
    :latitude 24.8890293,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Museum (مسکین جھان خان کھوسو میوزیم)",
    :longitude 70.7630286,
    :latitude 24.3494625,
    :source :openstreetmap,
-   :locality "Sardhara"}
+   :location "Sardhara"}
   {:name "museum 1997",
    :longitude 67.0890629,
    :latitude 24.8870039,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Museum of Historical Geology",
    :longitude 66.9911501,
    :latitude 30.1678768,
    :source :openstreetmap,
    :homepage "https://gsp.gov.pk/museum/",
-   :locality "Quetta"}
+   :location "Quetta"}
   {:name "Naqsh Arts Complex",
    :longitude 74.3100096,
    :latitude 31.5833878,
@@ -256,18 +256,18 @@
    :latitude 24.8523577,
    :source :openstreetmap,
    :homepage "https://www.acpkhi.com/",
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "National Museum of Pakistan",
    :longitude 67.0176726,
    :latitude 24.8528564,
    :source :openstreetmap,
    :homepage "https://www.acpkhi.com/",
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "PAF Montessori",
    :longitude 67.2215673,
    :latitude 24.9476834,
    :source :openstreetmap,
-   :locality "karachi"}
+   :location "karachi"}
   {:name "Pakistan Air Force Museum",
    :longitude 67.0947315,
    :latitude 24.8697887,
@@ -284,7 +284,7 @@
    :longitude 67.031759,
    :latitude 24.8698516,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Peshawar Museum",
    :longitude 71.5582754,
    :latitude 34.007712,
@@ -297,7 +297,7 @@
    :longitude 67.0328504,
    :latitude 24.8511678,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Rawalpindi Arts Council",
    :longitude 73.0789509,
    :latitude 33.6501146,
@@ -306,12 +306,12 @@
    :longitude 67.0409358,
    :latitude 24.9370058,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "S M Art Institute",
    :longitude 66.9630361,
    :latitude 24.9173575,
    :source :openstreetmap,
-   :locality "karachi"}
+   :location "karachi"}
   {:name "Sethi Havelis",
    :longitude 71.578363,
    :latitude 34.0089494,
@@ -320,12 +320,12 @@
    :longitude 67.0408033,
    :latitude 24.9286749,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Sheikhain Art Gallery & Studio",
    :longitude 67.088953,
    :latitude 24.9211946,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Sikh Gallery",
    :longitude 74.3147658,
    :latitude 31.5883989,
@@ -334,12 +334,12 @@
    :longitude 68.3374577,
    :latitude 25.3853801,
    :source :openstreetmap,
-   :locality "حیدرآباد"}
+   :location "حیدرآباد"}
   {:name "Sindh Police Museum",
    :longitude 67.021621,
    :latitude 24.8689994,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Sindhology Museum",
    :longitude 68.2717897,
    :latitude 25.4149845,
@@ -356,18 +356,18 @@
    :longitude 66.9844611,
    :latitude 24.9301501,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "TDF MagnifiScience Centre",
    :longitude 67.0029824,
    :latitude 24.8467603,
    :source :openstreetmap,
    :homepage "https://www.magnifiscience.org/",
-   :locality "کراچی"}
+   :location "کراچی"}
   {:name "Thar Gallery",
    :longitude 67.039807,
    :latitude 24.8182501,
    :source :openstreetmap,
-   :locality "Karachi"}
+   :location "Karachi"}
   {:name "Wazir Mansion",
    :longitude 66.9975254,
    :latitude 24.8509893,
@@ -376,7 +376,7 @@
    :longitude 67.056281,
    :latitude 24.8916932,
    :source :openstreetmap,
-   :locality "کراچی"}
+   :location "کراچی"}
   {:name "آزادی میوزیم",
    :longitude 74.5641941,
    :latitude 31.6040296,

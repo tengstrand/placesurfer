@@ -9,7 +9,7 @@
    :latitude 59.4495881,
    :source :openstreetmap,
    :homepage "https://patareiprison.org",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "A. H. Tammsaare muuseum",
    :longitude 25.5893914,
    :latitude 59.1122884,
@@ -20,7 +20,7 @@
    :latitude 59.4377871,
    :source :openstreetmap,
    :homepage "https://kirjanduskeskus.ee/tammsaare-muuseum/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "A. Le Coq Õllemuuseum",
    :longitude 26.7060337,
    :latitude 58.3862707,
@@ -46,7 +46,7 @@
    :latitude 59.4363023,
    :source :openstreetmap,
    :homepage "https://adamson-eric.ekm.ee/en/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Admiral Adam Johann von Krusensterni mälestustuba",
    :longitude 26.1935487,
    :latitude 59.0774244,
@@ -58,7 +58,7 @@
    :latitude 58.3765446,
    :source :openstreetmap,
    :homepage "https://www.ahhaa.ee/",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Ait-Kuivati Muuseum",
    :longitude 26.5946515,
    :latitude 58.0708702,
@@ -88,7 +88,7 @@
    :latitude 59.3492679,
    :source :openstreetmap,
    :homepage "https://amandusadamson.ee/",
-   :locality "Paldiski"}
+   :location "Paldiski"}
   {:name "ambulARToorium",
    :longitude 27.231414,
    :latitude 58.530122,
@@ -113,7 +113,7 @@
    :latitude 59.1412178,
    :source :openstreetmap,
    :homepage "https://jarvavald.ee/rahva-ja-kulamajad",
-   :locality "Aravete alevik"}
+   :location "Aravete alevik"}
   {:name "ARS Kunstilinnak",
    :longitude 24.7343069,
    :latitude 59.4082893,
@@ -157,7 +157,7 @@
    :latitude 58.7466059,
    :source :openstreetmap,
    :homepage "http://www.bettimuuseum.eu/",
-   :locality "Jõgeva"}
+   :location "Jõgeva"}
   {:name "Buldersi talu ait",
    :longitude 23.2434622,
    :latitude 57.8052257,
@@ -173,25 +173,25 @@
    :latitude 57.8441454,
    :source :openstreetmap,
    :homepage "https://lauluisa.ee/",
-   :locality "Võru"}
+   :location "Võru"}
   {:name "E-Kunstisalong",
    :longitude 26.7357895,
    :latitude 58.398517,
    :source :openstreetmap,
    :homepage "https://www.e-kunstisalong.ee",
-   :locality "Raadi alev"}
+   :location "Raadi alev"}
   {:name "Eduard Tubina muuseum",
    :longitude 27.1298477,
    :latitude 58.6037773,
    :source :openstreetmap,
    :homepage "https://www.alatskiviloss.ee/tubinamuuseum",
-   :locality "Alatskivi alevik"}
+   :location "Alatskivi alevik"}
   {:name "Eduard Vilde muuseum",
    :longitude 24.7853386,
    :latitude 59.4365346,
    :source :openstreetmap,
    :homepage "https://kirjanduskeskus.ee/vilde-muuseum/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Eesti Arhitektuurimuuseum",
    :longitude 24.7562515,
    :latitude 59.4403582,
@@ -269,7 +269,7 @@
    :latitude 59.350586,
    :source :openstreetmap,
    :homepage "https://politseimuuseum.ee/",
-   :locality "Rakvere"}
+   :location "Rakvere"}
   {:name "Eesti Pressimuuseum",
    :longitude 25.9674895,
    :latitude 58.6544114,
@@ -284,7 +284,7 @@
    :latitude 58.39578,
    :source :openstreetmap,
    :homepage "https://www.erm.ee/",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Eesti Raudteemuuseum",
    :longitude 23.5319016,
    :latitude 58.9385987,
@@ -300,7 +300,7 @@
    :latitude 59.5014588,
    :source :openstreetmap,
    :homepage "http://www.esm.ee",
-   :locality "Viimsi alevik"}
+   :location "Viimsi alevik"}
   {:name "Eesti Vabadusvõitluse Muuseum Lagedil",
    :longitude 24.9407816,
    :latitude 59.388992,
@@ -310,12 +310,12 @@
    :longitude 24.636196,
    :latitude 59.4359349,
    :source :openstreetmap,
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Eidapere muuseum",
    :longitude 24.9425836,
    :latitude 58.7517995,
    :source :openstreetmap,
-   :locality "Eidapere alevik"}
+   :location "Eidapere alevik"}
   {:name "Elamuskeskus Tuuletorn",
    :longitude 22.7727682,
    :latitude 58.8307926,
@@ -328,13 +328,13 @@
    :longitude 26.421704,
    :latitude 58.2243138,
    :source :openstreetmap,
-   :locality "Elva"}
+   :location "Elva"}
   {:name "Energia Avastuskeskus",
    :longitude 24.7494256,
    :latitude 59.4441189,
    :source :openstreetmap,
    :homepage "http://www.energiakeskus.ee/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Evald Okase muuseum",
    :longitude 23.537058,
    :latitude 58.9458633,
@@ -350,7 +350,7 @@
    :longitude 24.7604605,
    :latitude 59.4334744,
    :source :openstreetmap,
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Gustav Wulf-Õie Muuseum",
    :longitude 26.4909239,
    :latitude 58.0342304,
@@ -362,7 +362,7 @@
    :latitude 59.1596624,
    :source :openstreetmap,
    :homepage "http://www.kohila.ee",
-   :locality "Hageri alevik"}
+   :location "Hageri alevik"}
   {:name "Harjumaa Muuseum",
    :longitude 24.4396569,
    :latitude 59.3039737,
@@ -392,7 +392,7 @@
    :latitude 58.1368126,
    :source :openstreetmap,
    :homepage "https://www.veskimuuseum.ee/",
-   :locality "Hellenurme küla"}
+   :location "Hellenurme küla"}
   {:name "Helme Koduloomuuseum",
    :longitude 25.8798752,
    :latitude 57.9953739,
@@ -450,13 +450,13 @@
    :latitude 59.4388288,
    :source :openstreetmap,
    :homepage "https://dokfoto.ee/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Jäneda Muuseum",
    :longitude 25.6829021,
    :latitude 59.2437308,
    :source :openstreetmap,
    :homepage "http://muuseum.janeda.ee/",
-   :locality "Jäneda küla"}
+   :location "Jäneda küla"}
   {:name "Järva-Jaani Muuseum",
    :longitude 25.8842291,
    :latitude 59.0461557,
@@ -476,7 +476,7 @@
    :latitude 58.7484206,
    :source :openstreetmap,
    :homepage "https://kunstikool.edu.ee/koolist/kontakt/",
-   :locality "Jõgeva"}
+   :location "Jõgeva"}
   {:name "Jõhvi kindluskiriku muuseum",
    :longitude 27.4110927,
    :latitude 59.359556,
@@ -510,7 +510,7 @@
    :latitude 59.5136377,
    :source :openstreetmap,
    :homepage "https://viimsiartium.ee/",
-   :locality "Lubja küla"}
+   :location "Lubja küla"}
   {:name "Kabala Villaveski-Muuseum",
    :longitude 24.645373,
    :latitude 58.9320595,
@@ -530,7 +530,7 @@
    :latitude 59.4428345,
    :source :openstreetmap,
    :homepage "http://www.linnamuuseum.ee/lastemuuseum",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Kalame talumuuseum",
    :longitude 26.4051603,
    :latitude 59.5451218,
@@ -546,7 +546,7 @@
    :latitude 58.6961821,
    :source :openstreetmap,
    :homepage "http://www.kalevipojakoda.ee/",
-   :locality "Kääpa küla"}
+   :location "Kääpa küla"}
   {:name "Kambja Põhikooli Muuseum",
    :longitude 26.701458,
    :latitude 58.2359821,
@@ -569,13 +569,13 @@
    :longitude 26.7101056,
    :latitude 58.3811893,
    :source :openstreetmap,
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Kassari muuseumimaja",
    :longitude 22.8306705,
    :latitude 58.790607,
    :source :openstreetmap,
    :homepage "https://hiiumaamuuseum.ee/kassari-muuseumimaja/",
-   :locality "Kassari küla"}
+   :location "Kassari küla"}
   {:name "Kehra muuseum",
    :longitude 25.3332134,
    :latitude 59.3372367,
@@ -631,7 +631,7 @@
    :latitude 59.4008352,
    :source :openstreetmap,
    :homepage "https://www.pkm.ee/",
-   :locality "Kohtla-Järve"}
+   :location "Kohtla-Järve"}
   {:name "Koidula muuseum",
    :longitude 24.4850107,
    :latitude 58.3908086,
@@ -655,19 +655,19 @@
    :latitude 58.5486522,
    :source :openstreetmap,
    :homepage "https://vanausulistemuuseum.ee",
-   :locality "Kolkja alevik"}
+   :location "Kolkja alevik"}
   {:name "Kondase Keskus",
    :longitude 25.597445,
    :latitude 58.361885,
    :source :openstreetmap,
    :homepage "http://www.kondas.ee/",
-   :locality "Viljandi"}
+   :location "Viljandi"}
   {:name "Koopa Galerii",
    :longitude 24.7373562,
    :latitude 59.4366281,
    :source :openstreetmap,
    :homepage "https://www.keraamika.eu/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Kopli FOOR",
    :longitude 24.6738021,
    :latitude 59.4561025,
@@ -678,13 +678,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.kosemuuseum.ee/kose-kihelkonna-ajaloost/kose-jahu-ja-villaveski-pirita-joel/",
-   :locality "Kose alevik"}
+   :location "Kose alevik"}
   {:name "Kumu kunstimuuseum",
    :longitude 24.796286,
    :latitude 59.4363278,
    :source :openstreetmap,
    :homepage "https://kumu.ekm.ee/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Kunda tsemendimuuseum",
    :longitude 26.5364528,
    :latitude 59.5006939,
@@ -698,7 +698,7 @@
    :longitude 24.8388525,
    :latitude 59.3394255,
    :source :openstreetmap,
-   :locality "Kurna küla"}
+   :location "Kurna küla"}
   {:name "Kursi Kihelkonnamuuseum",
    :longitude 26.2897814,
    :latitude 58.5746819,
@@ -732,7 +732,7 @@
    :latitude 59.4517371,
    :source :openstreetmap,
    :homepage "https://www.lennusadam.eu/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Lihula muuseum",
    :longitude 23.8387742,
    :latitude 58.693246,
@@ -748,7 +748,7 @@
    :latitude 59.4464286,
    :source :openstreetmap,
    :homepage "https://www.linnahall.ee/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Linnuvaatlusetorni püsinäitus",
    :longitude 22.7730575,
    :latitude 58.7947839,
@@ -770,7 +770,7 @@
    :longitude 24.4281124,
    :latitude 58.9041752,
    :source :openstreetmap,
-   :locality "Märjamaa alev"}
+   :location "Märjamaa alev"}
   {:name "Lyckholmi muuseum",
    :longitude 23.568323,
    :latitude 59.0222231,
@@ -796,7 +796,7 @@
    :source :openstreetmap,
    :homepage
    "https://muuseum.viljandimaa.ee/www/kontaktid/mart-saare-majamuuseum/",
-   :locality "Karjasoo küla"}
+   :location "Karjasoo küla"}
   {:name "Meleski klaasimuuseum",
    :longitude 26.0816727,
    :latitude 58.4285809,
@@ -810,7 +810,7 @@
    :longitude 26.7702638,
    :latitude 57.6313447,
    :source :openstreetmap,
-   :locality "Pähni küla"}
+   :location "Pähni küla"}
   {:name "Metsanurme Koduloomuuseum",
    :longitude 24.6637118,
    :latitude 59.2676499,
@@ -846,7 +846,7 @@
    :latitude 58.5963489,
    :source :openstreetmap,
    :homepage "https://www.muhumuuseum.ee/",
-   :locality "Koguva küla"}
+   :location "Koguva küla"}
   {:name "Muinastaide Koda",
    :longitude 25.9646448,
    :latitude 59.5078846,
@@ -857,7 +857,7 @@
    :latitude 57.9969977,
    :source :openstreetmap,
    :homepage "https://mulgielamuskeskus.ee/",
-   :locality "Ala küla"}
+   :location "Ala küla"}
   {:name "Mulgi külamuuseum",
    :longitude 25.341207,
    :latitude 58.223692,
@@ -900,7 +900,7 @@
    :latitude 59.4511505,
    :source :openstreetmap,
    :homepage "https://www.muuseum.ee/et/muuseumid",
-   :locality "Narva-Jõesuu"}
+   :location "Narva-Jõesuu"}
   {:name "NB studio",
    :longitude 24.7610655,
    :latitude 59.4369918,
@@ -930,13 +930,13 @@
    :latitude 57.8097788,
    :source :openstreetmap,
    :homepage "http://www.obinitsamuuseum.ee",
-   :locality "Obinitsa küla"}
+   :location "Obinitsa küla"}
   {:name "Oisu tuletõrjemuuseum",
    :longitude 25.5307445,
    :latitude 58.7329887,
    :source :openstreetmap,
    :homepage "https://galerii.estrescue.eu/thumbnails.php?album=36",
-   :locality "Kärevere küla"}
+   :location "Kärevere küla"}
   {:name "Olustvere Klaasikoja Galerii",
    :longitude 25.5680481,
    :latitude 58.5544792,
@@ -961,7 +961,7 @@
    :longitude 24.1407192,
    :latitude 59.2275754,
    :source :openstreetmap,
-   :locality "Padise küla"}
+   :location "Padise küla"}
   {:name "Paduvere talumuuseum",
    :longitude 26.3199306,
    :latitude 58.7988646,
@@ -977,7 +977,7 @@
    :latitude 58.6832544,
    :source :openstreetmap,
    :homepage "http://www.palamusemuuseum.ee/",
-   :locality "Palamuse alevik"}
+   :location "Palamuse alevik"}
   {:name "Parksepa Keskkooli Muuseum",
    :longitude 26.9868122,
    :latitude 57.9036893,
@@ -993,7 +993,7 @@
    :latitude 58.5534519,
    :source :openstreetmap,
    :homepage "http://www.peipsimaa.ee/",
-   :locality "Kolkja alevik"}
+   :location "Kolkja alevik"}
   {:name "Peri Koduloomuuseumituba",
    :longitude 27.0898777,
    :latitude 58.0179913,
@@ -1016,12 +1016,12 @@
    :latitude 58.8098577,
    :source :openstreetmap,
    :homepage "https://www.painurme.ee/koduloomuuseum",
-   :locality "Päinurme küla"}
+   :location "Päinurme küla"}
   {:name "Pärnu Muuseum",
    :longitude 24.4993431,
    :latitude 58.3867908,
    :source :openstreetmap,
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Põltsamaa Aleksandrikooli muuseumituba",
    :longitude 25.9808589,
    :latitude 58.6312321,
@@ -1049,7 +1049,7 @@
    :longitude 25.1340664,
    :latitude 59.4402346,
    :source :openstreetmap,
-   :locality "Jõelähtme küla"}
+   :location "Jõelähtme küla"}
   {:name "RMK Viimsi looduskeskus",
    :longitude 24.8168841,
    :latitude 59.5147863,
@@ -1082,7 +1082,7 @@
    :latitude 58.7887895,
    :source :openstreetmap,
    :homepage "https://visitpoltsamaa.com/rutikvere-meierei/",
-   :locality "Arisvere küla"}
+   :location "Arisvere küla"}
   {:name "Ruusmäe Koduloomuuseum",
    :longitude 27.0880329,
    :latitude 57.6360227,
@@ -1144,7 +1144,7 @@
    :latitude 59.4471727,
    :source :openstreetmap,
    :homepage "https://www.krulli.co/rendipinnad/sepikoda",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Seto Talumuuseum",
    :longitude 27.6515814,
    :latitude 57.9422728,
@@ -1161,7 +1161,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.spordilinn.ee/idaviru/html/muuseumid/muuseumid.htm",
-   :locality "Sillamäe"}
+   :location "Sillamäe"}
   {:name "Sillaotsa Talumuuseum",
    :longitude 24.5216296,
    :latitude 58.7982265,
@@ -1182,7 +1182,7 @@
    :latitude 58.5262246,
    :source :openstreetmap,
    :homepage "https://www.jaaaeg.ee/",
-   :locality "Äksi alevik"}
+   :location "Äksi alevik"}
   {:name "Staapli 3 Art Gallery",
    :longitude 24.7280001,
    :latitude 59.4513698,
@@ -1197,7 +1197,7 @@
    :longitude 22.5230835,
    :latitude 58.694894,
    :source :openstreetmap,
-   :locality "Pärna küla"}
+   :location "Pärna küla"}
   {:name "Sõrve Külastuskeskus",
    :longitude 22.0554904,
    :latitude 57.9102337,
@@ -1212,19 +1212,19 @@
    :latitude 58.5491267,
    :source :openstreetmap,
    :homepage "http://www.muuseum.tabivere.net",
-   :locality "Tabivere alevik"}
+   :location "Tabivere alevik"}
   {:name "Tallinna Kunstihoone Lasnamäe paviljon",
    :longitude 24.8315803,
    :latitude 59.4402931,
    :source :openstreetmap,
    :homepage "https://www.kunstihoone.ee/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Tallinna Õpetajate Maja",
    :longitude 24.7462157,
    :latitude 59.437437,
    :source :openstreetmap,
    :homepage "https://www.opetajatemaja.ee/",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Tammisaare Talu Vabaõhumuuseum",
    :longitude 23.3158473,
    :latitude 58.5884738,
@@ -1242,7 +1242,7 @@
    :latitude 58.3806659,
    :source :openstreetmap,
    :homepage "https://tartmus.ee/",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Tartu Laulupeomuuseum",
    :longitude 26.7327485,
    :latitude 58.3864493,
@@ -1263,7 +1263,7 @@
    :latitude 58.3842696,
    :source :openstreetmap,
    :homepage "https://www.botaanikaaed.ut.ee/",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Tartu Ülikooli kunstimuuseum",
    :longitude 26.7194208,
    :latitude 58.3807628,
@@ -1278,7 +1278,7 @@
    :longitude 25.8662723,
    :latitude 58.2350885,
    :source :openstreetmap,
-   :locality "Mustla"}
+   :location "Mustla"}
   {:name "Thule Koja alternatiivajaloomuuseum",
    :longitude 22.4868938,
    :latitude 58.2520123,
@@ -1306,7 +1306,7 @@
    :latitude 58.3696251,
    :source :openstreetmap,
    :homepage "http://www.trykimuuseum.ee/",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Tsiistre linamuuseum",
    :longitude 27.1923222,
    :latitude 57.6543601,
@@ -1321,7 +1321,7 @@
    :latitude 59.4370585,
    :source :openstreetmap,
    :homepage "http://www.tuletorjemuuseum.ee",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Tulivee salapiirituseveo muuseum",
    :longitude 26.9906908,
    :latitude 59.4358518,
@@ -1356,7 +1356,7 @@
    :latitude 59.3725598,
    :source :openstreetmap,
    :homepage "http://muuseum.vaivaravald.ee",
-   :locality "Sinimäe alevik"}
+   :location "Sinimäe alevik"}
   {:name "Valga isamaalise kasvatuse püsiekspositsioon",
    :longitude 26.0530373,
    :latitude 57.78231,
@@ -1370,7 +1370,7 @@
    :longitude 26.1933082,
    :latitude 59.1007568,
    :source :openstreetmap,
-   :locality "Vao küla"}
+   :location "Vao küla"}
   {:name "Varbla muuseum",
    :longitude 23.7646583,
    :latitude 58.4181862,
@@ -1379,7 +1379,7 @@
    :longitude 24.4539456,
    :latitude 59.0440144,
    :source :openstreetmap,
-   :locality "Varbola küla"}
+   :location "Varbola küla"}
   {:name "Varnja Elava Ajaloo Muuseum",
    :longitude 27.2412939,
    :latitude 58.4908754,
@@ -1408,7 +1408,7 @@
    :latitude 59.5242863,
    :source :openstreetmap,
    :homepage "https://rannarahvamuuseum.ee/viimsi-muuseum/",
-   :locality "Pringi küla"}
+   :location "Pringi küla"}
   {:name "Viinistu Külamuuseum",
    :longitude 25.7524702,
    :latitude 59.645578,
@@ -1439,7 +1439,7 @@
    :latitude 58.496012,
    :source :openstreetmap,
    :homepage "https://voronjagalerii.ee/",
-   :locality "Varnja alevik"}
+   :location "Varnja alevik"}
   {:name "Väike-Maarja Muuseum",
    :longitude 26.2515992,
    :latitude 59.1284794,

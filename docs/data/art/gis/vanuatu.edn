@@ -8,7 +8,7 @@
    :longitude 168.3055912,
    :latitude -17.7689315,
    :source :openstreetmap,
-   :locality "Port Vila"}
+   :location "Port Vila"}
   {:name "Musée National de Vanuatu",
    :longitude 168.3174667,
    :latitude -17.7453168,

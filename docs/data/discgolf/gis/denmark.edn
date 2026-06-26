@@ -14,85 +14,85 @@
    :latitude 55.8560944569588,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38563",
-   :locality "Allerød"}
+   :location "Allerød"}
   {:name "Allerød Disc Golf Red and yellow",
    :longitude 12.345733771159928,
    :latitude 55.85596093983045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37304",
-   :locality "Lillerød"}
+   :location "Lillerød"}
   {:name "Arrild 1-2-3-4-5-16-17 x 3",
    :longitude 8.955569075236724,
    :latitude 55.15313217210232,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37357",
-   :locality "Toftlund"}
+   :location "Toftlund"}
   {:name "Arrild Disc Golf Bane",
    :longitude 8.955783492241153,
    :latitude 55.153255913839274,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31773",
-   :locality "Toftlund"}
+   :location "Toftlund"}
   {:name "Arrild Disc Golf Bane -> 19 huller",
    :longitude 8.955561834954779,
    :latitude 55.15312957270788,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35258",
-   :locality "Toftlund"}
+   :location "Toftlund"}
   {:name "Arrild Glow 1-3-8-11-15-16-19 x3",
    :longitude 8.95558290620366,
    :latitude 55.15312561966411,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41103",
-   :locality "Arrild"}
+   :location "Arrild"}
   {:name "Arrild Glow Afs.2023 1-2-3-4-5-7-8-9-15-16-19 x2",
    :longitude 8.955576717551395,
    :latitude 55.15318250219539,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37444",
-   :locality "Toftlund"}
+   :location "Toftlund"}
   {:name "Arrild MF Glow 1-2-3-4-5-15-16-18-19 x 2 ",
    :longitude 8.955690339599272,
    :latitude 55.15323386373717,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42216",
-   :locality "Arrild"}
+   :location "Arrild"}
   {:name "Arrild MF Glow 1-2-3-4-5-6-7-11-15-16 x2",
    :longitude 8.955615230795303,
    :latitude 55.15315133069791,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41815",
-   :locality "Arrild"}
+   :location "Arrild"}
   {:name "Arrild MF Glow 1-2-3-4-5-7-8-11-12-15-16 x2",
    :longitude 8.955557935769292,
    :latitude 55.15309693837398,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41753",
-   :locality "Arrild "}
+   :location "Arrild "}
   {:name "Arrild/Glow 1-3-8-11-12-15-16 x 3 ",
    :longitude 8.95548637678391,
    :latitude 55.15306263126877,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41335",
-   :locality "Arrild"}
+   :location "Arrild"}
   {:name "Bidstrup Gods Disc Golf",
    :longitude 9.930012,
    :latitude 56.343742,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29113",
-   :locality "Langå"}
+   :location "Langå"}
   {:name "BMI Egelund",
    :longitude 10.198229266384146,
    :latitude 56.04776113487469,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30587",
-   :locality "Malling"}
+   :location "Malling"}
   {:name "Bolderslev Disc Golf Bane",
    :longitude 9.278738615092607,
    :latitude 54.99417922549114,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16159",
-   :locality "Bolderslev"}
+   :location "Bolderslev"}
   {:name "Bramming Disc Golf ",
    :longitude 8.697741400680826,
    :latitude 55.47732175190325,
@@ -103,25 +103,25 @@
    :latitude 57.276216159563006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30959",
-   :locality "Brønderslev"}
+   :location "Brønderslev"}
   {:name "Brønderslev Disc Golf Park",
    :longitude 9.946254703245216,
    :latitude 57.27666610242312,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27469",
-   :locality "Brønderslev"}
+   :location "Brønderslev"}
   {:name "Bundgaardsparken",
    :longitude 9.988356166303703,
    :latitude 57.02804348833672,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15997",
-   :locality "Aalborg Ø"}
+   :location "Aalborg Ø"}
   {:name "Bundgårdsparken vintertour layout ",
    :longitude 9.988826801079,
    :latitude 57.0280014932255,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31879",
-   :locality "Aalborg Øst"}
+   :location "Aalborg Øst"}
   {:name "Bygholm",
    :longitude 9.829222838776502,
    :latitude 55.864442294867814,
@@ -132,73 +132,73 @@
    :latitude 55.86374720966478,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25078",
-   :locality "Horsens"}
+   :location "Horsens"}
   {:name "Børnebanen Esbjerg",
    :longitude 8.442589610441104,
    :latitude 55.497264953215534,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38854",
-   :locality "Esbjerg"}
+   :location "Esbjerg"}
   {:name "Damparken Haderslev",
    :longitude 9.47921982268332,
    :latitude 55.24772030559174,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16134",
-   :locality "Haderslev"}
+   :location "Haderslev"}
   {:name "Dronningborg",
    :longitude 10.082839447657022,
    :latitude 56.48152076997641,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32306",
-   :locality "Randers NØ"}
+   :location "Randers NØ"}
   {:name "Dronningborg",
    :longitude 10.083402414890713,
    :latitude 56.47964136266884,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33275",
-   :locality "Randers"}
+   :location "Randers"}
   {:name "Ebeltoft Disc Golf Bane",
    :longitude 10.683441396284081,
    :latitude 56.1945729675314,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33043",
-   :locality "Ebeltoft"}
+   :location "Ebeltoft"}
   {:name "Egelund",
    :longitude 10.197647101969267,
    :latitude 56.048799028509904,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39380",
-   :locality "Malling"}
+   :location "Malling"}
   {:name "Egelund Jule Layout",
    :longitude 10.197116507488033,
    :latitude 56.048300498505085,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36689",
-   :locality "Malling"}
+   :location "Malling"}
   {:name "Eghjorten disc golf bane",
    :longitude 12.353171110153198,
    :latitude 55.9577593834278,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/3936",
-   :locality "Fredensborg"}
+   :location "Fredensborg"}
   {:name "Eghjorten Natgolf/short Layout",
    :longitude 12.383286666873062,
    :latitude 55.96178388120765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22298",
-   :locality "Fredensborg"}
+   :location "Fredensborg"}
   {:name "Ejby IF Disc Golf",
    :longitude 12.063619235817725,
    :latitude 55.493938553991114,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25187",
-   :locality "Lille Skensved"}
+   :location "Lille Skensved"}
   {:name "Engum UI",
    :longitude 9.661248493147042,
    :latitude 55.74141978976428,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37637",
-   :locality "Vejle Øst"}
+   :location "Vejle Øst"}
   {:name "Esbjerg Disc Golf Klub - bane 3 Tee",
    :longitude 8.4392984,
    :latitude 55.4959231,
@@ -208,121 +208,121 @@
    :latitude 57.09115387563381,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32060",
-   :locality "Fjerritslev"}
+   :location "Fjerritslev"}
   {:name "Frederikshavn Disc Golf Park",
    :longitude 10.51840840796197,
    :latitude 57.44082146284984,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27470",
-   :locality "Frederikshavn"}
+   :location "Frederikshavn"}
   {:name "Fuglsang DiscGolfPark",
    :longitude 10.405278727800692,
    :latitude 55.59105012413846,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28851",
-   :locality "Otterup"}
+   :location "Otterup"}
   {:name "Gram Slot Disc Golf Bane",
    :longitude 9.058554420652854,
    :latitude 55.29613277874145,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15317",
-   :locality "Gram"}
+   :location "Gram"}
   {:name "Gram slot Glow 1-2-8-9-10-11 x 3",
    :longitude 9.055641761894009,
    :latitude 55.293040243833985,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41441",
-   :locality "Gram"}
+   :location "Gram"}
   {:name "Grenaa Disc Golfbane",
    :longitude 10.887431821841972,
    :latitude 56.40420265744186,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40886",
-   :locality "Østjylland/Grenaa"}
+   :location "Østjylland/Grenaa"}
   {:name "Greve Discgolf",
    :longitude 12.2171765819121,
    :latitude 55.598211765743855,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23283",
-   :locality "Greve"}
+   :location "Greve"}
   {:name "Grindsted Discgolf bane",
    :longitude 8.924991215970692,
    :latitude 55.75362096721267,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34716",
-   :locality "Grindsted"}
+   :location "Grindsted"}
   {:name "Gymnasieparkens Disc Golf Bane",
    :longitude 9.027516919238792,
    :latitude 56.55433679054735,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27218",
-   :locality "Skive"}
+   :location "Skive"}
   {:name "Halsnæs Disc Golf Bane",
    :longitude 12.036540854154964,
    :latitude 55.96952250384015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31516",
-   :locality "Frederiksværk"}
+   :location "Frederiksværk"}
   {:name "Halsnæs discgolf",
    :longitude 12.036760787820498,
    :latitude 55.96942317705816,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19619",
-   :locality "Frederiksværk"}
+   :location "Frederiksværk"}
   {:name "Hammel Disc Golf Bane",
    :longitude 9.83754770338922,
    :latitude 56.25673647922105,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42844",
-   :locality "Hammel"}
+   :location "Hammel"}
   {:name "Havreholm",
    :longitude 12.431773127387146,
    :latitude 56.07568033830381,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34788",
-   :locality "Hornbæk"}
+   :location "Hornbæk"}
   {:name "Hedehusene ",
    :longitude 12.199957756964892,
    :latitude 55.63934149089599,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31864",
-   :locality "Hedehusene"}
+   :location "Hedehusene"}
   {:name "Hedehusene 18 holes - YELLOW TEE",
    :longitude 12.200254429538575,
    :latitude 55.63927139977673,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31850",
-   :locality "Hedehusene"}
+   :location "Hedehusene"}
   {:name "Hedehusene Disc Golf",
    :longitude 12.200774711034342,
    :latitude 55.63909852209383,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37708",
-   :locality "Hedehusene"}
+   :location "Hedehusene"}
   {:name "Hedehusene Egeskov",
    :longitude 12.20019948864703,
    :latitude 55.63947915429662,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30091",
-   :locality "Hedehusene"}
+   :location "Hedehusene"}
   {:name "Hedensted disc golf bane",
    :longitude 9.673599322770485,
    :latitude 55.78090176402441,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23951",
-   :locality "Hedensted"}
+   :location "Hedensted"}
   {:name "Hedensted Disc Golf Bane - Klubmester layout",
    :longitude 9.673790424863455,
    :latitude 55.780971264410624,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25080",
-   :locality "Hedensted"}
+   :location "Hedensted"}
   {:name "Hedensted gul 9 layout",
    :longitude 9.673926094001388,
    :latitude 55.78116789445579,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36265",
-   :locality "Hedensted"}
+   :location "Hedensted"}
   {:name "Hillerød Disc Golf, Eghjorten",
    :longitude 12.349897,
    :latitude 55.9579748,
@@ -333,25 +333,25 @@
    :latitude 55.02726334241072,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26633",
-   :locality "Rødekro"}
+   :location "Rødekro"}
   {:name "Hjørring",
    :longitude 10.008763287524573,
    :latitude 57.46284349558965,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22921",
-   :locality "Hjørring"}
+   :location "Hjørring"}
   {:name "Holbæk Disc Golf Course",
    :longitude 11.734313602852097,
    :latitude 55.70084527165875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14244",
-   :locality "Holbæk"}
+   :location "Holbæk"}
   {:name "Høje Kolstrup Banen",
    :longitude 9.402085921570631,
    :latitude 55.06270808188816,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16154",
-   :locality "Aabenraa"}
+   :location "Aabenraa"}
   {:name "Klintsøgård Disc Golf",
    :longitude 11.5978027,
    :latitude 55.9479015,
@@ -361,13 +361,13 @@
    :latitude 55.25701106016152,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16138",
-   :locality "Haderslev"}
+   :location "Haderslev"}
   {:name "Kokkedal discgolfbane",
    :longitude 12.464209982052836,
    :latitude 55.90588237604371,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22482",
-   :locality "Kokkedal"}
+   :location "Kokkedal"}
   {:name "Langenæs Disc Golf Park",
    :longitude 10.1790046,
    :latitude 56.1426214,
@@ -382,55 +382,55 @@
    :latitude 56.061027,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12746",
-   :locality "Kibæk"}
+   :location "Kibæk"}
   {:name "MultiGolfPark Frøslev-Padborg",
    :longitude 9.347711677368153,
    :latitude 54.82229188863218,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39540",
-   :locality "Padborg"}
+   :location "Padborg"}
   {:name "MUndt123",
    :longitude 10.605385928174513,
    :latitude 55.397425288120104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34204",
-   :locality "Rynkeby"}
+   :location "Rynkeby"}
   {:name "Nature Park ",
    :longitude 14.907340949883263,
    :latitude 55.196350335030075,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27000",
-   :locality "Gudhjem"}
+   :location "Gudhjem"}
   {:name "Nyborg Disc Golf - Cirkuspladsen",
    :longitude 10.799834321923669,
    :latitude 55.31167824022353,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25663",
-   :locality "Nyborg"}
+   :location "Nyborg"}
   {:name "Næstved ",
    :longitude 11.768343781366895,
    :latitude 55.20452596220733,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25487",
-   :locality "Næstved"}
+   :location "Næstved"}
   {:name "Næstved 18 huller",
    :longitude 11.768053208226746,
    :latitude 55.20529113910362,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32651",
-   :locality "Næstved"}
+   :location "Næstved"}
   {:name "Odense Disc Golf Bane",
    :longitude 10.340417800808865,
    :latitude 55.390043695224875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18774",
-   :locality "Odense V"}
+   :location "Odense V"}
   {:name "Odense Å\\s 9 Huller",
    :longitude 10.23534227838482,
    :latitude 55.25775977363108,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44047",
-   :locality "Nørre Broby"}
+   :location "Nørre Broby"}
   {:name "Ollerup disc golf bane",
    :longitude 10.509401096753663,
    :latitude 55.06993038774371,
@@ -446,55 +446,55 @@
    :latitude 55.449283798963364,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42344",
-   :locality "Ringsted"}
+   :location "Ringsted"}
   {:name "Roskilde Ring Discgolf park",
    :longitude 12.081589145276524,
    :latitude 55.63319640877796,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18809",
-   :locality "Roskilde"}
+   :location "Roskilde"}
   {:name "Rosmus Skole",
    :longitude 10.772241370493248,
    :latitude 56.29843021335347,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29884",
-   :locality "Balle"}
+   :location "Balle"}
   {:name "RUC DGC",
    :longitude 12.139341167768833,
    :latitude 55.65165220269256,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42820",
-   :locality "Roskilde"}
+   :location "Roskilde"}
   {:name "Ryhaven Skanderborg",
    :longitude 9.90034484118155,
    :latitude 56.04199358132749,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39300",
-   :locality "Skanderborg"}
+   :location "Skanderborg"}
   {:name "Silkeborg Disc Golf Bane",
    :longitude 9.553265980646103,
    :latitude 56.19118587150166,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16923",
-   :locality "Silkeborg"}
+   :location "Silkeborg"}
   {:name "Silkeborg discgolf bane",
    :longitude 9.55462157839068,
    :latitude 56.19082089209428,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29408",
-   :locality "Silkeborg"}
+   :location "Silkeborg"}
   {:name "Skanderborg ",
    :longitude 9.926709008123368,
    :latitude 56.02311809279527,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25769",
-   :locality "Skanderborg"}
+   :location "Skanderborg"}
   {:name "Skanderborg Disc Golf Course",
    :longitude 9.926504032516647,
    :latitude 56.0244242936966,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20763",
-   :locality "Skanderborg"}
+   :location "Skanderborg"}
   {:name "Skanderborg Disc Golf Dyrehaven",
    :longitude 9.9198789,
    :latitude 56.0235897,
@@ -504,7 +504,7 @@
    :latitude 56.04283476766753,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38163",
-   :locality "Skanderborg"}
+   :location "Skanderborg"}
   {:name "Skarrild Disc Golf Bane",
    :longitude 8.896522598818137,
    :latitude 55.97160677306863,
@@ -520,7 +520,7 @@
    :latitude 55.83545976209385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22767",
-   :locality "Frederikssund"}
+   :location "Frederikssund"}
   {:name "Slangerup Disc Golf Bane",
    :longitude 12.0880295,
    :latitude 55.8378282,
@@ -531,7 +531,7 @@
    :latitude 56.02795610169332,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19714",
-   :locality "Helsingør"}
+   :location "Helsingør"}
   {:name "Sorø ",
    :longitude 11.56728215566119,
    :latitude 55.42335762652354,
@@ -552,13 +552,13 @@
    :latitude 55.395835612965044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25708",
-   :locality "Sorø"}
+   :location "Sorø"}
   {:name "Sorø Discgolfbane",
    :longitude 11.546549240171572,
    :latitude 55.39603368766413,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25704",
-   :locality "Sorø"}
+   :location "Sorø"}
   {:name "Sportsbyens disc golf",
    :longitude 11.6889852,
    :latitude 55.6967485,
@@ -572,25 +572,25 @@
    :latitude 55.519483805050726,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36885",
-   :locality "Middelfart"}
+   :location "Middelfart"}
   {:name "Stubbæk Disc Golf Bane",
    :longitude 9.43131817129725,
    :latitude 54.99291292027908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24524",
-   :locality "Stubbæk"}
+   :location "Stubbæk"}
   {:name "Støvring Gymnasium",
    :longitude 9.828828234838937,
    :latitude 56.88104981125838,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41914",
-   :locality "Støvring"}
+   :location "Støvring"}
   {:name "Sundeved Discgolf bane",
    :longitude 9.579868018725392,
    :latitude 54.996720478716554,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24583",
-   :locality "Bovrup"}
+   :location "Bovrup"}
   {:name "The Bunker - Vestereng Disc Golf Course",
    :longitude 10.1836731,
    :latitude 56.1842797,
@@ -601,163 +601,163 @@
    :latitude 56.186928873813855,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16519",
-   :locality "Tilst"}
+   :location "Tilst"}
   {:name "Tinkerdal",
    :longitude 8.826880445729898,
    :latitude 56.39367585530954,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39371",
-   :locality "Skave"}
+   :location "Skave"}
   {:name "Vadehavets Disc golf bane",
    :longitude 8.681089262813032,
    :latitude 55.29004395367616,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38367",
-   :locality "Ribe"}
+   :location "Ribe"}
   {:name "Vadehavets Disc Golf Bane",
    :longitude 8.681141462498744,
    :latitude 55.29000356138857,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38368",
-   :locality "Ribe"}
+   :location "Ribe"}
   {:name "VALBYPARKEN 9H",
    :longitude 12.519689762689637,
    :latitude 55.64295533046783,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32455",
-   :locality "København SV"}
+   :location "København SV"}
   {:name "Valbyparken disc golf park",
    :longitude 12.518783971471322,
    :latitude 55.64157797495582,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18805",
-   :locality "København SV"}
+   :location "København SV"}
   {:name "Vejen Idrætscenter Discgolf",
    :longitude 9.1225979,
    :latitude 55.475452,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41131",
-   :locality "Vejen "}
+   :location "Vejen "}
   {:name "Vendsyssel Disc Golf",
    :longitude 9.952923580988369,
    :latitude 57.348734952616894,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35869",
-   :locality "Vrå"}
+   :location "Vrå"}
   {:name "Viborg disc golf",
    :longitude 9.42452706940199,
    :latitude 56.443156939905066,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18971",
-   :locality "Viborg"}
+   :location "Viborg"}
   {:name "Viborg Disc Golf bane",
    :longitude 9.423481371079305,
    :latitude 56.44351899277561,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26802",
-   :locality "Overlund"}
+   :location "Overlund"}
   {:name "Videbæk Disc Golf",
    :longitude 8.610177862066536,
    :latitude 56.09763944089724,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31377",
-   :locality "Videbæk"}
+   :location "Videbæk"}
   {:name "Virum Park Disc Golf Bane",
    :longitude 12.469950929514567,
    :latitude 55.79387537612578,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23980",
-   :locality "Virum"}
+   :location "Virum"}
   {:name "Vojens - 19 x GUL med 13.A",
    :longitude 9.276713781550484,
    :latitude 55.253237965342834,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32206",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens - GLOW/GUL 1-2-5-6-7-8",
    :longitude 9.276738835659899,
    :latitude 55.253463631420146,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31169",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens - GLOW/GUL 1-8-9-10-11-12",
    :longitude 9.276926881289853,
    :latitude 55.25376132372551,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26012",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens - GLOW/GUL 13-14-15-16-17-18",
    :longitude 9.276680873898641,
    :latitude 55.25349675827266,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31678",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens -19 x hvid med 13.A",
    :longitude 9.277338979563524,
    :latitude 55.2537756905559,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43714",
-   :locality "Vojens "}
+   :location "Vojens "}
   {:name "Vojens 1-6-7-8-9-10 x 3",
    :longitude 9.277379959890823,
    :latitude 55.254196279834645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37245",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens 10-11-12-15-16-17",
    :longitude 9.277328783111813,
    :latitude 55.25414648573479,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37356",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens disc golf park",
    :longitude 9.276982953218322,
    :latitude 55.25359627837719,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26955",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens Discgolf Park - GLOW/GUL F9",
    :longitude 9.27671833904543,
    :latitude 55.25355712841048,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31264",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens DiscGolfPark",
    :longitude 9.276797991182917,
    :latitude 55.253215316294245,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15206",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens Discgolfpark - GUL - uden 9",
    :longitude 9.27680331196234,
    :latitude 55.25332844506204,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38902",
-   :locality "Vojens "}
+   :location "Vojens "}
   {:name "Vojens GLOW 1-2-3-4-5-6-7-8",
    :longitude 9.277049125574905,
    :latitude 55.25369174712969,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36614",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens GLOW 1-8-10-11-12-18",
    :longitude 9.277183520702806,
    :latitude 55.25399171375841,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36727",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens Glow MF 1-2-5-7-8-9-10-11-12 x2 ",
    :longitude 9.276823971611236,
    :latitude 55.25351294678498,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45318",
-   :locality "Vojens "}
+   :location "Vojens "}
   {:name "Vojens Glow/Gul 1-6-7-8-9-18",
    :longitude 9.277128621006597,
    :latitude 55.25392726167331,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36918",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens GLOW/GUL 3 x F7",
    :longitude 9.277392303459663,
    :latitude 55.25421673042271,
@@ -768,61 +768,61 @@
    :latitude 55.25413792157096,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37496",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens GUL, uden 13-13a-14",
    :longitude 9.27729138982724,
    :latitude 55.254091197690116,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36787",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens Gul, uden 14",
    :longitude 9.277244453086752,
    :latitude 55.25405740120445,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37939",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vojens GUL/GLOW 1-6-7-11-12-18",
    :longitude 9.277458510586257,
    :latitude 55.25428944467896,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37048",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Vorgod-Barde",
    :longitude 8.707519539710972,
    :latitude 56.09759467892158,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38781",
-   :locality "Vorgod-Barde"}
+   :location "Vorgod-Barde"}
   {:name "Vrensted Disc Golf",
    :longitude 9.771917234206967,
    :latitude 57.339163927018575,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29039",
-   :locality "Løkken"}
+   :location "Løkken"}
   {:name "Årsmøde 2022",
    :longitude 10.321280437488412,
    :latitude 56.71762412392238,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27964",
-   :locality "Helberskov"}
+   :location "Helberskov"}
   {:name "Æ HALLOWEEN CUP 2023",
    :longitude 9.276875992923578,
    :latitude 55.25333920031704,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36101",
-   :locality "Vojens"}
+   :location "Vojens"}
   {:name "Ørsted",
    :longitude 10.350671001261134,
    :latitude 56.49325403805682,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23996",
-   :locality "Ørsted"}
+   :location "Ørsted"}
   {:name "Ørsted Disc Golf",
    :longitude 10.350255330754834,
    :latitude 56.493785899557736,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33292",
-   :locality "Ørsted"}],
+   :location "Ørsted"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

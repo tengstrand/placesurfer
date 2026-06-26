@@ -9,7 +9,7 @@
    :latitude -31.024278285262653,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22344",
-   :locality "Port Edward",
+   :location "Port Edward",
    :image "",
    :description ""}
   {:name "Kelvin Mike",
@@ -17,7 +17,7 @@
    :latitude -60.84881472588249,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24557",
-   :locality "Nigeria",
+   :location "Nigeria",
    :image "",
    :description ""}
   {:name "Noordhoek Commons",
@@ -25,7 +25,7 @@
    :latitude -34.09835583225623,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29246",
-   :locality "Noordhoek",
+   :location "Noordhoek",
    :image "",
    :description ""}],
  :source

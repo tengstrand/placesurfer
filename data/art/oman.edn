@@ -95,7 +95,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.pdo.co.om/en/news/spotlight/Pages/Planetarium.aspx",
-   :locality "Muscat",
+   :location "Muscat",
    :image "",
    :description ""}
   {:name "Old Castle Museum",

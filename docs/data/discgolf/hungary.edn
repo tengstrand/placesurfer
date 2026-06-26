@@ -9,7 +9,7 @@
    :latitude 47.46513129377661,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30027",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Nagyerdei Training Course",
@@ -17,7 +17,7 @@
    :latitude 47.55279104225869,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21279",
-   :locality "Q",
+   :location "Q",
    :image "",
    :description ""}
   {:name "Sportliget",
@@ -25,7 +25,7 @@
    :latitude 47.46536677992529,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8242",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Sportliget 2016",
@@ -33,7 +33,7 @@
    :latitude 47.465236224383645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5957",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}],
  :source

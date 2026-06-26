@@ -9,7 +9,7 @@
    :latitude 12.1309715,
    :source :openstreetmap,
    :homepage "https://www.giovanniabath.com/",
-   :locality "Morgenster"}
+   :location "Morgenster"}
   {:name "Battle Station Blaauw WWII museum",
    :longitude -68.9888931,
    :latitude 12.1371194,
@@ -20,7 +20,7 @@
    :latitude 12.1195777,
    :source :openstreetmap,
    :homepage "https://bloemhof.cw/",
-   :locality "Willemstad"}
+   :location "Willemstad"}
   {:name "Blue Bay Curaçao Beeldentuin",
    :longitude -68.9769035,
    :latitude 12.1436596,
@@ -36,19 +36,19 @@
    :latitude 12.1237802,
    :source :openstreetmap,
    :homepage "https://www.childrensmuseumcuracao.org/",
-   :locality "Willemstad"}
+   :location "Willemstad"}
   {:name "Curaçao Museum",
    :longitude -68.9471685,
    :latitude 12.1120594,
    :source :openstreetmap,
    :homepage "https://hetcuracaosch.museum/",
-   :locality "Willemstad"}
+   :location "Willemstad"}
   {:name "Fort Kerk museum",
    :longitude -68.9344152,
    :latitude 12.1046489,
    :source :openstreetmap,
    :homepage "http://www.fortchurchcuracao.com/index5.php",
-   :locality "Punda"}
+   :location "Punda"}
   {:name "Gallery Alma Blou",
    :longitude -68.9502225,
    :latitude 12.122828,
@@ -82,7 +82,7 @@
    :latitude 12.2287159,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/MuseoAeronautiko",
-   :locality "Tera Corá"}
+   :location "Tera Corá"}
   {:name "Museo di Tambú Shon Cola",
    :longitude -68.8343118,
    :latitude 12.1019283,
@@ -103,13 +103,13 @@
    :longitude -69.0928106,
    :latitude 12.3027874,
    :source :openstreetmap,
-   :locality "Lelienberg"}
+   :location "Lelienberg"}
   {:name "Museum Kurá Hulanda",
    :longitude -68.935565,
    :latitude 12.1082291,
    :source :openstreetmap,
    :homepage "https://www.cpostinternational.com/postmuseum/",
-   :locality "Otrobanda"}
+   :location "Otrobanda"}
   {:name "Museum Landhuis Ascencion",
    :longitude -69.0617273,
    :latitude 12.2730172,
@@ -125,7 +125,7 @@
    :latitude 12.102585,
    :source :openstreetmap,
    :homepage "https://naam.cw",
-   :locality "Pietermaai"}
+   :location "Pietermaai"}
   {:name "Nena Sanchez art gallery",
    :longitude -69.0545703,
    :latitude 12.2166848,
@@ -135,7 +135,7 @@
    :longitude -68.9223044,
    :latitude 12.100232,
    :source :openstreetmap,
-   :locality "Nieuw Nederland"}
+   :location "Nieuw Nederland"}
   {:name "Yubi Kirindongo museum, gallery, sculpture garden",
    :longitude -68.968366,
    :latitude 12.1770772,

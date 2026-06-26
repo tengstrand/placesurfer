@@ -50,7 +50,7 @@
    :longitude 135.770033,
    :latitude 35.008784,
    :source :openstreetmap,
-   :locality "京都市"}
+   :location "京都市"}
   {:name "ANDO MUSEUM",
    :longitude 133.997021,
    :latitude 34.4594028,
@@ -103,7 +103,7 @@
    :latitude 34.6686256,
    :source :openstreetmap,
    :homepage "https://corp.asics.com/en/about_asics/museum",
-   :locality "Kobe"}
+   :location "Kobe"}
   {:name "Atelier Kakko",
    :longitude 139.7386045,
    :latitude 35.7027686,
@@ -151,7 +151,7 @@
    :longitude 136.9351891,
    :latitude 35.1691148,
    :source :openstreetmap,
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "BoNewArtStudio",
    :longitude 139.2661794,
    :latitude 35.7886014,
@@ -226,7 +226,7 @@
    :latitude 24.4694376,
    :source :openstreetmap,
    :homepage "https://yonaguni-didi.jp",
-   :locality "与那国町"}
+   :location "与那国町"}
   {:name "DRT JAPAN",
    :longitude 141.3040668,
    :latitude 38.4339911,
@@ -259,7 +259,7 @@
    :longitude 136.817027,
    :latitude 34.855435,
    :source :openstreetmap,
-   :locality "常滑市"}
+   :location "常滑市"}
   {:name "Folkcraft Museum",
    :longitude 124.0857267,
    :latitude 24.3314127,
@@ -318,7 +318,7 @@
    :longitude 139.5792852,
    :latitude 35.7011685,
    :source :openstreetmap,
-   :locality "武蔵野市"}
+   :location "武蔵野市"}
   {:name "Gallery Kirria Japonica",
    :longitude 137.8427859,
    :latitude 36.6431396,
@@ -408,18 +408,18 @@
    :latitude 26.4220054,
    :source :openstreetmap,
    :homepage "http://hizuki.org/",
-   :locality "読谷村"}
+   :location "読谷村"}
   {:name "HOKUBU記念絵画館",
    :longitude 141.3650844,
    :latitude 43.0498133,
    :source :openstreetmap,
    :homepage "https://www.hokubu-kinen.or.jp/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "HOKUSHU仙台市科学館",
    :longitude 140.8832128,
    :latitude 38.2986803,
    :source :openstreetmap,
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "How House East",
    :longitude 139.7661232,
    :latitude 35.7257801,
@@ -430,7 +430,7 @@
    :latitude 34.881172,
    :source :openstreetmap,
    :homepage "https://livingculture.lixil.com/ilm/",
-   :locality "常滑市"}
+   :location "常滑市"}
   {:name "JALメインテナンスセンター1",
    :longitude 139.7887583,
    :latitude 35.5417177,
@@ -571,7 +571,7 @@
    :latitude 35.1092616,
    :source :openstreetmap,
    :homepage "https://www.moaart.or.jp/",
-   :locality "熱海市"}
+   :location "熱海市"}
   {:name "Moforu Furusato History Centre",
    :longitude 133.7040109,
    :latitude 34.6460287,
@@ -635,13 +635,13 @@
    :latitude 35.6651148,
    :source :openstreetmap,
    :homepage "https://www.nhk.or.jp/studiopark/",
-   :locality "渋谷区"}
+   :location "渋谷区"}
   {:name "NHK放送博物館",
    :longitude 139.7482596,
    :latitude 35.6637251,
    :source :openstreetmap,
    :homepage "http://www.nhk.or.jp/museum/",
-   :locality "港区"}
+   :location "港区"}
   {:name "NISSHA印刷歴史館",
    :longitude 135.7405759,
    :latitude 35.0040105,
@@ -651,7 +651,7 @@
    :latitude 35.6597114,
    :source :openstreetmap,
    :homepage "https://www.shimz.co.jp/novare/archives/index.html",
-   :locality "江東区"}
+   :location "江東区"}
   {:name "nowaki",
    :longitude 135.7732084,
    :latitude 35.0112907,
@@ -695,7 +695,7 @@
    :longitude 139.6999856,
    :latitude 35.6133515,
    :source :openstreetmap,
-   :locality "品川区"}
+   :location "品川区"}
   {:name "QUARK MUSEUM",
    :longitude 139.7752774,
    :latitude 35.7076354,
@@ -775,12 +775,12 @@
    :latitude 35.6925831,
    :source :openstreetmap,
    :homepage "https://sompo-museum.org",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "Soraかさい 加西市地域活性化拠点施設",
    :longitude 134.8692718,
    :latitude 34.8934527,
    :source :openstreetmap,
-   :locality "加西市"}
+   :location "加西市"}
   {:name "SPACE NOBI",
    :longitude 139.4593025,
    :latitude 35.7402492,
@@ -811,7 +811,7 @@
    :longitude 141.9147351,
    :latitude 43.5522706,
    :source :openstreetmap,
-   :locality "Takikawa city"}
+   :location "Takikawa city"}
   {:name "Tamamura-Honten Gallery",
    :longitude 138.4322529,
    :latitude 36.7328076,
@@ -909,7 +909,7 @@
    :latitude 34.6651615,
    :source :openstreetmap,
    :homepage "https://www.ucc.co.jp/museum/",
-   :locality "神戸市"}
+   :location "神戸市"}
   {:name "Uni Art Gallery",
    :longitude 139.7724191,
    :latitude 35.6894768,
@@ -919,7 +919,7 @@
    :latitude 34.4478989,
    :source :openstreetmap,
    :homepage "https://benesse-artsite.jp/art/lee-ufan.html",
-   :locality "直島町琴弾地"}
+   :location "直島町琴弾地"}
   {:name "visionary arts",
    :longitude 139.6997975,
    :latitude 35.6558377,
@@ -937,7 +937,7 @@
    :latitude 35.7032011,
    :source :openstreetmap,
    :homepage "https://yayoikusamamuseum.jp/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "YHRPミュージアム",
    :longitude 132.4772128,
    :latitude 34.3796718,
@@ -1016,7 +1016,7 @@
    :longitude 134.8306886,
    :latitude 35.2382456,
    :source :openstreetmap,
-   :locality "朝来市"}
+   :location "朝来市"}
   {:name "あしりべつ郷土館",
    :longitude 141.4399785,
    :latitude 43.0051571,
@@ -1042,7 +1042,7 @@
    :latitude 34.72291,
    :source :openstreetmap,
    :homepage "http://www.ama-a-lab.com/",
-   :locality "尼崎市"}
+   :location "尼崎市"}
   {:name "あま市美和歴史民俗資料館",
    :longitude 136.784566,
    :latitude 35.200744,
@@ -1068,7 +1068,7 @@
    :latitude 42.9190681,
    :source :openstreetmap,
    :homepage "https://ikeda-wj.org/",
-   :locality "池田町"}
+   :location "池田町"}
   {:name "いけとみ画廊",
    :longitude 137.7108641,
    :latitude 34.687826,
@@ -1077,7 +1077,7 @@
    :longitude 135.8233833,
    :latitude 34.6948836,
    :source :openstreetmap,
-   :locality "奈良市"}
+   :location "奈良市"}
   {:name "いしかり",
    :longitude 139.2814079,
    :latitude 35.7897785,
@@ -1095,7 +1095,7 @@
    :latitude 38.704319,
    :source :openstreetmap,
    :homepage "https://hagurokanko.jp/p26/",
-   :locality "鶴岡市"}
+   :location "鶴岡市"}
   {:name "いにしえ学習館",
    :longitude 132.9926175,
    :latitude 35.4764383,
@@ -1186,7 +1186,7 @@
    :latitude 35.4638344,
    :source :openstreetmap,
    :homepage "https://unkomuseum.com/yokohama/",
-   :locality "横浜市"}
+   :location "横浜市"}
   {:name "えびす画廊",
    :longitude 138.1332968,
    :latitude 36.0087545,
@@ -1199,12 +1199,12 @@
    :longitude 143.1534302,
    :latitude 42.0094464,
    :source :openstreetmap,
-   :locality "えりも町"}
+   :location "えりも町"}
   {:name "えんずのわり資料館",
    :longitude 141.1543223,
    :latitude 38.3255982,
    :source :openstreetmap,
-   :locality "東松島市"}
+   :location "東松島市"}
   {:name "おいらせ阿光坊古墳館",
    :longitude 141.3805077,
    :latitude 40.6039324,
@@ -1257,7 +1257,7 @@
    :longitude 138.789044,
    :latitude 37.3005364,
    :source :openstreetmap,
-   :locality "小千谷市"}
+   :location "小千谷市"}
   {:name "おのみち歴史博物館",
    :longitude 133.2049428,
    :latitude 34.4097846,
@@ -1279,7 +1279,7 @@
    :longitude 137.5092561,
    :latitude 34.6830133,
    :source :openstreetmap,
-   :locality "湖西市"}
+   :location "湖西市"}
   {:name "お伊勢まいり資料館",
    :longitude 136.723857,
    :latitude 34.46707,
@@ -1306,7 +1306,7 @@
    :latitude 26.3262974,
    :source :openstreetmap,
    :homepage "https://kainowa.com/",
-   :locality "うるま市"}
+   :location "うるま市"}
   {:name "かごしま環境未来館",
    :longitude 130.5403376,
    :latitude 31.5964871,
@@ -1316,13 +1316,13 @@
    :latitude 31.5963468,
    :source :openstreetmap,
    :homepage "http://www.pref.kagoshima.jp/reimeikan/",
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "かすみがうら市歴史博物館",
    :longitude 140.373167,
    :latitude 36.0740537,
    :source :openstreetmap,
    :homepage "https://www.city.kasumigaura.lg.jp/page/dir003355.html",
-   :locality "かすみがうら市"}
+   :location "かすみがうら市"}
   {:name "かちどき 橋の資料館",
    :longitude 139.7736585,
    :latitude 35.6630488,
@@ -1363,7 +1363,7 @@
    :longitude 133.7367608,
    :latitude 34.5486412,
    :source :openstreetmap,
-   :locality "倉敷市"}
+   :location "倉敷市"}
   {:name "からくり人形館",
    :longitude 137.6849516,
    :latitude 34.925987,
@@ -1397,7 +1397,7 @@
    :latitude 35.120065,
    :source :openstreetmap,
    :homepage "http://www.kannami-museum.jp/",
-   :locality "函南町"}
+   :location "函南町"}
   {:name "きしわだ自然資料館",
    :longitude 135.3706049,
    :latitude 34.4623902,
@@ -1420,7 +1420,7 @@
    :latitude 34.8756754,
    :source :openstreetmap,
    :homepage "http://kibinomori.com/",
-   :locality "吉備中央町"}
+   :location "吉備中央町"}
   {:name "ぎゃらりぃ宮郷",
    :longitude 132.3218029,
    :latitude 34.2977915,
@@ -1447,7 +1447,7 @@
    :latitude 33.8546568,
    :source :openstreetmap,
    :homepage "https://www.dogo-yamanote.com/gardenplace/museum/",
-   :locality "松山市"}
+   :location "松山市"}
   {:name "くしろ港町ギャラリー",
    :longitude 144.3842004,
    :latitude 42.9860454,
@@ -1470,12 +1470,12 @@
    :longitude 135.864157,
    :latitude 34.765695,
    :source :openstreetmap,
-   :locality "木津川市"}
+   :location "木津川市"}
   {:name "くびき野レールパーク",
    :longitude 138.3286821,
    :latitude 37.1836457,
    :source :openstreetmap,
-   :locality "上越市"}
+   :location "上越市"}
   {:name "くらしの歴史館",
    :longitude 140.3311908,
    :latitude 39.5660448,
@@ -1496,7 +1496,7 @@
    :longitude 139.2921269,
    :latitude 36.4320571,
    :source :openstreetmap,
-   :locality "みどり市"}
+   :location "みどり市"}
   {:name "こうもり博物館",
    :longitude 135.9273324,
    :latitude 34.7555311,
@@ -1589,7 +1589,7 @@
    :latitude 35.925637,
    :source :openstreetmap,
    :homepage "https://www.city.saitama.jp/004/005/002/003/001/",
-   :locality "さいたま市"}
+   :location "さいたま市"}
   {:name "さいたま市青少年宇宙科学館",
    :longitude 139.664578,
    :latitude 35.872345,
@@ -1603,12 +1603,12 @@
    :latitude 36.173169,
    :source :openstreetmap,
    :homepage "https://www.parks.or.jp/suizokukan/",
-   :locality "羽生市"}
+   :location "羽生市"}
   {:name "さいたま緑の森博物館",
    :longitude 139.3840705,
    :latitude 35.7863063,
    :source :openstreetmap,
-   :locality "入間市"}
+   :location "入間市"}
   {:name "さかきばら郷土史料館",
    :longitude 130.3620866,
    :latitude 32.7927396,
@@ -1617,7 +1617,7 @@
    :longitude 139.4509439,
    :latitude 36.7553163,
    :source :openstreetmap,
-   :locality "日光市"}
+   :location "日光市"}
   {:name "さがみはらリニアブース",
    :longitude 139.3320735,
    :latitude 35.5914421,
@@ -1714,7 +1714,7 @@
    :latitude 35.6963305,
    :source :openstreetmap,
    :homepage "https://hokusai-museum.jp/",
-   :locality "墨田区"}
+   :location "墨田区"}
   {:name "すみだ郷土文化資料館",
    :longitude 139.8059214,
    :latitude 35.7139394,
@@ -1777,7 +1777,7 @@
    :latitude 35.9519818,
    :source :openstreetmap,
    :homepage "https://www.city.gujo.gifu.jp/admin/detail/8889.html",
-   :locality "郡上市"}
+   :location "郡上市"}
   {:name "たけはら美術館",
    :longitude 132.905322,
    :latitude 34.3412617,
@@ -1808,7 +1808,7 @@
    :latitude 35.7057662,
    :source :openstreetmap,
    :homepage "https://www.jti.co.jp/Culture/museum/index.html",
-   :locality "墨田区"}
+   :location "墨田区"}
   {:name "たましん歴史・美術館",
    :longitude 139.44621,
    :latitude 35.698033,
@@ -1818,7 +1818,7 @@
    :longitude 139.4121811,
    :latitude 35.7022301,
    :source :openstreetmap,
-   :locality "立川市"}
+   :location "立川市"}
   {:name "だいきち美術七宝焼参考館",
    :longitude 136.798332,
    :latitude 35.179268,
@@ -1840,7 +1840,7 @@
    :longitude 139.605084,
    :latitude 35.728478,
    :source :openstreetmap,
-   :locality "練馬区"}
+   :location "練馬区"}
   {:name "ちゃちゃワールド",
    :longitude 143.528821,
    :latitude 43.9278392,
@@ -1865,7 +1865,7 @@
    :longitude 141.3964401,
    :latitude 43.0377943,
    :source :openstreetmap,
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "つきほし歴史館",
    :longitude 130.5048585,
    :latitude 33.3137243,
@@ -1900,7 +1900,7 @@
    :latitude 34.6850199,
    :source :openstreetmap,
    :homepage "https://toumon-s.jp/",
-   :locality "掛川市"}
+   :location "掛川市"}
   {:name "ところミュージアム大三島",
    :longitude 132.9519808,
    :latitude 34.2151026,
@@ -1919,7 +1919,7 @@
    :latitude 35.5345857,
    :source :openstreetmap,
    :homepage "http://www.pref.tottori.lg.jp/kanikkokan/",
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "となみ散居村ミュージアム",
    :longitude 136.9640119,
    :latitude 36.6258991,
@@ -1941,7 +1941,7 @@
    :latitude 43.0685684,
    :source :openstreetmap,
    :homepage "https://www.naebono.com/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "なかがわ水遊園",
    :longitude 140.1290038,
    :latitude 36.790729,
@@ -1960,7 +1960,7 @@
    :latitude 35.1009698,
    :source :openstreetmap,
    :homepage "https://www.town.nagi.okayama.jp/bikaria/",
-   :locality "奈義町"}
+   :location "奈義町"}
   {:name "なまはげ館",
    :longitude 139.7665832,
    :latitude 39.9292299,
@@ -2003,7 +2003,7 @@
    :latitude 34.8975715,
    :source :openstreetmap,
    :homepage "https://nekohaku.pandora.nu/",
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "ねごろ歴史資料館",
    :longitude 135.3113672,
    :latitude 34.2869786,
@@ -2021,7 +2021,7 @@
    :longitude 137.9975215,
    :latitude 34.8286096,
    :source :openstreetmap,
-   :locality "静岡県掛川市"}
+   :location "静岡県掛川市"}
   {:name "ねむの木子ども美術館",
    :longitude 138.124943,
    :latitude 34.635653,
@@ -2048,20 +2048,20 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.koganei.lg.jp/kankobunka/453/hakenomori/index.html",
-   :locality "小金井市"}
+   :location "小金井市"}
   {:name "はこだてみらい館",
    :longitude 140.7286244,
    :latitude 41.7729057,
    :source :openstreetmap,
    :homepage "https://hakodate-miraiproject.jp/miraikan/",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "はだの歴史博物館",
    :longitude 139.1890593,
    :latitude 35.3865047,
    :source :openstreetmap,
    :homepage
    "https://www.city.hadano.kanagawa.jp/soshiki/4/1019/8/1/2681.html",
-   :locality "秦野市"}
+   :location "秦野市"}
   {:name "はにわ館",
    :longitude 131.4147588,
    :latitude 31.9487593,
@@ -2163,7 +2163,7 @@
    :latitude 34.8144016,
    :source :openstreetmap,
    :homepage "https://tea-museum.jp/",
-   :locality "島田市"}
+   :location "島田市"}
   {:name "ふじみ野市立上福岡歴史民俗資料館",
    :longitude 139.528261,
    :latitude 35.875723,
@@ -2216,7 +2216,7 @@
    :latitude 42.8652899,
    :source :openstreetmap,
    :homepage "https://www.tokachi-a-muse.jp/center/furusato-center/",
-   :locality "芽室町"}
+   :location "芽室町"}
   {:name "ふるさと知っとこ館",
    :longitude 135.3700603,
    :latitude 34.4418534,
@@ -2258,7 +2258,7 @@
    :longitude 141.7433621,
    :latitude 43.1164267,
    :source :openstreetmap,
-   :locality "岩見沢市"}
+   :location "岩見沢市"}
   {:name "ぷらっと博物館",
    :longitude 139.4809536,
    :latitude 35.6712297,
@@ -2283,7 +2283,7 @@
    :longitude 141.6149227,
    :latitude 42.6303854,
    :source :openstreetmap,
-   :locality "苫小牧市"}
+   :location "苫小牧市"}
   {:name "ほろわの里資料館",
    :longitude 140.3610149,
    :latitude 39.3806783,
@@ -2301,7 +2301,7 @@
    :latitude 43.7721085,
    :source :openstreetmap,
    :homepage "https://www.bunkagoya.jp/",
-   :locality "旭川市"}
+   :location "旭川市"}
   {:name "まちなみギャラリー石景庵",
    :longitude 135.9325629,
    :latitude 34.4809443,
@@ -2323,12 +2323,12 @@
    :latitude 36.2301913,
    :source :openstreetmap,
    :homepage "https://www.mpac.jp/",
-   :locality "松本市深志"}
+   :location "松本市深志"}
   {:name "まなび舎 遊山房",
    :longitude 139.5717673,
    :latitude 35.562489,
    :source :openstreetmap,
-   :locality "横浜市"}
+   :location "横浜市"}
   {:name "まなべの館",
    :longitude 136.184354,
    :latitude 35.9533901,
@@ -2431,7 +2431,7 @@
    :latitude 35.6327748,
    :source :openstreetmap,
    :homepage "https://komae-kosodate.net/map/list/muikaraminnkaen/",
-   :locality "狛江市"}
+   :location "狛江市"}
   {:name "むかしがたり館 (羽後町民話伝承館)",
    :longitude 140.4475466,
    :latitude 39.1904668,
@@ -2458,7 +2458,7 @@
    :source :openstreetmap,
    :homepage
    "https://holdings.panasonic/jp/corporate/about/history/panasonic-museum.html",
-   :locality "門真市大字門真"}
+   :location "門真市大字門真"}
   {:name "もも庵",
    :longitude 130.4221621,
    :latitude 33.6154919,
@@ -2491,7 +2491,7 @@
    :longitude 138.629569,
    :latitude 35.641688,
    :source :openstreetmap,
-   :locality "笛吹市"}
+   :location "笛吹市"}
   {:name "やまねミュージアム",
    :longitude 138.422781,
    :latitude 35.9270109,
@@ -2513,7 +2513,7 @@
    :latitude 43.5214569,
    :source :openstreetmap,
    :homepage "http://yumetsumugi.ec-site.net/",
-   :locality "歌志内市"}
+   :location "歌志内市"}
   {:name "ゆめりあ鉄道ギャラリー",
    :longitude 140.3054531,
    :latitude 38.7631359,
@@ -2542,7 +2542,7 @@
    :longitude 140.1447475,
    :latitude 38.0021929,
    :source :openstreetmap,
-   :locality "高畠町"}
+   :location "高畠町"}
   {:name "らんぷの館",
    :longitude 140.0906324,
    :latitude 37.6537304,
@@ -2552,7 +2552,7 @@
    :latitude 43.4565424,
    :source :openstreetmap,
    :homepage "https://www.rikubetsu.jp/tenmon/",
-   :locality "陸別町"}
+   :location "陸別町"}
   {:name "りゅうがく館",
    :longitude 129.5898257,
    :latitude 28.4120052,
@@ -2637,7 +2637,7 @@
    :longitude 130.8151182,
    :latitude 33.5884149,
    :source :openstreetmap,
-   :locality "田川郡川崎町"}
+   :location "田川郡川崎町"}
   {:name "アトリエKUTA",
    :longitude 130.484108,
    :latitude 33.7639768,
@@ -2692,7 +2692,7 @@
    :longitude 139.8150959,
    :latitude 38.7216984,
    :source :openstreetmap,
-   :locality "鶴岡市"}
+   :location "鶴岡市"}
   {:name "アミカホール",
    :longitude 137.9279497,
    :latitude 35.6779013,
@@ -2726,7 +2726,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.yanmar.com/jp/about/hanasaka/#hanasaka-stand",
-   :locality "中央区"}
+   :location "中央区"}
   {:name "アート☆アイガ",
    :longitude 139.7772049,
    :latitude 35.6762843,
@@ -2746,7 +2746,7 @@
    :latitude 34.6990843,
    :source :openstreetmap,
    :homepage "https://www.artcourtgallery.com/",
-   :locality "大阪市"}
+   :location "大阪市"}
   {:name "アートスペース 晃",
    :longitude 140.1336992,
    :latitude 39.7139498,
@@ -2780,7 +2780,7 @@
    :longitude 131.6095634,
    :latitude 33.2405038,
    :source :openstreetmap,
-   :locality "大分市"}
+   :location "大分市"}
   {:name "アートベース石引",
    :longitude 136.67271,
    :latitude 36.5533034,
@@ -2790,7 +2790,7 @@
    :latitude 33.2748721,
    :source :openstreetmap,
    :homepage "https://art-lab-beppu.com/",
-   :locality "別府市"}
+   :location "別府市"}
   {:name "アート・フロント・ギャラリー",
    :longitude 139.701462,
    :latitude 35.64737,
@@ -2839,7 +2839,7 @@
    :latitude 34.880662,
    :source :openstreetmap,
    :homepage "https://www.utoro.jp/",
-   :locality "宇治市"}
+   :location "宇治市"}
   {:name "ウポポイ（民族共生象徴空間）慰霊施設",
    :longitude 141.3709179,
    :latitude 42.5652354,
@@ -2902,7 +2902,7 @@
    :latitude 35.708056,
    :source :openstreetmap,
    :homepage "https://www.ace.jp/museum/",
-   :locality "台東区"}
+   :location "台東区"}
   {:name "オソブランコ",
    :longitude 135.4944163,
    :latitude 34.6688181,
@@ -2920,7 +2920,7 @@
    :latitude 44.9392479,
    :source :openstreetmap,
    :homepage "https://www.esashi.jp/tourism/page.html?id=87",
-   :locality "枝幸町"}
+   :location "枝幸町"}
   {:name "オホーツク文学館",
    :longitude 143.5347006,
    :latitude 43.9232281,
@@ -2930,7 +2930,7 @@
    :latitude 44.0006079,
    :source :openstreetmap,
    :homepage "https://www.ryuhyokan.com/",
-   :locality "網走市"}
+   :location "網走市"}
   {:name "オランダ風車のタイルアート",
    :longitude 141.1874046,
    :latitude 38.679582,
@@ -2986,7 +2986,7 @@
    :longitude 138.0891285,
    :latitude 34.9431112,
    :source :openstreetmap,
-   :locality "静岡県島田市川根町身成3395-3"}
+   :location "静岡県島田市川根町身成3395-3"}
   {:name "カメイ美術館",
    :longitude 140.8813435,
    :latitude 38.2548262,
@@ -3001,7 +3001,7 @@
    :latitude 41.7636686,
    :source :openstreetmap,
    :homepage "https://www.raymon.co.jp/brand/history/",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "ガスエネルギー館",
    :longitude 136.897283,
    :latitude 35.06222,
@@ -3102,7 +3102,7 @@
    :longitude 135.837437,
    :latitude 34.5998121,
    :source :openstreetmap,
-   :locality "天理市"}
+   :location "天理市"}
   {:name "ギャラリーたんとん",
    :longitude 135.7441957,
    :latitude 34.9926096,
@@ -3136,7 +3136,7 @@
    :latitude 35.7050409,
    :source :openstreetmap,
    :homepage "https://www.gallery-stella.com/",
-   :locality "杉並区"}
+   :location "杉並区"}
   {:name "ギャラリーピッコロ",
    :longitude 139.7694276,
    :latitude 35.7046461,
@@ -3193,7 +3193,7 @@
    :latitude 43.0612529,
    :source :openstreetmap,
    :homepage "http://www.odori-b.co.jp/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "ギャラリー富春館",
    :longitude 131.6575771,
    :latitude 33.1533979,
@@ -3202,7 +3202,7 @@
    :longitude 131.5064676,
    :latitude 33.272793,
    :source :openstreetmap,
-   :locality "別府市"}
+   :location "別府市"}
   {:name "ギャラリー市の里1号館",
    :longitude 136.9220839,
    :latitude 36.5907362,
@@ -3314,7 +3314,7 @@
    :longitude 132.7560565,
    :latitude 35.3653216,
    :source :openstreetmap,
-   :locality "出雲市今市町678"}
+   :location "出雲市今市町678"}
   {:name "ギャラリー＆サロン美沙和",
    :longitude 139.6731406,
    :latitude 35.8478148,
@@ -3372,7 +3372,7 @@
    :latitude 34.6973186,
    :source :openstreetmap,
    :homepage "http://koyafron.co.jp/museum/index.html",
-   :locality "大阪市"}
+   :location "大阪市"}
   {:name "コンペイトウミュージアム",
    :longitude 135.5841053,
    :latitude 34.5949649,
@@ -3382,7 +3382,7 @@
    :latitude 35.6709288,
    :source :openstreetmap,
    :homepage "https://www.coastermuseum.com/",
-   :locality "市川市"}
+   :location "市川市"}
   {:name "サイエンスヒルズこまつ",
    :longitude 136.4558115,
    :latitude 36.4013769,
@@ -3403,7 +3403,7 @@
    :latitude 43.0715007,
    :source :openstreetmap,
    :homepage "https://www.sapporobeer.jp/brewery/s_museum/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "サトエ記念２１世紀美術館",
    :longitude 139.640496,
    :latitude 36.100139,
@@ -3434,7 +3434,7 @@
    :latitude 38.4095266,
    :source :openstreetmap,
    :homepage "https://www.santjuan.or.jp/",
-   :locality "石巻市"}
+   :location "石巻市"}
   {:name "サーキットの狼ミュージアム",
    :longitude 140.6266573,
    :latitude 35.8747355,
@@ -3465,18 +3465,18 @@
    :source :openstreetmap,
    :homepage
    "https://hokkaido-hidaka-kankonavi.com/facility/%E4%BA%8C%E5%8D%81%E9%96%93%E9%81%93%E8%B7%AF%E3%81%95%E3%82%8F%E3%82%84%E3%81%8B%E3%83%88%E3%82%A4%E3%83%AC-2/",
-   :locality "新ひだか町"}
+   :location "新ひだか町"}
   {:name "シャトレーゼローマンガラス美術館",
    :longitude 138.490402,
    :latitude 35.687611,
    :source :openstreetmap,
-   :locality "甲斐市"}
+   :location "甲斐市"}
   {:name "シャレコーベ・ミュージアム",
    :longitude 135.3986746,
    :latitude 34.7262275,
    :source :openstreetmap,
    :homepage "http://skull-museum.jp/",
-   :locality "尼崎市浜田町5-49"}
+   :location "尼崎市浜田町5-49"}
   {:name "シャークミュージアム",
    :longitude 141.5792178,
    :latitude 38.9000998,
@@ -3522,7 +3522,7 @@
    :latitude 34.6906877,
    :source :openstreetmap,
    :homepage "https://www.suzuki-rekishikan.jp",
-   :locality "浜松市"}
+   :location "浜松市"}
   {:name "スズ・シアター・ミュージアム",
    :longitude 137.1707253,
    :latitude 37.5011433,
@@ -3533,7 +3533,7 @@
    :latitude 35.3021767,
    :source :openstreetmap,
    :homepage "https://studiooak-zushi.com/",
-   :locality "逗子市"}
+   :location "逗子市"}
   {:name "スタジオ一条",
    :longitude 135.8262641,
    :latitude 34.6916362,
@@ -3581,7 +3581,7 @@
    :longitude 140.5589951,
    :latitude 40.2714219,
    :source :openstreetmap,
-   :locality "大館市"}
+   :location "大館市"}
   {:name "ゼンリンミュージアム",
    :longitude 130.8759848,
    :latitude 33.8858955,
@@ -3604,7 +3604,7 @@
    :latitude 34.969098,
    :source :openstreetmap,
    :homepage "https://www.tamiya.com/japan/company/visit/museum.html",
-   :locality "静岡市"}
+   :location "静岡市"}
   {:name "タラプランニング",
    :longitude 139.6525095,
    :latitude 35.5769161,
@@ -3667,13 +3667,13 @@
    :latitude 35.1728447,
    :source :openstreetmap,
    :homepage "https://toyota-automobile-museum.jp/",
-   :locality "長久手市"}
+   :location "長久手市"}
   {:name "トヨタ産業技術記念館",
    :longitude 136.8764843,
    :latitude 35.1825679,
    :source :openstreetmap,
    :homepage "https://www.tcmit.org/",
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "トヨタ鞍ケ池記念館",
    :longitude 137.215176,
    :latitude 35.099991,
@@ -3742,7 +3742,7 @@
    :latitude 33.9583534,
    :source :openstreetmap,
    :homepage "http://www4.tcn.ne.jp/~fureainosato/",
-   :locality "佐那河内村"}
+   :location "佐那河内村"}
   {:name "ネイチャービュー矢木沢",
    :longitude 139.0542393,
    :latitude 36.9115905,
@@ -3751,7 +3751,7 @@
    :longitude 136.9119374,
    :latitude 35.1947195,
    :source :openstreetmap,
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "ネパール博物館",
    :longitude 139.9542774,
    :latitude 37.4840863,
@@ -3778,7 +3778,7 @@
    :latitude 34.3680402,
    :source :openstreetmap,
    :homepage "https://hawaiiniho.com/",
-   :locality "広島市"}
+   :location "広島市"}
   {:name "ハワイ風土記館",
    :longitude 133.8812123,
    :latitude 35.5028749,
@@ -3796,7 +3796,7 @@
    :latitude 36.4654291,
    :source :openstreetmap,
    :homepage "https://www.bandai-museum.jp/",
-   :locality "下都賀郡壬生町"}
+   :location "下都賀郡壬生町"}
   {:name "バーチャルミュージアム",
    :longitude 127.8447936,
    :latitude 26.4984409,
@@ -3811,7 +3811,7 @@
    :latitude 35.012766,
    :source :openstreetmap,
    :homepage "https://www.paramitamuseum.com/top.html",
-   :locality "菰野町"}
+   :location "菰野町"}
   {:name "パラリンミュージアム",
    :longitude 141.3364513,
    :latitude 42.9335258,
@@ -3857,7 +3857,7 @@
    :longitude 143.8869281,
    :latitude 43.8064965,
    :source :openstreetmap,
-   :locality "北見市"}
+   :location "北見市"}
   {:name "ピリカ旧石器文化館",
    :longitude 140.2018506,
    :latitude 42.4771771,
@@ -3870,12 +3870,12 @@
    :longitude 139.7589167,
    :latitude 35.7297745,
    :source :openstreetmap,
-   :locality "文京区"}
+   :location "文京区"}
   {:name "フィリア美術館",
    :longitude 138.330682,
    :latitude 35.868991,
    :source :openstreetmap,
-   :locality "北杜市"}
+   :location "北杜市"}
   {:name "フィールド",
    :longitude 139.3517903,
    :latitude 35.5394587,
@@ -3932,7 +3932,7 @@
    :latitude 34.7155393,
    :source :openstreetmap,
    :homepage "https://linktr.ee/bloom_gallery",
-   :locality "大阪市"}
+   :location "大阪市"}
   {:name "ブレーキ博物館",
    :longitude 139.809419,
    :latitude 35.694138,
@@ -3998,7 +3998,7 @@
    :longitude 131.6059581,
    :latitude 33.2305705,
    :source :openstreetmap,
-   :locality "大分市"}
+   :location "大分市"}
   {:name "ホンダコレクションホール",
    :longitude 140.2265221,
    :latitude 36.5268393,
@@ -4063,7 +4063,7 @@
    :longitude 132.753643,
    :latitude 33.898554,
    :source :openstreetmap,
-   :locality "松山市"}
+   :location "松山市"}
   {:name "ミツトヨ博物館",
    :longitude 139.6204986,
    :latitude 35.5965268,
@@ -4144,7 +4144,7 @@
    :latitude 44.0247491,
    :source :openstreetmap,
    :homepage "http://moyoro.jp/",
-   :locality "網走市"}
+   :location "網走市"}
   {:name "モラエス館",
    :longitude 134.5377515,
    :latitude 34.067114,
@@ -4154,7 +4154,7 @@
    :latitude 35.0951735,
    :source :openstreetmap,
    :homepage "http://www.monmusee.sakura.ne.jp/",
-   :locality "沼津市"}
+   :location "沼津市"}
   {:name "ヤオコー川越美術館",
    :longitude 139.4890445,
    :latitude 35.9285048,
@@ -4199,13 +4199,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.amagasaki.hyogo.jp/bunkazai/siseki/unitika/unitika.html",
-   :locality "尼崎市東本町1-50"}
+   :location "尼崎市東本町1-50"}
   {:name "ユンタンザ博物館",
    :longitude 127.7422326,
    :latitude 26.4067606,
    :source :openstreetmap,
    :homepage "http://www.yuntanza-museum.jp/",
-   :locality "読谷村"}
+   :location "読谷村"}
   {:name "ヨコタ博物館",
    :longitude 137.40824,
    :latitude 34.9533763,
@@ -4219,7 +4219,7 @@
    :latitude 38.8810431,
    :source :openstreetmap,
    :homepage "http://rias-ark.sakura.ne.jp/",
-   :locality "気仙沼市"}
+   :location "気仙沼市"}
   {:name "リスト・ハンガリー文化センター東京",
    :longitude 139.7344069,
    :latitude 35.6536233,
@@ -4260,7 +4260,7 @@
    :longitude 142.31503,
    :latitude 42.360544,
    :source :openstreetmap,
-   :locality "新冠町"}
+   :location "新冠町"}
   {:name "レーモンドホール",
    :longitude 136.5246199,
    :latitude 34.7396617,
@@ -4274,7 +4274,7 @@
    :latitude 35.4529335,
    :source :openstreetmap,
    :homepage "https://www.odakyu.jp/romancecarmuseum/",
-   :locality "海老名市"}
+   :location "海老名市"}
   {:name "ロンド クレサント",
    :longitude 135.7893124,
    :latitude 35.0357385,
@@ -4288,7 +4288,7 @@
    :latitude 35.6706976,
    :source :openstreetmap,
    :homepage "http://www.watarium.co.jp/",
-   :locality "渋谷区"}
+   :location "渋谷区"}
   {:name "ワークショップKeittoOppi",
    :longitude 135.6432132,
    :latitude 34.7299004,
@@ -4370,7 +4370,7 @@
    :longitude 140.4672943,
    :latitude 37.9829754,
    :source :openstreetmap,
-   :locality "七ヶ宿町"}
+   :location "七ヶ宿町"}
   {:name "七ヶ浜 歴史資料館",
    :longitude 141.0449321,
    :latitude 38.3025878,
@@ -4507,7 +4507,7 @@
    :longitude 136.9146718,
    :latitude 35.4706202,
    :source :openstreetmap,
-   :locality "関"}
+   :location "関"}
   {:name "三浦綾子記念文学館 (Miura Ayako Literature Museum)",
    :longitude 142.3479747,
    :latitude 43.7536061,
@@ -4600,7 +4600,7 @@
    :latitude 35.6961724,
    :source :openstreetmap,
    :homepage "https://www.ghibli-museum.jp/",
-   :locality "三鷹市"}
+   :location "三鷹市"}
   {:name "上久堅郷土歴史資料館",
    :longitude 137.871935,
    :latitude 35.4594236,
@@ -4633,7 +4633,7 @@
    :longitude 130.4228171,
    :latitude 33.320076,
    :source :openstreetmap,
-   :locality "上峰町"}
+   :location "上峰町"}
   {:name "上島町岩城郷土館(旧島本陣三浦邸)",
    :longitude 133.1491705,
    :latitude 34.2460478,
@@ -4683,7 +4683,7 @@
    :longitude 139.857457,
    :latitude 35.9396589,
    :source :openstreetmap,
-   :locality "野田市"}
+   :location "野田市"}
   {:name "上越市埋蔵文化財センター",
    :longitude 138.2191079,
    :latitude 37.1443913,
@@ -4705,7 +4705,7 @@
    :latitude 35.7128522,
    :source :openstreetmap,
    :homepage "https://www.ueno-mori.org/",
-   :locality "台東区"}
+   :location "台東区"}
   {:name "上野原市民俗資料館",
    :longitude 139.073889,
    :latitude 35.567761,
@@ -4838,12 +4838,12 @@
    :latitude 35.666922,
    :source :openstreetmap,
    :homepage "https://www.setabun.or.jp/",
-   :locality "世田谷区"}
+   :location "世田谷区"}
   {:name "世田谷美術館",
    :longitude 139.6222,
    :latitude 35.631624,
    :source :openstreetmap,
-   :locality "世田谷区"}
+   :location "世田谷区"}
   {:name "世田谷美術館分館 清川泰次記念ギャラリー",
    :longitude 139.6008373,
    :latitude 35.6385768,
@@ -4949,7 +4949,7 @@
    :longitude 138.552832,
    :latitude 35.561434,
    :source :openstreetmap,
-   :locality "中央市"}
+   :location "中央市"}
   {:name "中山修一記念館",
    :longitude 135.6993223,
    :latitude 34.9110206,
@@ -4958,7 +4958,7 @@
    :longitude 138.3705344,
    :latitude 36.7210004,
    :source :openstreetmap,
-   :locality "中野市"}
+   :location "中野市"}
   {:name "中山神社宝物殿",
    :longitude 130.91727,
    :latitude 34.006537,
@@ -5053,7 +5053,7 @@
    :latitude 43.5535023,
    :source :openstreetmap,
    :homepage "https://www.nakashibetsu.jp/kyoudokan_web/",
-   :locality "中標津町"}
+   :location "中標津町"}
   {:name "中池見人と自然のふれあいの里",
    :longitude 136.089031,
    :latitude 35.655255,
@@ -5116,7 +5116,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.nakano.nagano.jp/city/hakubutukan/index.htm",
-   :locality "中野市"}
+   :location "中野市"}
   {:name "中野美術館",
    :longitude 135.755751,
    :latitude 34.694202,
@@ -5138,12 +5138,12 @@
    :longitude 142.2886636,
    :latitude 44.9738064,
    :source :openstreetmap,
-   :locality "中頓別町"}
+   :location "中頓別町"}
   {:name "中頓別鍾乳洞自然ふれあい公園ぬく森館",
    :longitude 142.3314055,
    :latitude 44.9901002,
    :source :openstreetmap,
-   :locality "中頓別町"}
+   :location "中頓別町"}
   {:name "串原郷土館",
    :longitude 137.44852,
    :latitude 35.236987,
@@ -5171,7 +5171,7 @@
    :latitude 34.2855181,
    :source :openstreetmap,
    :homepage "http://www.bansyouen.com/art_museum/",
-   :locality "丸亀市"}
+   :location "丸亀市"}
   {:name "丸子郷土博物館",
    :longitude 138.233344,
    :latitude 36.3127662,
@@ -5282,7 +5282,7 @@
    :longitude 139.714759,
    :latitude 35.634545,
    :source :openstreetmap,
-   :locality "品川区"}
+   :location "品川区"}
   {:name "久能山東照宮博物館",
    :longitude 138.4670081,
    :latitude 34.9635604,
@@ -5292,7 +5292,7 @@
    :longitude 132.780479,
    :latitude 33.833246,
    :source :openstreetmap,
-   :locality "松山市"}
+   :location "松山市"}
   {:name "乗禅寺宝物館",
    :longitude 132.9590525,
    :latitude 34.0718893,
@@ -5320,7 +5320,7 @@
    :latitude 33.622784,
    :source :openstreetmap,
    :homepage "http://www.museum.kyushu-u.ac.jp/",
-   :locality "福岡市"}
+   :location "福岡市"}
   {:name "九州歴史資料館",
    :longitude 130.5580529,
    :latitude 33.4390527,
@@ -5355,7 +5355,7 @@
    :latitude 34.8588973,
    :source :openstreetmap,
    :homepage "https://kameyamarekihaku.jp/",
-   :locality "亀山市"}
+   :location "亀山市"}
   {:name "亀山社中資料館",
    :longitude 129.8876599,
    :latitude 32.7490842,
@@ -5434,7 +5434,7 @@
    :longitude 140.4416908,
    :latitude 40.7952918,
    :source :openstreetmap,
-   :locality "五所川原市"}
+   :location "五所川原市"}
   {:name "五條市民俗資料館",
    :longitude 135.6905864,
    :latitude 34.3502001,
@@ -5533,7 +5533,7 @@
    :latitude 35.0048435,
    :source :openstreetmap,
    :homepage "https://mai-ko.com/samurai/",
-   :locality "京都市"}
+   :location "京都市"}
   {:name "京都大学フィールド科学教育研究センター舞鶴水産実験所水産生物標本館",
    :longitude 135.3678837,
    :latitude 35.4890359,
@@ -5551,7 +5551,7 @@
    :latitude 35.0494546,
    :source :openstreetmap,
    :homepage "https://www.museum.kit.ac.jp/index.html",
-   :locality "京都市"}
+   :location "京都市"}
   {:name "京都市京北文化遺産センター",
    :longitude 135.6617032,
    :latitude 35.180755,
@@ -5614,7 +5614,7 @@
    :latitude 35.0374601,
    :source :openstreetmap,
    :homepage "https://kyoto-geijutsu-kan.com/",
-   :locality "京都市"}
+   :location "京都市"}
   {:name "京都芸術大学附属康耀堂美術館",
    :longitude 138.2356835,
    :latitude 36.0123484,
@@ -5624,7 +5624,7 @@
    :latitude 34.986495,
    :source :openstreetmap,
    :homepage "https://www.kyotorailwaymuseum.jp/",
-   :locality "京都市"}
+   :location "京都市"}
   {:name "人と自然の博物館",
    :longitude 135.1997795,
    :latitude 34.8856854,
@@ -5672,7 +5672,7 @@
    :longitude 135.3426903,
    :latitude 34.7732584,
    :source :openstreetmap,
-   :locality "西宮市"}
+   :location "西宮市"}
   {:name "仁摩サンドミュージアム",
    :longitude 132.404667,
    :latitude 35.146385,
@@ -5682,7 +5682,7 @@
    :latitude 35.5071732,
    :source :openstreetmap,
    :homepage "https://www.tbz.or.jp/jinpuukaku/",
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "今井政之展示館",
    :longitude 132.931009,
    :latitude 34.327588,
@@ -5717,7 +5717,7 @@
    :longitude 127.9273103,
    :latitude 26.6917752,
    :source :openstreetmap,
-   :locality "今帰仁村"}
+   :location "今帰仁村"}
   {:name "今昔館",
    :longitude 140.1392557,
    :latitude 38.0640998,
@@ -5756,7 +5756,7 @@
    :latitude 38.2641806,
    :source :openstreetmap,
    :homepage "https://www.sendai-anpanman.jp/",
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "仙台オルゴールサロン",
    :longitude 140.8861473,
    :latitude 38.2486802,
@@ -5766,13 +5766,13 @@
    :latitude 38.2213605,
    :source :openstreetmap,
    :homepage "https://sendaikaleidoscope.com/",
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "仙台市博物館",
    :longitude 140.8568243,
    :latitude 38.255994,
    :source :openstreetmap,
    :homepage "https://www.city.sendai.jp/museum/",
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "仙台市天文台",
    :longitude 140.755257,
    :latitude 38.256951,
@@ -5786,7 +5786,7 @@
    :latitude 38.2609629,
    :source :openstreetmap,
    :homepage "https://www.sendai-c.ed.jp/~bunkazai/~rekimin/",
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "仙台市水道記念館",
    :longitude 140.6940949,
    :latitude 38.2992954,
@@ -5806,13 +5806,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.town.shiraoi.hokkaido.jp/docs/2013012200410/",
-   :locality "白老町"}
+   :location "白老町"}
   {:name "仙巌園（磯庭園）",
    :longitude 130.5803724,
    :latitude 31.6183873,
    :source :openstreetmap,
    :homepage "https://www.senganen.jp/",
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "仙美里鉄道資料館",
    :longitude 143.5906718,
    :latitude 43.1795071,
@@ -5922,7 +5922,7 @@
    :longitude 140.4971635,
    :latitude 35.8883898,
    :source :openstreetmap,
-   :locality "香取市"}
+   :location "香取市"}
   {:name "伊興遺跡公園展示館",
    :longitude 139.7863726,
    :latitude 35.8044147,
@@ -5952,12 +5952,12 @@
    :latitude 34.9062812,
    :source :openstreetmap,
    :homepage "http://www.ammonite-museum.com/",
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "伊豆オルゴール館",
    :longitude 139.103661,
    :latitude 34.877087,
    :source :openstreetmap,
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "伊豆一碧湖美術館",
    :longitude 139.1084201,
    :latitude 34.9286955,
@@ -5976,13 +5976,13 @@
    :latitude 34.8771838,
    :source :openstreetmap,
    :homepage "https://www.antique-museum.com/",
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "伊豆高原ステンドグラス美術館",
    :longitude 139.1376141,
    :latitude 34.9429678,
    :source :openstreetmap,
    :homepage "https://sgm-izu.com/",
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "伊賀信楽古陶館",
    :longitude 136.1323132,
    :latitude 34.7686789,
@@ -6000,7 +6000,7 @@
    :latitude 38.2562335,
    :source :openstreetmap,
    :homepage "https://datemasamune.com/",
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "伊達市アートビレッジ文化館",
    :longitude 140.8550866,
    :latitude 42.4810953,
@@ -6032,7 +6032,7 @@
    :latitude 36.4635812,
    :source :openstreetmap,
    :homepage "http://www.ikaho-omocha.jp/",
-   :locality "北群馬"}
+   :location "北群馬"}
   {:name "伊香保保科美術館",
    :longitude 138.9222744,
    :latitude 36.5032802,
@@ -6149,7 +6149,7 @@
    :longitude 138.5127004,
    :latitude 36.2783502,
    :source :openstreetmap,
-   :locality "佐久市"}
+   :location "佐久市"}
   {:name "佐久市立望月歴史民俗資料館",
    :longitude 138.3620122,
    :latitude 36.2654071,
@@ -6167,7 +6167,7 @@
    :latitude 35.7208845,
    :source :openstreetmap,
    :homepage "https://www.regasu-shinjuku.or.jp/rekihaku/saeki/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "佐佐木信綱記念館",
    :longitude 136.54755,
    :latitude 34.903404,
@@ -6197,7 +6197,7 @@
    :longitude 133.3021979,
    :latitude 33.4997141,
    :source :openstreetmap,
-   :locality "佐川町"}
+   :location "佐川町"}
   {:name "佐川町立青山文庫",
    :longitude 133.2887416,
    :latitude 33.4977846,
@@ -6206,13 +6206,13 @@
    :longitude 135.946062,
    :latitude 35.1090252,
    :source :openstreetmap,
-   :locality "守山市"}
+   :location "守山市"}
   {:name "佐治天文台",
    :longitude 134.1196495,
    :latitude 35.3419611,
    :source :openstreetmap,
    :homepage "https://www.city.tottori.lg.jp/site/saji-tenmon/",
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "佐渡博物館",
    :longitude 138.3450343,
    :latitude 37.9858951,
@@ -6252,13 +6252,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.meijijingugaien.jp/art-culture/seitoku-gallery/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "佐賀バルーンミュージアム",
    :longitude 130.3003905,
    :latitude 33.2524694,
    :source :openstreetmap,
    :homepage "http://www.sagabai.com/balloon-museum/main/",
-   :locality "佐賀市"}
+   :location "佐賀市"}
   {:name "佐賀大学美術館",
    :longitude 130.2922224,
    :latitude 33.2444094,
@@ -6275,7 +6275,7 @@
    :longitude 130.30055,
    :latitude 33.2449878,
    :source :openstreetmap,
-   :locality "佐賀市"}
+   :location "佐賀市"}
   {:name "佐賀県立名護屋城博物館",
    :longitude 129.8702292,
    :latitude 33.5276739,
@@ -6304,12 +6304,12 @@
    :latitude 35.1149319,
    :source :openstreetmap,
    :homepage "https://www.sanobi.or.jp/",
-   :locality "三島市"}
+   :location "三島市"}
   {:name "体感！しだみ古墳群ミュージアム",
    :longitude 137.0387002,
    :latitude 35.2516985,
    :source :openstreetmap,
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "体験工房",
    :longitude 132.6883374,
    :latitude 35.3996056,
@@ -6383,17 +6383,17 @@
    :longitude 133.82538,
    :latitude 35.428926,
    :source :openstreetmap,
-   :locality "倉吉市"}
+   :location "倉吉市"}
   {:name "倉吉線鉄道記念館",
    :longitude 133.8248234,
    :latitude 35.4342252,
    :source :openstreetmap,
-   :locality "鳥取県倉吉市明治町1012-7"}
+   :location "鳥取県倉吉市明治町1012-7"}
   {:name "倉岳歴史民俗資料館",
    :longitude 130.343662,
    :latitude 32.4102088,
    :source :openstreetmap,
-   :locality "天草市"}
+   :location "天草市"}
   {:name "倉敷埋蔵文化財センター",
    :longitude 133.7692211,
    :latitude 34.536722,
@@ -6435,7 +6435,7 @@
    :latitude 34.746938,
    :source :openstreetmap,
    :homepage "https://www.okayama-kanko.jp/spot/detail_11097.html",
-   :locality "備前市"}
+   :location "備前市"}
   {:name "備前焼ギャラリー若宮",
    :longitude 134.1341816,
    :latitude 34.6519992,
@@ -6446,7 +6446,7 @@
    :latitude 34.7390268,
    :source :openstreetmap,
    :homepage "https://bizen-moa.jp/",
-   :locality "備前市"}
+   :location "備前市"}
   {:name "備前長船刀剣博物館",
    :longitude 134.106905,
    :latitude 34.721634,
@@ -6469,7 +6469,7 @@
    :longitude 139.7799112,
    :latitude 35.7306013,
    :source :openstreetmap,
-   :locality "荒川区"}
+   :location "荒川区"}
   {:name "元禄まつど村",
    :longitude 139.9332193,
    :latitude 35.8008263,
@@ -6482,7 +6482,7 @@
    :longitude 141.5227904,
    :latitude 43.8553203,
    :source :openstreetmap,
-   :locality "増毛町"}
+   :location "増毛町"}
   {:name "先人記念館",
    :longitude 141.3640122,
    :latitude 40.785631,
@@ -6491,7 +6491,7 @@
    :longitude 139.63241,
    :latitude 35.759551,
    :source :openstreetmap,
-   :locality "練馬区"}
+   :location "練馬区"}
   {:name "光と緑の美術館",
    :longitude 139.363657,
    :latitude 35.564287,
@@ -6551,7 +6551,7 @@
    :latitude 35.9723159,
    :source :openstreetmap,
    :homepage "http://www.yatsugatake-ncp.com",
-   :locality "原村"}
+   :location "原村"}
   {:name "八丁味噌の郷・史料館",
    :longitude 137.15268,
    :latitude 34.958254,
@@ -6599,7 +6599,7 @@
    :latitude 35.333794,
    :source :openstreetmap,
    :homepage "https://hiratsuka-yokan1906.jp/",
-   :locality "平塚市"}
+   :location "平塚市"}
   {:name "八幡市立松花堂庭園・美術館",
    :longitude 135.7048389,
    :latitude 34.8630104,
@@ -6630,7 +6630,7 @@
    :latitude 40.5073872,
    :source :openstreetmap,
    :homepage "https://www.kagakukan-8.com/",
-   :locality "八戸市"}
+   :location "八戸市"}
   {:name "八戸市博物館",
    :longitude 141.4644569,
    :latitude 40.5085315,
@@ -6683,7 +6683,7 @@
    :longitude 139.3307311,
    :latitude 35.6603637,
    :source :openstreetmap,
-   :locality "八王子市"}
+   :location "八王子市"}
   {:name "八甲田山雪中行軍遭難資料館",
    :longitude 140.789709,
    :latitude 40.7847523,
@@ -6693,7 +6693,7 @@
    :latitude 35.6569022,
    :source :openstreetmap,
    :homepage "https://www.city.yachimata.lg.jp/soshiki/39/",
-   :locality "八街市"}
+   :location "八街市"}
   {:name "八郎まつり伝承館",
    :longitude 140.0347277,
    :latitude 39.8688005,
@@ -6740,7 +6740,7 @@
    :latitude 35.6595759,
    :source :openstreetmap,
    :homepage "https://roppongimuseum.jp/",
-   :locality "港区"}
+   :location "港区"}
   {:name "六町ミュージアム・フローラ",
    :longitude 139.8200753,
    :latitude 35.7832234,
@@ -6778,13 +6778,13 @@
    :latitude 35.0253917,
    :source :openstreetmap,
    :homepage "http://www.nhao.jp/",
-   :locality "佐用町"}
+   :location "佐用町"}
   {:name "兵庫県立木の殿堂",
    :longitude 134.5796431,
    :latitude 35.4284714,
    :source :openstreetmap,
    :homepage "https://www.kinodendo.jp/",
-   :locality "香美町"}
+   :location "香美町"}
   {:name "兵庫県立歴史博物館",
    :longitude 134.696872,
    :latitude 34.841115,
@@ -6794,7 +6794,7 @@
    :longitude 135.009635,
    :latitude 34.5626401,
    :source :openstreetmap,
-   :locality "淡路市"}
+   :location "淡路市"}
   {:name "兵庫県立考古博物館加西分館 古代鏡展示館",
    :longitude 134.8582922,
    :latitude 34.9072643,
@@ -6804,7 +6804,7 @@
    :latitude 24.3497907,
    :source :openstreetmap,
    :homepage "https://yaeyama.or.jp/具志堅用高記念館/",
-   :locality "石垣市"}
+   :location "石垣市"}
   {:name "具志頭歴史民俗資料館",
    :longitude 127.7435298,
    :latitude 26.1224789,
@@ -6856,7 +6856,7 @@
    :latitude 35.429292,
    :source :openstreetmap,
    :homepage "https://enkei-museum.com/",
-   :locality "倉吉市"}
+   :location "倉吉市"}
   {:name "再興湖東焼 一志郎窯",
    :longitude 136.2473258,
    :latitude 35.2684211,
@@ -6870,7 +6870,7 @@
    :latitude 35.6844275,
    :source :openstreetmap,
    :homepage "https://www.taimeiken.co.jp/tako/index_t.htm",
-   :locality "中央区"}
+   :location "中央区"}
   {:name "出光佐三記念美術館・出光美術館（門司）",
    :longitude 130.965276,
    :latitude 33.94891,
@@ -6937,7 +6937,7 @@
    :latitude 41.7672054,
    :source :openstreetmap,
    :homepage "http://www.zaidan-hakodate.com/hoppominzoku/#sisetu",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "函館市縄文文化交流センター",
    :longitude 140.9447826,
    :latitude 41.9279217,
@@ -6947,7 +6947,7 @@
    :latitude 41.7729563,
    :source :openstreetmap,
    :homepage "https://mashumaru.com/",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "刀剣伝承館・天田昭次記念館",
    :longitude 139.3079221,
    :latitude 37.8832411,
@@ -6956,7 +6956,7 @@
    :longitude 139.6906746,
    :latitude 35.6814885,
    :source :openstreetmap,
-   :locality "渋谷区"}
+   :location "渋谷区"}
   {:name "分散ギャラリー養蚕農家",
    :longitude 134.6511626,
    :latitude 35.3302889,
@@ -6966,7 +6966,7 @@
    :latitude 35.7182677,
    :source :openstreetmap,
    :homepage "https://kitte-museum.jp",
-   :locality "豊島区"}
+   :location "豊島区"}
   {:name "切手文化博物館",
    :longitude 135.2511122,
    :latitude 34.7987857,
@@ -7045,7 +7045,7 @@
    :longitude 139.9021506,
    :latitude 35.9159711,
    :source :openstreetmap,
-   :locality "流山市"}
+   :location "流山市"}
   {:name "前川定五郎資料室",
    :longitude 136.5487736,
    :latitude 34.881019,
@@ -7101,7 +7101,7 @@
    :latitude 34.7827346,
    :source :openstreetmap,
    :homepage "http://www.kayama-yuzo-museum.com/",
-   :locality "西伊豆町"}
+   :location "西伊豆町"}
   {:name "加治木町郷土館",
    :longitude 130.6641972,
    :latitude 31.7410364,
@@ -7114,12 +7114,12 @@
    :longitude 133.812582,
    :latitude 34.8605577,
    :source :openstreetmap,
-   :locality "吉備中央町"}
+   :location "吉備中央町"}
   {:name "加茂市民俗資料館",
    :longitude 139.0545105,
    :latitude 37.6575581,
    :source :openstreetmap,
-   :locality "加茂市"}
+   :location "加茂市"}
   {:name "加藤学園考古学研究所",
    :longitude 138.868915,
    :latitude 35.1173382,
@@ -7132,7 +7132,7 @@
    :longitude 139.7067056,
    :latitude 35.7415933,
    :source :openstreetmap,
-   :locality "板橋区"}
+   :location "板橋区"}
   {:name "加計呂麻島展示・体験交流館",
    :longitude 129.3255669,
    :latitude 28.0935515,
@@ -7192,7 +7192,7 @@
    :longitude 134.1162448,
    :latitude 35.0421825,
    :source :openstreetmap,
-   :locality "勝央町"}
+   :location "勝央町"}
   {:name "勝山城博物館",
    :longitude 136.52068,
    :latitude 36.042756,
@@ -7218,13 +7218,13 @@
    :longitude 139.3777972,
    :latitude 36.0172976,
    :source :openstreetmap,
-   :locality "東松山市"}
+   :location "東松山市"}
   {:name "北のアルプ美術館",
    :longitude 144.6763745,
    :latitude 43.9092338,
    :source :openstreetmap,
    :homepage "http://www.alp-museum.org/",
-   :locality "斜里町"}
+   :location "斜里町"}
   {:name "北の桜守パーク（稚内市映画北の桜守資料展示施設）",
    :longitude 141.8035305,
    :latitude 45.3930416,
@@ -7245,13 +7245,13 @@
    :longitude 140.9793326,
    :latitude 39.3066232,
    :source :openstreetmap,
-   :locality "北上市"}
+   :location "北上市"}
   {:name "北九州市漫画ミュージアム",
    :longitude 130.884731,
    :latitude 33.8875431,
    :source :openstreetmap,
    :homepage "https://www.ktqmm.jp/",
-   :locality "北九州市"}
+   :location "北九州市"}
   {:name "北九州市立 こども文化会館",
    :longitude 130.8568451,
    :latitude 33.8786088,
@@ -7286,7 +7286,7 @@
    :latitude 35.7495548,
    :source :openstreetmap,
    :homepage "https://www.city.kita.tokyo.jp/hakubutsukan/",
-   :locality "北区"}
+   :location "北区"}
   {:name "北原ミュージアム",
    :longitude 138.7622634,
    :latitude 35.5085623,
@@ -7303,12 +7303,12 @@
    :source :openstreetmap,
    :homepage
    "https://vill.kitadaito.okinawa.jp/mokuteki/shisetsu/jinzai_kouryu.html",
-   :locality "北大東村"}
+   :location "北大東村"}
   {:name "北広島東記念館",
    :longitude 141.5730297,
    :latitude 42.9874706,
    :source :openstreetmap,
-   :locality "北広島市"}
+   :location "北広島市"}
   {:name "北広島町図書館大朝郷土資料室",
    :longitude 132.491859,
    :latitude 34.764308,
@@ -7330,7 +7330,7 @@
    :longitude 145.1320592,
    :latitude 43.6627903,
    :source :openstreetmap,
-   :locality "標津町"}
+   :location "標津町"}
   {:name "北本市　地域資料室",
    :longitude 139.5286744,
    :latitude 36.0288978,
@@ -7367,13 +7367,13 @@
    :longitude 133.8214536,
    :latitude 35.4795111,
    :source :openstreetmap,
-   :locality "北栄町"}
+   :location "北栄町"}
   {:name "北洋資料館",
    :longitude 140.7560256,
    :latitude 41.7937194,
    :source :openstreetmap,
    :homepage "http://www.zaidan-hakodate.com/gjh/hokuyo/",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "北海道博物館",
    :longitude 141.496583,
    :latitude 43.0531418,
@@ -7383,7 +7383,7 @@
    :latitude 41.7639259,
    :source :openstreetmap,
    :homepage "https://www.ryoma1115.com/",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "北海道大学文書館",
    :longitude 141.3423158,
    :latitude 43.0693945,
@@ -7397,7 +7397,7 @@
    :latitude 43.0615697,
    :source :openstreetmap,
    :homepage "https://www.dokyoi.pref.hokkaido.lg.jp/hk/mkb/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "北海道立北方民族博物館",
    :longitude 144.2398089,
    :latitude 43.9962604,
@@ -7408,7 +7408,7 @@
    :latitude 42.9046551,
    :source :openstreetmap,
    :homepage "https://artmuseum.pref.hokkaido.lg.jp/obj",
-   :locality "帯広市"}
+   :location "帯広市"}
   {:name "北海道立文学館",
    :longitude 141.3560612,
    :latitude 43.0443789,
@@ -7428,7 +7428,7 @@
    :latitude 43.0458326,
    :source :openstreetmap,
    :homepage "https://www.kaitaku.or.jp/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "北淡震災記念公園・野島断層保存館",
    :longitude 134.938399,
    :latitude 34.55029,
@@ -7450,7 +7450,7 @@
    :latitude 43.8181398,
    :source :openstreetmap,
    :homepage "http://business4.plala.or.jp/bunsen21/",
-   :locality "北見市"}
+   :location "北見市"}
   {:name "北群馬渋川郷土館",
    :longitude 138.959111,
    :latitude 36.46971,
@@ -7464,7 +7464,7 @@
    :latitude 43.7997278,
    :source :openstreetmap,
    :homepage "http://www.kitamihakka.jp/",
-   :locality "北見市"}
+   :location "北見市"}
   {:name "北見滝ノ上駅舎記念館",
    :longitude 143.0715582,
    :latitude 44.1937399,
@@ -7473,7 +7473,7 @@
    :longitude 127.7594552,
    :latitude 26.3238647,
    :source :openstreetmap,
-   :locality "Chatan"}
+   :location "Chatan"}
   {:name "北野カルチュラルセンター",
    :longitude 138.1870641,
    :latitude 36.6530325,
@@ -7521,7 +7521,7 @@
    :latitude 37.1407053,
    :source :openstreetmap,
    :homepage "https://www.tokamachi-museum.jp/access.html",
-   :locality "十日町市"}
+   :location "十日町市"}
   {:name "十津川村歴史民俗資料館",
    :longitude 135.7932262,
    :latitude 33.988774,
@@ -7559,12 +7559,12 @@
    :latitude 43.059227,
    :source :openstreetmap,
    :homepage "https://nipponseishu.co.jp/chitosetsuru/museum/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "千石蔵",
    :longitude 141.5246271,
    :latitude 43.8584519,
    :source :openstreetmap,
-   :locality "増毛町"}
+   :location "増毛町"}
   {:name "千秋文庫博物館",
    :longitude 139.74649,
    :latitude 35.693263,
@@ -7573,7 +7573,7 @@
    :longitude 140.1653348,
    :latitude 35.6237112,
    :source :openstreetmap,
-   :locality "千葉市"}
+   :location "千葉市"}
   {:name "千葉市立郷土博物館（千葉城）",
    :longitude 140.127101,
    :latitude 35.60456,
@@ -7587,7 +7587,7 @@
    :latitude 35.2928966,
    :source :openstreetmap,
    :homepage "http://www.isumi-sato.com/",
-   :locality "いすみ市"}
+   :location "いすみ市"}
   {:name "千葉県立中央博物館",
    :longitude 140.138489,
    :latitude 35.599867,
@@ -7601,7 +7601,7 @@
    :longitude 140.523245,
    :latitude 35.930137,
    :source :openstreetmap,
-   :locality "香取市"}
+   :location "香取市"}
   {:name "千葉県立中央博物館大多喜城分館",
    :longitude 140.2391733,
    :latitude 35.2859446,
@@ -7623,7 +7623,7 @@
    :latitude 35.1050615,
    :source :openstreetmap,
    :homepage "https://www.e-makiba.jp/",
-   :locality "南房総市"}
+   :location "南房総市"}
   {:name "半田市立博物館",
    :longitude 136.9136914,
    :latitude 34.8915507,
@@ -7648,7 +7648,7 @@
    :longitude 130.3465347,
    :latitude 31.4651569,
    :source :openstreetmap,
-   :locality "南さつま市"}
+   :location "南さつま市"}
   {:name "南アルプス市立春仙美術館",
    :longitude 138.465363,
    :latitude 35.616968,
@@ -7661,7 +7661,7 @@
    :longitude 132.5491412,
    :latitude 32.9502219,
    :source :openstreetmap,
-   :locality "愛南町"}
+   :location "愛南町"}
   {:name "南三陸 海のビジターセンター",
    :longitude 141.4741241,
    :latitude 38.6438083,
@@ -7710,7 +7710,7 @@
    :latitude 32.6397082,
    :source :openstreetmap,
    :homepage "https://www.artvillage-shirakino.jp/",
-   :locality "南島原市"}
+   :location "南島原市"}
   {:name "南方熊楠記念館",
    :longitude 135.3361146,
    :latitude 33.6936902,
@@ -7720,7 +7720,7 @@
    :latitude 33.730712,
    :source :openstreetmap,
    :homepage "https://www.minakata.org/",
-   :locality "田辺市中屋敷町36番地の1"}
+   :location "田辺市中屋敷町36番地の1"}
   {:name "南木曽町博物館",
    :longitude 137.5957646,
    :latitude 35.5769291,
@@ -7757,7 +7757,7 @@
    :longitude 140.963076,
    :latitude 37.6233965,
    :source :openstreetmap,
-   :locality "南相馬市"}
+   :location "南相馬市"}
   {:name "南砺市そばの館",
    :longitude 137.005192,
    :latitude 36.421314,
@@ -7824,7 +7824,7 @@
    :longitude 127.7305063,
    :latitude 26.1869118,
    :source :openstreetmap,
-   :locality "南風原町"}
+   :location "南風原町"}
   {:name "南魚沼市立 今泉博物館",
    :longitude 138.8191928,
    :latitude 37.0029454,
@@ -7867,7 +7867,7 @@
    :latitude 35.7091646,
    :source :openstreetmap,
    :homepage "https://www.printing-museum.org/",
-   :locality "文京区"}
+   :location "文京区"}
   {:name "印旛歴史民俗資料館",
    :longitude 140.167018,
    :latitude 35.76254,
@@ -7902,7 +7902,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hepco.co.jp/corporate/nextgeneration/tomarin/index.html",
-   :locality "泊村"}
+   :location "泊村"}
   {:name "原子力の科学館「あっとほうむ」",
    :longitude 136.0819942,
    :latitude 35.6342113,
@@ -7937,7 +7937,7 @@
    :latitude 38.4053391,
    :source :openstreetmap,
    :homepage "http://haraasao.jp",
-   :locality "大和町"}
+   :location "大和町"}
   {:name "厳島神社宝物館",
    :longitude 132.3186393,
    :latitude 34.2949054,
@@ -7950,7 +7950,7 @@
    :longitude 130.1957759,
    :latitude 32.6051688,
    :source :openstreetmap,
-   :locality "南島原市"}
+   :location "南島原市"}
   {:name "古今伝授の里フィールドミュージアム",
    :longitude 136.925579,
    :latitude 35.812132,
@@ -7988,7 +7988,7 @@
    :longitude 139.3307791,
    :latitude 35.5157715,
    :source :openstreetmap,
-   :locality "愛川町"}
+   :location "愛川町"}
   {:name "古河歴史博物館",
    :longitude 139.7012325,
    :latitude 36.1911978,
@@ -8010,7 +8010,7 @@
    :latitude 35.6676979,
    :source :openstreetmap,
    :homepage "https://www.koga.or.jp/",
-   :locality "渋谷区"}
+   :location "渋谷区"}
   {:name "古賀政男音楽博物館分館古賀政男記念館",
    :longitude 130.3836128,
    :latitude 33.1924903,
@@ -8040,7 +8040,7 @@
    :latitude 35.7255542,
    :source :openstreetmap,
    :homepage "https://www.taitogeibun.net/ichiyo/",
-   :locality "台東区"}
+   :location "台東区"}
   {:name "台東区立書道博物館",
    :longitude 139.7764529,
    :latitude 35.7247153,
@@ -8085,7 +8085,7 @@
    :longitude 140.9021585,
    :latitude 38.2498279,
    :source :openstreetmap,
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "右卿記念館",
    :longitude 139.5579753,
    :latitude 35.3300914,
@@ -8159,7 +8159,7 @@
    :latitude 40.8096377,
    :source :openstreetmap,
    :homepage "http://machinaka-go.co.jp/",
-   :locality "五所川原市"}
+   :location "五所川原市"}
   {:name "吉村昭記念文学館",
    :longitude 139.7838205,
    :latitude 35.7393522,
@@ -8234,7 +8234,7 @@
    :latitude 34.802968,
    :source :openstreetmap,
    :homepage "https://hmuseum.doshisha.ac.jp/",
-   :locality "京田辺市"}
+   :location "京田辺市"}
   {:name "名勝大乗院庭園文化館",
    :longitude 135.8345155,
    :latitude 34.6777261,
@@ -8244,18 +8244,18 @@
    :latitude 38.1654334,
    :source :openstreetmap,
    :homepage "https://natori-shiryokan.jp/",
-   :locality "名取市"}
+   :location "名取市"}
   {:name "名取市震災復興伝承館",
    :longitude 140.9538417,
    :latitude 38.1768072,
    :source :openstreetmap,
    :homepage "https://www.natori-denshoukan.jp/",
-   :locality "名取市"}
+   :location "名取市"}
   {:name "名古屋大学博物館",
    :longitude 136.9669525,
    :latitude 35.1530085,
    :source :openstreetmap,
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "名古屋市博物館",
    :longitude 136.9346543,
    :latitude 35.1364765,
@@ -8264,7 +8264,7 @@
    :longitude 136.910322,
    :latitude 35.181226,
    :source :openstreetmap,
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "名古屋市役所市民経済局 市民ギャラリー矢田",
    :longitude 136.9470995,
    :latitude 35.188752,
@@ -8324,18 +8324,18 @@
    :latitude 34.9493541,
    :source :openstreetmap,
    :homepage "https://www.city.muko.kyoto.jp/site/shiryokan/",
-   :locality "向日市"}
+   :location "向日市"}
   {:name "君津市民文化ホール",
    :longitude 139.9346449,
    :latitude 35.3177373,
    :source :openstreetmap,
    :homepage "https://www.kimibun.jp/",
-   :locality "君津市"}
+   :location "君津市"}
   {:name "君津市漁業資料館",
    :longitude 139.866192,
    :latitude 35.341043,
    :source :openstreetmap,
-   :locality "君津市"}
+   :location "君津市"}
   {:name "君津市立久留里城址資料館",
    :longitude 140.0878576,
    :latitude 35.288002,
@@ -8345,7 +8345,7 @@
    :latitude 34.7834181,
    :source :openstreetmap,
    :homepage "https://www.suita.ed.jp/hak/",
-   :locality "吹田市"}
+   :location "吹田市"}
   {:name "吹田発展伝承室",
    :longitude 135.5276227,
    :latitude 34.7569023,
@@ -8380,7 +8380,7 @@
    :longitude 132.4375258,
    :latitude 33.9506337,
    :source :openstreetmap,
-   :locality "周防大島町"}
+   :location "周防大島町"}
   {:name "味噌川ダム防災資料館",
    :longitude 137.7728504,
    :latitude 35.9765673,
@@ -8521,7 +8521,7 @@
    :latitude 35.733027,
    :source :openstreetmap,
    :homepage "https://karasawamuseum.com/",
-   :locality "練馬区"}
+   :location "練馬区"}
   {:name "商家博物館・むろやの園",
    :longitude 132.109186,
    :latitude 33.968457,
@@ -8530,7 +8530,7 @@
    :longitude 135.3883549,
    :latitude 34.406509,
    :source :openstreetmap,
-   :locality "貝塚市"}
+   :location "貝塚市"}
   {:name "善通寺市美術館",
    :longitude 133.7864976,
    :latitude 34.2287489,
@@ -8539,7 +8539,7 @@
    :longitude 136.6153382,
    :latitude 36.5321111,
    :source :openstreetmap,
-   :locality "野々市市"}
+   :location "野々市市"}
   {:name "喜多方カイギュウランドたかさと",
    :longitude 139.75558,
    :latitude 37.6008223,
@@ -8613,7 +8613,7 @@
    :latitude 35.4725993,
    :source :openstreetmap,
    :homepage "https://www.tbz.or.jp/inaba-manyou/",
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "国分寺収蔵庫",
    :longitude 136.774938,
    :latitude 35.240939,
@@ -8663,7 +8663,7 @@
    :latitude 35.69496,
    :source :openstreetmap,
    :homepage "https://ichigaya-letterpress.jp/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "国立市古民家",
    :longitude 139.4366537,
    :latitude 35.6784739,
@@ -8692,7 +8692,7 @@
    :latitude 35.7159919,
    :source :openstreetmap,
    :homepage "https://www.nmwa.go.jp/",
-   :locality "台東区"}
+   :location "台東区"}
   {:name "国見ふるさと展示館",
    :longitude 131.6255139,
    :latitude 33.6653397,
@@ -8710,7 +8710,7 @@
    :latitude 26.5216892,
    :source :openstreetmap,
    :homepage "http://www.godac.jp/",
-   :locality "名護市"}
+   :location "名護市"}
   {:name "国際聚蔵館（歌舞藍）",
    :longitude 133.364242,
    :latitude 34.487213,
@@ -8756,18 +8756,18 @@
    :latitude 39.7562954,
    :source :openstreetmap,
    :homepage "https://tuchizaki.com/",
-   :locality "秋田市"}
+   :location "秋田市"}
   {:name "土方・啄木浪漫館",
    :longitude 140.7549703,
    :latitude 41.7727929,
    :source :openstreetmap,
    :homepage "https://www.romankan.com/",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "土方歳三資料館",
    :longitude 139.4196661,
    :latitude 35.6697605,
    :source :openstreetmap,
-   :locality "日野市"}
+   :location "日野市"}
   {:name "土浦市立博物館",
    :longitude 140.1972825,
    :latitude 36.0851741,
@@ -8785,7 +8785,7 @@
    :latitude 38.8913443,
    :source :openstreetmap,
    :homepage "http://domonken-kinenkan.jp",
-   :locality "酒田市"}
+   :location "酒田市"}
   {:name "地下観察館",
    :longitude 136.6207975,
    :latitude 35.6159768,
@@ -8838,7 +8838,7 @@
    :latitude 33.8418018,
    :source :openstreetmap,
    :homepage "https://www.sakanouenokumomuseum.jp/",
-   :locality "松山市"}
+   :location "松山市"}
   {:name "坂井市丸岡歴史民俗資料館",
    :longitude 136.274304,
    :latitude 36.152181,
@@ -8871,7 +8871,7 @@
    :longitude 139.3774356,
    :latitude 36.2224664,
    :source :openstreetmap,
-   :locality "kumagaya"}
+   :location "kumagaya"}
   {:name "坂野記念館",
    :longitude 133.9076313,
    :latitude 34.718941,
@@ -8953,13 +8953,13 @@
    :latitude 36.125121,
    :source :openstreetmap,
    :homepage "https://sakitama-muse.spec.ed.jp/",
-   :locality "行田市"}
+   :location "行田市"}
   {:name "埼玉県立歴史と民族の博物館",
    :longitude 139.629997,
    :latitude 35.9213293,
    :source :openstreetmap,
    :homepage "https://saitama-rekimin.spec.ed.jp/",
-   :locality "さいたま市"}
+   :location "さいたま市"}
   {:name "埼玉県立歴史資料館",
    :longitude 139.323435,
    :latitude 36.03682,
@@ -9031,7 +9031,7 @@
    :longitude 141.0308053,
    :latitude 38.3193275,
    :source :openstreetmap,
-   :locality "塩竈市"}
+   :location "塩竈市"}
   {:name "塩釜神社博物館",
    :longitude 141.0150931,
    :latitude 38.3181987,
@@ -9086,7 +9086,7 @@
    :longitude 141.9891419,
    :latitude 43.068331,
    :source :openstreetmap,
-   :locality "夕張市"}
+   :location "夕張市"}
   {:name "外海潜伏キリシタン文化資料館",
    :longitude 129.7150608,
    :latitude 32.8391683,
@@ -9118,7 +9118,7 @@
    :longitude 139.5230366,
    :latitude 35.7345533,
    :source :openstreetmap,
-   :locality "西東京市"}
+   :location "西東京市"}
   {:name "多摩川精機歴史館",
    :longitude 137.7900974,
    :latitude 35.5224612,
@@ -9163,7 +9163,7 @@
    :longitude 134.4873746,
    :latitude 35.5563783,
    :source :openstreetmap,
-   :locality "新温泉町"}
+   :location "新温泉町"}
   {:name "夢海庵　鈴倭人形美術館",
    :longitude 140.9221692,
    :latitude 37.8428495,
@@ -9186,7 +9186,7 @@
    :latitude 35.666923,
    :source :openstreetmap,
    :homepage "https://sen-oku.or.jp/tokyo",
-   :locality "港区"}
+   :location "港区"}
   {:name "大内かっぱハウス",
    :longitude 140.8317634,
    :latitude 35.7351275,
@@ -9240,7 +9240,7 @@
    :latitude 35.5136357,
    :source :openstreetmap,
    :homepage "https://www.city.yamato.lg.jp/web/shakai/turumai.html",
-   :locality "大和市"}
+   :location "大和市"}
   {:name "大和市郷土民家園",
    :longitude 139.4419249,
    :latitude 35.4765696,
@@ -9259,7 +9259,7 @@
    :longitude 134.684639,
    :latitude 34.254836,
    :source :openstreetmap,
-   :locality "南あわじ市"}
+   :location "南あわじ市"}
   {:name "大国魂神社宝物殿",
    :longitude 139.4785926,
    :latitude 35.6681332,
@@ -9339,7 +9339,7 @@
    :latitude 34.6818839,
    :source :openstreetmap,
    :homepage "https://www.town.oshima.tokyo.jp/~palais/",
-   :locality "大島町"}
+   :location "大島町"}
   {:name "大崎市 竹工芸館",
    :longitude 140.8664119,
    :latitude 38.6543587,
@@ -9508,12 +9508,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.ota.tokyo.jp/seikatsu/manabu/hakubutsukan/",
-   :locality "大田区"}
+   :location "大田区"}
   {:name "大田区立龍子記念館",
    :longitude 139.715623,
    :latitude 35.582343,
    :source :openstreetmap,
-   :locality "大田区"}
+   :location "大田区"}
   {:name "大田原市歴史民俗資料館",
    :longitude 140.1221723,
    :latitude 36.8119714,
@@ -9671,7 +9671,7 @@
    :latitude 34.6911979,
    :source :openstreetmap,
    :homepage "https://www.sci-museum.jp/",
-   :locality "大阪市"}
+   :location "大阪市"}
   {:name "大阪市立青少年文化創造ステーション KOKO PLAZA",
    :longitude 135.503755,
    :latitude 34.732154,
@@ -9689,7 +9689,7 @@
    :latitude 34.5073921,
    :source :openstreetmap,
    :homepage "https://sayamaikehaku.osakasayama.osaka.jp",
-   :locality "大阪狭山市"}
+   :location "大阪狭山市"}
   {:name "大阪府立現代美術センター",
    :longitude 135.5180899,
    :latitude 34.6839942,
@@ -9759,7 +9759,7 @@
    :latitude 35.556305,
    :source :openstreetmap,
    :homepage "https://mtl-muse.com/",
-   :locality "大鹿村"}
+   :location "大鹿村"}
   {:name "大麻博物館",
    :longitude 140.0287704,
    :latitude 37.0214411,
@@ -9818,7 +9818,7 @@
    :longitude 139.764418,
    :latitude 35.691776,
    :source :openstreetmap,
-   :locality "千代田区"}
+   :location "千代田区"}
   {:name "天理大学附属天理参考館",
    :longitude 135.8424831,
    :latitude 34.5973524,
@@ -9827,7 +9827,7 @@
    :longitude 137.8160333,
    :latitude 35.446327,
    :source :openstreetmap,
-   :locality "飯田市"}
+   :location "飯田市"}
   {:name "天童市将棋博物館",
    :longitude 140.3697206,
    :latitude 38.3601761,
@@ -9848,7 +9848,7 @@
    :longitude 129.99355,
    :latitude 32.3350612,
    :source :openstreetmap,
-   :locality "天草市"}
+   :location "天草市"}
   {:name "天草市新和歴史民俗資料館",
    :longitude 130.1641974,
    :latitude 32.3300614,
@@ -9861,7 +9861,7 @@
    :longitude 130.3379611,
    :latitude 32.3376001,
    :source :openstreetmap,
-   :locality "天草市"}
+   :location "天草市"}
   {:name "天草市立有明歴史民俗資料館",
    :longitude 130.28913,
    :latitude 32.4864397,
@@ -9883,7 +9883,7 @@
    :latitude 35.4406691,
    :source :openstreetmap,
    :homepage "https://www.city.iida.lg.jp/soshiki/25/saiseikan.html",
-   :locality "飯田市"}
+   :location "飯田市"}
   {:name "太地町立石垣記念館",
    :longitude 135.942812,
    :latitude 33.601663,
@@ -9919,7 +9919,7 @@
    :latitude 35.4375506,
    :source :openstreetmap,
    :homepage "https://kaikan.ootajuku.net/",
-   :locality "Minokamo"}
+   :location "Minokamo"}
   {:name "太田市民会館",
    :longitude 139.3827027,
    :latitude 36.2764244,
@@ -9947,7 +9947,7 @@
    :longitude 130.1796999,
    :latitude 33.0198446,
    :source :openstreetmap,
-   :locality "太良町"}
+   :location "太良町"}
   {:name "太閤の湯殿館",
    :longitude 135.2485825,
    :latitude 34.7956267,
@@ -9958,7 +9958,7 @@
    :latitude 42.5275149,
    :source :openstreetmap,
    :homepage "https://dimaccio-museum.jp/",
-   :locality "新冠町"}
+   :location "新冠町"}
   {:name "太鼓の里資料館",
    :longitude 136.5241219,
    :latitude 36.4911003,
@@ -9991,7 +9991,7 @@
    :longitude 135.822312,
    :latitude 34.47723,
    :source :openstreetmap,
-   :locality "明日香村"}
+   :location "明日香村"}
   {:name "奈良県立橿原考古学研究所附属博物館",
    :longitude 135.791362,
    :latitude 34.492169,
@@ -10082,7 +10082,7 @@
    :latitude 35.3815317,
    :source :openstreetmap,
    :homepage "https://092-810.localinfo.jp/",
-   :locality "秦野市"}
+   :location "秦野市"}
   {:name "奥津歴史資料館",
    :longitude 133.9199387,
    :latitude 35.2249958,
@@ -10142,7 +10142,7 @@
    :latitude 43.9131583,
    :source :openstreetmap,
    :homepage "http://shiretoko-museum.mydns.jp",
-   :locality "斜里町"}
+   :location "斜里町"}
   {:name "姫路市埋蔵文化財センター",
    :longitude 134.7198678,
    :latitude 34.8167681,
@@ -10177,7 +10177,7 @@
    :longitude 130.0604627,
    :latitude 33.1280008,
    :source :openstreetmap,
-   :locality "嬉野市"}
+   :location "嬉野市"}
   {:name "嬬恋郷土資料館",
    :longitude 138.5482252,
    :latitude 36.5167821,
@@ -10196,7 +10196,7 @@
    :latitude 33.6563316,
    :source :openstreetmap,
    :homepage "https://www.ugui-vc.jp/",
-   :locality "那智勝浦町"}
+   :location "那智勝浦町"}
   {:name "宇和先哲記念館",
    :longitude 132.515465,
    :latitude 33.362861,
@@ -10205,7 +10205,7 @@
    :longitude 132.562659,
    :latitude 33.2159805,
    :source :openstreetmap,
-   :locality "宇和島市"}
+   :location "宇和島市"}
   {:name "宇和島市立歴史資料館",
    :longitude 132.554664,
    :latitude 33.226452,
@@ -10230,7 +10230,7 @@
    :longitude 130.5540323,
    :latitude 31.5920209,
    :source :openstreetmap,
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "宇宙科学技術館",
    :longitude 130.9576589,
    :latitude 30.3749346,
@@ -10325,7 +10325,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.azumino.nagano.jp/setsuro_muse/99_english/guide/index.html",
-   :locality "安曇野市"}
+   :location "安曇野市"}
   {:name "安来市立加納美術館",
    :longitude 133.151401,
    :latitude 35.3062761,
@@ -10400,7 +10400,7 @@
    :latitude 42.9616747,
    :source :openstreetmap,
    :homepage "https://jozankei.jp/jozankei-kyodo-museum/228",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "宜野座村立博物館",
    :longitude 127.9728259,
    :latitude 26.482888,
@@ -10419,7 +10419,7 @@
    :latitude 34.8071338,
    :source :openstreetmap,
    :homepage "https://tezukaosamu.net/jp/museum/",
-   :locality "宝塚市"}
+   :location "宝塚市"}
   {:name "宝殿",
    :longitude 139.2748507,
    :latitude 35.4396808,
@@ -10536,7 +10536,7 @@
    :longitude 140.9739517,
    :latitude 42.3140616,
    :source :openstreetmap,
-   :locality "室蘭市"}
+   :location "室蘭市"}
   {:name "宮之城伝統工芸センター",
    :longitude 130.4462426,
    :latitude 31.9176512,
@@ -10580,12 +10580,12 @@
    :latitude 35.699758,
    :source :openstreetmap,
    :homepage "https://miyagikai.gr.jp/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "宮崎兄弟資料館",
    :longitude 130.4346091,
    :latitude 32.9846965,
    :source :openstreetmap,
-   :locality "荒尾市"}
+   :location "荒尾市"}
   {:name "宮崎大学農学部附属農業博物館",
    :longitude 131.4127874,
    :latitude 31.8291,
@@ -10615,7 +10615,7 @@
    :latitude 31.9400192,
    :source :openstreetmap,
    :homepage "https://www.miyazaki-archive.jp/museum/",
-   :locality "宮崎市"}
+   :location "宮崎市"}
   {:name "宮崎科学技術館",
    :longitude 131.4337527,
    :latitude 31.9144541,
@@ -10625,14 +10625,14 @@
    :latitude 35.4680806,
    :source :openstreetmap,
    :homepage "https://kozan-makuzu.com/",
-   :locality "神奈川区"}
+   :location "神奈川区"}
   {:name "宮永岳彦記念美術館",
    :longitude 139.2765591,
    :latitude 35.3817339,
    :source :openstreetmap,
    :homepage
    "https://www.city.hadano.kanagawa.jp/kanko-bunka-sports/bunka-geijutsu/1/index.html",
-   :locality "秦野市"}
+   :location "秦野市"}
   {:name "宮沢賢治童話村",
    :longitude 141.1689989,
    :latitude 39.3981398,
@@ -10657,7 +10657,7 @@
    :longitude 139.377966,
    :latitude 35.71367,
    :source :openstreetmap,
-   :locality "昭島市"}
+   :location "昭島市"}
   {:name "宿毛市立宿毛歴史館",
    :longitude 132.730371,
    :latitude 32.938777,
@@ -10707,7 +10707,7 @@
    :longitude 138.807264,
    :latitude 35.2649506,
    :source :openstreetmap,
-   :locality "裾野市"}
+   :location "裾野市"}
   {:name "富士川町民俗資料館",
    :longitude 138.4575553,
    :latitude 35.5637434,
@@ -10780,7 +10780,7 @@
    :latitude 36.6988952,
    :source :openstreetmap,
    :homepage "https://www.pref.toyama.jp/branches/3044/gra_in.htm",
-   :locality "富山市"}
+   :location "富山市"}
   {:name "富山県立近代美術館 (Museum of Modern Art, Toyama)",
    :longitude 137.2127733,
    :latitude 36.6801544,
@@ -10828,7 +10828,7 @@
    :latitude 35.3194845,
    :source :openstreetmap,
    :homepage "https://www.city.futtsu.lg.jp/0000000915.html",
-   :locality "富津市"}
+   :location "富津市"}
   {:name "富良野市博物館",
    :longitude 142.37853,
    :latitude 43.2325791,
@@ -10907,7 +10907,7 @@
    :latitude 33.2885426,
    :source :openstreetmap,
    :homepage "https://www.city.ogi.lg.jp/main/4989.html",
-   :locality "小城市"}
+   :location "小城市"}
   {:name "小山市埋蔵文化財センター",
    :longitude 139.8332911,
    :latitude 36.2945293,
@@ -10926,7 +10926,7 @@
    :longitude 136.5347346,
    :latitude 34.9448813,
    :source :openstreetmap,
-   :locality "四日市市"}
+   :location "四日市市"}
   {:name "小岩井農場資料館",
    :longitude 141.0131702,
    :latitude 39.7526166,
@@ -11033,7 +11033,7 @@
    :longitude 144.5267459,
    :latitude 43.8634183,
    :source :openstreetmap,
-   :locality "小清水町"}
+   :location "小清水町"}
   {:name "小牧市歴史館",
    :longitude 136.9134245,
    :latitude 35.2925017,
@@ -11054,7 +11054,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.odawara.kanagawa.jp/public-i/facilities/literature-museum/bungakukan.html",
-   :locality "小田原市"}
+   :location "小田原市"}
   {:name "小田城跡案内所",
    :longitude 140.1091539,
    :latitude 36.1532684,
@@ -11085,7 +11085,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.iida.lg.jp/site/yuiturn/page-eid553.html",
-   :locality "飯田市"}
+   :location "飯田市"}
   {:name "小諸高原美術館",
    :longitude 138.4203626,
    :latitude 36.3437895,
@@ -11130,7 +11130,7 @@
    :longitude 130.5763006,
    :latitude 31.6173244,
    :source :openstreetmap,
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "尼崎市立歴史博物館",
    :longitude 135.4208108,
    :latitude 34.7149245,
@@ -11141,7 +11141,7 @@
    :latitude 34.770041,
    :source :openstreetmap,
    :homepage "https://www.city.amagasaki.hyogo.jp/gakusyu/",
-   :locality "尼崎市田能6-5-1"}
+   :location "尼崎市田能6-5-1"}
   {:name "尾崎咢堂記念館",
    :longitude 139.246314,
    :latitude 35.594296,
@@ -11157,7 +11157,7 @@
    :latitude 35.5923272,
    :source :openstreetmap,
    :homepage "https://en.ota-bunka.or.jp/facilities/ozaki",
-   :locality "大田区"}
+   :location "大田区"}
   {:name "尾崎士郎記念館",
    :longitude 137.0650844,
    :latitude 34.8066316,
@@ -11183,7 +11183,7 @@
    :longitude 130.6316025,
    :latitude 30.3087898,
    :source :openstreetmap,
-   :locality "屋久島町"}
+   :location "屋久島町"}
   {:name "屋久島町歴史民俗資料館",
    :longitude 130.5689564,
    :latitude 30.4206143,
@@ -11231,7 +11231,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.sapporo.jp/ncms/shimin/bunkazai/bunkazai/syousai/00k_tonden.html",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "山と自然博物館",
    :longitude 137.9532837,
    :latitude 36.2603058,
@@ -11248,7 +11248,7 @@
    :longitude 141.0064111,
    :latitude 39.4449428,
    :source :openstreetmap,
-   :locality "花巻市"}
+   :location "花巻市"}
   {:name "山びこ",
    :longitude 139.6653781,
    :latitude 37.4837611,
@@ -11300,7 +11300,7 @@
    :latitude 34.169548,
    :source :openstreetmap,
    :homepage "https://www.ycam.jp/",
-   :locality "山口市"}
+   :location "山口市"}
   {:name "山口県立美術館",
    :longitude 131.4744402,
    :latitude 34.1795883,
@@ -11385,7 +11385,7 @@
    :longitude 138.648528,
    :latitude 35.640171,
    :source :openstreetmap,
-   :locality "笛吹市"}
+   :location "笛吹市"}
   {:name "山梨県立富士山世界遺産センター",
    :longitude 138.7706234,
    :latitude 35.485686,
@@ -11403,7 +11403,7 @@
    :longitude 138.5828924,
    :latitude 35.5942743,
    :source :openstreetmap,
-   :locality "甲府市"}
+   :location "甲府市"}
   {:name "山武市歴史民俗資料館",
    :longitude 140.4183565,
    :latitude 35.6020266,
@@ -11466,12 +11466,12 @@
    :latitude 35.5933806,
    :source :openstreetmap,
    :homepage "http://www.pref.tottori.lg.jp/255369.htm",
-   :locality "岩美町"}
+   :location "岩美町"}
   {:name "山陽小野田市歴史民俗資料館",
    :longitude 131.1761666,
    :latitude 33.9909319,
    :source :openstreetmap,
-   :locality "山陽小野田市"}
+   :location "山陽小野田市"}
   {:name "山鹿市立博物館",
    :longitude 130.666443,
    :latitude 33.024868,
@@ -11485,7 +11485,7 @@
    :latitude 35.387696,
    :source :openstreetmap,
    :homepage "https://www.sorahaku.net/",
-   :locality "各務原市"}
+   :location "各務原市"}
   {:name "岐阜レトロミュージアム",
    :longitude 136.7956682,
    :latitude 35.5340394,
@@ -11560,7 +11560,7 @@
    :latitude 34.6663706,
    :source :openstreetmap,
    :homepage "https://www.city.okayama.jp/orientmuseum/",
-   :locality "岡山市"}
+   :location "岡山市"}
   {:name "岡山映像ライブラリーセンター",
    :longitude 133.9334645,
    :latitude 34.6641252,
@@ -11693,7 +11693,7 @@
    :longitude 141.6505885,
    :latitude 39.8736992,
    :source :openstreetmap,
-   :locality "岩泉町"}
+   :location "岩泉町"}
   {:name "岩田健　母と子のミュージアム",
    :longitude 132.9540849,
    :latitude 34.1944611,
@@ -11728,7 +11728,7 @@
    :longitude 130.3356106,
    :latitude 32.8469256,
    :source :openstreetmap,
-   :locality "島原市"}
+   :location "島原市"}
   {:name "島本町立歴史文化資料館",
    :longitude 135.6636834,
    :latitude 34.8800695,
@@ -11894,7 +11894,7 @@
    :latitude 43.6366632,
    :source :openstreetmap,
    :homepage "https://www.kawayu-eco-museum.com/",
-   :locality "弟子屈町"}
+   :location "弟子屈町"}
   {:name "川西市文化財資料館",
    :longitude 135.4054957,
    :latitude 34.8196932,
@@ -11912,7 +11912,7 @@
    :latitude 35.9243784,
    :source :openstreetmap,
    :homepage "https://kawagoematsuri.jp/matsurimuseum/",
-   :locality "川越市"}
+   :location "川越市"}
   {:name "川越城本丸御殿",
    :longitude 139.4914968,
    :latitude 35.9245029,
@@ -11977,7 +11977,7 @@
    :longitude 139.911543,
    :latitude 35.7598294,
    :source :openstreetmap,
-   :locality "市川市"}
+   :location "市川市"}
   {:name "市民ギャラリー",
    :longitude 135.5684325,
    :latitude 34.8171302,
@@ -12003,7 +12003,7 @@
    :latitude 41.7559451,
    :source :openstreetmap,
    :homepage "http://hakokaku.com",
-   :locality "函館市"}
+   :location "函館市"}
   {:name "市立小町の館 本館",
    :longitude 140.1602663,
    :latitude 36.1647513,
@@ -12024,7 +12024,7 @@
    :longitude 135.6370909,
    :latitude 34.811914,
    :source :openstreetmap,
-   :locality "枚方市"}
+   :location "枚方市"}
   {:name "市貝町立歴史民俗資料館",
    :longitude 140.0917298,
    :latitude 36.5286656,
@@ -12044,7 +12044,7 @@
    :longitude 133.203442,
    :latitude 34.8652745,
    :source :openstreetmap,
-   :locality "庄原市"}
+   :location "庄原市"}
   {:name "常呂町郷土資料館",
    :longitude 143.9944342,
    :latitude 44.0697849,
@@ -12126,7 +12126,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.sapporo.jp/shimin/bunka/museum/museum2/m_1004.html",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "平戸市立里田原歴史民俗資料館",
    :longitude 129.591187,
    :latitude 33.358416,
@@ -12190,7 +12190,7 @@
    :latitude 33.2777518,
    :source :openstreetmap,
    :homepage "http://www.hirano-museum.info/",
-   :locality "別府市"}
+   :location "別府市"}
   {:name "平野郷猫会議事堂（にゃんこどう）",
    :longitude 135.5582024,
    :latitude 34.6231207,
@@ -12230,7 +12230,7 @@
    :latitude 34.4015348,
    :source :openstreetmap,
    :homepage "https://hiroshimacastle.jp/",
-   :locality "広島市"}
+   :location "広島市"}
   {:name "広島大学総合博物館 本館",
    :longitude 132.7105206,
    :latitude 34.4030329,
@@ -12257,7 +12257,7 @@
    :latitude 34.3962386,
    :source :openstreetmap,
    :homepage "http://www.hiroins-net.ne.jp/kyodo/",
-   :locality "広島市"}
+   :location "広島市"}
   {:name "広島平和記念資料館東館",
    :longitude 132.4530975,
    :latitude 34.3915478,
@@ -12275,7 +12275,7 @@
    :longitude 132.4651447,
    :latitude 34.4034644,
    :source :openstreetmap,
-   :locality "広島市"}
+   :location "広島市"}
   {:name "広川町古墳公園資料館",
    :longitude 130.5176714,
    :latitude 33.2381559,
@@ -12321,7 +12321,7 @@
    :latitude 35.6788342,
    :source :openstreetmap,
    :homepage "http://www.city.fuchu.tokyo.jp/art/",
-   :locality "府中市浅間町"}
+   :location "府中市浅間町"}
   {:name "府中町歴史民俗資料館",
    :longitude 132.508518,
    :latitude 34.39591,
@@ -12385,7 +12385,7 @@
    :longitude 139.7634784,
    :latitude 35.7149026,
    :source :openstreetmap,
-   :locality "文京区"}
+   :location "文京区"}
   {:name "彩りの館",
    :longitude 134.4508548,
    :latitude 34.1455651,
@@ -12413,12 +12413,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.yokote.lg.jp/shisetsu/1001528/1005064.html",
-   :locality "横手市"}
+   :location "横手市"}
   {:name "後藤家住宅",
    :longitude 133.3245441,
    :latitude 35.4327541,
    :source :openstreetmap,
-   :locality "米子市"}
+   :location "米子市"}
   {:name "後藤家資料室",
    :longitude 137.742522,
    :latitude 35.444027,
@@ -12453,12 +12453,12 @@
    :longitude 140.9723452,
    :latitude 39.668436,
    :source :openstreetmap,
-   :locality "雫石町"}
+   :location "雫石町"}
   {:name "御所野縄文博物館",
    :longitude 141.3103987,
    :latitude 40.1974917,
    :source :openstreetmap,
-   :locality "一戸町"}
+   :location "一戸町"}
   {:name "御殿場スポーツカーガーデン",
    :longitude 138.952629,
    :latitude 35.28701,
@@ -12506,7 +12506,7 @@
    :latitude 34.0736257,
    :source :openstreetmap,
    :homepage "https://www.city.tokushima.tokushima.jp/johaku/",
-   :locality "徳島市"}
+   :location "徳島市"}
   {:name "徳島市立考古資料館",
    :longitude 134.469186,
    :latitude 34.060711,
@@ -12521,7 +12521,7 @@
    :latitude 34.0801006,
    :source :openstreetmap,
    :homepage "https://www.bungakushodo.jp/",
-   :locality "徳島市"}
+   :location "徳島市"}
   {:name "徳島県立鳥居記念博物館",
    :longitude 134.616903,
    :latitude 34.178303,
@@ -12531,7 +12531,7 @@
    :latitude 34.0399267,
    :source :openstreetmap,
    :homepage "https://torii-museum.bunmori.tokushima.jp/",
-   :locality "徳島市"}
+   :location "徳島市"}
   {:name "徳島県郷土文化会館阿波木偶資料館",
    :longitude 134.5461154,
    :latitude 34.0751578,
@@ -12613,7 +12613,7 @@
    :latitude 34.8915753,
    :source :openstreetmap,
    :homepage "https://ayashii.sakura.ne.jp",
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "恐竜彫刻庭園",
    :longitude 140.062849,
    :latitude 35.4050679,
@@ -12626,7 +12626,7 @@
    :longitude 127.7933572,
    :latitude 26.4365499,
    :source :openstreetmap,
-   :locality "恩納村"}
+   :location "恩納村"}
   {:name "恩賜林記念館",
    :longitude 138.5700907,
    :latitude 35.6643842,
@@ -12635,7 +12635,7 @@
    :longitude 125.2810238,
    :latitude 24.8021109,
    :source :openstreetmap,
-   :locality "宮古島市"}
+   :location "宮古島市"}
   {:name "恵那文化センター",
    :longitude 137.4046393,
    :latitude 35.4493929,
@@ -12670,7 +12670,7 @@
    :latitude 33.8405543,
    :source :openstreetmap,
    :homepage "https://www.ehime-art.jp/",
-   :locality "松山市"}
+   :location "松山市"}
   {:name "愛川町郷土資料館",
    :longitude 139.273467,
    :latitude 35.54002,
@@ -12681,7 +12681,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.town.aikawa.kanagawa.jp/shisetsu/bunka/6843.html",
-   :locality "愛川町"}
+   :location "愛川町"}
   {:name "愛新美術館",
    :longitude 132.842419,
    :latitude 34.40914,
@@ -12754,7 +12754,7 @@
    :latitude 35.7818551,
    :source :openstreetmap,
    :homepage "https://nagomi-yoneya.co.jp/youkanshiryoukan/",
-   :locality "成田市"}
+   :location "成田市"}
   {:name "成羽歴史史料館",
    :longitude 133.5391,
    :latitude 34.782708,
@@ -12778,7 +12778,7 @@
    :longitude 136.99189,
    :latitude 35.176254,
    :source :openstreetmap,
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "戦争博物館",
    :longitude 140.0131134,
    :latitude 37.0608594,
@@ -12798,7 +12798,7 @@
    :latitude 35.6614398,
    :source :openstreetmap,
    :homepage "https://www.toguri-museum.or.jp/",
-   :locality "渋谷区"}
+   :location "渋谷区"}
   {:name "戸田市立郷土博物館",
    :longitude 139.663382,
    :latitude 35.819106,
@@ -12812,7 +12812,7 @@
    :latitude 36.6785484,
    :source :openstreetmap,
    :homepage "http://www.tgk.janis.or.jp/~togakushi-museum/index.html",
-   :locality "長野市"}
+   :location "長野市"}
   {:name "戸隠流忍法資料館",
    :longitude 138.0801834,
    :latitude 36.7561874,
@@ -12827,7 +12827,7 @@
    :latitude 35.17625,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/bosokyodobijutsukan/",
-   :locality "鴨川市"}
+   :location "鴨川市"}
   {:name "所沢航空発祥記念館",
    :longitude 139.4716171,
    :latitude 35.799048,
@@ -12883,7 +12883,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.town.biratori.hokkaido.jp/kankou/bunka/bunka7/",
-   :locality "平取町"}
+   :location "平取町"}
   {:name "掛川市二の丸美術館",
    :longitude 138.014462,
    :latitude 34.7757329,
@@ -12946,7 +12946,7 @@
    :longitude 139.756582,
    :latitude 35.707984,
    :source :openstreetmap,
-   :locality "文京区"}
+   :location "文京区"}
   {:name "文化のみち二葉館",
    :longitude 136.9187113,
    :latitude 35.180418,
@@ -13001,7 +13001,7 @@
    :longitude 142.358601,
    :latitude 42.3438348,
    :source :openstreetmap,
-   :locality "新ひだか町"}
+   :location "新ひだか町"}
   {:name "新十津川物語記念館",
    :longitude 141.8432534,
    :latitude 43.5332892,
@@ -13039,7 +13039,7 @@
    :latitude 35.7208523,
    :source :openstreetmap,
    :homepage "https://www.regasu-shinjuku.or.jp/rekihaku/tsune/40357/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "新宿御苑ミュージアム",
    :longitude 139.7127848,
    :latitude 35.6860641,
@@ -13058,7 +13058,7 @@
    :latitude 35.6911,
    :source :openstreetmap,
    :homepage "https://www.sompo-museum.org/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "新居宿旅籠・紀伊国屋資料館",
    :longitude 137.55985,
    :latitude 34.6946925,
@@ -13122,7 +13122,7 @@
    :latitude 37.916071,
    :source :openstreetmap,
    :homepage "https://museum.nmam.jp/",
-   :locality "新潟市"}
+   :location "新潟市"}
   {:name "新潟市北区郷土博物館",
    :longitude 139.2256911,
    :latitude 37.9161051,
@@ -13209,7 +13209,7 @@
    :source :openstreetmap,
    :homepage
    "http://kanko.city.kyoto.lg.jp/detail.php?InforKindCode=1&ManageCode=5000148",
-   :locality "下京区 (Shimogyo Ward)"}
+   :location "下京区 (Shimogyo Ward)"}
   {:name "日下部民藝館",
    :longitude 137.258459,
    :latitude 36.146435,
@@ -13225,7 +13225,7 @@
    :latitude 37.7290459,
    :source :openstreetmap,
    :homepage "http://www.kitakata-kanko.jp/category/detail.php?id=129",
-   :locality "喜多方市"}
+   :location "喜多方市"}
   {:name "日光市役所 足尾環境学習センター",
    :longitude 139.4397653,
    :latitude 36.6759248,
@@ -13247,7 +13247,7 @@
    :latitude 35.8415422,
    :source :openstreetmap,
    :homepage "http://www.nippara.com",
-   :locality "奥多摩町"}
+   :location "奥多摩町"}
   {:name "日吉の森庭園美術館",
    :longitude 139.6347502,
    :latitude 35.5594726,
@@ -13256,12 +13256,12 @@
    :longitude 133.3809359,
    :latitude 35.4418177,
    :source :openstreetmap,
-   :locality "日吉津村"}
+   :location "日吉津村"}
   {:name "日和佐うみがめ博物館カレッタ",
    :longitude 134.5409773,
    :latitude 33.7348243,
    :source :openstreetmap,
-   :locality "美波町"}
+   :location "美波町"}
   {:name "日本こけし館",
    :longitude 140.6975382,
    :latitude 38.7363431,
@@ -13361,7 +13361,7 @@
    :longitude 136.3640494,
    :latitude 36.3083516,
    :source :openstreetmap,
-   :locality "加賀市"}
+   :location "加賀市"}
   {:name "日本書道美術館",
    :longitude 139.6901907,
    :latitude 35.7596612,
@@ -13383,7 +13383,7 @@
    :latitude 35.660849,
    :source :openstreetmap,
    :homepage "https://www.mingeikan.or.jp/",
-   :locality "目黒区"}
+   :location "目黒区"}
   {:name "日本水泳の歴史資料室",
    :longitude 137.6705025,
    :latitude 34.6754347,
@@ -13412,7 +13412,7 @@
    :longitude 136.4304537,
    :latitude 36.3343457,
    :source :openstreetmap,
-   :locality "小松市"}
+   :location "小松市"}
   {:name "日本航空館",
    :longitude 139.4720417,
    :latitude 36.1243459,
@@ -13430,7 +13430,7 @@
    :longitude 139.7716029,
    :latitude 35.6854395,
    :source :openstreetmap,
-   :locality "中央区"}
+   :location "中央区"}
   {:name "日本食研食文化博物館",
    :longitude 133.0291166,
    :latitude 34.047934,
@@ -13468,7 +13468,7 @@
    :longitude 130.347551,
    :latitude 31.510261,
    :source :openstreetmap,
-   :locality "日置市"}
+   :location "日置市"}
   {:name "日航ジャンボ機墜落事故記憶保存館",
    :longitude 138.7384161,
    :latitude 36.0856205,
@@ -13477,7 +13477,7 @@
    :longitude 139.399659,
    :latitude 35.678287,
    :source :openstreetmap,
-   :locality "日野市"}
+   :location "日野市"}
   {:name "日野市郷土資料館",
    :longitude 139.41149,
    :latitude 35.652482,
@@ -13515,7 +13515,7 @@
    :longitude 140.9682588,
    :latitude 42.3255213,
    :source :openstreetmap,
-   :locality "室蘭市"}
+   :location "室蘭市"}
   {:name "旧三日市交番",
    :longitude 135.569878,
    :latitude 34.4406336,
@@ -13541,7 +13541,7 @@
    :longitude 139.593623,
    :latitude 36.0085643,
    :source :openstreetmap,
-   :locality "伊奈町"}
+   :location "伊奈町"}
   {:name "旧伊藤博文金沢別邸",
    :longitude 139.6344146,
    :latitude 35.3299711,
@@ -13562,12 +13562,12 @@
    :longitude 130.3066434,
    :latitude 33.254111,
    :source :openstreetmap,
-   :locality "佐賀市"}
+   :location "佐賀市"}
   {:name "旧名古屋ボストン美術館",
    :longitude 136.9001051,
    :latitude 35.1425734,
    :source :openstreetmap,
-   :locality "名古屋市"}
+   :location "名古屋市"}
   {:name "旧吹屋小学校",
    :longitude 133.4705455,
    :latitude 34.8629595,
@@ -13576,7 +13576,7 @@
    :longitude 129.971121,
    :latitude 33.4487116,
    :source :openstreetmap,
-   :locality "唐津市"}
+   :location "唐津市"}
   {:name "旧坂東家住宅見沼くらしっく館",
    :longitude 139.690812,
    :latitude 35.9062357,
@@ -13612,12 +13612,12 @@
    :latitude 35.6401067,
    :source :openstreetmap,
    :homepage "https://www.city.setagaya.lg.jp/02059/3411.html",
-   :locality "世田谷区"}
+   :location "世田谷区"}
   {:name "旧島松駅遁所",
    :longitude 141.5378051,
    :latitude 42.9240589,
    :source :openstreetmap,
-   :locality "北広島市"}
+   :location "北広島市"}
   {:name "旧島田家住宅",
    :longitude 139.502228,
    :latitude 35.830513,
@@ -13628,12 +13628,12 @@
    :longitude 137.0334663,
    :latitude 35.1289035,
    :source :openstreetmap,
-   :locality "日進市野方町東島384"}
+   :location "日進市野方町東島384"}
   {:name "旧御子神家住宅",
    :longitude 140.2734089,
    :latitude 35.8215582,
    :source :openstreetmap,
-   :locality "成田市"}
+   :location "成田市"}
   {:name "旧敦賀港駅ランプ小屋",
    :longitude 136.0757556,
    :latitude 35.6632189,
@@ -13643,7 +13643,7 @@
    :latitude 35.6659465,
    :source :openstreetmap,
    :homepage "https://panasonic.co.jp/ew/museum/",
-   :locality "港区"}
+   :location "港区"}
   {:name "旧日本郵船株式会社小樽支店",
    :longitude 140.9982988,
    :latitude 43.2072964,
@@ -13708,7 +13708,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.sagamihara.kanagawa.jp/shisetsu/bunka_shakai/library_etc/013288.html",
-   :locality "相模原市"}
+   :location "相模原市"}
   {:name "旧秩父セメント資料展示室",
    :longitude 139.0897383,
    :latitude 35.9971583,
@@ -13763,7 +13763,7 @@
    :latitude 35.7099831,
    :source :openstreetmap,
    :homepage "https://enpaku.w.waseda.jp/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "旭川市博物館",
    :longitude 142.3506605,
    :latitude 43.7594001,
@@ -13782,7 +13782,7 @@
    :latitude 35.7029394,
    :source :openstreetmap,
    :homepage "https://www.city.asahi.lg.jp/kanko/002_11.html",
-   :locality "旭市"}
+   :location "旭市"}
   {:name "昆虫の家",
    :longitude 139.5004042,
    :latitude 38.0245406,
@@ -13840,7 +13840,7 @@
    :latitude 35.6986987,
    :source :openstreetmap,
    :homepage "https://www.meiji.ac.jp/museum/",
-   :locality "千代田区"}
+   :location "千代田区"}
   {:name "明治橋際の御蔵（下町資料館）",
    :longitude 141.1538883,
    :latitude 39.6917912,
@@ -13879,7 +13879,7 @@
    :longitude 140.108678,
    :latitude 35.724421,
    :source :openstreetmap,
-   :locality "八千代市"}
+   :location "八千代市"}
   {:name "春日井市立中央公民館内民俗展示室",
    :longitude 136.957255,
    :latitude 35.243044,
@@ -13909,13 +13909,13 @@
    :longitude 139.759038,
    :latitude 35.979394,
    :source :openstreetmap,
-   :locality "春日部市粕壁東３－２－１５"}
+   :location "春日部市粕壁東３－２－１５"}
   {:name "春花園BONSAI美術館",
    :longitude 139.8883206,
    :latitude 35.702659,
    :source :openstreetmap,
    :homepage "https://kunio-kobayashi.com/",
-   :locality "江戸川区"}
+   :location "江戸川区"}
   {:name "春野町立郷土資料館",
    :longitude 133.4885182,
    :latitude 33.4997193,
@@ -13930,7 +13930,7 @@
    :latitude 35.5752225,
    :source :openstreetmap,
    :homepage "https://www.showanokurashi.com/",
-   :locality "大田区"}
+   :location "大田区"}
   {:name "昭和の想い出博物館　レトロ館",
    :longitude 141.7648139,
    :latitude 40.1899164,
@@ -14050,7 +14050,7 @@
    :latitude 42.8104244,
    :source :openstreetmap,
    :homepage "https://www.town.niseko.lg.jp/arishima_museum",
-   :locality "ニセコ町"}
+   :location "ニセコ町"}
   {:name "有年考古館",
    :longitude 134.382581,
    :latitude 34.835254,
@@ -14075,12 +14075,12 @@
    :longitude 129.91104,
    :latitude 33.195076,
    :source :openstreetmap,
-   :locality "有田町"}
+   :location "有田町"}
   {:name "有田町歴史民族資料館西館",
    :longitude 129.848565,
    :latitude 33.2111295,
    :source :openstreetmap,
-   :locality "有田町"}
+   :location "有田町"}
   {:name "朝倉文夫記念館",
    :longitude 131.446254,
    :latitude 33.026935,
@@ -14158,12 +14158,12 @@
    :latitude 35.3794112,
    :source :openstreetmap,
    :homepage "https://www.city.kisarazu.lg.jp/13,491,38,262.html",
-   :locality "木更津市"}
+   :location "木更津市"}
   {:name "木曽三川輪中ミュージアム",
    :longitude 136.640637,
    :latitude 35.216369,
    :source :openstreetmap,
-   :locality "海津市"}
+   :location "海津市"}
   {:name "木曽義仲館",
    :longitude 137.7614442,
    :latitude 35.8894373,
@@ -14181,7 +14181,7 @@
    :latitude 35.6457328,
    :source :openstreetmap,
    :homepage "https://www.woodmuseum.jp/wp/",
-   :locality "江東区"}
+   :location "江東区"}
   {:name "木材文化館",
    :longitude 139.2878445,
    :latitude 36.1118902,
@@ -14242,7 +14242,7 @@
    :longitude 130.198626,
    :latitude 32.4607918,
    :source :openstreetmap,
-   :locality "天草市"}
+   :location "天草市"}
   {:name "本田美奈子.記念館",
    :longitude 139.580254,
    :latitude 35.8013659,
@@ -14251,7 +14251,7 @@
    :longitude 140.0490404,
    :latitude 39.3984459,
    :source :openstreetmap,
-   :locality "由利本荘市"}
+   :location "由利本荘市"}
   {:name "本部町立博物館",
    :longitude 127.8837453,
    :latitude 26.6559026,
@@ -14260,7 +14260,7 @@
    :longitude 141.2960655,
    :latitude 43.0555519,
    :source :openstreetmap,
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "本郷歴史民俗資料館",
    :longitude 132.03847,
    :latitude 34.295624,
@@ -14280,24 +14280,24 @@
    :source :openstreetmap,
    :homepage
    "https://www.sapporo.travel/find/art/miyanomori_international_museum_of_art/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市アイヌ文化交流センター",
    :longitude 141.2197237,
    :latitude 42.9688912,
    :source :openstreetmap,
    :homepage "https://www.city.sapporo.jp/shimin/pirka-kotan/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市下水道科学館",
    :longitude 141.3425132,
    :latitude 43.1168763,
    :source :openstreetmap,
    :homepage "https://sapporo-src.com/kagakukan/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市交通資料館",
    :longitude 141.3642656,
    :latitude 43.0046818,
    :source :openstreetmap,
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市博物館活動センター",
    :longitude 141.3725055,
    :latitude 43.0186599,
@@ -14311,25 +14311,25 @@
    :latitude 43.0625566,
    :source :openstreetmap,
    :homepage "https://sapporoshi-tokeidai.jp/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市水道記念館",
    :longitude 141.3286403,
    :latitude 43.0330672,
    :source :openstreetmap,
    :homepage "https://www.swsa.jp/museum/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市豊平川さけ科学館",
    :longitude 141.343248,
    :latitude 43.0010571,
    :source :openstreetmap,
    :homepage "http://www.sapporo-park.or.jp/sake/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市資料館",
    :longitude 141.3374679,
    :latitude 43.0585319,
    :source :openstreetmap,
    :homepage "https://www.s-shiryokan.jp/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札幌市青少年科学館",
    :longitude 141.4722581,
    :latitude 43.036095,
@@ -14340,7 +14340,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.sapporo.jp/ncms/shimin/bunkazai/bunkazai/syousai/30c_sapporomura.html",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "札掛森の家",
    :longitude 139.2131627,
    :latitude 35.4614014,
@@ -14350,7 +14350,7 @@
    :latitude 35.7104595,
    :source :openstreetmap,
    :homepage "https://sam.or.jp/",
-   :locality "杉並区"}
+   :location "杉並区"}
   {:name "杉並区立科学館",
    :longitude 139.6193654,
    :latitude 35.7164527,
@@ -14360,7 +14360,7 @@
    :latitude 35.6860219,
    :source :openstreetmap,
    :homepage "https://www.city.suginami.tokyo.jp/histmus/",
-   :locality "杉並区"}
+   :location "杉並区"}
   {:name "杉本美術館",
    :longitude 136.866254,
    :latitude 34.801962,
@@ -14385,7 +14385,7 @@
    :latitude 34.9140654,
    :source :openstreetmap,
    :homepage "http://www.murakami-museum.co.jp/",
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "村上水軍博物館",
    :longitude 133.0876143,
    :latitude 34.1688899,
@@ -14395,7 +14395,7 @@
    :longitude 139.3367447,
    :latitude 35.6796931,
    :source :openstreetmap,
-   :locality "八王子市"}
+   :location "八王子市"}
   {:name "村山龍平記念館",
    :longitude 136.6309173,
    :latitude 34.4912284,
@@ -14449,12 +14449,12 @@
    :latitude 35.6613939,
    :source :openstreetmap,
    :homepage "https://art.parco.jp/",
-   :locality "渋谷区"}
+   :location "渋谷区"}
   {:name "東京オペラシティアートギャラリー",
    :longitude 139.686756,
    :latitude 35.683003,
    :source :openstreetmap,
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "東京カルチャーセンター",
    :longitude 139.873441,
    :latitude 35.6641097,
@@ -14475,7 +14475,7 @@
    :latitude 35.7190658,
    :source :openstreetmap,
    :homepage "https://www.tnm.jp/",
-   :locality "台東区"}
+   :location "台東区"}
   {:name "東京大学大学院総合文化研究科教養学部美術博物館",
    :longitude 139.6857114,
    :latitude 35.6593553,
@@ -14504,7 +14504,7 @@
    :longitude 139.72029,
    :latitude 35.697188,
    :source :openstreetmap,
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "東京家政大学博物館",
    :longitude 139.7212985,
    :latitude 35.7551522,
@@ -14517,7 +14517,7 @@
    :longitude 139.3294543,
    :latitude 35.686378,
    :source :openstreetmap,
-   :locality "八王子市"}
+   :location "八王子市"}
   {:name "東京海洋大学海洋科学部附属水産資料館",
    :longitude 139.747243,
    :latitude 35.626891,
@@ -14537,7 +14537,7 @@
    :latitude 35.719192,
    :source :openstreetmap,
    :homepage "https://www.geidai.ac.jp/museum/",
-   :locality "台東区"}
+   :location "台東区"}
   {:name "東京藝術大学美術館取手館",
    :longitude 140.1148467,
    :latitude 35.8842926,
@@ -14560,7 +14560,7 @@
    :latitude 35.641543,
    :source :openstreetmap,
    :homepage "https://www.sapporobeer.jp/brewery/y_museum/",
-   :locality "目黒区"}
+   :location "目黒区"}
   {:name "東京都埋蔵文化財センター",
    :longitude 139.427692,
    :latitude 35.6260208,
@@ -14582,7 +14582,7 @@
    :latitude 35.679795,
    :source :openstreetmap,
    :homepage "https://www.mot-art-museum.jp/",
-   :locality "江東区"}
+   :location "江東区"}
   {:name "東京都目黒区立 川の資料館",
    :longitude 139.7022628,
    :latitude 35.6413172,
@@ -14673,24 +14673,24 @@
    :longitude 141.0265199,
    :latitude 37.4580802,
    :source :openstreetmap,
-   :locality "双葉町"}
+   :location "双葉町"}
   {:name "東日本大震災津波伝承館",
    :longitude 141.6273093,
    :latitude 39.0073097,
    :source :openstreetmap,
    :homepage "https://iwate-tsunami-memorial.jp/",
-   :locality "陸前高田市"}
+   :location "陸前高田市"}
   {:name "東映アニメーションミュージアム",
    :longitude 139.5946401,
    :latitude 35.7518085,
    :source :openstreetmap,
    :homepage "https://museum.toei-anim.co.jp/",
-   :locality "練馬区"}
+   :location "練馬区"}
   {:name "東村山ふるさと歴史館",
    :longitude 139.466354,
    :latitude 35.766673,
    :source :openstreetmap,
-   :locality "東村山市"}
+   :location "東村山市"}
   {:name "東村文化・スポーツ記念館",
    :longitude 128.1565989,
    :latitude 26.636385,
@@ -14705,7 +14705,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.higashimatsushima.miyagi.jp/index.cfm/22,28310,71,271,html",
-   :locality "東松島市"}
+   :location "東松島市"}
   {:name "東栄町立博物館",
    :longitude 137.703754,
    :latitude 35.067643,
@@ -14723,7 +14723,7 @@
    :latitude 35.723464,
    :source :openstreetmap,
    :homepage "https://www.tobu.co.jp/museum/",
-   :locality "墨田区"}
+   :location "墨田区"}
   {:name "東洋文庫ミュージアム",
    :longitude 139.7487108,
    :latitude 35.7312456,
@@ -14779,7 +14779,7 @@
    :source :openstreetmap,
    :homepage
    "https://fujishima-bunka.jp/facilities/higashitagawabunka/introduction",
-   :locality "鶴岡市"}
+   :location "鶴岡市"}
   {:name "東祖谷歴史民俗資料館",
    :longitude 133.906376,
    :latitude 33.8681591,
@@ -14817,7 +14817,7 @@
    :longitude 130.71781,
    :latitude 32.550185,
    :source :openstreetmap,
-   :locality "八代市"}
+   :location "八代市"}
   {:name "東風平歴史民俗資料館",
    :longitude 127.715097,
    :latitude 26.150696,
@@ -14836,7 +14836,7 @@
    :longitude 130.8254061,
    :latitude 31.6546275,
    :source :openstreetmap,
-   :locality "霧島市"}
+   :location "霧島市"}
   {:name "松下資料館",
    :longitude 135.7546664,
    :latitude 34.9837651,
@@ -14846,7 +14846,7 @@
    :latitude 36.4309964,
    :source :openstreetmap,
    :homepage "https://www.hideki.co.jp/index.html",
-   :locality "能美市タ58"}
+   :location "能美市タ58"}
   {:name "松伯美術館",
    :longitude 135.747168,
    :latitude 34.7102,
@@ -14860,12 +14860,12 @@
    :latitude 35.3659045,
    :source :openstreetmap,
    :homepage "http://www.kinenkan.u-tokai.ac.jp/",
-   :locality "平塚市"}
+   :location "平塚市"}
   {:name "松尾鉱山資料館",
    :longitude 140.9781939,
    :latitude 39.9144734,
    :source :openstreetmap,
-   :locality "八幡平市"}
+   :location "八幡平市"}
   {:name "松山ふるさと歴史館",
    :longitude 141.0517029,
    :latitude 38.5118044,
@@ -14882,7 +14882,7 @@
    :longitude 132.787045,
    :latitude 33.849701,
    :source :openstreetmap,
-   :locality "松山市"}
+   :location "松山市"}
   {:name "松山市考古館",
    :longitude 132.7353721,
    :latitude 33.8396888,
@@ -14908,7 +14908,7 @@
    :longitude 139.9395298,
    :latitude 35.8009982,
    :source :openstreetmap,
-   :locality "松戸市"}
+   :location "松戸市"}
   {:name "松本城",
    :longitude 137.9689341,
    :latitude 36.2386587,
@@ -14977,7 +14977,7 @@
    :longitude 134.5824605,
    :latitude 34.1368121,
    :source :openstreetmap,
-   :locality "板野郡松茂町"}
+   :location "板野郡松茂町"}
   {:name "松阪商人の館",
    :longitude 136.5293002,
    :latitude 34.5798687,
@@ -15044,7 +15044,7 @@
    :latitude 37.3590021,
    :source :openstreetmap,
    :homepage "https://sadoukan.jp/",
-   :locality "柏崎市"}
+   :location "柏崎市"}
   {:name "柏市立砂川美術工芸館",
    :longitude 139.975528,
    :latitude 35.870282,
@@ -15090,7 +15090,7 @@
    :latitude 34.3227799,
    :source :openstreetmap,
    :homepage "https://www.pref.nara.jp/9617.htm",
-   :locality "五條市"}
+   :location "五條市"}
   {:name "柿右衛門古陶磁参考館",
    :longitude 129.8679039,
    :latitude 33.1811079,
@@ -15120,7 +15120,7 @@
    :longitude 139.5001194,
    :latitude 36.7385829,
    :source :openstreetmap,
-   :locality "日光市"}
+   :location "日光市"}
   {:name "栃木県立美術館",
    :longitude 139.866144,
    :latitude 36.5674419,
@@ -15200,7 +15200,7 @@
    :longitude 136.6938739,
    :latitude 35.0634241,
    :source :openstreetmap,
-   :locality "三重県桑名市京町37-1"}
+   :location "三重県桑名市京町37-1"}
   {:name "桑山美術館",
    :longitude 136.9536004,
    :latitude 35.1483804,
@@ -15227,7 +15227,7 @@
    :latitude 33.2694112,
    :source :openstreetmap,
    :homepage "https://ja-jp.facebook.com/gallerymasuya/",
-   :locality "別府市"}
+   :location "別府市"}
   {:name "桶川市歴史民俗資料館",
    :longitude 139.526644,
    :latitude 35.994111,
@@ -15350,7 +15350,7 @@
    :latitude 35.660432,
    :source :openstreetmap,
    :homepage "https://www.mori.art.museum/jp/index.html",
-   :locality "港区"}
+   :location "港区"}
   {:name "森鴎外記念館",
    :longitude 131.768319,
    :latitude 34.457277,
@@ -15406,7 +15406,7 @@
    :latitude 42.1247404,
    :source :openstreetmap,
    :homepage "http://www.samani.jp/kyouiku/index4.html",
-   :locality "様似町"}
+   :location "様似町"}
   {:name "樂美術館",
    :longitude 135.75327,
    :latitude 35.025676,
@@ -15416,7 +15416,7 @@
    :latitude 43.6592977,
    :source :openstreetmap,
    :homepage "https://s-salmon.com/",
-   :locality "標津町"}
+   :location "標津町"}
   {:name "横倉山自然の森博物館",
    :longitude 133.2420371,
    :latitude 33.535419,
@@ -15429,13 +15429,13 @@
    :longitude 140.5692289,
    :latitude 39.3105281,
    :source :openstreetmap,
-   :locality "横手市"}
+   :location "横手市"}
   {:name "横手市増田まんが美術館",
    :longitude 140.5504976,
    :latitude 39.2045713,
    :source :openstreetmap,
    :homepage "https://manga-museum.com/",
-   :locality "横手市"}
+   :location "横手市"}
   {:name "横浜みなと博物館",
    :longitude 139.632629,
    :latitude 35.452709,
@@ -15450,7 +15450,7 @@
    :latitude 35.4431909,
    :source :openstreetmap,
    :homepage "https://www.doll-museum.jp/",
-   :locality "横浜市"}
+   :location "横浜市"}
   {:name "横浜山手テニス発祥記念館",
    :longitude 139.6483242,
    :latitude 35.4349142,
@@ -15595,7 +15595,7 @@
    :latitude 35.630659,
    :source :openstreetmap,
    :homepage "https://www.city.setagaya.lg.jp/02059/18017.html",
-   :locality "世田谷区"}
+   :location "世田谷区"}
   {:name "正木美術館",
    :longitude 135.3921429,
    :latitude 34.4946636,
@@ -15646,7 +15646,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.fuchu.tokyo.jp/shisetu/komyunite/gekijo/kumanokofun_tenjikan.html",
-   :locality "府中市西府町"}
+   :location "府中市西府町"}
   {:name "武蔵村山市立歴史民俗資料館",
    :longitude 139.387288,
    :latitude 35.762364,
@@ -15766,7 +15766,7 @@
    :latitude 35.2698439,
    :source :openstreetmap,
    :homepage "https://www.ifs.or.jp/",
-   :locality "智頭町"}
+   :location "智頭町"}
   {:name "毒ガス資料館",
    :longitude 132.9941834,
    :latitude 34.3058895,
@@ -15785,7 +15785,7 @@
    :longitude 131.6924956,
    :latitude 33.2369206,
    :source :openstreetmap,
-   :locality "大分市"}
+   :location "大分市"}
   {:name "毛呂山町歴史民俗資料館",
    :longitude 139.346492,
    :latitude 35.955857,
@@ -15808,12 +15808,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.chigasaki.kanagawa.jp/shisetsu_info/s_kyoiku/1002682.html",
-   :locality "茅ヶ崎市"}
+   :location "茅ヶ崎市"}
   {:name "民俗資料館村上家",
    :longitude 136.9309667,
    :latitude 36.4105653,
    :source :openstreetmap,
-   :locality "南砺市"}
+   :location "南砺市"}
   {:name "民具資料館",
    :longitude 130.3677331,
    :latitude 32.7900572,
@@ -15832,7 +15832,7 @@
    :latitude 35.6823264,
    :source :openstreetmap,
    :homepage "https://museum.min-on.or.jp/",
-   :locality "新宿区"}
+   :location "新宿区"}
   {:name "気仙大工左官伝承館",
    :longitude 141.6921905,
    :latitude 39.010801,
@@ -15842,24 +15842,24 @@
    :latitude 38.8314364,
    :source :openstreetmap,
    :homepage "https://www.kesennuma-memorial.jp/",
-   :locality "気仙沼市"}
+   :location "気仙沼市"}
   {:name "気賀関所",
    :longitude 137.6486609,
    :latitude 34.806153,
    :source :openstreetmap,
    :homepage
    "https://www.city.hamamatsu.shizuoka.jp/maps/k-hosecamp.html",
-   :locality "浜松市"}
+   :location "浜松市"}
   {:name "水とかがやく未来館",
    :longitude 139.5439739,
    :latitude 35.6045357,
    :source :openstreetmap,
-   :locality "川崎市"}
+   :location "川崎市"}
   {:name "水ときらめき紀の川館",
    :longitude 135.1967879,
    :latitude 34.2523183,
    :source :openstreetmap,
-   :locality "和歌山市"}
+   :location "和歌山市"}
   {:name "水とエネルギー 只見展示館",
    :longitude 139.2980121,
    :latitude 37.3369666,
@@ -15943,7 +15943,7 @@
    :latitude 35.6565291,
    :source :openstreetmap,
    :homepage "https://www.tokyo-suisomiru.jp/",
-   :locality "江東区"}
+   :location "江東区"}
   {:name "水谷公記念館",
    :longitude 133.6719974,
    :latitude 34.5432662,
@@ -16008,7 +16008,7 @@
    :longitude 136.4771038,
    :latitude 35.2437763,
    :source :openstreetmap,
-   :locality "大垣市"}
+   :location "大垣市"}
   {:name "江尻排水ポンプ展示館",
    :longitude 140.7746361,
    :latitude 37.9715045,
@@ -16021,7 +16021,7 @@
    :longitude 138.9584067,
    :latitude 35.0549714,
    :source :openstreetmap,
-   :locality "伊豆の国市"}
+   :location "伊豆の国市"}
   {:name "江府町歴史民俗資料館",
    :longitude 133.4862016,
    :latitude 35.2820823,
@@ -16043,7 +16043,7 @@
    :latitude 35.7163668,
    :source :openstreetmap,
    :homepage "https://www.tatemonoen.jp/",
-   :locality "小金井市"}
+   :location "小金井市"}
   {:name "江戸歴史散歩コーナー",
    :longitude 139.7365541,
    :latitude 35.6930474,
@@ -16143,7 +16143,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.okinawa.okinawa.jp/site/view/contview.jsp?cateid=107&id=8670&page=1",
-   :locality "沖縄県沖縄市上地2-19-6　文化センター３階"}
+   :location "沖縄県沖縄市上地2-19-6　文化センター３階"}
   {:name "沖縄歴史民俗資料館",
    :longitude 127.960017,
    :latitude 26.6370169,
@@ -16196,7 +16196,7 @@
    :latitude 35.5192957,
    :source :openstreetmap,
    :homepage "https://www.fkchannel.jp/facility-01",
-   :locality "富士河口湖町"}
+   :location "富士河口湖町"}
   {:name "河口湖自動車博物館 飛行舘",
    :longitude 138.7410533,
    :latitude 35.4536743,
@@ -16209,7 +16209,7 @@
    :longitude 133.6155827,
    :latitude 35.515639,
    :source :openstreetmap,
-   :locality "琴浦町"}
+   :location "琴浦町"}
   {:name "河鍋暁斎記念美術館",
    :longitude 139.693476,
    :latitude 35.8157897,
@@ -16218,7 +16218,7 @@
    :longitude 138.1599144,
    :latitude 34.698098,
    :source :openstreetmap,
-   :locality "牧之原市"}
+   :location "牧之原市"}
   {:name "沼津市戸田造船郷土資料博物館",
    :longitude 138.7663971,
    :latitude 34.9767711,
@@ -16231,7 +16231,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.numazu.shizuoka.jp/kurashi/shisetsu/meiji/",
-   :locality "沼津市"}
+   :location "沼津市"}
   {:name "沼津市歴史民俗資料館",
    :longitude 138.873266,
    :latitude 35.071388,
@@ -16241,7 +16241,7 @@
    :latitude 35.0870893,
    :source :openstreetmap,
    :homepage "http://web.thn.jp/bokusui/",
-   :locality "沼津市"}
+   :location "沼津市"}
   {:name "泉佐野市立歴史館いずみさの",
    :longitude 135.3278314,
    :latitude 34.4047109,
@@ -16279,7 +16279,7 @@
    :latitude 42.563929,
    :source :openstreetmap,
    :homepage "http://www.toyako-vc.jp/",
-   :locality "洞爺湖町"}
+   :location "洞爺湖町"}
   {:name "洞爺湖森林博物館",
    :longitude 140.8447658,
    :latitude 42.5960963,
@@ -16339,7 +16339,7 @@
    :longitude 136.5436424,
    :latitude 34.6459904,
    :source :openstreetmap,
-   :locality "三重県津市 香良洲町6320"}
+   :location "三重県津市 香良洲町6320"}
   {:name "津波・高潮ステーション",
    :longitude 135.484908,
    :latitude 34.6822479,
@@ -16349,7 +16349,7 @@
    :latitude 40.606429,
    :source :openstreetmap,
    :homepage "http://tsugarukokeshi.com",
-   :locality "黒石市"}
+   :location "黒石市"}
   {:name "津軽藩ねぷた村",
    :longitude 140.4696888,
    :latitude 40.611141,
@@ -16367,7 +16367,7 @@
    :latitude 35.3430922,
    :source :openstreetmap,
    :homepage "http://nagashibinanoyakata.jp/",
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "流山市立博物館",
    :longitude 139.902498,
    :latitude 35.858662,
@@ -16387,7 +16387,7 @@
    :latitude 34.7494611,
    :source :openstreetmap,
    :homepage "https://chouhachi-mh.izu-westwind.net/",
-   :locality "松崎町"}
+   :location "松崎町"}
   {:name "浅蔵五十吉美術館（能美市九谷焼美術館）",
    :longitude 136.521219,
    :latitude 36.430415,
@@ -16409,7 +16409,7 @@
    :longitude 134.4537234,
    :latitude 35.6249779,
    :source :openstreetmap,
-   :locality "新温泉町"}
+   :location "新温泉町"}
   {:name "浜寺公園 ステーション ギャラリー",
    :longitude 135.4440384,
    :latitude 34.5407717,
@@ -16428,12 +16428,12 @@
    :latitude 34.712529,
    :source :openstreetmap,
    :homepage "https://www.city.hamamatsu.shizuoka.jp/hamahaku/",
-   :locality "浜松市"}
+   :location "浜松市"}
   {:name "浜松市地域遺産センター",
    :longitude 137.6697164,
    :latitude 34.8345194,
    :source :openstreetmap,
-   :locality "浜松市"}
+   :location "浜松市"}
   {:name "浜松市天文台",
    :longitude 137.7689202,
    :latitude 34.6634788,
@@ -16469,7 +16469,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.hamamatsu.shizuoka.jp/hamahaku/09annex/hakubut07.html",
-   :locality "浜松市"}
+   :location "浜松市"}
   {:name "浜松市雄踏文化センター",
    :longitude 137.6344932,
    :latitude 34.701581,
@@ -16517,12 +16517,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.town.urakawa.hokkaido.jp/gyosei/culture/?content=134",
-   :locality "浦河町"}
+   :location "浦河町"}
   {:name "浦添グスク・ようどれ館",
    :longitude 127.7289505,
    :latitude 26.2487782,
    :source :openstreetmap,
-   :locality "浦添市"}
+   :location "浦添市"}
   {:name "浦添市 歴史にふれる館",
    :longitude 127.7138619,
    :latitude 26.274056,
@@ -16533,7 +16533,7 @@
    :latitude 26.250251,
    :source :openstreetmap,
    :homepage "https://urasoe-artmuseum.jp/",
-   :locality "浦添市"}
+   :location "浦添市"}
   {:name "浦臼町郷土資料館",
    :longitude 141.8158704,
    :latitude 43.4279243,
@@ -16546,7 +16546,7 @@
    :longitude 133.2417769,
    :latitude 35.5471638,
    :source :openstreetmap,
-   :locality "境港市"}
+   :location "境港市"}
   {:name "海の博物館",
    :longitude 136.8995033,
    :latitude 34.4493281,
@@ -16560,7 +16560,7 @@
    :latitude 34.2944319,
    :source :openstreetmap,
    :homepage "https://www.umihozuki.org/",
-   :locality "志摩市"}
+   :location "志摩市"}
   {:name "海上保安資料館 横浜館",
    :longitude 139.6442523,
    :latitude 35.4542824,
@@ -16596,7 +16596,7 @@
    :longitude 136.7811239,
    :latitude 34.2621833,
    :source :openstreetmap,
-   :locality "志摩市"}
+   :location "志摩市"}
   {:name "海山郷土資料館",
    :longitude 136.2187,
    :latitude 34.138666,
@@ -16609,7 +16609,7 @@
    :longitude 139.9419587,
    :latitude 34.970009,
    :source :openstreetmap,
-   :locality "南房総市千倉町川戸"}
+   :location "南房総市千倉町川戸"}
   {:name "海岸通ギャラリー・CASO",
    :longitude 135.4380761,
    :latitude 34.6510989,
@@ -16619,7 +16619,7 @@
    :latitude 34.7265771,
    :source :openstreetmap,
    :homepage "https://www.kuragebunko.com/",
-   :locality "大阪市"}
+   :location "大阪市"}
   {:name "海来館",
    :longitude 132.1124419,
    :latitude 33.8305388,
@@ -16650,27 +16650,27 @@
    :longitude 139.3869133,
    :latitude 35.4522098,
    :source :openstreetmap,
-   :locality "海老名市"}
+   :location "海老名市"}
   {:name "海老名市民ギャラリー",
    :longitude 139.3958154,
    :latitude 35.4497837,
    :source :openstreetmap,
    :homepage "https://www.ebina-bunka.jp/",
-   :locality "海老名市"}
+   :location "海老名市"}
   {:name "海老名市温故館",
    :longitude 139.3973555,
    :latitude 35.4540588,
    :source :openstreetmap,
    :homepage
    "https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/onko/",
-   :locality "海老名市"}
+   :location "海老名市"}
   {:name "海老名市立歴史資料収蔵館",
    :longitude 139.37635,
    :latitude 35.4494775,
    :source :openstreetmap,
    :homepage
    "https://www.city.ebina.kanagawa.jp/shisei/profile/tankyusha/syuzokan/",
-   :locality "海老名市"}
+   :location "海老名市"}
   {:name "海軍記念館",
    :longitude 135.3720502,
    :latitude 35.475204,
@@ -16683,7 +16683,7 @@
    :longitude 134.164017,
    :latitude 34.615808,
    :source :openstreetmap,
-   :locality "瀬戸内市"}
+   :location "瀬戸内市"}
   {:name "海部古墳資料館",
    :longitude 131.7396682,
    :latitude 33.2335904,
@@ -16708,7 +16708,7 @@
    :longitude 135.6426903,
    :latitude 34.8158227,
    :source :openstreetmap,
-   :locality "枚方市"}
+   :location "枚方市"}
   {:name "淀江和傘伝承館",
    :longitude 133.4299665,
    :latitude 35.4589362,
@@ -16819,12 +16819,12 @@
    :latitude 43.0444572,
    :source :openstreetmap,
    :homepage "http://www.ac.auone-net.jp/~bungaku/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "渡辺美術館",
    :longitude 134.2273115,
    :latitude 35.5209651,
    :source :openstreetmap,
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "温故集成館",
    :longitude 136.6462657,
    :latitude 35.2640149,
@@ -16845,7 +16845,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.city.muroran.lg.jp/main/shisetsu/minatonobungakukan.html",
-   :locality "室蘭市"}
+   :location "室蘭市"}
   {:name "港区立港郷土資料館",
    :longitude 139.7452081,
    :latitude 35.6470718,
@@ -16861,7 +16861,7 @@
    :latitude 42.9801967,
    :source :openstreetmap,
    :homepage "https://www.kushiro-artmu.jp/",
-   :locality "釧路市"}
+   :location "釧路市"}
   {:name "湊川神社宝物殿",
    :longitude 135.1758913,
    :latitude 34.6806894,
@@ -16987,7 +16987,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.elizabeth-sh.jp/memorialmuseum/memorial.html",
-   :locality "大磯町"}
+   :location "大磯町"}
   {:name "瀧澤家住宅",
    :longitude 139.9716672,
    :latitude 36.6852325,
@@ -16996,7 +16996,7 @@
    :longitude 134.1467779,
    :latitude 34.6206092,
    :source :openstreetmap,
-   :locality "瀬戸内市"}
+   :location "瀬戸内市"}
   {:name "瀬戸内市立邑久郷土資料館",
    :longitude 134.093866,
    :latitude 34.662983,
@@ -17014,7 +17014,7 @@
    :latitude 35.2254711,
    :source :openstreetmap,
    :homepage "https://www.setogura-museum.jp/museum/",
-   :locality "瀬戸市"}
+   :location "瀬戸市"}
   {:name "瀬棚郷土館",
    :longitude 139.8550468,
    :latitude 42.4529697,
@@ -17045,7 +17045,7 @@
    :latitude 33.1886498,
    :source :openstreetmap,
    :homepage "http://kinendou.com/",
-   :locality "有田町"}
+   :location "有田町"}
   {:name "無尽蔵",
    :longitude 139.674121,
    :latitude 35.7220179,
@@ -17063,7 +17063,7 @@
    :longitude 136.372452,
    :latitude 36.240677,
    :source :openstreetmap,
-   :locality "山中温泉"}
+   :location "山中温泉"}
   {:name "焼津市歴史民俗資料館",
    :longitude 138.305366,
    :latitude 34.864528,
@@ -17096,7 +17096,7 @@
    :longitude 130.6521298,
    :latitude 32.9117481,
    :source :openstreetmap,
-   :locality "熊本市"}
+   :location "熊本市"}
   {:name "熊本市立熊本博物館",
    :longitude 130.6993427,
    :latitude 32.808624,
@@ -17273,7 +17273,7 @@
    :latitude 35.589441,
    :source :openstreetmap,
    :homepage "https://genbudo-museum.jp/",
-   :locality "豊岡市"}
+   :location "豊岡市"}
   {:name "玄海エネルギーパーク",
    :longitude 129.840365,
    :latitude 33.51533,
@@ -17287,7 +17287,7 @@
    :latitude 35.8001502,
    :source :openstreetmap,
    :homepage "http://www.gyokudo.jp/",
-   :locality "青梅市"}
+   :location "青梅市"}
   {:name "玉山名史刀",
    :longitude 133.9231587,
    :latitude 34.6623907,
@@ -17322,7 +17322,7 @@
    :longitude 139.5194381,
    :latitude 35.3512416,
    :source :openstreetmap,
-   :locality "鎌倉市"}
+   :location "鎌倉市"}
   {:name "玉電と郷土の歴史館",
    :longitude 139.622871,
    :latitude 35.616696,
@@ -17344,7 +17344,7 @@
    :latitude 36.4663737,
    :source :openstreetmap,
    :homepage "http://chinpoukan.com",
-   :locality "北群馬"}
+   :location "北群馬"}
   {:name "珠洲市立珠洲焼資料館",
    :longitude 137.321029,
    :latitude 37.440425,
@@ -17367,13 +17367,13 @@
    :latitude 26.4296411,
    :source :openstreetmap,
    :homepage "https://ryukyumura.co.jp/",
-   :locality "恩納村 (Onna Village)"}
+   :location "恩納村 (Onna Village)"}
   {:name "琉球稲嶺泡ガラス",
    :longitude 127.7553758,
    :latitude 26.4057319,
    :source :openstreetmap,
    :homepage "https://shinman.okinawa/",
-   :locality "読谷村"}
+   :location "読谷村"}
   {:name "琴引浜鳴き砂文化館",
    :longitude 135.0571412,
    :latitude 35.6975246,
@@ -17398,7 +17398,7 @@
    :longitude 137.2563338,
    :latitude 35.3647415,
    :source :openstreetmap,
-   :locality "瑞浪市"}
+   :location "瑞浪市"}
   {:name "瑞穂町郷土資料館けやき館",
    :longitude 139.3520844,
    :latitude 35.7805512,
@@ -17445,7 +17445,7 @@
    :longitude 137.225062,
    :latitude 34.820249,
    :source :openstreetmap,
-   :locality "蒲郡市"}
+   :location "蒲郡市"}
   {:name "生月町博物館・島の館",
    :longitude 129.430941,
    :latitude 33.355404,
@@ -17463,13 +17463,13 @@
    :latitude 31.9464645,
    :source :openstreetmap,
    :homepage "https://yukokan.miyabunkyo.com/",
-   :locality "宮崎市"}
+   :location "宮崎市"}
   {:name "生駒ふるさとミュージアム",
    :longitude 135.7043733,
    :latitude 34.6906016,
    :source :openstreetmap,
    :homepage "http://ikoma-museum.jp/",
-   :locality "生駒市山崎町"}
+   :location "生駒市山崎町"}
   {:name "田上郷土史料館",
    :longitude 135.9641724,
    :latitude 34.9586449,
@@ -17589,7 +17589,7 @@
    :latitude 34.9679914,
    :source :openstreetmap,
    :homepage "http://www.city.koka.lg.jp/2222.htm",
-   :locality "甲賀市"}
+   :location "甲賀市"}
   {:name "甲賀市立信楽産業展示館",
    :longitude 136.0586028,
    :latitude 34.8862448,
@@ -17644,7 +17644,7 @@
    :latitude 35.5440324,
    :source :openstreetmap,
    :homepage "https://hanga-museum.jp/",
-   :locality "町田市"}
+   :location "町田市"}
   {:name "町田市考古資料室",
    :longitude 139.4105059,
    :latitude 35.5889439,
@@ -17654,7 +17654,7 @@
    :latitude 43.7832966,
    :source :openstreetmap,
    :homepage "https://www.g-shes.com/",
-   :locality "旭川市"}
+   :location "旭川市"}
   {:name "画廊エイシンアートセンター",
    :longitude 139.9224832,
    :latitude 37.4885541,
@@ -17669,7 +17669,7 @@
    :latitude 34.7227057,
    :source :openstreetmap,
    :homepage "http://cafemitsu.blog.fc2.com/",
-   :locality "尼崎市東難波町5-7-9"}
+   :location "尼崎市東難波町5-7-9"}
   {:name "画廊松徳",
    :longitude 136.8987496,
    :latitude 35.1723758,
@@ -17692,7 +17692,7 @@
    :longitude 139.726938,
    :latitude 35.632242,
    :source :openstreetmap,
-   :locality "白金台二丁目"}
+   :location "白金台二丁目"}
   {:name "畦地梅太郎記念美術館",
    :longitude 132.5961072,
    :latitude 33.2864776,
@@ -17726,7 +17726,7 @@
    :latitude 43.0886903,
    :source :openstreetmap,
    :homepage "https://www.shiroikoibitopark.jp/",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "白井市郷土資料館",
    :longitude 140.057948,
    :latitude 35.790481,
@@ -17744,7 +17744,7 @@
    :longitude 136.5632386,
    :latitude 36.5243817,
    :source :openstreetmap,
-   :locality "白山市"}
+   :location "白山市"}
   {:name "白山市立鳥越歴史民俗資料館",
    :longitude 136.604279,
    :latitude 36.358593,
@@ -17761,19 +17761,19 @@
    :longitude 136.625551,
    :latitude 36.203605,
    :source :openstreetmap,
-   :locality "白山市"}
+   :location "白山市"}
   {:name "白山砂防科学館",
    :longitude 136.6329612,
    :latitude 36.1660526,
    :source :openstreetmap,
    :homepage "http://www.her.mlit.go.jp/kanazawa/mb6_goiken.html",
-   :locality "白山市"}
+   :location "白山市"}
   {:name "白岩焼和兵衛窯",
    :longitude 140.6171564,
    :latitude 39.5881104,
    :source :openstreetmap,
    :homepage "https://www.waheegama.com/",
-   :locality "仙北市"}
+   :location "仙北市"}
   {:name "白沙村荘橋本関雪記念館",
    :longitude 135.7930398,
    :latitude 35.0270223,
@@ -17799,7 +17799,7 @@
    :latitude 40.2061905,
    :source :openstreetmap,
    :homepage "https://www.shirakamicc.com/",
-   :locality "能代市"}
+   :location "能代市"}
   {:name "白神十二湖 エコ・ミュージアム",
    :longitude 139.9467045,
    :latitude 40.5596071,
@@ -17810,7 +17810,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.miura.kanagawa.jp/soshiki/bunkasportska/bunkasportska_bunka/hakusyu/209.html",
-   :locality "三浦市"}
+   :location "三浦市"}
   {:name "白虎隊伝承史学館",
    :longitude 139.9523272,
    :latitude 37.505122,
@@ -17892,13 +17892,13 @@
    :latitude 35.6349252,
    :source :openstreetmap,
    :homepage "https://mmat.jp/",
-   :locality "目黒区"}
+   :location "目黒区"}
   {:name "目黒寄生虫館",
    :longitude 139.706666,
    :latitude 35.6317,
    :source :openstreetmap,
    :homepage "https://www.kiseichu.org/Pages/default.aspx",
-   :locality "目黒区"}
+   :location "目黒区"}
   {:name "目黒邸資料館",
    :longitude 139.014131,
    :latitude 37.3225299,
@@ -17933,7 +17933,7 @@
    :latitude 35.6972706,
    :source :openstreetmap,
    :homepage "https://www.sumo.or.jp/KokugikanSumoMuseum/",
-   :locality "墨田区"}
+   :location "墨田区"}
   {:name "相模原市立博物館",
    :longitude 139.393108,
    :latitude 35.559298,
@@ -17960,7 +17960,7 @@
    :latitude 35.6774598,
    :source :openstreetmap,
    :homepage "https://www.mitsuo.co.jp/museum/index.html",
-   :locality "千代田区"}
+   :location "千代田区"}
   {:name "相馬市歴史民俗資料館",
    :longitude 140.919882,
    :latitude 37.796374,
@@ -18008,13 +18008,13 @@
    :latitude 35.1444179,
    :source :openstreetmap,
    :homepage "https://nakagawamuseum.jp/",
-   :locality "真鶴町"}
+   :location "真鶴町"}
   {:name "真鶴町立遠藤貝類博物館",
    :longitude 139.1589623,
    :latitude 35.1420563,
    :source :openstreetmap,
    :homepage "https://www.endo-shellmuseum.jp/",
-   :locality "真鶴町"}
+   :location "真鶴町"}
   {:name "睦沢町立歴史民俗資料館",
    :longitude 140.31477,
    :latitude 35.356509,
@@ -18061,7 +18061,7 @@
    :latitude 38.4295754,
    :source :openstreetmap,
    :homepage "http://www.mangattan.jp/manga/",
-   :locality "石巻市"}
+   :location "石巻市"}
   {:name "石井梅蔵記念館",
    :longitude 139.8798596,
    :latitude 38.8493242,
@@ -18082,7 +18082,7 @@
    :longitude 138.657124,
    :latitude 35.658026,
    :source :openstreetmap,
-   :locality "笛吹市"}
+   :location "笛吹市"}
   {:name "石和町民俗文化財展示館",
    :longitude 138.6371358,
    :latitude 35.6499995,
@@ -18102,7 +18102,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.ishigaki.okinawa.jp/400000/410000/410500/top.html",
-   :locality "石垣市"}
+   :location "石垣市"}
   {:name "石城の里三国志城",
    :longitude 132.024856,
    :latitude 33.9917942,
@@ -18136,7 +18136,7 @@
    :latitude 37.3353939,
    :source :openstreetmap,
    :homepage "http://mantenboshi.jp/",
-   :locality "能登町"}
+   :location "能登町"}
   {:name "石川県海洋漁業科学館",
    :longitude 137.148871,
    :latitude 37.296887,
@@ -18146,7 +18146,7 @@
    :latitude 36.263068,
    :source :openstreetmap,
    :homepage "https://www.pref.ishikawa.lg.jp/hakusan/chuuguu/",
-   :locality "白山市"}
+   :location "白山市"}
   {:name "石川県立尾小屋鉱山資料館",
    :longitude 136.536796,
    :latitude 36.296763,
@@ -18168,7 +18168,7 @@
    :latitude 36.7142752,
    :source :openstreetmap,
    :homepage "http://www.nishidatetsugakukan.org/",
-   :locality "かほく市"}
+   :location "かほく市"}
   {:name "石川県輪島漆芸美術館",
    :longitude 136.8919358,
    :latitude 37.3897658,
@@ -18185,7 +18185,7 @@
    :longitude 141.3064982,
    :latitude 38.4594282,
    :source :openstreetmap,
-   :locality "石巻市"}
+   :location "石巻市"}
   {:name "石橋記念公園記念館",
    :longitude 130.5675212,
    :latitude 31.6041364,
@@ -18207,7 +18207,7 @@
    :latitude 35.7409386,
    :source :openstreetmap,
    :homepage "https://sekido-museum.jp/",
-   :locality "足立区"}
+   :location "足立区"}
   {:name "石炭記念館",
    :longitude 131.2854312,
    :latitude 33.945532,
@@ -18253,7 +18253,7 @@
    :latitude 36.3437459,
    :source :openstreetmap,
    :homepage "http://rokuzan.jp/",
-   :locality "安曇野市"}
+   :location "安曇野市"}
   {:name "碓氷関所資料館",
    :longitude 138.7323683,
    :latitude 36.3382022,
@@ -18337,13 +18337,13 @@
    :latitude 35.4491293,
    :source :openstreetmap,
    :homepage "http://ch.kanagawa-museum.jp/",
-   :locality "横浜市"}
+   :location "横浜市"}
   {:name "神奈川県立生命の星・地球博物館",
    :longitude 139.1215819,
    :latitude 35.2393863,
    :source :openstreetmap,
    :homepage "https://nh.kanagawa-museum.jp/",
-   :locality "小田原市"}
+   :location "小田原市"}
   {:name "神奈川県立金沢文庫",
    :longitude 139.6286449,
    :latitude 35.3439291,
@@ -18363,7 +18363,7 @@
    :longitude 134.7170974,
    :latitude 35.2433197,
    :source :openstreetmap,
-   :locality "朝来市"}
+   :location "朝来市"}
   {:name "神崎遺跡資料館",
    :longitude 139.4065852,
    :latitude 35.4098148,
@@ -18378,12 +18378,12 @@
    :latitude 34.6894002,
    :source :openstreetmap,
    :homepage "https://timeroman.com/kobedollmuseum/",
-   :locality "中央区"}
+   :location "中央区"}
   {:name "神戸ファッション美術館",
    :longitude 135.2703325,
    :latitude 34.6878923,
    :source :openstreetmap,
-   :locality "神戸市"}
+   :location "神戸市"}
   {:name "神戸市埋蔵文化財センター",
    :longitude 135.0178831,
    :latitude 34.7149232,
@@ -18414,7 +18414,7 @@
    :longitude 135.1884501,
    :latitude 34.6829503,
    :source :openstreetmap,
-   :locality "神戸市"}
+   :location "神戸市"}
   {:name "神戸深江生活文化史料館",
    :longitude 135.2926241,
    :latitude 34.7224543,
@@ -18436,7 +18436,7 @@
    :longitude 138.820823,
    :latitude 36.091996,
    :source :openstreetmap,
-   :locality "神流町"}
+   :location "神流町"}
   {:name "神田日勝記念館",
    :longitude 142.9902626,
    :latitude 43.0965788,
@@ -18461,7 +18461,7 @@
    :longitude 130.732325,
    :latitude 32.815134,
    :source :openstreetmap,
-   :locality "熊本市"}
+   :location "熊本市"}
   {:name "福井市愛宕坂茶道美術館",
    :longitude 136.211111,
    :latitude 36.059983,
@@ -18508,7 +18508,7 @@
    :longitude 136.5065708,
    :latitude 36.0823042,
    :source :openstreetmap,
-   :locality "勝山市"}
+   :location "勝山市"}
   {:name "福井県立歴史博物館",
    :longitude 136.222207,
    :latitude 36.083048,
@@ -18569,7 +18569,7 @@
    :latitude 33.6031614,
    :source :openstreetmap,
    :homepage "marinemesse.or.jp",
-   :locality "福岡市"}
+   :location "福岡市"}
   {:name "福岡城むかし探訪館",
    :longitude 130.384768,
    :latitude 33.5873484,
@@ -18734,7 +18734,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.akita.lg.jp/kanko/kanrenshisetsu/1003643/index.html",
-   :locality "秋田市"}
+   :location "秋田市"}
   {:name "秋田犬会館",
    :longitude 140.5640254,
    :latitude 40.2731863,
@@ -18743,7 +18743,7 @@
    :longitude 140.5484168,
    :latitude 39.4646272,
    :source :openstreetmap,
-   :locality "大仙市"}
+   :location "大仙市"}
   {:name "秋田県環境と文化のむら",
    :longitude 140.1187937,
    :latitude 39.9302132,
@@ -18753,7 +18753,7 @@
    :latitude 39.8173386,
    :source :openstreetmap,
    :homepage "https://www.akihaku.jp/",
-   :locality "秋田市"}
+   :location "秋田市"}
   {:name "秋田県立博物館　分館　旧奈良家住宅",
    :longitude 140.065242,
    :latitude 39.8232641,
@@ -18772,7 +18772,7 @@
    :latitude 35.6915625,
    :source :openstreetmap,
    :homepage "https://www.jsf.or.jp/",
-   :locality "千代田区"}
+   :location "千代田区"}
   {:name "秤乃館",
    :longitude 136.558977,
    :latitude 35.047467,
@@ -18815,7 +18815,7 @@
    :longitude 139.607558,
    :latitude 35.77552,
    :source :openstreetmap,
-   :locality "和光市"}
+   :location "和光市"}
   {:name "稚内市樺太記念館",
    :longitude 141.6765756,
    :latitude 45.4080742,
@@ -18849,7 +18849,7 @@
    :latitude 42.7662075,
    :source :openstreetmap,
    :homepage "http://www.town.mukawa.lg.jp/1908.htm",
-   :locality "むかわ町"}
+   :location "むかわ町"}
   {:name "穂高人形研修館",
    :longitude 137.883784,
    :latitude 36.3394447,
@@ -18866,7 +18866,7 @@
    :longitude 139.7570077,
    :latitude 35.8176391,
    :source :openstreetmap,
-   :locality "川口"}
+   :location "川口"}
   {:name "立命館守山創立資料館",
    :longitude 135.9777019,
    :latitude 35.0618499,
@@ -18889,12 +18889,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.tachikawa.lg.jp/shogaigakushu/shisetsu/bunkazai/003.html",
-   :locality "立川市"}
+   :location "立川市"}
   {:name "立石春美記念美術館",
    :longitude 130.2687013,
    :latitude 33.3298134,
    :source :openstreetmap,
-   :locality "佐賀市"}
+   :location "佐賀市"}
   {:name "立花家史料館",
    :longitude 130.3971773,
    :latitude 33.1587783,
@@ -18917,7 +18917,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.kitami.lg.jp/administration/education/detail.php?content=6282",
-   :locality "北見市"}
+   :location "北見市"}
   {:name "竹中大工道具館",
    :longitude 135.1974159,
    :latitude 34.7068302,
@@ -18954,7 +18954,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.iida.lg.jp/site/puppet/sisetsu-takeda.html",
-   :locality "飯田市"}
+   :location "飯田市"}
   {:name "竹駒神社馬事博物館",
    :longitude 140.8639326,
    :latitude 38.1048022,
@@ -18963,12 +18963,12 @@
    :longitude 138.655969,
    :latitude 35.666764,
    :source :openstreetmap,
-   :locality "笛吹市"}
+   :location "笛吹市"}
   {:name "笛吹市青楓美術館",
    :longitude 138.706114,
    :latitude 35.660735,
    :source :openstreetmap,
-   :locality "笛吹市"}
+   :location "笛吹市"}
   {:name "笛畝人形記念美術館",
    :longitude 139.274752,
    :latitude 35.971997,
@@ -18981,7 +18981,7 @@
    :longitude 133.5212791,
    :latitude 34.4775745,
    :source :openstreetmap,
-   :locality "岡山県笠岡市横島１９４６−２"}
+   :location "岡山県笠岡市横島１９４６−２"}
   {:name "笠岡市立郷土館",
    :longitude 133.4969041,
    :latitude 34.5047305,
@@ -19060,7 +19060,7 @@
    :latitude 34.8179782,
    :source :openstreetmap,
    :homepage "https://www.city.minoh.lg.jp/kyoudo/home.html",
-   :locality "箕面市"}
+   :location "箕面市"}
   {:name "箱根ガラスの森美術館",
    :longitude 139.0176248,
    :latitude 35.2662778,
@@ -19076,7 +19076,7 @@
    :latitude 35.2197822,
    :source :openstreetmap,
    :homepage "http://hakonedollhouse.jp/",
-   :locality "箱根町"}
+   :location "箱根町"}
   {:name "箱根・芦ノ湖成川美術館",
    :longitude 139.0311946,
    :latitude 35.200061,
@@ -19086,7 +19086,7 @@
    :longitude 139.0460486,
    :latitude 35.2499373,
    :source :openstreetmap,
-   :locality "箱根町"}
+   :location "箱根町"}
   {:name "箱根武士の里美術館",
    :longitude 139.00597,
    :latitude 35.2677508,
@@ -19156,7 +19156,7 @@
    :longitude 133.3303955,
    :latitude 35.4292598,
    :source :openstreetmap,
-   :locality "米子市"}
+   :location "米子市"}
   {:name "米沢市埋蔵文化財資料室",
    :longitude 140.1254084,
    :latitude 37.9134267,
@@ -19222,7 +19222,7 @@
    :latitude 44.3556196,
    :source :openstreetmap,
    :homepage "https://mombetsu.jp/education/?content=4540",
-   :locality "紋別市"}
+   :location "紋別市"}
   {:name "純金歴史人物館",
    :longitude 136.8934344,
    :latitude 35.2183816,
@@ -19281,7 +19281,7 @@
    :longitude 127.7296312,
    :latitude 26.4282587,
    :source :openstreetmap,
-   :locality "読谷村"}
+   :location "読谷村"}
   {:name "絵空箱",
    :longitude 139.7301912,
    :latitude 35.7087451,
@@ -19295,7 +19295,7 @@
    :latitude 35.6896126,
    :source :openstreetmap,
    :homepage "https://extinct-media-museum.blog.jp/",
-   :locality "千代田区"}
+   :location "千代田区"}
   {:name "絹の道資料館",
    :longitude 139.3546947,
    :latitude 35.618361,
@@ -19310,12 +19310,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.abashiri.hokkaido.jp/270kyoiku/040bizyutukan/",
-   :locality "網走市"}
+   :location "網走市"}
   {:name "網走市鉄道記念館",
    :longitude 144.1116661,
    :latitude 44.0138338,
    :source :openstreetmap,
-   :locality "網走市"}
+   :location "網走市"}
   {:name "綾部市天文館パオ",
    :longitude 135.2640741,
    :latitude 35.3113306,
@@ -19341,7 +19341,7 @@
    :latitude 34.8813279,
    :source :openstreetmap,
    :homepage "http://www.bunkajyuku.or.jp/saitou.html",
-   :locality "鈴鹿市"}
+   :location "鈴鹿市"}
   {:name "練馬区立美術館",
    :longitude 139.6361548,
    :latitude 35.7370302,
@@ -19358,7 +19358,7 @@
    :longitude 139.2861191,
    :latitude 36.2534232,
    :source :openstreetmap,
-   :locality "太田市"}
+   :location "太田市"}
   {:name "縄文公園・下呂ふるさと歴史記念館",
    :longitude 137.253768,
    :latitude 35.802471,
@@ -19384,7 +19384,7 @@
    :latitude 43.8800898,
    :source :openstreetmap,
    :homepage "https://www.rausu-town.jp/machi/10/post-72.php",
-   :locality "羅臼町"}
+   :location "羅臼町"}
   {:name "羅須地人協会",
    :longitude 141.1410754,
    :latitude 39.4403406,
@@ -19440,7 +19440,7 @@
    :latitude 35.4570149,
    :source :openstreetmap,
    :homepage "https://www.forest.minokamo.gifu.jp/",
-   :locality "Minokamo"}
+   :location "Minokamo"}
   {:name "美濃和紙の里会館",
    :longitude 136.8763714,
    :latitude 35.5834403,
@@ -19534,7 +19534,7 @@
    :latitude 35.7551178,
    :source :openstreetmap,
    :homepage "https://www.city.hamura.tokyo.jp/0000005474.html",
-   :locality "羽村市"}
+   :location "羽村市"}
   {:name "翡翠ふるさと館",
    :longitude 137.7315759,
    :latitude 37.0036731,
@@ -19544,7 +19544,7 @@
    :latitude 35.6204137,
    :source :openstreetmap,
    :homepage "https://hi-su-i.com/",
-   :locality "品川区"}
+   :location "品川区"}
   {:name "考古博物館・時遊館CoCCoはしむれ",
    :longitude 130.6443203,
    :latitude 31.2318505,
@@ -19622,7 +19622,7 @@
    :latitude 37.0239127,
    :source :openstreetmap,
    :homepage "https://www.city.nanao.lg.jp/bunka/shisetsu/09.html",
-   :locality "七尾市"}
+   :location "七尾市"}
   {:name "能登天領庄屋中谷家",
    :longitude 137.042661,
    :latitude 37.363008,
@@ -19645,14 +19645,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.nomi.ishikawa.jp/syogai/tantoevents/neagari_bunkakaikan_tanto.html",
-   :locality "能美市"}
+   :location "能美市"}
   {:name "能美市立歴史民俗資料館",
    :longitude 136.5050936,
    :latitude 36.4424753,
    :source :openstreetmap,
    :homepage
    "https://www.city.nomi.ishikawa.jp/facility/museum/shisetsuannai.html",
-   :locality "能美市"}
+   :location "能美市"}
   {:name "腕用ポンプ展示場",
    :longitude 137.687186,
    :latitude 34.7743297,
@@ -19695,7 +19695,7 @@
    :latitude 38.728195,
    :source :openstreetmap,
    :homepage "https://www.chido.jp/",
-   :locality "鶴岡市"}
+   :location "鶴岡市"}
   {:name "與田寺宝物館",
    :longitude 134.321807,
    :latitude 34.241513,
@@ -19747,7 +19747,7 @@
    :longitude 140.8655294,
    :latitude 38.5304862,
    :source :openstreetmap,
-   :locality "色麻町"}
+   :location "色麻町"}
   {:name "芝不器男記念館",
    :longitude 132.708182,
    :latitude 33.227147,
@@ -19835,12 +19835,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.numazu.shizuoka.jp/kurashi/shisetsu/serizawa/",
-   :locality "沼津市"}
+   :location "沼津市"}
   {:name "苓北町歴史資料館",
    :longitude 130.0314753,
    :latitude 32.5289713,
    :source :openstreetmap,
-   :locality "苓北町"}
+   :location "苓北町"}
   {:name "苗代川民陶館",
    :longitude 130.354981,
    :latitude 31.643285,
@@ -19859,7 +19859,7 @@
    :latitude 32.3613289,
    :source :openstreetmap,
    :homepage "http://www.bokusui.jp/museum/",
-   :locality "日向市"}
+   :location "日向市"}
   {:name "若桜民工芸館",
    :longitude 134.3981441,
    :latitude 35.3430118,
@@ -19891,13 +19891,13 @@
    :latitude 42.631889,
    :source :openstreetmap,
    :homepage "https://www.city.tomakomai.hokkaido.jp/kagaku/",
-   :locality "苫小牧市"}
+   :location "苫小牧市"}
   {:name "苫小牧市美術博物館",
    :longitude 141.6130053,
    :latitude 42.6372631,
    :source :openstreetmap,
    :homepage "https://www.city.tomakomai.hokkaido.jp/hakubutsukan/",
-   :locality "苫小牧市"}
+   :location "苫小牧市"}
   {:name "苫小牧軽便鉄道4号蒸気機関車",
    :longitude 141.5971218,
    :latitude 42.6372062,
@@ -19930,7 +19930,7 @@
    :latitude 35.326173,
    :source :openstreetmap,
    :homepage "https://www.chigasaki-museum.jp/",
-   :locality "茅ヶ崎市"}
+   :location "茅ヶ崎市"}
   {:name "茅ヶ崎市開高健記念館",
    :longitude 139.4183954,
    :latitude 35.3205502,
@@ -19953,13 +19953,13 @@
    :latitude 36.0848074,
    :source :openstreetmap,
    :homepage "http://www.tsukuba.museum.ibk.ed.jp/",
-   :locality "つくば市"}
+   :location "つくば市"}
   {:name "茨城県天心記念五浦美術館 - Tenshin Memorial Museum of Art",
    :longitude 140.7998518,
    :latitude 36.8392782,
    :source :openstreetmap,
    :homepage "https://www.tenshin.museum.ibk.ed.jp/",
-   :locality "Kitaibaraki-shi"}
+   :location "Kitaibaraki-shi"}
   {:name "茨城県近代美術館",
    :longitude 140.4653138,
    :latitude 36.3678509,
@@ -20010,7 +20010,7 @@
    :longitude 139.729314,
    :latitude 35.674085,
    :source :openstreetmap,
-   :locality "港区"}
+   :location "港区"}
   {:name "草津宿本陣",
    :longitude 135.9601853,
    :latitude 35.0178483,
@@ -20029,7 +20029,7 @@
    :latitude 32.9612145,
    :source :openstreetmap,
    :homepage "https://www.city.arao.lg.jp/kurashi/shisetsu/higata/",
-   :locality "荒尾市"}
+   :location "荒尾市"}
   {:name "荒尾総合文化センター子ども科学館",
    :longitude 130.463977,
    :latitude 32.984678,
@@ -20063,7 +20063,7 @@
    :latitude 38.7256409,
    :source :openstreetmap,
    :homepage "https://tact-tsuruoka.jp/",
-   :locality "鶴岡市"}
+   :location "鶴岡市"}
   {:name "荻野美術館",
    :longitude 133.802366,
    :latitude 34.437989,
@@ -20085,7 +20085,7 @@
    :latitude 38.3114141,
    :source :openstreetmap,
    :homepage "http://www.kanno-museum.jp/",
-   :locality "塩竈市"}
+   :location "塩竈市"}
   {:name "菊川市黒田家代官屋敷資料館",
    :longitude 138.084429,
    :latitude 34.698636,
@@ -20116,7 +20116,7 @@
    :latitude 35.012527,
    :source :openstreetmap,
    :homepage "https://piano-museum.com/",
-   :locality "菰野町"}
+   :location "菰野町"}
   {:name "萩市立阿武川歴史民俗資料館",
    :longitude 131.488145,
    :latitude 34.3558,
@@ -20162,7 +20162,7 @@
    :longitude 139.8433759,
    :latitude 35.7528907,
    :source :openstreetmap,
-   :locality "葛飾区"}
+   :location "葛飾区"}
   {:name "蒜山郷土博物館",
    :longitude 133.712338,
    :latitude 35.294883,
@@ -20213,7 +20213,7 @@
    :latitude 35.7601403,
    :source :openstreetmap,
    :homepage "http://yui.bananapage.net/",
-   :locality "松戸市"}
+   :location "松戸市"}
   {:name "蔵の資料館",
    :longitude 129.8766246,
    :latitude 32.7388843,
@@ -20264,7 +20264,7 @@
    :latitude 31.7552056,
    :source :openstreetmap,
    :homepage "https://www.ssmuseum.jp/",
-   :locality "Hashima"}
+   :location "Hashima"}
   {:name "藍住町歴史館・藍の館",
    :longitude 134.4825017,
    :latitude 34.1151134,
@@ -20279,13 +20279,13 @@
    :latitude 37.3950184,
    :source :openstreetmap,
    :homepage "https://wajima-kiriko.com/",
-   :locality "輪島市"}
+   :location "輪島市"}
   {:name "藤原啓記念館",
    :longitude 134.2018719,
    :latitude 34.7333055,
    :source :openstreetmap,
    :homepage "https://okayamastyle.com/fan-museum/",
-   :locality "備前市"}
+   :location "備前市"}
   {:name "藤原岳自然科学館",
    :longitude 136.470586,
    :latitude 35.176712,
@@ -20303,7 +20303,7 @@
    :latitude 35.6100069,
    :source :openstreetmap,
    :homepage "https://fujiko-museum.com/",
-   :locality "川崎市"}
+   :location "川崎市"}
   {:name "藤岡歴史民俗資料館",
    :longitude 139.6515804,
    :latitude 36.2667682,
@@ -20322,7 +20322,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.okazaki.lg.jp/1550/1575/1662/p017586.html",
-   :locality "岡崎市"}
+   :location "岡崎市"}
   {:name "藤本蚕業歴史館",
    :longitude 138.2164937,
    :latitude 36.4174678,
@@ -20391,7 +20391,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.gyoda.lg.jp/soshiki/kyouikubu/kyodohakubutsukan/index.html",
-   :locality "行田市"}
+   :location "行田市"}
   {:name "街角ギャラリー であい",
    :longitude 132.7408422,
    :latitude 34.4300096,
@@ -20425,7 +20425,7 @@
    :longitude 133.0415166,
    :latitude 36.1099612,
    :source :openstreetmap,
-   :locality "西ノ島町"}
+   :location "西ノ島町"}
   {:name "西丸震哉記念館",
    :longitude 137.8421709,
    :latitude 36.5506736,
@@ -20498,7 +20498,7 @@
    :longitude 130.2307186,
    :latitude 32.6405442,
    :source :openstreetmap,
-   :locality "南島原市"}
+   :location "南島原市"}
   {:name "西村計雄記念美術館",
    :longitude 140.6092642,
    :latitude 42.9753455,
@@ -20539,7 +20539,7 @@
    :longitude 129.5743336,
    :latitude 33.0196834,
    :source :openstreetmap,
-   :locality "西海市"}
+   :location "西海市"}
   {:name "西淀川公害資料館",
    :longitude 135.455956,
    :latitude 34.7101102,
@@ -20619,7 +20619,7 @@
    :latitude 35.797689,
    :source :openstreetmap,
    :homepage "https://kadcul.com/",
-   :locality "所沢市"}
+   :location "所沢市"}
   {:name "角田山自然館",
    :longitude 138.8316901,
    :latitude 37.7594706,
@@ -20690,7 +20690,7 @@
    :latitude 35.714018,
    :source :openstreetmap,
    :homepage "https://www.nomamuseum.kodansha.co.jp/",
-   :locality "文京区"}
+   :location "文京区"}
   {:name "讃岐国分寺跡資料館",
    :longitude 133.9468083,
    :latitude 34.3028292,
@@ -20733,7 +20733,7 @@
    :longitude 134.8704177,
    :latitude 35.4906505,
    :source :openstreetmap,
-   :locality "豊岡市"}
+   :location "豊岡市"}
   {:name "豊岡市立コウノトリ文化館",
    :longitude 134.8552428,
    :latitude 35.55139,
@@ -20744,7 +20744,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.toyooka.lg.jp/kanko/miru/itoh-museum/index.html",
-   :locality "豊岡市出石町内町"}
+   :location "豊岡市出石町内町"}
   {:name "豊岡市立出石明治館",
    :longitude 134.8769391,
    :latitude 35.4621721,
@@ -20758,13 +20758,13 @@
    :latitude 35.4926535,
    :source :openstreetmap,
    :homepage "https://www3.city.toyooka.lg.jp/monpaku/",
-   :locality "豊岡市"}
+   :location "豊岡市"}
   {:name "豊岡市立歴史博物館―但馬国府・国分寺館―",
    :longitude 134.7675623,
    :latitude 35.4697605,
    :source :openstreetmap,
    :homepage "https://www3.city.toyooka.lg.jp/kokubunjikan/index.html",
-   :locality "豊岡市"}
+   :location "豊岡市"}
   {:name "豊岡市立竹野川湊館",
    :longitude 134.7617942,
    :latitude 35.6587643,
@@ -20809,7 +20809,7 @@
    :longitude 131.1567644,
    :latitude 33.281798,
    :source :openstreetmap,
-   :locality "Kusu"}
+   :location "Kusu"}
   {:name "豊橋地下資源館・豊橋市視聴覚教育センター",
    :longitude 137.4320546,
    :latitude 34.7293527,
@@ -20831,19 +20831,19 @@
    :latitude 34.7693525,
    :source :openstreetmap,
    :homepage "https://www.toyohashi-bihaku.jp/",
-   :locality "豊橋市"}
+   :location "豊橋市"}
   {:name "豊橋市自然史博物館",
    :longitude 137.432035,
    :latitude 34.7211089,
    :source :openstreetmap,
    :homepage "https://www.toyohaku.gr.jp/sizensi/",
-   :locality "豊橋市"}
+   :location "豊橋市"}
   {:name "豊田ホタルの里ミュージアム",
    :longitude 131.0783692,
    :latitude 34.1981955,
    :source :openstreetmap,
    :homepage "https://hotaru-museum.jp/",
-   :locality "下関市豊田町"}
+   :location "下関市豊田町"}
   {:name "豊田佐吉記念館",
    :longitude 137.528005,
    :latitude 34.710442,
@@ -20857,7 +20857,7 @@
    :latitude 35.080358,
    :source :openstreetmap,
    :homepage "https://www.museum.toyota.aichi.jp/",
-   :locality "小坂本町"}
+   :location "小坂本町"}
   {:name "豊田市近代の産業とくらし発見館",
    :longitude 137.1608815,
    :latitude 35.0874926,
@@ -20887,7 +20887,7 @@
    :latitude 33.6668886,
    :source :openstreetmap,
    :homepage "https://www.tk2.nmt.ne.jp/~mollusco/",
-   :locality "海部郡牟岐町"}
+   :location "海部郡牟岐町"}
   {:name "貝原歴史資料館",
    :longitude 133.2634388,
    :latitude 34.5943481,
@@ -20905,13 +20905,13 @@
    :latitude 33.3196176,
    :source :openstreetmap,
    :homepage "https://kifunejou.com/",
-   :locality "別府市"}
+   :location "別府市"}
   {:name "賀名生の里歴史民俗資料館",
    :longitude 135.7196427,
    :latitude 34.2985494,
    :source :openstreetmap,
    :homepage "https://www.city.gojo.lg.jp/soshiki/bunka/3_1/3462.html",
-   :locality "五條市"}
+   :location "五條市"}
   {:name "賀川豊彦記念松沢資料館",
    :longitude 139.625945,
    :latitude 35.667897,
@@ -20925,7 +20925,7 @@
    :longitude 131.7735431,
    :latitude 34.468061,
    :source :openstreetmap,
-   :locality "津和野町"}
+   :location "津和野町"}
   {:name "資料館",
    :longitude 138.8624413,
    :latitude 35.3567622,
@@ -21018,7 +21018,7 @@
    :latitude 35.0927353,
    :source :openstreetmap,
    :homepage "https://www.city.atami.lg.jp/kiunkaku/index.html",
-   :locality "熱海市"}
+   :location "熱海市"}
   {:name "越前がにミュージアム",
    :longitude 135.997683,
    :latitude 35.921722,
@@ -21067,13 +21067,13 @@
    :longitude 139.3866221,
    :latitude 36.4116174,
    :source :openstreetmap,
-   :locality "栃木県足利市小俣町"}
+   :location "栃木県足利市小俣町"}
   {:name "足利市立美術館",
    :longitude 139.4503402,
    :latitude 36.3340528,
    :source :openstreetmap,
    :homepage "http://www.watv.ne.jp/ashi-bi/",
-   :locality "足利市"}
+   :location "足利市"}
   {:name "足立区立郷土博物館",
    :longitude 139.8414425,
    :latitude 35.7844723,
@@ -21083,7 +21083,7 @@
    :latitude 35.380836,
    :source :openstreetmap,
    :homepage "https://www.adachi-museum.or.jp/",
-   :locality "安来市"}
+   :location "安来市"}
   {:name "足袋蔵まちづくりミュージアム",
    :longitude 139.4597698,
    :latitude 36.1412023,
@@ -21313,7 +21313,7 @@
    :latitude 35.3207288,
    :source :openstreetmap,
    :homepage "https://shimotsukimatsuri.com/facility/",
-   :locality "飯田市"}
+   :location "飯田市"}
   {:name "遠藤剛キ美術館",
    :longitude 135.750857,
    :latitude 34.999693,
@@ -21332,7 +21332,7 @@
    :latitude 43.8864092,
    :source :openstreetmap,
    :homepage "https://engaru.jp/tourism/page.php?id=476",
-   :locality "遠軽町"}
+   :location "遠軽町"}
   {:name "遠軽町郷土館",
    :longitude 143.5171606,
    :latitude 44.0566433,
@@ -21464,7 +21464,7 @@
    :latitude 35.7100908,
    :source :openstreetmap,
    :homepage "https://www.postalmuseum.jp/",
-   :locality "墨田区"}
+   :location "墨田区"}
   {:name "郷さくら美術館",
    :longitude 140.3665008,
    :latitude 37.3990885,
@@ -21540,7 +21540,7 @@
    :longitude 131.0502571,
    :latitude 31.7161995,
    :source :openstreetmap,
-   :locality "都城市"}
+   :location "都城市"}
   {:name "都城発掘調査部(飛鳥・藤原地区)",
    :longitude 135.815499,
    :latitude 34.497669,
@@ -21575,7 +21575,7 @@
    :latitude 35.3340413,
    :source :openstreetmap,
    :homepage "https://www.town.kaisei.kanagawa.jp/info/127",
-   :locality "開成町"}
+   :location "開成町"}
   {:name "酒田市立資料館",
    :longitude 139.8417672,
    :latitude 38.9152097,
@@ -21585,7 +21585,7 @@
    :latitude 38.8930827,
    :source :openstreetmap,
    :homepage "https://sakata-art-museum.jp/",
-   :locality "酒田市"}
+   :location "酒田市"}
   {:name "酒田美術資料館",
    :longitude 130.8979694,
    :latitude 34.324396,
@@ -21603,7 +21603,7 @@
    :latitude 43.0724804,
    :source :openstreetmap,
    :homepage "http://www.meg-snow.com/fun/factory/sapporo.html",
-   :locality "札幌市"}
+   :location "札幌市"}
   {:name "醤の郷現代美術館",
    :longitude 134.3179256,
    :latitude 34.474685,
@@ -21633,7 +21633,7 @@
    :latitude 36.619866,
    :source :openstreetmap,
    :homepage "http://sjpm.hansen-dis.jp/",
-   :locality "草津町"}
+   :location "草津町"}
   {:name "野々市市ふるさと歴史館",
    :longitude 136.599848,
    :latitude 36.545894,
@@ -21798,7 +21798,7 @@
    :latitude 36.5615671,
    :source :openstreetmap,
    :homepage "https://www.kanazawa-noh-museum.gr.jp/",
-   :locality "Kanazawa"}
+   :location "Kanazawa"}
   {:name "金津　創作の森",
    :longitude 136.2612903,
    :latitude 36.230483,
@@ -21844,7 +21844,7 @@
    :latitude 42.9867362,
    :source :openstreetmap,
    :homepage "https://kodomoyugakukan.jp/",
-   :locality "釧路市"}
+   :location "釧路市"}
   {:name "釧路市湿原展望台",
    :longitude 144.3206099,
    :latitude 43.073906,
@@ -21853,7 +21853,7 @@
    :longitude 144.4034782,
    :latitude 42.9743895,
    :source :openstreetmap,
-   :locality "北海道釧路市"}
+   :location "北海道釧路市"}
   {:name "釧路市立美術館",
    :longitude 144.3859304,
    :latitude 42.9781642,
@@ -21886,7 +21886,7 @@
    :latitude 34.8228438,
    :source :openstreetmap,
    :homepage "http://densansuzukacity.com/",
-   :locality "鈴鹿市"}
+   :location "鈴鹿市"}
   {:name "鈴鹿市稲生民俗資料館",
    :longitude 136.553456,
    :latitude 34.837008,
@@ -21916,7 +21916,7 @@
    :latitude 35.9213825,
    :source :openstreetmap,
    :homepage "http://www.railway-museum.jp/",
-   :locality "さいたま市"}
+   :location "さいたま市"}
   {:name "鉄道記念館",
    :longitude 143.7776456,
    :latitude 44.0188781,
@@ -21956,13 +21956,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.town.kyonan.chiba.jp/site/hishikawamoronobukinenkan/",
-   :locality "鋸南町"}
+   :location "鋸南町"}
   {:name "鋸山美術館",
    :longitude 139.819414,
    :latitude 35.1693711,
    :source :openstreetmap,
    :homepage "https://nokogiriyama.com/",
-   :locality "富津市"}
+   :location "富津市"}
   {:name "錦華殿",
    :longitude 135.7793719,
    :latitude 34.9892575,
@@ -21987,7 +21987,7 @@
    :longitude 139.5389957,
    :latitude 35.3152948,
    :source :openstreetmap,
-   :locality "長谷"}
+   :location "長谷"}
   {:name "鎌倉歴史文化交流館",
    :longitude 139.5475217,
    :latitude 35.3224054,
@@ -22002,7 +22002,7 @@
    :longitude 140.4664464,
    :latitude 40.5958181,
    :source :openstreetmap,
-   :locality "弘前市"}
+   :location "弘前市"}
   {:name "鏡櫓",
    :longitude 133.3617296,
    :latitude 34.490364,
@@ -22049,7 +22049,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.museum.city.nagaoka.niigata.jp/facilities/yukyuzan/",
-   :locality "長岡市"}
+   :location "長岡市"}
   {:name "長岡戦災資料館",
    :longitude 138.8523978,
    :latitude 37.4486774,
@@ -22066,7 +22066,7 @@
    :longitude 130.5324445,
    :latitude 31.5819604,
    :source :openstreetmap,
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "長島記念館",
    :longitude 139.4371511,
    :latitude 36.0792548,
@@ -22076,7 +22076,7 @@
    :latitude 32.7727523,
    :source :openstreetmap,
    :homepage "https://www.city.nagasaki.lg.jp/peace/",
-   :locality "平野町"}
+   :location "平野町"}
   {:name "長崎市外海子ども博物館",
    :longitude 129.699606,
    :latitude 32.84368,
@@ -22210,7 +22210,7 @@
    :longitude 133.465867,
    :latitude 35.4835254,
    :source :openstreetmap,
-   :locality "大山町"}
+   :location "大山町"}
   {:name "門野幾之進記念館",
    :longitude 136.843962,
    :latitude 34.4849979,
@@ -22284,7 +22284,7 @@
    :longitude 136.916419,
    :latitude 35.481794,
    :source :openstreetmap,
-   :locality "関"}
+   :location "関"}
   {:name "関門海峡ミュージアム",
    :longitude 130.9567826,
    :latitude 33.9437996,
@@ -22319,7 +22319,7 @@
    :latitude 33.9489672,
    :source :openstreetmap,
    :homepage "https://www.ananscience.jp/science/",
-   :locality "阿南市"}
+   :location "阿南市"}
   {:name "阿南市立阿波公方・民俗資料館",
    :longitude 134.655229,
    :latitude 33.952023,
@@ -22329,25 +22329,25 @@
    :latitude 35.2589947,
    :source :openstreetmap,
    :homepage "https://www.culture.nagano.jp/facilities/85/",
-   :locality "阿南町"}
+   :location "阿南町"}
   {:name "阿多田交流館",
    :longitude 132.0563515,
    :latitude 33.9131243,
    :source :openstreetmap,
-   :locality "平生町"}
+   :location "平生町"}
   {:name "阿寒湖畔エコミュージアムセンター",
    :longitude 144.1009835,
    :latitude 43.4351774,
    :source :openstreetmap,
    :homepage "http://business4.plala.or.jp/akan-eco/",
-   :locality "釧路市"}
+   :location "釧路市"}
   {:name "阿島傘伝承館・資料館",
    :longitude 137.8800922,
    :latitude 35.5220465,
    :source :openstreetmap,
    :homepage
    "https://www.vill.takagi.nagano.jp/special/sp3_ajimagasa/",
-   :locality "喬木村"}
+   :location "喬木村"}
   {:name "阿弥陀寺文化財収蔵庫",
    :longitude 131.6141771,
    :latitude 34.0767397,
@@ -22387,7 +22387,7 @@
    :latitude 32.8308383,
    :source :openstreetmap,
    :homepage "http://www.tanibito.com",
-   :locality "南阿蘇村"}
+   :location "南阿蘇村"}
   {:name "阿蘇古代の郷美術館",
    :longitude 131.106921,
    :latitude 32.927955,
@@ -22400,7 +22400,7 @@
    :longitude 140.9264285,
    :latitude 38.2594564,
    :source :openstreetmap,
-   :locality "仙台市"}
+   :location "仙台市"}
   {:name "阿部次郎記念館",
    :longitude 140.8720661,
    :latitude 38.2478821,
@@ -22409,13 +22409,13 @@
    :longitude 133.8929773,
    :latitude 35.4104137,
    :source :openstreetmap,
-   :locality "三朝町"}
+   :location "三朝町"}
   {:name "陶磁・ガラス美術館 やんもの木",
    :longitude 139.1067921,
    :latitude 34.8814103,
    :source :openstreetmap,
    :homepage "https://www.yanmonoki.com/",
-   :locality "伊東市"}
+   :location "伊東市"}
   {:name "陶芸クラブ 土有楽",
    :longitude 139.4188256,
    :latitude 35.5088418,
@@ -22437,7 +22437,7 @@
    :longitude 141.6282041,
    :latitude 39.0152899,
    :source :openstreetmap,
-   :locality "陸前高田市"}
+   :location "陸前高田市"}
   {:name "陽光美術館",
    :longitude 130.0143142,
    :latitude 33.1849671,
@@ -22447,7 +22447,7 @@
    :latitude 31.595682,
    :source :openstreetmap,
    :homepage "http://www.pref.kagoshima.jp/reimeikan/",
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "階上町 民俗資料収集館",
    :longitude 141.6140081,
    :latitude 40.4514701,
@@ -22477,7 +22477,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.city.toshima.lg.jp/129/bunka/bunka/shiryokan/kyusenkyoshikan/004412.html",
-   :locality "豊島区"}
+   :location "豊島区"}
   {:name "雑魚寝館",
    :longitude 135.492012,
    :latitude 34.5886677,
@@ -22521,12 +22521,12 @@
    :longitude 130.1669317,
    :latitude 32.6834763,
    :source :openstreetmap,
-   :locality "雲仙市"}
+   :location "雲仙市"}
   {:name "雲仙市歴史資料館 国見展示館",
    :longitude 130.2690171,
    :latitude 32.870293,
    :source :openstreetmap,
-   :locality "雲仙市"}
+   :location "雲仙市"}
   {:name "雲越家住宅資料館",
    :longitude 139.06965,
    :latitude 36.838323,
@@ -22595,7 +22595,7 @@
    :latitude 35.4981678,
    :source :openstreetmap,
    :homepage "https://www.gamf.jp/",
-   :locality "北栄町"}
+   :location "北栄町"}
   {:name "青山｜目黒",
    :longitude 139.6977144,
    :latitude 35.6387933,
@@ -22680,7 +22680,7 @@
    :longitude 138.3762567,
    :latitude 34.9826194,
    :source :openstreetmap,
-   :locality "静岡市"}
+   :location "静岡市"}
   {:name "静岡市民ギャラリー",
    :longitude 138.3823664,
    :latitude 34.9754988,
@@ -22703,7 +22703,7 @@
    :latitude 35.2237444,
    :source :openstreetmap,
    :homepage "https://mtfuji-whc.jp",
-   :locality "富士宮市"}
+   :location "富士宮市"}
   {:name "静岡県立美術館",
    :longitude 138.446311,
    :latitude 34.991922,
@@ -22738,7 +22738,7 @@
    :longitude 143.9348562,
    :latitude 42.8925214,
    :source :openstreetmap,
-   :locality "釧路市"}
+   :location "釧路市"}
   {:name "音浴博物館",
    :longitude 129.7086232,
    :latitude 32.9262222,
@@ -22789,13 +22789,13 @@
    :longitude 139.3992716,
    :latitude 36.3493107,
    :source :openstreetmap,
-   :locality "栃木県足利市大前町"}
+   :location "栃木県足利市大前町"}
   {:name "風の館",
    :longitude 143.2446236,
    :latitude 41.9260077,
    :source :openstreetmap,
    :homepage "https://www.town.erimo.lg.jp/kaze/index.html",
-   :locality "えりも町"}
+   :location "えりも町"}
   {:name "風俗博物館",
    :longitude 135.753275,
    :latitude 34.993226,
@@ -22865,7 +22865,7 @@
    :latitude 36.0297399,
    :source :openstreetmap,
    :homepage "https://www.naro.go.jp/tarh/",
-   :locality "つくば市"}
+   :location "つくば市"}
   {:name "食農伝承館 和",
    :longitude 141.2377719,
    :latitude 38.6959188,
@@ -23008,7 +23008,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museum.city.nagaoka.niigata.jp/umataka/index.html",
-   :locality "長岡市"}
+   :location "長岡市"}
   {:name "駄菓子屋ゲーム博物館",
    :longitude 139.7026259,
    :latitude 35.764017,
@@ -23112,12 +23112,12 @@
    :longitude 139.0104815,
    :latitude 36.3207169,
    :source :openstreetmap,
-   :locality "高崎市"}
+   :location "高崎市"}
   {:name "高崎市観音塚考古資料館",
    :longitude 138.9402524,
    :latitude 36.3402076,
    :source :openstreetmap,
-   :locality "高崎市"}
+   :location "高崎市"}
   {:name "高志の国文学館",
    :longitude 137.2058839,
    :latitude 36.6956224,
@@ -23185,7 +23185,7 @@
    :latitude 35.5515743,
    :source :openstreetmap,
    :homepage "https://takamori-tokinoeki.com/",
-   :locality "高森町"}
+   :location "高森町"}
   {:name "高槻市立歴史民俗資料館",
    :longitude 135.622528,
    :latitude 34.842539,
@@ -23239,7 +23239,7 @@
    :latitude 33.4963711,
    :source :openstreetmap,
    :homepage "https://www.ryoma-kinenkan.jp/",
-   :locality "高知市"}
+   :location "高知市"}
   {:name "高知県立歴史民俗資料館",
    :longitude 133.6234897,
    :latitude 33.5960448,
@@ -23334,7 +23334,7 @@
    :latitude 35.4989115,
    :source :openstreetmap,
    :homepage "https://www.tbz.or.jp/yamabikokan/",
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "鳥取民藝美術館",
    :longitude 134.22716,
    :latitude 35.4961166,
@@ -23353,7 +23353,7 @@
    :latitude 35.3479269,
    :source :openstreetmap,
    :homepage "https://www.tottorihanakairou.or.jp/",
-   :locality "南部町"}
+   :location "南部町"}
   {:name "鳥取県立氷ノ山自然ふれあい館響の森",
    :longitude 134.491105,
    :latitude 35.357497,
@@ -23362,12 +23362,12 @@
    :longitude 134.2331643,
    :latitude 35.5040484,
    :source :openstreetmap,
-   :locality "鳥取市"}
+   :location "鳥取市"}
   {:name "鳥取県立鳥取二十世紀梨記念館",
    :longitude 133.835552,
    :latitude 35.431251,
    :source :openstreetmap,
-   :locality "倉吉市"}
+   :location "倉吉市"}
   {:name "鳥取砂丘ビジターセンター",
    :longitude 134.2366075,
    :latitude 35.5439967,
@@ -23406,7 +23406,7 @@
    :latitude 34.1646943,
    :source :openstreetmap,
    :homepage "https://doitsukan.com/",
-   :locality "鳴門市"}
+   :location "鳴門市"}
   {:name "鴨川市民ギャラリー",
    :longitude 140.103809,
    :latitude 35.105178,
@@ -23465,7 +23465,7 @@
    :longitude 130.545683,
    :latitude 31.5703,
    :source :openstreetmap,
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "鹿児島市立科学館",
    :longitude 130.5545989,
    :latitude 31.5635025,
@@ -23474,13 +23474,13 @@
    :longitude 130.5582109,
    :latitude 31.6059065,
    :source :openstreetmap,
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "鹿児島市維新ふるさと館",
    :longitude 130.5478685,
    :latitude 31.5846274,
    :source :openstreetmap,
    :homepage "https://www.ishinfurusatokan.info/",
-   :locality "鹿児島市"}
+   :location "鹿児島市"}
   {:name "鹿児島県上野原縄文の森",
    :longitude 130.802563,
    :latitude 31.711276,
@@ -23549,7 +23549,7 @@
    :latitude 34.8441124,
    :source :openstreetmap,
    :homepage "http://www.kuripa.co.jp/",
-   :locality "西伊豆町"}
+   :location "西伊豆町"}
   {:name "黒住教宝物館「まることセンター」",
    :longitude 133.859736,
    :latitude 34.663339,
@@ -23615,7 +23615,7 @@
    :longitude 140.1388827,
    :latitude 36.6455839,
    :source :openstreetmap,
-   :locality "那須烏山市"}
+   :location "那須烏山市"}
   {:name "（株）ベティスミス 総務部",
    :longitude 133.8228891,
    :latitude 34.4767757,
@@ -23637,7 +23637,7 @@
    :latitude 34.982735,
    :source :openstreetmap,
    :homepage "https://www.kci.or.jp/",
-   :locality "京都市"}
+   :location "京都市"}
   {:name "ＫＴＣものづくり技術館",
    :longitude 135.7483989,
    :latitude 34.8818247,

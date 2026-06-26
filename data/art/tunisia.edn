@@ -26,7 +26,7 @@
    :longitude 10.3012846,
    :latitude 36.9059418,
    :source :openstreetmap,
-   :locality "قمرت",
+   :location "قمرت",
    :image "",
    :description ""}
   {:name "Centre culturel de Hammam-Sousse",
@@ -72,7 +72,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.facebook.com/EcoleDeMusiquepeintureEtDanseLaMarsa/",
-   :locality "المرسى",
+   :location "المرسى",
    :image "",
    :description ""}
   {:name "Dar Cherait",
@@ -134,7 +134,7 @@
    :longitude 10.9954169,
    :latitude 37.0591481,
    :source :openstreetmap,
-   :locality "El Haouaria",
+   :location "El Haouaria",
    :image "",
    :description ""}
   {:name "Hadhihi Laylati",
@@ -172,7 +172,7 @@
    :latitude 33.796351,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/profile.php?id=100063864102846",
-   :locality "Midoun",
+   :location "Midoun",
    :image "",
    :description ""}
   {:name "Lalla Hadria",
@@ -185,7 +185,7 @@
    :longitude 10.1838024,
    :latitude 36.7950864,
    :source :openstreetmap,
-   :locality "Tunis",
+   :location "Tunis",
    :image "",
    :description ""}
   {:name
@@ -205,7 +205,7 @@
    :longitude 9.9729137,
    :latitude 33.5439959,
    :source :openstreetmap,
-   :locality "Matmata el Qadima",
+   :location "Matmata el Qadima",
    :image "",
    :description ""}
   {:name "Maison de Abou El Kacem Chebbi",
@@ -230,14 +230,14 @@
    :longitude 10.5652782,
    :latitude 35.8242649,
    :source :openstreetmap,
-   :locality "Kalaa Sghira",
+   :location "Kalaa Sghira",
    :image "",
    :description ""}
   {:name "Maison de Culture du Bardo",
    :longitude 10.1391227,
    :latitude 36.806879,
    :source :openstreetmap,
-   :locality "تونس",
+   :location "تونس",
    :image "",
    :description ""}
   {:name "Maison de jeunes",
@@ -251,21 +251,21 @@
    :latitude 36.8388525,
    :source :openstreetmap,
    :homepage "https://maisonimage.tn/",
-   :locality "تونس",
+   :location "تونس",
    :image "",
    :description ""}
   {:name "Maison de la Culture",
    :longitude 11.0131272,
    :latitude 37.0480661,
    :source :openstreetmap,
-   :locality "Haouaria",
+   :location "Haouaria",
    :image "",
    :description ""}
   {:name "Maison de la culture Mohamed Nacer Bettaieb",
    :longitude 11.2158949,
    :latitude 33.1403684,
    :source :openstreetmap,
-   :locality "بنقردان",
+   :location "بنقردان",
    :image "",
    :description ""}
   {:name "Maison de La Jeunesse de Sidi Aich",
@@ -328,14 +328,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.tunisiepatrimoine.tn/ar/%D9%85%D8%AA%D8%A7%D8%AD%D9%81/%D9%85%D8%AA%D8%AD%D9%81-%D8%AC%D8%B1%D8%AC%D9%8A%D8%B3/%D9%86%D8%B8%D8%B1%D8%A9-%D8%B9%D8%A7%D9%85%D8%A9/",
-   :locality "Zarzis",
+   :location "Zarzis",
    :image "",
    :description ""}
   {:name "Musée des arts et traditions populaires",
    :longitude 10.8309936,
    :latitude 35.774202,
    :source :openstreetmap,
-   :locality "المنستير",
+   :location "المنستير",
    :image "",
    :description ""}
   {:name "Musée des arts et traditions populaires",
@@ -354,7 +354,7 @@
    :longitude 10.4912082,
    :latitude 33.3474601,
    :source :openstreetmap,
-   :locality "Medenine",
+   :location "Medenine",
    :image "",
    :description ""}
   {:name "Musée des Timbres",
@@ -380,7 +380,7 @@
    :latitude 33.8799161,
    :source :openstreetmap,
    :homepage "http://www.djerbamuseum.tn/",
-   :locality "Houmt Souk",
+   :location "Houmt Souk",
    :image "",
    :description ""}
   {:name "Musée du Quartier Sud de Thysdrus",
@@ -406,7 +406,7 @@
    :longitude 10.3114373,
    :latitude 33.5961486,
    :source :openstreetmap,
-   :locality "Mareth",
+   :location "Mareth",
    :image "",
    :description ""}
   {:name "Musée mémoire Zmerten",
@@ -437,7 +437,7 @@
    :longitude 9.9761517,
    :latitude 33.5420237,
    :source :openstreetmap,
-   :locality "مطماطة",
+   :location "مطماطة",
    :image "",
    :description ""}
   {:name "Nabeul Museum",
@@ -506,14 +506,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.patrimoinedetunisie.com.tn/eng/musees/sousse.php",
-   :locality "سوسة",
+   :location "سوسة",
    :image "",
    :description ""}
   {:name "المتحف الأقيانوسي «دار الحوت» بصلامبو",
    :longitude 10.3262708,
    :latitude 36.8437212,
    :source :openstreetmap,
-   :locality "صلامبو",
+   :location "صلامبو",
    :image "",
    :description ""}
   {:name "المتحف الأوقيانوغرافي",
@@ -527,7 +527,7 @@
    :latitude 36.8506397,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/pages/Madart/626131414086136",
-   :locality "قرطاج الشاطئ",
+   :location "قرطاج الشاطئ",
    :image "",
    :description ""}
   {:name "المتحف المسيحي المبكر بقرطاج",
@@ -561,7 +561,7 @@
    :longitude 10.1807843,
    :latitude 36.8211867,
    :source :openstreetmap,
-   :locality "تونس",
+   :location "تونس",
    :image "",
    :description ""}
   {:name "المركب الثقافي محمد الجموسي",
@@ -574,14 +574,14 @@
    :longitude 11.0647619,
    :latitude 35.5018427,
    :source :openstreetmap,
-   :locality "المهدية",
+   :location "المهدية",
    :image "",
    :description ""}
   {:name "المعهد الجامعي للتنشيط الثقافي والرياضي",
    :longitude 10.1023005,
    :latitude 33.8808079,
    :source :openstreetmap,
-   :locality "قابس",
+   :location "قابس",
    :image "",
    :description ""}
   {:name "برج خديجة",
@@ -594,21 +594,21 @@
    :longitude 10.8604242,
    :latitude 33.8838904,
    :source :openstreetmap,
-   :locality "حومة السوق",
+   :location "حومة السوق",
    :image "",
    :description ""}
   {:name "بيت الثقافة",
    :longitude 8.6974213,
    :latitude 36.6486965,
    :source :openstreetmap,
-   :locality "فرنانة",
+   :location "فرنانة",
    :image "",
    :description ""}
   {:name "بيت الثقافة",
    :longitude 9.8268987,
    :latitude 35.3530205,
    :source :openstreetmap,
-   :locality "نصر الله",
+   :location "نصر الله",
    :image "",
    :description ""}
   {:name "دار الثفافة",
@@ -621,14 +621,14 @@
    :longitude 10.857114,
    :latitude 33.8772324,
    :source :openstreetmap,
-   :locality "حومة السوق",
+   :location "حومة السوق",
    :image "",
    :description ""}
   {:name "دار الثقافة ابن رشيق",
    :longitude 10.1809769,
    :latitude 36.8012686,
    :source :openstreetmap,
-   :locality "تونس",
+   :location "تونس",
    :image "",
    :description ""}
   {:name "دار الثقافة باب العسل",
@@ -677,7 +677,7 @@
    :longitude 10.7623862,
    :latitude 34.7368449,
    :source :openstreetmap,
-   :locality "صفاقس",
+   :location "صفاقس",
    :image "",
    :description ""}
   {:name "دار الشباب",
@@ -690,14 +690,14 @@
    :longitude 11.1161255,
    :latitude 35.2346081,
    :source :openstreetmap,
-   :locality "الشابة",
+   :location "الشابة",
    :image "",
    :description ""}
   {:name "دار الشباب أم العرائس",
    :longitude 8.2706516,
    :latitude 34.4866405,
    :source :openstreetmap,
-   :locality "أم العرائس",
+   :location "أم العرائس",
    :image "",
    :description ""}
   {:name "دار الشباب بالبقالطة",
@@ -716,21 +716,21 @@
    :longitude 8.4459019,
    :latitude 35.5623124,
    :source :openstreetmap,
-   :locality "حيدرة",
+   :location "حيدرة",
    :image "",
    :description ""}
   {:name "دار الشباب بخزندار",
    :longitude 10.1268005,
    :latitude 36.806201,
    :source :openstreetmap,
-   :locality "تونس",
+   :location "تونس",
    :image "",
    :description ""}
   {:name "دار الشباب بسيدي عامر",
    :longitude 10.702948,
    :latitude 35.7416849,
    :source :openstreetmap,
-   :locality "Sidi Ameur",
+   :location "Sidi Ameur",
    :image "",
    :description ""}
   {:name "زاوية سيدي الصاحب",
@@ -743,7 +743,7 @@
    :longitude 8.5771474,
    :latitude 36.4900949,
    :source :openstreetmap,
-   :locality "شمتو",
+   :location "شمتو",
    :image "",
    :description ""}
   {:name "صفاقس عاصمة الثقافة 2016",
@@ -780,7 +780,7 @@
    :longitude 10.0907895,
    :latitude 33.868619,
    :source :openstreetmap,
-   :locality "قابس",
+   :location "قابس",
    :image "",
    :description ""}
   {:name "متحف العملة",
@@ -799,7 +799,7 @@
    :longitude 11.0688012,
    :latitude 35.5037674,
    :source :openstreetmap,
-   :locality "المهدية",
+   :location "المهدية",
    :image "",
    :description ""}
   {:name "متحف النفيضة",
@@ -808,14 +808,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.tunisiepatrimoine.tn/musees/le-musee-denfidha/apercu/",
-   :locality "النفيضة",
+   :location "النفيضة",
    :image "",
    :description ""}
   {:name "متحف بربري",
    :longitude 9.8644438,
    :latitude 33.5368798,
    :source :openstreetmap,
-   :locality "تامزرط",
+   :location "تامزرط",
    :image "",
    :description ""}
   {:name "متحف جبل السرج ecomuseum jbel al sarj",
@@ -828,7 +828,7 @@
    :longitude 9.9685448,
    :latitude 33.5421566,
    :source :openstreetmap,
-   :locality "مطماطة",
+   :location "مطماطة",
    :image "",
    :description ""}
   {:name "متحف مدينة تونس",
@@ -848,28 +848,28 @@
    :latitude 36.7636904,
    :source :openstreetmap,
    :homepage "http://www.centrarades.org/",
-   :locality "رادس",
+   :location "رادس",
    :image "",
    :description ""}
   {:name "مركز ثقافي",
    :longitude 10.1480646,
    :latitude 36.7959436,
    :source :openstreetmap,
-   :locality "تونس",
+   :location "تونس",
    :image "",
    :description ""}
   {:name "معصرة الفصيلي",
    :longitude 10.991937,
    :latitude 33.8101381,
    :source :openstreetmap,
-   :locality "ميدون",
+   :location "ميدون",
    :image "",
    :description ""}
   {:name "معهد غوته",
    :longitude 10.1805899,
    :latitude 36.8179179,
    :source :openstreetmap,
-   :locality "تونس",
+   :location "تونس",
    :image "",
    :description ""}],
  :source

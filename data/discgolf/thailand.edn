@@ -9,7 +9,7 @@
    :latitude 9.73527669971432,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36909",
-   :locality "เกาะพะงัน",
+   :location "เกาะพะงัน",
    :image "",
    :description ""}
   {:name "Army base golf",
@@ -31,7 +31,7 @@
    :latitude 9.421544235010852,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5859",
-   :locality "เกาะสมุย",
+   :location "เกาะสมุย",
    :image "",
    :description ""}
   {:name "Lanna Rock Garden",
@@ -39,7 +39,7 @@
    :latitude 18.760909448919293,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31194",
-   :locality "หมู่ที่ 4",
+   :location "หมู่ที่ 4",
    :image "",
    :description ""}
   {:name "Pattaya Disc Golf",
@@ -47,7 +47,7 @@
    :latitude 13.026375687440265,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31863",
-   :locality "บางละมุง",
+   :location "บางละมุง",
    :image "",
    :description ""}
   {:name "RSU Sky Disc Golf",
@@ -55,7 +55,7 @@
    :latitude 13.967456,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37187",
-   :locality "ปทุมธานี",
+   :location "ปทุมธานี",
    :image "",
    :description ""}
   {:name "Samui Disc Golf",
@@ -63,7 +63,7 @@
    :latitude 9.56466,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5780",
-   :locality "เกาะสมุย",
+   :location "เกาะสมุย",
    :image "",
    :description ""}
   {:name "Siam Royal Bay DGC",
@@ -71,7 +71,7 @@
    :latitude 12.140632064307937,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41999",
-   :locality "Ko Chang",
+   :location "Ko Chang",
    :image "",
    :description ""}
   {:name "Trat dg",
@@ -79,7 +79,7 @@
    :latitude 12.246959103221386,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41289",
-   :locality "Trat",
+   :location "Trat",
    :image "",
    :description ""}],
  :source

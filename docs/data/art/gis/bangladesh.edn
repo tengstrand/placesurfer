@@ -8,7 +8,7 @@
    :longitude 89.544382,
    :latitude 22.8198316,
    :source :openstreetmap,
-   :locality "Khulna"}
+   :location "Khulna"}
   {:name "Ahsan Manzil",
    :longitude 90.4060006,
    :latitude 23.7084801,
@@ -75,12 +75,12 @@
    :longitude 90.4157431,
    :latitude 24.0333209,
    :source :openstreetmap,
-   :locality "Gazipur Sadar"}
+   :location "Gazipur Sadar"}
   {:name "BRRI Headquarter",
    :longitude 90.4072506,
    :latitude 23.9918321,
    :source :openstreetmap,
-   :locality "Gazipur"}
+   :location "Gazipur"}
   {:name "Chittagong Cantonment Museum",
    :longitude 91.808913,
    :latitude 22.3955721,
@@ -123,7 +123,7 @@
    :latitude 23.7826752,
    :source :openstreetmap,
    :homepage "dhhs",
-   :locality "chittagong"}
+   :location "chittagong"}
   {:name "Global Best Content Tec Bangladesh, Historical landmark",
    :longitude 90.3948136,
    :latitude 24.5819203,
@@ -132,12 +132,12 @@
    :longitude 91.392649,
    :latitude 25.0710414,
    :source :openstreetmap,
-   :locality "Sunamganj"}
+   :location "Sunamganj"}
   {:name "Hero Gate",
    :longitude 90.4028797,
    :latitude 23.8110302,
    :source :openstreetmap,
-   :locality "Dhaka"}
+   :location "Dhaka"}
   {:name "Horipodo Ritchil Memorial, Museum",
    :longitude 90.2863133,
    :latitude 25.1805827,
@@ -150,7 +150,7 @@
    :longitude 90.3752212,
    :latitude 23.8111395,
    :source :openstreetmap,
-   :locality "Dhaka"}
+   :location "Dhaka"}
   {:name "Jamuna Resort Wild Life Meseum",
    :longitude 89.8159987,
    :latitude 24.3895449,
@@ -171,12 +171,12 @@
    :longitude 89.978692,
    :latitude 24.2234987,
    :source :openstreetmap,
-   :locality "Karatia"}
+   :location "Karatia"}
   {:name "Kazi Nazrul Institute",
    :longitude 90.3730665,
    :latitude 23.7520943,
    :source :openstreetmap,
-   :locality "Dhanmondi R/A, Dhaka"}
+   :location "Dhanmondi R/A, Dhaka"}
   {:name "Kendriyo Kochi Kachar Mela",
    :longitude 90.4088449,
    :latitude 23.7341056,
@@ -185,7 +185,7 @@
    :longitude 91.8624887,
    :latitude 24.8987402,
    :source :openstreetmap,
-   :locality "সিলেট"}
+   :location "সিলেট"}
   {:name "Kushtia Municipality Museum",
    :longitude 89.122328,
    :latitude 23.9112884,
@@ -215,7 +215,7 @@
    :longitude 90.0428613,
    :latitude 24.1630264,
    :source :openstreetmap,
-   :locality "Mirzapur"}
+   :location "Mirzapur"}
   {:name
    "Mrinmoy Art Gallery, Priyangon, Zakir Hossain Rd, Chattogram",
    :longitude 91.8161309,
@@ -233,19 +233,19 @@
    :longitude 91.8672371,
    :latitude 24.8949033,
    :source :openstreetmap,
-   :locality "Sylhet"}
+   :location "Sylhet"}
   {:name "National Art Gallery",
    :longitude 90.404442,
    :latitude 23.7347479,
    :source :openstreetmap,
    :homepage "https://shilpakala.gov.bd",
-   :locality "Dhaka"}
+   :location "Dhaka"}
   {:name "National Museum of Science & Technology",
    :longitude 90.371604,
    :latitude 23.7788896,
    :source :openstreetmap,
    :homepage "https://nmst.gov.bd/",
-   :locality "Dhaka"}
+   :location "Dhaka"}
   {:name "Naval Museun",
    :longitude 91.8248677,
    :latitude 22.3445288,
@@ -312,7 +312,7 @@
    :longitude 91.5207049,
    :latitude 24.2361728,
    :source :openstreetmap,
-   :locality "Chunarughat"}
+   :location "Chunarughat"}
   {:name "Tea Museum",
    :longitude 91.7599871,
    :latitude 24.2999599,
@@ -342,7 +342,7 @@
    :longitude 90.6015743,
    :latitude 23.6486423,
    :source :openstreetmap,
-   :locality "narayanganj"}
+   :location "narayanganj"}
   {:name "Zia Memorial Museum",
    :longitude 91.8239219,
    :latitude 22.3482494,
@@ -351,7 +351,7 @@
    :longitude 91.7751449,
    :latitude 24.488723,
    :source :openstreetmap,
-   :locality "Moulvibazar"}
+   :location "Moulvibazar"}
   {:name "Zilla Shilpakala Academy, Rajshahi",
    :longitude 88.5725733,
    :latitude 24.367273,
@@ -376,18 +376,18 @@
    :longitude 89.8665276,
    :latitude 24.8628453,
    :source :openstreetmap,
-   :locality "Hajipur, Jamalpur"}
+   :location "Hajipur, Jamalpur"}
   {:name "ছায়ানট সংস্কৃতি-ভবন",
    :longitude 90.3683738,
    :latitude 23.751153,
    :source :openstreetmap,
-   :locality "Dhaka"}
+   :location "Dhaka"}
   {:name "জেলা শিল্পকলা একাডেমী",
    :longitude 89.4378059,
    :latitude 25.9114513,
    :source :openstreetmap,
    :homepage "https://www.shilpakalaacademy.org/",
-   :locality "Lalmonirhat Sadar"}
+   :location "Lalmonirhat Sadar"}
   {:name "তুলিকা অংকন শিক্ষালয় ও সংস্কৃতি কেন্দ্র",
    :longitude 90.4260915,
    :latitude 23.72039,
@@ -417,7 +417,7 @@
    :longitude 90.3861427,
    :latitude 23.7637041,
    :source :openstreetmap,
-   :locality "Dhaka"}
+   :location "Dhaka"}
   {:name "বানিয়াচং রাজবাড়ী",
    :longitude 91.3600469,
    :latitude 24.5265919,

@@ -12,7 +12,7 @@
    :longitude -67.7673413,
    :latitude -20.9030306,
    :source :openstreetmap,
-   :locality "San Juan"}
+   :location "San Juan"}
   {:name "Casa de Eustaquio 'Moto' Mendez",
    :longitude -64.749699,
    :latitude -21.417377,
@@ -25,7 +25,7 @@
    :longitude -63.3080886,
    :latitude -17.8559776,
    :source :openstreetmap,
-   :locality "Porongo"}
+   :location "Porongo"}
   {:name "Casa de la Cultura San Francisco",
    :longitude -63.4748771,
    :latitude -21.2638917,
@@ -34,7 +34,7 @@
    :longitude -66.1419706,
    :latitude -17.3824035,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Casa de Region",
    :longitude -66.8195366,
    :latitude -17.084792,
@@ -49,37 +49,37 @@
    :latitude -16.5118781,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/CasaMuseoCecilioGuzmanDeRojas/",
-   :locality "La Paz"}
+   :location "La Paz"}
   {:name "Casa Museo Martín Cárdenas",
    :longitude -66.1606795,
    :latitude -17.3927429,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Casa Museo Villa Albina",
    :longitude -66.3203783,
    :latitude -17.366651,
    :source :openstreetmap,
-   :locality "Vinto"}
+   :location "Vinto"}
   {:name "Casona Mayorazgo",
    :longitude -66.1745726,
    :latitude -17.365322,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Castillo de La Glorieta",
    :longitude -65.2685163,
    :latitude -19.0845968,
    :source :openstreetmap,
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Cementerio de Aviones AeroSur",
    :longitude -66.1636718,
    :latitude -17.4295233,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Cementerio de Aviones DGAC",
    :longitude -66.1719088,
    :latitude -17.4169228,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Centro Arqueológico Alcaya",
    :longitude -67.7268331,
    :latitude -19.6197969,
@@ -96,17 +96,17 @@
    :longitude -66.7627758,
    :latitude -17.6959956,
    :source :openstreetmap,
-   :locality "Japo K'asa"}
+   :location "Japo K'asa"}
   {:name "Centro Biocultural Tierra Verde",
    :longitude -66.2944907,
    :latitude -17.4031985,
    :source :openstreetmap,
-   :locality "Quillacollo"}
+   :location "Quillacollo"}
   {:name "Centro Cultural \"´Prefectural\"",
    :longitude -68.1801382,
    :latitude -16.5249709,
    :source :openstreetmap,
-   :locality "La Paz - El Alto"}
+   :location "La Paz - El Alto"}
   {:name "Centro Cultural Japonés",
    :longitude -68.1296585,
    :latitude -16.5032277,
@@ -120,7 +120,7 @@
    :longitude -66.1878807,
    :latitude -17.3729043,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Centro cultural Noel Kempf",
    :longitude -63.1240192,
    :latitude -17.8110541,
@@ -129,17 +129,17 @@
    :longitude -63.1897361,
    :latitude -17.7471743,
    :source :openstreetmap,
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Centro cultural Ronald Roa",
    :longitude -63.1769536,
    :latitude -17.7719575,
    :source :openstreetmap,
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Centro Cultural San Isidro",
    :longitude -63.1331662,
    :latitude -17.8128782,
    :source :openstreetmap,
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Centro Cultural Teatro Dragón Wari",
    :longitude -68.1412988,
    :latitude -16.5095763,
@@ -159,7 +159,7 @@
    :source :openstreetmap,
    :homepage
    "https://centropatino.fundacionpatino.org/areas/unidades-de-informacion/centro-de-literatura-boliviana/",
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Centro de interpretación y museo “Huellas Chicheñas”",
    :longitude -65.7208885,
    :latitude -21.4411981,
@@ -168,22 +168,22 @@
    :longitude -69.0692533,
    :latitude -16.1529688,
    :source :openstreetmap,
-   :locality "Cusijata"}
+   :location "Cusijata"}
   {:name "CIBIOMA (Museo Botánico)",
    :longitude -64.8941795,
    :latitude -14.8125626,
    :source :openstreetmap,
-   :locality "Trinidad"}
+   :location "Trinidad"}
   {:name "Complejo Cultural Plaza",
    :longitude -66.2067712,
    :latitude -17.363539,
    :source :openstreetmap,
-   :locality "Tiquipaya"}
+   :location "Tiquipaya"}
   {:name "Creatio",
    :longitude -66.1525627,
    :latitude -17.370328,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Escuela de Circo y Teatro Jawapi",
    :longitude -65.2536635,
    :latitude -19.058393,
@@ -192,13 +192,13 @@
    :longitude -68.1626061,
    :latitude -16.5047687,
    :source :openstreetmap,
-   :locality "El Alto"}
+   :location "El Alto"}
   {:name "Espacio Cultural Origenes",
    :longitude -65.2581888,
    :latitude -19.05306,
    :source :openstreetmap,
    :homepage "https://www.origenes.com.bo/",
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Etno Museo Yuqui Yuracaré",
    :longitude -65.1502034,
    :latitude -16.996176,
@@ -207,17 +207,17 @@
    :longitude -68.1523974,
    :latitude -16.52378,
    :source :openstreetmap,
-   :locality "El Alto"}
+   :location "El Alto"}
   {:name "Fundarte",
    :longitude -63.170808,
    :latitude -17.7911809,
    :source :openstreetmap,
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Galeria Arte",
    :longitude -68.080049,
    :latitude -16.5406952,
    :source :openstreetmap,
-   :locality "La Paz"}
+   :location "La Paz"}
   {:name "Galeria Barranco",
    :longitude -68.0899114,
    :latitude -16.5707588,
@@ -231,22 +231,22 @@
    :longitude -63.1837377,
    :latitude -17.7778385,
    :source :openstreetmap,
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Galería Arte 21",
    :longitude -63.172457,
    :latitude -17.7602381,
    :source :openstreetmap,
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Galería de Arte Ubuntu",
    :longitude -66.1670385,
    :latitude -17.364855,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Galería Mario Unzueta",
    :longitude -66.1557417,
    :latitude -17.3918378,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Galería Neo",
    :longitude -68.0808252,
    :latitude -16.5439165,
@@ -255,35 +255,35 @@
    :longitude -66.1422171,
    :latitude -17.3866034,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Hacienda El Patronato - La Casa Grande",
    :longitude -65.2100721,
    :latitude -20.6573693,
    :source :openstreetmap,
-   :locality "Camargo"}
+   :location "Camargo"}
   {:name "Hacienda San Pedro",
    :longitude -65.2233392,
    :latitude -20.7241356,
    :source :openstreetmap,
-   :locality "San Pedro"}
+   :location "San Pedro"}
   {:name "ICREA Casa Cultural",
    :longitude -66.1638948,
    :latitude -17.3779573,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Instituto Cultural Boliviano Alemán",
    :longitude -66.1582796,
    :latitude -17.3742963,
    :source :openstreetmap,
    :homepage "https://www.icbacbba.org/",
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name
    "Instituto de Investigaciones Antropológicas y Museo Arqueológico",
    :longitude -66.1572725,
    :latitude -17.3954063,
    :source :openstreetmap,
    :homepage "https://www.museo.umss.edu.bo/",
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Jiwasanki Museo de Arte",
    :longitude -68.162113,
    :latitude -16.510525,
@@ -301,7 +301,7 @@
    :longitude -66.1349045,
    :latitude -17.3674907,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "La Casa Negra",
    :longitude -66.1535084,
    :latitude -17.3792871,
@@ -310,7 +310,7 @@
    :longitude -66.0249473,
    :latitude -17.6175519,
    :source :openstreetmap,
-   :locality "Tarata"}
+   :location "Tarata"}
   {:name "La Cúpula Centro Cultural",
    :longitude -64.7193155,
    :latitude -21.5514428,
@@ -331,23 +331,23 @@
    :longitude -66.1701436,
    :latitude -17.4221432,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Museo Abierto del Ferrocarril",
    :longitude -66.8360553,
    :latitude -20.4810203,
    :source :openstreetmap,
-   :locality "Uyuni"}
+   :location "Uyuni"}
   {:name "Museo Aeroespacial Fuerza Aérea Boliviana",
    :longitude -68.1740778,
    :latitude -16.5029913,
    :source :openstreetmap,
    :homepage "https://museoaeroespacialfab.wixsite.com/oficial",
-   :locality "El Alto"}
+   :location "El Alto"}
   {:name "Museo Arqueológico Regional de Samaipata",
    :longitude -63.8740978,
    :latitude -18.1783094,
    :source :openstreetmap,
-   :locality "Samaipata"}
+   :location "Samaipata"}
   {:name "Museo Arqueológico Regional Yacuma",
    :longitude -65.4267099,
    :latitude -13.743627,
@@ -360,17 +360,17 @@
    :longitude -67.6264835,
    :latitude -19.9010688,
    :source :openstreetmap,
-   :locality "Coqueza"}
+   :location "Coqueza"}
   {:name "Museo Butch Cassidy & Sundance Kid",
    :longitude -66.3161528,
    :latitude -21.2678186,
    :source :openstreetmap,
-   :locality "San Vicente"}
+   :location "San Vicente"}
   {:name "Museo Centro de Interpretación de la Quinua",
    :longitude -67.6647937,
    :latitude -20.7893161,
    :source :openstreetmap,
-   :locality "Mañica"}
+   :location "Mañica"}
   {:name "Museo Cerámico",
    :longitude -68.6759878,
    :latitude -16.5580444,
@@ -383,7 +383,7 @@
    :longitude -66.2549145,
    :latitude -17.37994,
    :source :openstreetmap,
-   :locality "Quillacollo"}
+   :location "Quillacollo"}
   {:name "Museo Comunitario Tablas Monte",
    :longitude -65.9966325,
    :latitude -17.0844212,
@@ -400,7 +400,7 @@
    :longitude -63.4839168,
    :latitude -21.2724535,
    :source :openstreetmap,
-   :locality "Villa Montes"}
+   :location "Villa Montes"}
   {:name "Museo Cultural VGD",
    :longitude -64.0966633,
    :latitude -18.4825297,
@@ -409,7 +409,7 @@
    :longitude -66.1497131,
    :latitude -17.3868782,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Museo de Arte Antonio Paredes Candia",
    :longitude -68.1513815,
    :latitude -16.5196713,
@@ -418,12 +418,12 @@
    :longitude -66.1589422,
    :latitude -17.3584253,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Museo de Física",
    :longitude -66.14473,
    :latitude -17.3928143,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Museo de Historia Nacional Teniente Coronel German Bush",
    :longitude -63.1790375,
    :latitude -17.8049243,
@@ -436,7 +436,7 @@
    :longitude -64.9389219,
    :latitude -19.1746396,
    :source :openstreetmap,
-   :locality "Tarabuco"}
+   :location "Tarabuco"}
   {:name "Museo de la Hoja",
    :longitude -63.2458725,
    :latitude -17.7830419,
@@ -451,7 +451,7 @@
    :latitude -18.968901,
    :source :openstreetmap,
    :homepage "http://www.museorinoca.org/",
-   :locality "Orinoca"}
+   :location "Orinoca"}
   {:name "Museo de la Revolución",
    :longitude -68.1218722,
    :latitude -16.4837968,
@@ -464,12 +464,12 @@
    :longitude -66.024794,
    :latitude -17.6236068,
    :source :openstreetmap,
-   :locality "Tarata"}
+   :location "Tarata"}
   {:name "Museo de Locomotoras",
    :longitude -68.8522728,
    :latitude -16.5901758,
    :source :openstreetmap,
-   :locality "Puerto Guaqui"}
+   :location "Puerto Guaqui"}
   {:name "Museo de Locomotoras Pulacayo",
    :longitude -66.700033,
    :latitude -20.3910396,
@@ -486,13 +486,13 @@
    :longitude -68.0500337,
    :latitude -20.7465761,
    :source :openstreetmap,
-   :locality "San Pedro de Quemes"}
+   :location "San Pedro de Quemes"}
   {:name "Museo de Santa Clara",
    :longitude -65.2566231,
    :latitude -19.0492258,
    :source :openstreetmap,
    :homepage "http://www.losmasis.com/",
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Museo de sombreros",
    :longitude -65.2429226,
    :latitude -19.0372878,
@@ -523,28 +523,28 @@
    :latitude -19.0474822,
    :source :openstreetmap,
    :homepage "https://www.chocolatesparati.net/",
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Museo del Paracaidismo",
    :longitude -66.1718885,
    :latitude -17.3966968,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Museo del Poncho",
    :longitude -69.0901882,
    :latitude -16.1649205,
    :source :openstreetmap,
-   :locality "Copacabana"}
+   :location "Copacabana"}
   {:name "Museo Eclesiástico",
    :longitude -65.2600123,
    :latitude -19.0490222,
    :source :openstreetmap,
    :homepage "http://www.losmasis.com/",
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Museo El Corralito de Villa Montes",
    :longitude -63.4715507,
    :latitude -21.2648747,
    :source :openstreetmap,
-   :locality "Villa Montes, Tarija"}
+   :location "Villa Montes, Tarija"}
   {:name "Museo Enologico del Valle",
    :longitude -64.6604275,
    :latitude -21.6913551,
@@ -553,7 +553,7 @@
    :longitude -64.9044381,
    :latitude -14.8164222,
    :source :openstreetmap,
-   :locality "Trinidad, Beni"}
+   :location "Trinidad, Beni"}
   {:name "Museo Familia Rivera",
    :longitude -67.6626036,
    :latitude -17.0629242,
@@ -562,7 +562,7 @@
    :longitude -68.129247,
    :latitude -16.5086476,
    :source :openstreetmap,
-   :locality "La Paz"}
+   :location "La Paz"}
   {:name "Museo Ferrocarril y Centro de Interpretación de Uyuni",
    :longitude -66.819912,
    :latitude -20.4641203,
@@ -571,7 +571,7 @@
    :longitude -68.1443728,
    :latitude -16.4911561,
    :source :openstreetmap,
-   :locality "La Paz"}
+   :location "La Paz"}
   {:name "Museo Ferroviario Simón Iturri Patiño",
    :longitude -67.0189624,
    :latitude -18.1760005,
@@ -581,7 +581,7 @@
    :latitude -21.534073,
    :source :openstreetmap,
    :homepage "http://www.franciscanosdetarija.com/museo-franciscano/",
-   :locality "Tarija"}
+   :location "Tarija"}
   {:name "Museo Guaraní",
    :longitude -63.1848961,
    :latitude -17.7588361,
@@ -600,28 +600,28 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/MuseoHistoricoCostumbristaOcobaya",
-   :locality "Ocobaya"}
+   :location "Ocobaya"}
   {:name "Museo Histórico de Andamarca",
    :longitude -67.5057573,
    :latitude -18.7786858,
    :source :openstreetmap,
-   :locality "Santiago de Andamarca"}
+   :location "Santiago de Andamarca"}
   {:name "Museo Histórico Hernán Cámara Verduguez",
    :longitude -66.2407812,
    :latitude -17.3882143,
    :source :openstreetmap,
-   :locality "Colcapirhua"}
+   :location "Colcapirhua"}
   {:name "Museo Histórico Militar",
    :longitude -68.0865028,
    :latitude -16.5373196,
    :source :openstreetmap,
-   :locality "La Paz"}
+   :location "La Paz"}
   {:name "Museo Histórico Militar de la Nación",
    :longitude -65.2591808,
    :latitude -19.0458794,
    :source :openstreetmap,
    :homepage "https://www.museodeltesoro.com/",
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Museo Histórico Militar Héroes de la Guerra del Chaco",
    :longitude -63.4754357,
    :latitude -21.2601429,
@@ -643,7 +643,7 @@
    :longitude -66.1607662,
    :latitude -17.389329,
    :source :openstreetmap,
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Museo Minero del Socavón",
    :longitude -67.1188461,
    :latitude -17.9672484,
@@ -668,13 +668,13 @@
    :longitude -67.1225175,
    :latitude -17.9812361,
    :source :openstreetmap,
-   :locality "Oruro"}
+   :location "Oruro"}
   {:name "Museo Nacional de Historia Natural",
    :longitude -68.0707255,
    :latitude -16.5388723,
    :source :openstreetmap,
    :homepage "https://mnhn.gob.bo/",
-   :locality "La Paz"}
+   :location "La Paz"}
   {:name "Museo Pachamama Wasi",
    :longitude -65.762584,
    :latitude -18.1348115,
@@ -687,17 +687,17 @@
    :longitude -68.9739717,
    :latitude -18.1339659,
    :source :openstreetmap,
-   :locality "Sajama"}
+   :location "Sajama"}
   {:name "Museo Pata Patani",
    :longitude -68.6778739,
    :latitude -16.312122,
    :source :openstreetmap,
-   :locality "Pata Patani"}
+   :location "Pata Patani"}
   {:name "Museo Pedro Villalobos",
    :longitude -68.7551958,
    :latitude -11.0182915,
    :source :openstreetmap,
-   :locality "Cobija"}
+   :location "Cobija"}
   {:name "Museo Policial",
    :longitude -68.1328719,
    :latitude -16.4970885,
@@ -730,17 +730,17 @@
    :latitude -17.398456,
    :source :openstreetmap,
    :homepage "http://www.martadero.org/",
-   :locality "Cochabamba"}
+   :location "Cochabamba"}
   {:name "Nueva Acropolis",
    :longitude -63.1765234,
    :latitude -17.7872225,
    :source :openstreetmap,
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Palacio de La Florida",
    :longitude -65.2686869,
    :latitude -19.0765199,
    :source :openstreetmap,
-   :locality "Sucre"}
+   :location "Sucre"}
   {:name "Palacio de Simon I. Patiño",
    :longitude -66.5786713,
    :latitude -18.4711959,
@@ -749,7 +749,7 @@
    :longitude -68.6809731,
    :latitude -16.5527606,
    :source :openstreetmap,
-   :locality "Tiahuanacu"}
+   :location "Tiahuanacu"}
   {:name "Plan 3000",
    :longitude -63.1340889,
    :latitude -17.8289865,
@@ -759,7 +759,7 @@
    :latitude -17.7830616,
    :source :openstreetmap,
    :homepage "http://www.manzanauno.org.bo",
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Restauraciones Supay",
    :longitude -68.1279675,
    :latitude -16.5176673,
@@ -770,12 +770,12 @@
    :latitude -17.7835828,
    :source :openstreetmap,
    :homepage "https://www.kioskogaleria.com/",
-   :locality "Santa Cruz de la Sierra"}
+   :location "Santa Cruz de la Sierra"}
   {:name "Sed21 Furure Villague",
    :longitude -65.3464647,
    :latitude -16.8260535,
    :source :openstreetmap,
-   :locality "Villa Porvenir"}
+   :location "Villa Porvenir"}
   {:name "Taller de Artes Visuales",
    :longitude -63.1830557,
    :latitude -17.7702381,

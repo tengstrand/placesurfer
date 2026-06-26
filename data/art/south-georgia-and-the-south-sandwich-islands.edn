@@ -10,7 +10,7 @@
    :source :openstreetmap,
    :homepage
    "https://sgmuseum.gs/index.php?title=South_Georgia_Museum",
-   :locality "Grytviken",
+   :location "Grytviken",
    :image "",
    :description ""}],
  :source

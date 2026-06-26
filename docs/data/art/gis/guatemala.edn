@@ -40,7 +40,7 @@
    :longitude -91.6251964,
    :latitude 14.5817242,
    :source :openstreetmap,
-   :locality "Santa Cruz Mulua"}
+   :location "Santa Cruz Mulua"}
   {:name "ERRE",
    :longitude -90.5140167,
    :latitude 14.6199872,
@@ -112,7 +112,7 @@
    :latitude 14.545652,
    :source :openstreetmap,
    :homepage "https://www.casadeltejido.org/",
-   :locality "San Antonio Aguas Calientes"}
+   :location "San Antonio Aguas Calientes"}
   {:name "Museo Ceramico",
    :longitude -89.611879,
    :latitude 17.2247377,
@@ -125,7 +125,7 @@
    :longitude -91.518765,
    :latitude 14.8332161,
    :source :openstreetmap,
-   :locality "Quetzaltenango"}
+   :location "Quetzaltenango"}
   {:name "Museo de la Iglesia de San Francisco",
    :longitude -90.5140614,
    :latitude 14.6358631,
@@ -149,7 +149,7 @@
    :longitude -89.5767631,
    :latitude 14.9991622,
    :source :openstreetmap,
-   :locality "Estanzuela"}
+   :location "Estanzuela"}
   {:name "Museo de Q'umarkaj",
    :longitude -91.1702201,
    :latitude 15.0234414,
@@ -184,7 +184,7 @@
    :longitude -88.9989509,
    :latitude 15.6348812,
    :source :openstreetmap,
-   :locality "San Felipe"}
+   :location "San Felipe"}
   {:name "Museo del Santo Hermano Pedro",
    :longitude -90.7298761,
    :latitude 14.5532762,
@@ -205,12 +205,12 @@
    :longitude -90.7345241,
    :latitude 14.5616544,
    :source :openstreetmap,
-   :locality "Antigua Guatemala"}
+   :location "Antigua Guatemala"}
   {:name "Museo Lacustre Atitlán",
    :longitude -91.1607803,
    :latitude 14.7392031,
    :source :openstreetmap,
-   :locality "Panajachel"}
+   :location "Panajachel"}
   {:name "Museo Miraflores",
    :longitude -90.5542365,
    :latitude 14.6203996,
@@ -219,7 +219,7 @@
    :longitude -90.5099278,
    :latitude 14.6396496,
    :source :openstreetmap,
-   :locality "Ciudad de Guatemala"}
+   :location "Ciudad de Guatemala"}
   {:name "Museo Nueva Horizonte",
    :longitude -89.7278993,
    :latitude 16.6796984,
@@ -237,7 +237,7 @@
    :longitude -91.1119325,
    :latitude 14.9422687,
    :source :openstreetmap,
-   :locality "Chichicastenango"}
+   :location "Chichicastenango"}
   {:name "Museo Regional de Santiago",
    :longitude -90.6775064,
    :latitude 14.632712,
@@ -254,7 +254,7 @@
    :longitude -91.2714785,
    :latitude 14.6948895,
    :source :openstreetmap,
-   :locality "San Pedro La Laguna"}
+   :location "San Pedro La Laguna"}
   {:name "Museo Zaculeo",
    :longitude -91.4918414,
    :latitude 15.3333726,
@@ -280,12 +280,12 @@
    :longitude -90.7343681,
    :latitude 14.6464607,
    :source :openstreetmap,
-   :locality "Sumpango"}
+   :location "Sumpango"}
   {:name "Salon Municipal Santa Rosa de Lima",
    :longitude -90.2952108,
    :latitude 14.3884932,
    :source :openstreetmap,
-   :locality "Santa Rosa de Lima"}
+   :location "Santa Rosa de Lima"}
   {:name "Salón Quetzal",
    :longitude -91.7953339,
    :latitude 14.9641261,
@@ -306,7 +306,7 @@
    :longitude -90.5154257,
    :latitude 14.6430037,
    :source :openstreetmap,
-   :locality "Ciudad de Guatemala"}
+   :location "Ciudad de Guatemala"}
   {:name "Tertulianos",
    :longitude -91.516718,
    :latitude 14.845129,

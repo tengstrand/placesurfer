@@ -9,73 +9,73 @@
    :latitude 64.32146721019771,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16219",
-   :locality "Akranes"}
+   :location "Akranes"}
   {:name "Bakkafjörður",
    :longitude -14.800603001292586,
    :latitude 66.03655234213045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34671",
-   :locality "Langanesbyggð"}
+   :location "Langanesbyggð"}
   {:name "Borg í Grímsnesi",
    :longitude -20.770433230370543,
    :latitude 64.0769365394871,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43290",
-   :locality "Borg"}
+   :location "Borg"}
   {:name "Flúðir, í Lækjargarðinum. ",
    :longitude -20.319644544231238,
    :latitude 64.12995840484399,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29839",
-   :locality "Hrunamannahreppur"}
+   :location "Hrunamannahreppur"}
   {:name "Fossvogur",
    :longitude -21.88800205595524,
    :latitude 64.11812167582463,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20222",
-   :locality "Kópavogur"}
+   :location "Kópavogur"}
   {:name "Fossvogur  54",
    :longitude -21.887368206368876,
    :latitude 64.11800027450425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17125",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Grafarholt 18 brautir ",
    :longitude -21.747091952965377,
    :latitude 64.12258601859162,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27804",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Grafarholt Hvítir teigar",
    :longitude -21.74867769628571,
    :latitude 64.12265332085357,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32264",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Grafarholt Hvítt/Blátt",
    :longitude -21.750522393571146,
    :latitude 64.12277501962137,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20442",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Grafarholt Vormót 2023",
    :longitude -21.75027082867399,
    :latitude 64.12267104114372,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32879",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Græningi",
    :longitude -21.751224801284877,
    :latitude 64.12243444418485,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32999",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Gufunes",
    :longitude -21.807947014616303,
    :latitude 64.14415833957443,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18663",
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Gufunes",
    :longitude -21.8133751,
    :latitude 64.1450833,
@@ -85,139 +85,139 @@
    :latitude 64.14437046604442,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7028",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Guðmundarlundur 20 körfur",
    :longitude -21.820861818536656,
    :latitude 64.07710152267344,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24069",
-   :locality "Kópavogsbær"}
+   :location "Kópavogsbær"}
   {:name "Hamarskotstún 18 layout",
    :longitude -18.10192915812229,
    :latitude 65.67987586055804,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33157",
-   :locality "Akureyrarbær"}
+   :location "Akureyrarbær"}
   {:name "Hamrakotstún",
    :longitude -18.101584911346436,
    :latitude 65.6800932605471,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5338",
-   :locality "Akureyrarkaupstaður"}
+   :location "Akureyrarkaupstaður"}
   {:name "Hamrar 18 2020",
    :longitude -18.101862090127213,
    :latitude 65.64829308436018,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18926",
-   :locality "Akureyrarkaupstaður"}
+   :location "Akureyrarkaupstaður"}
   {:name "Hamrar 18 holu layout",
    :longitude -18.106327056884766,
    :latitude 65.64735825710409,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7693",
-   :locality "Akureyrarkaupstaður"}
+   :location "Akureyrarkaupstaður"}
   {:name "Hamrar 18 holur 2019",
    :longitude -18.107831346935768,
    :latitude 65.64754898655042,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15603",
-   :locality "Akureyri"}
+   :location "Akureyri"}
   {:name "Hamrar 18 holur 2020",
    :longitude -18.10394525527954,
    :latitude 65.64834922587347,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11965",
-   :locality "Akureyrarkaupstaður"}
+   :location "Akureyrarkaupstaður"}
   {:name "Hamrar 18 holur 2021",
    :longitude -18.10444858632755,
    :latitude 65.64823506816901,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23155",
-   :locality "Akureyrarbær"}
+   :location "Akureyrarbær"}
   {:name "Hella",
    :longitude -20.397748947143555,
    :latitude 63.836202959347595,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9355",
-   :locality "Rangárþing Ytra"}
+   :location "Rangárþing Ytra"}
   {:name "Hella",
    :longitude -20.398321424660992,
    :latitude 63.843556108417175,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22896",
-   :locality "Rangárþing ytra"}
+   :location "Rangárþing ytra"}
   {:name "Hofsós Frísbígolf",
    :longitude -19.399984343721172,
    :latitude 65.90068530113376,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33901",
-   :locality "Sveitarfélagið Skagafjörður"}
+   :location "Sveitarfélagið Skagafjörður"}
   {:name "Hrafnagil 18.holur",
    :longitude -18.092079162597656,
    :latitude 65.57259039882963,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7818",
-   :locality "Eyjafjarðarsveit"}
+   :location "Eyjafjarðarsveit"}
   {:name "Hrafnagil 9.holur",
    :longitude -18.092905282974243,
    :latitude 65.57283442186814,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11203",
-   :locality "Eyjafjarðarsveit"}
+   :location "Eyjafjarðarsveit"}
   {:name "Hrísey",
    :longitude -18.375254076763156,
    :latitude 65.98353396824265,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20060",
-   :locality "Akureyrarkaupstaður"}
+   :location "Akureyrarkaupstaður"}
   {:name "Husavik Discgolf",
    :longitude -17.34656281963973,
    :latitude 66.05254264778873,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21248",
-   :locality "Norðurþing"}
+   :location "Norðurþing"}
   {:name "Hveragerði",
    :longitude -21.19512365769711,
    :latitude 64.00544165296657,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23220",
-   :locality "Hveragerðisbær"}
+   :location "Hveragerðisbær"}
   {:name "Hvolsvöllur",
    :longitude -20.231316536513134,
    :latitude 63.75423150197838,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22937",
-   :locality "Rangárþing eystra"}
+   :location "Rangárþing eystra"}
   {:name "Háskolavöllur 9 holur",
    :longitude -18.127456401663522,
    :latitude 65.68059418547733,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29819",
-   :locality "Akureyrarbær"}
+   :location "Akureyrarbær"}
   {:name "Háskólavöllur",
    :longitude -18.123028330289344,
    :latitude 65.68200441993886,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18352",
-   :locality "Akureyrarkaupstaður"}
+   :location "Akureyrarkaupstaður"}
   {:name "Hólabergsvöllur",
    :longitude -20.288438771579308,
    :latitude 65.82463211039635,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28655",
-   :locality "Sveitarfélagið Skagaströnd"}
+   :location "Sveitarfélagið Skagaströnd"}
   {:name "Hólavöllur",
    :longitude -21.810215549139883,
    :latitude 64.10287643806777,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25885",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Klambratún",
    :longitude -21.913741,
    :latitude 64.137188,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4678",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Klambratún",
    :longitude -21.924665691697015,
    :latitude 64.13804187001014,
@@ -233,19 +233,19 @@
    :latitude 64.13773324146462,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25857",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Klambratún 2x8",
    :longitude -21.914377000112438,
    :latitude 64.1380904712878,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25858",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Kópavogsdalur",
    :longitude -21.873457431793213,
    :latitude 64.1060577971279,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7002",
-   :locality "Kópavogsbær"}
+   :location "Kópavogsbær"}
   {:name "Laugardalur",
    :longitude -21.865999653497227,
    :latitude 64.13757908387012,
@@ -256,79 +256,79 @@
    :latitude 64.13832572796292,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16943",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Laugardalur Rauðir/Hvítir",
    :longitude -21.86507273998714,
    :latitude 64.13874758220513,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27015",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Ljósafossvöllur",
    :longitude -21.00993922356534,
    :latitude 64.09427530744048,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39006",
-   :locality "Úlfljótsvatn"}
+   :location "Úlfljótsvatn"}
   {:name "Mosfellsbær 2024",
    :longitude -21.68009270725821,
    :latitude 64.17139869760359,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40898",
-   :locality "Mosfellsbær"}
+   :location "Mosfellsbær"}
   {:name "Njarðvíkurskógur",
    :longitude -22.569421800484463,
    :latitude 63.98920168175212,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19592",
-   :locality "Reykjanesbær"}
+   :location "Reykjanesbær"}
   {:name "Púttvöllur Ljósafoss",
    :longitude -21.007698567688777,
    :latitude 64.09444556104353,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39368",
-   :locality "Iceland"}
+   :location "Iceland"}
   {:name "Raufarhofn (Austravöllur)",
    :longitude -15.951468381910871,
    :latitude 66.45462432439015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27124",
-   :locality "Norðurþing"}
+   :location "Norðurþing"}
   {:name "Reykholt, í uppsveitum Árnessýslu.",
    :longitude -20.446521894433545,
    :latitude 64.17510177946923,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43748",
-   :locality "Bláskógabyggð"}
+   :location "Bláskógabyggð"}
   {:name "Reykjavik Open 2019 Gufunes",
    :longitude -21.807314864341777,
    :latitude 64.14376701324107,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15055",
-   :locality "Reykjavik"}
+   :location "Reykjavik"}
   {:name "Rómantíski 18",
    :longitude -22.57152598867586,
    :latitude 63.99647988147345,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27195",
-   :locality "Reykjanesbær"}
+   :location "Reykjanesbær"}
   {:name "Rómantískivöllur",
    :longitude -22.575408065266288,
    :latitude 64.00125698125467,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22675",
-   :locality "Reykjanesbær"}
+   :location "Reykjanesbær"}
   {:name "Sauðárkrókur",
    :longitude -19.64508371027992,
    :latitude 65.74164979662498,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34777",
-   :locality "Sveitarfélagið Skagafjörður"}
+   :location "Sveitarfélagið Skagafjörður"}
   {:name "Selfoss",
    :longitude -20.988787181431547,
    :latitude 63.93218632477462,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19860",
-   :locality "Selfoss"}
+   :location "Selfoss"}
   {:name "Selfoss 2024",
    :longitude -20.990266428278602,
    :latitude 63.92951697563976,
@@ -339,37 +339,37 @@
    :latitude 63.929399756446514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38660",
-   :locality "Selfoss"}
+   :location "Selfoss"}
   {:name "Selfoss 2024 Áhugamanna flokkur",
    :longitude -20.990200379495093,
    :latitude 63.9294180142484,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38628",
-   :locality "Selfoss"}
+   :location "Selfoss"}
   {:name "Seljavöllur 2x9",
    :longitude -21.84557300105189,
    :latitude 64.10074063105077,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25932",
-   :locality "Reykjavíkurborg"}
+   :location "Reykjavíkurborg"}
   {:name "Stykkishólmur",
    :longitude -22.726239553712816,
    :latitude 65.07177497307234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38842",
-   :locality "Stykkishólmur"}
+   :location "Stykkishólmur"}
   {:name "Svalbarðseyri",
    :longitude -18.079116872510383,
    :latitude 65.74689984804792,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18802",
-   :locality "Svalbarðsstrandarhreppur"}
+   :location "Svalbarðsstrandarhreppur"}
   {:name "Valhúsahæð",
    :longitude -21.989790934241,
    :latitude 64.15332891148415,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20198",
-   :locality "Seltjarnarnes"}
+   :location "Seltjarnarnes"}
   {:name "Vifilsstadir",
    :longitude -21.890532316726137,
    :latitude 64.08221465133411,
@@ -380,79 +380,79 @@
    :latitude 65.67066798851155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30090",
-   :locality "Akureyrarbær"}
+   :location "Akureyrarbær"}
   {:name "Vogar",
    :longitude -22.38326146995783,
    :latitude 63.98471900802883,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23542",
-   :locality "Sveitarfélagið Vogar"}
+   :location "Sveitarfélagið Vogar"}
   {:name "Vopnafjarðarvöllur",
    :longitude -14.833797671749892,
    :latitude 65.75466024553393,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30201",
-   :locality "Vopnafjarðarhreppur"}
+   :location "Vopnafjarðarhreppur"}
   {:name "Vopnafjorður Discgolf course",
    :longitude -14.831490927514011,
    :latitude 65.75564288545391,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23948",
-   :locality "Vopnafjarðarhreppur"}
+   :location "Vopnafjarðarhreppur"}
   {:name "Vífilsstaðir",
    :longitude -21.8902587890625,
    :latitude 64.08253674989456,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12561",
-   :locality "Garðabær"}
+   :location "Garðabær"}
   {:name "Vífilsstaðir",
    :longitude -21.89031003658809,
    :latitude 64.082169414307,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38080",
-   :locality "Garðabær"}
+   :location "Garðabær"}
   {:name "Víðistaðaskóli - Íþróttahús",
    :longitude -21.959593050161033,
    :latitude 64.07542678632245,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29956",
-   :locality "Hafnarfjarðarkaupstaður"}
+   :location "Hafnarfjarðarkaupstaður"}
   {:name "Víðistaðatún - 27",
    :longitude -21.962010937925953,
    :latitude 64.07457421589945,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34004",
-   :locality "Hafnarfjarðarkaupstaður"}
+   :location "Hafnarfjarðarkaupstaður"}
   {:name "Árnes",
    :longitude -20.2563389070707,
    :latitude 64.04288900301512,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28427",
-   :locality "Skeiða- og Gnúpverjahreppur"}
+   :location "Skeiða- og Gnúpverjahreppur"}
   {:name "Árnesi við Þjórsárskóla",
    :longitude -20.247336439440403,
    :latitude 64.04195663833295,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28434",
-   :locality "Skeiða- og Gnúpverjahreppur"}
+   :location "Skeiða- og Gnúpverjahreppur"}
   {:name "Ásbrú",
    :longitude -22.575982844642255,
    :latitude 63.97346868754113,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21470",
-   :locality "Reykjanesbær"}
+   :location "Reykjanesbær"}
   {:name "Úlfljótsvatn Úlli kaldi",
    :longitude -21.04229830250833,
    :latitude 64.09598028658931,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37069",
-   :locality "Grímsnes- og Grafningshreppur"}
+   :location "Grímsnes- og Grafningshreppur"}
   {:name "Þorlákshöfn",
    :longitude -21.38236239244307,
    :latitude 63.85049954446106,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22782",
-   :locality "Sveitarfélagið Ölfus"}],
+   :location "Sveitarfélagið Ölfus"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

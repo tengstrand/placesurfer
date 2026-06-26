@@ -17,12 +17,12 @@
    :latitude -33.0304199,
    :source :openstreetmap,
    :homepage "https://artequinvina.cl/",
-   :locality "Viña del Mar"}
+   :location "Viña del Mar"}
   {:name "Artistas del Acero",
    :longitude -73.0423374,
    :latitude -36.8242826,
    :source :openstreetmap,
-   :locality "Concepción"}
+   :location "Concepción"}
   {:name "Aula Magna",
    :longitude -73.0131258,
    :latitude -36.8222002,
@@ -39,12 +39,12 @@
    :longitude -72.9891443,
    :latitude -41.3234121,
    :source :openstreetmap,
-   :locality "Puerto Varas"}
+   :location "Puerto Varas"}
   {:name "Bodega Casillero del Diablo",
    :longitude -70.5761473,
    :latitude -33.6346875,
    :source :openstreetmap,
-   :locality "Pirque"}
+   :location "Pirque"}
   {:name "Bodegón Cultural Los Vilos",
    :longitude -71.5132236,
    :latitude -31.9102458,
@@ -54,13 +54,13 @@
    :latitude -36.8222358,
    :source :openstreetmap,
    :homepage "http://centrocreacion.cl",
-   :locality "Concepción"}
+   :location "Concepción"}
   {:name "Carnaval del Sur",
    :longitude -72.9893115,
    :latitude -41.3200263,
    :source :openstreetmap,
    :homepage "https://carnavaldelsur.cl/",
-   :locality "Puerto Varas"}
+   :location "Puerto Varas"}
   {:name "Casa Condell",
    :longitude -71.2702235,
    :latitude -32.9860414,
@@ -73,12 +73,12 @@
    :longitude -71.3738544,
    :latitude -33.0549775,
    :source :openstreetmap,
-   :locality "Villa Alemana"}
+   :location "Villa Alemana"}
   {:name "Casa de Gabriela Mistral Las Palmeras",
    :longitude -71.2635467,
    :latitude -29.9053833,
    :source :openstreetmap,
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Casa de la Cultura",
    :longitude -71.6642448,
    :latitude -33.3593234,
@@ -87,12 +87,12 @@
    :longitude -71.2018542,
    :latitude -32.7344709,
    :source :openstreetmap,
-   :locality "Nogales"}
+   :location "Nogales"}
   {:name "Casa de la Cultura",
    :longitude -71.5980843,
    :latitude -35.8489596,
    :source :openstreetmap,
-   :locality "Linares"}
+   :location "Linares"}
   {:name "Casa de la Cultura",
    :longitude -72.078875,
    :latitude -34.7646557,
@@ -101,7 +101,7 @@
    :longitude -71.1685095,
    :latitude -34.3966942,
    :source :openstreetmap,
-   :locality "Peumo"}
+   :location "Peumo"}
   {:name "Casa de la Cultura",
    :longitude -70.9881817,
    :latitude -34.5842697,
@@ -110,12 +110,12 @@
    :longitude -70.6309143,
    :latitude -33.5842907,
    :source :openstreetmap,
-   :locality "La Pintana"}
+   :location "La Pintana"}
   {:name "Casa de la Cultura",
    :longitude -71.0416189,
    :latitude -34.7063773,
    :source :openstreetmap,
-   :locality "Chimbarongo"}
+   :location "Chimbarongo"}
   {:name "Casa de la Cultura Anahuac",
    :longitude -70.6240189,
    :latitude -33.4170783,
@@ -124,12 +124,12 @@
    :longitude -70.3979774,
    :latitude -23.6482102,
    :source :openstreetmap,
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Casa de la Cultura Anselmo Cádiz",
    :longitude -70.6871315,
    :latitude -33.570352,
    :source :openstreetmap,
-   :locality "El Bosque"}
+   :location "El Bosque"}
   {:name "Casa de la Cultura de Curicó",
    :longitude -71.2382102,
    :latitude -34.9853079,
@@ -138,7 +138,7 @@
    :longitude -71.8613652,
    :latitude -43.1851111,
    :source :openstreetmap,
-   :locality "Futaleufú"}
+   :location "Futaleufú"}
   {:name "casa de la cultura de huelquén",
    :longitude -70.6432449,
    :latitude -33.8330111,
@@ -159,7 +159,7 @@
    :longitude -71.6297092,
    :latitude -33.641283,
    :source :openstreetmap,
-   :locality "Santo Domingo"}
+   :location "Santo Domingo"}
   {:name "Casa de la Cultura El Tabo",
    :longitude -71.6660115,
    :latitude -33.456145,
@@ -169,12 +169,12 @@
    :latitude -33.4564172,
    :source :openstreetmap,
    :homepage "https://loprado.cl/",
-   :locality "Lo Prado"}
+   :location "Lo Prado"}
   {:name "Casa de la Cultura Peñaflor",
    :longitude -70.8945597,
    :latitude -33.6005793,
    :source :openstreetmap,
-   :locality "Peñaflor"}
+   :location "Peñaflor"}
   {:name "Casa de la Cultura Talagante",
    :longitude -70.9515556,
    :latitude -33.6739319,
@@ -184,22 +184,22 @@
    :latitude -33.423332,
    :source :openstreetmap,
    :homepage "https://linktr.ee/cultura.cerronavia",
-   :locality "Cerro Navia"}
+   :location "Cerro Navia"}
   {:name "Casa de la Cultura Víctor Jara",
    :longitude -70.6639961,
    :latitude -33.5346319,
    :source :openstreetmap,
-   :locality "La Cisterna"}
+   :location "La Cisterna"}
   {:name "Casa de la Cultura y el Arte",
    :longitude -72.6813819,
    :latitude -37.5028185,
    :source :openstreetmap,
-   :locality "Nacimiento"}
+   :location "Nacimiento"}
   {:name "Casa de la Culura Luis R. Minardi de La Torre",
    :longitude -71.2684834,
    :latitude -33.0012066,
    :source :openstreetmap,
-   :locality "Limache"}
+   :location "Limache"}
   {:name "Casa de la Memoria José Domingo Cañas",
    :longitude -70.6172587,
    :latitude -33.4564777,
@@ -212,13 +212,13 @@
    :longitude -70.9702951,
    :latitude -33.6747542,
    :source :openstreetmap,
-   :locality "El Monte"}
+   :location "El Monte"}
   {:name "Casa del Arte José Clemente Orozco (Pinacoteca)",
    :longitude -73.0392954,
    :latitude -36.8271644,
    :source :openstreetmap,
    :homepage "http://extension.udec.cl/pinacoteca/",
-   :locality "Concepción"}
+   :location "Concepción"}
   {:name "Casa del Arte Rural",
    :longitude -71.3004992,
    :latitude -29.9727851,
@@ -240,36 +240,36 @@
    :longitude -70.6612786,
    :latitude -33.5238705,
    :source :openstreetmap,
-   :locality "La Cisterna"}
+   :location "La Cisterna"}
   {:name "Casa Museo Alberto Baeriswyl (CAB)",
    :longitude -70.1411559,
    :latitude -53.8858771,
    :source :openstreetmap,
    :homepage "https://www.cab-patagonia.cl/",
-   :locality "Timaukel"}
+   :location "Timaukel"}
   {:name "Casa Museo de Lord Cochrane",
    :longitude -71.4428735,
    :latitude -32.8062037,
    :source :openstreetmap,
-   :locality "Valle Alegre"}
+   :location "Valle Alegre"}
   {:name "Casa Museo Delia del Carril",
    :longitude -70.5656994,
    :latitude -33.4513643,
    :source :openstreetmap,
    :homepage "https://www.fundaciondeliadelcarril.cl/",
-   :locality "La Reina"}
+   :location "La Reina"}
   {:name "Casa Museo Downey",
    :longitude -71.533006,
    :latitude -32.7790477,
    :source :openstreetmap,
    :homepage "https://www.casamuseodowney.cl/",
-   :locality "Quintero"}
+   :location "Quintero"}
   {:name "Casa Museo Eduardo Frei Montalva",
    :longitude -70.6223664,
    :latitude -33.4439056,
    :source :openstreetmap,
    :homepage "https://www.espacio-mub.com/",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Casa Museo Francisco Coloane",
    :longitude -73.4714241,
    :latitude -42.1438474,
@@ -280,14 +280,14 @@
    :source :openstreetmap,
    :homepage
    "https://fundacionneruda.org/museos-casa-museo-isla-negra/",
-   :locality "El Quisco"}
+   :location "El Quisco"}
   {:name "Casa Museo La Chascona",
    :longitude -70.634155,
    :latitude -33.4312595,
    :source :openstreetmap,
    :homepage
    "http://www.fundacionneruda.org/es/la-chascona/informacion-visita",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Casa Museo Lucas Bridges",
    :longitude -71.9840264,
    :latitude -47.1857694,
@@ -296,36 +296,36 @@
    :longitude -73.8291346,
    :latitude -41.9410286,
    :source :openstreetmap,
-   :locality "Ancud"}
+   :location "Ancud"}
   {:name "Casa Museo Padre Pancho",
    :longitude -71.9780792,
    :latitude -39.2739252,
    :source :openstreetmap,
    :homepage "https://civur39.ufro.cl/",
-   :locality "Pucón"}
+   :location "Pucón"}
   {:name "Casa Museo Patricio Aylwin Azócar",
    :longitude -70.5882836,
    :latitude -33.436206,
    :source :openstreetmap,
    :homepage "https://fundacionaylwin.cl/museo/",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Casa Museo San Martín",
    :longitude -72.6717691,
    :latitude -39.1008946,
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-95399.html",
-   :locality "Gorbea"}
+   :location "Gorbea"}
   {:name "Casa Museo Vicente Huidobro",
    :longitude -71.5995014,
    :latitude -33.5545198,
    :source :openstreetmap,
-   :locality "Cartagena"}
+   :location "Cartagena"}
   {:name "Casa Museo Violeta Parra",
    :longitude -71.9544939,
    :latitude -36.4271833,
    :source :openstreetmap,
-   :locality "San Carlos"}
+   :location "San Carlos"}
   {:name "Casa Patrimonial Eastman",
    :longitude -71.2768793,
    :latitude -32.9819579,
@@ -335,49 +335,49 @@
    :latitude -33.4264256,
    :source :openstreetmap,
    :homepage "https://casasancristobal.cl/",
-   :locality "Recoleta"}
+   :location "Recoleta"}
   {:name "Casa Serrano",
    :longitude -71.2766055,
    :latitude -32.986953,
    :source :openstreetmap,
-   :locality "Limache"}
+   :location "Limache"}
   {:name "Casa Taller Museo Sonoro Organológico (MUSO)",
    :longitude -70.7793428,
    :latitude -33.5131219,
    :source :openstreetmap,
-   :locality "Maipu"}
+   :location "Maipu"}
   {:name "Casona Cultural de Pichidegua",
    :longitude -71.2823534,
    :latitude -34.3586406,
    :source :openstreetmap,
-   :locality "Pichidegua"}
+   :location "Pichidegua"}
   {:name "Casona Cultural Ex Banco Llanquihue",
    :longitude -72.9089695,
    :latitude -41.4517039,
    :source :openstreetmap,
    :homepage "https://culturapuertomontt.cl/",
-   :locality "Puerto Montt"}
+   :location "Puerto Montt"}
   {:name "Casona El Llolly",
    :longitude -72.6142072,
    :latitude -40.0694483,
    :source :openstreetmap,
-   :locality "Paillaco"}
+   :location "Paillaco"}
   {:name "Casona San Joaquin de los Mayos",
    :longitude -70.7147877,
    :latitude -34.1994787,
    :source :openstreetmap,
-   :locality "Machalí"}
+   :location "Machalí"}
   {:name "Centro Comunitario Pudahuel",
    :longitude -70.7411881,
    :latitude -33.4333543,
    :source :openstreetmap,
    :homepage "https://cnjoven.cl/",
-   :locality "Pudahuel"}
+   :location "Pudahuel"}
   {:name "Centro Cultural",
    :longitude -72.952895,
    :latitude -38.7449937,
    :source :openstreetmap,
-   :locality "Nueva Imperial"}
+   :location "Nueva Imperial"}
   {:name "Centro Cultural Anandamapu",
    :longitude -70.6429196,
    :latitude -33.4207926,
@@ -386,7 +386,7 @@
    :longitude -72.7069218,
    :latitude -37.7982463,
    :source :openstreetmap,
-   :locality "Angol"}
+   :location "Angol"}
   {:name "Centro Cultural Argot",
    :longitude -70.6642615,
    :latitude -33.4592226,
@@ -399,7 +399,7 @@
    :longitude -70.8433558,
    :latitude -34.3730679,
    :source :openstreetmap,
-   :locality "Rengo"}
+   :location "Rengo"}
   {:name "Centro Cultural Casa Quemada",
    :longitude -70.6751391,
    :latitude -33.4397152,
@@ -413,7 +413,7 @@
    :longitude -70.5434817,
    :latitude -33.4505499,
    :source :openstreetmap,
-   :locality "La Reina"}
+   :location "La Reina"}
   {:name "Centro Cultural Chinkowe",
    :longitude -70.5407567,
    :latitude -33.4766296,
@@ -422,12 +422,12 @@
    :longitude -71.4449628,
    :latitude -33.0460146,
    :source :openstreetmap,
-   :locality "Quilpué"}
+   :location "Quilpué"}
   {:name "Centro Cultural de Hualpén",
    :longitude -73.0987626,
    :latitude -36.7978925,
    :source :openstreetmap,
-   :locality "Hualpén"}
+   :location "Hualpén"}
   {:name "Centro Cultural de Lampa",
    :longitude -70.8741299,
    :latitude -33.2851154,
@@ -437,91 +437,91 @@
    :longitude -70.5070156,
    :latitude -33.3576609,
    :source :openstreetmap,
-   :locality "Lo Barnechea"}
+   :location "Lo Barnechea"}
   {:name "Centro Cultural de Puente Alto",
    :longitude -70.548904,
    :latitude -33.6110513,
    :source :openstreetmap,
-   :locality "Puente Alto"}
+   :location "Puente Alto"}
   {:name "Centro Cultural de Quilicura",
    :longitude -70.73096,
    :latitude -33.3665025,
    :source :openstreetmap,
-   :locality "Quilicura"}
+   :location "Quilicura"}
   {:name "Centro Cultural de San Antonio",
    :longitude -71.6075149,
    :latitude -33.5984922,
    :source :openstreetmap,
-   :locality "San Antonio"}
+   :location "San Antonio"}
   {:name "Centro Cultural de San Ramón",
    :longitude -70.6335853,
    :latitude -33.548561,
    :source :openstreetmap,
-   :locality "San Ramón"}
+   :location "San Ramón"}
   {:name "Centro Cultural El Castillo de Coquimbo",
    :longitude -71.3369459,
    :latitude -29.9389525,
    :source :openstreetmap,
-   :locality "Coquimbo"}
+   :location "Coquimbo"}
   {:name "Centro Cultural Espacio Matta",
    :longitude -70.6327395,
    :latitude -33.5437406,
    :source :openstreetmap,
    :homepage "https://espaciomatta.cl/",
-   :locality "La Granja"}
+   :location "La Granja"}
   {:name "Centro Cultural Estación de Ferrocarriles de Cartagena",
    :longitude -71.6124208,
    :latitude -33.5522021,
    :source :openstreetmap,
-   :locality "Cartagena"}
+   :location "Cartagena"}
   {:name "Centro Cultural Estación Llay-Llay",
    :longitude -70.9525819,
    :latitude -32.8433364,
    :source :openstreetmap,
-   :locality "Llaillay"}
+   :location "Llaillay"}
   {:name "Centro Cultural ex Cine Colón",
    :longitude -70.3212989,
    :latitude -18.4788459,
    :source :openstreetmap,
    :homepage "https://casayanulaque.cl/",
-   :locality "Arica"}
+   :location "Arica"}
   {:name "Centro Cultural Gregorio de la Fuente",
    :longitude -71.2567844,
    :latitude -29.9025965,
    :source :openstreetmap,
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Centro Cultural Jorge Alessandri",
    :longitude -71.3342967,
    :latitude -29.9827718,
    :source :openstreetmap,
-   :locality "Coquimbo"}
+   :location "Coquimbo"}
   {:name "Centro Cultural Kuraf Werken",
    :longitude -71.6855852,
    :latitude -35.4324769,
    :source :openstreetmap,
    :homepage "https://www.kurafwerken.cl/",
-   :locality "Talca"}
+   :location "Talca"}
   {:name "Centro Cultural La Fábrica",
    :longitude -70.6371924,
    :latitude -33.452751,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Centro Cultural La Unión",
    :longitude -73.0828545,
    :latitude -40.2911327,
    :source :openstreetmap,
    :homepage "https://www.culturalaunion.cl",
-   :locality "La Unión"}
+   :location "La Unión"}
   {:name "Centro Cultural Lautaro",
    :longitude -72.4333282,
    :latitude -38.5338708,
    :source :openstreetmap,
-   :locality "Lautaro"}
+   :location "Lautaro"}
   {:name "Centro Cultural Leganés",
    :longitude -70.6700458,
    :latitude -33.3971823,
    :source :openstreetmap,
-   :locality "Conchalí"}
+   :location "Conchalí"}
   {:name "Centro Cultural Leopoldo Silva Reynoard",
    :longitude -71.2417881,
    :latitude -32.8756629,
@@ -531,7 +531,7 @@
    :latitude -39.2787917,
    :source :openstreetmap,
    :homepage "www.culturaliquen.cl",
-   :locality "Villarrica"}
+   :location "Villarrica"}
   {:name "Centro Cultural Municipal de Talca",
    :longitude -71.6653363,
    :latitude -35.4291256,
@@ -540,7 +540,7 @@
    :longitude -70.9923713,
    :latitude -34.5735282,
    :source :openstreetmap,
-   :locality "San Fernando"}
+   :location "San Fernando"}
   {:name "Centro Cultural Museo y Memorias de Neltume",
    :longitude -71.9461433,
    :latitude -39.8490159,
@@ -554,12 +554,12 @@
    :longitude -71.6282094,
    :latitude -33.4957823,
    :source :openstreetmap,
-   :locality "Las Cruces"}
+   :location "Las Cruces"}
   {:name "Centro Cultural Padre Las Casas",
    :longitude -72.5971768,
    :latitude -38.7736897,
    :source :openstreetmap,
-   :locality "Padre Las Casas"}
+   :location "Padre Las Casas"}
   {:name "Centro Cultural Palacio de La Moneda",
    :longitude -70.6536464,
    :latitude -33.4435026,
@@ -569,17 +569,17 @@
    :longitude -70.6727805,
    :latitude -33.4273578,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Centro Cultural Roberto Matta",
    :longitude -71.441101,
    :latitude -33.0504734,
    :source :openstreetmap,
-   :locality "Quilpué"}
+   :location "Quilpué"}
   {:name "Centro Cultural Rosario",
    :longitude -70.8396886,
    :latitude -34.349985,
    :source :openstreetmap,
-   :locality "Rosario"}
+   :location "Rosario"}
   {:name "Centro Cultural San Antonio",
    :longitude -71.6148925,
    :latitude -33.6015124,
@@ -592,7 +592,7 @@
    :longitude -70.3749775,
    :latitude -53.2986204,
    :source :openstreetmap,
-   :locality "Porvenir"}
+   :location "Porvenir"}
   {:name "Centro Cultural Tiltil",
    :longitude -70.9289682,
    :latitude -33.0853324,
@@ -606,34 +606,34 @@
    :longitude -70.5591473,
    :latitude -33.443635,
    :source :openstreetmap,
-   :locality "La Reina"}
+   :location "La Reina"}
   {:name "Centro Cultural y Comunitario Montecarmelo",
    :longitude -70.6281247,
    :latitude -33.4301938,
    :source :openstreetmap,
    :homepage "https://fundacionaliciavega.cl/",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Centro Cultural y Museo Almendral",
    :longitude -70.6925166,
    :latitude -32.749702,
    :source :openstreetmap,
-   :locality "San Felipe"}
+   :location "San Felipe"}
   {:name "Centro Cultural y Museo Comunitario de Queilén",
    :longitude -73.4774992,
    :latitude -42.8898354,
    :source :openstreetmap,
-   :locality "Queilen"}
+   :location "Queilen"}
   {:name "Centro de Arte Molino Machmar",
    :longitude -72.9938151,
    :latitude -41.3174099,
    :source :openstreetmap,
    :homepage "https://www.molinomachmar.cl/",
-   :locality "Puerto Varas"}
+   :location "Puerto Varas"}
   {:name "Centro de Artes Aéreas",
    :longitude -70.5328832,
    :latitude -33.4514894,
    :source :openstreetmap,
-   :locality "La Reina"}
+   :location "La Reina"}
   {:name "Centro de Artes El Cerro",
    :longitude -70.6392825,
    :latitude -33.4314077,
@@ -642,17 +642,17 @@
    :longitude -70.6365641,
    :latitude -33.449337,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Centro de Comunicacion Ambiental (CEA) CONAF",
    :longitude -70.4266629,
    :latitude -23.5003566,
    :source :openstreetmap,
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Centro de Expansión Cultural Isla Negra",
    :longitude -71.6853136,
    :latitude -33.4374794,
    :source :openstreetmap,
-   :locality "El Quisco"}
+   :location "El Quisco"}
   {:name "Centro de Extension Cultural",
    :longitude -71.2038779,
    :latitude -30.6051166,
@@ -661,50 +661,50 @@
    :longitude -72.0990084,
    :latitude -36.6066439,
    :source :openstreetmap,
-   :locality "Chillán"}
+   :location "Chillán"}
   {:name "Centro de Extensión UTEM",
    :longitude -70.659261,
    :latitude -33.4467115,
    :source :openstreetmap,
    :homepage "https://vinculacion.utem.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Centro de Humedales Río Cruces",
    :longitude -73.252925,
    :latitude -39.7948557,
    :source :openstreetmap,
    :homepage "https://cehum.org/",
-   :locality "Valdivia"}
+   :location "Valdivia"}
   {:name "Centro de Interpretación Cultural Casa Pauly",
    :longitude -72.9408382,
    :latitude -41.4708371,
    :source :openstreetmap,
-   :locality "Puerto Montt"}
+   :location "Puerto Montt"}
   {:name "Centro de Interpretación del Niño del Cerro El Plomo",
    :longitude -70.3231472,
    :latitude -33.3103067,
    :source :openstreetmap,
-   :locality "Lo Barnechea"}
+   :location "Lo Barnechea"}
   {:name "Centro de Interpretación Patrimonial FSJG",
    :longitude -72.9424401,
    :latitude -37.1686547,
    :source :openstreetmap,
-   :locality "Santa Juana"}
+   :location "Santa Juana"}
   {:name "Centro de las Artes CA 660",
    :longitude -70.5732688,
    :latitude -33.4043392,
    :source :openstreetmap,
-   :locality "Las Condes"}
+   :location "Las Condes"}
   {:name "Centro de visitantes del Parque Nacional Patagonia",
    :longitude -72.4867466,
    :latitude -47.1175633,
    :source :openstreetmap,
-   :locality "Chacabuco"}
+   :location "Chacabuco"}
   {:name "Centro de Visitantes Parque Nacional Torres del Paine",
    :longitude -72.9569322,
    :latitude -51.1788602,
    :source :openstreetmap,
    :homepage "https://parquetorresdelpaine.cl/",
-   :locality "Torres del Paine"}
+   :location "Torres del Paine"}
   {:name "Centro Español de Rancagua",
    :longitude -70.7521822,
    :latitude -34.1591098,
@@ -713,7 +713,7 @@
    :longitude -72.0333337,
    :latitude -37.6664905,
    :source :openstreetmap,
-   :locality "Santa Bárbara"}
+   :location "Santa Bárbara"}
   {:name "Centro Nacional de Arte Contemporáneo de Los Cerrillos",
    :longitude -70.7039959,
    :latitude -33.4950408,
@@ -724,30 +724,30 @@
    :latitude -33.4143977,
    :source :openstreetmap,
    :homepage "www.patrimoniodelasalud.cl",
-   :locality "Independencia"}
+   :location "Independencia"}
   {:name "Centro Patrimonial Curarrehue",
    :longitude -73.1059726,
    :latitude -36.8344373,
    :source :openstreetmap,
    :homepage "http://www.centropatrimonialcurarrehue.cl/",
-   :locality "San Pedro de la Paz"}
+   :location "San Pedro de la Paz"}
   {:name "Centro Patrimonial Posada del Corregidor",
    :longitude -70.6481299,
    :latitude -33.4345013,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "CICAT 'Centro Interactivo de Ciencias, Artes y Tecnologías'",
    :longitude -73.1631273,
    :latitude -36.9768215,
    :source :openstreetmap,
-   :locality "Coronel"}
+   :location "Coronel"}
   {:name "Circomuseo",
    :longitude -71.5971641,
    :latitude -33.0443571,
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-123033.html",
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Club de Rayuela \"Corta Lienza\"",
    :longitude -71.5823412,
    :latitude -35.7468546,
@@ -760,27 +760,27 @@
    :longitude -70.9076413,
    :latitude -53.1654658,
    :source :openstreetmap,
-   :locality "Punta Arenas"}
+   :location "Punta Arenas"}
   {:name "Complejo Andrónico Luksic Abaroa",
    :longitude -70.6142426,
    :latitude -33.4999074,
    :source :openstreetmap,
-   :locality "Macul"}
+   :location "Macul"}
   {:name "Complejo Cultural Museo Interactivo",
    :longitude -71.2259045,
    :latitude -32.8261038,
    :source :openstreetmap,
-   :locality "La Cruz"}
+   :location "La Cruz"}
   {:name "Contrapunto",
    :longitude -71.4347154,
    :latitude -33.0467332,
    :source :openstreetmap,
-   :locality "Quilpué"}
+   :location "Quilpué"}
   {:name "Corporación Artístico Cultural Rakiduam Art",
    :longitude -72.4244346,
    :latitude -38.5376414,
    :source :openstreetmap,
-   :locality "Lautaro"}
+   :location "Lautaro"}
   {:name "Corporación Cultural de Las Condes",
    :longitude -70.5619254,
    :latitude -33.4065088,
@@ -790,7 +790,7 @@
    :latitude -33.4549605,
    :source :openstreetmap,
    :homepage "https://www.ccn.cl/",
-   :locality "Ñuñoa"}
+   :location "Ñuñoa"}
   {:name "CV Galería",
    :longitude -70.5877503,
    :latitude -33.4038801,
@@ -803,18 +803,18 @@
    :longitude -73.3268203,
    :latitude -38.8623157,
    :source :openstreetmap,
-   :locality "Saavedra"}
+   :location "Saavedra"}
   {:name "Ecomuseo de Cobquecura",
    :longitude -72.7901157,
    :latitude -36.1308549,
    :source :openstreetmap,
    :homepage "https://www.ecomuseocobquecura.com/",
-   :locality "Cobquecura"}
+   :location "Cobquecura"}
   {:name "Edificio Los Portales",
    :longitude -71.07805,
    :latitude -28.5085568,
    :source :openstreetmap,
-   :locality "Freirina"}
+   :location "Freirina"}
   {:name "El Tren",
    :longitude -70.2983133,
    :latitude -18.4540013,
@@ -831,53 +831,53 @@
    :longitude -73.7510738,
    :latitude -42.5175731,
    :source :openstreetmap,
-   :locality "Castro"}
+   :location "Castro"}
   {:name "Espacio Checoeslovaquia",
    :longitude -70.6238412,
    :latitude -33.4830238,
    :source :openstreetmap,
-   :locality "San Joaquín"}
+   :location "San Joaquín"}
   {:name "Espacio Cultural Casa Museo",
    :longitude -72.4365339,
    :latitude -37.9581319,
    :source :openstreetmap,
-   :locality "Collipulli"}
+   :location "Collipulli"}
   {:name "Espacio Cultural Emilio Vaisse",
    :longitude -68.926191,
    :latitude -22.4617247,
    :source :openstreetmap,
-   :locality "Calama"}
+   :location "Calama"}
   {:name "Espacio Cultural Fundación Minera Escondida",
    :longitude -68.1975497,
    :latitude -22.9103317,
    :source :openstreetmap,
-   :locality "San Pedro de Atacama"}
+   :location "San Pedro de Atacama"}
   {:name "Espacio Cultural Kamanchacos",
    :longitude -70.3982834,
    :latitude -23.6606913,
    :source :openstreetmap,
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Espacio Cultural Tierra de las Artes",
    :longitude -71.3784353,
    :latitude -35.7668203,
    :source :openstreetmap,
-   :locality "Rari"}
+   :location "Rari"}
   {:name "Espacio de Arte Il Posto",
    :longitude -70.5986098,
    :latitude -33.3970243,
    :source :openstreetmap,
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Espacio Fitza",
    :longitude -70.396984,
    :latitude -23.654968,
    :source :openstreetmap,
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Espacio Fundación Telefónica",
    :longitude -70.6323584,
    :latitude -33.4371895,
    :source :openstreetmap,
    :homepage "https://espacio.fundaciontelefonica.cl/",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Espacio Katarcis",
    :longitude -71.613433,
    :latitude -33.0518119,
@@ -887,23 +887,23 @@
    :latitude -33.4417513,
    :source :openstreetmap,
    :homepage "https://www.espaciolacochera.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Espacio Tibi",
    :longitude -71.2547804,
    :latitude -33.0064004,
    :source :openstreetmap,
    :homepage "https://www.espaciotibi.cl",
-   :locality "Limache"}
+   :location "Limache"}
   {:name "Espacio Ágora",
    :longitude -72.9856045,
    :latitude -41.3165892,
    :source :openstreetmap,
-   :locality "Puerto Varas"}
+   :location "Puerto Varas"}
   {:name "Estación Cultural Valle de Colchagua",
    :longitude -71.4796106,
    :latitude -34.4801542,
    :source :openstreetmap,
-   :locality "Peralillo"}
+   :location "Peralillo"}
   {:name "Estación El Melocotón",
    :longitude -70.3356209,
    :latitude -33.693218,
@@ -913,12 +913,12 @@
    :latitude -33.4420191,
    :source :openstreetmap,
    :homepage "https://factoriaitalia.cl/",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Frigorífico Bories",
    :longitude -72.5341092,
    :latitude -51.6926961,
    :source :openstreetmap,
-   :locality "Puerto Natales"}
+   :location "Puerto Natales"}
   {:name "Fuerte Purén",
    :longitude -73.0663875,
    :latitude -38.0330086,
@@ -936,28 +936,28 @@
    :latitude -33.4251819,
    :source :openstreetmap,
    :homepage "https://culturaprovidencia.cl/",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Fundación Cultural Lumbre",
    :longitude -71.258316,
    :latitude -33.0050864,
    :source :openstreetmap,
    :homepage "https://lumbre.cl/",
-   :locality "Limache"}
+   :location "Limache"}
   {:name "Fundación Cultural Tadeo Lili Teao Frechet",
    :longitude -109.4348871,
    :latitude -27.1528246,
    :source :openstreetmap,
-   :locality "Haŋa Roa"}
+   :location "Haŋa Roa"}
   {:name "Gabriela Mistral",
    :longitude -71.3731973,
    :latitude -33.0433898,
    :source :openstreetmap,
-   :locality "Villa Alemana"}
+   :location "Villa Alemana"}
   {:name "Galerí AFA",
    :longitude -70.6431705,
    :latitude -33.4726907,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Galería 18",
    :longitude -70.4990332,
    :latitude -33.3601519,
@@ -966,23 +966,23 @@
    :longitude -73.0457123,
    :latitude -36.8226042,
    :source :openstreetmap,
-   :locality "Concepción"}
+   :location "Concepción"}
   {:name "Galería de Arte Contemporáneo Espacio Andrea Brunson",
    :longitude -70.5989773,
    :latitude -33.4022427,
    :source :openstreetmap,
    :homepage "https://www.galerialasala.cl/",
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Galería de arte La Caracola",
    :longitude -72.9352221,
    :latitude -41.4712199,
    :source :openstreetmap,
-   :locality "Puerto Montt"}
+   :location "Puerto Montt"}
   {:name "Galería Histórica del Regimiento Buin",
    :longitude -70.6341338,
    :latitude -33.4073852,
    :source :openstreetmap,
-   :locality "Recoleta"}
+   :location "Recoleta"}
   {:name "Galería La Curtiembre",
    :longitude -70.6399956,
    :latitude -33.4746322,
@@ -995,29 +995,29 @@
    :longitude -70.6658608,
    :latitude -33.4811402,
    :source :openstreetmap,
-   :locality "Pedro Aguirre Cerda"}
+   :location "Pedro Aguirre Cerda"}
   {:name "Galería Municipal de Arte",
    :longitude -70.7094629,
    :latitude -33.5914395,
    :source :openstreetmap,
    :homepage "https://sanbernardocultura.cl/",
-   :locality "San Bernardo"}
+   :location "San Bernardo"}
   {:name "Galería Oreko",
    :longitude -109.4392921,
    :latitude -27.1588725,
    :source :openstreetmap,
-   :locality "Isla de Pascua"}
+   :location "Isla de Pascua"}
   {:name "Galería Solar",
    :longitude -70.6230905,
    :latitude -33.4300315,
    :source :openstreetmap,
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Galería Suizspacio",
    :longitude -70.6051881,
    :latitude -33.4545118,
    :source :openstreetmap,
    :homepage "https://www.metro.cl/porstgo/NUN",
-   :locality "Ñuñoa"}
+   :location "Ñuñoa"}
   {:name "Galería Temática Nahuelpichi",
    :longitude -72.7044511,
    :latitude -46.843071,
@@ -1026,32 +1026,32 @@
    :longitude -72.9653365,
    :latitude -41.3272728,
    :source :openstreetmap,
-   :locality "Puerto Varas"}
+   :location "Puerto Varas"}
   {:name "Granja Museo Doña Rita",
    :longitude -72.0352664,
    :latitude -36.6509049,
    :source :openstreetmap,
    :homepage "https://www.donarita.cl/",
-   :locality "Chillán"}
+   :location "Chillán"}
   {:name "Insectario del Parque",
    :longitude -70.6579763,
    :latitude -33.4623407,
    :source :openstreetmap,
    :homepage
    "https://museo-paleontologico-chile.es.tl/#google_vignette",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Itata Museo Antropológico",
    :longitude -72.5413017,
    :latitude -36.2831927,
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-95826.html",
-   :locality "Quirihue"}
+   :location "Quirihue"}
   {:name "La Casona de Curacaví",
    :longitude -71.1376006,
    :latitude -33.4060271,
    :source :openstreetmap,
-   :locality "Curacaví"}
+   :location "Curacaví"}
   {:name "La Cueva del Conejo (Casa de Artistas)",
    :longitude -70.6710818,
    :latitude -33.4378519,
@@ -1083,27 +1083,27 @@
    :longitude -73.2231175,
    :latitude -39.8268981,
    :source :openstreetmap,
-   :locality "Valdivia"}
+   :location "Valdivia"}
   {:name "Molino Grollmus",
    :longitude -73.2486074,
    :latitude -38.0045049,
    :source :openstreetmap,
-   :locality "La Quinta"}
+   :location "La Quinta"}
   {:name "Monitor Huáscar",
    :longitude -73.1115719,
    :latitude -36.7054167,
    :source :openstreetmap,
-   :locality "Talcahuano"}
+   :location "Talcahuano"}
   {:name "Moto Museo Pedro López",
    :longitude -71.607797,
    :latitude -33.0515239,
    :source :openstreetmap,
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Museo a Cielo Abierto Ildefonso Quilempán",
    :longitude -73.2560913,
    :latitude -38.8974387,
    :source :openstreetmap,
-   :locality "Puerto Domínguez"}
+   :location "Puerto Domínguez"}
   {:name "Museo Adriana Vásquez Román",
    :longitude -70.8644122,
    :latitude -34.3985063,
@@ -1116,19 +1116,19 @@
    :longitude -70.6130226,
    :latitude -33.4200391,
    :source :openstreetmap,
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Museo Alberto Hurtado",
    :longitude -70.6857847,
    :latitude -33.461975,
    :source :openstreetmap,
    :homepage "https://padrealbertohurtado.cl/",
-   :locality "Estación Central"}
+   :location "Estación Central"}
   {:name "Museo Almazara Tipaume",
    :longitude -70.7660766,
    :latitude -34.3887246,
    :source :openstreetmap,
    :homepage "https://www.reservatipaume.cl/",
-   :locality "Rengo"}
+   :location "Rengo"}
   {:name "Museo Andino",
    :longitude -70.6734209,
    :latitude -33.7248063,
@@ -1138,7 +1138,7 @@
    :latitude -41.3273941,
    :source :openstreetmap,
    :homepage "https://www.museoaleman.cl/",
-   :locality "Pueto Varas"}
+   :location "Pueto Varas"}
   {:name "Museo Antropológico de Quillagua",
    :longitude -69.5345574,
    :latitude -21.661013,
@@ -1147,55 +1147,55 @@
    :longitude -72.0397034,
    :latitude -38.9313636,
    :source :openstreetmap,
-   :locality "Cunco"}
+   :location "Cunco"}
   {:name "Museo Arellano",
    :longitude -72.2785101,
    :latitude -35.5889606,
    :source :openstreetmap,
-   :locality "Empedrado"}
+   :location "Empedrado"}
   {:name "Museo Arqueológico",
    :longitude -71.2469904,
    :latitude -29.9035031,
    :source :openstreetmap,
    :homepage "https://www.museoarqueologicolaserena.gob.cl/",
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Museo Arqueológico de los Andes",
    :longitude -70.6025434,
    :latitude -32.8328027,
    :source :openstreetmap,
-   :locality "Los Andes"}
+   :location "Los Andes"}
   {:name "Museo Arqueológico El Rutal",
    :longitude -70.8477035,
    :latitude -32.9869492,
    :source :openstreetmap,
-   :locality "Tiltil"}
+   :location "Tiltil"}
   {:name "Museo Arqueológico Gustavo Le Paige",
    :longitude -68.1966908,
    :latitude -22.9056321,
    :source :openstreetmap,
-   :locality "San Pedro de Atacama"}
+   :location "San Pedro de Atacama"}
   {:name "Museo Arqueológico San Miguel de Azapa",
    :longitude -70.1809262,
    :latitude -18.5164991,
    :source :openstreetmap,
    :homepage "https://museouta.cl",
-   :locality "Arica"}
+   :location "Arica"}
   {:name "Museo Arqueológico Valle de Chicauma",
    :longitude -70.8520684,
    :latitude -33.2742866,
    :source :openstreetmap,
    :homepage "https://machmuseo.cl/",
-   :locality "Lampa"}
+   :location "Lampa"}
   {:name "Museo Arqueológico y Antropológico de Casablanca",
    :longitude -71.4112624,
    :latitude -33.3206622,
    :source :openstreetmap,
-   :locality "Casablanca"}
+   :location "Casablanca"}
   {:name "Museo Arqueológico y Etnográfico de Achao",
    :longitude -73.488328,
    :latitude -42.470639,
    :source :openstreetmap,
-   :locality "Achao"}
+   :location "Achao"}
   {:name "Museo Arte Rupestre Monte Aranda",
    :longitude -71.1571941,
    :latitude -31.9315703,
@@ -1204,13 +1204,13 @@
    :longitude -71.5556063,
    :latitude -34.7019553,
    :source :openstreetmap,
-   :locality "Lolol"}
+   :location "Lolol"}
   {:name "Museo Astronómico Observatorio Manuel Foster",
    :longitude -70.6323191,
    :latitude -33.4220928,
    :source :openstreetmap,
    :homepage "http://observatoriofoster.cl/",
-   :locality "Recoleta"}
+   :location "Recoleta"}
   {:name "Museo Augusto Capdeville",
    :longitude -70.4892155,
    :latitude -25.4094131,
@@ -1236,28 +1236,28 @@
    :longitude -72.3508171,
    :latitude -37.4714243,
    :source :openstreetmap,
-   :locality "Los Ángeles"}
+   :location "Los Ángeles"}
   {:name "Museo Bomberil Benito Riquelme",
    :longitude -71.6603771,
    :latitude -35.4288016,
    :source :openstreetmap,
-   :locality "Talca"}
+   :location "Talca"}
   {:name "Museo Campesino",
    :longitude -73.2646941,
    :latitude -39.7561248,
    :source :openstreetmap,
-   :locality "Punucapa"}
+   :location "Punucapa"}
   {:name "Museo Campesino de Liray",
    :longitude -70.740204,
    :latitude -33.2397266,
    :source :openstreetmap,
    :homepage "https://mucali.cl/",
-   :locality "Colina"}
+   :location "Colina"}
   {:name "Museo Cardenal Jorge Medina Estévez",
    :longitude -71.3471869,
    :latitude -29.952113,
    :source :openstreetmap,
-   :locality "Coquimbo"}
+   :location "Coquimbo"}
   {:name "Museo Carlos Hermosilla Álvarez",
    :longitude -71.543697,
    :latitude -33.0327574,
@@ -1270,12 +1270,12 @@
    :longitude -70.7680844,
    :latitude -34.380562,
    :source :openstreetmap,
-   :locality "Rengo"}
+   :location "Rengo"}
   {:name "Museo Casa Tola",
    :longitude -73.4410982,
    :latitude -42.0637736,
    :source :openstreetmap,
-   :locality "Quemchi"}
+   :location "Quemchi"}
   {:name "Museo Casa Tornini",
    :longitude -70.8230282,
    :latitude -27.0665346,
@@ -1288,20 +1288,20 @@
    :longitude -73.6420964,
    :latitude -37.5815007,
    :source :openstreetmap,
-   :locality "Lebu"}
+   :location "Lebu"}
   {:name "Museo Chilote Velásquez",
    :longitude -73.5135981,
    :latitude -42.7807798,
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-120719.html",
-   :locality "Queilen"}
+   :location "Queilen"}
   {:name "Museo Chupacabras de Pirque",
    :longitude -70.5409631,
    :latitude -33.6482294,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/museochupacabrasdepirque/#",
-   :locality "Pirque"}
+   :location "Pirque"}
   {:name
    "Museo CIMA (Centro de Innovación Medioambiental y de Turismo)",
    :longitude -71.5921673,
@@ -1309,63 +1309,63 @@
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-84203.html",
-   :locality "Talca"}
+   :location "Talca"}
   {:name "Museo Cinematografico Lido",
    :longitude -73.1392905,
    :latitude -40.572514,
    :source :openstreetmap,
    :homepage "https://museointeractivoosorno.cl/",
-   :locality "Osorno"}
+   :location "Osorno"}
   {:name "Museo Club de Deportes Santiago Wanderers",
    :longitude -71.6153188,
    :latitude -33.0479913,
    :source :openstreetmap,
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Museo Colonial",
    :longitude -71.6251697,
    :latitude -33.4184851,
    :source :openstreetmap,
-   :locality "El Quisco"}
+   :location "El Quisco"}
   {:name "Museo Colonial Alemán",
    :longitude -73.0302484,
    :latitude -41.1324058,
    :source :openstreetmap,
-   :locality "Frutillar"}
+   :location "Frutillar"}
   {:name "Museo Comunal de Machalí Rumel",
    :longitude -70.6595419,
    :latitude -34.1817596,
    :source :openstreetmap,
-   :locality "Machalí"}
+   :location "Machalí"}
   {:name "Museo Comunal Rumel",
    :longitude -70.6561242,
    :latitude -34.1793946,
    :source :openstreetmap,
-   :locality "Machalí"}
+   :location "Machalí"}
   {:name "Museo Comunitario Casa Uno",
    :longitude -70.5243742,
    :latitude -34.199795,
    :source :openstreetmap,
-   :locality "Coya"}
+   :location "Coya"}
   {:name "Museo Comunitario Cáñamo Aconcagua",
    :longitude -70.6857282,
    :latitude -32.7436366,
    :source :openstreetmap,
-   :locality "San Felipe"}
+   :location "San Felipe"}
   {:name "Museo Comunitario del Barrio Matta Sur",
    :longitude -70.6330387,
    :latitude -33.4661435,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Contemporáneo de Pica",
    :longitude -69.3273941,
    :latitude -20.490697,
    :source :openstreetmap,
-   :locality "Pica"}
+   :location "Pica"}
   {:name "Museo Corbeta Esmeralda",
    :longitude -70.1516211,
    :latitude -20.2093646,
    :source :openstreetmap,
-   :locality "Iquique"}
+   :location "Iquique"}
   {:name "Museo CSD Colo Colo",
    :longitude -70.6070539,
    :latitude -33.5064164,
@@ -1374,54 +1374,54 @@
    :longitude -71.713588,
    :latitude -35.6013866,
    :source :openstreetmap,
-   :locality "San Javier"}
+   :location "San Javier"}
   {:name "Museo de Aeromodelismo Juan Francisco Corral Guzmán",
    :longitude -71.1722516,
    :latitude -32.9965634,
    :source :openstreetmap,
-   :locality "Olmué"}
+   :location "Olmué"}
   {:name "Museo de Alhué",
    :longitude -71.0990628,
    :latitude -34.0317358,
    :source :openstreetmap,
-   :locality "Alhué"}
+   :location "Alhué"}
   {:name "Museo de Alicahue",
    :longitude -70.7844909,
    :latitude -32.3496528,
    :source :openstreetmap,
-   :locality "cabildo"}
+   :location "cabildo"}
   {:name "Museo de Anatomía",
    :longitude -70.6548073,
    :latitude -33.4177998,
    :source :openstreetmap,
-   :locality "Recoleta"}
+   :location "Recoleta"}
   {:name "Museo de Arica",
    :longitude -70.313321,
    :latitude -18.4787569,
    :source :openstreetmap,
-   :locality "Arica"}
+   :location "Arica"}
   {:name "Museo de Arqueología e Historia Francisco Fonck",
    :longitude -71.5498742,
    :latitude -33.0198226,
    :source :openstreetmap,
    :homepage "http://museofonck.cl",
-   :locality "Viña del Mar"}
+   :location "Viña del Mar"}
   {:name "Museo de Arte Contemporáneo",
    :longitude -73.2504202,
    :latitude -39.8127062,
    :source :openstreetmap,
-   :locality "Valdivia"}
+   :location "Valdivia"}
   {:name "Museo de Arte Contemporáneo",
    :longitude -70.6444844,
    :latitude -33.4351126,
    :source :openstreetmap,
    :homepage "https://www.mac.uchile.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo de Arte Contemporáneo de Traiguén",
    :longitude -72.6668794,
    :latitude -38.246298,
    :source :openstreetmap,
-   :locality "Traiguen"}
+   :location "Traiguen"}
   {:name "Museo de Arte Moderno (MAM)",
    :longitude -73.7989788,
    :latitude -42.4610397,
@@ -1430,13 +1430,13 @@
    :longitude -70.5347346,
    :latitude -33.4834208,
    :source :openstreetmap,
-   :locality "Peñalolén"}
+   :location "Peñalolén"}
   {:name "Museo de Arte Popular Americano Tomás Lago (MAPA)",
    :longitude -70.5954851,
    :latitude -33.4649887,
    :source :openstreetmap,
    :homepage "https://mapa.uchile.cl/",
-   :locality "Ñuñoa"}
+   :location "Ñuñoa"}
   {:name "Museo de Arte Precolombino",
    :longitude -70.6521952,
    :latitude -33.4390245,
@@ -1454,45 +1454,45 @@
    :longitude -71.5465162,
    :latitude -33.0206446,
    :source :openstreetmap,
-   :locality "Viña del Mar"}
+   :location "Viña del Mar"}
   {:name "Museo de Artes Decorativas Villa Lucía",
    :longitude -71.6065751,
    :latitude -33.5532198,
    :source :openstreetmap,
-   :locality "Cartagena"}
+   :location "Cartagena"}
   {:name "Museo de Artes Universidad de los Andes",
    :longitude -70.5079082,
    :latitude -33.4027894,
    :source :openstreetmap,
    :homepage "https://www.uandes.cl/extension/museo-de-artes/",
-   :locality "Las Condes"}
+   :location "Las Condes"}
   {:name "Museo de Artes Visuales",
    :longitude -70.6406206,
    :latitude -33.4376249,
    :source :openstreetmap,
    :homepage "https://www.mavi.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo de Artes Visuales Surazo",
    :longitude -73.1345733,
    :latitude -40.5760491,
    :source :openstreetmap,
-   :locality "Osorno"}
+   :location "Osorno"}
   {:name "Museo de Autos Moncopulli",
    :longitude -72.8200978,
    :latitude -40.6091658,
    :source :openstreetmap,
    :homepage "https://moncopulli.cl/",
-   :locality "Puyehue"}
+   :location "Puyehue"}
   {:name "Museo de Bellas Artes Palacio Vergara",
    :longitude -71.5537277,
    :latitude -33.0283544,
    :source :openstreetmap,
-   :locality "Viña del Mar"}
+   :location "Viña del Mar"}
   {:name "Museo de Capitán Pastene",
    :longitude -72.9931707,
    :latitude -38.1948067,
    :source :openstreetmap,
-   :locality "Capitán Pastene"}
+   :location "Capitán Pastene"}
   {:name "Museo de Cañones Navales",
    :longitude -71.5486671,
    :latitude -32.9982083,
@@ -1505,28 +1505,28 @@
    :longitude -69.2898513,
    :latitude -52.77622,
    :source :openstreetmap,
-   :locality "Cerro Sombrero"}
+   :location "Cerro Sombrero"}
   {:name "Museo de Chañaral 'Rodulfo A. Philippi'",
    :longitude -70.6208763,
    :latitude -26.348138,
    :source :openstreetmap,
-   :locality "Chañaral"}
+   :location "Chañaral"}
   {:name "Museo de Cochrane",
    :longitude -72.5724818,
    :latitude -47.2521595,
    :source :openstreetmap,
-   :locality "Cochrane"}
+   :location "Cochrane"}
   {:name "Museo de Colchagua",
    :longitude -71.3640012,
    :latitude -34.6401028,
    :source :openstreetmap,
    :homepage "https://www.museocolchagua.cl/",
-   :locality "Santa Cruz"}
+   :location "Santa Cruz"}
   {:name "Museo de Constitución",
    :longitude -72.4121049,
    :latitude -35.330911,
    :source :openstreetmap,
-   :locality "Constitucion"}
+   :location "Constitucion"}
   {:name "Museo de Contulmo",
    :longitude -73.2293798,
    :latitude -38.0169746,
@@ -1535,13 +1535,13 @@
    :longitude -70.725339,
    :latitude -34.0682214,
    :source :openstreetmap,
-   :locality "Graneros"}
+   :location "Graneros"}
   {:name "Museo de Historia de Concepción",
    :longitude -73.0501941,
    :latitude -36.8338653,
    :source :openstreetmap,
    :homepage "https://www.ghconcepcion.cl/",
-   :locality "Concepción"}
+   :location "Concepción"}
   {:name "Museo de Historia Natural",
    :longitude -71.6213171,
    :latitude -33.046667,
@@ -1550,13 +1550,13 @@
    :longitude -70.5736509,
    :latitude -33.3978738,
    :source :openstreetmap,
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Museo de Historia Natural de Concepción",
    :longitude -73.0304152,
    :latitude -36.8153894,
    :source :openstreetmap,
    :homepage "https://www.mhnconcepcion.gob.cl",
-   :locality "Concepción"}
+   :location "Concepción"}
   {:name "Museo de Historia Natural de Puchuncaví",
    :longitude -71.4166656,
    :latitude -32.7299694,
@@ -1566,34 +1566,34 @@
    :latitude -53.0642377,
    :source :openstreetmap,
    :homepage "https://www.mhnrioseco.com/",
-   :locality "Punta Arenas"}
+   :location "Punta Arenas"}
   {:name "Museo de Historia Natural e Histórico de San Antonio",
    :longitude -71.6009141,
    :latitude -33.6228091,
    :source :openstreetmap,
-   :locality "San Antonio"}
+   :location "San Antonio"}
   {:name
    "Museo de Historia Natural y Cultural del Desierto de Atacama",
    :longitude -68.9274436,
    :latitude -22.480479,
    :source :openstreetmap,
    :homepage "https://www.muhncal.cl/",
-   :locality "Calama"}
+   :location "Calama"}
   {:name "Museo de Huilquilemu",
    :longitude -71.5770465,
    :latitude -35.4621355,
    :source :openstreetmap,
-   :locality "Huilquilemu"}
+   :location "Huilquilemu"}
   {:name "Museo de la Artesanía Chilena",
    :longitude -71.6443202,
    :latitude -34.7290213,
    :source :openstreetmap,
-   :locality "Lolol"}
+   :location "Lolol"}
   {:name "Museo de la Cerveza",
    :longitude -73.2775713,
    :latitude -39.836996,
    :source :openstreetmap,
-   :locality "Valdivia"}
+   :location "Valdivia"}
   {:name "Museo de la Chilenidad",
    :longitude -70.5392462,
    :latitude -33.4189712,
@@ -1602,7 +1602,7 @@
    :longitude -72.0821994,
    :latitude -45.7155514,
    :source :openstreetmap,
-   :locality "Valle Simpson"}
+   :location "Valle Simpson"}
   {:name "Museo de la Educación Gabriela Mistral",
    :longitude -70.6782795,
    :latitude -33.441749,
@@ -1612,7 +1612,7 @@
    :longitude -70.38864,
    :latitude -23.6375443,
    :source :openstreetmap,
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Museo de la Gran Minería del Cobre",
    :longitude -70.3830172,
    :latitude -34.0853563,
@@ -1622,22 +1622,22 @@
    :latitude -36.7387496,
    :source :openstreetmap,
    :homepage "https://www.museohistoriapenco.cl/",
-   :locality "Penco"}
+   :location "Penco"}
   {:name "Museo de la Merced",
    :longitude -70.6468218,
    :latitude -33.4385374,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo de la Moda",
    :longitude -70.586471,
    :latitude -33.3976532,
    :source :openstreetmap,
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Museo de la Papa",
    :longitude -73.5792073,
    :latitude -42.3538889,
    :source :openstreetmap,
-   :locality "Dalcahue"}
+   :location "Dalcahue"}
   {:name "Museo de la Patagonia Padre Antonio Ronchi",
    :longitude -72.5592898,
    :latitude -48.4678537,
@@ -1646,38 +1646,38 @@
    :longitude -70.1024211,
    :latitude -20.2689652,
    :source :openstreetmap,
-   :locality "Alto Hospico"}
+   :location "Alto Hospico"}
   {:name "Museo de la Reconstrucción",
    :longitude -72.5329361,
    :latitude -35.7348042,
    :source :openstreetmap,
-   :locality "Chanco"}
+   :location "Chanco"}
   {:name "Museo de la Seguridad Social",
    :longitude -72.5815392,
    :latitude -38.7348986,
    :source :openstreetmap,
-   :locality "Temuco"}
+   :location "Temuco"}
   {:name "Museo de la Solidaridad Salvador Allende",
    :longitude -70.6677148,
    :latitude -33.454211,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo de la Vivencia Religiosa del Norte Grande",
    :longitude -69.6561482,
    :latitude -20.3368185,
    :source :openstreetmap,
    :homepage "https://museovivenciareligiosa.cl/",
-   :locality "La Tirana"}
+   :location "La Tirana"}
   {:name "Museo de la Vivienda Tradicional Local",
    :longitude -70.6058756,
    :latitude -33.3736873,
    :source :openstreetmap,
-   :locality "Huechuraba"}
+   :location "Huechuraba"}
   {:name "Museo de las Tradiciones Chonchinas",
    :longitude -73.771934,
    :latitude -42.6219697,
    :source :openstreetmap,
-   :locality "Chonchi"}
+   :location "Chonchi"}
   {:name "Museo de los Niños",
    :longitude -71.1746538,
    :latitude -32.9885314,
@@ -1694,7 +1694,7 @@
    :longitude -71.2273599,
    :latitude -29.8992894,
    :source :openstreetmap,
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Museo de Motos Gosan Class",
    :longitude -71.3893324,
    :latitude -34.2467271,
@@ -1706,7 +1706,7 @@
    :longitude -72.4397868,
    :latitude -38.5281904,
    :source :openstreetmap,
-   :locality "Lautaro"}
+   :location "Lautaro"}
   {:name "Museo de Petorca",
    :longitude -70.92895,
    :latitude -32.2514494,
@@ -1715,19 +1715,19 @@
    :longitude -72.8840721,
    :latitude -40.9749758,
    :source :openstreetmap,
-   :locality "Puerto Octay"}
+   :location "Puerto Octay"}
   {:name "Museo de Química y Farmacia",
    :longitude -70.63607,
    :latitude -33.4370031,
    :source :openstreetmap,
    :homepage "https://www.museovioletaparra.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo de Sitio Campamento Minero de Puerto Cristal",
    :longitude -72.3954023,
    :latitude -46.5624385,
    :source :openstreetmap,
    :homepage "https://museopuertocristal.cl/",
-   :locality "Río Ibáñez"}
+   :location "Río Ibáñez"}
   {:name "Museo de Sitio Casa Escuela Gabriela Mistral",
    :longitude -70.494248,
    :latitude -30.0930556,
@@ -1741,74 +1741,74 @@
    :latitude -42.9148677,
    :source :openstreetmap,
    :homepage "https://museodesitiochaiten.cl/",
-   :locality "Chaitén"}
+   :location "Chaitén"}
   {:name "Museo de Sitio El Trapiche Viejo",
    :longitude -70.7267699,
    :latitude -32.6363609,
    :source :openstreetmap,
-   :locality "Putaendo"}
+   :location "Putaendo"}
   {:name "Museo de Sitio Melinka-Puchuncaví",
    :longitude -71.4075788,
    :latitude -32.7201097,
    :source :openstreetmap,
    :homepage "https://www.melinkapuchuncavi.cl/",
-   :locality "Puchuncaví"}
+   :location "Puchuncaví"}
   {:name "Museo de Sitio Memoria Derechos Humanos Valle Pemehue",
    :longitude -71.8193826,
    :latitude -38.0451393,
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-94081.html",
-   :locality "Mulchén"}
+   :location "Mulchén"}
   {:name "Museo de Sitio Mina Chiflón del Diablo",
    :longitude -73.1606557,
    :latitude -37.0760097,
    :source :openstreetmap,
    :homepage "https://cepas.cl/circuitolota/",
-   :locality "Lota"}
+   :location "Lota"}
   {:name
    "Museo de Sitio Oficinas Salitreras Humberstone y Santa Laura",
    :longitude -69.7968647,
    :latitude -20.2094659,
    :source :openstreetmap,
-   :locality "Pozo Almonte"}
+   :location "Pozo Almonte"}
   {:name "Museo de Sitio y Parque por la Paz Villa Grimaldi",
    :longitude -70.5425599,
    :latitude -33.4636815,
    :source :openstreetmap,
    :homepage "https://villagrimaldi.cl/",
-   :locality "Peñalolen"}
+   :location "Peñalolen"}
   {:name "Museo de Talagante",
    :longitude -70.9340475,
    :latitude -33.6665152,
    :source :openstreetmap,
    :homepage "https://culturatalagante.cl/",
-   :locality "Talagante"}
+   :location "Talagante"}
   {:name "Museo de Veleras Chilotas",
    :longitude -72.6813771,
    :latitude -41.7668205,
    :source :openstreetmap,
-   :locality "Hualaihué"}
+   :location "Hualaihué"}
   {:name "Museo de Vida Rural y Campesina El Canario",
    :longitude -71.622896,
    :latitude -35.9469146,
    :source :openstreetmap,
-   :locality "Longaví"}
+   :location "Longaví"}
   {:name "Museo del Agua Bullileo",
    :longitude -71.4162406,
    :latitude -36.2890125,
    :source :openstreetmap,
-   :locality "Parral"}
+   :location "Parral"}
   {:name "Museo del Agua SMAPA",
    :longitude -70.7474797,
    :latitude -33.508434,
    :source :openstreetmap,
-   :locality "Maipú"}
+   :location "Maipú"}
   {:name "Museo del Audio",
    :longitude -71.1102215,
    :latitude -33.3868765,
    :source :openstreetmap,
-   :locality "Curacaví"}
+   :location "Curacaví"}
   {:name "Museo del Automóvil",
    :longitude -71.5693297,
    :latitude -34.704519,
@@ -1822,7 +1822,7 @@
    :latitude -20.2125537,
    :source :openstreetmap,
    :homepage "https://tarapacaenelmundo.com/museo-del-boxeo/",
-   :locality "Iquique"}
+   :location "Iquique"}
   {:name "Museo del Carmen",
    :longitude -70.7662248,
    :latitude -33.510568,
@@ -1831,74 +1831,74 @@
    :longitude -70.6559063,
    :latitude -33.4321095,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo del Cobre Andrónico Luksic Abaroa",
    :longitude -71.4942469,
    :latitude -31.8810626,
    :source :openstreetmap,
-   :locality "Los Vilos"}
+   :location "Los Vilos"}
   {:name "Museo del Colono",
    :longitude -72.8872659,
    :latitude -40.977827,
    :source :openstreetmap,
-   :locality "Puerto Octay"}
+   :location "Puerto Octay"}
   {:name "Museo del Deporte de Rengo",
    :longitude -70.8636584,
    :latitude -34.4130701,
    :source :openstreetmap,
-   :locality "Rengo"}
+   :location "Rengo"}
   {:name "Museo del Deporte Hernán Cortez",
    :longitude -70.1522221,
    :latitude -20.2158299,
    :source :openstreetmap,
    :homepage
    "https://www.unap.cl/prontus_unap/site/edic/base/port/portalpatrimonial.html#LinkLocalArticEspacio",
-   :locality "Iquique"}
+   :location "Iquique"}
   {:name "Museo del Desierto de Atacama",
    :longitude -70.4126041,
    :latitude -23.6860105,
    :source :openstreetmap,
    :homepage "https://www.ruinasdehuanchaca.cl/",
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Museo del Estrecho",
    :longitude -70.9376026,
    :latitude -53.6165178,
    :source :openstreetmap,
-   :locality "Punta Arenas"}
+   :location "Punta Arenas"}
   {:name "Museo del Hongo",
    :longitude -70.6220935,
    :latitude -33.4333049,
    :source :openstreetmap,
    :homepage "https://www.museodelhongo.cl/",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Museo del Huasco \"Alfonso Sanguinetti Mulet\"",
    :longitude -70.755746,
    :latitude -28.5785735,
    :source :openstreetmap,
    :homepage "https://museo.vallenar.cl/",
-   :locality "Vallenar"}
+   :location "Vallenar"}
   {:name "Museo del Inquilino",
    :longitude -71.3742094,
    :latitude -34.5231699,
    :source :openstreetmap,
-   :locality "San José del Carmen"}
+   :location "San José del Carmen"}
   {:name "Museo del Instituto Pedagógico Valentín Letelier",
    :longitude -70.5974798,
    :latitude -33.4618076,
    :source :openstreetmap,
-   :locality "Ñuñoa"}
+   :location "Ñuñoa"}
   {:name "Museo del Juguee Pampino",
    :longitude -69.6585673,
    :latitude -22.344713,
    :source :openstreetmap,
-   :locality "María Elena"}
+   :location "María Elena"}
   {:name "Museo del Juguete Chileno",
    :longitude -70.5945792,
    :latitude -33.4458892,
    :source :openstreetmap,
    :homepage
    "https://centrodeextension.uc.cl/nuestros_centros/centro-de-extension-campus-oriente",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo del Lago Llanquihue",
    :longitude -73.0043577,
    :latitude -41.2582972,
@@ -1909,38 +1909,38 @@
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-98705.html",
-   :locality "El Monte"}
+   :location "El Monte"}
   {:name "Museo del Limarí",
    :longitude -71.1962228,
    :latitude -30.5981702,
    :source :openstreetmap,
-   :locality "Ovalle"}
+   :location "Ovalle"}
   {:name "Museo del Mar Jorge Tomicic",
    :longitude -70.1309115,
    :latitude -20.2704359,
    :source :openstreetmap,
-   :locality "Iquique"}
+   :location "Iquique"}
   {:name "Museo del Mar Universidad de Antofagasta",
    :longitude -70.4224072,
    :latitude -23.7004377,
    :source :openstreetmap,
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Museo del Mate",
    :longitude -71.9190705,
    :latitude -45.8086158,
    :source :openstreetmap,
    :homepage "https://turismocoyhaique.cl/museo-del-mate/",
-   :locality "El Blanco"}
+   :location "El Blanco"}
   {:name "Museo del Meteorito",
    :longitude -68.2016553,
    :latitude -22.9079955,
    :source :openstreetmap,
-   :locality "San Pedero de Atacama"}
+   :location "San Pedero de Atacama"}
   {:name "Museo del Molino Santa Amelia de Almahue",
    :longitude -71.3050662,
    :latitude -34.4062668,
    :source :openstreetmap,
-   :locality "Pichidegua"}
+   :location "Pichidegua"}
   {:name "Museo del Niño Rural",
    :longitude -71.9722021,
    :latitude -34.4622963,
@@ -1949,36 +1949,36 @@
    :longitude -70.7140498,
    :latitude -32.6300993,
    :source :openstreetmap,
-   :locality "Putaendo"}
+   :location "Putaendo"}
   {:name "Museo del Pisco Capel",
    :longitude -70.6979629,
    :latitude -30.0390759,
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-50757.html",
-   :locality "Vicuña"}
+   :location "Vicuña"}
   {:name "Museo del Recuerdo",
    :longitude -72.2451913,
    :latitude -37.7201883,
    :source :openstreetmap,
-   :locality "Mulchén"}
+   :location "Mulchén"}
   {:name "Museo del Recuerdo",
    :longitude -70.8826663,
    :latitude -53.1326708,
    :source :openstreetmap,
-   :locality "Punta Arenas"}
+   :location "Punta Arenas"}
   {:name "Museo del Recuerdo Upasol",
    :longitude -70.7165868,
    :latitude -30.0341415,
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-96117.html",
-   :locality "Vicuña"}
+   :location "Vicuña"}
   {:name "Museo del vapor",
    :longitude -73.1426011,
    :latitude -38.7105196,
    :source :openstreetmap,
-   :locality "Carahue"}
+   :location "Carahue"}
   {:name "Museo del Vino",
    :longitude -70.5633482,
    :latitude -33.4976364,
@@ -1991,7 +1991,7 @@
    :longitude -72.5083058,
    :latitude -39.5411937,
    :source :openstreetmap,
-   :locality "Malalhue"}
+   :location "Malalhue"}
   {:name "Museo Dillman Bullock",
    :longitude -72.6625084,
    :latitude -37.824667,
@@ -2004,23 +2004,23 @@
    :longitude -73.4221829,
    :latitude -39.8986332,
    :source :openstreetmap,
-   :locality "Corral"}
+   :location "Corral"}
   {:name "Museo Escolar Laguna Tagua Tagua",
    :longitude -71.1646244,
    :latitude -34.4686245,
    :source :openstreetmap,
-   :locality "San Vicente"}
+   :location "San Vicente"}
   {:name "Museo Escuela de Cerro Castillo",
    :longitude -72.1515744,
    :latitude -46.1406593,
    :source :openstreetmap,
    :homepage "https://www.redmuseosaysen.cl/museoescuelacerrocastillo",
-   :locality "Coyhaique"}
+   :location "Coyhaique"}
   {:name "Museo Escuela Domingo Santa María",
    :longitude -70.1470001,
    :latitude -20.2174097,
    :source :openstreetmap,
-   :locality "Iquique"}
+   :location "Iquique"}
   {:name "Museo Estación Gualliguaica",
    :longitude -70.8153502,
    :latitude -30.0048281,
@@ -2029,23 +2029,23 @@
    :longitude -72.4093663,
    :latitude -50.73496,
    :source :openstreetmap,
-   :locality "Torres del Paine"}
+   :location "Torres del Paine"}
   {:name "Museo Estancia Lago Fagnano",
    :longitude -68.7338263,
    :latitude -54.5056575,
    :source :openstreetmap,
-   :locality "Timaukel"}
+   :location "Timaukel"}
   {:name "Museo Estancia Ñirehuao",
    :longitude -71.7067569,
    :latitude -45.2712759,
    :source :openstreetmap,
-   :locality "Coyhaique"}
+   :location "Coyhaique"}
   {:name "Museo Estudio Gigante",
    :longitude -70.6413928,
    :latitude -33.441537,
    :source :openstreetmap,
    :homepage "https://www.gam.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Etnográfico de Dalcahue",
    :longitude -73.647258,
    :latitude -42.3803834,
@@ -2056,13 +2056,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-50829.html",
-   :locality "Arica"}
+   :location "Arica"}
   {:name "Museo Ferroviario",
    :longitude -70.6858875,
    :latitude -33.4430243,
    :source :openstreetmap,
    :homepage "http://www.corpdicyt.cl/mferroviario/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Ferroviario Baquedano",
    :longitude -69.8392189,
    :latitude -23.3351928,
@@ -2071,7 +2071,7 @@
    :longitude -72.5708604,
    :latitude -38.7274246,
    :source :openstreetmap,
-   :locality "Temuco"}
+   :location "Temuco"}
   {:name "Museo Fogón",
    :longitude -74.1089637,
    :latitude -42.6240993,
@@ -2080,7 +2080,7 @@
    :longitude -70.6895323,
    :latitude -32.7840678,
    :source :openstreetmap,
-   :locality "Curimón"}
+   :location "Curimón"}
   {:name "Museo Gabriela Mistral",
    :longitude -70.7065178,
    :latitude -30.0333729,
@@ -2089,13 +2089,13 @@
    :longitude -73.6210465,
    :latitude -42.4213869,
    :source :openstreetmap,
-   :locality "Curaco de Vélez"}
+   :location "Curaco de Vélez"}
   {:name "Museo Geoglifos de Pintados",
    :longitude -69.6623984,
    :latitude -20.6223868,
    :source :openstreetmap,
    :homepage "https://www.fgt.cl/",
-   :locality "Pozo Almonte"}
+   :location "Pozo Almonte"}
   {:name "Museo Geologico Profesor Humberto Fuenzalida",
    :longitude -70.4092178,
    :latitude -23.6807992,
@@ -2105,12 +2105,12 @@
    :latitude -33.4744576,
    :source :openstreetmap,
    :homepage "https://www.sernageomin.cl/museo_geologico/",
-   :locality "Ñuñoa"}
+   :location "Ñuñoa"}
   {:name "Museo Gualleco",
    :longitude -71.981528,
    :latitude -35.2452455,
    :source :openstreetmap,
-   :locality "Curepto"}
+   :location "Curepto"}
   {:name "Museo Herencia Campesina",
    :longitude -70.5180133,
    :latitude -33.4570476,
@@ -2127,7 +2127,7 @@
    :longitude -71.2435697,
    :latitude -29.9028675,
    :source :openstreetmap,
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Museo Histórico Arqueológico de Quillota",
    :longitude -71.2483401,
    :latitude -32.8808949,
@@ -2136,77 +2136,77 @@
    :longitude -72.5823318,
    :latitude -37.6722994,
    :source :openstreetmap,
-   :locality "Renaico"}
+   :location "Renaico"}
   {:name "Museo Histórico de Carabineros",
    :longitude -70.6120982,
    :latitude -33.4423,
    :source :openstreetmap,
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Museo Histórico de Carahue",
    :longitude -73.1654794,
    :latitude -38.7122533,
    :source :openstreetmap,
-   :locality "Carahue"}
+   :location "Carahue"}
   {:name "Museo Histórico de Faros George Slight",
    :longitude -71.6473058,
    :latitude -33.0228569,
    :source :openstreetmap,
    :homepage
    "https://www.armada.cl/tradicion-e-historia/museos-navales-de-chile",
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Museo Histórico de Lota",
    :longitude -73.1645908,
    :latitude -37.0896905,
    :source :openstreetmap,
-   :locality "Lota"}
+   :location "Lota"}
   {:name "Museo Histórico de Melipeuco",
    :longitude -71.7009771,
    :latitude -38.8549435,
    :source :openstreetmap,
-   :locality "Melipeuco"}
+   :location "Melipeuco"}
   {:name "Museo Histórico de Pichilemu",
    :longitude -72.000363,
    :latitude -34.3857541,
    :source :openstreetmap,
-   :locality "Pichilemu"}
+   :location "Pichilemu"}
   {:name "Museo Histórico de Placilla",
    :longitude -71.5716018,
    :latitude -33.1103681,
    :source :openstreetmap,
    :homepage "https://muhp.cl/",
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Museo Histórico de Puerto Montt Juan Pablo II",
    :longitude -72.9484202,
    :latitude -41.4761335,
    :source :openstreetmap,
-   :locality "Puerto Montt"}
+   :location "Puerto Montt"}
   {:name "Museo Histórico de Purén",
    :longitude -73.0727346,
    :latitude -38.0325945,
    :source :openstreetmap,
-   :locality "Purén"}
+   :location "Purén"}
   {:name "Museo Histórico de Puyehue",
    :longitude -72.59917,
    :latitude -40.6845464,
    :source :openstreetmap,
-   :locality "Entre Lagos"}
+   :location "Entre Lagos"}
   {:name "Museo Histórico de San Felipe",
    :longitude -70.7215429,
    :latitude -32.7535782,
    :source :openstreetmap,
    :homepage "https://museohistoricosanfelipe.cl/",
-   :locality "San Felipe"}
+   :location "San Felipe"}
   {:name "Museo Histórico del Salitre ex Casa Abaroa",
    :longitude -70.4021384,
    :latitude -23.6583921,
    :source :openstreetmap,
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Museo Histórico Dominico",
    :longitude -70.6448334,
    :latitude -33.4248166,
    :source :openstreetmap,
    :homepage "http://www.museodominico.cl",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Histórico Hacienda Bucalemu",
    :longitude -71.6557132,
    :latitude -33.8592038,
@@ -2215,77 +2215,77 @@
    :longitude -72.7169217,
    :latitude -37.7983466,
    :source :openstreetmap,
-   :locality "Angol"}
+   :location "Angol"}
   {:name "Museo Histórico Militar",
    :longitude -70.6561733,
    :latitude -33.4572314,
    :source :openstreetmap,
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Histórico Militar de Copiapó",
    :longitude -70.3192579,
    :latitude -27.3739708,
    :source :openstreetmap,
-   :locality "Copiapó"}
+   :location "Copiapó"}
   {:name "Museo Histórico Puchoco Schwager",
    :longitude -73.1779969,
    :latitude -37.0238552,
    :source :openstreetmap,
-   :locality "Coronel"}
+   :location "Coronel"}
   {:name "Museo Histórico Religioso y Paleontológico de Curepto",
    :longitude -72.0182047,
    :latitude -35.0940177,
    :source :openstreetmap,
-   :locality "Curepto"}
+   :location "Curepto"}
   {:name "Museo Histórico y Arqueológico - Arturo Möller Sandrock",
    :longitude -72.9549809,
    :latitude -40.3347074,
    :source :openstreetmap,
-   :locality "Río Bueno"}
+   :location "Río Bueno"}
   {:name "Museo Histórico y Arqueológico de Concón",
    :longitude -71.5168243,
    :latitude -32.9203842,
    :source :openstreetmap,
-   :locality "Concón"}
+   :location "Concón"}
   {:name "Museo Histórico y Arqueológico Municipal de Villarrica",
    :longitude -72.2239389,
    :latitude -39.2851563,
    :source :openstreetmap,
-   :locality "Villarrica"}
+   :location "Villarrica"}
   {:name
    "Museo Histórico y Centro Cultural Presidente Pedro Aguirre Cerda",
    :longitude -70.6159996,
    :latitude -32.8693539,
    :source :openstreetmap,
    :homepage "https://www.ccpac.cl/",
-   :locality "Calle Larga"}
+   :location "Calle Larga"}
   {:name "Museo Histórico y Cultural de Cauquenes",
    :longitude -72.3151396,
    :latitude -35.9700323,
    :source :openstreetmap,
-   :locality "Cauquenes"}
+   :location "Cauquenes"}
   {:name "Museo Histórico y de Armas",
    :longitude -70.3245943,
    :latitude -18.4800377,
    :source :openstreetmap,
-   :locality "Arica"}
+   :location "Arica"}
   {:name
    "Museo Histórico y Natural de Mejillones \"Raúl Mavrakis Morales\"",
    :longitude -70.4526828,
    :latitude -23.0999639,
    :source :openstreetmap,
    :homepage "https://chilecultura.gob.cl/events/453/",
-   :locality "Mejillones"}
+   :location "Mejillones"}
   {:name "Museo Histórico y Natural de Navidad",
    :longitude -71.8296456,
    :latitude -33.9539908,
    :source :openstreetmap,
-   :locality "Navidad"}
+   :location "Navidad"}
   {:name
    "Museo Histórico, Minero y Paleontológico Profesor Óscar Seguel Morales",
    :longitude -73.3349061,
    :latitude -37.4798629,
    :source :openstreetmap,
-   :locality "Curanilahue"}
+   :location "Curanilahue"}
   {:name "Museo Iglesia",
    :longitude -73.3752365,
    :latitude -42.3314066,
@@ -2296,18 +2296,18 @@
    :latitude -22.2721707,
    :source :openstreetmap,
    :homepage "https://www.muhncal.cl/",
-   :locality "Calama"}
+   :location "Calama"}
   {:name "Museo Infantil",
    :longitude -70.6837212,
    :latitude -33.4398181,
    :source :openstreetmap,
    :homepage "http://www.corpdicyt.cl/minfantil/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Interactivo Digital",
    :longitude -70.0456888,
    :latitude -26.391602,
    :source :openstreetmap,
-   :locality "Diego de Almagro"}
+   :location "Diego de Almagro"}
   {:name "Museo Interactivo Judío de Chile",
    :longitude -70.5128486,
    :latitude -33.3570601,
@@ -2318,23 +2318,23 @@
    :latitude -33.4142291,
    :source :openstreetmap,
    :homepage "http://www.mui.cl",
-   :locality "Las Condes"}
+   :location "Las Condes"}
   {:name "Museo Interactivo Mirador",
    :longitude -70.6133838,
    :latitude -33.5188637,
    :source :openstreetmap,
    :homepage "https://www.mim.cl/",
-   :locality "La Granja"}
+   :location "La Granja"}
   {:name "Museo Interactivo Recreación de una Mina de Carbón",
    :longitude -73.34818,
    :latitude -37.4762802,
    :source :openstreetmap,
-   :locality "Curanilahue"}
+   :location "Curanilahue"}
   {:name "Museo Intercultural El Encanto",
    :longitude -72.4399743,
    :latitude -40.7676377,
    :source :openstreetmap,
-   :locality "Puyehue"}
+   :location "Puyehue"}
   {:name "Museo Internacional de la Gráfica",
    :longitude -72.1078699,
    :latitude -36.6020695,
@@ -2347,32 +2347,32 @@
    :longitude -73.5085918,
    :latitude -45.1513467,
    :source :openstreetmap,
-   :locality "Puerto Aysén"}
+   :location "Puerto Aysén"}
   {:name "Museo Judío Alemán de Santiago",
    :longitude -70.5523816,
    :latitude -33.3826836,
    :source :openstreetmap,
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Museo La Ligua",
    :longitude -71.2306904,
    :latitude -32.4430586,
    :source :openstreetmap,
-   :locality "La Ligua"}
+   :location "La Ligua"}
   {:name "Museo Lago Ranco",
    :longitude -72.4758081,
    :latitude -40.3204914,
    :source :openstreetmap,
-   :locality "Lago Ranco"}
+   :location "Lago Ranco"}
   {:name "Museo Leandro Penchulef",
    :longitude -72.225316,
    :latitude -39.2775541,
    :source :openstreetmap,
-   :locality "Villarrica"}
+   :location "Villarrica"}
   {:name "Museo Los Colonos de Nuestra Tierra",
    :longitude -71.9929671,
    :latitude -45.3724566,
    :source :openstreetmap,
-   :locality "Villa Ortega"}
+   :location "Villa Ortega"}
   {:name "Museo Los Insectos",
    :longitude -71.0668556,
    :latitude -34.2633316,
@@ -2382,42 +2382,42 @@
    :latitude -33.4921505,
    :source :openstreetmap,
    :homepage "https://www.museomacul.cl/",
-   :locality "Macul"}
+   :location "Macul"}
   {:name
    "Museo Mapuche de Cañete \"Ruka Kimvn Taiñ Volil Juan Antonio Cayupi Huechicura\"",
    :longitude -73.3941574,
    :latitude -37.8198393,
    :source :openstreetmap,
    :homepage "https://www.museomapuchecanete.gob.cl/",
-   :locality "Cañete"}
+   :location "Cañete"}
   {:name "Museo Marista",
    :longitude -70.6663141,
    :latitude -33.4368794,
    :source :openstreetmap,
    :homepage "https://www.maristas.cl/obras_y_servicios/museo_marista",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Marta Colvin",
    :longitude -72.0754484,
    :latitude -36.5997647,
    :source :openstreetmap,
-   :locality "Chillán"}
+   :location "Chillán"}
   {:name "Museo Marítimo Nacional",
    :longitude -71.6313805,
    :latitude -33.0317112,
    :source :openstreetmap,
    :homepage "https://museomaritimo.cl/",
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Museo Masónico",
    :longitude -70.6451672,
    :latitude -33.4437338,
    :source :openstreetmap,
    :homepage "https://museosanfrancisco.com/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Militar",
    :longitude -70.5837954,
    :latitude -33.4122319,
    :source :openstreetmap,
-   :locality "Las Condes"}
+   :location "Las Condes"}
   {:name "Museo Mineralógico",
    :longitude -70.3307126,
    :latitude -27.3655496,
@@ -2426,22 +2426,22 @@
    :longitude -71.2456127,
    :latitude -29.9088272,
    :source :openstreetmap,
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Museo Minero de Lebu",
    :longitude -73.6651346,
    :latitude -37.5981459,
    :source :openstreetmap,
-   :locality "Lebu"}
+   :location "Lebu"}
   {:name "Museo Minero de Tierra Amarilla",
    :longitude -70.2620608,
    :latitude -27.4973074,
    :source :openstreetmap,
-   :locality "Tierra Amarilla"}
+   :location "Tierra Amarilla"}
   {:name "Museo Minero y Mineralógico Ingeniero Eduardo Lillo",
    :longitude -69.7874974,
    :latitude -20.2514366,
    :source :openstreetmap,
-   :locality "Pozo Almonte"}
+   :location "Pozo Almonte"}
   {:name "Museo Morhuilla",
    :longitude -73.6623808,
    :latitude -37.7235736,
@@ -2450,97 +2450,97 @@
    :longitude -72.7648741,
    :latitude -36.5798223,
    :source :openstreetmap,
-   :locality "Ranguelmo"}
+   :location "Ranguelmo"}
   {:name "Museo Multicultural e Histórico Raices",
    :longitude -73.1442097,
    :latitude -37.0053148,
    :source :openstreetmap,
-   :locality "Coronel"}
+   :location "Coronel"}
   {:name "Museo Municipal Amador Cárdenas de Quellón",
    :longitude -73.6195478,
    :latitude -43.1189286,
    :source :openstreetmap,
    :homepage "https://muniquellon.cl/museo-municipal/",
-   :locality "Quellón"}
+   :location "Quellón"}
   {:name "Museo Municipal de Rere",
    :longitude -72.7289058,
    :latitude -37.1305342,
    :source :openstreetmap,
-   :locality "Yumbel"}
+   :location "Yumbel"}
   {:name "Museo Municipal de Río Verde",
    :longitude -71.4644253,
    :latitude -52.6506465,
    :source :openstreetmap,
-   :locality "Río Verde"}
+   :location "Río Verde"}
   {:name "Museo Municipal de Villa Cerro Castillo",
    :longitude -72.3440065,
    :latitude -51.2555378,
    :source :openstreetmap,
-   :locality "Cerro Castillo"}
+   :location "Cerro Castillo"}
   {:name "Museo Municipal Fernando Cordero Rusque",
    :longitude -70.3684693,
    :latitude -53.2945381,
    :source :openstreetmap,
-   :locality "Porvenir"}
+   :location "Porvenir"}
   {:name "Museo Municipal y Casa de la Cultura Villa Alegre",
    :longitude -71.7421535,
    :latitude -35.6749339,
    :source :openstreetmap,
    :homepage
    "https://www.monumentos.gob.cl/monumentos/monumentos-historicos/museo-municipal-y-casa-de-la-cultura-de-villa-alegre",
-   :locality "Villa Alegre"}
+   :location "Villa Alegre"}
   {:name "Museo Nacional Aeronáutico y del Espacio",
    :longitude -70.6967837,
    :latitude -33.4873228,
    :source :openstreetmap,
    :homepage "http://www.museoaeronautico.gob.cl",
-   :locality "Cerrillos"}
+   :location "Cerrillos"}
   {:name "Museo Nacional de Bomberos de Chile",
    :longitude -70.6313742,
    :latitude -33.4404801,
    :source :openstreetmap,
    :homepage
    "https://www.bomberos.cl/museo-nacional-de-bomberos-de-chile",
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Museo Nao Victoria",
    :longitude -70.8794044,
    :latitude -53.1075516,
    :source :openstreetmap,
    :homepage "http://www.naovictoria.cl/",
-   :locality "Punta Arena"}
+   :location "Punta Arena"}
   {:name "Museo Naval Marítimo de Punta Arenas",
    :longitude -70.9043021,
    :latitude -53.163581,
    :source :openstreetmap,
-   :locality "Punta Arenas"}
+   :location "Punta Arenas"}
   {:name "Museo Naval Submarino O’Brien",
    :longitude -73.2492061,
    :latitude -39.8158461,
    :source :openstreetmap,
-   :locality "Valdivia"}
+   :location "Valdivia"}
   {:name "Museo Naval y Marítimo",
    :longitude -70.152035,
    :latitude -20.221283,
    :source :openstreetmap,
-   :locality "Iquique"}
+   :location "Iquique"}
   {:name "Museo O'Higginiano y de Bellas Artes de Talca",
    :longitude -71.6640953,
    :latitude -35.425781,
    :source :openstreetmap,
    :homepage "https://www.museodetalca.gob.cl/",
-   :locality "Talca"}
+   :location "Talca"}
   {:name "Museo Ocean Pacific's",
    :longitude -70.6675178,
    :latitude -33.4421117,
    :source :openstreetmap,
    :homepage "https://oceanpacifics.cl/museo/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo OVNI",
    :longitude -71.2825938,
    :latitude -29.9457257,
    :source :openstreetmap,
    :homepage "https://www.museoovni.cl",
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Museo Pablo Fierro",
    :longitude -72.9753657,
    :latitude -41.3227319,
@@ -2550,12 +2550,12 @@
    :latitude -33.4523832,
    :source :openstreetmap,
    :homepage "http://www.palaciocousino.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Paleontológico de Algarrobo",
    :longitude -71.6725717,
    :latitude -33.3638966,
    :source :openstreetmap,
-   :locality "Algarrobo"}
+   :location "Algarrobo"}
   {:name "Museo Parque de los Trenes",
    :longitude -73.1726096,
    :latitude -38.7185202,
@@ -2564,7 +2564,7 @@
    :longitude -71.4812916,
    :latitude -30.6562501,
    :source :openstreetmap,
-   :locality "Ovalle"}
+   :location "Ovalle"}
   {:name "Museo Parroquial de Isla de Maipo",
    :longitude -70.9004131,
    :latitude -33.7548303,
@@ -2580,7 +2580,7 @@
    :latitude -33.4614041,
    :source :openstreetmap,
    :homepage "https://museohospitalsb.wixsite.com/home",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Museo Patrimonial e Iglesia de Copequén",
    :longitude -70.9263375,
    :latitude -34.2501046,
@@ -2589,12 +2589,12 @@
    :longitude -70.7632671,
    :latitude -33.4482217,
    :source :openstreetmap,
-   :locality "Pudahuel"}
+   :location "Pudahuel"}
   {:name "Museo Patrimonial Rubén Goméz Ojeda",
    :longitude -73.5933667,
    :latitude -41.6162314,
    :source :openstreetmap,
-   :locality "Maullín"}
+   :location "Maullín"}
   {:name "Museo Pehuenche",
    :longitude -71.6369741,
    :latitude -37.8825353,
@@ -2607,7 +2607,7 @@
    :longitude -73.1044641,
    :latitude -40.5695784,
    :source :openstreetmap,
-   :locality "Osorno"}
+   :location "Osorno"}
   {:name "Museo Pioneros",
    :longitude -72.4013397,
    :latitude -41.1380014,
@@ -2616,12 +2616,12 @@
    :longitude -73.1044453,
    :latitude -40.5745072,
    :source :openstreetmap,
-   :locality "Osorno"}
+   :location "Osorno"}
   {:name "Museo Pueblito Chepicano",
    :longitude -71.2982341,
    :latitude -34.7072127,
    :source :openstreetmap,
-   :locality "Chépica"}
+   :location "Chépica"}
   {:name "Museo Puente Quilo",
    :longitude -73.9853512,
    :latitude -41.8626047,
@@ -2631,25 +2631,25 @@
    :latitude -46.6230161,
    :source :openstreetmap,
    :homepage "https://www.redmuseosaysen.cl/museopuertotranquilo",
-   :locality "Puerto Río Tranquilo"}
+   :location "Puerto Río Tranquilo"}
   {:name "Museo Quinta Compañía de Bomberos",
    :longitude -71.2499984,
    :latitude -29.9060445,
    :source :openstreetmap,
    :homepage "http://www.museohistoricolaserena.cl/",
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Museo Quintero Vive",
    :longitude -71.5279533,
    :latitude -32.7847753,
    :source :openstreetmap,
    :homepage
    "https://www.muniquintero.cl/index.php/museo-vive-quintero-interactivo/",
-   :locality "Quintero"}
+   :location "Quintero"}
   {:name "Museo Ralli",
    :longitude -70.5919562,
    :latitude -33.3967885,
    :source :openstreetmap,
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Museo Rapa Nui",
    :longitude -109.4238579,
    :latitude -27.1373228,
@@ -2659,48 +2659,48 @@
    :latitude -41.8687208,
    :source :openstreetmap,
    :homepage "https://www.museodeancud.gob.cl/",
-   :locality "Ancud"}
+   :location "Ancud"}
   {:name "Museo Regional de Antofagasta",
    :longitude -70.3978243,
    :latitude -23.6443985,
    :source :openstreetmap,
    :homepage "https://www.museodeantofagasta.gob.cl/",
-   :locality "Antofagasta"}
+   :location "Antofagasta"}
   {:name "Museo Regional de Atacama",
    :longitude -70.3420887,
    :latitude -27.3625006,
    :source :openstreetmap,
    :homepage "https://www.museodeatacama.gob.cl/",
-   :locality "Copiapó"}
+   :location "Copiapó"}
   {:name "Museo Regional de Aysén",
    :longitude -72.0260983,
    :latitude -45.572749,
    :source :openstreetmap,
    :homepage "https://www.museoregionalaysen.gob.cl/",
-   :locality "Coyhaique"}
+   :location "Coyhaique"}
   {:name "Museo Regional de Castro",
    :longitude -73.7633334,
    :latitude -42.4834473,
    :source :openstreetmap,
-   :locality "Castro"}
+   :location "Castro"}
   {:name "Museo Regional de la Araucanía",
    :longitude -72.6030092,
    :latitude -38.7373018,
    :source :openstreetmap,
    :homepage "https://www.museoregionalaraucania.gob.cl/",
-   :locality "Temuco"}
+   :location "Temuco"}
   {:name "Museo Regional de Rancagua",
    :longitude -70.7416182,
    :latitude -34.1734159,
    :source :openstreetmap,
    :homepage "https://www.museorancagua.gob.cl/",
-   :locality "Rancagua"}
+   :location "Rancagua"}
   {:name "Museo Regional Salesiano Maggiorino Borgatello",
    :longitude -70.9022953,
    :latitude -53.1556216,
    :source :openstreetmap,
    :homepage "https://museomaggiorinoborgatello.cl",
-   :locality "Punta Arenas"}
+   :location "Punta Arenas"}
   {:name "Museo Retro Patrimonial de Maullin",
    :longitude -73.5453729,
    :latitude -41.7118409,
@@ -2709,13 +2709,13 @@
    :longitude -71.8196619,
    :latitude -34.0072485,
    :source :openstreetmap,
-   :locality "Navidad"}
+   :location "Navidad"}
   {:name "Museo Rural de Pirque",
    :longitude -70.5415379,
    :latitude -33.7172846,
    :source :openstreetmap,
    :homepage "https://www.museoruraldepirque.cl/",
-   :locality "Pirque"}
+   :location "Pirque"}
   {:name "Museo Rural Pioneros del Baker",
    :longitude -72.7040964,
    :latitude -47.1271959,
@@ -2725,18 +2725,18 @@
    :latitude -29.9025882,
    :source :openstreetmap,
    :homepage "https://www.arzobispadodelaserena.cl/",
-   :locality "La Serena"}
+   :location "La Serena"}
   {:name "Museo Salamanca",
    :longitude -70.9592237,
    :latitude -31.7822526,
    :source :openstreetmap,
    :homepage "https://instabio.cc/museosalamanca",
-   :locality "Salamanca"}
+   :location "Salamanca"}
   {:name "Museo San Francisco",
    :longitude -72.0959511,
    :latitude -36.6044972,
    :source :openstreetmap,
-   :locality "Chillán"}
+   :location "Chillán"}
   {:name "Museo San José del Carmen de El Huique",
    :longitude -71.3727869,
    :latitude -34.5264479,
@@ -2747,17 +2747,17 @@
    :latitude -33.0535687,
    :source :openstreetmap,
    :homepage "https://ssr.cl/home/museo/",
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Museo Sindicato N°1 de Estibadores Portuarios",
    :longitude -71.6290161,
    :latitude -33.0370601,
    :source :openstreetmap,
-   :locality "Valparaíso"}
+   :location "Valparaíso"}
   {:name "Museo Sociedad de Artesanos e Industriales de Los Andes",
    :longitude -70.5980283,
    :latitude -32.8313287,
    :source :openstreetmap,
-   :locality "Los Andes"}
+   :location "Los Andes"}
   {:name "Museo Stom",
    :longitude -73.0167596,
    :latitude -36.9335557,
@@ -2770,12 +2770,12 @@
    :longitude -73.2545532,
    :latitude -39.83339,
    :source :openstreetmap,
-   :locality "Valdivia"}
+   :location "Valdivia"}
   {:name "Museo Territorial Yagan Usi  \"Martín González Calderón\"",
    :longitude -67.6147361,
    :latitude -54.9356487,
    :source :openstreetmap,
-   :locality "Puerto Willians"}
+   :location "Puerto Willians"}
   {:name "Museo Testimonial 'La Casa de la Bandera'",
    :longitude -72.3659616,
    :latitude -43.4122722,
@@ -2784,12 +2784,12 @@
    :longitude -70.7280145,
    :latitude -33.4948824,
    :source :openstreetmap,
-   :locality "Cerrillos"}
+   :location "Cerrillos"}
   {:name "Museo Valle de la Luna",
    :longitude -71.7174015,
    :latitude -45.2695796,
    :source :openstreetmap,
-   :locality "Ñirehuao"}
+   :location "Ñirehuao"}
   {:name "Museo Vichuquén",
    :longitude -71.9922382,
    :latitude -34.8845987,
@@ -2803,44 +2803,44 @@
    :latitude -36.4098287,
    :source :openstreetmap,
    :homepage "https://www.munininhue.cl/patrimonio-ninhue/",
-   :locality "Ninhue"}
+   :location "Ninhue"}
   {:name "Museo Vivo de la Biodiversidad",
    :longitude -70.9225115,
    :latitude -33.8688542,
    :source :openstreetmap,
-   :locality "Paine"}
+   :location "Paine"}
   {:name "Museo Vivo Félix Maruenda",
    :longitude -70.7312982,
    :latitude -33.7182105,
    :source :openstreetmap,
    :homepage "https://www.fundacionfelixmaruenda.cl/",
-   :locality "Buin"}
+   :location "Buin"}
   {:name "Museo Votivo de Ayquina",
    :longitude -68.3222816,
    :latitude -22.2791988,
    :source :openstreetmap,
-   :locality "Calama"}
+   :location "Calama"}
   {:name "Museo y Archivo Histórico de Traiguén Ricardo Tapia Bucher",
    :longitude -72.668371,
    :latitude -38.2522998,
    :source :openstreetmap,
-   :locality "Traiguén"}
+   :location "Traiguén"}
   {:name "Museo y Centro Cultural Curaco de Vélez",
    :longitude -73.6029889,
    :latitude -42.4394159,
    :source :openstreetmap,
-   :locality "Curaco de Vélez"}
+   :location "Curaco de Vélez"}
   {:name "Museo y Centro Cultural Molino Los Chilcos",
    :longitude -72.6908103,
    :latitude -40.2450877,
    :source :openstreetmap,
    :homepage "https://fundoloschilcos.cl/casona-molino/",
-   :locality "La Union"}
+   :location "La Union"}
   {:name "Museo-Acuario FCM U. Católica del Norte",
    :longitude -71.3532396,
    :latitude -29.9659374,
    :source :openstreetmap,
-   :locality "Coquimbo"}
+   :location "Coquimbo"}
   {:name "Observatorio Cerro Condell",
    :longitude -71.22924,
    :latitude -34.9787753,
@@ -2849,66 +2849,66 @@
    :longitude -70.9010376,
    :latitude -53.1623888,
    :source :openstreetmap,
-   :locality "Punta arenas"}
+   :location "Punta arenas"}
   {:name "Parque del Cómic",
    :longitude -70.6505555,
    :latitude -33.4865043,
    :source :openstreetmap,
-   :locality "San Miguel"}
+   :location "San Miguel"}
   {:name "Parque Museo Pedro del Río Zañartu",
    :longitude -73.1527753,
    :latitude -36.7968097,
    :source :openstreetmap,
    :homepage "https://prz.cl/",
-   :locality "Hualpén"}
+   :location "Hualpén"}
   {:name "Prima Galeria de Arte",
    :longitude -70.5723782,
    :latitude -33.3821853,
    :source :openstreetmap,
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Reserva Nacional Los Flamencos -Sector Laguna Chaxa",
    :longitude -68.174622,
    :latitude -23.2870887,
    :source :openstreetmap,
-   :locality "San Pedro de Atacama"}
+   :location "San Pedro de Atacama"}
   {:name "Ruka Ailla",
    :longitude -72.6748389,
    :latitude -38.7247842,
    :source :openstreetmap,
-   :locality "Temuco"}
+   :location "Temuco"}
   {:name "Sala de Arte CCU",
    :longitude -70.6049982,
    :latitude -33.4156596,
    :source :openstreetmap,
    :homepage "https://ccuenelarte.cl/sala-de-arte/",
-   :locality "Vitacura"}
+   :location "Vitacura"}
   {:name "Sala de Artes Visuales USACH",
    :longitude -70.6651942,
    :latitude -33.4464253,
    :source :openstreetmap,
    :homepage "https://guerradelpacifico1879.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Sala de Exposición Museográfica Estancia Laguna Blanca",
    :longitude -71.1850916,
    :latitude -52.2716698,
    :source :openstreetmap,
    :homepage "https://estancialagunablanca.com/",
-   :locality "Laguna Blanca"}
+   :location "Laguna Blanca"}
   {:name "Sala de Exposición Museográfica Roberto Álvarez",
    :longitude -71.4901647,
    :latitude -29.0767522,
    :source :openstreetmap,
-   :locality "Freirina"}
+   :location "Freirina"}
   {:name "Sala de Exposiones Estación Las Coimas",
    :longitude -70.7327037,
    :latitude -32.6960636,
    :source :openstreetmap,
-   :locality "Putaendo"}
+   :location "Putaendo"}
   {:name "Sala de la Cultura",
    :longitude -70.6673817,
    :latitude -33.4916562,
    :source :openstreetmap,
-   :locality "Pedro Aguirre Cerda"}
+   :location "Pedro Aguirre Cerda"}
   {:name "Sala de La Cultura Calbuco",
    :longitude -73.1280569,
    :latitude -41.7705715,
@@ -2917,55 +2917,55 @@
    :longitude -72.0911346,
    :latitude -35.543481,
    :source :openstreetmap,
-   :locality "Nirivilo"}
+   :location "Nirivilo"}
   {:name "Sala Escuela Museo Arqueología",
    :longitude -72.9006829,
    :latitude -41.4854052,
    :source :openstreetmap,
-   :locality "Puerto Montt"}
+   :location "Puerto Montt"}
   {:name "Sala Museo Centro Nacional de la Fotografía",
    :longitude -70.6609736,
    :latitude -33.4511784,
    :source :openstreetmap,
    :homepage "https://bibliotecanicanorparra.udp.cl/",
-   :locality "Santiago"}
+   :location "Santiago"}
   {:name "Sala Museo del Patrimonio y la Creatividad",
    :longitude -71.6963983,
    :latitude -33.4184893,
    :source :openstreetmap,
-   :locality "El Quisco"}
+   :location "El Quisco"}
   {:name "Sala Museo Francisco Reyes",
    :longitude -71.7974047,
    :latitude -33.9459781,
    :source :openstreetmap,
-   :locality "Navidad"}
+   :location "Navidad"}
   {:name "Sala Museo Histórico Origen de la Reforma Agraria",
    :longitude -71.3957839,
    :latitude -34.3033142,
    :source :openstreetmap,
    :homepage "https://museopataguascerro.cl/",
-   :locality "Pichidegua"}
+   :location "Pichidegua"}
   {:name "Sala Museo Sociedad de Artesanos",
    :longitude -70.7252089,
    :latitude -32.7535228,
    :source :openstreetmap,
    :homepage "https://sociedadartesanossanfelipe.blogspot.com/",
-   :locality "San Felipe"}
+   :location "San Felipe"}
   {:name "Sala Museografíca Casona Rinconada",
    :longitude -70.6856641,
    :latitude -32.8475503,
    :source :openstreetmap,
-   :locality "Rinconada"}
+   :location "Rinconada"}
   {:name "Sala Museográfica",
    :longitude -71.9339895,
    :latitude -46.2951401,
    :source :openstreetmap,
-   :locality "Rio Ibañez"}
+   :location "Rio Ibañez"}
   {:name "Sala Museográfica Dr. Gustavo Fricke",
    :longitude -71.5425835,
    :latitude -33.0289482,
    :source :openstreetmap,
-   :locality "Viña del Mar"}
+   :location "Viña del Mar"}
   {:name "Sala Museográfica Quebrada de Pinte",
    :longitude -70.2830306,
    :latitude -28.9796496,
@@ -2975,7 +2975,7 @@
    :latitude -30.2328308,
    :source :openstreetmap,
    :homepage "https://www.yahuin.cl/",
-   :locality "Andacollo"}
+   :location "Andacollo"}
   {:name "Salón de las Artes Víctor Jara",
    :longitude -70.6850633,
    :latitude -33.4501003,
@@ -2986,24 +2986,24 @@
    :source :openstreetmap,
    :homepage
    "https://www.registromuseoschile.cl/663/w3-article-97425.html",
-   :locality "San Bernardo"}
+   :location "San Bernardo"}
   {:name "Santuario Cuna de Prat",
    :longitude -72.4291837,
    :latitude -36.3966224,
    :source :openstreetmap,
    :homepage "https://museonaval.cl/es/museo-de-ninhue.html",
-   :locality "Ninhue"}
+   :location "Ninhue"}
   {:name "Santuario Inmaculada Concepción",
    :longitude -70.633299,
    :latitude -33.4260837,
    :source :openstreetmap,
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Sitio de Memoria Camarín de Mujeres",
    :longitude -70.6077821,
    :latitude -33.4626669,
    :source :openstreetmap,
    :homepage "https://www.memoriaestadionacional.cl/",
-   :locality "Ñuñoa"}
+   :location "Ñuñoa"}
   {:name
    "Sitio Histórico ex Centro de Detención y Tortura Las Cabañas",
    :longitude -71.6317647,
@@ -3014,17 +3014,17 @@
    :latitude -36.6068095,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/grupo_tanagra_chillan/",
-   :locality "Chillán"}
+   :location "Chillán"}
   {:name "Taller 99 de Grabado Nemesio Antúnez",
    :longitude -70.6168049,
    :latitude -33.4373588,
    :source :openstreetmap,
-   :locality "Providencia"}
+   :location "Providencia"}
   {:name "Taller de Artes Visuales Sala Ocre",
    :longitude -70.9042281,
    :latitude -53.1407312,
    :source :openstreetmap,
-   :locality "Punta Arenas"}
+   :location "Punta Arenas"}
   {:name "Valle de la Luna",
    :longitude -68.233089,
    :latitude -22.9351484,

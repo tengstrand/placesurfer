@@ -9,19 +9,19 @@
    :latitude 58.126300278650575,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18924",
-   :locality "Mulgi vald"}
+   :location "Mulgi vald"}
   {:name "Abruka discgolfi park",
    :longitude 22.500239502689112,
    :latitude 58.16050474597074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28647",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Aegviidu Kabelimägi",
    :longitude 25.604544281959534,
    :latitude 59.28849607393266,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4201",
-   :locality "Anija"}
+   :location "Anija"}
   {:name "Aidu Discolfipark",
    :longitude 27.05113952580851,
    :latitude 59.31770825834471,
@@ -32,73 +32,73 @@
    :latitude 58.01285149239129,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11176",
-   :locality "Tõrva"}
+   :location "Tõrva"}
   {:name "Alatskivi",
    :longitude 27.12982471804048,
    :latitude 58.60374241078859,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1340",
-   :locality "Alatskivi"}
+   :location "Alatskivi"}
   {:name "Alutaguse",
    :longitude 27.55945086479187,
    :latitude 59.28936728474391,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1342",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Antsla",
    :longitude 26.524681853390007,
    :latitude 57.83109900391082,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29251",
-   :locality "Antsla"}
+   :location "Antsla"}
   {:name "Are mõisapark ",
    :longitude 24.58394229412079,
    :latitude 58.52942183842377,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5282",
-   :locality "Tori"}
+   :location "Tori"}
   {:name "Atsalama Võsavillem",
    :longitude 27.359665888537535,
    :latitude 59.242440483804444,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45392",
-   :locality "Atsalama"}
+   :location "Atsalama"}
   {:name "Audru kooli discgolfipark",
    :longitude 24.313925254113286,
    :latitude 58.42113254336405,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39039",
-   :locality "Audru"}
+   :location "Audru"}
   {:name "Avinurme discgolf park",
    :longitude 26.869940757751465,
    :latitude 58.985185130039284,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8756",
-   :locality "Mustvee"}
+   :location "Mustvee"}
   {:name "Birdie Bunch x Discgolf.ee aastapäeva mäng 2022",
    :longitude 24.689865762575636,
    :latitude 59.33169210066686,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26339",
-   :locality "Saku"}
+   :location "Saku"}
   {:name "CDG Discgolfikeskus",
    :longitude 24.64427094454541,
    :latitude 59.403559327658854,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17005",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "CDG DISCGOLFIKESKUS ",
    :longitude 24.644370305053002,
    :latitude 59.40359144956636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20696",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Clara Discgolfi Park (erarada)",
    :longitude 25.73803945607736,
    :latitude 57.95110933552303,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21832",
-   :locality "Tõrva"}
+   :location "Tõrva"}
   {:name "Coolbet Järve Discgolfi park",
    :longitude 24.7478882,
    :latitude 59.3803138,
@@ -110,19 +110,19 @@
    :latitude 59.416809691168424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32360",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Discland",
    :longitude 24.633068,
    :latitude 59.41592,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9282",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Ebavere Discgolf Park",
    :longitude 26.246592075735833,
    :latitude 59.117200223747545,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15725",
-   :locality "Väike-Maarja"}
+   :location "Väike-Maarja"}
   {:name "Ebavere Discgolfipark",
    :longitude 26.2303726,
    :latitude 59.1049364,
@@ -132,31 +132,31 @@
    :latitude 59.569369,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4778",
-   :locality "Haljala"}
+   :location "Haljala"}
   {:name "Elva Lasketiiru",
    :longitude 26.42461895942688,
    :latitude 58.20611983916769,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1349",
-   :locality "Elva"}
+   :location "Elva"}
   {:name "Emmaste",
    :longitude 22.58834395619442,
    :latitude 58.7074436709633,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26156",
-   :locality "Hiiumaa vald"}
+   :location "Hiiumaa vald"}
   {:name "Epicbet Järve discgolfi park",
    :longitude 24.74828379632234,
    :latitude 59.376879551006255,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21441",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Haanja Discgolf ",
    :longitude 27.049061239262244,
    :latitude 57.72261260628403,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4333",
-   :locality "Rõuge"}
+   :location "Rõuge"}
   {:name "Haapsalu Discgolfipark",
    :longitude 23.580029,
    :latitude 58.9430402,
@@ -166,31 +166,31 @@
    :latitude 58.223425411293306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45183",
-   :locality "Viljandi"}
+   :location "Viljandi"}
   {:name "Holstre-Polli ",
    :longitude 25.66419801578843,
    :latitude 58.283295533313805,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14573",
-   :locality "Viljandi Maakond"}
+   :location "Viljandi Maakond"}
   {:name "Holstre-Polli Kollane",
    :longitude 25.66363818274408,
    :latitude 58.283599999990855,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24426",
-   :locality "Viljandi vald"}
+   :location "Viljandi vald"}
   {:name "Hummuli",
    :longitude 26.053898620652035,
    :latitude 57.90683446306155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17010",
-   :locality "Tõrva"}
+   :location "Tõrva"}
   {:name "Häädemeeste",
    :longitude 24.4956792,
    :latitude 58.0782271,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17011",
-   :locality "Häädemeeste"}
+   :location "Häädemeeste"}
   {:name "Iisaku discgolfi park",
    :longitude 27.3125924,
    :latitude 59.1054219,
@@ -202,67 +202,67 @@
    :latitude 59.23620547710621,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/991",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Ilmatsalu",
    :longitude 26.554596384902055,
    :latitude 58.39076137169593,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17012",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Imavere discgolfi park",
    :longitude 25.761467851298136,
    :latitude 58.73219725382472,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23956",
-   :locality "Järva vald"}
+   :location "Järva vald"}
   {:name "Ingliste",
    :longitude 24.94662088263462,
    :latitude 59.016997455375645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29202",
-   :locality "Kehtna"}
+   :location "Kehtna"}
   {:name "Ingliste Lennurada 2 x 9 (OBd jõgi ja tiigid) LED.",
    :longitude 24.943266351767534,
    :latitude 59.01662468289908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25276",
-   :locality "Kehtna"}
+   :location "Kehtna"}
   {:name "Jaanikese DG",
    :longitude 26.06153521504322,
    :latitude 57.803979712069975,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36609",
-   :locality "Valga"}
+   :location "Valga"}
   {:name "Järta Discgolfi park  ",
    :longitude 24.473209,
    :latitude 58.897466,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10785",
-   :locality "Järta"}
+   :location "Järta"}
   {:name "Järva-Jaani Kasekopli",
    :longitude 25.87791229819885,
    :latitude 59.04453097068301,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45597",
-   :locality "Järva-Jaani"}
+   :location "Järva-Jaani"}
   {:name "Järva-Jaani Võllaste",
    :longitude 25.894185304641724,
    :latitude 59.03414341194411,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1348",
-   :locality "Järva-Jaani"}
+   :location "Järva-Jaani"}
   {:name "Järvakandi Discgolfi Park",
    :longitude 24.802571504784822,
    :latitude 58.77546784445508,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17013",
-   :locality "Kehtna"}
+   :location "Kehtna"}
   {:name "Järve Talu Aktiivpuhkekeskus",
    :longitude 24.286008509345976,
    :latitude 59.254767478387095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17008",
-   :locality "Lääne-Harju vald"}
+   :location "Lääne-Harju vald"}
   {:name "Järveotsa",
    :longitude 24.419057960786745,
    :latitude 59.08203011913852,
@@ -273,55 +273,55 @@
    :latitude 58.36274807984947,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13086",
-   :locality "Viljandi vald"}
+   :location "Viljandi vald"}
   {:name "Jõekääru custom",
    :longitude 25.424416573351692,
    :latitude 58.664884019002926,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35944",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Jõgeva",
    :longitude 26.378162,
    :latitude 58.744775,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4524",
-   :locality "Jõgeva"}
+   :location "Jõgeva"}
   {:name "Jõulumäe",
    :longitude 24.514060020446777,
    :latitude 58.22565849413301,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/2798",
-   :locality "Tahkuranna"}
+   :location "Tahkuranna"}
   {:name "Jõulumäe punane 27",
    :longitude 24.516184625699395,
    :latitude 58.22355034547846,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46794",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Kaagvere",
    :longitude 26.8918073,
    :latitude 58.3466646,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4839",
-   :locality "Kastre vald"}
+   :location "Kastre vald"}
   {:name "Kaarepere",
    :longitude 26.8918073,
    :latitude 58.3466646,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17014",
-   :locality "Kastre vald"}
+   :location "Kastre vald"}
   {:name "Kadrina",
    :longitude 26.126776925849498,
    :latitude 59.34449814499911,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17015",
-   :locality "Kadrina"}
+   :location "Kadrina"}
   {:name "Kaiu",
    :longitude 25.046480544380728,
    :latitude 59.019536530407294,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17016",
-   :locality "Rapla"}
+   :location "Rapla"}
   {:name "Kaiu discgolfipark",
    :longitude 25.0494088,
    :latitude 59.0138176,
@@ -332,49 +332,49 @@
    :latitude 59.216848474497056,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32825",
-   :locality "Lääne-Harju vald"}
+   :location "Lääne-Harju vald"}
   {:name "Kalmetu Kooli DG park",
    :longitude 25.83776272297621,
    :latitude 58.390774452817794,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36706",
-   :locality "Viljandi vald"}
+   :location "Viljandi vald"}
   {:name "Kareda Discgolf 2x9",
    :longitude 25.833,
    :latitude 58.944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12799",
-   :locality "Järva vald"}
+   :location "Järva vald"}
   {:name "Karksi-Nuia",
    :longitude 25.547287843596706,
    :latitude 58.106347367799515,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11878",
-   :locality "Mulgi vald"}
+   :location "Mulgi vald"}
   {:name "Karksi-Nuia DGP (2x11) Layout",
    :longitude 25.547440237033953,
    :latitude 58.10631803179956,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23337",
-   :locality "Mulgi vald"}
+   :location "Mulgi vald"}
   {:name "Karksi-Nuia Leho Special",
    :longitude 25.547620796587665,
    :latitude 58.10719448863625,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31092",
-   :locality "Mulgi vald"}
+   :location "Mulgi vald"}
   {:name "Karujärve Disc Golf Park",
    :longitude 22.187973260879517,
    :latitude 58.4076053027498,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4475",
-   :locality "Karujärve"}
+   :location "Karujärve"}
   {:name "Kehra Discgolf",
    :longitude 25.340373107128045,
    :latitude 59.33005629848293,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8496",
-   :locality "Anija"}
+   :location "Anija"}
   {:name "Kehtna discgolfi park",
    :longitude 24.869561,
    :latitude 58.924247,
@@ -386,67 +386,67 @@
    :latitude 59.31615792248661,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17860",
-   :locality "Keila"}
+   :location "Keila"}
   {:name "Kellavere DiscGolfPark",
    :longitude 26.524287,
    :latitude 59.074165,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9434",
-   :locality "Vinni"}
+   :location "Vinni"}
   {:name "Kernu",
    :longitude 24.496319890022278,
    :latitude 59.134619876352815,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17017",
-   :locality "Saue"}
+   :location "Saue"}
   {:name "Keskus Suvi discgolfipark Kirju Rähn",
    :longitude 27.49762086476457,
    :latitude 59.010887818673694,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30444",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Kihnu",
    :longitude 24.013597118079332,
    :latitude 58.144114714855135,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17018",
-   :locality "Pärnu Maakond"}
+   :location "Pärnu Maakond"}
   {:name "Kiikla",
    :longitude 27.23907992055959,
    :latitude 59.2796354535044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17019",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Kiikla PRO 9",
    :longitude 27.237139402932087,
    :latitude 59.27920259911642,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33274",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Kiiu",
    :longitude 25.387502300729693,
    :latitude 59.43828542658977,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19841",
-   :locality "Kuusalu"}
+   :location "Kuusalu"}
   {:name "Kilingi-Nõmme",
    :longitude 24.949934,
    :latitude 58.151337,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1345",
-   :locality "Saarde"}
+   :location "Saarde"}
   {:name "Kivipalu Pop-Up",
    :longitude 22.764671,
    :latitude 58.843737,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31866",
-   :locality "Hiiumaa vald"}
+   :location "Hiiumaa vald"}
   {:name "Kiviõli Seikluskeskus",
    :longitude 26.953153610229492,
    :latitude 59.365569329273825,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12771",
-   :locality "Lüganuse"}
+   :location "Lüganuse"}
   {:name "Kiviõli Seikluskeskuse Discgolfipark",
    :longitude 26.9466725,
    :latitude 59.3615764,
@@ -457,109 +457,109 @@
    :latitude 58.966068264127415,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21667",
-   :locality "Järva vald"}
+   :location "Järva vald"}
   {:name "Kohila",
    :longitude 24.76256849097524,
    :latitude 59.17249660670251,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17020",
-   :locality "Kohila"}
+   :location "Kohila"}
   {:name "Koigi",
    :longitude 25.74788606259861,
    :latitude 58.8326524974606,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42444",
-   :locality "Järvamaa"}
+   :location "Järvamaa"}
   {:name "Kolga-Jaani discgolfi rada 2018",
    :longitude 25.945184,
    :latitude 58.532512,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12732",
-   :locality "Viljandi vald"}
+   :location "Viljandi vald"}
   {:name "Koosa Discgolf Park",
    :longitude 27.072908878326416,
    :latitude 58.52640551463724,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6416",
-   :locality "Peipsiääre vald"}
+   :location "Peipsiääre vald"}
   {:name "Kopli kolm",
    :longitude 23.246244824924673,
    :latitude 58.669362652493504,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29078",
-   :locality "Muhu"}
+   :location "Muhu"}
   {:name "Kose",
    :longitude 25.169057554068246,
    :latitude 59.19087377427178,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27496",
-   :locality "Kose"}
+   :location "Kose"}
   {:name "Kose 2026",
    :longitude 25.16908331063226,
    :latitude 59.19029633033986,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46814",
-   :locality "Kose"}
+   :location "Kose"}
   {:name "Krootuse Orupedastiku Discgolfipark ",
    :longitude 26.823505702329385,
    :latitude 58.07597458802496,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17021",
-   :locality "Kanepi"}
+   :location "Kanepi"}
   {:name "Kudjape",
    :longitude 22.538039088249207,
    :latitude 58.267147028428596,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5669",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Kudjape 12",
    :longitude 22.530073672941313,
    :latitude 58.26571922874905,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32818",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Kudjape Disc Golf",
    :longitude 22.537860036358182,
    :latitude 58.26712065079417,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35477",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Kullamaa",
    :longitude 24.060682184074807,
    :latitude 58.88854655445823,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17022",
-   :locality "Lääne-Nigula vald"}
+   :location "Lääne-Nigula vald"}
   {:name "Kultuurikatel ",
    :longitude 24.750833311799,
    :latitude 59.444314341220974,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31702",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Kunda",
    :longitude 26.51221990585327,
    :latitude 59.499403884474724,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17023",
-   :locality "Viru-Nigula"}
+   :location "Viru-Nigula"}
   {:name "Kuningamäe discgolf park",
    :longitude 25.96151674418968,
    :latitude 58.64784458023084,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7174",
-   :locality "Põltsamaa"}
+   :location "Põltsamaa"}
   {:name "Kuperjanovi jalaväepataljoni discgolfipark ",
    :longitude 27.018690775569553,
    :latitude 57.82409809879658,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15330",
-   :locality "Võru"}
+   :location "Võru"}
   {:name "Kuremäe Metsik siga",
    :longitude 27.53633297208731,
    :latitude 59.19786677971689,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17710",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Kurna 2024",
    :longitude 24.843457082682875,
    :latitude 59.338590405101456,
@@ -570,109 +570,109 @@
    :latitude 59.338635189294735,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14799",
-   :locality "Rae"}
+   :location "Rae"}
   {:name "Kuutsemäe",
    :longitude 26.31921522521577,
    :latitude 58.02549042462152,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17024",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Käina",
    :longitude 22.782240509461303,
    :latitude 58.83219343044411,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17025",
-   :locality "Hiiumaa vald"}
+   :location "Hiiumaa vald"}
   {:name "Kärla",
    :longitude 22.25269290217858,
    :latitude 58.33189972072134,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39149",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Kääpa",
    :longitude 27.112818,
    :latitude 57.867981,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17026",
-   :locality "Võru Maakond"}
+   :location "Võru Maakond"}
   {:name "Kõrvemaa",
    :longitude 25.653383966934143,
    :latitude 59.31775387672412,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1354",
-   :locality "Anija vald"}
+   :location "Anija vald"}
   {:name "Lasnamäe pop-up rada",
    :longitude 24.821868833645368,
    :latitude 59.44499679217111,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37636",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Laulasmaa",
    :longitude 24.23706293106079,
    :latitude 59.37458863136829,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17028",
-   :locality "Lääne-Harju vald"}
+   :location "Lääne-Harju vald"}
   {:name "Lehola Hoovigolf",
    :longitude 24.32575503018427,
    :latitude 59.29231172793206,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35114",
-   :locality "Lääne-Harju vald"}
+   :location "Lääne-Harju vald"}
   {:name "Leisi",
    :longitude 22.686370821973554,
    :latitude 58.56726313995122,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13155",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Liblikamaja",
    :longitude 24.190006455165843,
    :latitude 58.54026716386139,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23560",
-   :locality "Lääneranna vald"}
+   :location "Lääneranna vald"}
   {:name "Lihula Mõisamäe",
    :longitude 23.837977051734924,
    :latitude 58.69346275030726,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5788",
-   :locality "Lääneranna vald"}
+   :location "Lääneranna vald"}
   {:name "Liipa talu",
    :longitude 25.010014074291377,
    :latitude 59.41988431702944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27291",
-   :locality "Jõelähtme"}
+   :location "Jõelähtme"}
   {:name "Lindi discgolfipark",
    :longitude 24.255584751586298,
    :latitude 58.33543753034721,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24967",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Linnamäe discgolf",
    :longitude 23.720169067382812,
    :latitude 58.9964938411318,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9821",
-   :locality "Lääne-Nigula vald"}
+   :location "Lääne-Nigula vald"}
   {:name "Lohusuu Lendhaug",
    :longitude 27.045219015908174,
    :latitude 58.95253540631268,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44086",
-   :locality "Mustvee vald"}
+   :location "Mustvee vald"}
   {:name "Loo disc-golf",
    :longitude 24.943349254495303,
    :latitude 59.432027839525404,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44134",
-   :locality "Harjumaa"}
+   :location "Harjumaa"}
   {:name "Lümanda",
    :longitude 22.024850903125923,
    :latitude 58.286257631039064,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23589",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Maardu Discgolfipark",
    :longitude 25.0059639,
    :latitude 59.4636755,
@@ -683,61 +683,61 @@
    :latitude 58.61824260760841,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30335",
-   :locality "Tartu vald"}
+   :location "Tartu vald"}
   {:name "Maarjamäe DG Park",
    :longitude 24.850473403930664,
    :latitude 59.45286273590789,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9001",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Mammaste",
    :longitude 27.06626772880543,
    :latitude 58.07746213319447,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10811",
-   :locality "Põlva"}
+   :location "Põlva"}
   {:name "Mammaste Discgolfipark",
    :longitude 27.06538653455746,
    :latitude 58.078140727092006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30668",
-   :locality "Põlva"}
+   :location "Põlva"}
   {:name "Matu Discgolf",
    :longitude 23.066204898850714,
    :latitude 58.46642448051702,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39201",
-   :locality "Kingli"}
+   :location "Kingli"}
   {:name "Mereoja Camping Discgolfipark",
    :longitude 26.9542284879858,
    :latitude 59.43338266551916,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33781",
-   :locality "Viru-Nigula"}
+   :location "Viru-Nigula"}
   {:name "Metsajõe Puhkemaja",
    :longitude 25.337027315473364,
    :latitude 58.757736161164644,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17031",
-   :locality "Türi"}
+   :location "Türi"}
   {:name "Metsapoole DiscGolf park",
    :longitude 24.377257415014896,
    :latitude 57.90448957969221,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19675",
-   :locality "Häädemeeste"}
+   :location "Häädemeeste"}
   {:name "Metsapoole Discgolfi park, 7 holes",
    :longitude 24.377563774601555,
    :latitude 57.90504005220507,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12021",
-   :locality "Häädemeeste"}
+   :location "Häädemeeste"}
   {:name "Metsavenna discgolfi park",
    :longitude 26.661161859041982,
    :latitude 57.570299747940425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29929",
-   :locality "Rõuge"}
+   :location "Rõuge"}
   {:name "Metsjärve discgolf",
    :longitude 26.9409117,
    :latitude 58.0091882,
@@ -752,7 +752,7 @@
    :latitude 58.6027348720209,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44912",
-   :locality "Saare maakond, Liiva"}
+   :location "Saare maakond, Liiva"}
   {:name "Muhu Liiva discgolfi park 2x8",
    :longitude 23.22602007703466,
    :latitude 58.602757455562625,
@@ -763,7 +763,7 @@
    :latitude 58.65174605250798,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17032",
-   :locality "Muhu"}
+   :location "Muhu"}
   {:name "Muraste Discgolfipark",
    :longitude 24.4747447,
    :latitude 59.456459,
@@ -773,13 +773,13 @@
    :latitude 58.2318272538025,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5730",
-   :locality "Viljandi vald"}
+   :location "Viljandi vald"}
   {:name "Musumänniku",
    :longitude 22.45597,
    :latitude 58.24615,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17035",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Musumänniku discgolfi park",
    :longitude 22.4512522,
    :latitude 58.2445836,
@@ -791,7 +791,7 @@
    :latitude 59.372910112553036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12482",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Mädara discgolfi park",
    :longitude 25.195301063305237,
    :latitude 58.672394512218546,
@@ -802,25 +802,25 @@
    :latitude 58.91034970835611,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16227",
-   :locality "Lääne-Nigula vald"}
+   :location "Lääne-Nigula vald"}
   {:name "Mäemõisa",
    :longitude 23.57659333652157,
    :latitude 58.82903544052493,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15841",
-   :locality "Ridala "}
+   :location "Ridala "}
   {:name "Mäeotsa Disc Golf Park",
    :longitude 27.042406797409058,
    :latitude 58.0298074279317,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/305",
-   :locality "Põlva"}
+   :location "Põlva"}
   {:name "Mäetaguse",
    :longitude 27.280576229095573,
    :latitude 59.2247989978389,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17036",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Mäetaguse Discgolfipark",
    :longitude 27.2751016,
    :latitude 59.2267711,
@@ -831,13 +831,13 @@
    :latitude 58.087651816948636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18897",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Mändjala",
    :longitude 22.331160306930542,
    :latitude 58.21576477371592,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33000",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Männiku PIME 1x9- 2026",
    :longitude 24.692410616297252,
    :latitude 59.33381950673467,
@@ -848,7 +848,7 @@
    :latitude 59.335331576434385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17037",
-   :locality "Saku"}
+   :location "Saku"}
   {:name "Märjamaa discgolfi park",
    :longitude 24.4225762,
    :latitude 58.9049522,
@@ -860,25 +860,25 @@
    :latitude 59.327388413715866,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1359",
-   :locality "Vinni"}
+   :location "Vinni"}
   {:name "Mõisaküla",
    :longitude 25.169371936678687,
    :latitude 58.09303896756168,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17001",
-   :locality "Mõisaküla"}
+   :location "Mõisaküla"}
   {:name "Naissaare",
    :longitude 24.547276496887207,
    :latitude 59.5386477702747,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1150",
-   :locality "Viimsi"}
+   :location "Viimsi"}
   {:name "Narva-Jõesuu",
    :longitude 28.045480925166373,
    :latitude 59.45211192122335,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45165",
-   :locality "Ida-Virumaa"}
+   :location "Ida-Virumaa"}
   {:name "Nissi põhikool ",
    :longitude 24.403630924983133,
    :latitude 58.60754732119179,
@@ -889,19 +889,19 @@
    :latitude 58.27207412308883,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17002",
-   :locality "Nõo"}
+   :location "Nõo"}
   {:name "Nõo Lasterada 6 korvi",
    :longitude 26.53747445013755,
    :latitude 58.27981209583652,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21411",
-   :locality "Nõo"}
+   :location "Nõo"}
   {:name "Nõva Discgolfipark",
    :longitude 23.67486238319762,
    :latitude 59.23127584648202,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19161",
-   :locality "Lääne-Nigula vald"}
+   :location "Lääne-Nigula vald"}
   {:name "Olustvere Discgolfipark",
    :longitude 25.566632,
    :latitude 58.5555502,
@@ -912,91 +912,91 @@
    :latitude 58.049386219673806,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1356",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Pagari discgolfipark",
    :longitude 27.381221706057516,
    :latitude 59.26000326508998,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19305",
-   :locality "Alutaguse vald"}
+   :location "Alutaguse vald"}
   {:name "Paide Ülejõe",
    :longitude 25.57769721800227,
    :latitude 58.878149308062035,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17038",
-   :locality "Paide"}
+   :location "Paide"}
   {:name "Paikuse",
    :longitude 24.6058988571167,
    :latitude 58.361005489783395,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17039",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Pala discgolfi rada",
    :longitude 27.016743547435482,
    :latitude 58.67174327462965,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16306",
-   :locality "Peipsiääre vald"}
+   :location "Peipsiääre vald"}
   {:name "Palade 18",
    :longitude 22.845863373534968,
    :latitude 58.96275909817368,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18470",
-   :locality "Hiiumaa vald"}
+   :location "Hiiumaa vald"}
   {:name "Paldiski Discgolfipark",
    :longitude 24.04912213253752,
    :latitude 59.35608888578406,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14563",
-   :locality "Lääne-Harju vald"}
+   :location "Lääne-Harju vald"}
   {:name "Palivere",
    :longitude 23.902819,
    :latitude 58.968246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1346",
-   :locality "Lääne-Nigula vald"}
+   :location "Lääne-Nigula vald"}
   {:name "Paluküla",
    :longitude 25.02239227294922,
    :latitude 58.89462602060233,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17007",
-   :locality "Kehtna"}
+   :location "Kehtna"}
   {:name "Paluküla Discgolfipark",
    :longitude 25.03102474771424,
    :latitude 58.91185036588371,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25735",
-   :locality "Kehtna"}
+   :location "Kehtna"}
   {:name "Paradiis Discgolfpark",
    :longitude 25.68273226464092,
    :latitude 58.275300691202546,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39365",
-   :locality "Viljandi"}
+   :location "Viljandi"}
   {:name "Paunküla Heaolukeskuse discpark",
    :longitude 25.382185756236595,
    :latitude 59.11402443938232,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17006",
-   :locality "Harju Maakond"}
+   :location "Harju Maakond"}
   {:name "Pihla Talu DiscGolfi Park",
    :longitude 22.21333622932434,
    :latitude 58.906357847061706,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7245",
-   :locality "Hiiumaa vald"}
+   :location "Hiiumaa vald"}
   {:name "Piiri",
    :longitude 26.3463193,
    :latitude 57.9974395,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17061",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Pikasilla Discgolf",
    :longitude 26.049716,
    :latitude 58.091973,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11830",
-   :locality "Tõrva"}
+   :location "Tõrva"}
   {:name "Pilistvere",
    :longitude 25.745622631081062,
    :latitude 58.66213224398098,
@@ -1007,79 +1007,79 @@
    :latitude 59.11169022781682,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1355",
-   :locality "Rapla"}
+   :location "Rapla"}
   {:name "Pisisaare discgolfpark 10 korvi 2023",
    :longitude 25.95987891891437,
    :latitude 58.722036409133324,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34653",
-   :locality "Põltsamaa"}
+   :location "Põltsamaa"}
   {:name "Piusa 14 korvi (beta)",
    :longitude 27.375052930277604,
    :latitude 57.77340733612496,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19121",
-   :locality "Setomaa vald"}
+   :location "Setomaa vald"}
   {:name "Piusa Ürgoru Discgolf Park",
    :longitude 27.3749,
    :latitude 57.773641,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6592",
-   :locality "Setomaa vald"}
+   :location "Setomaa vald"}
   {:name "Priidumäe",
    :longitude 26.762148686965674,
    :latitude 58.13678931495559,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10409",
-   :locality "Kanepi"}
+   :location "Kanepi"}
   {:name "Puhja kool",
    :longitude 26.310201263461522,
    :latitude 58.33660466112795,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40506",
-   :locality "puhja"}
+   :location "puhja"}
   {:name "Pärnjõe",
    :longitude 24.924465889759716,
    :latitude 58.629181929318804,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44779",
-   :locality "Pärnumaa"}
+   :location "Pärnumaa"}
   {:name "Pärnu jõekääru",
    :longitude 24.55548405647278,
    :latitude 58.376493097354036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1357",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Pärnu Raeküla discgolfipark",
    :longitude 24.587581593759353,
    :latitude 58.35936496699128,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36843",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Pärnu-Jaagupi",
    :longitude 24.500065885432093,
    :latitude 58.612939801431025,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15099",
-   :locality "Põhja-Pärnumaa vald"}
+   :location "Põhja-Pärnumaa vald"}
   {:name "Põltsamaa",
    :longitude 25.961122512817383,
    :latitude 58.64777734195693,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17041",
-   :locality "Põltsamaa"}
+   :location "Põltsamaa"}
   {:name "Põltsamaa Kuningamäe 18 korvi 2021 (OB-deta)",
    :longitude 25.96052449546076,
    :latitude 58.64739839196616,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25531",
-   :locality "Põltsamaa"}
+   :location "Põltsamaa"}
   {:name "Pöide",
    :longitude 23.051381707191467,
    :latitude 58.512297887475896,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4423",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Pöide Discgolfipark",
    :longitude 23.0582329,
    :latitude 58.5071688,
@@ -1089,55 +1089,55 @@
    :latitude 58.30287869627114,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24026",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Pühalepa",
    :longitude 22.8054013915405,
    :latitude 58.98802588928357,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1366",
-   :locality "Hiiumaa vald"}
+   :location "Hiiumaa vald"}
   {:name "Raadi",
    :longitude 26.743474907046277,
    :latitude 58.396787330618594,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17042",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Rakke",
    :longitude 26.255178451538086,
    :latitude 58.98047483548947,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17043",
-   :locality "Väike-maarja"}
+   :location "Väike-maarja"}
   {:name "Rakvere",
    :longitude 26.377569936981672,
    :latitude 59.33665251433675,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17044",
-   :locality "Rakvere"}
+   :location "Rakvere"}
   {:name "Rakvere Discgolfi park",
    :longitude 26.38250859913242,
    :latitude 59.33705828538291,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36225",
-   :locality "Rakvere"}
+   :location "Rakvere"}
   {:name "Rannu",
    :longitude 26.219099555464254,
    :latitude 58.23952859741664,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17050",
-   :locality "Elva"}
+   :location "Elva"}
   {:name "Rapla",
    :longitude 24.814510345458984,
    :latitude 58.99662094629913,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8940",
-   :locality "Rapla"}
+   :location "Rapla"}
   {:name "Reiu 18-korvi",
    :longitude 24.60544210250046,
    :latitude 58.3603565196903,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18931",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Respo Discgolfipark",
    :longitude 26.7012792,
    :latitude 58.3287701,
@@ -1148,13 +1148,13 @@
    :latitude 59.36536571178317,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19769",
-   :locality "Rakvere vald"}
+   :location "Rakvere vald"}
   {:name "Roosta",
    :longitude 23.517436981201172,
    :latitude 59.156296557215164,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17048",
-   :locality "Lääne-Nigula vald"}
+   :location "Lääne-Nigula vald"}
   {:name "Ropka",
    :longitude 26.734192697171693,
    :latitude 58.35660788987181,
@@ -1165,43 +1165,43 @@
    :latitude 59.228812344428434,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30070",
-   :locality "Lääne-Harju vald"}
+   :location "Lääne-Harju vald"}
   {:name "Räpina Discgolfipark",
    :longitude 27.465149,
    :latitude 58.092685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7746",
-   :locality "Räpina"}
+   :location "Räpina"}
   {:name "Rääma",
    :longitude 24.51052658046649,
    :latitude 58.39378547238209,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43811",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Rõngu discgolfipark",
    :longitude 26.246273443247162,
    :latitude 58.14905962975408,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38097",
-   :locality "Elva"}
+   :location "Elva"}
   {:name "Saarepeedi",
    :longitude 25.685407682293288,
    :latitude 58.42526856241423,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14006",
-   :locality "Viljandi vald"}
+   :location "Viljandi vald"}
   {:name "Saarepeedi LED 2x8 korvi",
    :longitude 25.685834089916767,
    :latitude 58.425401040793275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41288",
-   :locality "Viljandi vald"}
+   :location "Viljandi vald"}
   {:name "Saku",
    :longitude 24.666420221328735,
    :latitude 59.296396427716694,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1402",
-   :locality "Saku"}
+   :location "Saku"}
   {:name "Salme",
    :longitude 22.251373456555257,
    :latitude 58.16494617696529,
@@ -1212,97 +1212,97 @@
    :latitude 59.31645221803015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5017",
-   :locality "Saue"}
+   :location "Saue"}
   {:name "Sauga",
    :longitude 24.49204647377485,
    :latitude 58.424493159819036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18548",
-   :locality "Tori"}
+   :location "Tori"}
   {:name "Saxby DG",
    :longitude 23.1470636867557,
    :latitude 59.02432614517872,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28028",
-   :locality "Vormsi"}
+   :location "Vormsi"}
   {:name "Seli",
    :longitude 24.823967814445496,
    :latitude 59.10242206540281,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17049",
-   :locality "Rapla"}
+   :location "Rapla"}
   {:name "Siimusti",
    :longitude 26.334642480163524,
    :latitude 58.72932060412418,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18493",
-   :locality "Jõgeva"}
+   :location "Jõgeva"}
   {:name "Simuna",
    :longitude 26.39868825953016,
    :latitude 59.045329755316715,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33783",
-   :locality "Väike-Maarja"}
+   :location "Väike-Maarja"}
   {:name "Sindi väike (korvid 5-10, 16-18)",
    :longitude 24.645036708707664,
    :latitude 58.40308485539066,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21614",
-   :locality "Sindi"}
+   :location "Sindi"}
   {:name "Siniküla Lambarada",
    :longitude 26.349587870911137,
    :latitude 58.51019082650481,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22918",
-   :locality "Tartu vald"}
+   :location "Tartu vald"}
   {:name "Sokka Puhkekeskus",
    :longitude 26.501006188374078,
    :latitude 57.98092074853474,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/489",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Sportland Elva discgolfipark",
    :longitude 26.443076436761743,
    :latitude 58.227562680032975,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17364",
-   :locality "Elva"}
+   :location "Elva"}
   {:name "Suure-Jaani",
    :longitude 25.470962380390205,
    :latitude 58.53459014193385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17051",
-   :locality "Põhja-Sakala vald"}
+   :location "Põhja-Sakala vald"}
   {:name "Sõmeru",
    :longitude 26.416980028152466,
    :latitude 59.359787515596686,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8085",
-   :locality "Rakvere vald"}
+   :location "Rakvere vald"}
   {:name "Tabivere",
    :longitude 26.606367,
    :latitude 58.548203,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17052",
-   :locality "Tartu vald"}
+   :location "Tartu vald"}
   {:name "Tallinna Lauluväljaku Discgolf park",
    :longitude 24.806584620458153,
    :latitude 59.44521937442005,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17423",
-   :locality "Tallinn"}
+   :location "Tallinn"}
   {:name "Tamsalu",
    :longitude 26.10484747197222,
    :latitude 59.16905496623687,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17046",
-   :locality "Tapa"}
+   :location "Tapa"}
   {:name "Tapa",
    :longitude 25.945503747831964,
    :latitude 59.23602711985842,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17998",
-   :locality "Tapa"}
+   :location "Tapa"}
   {:name "Tapa Männikumäe discgolfi park",
    :longitude 25.938312,
    :latitude 59.2585417,
@@ -1314,91 +1314,91 @@
    :latitude 58.39047003735709,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23470",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Tartu LED-i mäng 2x10 Roosi DG park",
    :longitude 26.746742561854802,
    :latitude 58.39317478895356,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25991",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Tartu Roosi DG",
    :longitude 26.746547900659152,
    :latitude 58.39305564882159,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17433",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Tartu Tähtvere Dendropark",
    :longitude 26.700167655944824,
    :latitude 58.390196984115285,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1352",
-   :locality "Tartu"}
+   :location "Tartu"}
   {:name "Tehvandi",
    :longitude 26.498823431742238,
    :latitude 58.058280542155586,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/2835",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Terminal Energia Annikoru DG Park, Innova Europe",
    :longitude 26.307634,
    :latitude 58.266211,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1350",
-   :locality "Annikoru"}
+   :location "Annikoru"}
   {:name "Toosikannu Discgolfi Park",
    :longitude 25.06895204261798,
    :latitude 58.80729059089336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43153",
-   :locality "Türi vald"}
+   :location "Türi vald"}
   {:name "Tuhalaane",
    :longitude 25.65579669959402,
    :latitude 58.175795967407765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23794",
-   :locality "Mulgi vald"}
+   :location "Mulgi vald"}
   {:name "Tuhalaane 11 rada -2022",
    :longitude 25.655751836140297,
    :latitude 58.17581932264363,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28200",
-   :locality "Mulgi vald"}
+   :location "Mulgi vald"}
   {:name "Tuhalaane 2025  (14 korvi)",
    :longitude 25.655976203841078,
    :latitude 58.175790137729365,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44241",
-   :locality "Mulgi vald"}
+   :location "Mulgi vald"}
   {:name "Turba DiscgolfiPark 12x2 korvi",
    :longitude 24.244574343205073,
    :latitude 59.08171599598427,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23295",
-   :locality "Saue Vald"}
+   :location "Saue Vald"}
   {:name "Turba Disscgolfipark",
    :longitude 24.244722119711895,
    :latitude 59.08166795437279,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22860",
-   :locality "Saue"}
+   :location "Saue"}
   {:name "Tõrva",
    :longitude 25.926803648471832,
    :latitude 58.006516148693194,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7015",
-   :locality "Tõrva"}
+   :location "Tõrva"}
   {:name "Tõstamaa",
    :longitude 23.996067,
    :latitude 58.34391,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17047",
-   :locality "Pärnu"}
+   :location "Pärnu"}
   {:name "Türi",
    :longitude 25.453962298931145,
    :latitude 58.80309419465496,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14449",
-   :locality "Türi"}
+   :location "Türi"}
   {:name "Türi 2x12",
    :longitude 25.457543342335725,
    :latitude 58.80363516657221,
@@ -1409,49 +1409,49 @@
    :latitude 57.89110722757911,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25427",
-   :locality "Uhtjärve"}
+   :location "Uhtjärve"}
   {:name "Uhtna",
    :longitude 26.56743716472505,
    :latitude 59.39461797258221,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11060",
-   :locality "Rakvere vald"}
+   :location "Rakvere vald"}
   {:name "Umbsaare Discgolfi park",
    :longitude 27.08496583418787,
    :latitude 57.817459928609765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29776",
-   :locality "Võru vald"}
+   :location "Võru vald"}
   {:name "Uueõue",
    :longitude 23.421954851171222,
    :latitude 58.63168834732153,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34916",
-   :locality "Muhu"}
+   :location "Muhu"}
   {:name "Valdek Park",
    :longitude 24.405759177142272,
    :latitude 59.318533592368226,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44234",
-   :locality "harjumaa/Keila"}
+   :location "harjumaa/Keila"}
   {:name "Valga",
    :longitude 26.0512901537231,
    :latitude 57.78003685669108,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17009",
-   :locality "Valga"}
+   :location "Valga"}
   {:name "Valgehobusemäe",
    :longitude 25.563162518411815,
    :latitude 59.221132575123875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11749",
-   :locality "Järva vald"}
+   :location "Järva vald"}
   {:name "Valgeranna discgolfi park",
    :longitude 24.372605,
    :latitude 58.389125,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5568",
-   :locality "Valgerand"}
+   :location "Valgerand"}
   {:name "Valgevilla 2024 raund 3",
    :longitude 24.40471537442457,
    :latitude 58.3939824587174,
@@ -1462,19 +1462,19 @@
    :latitude 58.060651790484286,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16999",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Valgu mõisapark",
    :longitude 24.587353008473542,
    :latitude 58.817218339746134,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13122",
-   :locality "Märjamaa"}
+   :location "Märjamaa"}
   {:name "Valjala Discgolfi Park",
    :longitude 22.795472145080566,
    :latitude 58.40029502469569,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8668",
-   :locality "Saaremaa vald"}
+   :location "Saaremaa vald"}
   {:name "Valjala discgolfipark",
    :longitude 22.7987857,
    :latitude 58.4032985,
@@ -1484,13 +1484,13 @@
    :latitude 58.962293805712164,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/1347",
-   :locality "Kehtna"}
+   :location "Kehtna"}
   {:name "Vasalemma",
    :longitude 24.277961131327373,
    :latitude 59.23338122021863,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22934",
-   :locality "Lääne-Harju vald"}
+   :location "Lääne-Harju vald"}
   {:name "Vasalemma disc golf",
    :longitude 24.2747633,
    :latitude 59.2360563,
@@ -1500,25 +1500,25 @@
    :latitude 57.73352388894787,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46620",
-   :locality "Vastseliina "}
+   :location "Vastseliina "}
   {:name "Vidrike",
    :longitude 26.5224083333333,
    :latitude 57.9807916666667,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/488",
-   :locality "Otepää"}
+   :location "Otepää"}
   {:name "Viimsi Disc Golf Park ( Talvine Layout )",
    :longitude 24.886862884417354,
    :latitude 59.523027649534015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36584",
-   :locality "Viimsi"}
+   :location "Viimsi"}
   {:name "Viisu",
    :longitude 25.662295788893516,
    :latitude 58.94720634465162,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19208",
-   :locality "Paide"}
+   :location "Paide"}
   {:name "Viljandi Rotary Discgolfipark",
    :longitude 25.5896955,
    :latitude 58.3532656,
@@ -1529,31 +1529,31 @@
    :latitude 58.36386805358944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23249",
-   :locality "Viljandi"}
+   :location "Viljandi"}
   {:name "Viluste",
    :longitude 27.330777185372455,
    :latitude 57.99324688688685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13284",
-   :locality "Räpina"}
+   :location "Räpina"}
   {:name "Viluste 2020",
    :longitude 27.33042863412743,
    :latitude 57.994042351235805,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19090",
-   :locality "Räpina"}
+   :location "Räpina"}
   {:name "Vinni-Pajusti 18 korvi",
    :longitude 26.422974427073143,
    :latitude 59.28743404844036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24976",
-   :locality "Vinni"}
+   :location "Vinni"}
   {:name "Vinni-Pajusti discgolfi park",
    :longitude 26.422741413116455,
    :latitude 59.287444016058686,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8082",
-   :locality "Vinni"}
+   :location "Vinni"}
   {:name "Viru-Jaagupi discgolfipark",
    :longitude 26.4737225,
    :latitude 59.2431131,
@@ -1565,115 +1565,115 @@
    :latitude 58.97856452521302,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31198",
-   :locality "Hiiumaa vald"}
+   :location "Hiiumaa vald"}
   {:name "Voka",
    :longitude 27.586947564167588,
    :latitude 59.4069287794581,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16998",
-   :locality "Toila"}
+   :location "Toila"}
   {:name "Vooremäe",
    :longitude 26.89076542854309,
    :latitude 58.28482756528481,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16997",
-   :locality "Kastre vald"}
+   :location "Kastre vald"}
   {:name "Vormsi",
    :longitude 23.248632448131616,
    :latitude 58.99388302091094,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29250",
-   :locality "Vormsi"}
+   :location "Vormsi"}
   {:name "Vändra",
    :longitude 25.02984045618831,
    :latitude 58.653056251320436,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16995",
-   :locality "Põhja-Pärnumaa vald"}
+   :location "Põhja-Pärnumaa vald"}
   {:name "Värska DG park 15 korvi",
    :longitude 27.63405085553245,
    :latitude 57.95405663934977,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29212",
-   :locality "Setomaa vald"}
+   :location "Setomaa vald"}
   {:name "Värska Sanatoorium",
    :longitude 27.6220965385437,
    :latitude 57.98522891612783,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/432",
-   :locality "Setomaa vald"}
+   :location "Setomaa vald"}
   {:name "Vääna-jõesuu",
    :longitude 24.37092,
    :latitude 59.432619,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10652",
-   :locality "Harku"}
+   :location "Harku"}
   {:name "Väätsa",
    :longitude 25.449501688026658,
    :latitude 58.888444584707514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16994",
-   :locality "Türi"}
+   :location "Türi"}
   {:name "Võnnu",
    :longitude 27.050515700184576,
    :latitude 58.284434527782395,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9188",
-   :locality "Kastre vald"}
+   :location "Kastre vald"}
   {:name "Võnnu",
    :longitude 27.036760706786623,
    :latitude 58.179233755204166,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19183",
-   :locality "Põlva"}
+   :location "Põlva"}
   {:name "Võru Koreli Oja",
    :longitude 27.002055644989014,
    :latitude 57.8507003731121,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/857",
-   :locality "Võru"}
+   :location "Võru"}
   {:name "Võru Kubija",
    :longitude 26.994939,
    :latitude 57.811145,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5739",
-   :locality "Võru vald"}
+   :location "Võru vald"}
   {:name "Võru Kubija 2022",
    :longitude 26.994142437971192,
    :latitude 57.811118125301704,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28362",
-   :locality "Võru vald"}
+   :location "Võru vald"}
   {:name "Võru, Laane 2x9",
    :longitude 27.009524256990744,
    :latitude 57.825036703486745,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31551",
-   :locality "Võru"}
+   :location "Võru"}
   {:name "Võru, Laane Discolfi Park",
    :longitude 27.008000533368914,
    :latitude 57.82464708044509,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31537",
-   :locality "Võru"}
+   :location "Võru"}
   {:name "Wittenstein 2024",
    :longitude 25.57293014222725,
    :latitude 58.88951161562301,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39263",
-   :locality "Paide"}
+   :location "Paide"}
   {:name "Ääsmäe",
    :longitude 24.497,
    :latitude 59.243,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16992",
-   :locality "Saue"}
+   :location "Saue"}
   {:name "Õru",
    :longitude 26.179475784301758,
    :latitude 57.92713256487808,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16991",
-   :locality "Valga"}],
+   :location "Valga"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

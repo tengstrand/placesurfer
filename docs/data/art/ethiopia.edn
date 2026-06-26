@@ -27,7 +27,7 @@
    :longitude 38.7639581,
    :latitude 9.0329806,
    :source :openstreetmap,
-   :locality "Addis Ababa",
+   :location "Addis Ababa",
    :image "",
    :description ""}
   {:name "Art Exhibition",
@@ -203,7 +203,7 @@
    :longitude 42.3965669,
    :latitude 9.3564466,
    :source :openstreetmap,
-   :locality "funyanbira",
+   :location "funyanbira",
    :image "",
    :description ""}
   {:name "St. George's Cathedral Museum",
@@ -222,14 +222,14 @@
    :longitude 36.5468868,
    :latitude 9.0906951,
    :source :openstreetmap,
-   :locality "nekemt",
+   :location "nekemt",
    :image "",
    :description ""}
   {:name "WUBE Art Store",
    :longitude 38.767547,
    :latitude 9.0048386,
    :source :openstreetmap,
-   :locality "Addis Ababa",
+   :location "Addis Ababa",
    :image "",
    :description ""}
   {:name "Wukro Museum",
@@ -255,7 +255,7 @@
    :latitude 9.010194,
    :source :openstreetmap,
    :homepage "https://www.rtmmm.org/",
-   :locality "አዲስ አበባ;Addis Ababa",
+   :location "አዲስ አበባ;Addis Ababa",
    :image "",
    :description ""}],
  :source

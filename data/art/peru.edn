@@ -9,7 +9,7 @@
    :latitude -12.15291,
    :source :openstreetmap,
    :homepage "https://proyectoamil.org/",
-   :locality "Barranco",
+   :location "Barranco",
    :image "",
    :description ""}
   {:name "Alliance Française",
@@ -18,7 +18,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.limacultura.pe/patrimonio/museo-metropolitano-de-lima/exposiciones-temporales/galeria-ignacio-merino.html",
-   :locality "Lima",
+   :location "Lima",
    :image "",
    :description ""}
   {:name "Amano Museo textil precolombino",
@@ -26,7 +26,7 @@
    :latitude -12.1140615,
    :source :openstreetmap,
    :homepage "https://www.museoamano.org",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Amazon World Travel Service & Tour Operator",
@@ -39,14 +39,14 @@
    :longitude -76.5106916,
    :latitude -12.0800108,
    :source :openstreetmap,
-   :locality "Antioquía",
+   :location "Antioquía",
    :image "",
    :description ""}
   {:name "Anfiteatro Diospi Suyana",
    :longitude -72.7076381,
    :latitude -13.5439487,
    :source :openstreetmap,
-   :locality "Anexo Ccocharay",
+   :location "Anexo Ccocharay",
    :image "",
    :description ""}
   {:name "Arariwa, Galeria de Arte",
@@ -66,7 +66,7 @@
    :latitude -16.3911869,
    :source :openstreetmap,
    :homepage "https://www.artescenicaqp.org/",
-   :locality "Yanahuara",
+   :location "Yanahuara",
    :image "",
    :description ""}
   {:name "Asociación de Artesanos Shosaku Nagase",
@@ -99,7 +99,7 @@
    :latitude -16.4335195,
    :source :openstreetmap,
    :homepage "https://cerrojuli.com.pe/",
-   :locality "Jacobo Hunter",
+   :location "Jacobo Hunter",
    :image "",
    :description ""}
   {:name "Caral Museum",
@@ -130,7 +130,7 @@
    :longitude -76.2295982,
    :latitude -12.1610133,
    :source :openstreetmap,
-   :locality "Sangallaya",
+   :location "Sangallaya",
    :image "",
    :description ""}
   {:name "Casa de la Gastronomía Peruana",
@@ -138,7 +138,7 @@
    :latitude -12.0447247,
    :source :openstreetmap,
    :homepage "http://www.conventosantodomingolima.org",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Casa de Zela",
@@ -158,7 +158,7 @@
    :latitude -12.0487561,
    :source :openstreetmap,
    :homepage "http://centroculturalbellasartes.pe/",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Casa Museo Antonio Raimondi",
@@ -178,7 +178,7 @@
    :latitude -12.0901561,
    :source :openstreetmap,
    :homepage "http://casamuseodelterror.blogspot.pe/",
-   :locality "San Miguel",
+   :location "San Miguel",
    :image "",
    :description ""}
   {:name "Casa Museo Joaquín López Antay",
@@ -193,7 +193,7 @@
    :source :openstreetmap,
    :homepage
    "http://museos.cultura.pe/museos/casa-museo-jos%C3%A9-carlos-mari%C3%A1tegui",
-   :locality "Lima",
+   :location "Lima",
    :image "",
    :description ""}
   {:name "Casa Museo José Villalobos Ampuero",
@@ -201,7 +201,7 @@
    :latitude -16.4011847,
    :source :openstreetmap,
    :homepage "http://www.casamuseovillalobos.com/",
-   :locality "Arequipa",
+   :location "Arequipa",
    :image "",
    :description ""}
   {:name "Casa Museo Quinones",
@@ -215,7 +215,7 @@
    :latitude -12.1184154,
    :source :openstreetmap,
    :homepage "http://www.casa-de-tradicion.blogspot.com",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Casa Museo Schlaefli",
@@ -228,7 +228,7 @@
    :longitude -70.2569632,
    :latitude -18.0067688,
    :source :openstreetmap,
-   :locality "Tacna",
+   :location "Tacna",
    :image "",
    :description ""}
   {:name "Catedral De Santo Tomas",
@@ -259,21 +259,21 @@
    :longitude -70.2445041,
    :latitude -17.9938396,
    :source :openstreetmap,
-   :locality "Alto de la Alianza",
+   :location "Alto de la Alianza",
    :image "",
    :description ""}
   {:name "Centro Cultural \"Bocanegra\"",
    :longitude -77.1033776,
    :latitude -12.0237131,
    :source :openstreetmap,
-   :locality "Callao",
+   :location "Callao",
    :image "",
    :description ""}
   {:name "Centro Cultural Condesuyos",
    :longitude -71.5601526,
    :latitude -16.3281869,
    :source :openstreetmap,
-   :locality "Dean Valdivia",
+   :location "Dean Valdivia",
    :image "",
    :description ""}
   {:name "Centro Cultural Crea Huáscar",
@@ -287,7 +287,7 @@
    :latitude -12.0705485,
    :source :openstreetmap,
    :homepage "https://ccelima.org/",
-   :locality "Santa Beatriz",
+   :location "Santa Beatriz",
    :image "",
    :description ""}
   {:name "Centro Cultural de Pucallpa",
@@ -301,14 +301,14 @@
    :latitude -12.1015418,
    :source :openstreetmap,
    :homepage "http://msi.gob.pe/portal/cultura/oficina-de-cultura/",
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name "Centro Cultural Flor de Amancaes",
    :longitude -76.922175,
    :latitude -12.1871541,
    :source :openstreetmap,
-   :locality "Villa María del Triunfo",
+   :location "Villa María del Triunfo",
    :image "",
    :description ""}
   {:name "Centro Cultural Juvenil",
@@ -329,7 +329,7 @@
    :latitude -12.0876218,
    :source :openstreetmap,
    :homepage "https://www.britanico.edu.pe/centrocultural/",
-   :locality "San Borja",
+   :location "San Borja",
    :image "",
    :description ""}
   {:name "Centro Cultural PUCP",
@@ -337,7 +337,7 @@
    :latitude -12.1054431,
    :source :openstreetmap,
    :homepage "https://www.centroculturalpucp.com/",
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name "Centro Cultural Ricardo Palma",
@@ -346,7 +346,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.miraflores.gob.pe/_contenTempl1.asp?idpadre=4960&idhijo=5241&idcontenido=5242",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Centro cultural San Juan Pablo II",
@@ -360,7 +360,7 @@
    :latitude -12.162339,
    :source :openstreetmap,
    :homepage "http://recepcionessantamaria.blogspot.pe/",
-   :locality "Santiago de Surco",
+   :location "Santiago de Surco",
    :image "",
    :description ""}
   {:name "Centro Cultural Servulo Gutierrez",
@@ -369,7 +369,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.enlima.pe/lugares/centro-cultural-s-rvulo-guti-rrez",
-   :locality "Jesús María",
+   :location "Jesús María",
    :image "",
    :description ""}
   {:name "Centro Cultural UCH",
@@ -384,7 +384,7 @@
    :latitude -12.0720032,
    :source :openstreetmap,
    :homepage "http://www.unife.edu.pe/centro-cultural/auditorio.html",
-   :locality "La Molina",
+   :location "La Molina",
    :image "",
    :description ""}
   {:name "Centro Cultural Vidawasi",
@@ -397,7 +397,7 @@
    :longitude -80.6879609,
    :latitude -4.8896122,
    :source :openstreetmap,
-   :locality "Sullana",
+   :location "Sullana",
    :image "",
    :description ""}
   {:name "Centro de Interpretacion",
@@ -424,7 +424,7 @@
    :source :openstreetmap,
    :homepage
    "https://turismo.municieneguilla.gob.pe/descubrir-cieneguilla/que-ver/patrimonio-cultural/patrimonio-inmaterial/arte/centro-de-interpretacion-cultural/",
-   :locality "Cieneguilla",
+   :location "Cieneguilla",
    :image "",
    :description ""}
   {:name "Centro de interpretación Fortaleza de Kuelap",
@@ -437,7 +437,7 @@
    :longitude -76.6696914,
    :latitude -12.0254466,
    :source :openstreetmap,
-   :locality "San José de Nieve Nieve.",
+   :location "San José de Nieve Nieve.",
    :image "",
    :description ""}
   {:name "Centro de la Imagen",
@@ -445,7 +445,7 @@
    :latitude -12.1282081,
    :source :openstreetmap,
    :homepage "https://www.centrodelaimagen.edu.pe/",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Centro Español del Perú",
@@ -453,7 +453,7 @@
    :latitude -12.083177,
    :source :openstreetmap,
    :homepage "http://www.centroespanolperu.com",
-   :locality "Jesús María",
+   :location "Jesús María",
    :image "",
    :description ""}
   {:name "Centro Representativo Quipan",
@@ -466,7 +466,7 @@
    :longitude -74.5751503,
    :latitude -8.3545909,
    :source :openstreetmap,
-   :locality "Puerto Callao",
+   :location "Puerto Callao",
    :image "",
    :description ""}
   {:name "CIAM Aurora",
@@ -491,14 +491,14 @@
    :longitude -71.5416698,
    :latitude -16.3941952,
    :source :openstreetmap,
-   :locality "Yanahuara",
+   :location "Yanahuara",
    :image "",
    :description ""}
   {:name "CREA Lima",
    :longitude -77.0301997,
    :latitude -12.0152123,
    :source :openstreetmap,
-   :locality "Rímac",
+   :location "Rímac",
    :image "",
    :description ""}
   {:name "CREALIMA",
@@ -512,7 +512,7 @@
    :latitude -12.1436943,
    :source :openstreetmap,
    :homepage "https://www.dedalo.pe",
-   :locality "Barranco",
+   :location "Barranco",
    :image "",
    :description ""}
   {:name "Distrito de Orellana loreto plaza",
@@ -545,7 +545,7 @@
    :latitude -12.137355,
    :source :openstreetmap,
    :homepage "https://www.maclima.pe/",
-   :locality "Barranco",
+   :location "Barranco",
    :image "",
    :description ""}
   {:name "Espacio Fundación Telefónica",
@@ -553,7 +553,7 @@
    :latitude -12.0761075,
    :source :openstreetmap,
    :homepage "https://espacio.fundaciontelefonica.com.pe/",
-   :locality "Santa Beatriz",
+   :location "Santa Beatriz",
    :image "",
    :description ""}
   {:name "GALERIA",
@@ -597,7 +597,7 @@
    :latitude -12.1290941,
    :source :openstreetmap,
    :homepage "https://gallerymoll.tripod.com/galeria.htm",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Galería El Cristal",
@@ -629,7 +629,7 @@
    :latitude -12.0227804,
    :source :openstreetmap,
    :homepage "https://www.ilariainternational.com/",
-   :locality "Callao",
+   :location "Callao",
    :image "",
    :description ""}
   {:name "Inca Wasi Casa Museo",
@@ -657,7 +657,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.britanico.edu.pe/centrocultural/galeria/galeria-john-harriman",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Kotosh Preinca Culture",
@@ -683,7 +683,7 @@
    :latitude -16.4642657,
    :source :openstreetmap,
    :homepage "https://www.lamansiondelfundador.com/es/historia.php",
-   :locality "Jacobo Hunter",
+   :location "Jacobo Hunter",
    :image "",
    :description ""}
   {:name "La Valija",
@@ -745,7 +745,7 @@
    :longitude -77.0852994,
    :latitude -12.0725768,
    :source :openstreetmap,
-   :locality "San Miguel",
+   :location "San Miguel",
    :image "",
    :description ""}
   {:name "Museo",
@@ -759,14 +759,14 @@
    :latitude -12.1539647,
    :source :openstreetmap,
    :homepage "http://www.musarperu.org",
-   :locality "Santiago de Surco",
+   :location "Santiago de Surco",
    :image "",
    :description ""}
   {:name "Museo Afroperuano",
    :longitude -79.5847854,
    :latitude -6.9225716,
    :source :openstreetmap,
-   :locality "Zaña",
+   :location "Zaña",
    :image "",
    :description ""}
   {:name "Museo Amazónico Andino",
@@ -834,7 +834,7 @@
    :longitude -77.7805108,
    :latitude -10.695405,
    :source :openstreetmap,
-   :locality "Pativilca",
+   :location "Pativilca",
    :image "",
    :description ""}
   {:name "Museo Carlos Dreyer",
@@ -854,7 +854,7 @@
    :latitude -12.0422027,
    :source :openstreetmap,
    :homepage "https://www.sblm.gob.pe/",
-   :locality "El Agustino",
+   :location "El Agustino",
    :image "",
    :description ""}
   {:name "Museo Chanka",
@@ -868,7 +868,7 @@
    :latitude -12.0073181,
    :source :openstreetmap,
    :homepage "https://plazanorte.pe/servicios/",
-   :locality "Independencia",
+   :location "Independencia",
    :image "",
    :description ""}
   {:name "Museo Chiquitayac",
@@ -887,7 +887,7 @@
    :longitude -77.1174234,
    :latitude -12.0592649,
    :source :openstreetmap,
-   :locality "Bellavista",
+   :location "Bellavista",
    :image "",
    :description ""}
   {:name "Museo Comunitario de Supe",
@@ -900,7 +900,7 @@
    :longitude -77.0023014,
    :latitude -12.0098646,
    :source :openstreetmap,
-   :locality "San Juan de Lurigancho",
+   :location "San Juan de Lurigancho",
    :image "",
    :description ""}
   {:name "Museo Contisuyo",
@@ -914,7 +914,7 @@
    :latitude -11.775178,
    :source :openstreetmap,
    :homepage "https://www.museodeancon.com/",
-   :locality "Lima",
+   :location "Lima",
    :image "",
    :description ""}
   {:name "Museo de Andahuaylas",
@@ -934,7 +934,7 @@
    :latitude -16.399542,
    :source :openstreetmap,
    :homepage "https://www.ucsm.edu.pe/museo-de-arqueologia/",
-   :locality "Arequipa",
+   :location "Arequipa",
    :image "",
    :description ""}
   {:name "Museo de Arqueología e Historia de Tangarará",
@@ -949,7 +949,7 @@
    :source :openstreetmap,
    :homepage
    "https://ira.pucp.edu.pe/museo-arqueologico-josefina-ramos-cox/",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Museo de Arte Contemporaneo Urm Max Lois",
@@ -962,14 +962,14 @@
    :longitude -71.5416391,
    :latitude -16.4090201,
    :source :openstreetmap,
-   :locality "Arequipa",
+   :location "Arequipa",
    :image "",
    :description ""}
   {:name "Museo de Arte Fernando Saldias Díaz",
    :longitude -77.0327382,
    :latitude -12.0877123,
    :source :openstreetmap,
-   :locality "Lince",
+   :location "Lince",
    :image "",
    :description ""}
   {:name "Museo de Arte Moderno Gerardo Chavez",
@@ -1030,7 +1030,7 @@
    :longitude -80.8244498,
    :latitude -5.5582865,
    :source :openstreetmap,
-   :locality "Sechura",
+   :location "Sechura",
    :image "",
    :description ""}
   {:name "Museo de Historia Natural Vera Alleman",
@@ -1038,7 +1038,7 @@
    :latitude -12.1324264,
    :source :openstreetmap,
    :homepage "https://www.urp.edu.pe/museo/",
-   :locality "Santiago de Surco",
+   :location "Santiago de Surco",
    :image "",
    :description ""}
   {:name "Museo de Historia Paracas",
@@ -1052,7 +1052,7 @@
    :latitude -12.0502034,
    :source :openstreetmap,
    :homepage "https://www.museopolicialdelperu.org/",
-   :locality "Barrios Altos",
+   :location "Barrios Altos",
    :image "",
    :description ""}
   {:name "Museo de la Catedral de Arequipa",
@@ -1060,7 +1060,7 @@
    :latitude -16.3980643,
    :source :openstreetmap,
    :homepage "http://www.museocatedralarequipa.org.pe/",
-   :locality "Arequipa",
+   :location "Arequipa",
    :image "",
    :description ""}
   {:name "Museo de la Chicha Yola",
@@ -1088,14 +1088,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.marina.mil.pe/es/organos/comoperpac/aviacion-naval/",
-   :locality "Callao",
+   :location "Callao",
    :image "",
    :description ""}
   {:name "Museo de la Guerra del Pacífico",
    :longitude -77.0336908,
    :latitude -12.169056,
    :source :openstreetmap,
-   :locality "Chorrillos",
+   :location "Chorrillos",
    :image "",
    :description ""}
   {:name "Museo de la Identificación",
@@ -1103,7 +1103,7 @@
    :latitude -12.0562576,
    :source :openstreetmap,
    :homepage "https://www.reniec.gob.pe/portal/museo.htm",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Museo de la Inmigración Japonesa",
@@ -1111,7 +1111,7 @@
    :latitude -12.0876959,
    :source :openstreetmap,
    :homepage "https://www.apj.org.pe/departamentos/museo",
-   :locality "Jesús María",
+   :location "Jesús María",
    :image "",
    :description ""}
   {:name "Museo de la memoria \"para que no se repita\" ANFASEP",
@@ -1130,7 +1130,7 @@
    :longitude -77.0018813,
    :latitude -12.0867095,
    :source :openstreetmap,
-   :locality "San Borja",
+   :location "San Borja",
    :image "",
    :description ""}
   {:name "Museo de las Abejas",
@@ -1144,7 +1144,7 @@
    :latitude -6.7246684,
    :source :openstreetmap,
    :homepage "https://museoleymebamba.org/",
-   :locality "Leimebamba",
+   :location "Leimebamba",
    :image "",
    :description ""}
   {:name "Museo de los Colli",
@@ -1166,7 +1166,7 @@
    :latitude -12.1093443,
    :source :openstreetmap,
    :homepage "http://museodelosvecinos.com/",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Museo de Luren",
@@ -1191,7 +1191,7 @@
    :longitude -77.0159134,
    :latitude -12.0461117,
    :source :openstreetmap,
-   :locality "Barrios Altos",
+   :location "Barrios Altos",
    :image "",
    :description ""}
   {:name "Museo de Piedras Cusco Rumi Llaqta",
@@ -1249,7 +1249,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitalima.pe/index.php/museos/museo-de-sitio-andres-avelino-caceres",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Museo de Sitio Arturo Jiménez Borja",
@@ -1258,7 +1258,7 @@
    :source :openstreetmap,
    :homepage
    "http://museos.cultura.pe/museos/museo-de-sitio-arturo-jim%C3%A9nez-borja-puruchuco",
-   :locality "Puruchuco",
+   :location "Puruchuco",
    :image "",
    :description ""}
   {:name "Museo de Sitio Augusto Soriano Infante",
@@ -1271,7 +1271,7 @@
    :longitude -77.0106474,
    :latitude -12.0430037,
    :source :openstreetmap,
-   :locality "El Agustino",
+   :location "El Agustino",
    :image "",
    :description ""}
   {:name "Museo de sitio Chan Chan",
@@ -1298,7 +1298,7 @@
    :source :openstreetmap,
    :homepage
    "http://museos.cultura.pe/museos/museo-de-sitio-el-mirador-del-cerro-san-crist%C3%B3bal",
-   :locality "Lima",
+   :location "Lima",
    :image "",
    :description ""}
   {:name "Museo de Sitio Huaca Chotuna - Chornancap",
@@ -1312,7 +1312,7 @@
    :latitude -12.1110699,
    :source :openstreetmap,
    :homepage "https://cultural.icpna.edu.pe/",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Museo de sitio Huaca Rajada - Sipán",
@@ -1327,7 +1327,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.cultura.gob.pe/es/evento/museo-de-sitio-de-huallamarca",
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name "Museo de Sitio Narihualá",
@@ -1343,7 +1343,7 @@
    :latitude -12.0596248,
    :source :openstreetmap,
    :homepage "http://www.submarinoabtao.com",
-   :locality "Callao",
+   :location "Callao",
    :image "",
    :description ""}
   {:name "Museo de sitio Peañas",
@@ -1352,7 +1352,7 @@
    :source :openstreetmap,
    :homepage
    "http://museos.cultura.pe/museos/museo-de-sitio-las-pea%C3%B1as",
-   :locality "Pocollay",
+   :location "Pocollay",
    :image "",
    :description ""}
   {:name "Museo de Sitio Túcume",
@@ -1372,7 +1372,7 @@
    :latitude -12.2557125,
    :source :openstreetmap,
    :homepage "http://pachacamac.cultura.pe/museo-de-sitio/nuevo-museo",
-   :locality "Lurín",
+   :location "Lurín",
    :image "",
    :description ""}
   {:name "Museo del Antiguo Ferrocarril de Puerto Eten",
@@ -1386,7 +1386,7 @@
    :latitude -12.0865746,
    :source :openstreetmap,
    :homepage "https://www.museodelautomovilnicolini.com/",
-   :locality "La Molina",
+   :location "La Molina",
    :image "",
    :description ""}
   {:name "Museo del Convento de San Francisco",
@@ -1394,7 +1394,7 @@
    :latitude -13.5184251,
    :source :openstreetmap,
    :homepage "https://www.chocomuseo.com/en/peru/cusco/",
-   :locality "Cusco",
+   :location "Cusco",
    :image "",
    :description ""}
   {:name "Museo del desierto y el mar de Ite",
@@ -1448,7 +1448,7 @@
    :latitude -12.0527035,
    :source :openstreetmap,
    :homepage "https://museoelectoral.jne.gob.pe",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Museo Etnográfico",
@@ -1457,7 +1457,7 @@
    :source :openstreetmap,
    :homepage
    "https://iquitosperu.net/lugares-turisticos/museo-culturas-indigenas-amazonicas/",
-   :locality "Belén",
+   :location "Belén",
    :image "",
    :description ""}
   {:name
@@ -1466,21 +1466,21 @@
    :latitude -12.0431266,
    :source :openstreetmap,
    :homepage "https://selvasperu.org/",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Museo Etnohistórico Manuel Vegas Castillo - Suyo",
    :longitude -80.0023619,
    :latitude -4.5123261,
    :source :openstreetmap,
-   :locality "Suyo",
+   :location "Suyo",
    :image "",
    :description ""}
   {:name "Museo Etnohistórico Religioso Santa Ana",
    :longitude -77.8735696,
    :latitude -6.2261776,
    :source :openstreetmap,
-   :locality "Chachapoyas",
+   :location "Chachapoyas",
    :image "",
    :description ""}
   {:name "Museo Ferroviario Nacional de Tacna",
@@ -1508,7 +1508,7 @@
    :latitude -12.0507328,
    :source :openstreetmap,
    :homepage "http://www.editoraperu.com.pe",
-   :locality "Breña",
+   :location "Breña",
    :image "",
    :description ""}
   {:name "Museo Hermogenes Mejía Solf",
@@ -1552,7 +1552,7 @@
    :latitude -13.5156301,
    :source :openstreetmap,
    :homepage "http://museoinka.unsaac.edu.pe",
-   :locality "Cusco",
+   :location "Cusco",
    :image "",
    :description ""}
   {:name "Museo Inkariy",
@@ -1565,7 +1565,7 @@
    :longitude -80.1395709,
    :latitude -5.0629144,
    :source :openstreetmap,
-   :locality "Yapatera",
+   :location "Yapatera",
    :image "",
    :description ""}
   {:name "Museo Jalca Grande",
@@ -1591,7 +1591,7 @@
    :latitude -12.0727608,
    :source :openstreetmap,
    :homepage "https://www.museolarco.org/",
-   :locality "Pueblo Libre",
+   :location "Pueblo Libre",
    :image "",
    :description ""}
   {:name "Museo Litico Pukara",
@@ -1618,7 +1618,7 @@
    :longitude -75.1366574,
    :latitude -14.6817181,
    :source :openstreetmap,
-   :locality "San Miguel de la Pascana",
+   :location "San Miguel de la Pascana",
    :image "",
    :description ""}
   {:name "Museo Memoria Coronel Leoncio Prado",
@@ -1638,7 +1638,7 @@
    :latitude -16.3948081,
    :source :openstreetmap,
    :homepage "https://www.muniarequipa.gob.pe/museo/museo.html",
-   :locality "Arequipa",
+   :location "Arequipa",
    :image "",
    :description ""}
   {:name "Museo Municipal",
@@ -1652,21 +1652,21 @@
    :latitude -11.562955,
    :source :openstreetmap,
    :homepage "http://museomunicipaldechancay.blogspot.com/",
-   :locality "Chancay",
+   :location "Chancay",
    :image "",
    :description ""}
   {:name "Museo Municipal de Palpa",
    :longitude -75.1849191,
    :latitude -14.5339599,
    :source :openstreetmap,
-   :locality "Palpa",
+   :location "Palpa",
    :image "",
    :description ""}
   {:name "Museo Municipal de Parinacochas",
    :longitude -73.7809889,
    :latitude -15.0164971,
    :source :openstreetmap,
-   :locality "Coracora",
+   :location "Coracora",
    :image "",
    :description ""}
   {:name "Museo Municipal del Teatro",
@@ -1674,14 +1674,14 @@
    :latitude -12.0464236,
    :source :openstreetmap,
    :homepage "http://teatromunicipal.pe/museo-municipal-de-teatro/",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Museo Municipal Hernán Osorio Herrera",
    :longitude -77.81058,
    :latitude -9.0478249,
    :source :openstreetmap,
-   :locality "Caraz",
+   :location "Caraz",
    :image "",
    :description ""}
   {:name "Museo Municipal Vicús",
@@ -1703,7 +1703,7 @@
    :latitude -12.0773665,
    :source :openstreetmap,
    :homepage "http://mnaahp.cultura.pe",
-   :locality "Pueblo Libre",
+   :location "Pueblo Libre",
    :image "",
    :description ""}
   {:name "Museo Nacional de Chavín",
@@ -1716,7 +1716,7 @@
    :longitude -76.9110868,
    :latitude -12.2544682,
    :source :openstreetmap,
-   :locality "Lurín",
+   :location "Lurín",
    :image "",
    :description ""}
   {:name "Museo Nacional Sicán",
@@ -1730,7 +1730,7 @@
    :latitude -12.1085037,
    :source :openstreetmap,
    :homepage "https://www.museoroperu.com.pe/",
-   :locality "Monterrico",
+   :location "Monterrico",
    :image "",
    :description ""}
   {:name "museo paleontológico cerro colorado.",
@@ -1749,7 +1749,7 @@
    :longitude -76.9302889,
    :latitude -12.2159827,
    :source :openstreetmap,
-   :locality "Villa El Salvador",
+   :location "Villa El Salvador",
    :image "",
    :description ""}
   {:name "Museo Punkuri",
@@ -1763,14 +1763,14 @@
    :latitude -12.0738672,
    :source :openstreetmap,
    :homepage "http://www.museoraimondi.org.pe/es",
-   :locality "La Molina",
+   :location "La Molina",
    :image "",
    :description ""}
   {:name "Museo Regional Daniel Hernández Morillo",
    :longitude -74.9740419,
    :latitude -12.7878038,
    :source :openstreetmap,
-   :locality "Huancavelica",
+   :location "Huancavelica",
    :image "",
    :description ""}
   {:name "Museo Regional de Arqueología de Junín",
@@ -1796,7 +1796,7 @@
    :longitude -75.7339044,
    :latitude -14.0726048,
    :source :openstreetmap,
-   :locality "Ica",
+   :location "Ica",
    :image "",
    :description ""}
   {:name "Museo Regional de Ucayali",
@@ -1809,7 +1809,7 @@
    :longitude -76.2428994,
    :latitude -9.9336121,
    :source :openstreetmap,
-   :locality "Huánuco",
+   :location "Huánuco",
    :image "",
    :description ""}
   {:name "Museo Religioso de la I.V.P",
@@ -1838,7 +1838,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.deperu.com/cultural/museos/museo-tumbas-reales-de-sipan-1258",
-   :locality "Lambayeque",
+   :location "Lambayeque",
    :image "",
    :description ""}
   {:name "Museo Tunanmarca",
@@ -1858,7 +1858,7 @@
    :latitude -12.0474923,
    :source :openstreetmap,
    :homepage "http://www.unfv.edu.pe/site/noticias/1224-902",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Museo Uripa",
@@ -1873,7 +1873,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.juan23.edu.pe/comunidad/instalaciones_j23_3.php",
-   :locality "San Miguel",
+   :location "San Miguel",
    :image "",
    :description ""}
   {:name "Museo Vintage Años Dorados",
@@ -1886,7 +1886,7 @@
    :longitude -71.5414383,
    :latitude -16.3876719,
    :source :openstreetmap,
-   :locality "Yanahuara",
+   :location "Yanahuara",
    :image "",
    :description ""}
   {:name "Museo Viviente del Ande",
@@ -1906,7 +1906,7 @@
    :longitude -76.9651248,
    :latitude -12.1655085,
    :source :openstreetmap,
-   :locality "San Juan de Miraflores",
+   :location "San Juan de Miraflores",
    :image "",
    :description ""}
   {:name "Museo y Biblioteca Municipal",
@@ -1920,7 +1920,7 @@
    :latitude -12.0452971,
    :source :openstreetmap,
    :homepage "http://www.museocatacumbas.com",
-   :locality "Cercado de Lima",
+   :location "Cercado de Lima",
    :image "",
    :description ""}
   {:name "Museum Schafferer",
@@ -1958,14 +1958,14 @@
    :latitude -12.0685356,
    :source :openstreetmap,
    :homepage "https://www.elparquedelaimaginacion.com.pe/",
-   :locality "San Miguel",
+   :location "San Miguel",
    :image "",
    :description ""}
   {:name "Parque Jurásico Querulpa",
    :longitude -72.4885024,
    :latitude -16.161085,
    :source :openstreetmap,
-   :locality "Aplao",
+   :location "Aplao",
    :image "",
    :description ""}
   {:name "Proyecto AMIL",
@@ -2015,7 +2015,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.larcomar.com/blog/lifestyle/ven-la-exposicion-fotografica-en-nuestra-sala-de-arte-moderno/",
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Sala de Interpretación Tablada De Lurín",
@@ -2030,7 +2030,7 @@
    :longitude -77.0292734,
    :latitude -12.1221423,
    :source :openstreetmap,
-   :locality "Miraflores",
+   :location "Miraflores",
    :image "",
    :description ""}
   {:name "Salita Cine Libre",
@@ -2075,21 +2075,21 @@
    :longitude -74.5402109,
    :latitude -8.3720363,
    :source :openstreetmap,
-   :locality "Pucallpa",
+   :location "Pucallpa",
    :image "",
    :description ""}
   {:name "Warivilca",
    :longitude -75.2054821,
    :latitude -12.11729,
    :source :openstreetmap,
-   :locality "Huancán",
+   :location "Huancán",
    :image "",
    :description ""}
   {:name "Willkawaín",
    :longitude -77.5112879,
    :latitude -9.4833028,
    :source :openstreetmap,
-   :locality "Huaraz",
+   :location "Huaraz",
    :image "",
    :description ""}
   {:name "Yavari",

@@ -27,7 +27,7 @@
    :latitude 36.5939393,
    :source :openstreetmap,
    :homepage "https://iskenderundenizmuzesi.dzkk.tsk.tr",
-   :locality "Hatay",
+   :location "Hatay",
    :image "",
    :description ""}
   {:name "Hatay Arkeoloji Müzesi",
@@ -36,7 +36,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?SectionId=HTY01&DistId=HTY",
-   :locality "Antakya",
+   :location "Antakya",
    :image "",
    :description ""}
   {:name "Hatay Şehir Müzesi",
@@ -116,7 +116,7 @@
    :longitude 36.2911841,
    :latitude 33.5130145,
    :source :openstreetmap,
-   :locality "دمشق",
+   :location "دمشق",
    :image "",
    :description ""}
   {:name "المتحف الوطني",
@@ -141,14 +141,14 @@
    :longitude 36.598465,
    :latitude 35.3746402,
    :source :openstreetmap,
-   :locality "كفرزيتا",
+   :location "كفرزيتا",
    :image "",
    :description ""}
   {:name "المركز الثقافي العربي بدبسي فرج",
    :longitude 38.1612988,
    :latitude 35.8757764,
    :source :openstreetmap,
-   :locality "دبسي فرج",
+   :location "دبسي فرج",
    :image "",
    :description ""}
   {:name "الملتقى الاحترافي للنحت على الرمل",

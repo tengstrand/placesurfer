@@ -15,7 +15,7 @@
    :latitude 11.1897735,
    :source :openstreetmap,
    :homepage "http://www.aspac-burkina.com/",
-   :locality "Bobo-Dioulasso",
+   :location "Bobo-Dioulasso",
    :image "",
    :description ""}
   {:name "Association Maison de la parole",
@@ -34,7 +34,7 @@
    :longitude -4.3032124,
    :latitude 11.1849914,
    :source :openstreetmap,
-   :locality "Bobo-Dioulasso",
+   :location "Bobo-Dioulasso",
    :image "",
    :description ""}
   {:name "Centre de formation Marie Poussepin des soeurs de Boassa",
@@ -102,7 +102,7 @@
    :latitude 11.1677028,
    :source :openstreetmap,
    :homepage "http://katouma.blogspot.com/",
-   :locality "Bobo-Dioulasso",
+   :location "Bobo-Dioulasso",
    :image "",
    :description ""}
   {:name "Maison de la Culture",
@@ -206,7 +206,7 @@
    :longitude -1.5116992,
    :latitude 12.3688696,
    :source :openstreetmap,
-   :locality "10 BP 861 OUAGADOUGOU 10 Burkina Faso",
+   :location "10 BP 861 OUAGADOUGOU 10 Burkina Faso",
    :image "",
    :description ""}],
  :source

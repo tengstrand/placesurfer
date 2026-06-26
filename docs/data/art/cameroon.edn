@@ -148,7 +148,7 @@
    :latitude 4.0437735,
    :source :openstreetmap,
    :homepage "http://www.doualart.org",
-   :locality "Douala",
+   :location "Douala",
    :image "",
    :description ""}
   {:name "Espace lumière",
@@ -429,7 +429,7 @@
    :longitude 9.2098245,
    :latitude 4.0324232,
    :source :openstreetmap,
-   :locality "guinnes mile 2",
+   :location "guinnes mile 2",
    :image "",
    :description ""}],
  :source

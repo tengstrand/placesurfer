@@ -21,12 +21,12 @@
    :longitude 1.4986672,
    :latitude 42.4945673,
    :source :openstreetmap,
-   :locality "Santa Coloma"}
+   :location "Santa Coloma"}
   {:name "Iron Museum",
    :longitude 1.5210326,
    :latitude 42.5459855,
    :source :openstreetmap,
-   :locality "La Massana"}
+   :location "La Massana"}
   {:name "Mina de Llorts",
    :longitude 1.5324251,
    :latitude 42.5995597,
@@ -40,13 +40,13 @@
    :latitude 42.5087599,
    :source :openstreetmap,
    :homepage "http://museucarmenthyssenandorra.ad/",
-   :locality "Escaldes-Engordany"}
+   :location "Escaldes-Engordany"}
   {:name "Museu Casa Rull",
    :longitude 1.5142133,
    :latitude 42.5323576,
    :source :openstreetmap,
    :homepage "https://museus.ad/es/museos/museo-casa-rull",
-   :locality "Sispony"}
+   :location "Sispony"}
   {:name "Museu de la Moto",
    :longitude 1.6012062,
    :latitude 42.5658713,
@@ -64,7 +64,7 @@
    :latitude 42.5351438,
    :source :openstreetmap,
    :homepage "https://museus.ad/museus/museu-etnografic-casa-cristo",
-   :locality "Encamp"}
+   :location "Encamp"}
   {:name "Museu Obert de Geologia. Roques al Carrer",
    :longitude 1.5252616,
    :latitude 42.5061441,

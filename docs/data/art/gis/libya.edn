@@ -20,7 +20,7 @@
    :longitude 13.1829893,
    :latitude 32.8774831,
    :source :openstreetmap,
-   :locality "طرابلس"}
+   :location "طرابلس"}
   {:name "المتحف التاريخي",
    :longitude 15.0909132,
    :latitude 32.3750289,
@@ -37,7 +37,7 @@
    :longitude 12.5680384,
    :latitude 32.7614058,
    :source :openstreetmap,
-   :locality "surman"}
+   :location "surman"}
   {:name "بيت المدينة الثقافي",
    :longitude 20.0597645,
    :latitude 32.1190807,
@@ -54,7 +54,7 @@
    :longitude 10.986893,
    :latitude 31.8671558,
    :source :openstreetmap,
-   :locality "نالوت"}
+   :location "نالوت"}
   {:name "متحف اجدابيا",
    :longitude 20.224158,
    :latitude 30.7584936,
@@ -103,7 +103,7 @@
    :longitude 10.9826357,
    :latitude 31.8648755,
    :source :openstreetmap,
-   :locality "نالوت"}
+   :location "نالوت"}
   {:name "مدرسة ابوتركية القرآنية",
    :longitude 15.1549535,
    :latitude 32.3865139,

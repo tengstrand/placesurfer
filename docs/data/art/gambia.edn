@@ -9,7 +9,7 @@
    :latitude 13.4482939,
    :source :openstreetmap,
    :homepage "https://afbanjul.org/",
-   :locality "Serekunda",
+   :location "Serekunda",
    :image "",
    :description ""}
   {:name "Arch 22 Museum",
@@ -23,7 +23,7 @@
    :latitude 13.3449179,
    :source :openstreetmap,
    :homepage "https://www.francoinn.com/en/home-en/",
-   :locality "Tanji",
+   :location "Tanji",
    :image "",
    :description ""}
   {:name "Gambia National Museum",

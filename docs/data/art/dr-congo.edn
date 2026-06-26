@@ -27,7 +27,7 @@
    :latitude -4.3078968,
    :source :openstreetmap,
    :homepage "http://centreculturel-boboto.net/",
-   :locality "Kinshasa",
+   :location "Kinshasa",
    :image "",
    :description ""}
   {:name "Centre Culturel Congolais",
@@ -48,7 +48,7 @@
    :latitude -4.3360335,
    :source :openstreetmap,
    :homepage "https://www.centreculturel.cd",
-   :locality "Kinshasa",
+   :location "Kinshasa",
    :image "",
    :description ""}
   {:name "Centre Culturel MUTOMBO BUITSHI",
@@ -61,7 +61,7 @@
    :longitude 15.2975419,
    :latitude -4.3464915,
    :source :openstreetmap,
-   :locality "Kinshasa",
+   :location "Kinshasa",
    :image "",
    :description ""}
   {:name "Centre Culturel Wallonie-Bruxelles",
@@ -70,14 +70,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.wbi.be/fr/diplomatie-wallonie-bruxelles/delegations/centre-culturel-wallonie-bruxelles-kinshasa",
-   :locality "Kinshasa",
+   :location "Kinshasa",
    :image "",
    :description ""}
   {:name "Centre Lasalien de Kinshasa",
    :longitude 15.2645976,
    :latitude -4.3475254,
    :source :openstreetmap,
-   :locality "Kinshasa",
+   :location "Kinshasa",
    :image "",
    :description ""}
   {:name "Espace Bilembo",
@@ -122,7 +122,7 @@
    :latitude -4.3600481,
    :source :openstreetmap,
    :homepage "http://mbudinature.net/",
-   :locality "Kinshasa",
+   :location "Kinshasa",
    :image "",
    :description ""}
   {:name "Mukina Galerie d'Art & Framing shop",

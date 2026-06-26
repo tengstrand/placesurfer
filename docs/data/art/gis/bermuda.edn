@@ -9,19 +9,19 @@
    :latitude 32.3282742,
    :source :openstreetmap,
    :homepage "https://www.artbermuda.com/",
-   :locality "Sandys"}
+   :location "Sandys"}
   {:name "Bermuda Heritage Museum",
    :longitude -64.6749352,
    :latitude 32.3820012,
    :source :openstreetmap,
    :homepage "https://www.bnt.bm/",
-   :locality "Town of St. George"}
+   :location "Town of St. George"}
   {:name "Bermuda Society of Arts",
    :longitude -64.7855838,
    :latitude 32.2946095,
    :source :openstreetmap,
    :homepage "https://bsoa.bm/",
-   :locality "City of Hamilton"}
+   :location "City of Hamilton"}
   {:name "Bermuda Transportation Museum",
    :longitude -64.8355338,
    :latitude 32.3248774,
@@ -31,23 +31,23 @@
    :latitude 32.2936471,
    :source :openstreetmap,
    :homepage "https://buei.bm/",
-   :locality "Pembroke"}
+   :location "Pembroke"}
   {:name "Carter House",
    :longitude -64.6752357,
    :latitude 32.3668756,
    :source :openstreetmap,
-   :locality "St. George's Parish"}
+   :location "St. George's Parish"}
   {:name "Fort St. Catherine",
    :longitude -64.6744413,
    :latitude 32.3906069,
    :source :openstreetmap,
-   :locality "Town of St. George"}
+   :location "Town of St. George"}
   {:name "Masterworks Museum of Bermuda Art",
    :longitude -64.7617664,
    :latitude 32.2936509,
    :source :openstreetmap,
    :homepage "https://masterworksbermuda.org/",
-   :locality "Paget"}
+   :location "Paget"}
   {:name "Tucker House Museum",
    :longitude -64.6784051,
    :latitude 32.3806639,

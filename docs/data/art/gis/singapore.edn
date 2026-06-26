@@ -13,14 +13,14 @@
    :latitude 1.3149685,
    :source :openstreetmap,
    :homepage "http://www.academieofstars.com",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Air Force Museum",
    :longitude 103.89936,
    :latitude 1.3467365,
    :source :openstreetmap,
    :homepage
    "https://www.mindef.gov.sg/imindef/mindef_websites/atozlistings/air_force/about/museum.html",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Armour Heritage Centre",
    :longitude 103.6951466,
    :latitude 1.4202593,
@@ -34,7 +34,7 @@
    :latitude 1.31117,
    :source :openstreetmap,
    :homepage "https://artworks.com.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "ArtScience Museum",
    :longitude 103.8592297,
    :latitude 1.2861382,
@@ -67,7 +67,7 @@
    :latitude 1.3438049,
    :source :openstreetmap,
    :homepage "https://www.ntu.edu.sg/chc",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Civil Defense Heritage Gallery",
    :longitude 103.8491424,
    :latitude 1.2920735,
@@ -87,7 +87,7 @@
    :latitude 1.333951,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/ellieartstudio",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Eurasian Heritage Gallery",
    :longitude 103.8993185,
    :latitude 1.310035,
@@ -100,7 +100,7 @@
    :longitude 103.8418278,
    :latitude 1.2949267,
    :source :openstreetmap,
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Geylang Serai Heritage Gallery",
    :longitude 103.8972022,
    :latitude 1.3166806,
@@ -119,7 +119,7 @@
    :longitude 103.8433681,
    :latitude 1.2994492,
    :source :openstreetmap,
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Juz Art Studio",
    :longitude 103.9038162,
    :latitude 1.305329,
@@ -128,7 +128,7 @@
    :longitude 103.9071343,
    :latitude 1.3072716,
    :source :openstreetmap,
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Kwok Gallery",
    :longitude 103.8302025,
    :latitude 1.3054099,
@@ -146,7 +146,7 @@
    :latitude 1.3014296,
    :source :openstreetmap,
    :homepage "https://lkcnhm.nus.edu.sg/nus/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Live Turtle Museum",
    :longitude 103.8293991,
    :latitude 1.4138842,
@@ -161,7 +161,7 @@
    :latitude 1.3028874,
    :source :openstreetmap,
    :homepage "https://malayheritage.org.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Mangrove Gallery",
    :longitude 103.7355896,
    :latitude 1.4404805,
@@ -181,12 +181,12 @@
    :latitude 1.2807264,
    :source :openstreetmap,
    :homepage "https://www.singaporemusicalboxmuseum.org/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Nature Gallery",
    :longitude 103.9709177,
    :latitude 1.4024139,
    :source :openstreetmap,
-   :locality "Pulau Ubin, Singapore"}
+   :location "Pulau Ubin, Singapore"}
   {:name "Navy Museum",
    :longitude 104.0171589,
    :latitude 1.316641,
@@ -232,7 +232,7 @@
    :latitude 1.2718818,
    :source :openstreetmap,
    :homepage "https://www.singaporeartmuseum.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Scentopia",
    :longitude 103.8136526,
    :latitude 1.254664,
@@ -243,7 +243,7 @@
    :latitude 1.3328732,
    :source :openstreetmap,
    :homepage "https://www.science.edu.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "SEAB Heritage Gallery",
    :longitude 103.8304804,
    :latitude 1.28756,
@@ -252,7 +252,7 @@
    :longitude 103.8498376,
    :latitude 1.3000765,
    :source :openstreetmap,
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Singapore Botanic Gardens Heritage Museum",
    :longitude 103.8176157,
    :latitude 1.3087398,
@@ -264,19 +264,19 @@
    :latitude 1.2758287,
    :source :openstreetmap,
    :homepage "https://singaporeccc.org.sg",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Singapore Discovery Centre",
    :longitude 103.6790962,
    :latitude 1.3326511,
    :source :openstreetmap,
    :homepage "https://www.sdc.com.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Singapore Indian Fine Arts Society",
    :longitude 103.8530339,
    :latitude 1.3147318,
    :source :openstreetmap,
    :homepage "https://www.sifas.org/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Singapore Maritime Gallery",
    :longitude 103.8629867,
    :latitude 1.2707176,
@@ -291,31 +291,31 @@
    :latitude 1.3280672,
    :source :openstreetmap,
    :homepage "http://www.wanqingyuan.org.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Sundaram Tagore Gallery",
    :longitude 103.803808,
    :latitude 1.2773877,
    :source :openstreetmap,
    :homepage "https://www.sundaramtagore.com/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Surviving the Japanese Occupation: War and its Legacies",
    :longitude 103.7688657,
    :latitude 1.3527334,
    :source :openstreetmap,
    :homepage
    "https://corporate.nas.gov.sg/media/collections-and-research/survivingthejapaneseoccupation",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "Taylors Arts Studio",
    :longitude 103.8349852,
    :latitude 1.3523116,
    :source :openstreetmap,
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "The Arts House At The Old Parliament",
    :longitude 103.8510499,
    :latitude 1.2886006,
    :source :openstreetmap,
    :homepage "https://www.theartshouse.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "The Changi Museum",
    :longitude 103.9740247,
    :latitude 1.3621864,
@@ -353,7 +353,7 @@
    :latitude 1.2837721,
    :source :openstreetmap,
    :homepage "https://chinatownheritagecentre.com.sg/",
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "WeTuft",
    :longitude 103.8367147,
    :latitude 1.3014717,
@@ -362,7 +362,7 @@
    :longitude 103.8304351,
    :latitude 1.2823026,
    :source :openstreetmap,
-   :locality "Singapore"}
+   :location "Singapore"}
   {:name "World of Birdnest Museum",
    :longitude 103.7187635,
    :latitude 1.4191143,
@@ -373,7 +373,7 @@
    :latitude 1.2816792,
    :source :openstreetmap,
    :homepage "https://y2arts.com/",
-   :locality "Singapore"}],
+   :location "Singapore"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

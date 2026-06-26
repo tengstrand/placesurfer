@@ -8,7 +8,7 @@
    :longitude 69.8180981,
    :latitude -49.5510224,
    :source :openstreetmap,
-   :locality "Port-Jeanne-d'Arc"}],
+   :location "Port-Jeanne-d'Arc"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

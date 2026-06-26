@@ -8,18 +8,18 @@
    :longitude 2.7812827,
    :latitude 50.7674516,
    :source :openstreetmap,
-   :locality "Heuvelland"}
+   :location "Heuvelland"}
   {:name "'t Grom",
    :longitude 4.5016455,
    :latitude 51.0613189,
    :source :openstreetmap,
    :homepage "https://www.tgrom.be/",
-   :locality "Sint-Katelijne-Waver"}
+   :location "Sint-Katelijne-Waver"}
   {:name "'t Hof Te Puttens",
    :longitude 3.9718474,
    :latitude 50.9775267,
    :source :openstreetmap,
-   :locality "Lede"}
+   :location "Lede"}
   {:name "'t Kranske",
    :longitude 4.5425449,
    :latitude 51.0242643,
@@ -28,7 +28,7 @@
    :longitude 2.6223074,
    :latitude 51.1117406,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "'t Smiske",
    :longitude 4.5903709,
    :latitude 51.0009319,
@@ -38,7 +38,7 @@
    :latitude 50.9098618,
    :source :openstreetmap,
    :homepage "https://www.tsmiske.be/",
-   :locality "Asse"}
+   :location "Asse"}
   {:name "254Forest",
    :longitude 4.3378536,
    :latitude 50.8260571,
@@ -50,19 +50,19 @@
    :source :openstreetmap,
    :homepage
    "https://www.30cc.be/info/zalen/info-romaanse-poort-kapel-en-30cc-wagehuys.jsp",
-   :locality "Leuven"}
+   :location "Leuven"}
   {:name "Abattoirs de Bomel",
    :longitude 4.8627332,
    :latitude 50.4726921,
    :source :openstreetmap,
    :homepage "https://centrecultureldenamur.be",
-   :locality "Namur"}
+   :location "Namur"}
   {:name "ABM Art Gallery",
    :longitude 5.1602895,
    :latitude 51.0327163,
    :source :openstreetmap,
    :homepage "http://pole-golf.be",
-   :locality "Beringen"}
+   :location "Beringen"}
   {:name "Academie Beeldende en Audiovisuele Kunsten Anderlecht",
    :longitude 4.3044665,
    :latitude 50.8365371,
@@ -82,7 +82,7 @@
    :longitude 3.673703,
    :latitude 50.5748922,
    :source :openstreetmap,
-   :locality "Aubechies"}
+   :location "Aubechies"}
   {:name "AfricaMuseum",
    :longitude 4.5181449,
    :latitude 50.8293798,
@@ -111,7 +111,7 @@
    :longitude 5.2033967,
    :latitude 50.9055839,
    :source :openstreetmap,
-   :locality "Herk-de-Stad"}
+   :location "Herk-de-Stad"}
   {:name "Amandine",
    :longitude 2.9239108,
    :latitude 51.229525,
@@ -128,7 +128,7 @@
    :longitude 2.9607244,
    :latitude 51.0307464,
    :source :openstreetmap,
-   :locality "Kortemark"}
+   :location "Kortemark"}
   {:name "Archivothèque de la Haute Ardenne Centre de documentation",
    :longitude 6.118976,
    :latitude 50.4726084,
@@ -148,13 +148,13 @@
    :latitude 51.3255998,
    :source :openstreetmap,
    :homepage "https://www.heemkringarendonk.be/",
-   :locality "Arendonk"}
+   :location "Arendonk"}
   {:name "ArsARDENN",
    :longitude 6.3838806,
    :latitude 50.3522331,
    :source :openstreetmap,
    :homepage "https://www.arsardenn.net/",
-   :locality "Büllingen"}
+   :location "Büllingen"}
   {:name "Art Center Hugo Voeten",
    :longitude 4.8433705,
    :latitude 51.1685005,
@@ -175,7 +175,7 @@
    :latitude 50.479903,
    :source :openstreetmap,
    :homepage "https://artchizen.be/",
-   :locality "Harchies"}
+   :location "Harchies"}
   {:name "ARTDEPOT",
    :longitude 4.5481613,
    :latitude 51.0220051,
@@ -223,7 +223,7 @@
    :longitude 3.2681093,
    :latitude 50.8884329,
    :source :openstreetmap,
-   :locality "Lendelede"}
+   :location "Lendelede"}
   {:name "Atelier Martin Wallaert",
    :longitude 3.4874876,
    :latitude 50.9592521,
@@ -242,7 +242,7 @@
    :latitude 50.5203984,
    :source :openstreetmap,
    :homepage "https://www.atelierrock.be/",
-   :locality "Huy"}
+   :location "Huy"}
   {:name "Atelier Roger Raveel",
    :longitude 3.4835726,
    :latitude 50.9579752,
@@ -253,7 +253,7 @@
    :latitude 50.6476131,
    :source :openstreetmap,
    :homepage "https://www.ateliersballast.be",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Ateliers Marie-Louise",
    :longitude 4.4339063,
    :latitude 50.8463169,
@@ -264,7 +264,7 @@
    :latitude 51.2006561,
    :source :openstreetmap,
    :homepage "https://www.raversyde.be/en/atlantikwall",
-   :locality "Oostende"}
+   :location "Oostende"}
   {:name "Au Coeur de l'Ardoise",
    :longitude 5.2722,
    :latitude 49.8125,
@@ -284,7 +284,7 @@
    :latitude 51.0577337,
    :source :openstreetmap,
    :homepage "https://www.bakkerijmuseum.be/",
-   :locality "Veurne"}
+   :location "Veurne"}
   {:name "Barak 15",
    :longitude 5.2271348,
    :latitude 51.0752069,
@@ -307,7 +307,7 @@
    :latitude 50.8851398,
    :source :openstreetmap,
    :homepage "https://www.ccdeschakel.be/",
-   :locality "Waregem"}
+   :location "Waregem"}
   {:name "Beat Galerij",
    :longitude 4.2368015,
    :latitude 50.7357373,
@@ -369,13 +369,13 @@
    :longitude 2.7558134,
    :latitude 51.1359378,
    :source :openstreetmap,
-   :locality "Nieuwpoort"}
+   :location "Nieuwpoort"}
   {:name "Biercentrum De Lambiek",
    :longitude 4.3346311,
    :latitude 50.7409251,
    :source :openstreetmap,
    :homepage "https://www.delambiek.be/",
-   :locality "Alsemberg"}
+   :location "Alsemberg"}
   {:name "Bijenteeltmuseum",
    :longitude 4.4494615,
    :latitude 51.3758467,
@@ -412,7 +412,7 @@
    :latitude 51.1722235,
    :source :openstreetmap,
    :homepage "http://www.bocholterbrouwerijmuseum.be/",
-   :locality "Bocholt"}
+   :location "Bocholt"}
   {:name "Boeienweide",
    :longitude 4.3895991,
    :latitude 51.2218019,
@@ -441,7 +441,7 @@
    :latitude 51.052639,
    :source :openstreetmap,
    :homepage "http://wet.gerhagen.be/",
-   :locality "Tessenderlo"}
+   :location "Tessenderlo"}
   {:name "Bosmuseum Jan van Ruusbroec",
    :longitude 4.4415076,
    :latitude 50.768594,
@@ -462,7 +462,7 @@
    :latitude 50.4167394,
    :source :openstreetmap,
    :homepage "https://www.bps22.be",
-   :locality "Charleroi"}
+   :location "Charleroi"}
   {:name "Brabants Radiomuseum",
    :longitude 4.7309057,
    :latitude 50.8361124,
@@ -478,7 +478,7 @@
    :latitude 50.6471789,
    :source :openstreetmap,
    :homepage "https://www.grandcurtius.be/",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Breed",
    :longitude 5.4905696,
    :latitude 50.9780211,
@@ -492,13 +492,13 @@
    :latitude 51.0561801,
    :source :openstreetmap,
    :homepage "https://www.fortbreendonk.be/",
-   :locality "Willebroek"}
+   :location "Willebroek"}
   {:name "Briconeum",
    :longitude 5.56638,
    :latitude 50.6499354,
    :source :openstreetmap,
    :homepage "https://www.briconeum.com",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Brigade Museum",
    :longitude 4.7641978,
    :latitude 50.4433783,
@@ -513,7 +513,7 @@
    :latitude 50.8305085,
    :source :openstreetmap,
    :homepage "https://www.debrugvanvroenhoven.be/",
-   :locality "Vroenhoven (Riemst)"}
+   :location "Vroenhoven (Riemst)"}
   {:name "Brussels Art Melting Pot",
    :longitude 4.3803302,
    :latitude 50.8736818,
@@ -523,17 +523,17 @@
    :longitude 3.4241417,
    :latitude 50.8884369,
    :source :openstreetmap,
-   :locality "Waregem"}
+   :location "Waregem"}
   {:name "BudaFabriek",
    :longitude 3.2632281,
    :latitude 50.8313126,
    :source :openstreetmap,
-   :locality "Kortrijk"}
+   :location "Kortrijk"}
   {:name "Bulge Relics Museum",
    :longitude 5.8484475,
    :latitude 50.2595912,
    :source :openstreetmap,
-   :locality "Vielsalm"}
+   :location "Vielsalm"}
   {:name "Burbuja de Amor",
    :longitude 4.2121143,
    :latitude 50.478957,
@@ -543,7 +543,7 @@
    :longitude 4.1318537,
    :latitude 51.0018253,
    :source :openstreetmap,
-   :locality "Lebbeke"}
+   :location "Lebbeke"}
   {:name "Cabour WOII",
    :longitude 2.5871347,
    :latitude 51.0677041,
@@ -559,7 +559,7 @@
    :latitude 51.0483718,
    :source :openstreetmap,
    :homepage "https://www.cafedesartistes.be/",
-   :locality "Beringen"}
+   :location "Beringen"}
   {:name "Caj-Mir",
    :longitude 3.7950952,
    :latitude 50.4349127,
@@ -579,7 +579,7 @@
    :latitude 51.1890008,
    :source :openstreetmap,
    :homepage "https://canadapolandmuseum.com/",
-   :locality "Adegem"}
+   :location "Adegem"}
   {:name "CAPA",
    :longitude 4.5227171,
    :latitude 50.8312242,
@@ -595,7 +595,7 @@
    :latitude 51.0710865,
    :source :openstreetmap,
    :homepage "http://www.ccberingen.be/",
-   :locality "Beringen"}
+   :location "Beringen"}
   {:name "CC 't Aambeeld",
    :longitude 4.3838151,
    :latitude 51.1335864,
@@ -610,7 +610,7 @@
    :latitude 51.0752493,
    :source :openstreetmap,
    :homepage "https://www.uitinpuurssintamands.be/ccbinder/",
-   :locality "Puurs-Sint-Amands"}
+   :location "Puurs-Sint-Amands"}
   {:name "CC De Abdij / Koetsenhuis",
    :longitude 3.8830455,
    :latitude 50.7752656,
@@ -620,25 +620,25 @@
    :latitude 50.8380905,
    :source :openstreetmap,
    :homepage "https://www.anzegem.be/ansold",
-   :locality "Anzegem"}
+   :location "Anzegem"}
   {:name "CC De Factorij",
    :longitude 4.4699979,
    :latitude 50.8842985,
    :source :openstreetmap,
    :homepage "https://www.ccdefactorij.be/",
-   :locality "Zaventem"}
+   :location "Zaventem"}
   {:name "cc De Klap",
    :longitude 4.4681122,
    :latitude 51.2265017,
    :source :openstreetmap,
    :homepage "https://deklap.be/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "CC De Kruisboog - Vrijetijdscentrum",
    :longitude 4.9367225,
    :latitude 50.8047345,
    :source :openstreetmap,
    :homepage "https://dekruisboog.tienen.be",
-   :locality "Tienen"}
+   :location "Tienen"}
   {:name "CC De Malderij",
    :longitude 4.5163858,
    :latitude 50.8611605,
@@ -648,18 +648,18 @@
    :latitude 51.1251548,
    :source :openstreetmap,
    :homepage "https://www.lierscultuurcentrum.be/",
-   :locality "Lier"}
+   :location "Lier"}
   {:name "CC De Stringe",
    :longitude 3.3980214,
    :latitude 50.838016,
    :source :openstreetmap,
    :homepage "https://www.anzegem.be/de-stringe",
-   :locality "Vichte"}
+   :location "Vichte"}
   {:name "CC Hondius",
    :longitude 3.3998159,
    :latitude 50.9338024,
    :source :openstreetmap,
-   :locality "Dentergem"}
+   :location "Dentergem"}
   {:name "CC Jan Tervaert",
    :longitude 4.1353174,
    :latitude 51.1019828,
@@ -670,7 +670,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nazarethdepinte.be/ontspannen-en-leren/organiseren/zalen-en-materiaal/culturele-zaal-huren/cc-nova",
-   :locality "Eke"}
+   :location "Eke"}
   {:name "CC Plomblom",
    :longitude 4.0233453,
    :latitude 50.8360229,
@@ -699,12 +699,12 @@
    :latitude 49.5631421,
    :source :openstreetmap,
    :homepage "https://www.ccathus.be/",
-   :locality "Athus"}
+   :location "Athus"}
   {:name "Centre Culturel",
    :longitude 5.729335,
    :latitude 49.8323786,
    :source :openstreetmap,
-   :locality "Martelange"}
+   :location "Martelange"}
   {:name "Centre culturel - Espace Olivier Boclinville",
    :longitude 5.25165,
    :latitude 49.8546194,
@@ -714,7 +714,7 @@
    :latitude 50.3855866,
    :source :openstreetmap,
    :homepage "https://www.ccaiseaupresles.com/",
-   :locality "Presles"}
+   :location "Presles"}
   {:name "Centre culturel Bastogne",
    :longitude 5.7200713,
    :latitude 50.0047489,
@@ -734,7 +734,7 @@
    :latitude 49.9374718,
    :source :openstreetmap,
    :homepage "https://ccbievre.be",
-   :locality "Bièvre"}
+   :location "Bièvre"}
   {:name "Centre culturel de Braine-l'Alleud",
    :longitude 4.372365,
    :latitude 50.6838231,
@@ -750,19 +750,19 @@
    :latitude 50.2987124,
    :source :openstreetmap,
    :homepage "https://centreculturel.ciney.be",
-   :locality "Ciney"}
+   :location "Ciney"}
   {:name "Centre Culturel de Colfontaine",
    :longitude 3.8627138,
    :latitude 50.4082731,
    :source :openstreetmap,
    :homepage "https://cccolfontaine.com/",
-   :locality "Pâturages"}
+   :location "Pâturages"}
   {:name "Centre culturel de Colfontaine",
    :longitude 3.8408488,
    :latitude 50.4245981,
    :source :openstreetmap,
    :homepage "https://cccolfontaine.com/",
-   :locality "Wasmes"}
+   :location "Wasmes"}
   {:name "Centre Culturel de Durbuy",
    :longitude 5.4939752,
    :latitude 50.3509271,
@@ -773,13 +773,13 @@
    :latitude 50.4349287,
    :source :openstreetmap,
    :homepage "https://www.centreculturelfloreffe.be/",
-   :locality "Franière"}
+   :location "Franière"}
   {:name "Centre culturel de Havelange",
    :longitude 5.2426674,
    :latitude 50.3873733,
    :source :openstreetmap,
    :homepage "https://www.cchavelange.be/",
-   :locality "Havelange"}
+   :location "Havelange"}
   {:name "Centre culturel de Jette Armillaire",
    :longitude 4.3282533,
    :latitude 50.8748241,
@@ -800,19 +800,19 @@
    :latitude 50.7158279,
    :source :openstreetmap,
    :homepage "http://www.ccrixensart.be/",
-   :locality "Genval"}
+   :location "Genval"}
   {:name "Centre Culturel de Seraing",
    :longitude 5.5164603,
    :latitude 50.6047514,
    :source :openstreetmap,
    :homepage "https://www.centrecultureldeseraing.be/",
-   :locality "Seraing"}
+   :location "Seraing"}
   {:name "Centre Culturel de Verviers",
    :longitude 5.8476253,
    :latitude 50.5931834,
    :source :openstreetmap,
    :homepage "https://www.ccverviers.be/",
-   :locality "Verviers"}
+   :location "Verviers"}
   {:name "Centre Culturel du Beau Canton Chiny - Florenville",
    :longitude 5.3413098,
    :latitude 49.7378948,
@@ -827,7 +827,7 @@
    :longitude 5.0934035,
    :latitude 50.4921799,
    :source :openstreetmap,
-   :locality "Andenne"}
+   :location "Andenne"}
   {:name "Centre Culturel d’Auderghem - Cultureel Centrum Oudergem",
    :longitude 4.4272913,
    :latitude 50.8171267,
@@ -876,7 +876,7 @@
    :latitude 50.7130712,
    :source :openstreetmap,
    :homepage "https://www.ccrenemagritte.be/",
-   :locality "Lessines"}
+   :location "Lessines"}
   {:name "Centre Culturel Spa - Jalhay - Stoumont",
    :longitude 5.8655538,
    :latitude 50.4915194,
@@ -901,18 +901,18 @@
    :latitude 50.6128714,
    :source :openstreetmap,
    :homepage "https://www.ccgenappe.be",
-   :locality "Genappe"}
+   :location "Genappe"}
   {:name "Centre de la Gravure et de l'Image Imprimée",
    :longitude 4.1849786,
    :latitude 50.4740578,
    :source :openstreetmap,
-   :locality "La Louvière"}
+   :location "La Louvière"}
   {:name "Centre de la Marionnette",
    :longitude 3.3862202,
    :latitude 50.604819,
    :source :openstreetmap,
    :homepage "https://www.maisondelamarionnette.be",
-   :locality "Tournai"}
+   :location "Tournai"}
   {:name "Centre d’Art Fantastique",
    :longitude 4.3520068,
    :latitude 50.8226627,
@@ -942,12 +942,12 @@
    :latitude 50.3391188,
    :source :openstreetmap,
    :homepage "https://laspirale.be/",
-   :locality "Natoye"}
+   :location "Natoye"}
   {:name "Centre touristique de la Laine et de la Mode",
    :longitude 5.8510593,
    :latitude 50.5957674,
    :source :openstreetmap,
-   :locality "Verviers"}
+   :location "Verviers"}
   {:name "Centrum Polskie Ignacy Jan Paderewski",
    :longitude 4.3329495,
    :latitude 50.8272345,
@@ -959,7 +959,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.cultuurnieuwpoort.be/nieuwpoort/view/nl/nieuwpoort/cultuur_nieuwpoort",
-   :locality "Nieuwpoort"}
+   :location "Nieuwpoort"}
   {:name "Cercle Culturel de Sibret",
    :longitude 5.6361701,
    :latitude 49.9721113,
@@ -1009,7 +1009,7 @@
    :longitude 4.6041576,
    :latitude 50.7164196,
    :source :openstreetmap,
-   :locality "Wavre"}
+   :location "Wavre"}
   {:name "Cie Renard Noire",
    :longitude 5.20337,
    :latitude 50.2177971,
@@ -1094,7 +1094,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.ccenghien.com/ateliers-stages/ateliers-loisirs-actifs/atelier-bande-dessin%C3%A9e/",
-   :locality "Enghien"}
+   :location "Enghien"}
   {:name "Cozmix",
    :longitude 3.1529366,
    :latitude 51.1768079,
@@ -1126,12 +1126,12 @@
    :longitude 3.0971411,
    :latitude 50.9974627,
    :source :openstreetmap,
-   :locality "Hooglede"}
+   :location "Hooglede"}
   {:name "Cultureel Centrum Guldenberg",
    :longitude 3.1839951,
    :latitude 50.8080322,
    :source :openstreetmap,
-   :locality "Wevelgem"}
+   :location "Wevelgem"}
   {:name "Cultureel Centrum het SWOK",
    :longitude 3.0210098,
    :latitude 50.97458,
@@ -1140,18 +1140,18 @@
    :longitude 5.6954652,
    :latitude 50.9904602,
    :source :openstreetmap,
-   :locality "Maasmechelen"}
+   :location "Maasmechelen"}
   {:name "Cultureel Centrum Moere",
    :longitude 2.9571098,
    :latitude 51.1205403,
    :source :openstreetmap,
-   :locality "Gistel"}
+   :location "Gistel"}
   {:name "Cultureel Centrum Ter Dilft",
    :longitude 4.232139,
    :latitude 51.0940751,
    :source :openstreetmap,
    :homepage "https://www.terdilft.be/",
-   :locality "Bornem"}
+   :location "Bornem"}
   {:name "Cultureelcentrum Selmiye vzw",
    :longitude 4.4259666,
    :latitude 51.1994925,
@@ -1161,18 +1161,18 @@
    :latitude 51.0258694,
    :source :openstreetmap,
    :homepage "https://beleefberlare.be/contact-cultuur",
-   :locality "Berlare"}
+   :location "Berlare"}
   {:name "Cultuurcentrum Baarle",
    :longitude 4.9258857,
    :latitude 51.4415966,
    :source :openstreetmap,
    :homepage "https://cultuurcentrumbaarle.eu/",
-   :locality "Baarle-Hertog"}
+   :location "Baarle-Hertog"}
   {:name "Cultuurcentrum De Ververij",
    :longitude 3.605062,
    :latitude 50.7513725,
    :source :openstreetmap,
-   :locality "Ronse"}
+   :location "Ronse"}
   {:name "Cultuurcentrum Evergem",
    :longitude 3.6765356,
    :latitude 51.1302249,
@@ -1187,24 +1187,24 @@
    :latitude 51.0757698,
    :source :openstreetmap,
    :homepage "https://www.zwaneberg.be/",
-   :locality "Heist-op-den-Berg"}
+   :location "Heist-op-den-Berg"}
   {:name "Cultuurhuis Herbakker",
    :longitude 3.5631276,
    :latitude 51.1867292,
    :source :openstreetmap,
-   :locality "Eeklo"}
+   :location "Eeklo"}
   {:name "Da Vinci Museum",
    :longitude 4.9078736,
    :latitude 51.1052691,
    :source :openstreetmap,
    :homepage "https://www.tongerlo.org/tongerlo/nederlands/",
-   :locality "Westerlo"}
+   :location "Westerlo"}
   {:name "Damiaanmuseum",
    :longitude 4.6773742,
    :latitude 50.9882314,
    :source :openstreetmap,
    :homepage "https://www.damiaanmuseum.be",
-   :locality "Tremelo"}
+   :location "Tremelo"}
   {:name "Damien & The Love Guru",
    :longitude 4.3477076,
    :latitude 50.8261376,
@@ -1263,7 +1263,7 @@
    :longitude 2.6361433,
    :latitude 51.1182723,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "De Salons",
    :longitude 4.1423773,
    :latitude 51.1681343,
@@ -1278,7 +1278,7 @@
    :latitude 51.3404648,
    :source :openstreetmap,
    :homepage "https://www.mietracteur.eu",
-   :locality "Rijkevorsel"}
+   :location "Rijkevorsel"}
   {:name "De Sperwer",
    :longitude 3.9704259,
    :latitude 51.1094656,
@@ -1302,7 +1302,7 @@
    :longitude 4.4987809,
    :latitude 51.1278646,
    :source :openstreetmap,
-   :locality "Lint"}
+   :location "Lint"}
   {:name "Death Cells",
    :longitude 2.7277549,
    :latitude 50.8555139,
@@ -1316,7 +1316,7 @@
    :longitude 2.610382,
    :latitude 51.1058066,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "Den Artiest",
    :longitude 4.2437239,
    :latitude 50.780184,
@@ -1330,7 +1330,7 @@
    :latitude 51.2033128,
    :source :openstreetmap,
    :homepage "https://www.maldegem.be/cc-den-hoogen-pad",
-   :locality "Adegem"}
+   :location "Adegem"}
   {:name "Design Museum Brussels",
    :longitude 4.3413109,
    :latitude 50.8976599,
@@ -1340,13 +1340,13 @@
    :longitude 4.4034961,
    :latitude 51.1931616,
    :source :openstreetmap,
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Destelheide",
    :longitude 4.3185031,
    :latitude 50.727154,
    :source :openstreetmap,
    :homepage "https://www.destelheide.be/",
-   :locality "Dworp"}
+   :location "Dworp"}
   {:name "Diamantmuseum",
    :longitude 3.2259303,
    :latitude 51.2027519,
@@ -1361,7 +1361,7 @@
    :latitude 51.0468428,
    :source :openstreetmap,
    :homepage "https://dodengang.be/",
-   :locality "Diksmuide"}
+   :location "Diksmuide"}
   {:name "Doornzelemolen",
    :longitude 3.7580013,
    :latitude 51.1400585,
@@ -1371,13 +1371,13 @@
    :latitude 51.1148033,
    :source :openstreetmap,
    :homepage "https://www.tourenaar.be/vermelding/draaiorgelmuseum/",
-   :locality "Westerlo"}
+   :location "Westerlo"}
   {:name "Dubuisson Beerstorium",
    :longitude 3.5585193,
    :latitude 50.5777796,
    :source :openstreetmap,
    :homepage "https://beerstorium.dubuisson.com/",
-   :locality "Pipaix"}
+   :location "Pipaix"}
   {:name "Dynastiemuseum",
    :longitude 5.5735605,
    :latitude 50.8089997,
@@ -1397,14 +1397,14 @@
    :latitude 50.5190459,
    :source :openstreetmap,
    :homepage "http://www.ecomusee-ben-ahin.net/",
-   :locality "Ben-Ahin"}
+   :location "Ben-Ahin"}
   {:name "Ecomusée du Viroin",
    :longitude 4.6700834,
    :latitude 50.0930206,
    :source :openstreetmap,
    :homepage
    "https://www.ecomuseeduviroin.be/eco3/index.php?page=home",
-   :locality "Treignes"}
+   :location "Treignes"}
   {:name "Eddy Vandenberghe",
    :longitude 3.1459219,
    :latitude 50.953787,
@@ -1440,7 +1440,7 @@
    :latitude 50.9226714,
    :source :openstreetmap,
    :homepage "https://www.emotia.be/",
-   :locality "Erpe-Mere"}
+   :location "Erpe-Mere"}
   {:name "Ensival historical museum",
    :longitude 5.8417425,
    :latitude 50.5800898,
@@ -1473,7 +1473,7 @@
    :latitude 50.0929246,
    :source :openstreetmap,
    :homepage "https://www.espacemasson.be/",
-   :locality "Treignes"}
+   :location "Treignes"}
   {:name "Espace Bauthier",
    :longitude 4.2677852,
    :latitude 50.6512547,
@@ -1483,7 +1483,7 @@
    :latitude 50.7160677,
    :source :openstreetmap,
    :homepage "https://www.centre-culturel-waterloo.be/",
-   :locality "Waterloo"}
+   :location "Waterloo"}
   {:name "Espace Biscao",
    :longitude 5.5625049,
    :latitude 50.6466529,
@@ -1492,7 +1492,7 @@
    :longitude 4.2591847,
    :latitude 50.5304842,
    :source :openstreetmap,
-   :locality "Seneffe"}
+   :location "Seneffe"}
   {:name "Espace Galerie Flux",
    :longitude 5.5707128,
    :latitude 50.6268056,
@@ -1514,7 +1514,7 @@
    :longitude 4.5451483,
    :latitude 50.7330956,
    :source :openstreetmap,
-   :locality "Rosières"}
+   :location "Rosières"}
   {:name "Espace Nature",
    :longitude 4.1823801,
    :latitude 50.1660226,
@@ -1534,7 +1534,7 @@
    :latitude 50.9065175,
    :source :openstreetmap,
    :homepage "https://www.ecc-kruishoutem.be/",
-   :locality "Kruisem"}
+   :location "Kruisem"}
   {:name "Experience Europe",
    :longitude 4.3841139,
    :latitude 50.8429243,
@@ -1558,7 +1558,7 @@
    :longitude 2.6124339,
    :latitude 51.1117429,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "Fabriek Noord",
    :longitude 4.4255462,
    :latitude 51.2214574,
@@ -1568,7 +1568,7 @@
    :latitude 50.2268455,
    :source :openstreetmap,
    :homepage "http://musee.marche.be/",
-   :locality "Marche-en-Famenne"}
+   :location "Marche-en-Famenne"}
   {:name "FeliX Art & Eco",
    :longitude 4.314514,
    :latitude 50.7892921,
@@ -1579,13 +1579,13 @@
    :latitude 50.6260479,
    :source :openstreetmap,
    :homepage "http://fermedeladime.net/",
-   :locality "Wasseiges"}
+   :location "Wasseiges"}
   {:name "Ferme du Caillou",
    :longitude 4.4207449,
    :latitude 50.6460749,
    :source :openstreetmap,
    :homepage "https://www.dernier-qg-napoleon.be/",
-   :locality "Vieux-Genappe"}
+   :location "Vieux-Genappe"}
   {:name "Festraetsstudio",
    :longitude 5.1932877,
    :latitude 50.8216648,
@@ -1596,13 +1596,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.okv.be/artikel/fibac-een-thuishaven-voor-belgische-abstracten",
-   :locality "Berchem"}
+   :location "Berchem"}
   {:name "Fifty One Too",
    :longitude 4.4315612,
    :latitude 51.3126704,
    :source :openstreetmap,
    :homepage "https://www.gallery51.com/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Final Fx",
    :longitude 4.3392,
    :latitude 50.8904963,
@@ -1637,7 +1637,7 @@
    :longitude 3.2521378,
    :latitude 51.3134773,
    :source :openstreetmap,
-   :locality "Knokke-Heist"}
+   :location "Knokke-Heist"}
   {:name "Forgotten Times",
    :longitude 4.3073196,
    :latitude 51.357654,
@@ -1657,18 +1657,18 @@
    :latitude 51.0668387,
    :source :openstreetmap,
    :homepage "https://www.fortliezele.be/",
-   :locality "Puurs-Sint-Amands"}
+   :location "Puurs-Sint-Amands"}
   {:name "Fot'oeil",
    :longitude 2.8278741,
    :latitude 51.0013307,
    :source :openstreetmap,
-   :locality "Diksmuide"}
+   :location "Diksmuide"}
   {:name "Fotomuseum Antwerpen",
    :longitude 4.3876251,
    :latitude 51.2090334,
    :source :openstreetmap,
    :homepage "http://www.fotomuseum.be",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Foundation \"De 11 lijnen\"",
    :longitude 2.9899599,
    :latitude 51.1888051,
@@ -1677,18 +1677,18 @@
    :longitude 4.3779512,
    :latitude 50.3770799,
    :source :openstreetmap,
-   :locality "Montigny-le-Tilleul"}
+   :location "Montigny-le-Tilleul"}
   {:name "Foyer culturel",
    :longitude 3.4486433,
    :latitude 50.5659054,
    :source :openstreetmap,
-   :locality "Antoing"}
+   :location "Antoing"}
   {:name "Foyer Culturel de Saint-Ghislain",
    :longitude 3.8202671,
    :latitude 50.4487283,
    :source :openstreetmap,
    :homepage "https://foyerculturelsaintghislain.be/",
-   :locality "Saint-Ghislain"}
+   :location "Saint-Ghislain"}
   {:name "Frans Masereel Centrum",
    :longitude 4.9685193,
    :latitude 51.2280228,
@@ -1709,7 +1709,7 @@
    :longitude 5.0859471,
    :latitude 51.269112,
    :source :openstreetmap,
-   :locality "Retie"}
+   :location "Retie"}
   {:name "Galerie 55",
    :longitude 4.3534356,
    :latitude 50.8175953,
@@ -1728,7 +1728,7 @@
    :longitude 4.1695368,
    :latitude 50.4119271,
    :source :openstreetmap,
-   :locality "Binche"}
+   :location "Binche"}
   {:name "Galerie d'art",
    :longitude 5.575767,
    :latitude 50.627952,
@@ -1739,13 +1739,13 @@
    :latitude 50.3660885,
    :source :openstreetmap,
    :homepage "https://www.arbre.be/galerie/galerie.htm",
-   :locality "Arbre"}
+   :location "Arbre"}
   {:name "Galerie du Livre et de l’Etrange Théâtre",
    :longitude 5.6304748,
    :latitude 50.6024507,
    :source :openstreetmap,
    :homepage "https://lagaleriedulivre.be/",
-   :locality "Vaux-sous-Chèvremont"}
+   :location "Vaux-sous-Chèvremont"}
   {:name "Galerie Framing",
    :longitude 4.363189,
    :latitude 50.8206338,
@@ -1756,7 +1756,7 @@
    :latitude 51.0478885,
    :source :openstreetmap,
    :homepage "https://galeriegevaert.be/",
-   :locality "Zwevezele"}
+   :location "Zwevezele"}
   {:name "Galerie Greta Meert",
    :longitude 4.3515392,
    :latitude 50.8548071,
@@ -1777,13 +1777,13 @@
    :latitude 50.63631,
    :source :openstreetmap,
    :homepage "https://www.galerie-liehrmann.be/",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Galerie Loiseau & Zajega",
    :longitude 4.3260834,
    :latitude 50.5973363,
    :source :openstreetmap,
    :homepage "https://www.loiseau-zajega.be/",
-   :locality "Nivelles"}
+   :location "Nivelles"}
   {:name "Galerie Nardone",
    :longitude 4.1858274,
    :latitude 50.4774266,
@@ -1831,7 +1831,7 @@
    :latitude 50.9350878,
    :source :openstreetmap,
    :homepage "https://pikwadraat.be/",
-   :locality "Erpe-Mere"}
+   :location "Erpe-Mere"}
   {:name "Gallerij Nanda",
    :longitude 3.9064229,
    :latitude 51.1013334,
@@ -1841,7 +1841,7 @@
    :latitude 51.2228975,
    :source :openstreetmap,
    :homepage "https://www.gallery51.com/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Gallery L.o.L.a.",
    :longitude 4.989007,
    :latitude 51.1604359,
@@ -1862,13 +1862,13 @@
    :latitude 51.068526,
    :source :openstreetmap,
    :homepage "https://www.gallischehoeve.be/",
-   :locality "Destelbergen"}
+   :location "Destelbergen"}
   {:name "Gasthuismuseum",
    :longitude 4.9991774,
    :latitude 51.1621084,
    :source :openstreetmap,
    :homepage "https://www.gasthuismuseumgeel.be/",
-   :locality "Geel"}
+   :location "Geel"}
   {:name "GC De Muze van Meise",
    :longitude 4.3272818,
    :latitude 50.9355071,
@@ -1883,24 +1883,24 @@
    :latitude 50.94641,
    :source :openstreetmap,
    :homepage "https://www.halen.be/gc-de-rietbron-2",
-   :locality "Halen"}
+   :location "Halen"}
   {:name "GC den egger",
    :longitude 4.9764029,
    :latitude 50.9768735,
    :source :openstreetmap,
    :homepage "https://www.scherpenheuvel-zichem.be/denegger",
-   :locality "Scherpenheuvel-Zichem"}
+   :location "Scherpenheuvel-Zichem"}
   {:name "GC Den Tap",
    :longitude 3.2379404,
    :latitude 50.888256,
    :source :openstreetmap,
-   :locality "Lendelede"}
+   :location "Lendelede"}
   {:name "GC Hof Ten Hemelrijk",
    :longitude 4.1875142,
    :latitude 50.9675777,
    :source :openstreetmap,
    :homepage "https://opwijk.be/cultuur-en-vrije-tijd",
-   :locality "Opwijk"}
+   :location "Opwijk"}
   {:name "Geels Brouwerijmuseum",
    :longitude 4.9515796,
    :latitude 51.1995518,
@@ -1920,7 +1920,7 @@
    :latitude 51.2030295,
    :source :openstreetmap,
    :homepage "https://www.museabrugge.be/",
-   :locality "Brugge"}
+   :location "Brugge"}
   {:name "Gents Universiteitsmuseum",
    :longitude 3.7232997,
    :latitude 51.0359324,
@@ -1966,7 +1966,7 @@
    :source :openstreetmap,
    :homepage
    "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/80083",
-   :locality "Hamont-Achel"}
+   :location "Hamont-Achel"}
   {:name "Group gallery 2",
    :longitude 4.3590018,
    :latitude 50.8303739,
@@ -1982,13 +1982,13 @@
    :latitude 51.1473423,
    :source :openstreetmap,
    :homepage "https://www.abarth-gmr.be/",
-   :locality "Lier"}
+   :location "Lier"}
   {:name "HABK Rotselaar",
    :longitude 4.6992208,
    :latitude 50.9727771,
    :source :openstreetmap,
    :homepage "https://habk.be/locaties/regio-rotselaar/",
-   :locality "Werchter"}
+   :location "Werchter"}
   {:name "Hall of Fame",
    :longitude 4.280074,
    :latitude 50.8249706,
@@ -2003,7 +2003,7 @@
    :latitude 50.9043124,
    :source :openstreetmap,
    :homepage "https://www.gcdewildeman.be",
-   :locality "Herent"}
+   :location "Herent"}
   {:name "Harmonie Sint Amelberga",
    :longitude 4.7869569,
    :latitude 51.2604847,
@@ -2022,13 +2022,13 @@
    :latitude 51.4421136,
    :source :openstreetmap,
    :homepage "https://amaliavansolms.org",
-   :locality "Baarle-Hertog"}
+   :location "Baarle-Hertog"}
   {:name "Heemkring De Drie Rozen",
    :longitude 4.5552887,
    :latitude 51.2634524,
    :source :openstreetmap,
    :homepage "https://www.dedrierozen.be/",
-   :locality "'s-Gravenwezel"}
+   :location "'s-Gravenwezel"}
   {:name "Heemkundig archeologisch museum",
    :longitude 5.4848392,
    :latitude 51.2262648,
@@ -2041,13 +2041,13 @@
    :longitude 3.399109,
    :latitude 50.768412,
    :source :openstreetmap,
-   :locality "Moen"}
+   :location "Moen"}
   {:name "Heemkundige Kring \"Ons Wingene\"",
    :longitude 3.2874992,
    :latitude 51.0625312,
    :source :openstreetmap,
    :homepage "http://www.onswingene.be",
-   :locality "Wingene"}
+   :location "Wingene"}
   {:name "Heemmuseum",
    :longitude 4.7115846,
    :latitude 51.2669446,
@@ -2061,7 +2061,7 @@
    :latitude 50.9995559,
    :source :openstreetmap,
    :homepage "https://www.debotermolen.be/wordpress/",
-   :locality "Keerbergen"}
+   :location "Keerbergen"}
   {:name "Hertboommolen Museum",
    :longitude 4.0947149,
    :latitude 50.8229554,
@@ -2084,7 +2084,7 @@
    :longitude 3.2581477,
    :latitude 51.0155147,
    :source :openstreetmap,
-   :locality "Pittem"}
+   :location "Pittem"}
   {:name "Het Huis",
    :longitude 4.4098686,
    :latitude 51.1820493,
@@ -2105,14 +2105,14 @@
    :latitude 51.2228089,
    :source :openstreetmap,
    :homepage "https://www.letterenhuis.be/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Het Lijsternest",
    :longitude 3.4387123,
    :latitude 50.8149137,
    :source :openstreetmap,
    :homepage
    "https://inventaris.onroerenderfgoed.be/erfgoedobjecten/81586",
-   :locality "ingooigem"}
+   :location "ingooigem"}
   {:name "Het Ovenveld",
    :longitude 3.8037908,
    :latitude 50.9943388,
@@ -2134,7 +2134,7 @@
    :latitude 51.2417448,
    :source :openstreetmap,
    :homepage "https://www.heemkringtercuere.be/",
-   :locality "Bredene"}
+   :location "Bredene"}
   {:name "Het Zuivelmuseum",
    :longitude 3.1465005,
    :latitude 51.3012949,
@@ -2151,7 +2151,7 @@
    :latitude 51.3374792,
    :source :openstreetmap,
    :homepage "https://hey.knokke-heist.be/",
-   :locality "Knokke-Heist"}
+   :location "Knokke-Heist"}
   {:name "Hidrodoe Pidpa",
    :longitude 4.813586,
    :latitude 51.1925075,
@@ -2162,13 +2162,13 @@
    :latitude 50.8367252,
    :source :openstreetmap,
    :homepage "https://inventaris.onroerenderfgoed.be/woi/relict/771",
-   :locality "Ieper"}
+   :location "Ieper"}
   {:name "HIPPO.WAR",
    :longitude 3.4404185,
    :latitude 50.8836489,
    :source :openstreetmap,
    :homepage "https://www.hippowar.be/",
-   :locality "Waregem"}
+   :location "Waregem"}
   {:name "Historial du Fort de Loncin",
    :longitude 5.493258,
    :latitude 50.6738348,
@@ -2187,7 +2187,7 @@
    :latitude 51.2111428,
    :source :openstreetmap,
    :homepage "https://hofbladelin.be/",
-   :locality "Brugge"}
+   :location "Brugge"}
   {:name "Hof ter Welle",
    :longitude 4.2504774,
    :latitude 51.2078639,
@@ -2201,7 +2201,7 @@
    :latitude 51.3213119,
    :source :openstreetmap,
    :homepage "https://www.hofkevanchantraine.be/",
-   :locality "Oud-Turnhout"}
+   :location "Oud-Turnhout"}
   {:name "Hombourg (History Park)",
    :longitude 5.9128064,
    :latitude 50.7234085,
@@ -2251,7 +2251,7 @@
    :latitude 50.7667266,
    :source :openstreetmap,
    :homepage "https://www.huisvanhermanteirlinck.be/",
-   :locality "Beersel"}
+   :location "Beersel"}
   {:name "Huis van het Boek",
    :longitude 4.4522058,
    :latitude 51.208665,
@@ -2293,7 +2293,7 @@
    :latitude 51.2189321,
    :source :openstreetmap,
    :homepage "https://illusionantwerpen.be",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "In Flanders Fields",
    :longitude 2.8854006,
    :latitude 50.8510351,
@@ -2340,7 +2340,7 @@
    :longitude 4.2566603,
    :latitude 51.2126155,
    :source :openstreetmap,
-   :locality "Beveren"}
+   :location "Beveren"}
   {:name "Jester",
    :longitude 5.4871598,
    :latitude 50.9817366,
@@ -2350,7 +2350,7 @@
    :longitude 3.2845392,
    :latitude 51.0546404,
    :source :openstreetmap,
-   :locality "Wingene"}
+   :location "Wingene"}
   {:name "Jona",
    :longitude 4.713293,
    :latitude 50.9105539,
@@ -2403,7 +2403,7 @@
    :longitude 4.2714446,
    :latitude 51.1048644,
    :source :openstreetmap,
-   :locality "Hingene"}
+   :location "Hingene"}
   {:name "Kasteel Hof De Bist",
    :longitude 4.4412317,
    :latitude 51.2822958,
@@ -2427,13 +2427,13 @@
    :latitude 51.3490015,
    :source :openstreetmap,
    :homepage "https://www.brecht.be/kempuseum",
-   :locality "Brecht"}
+   :location "Brecht"}
   {:name "Kerk Attenhoven",
    :longitude 4.3956658,
    :latitude 51.3026963,
    :source :openstreetmap,
    :homepage "http://www.kerkattenhoven.be/",
-   :locality "Hoevenen"}
+   :location "Hoevenen"}
   {:name "Kezanti Art Gallery",
    :longitude 3.2171491,
    :latitude 51.2142151,
@@ -2455,7 +2455,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.inflandersfields.be/nl/in-flanders-fields-museum/landschapgetuige/museum-in-het-landschap/#instappunten",
-   :locality "Ieper"}
+   :location "Ieper"}
   {:name "Kleine-Brogel Air Museum",
    :longitude 5.4590953,
    :latitude 51.1489866,
@@ -2466,7 +2466,7 @@
    :latitude 51.0372268,
    :source :openstreetmap,
    :homepage "https://www.klompenmuseum.be/",
-   :locality "Veerle-Laakdal"}
+   :location "Veerle-Laakdal"}
   {:name "Klooster Zusters van Liefde",
    :longitude 3.718902,
    :latitude 51.0608578,
@@ -2476,13 +2476,13 @@
    :longitude 4.7172661,
    :latitude 50.8841577,
    :source :openstreetmap,
-   :locality "Kessel-Lo"}
+   :location "Kessel-Lo"}
   {:name "KOERS",
    :longitude 3.1272423,
    :latitude 50.9441791,
    :source :openstreetmap,
    :homepage "https://koersmuseum.be/nl",
-   :locality "Roeselare"}
+   :location "Roeselare"}
   {:name "Koetsenmuseum",
    :longitude 3.061367,
    :latitude 50.9662121,
@@ -2497,7 +2497,7 @@
    :latitude 51.2066603,
    :source :openstreetmap,
    :homepage "https://kopvzw.be/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Kortrijk 1302",
    :longitude 3.2674822,
    :latitude 50.8289796,
@@ -2508,7 +2508,7 @@
    :latitude 50.7962727,
    :source :openstreetmap,
    :homepage "https://www.artmachine.be/",
-   :locality "Menen"}
+   :location "Menen"}
   {:name "Kruiermuseum",
    :longitude 5.1653686,
    :latitude 51.1712403,
@@ -2518,13 +2518,13 @@
    :latitude 50.7212483,
    :source :openstreetmap,
    :homepage "https://www.kukukandergrenze.eu/",
-   :locality "Raeren"}
+   :location "Raeren"}
   {:name "Kulturzentrum Alter Schlachthof",
    :longitude 6.0264932,
    :latitude 50.6263616,
    :source :openstreetmap,
    :homepage "https://www.alter-schlachthof.be/",
-   :locality "Eupen"}
+   :location "Eupen"}
   {:name "kultuurfabriek",
    :longitude 3.2566668,
    :latitude 50.9127415,
@@ -2578,7 +2578,7 @@
    :latitude 51.0605797,
    :source :openstreetmap,
    :homepage "https://kunstkringtessenderlo.wordpress.com",
-   :locality "Tessenderlo"}
+   :location "Tessenderlo"}
   {:name "Kunstlocatie Würth",
    :longitude 4.9368121,
    :latitude 51.2994983,
@@ -2587,7 +2587,7 @@
    :longitude 2.8177233,
    :latitude 51.1888021,
    :source :openstreetmap,
-   :locality "Middelkerke"}
+   :location "Middelkerke"}
   {:name "L'Agri Musée",
    :longitude 5.0168009,
    :latitude 49.843346,
@@ -2598,12 +2598,12 @@
    :latitude 50.644103,
    :source :openstreetmap,
    :homepage "https://lanvert.be",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "L'Arvo",
    :longitude 5.940106,
    :latitude 50.6125184,
    :source :openstreetmap,
-   :locality "Limbourg"}
+   :location "Limbourg"}
   {:name "L'Atelier",
    :longitude 4.3608246,
    :latitude 50.8354327,
@@ -2614,7 +2614,7 @@
    :latitude 50.3994522,
    :source :openstreetmap,
    :homepage "https://www.ateliernidels.be/",
-   :locality "Marcinelle"}
+   :location "Marcinelle"}
   {:name "L'Avenir Site",
    :longitude 4.5807549,
    :latitude 51.1304777,
@@ -2659,7 +2659,7 @@
    :longitude 4.4533224,
    :latitude 50.4226595,
    :source :openstreetmap,
-   :locality "Charleroi"}
+   :location "Charleroi"}
   {:name "La Cour 59",
    :longitude 4.3756416,
    :latitude 50.8589627,
@@ -2693,7 +2693,7 @@
    :latitude 50.5492215,
    :source :openstreetmap,
    :homepage "https://www.maisondelapoesie.com/",
-   :locality "Amay"}
+   :location "Amay"}
   {:name "La maison des artistes",
    :longitude 4.3271287,
    :latitude 50.6008364,
@@ -2720,7 +2720,7 @@
    :latitude 50.4131796,
    :source :openstreetmap,
    :homepage "https://providence.be/",
-   :locality "Marchienne-au-Pont"}
+   :location "Marchienne-au-Pont"}
   {:name "La Roseraie",
    :longitude 4.3274157,
    :latitude 50.7835839,
@@ -2734,7 +2734,7 @@
    :longitude 5.4943311,
    :latitude 51.0125336,
    :source :openstreetmap,
-   :locality "Genk"}
+   :location "Genk"}
   {:name "LAB·AN",
    :longitude 4.3805297,
    :latitude 50.8471915,
@@ -2754,7 +2754,7 @@
    :latitude 51.118377,
    :source :openstreetmap,
    :homepage "https://www.langemaxmuseum.be",
-   :locality "Koekelare"}
+   :location "Koekelare"}
   {:name "LaVallée",
    :longitude 4.3422773,
    :latitude 50.8586533,
@@ -2783,7 +2783,7 @@
    :longitude 5.5923868,
    :latitude 50.6487205,
    :source :openstreetmap,
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Le KRAAK",
    :longitude 4.4971739,
    :latitude 50.0536125,
@@ -2817,7 +2817,7 @@
    :longitude 5.0998784,
    :latitude 50.489588,
    :source :openstreetmap,
-   :locality "Andenne"}
+   :location "Andenne"}
   {:name "Le Pied en Coulisses",
    :longitude 5.4857486,
    :latitude 49.5281528,
@@ -2838,7 +2838,7 @@
    :latitude 50.4068607,
    :source :openstreetmap,
    :homepage "https://www.vecteur.be/",
-   :locality "Charleroi"}
+   :location "Charleroi"}
   {:name "Lee-Bauwens Gallery",
    :longitude 4.3289921,
    :latitude 50.8206696,
@@ -2854,13 +2854,13 @@
    :source :openstreetmap,
    :homepage
    "http://www.netevents.be/fr/agenda/11821/Les-Arts-Et-Cent-Ciels/",
-   :locality "Tilff"}
+   :location "Tilff"}
   {:name "Les Ateliers d'art de la Baraque",
    :longitude 4.621362,
    :latitude 50.6715628,
    :source :openstreetmap,
    :homepage "https://www.ateliers-la-baraque.be",
-   :locality "Louvain-la-Neuve"}
+   :location "Louvain-la-Neuve"}
   {:name "Les ateliers des tanneurs",
    :longitude 4.3465603,
    :latitude 50.8398361,
@@ -2879,7 +2879,7 @@
    :latitude 50.5904232,
    :source :openstreetmap,
    :homepage "https://lestempsmeles.be/",
-   :locality "Verviers"}
+   :location "Verviers"}
   {:name "Les Zéphyrs",
    :longitude 2.775564,
    :latitude 51.1693662,
@@ -2888,18 +2888,18 @@
    :longitude 4.3991716,
    :latitude 50.7135265,
    :source :openstreetmap,
-   :locality "Waterloo"}
+   :location "Waterloo"}
   {:name "Ligny 1815",
    :longitude 4.5800449,
    :latitude 50.5141189,
    :source :openstreetmap,
    :homepage "https://www.ligny1815.be/",
-   :locality "Ligny"}
+   :location "Ligny"}
   {:name "Lijssenthoek bezoekerscentrum",
    :longitude 2.7020329,
    :latitude 50.8299959,
    :source :openstreetmap,
-   :locality "Poperinge"}
+   :location "Poperinge"}
   {:name "Linda Beirnaert",
    :longitude 5.4640461,
    :latitude 50.7831539,
@@ -2946,7 +2946,7 @@
    :latitude 50.9989041,
    :source :openstreetmap,
    :homepage "https://www.loods12.be/",
-   :locality "Wetteren"}
+   :location "Wetteren"}
   {:name "Louise Linthout",
    :longitude 4.3983924,
    :latitude 50.8450656,
@@ -2965,7 +2965,7 @@
    :latitude 50.8787934,
    :source :openstreetmap,
    :homepage "https://www.mleuven.be/",
-   :locality "Leuven"}
+   :location "Leuven"}
   {:name "Maagdenhuis",
    :longitude 4.4053937,
    :latitude 51.2143566,
@@ -2975,7 +2975,7 @@
    :longitude 3.8375975,
    :latitude 50.4348091,
    :source :openstreetmap,
-   :locality "Hornu"}
+   :location "Hornu"}
   {:name "MadMusée",
    :longitude 5.5655253,
    :latitude 50.6307883,
@@ -3028,18 +3028,18 @@
    :latitude 50.6307637,
    :source :openstreetmap,
    :homepage "https://www.mmil.uliege.be",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Maison de la Pataphonie",
    :longitude 4.9137665,
    :latitude 50.260213,
    :source :openstreetmap,
    :homepage "https://www.pataphonie.be/",
-   :locality "Dinant"}
+   :location "Dinant"}
   {:name "Maison de la Poterie",
    :longitude 4.513889,
    :latitude 50.3906027,
    :source :openstreetmap,
-   :locality "Bouffioulx"}
+   :location "Bouffioulx"}
   {:name "Maison de la Poésie d'Amay",
    :longitude 5.3327611,
    :latitude 50.5420344,
@@ -3050,7 +3050,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.maisondelascience.uliege.be/cms/c_12769094/fr/maison-de-la-science",
-   :locality "Liège"}
+   :location "Liège"}
   {:name
    "Maison des Cultures de Saint-Gilles - Huis van Culturen van Sint-Gillis",
    :longitude 4.3324116,
@@ -3061,20 +3061,20 @@
    :longitude 4.6105986,
    :latitude 50.6345427,
    :source :openstreetmap,
-   :locality "Mont-Saint-Guibert"}
+   :location "Mont-Saint-Guibert"}
   {:name "Maison des Mégalithes",
    :longitude 5.5318915,
    :latitude 50.3264062,
    :source :openstreetmap,
    :homepage "https://megalithes-weris.be/page.php?p=11",
-   :locality "Wéris"}
+   :location "Wéris"}
   {:name "Maison des Métiers d'Art",
    :longitude 5.5757087,
    :latitude 50.6390204,
    :source :openstreetmap,
    :homepage
    "https://www.wittert.uliege.be/cms/c_10359268/fr/musee-wittert",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Maison du conte",
    :longitude 4.8621368,
    :latitude 50.4623441,
@@ -3089,26 +3089,26 @@
    :latitude 50.272675,
    :source :openstreetmap,
    :homepage "https://mpmm.be",
-   :locality "Bouvignes-sur-Meuse"}
+   :location "Bouvignes-sur-Meuse"}
   {:name "Maison du Site Minier",
    :longitude 5.9645094,
    :latitude 50.7339631,
    :source :openstreetmap,
    :homepage
    "https://www.paysdeherve.be/attractions-musees/ALD-0E-000A35&type=11",
-   :locality "Plombières"}
+   :location "Plombières"}
   {:name "Maison du Souvenir",
    :longitude 5.6794174,
    :latitude 50.710577,
    :source :openstreetmap,
    :homepage "https://www.maisondusouvenir.be/index.php",
-   :locality "Hermalle-sous-Argenteau"}
+   :location "Hermalle-sous-Argenteau"}
   {:name "Maison du Terroir Moresnet",
    :longitude 5.9888327,
    :latitude 50.7213483,
    :source :openstreetmap,
    :homepage "https://www.trois-frontieres.be/F/musee_moresnet.php",
-   :locality "Moresnet - Plombières"}
+   :location "Moresnet - Plombières"}
   {:name "Maison Folie",
    :longitude 3.9596262,
    :latitude 50.4556577,
@@ -3128,19 +3128,19 @@
    :latitude 50.3547333,
    :source :openstreetmap,
    :homepage "https://www.cchavelange.be/",
-   :locality "Maffe"}
+   :location "Maffe"}
   {:name "Maison Van Gogh",
    :longitude 3.8327572,
    :latitude 50.4070984,
    :source :openstreetmap,
-   :locality "Colfontaine"}
+   :location "Colfontaine"}
   {:name "Maison Van Gogh",
    :longitude 3.925174,
    :latitude 50.441343,
    :source :openstreetmap,
    :homepage
    "https://musees-expos.mons.be/fr/nos-lieux/maison-van-gogh/",
-   :locality "Cuesmes"}
+   :location "Cuesmes"}
   {:name "Maison Verhaeren",
    :longitude 3.70527,
    :latitude 50.3459685,
@@ -3153,13 +3153,13 @@
    :longitude 5.240622,
    :latitude 50.1636078,
    :source :openstreetmap,
-   :locality "Rochefort"}
+   :location "Rochefort"}
   {:name "Malmundarium",
    :longitude 6.0274894,
    :latitude 50.4270855,
    :source :openstreetmap,
    :homepage "https://www.malmundarium.be",
-   :locality "Malmedy"}
+   :location "Malmedy"}
   {:name "Maniera",
    :longitude 4.3452219,
    :latitude 50.8148759,
@@ -3178,7 +3178,7 @@
    :longitude 3.9629579,
    :latitude 50.6486539,
    :source :openstreetmap,
-   :locality "Silly"}
+   :location "Silly"}
   {:name "Maruani Mercier Gallery",
    :longitude 4.37155,
    :latitude 50.8186662,
@@ -3204,7 +3204,7 @@
    :latitude 49.6835563,
    :source :openstreetmap,
    :homepage "http://palaisarlon.be",
-   :locality "Arlon"}
+   :location "Arlon"}
   {:name "Mercator Huis",
    :longitude 4.2493148,
    :latitude 51.2319393,
@@ -3218,12 +3218,12 @@
    :latitude 51.0709958,
    :source :openstreetmap,
    :homepage "https://www.mijnmuseum.be/",
-   :locality "Beringen-Mijn"}
+   :location "Beringen-Mijn"}
   {:name "Mijnwerkersmuseum",
    :longitude 3.9668441,
    :latitude 50.7436558,
    :source :openstreetmap,
-   :locality "Galmaarden"}
+   :location "Galmaarden"}
   {:name "Mike Claeys Art Gallery",
    :longitude 3.7267536,
    :latitude 51.0570829,
@@ -3234,7 +3234,7 @@
    :latitude 51.2406023,
    :source :openstreetmap,
    :homepage "https://acam.be",
-   :locality "Merksem"}
+   :location "Merksem"}
   {:name "Mini Museum Mussenzele",
    :longitude 4.0108037,
    :latitude 50.8941288,
@@ -3248,13 +3248,13 @@
    :latitude 50.9977439,
    :source :openstreetmap,
    :homepage "https://www.mivalti.be/mivaltiscorner",
-   :locality "Tielt"}
+   :location "Tielt"}
   {:name "Modemuseum Hasselt",
    :longitude 5.3380066,
    :latitude 50.9337805,
    :source :openstreetmap,
    :homepage "https://www.modemuseumhasselt.be/",
-   :locality "Hasselt"}
+   :location "Hasselt"}
   {:name "Moerenpoort",
    :longitude 5.4714369,
    :latitude 50.7792201,
@@ -3277,7 +3277,7 @@
    :latitude 51.2172961,
    :source :openstreetmap,
    :homepage "https://www.momu.be/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "MoMuse",
    :longitude 4.3379839,
    :latitude 50.8578138,
@@ -3298,12 +3298,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.braine-le-chateau.be/loisirs/tourisme/syndicat-d-initiative/monuments",
-   :locality "Braine-le-Château"}
+   :location "Braine-le-Château"}
   {:name "Mu.ZEE",
    :longitude 2.9144868,
    :latitude 51.2256307,
    :source :openstreetmap,
-   :locality "Oostende"}
+   :location "Oostende"}
   {:name "Mudia",
    :longitude 5.159774,
    :latitude 50.0070551,
@@ -3319,19 +3319,19 @@
    :latitude 50.4093125,
    :source :openstreetmap,
    :homepage "https://www.museedumasque.be/",
-   :locality "Binche"}
+   :location "Binche"}
   {:name "Mundaneum",
    :longitude 3.9555819,
    :latitude 50.4576156,
    :source :openstreetmap,
    :homepage "https://mundaneum.org/",
-   :locality "Mons"}
+   :location "Mons"}
   {:name "Musea Sculpta 3D Museum",
    :longitude 3.2228335,
    :latitude 51.2057552,
    :source :openstreetmap,
    :homepage "https://www.museasculpta.be/",
-   :locality "Brugge"}
+   :location "Brugge"}
   {:name "Musee du petit format",
    :longitude 4.5478248,
    :latitude 50.0747801,
@@ -3340,12 +3340,12 @@
    :longitude 2.6506903,
    :latitude 51.1034844,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "Museum '44",
    :longitude 4.924448,
    :latitude 50.8958354,
    :source :openstreetmap,
-   :locality "Meensel-Kiezegem"}
+   :location "Meensel-Kiezegem"}
   {:name "Museum 3de Regiment Lansiers",
    :longitude 5.0631495,
    :latitude 50.8045161,
@@ -3361,12 +3361,12 @@
    :latitude 51.0318892,
    :source :openstreetmap,
    :homepage "https://www.museumaandeijzer.be/",
-   :locality "Diksmuide"}
+   :location "Diksmuide"}
   {:name "Museum De Kolonie",
    :longitude 5.374669,
    :latitude 51.2544066,
    :source :openstreetmap,
-   :locality "Lommel"}
+   :location "Lommel"}
   {:name "Museum De Schuur vzw",
    :longitude 4.3040678,
    :latitude 51.1468721,
@@ -3377,7 +3377,7 @@
    :latitude 51.0099376,
    :source :openstreetmap,
    :homepage "https://museumdd.be/",
-   :locality "Deurle"}
+   :location "Deurle"}
   {:name "Museum Donkmeer",
    :longitude 3.9805875,
    :latitude 51.0431858,
@@ -3393,7 +3393,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sint-martens-latem.be/gemeentelijk-museum-gevaert-minne",
-   :locality "Sint-Martens-Latem"}
+   :location "Sint-Martens-Latem"}
   {:name "Museum Greenville",
    :longitude 5.3724861,
    :latitude 51.0255756,
@@ -3404,7 +3404,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sint-martens-latem.be/gemeentelijk-museum-gust-de-smet",
-   :locality "Deurle"}
+   :location "Deurle"}
   {:name "Museum Heemkunde Heppen",
    :longitude 5.2298033,
    :latitude 51.1074712,
@@ -3418,13 +3418,13 @@
    :latitude 50.1780512,
    :source :openstreetmap,
    :homepage "https://history44.webs.com/",
-   :locality "Samrée"}
+   :location "Samrée"}
   {:name "Museum Hof van Busleyden",
    :longitude 4.4824202,
    :latitude 51.0311232,
    :source :openstreetmap,
    :homepage "https://www.hofvanbusleyden.be/",
-   :locality "Mechelen"}
+   :location "Mechelen"}
   {:name "Museum K-blokken",
    :longitude 5.2565753,
    :latitude 51.1087771,
@@ -3434,7 +3434,7 @@
    :longitude 3.3551547,
    :latitude 50.8523613,
    :source :openstreetmap,
-   :locality "Deerlijk"}
+   :location "Deerlijk"}
   {:name "Museum René Magritte Musée",
    :longitude 4.3356831,
    :latitude 50.876676,
@@ -3450,7 +3450,7 @@
    :latitude 50.9272101,
    :source :openstreetmap,
    :homepage "https://www.slagderzilverenhelmen.be/",
-   :locality "Halen"}
+   :location "Halen"}
   {:name "Museum Stampe & Vertongen",
    :longitude 4.4520405,
    :latitude 51.189612,
@@ -3474,7 +3474,7 @@
    :latitude 50.7607476,
    :source :openstreetmap,
    :homepage "https://www.museumvanhetbelgischtrekpaard.be/",
-   :locality "Vollezele"}
+   :location "Vollezele"}
   {:name "Museum van Oudenaarde",
    :longitude 3.6035747,
    :latitude 50.8438988,
@@ -3485,13 +3485,13 @@
    :latitude 50.7114976,
    :source :openstreetmap,
    :homepage "https://www.mvm-kelmis.be/",
-   :locality "Kelmis"}
+   :location "Kelmis"}
   {:name "Museum Villa Verbeelding",
    :longitude 5.3301255,
    :latitude 50.9305624,
    :source :openstreetmap,
    :homepage "https://www.villaverbeelding.be/",
-   :locality "Hasselt"}
+   :location "Hasselt"}
   {:name "Museum voor de Oudere Technieken",
    :longitude 4.371207,
    :latitude 50.9275848,
@@ -3524,12 +3524,12 @@
    :longitude 4.3814946,
    :latitude 51.0827589,
    :source :openstreetmap,
-   :locality "Boom"}
+   :location "Boom"}
   {:name "Museumhuis Lucien De Gheus",
    :longitude 2.7284527,
    :latitude 50.8452614,
    :source :openstreetmap,
-   :locality "Poperinge"}
+   :location "Poperinge"}
   {:name "Museumschip Tordino",
    :longitude 3.0068086,
    :latitude 51.2088859,
@@ -3552,13 +3552,13 @@
    :longitude 4.2195379,
    :latitude 50.0393221,
    :source :openstreetmap,
-   :locality "Monceau-Imbrechies"}
+   :location "Monceau-Imbrechies"}
   {:name "Musée Africain de Namur",
    :longitude 4.8713964,
    :latitude 50.4663426,
    :source :openstreetmap,
    :homepage "https://musafrica.net/",
-   :locality "Namur"}
+   :location "Namur"}
   {:name "Musée Alexandre-Louis Martin",
    :longitude 4.2541964,
    :latitude 50.4433602,
@@ -3569,7 +3569,7 @@
    :latitude 49.6841493,
    :source :openstreetmap,
    :homepage "https://www.museearcheologiquearlon.be/",
-   :locality "Arlon"}
+   :location "Arlon"}
   {:name "Musée Archéologique de la Haute-Meuse",
    :longitude 4.8665973,
    :latitude 50.3494703,
@@ -3579,7 +3579,7 @@
    :longitude 4.982498,
    :latitude 50.7428991,
    :source :openstreetmap,
-   :locality "Helecine"}
+   :location "Helecine"}
   {:name
    "Musée Belge de la Radiologie - Belgisch Museum voor Radiologie",
    :longitude 4.3908847,
@@ -3643,7 +3643,7 @@
    :latitude 50.6008303,
    :source :openstreetmap,
    :homepage "https://archeologiehesbaye.jimdofree.com/",
-   :locality "Saint-Georges-sur-Meuse"}
+   :location "Saint-Georges-sur-Meuse"}
   {:name "Musée d'Art Moderne er Contemporaine",
    :longitude 5.4562538,
    :latitude 50.3520776,
@@ -3654,7 +3654,7 @@
    :latitude 49.6454861,
    :source :openstreetmap,
    :homepage "https://www.autelbas.be",
-   :locality "Arlon"}
+   :location "Arlon"}
   {:name "Musée d'Horlogerie",
    :longitude 4.7341153,
    :latitude 50.7017479,
@@ -3686,7 +3686,7 @@
    :longitude 3.649604,
    :latitude 50.4758819,
    :source :openstreetmap,
-   :locality "Bernissart"}
+   :location "Bernissart"}
   {:name "Musée de l'Informatique Pionnière en Belgique",
    :longitude 4.8354893,
    :latitude 50.4628067,
@@ -3706,13 +3706,13 @@
    :latitude 50.1833508,
    :source :openstreetmap,
    :homepage "http://www.batarden.be/",
-   :locality "La Roche-en-Ardenne"}
+   :location "La Roche-en-Ardenne"}
   {:name "Musée de la Bière et du Peket",
    :longitude 5.5233501,
    :latitude 50.4797104,
    :source :openstreetmap,
    :homepage "https://www.avouerie.be/",
-   :locality "Anthisnes"}
+   :location "Anthisnes"}
   {:name "Musée de la boite en fer-blanc lithographiée",
    :longitude 5.0447007,
    :latitude 50.6896682,
@@ -3723,7 +3723,7 @@
    :source :openstreetmap,
    :homepage
    "https://aspb.info/content/7-musee-de-la-bonneterie-et-du-negoce-de-la-toile-a-quevaucamps",
-   :locality "Quevaucamps"}
+   :location "Quevaucamps"}
   {:name "Musée de la Citadelle",
    :longitude 4.8608875,
    :latitude 50.4590343,
@@ -3732,7 +3732,7 @@
    :longitude 5.2196957,
    :latitude 50.0818188,
    :source :openstreetmap,
-   :locality "Tellin"}
+   :location "Tellin"}
   {:name "Musée de la Ferme d'Hougoumont",
    :longitude 4.3944363,
    :latitude 50.670772,
@@ -3743,7 +3743,7 @@
    :latitude 50.4469204,
    :source :openstreetmap,
    :homepage "http://foire-memoire.be/",
-   :locality "Saint-Ghislain"}
+   :location "Saint-Ghislain"}
   {:name "Musée de la Forêt et des Eaux",
    :longitude 5.8854016,
    :latitude 50.459733,
@@ -3754,7 +3754,7 @@
    :latitude 50.4167161,
    :source :openstreetmap,
    :homepage "https://www.museedelafraise.com/",
-   :locality "Wépion"}
+   :location "Wépion"}
   {:name "Musée de la Fraise et de la Vie d'Antan",
    :longitude 5.5848077,
    :latitude 50.6729615,
@@ -3765,7 +3765,7 @@
    :latitude 50.5571509,
    :source :openstreetmap,
    :homepage "https://www.musee-gourmandise.be",
-   :locality "Hermalle-sous-Huy"}
+   :location "Hermalle-sous-Huy"}
   {:name "Musée de la Haute-Sûre",
    :longitude 5.7368819,
    :latitude 49.8302564,
@@ -3776,7 +3776,7 @@
    :latitude 50.6816865,
    :source :openstreetmap,
    :homepage "https://www.museedelahesbaye.be",
-   :locality "Remicourt"}
+   :location "Remicourt"}
   {:name "Musée de la Lavandière",
    :longitude 5.0552532,
    :latitude 49.8303348,
@@ -3803,7 +3803,7 @@
    :longitude 3.6869023,
    :latitude 50.4750578,
    :source :openstreetmap,
-   :locality "Harchies"}
+   :location "Harchies"}
   {:name "Musée de la mine d'Aldino Soloperto",
    :longitude 4.4126556,
    :latitude 50.3856034,
@@ -3826,19 +3826,19 @@
    :latitude 50.3881044,
    :source :openstreetmap,
    :homepage "https://www.museephoto.be",
-   :locality "Charleroi"}
+   :location "Charleroi"}
   {:name "Musée de la pierre",
    :longitude 3.7950811,
    :latitude 50.6149237,
    :source :openstreetmap,
    :homepage "https://museedelapierre.lescollections.be/",
-   :locality "Maffle"}
+   :location "Maffle"}
   {:name "Musée de la pierre de Sprimont",
    :longitude 5.6649839,
    :latitude 50.5049327,
    :source :openstreetmap,
    :homepage "https://www.sprimont.be/touristes/musee-de-la-pierre",
-   :locality "Sprimont"}
+   :location "Sprimont"}
   {:name
    "Musée de la Police Intégrée - Museum van de Geïntegreerde Politie",
    :longitude 4.3910709,
@@ -3864,12 +3864,12 @@
    :latitude 50.7664279,
    :source :openstreetmap,
    :homepage "https://www.cccw.be",
-   :locality "Comines"}
+   :location "Comines"}
   {:name "Musée de la Tour d’Anhaive",
    :longitude 4.8888103,
    :latitude 50.4626372,
    :source :openstreetmap,
-   :locality "Jambes"}
+   :location "Jambes"}
   {:name "Musée de la Typographie",
    :longitude 4.7037899,
    :latitude 50.4570558,
@@ -3888,7 +3888,7 @@
    :longitude 5.473387,
    :latitude 49.5447717,
    :source :openstreetmap,
-   :locality "Montquintin"}
+   :location "Montquintin"}
   {:name "Musée de la vie populaire",
    :longitude 5.7486434,
    :latitude 50.6110303,
@@ -3898,17 +3898,17 @@
    :latitude 50.5628538,
    :source :openstreetmap,
    :homepage "https://www.musee-huissignies.com/",
-   :locality "Huissignies"}
+   :location "Huissignies"}
   {:name "Musée de la Vie Rurale Condruse",
    :longitude 5.4193606,
    :latitude 50.5067631,
    :source :openstreetmap,
-   :locality "Nandrin"}
+   :location "Nandrin"}
   {:name "Musée de la ville de Herstal",
    :longitude 5.6389278,
    :latitude 50.6706803,
    :source :openstreetmap,
-   :locality "Herstal"}
+   :location "Herstal"}
   {:name "Musée de Wanne",
    :longitude 5.9205298,
    :latitude 50.3559909,
@@ -3919,18 +3919,18 @@
    :longitude 3.5776712,
    :latitude 50.5836487,
    :source :openstreetmap,
-   :locality "Pipaix"}
+   :location "Pipaix"}
   {:name "Musée des Avins",
    :longitude 5.2993333,
    :latitude 50.4136157,
    :source :openstreetmap,
-   :locality "Clavier"}
+   :location "Clavier"}
   {:name "Musée des Beaux-Arts de Mons",
    :longitude 3.9523165,
    :latitude 50.4557663,
    :source :openstreetmap,
    :homepage "https://musees-expos.mons.be/fr/nos-lieux/cap",
-   :locality "Mons"}
+   :location "Mons"}
   {:name "Musée des Beaux-Arts et de la Céramique",
    :longitude 5.8668419,
    :latitude 50.595423,
@@ -3941,7 +3941,7 @@
    :latitude 49.9153827,
    :source :openstreetmap,
    :homepage "https://www.museedesceltes.be/fr/",
-   :locality "Libramont"}
+   :location "Libramont"}
   {:name "Musée des chasseurs à pieds",
    :longitude 4.4511576,
    :latitude 50.4111272,
@@ -3950,7 +3950,7 @@
    :longitude 4.8183245,
    :latitude 50.4664339,
    :source :openstreetmap,
-   :locality "Flawinne"}
+   :location "Flawinne"}
   {:name "Musée des Sciences de Parenville (ULB)",
    :longitude 4.4803981,
    :latitude 50.3876625,
@@ -3966,7 +3966,7 @@
    :latitude 50.62847,
    :source :openstreetmap,
    :homepage "https://www.musee-transports.be/",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Musée des Égouts - Riolenmuseum",
    :longitude 4.338832,
    :latitude 50.8446181,
@@ -3985,7 +3985,7 @@
    :longitude 5.5496132,
    :latitude 50.3944915,
    :source :openstreetmap,
-   :locality "Vieuxville"}
+   :location "Vieuxville"}
   {:name "Musée du Corps de Cavalerie Français 1940",
    :longitude 4.9840953,
    :latitude 50.6742415,
@@ -4004,7 +4004,7 @@
    :longitude 5.8268242,
    :latitude 49.6601166,
    :source :openstreetmap,
-   :locality "Arlon"}
+   :location "Arlon"}
   {:name "Musée du Fer",
    :longitude 5.3413966,
    :latitude 50.0828265,
@@ -4043,12 +4043,12 @@
    :latitude 50.7762395,
    :source :openstreetmap,
    :homepage "http://www.musee-du-silex.be",
-   :locality "Bassenge"}
+   :location "Bassenge"}
   {:name "Musée du Souvenir",
    :longitude 4.8426933,
    :latitude 50.3056879,
    :source :openstreetmap,
-   :locality "Haut-le-Wastia"}
+   :location "Haut-le-Wastia"}
   {:name "Musée du souvenir 40-45",
    :longitude 4.7766743,
    :latitude 50.6539472,
@@ -4057,7 +4057,7 @@
    :longitude 4.5132829,
    :latitude 50.7229691,
    :source :openstreetmap,
-   :locality "Rixensart"}
+   :location "Rixensart"}
   {:name "Musée du Tram - Trammuseum",
    :longitude 4.433794,
    :latitude 50.831858,
@@ -4075,13 +4075,13 @@
    :longitude 4.5393978,
    :latitude 50.7056714,
    :source :openstreetmap,
-   :locality "Rixensart"}
+   :location "Rixensart"}
   {:name "Musée Ducal",
    :longitude 5.0682997,
    :latitude 49.794618,
    :source :openstreetmap,
    :homepage "http://www.museeducalbouillon.be",
-   :locality "Bouillon"}
+   :location "Bouillon"}
   {:name "Musée Décembre 1944",
    :longitude 5.8460276,
    :latitude 50.4099399,
@@ -4146,7 +4146,7 @@
    :longitude 3.3422501,
    :latitude 50.7037313,
    :source :openstreetmap,
-   :locality "Warcoing"}
+   :location "Warcoing"}
   {:name "Musée L",
    :longitude 4.6201049,
    :latitude 50.6682465,
@@ -4157,7 +4157,7 @@
    :latitude 50.6471529,
    :source :openstreetmap,
    :homepage "http://lesmuseesdeliege.be/mulum/",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Musée Maurice Carême - Maurice Carême Museum",
    :longitude 4.2944041,
    :latitude 50.8317782,
@@ -4185,7 +4185,7 @@
    :latitude 50.3848399,
    :source :openstreetmap,
    :homepage "https://www.musee-monopoli.be",
-   :locality "Flostoy"}
+   :location "Flostoy"}
   {:name "Musée national des Jeux de Paume",
    :longitude 3.7770771,
    :latitude 50.630482,
@@ -4199,7 +4199,7 @@
    :longitude 3.7191104,
    :latitude 50.5096413,
    :source :openstreetmap,
-   :locality "Stambruges"}
+   :location "Stambruges"}
   {:name "Musée Provincial des Arts Anciens du Namurois",
    :longitude 4.8653552,
    :latitude 50.46561,
@@ -4210,7 +4210,7 @@
    :latitude 50.4677677,
    :source :openstreetmap,
    :homepage "https://musee-mariemont.be/",
-   :locality "Morlanwelz"}
+   :location "Morlanwelz"}
   {:name "Musée Saint-Rémy",
    :longitude 3.9236454,
    :latitude 50.4362895,
@@ -4250,7 +4250,7 @@
    :latitude 51.0445815,
    :source :openstreetmap,
    :homepage "https://stamgent.be/",
-   :locality "Gent"}
+   :location "Gent"}
   {:name "Muziekcentrum Goedleven",
    :longitude 3.7724653,
    :latitude 51.0744781,
@@ -4260,12 +4260,12 @@
    :latitude 50.6918276,
    :source :openstreetmap,
    :homepage "https://www.meine-moehren.de/schon-gewusst/fun-facts",
-   :locality "Raeren - Eynatten"}
+   :location "Raeren - Eynatten"}
   {:name "Nationaal Visserijmuseum Oostduinkerke",
    :longitude 2.6830777,
    :latitude 51.1168993,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "Nature Extraordinary Museum",
    :longitude 5.14042,
    :latitude 50.2253882,
@@ -4281,7 +4281,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.natuurpunt.be/bezoekerscentrum/natuurhuis-en-museum-turnhout",
-   :locality "Turnhout"}
+   :location "Turnhout"}
   {:name "Nautisch Bezoekerscentrum Rupelstreek",
    :longitude 4.3762904,
    :latitude 51.0831372,
@@ -4295,14 +4295,14 @@
    :latitude 50.6521333,
    :source :openstreetmap,
    :homepage "https://www.space-collection.org",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Nom de la Rose",
    :longitude 4.8583674,
    :latitude 50.4635147,
    :source :openstreetmap,
    :homepage
    "http://www.unamur.be/services/social/culture/activites/nomdelarose",
-   :locality "Namur"}
+   :location "Namur"}
   {:name "O*KA Cultuurcentrum",
    :longitude 4.4745569,
    :latitude 51.3794493,
@@ -4354,7 +4354,7 @@
    :longitude 3.0809391,
    :latitude 50.9787923,
    :source :openstreetmap,
-   :locality "Hooglede"}
+   :location "Hooglede"}
   {:name "Oorlogsmuseum",
    :longitude 4.4015098,
    :latitude 51.1834165,
@@ -4365,7 +4365,7 @@
    :latitude 50.887651,
    :source :openstreetmap,
    :homepage "https://www.opek.be/",
-   :locality "Leuven"}
+   :location "Leuven"}
   {:name "Openluchtmuseum \"Bachten de Kupe\"",
    :longitude 2.6536376,
    :latitude 50.9930241,
@@ -4375,7 +4375,7 @@
    :latitude 50.9630471,
    :source :openstreetmap,
    :homepage "https://www.bokrijk.be/",
-   :locality "Genk"}
+   :location "Genk"}
   {:name "Orgelmuseum",
    :longitude 2.8743035,
    :latitude 51.1718167,
@@ -4393,7 +4393,7 @@
    :latitude 50.8024388,
    :source :openstreetmap,
    :homepage "https://www.tomfrantzen.com/",
-   :locality "Tervuren"}
+   :location "Tervuren"}
   {:name "PAM Ename",
    :longitude 3.6327138,
    :latitude 50.8549073,
@@ -4408,7 +4408,7 @@
    :latitude 50.8647426,
    :source :openstreetmap,
    :homepage "https://www.parcum.be/",
-   :locality "Heverlee"}
+   :location "Heverlee"}
   {:name "Parlamentarium",
    :longitude 4.3743279,
    :latitude 50.8400895,
@@ -4420,7 +4420,7 @@
    :latitude 50.8707262,
    :source :openstreetmap,
    :homepage "https://passchendaele.be/",
-   :locality "Zonnebeke"}
+   :location "Zonnebeke"}
   {:name "Pater Lievensmuseum",
    :longitude 3.0618446,
    :latitude 50.8917174,
@@ -4443,7 +4443,7 @@
    :longitude 3.2928178,
    :latitude 51.3414513,
    :source :openstreetmap,
-   :locality "Knokke-Heist"}
+   :location "Knokke-Heist"}
   {:name "Petit moulin d'Aremberg",
    :longitude 4.1317402,
    :latitude 50.6633435,
@@ -4476,14 +4476,14 @@
    :longitude 3.5250097,
    :latitude 51.2402313,
    :source :openstreetmap,
-   :locality "Sint-Laureins"}
+   :location "Sint-Laureins"}
   {:name "Plattelandscentrum Paddenbroek",
    :longitude 4.1095597,
    :latitude 50.7853616,
    :source :openstreetmap,
    :homepage
    "https://www.pajottegem.be/vrije-tijd/toerisme-en-recreatie/plattelandscentrum-paddenbroek",
-   :locality "Gooik"}
+   :location "Gooik"}
   {:name "Ploef!",
    :longitude 4.3231953,
    :latitude 50.8850342,
@@ -4494,7 +4494,7 @@
    :latitude 50.7370103,
    :source :openstreetmap,
    :homepage "https://www.plugstreet1418.be",
-   :locality "Ploegsteert"}
+   :location "Ploegsteert"}
   {:name "Poelp",
    :longitude 4.3296874,
    :latitude 50.8349705,
@@ -4505,24 +4505,24 @@
    :latitude 50.4624367,
    :source :openstreetmap,
    :homepage "https://www.pointculture.be/namur/",
-   :locality "Namur"}
+   :location "Namur"}
   {:name "PolderMAS",
    :longitude 4.2356975,
    :latitude 51.3350346,
    :source :openstreetmap,
-   :locality "Doel"}
+   :location "Doel"}
   {:name "Poldermuseum",
    :longitude 4.2896895,
    :latitude 51.3043477,
    :source :openstreetmap,
    :homepage "https://www.poldermuseum-lillo.be",
-   :locality "Berendrecht-Zandvliet-Lillo"}
+   :location "Berendrecht-Zandvliet-Lillo"}
   {:name "Port'Ouverte",
    :longitude 3.3668991,
    :latitude 50.6053722,
    :source :openstreetmap,
    :homepage "https://www.portouverte.net/",
-   :locality "Tournai"}
+   :location "Tournai"}
   {:name "Portopolis",
    :longitude 4.4053446,
    :latitude 51.2286127,
@@ -4534,12 +4534,12 @@
    :latitude 50.5523009,
    :source :openstreetmap,
    :homepage "https://www.chateaumoha.be/",
-   :locality "Moha"}
+   :location "Moha"}
   {:name "Prieuré de Montaigu",
    :longitude 4.2505021,
    :latitude 50.4628107,
    :source :openstreetmap,
-   :locality "Morlanwelz-Mariemont"}
+   :location "Morlanwelz-Mariemont"}
   {:name "Project(ion) Room",
    :longitude 4.3674481,
    :latitude 50.8162201,
@@ -4559,7 +4559,7 @@
    :latitude 51.1786962,
    :source :openstreetmap,
    :homepage "https://www.permekemuseum.be",
-   :locality "Jabbeke"}
+   :location "Jabbeke"}
   {:name "Préhistomuseum",
    :longitude 5.4278983,
    :latitude 50.5787912,
@@ -4584,12 +4584,12 @@
    :latitude 51.022205,
    :source :openstreetmap,
    :homepage "https://www.radarmechelen.be/",
-   :locality "Mechelen"}
+   :location "Mechelen"}
   {:name "Ramaekers",
    :longitude 2.6755714,
    :latitude 51.1339281,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "Rasson Art Gallery",
    :longitude 3.3930274,
    :latitude 50.6093655,
@@ -4614,7 +4614,7 @@
    :latitude 50.6687791,
    :source :openstreetmap,
    :homepage "https://www.remembermuseum.be",
-   :locality "Thimister-Clermont"}
+   :location "Thimister-Clermont"}
   {:name "Remy - Wezenbeek",
    :longitude 4.405432,
    :latitude 51.2332633,
@@ -4645,13 +4645,13 @@
    :latitude 51.1325543,
    :source :openstreetmap,
    :homepage "http://www.rijtuigmuseum.be/",
-   :locality "Bree"}
+   :location "Bree"}
   {:name "Riveo",
    :longitude 5.4480644,
    :latitude 50.2683341,
    :source :openstreetmap,
    :homepage "https://www.riveo.be",
-   :locality "Hotton"}
+   :location "Hotton"}
   {:name "Robinsons Art Gallery",
    :longitude 4.3535241,
    :latitude 50.8409687,
@@ -4670,7 +4670,7 @@
    :longitude 2.8774246,
    :latitude 51.0314107,
    :source :openstreetmap,
-   :locality "Diksmuide"}
+   :location "Diksmuide"}
   {:name "Romain De Saegher",
    :longitude 4.2066555,
    :latitude 51.0488709,
@@ -4694,7 +4694,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bredene.be/nl/wat-te-doen/bezienswaardigheden-attracties/ryckewaertshof-anto-diez",
-   :locality "Bredene"}
+   :location "Bredene"}
   {:name "Rétrotrain",
    :longitude 3.8257944,
    :latitude 50.4439182,
@@ -4706,23 +4706,23 @@
    :source :openstreetmap,
    :homepage
    "https://www.braine-le-comte.be/annuaire/salle-baudouin-iv",
-   :locality "Braine-le-Comte"}
+   :location "Braine-le-Comte"}
   {:name "Salle paroissiale de Champion",
    :longitude 4.9031636,
    :latitude 50.4985128,
    :source :openstreetmap,
-   :locality "Champion"}
+   :location "Champion"}
   {:name "Sashuis",
    :longitude 4.366412,
    :latitude 51.0812146,
    :source :openstreetmap,
    :homepage "https://www.willebroek.be/nl/het-sashuis",
-   :locality "Klein Willebroek"}
+   :location "Klein Willebroek"}
   {:name "SCC De Venne",
    :longitude 3.9564192,
    :latitude 51.0198358,
    :source :openstreetmap,
-   :locality "Uitbergen"}
+   :location "Uitbergen"}
   {:name "Schatten van de Sint-Odulphuskerk",
    :longitude 5.345145,
    :latitude 50.8010571,
@@ -4731,7 +4731,7 @@
    :longitude 4.1907096,
    :latitude 51.0615032,
    :source :openstreetmap,
-   :locality "Mariekerke"}
+   :location "Mariekerke"}
   {:name "Scheepvaartmuseum Baasrode",
    :longitude 4.1676672,
    :latitude 51.0363239,
@@ -4757,19 +4757,19 @@
    :latitude 51.1971191,
    :source :openstreetmap,
    :homepage "https://corso.be/",
-   :locality "Berchem"}
+   :location "Berchem"}
   {:name "Schouwburg Noord",
    :longitude 4.4379039,
    :latitude 51.2504473,
    :source :openstreetmap,
    :homepage "https://www.schouwburgnoord.be",
-   :locality "Merksem"}
+   :location "Merksem"}
   {:name "Scouts- en Gidsenmuseum",
    :longitude 4.6996044,
    :latitude 50.8834678,
    :source :openstreetmap,
    :homepage "https://www.scoutsmuseum.be/",
-   :locality "Leuven"}
+   :location "Leuven"}
   {:name "Selected",
    :longitude 3.1271054,
    :latitude 51.3151142,
@@ -4784,7 +4784,7 @@
    :latitude 50.168565,
    :source :openstreetmap,
    :homepage "http://users.swing.be/sillondart/",
-   :locality "La Roche-en-Ardenne"}
+   :location "La Roche-en-Ardenne"}
   {:name "Sint-Paulus museum",
    :longitude 5.2646371,
    :latitude 51.1155885,
@@ -4803,7 +4803,7 @@
    :longitude 4.8854762,
    :latitude 50.7766103,
    :source :openstreetmap,
-   :locality "Hoegaarden"}
+   :location "Hoegaarden"}
   {:name "Smich Galery",
    :longitude 4.0027889,
    :latitude 50.8142299,
@@ -4818,7 +4818,7 @@
    :latitude 50.4187297,
    :source :openstreetmap,
    :homepage "https://sparkoh.be/",
-   :locality "Frameries"}
+   :location "Frameries"}
   {:name "Speelgoedmuseum",
    :longitude 4.4828695,
    :latitude 51.0161611,
@@ -4828,7 +4828,7 @@
    :longitude 3.217737,
    :latitude 51.2077745,
    :source :openstreetmap,
-   :locality "Brugge"}
+   :location "Brugge"}
   {:name "Spiegeltent",
    :longitude 3.2384435,
    :latitude 51.2147638,
@@ -4841,7 +4841,7 @@
    :longitude 4.700368,
    :latitude 50.8768251,
    :source :openstreetmap,
-   :locality "Leuven"}
+   :location "Leuven"}
   {:name "Spoorauto Kamieltje",
    :longitude 2.9723421,
    :latitude 51.091544,
@@ -4856,12 +4856,12 @@
    :longitude 3.2083262,
    :latitude 51.0943933,
    :source :openstreetmap,
-   :locality "Oostkamp"}
+   :location "Oostkamp"}
   {:name "Sport- en cultuurcentrum Zomerloos",
    :longitude 2.9656669,
    :latitude 51.1609172,
    :source :openstreetmap,
-   :locality "Gistel"}
+   :location "Gistel"}
   {:name "Stadsmuseum",
    :longitude 5.5973451,
    :latitude 51.1411315,
@@ -4876,13 +4876,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.toerismediest.be/detail-009/stadsmuseum-de-hofstadt/",
-   :locality "Diest"}
+   :location "Diest"}
   {:name "Stadtmuseum Eupen",
    :longitude 6.0354272,
    :latitude 50.6323032,
    :source :openstreetmap,
    :homepage "https://www.stadtmuseum-eupen.be",
-   :locality "Eupen"}
+   :location "Eupen"}
   {:name "Stedelijk Archeologisch Museum Sinte-Gitter",
    :longitude 5.0637822,
    :latitude 50.7462486,
@@ -4891,20 +4891,20 @@
    :longitude 2.8892641,
    :latitude 50.8454725,
    :source :openstreetmap,
-   :locality "Ieper"}
+   :location "Ieper"}
   {:name "Stedelijk Museum",
    :longitude 4.8384132,
    :latitude 50.9880348,
    :source :openstreetmap,
    :homepage "https://www.hetgasthuis.be/museum",
-   :locality "Aarschot"}
+   :location "Aarschot"}
   {:name "Stedelijk museum",
    :longitude 4.7641022,
    :latitude 51.4036396,
    :source :openstreetmap,
    :homepage
    "https://www.hoogstraten.be/beknopte-geschiedenis-stedelijk-museum-hoogstraten_2.html",
-   :locality "Hoogstraten"}
+   :location "Hoogstraten"}
   {:name "Stedelijk Museum 't Gasthuys",
    :longitude 4.0424796,
    :latitude 50.9382237,
@@ -4913,29 +4913,29 @@
    :longitude 3.9901004,
    :latitude 51.1056684,
    :source :openstreetmap,
-   :locality "Lokeren"}
+   :location "Lokeren"}
   {:name "Stedelijk Museum Peter Benoit",
    :longitude 3.309887,
    :latitude 50.855908,
    :source :openstreetmap,
-   :locality "Harelbeke"}
+   :location "Harelbeke"}
   {:name "Stedelijk Museum voor Volkskunde 'De Zwarte Kat'",
    :longitude 3.2332729,
    :latitude 51.2134276,
    :source :openstreetmap,
    :homepage "https://www.museabrugge.be/",
-   :locality "Brugge"}
+   :location "Brugge"}
   {:name "stedelijke basisschool De Kastanjelaar - polyvalente zaal",
    :longitude 4.4418751,
    :latitude 50.9283501,
    :source :openstreetmap,
-   :locality "Vilvoorde"}
+   :location "Vilvoorde"}
   {:name "Steenbakkerijmuseum 't Geleeg - site Steenbakkerij Frateur",
    :longitude 4.3473716,
    :latitude 51.0945095,
    :source :openstreetmap,
    :homepage "http://www.geleeg.be/",
-   :locality "Boom"}
+   :location "Boom"}
   {:name "STEK",
    :longitude 4.2397763,
    :latitude 50.741303,
@@ -4956,7 +4956,7 @@
    :latitude 51.2366225,
    :source :openstreetmap,
    :homepage "https://www.stormkop.be/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Streekcentrum Huysmanshoeve",
    :longitude 3.576161,
    :latitude 51.2025008,
@@ -4967,13 +4967,13 @@
    :latitude 50.9325984,
    :source :openstreetmap,
    :homepage "https://www.reinvoart.com/",
-   :locality "Loksbergen"}
+   :location "Loksbergen"}
   {:name "Streekmuseum De Zilverreiger",
    :longitude 4.1912607,
    :latitude 51.1029768,
    :source :openstreetmap,
    :homepage "https://www.zilverreiger.be",
-   :locality "Weert"}
+   :location "Weert"}
   {:name "Streekmuseum Zuiderkempen",
    :longitude 4.9067232,
    :latitude 51.1390893,
@@ -4994,7 +4994,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.provincieantwerpen.be/aanbod/doe/suske-en-wiske-kindermuseum.html",
-   :locality "Kalmthout"}
+   :location "Kalmthout"}
   {:name "Tabaksmuseum",
    :longitude 3.034057,
    :latitude 50.7755175,
@@ -5018,12 +5018,12 @@
    :latitude 51.0018988,
    :source :openstreetmap,
    :homepage "https://www.technopolis.be/",
-   :locality "Mechelen"}
+   :location "Mechelen"}
   {:name "Ten Bogaerde",
    :longitude 2.6335434,
    :latitude 51.0921906,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "Ten Duinen",
    :longitude 2.6287342,
    :latitude 51.1096357,
@@ -5042,7 +5042,7 @@
    :latitude 50.8305771,
    :source :openstreetmap,
    :homepage "https://www.texturekortrijk.be/",
-   :locality "Kortrijk"}
+   :location "Kortrijk"}
   {:name "The Gallery",
    :longitude 5.5012011,
    :latitude 50.9644426,
@@ -5083,7 +5083,7 @@
    :latitude 51.2013744,
    :source :openstreetmap,
    :homepage "https://www.ticktack.be/",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "TinyGallery Brussels",
    :longitude 4.3758819,
    :latitude 50.8273921,
@@ -5108,13 +5108,13 @@
    :latitude 50.8563737,
    :source :openstreetmap,
    :homepage "https://trabant-museum.blogspot.com/",
-   :locality "Kerkom"}
+   :location "Kerkom"}
   {:name "Tracé cultuurstation",
    :longitude 4.434108,
    :latitude 51.2816105,
    :source :openstreetmap,
    :homepage "https://tracecultuurstation.be",
-   :locality "Ekeren (Antwerpen)"}
+   :location "Ekeren (Antwerpen)"}
   {:name "Train World",
    :longitude 4.3811587,
    :latitude 50.8788558,
@@ -5139,7 +5139,7 @@
    :latitude 50.6397885,
    :source :openstreetmap,
    :homepage "http://www.tresordeliege.be",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Tuin der Onlusten",
    :longitude 4.3053529,
    :latitude 50.7556136,
@@ -5163,7 +5163,7 @@
    :longitude 5.4975714,
    :latitude 51.0105633,
    :source :openstreetmap,
-   :locality "Genk"}
+   :location "Genk"}
   {:name "UP – Circus & Performing Arts",
    :longitude 4.3218593,
    :latitude 50.8550984,
@@ -5178,7 +5178,7 @@
    :longitude 4.1006618,
    :latitude 51.0385432,
    :source :openstreetmap,
-   :locality "Dendermonde"}
+   :location "Dendermonde"}
   {:name "Vedovi Gallery",
    :longitude 4.3603555,
    :latitude 50.8385118,
@@ -5188,13 +5188,13 @@
    :longitude 6.1296773,
    :latitude 50.5858808,
    :source :openstreetmap,
-   :locality "Eupen"}
+   :location "Eupen"}
   {:name "Verbeke Foundation",
    :longitude 4.0554268,
    :latitude 51.2278165,
    :source :openstreetmap,
    :homepage "https://www.verbekefoundation.com/",
-   :locality "Kemzeke"}
+   :location "Kemzeke"}
   {:name "Verbiest Experience Center",
    :longitude 3.266664,
    :latitude 50.9949953,
@@ -5211,7 +5211,7 @@
    :source :openstreetmap,
    :homepage
    "https://gouvy.eu/tourisme-si/collection-de-radios-anciennes",
-   :locality "Gouvy"}
+   :location "Gouvy"}
   {:name "Victoria",
    :longitude 3.2431433,
    :latitude 51.3417703,
@@ -5231,12 +5231,12 @@
    :latitude 51.1994407,
    :source :openstreetmap,
    :homepage "https://www.vlatam.be/",
-   :locality "Berchem"}
+   :location "Berchem"}
   {:name "Vleeshuismuseum",
    :longitude 4.0979224,
    :latitude 51.0314272,
    :source :openstreetmap,
-   :locality "Dendermonde"}
+   :location "Dendermonde"}
   {:name "Vogelmuseum",
    :longitude 5.1466233,
    :latitude 51.128369,
@@ -5276,7 +5276,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.tourenaar.be/vermelding/vzw-briljante-kempen/",
-   :locality "Nijlen"}
+   :location "Nijlen"}
   {:name "VZW Creative Factory",
    :longitude 4.9414397,
    :latitude 51.3268611,
@@ -5306,7 +5306,7 @@
    :latitude 51.1868453,
    :source :openstreetmap,
    :homepage "https://www.molenechos.org/molen.php?AdvSearch=1454",
-   :locality "Mol"}
+   :location "Mol"}
   {:name "Wattenfabriek",
    :longitude 3.890362,
    :latitude 50.882043,
@@ -5315,19 +5315,19 @@
    :longitude 5.8688565,
    :latitude 50.4882948,
    :source :openstreetmap,
-   :locality "Spa"}
+   :location "Spa"}
   {:name "Wielermuseum de Gistelse Flandriens",
    :longitude 2.9746746,
    :latitude 51.1588187,
    :source :openstreetmap,
    :homepage "https://www.gistel.be/Dienst.aspx?ID=1755",
-   :locality "Gistel"}
+   :location "Gistel"}
   {:name "Wisper Antwerpen - Noordpoort",
    :longitude 4.4215066,
    :latitude 51.2290407,
    :source :openstreetmap,
    :homepage "https://wisper.be/nl/over-ons/praktisch/noordpoort",
-   :locality "Antwerpen"}
+   :location "Antwerpen"}
   {:name "Witloofmuseum",
    :longitude 4.546931,
    :latitude 50.9409038,
@@ -5352,18 +5352,18 @@
    :latitude 50.745101,
    :source :openstreetmap,
    :homepage "https://www.wwii-memory-museum.com",
-   :locality "Berneau"}
+   :location "Berneau"}
   {:name "Yes Art",
    :longitude 2.6138227,
    :latitude 51.1078596,
    :source :openstreetmap,
-   :locality "Koksijde"}
+   :location "Koksijde"}
   {:name "Yoko Uhoda Gallery",
    :longitude 5.5688612,
    :latitude 50.6360932,
    :source :openstreetmap,
    :homepage "https://www.christinecolon.be",
-   :locality "Liège"}
+   :location "Liège"}
   {:name "Z.V.S. Museum",
    :longitude 6.1303196,
    :latitude 50.279952,
@@ -5383,13 +5383,13 @@
    :latitude 51.0398474,
    :source :openstreetmap,
    :homepage "https://hetvervolg.org/zldr-luchtfabriek/",
-   :locality "Heusden-Zolder"}
+   :location "Heusden-Zolder"}
   {:name "Zoldermuseum \"Schaliënhoeve\"",
    :longitude 4.4362557,
    :latitude 51.1853877,
    :source :openstreetmap,
    :homepage "https://www.zoldermuseum.be",
-   :locality "Berchem"}
+   :location "Berchem"}
   {:name "ZSenne ArtLab",
    :longitude 4.3418091,
    :latitude 50.8476759,
@@ -5404,7 +5404,7 @@
    :latitude 50.5732752,
    :source :openstreetmap,
    :homepage "https://www.ecoledecirquedegembloux.be/",
-   :locality "Gembloux"}
+   :location "Gembloux"}
   {:name "Écomusée de la Batellerie",
    :longitude 4.2863167,
    :latitude 50.3414777,
@@ -5415,7 +5415,7 @@
    :longitude 4.1355455,
    :latitude 50.6098125,
    :source :openstreetmap,
-   :locality "Braine-le-Comte"}
+   :location "Braine-le-Comte"}
   {:name "Étains \"filés\" et autres fer'art'ages",
    :longitude 4.1530325,
    :latitude 50.4860789,
@@ -5435,7 +5435,7 @@
    :latitude 51.2299416,
    :source :openstreetmap,
    :homepage "https://www.tkristallijn.be/",
-   :locality "Mol"}
+   :location "Mol"}
   {:name "’t Kniphof",
    :longitude 4.5161661,
    :latitude 51.4747233,

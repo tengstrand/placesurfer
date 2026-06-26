@@ -19,7 +19,7 @@
    :latitude 41.3531404,
    :source :openstreetmap,
    :homepage "https://bunkart.al/1/home",
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Bunk‘Art 1",
    :longitude 19.8604375,
    :latitude 41.3498125,
@@ -60,18 +60,18 @@
    :longitude 19.855684,
    :latitude 41.2547253,
    :source :openstreetmap,
-   :locality "Petrelë"}
+   :location "Petrelë"}
   {:name "Historical Museum of the Castle",
    :longitude 19.4927731,
    :latitude 42.0459147,
    :source :openstreetmap,
-   :locality "Shkodër"}
+   :location "Shkodër"}
   {:name "Hotspot Tirana",
    :longitude 19.8249419,
    :latitude 41.3338284,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/hotspot_tirana/",
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Institute of Italian Culture",
    :longitude 19.8202721,
    :latitude 41.328534,
@@ -96,17 +96,17 @@
    :latitude 41.3226273,
    :source :openstreetmap,
    :homepage "https://colourwine.com/",
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Kinema Maks Velo",
    :longitude 19.7938925,
    :latitude 41.3383219,
    :source :openstreetmap,
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Koleksioni Natyror i Altinit",
    :longitude 19.531482,
    :latitude 40.9928901,
    :source :openstreetmap,
-   :locality "Divjake"}
+   :location "Divjake"}
   {:name "Kompleksi Muzeal \"Ndre Mjeda\"",
    :longitude 19.5548271,
    :latitude 41.8996957,
@@ -135,7 +135,7 @@
    :longitude 20.0811468,
    :latitude 41.1161749,
    :source :openstreetmap,
-   :locality "Elbasan"}
+   :location "Elbasan"}
   {:name "Muzeu Arkeologjik",
    :longitude 20.0090755,
    :latitude 39.8742271,
@@ -150,7 +150,7 @@
    :latitude 41.3182619,
    :source :openstreetmap,
    :homepage "http://asa.edu.al/site/ma/",
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Muzeu Ersekë",
    :longitude 20.6813601,
    :latitude 40.3384764,
@@ -164,7 +164,7 @@
    :longitude 20.0831113,
    :latitude 41.1121057,
    :source :openstreetmap,
-   :locality "Elbasan"}
+   :location "Elbasan"}
   {:name "Muzeu Etnografik i Dukagjinit",
    :longitude 19.7852276,
    :latitude 42.3873309,
@@ -195,13 +195,13 @@
    :latitude 42.0692908,
    :source :openstreetmap,
    :homepage "https://muzeuhistorikshkoder.org/",
-   :locality "Shkodër"}
+   :location "Shkodër"}
   {:name "Muzeu Historik Kombëtar",
    :longitude 19.8171323,
    :latitude 41.329419,
    :source :openstreetmap,
    :homepage "https://www.mhk.gov.al/",
-   :locality "Tiranë"}
+   :location "Tiranë"}
   {:name "Muzeu Historik,Bajram Curri",
    :longitude 20.0728271,
    :latitude 42.3571909,
@@ -211,7 +211,7 @@
    :latitude 40.6126487,
    :source :openstreetmap,
    :homepage "https://muzeumesjetar.gov.al/",
-   :locality "Korçë"}
+   :location "Korçë"}
   {:name "Muzeu i Dibrës",
    :longitude 20.4289335,
    :latitude 41.6856631,
@@ -225,7 +225,7 @@
    :latitude 41.3416995,
    :source :openstreetmap,
    :homepage "https://www.muzeu-fa.gov.al/",
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Muzeu i Forcave të Armatosura",
    :longitude 19.884252,
    :latitude 41.2555845,
@@ -239,36 +239,36 @@
    :longitude 20.6604774,
    :latitude 40.9006582,
    :source :openstreetmap,
-   :locality "Pogradec"}
+   :location "Pogradec"}
   {:name "Muzeu i Shkencave të Natyrës \"Sabiha Kasimati\"",
    :longitude 19.8345494,
    :latitude 41.3255212,
    :source :openstreetmap,
    :homepage
    "https://tirana.al/pika-interesi/muzeu-i-shkencave-te-natyres",
-   :locality "Tirane"}
+   :location "Tirane"}
   {:name "Muzeu i Shkollës Normale të Elbasanit",
    :longitude 20.0892688,
    :latitude 41.1137462,
    :source :openstreetmap,
    :homepage "https://www.shkollanormale.al/s/normalja/page/historiku",
-   :locality "Elbasan"}
+   :location "Elbasan"}
   {:name "Muzeu Kombëtar Etnografik",
    :longitude 19.7937225,
    :latitude 41.5066958,
    :source :openstreetmap,
-   :locality "Krujë"}
+   :location "Krujë"}
   {:name "Muzeu Kombëtar i Pavarësisë",
    :longitude 19.4852729,
    :latitude 40.4521992,
    :source :openstreetmap,
-   :locality "Vlorë"}
+   :location "Vlorë"}
   {:name "Muzeu Kombëtar Ikonografik Onufri",
    :longitude 19.945246,
    :latitude 40.7089617,
    :source :openstreetmap,
    :homepage "muzeumetberat.net",
-   :locality "Berat"}
+   :location "Berat"}
   {:name "Muzeu Solomoni",
    :longitude 19.9504319,
    :latitude 40.706568,
@@ -289,13 +289,13 @@
    :longitude 20.020406,
    :latitude 40.2962831,
    :source :openstreetmap,
-   :locality "Tepelenë"}
+   :location "Tepelenë"}
   {:name "Pashko Vasa Museum",
    :longitude 19.5168395,
    :latitude 42.0619049,
    :source :openstreetmap,
    :homepage "https://visitshkoder.org/pashko-vasa-wassa-pasha-house/",
-   :locality "Shkodër"}
+   :location "Shkodër"}
   {:name "Pjerini Art",
    :longitude 19.5187267,
    :latitude 42.0658613,
@@ -306,12 +306,12 @@
    :latitude 41.3263287,
    :source :openstreetmap,
    :homepage "https://www.iett.al/muzeu-i-pulles-shqiptare/",
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Qendra e Realizimit të Veprave të Artit",
    :longitude 19.8059857,
    :latitude 41.3187065,
    :source :openstreetmap,
-   :locality "Tirana"}
+   :location "Tirana"}
   {:name "Salla e Koncerteve \"Tonin Harapi\"",
    :longitude 19.8253331,
    :latitude 41.3213227,
@@ -320,12 +320,12 @@
    :longitude 19.4460347,
    :latitude 41.3107366,
    :source :openstreetmap,
-   :locality "Durrës"}
+   :location "Durrës"}
   {:name "Shtëpi Muze - Lazer & Simon Jubani",
    :longitude 19.5245806,
    :latitude 42.0689968,
    :source :openstreetmap,
-   :locality "Shkodër"}
+   :location "Shkodër"}
   {:name "Tunnel Nostalgia",
    :longitude 20.1391979,
    :latitude 40.0738041,

@@ -14,7 +14,7 @@
    :longitude 44.0726318,
    :latitude 9.5621863,
    :source :openstreetmap,
-   :locality "هرجيسا",
+   :location "هرجيسا",
    :image "",
    :description ""}
   {:name "Shuceyb Center",

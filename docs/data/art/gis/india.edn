@@ -8,18 +8,18 @@
    :longitude 80.9254275,
    :latitude 26.861453,
    :source :openstreetmap,
-   :locality "Lucknow"}
+   :location "Lucknow"}
   {:name "1Shanthiroad Studio/Gallery",
    :longitude 77.5948658,
    :latitude 12.9605614,
    :source :openstreetmap,
    :homepage "https://1shanthiroad.com/",
-   :locality "Bengaluru"}
+   :location "Bengaluru"}
   {:name "Aaganbadi Kendra Hinnod",
    :longitude 78.6858634,
    :latitude 23.6962092,
    :source :openstreetmap,
-   :locality "Hinnodi"}
+   :location "Hinnodi"}
   {:name "Aai Museum",
    :longitude 74.003473,
    :latitude 18.3953972,
@@ -36,7 +36,7 @@
    :longitude 88.359933,
    :latitude 22.6966439,
    :source :openstreetmap,
-   :locality "Konnagar"}
+   :location "Konnagar"}
   {:name "Academy of Arts",
    :longitude 77.0269834,
    :latitude 8.4343608,
@@ -68,7 +68,7 @@
    :longitude 72.5496859,
    :latitude 23.0362323,
    :source :openstreetmap,
-   :locality "ahmedabad"}
+   :location "ahmedabad"}
   {:name "Ahuja Museum for Arts",
    :longitude 88.3492339,
    :latitude 22.5380906,
@@ -90,7 +90,7 @@
    :longitude 75.7736676,
    :latitude 31.2140239,
    :source :openstreetmap,
-   :locality "phagwara"}
+   :location "phagwara"}
   {:name "Ajit Vivek Museum khetri",
    :longitude 75.7871113,
    :latitude 28.0058915,
@@ -131,7 +131,7 @@
    :longitude 75.0589914,
    :latitude 12.3971153,
    :source :openstreetmap,
-   :locality "Pakkam"}
+   :location "Pakkam"}
   {:name "Ambaran Buddhist Site Museum",
    :longitude 74.7629182,
    :latitude 32.9035613,
@@ -183,7 +183,7 @@
    :latitude 13.0017229,
    :source :openstreetmap,
    :homepage "https://apaulogy.com/",
-   :locality "Bangalore"}
+   :location "Bangalore"}
   {:name "APMC AMRAVATI",
    :longitude 77.7572431,
    :latitude 20.9476871,
@@ -216,7 +216,7 @@
    :longitude 84.9874637,
    :latitude 24.6948348,
    :source :openstreetmap,
-   :locality "Bodhgaya"}
+   :location "Bodhgaya"}
   {:name "Archaeological Museum Khajuraho New Bldg. Complex",
    :longitude 79.9206495,
    :latitude 24.8590144,
@@ -225,7 +225,7 @@
    :longitude 78.0392966,
    :latitude 15.8246075,
    :source :openstreetmap,
-   :locality "Kurnool"}
+   :location "Kurnool"}
   {:name "Archdiocesan Heritage Museum",
    :longitude 72.8572673,
    :latitude 19.1681335,
@@ -248,7 +248,7 @@
    :latitude 23.0416175,
    :source :openstreetmap,
    :homepage "https://www.archerindia.com/",
-   :locality "Ahmedabad"}
+   :location "Ahmedabad"}
   {:name "Archive Building",
    :longitude 74.7515499,
    :latitude 19.1955788,
@@ -261,7 +261,7 @@
    :longitude 86.0980671,
    :latitude 19.8872313,
    :source :openstreetmap,
-   :locality "Konark"}
+   :location "Konark"}
   {:name "Arnos Academy",
    :longitude 76.1667611,
    :latitude 10.6411139,
@@ -270,7 +270,7 @@
    :longitude 74.9845271,
    :latitude 30.9731664,
    :source :openstreetmap,
-   :locality "zira"}
+   :location "zira"}
   {:name "art gallery",
    :longitude 72.8199423,
    :latitude 18.9255095,
@@ -330,7 +330,7 @@
    :longitude 76.8432558,
    :latitude 30.6519194,
    :source :openstreetmap,
-   :locality "Zirakpur"}
+   :location "Zirakpur"}
   {:name "Asan Smarakam",
    :longitude 76.7466747,
    :latitude 8.6840216,
@@ -383,7 +383,7 @@
    :longitude 78.4673984,
    :latitude 17.4132697,
    :source :openstreetmap,
-   :locality "hyderabad"}
+   :location "hyderabad"}
   {:name "Baba Baghel Sikh Museum",
    :longitude 77.209032,
    :latitude 28.6259821,
@@ -430,7 +430,7 @@
    :longitude 78.6625356,
    :latitude 20.7284872,
    :source :openstreetmap,
-   :locality "Sevagram"}
+   :location "Sevagram"}
   {:name "Bapu Museum",
    :longitude 80.627559,
    :latitude 16.5080008,
@@ -507,7 +507,7 @@
    :longitude 74.3225812,
    :latitude 17.532711,
    :source :openstreetmap,
-   :locality "Aundh"}
+   :location "Aundh"}
   {:name "Bhimrao Ramji Ambedkar Library",
    :longitude 79.8346838,
    :latitude 11.9291534,
@@ -524,7 +524,7 @@
    :longitude 85.1355458,
    :latitude 25.617329,
    :source :openstreetmap,
-   :locality "Patna"}
+   :location "Patna"}
   {:name "Bihar Museum",
    :longitude 85.1203876,
    :latitude 25.6078052,
@@ -538,7 +538,7 @@
    :latitude 22.534711,
    :source :openstreetmap,
    :homepage "https://www.bitm.gov.in/",
-   :locality "Kolkata"}
+   :location "Kolkata"}
   {:name "Birla Museum",
    :longitude 75.5847783,
    :latitude 28.3630304,
@@ -551,7 +551,7 @@
    :longitude 76.4106748,
    :latitude 9.4146176,
    :source :openstreetmap,
-   :locality "Alappuzha"}
+   :location "Alappuzha"}
   {:name "Bison Lodge Interpretation Centre",
    :longitude 78.424352,
    :latitude 22.462233,
@@ -576,7 +576,7 @@
    :longitude 91.8727957,
    :latitude 25.5689065,
    :source :openstreetmap,
-   :locality "Shillong, Meghalaya"}
+   :location "Shillong, Meghalaya"}
   {:name "buddhist museum",
    :longitude 84.0896652,
    :latitude 18.7804907,
@@ -601,7 +601,7 @@
    :longitude 76.5655117,
    :latitude 9.3778731,
    :source :openstreetmap,
-   :locality "Thiruvalla"}
+   :location "Thiruvalla"}
   {:name "Cache The Arts And Crafts Gallery",
    :longitude 72.8343142,
    :latitude 19.059634,
@@ -622,12 +622,12 @@
    :longitude 92.7479992,
    :latitude 11.6742784,
    :source :openstreetmap,
-   :locality "Port Blair"}
+   :location "Port Blair"}
   {:name "Central Art Gallery 2",
    :longitude 73.3322518,
    :latitude 28.0133944,
    :source :openstreetmap,
-   :locality "bikaner"}
+   :location "bikaner"}
   {:name "Central Asian Museum",
    :longitude 77.5848945,
    :latitude 34.1652367,
@@ -640,7 +640,7 @@
    :longitude 75.8793076,
    :latitude 22.7052316,
    :source :openstreetmap,
-   :locality "Indore"}
+   :location "Indore"}
   {:name "Centre for International Modern Art",
    :longitude 88.3646939,
    :latitude 22.5315809,
@@ -673,7 +673,7 @@
    :longitude 76.2658081,
    :latitude 10.0997832,
    :source :openstreetmap,
-   :locality "Koonammavu"}
+   :location "Koonammavu"}
   {:name "Chemould Prescott Road",
    :longitude 72.8321868,
    :latitude 18.9353781,
@@ -703,7 +703,7 @@
    :longitude 87.6867367,
    :latitude 23.6829271,
    :source :openstreetmap,
-   :locality "Bolpur, West Bengal"}
+   :location "Bolpur, West Bengal"}
   {:name "Chitrankan",
    :longitude 88.3990427,
    :latitude 22.5990357,
@@ -716,7 +716,7 @@
    :longitude 78.197661,
    :latitude 24.1795203,
    :source :openstreetmap,
-   :locality "Bina"}
+   :location "Bina"}
   {:name "Chola Art Gallery",
    :longitude 76.3389414,
    :latitude 10.2964318,
@@ -734,7 +734,7 @@
    :longitude 80.4368445,
    :latitude 16.3703772,
    :source :openstreetmap,
-   :locality "chalapathi nagar,guntur"}
+   :location "chalapathi nagar,guntur"}
   {:name "City Palace",
    :longitude 73.6835836,
    :latitude 24.5764662,
@@ -783,7 +783,7 @@
    :longitude 72.9816838,
    :latitude 22.5396741,
    :source :openstreetmap,
-   :locality "Anand"}
+   :location "Anand"}
   {:name "Crystal Museum",
    :longitude 76.280288,
    :latitude 9.7790703,
@@ -792,12 +792,12 @@
    :longitude 79.7612301,
    :latitude 11.7573412,
    :source :openstreetmap,
-   :locality "Cuddalore"}
+   :location "Cuddalore"}
   {:name "Cultural Center,Maloor",
    :longitude 76.8279349,
    :latitude 9.0839608,
    :source :openstreetmap,
-   :locality "Pathanapuram"}
+   :location "Pathanapuram"}
   {:name "Cultural Central, Guru Nanak Bhawan",
    :longitude 75.8376611,
    :latitude 30.9013943,
@@ -855,7 +855,7 @@
    :longitude 78.259263,
    :latitude 24.2081231,
    :source :openstreetmap,
-   :locality "Dhanora"}
+   :location "Dhanora"}
   {:name "Dharmaveer Chhatrapati Sambhaji Maharaj Museum Vadhu Budruk",
    :longitude 74.0381804,
    :latitude 18.6648424,
@@ -877,18 +877,18 @@
    :latitude 28.6329141,
    :source :openstreetmap,
    :homepage "https://www.dhoomimal.com/",
-   :locality "Connaught Place"}
+   :location "Connaught Place"}
   {:name "Digha Science Centre",
    :longitude 87.496065,
    :latitude 21.6214724,
    :source :openstreetmap,
-   :locality "New Digha"}
+   :location "New Digha"}
   {:name "Dinosaurium",
    :longitude 78.4698924,
    :latitude 17.4031529,
    :source :openstreetmap,
    :homepage "http://www.birlasciencemuseum.org",
-   :locality "hyderabad"}
+   :location "hyderabad"}
   {:name "Directorate of Vocational Education & Training",
    :longitude 77.7632868,
    :latitude 20.9365437,
@@ -934,7 +934,7 @@
    :longitude 74.8749129,
    :latitude 32.7388073,
    :source :openstreetmap,
-   :locality "Jammu, Jammu And Kashmir"}
+   :location "Jammu, Jammu And Kashmir"}
   {:name "Don Bosco Museum",
    :longitude 91.8824423,
    :latitude 25.5930913,
@@ -949,12 +949,12 @@
    :latitude 18.5242655,
    :source :openstreetmap,
    :homepage "https://symbiosis-ambedkarmemorial.org/",
-   :locality "Pune"}
+   :location "Pune"}
   {:name "Dr. Kurien's Museum",
    :longitude 72.9713643,
    :latitude 22.5501634,
    :source :openstreetmap,
-   :locality "ANAND"}
+   :location "ANAND"}
   {:name "Dr. NG Pavanje Art Gallery",
    :longitude 77.5859867,
    :latitude 12.9725437,
@@ -1058,7 +1058,7 @@
    :latitude 19.0610363,
    :source :openstreetmap,
    :homepage "http://fineartschembur.com/",
-   :locality "Chembur, Mumbai"}
+   :location "Chembur, Mumbai"}
   {:name "Fine Arts Society Auditorium",
    :longitude 76.5137817,
    :latitude 10.1137824,
@@ -1123,12 +1123,12 @@
    :longitude 91.8570702,
    :latitude 27.586184,
    :source :openstreetmap,
-   :locality "Tawang"}
+   :location "Tawang"}
   {:name "Gajendravaradhar Arakkattalai Arungatchiyagam",
    :longitude 77.4898917,
    :latitude 8.7195536,
    :source :openstreetmap,
-   :locality "Athalanallur"}
+   :location "Athalanallur"}
   {:name "Galelio Science Centre",
    :longitude 76.2326391,
    :latitude 10.9753143,
@@ -1142,7 +1142,7 @@
    :latitude 12.9743644,
    :source :openstreetmap,
    :homepage "https://galleryg.com/",
-   :locality "Bangalore"}
+   :location "Bangalore"}
   {:name "Gallery of Sikh Martyrs",
    :longitude 78.3031757,
    :latitude 30.1125407,
@@ -1168,7 +1168,7 @@
    :longitude 78.1386083,
    :latitude 9.9298787,
    :source :openstreetmap,
-   :locality "Madurai"}
+   :location "Madurai"}
   {:name "Gandhi Smrithi Museum Payyannur",
    :longitude 75.2103451,
    :latitude 12.1087834,
@@ -1177,7 +1177,7 @@
    :longitude 77.2143584,
    :latitude 28.6018626,
    :source :openstreetmap,
-   :locality "New Delhi"}
+   :location "New Delhi"}
   {:name "Ganesh Gardens",
    :longitude 80.1886749,
    :latitude 17.2874724,
@@ -1194,7 +1194,7 @@
    :longitude 86.4389736,
    :latitude 23.8147092,
    :source :openstreetmap,
-   :locality "Dhanbad"}
+   :location "Dhanbad"}
   {:name "Geological Museum of Minerals, Rocks and Fossils",
    :longitude 77.5673297,
    :latitude 12.9100722,
@@ -1215,7 +1215,7 @@
    :longitude 75.3692333,
    :latitude 31.2684203,
    :source :openstreetmap,
-   :locality "Kapurthala"}
+   :location "Kapurthala"}
   {:name "Gitanjali",
    :longitude 73.8313819,
    :latitude 15.4952679,
@@ -1224,7 +1224,7 @@
    :longitude 87.698132,
    :latitude 23.6577552,
    :source :openstreetmap,
-   :locality "Bolpur, West Bengal"}
+   :location "Bolpur, West Bengal"}
   {:name "Goa Chitra museum",
    :longitude 73.9413442,
    :latitude 15.2648205,
@@ -1239,7 +1239,7 @@
    :latitude 12.9783335,
    :source :openstreetmap,
    :homepage "https://www.goethe.de/ins/in/en/sta/ban.html",
-   :locality "Bengaluru"}
+   :location "Bengaluru"}
   {:name "Golden Arts Kunnamkulam",
    :longitude 76.0664726,
    :latitude 10.6516094,
@@ -1281,7 +1281,7 @@
    :latitude 30.7489893,
    :source :openstreetmap,
    :homepage "http://chdmuseum.gov.in/home/govtmuseum",
-   :locality "Chandigarh"}
+   :location "Chandigarh"}
   {:name "Government Silk Factory",
    :longitude 74.8172993,
    :latitude 34.0695738,
@@ -1302,7 +1302,7 @@
    :longitude 76.2744457,
    :latitude 10.2981488,
    :source :openstreetmap,
-   :locality "kuzhikkattussery"}
+   :location "kuzhikkattussery"}
   {:name "Green Park Ayurvedic Spices and Plantation",
    :longitude 77.1488961,
    :latitude 9.6211044,
@@ -1311,7 +1311,7 @@
    :longitude 76.2499204,
    :latitude 9.9685121,
    :source :openstreetmap,
-   :locality "Fort Kochi"}
+   :location "Fort Kochi"}
   {:name "Gujari Mahal (Archaeological Museum)",
    :longitude 78.1705511,
    :latitude 26.2341237,
@@ -1332,7 +1332,7 @@
    :longitude 76.9963335,
    :latitude 8.5197208,
    :source :openstreetmap,
-   :locality "Trivandrum"}
+   :location "Trivandrum"}
   {:name "Guru Kelu Charan Mohapatra Odissi Research Centre",
    :longitude 85.8195651,
    :latitude 20.3067071,
@@ -1386,7 +1386,7 @@
    :longitude 74.8199721,
    :latitude 34.0824989,
    :source :openstreetmap,
-   :locality "Srinagar,  Jammu And Kashmir"}
+   :location "Srinagar,  Jammu And Kashmir"}
   {:name "Heritage Centre",
    :longitude 80.232921,
    :latitude 12.9907828,
@@ -1413,7 +1413,7 @@
    :longitude 76.327979,
    :latitude 32.23084,
    :source :openstreetmap,
-   :locality "McLeod Ganj"}
+   :location "McLeod Ganj"}
   {:name "Himalayan Mountaineering Institute",
    :longitude 88.2539385,
    :latitude 27.0583704,
@@ -1431,7 +1431,7 @@
    :longitude 76.7711834,
    :latitude 8.9409418,
    :source :openstreetmap,
-   :locality "Odanavattom"}
+   :location "Odanavattom"}
   {:name "Historial Museum",
    :longitude 76.4977779,
    :latitude 31.2350215,
@@ -1474,7 +1474,7 @@
    :longitude 77.1426413,
    :latitude 28.6584846,
    :source :openstreetmap,
-   :locality "New Delhi"}
+   :location "New Delhi"}
   {:name "Idukki Heritage Museum",
    :longitude 76.9419905,
    :latitude 9.8506198,
@@ -1505,7 +1505,7 @@
    :latitude 28.593703,
    :source :openstreetmap,
    :homepage "http://iicdelhi.nic.in",
-   :locality "Lodhi Gardens, New Delhi"}
+   :location "Lodhi Gardens, New Delhi"}
   {:name "India Post Philatelic Bureau",
    :longitude 80.2696676,
    :latitude 13.0672252,
@@ -1531,13 +1531,13 @@
    :latitude 22.5576194,
    :source :openstreetmap,
    :homepage "https://indianmuseumkolkata.org/",
-   :locality "Kolkata"}
+   :location "Kolkata"}
   {:name "Indian Music Experience",
    :longitude 77.5835797,
    :latitude 12.8918025,
    :source :openstreetmap,
    :homepage "https://indianmusicexperience.org/",
-   :locality "Bangalore"}
+   :location "Bangalore"}
   {:name "Indian Naval Maritime Museum",
    :longitude 76.2388644,
    :latitude 9.9582773,
@@ -1548,13 +1548,13 @@
    :source :openstreetmap,
    :homepage
    "https://asi.nic.in/indian-war-memorial-museum-red-fort-new-delhi/",
-   :locality "Delhi"}
+   :location "Delhi"}
   {:name "Indira Gandhi Memorial",
    :longitude 77.2062091,
    :latitude 28.599958,
    :source :openstreetmap,
    :homepage "https://indiragandhi.in",
-   :locality "New Delhi"}
+   :location "New Delhi"}
   {:name "Indira Gandhi National Center for Arts",
    :longitude 77.504513,
    :latitude 12.9589364,
@@ -1604,7 +1604,7 @@
    :longitude 76.6496845,
    :latitude 12.3067913,
    :source :openstreetmap,
-   :locality "Mysuru"}
+   :location "Mysuru"}
   {:name "Jagdish Arts and Crafts",
    :longitude 73.6710269,
    :latitude 24.5790971,
@@ -1613,7 +1613,7 @@
    :longitude 75.7711643,
    :latitude 31.4505385,
    :source :openstreetmap,
-   :locality "jalandhar"}
+   :location "jalandhar"}
   {:name "Jain Art Museum",
    :longitude 79.9357588,
    :latitude 24.8447437,
@@ -1627,7 +1627,7 @@
    :latitude 26.9391114,
    :source :openstreetmap,
    :homepage "https://jaipurwaxmuseum.com/",
-   :locality "Jaipur"}
+   :location "Jaipur"}
   {:name "jaisalmer",
    :longitude 70.9099551,
    :latitude 26.9158571,
@@ -1668,7 +1668,7 @@
    :longitude 76.9195649,
    :latitude 15.1388267,
    :source :openstreetmap,
-   :locality "Ballari"}
+   :location "Ballari"}
   {:name "Jordine Museum",
    :longitude 79.9215352,
    :latitude 24.8516107,
@@ -1677,7 +1677,7 @@
    :longitude 94.2085657,
    :latitude 26.7538545,
    :source :openstreetmap,
-   :locality "Jorhat, Assam"}
+   :location "Jorhat, Assam"}
   {:name "Joshi's Museum of Miniature Railways",
    :longitude 73.822364,
    :latitude 18.5014117,
@@ -1711,7 +1711,7 @@
    :longitude 83.0023262,
    :latitude 25.2801934,
    :source :openstreetmap,
-   :locality "Varanasi"}
+   :location "Varanasi"}
   {:name "Kaash",
    :longitude 77.6045898,
    :latitude 12.9573344,
@@ -1724,7 +1724,7 @@
    :longitude 79.131408,
    :latitude 18.4323174,
    :source :openstreetmap,
-   :locality "karimnagar"}
+   :location "karimnagar"}
   {:name "Kala Bhawan",
    :longitude 86.4344353,
    :latitude 23.8022413,
@@ -1737,7 +1737,7 @@
    :longitude 76.9860233,
    :latitude 8.562216,
    :source :openstreetmap,
-   :locality "Trivandrum"}
+   :location "Trivandrum"}
   {:name "Kala Kendra",
    :longitude 74.8593184,
    :latitude 32.7154914,
@@ -1751,7 +1751,7 @@
    :latitude 20.4790707,
    :source :openstreetmap,
    :homepage "https://kalavikashkendra.eu5.org/",
-   :locality "Biju Patnaik Colony"}
+   :location "Biju Patnaik Colony"}
   {:name "Kalabhoomi",
    :longitude 85.8076136,
    :latitude 20.2505155,
@@ -1761,7 +1761,7 @@
    :longitude 80.3578957,
    :latitude 16.5698597,
    :source :openstreetmap,
-   :locality "Amaravathi"}
+   :location "Amaravathi"}
   {:name "Kaladham",
    :longitude 76.6260313,
    :latitude 15.1760646,
@@ -1770,7 +1770,7 @@
    :longitude 76.3449929,
    :latitude 10.8970948,
    :source :openstreetmap,
-   :locality "Vellinezhi"}
+   :location "Vellinezhi"}
   {:name "Kalakal Art Academy",
    :longitude 76.4871021,
    :latitude 9.7057251,
@@ -1779,7 +1779,7 @@
    :longitude 77.0506688,
    :latitude 9.7125323,
    :source :openstreetmap,
-   :locality "Vellilamkandam"}
+   :location "Vellilamkandam"}
   {:name "Kalakriti art Gallery",
    :longitude 78.4434109,
    :latitude 17.416079,
@@ -1789,13 +1789,13 @@
    :latitude 12.9885742,
    :source :openstreetmap,
    :homepage "kalakshetra.com",
-   :locality "Chennai"}
+   :location "Chennai"}
   {:name "Kalaneri Art Gallery",
    :longitude 75.8082757,
    :latitude 26.8693883,
    :source :openstreetmap,
    :homepage "http://www.kalaneri.com",
-   :locality "Jaipur"}
+   :location "Jaipur"}
   {:name "Kalibangan Museum",
    :longitude 74.1284204,
    :latitude 29.4702821,
@@ -1824,13 +1824,13 @@
    :longitude 79.1127611,
    :latitude 10.7410799,
    :source :openstreetmap,
-   :locality "Thanjavur"}
+   :location "Thanjavur"}
   {:name "Kannan Devan Hills Plantation Tea Museum",
    :longitude 77.0504976,
    :latitude 10.094291,
    :source :openstreetmap,
    :homepage "https://www.kdhptea.com",
-   :locality "Munnar"}
+   :location "Munnar"}
   {:name "Kannur Lighthouse Museum",
    :longitude 75.35583,
    :latitude 11.8608558,
@@ -1888,7 +1888,7 @@
    :longitude 76.9299511,
    :latitude 8.4786587,
    :source :openstreetmap,
-   :locality "trivandrum"}
+   :location "trivandrum"}
   {:name "Kerala Folklore Museum",
    :longitude 76.2991467,
    :latitude 9.933021,
@@ -1920,12 +1920,12 @@
    :longitude 76.9380804,
    :latitude 8.5376059,
    :source :openstreetmap,
-   :locality "Paarottukonam"}
+   :location "Paarottukonam"}
   {:name "Khan Teant  House & Ghoda Baggi",
    :longitude 78.6047402,
    :latitude 24.1124137,
    :source :openstreetmap,
-   :locality "Pali Raitwari"}
+   :location "Pali Raitwari"}
   {:name "KILA EMS Museum",
    :longitude 76.2156265,
    :latitude 10.6012841,
@@ -1949,7 +1949,7 @@
    :latitude 28.5288757,
    :source :openstreetmap,
    :homepage "https://knma.in/",
-   :locality "Saket"}
+   :location "Saket"}
   {:name "Kiran Nadar Museum of Art",
    :longitude 77.3430978,
    :latitude 28.5361616,
@@ -1964,7 +1964,7 @@
    :latitude 22.5218615,
    :source :openstreetmap,
    :homepage "https://www.kolkatacentreforcreativity.org/",
-   :locality "Kolkata"}
+   :location "Kolkata"}
   {:name "Kolkata Police Museum",
    :longitude 88.3738362,
    :latitude 22.5827227,
@@ -2003,7 +2003,7 @@
    :latitude 19.1982091,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/KUCHBHISTUDIO",
-   :locality "Thane"}
+   :location "Thane"}
   {:name "Kudamaloor kalakendhram",
    :longitude 76.5069079,
    :latitude 9.619619,
@@ -2045,7 +2045,7 @@
    :latitude 13.0052491,
    :source :openstreetmap,
    :homepage "https://www.kanike.in/",
-   :locality "Bangalore"}
+   :location "Bangalore"}
   {:name "La Casita",
    :longitude 79.8277196,
    :latitude 11.9397495,
@@ -2111,7 +2111,7 @@
    :longitude 75.8468486,
    :latitude 30.8687401,
    :source :openstreetmap,
-   :locality "Ludhiana"}
+   :location "Ludhiana"}
   {:name "M.S.E.D.C.L. Amravati",
    :longitude 77.7472471,
    :latitude 20.9320272,
@@ -2168,7 +2168,7 @@
    :longitude 75.8228704,
    :latitude 30.9576446,
    :source :openstreetmap,
-   :locality "Grand Trunk Road, Ludhiana, Punjab"}
+   :location "Grand Trunk Road, Ludhiana, Punjab"}
   {:name "Maharashtra State Electricity Board",
    :longitude 77.7587406,
    :latitude 20.939173,
@@ -2201,7 +2201,7 @@
    :longitude 88.1463193,
    :latitude 24.9969441,
    :source :openstreetmap,
-   :locality "Malda, West Bengal"}
+   :location "Malda, West Bengal"}
   {:name "Malinithan Archaeological Museum",
    :longitude 94.7134975,
    :latitude 27.6588193,
@@ -2214,7 +2214,7 @@
    :longitude 83.0110442,
    :latitude 25.3088652,
    :source :openstreetmap,
-   :locality "Varanasi"}
+   :location "Varanasi"}
   {:name "Mani Bhavan",
    :longitude 72.8114984,
    :latitude 18.9598898,
@@ -2227,7 +2227,7 @@
    :longitude 93.9071467,
    :latitude 24.8033909,
    :source :openstreetmap,
-   :locality "Imphal, Manipur"}
+   :location "Imphal, Manipur"}
   {:name "Manipur State museum",
    :longitude 93.9370419,
    :latitude 24.8048608,
@@ -2278,7 +2278,7 @@
    :longitude 76.6777198,
    :latitude 12.3023964,
    :source :openstreetmap,
-   :locality "Mysuru"}
+   :location "Mysuru"}
   {:name "Melpazhur Mana (Shankaracharyas Maternal Birth Home)",
    :longitude 76.4558974,
    :latitude 9.8786935,
@@ -2291,7 +2291,7 @@
    :longitude 75.7414199,
    :latitude 31.1967317,
    :source :openstreetmap,
-   :locality "phagwara"}
+   :location "phagwara"}
   {:name "MInarals",
    :longitude 73.8119388,
    :latitude 17.9319881,
@@ -2388,7 +2388,7 @@
    :longitude 88.5216124,
    :latitude 22.5502064,
    :source :openstreetmap,
-   :locality "New Town"}
+   :location "New Town"}
   {:name "Museum of Christian Art",
    :longitude 73.9069533,
    :latitude 15.5012472,
@@ -2398,7 +2398,7 @@
    :longitude 77.0096677,
    :latitude 28.4707704,
    :source :openstreetmap,
-   :locality "Sector 4, Gurugram, Haryana"}
+   :location "Sector 4, Gurugram, Haryana"}
   {:name "Museum of Goa",
    :longitude 73.7953062,
    :latitude 15.5256419,
@@ -2436,7 +2436,7 @@
    :longitude 76.6439647,
    :latitude 12.3160655,
    :source :openstreetmap,
-   :locality "Mysuru"}
+   :location "Mysuru"}
   {:name "Naam Art Gallery",
    :longitude 76.3573013,
    :latitude 32.1886641,
@@ -2496,7 +2496,7 @@
    :latitude 28.6096405,
    :source :openstreetmap,
    :homepage "https://www.ngmaindia.gov.in",
-   :locality "Jaipur House, India Gate, New Delhi"}
+   :location "Jaipur House, India Gate, New Delhi"}
   {:name "National Handicrafts Museum",
    :longitude 77.2422297,
    :latitude 28.6138563,
@@ -2518,12 +2518,12 @@
    :longitude 77.2455589,
    :latitude 28.6132281,
    :source :openstreetmap,
-   :locality "Near Gate No.1, Pragati Maidan, New Delhi, Delhi"}
+   :location "Near Gate No.1, Pragati Maidan, New Delhi, Delhi"}
   {:name "Natural History Museum (Robin's Museum)",
    :longitude 93.9674126,
    :latitude 26.5150803,
    :source :openstreetmap,
-   :locality "Golaghat"}
+   :location "Golaghat"}
   {:name "Nature Education Centre",
    :longitude 72.8626505,
    :latitude 19.0524841,
@@ -2536,7 +2536,7 @@
    :longitude 88.4250315,
    :latitude 22.5806149,
    :source :openstreetmap,
-   :locality "Sector 2, Saltlake"}
+   :location "Sector 2, Saltlake"}
   {:name "Natya Tarangini",
    :longitude 77.2265783,
    :latitude 28.5288075,
@@ -2562,7 +2562,7 @@
    :longitude 88.3471238,
    :latitude 22.5425282,
    :source :openstreetmap,
-   :locality "Kolkata"}
+   :location "Kolkata"}
   {:name "Nehru Gallery",
    :longitude 81.8493783,
    :latitude 25.4571842,
@@ -2599,7 +2599,7 @@
    :longitude 76.2504098,
    :latitude 11.300088,
    :source :openstreetmap,
-   :locality "NILAMBUR"}
+   :location "NILAMBUR"}
   {:name "Nilgiri Mountain Railway Museum",
    :longitude 76.9348803,
    :latitude 11.2994192,
@@ -2633,7 +2633,7 @@
    :longitude 76.6858093,
    :latitude 10.7255023,
    :source :openstreetmap,
-   :locality "Kodumba, Palakkad"}
+   :location "Kodumba, Palakkad"}
   {:name "Oachira Velukutty Memorial",
    :longitude 76.5240183,
    :latitude 9.1171934,
@@ -2642,7 +2642,7 @@
    :longitude 85.8637029,
    :latitude 20.4856594,
    :source :openstreetmap,
-   :locality "Biju Patnaik Colony"}
+   :location "Biju Patnaik Colony"}
   {:name "Odisha State Maritime Museum",
    :longitude 85.8964053,
    :latitude 20.4788792,
@@ -2683,7 +2683,7 @@
    :longitude 73.5902554,
    :latitude 21.23663,
    :source :openstreetmap,
-   :locality "Songadh"}
+   :location "Songadh"}
   {:name "OPS",
    :longitude 77.2155794,
    :latitude 28.5485399,
@@ -2696,7 +2696,7 @@
    :longitude 72.8306583,
    :latitude 19.0152189,
    :source :openstreetmap,
-   :locality "Mumbai"}
+   :location "Mumbai"}
   {:name "P.J.N.M. Institute of Homoeopathic Medical Sciences,Badnera",
    :longitude 77.7446089,
    :latitude 20.8857177,
@@ -2734,7 +2734,7 @@
    :longitude 76.9539824,
    :latitude 29.3566353,
    :source :openstreetmap,
-   :locality "Panipat, Haryana"}
+   :location "Panipat, Haryana"}
   {:name "PanjabRao Deshmukh Museam",
    :longitude 77.7724487,
    :latitude 20.9426499,
@@ -2760,13 +2760,13 @@
    :latitude 12.9274278,
    :source :openstreetmap,
    :homepage "https://paraminnovation.org/",
-   :locality "Ben"}
+   :location "Ben"}
   {:name "ParSEC Whitefield",
    :longitude 77.7285863,
    :latitude 12.9771291,
    :source :openstreetmap,
    :homepage "https://paramfoundation.org/parsec-whitefield/",
-   :locality "Bengaluru"}
+   :location "Bengaluru"}
   {:name "Partition Museum",
    :longitude 74.87905,
    :latitude 31.6257024,
@@ -2776,7 +2776,7 @@
    :longitude 77.2330733,
    :latitude 28.6635146,
    :source :openstreetmap,
-   :locality "Ambedkar University"}
+   :location "Ambedkar University"}
   {:name "Parvati Museum",
    :longitude 73.8468291,
    :latitude 18.4972669,
@@ -2790,12 +2790,12 @@
    :latitude 23.8558289,
    :source :openstreetmap,
    :homepage "http://patanpatola.com/",
-   :locality "Patan"}
+   :location "Patan"}
   {:name "Pathology Museum",
    :longitude 76.1614752,
    :latitude 11.5625263,
    :source :openstreetmap,
-   :locality "Mepadi, Kalpetta"}
+   :location "Mepadi, Kalpetta"}
   {:name "PATNA",
    :longitude 88.5803272,
    :latitude 22.4155442,
@@ -2816,7 +2816,7 @@
    :longitude 75.5814653,
    :latitude 11.9032378,
    :source :openstreetmap,
-   :locality "Uruvachal"}
+   :location "Uruvachal"}
   {:name "Pazhassi Raja Tomb and Musiem",
    :longitude 76.0008155,
    :latitude 11.8012155,
@@ -2830,7 +2830,7 @@
    :latitude 13.0068,
    :source :openstreetmap,
    :homepage "http://www.peepletree.in/",
-   :locality "Bangalore"}
+   :location "Bangalore"}
   {:name "PEOBRICS",
    :longitude 88.5477115,
    :latitude 22.4625088,
@@ -2839,12 +2839,12 @@
    :longitude 77.2517514,
    :latitude 28.5447649,
    :source :openstreetmap,
-   :locality "Kalkaji"}
+   :location "Kalkaji"}
   {:name "Peralam Desiya Kalasamithi",
    :longitude 75.2139864,
    :latitude 12.1710518,
    :source :openstreetmap,
-   :locality "Peralam"}
+   :location "Peralam"}
   {:name "periferry",
    :longitude 91.7377309,
    :latitude 26.1850039,
@@ -2858,7 +2858,7 @@
    :longitude 87.9851526,
    :latitude 22.1821784,
    :source :openstreetmap,
-   :locality "Haldia"}
+   :location "Haldia"}
   {:name "Picaso Parasyakala",
    :longitude 76.3469753,
    :latitude 11.0606365,
@@ -2986,7 +2986,7 @@
    :longitude 78.8268577,
    :latitude 9.371244,
    :source :openstreetmap,
-   :locality "Ramanathapuram"}
+   :location "Ramanathapuram"}
   {:name "Raman Archival Gallery",
    :longitude 77.5805113,
    :latitude 13.0128265,
@@ -3011,12 +3011,12 @@
    :longitude 83.0248777,
    :latitude 25.2705842,
    :source :openstreetmap,
-   :locality "Varanasi"}
+   :location "Varanasi"}
   {:name "Randhawa's house",
    :longitude 76.5768459,
    :latitude 29.5610057,
    :source :openstreetmap,
-   :locality "khizra Bad"}
+   :location "khizra Bad"}
   {:name "Rangoli Metro Art Center",
    :longitude 77.6040562,
    :latitude 12.9762684,
@@ -3057,7 +3057,7 @@
    :longitude 72.8361829,
    :latitude 18.934005,
    :source :openstreetmap,
-   :locality "Mumbai"}
+   :location "Mumbai"}
   {:name "Regional Museum of Natural History",
    :longitude 85.8319392,
    :latitude 20.2994312,
@@ -3081,7 +3081,7 @@
    :longitude 75.7861429,
    :latitude 11.2631957,
    :source :openstreetmap,
-   :locality "kozhikode"}
+   :location "kozhikode"}
   {:name "Remember Bhopal Museum",
    :longitude 77.4008672,
    :latitude 23.2924467,
@@ -3092,7 +3092,7 @@
    :latitude 12.9713364,
    :source :openstreetmap,
    :homepage "https://www.indianpapermoneymuseum.com/",
-   :locality "Bangalore"}
+   :location "Bangalore"}
   {:name "Rishi Bankim Chandra Chattopadhyay's Residence and Museum",
    :longitude 88.4163069,
    :latitude 22.883254,
@@ -3101,12 +3101,12 @@
    :longitude 73.7707934,
    :latitude 18.573321,
    :source :openstreetmap,
-   :locality "Pune"}
+   :location "Pune"}
   {:name "Rkcs Art Gallery And Museum",
    :longitude 93.9358263,
    :latitude 24.7960475,
    :source :openstreetmap,
-   :locality "Imphal, Manipur"}
+   :location "Imphal, Manipur"}
   {:name "Rock Art Museum",
    :longitude 78.0672754,
    :latitude 32.2282749,
@@ -3128,7 +3128,7 @@
    :latitude 12.9951709,
    :source :openstreetmap,
    :homepage "https://www.rotary-bc.org/",
-   :locality "Bengaluru"}
+   :location "Bengaluru"}
   {:name "Roys Music Academy",
    :longitude 80.2279012,
    :latitude 12.9859064,
@@ -3146,7 +3146,7 @@
    :latitude 8.5000051,
    :source :openstreetmap,
    :homepage "https://ind.rs.gov.ru/en",
-   :locality "Thiruvananthapuram, Kerala"}
+   :location "Thiruvananthapuram, Kerala"}
   {:name "Russian House",
    :longitude 77.2268766,
    :latitude 28.6242024,
@@ -3155,17 +3155,17 @@
    :longitude 74.8992846,
    :latitude 31.7284209,
    :source :openstreetmap,
-   :locality "amritsar"}
+   :location "amritsar"}
   {:name "Sabha",
    :longitude 77.6111465,
    :latitude 12.9834167,
    :source :openstreetmap,
-   :locality "Bengaluru"}
+   :location "Bengaluru"}
   {:name "Sadioura's villa",
    :longitude 74.9042853,
    :latitude 31.6168172,
    :source :openstreetmap,
-   :locality "Amritsar"}
+   :location "Amritsar"}
   {:name "Sahodaran Ayappan Museum",
    :longitude 76.1941726,
    :latitude 10.1548055,
@@ -3266,7 +3266,7 @@
    :longitude 72.981098,
    :latitude 22.536344,
    :source :openstreetmap,
-   :locality "Anand"}
+   :location "Anand"}
   {:name "Sardar Patel National Memorial",
    :longitude 72.5911974,
    :latitude 23.0613383,
@@ -3279,7 +3279,7 @@
    :longitude 75.6065102,
    :latitude 11.5595513,
    :source :openstreetmap,
-   :locality "Iringal"}
+   :location "Iringal"}
   {:name "Sarhad Gatha (BSF Musuem)",
    :longitude 71.2121181,
    :latitude 24.2193243,
@@ -3305,19 +3305,19 @@
    :longitude 92.7562878,
    :latitude 11.6548003,
    :source :openstreetmap,
-   :locality "Port Blair"}
+   :location "Port Blair"}
   {:name "Science City",
    :longitude 88.3960089,
    :latitude 22.5400437,
    :source :openstreetmap,
    :homepage "https://sciencecitykolkata.org.in/",
-   :locality "Kolkata"}
+   :location "Kolkata"}
   {:name "Science Gallery Bengaluru",
    :longitude 77.5846207,
    :latitude 13.0255469,
    :source :openstreetmap,
    :homepage "https://bengaluru.sciencegallery.com/",
-   :locality "Bengaluru"}
+   :location "Bengaluru"}
   {:name "Science Museum",
    :longitude 76.8288266,
    :latitude 17.3354737,
@@ -3334,7 +3334,7 @@
    :longitude 82.5614444,
    :latitude 18.8819847,
    :source :openstreetmap,
-   :locality "Jeypore"}
+   :location "Jeypore"}
   {:name "Sculpture Gallery",
    :longitude 73.5827831,
    :latitude 23.3213996,
@@ -3368,7 +3368,7 @@
    :longitude 77.3093662,
    :latitude 19.1685781,
    :source :openstreetmap,
-   :locality "Nanded"}
+   :location "Nanded"}
   {:name "Shanker's International Doll Museum",
    :longitude 77.2416988,
    :latitude 28.6303917,
@@ -3388,7 +3388,7 @@
    :longitude 76.4820242,
    :latitude 9.9443936,
    :source :openstreetmap,
-   :locality "Muvattupuzha"}
+   :location "Muvattupuzha"}
   {:name "Shaw Art Palace",
    :longitude 74.8767891,
    :latitude 34.098438,
@@ -3414,7 +3414,7 @@
    :latitude 11.0234159,
    :source :openstreetmap,
    :homepage "https://www.tfacbe.com/",
-   :locality "coimbatore"}
+   :location "coimbatore"}
   {:name "Shivsrushti Historical Theme Park Pune",
    :longitude 73.8369378,
    :latitude 18.4567142,
@@ -3428,7 +3428,7 @@
    :latitude 12.9595629,
    :source :openstreetmap,
    :homepage "https://shoonyaspace.com/",
-   :locality "Bengaluru"}
+   :location "Bengaluru"}
   {:name "Short Wave Radio Museum",
    :longitude 77.5376737,
    :latitude 12.9842206,
@@ -3449,7 +3449,7 @@
    :longitude 75.7867058,
    :latitude 31.2212996,
    :source :openstreetmap,
-   :locality "Phagwara"}
+   :location "Phagwara"}
   {:name "Shri Rama Arts",
    :longitude 76.8951669,
    :latitude 12.5199068,
@@ -3541,7 +3541,7 @@
    :latitude 11.9299456,
    :source :openstreetmap,
    :homepage "https://www.pondicherry-arts.com/",
-   :locality "Pondicherry"}
+   :location "Pondicherry"}
   {:name "Space Museum",
    :longitude 80.1698077,
    :latitude 13.7209281,
@@ -3558,7 +3558,7 @@
    :longitude 74.8131587,
    :latitude 34.0668084,
    :source :openstreetmap,
-   :locality "Srinagar"}
+   :location "Srinagar"}
   {:name "Sree Balaji Art Gallery",
    :longitude 77.6022435,
    :latitude 12.9808556,
@@ -3575,7 +3575,7 @@
    :longitude 75.8049147,
    :latitude 11.2261225,
    :source :openstreetmap,
-   :locality "Kozhikode Municipal Corporation"}
+   :location "Kozhikode Municipal Corporation"}
   {:name "Sri Venkateswara Museum",
    :longitude 79.3429891,
    :latitude 13.683924,
@@ -3588,7 +3588,7 @@
    :longitude 76.2448206,
    :latitude 9.9648709,
    :source :openstreetmap,
-   :locality "Fort Cochin"}
+   :location "Fort Cochin"}
   {:name "St. Alphonsa Museum",
    :longitude 76.7259165,
    :latitude 9.7027542,
@@ -3653,12 +3653,12 @@
    :latitude 28.5969399,
    :source :openstreetmap,
    :homepage "https://www.sulabhtoiletmuseum.org",
-   :locality "Mahavir Enclave"}
+   :location "Mahavir Enclave"}
   {:name "Sun Temple Museum",
    :longitude 72.1341284,
    :latitude 23.582391,
    :source :openstreetmap,
-   :locality "modhera"}
+   :location "modhera"}
   {:name "Sunaparanta, Goa Centre for the Arts",
    :longitude 73.827546,
    :latitude 15.4938706,
@@ -3749,7 +3749,7 @@
    :longitude 77.0101417,
    :latitude 8.4491385,
    :source :openstreetmap,
-   :locality "pravachambalam"}
+   :location "pravachambalam"}
   {:name "Tharangambadi Maritime Museum",
    :longitude 79.8549332,
    :latitude 11.0269236,
@@ -3790,7 +3790,7 @@
    :longitude 74.257609,
    :latitude 30.6021282,
    :source :openstreetmap,
-   :locality "Jalalabad"}
+   :location "Jalalabad"}
   {:name "The Popsicle Studio",
    :longitude 77.5950448,
    :latitude 12.9873315,
@@ -3821,7 +3821,7 @@
    :longitude 93.9504114,
    :latitude 24.7939139,
    :source :openstreetmap,
-   :locality "Imphal"}
+   :location "Imphal"}
   {:name "thrissivaperoor nasik dhol team office",
    :longitude 76.1733741,
    :latitude 10.4113835,
@@ -3830,7 +3830,7 @@
    :longitude 75.9161715,
    :latitude 10.9081012,
    :source :openstreetmap,
-   :locality "Tirur"}
+   :location "Tirur"}
   {:name "Tibetian Arts Gallery",
    :longitude 77.0121613,
    :latitude 8.3597687,
@@ -3855,7 +3855,7 @@
    :longitude 76.042734,
    :latitude 30.8026203,
    :source :openstreetmap,
-   :locality "Doraha"}
+   :location "Doraha"}
   {:name "TNGO Function Hall",
    :longitude 80.1593886,
    :latitude 17.2542452,
@@ -3952,7 +3952,7 @@
    :longitude 88.1510592,
    :latitude 25.6547708,
    :source :openstreetmap,
-   :locality "Raiganj, West Bengal"}
+   :location "Raiganj, West Bengal"}
   {:name "Uttar Pradesh Sangeet Natak Akademi",
    :longitude 80.9731244,
    :latitude 26.8554541,
@@ -4114,7 +4114,7 @@
    :longitude 73.7734037,
    :latitude 19.9653882,
    :source :openstreetmap,
-   :locality "Nashik"}
+   :location "Nashik"}
   {:name "Wilson Car Museum",
    :longitude 77.6399222,
    :latitude 12.963329,
@@ -4128,7 +4128,7 @@
    :longitude 73.8236524,
    :latitude 18.4919917,
    :source :openstreetmap,
-   :locality "Natraj Society"}
+   :location "Natraj Society"}
   {:name "Yashwantrao Chavan Art Gallery",
    :longitude 73.8123271,
    :latitude 18.5029785,
@@ -4175,7 +4175,7 @@
    :longitude 85.1333756,
    :latitude 25.6126437,
    :source :openstreetmap,
-   :locality "Patna"}
+   :location "Patna"}
   {:name "भाऊ दाजी लाड संग्रहालय",
    :longitude 72.8348012,
    :latitude 18.9791636,
@@ -4207,7 +4207,7 @@
    :latitude 22.5449596,
    :source :openstreetmap,
    :homepage "https://www.victoriamemorial-cal.org/",
-   :locality "Kolkata"}
+   :location "Kolkata"}
   {:name "ਕੇਂਦਰੀ ਸਿੱਖ ਅਜਾਇਬ ਘਰ",
    :longitude 74.8771665,
    :latitude 31.6206274,
@@ -4237,7 +4237,7 @@
    :longitude 76.6968956,
    :latitude 11.4131715,
    :source :openstreetmap,
-   :locality "Ooty"}
+   :location "Ooty"}
   {:name "పంగిడిగూడెం చైతన్య గోదావరి బ్యాంక్",
    :longitude 81.2464554,
    :latitude 16.8637728,

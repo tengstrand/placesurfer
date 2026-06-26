@@ -9,19 +9,19 @@
    :latitude -31.024278285262653,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22344",
-   :locality "Port Edward"}
+   :location "Port Edward"}
   {:name "Kelvin Mike",
    :longitude 177.96965114858233,
    :latitude -60.84881472588249,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24557",
-   :locality "Nigeria"}
+   :location "Nigeria"}
   {:name "Noordhoek Commons",
    :longitude 18.3738678939921,
    :latitude -34.09835583225623,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29246",
-   :locality "Noordhoek"}],
+   :location "Noordhoek"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

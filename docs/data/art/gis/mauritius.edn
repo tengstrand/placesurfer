@@ -43,7 +43,7 @@
    :longitude 57.5141149,
    :latitude -20.1088709,
    :source :openstreetmap,
-   :locality "Riche Terre"}
+   :location "Riche Terre"}
   {:name "Four A Chaux De Petit Verger",
    :longitude 57.4339122,
    :latitude -20.1751761,
@@ -56,12 +56,12 @@
    :longitude 57.6155366,
    :latitude -20.0711254,
    :source :openstreetmap,
-   :locality "Domaine de Labourdonnais, Mapou"}
+   :location "Domaine de Labourdonnais, Mapou"}
   {:name "Institut francais",
    :longitude 57.4782958,
    :latitude -20.2427483,
    :source :openstreetmap,
-   :locality "Rose Hill"}
+   :location "Rose Hill"}
   {:name "L'Aventure du Sucre",
    :longitude 57.5741799,
    :latitude -20.0976858,
@@ -82,7 +82,7 @@
    :longitude 57.4218173,
    :latitude -20.2826097,
    :source :openstreetmap,
-   :locality "Beaux Songes"}
+   :location "Beaux Songes"}
   {:name "Museum Touche Du Bois",
    :longitude 57.4176327,
    :latitude -20.4259667,
@@ -91,7 +91,7 @@
    :longitude 63.4277606,
    :latitude -19.6778277,
    :source :openstreetmap,
-   :locality "Port Mathurin"}
+   :location "Port Mathurin"}
   {:name "National History Museum Mahebourg",
    :longitude 57.7030065,
    :latitude -20.4162831,
@@ -100,7 +100,7 @@
    :longitude 57.5035001,
    :latitude -20.1642184,
    :source :openstreetmap,
-   :locality "Port-Louis"}
+   :location "Port-Louis"}
   {:name "Robert Edward Hart Museum",
    :longitude 57.5245676,
    :latitude -20.5230742,

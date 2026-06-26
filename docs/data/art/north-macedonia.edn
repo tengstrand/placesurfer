@@ -21,7 +21,7 @@
    :longitude 22.3348959,
    :latitude 42.2020133,
    :source :openstreetmap,
-   :locality "Kriva Palanka",
+   :location "Kriva Palanka",
    :image "",
    :description ""}
   {:name "Eтнолошки музеј",
@@ -78,7 +78,7 @@
    :latitude 41.9957113,
    :source :openstreetmap,
    :homepage "https://dk-kocoracin.org.mk/",
-   :locality "Cкoпje",
+   :location "Cкoпje",
    :image "",
    :description ""}
   {:name "Vardarski Rid",
@@ -115,7 +115,7 @@
    :longitude 22.7721162,
    :latitude 41.9663618,
    :source :openstreetmap,
-   :locality "Делчево",
+   :location "Делчево",
    :image "",
    :description ""}
   {:name "Куќа на Робевци",
@@ -129,7 +129,7 @@
    :longitude 21.2466584,
    :latitude 41.3721718,
    :source :openstreetmap,
-   :locality "Крушево",
+   :location "Крушево",
    :image "",
    :description ""}
   {:name "Ловен Дом",
@@ -154,7 +154,7 @@
    :longitude 21.4429128,
    :latitude 41.9964449,
    :source :openstreetmap,
-   :locality "Cкoпje",
+   :location "Cкoпje",
    :image "",
    :description ""}
   {:name "Музеј Галерија Кавадарци",
@@ -167,7 +167,7 @@
    :longitude 21.3356462,
    :latitude 41.0238033,
    :source :openstreetmap,
-   :locality "Битола",
+   :location "Битола",
    :image "",
    :description ""}
   {:name "Музеј на град Берово",
@@ -189,7 +189,7 @@
    :latitude 41.9909145,
    :source :openstreetmap,
    :homepage "https://museumskopje.mk/",
-   :locality "Cкoпje",
+   :location "Cкoпje",
    :image "",
    :description ""}
   {:name "Музеј на Дојран",
@@ -209,7 +209,7 @@
    :longitude 21.2453034,
    :latitude 41.3690527,
    :source :openstreetmap,
-   :locality "Крушево",
+   :location "Крушево",
    :image "",
    :description ""}
   {:name "Музеј на Македонија",
@@ -217,7 +217,7 @@
    :latitude 42.0026676,
    :source :openstreetmap,
    :homepage "https://nationalgallery.mk/",
-   :locality "Cкoпje",
+   :location "Cкoпje",
    :image "",
    :description ""}
   {:name "Музеј на НОВ",
@@ -231,14 +231,14 @@
    :latitude 42.0039886,
    :source :openstreetmap,
    :homepage "https://msu.mk/home/",
-   :locality "Cкoпje",
+   :location "Cкoпje",
    :image "",
    :description ""}
   {:name "Музеј на христијанската и муслиманската култура",
    :longitude 21.3349396,
    :latitude 41.0307477,
    :source :openstreetmap,
-   :locality "Битола",
+   :location "Битола",
    :image "",
    :description ""}
   {:name "Музеј Штип",
@@ -264,7 +264,7 @@
    :latitude 41.9987239,
    :source :openstreetmap,
    :homepage "https://nationalgallery.mk/",
-   :locality "Cкoпje",
+   :location "Cкoпje",
    :image "",
    :description ""}
   {:name "Никола Мартиноски",
@@ -307,7 +307,7 @@
    :longitude 21.0138121,
    :latitude 41.0883715,
    :source :openstreetmap,
-   :locality "Ресен",
+   :location "Ресен",
    :image "",
    :description ""}
   {:name "Стале Попов",

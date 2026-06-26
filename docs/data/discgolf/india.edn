@@ -5,7 +5,7 @@
  :generated-at "2026-05-25T14:14:01.651187Z",
  :positions
  [{:description "",
-   :locality "Hisar",
+   :location "Hisar",
    :homepage "https://discgolfmetrix.com/course/33563",
    :name "Ajay",
    :longitude 5.9521665155012045,
@@ -18,7 +18,7 @@
    :latitude 19.172676359916437,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22274",
-   :locality "Pathri",
+   :location "Pathri",
    :image "",
    :description ""}
   {:name "RAJENDER KUMAR SAINI",
@@ -26,7 +26,7 @@
    :latitude 25.425694535719245,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18123",
-   :locality "Bundi Sub-District",
+   :location "Bundi Sub-District",
    :image "",
    :description ""}],
  :source

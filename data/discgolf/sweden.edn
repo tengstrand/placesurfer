@@ -14,7 +14,7 @@
    :latitude 57.77096614043333,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23887",
-   :locality "Jönköping",
+   :location "Jönköping",
    :image "",
    :description ""}
   {:name "Ale  blå",
@@ -22,7 +22,7 @@
    :latitude 57.89109754937442,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37212",
-   :locality "Nol",
+   :location "Nol",
    :image "",
    :description ""}
   {:name "Ale Discgolfcenter",
@@ -30,7 +30,7 @@
    :latitude 57.89141,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/3953",
-   :locality "Nol",
+   :location "Nol",
    :image "",
    :description ""}
   {:name "Ale gul",
@@ -38,7 +38,7 @@
    :latitude 57.90251350079822,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43013",
-   :locality "Sverige,Ale",
+   :location "Sverige,Ale",
    :image "",
    :description ""}
   {:name "Ale Rød",
@@ -60,7 +60,7 @@
    :latitude 60.256067163592945,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36409",
-   :locality "Tärnsjö",
+   :location "Tärnsjö",
    :image "",
    :description ""}
   {:name "Alviken 2022",
@@ -68,7 +68,7 @@
    :latitude 57.75366558294192,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29071",
-   :locality "Västervik",
+   :location "Västervik",
    :image "",
    :description ""}
   {:name "Alviken Discgolfbana",
@@ -76,7 +76,7 @@
    :latitude 57.7513328,
    :source :openstreetmap,
    :homepage "https://westervikdiscgolf.se/",
-   :locality "Västervik",
+   :location "Västervik",
    :image "",
    :description ""}
   {:name "Alvikens DGB",
@@ -91,7 +91,7 @@
    :latitude 59.32308994742769,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19784",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Anderstorp",
@@ -99,14 +99,14 @@
    :latitude 64.74218149200584,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18794",
-   :locality "Skellefteå",
+   :location "Skellefteå",
    :image "",
    :description ""}
   {:name "Annelund Discgolf",
    :longitude 13.0783597269889,
    :latitude 57.9863121205746,
    :source :discgolfapi,
-   :locality "Ljung",
+   :location "Ljung",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -115,7 +115,7 @@
    :latitude 57.98591886960668,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46510",
-   :locality "Västergötland",
+   :location "Västergötland",
    :image "",
    :description ""}
   {:name "Ansarve",
@@ -123,7 +123,7 @@
    :latitude 57.518434324927256,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34251",
-   :locality "Visby",
+   :location "Visby",
    :image "",
    :description ""}
   {:name "Arena Grosvad, Finspång",
@@ -131,14 +131,14 @@
    :latitude 58.71466158243902,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29770",
-   :locality "Finspång",
+   :location "Finspång",
    :image "",
    :description ""}
   {:name "Arvika discgolf",
    :longitude 12.4409387647591,
    :latitude 59.718625811009,
    :source :discgolfapi,
-   :locality "Arvika",
+   :location "Arvika",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -147,7 +147,7 @@
    :latitude 60.13966971688163,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27170",
-   :locality "Avesta",
+   :location "Avesta",
    :image "",
    :description ""}
   {:name "Avesta Discgolfbana (blå svårare)",
@@ -155,7 +155,7 @@
    :latitude 60.14149431620626,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46614",
-   :locality "Avesta",
+   :location "Avesta",
    :image "",
    :description ""}
   {:name "Axberg IF Discgolfbana",
@@ -163,7 +163,7 @@
    :latitude 59.392217434113974,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33414",
-   :locality "Dyltabruk",
+   :location "Dyltabruk",
    :image "",
    :description ""}
   {:name "Barnarps korthål",
@@ -184,14 +184,14 @@
    :latitude 64.78949762385591,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24427",
-   :locality "Bastuträsk",
+   :location "Bastuträsk",
    :image "",
    :description ""}
   {:name "Berga Discgolfpark",
    :longitude 12.721800506115,
    :latitude 56.0743888024198,
    :source :discgolfapi,
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -200,7 +200,7 @@
    :latitude 62.533390310906185,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31478",
-   :locality "Bergeforsen",
+   :location "Bergeforsen",
    :image "",
    :description ""}
   {:name "Bergshamra",
@@ -208,7 +208,7 @@
    :latitude 59.384317900683214,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30510",
-   :locality "Bergshamra",
+   :location "Bergshamra",
    :image "",
    :description ""}
   {:name "Birka",
@@ -216,14 +216,14 @@
    :latitude 63.235695001262485,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30100",
-   :locality "Ås",
+   :location "Ås",
    :image "",
    :description ""}
   {:name "Bispgårdens Discgolfbana",
    :longitude 16.6305769865044,
    :latitude 63.0231837043085,
    :source :discgolfapi,
-   :locality "Bispgården",
+   :location "Bispgården",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -239,7 +239,7 @@
    :latitude 58.2612307034108,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20088",
-   :locality "Sturefors",
+   :location "Sturefors",
    :image "",
    :description ""}
   {:name "Bjärka Säby FGB",
@@ -252,7 +252,7 @@
    :longitude 14.2482865272822,
    :latitude 59.2372190536659,
    :source :discgolfapi,
-   :locality "Björneborg",
+   :location "Björneborg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -268,7 +268,7 @@
    :latitude 58.3209171821045,
    :source :discgolfapi,
    :homepage "https://www.facebook.com/groups/bockarpdiscgolf",
-   :locality "Mjölby",
+   :location "Mjölby",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -277,7 +277,7 @@
    :latitude 64.86846,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11936",
-   :locality "Boliden",
+   :location "Boliden",
    :image "",
    :description ""}
   {:name "Boliden GK",
@@ -285,7 +285,7 @@
    :latitude 64.87745575977556,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30020",
-   :locality "Boliden",
+   :location "Boliden",
    :image "",
    :description ""}
   {:name "Boliden Röd 2023",
@@ -293,7 +293,7 @@
    :latitude 64.86828134579824,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33972",
-   :locality "Boliden",
+   :location "Boliden",
    :image "",
    :description ""}
   {:name "Boliden, Vit slinga",
@@ -301,7 +301,7 @@
    :latitude 64.86821953428864,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20914",
-   :locality "Boliden",
+   :location "Boliden",
    :image "",
    :description ""}
   {:name "Bolidens discgolfbana",
@@ -309,7 +309,7 @@
    :latitude 64.86812015416234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15939",
-   :locality "Boliden",
+   :location "Boliden",
    :image "",
    :description ""}
   {:name "Borensberg Discgolfpark",
@@ -322,7 +322,7 @@
    :longitude 15.2886666985094,
    :latitude 58.5659026247717,
    :source :discgolfapi,
-   :locality "Borensberg",
+   :location "Borensberg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -331,14 +331,14 @@
    :latitude 57.20025322496991,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31794",
-   :locality "Värnamo",
+   :location "Värnamo",
    :image "",
    :description ""}
   {:name "Borgstena Discgolf",
    :longitude 13.0203980153408,
    :latitude 57.883141511521,
    :source :discgolfapi,
-   :locality "Borgstena",
+   :location "Borgstena",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -347,7 +347,7 @@
    :latitude 59.38132253859922,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32153",
-   :locality "Lidingö",
+   :location "Lidingö",
    :image "",
    :description ""}
   {:name "Boxholm DiscgolfPark",
@@ -356,7 +356,7 @@
    :source :discgolfapi,
    :homepage
    "https://www.discgolfpark.com/course/boxholm-discgolfpark/",
-   :locality "Boxholm",
+   :location "Boxholm",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -365,7 +365,7 @@
    :latitude 59.2505109879052,
    :source :discgolfapi,
    :homepage "https://www.laget.se/KFUMOrebroFrisbee-Discgolf",
-   :locality "Örebro",
+   :location "Örebro",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -380,7 +380,7 @@
    :latitude 59.250941596736475,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4892",
-   :locality "Örebro",
+   :location "Örebro",
    :image "",
    :description ""}
   {:name "Bro Discgolfbana",
@@ -388,7 +388,7 @@
    :latitude 59.52003938929059,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24388",
-   :locality "Bro",
+   :location "Bro",
    :image "",
    :description ""}
   {:name "Brohults DGB",
@@ -396,7 +396,7 @@
    :latitude 56.0733,
    :source :discgolfapi,
    :homepage "https://www.laget.se/Nordvastra-Skanes-Frisbeeklubb",
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -404,7 +404,7 @@
    :longitude 14.4605174732058,
    :latitude 56.0723280723995,
    :source :discgolfapi,
-   :locality "Bromölla",
+   :location "Bromölla",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -413,7 +413,7 @@
    :latitude 59.61358030357036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37050",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bulltofta DGB",
@@ -421,7 +421,7 @@
    :latitude 55.59804493083511,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5470",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Bungalowbanan",
@@ -435,7 +435,7 @@
    :longitude 14.7674918174744,
    :latitude 56.874657864974,
    :source :discgolfapi,
-   :locality "Växjö",
+   :location "Växjö",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -452,7 +452,7 @@
    :latitude 59.548652003271656,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14547",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta 21 hål",
@@ -460,7 +460,7 @@
    :latitude 59.55043950176582,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18097",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta 21 hål (Maran)",
@@ -468,7 +468,7 @@
    :latitude 59.549922440494925,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18640",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta alla 21",
@@ -476,7 +476,7 @@
    :latitude 59.548955886162275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35579",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta FGB",
@@ -484,7 +484,7 @@
    :latitude 59.548686777650595,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6117",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta Fk",
@@ -492,7 +492,7 @@
    :latitude 59.548854098117175,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32987",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta FK  Grön Tävling",
@@ -507,7 +507,7 @@
    :latitude 59.54865522949183,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26534",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta Fk Blå",
@@ -522,7 +522,7 @@
    :latitude 59.54858649447311,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33195",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta original 2021",
@@ -530,7 +530,7 @@
    :latitude 59.54854759215226,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22836",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Bålsta Tävling2020",
@@ -538,7 +538,7 @@
    :latitude 59.549281154488995,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18792",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Böson",
@@ -546,7 +546,7 @@
    :latitude 59.38161655813902,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6049",
-   :locality "Lidingö",
+   :location "Lidingö",
    :image "",
    :description ""}
   {:name "Carlskrona DGB",
@@ -554,7 +554,7 @@
    :latitude 56.21616040572178,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31275",
-   :locality "Karlskrona",
+   :location "Karlskrona",
    :image "",
    :description ""}
   {:name "christoffer Sjögren",
@@ -562,7 +562,7 @@
    :latitude 61.17672095426042,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20235",
-   :locality "Flygstaden",
+   :location "Flygstaden",
    :image "",
    :description ""}
   {:name "Dals Ed",
@@ -583,7 +583,7 @@
    :longitude 15.7897055333153,
    :latitude 60.6198312494201,
    :source :discgolfapi,
-   :locality "Danholn",
+   :location "Danholn",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -594,7 +594,7 @@
    :latitude 60.6215,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9110",
-   :locality "Danholn",
+   :location "Danholn",
    :image "",
    :description ""}
   {:name "Disc Golf Åmål",
@@ -607,7 +607,7 @@
    :longitude 15.8065539,
    :latitude 58.7163485,
    :source :openstreetmap,
-   :locality "Finspång",
+   :location "Finspång",
    :image "",
    :description ""}
   {:name "Discgolf Gimo Herrgård",
@@ -621,7 +621,7 @@
    :latitude 64.719355,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/929",
-   :locality "Bergsbyn",
+   :location "Bergsbyn",
    :image "",
    :description ""}
   {:name "Discgolf Terminalen Red",
@@ -629,7 +629,7 @@
    :latitude 64.719355,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/929",
-   :locality "Bergsbyn",
+   :location "Bergsbyn",
    :image "",
    :description ""}
   {:name "DiscGolf Terminalen Skellefteå Open",
@@ -637,7 +637,7 @@
    :latitude 64.719327,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7728",
-   :locality "Bergsbyn",
+   :location "Bergsbyn",
    :image "",
    :description ""}
   {:name "Discgolf Terminalen Yellow",
@@ -645,14 +645,14 @@
    :latitude 64.719355,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/930",
-   :locality "Bergsbyn",
+   :location "Bergsbyn",
    :image "",
    :description ""}
   {:name "Djungelbanan",
    :longitude 12.7071838406762,
    :latitude 56.7162861814598,
    :source :discgolfapi,
-   :locality "Haverdal",
+   :location "Haverdal",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -661,7 +661,7 @@
    :latitude 56.159454174446296,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16896",
-   :locality "Hässleholm",
+   :location "Hässleholm",
    :image "",
    :description ""}
   {:name "Djupadalsparken Hässleholm",
@@ -669,7 +669,7 @@
    :latitude 56.15891744359602,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4757",
-   :locality "Hässleholm",
+   :location "Hässleholm",
    :image "",
    :description ""}
   {:name "Domarringen grön",
@@ -677,7 +677,7 @@
    :latitude 59.879371426435654,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19138",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Domarringen Grön + Röbo + Domarringen Svart 27-hål",
@@ -685,7 +685,7 @@
    :latitude 59.879195,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5232",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Domarringen grön+svart och Röbo",
@@ -693,7 +693,7 @@
    :latitude 59.879385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7154",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Dunes Mohed",
@@ -701,14 +701,14 @@
    :latitude 61.29367164762658,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47171",
-   :locality "Söderhamn",
+   :location "Söderhamn",
    :image "",
    :description ""}
   {:name "Dödes Udde Discgolfbana",
    :longitude 17.9289,
    :latitude 66.0772,
    :source :discgolfapi,
-   :locality "Arjeplog, Lappland",
+   :location "Arjeplog, Lappland",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -718,7 +718,7 @@
    :longitude 16.1618188,
    :latitude 58.4080262,
    :source :openstreetmap,
-   :locality "Östra Ryd",
+   :location "Östra Ryd",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -733,7 +733,7 @@
    :latitude 61.38373396160375,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25081",
-   :locality "Edsbyn",
+   :location "Edsbyn",
    :image "",
    :description ""}
   {:name "Edsbyn's Discgolfbana",
@@ -741,7 +741,7 @@
    :latitude 61.3786696787495,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5233",
-   :locality "Edsbyn",
+   :location "Edsbyn",
    :image "",
    :action :deleted,
    :description ""}
@@ -750,7 +750,7 @@
    :latitude 61.37935,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4845",
-   :locality "Edsbyn",
+   :location "Edsbyn",
    :image "",
    :description ""}
   {:name "Edsbyns discgolfbana 2024",
@@ -758,7 +758,7 @@
    :latitude 61.38101551638144,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18103",
-   :locality "Edsbyn",
+   :location "Edsbyn",
    :image "",
    :description ""}
   {:name "Ekensberg Discgolfpark",
@@ -767,7 +767,7 @@
    :source :discgolfapi,
    :homepage
    "https://nyoxvipers.weebly.com/ekensbergs-discgolfpark.html",
-   :locality "Nyköping",
+   :location "Nyköping",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -775,7 +775,7 @@
    :longitude 13.843,
    :latitude 58.7088,
    :source :discgolfapi,
-   :locality "Mariestad",
+   :location "Mariestad",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -783,7 +783,7 @@
    :longitude 14.9895,
    :latitude 57.6669,
    :source :discgolfapi,
-   :locality "Eksjö",
+   :location "Eksjö",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -792,7 +792,7 @@
    :latitude 55.8382,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6843",
-   :locality "Eslöv",
+   :location "Eslöv",
    :image "",
    :description ""}
   {:name "Fagerstranden",
@@ -800,7 +800,7 @@
    :latitude 62.50023971014781,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20413",
-   :locality "Fagervik",
+   :location "Fagervik",
    :image "",
    :description ""}
   {:name "Fagerstrandens Discgolfbana",
@@ -808,7 +808,7 @@
    :latitude 62.4973,
    :source :discgolfapi,
    :homepage "https://timradiscgolf.klubbenonline.se/",
-   :locality "Timrå",
+   :location "Timrå",
    :image "",
    :holes 20,
    :layout-holes 20,
@@ -820,7 +820,7 @@
    :source :discgolfapi,
    :homepage
    "https://www.falkenberg.se/upptack/aktiviteter/falkenberg-discgolf-park.html",
-   :locality "Falkenberg",
+   :location "Falkenberg",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -831,7 +831,7 @@
    :latitude 58.176908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8026",
-   :locality "Falköping",
+   :location "Falköping",
    :image "",
    :description ""}
   {:name "Fallebo DGC",
@@ -839,7 +839,7 @@
    :latitude 57.2816576670572,
    :source :discgolfapi,
    :homepage "https://idrottonline.se/fbfblakullaioskarshamn-frisbee/",
-   :locality "Oskarshamn",
+   :location "Oskarshamn",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -848,7 +848,7 @@
    :latitude 60.62195852437006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14714",
-   :locality "Falun",
+   :location "Falun",
    :image "",
    :description ""}
   {:name "Falun discgolfbana",
@@ -856,7 +856,7 @@
    :latitude 60.621776,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8030",
-   :locality "Falun",
+   :location "Falun",
    :image "",
    :description ""}
   {:name "Filsbäck Pay N' Play discgolfbana",
@@ -872,14 +872,14 @@
    :latitude 58.93082196386132,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40521",
-   :locality "Finnerödja",
+   :location "Finnerödja",
    :image "",
    :description ""}
   {:name "Fjugesta DGB",
    :longitude 14.8841762355563,
    :latitude 59.1724655073335,
    :source :discgolfapi,
-   :locality "Fjugesta",
+   :location "Fjugesta",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -888,7 +888,7 @@
    :latitude 58.3263715322783,
    :source :discgolfapi,
    :homepage "https://www.ranrikediscgolf.se/courses/lysekil-fjalla",
-   :locality "Lysekil",
+   :location "Lysekil",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -896,7 +896,7 @@
    :longitude 12.9701378,
    :latitude 57.7269567,
    :source :openstreetmap,
-   :locality "Borås",
+   :location "Borås",
    :image "",
    :description ""}
   {:name "Flygstaden",
@@ -904,7 +904,7 @@
    :latitude 61.292921113331005,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18117",
-   :locality "Söderhamn",
+   :location "Söderhamn",
    :image "",
    :description ""}
   {:name "Flygstaden (20 hål)",
@@ -912,7 +912,7 @@
    :latitude 61.2717264586428,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27969",
-   :locality "Söderhamn",
+   :location "Söderhamn",
    :image "",
    :description ""}
   {:name "Flygstaden (Nationaldagsdubbeln 2026)",
@@ -927,14 +927,14 @@
    :latitude 61.272205482382304,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15048",
-   :locality "Söderhamn",
+   :location "Söderhamn",
    :image "",
    :description ""}
   {:name "Flygstadens DGB",
    :longitude 17.101,
    :latitude 61.2749,
    :source :discgolfapi,
-   :locality "Söderhamn",
+   :location "Söderhamn",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -942,7 +942,7 @@
    :longitude 13.8447607163335,
    :latitude 59.3863885993664,
    :source :discgolfapi,
-   :locality "Väse",
+   :location "Väse",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -951,7 +951,7 @@
    :latitude 59.370884943170296,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27313",
-   :locality "Strängnäs",
+   :location "Strängnäs",
    :image "",
    :description ""}
   {:name "Folkparken",
@@ -959,7 +959,7 @@
    :latitude 59.370884943170296,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27313",
-   :locality "Strängnäs",
+   :location "Strängnäs",
    :image "",
    :description ""}
   {:name "Forshaga",
@@ -967,14 +967,14 @@
    :latitude 59.530633040216685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14303",
-   :locality "Forshaga",
+   :location "Forshaga",
    :image "",
    :description ""}
   {:name "Fribbeland",
    :longitude 12.5362113,
    :latitude 57.9300205,
    :source :discgolfapi,
-   :locality "Vårgårda",
+   :location "Vårgårda",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -989,7 +989,7 @@
    :longitude 12.9148042201996,
    :latitude 58.0942674818489,
    :source :discgolfapi,
-   :locality "Herrljunga",
+   :location "Herrljunga",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -998,7 +998,7 @@
    :latitude 55.78327765663914,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25751",
-   :locality "Furulund",
+   :location "Furulund",
    :image "",
    :description ""}
   {:name "Fågelviksslingan",
@@ -1014,7 +1014,7 @@
    :latitude 58.5229227,
    :source :discgolfapi,
    :homepage "https://www.facebook.com/groups/774772545953562/",
-   :locality "Motala",
+   :location "Motala",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1023,7 +1023,7 @@
    :latitude 59.3579,
    :source :discgolfapi,
    :homepage "https://discgolfmetrix.com/course/15117",
-   :locality "Strängnäs",
+   :location "Strängnäs",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1039,7 +1039,7 @@
    :latitude 59.19801597385924,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27620",
-   :locality "Södertälje",
+   :location "Södertälje",
    :image "",
    :description ""}
   {:name "Gipen DiscGolfPark",
@@ -1047,7 +1047,7 @@
    :latitude 59.79553496193927,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35045",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Gipen DiscGolfPark 9-hålsbanan",
@@ -1072,14 +1072,14 @@
    :latitude 58.768514682564785,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35431",
-   :locality "Nyköping",
+   :location "Nyköping",
    :image "",
    :description ""}
   {:name "Grebo Discgolfbana",
    :longitude 15.8768861,
    :latitude 58.3035422,
    :source :discgolfapi,
-   :locality "Åtvidaberg",
+   :location "Åtvidaberg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1088,7 +1088,7 @@
    :latitude 59.7661675989377,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15672",
-   :locality "Norrtälje",
+   :location "Norrtälje",
    :image "",
    :description ""}
   {:name "Grisslehamn",
@@ -1096,7 +1096,7 @@
    :latitude 60.09673565801015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42645",
-   :locality "Grisslehamn",
+   :location "Grisslehamn",
    :image "",
    :description ""}
   {:name "Grisslehamn DiscGolfPark",
@@ -1119,7 +1119,7 @@
    :latitude 60.68688819871369,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19848",
-   :locality "Grycksbo",
+   :location "Grycksbo",
    :image "",
    :description ""}
   {:name "Grycksbo Discgolfbana",
@@ -1127,7 +1127,7 @@
    :latitude 60.68599148013183,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33535",
-   :locality "Grycksbo",
+   :location "Grycksbo",
    :image "",
    :description ""}
   {:name "Gränby Discgolfbana",
@@ -1135,14 +1135,14 @@
    :latitude 59.87642588607957,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44591",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Grännäs Discgolfbana",
    :longitude 16.6151448,
    :latitude 58.1945374,
    :source :openstreetmap,
-   :locality "Valdemarsvik",
+   :location "Valdemarsvik",
    :image "",
    :description ""}
   {:name "Grästorpsskolans Discgolfbana",
@@ -1158,7 +1158,7 @@
    :latitude 65.236159,
    :source :discgolfapi,
    :homepage "https://discgolfmetrix.com/course/12204",
-   :locality "Piteå",
+   :location "Piteå",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -1169,14 +1169,14 @@
    :latitude 64.71874134249433,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20300",
-   :locality "Bergsbyn",
+   :location "Bergsbyn",
    :image "",
    :description ""}
   {:name "Gullbrandstorps Discgolfbana",
    :longitude 12.7268428269889,
    :latitude 56.7022571456535,
    :source :discgolfapi,
-   :locality "Gullbrandstorp",
+   :location "Gullbrandstorp",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1192,7 +1192,7 @@
    :longitude 15.5964625886719,
    :latitude 60.3950690014621,
    :source :discgolfapi,
-   :locality "Gustafs",
+   :location "Gustafs",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1201,7 +1201,7 @@
    :latitude 57.696652,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6662",
-   :locality "Borås",
+   :location "Borås",
    :image "",
    :description ""}
   {:name "Habo Frisbee",
@@ -1209,7 +1209,7 @@
    :latitude 57.90382248250327,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24885",
-   :locality "Habo",
+   :location "Habo",
    :image "",
    :description ""}
   {:name "Hackås/Fästedal DGC",
@@ -1217,7 +1217,7 @@
    :latitude 62.931555981977056,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29450",
-   :locality "Hackås",
+   :location "Hackås",
    :image "",
    :description ""}
   {:name "Hagaparkens Discgolfbana",
@@ -1225,7 +1225,7 @@
    :latitude 62.925341754085565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33281",
-   :locality "Kramfors",
+   :location "Kramfors",
    :image "",
    :description ""}
   {:name "Hammaren Discgolfpark",
@@ -1233,7 +1233,7 @@
    :latitude 59.268805981326864,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27306",
-   :locality "Mariefred",
+   :location "Mariefred",
    :image "",
    :description ""}
   {:name "Hammarstrand discgolf",
@@ -1241,7 +1241,7 @@
    :latitude 63.11061083565011,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26624",
-   :locality "Hammarstrand",
+   :location "Hammarstrand",
    :image "",
    :description ""}
   {:name "Hampetorps discgolfbana",
@@ -1256,7 +1256,7 @@
    :latitude 60.940298015283986,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26115",
-   :locality "Bergby",
+   :location "Bergby",
    :image "",
    :description ""}
   {:name "HAMRÅNGEBYGDEN TEST GUL LAYOUT",
@@ -1264,7 +1264,7 @@
    :latitude 60.940207570415424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44584",
-   :locality "BERGBY",
+   :location "BERGBY",
    :image "",
    :description ""}
   {:name "Haparanda Discgolfbana",
@@ -1272,7 +1272,7 @@
    :latitude 65.84746443810263,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35609",
-   :locality "Marielund",
+   :location "Marielund",
    :image "",
    :description ""}
   {:name "Hedebacken",
@@ -1287,7 +1287,7 @@
    :latitude 65.61584585407908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19380",
-   :locality "Luleå",
+   :location "Luleå",
    :image "",
    :description ""}
   {:name "Hells Mountain DGP",
@@ -1295,7 +1295,7 @@
    :latitude 59.31549871590373,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12764",
-   :locality "Hällberga",
+   :location "Hällberga",
    :image "",
    :description ""}
   {:name "Helsingborg",
@@ -1303,7 +1303,7 @@
    :latitude 56.069508,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5935",
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :description ""}
   {:name "Hemus Discgolfbana",
@@ -1311,14 +1311,14 @@
    :latitude 61.007259929278085,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5839",
-   :locality "Mora",
+   :location "Mora",
    :image "",
    :description ""}
   {:name "Herrljunga DiscGolfPark",
    :longitude 13.0357195651052,
    :latitude 58.0681722128062,
    :source :discgolfapi,
-   :locality "Herrljunga",
+   :location "Herrljunga",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1327,7 +1327,7 @@
    :latitude 58.4225352721561,
    :source :discgolfapi,
    :homepage "https://www.facebook.com/groups/313667210877067/",
-   :locality "Linghem",
+   :location "Linghem",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1336,14 +1336,14 @@
    :latitude 63.32759156450584,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29052",
-   :locality "Krokom",
+   :location "Krokom",
    :image "",
    :description ""}
   {:name "Hjortgårdens Discgolfbana",
    :longitude 12.5644,
    :latitude 57.9254,
    :source :discgolfapi,
-   :locality "Alingsås",
+   :location "Alingsås",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1360,7 +1360,7 @@
    :latitude 61.353591133245686,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40042",
-   :locality "Bollnäs",
+   :location "Bollnäs",
    :image "",
    :description ""}
   {:name "Hobergets Discgolfbana",
@@ -1368,7 +1368,7 @@
    :latitude 61.35402210343838,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14018",
-   :locality "Bollnäs",
+   :location "Bollnäs",
    :image "",
    :description ""}
   {:name "Hofors Discgolfbana",
@@ -1376,7 +1376,7 @@
    :latitude 60.55090983178124,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32565",
-   :locality "Hofors",
+   :location "Hofors",
    :image "",
    :description ""}
   {:name "Holmedals DiskGolfPark",
@@ -1384,7 +1384,7 @@
    :latitude 59.4744896407733,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32911",
-   :locality "Årjäng",
+   :location "Årjäng",
    :image "",
    :description ""}
   {:name "Hop Shed Disc Golf Park",
@@ -1392,7 +1392,7 @@
    :latitude 57.64815329055375,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33484",
-   :locality "Visby",
+   :location "Visby",
    :image "",
    :description ""}
   {:name "Hotings discgolf bana",
@@ -1400,14 +1400,14 @@
    :latitude 64.10978601110719,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19992",
-   :locality "Hoting",
+   :location "Hoting",
    :image "",
    :description ""}
   {:name "Hultsfreds DiscGolfPark",
    :longitude 15.8631027560477,
    :latitude 57.4952052364303,
    :source :discgolfapi,
-   :locality "Hultsfred",
+   :location "Hultsfred",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1421,7 +1421,7 @@
    :longitude 16.0195813,
    :latitude 58.1836692277685,
    :source :discgolfapi,
-   :locality "Åtvidaberg",
+   :location "Åtvidaberg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1430,7 +1430,7 @@
    :latitude 63.42772672264286,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18004",
-   :locality "Husum",
+   :location "Husum",
    :image "",
    :description ""}
   {:name "Husum VNT",
@@ -1438,14 +1438,14 @@
    :latitude 63.33269015274294,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19539",
-   :locality "Husum",
+   :location "Husum",
    :image "",
    :description ""}
   {:name "Husums DGB",
    :longitude 19.1304,
    :latitude 63.3381,
    :source :discgolfapi,
-   :locality "Husum",
+   :location "Husum",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1454,7 +1454,7 @@
    :latitude 58.91403732247136,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39839",
-   :locality "Hävla",
+   :location "Hävla",
    :image "",
    :description ""}
   {:name "Hällby",
@@ -1462,7 +1462,7 @@
    :latitude 59.393488553639145,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34551",
-   :locality "Hällbybrunn",
+   :location "Hällbybrunn",
    :image "",
    :description ""}
   {:name "Hällby Discgolfbana (Sonic Stadium)",
@@ -1470,7 +1470,7 @@
    :latitude 59.39641113157552,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39049",
-   :locality "Eskilstuna",
+   :location "Eskilstuna",
    :image "",
    :description ""}
   {:name "Hällefors Discgolfbana - Hurtigtorpet",
@@ -1478,7 +1478,7 @@
    :latitude 59.7862111778413,
    :source :discgolfapi,
    :homepage "https://www.facebook.com/groups/1010143516067668",
-   :locality "Hällefors",
+   :location "Hällefors",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -1489,7 +1489,7 @@
    :latitude 56.17354095894553,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6479",
-   :locality "Vankiva",
+   :location "Vankiva",
    :image "",
    :description ""}
   {:name "Hässlö 14 hål",
@@ -1497,7 +1497,7 @@
    :latitude 59.59145206545554,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18963",
-   :locality "Västerås",
+   :location "Västerås",
    :image "",
    :description ""}
   {:name "Hässlö Discgolfbana",
@@ -1505,7 +1505,7 @@
    :latitude 59.59140294114246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28917",
-   :locality "Västerås",
+   :location "Västerås",
    :image "",
    :description ""}
   {:name "Hässlö Västerås",
@@ -1513,7 +1513,7 @@
    :latitude 59.591499083685186,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/974",
-   :locality "Västerås",
+   :location "Västerås",
    :image "",
    :description ""}
   {:name "Hästhagens DGB",
@@ -1521,7 +1521,7 @@
    :latitude 59.2666578380253,
    :source :discgolfapi,
    :homepage "https://www.laget.se/KFUMOrebroFrisbee-Discgolf",
-   :locality "Örebro",
+   :location "Örebro",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1536,7 +1536,7 @@
    :latitude 58.91397796272213,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39842",
-   :locality "Hävla",
+   :location "Hävla",
    :image "",
    :description ""}
   {:name "Hågesta discgolfpark",
@@ -1544,7 +1544,7 @@
    :latitude 63.16307189082485,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19123",
-   :locality "Sollefteå",
+   :location "Sollefteå",
    :image "",
    :description ""}
   {:name "Håll 1",
@@ -1558,14 +1558,14 @@
    :latitude 57.11717642653588,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25706",
-   :locality "Varberg",
+   :location "Varberg",
    :image "",
    :description ""}
   {:name "Håstens DiscGolfPark",
    :longitude 12.277893,
    :latitude 57.11806,
    :source :discgolfapi,
-   :locality "Varberg",
+   :location "Varberg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1573,7 +1573,7 @@
    :longitude 14.1941775423296,
    :latitude 58.3023281533805,
    :source :discgolfapi,
-   :locality "Hjo",
+   :location "Hjo",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1582,7 +1582,7 @@
    :latitude 59.25766842627041,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31563",
-   :locality "Bandhagen",
+   :location "Bandhagen",
    :image "",
    :description ""}
   {:name "Högdalstoppen 18hål - 2025-08-11",
@@ -1590,14 +1590,14 @@
    :latitude 59.2584486746683,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44259",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Höör",
    :longitude 13.5563277865046,
    :latitude 55.9344541982317,
    :source :discgolfapi,
-   :locality "Höör",
+   :location "Höör",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1613,7 +1613,7 @@
    :latitude 63.8391315040912,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16887",
-   :locality "Umeå",
+   :location "Umeå",
    :image "",
    :description ""}
   {:name "I20 Discgolf",
@@ -1621,7 +1621,7 @@
    :latitude 63.83911222659793,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6842",
-   :locality "Umeå",
+   :location "Umeå",
    :image "",
    :description ""}
   {:name "Idre Fjäll Discgolf",
@@ -1637,14 +1637,14 @@
    :latitude 63.62127000792066,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29345",
-   :locality "Hörnefors",
+   :location "Hörnefors",
    :image "",
    :description ""}
   {:name "Ingestrands Discgolfbana",
    :longitude 12.6098702576698,
    :latitude 59.6248399917035,
    :source :discgolfapi,
-   :locality "Arvika",
+   :location "Arvika",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -1653,7 +1653,7 @@
    :latitude 59.574292631673984,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45325",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Isaberg 12-hole",
@@ -1661,7 +1661,7 @@
    :latitude 57.43492850870959,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28765",
-   :locality "Hestra",
+   :location "Hestra",
    :image "",
    :description ""}
   {:name "Jenny 2022",
@@ -1669,7 +1669,7 @@
    :latitude 57.76322666342014,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29072",
-   :locality "Västervik",
+   :location "Västervik",
    :image "",
    :description ""}
   {:name "Jenny discgolfbana",
@@ -1677,7 +1677,7 @@
    :latitude 57.7640221,
    :source :openstreetmap,
    :homepage "http://westervikdiscgolf.se/",
-   :locality "Västervik",
+   :location "Västervik",
    :image "",
    :description ""}
   {:name "Jokkmokk SK",
@@ -1700,7 +1700,7 @@
    :latitude 59.40093090293891,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22361",
-   :locality "Spånga",
+   :location "Spånga",
    :image "",
    :description ""}
   {:name "Järva 19-27",
@@ -1708,7 +1708,7 @@
    :latitude 59.41038968528093,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35081",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva 2021 27hål Ctier Sunday variation",
@@ -1716,7 +1716,7 @@
    :latitude 59.40727180759478,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24535",
-   :locality "Jakobsberg",
+   :location "Jakobsberg",
    :image "",
    :description ""}
   {:name "Järva 2023 19-27 x2",
@@ -1724,7 +1724,7 @@
    :latitude 59.4444417198622,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34625",
-   :locality "Jakobsberg",
+   :location "Jakobsberg",
    :image "",
    :description ""}
   {:name "Järva 2023 Winter edt 27hål kort tee.",
@@ -1732,7 +1732,7 @@
    :latitude 59.40340886368659,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32038",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva 2024 10-27 Winter warriors",
@@ -1740,7 +1740,7 @@
    :latitude 59.40337006153652,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37223",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva 2024 19-27",
@@ -1748,7 +1748,7 @@
    :latitude 59.40299182290059,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37222",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva 2024 Grön Kort tees",
@@ -1770,7 +1770,7 @@
    :latitude 59.402262966282876,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18392",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva Dgp 2021 - Front 9",
@@ -1778,7 +1778,7 @@
    :latitude 59.40087415988663,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22543",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva DGP 2022 -",
@@ -1786,7 +1786,7 @@
    :latitude 59.40145776731964,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26515",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva DGP 2022 - Master Layout",
@@ -1794,7 +1794,7 @@
    :latitude 59.40230381213911,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29544",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva DGP 27 hål amtee",
@@ -1802,7 +1802,7 @@
    :latitude 59.409783427429915,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24096",
-   :locality "Jakobsberg",
+   :location "Jakobsberg",
    :image "",
    :description ""}
   {:name "Järva discgolf park",
@@ -1810,7 +1810,7 @@
    :latitude 59.40064347305133,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22822",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva Discgolfpark",
@@ -1818,7 +1818,7 @@
    :latitude 59.402225308972135,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8052",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva Discgolfpark - Birdie Discgolf",
@@ -1826,7 +1826,7 @@
    :latitude 59.55337757742325,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21712",
-   :locality "Bro",
+   :location "Bro",
    :image "",
    :description ""}
   {:name "Järva Discgolfpark Gul Korta teepads 2024",
@@ -1834,7 +1834,7 @@
    :latitude 59.40204174171481,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39040",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Järva front 9 - Pro tees",
@@ -1842,7 +1842,7 @@
    :latitude 59.401333922985856,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15324",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva Junior DiscGolfPark",
@@ -1850,7 +1850,7 @@
    :latitude 59.4024620064184,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18383",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva Open 2021",
@@ -1858,7 +1858,7 @@
    :latitude 59.401688006637585,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25322",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva pro tee new layout",
@@ -1866,7 +1866,7 @@
    :latitude 59.401770369711755,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23074",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva SDGO 2019",
@@ -1874,7 +1874,7 @@
    :latitude 59.38485583098944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16434",
-   :locality "Lilla Ursvik",
+   :location "Lilla Ursvik",
    :image "",
    :description ""}
   {:name "Järva Winter Warrior 2023-24 Gul Långa",
@@ -1882,7 +1882,7 @@
    :latitude 59.40139426021125,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36092",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Järva Winter Warriors 2023-24 Gul Korta",
@@ -1890,7 +1890,7 @@
    :latitude 59.40076708234798,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36091",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "JärvaDGP 2021 - Green kp, Ctier Sunday",
@@ -1898,7 +1898,7 @@
    :latitude 59.404890260979386,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22676",
-   :locality "Kista",
+   :location "Kista",
    :image "",
    :description ""}
   {:name "Kaknäs Discgolfpark",
@@ -1906,7 +1906,7 @@
    :latitude 59.3342048,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15913",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Kaknästornet",
@@ -1914,7 +1914,7 @@
    :latitude 59.33495026563378,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24412",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Kalhyttans Discgolfbana",
@@ -1922,7 +1922,7 @@
    :latitude 59.7037297216618,
    :source :discgolfapi,
    :homepage "https://www.facebook.com/groups/181672132382199",
-   :locality "Filipstad",
+   :location "Filipstad",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -1933,7 +1933,7 @@
    :latitude 65.87746099755074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23107",
-   :locality "Kalix",
+   :location "Kalix",
    :image "",
    :description ""}
   {:name "Kalnes Discgolf Park",
@@ -1948,7 +1948,7 @@
    :latitude 57.41444779219657,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46675",
-   :locality "Kungsbacka",
+   :location "Kungsbacka",
    :image "",
    :description ""}
   {:name "Kaparebanan 2016",
@@ -1956,7 +1956,7 @@
    :latitude 57.41510089880145,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5640",
-   :locality "Onsala",
+   :location "Onsala",
    :image "",
    :description ""}
   {:name "Kaparebanan 2022",
@@ -1964,7 +1964,7 @@
    :latitude 57.41454635791442,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27248",
-   :locality "Onsala",
+   :location "Onsala",
    :image "",
    :description ""}
   {:name "Karlbergsparkens Putt and Approach",
@@ -1978,7 +1978,7 @@
    :latitude 59.324050285406116,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35582",
-   :locality "Karlskoga",
+   :location "Karlskoga",
    :image "",
    :description ""}
   {:name "Karnas Backe",
@@ -1986,7 +1986,7 @@
    :latitude 55.84438073082458,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17502",
-   :locality "Hörby",
+   :location "Hörby",
    :image "",
    :description ""}
   {:name "Karnas backe Discgolfpark",
@@ -1994,7 +1994,7 @@
    :latitude 55.85358757639949,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22615",
-   :locality "Hörby",
+   :location "Hörby",
    :image "",
    :description ""}
   {:name "Katrineholms Discgolfbana",
@@ -2002,7 +2002,7 @@
    :latitude 58.9793192775399,
    :source :discgolfapi,
    :homepage "https://katrineholmsdiscgolf.se/",
-   :locality "Katrineholm",
+   :location "Katrineholm",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2011,7 +2011,7 @@
    :latitude 58.035325,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9183",
-   :locality "Vårgårda",
+   :location "Vårgårda",
    :image "",
    :description ""}
   {:name "Kil DiscGolfPark",
@@ -2020,7 +2020,7 @@
    :source :discgolfapi,
    :homepage
    "https://www.facebook.com/groups/321583965448530/?ref=share",
-   :locality "Kil",
+   :location "Kil",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2029,7 +2029,7 @@
    :latitude 67.80071650611578,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23421",
-   :locality "Kiruna",
+   :location "Kiruna",
    :image "",
    :description ""}
   {:name "Klarälvens Discgolfbana",
@@ -2037,7 +2037,7 @@
    :latitude 59.52994233399528,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32609",
-   :locality "Forshaga",
+   :location "Forshaga",
    :image "",
    :description ""}
   {:name "Knektaparken",
@@ -2045,7 +2045,7 @@
    :latitude 57.77862205004013,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27385",
-   :locality "Jönköping",
+   :location "Jönköping",
    :image "",
    :description ""}
   {:name "Knivsta Discgolfpark",
@@ -2053,7 +2053,7 @@
    :latitude 59.71933831432483,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35154",
-   :locality "Knivsta",
+   :location "Knivsta",
    :image "",
    :description ""}
   {:name "Kolabacken Discgolf",
@@ -2074,7 +2074,7 @@
    :latitude 59.56396445101137,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24285",
-   :locality "Enhagen Ekbacken",
+   :location "Enhagen Ekbacken",
    :image "",
    :description ""}
   {:name "Kolbäck discgolfbana",
@@ -2082,7 +2082,7 @@
    :latitude 59.571384,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10460",
-   :locality "Kolbäck",
+   :location "Kolbäck",
    :image "",
    :description ""}
   {:name "Korthålsbanan",
@@ -2090,7 +2090,7 @@
    :latitude 59.49014866257326,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16576",
-   :locality "Åkersberga",
+   :location "Åkersberga",
    :image "",
    :description ""}
   {:name "Kristallen Årsta, Uppsala",
@@ -2098,7 +2098,7 @@
    :latitude 59.85922126337488,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42941",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Kristinaskolans Discgolfbana",
@@ -2106,7 +2106,7 @@
    :latitude 62.62702708035068,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6948",
-   :locality "Härnösand",
+   :location "Härnösand",
    :image "",
    :description ""}
   {:name "Kristinehamn",
@@ -2114,7 +2114,7 @@
    :latitude 59.294507057585804,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14283",
-   :locality "Kristinehamn",
+   :location "Kristinehamn",
    :image "",
    :description ""}
   {:name "Krutuddens DiscGolfBana",
@@ -2122,7 +2122,7 @@
    :latitude 60.26319347656599,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43822",
-   :locality "Östhammar",
+   :location "Östhammar",
    :image "",
    :description ""}
   {:name "KSK Discgolfbana",
@@ -2139,7 +2139,7 @@
    :latitude 60.714596730547385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40416",
-   :locality "Leksand",
+   :location "Leksand",
    :image "",
    :description ""}
   {:name "Kärra",
@@ -2147,7 +2147,7 @@
    :latitude 57.798567083613,
    :source :discgolfapi,
    :homepage "https://www.frisbeeklubben360.se/Banor/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2162,7 +2162,7 @@
    :latitude 63.17732295871306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19511",
-   :locality "Frösön",
+   :location "Frösön",
    :image "",
    :description ""}
   {:name "Kärson Discgolfbana",
@@ -2170,7 +2170,7 @@
    :latitude 59.32324500868033,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5694",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön - SKFK",
@@ -2178,7 +2178,7 @@
    :latitude 59.32410979115329,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18237",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön 1-18 Long Tees",
@@ -2186,7 +2186,7 @@
    :latitude 59.32289782224595,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28374",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön 18-32 (kort)",
@@ -2194,7 +2194,7 @@
    :latitude 59.32317662687075,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19026",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön 32 (kort)",
@@ -2202,7 +2202,7 @@
    :latitude 59.32379249499573,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18903",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön 32A",
@@ -2210,7 +2210,7 @@
    :latitude 59.3220557138597,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21670",
-   :locality "Drottningholm",
+   :location "Drottningholm",
    :image "",
    :description ""}
   {:name "Kärsön AMAtouren 2",
@@ -2218,7 +2218,7 @@
    :latitude 59.32346689382953,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14840",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön KGL",
@@ -2226,7 +2226,7 @@
    :latitude 59.320890557166706,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19129",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön Lördag Runda 1",
@@ -2234,7 +2234,7 @@
    :latitude 59.32439463345287,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27366",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kärsön Lördag Runda 2 2022",
@@ -2242,7 +2242,7 @@
    :latitude 59.32377543522392,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27369",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kättsätter Discgolfbana",
@@ -2250,7 +2250,7 @@
    :latitude 58.562542313887,
    :source :discgolfapi,
    :homepage "https://kattsatterdiscgolfbana.se/hem/baninformation/",
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :holes 20,
    :layout-holes 20,
@@ -2261,7 +2261,7 @@
    :latitude 58.561476,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7585",
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :description ""}
   {:name "Köpings Discgolfbana",
@@ -2269,7 +2269,7 @@
    :latitude 59.5089007012887,
    :source :discgolfapi,
    :homepage "https://laget.se/kopingsdg",
-   :locality "Köping",
+   :location "Köping",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2285,7 +2285,7 @@
    :longitude 14.5898665,
    :latitude 57.1632550626506,
    :source :discgolfapi,
-   :locality "Lammhult",
+   :location "Lammhult",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2294,7 +2294,7 @@
    :latitude 55.8729,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5554",
-   :locality "Landskrona",
+   :location "Landskrona",
    :image "",
    :description ""}
   {:name "Larvs FK Discgolf",
@@ -2302,7 +2302,7 @@
    :latitude 58.1914722088641,
    :source :discgolfapi,
    :homepage "https://larvsfk.se",
-   :locality "Larv",
+   :location "Larv",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2311,7 +2311,7 @@
    :latitude 57.8969095,
    :source :discgolfapi,
    :homepage "https://www.uif.se/start/?ID=415785",
-   :locality "Ulricehamn",
+   :location "Ulricehamn",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2320,14 +2320,14 @@
    :latitude 55.87275876726004,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5548",
-   :locality "Landskrona",
+   :location "Landskrona",
    :image "",
    :description ""}
   {:name "Lessebo Discgolfbana",
    :longitude 15.2828285074846,
    :latitude 56.7594470361664,
    :source :discgolfapi,
-   :locality "Lessebo",
+   :location "Lessebo",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2343,7 +2343,7 @@
    :latitude 59.492503470194606,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43505",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Lillsjöns discgolfbana",
@@ -2351,7 +2351,7 @@
    :latitude 59.49234773598433,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6019",
-   :locality "Kungsängen",
+   :location "Kungsängen",
    :image "",
    :description ""}
   {:name "Lindberg DiscGolfPark",
@@ -2359,7 +2359,7 @@
    :latitude 57.15364420156169,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32199",
-   :locality "Varberg",
+   :location "Varberg",
    :image "",
    :description ""}
   {:name "Linta Discgolf Park",
@@ -2367,7 +2367,7 @@
    :latitude 59.34392093842234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36026",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Ljungaverks discgolfbana",
@@ -2375,7 +2375,7 @@
    :latitude 62.490719718645664,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25373",
-   :locality "Ljungaverk",
+   :location "Ljungaverk",
    :image "",
    :description ""}
   {:name "Ljungby Discgolf",
@@ -2383,7 +2383,7 @@
    :latitude 56.8388406,
    :source :openstreetmap,
    :homepage "https://discgolfmetrix.com/course/4111",
-   :locality "Ljungby",
+   :location "Ljungby",
    :image "",
    :description ""}
   {:name "Ljungby Discgolf",
@@ -2398,7 +2398,7 @@
    :latitude 57.90807964283897,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29073",
-   :locality "Loftahammar",
+   :location "Loftahammar",
    :image "",
    :description ""}
   {:name "Lugnviks Discgolfbana",
@@ -2406,7 +2406,7 @@
    :latitude 62.927597746374744,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34084",
-   :locality "Lugnvik",
+   :location "Lugnvik",
    :image "",
    :description ""}
   {:name "Lundby 18 hål",
@@ -2414,7 +2414,7 @@
    :latitude 59.67136987640484,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18242",
-   :locality "Enköping",
+   :location "Enköping",
    :image "",
    :description ""}
   {:name "Lundby Discgolf Park",
@@ -2422,7 +2422,7 @@
    :latitude 59.67133977344861,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18484",
-   :locality "Enköping",
+   :location "Enköping",
    :image "",
    :description ""}
   {:name "Lundsbrunn Disc Golf Club",
@@ -2437,7 +2437,7 @@
    :latitude 60.022723429246895,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35568",
-   :locality "Hallstavik",
+   :location "Hallstavik",
    :image "",
    :description ""}
   {:name "Lygnevi Discgolfbana",
@@ -2445,7 +2445,7 @@
    :latitude 57.5361097,
    :source :discgolfapi,
    :homepage "https://www.camplygnevi.com/discgolf/",
-   :locality "Sätila",
+   :location "Sätila",
    :image "",
    :layout-name "Main Layout",
    :layout-par 27,
@@ -2454,7 +2454,7 @@
    :longitude 18.8082349558241,
    :latitude 57.7929276697356,
    :source :discgolfapi,
-   :locality "Lärbro",
+   :location "Lärbro",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2462,7 +2462,7 @@
    :longitude 16.0310833934692,
    :latitude 60.4586183962969,
    :source :discgolfapi,
-   :locality "Långshyttan",
+   :location "Långshyttan",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2471,7 +2471,7 @@
    :latitude 58.873568838893306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32931",
-   :locality "Nynäshamn",
+   :location "Nynäshamn",
    :image "",
    :description ""}
   {:name "Lövhagens DiscGolfPark 2*9",
@@ -2479,7 +2479,7 @@
    :latitude 58.8734474632592,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39600",
-   :locality "Nynäshamn",
+   :location "Nynäshamn",
    :image "",
    :description ""}
   {:name "Lövhults discgolfbana",
@@ -2487,7 +2487,7 @@
    :latitude 57.65476422091939,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24505",
-   :locality "Nässjö",
+   :location "Nässjö",
    :image "",
    :description ""}
   {:name "Lövöns discgolfbana",
@@ -2495,7 +2495,7 @@
    :latitude 63.7066084527723,
    :source :discgolfapi,
    :homepage "https://acdiscgolf.wixsite.com/acdg",
-   :locality "Holmsund",
+   :location "Holmsund",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2503,7 +2503,7 @@
    :longitude 14.9979149241997,
    :latitude 58.0526235950328,
    :source :discgolfapi,
-   :locality "Tranås",
+   :location "Tranås",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2512,7 +2512,7 @@
    :latitude 59.82641753057882,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19137",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Malå Disc Golf",
@@ -2525,7 +2525,7 @@
    :longitude 15.5966706355756,
    :latitude 57.6213653111148,
    :source :discgolfapi,
-   :locality "Mariannelund",
+   :location "Mariannelund",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2534,14 +2534,14 @@
    :latitude 63.8362313438953,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7789",
-   :locality "Umeå",
+   :location "Umeå",
    :image "",
    :description ""}
   {:name "Mellby Skogsbana",
    :longitude 12.9692756145996,
    :latitude 56.5122969510678,
    :source :discgolfapi,
-   :locality "Laholm",
+   :location "Laholm",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2550,7 +2550,7 @@
    :latitude 62.47743,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11208",
-   :locality "Torpshammar",
+   :location "Torpshammar",
    :image "",
    :description ""}
   {:name "Mjölby",
@@ -2558,7 +2558,7 @@
    :latitude 58.3288760007236,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23917",
-   :locality "Mjölby",
+   :location "Mjölby",
    :image "",
    :description ""}
   {:name "Mockfjärds",
@@ -2566,7 +2566,7 @@
    :latitude 60.50500386552761,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21147",
-   :locality "Mockfjärd",
+   :location "Mockfjärd",
    :image "",
    :description ""}
   {:name "Mohed",
@@ -2574,7 +2574,7 @@
    :latitude 61.297829654445565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28732",
-   :locality "Söderala",
+   :location "Söderala",
    :image "",
    :description ""}
   {:name "Monkey Island - Vanföret",
@@ -2582,7 +2582,7 @@
    :latitude 62.627595149213136,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16355",
-   :locality "Härnösand",
+   :location "Härnösand",
    :image "",
    :description ""}
   {:name "Mora Discgolfpark - Blå bana",
@@ -2590,7 +2590,7 @@
    :latitude 61.00604633015274,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18604",
-   :locality "Mora",
+   :location "Mora",
    :image "",
    :description ""}
   {:name "Morrums discgolf",
@@ -2598,14 +2598,14 @@
    :latitude 56.20015121835473,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29711",
-   :locality "Mörrum",
+   :location "Mörrum",
    :image "",
    :description ""}
   {:name "Motala DiscGolfPark",
    :longitude 15.0405398,
    :latitude 58.5450316,
    :source :openstreetmap,
-   :locality "Motala",
+   :location "Motala",
    :image "",
    :description ""}
   {:name "Mullsjö Discgolfbana",
@@ -2613,7 +2613,7 @@
    :latitude 57.9222744782162,
    :source :discgolfapi,
    :homepage "http://mullsjodiscgolf.se/",
-   :locality "Mullsjö",
+   :location "Mullsjö",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2621,7 +2621,7 @@
    :longitude 13.057981,
    :latitude 57.689867,
    :source :discgolfapi,
-   :locality "Målsryd",
+   :location "Målsryd",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2630,7 +2630,7 @@
    :latitude 57.2518878519982,
    :source :discgolfapi,
    :homepage "https://www.mårdaklevdiscgolfpark.se",
-   :locality "Mårdaklev",
+   :location "Mårdaklev",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2638,7 +2638,7 @@
    :longitude 16.4245773291446,
    :latitude 57.0410049429792,
    :source :discgolfapi,
-   :locality "Mönsterås",
+   :location "Mönsterås",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2653,7 +2653,7 @@
    :latitude 63.31341811848867,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28388",
-   :locality "Mörsil",
+   :location "Mörsil",
    :image "",
    :description ""}
   {:name "Nolhagabanan",
@@ -2661,7 +2661,7 @@
    :latitude 57.933199,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6184",
-   :locality "Alingsås",
+   :location "Alingsås",
    :image "",
    :description ""}
   {:name "Norrköping Discgolf Park",
@@ -2669,7 +2669,7 @@
    :latitude 58.5865109,
    :source :openstreetmap,
    :homepage "https://www.discgolfzon.se/",
-   :locality "Norrköping",
+   :location "Norrköping",
    :image
    "https://www.discgolfzon.se/wp-content/uploads/2025/03/DSC_0000_BURST20240623211646274-915x686.jpg",
    :holes 18,
@@ -2681,7 +2681,7 @@
    :latitude 64.7190159174821,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20301",
-   :locality "Bergsbyn",
+   :location "Bergsbyn",
    :image "",
    :description ""}
   {:name "Norrstrand",
@@ -2689,7 +2689,7 @@
    :latitude 65.32507968298972,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14828",
-   :locality "Piteå",
+   :location "Piteå",
    :image "",
    :description ""}
   {:name "Nya Kristinaskolans Discgolfbana",
@@ -2703,7 +2703,7 @@
    :longitude 17.8386487998234,
    :latitude 59.2135206889916,
    :source :discgolfapi,
-   :locality "Nynäshamn",
+   :location "Nynäshamn",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2712,7 +2712,7 @@
    :latitude 58.51685351191697,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8375",
-   :locality "Ljungsbro",
+   :location "Ljungsbro",
    :image "",
    :description ""}
   {:name "Orresta Ip",
@@ -2720,14 +2720,14 @@
    :latitude 59.65710606721831,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29543",
-   :locality "Västerås",
+   :location "Västerås",
    :image "",
    :description ""}
   {:name "Orsa DiscGolfPark",
    :longitude 14.6474059671164,
    :latitude 61.1117965462758,
    :source :discgolfapi,
-   :locality "Orsa",
+   :location "Orsa",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2736,7 +2736,7 @@
    :latitude 61.208039958063495,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28933",
-   :locality "Grönklitt västra",
+   :location "Grönklitt västra",
    :image "",
    :description ""}
   {:name "Oxelösund DiscGolfPark",
@@ -2744,7 +2744,7 @@
    :latitude 58.665840293168685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29068",
-   :locality "Oxelösund",
+   :location "Oxelösund",
    :image "",
    :description ""}
   {:name "Oxelösund DiscGolfPark",
@@ -2752,7 +2752,7 @@
    :latitude 58.67316837321698,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29067",
-   :locality "Oxelösund",
+   :location "Oxelösund",
    :image "",
    :description ""}
   {:name "Oxelösunds discgolfpark",
@@ -2760,7 +2760,7 @@
    :latitude 58.67358056192373,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35440",
-   :locality "Oxelösund",
+   :location "Oxelösund",
    :image "",
    :description ""}
   {:name "Paradisets frisbeegolf bana",
@@ -2768,14 +2768,14 @@
    :latitude 57.74606347229363,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24491",
-   :locality "Partille",
+   :location "Partille",
    :image "",
    :description ""}
   {:name "Partille Discgolfbana",
    :longitude 12.135744,
    :latitude 57.716612,
    :source :discgolfapi,
-   :locality "Partille",
+   :location "Partille",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2784,14 +2784,14 @@
    :latitude 63.914978217491694,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34377",
-   :locality "Penglund",
+   :location "Penglund",
    :image "",
    :description ""}
   {:name "Regementsstaden",
    :longitude 12.9178458,
    :latitude 57.7105583,
    :source :discgolfapi,
-   :locality "Borås",
+   :location "Borås",
    :image "",
    :layout-name "Main Layout",
    :layout-par 28,
@@ -2801,14 +2801,14 @@
    :latitude 61.373500822867754,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30452",
-   :locality "Rengsjö",
+   :location "Rengsjö",
    :image "",
    :description ""}
   {:name "Restad Gård",
    :longitude 12.3603862524033,
    :latitude 58.3404841456603,
    :source :discgolfapi,
-   :locality "Vänersborg",
+   :location "Vänersborg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2817,7 +2817,7 @@
    :latitude 58.332114522986814,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38583",
-   :locality "Vannersborg",
+   :location "Vannersborg",
    :image "",
    :description ""}
   {:name "Rimbo Discgolf",
@@ -2825,7 +2825,7 @@
    :latitude 59.74558882876383,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34374",
-   :locality "Rimbo",
+   :location "Rimbo",
    :image "",
    :description ""}
   {:name "Rimforsa Discgolfbana",
@@ -2848,7 +2848,7 @@
    :latitude 59.634004523287416,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20921",
-   :locality "Västerås",
+   :location "Västerås",
    :image "",
    :description ""}
   {:name "Rosendals discgolfbana",
@@ -2856,7 +2856,7 @@
    :latitude 59.83500354550213,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19136",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Rosendals DiscGolfPark",
@@ -2864,7 +2864,7 @@
    :latitude 59.831001644103765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30240",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Rudan",
@@ -2879,7 +2879,7 @@
    :latitude 59.16435277501793,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19094",
-   :locality "Jordbro",
+   :location "Jordbro",
    :image "",
    :description ""}
   {:name "Rudan frisbeesport center",
@@ -2887,14 +2887,14 @@
    :latitude 59.16468952218154,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/430",
-   :locality "Jordbro",
+   :location "Jordbro",
    :image "",
    :description ""}
   {:name "Rudans Discgolfbana",
    :longitude 18.126605,
    :latitude 59.160066,
    :source :discgolfapi,
-   :locality "Handen",
+   :location "Handen",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -2903,7 +2903,7 @@
    :latitude 57.66152760505889,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37442",
-   :locality "Västra Frölunda",
+   :location "Västra Frölunda",
    :image "",
    :description ""}
   {:name "Rydskogen",
@@ -2911,7 +2911,7 @@
    :latitude 58.41325833048547,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/639",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Rydskogen DGC",
@@ -2919,7 +2919,7 @@
    :latitude 58.413319,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7774",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Rydskogen DGC → Back 9",
@@ -2934,7 +2934,7 @@
    :latitude 58.41291459598375,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26788",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Röbo DiscgolfPark",
@@ -2942,7 +2942,7 @@
    :latitude 59.883,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4668",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Röda viken",
@@ -2950,7 +2950,7 @@
    :latitude 63.91495433984192,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10047",
-   :locality "Vännäs",
+   :location "Vännäs",
    :image "",
    :description ""}
   {:name "Röda viken - Kvällsdiscen 2020",
@@ -2958,7 +2958,7 @@
    :latitude 63.91513000098115,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16242",
-   :locality "Vännäs",
+   :location "Vännäs",
    :image "",
    :description ""}
   {:name "Röda viken special",
@@ -2973,7 +2973,7 @@
    :latitude 57.986179299610995,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27739",
-   :locality "Sandhem",
+   :location "Sandhem",
    :image "",
    :description ""}
   {:name "Sandviken safari",
@@ -2981,7 +2981,7 @@
    :latitude 60.620937087235944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17986",
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Sandviken stadsparken",
@@ -2989,7 +2989,7 @@
    :latitude 60.62087100699466,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20158",
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Sandviken vanlig + safari",
@@ -2997,14 +2997,14 @@
    :latitude 60.62083024598837,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18011",
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Sandvikens discgolfbana",
    :longitude 14.5148847429825,
    :latitude 59.3259606675483,
    :source :discgolfapi,
-   :locality "Karlskoga",
+   :location "Karlskoga",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3013,7 +3013,7 @@
    :latitude 60.02584199813572,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40220",
-   :locality "Björklinge",
+   :location "Björklinge",
    :image "",
    :description ""}
   {:name "Sannarps discgolfbana",
@@ -3021,7 +3021,7 @@
    :latitude 56.67987838363328,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31440",
-   :locality "Halmstad",
+   :location "Halmstad",
    :image "",
    :description ""}
   {:name "Serpent Hill",
@@ -3029,7 +3029,7 @@
    :latitude 65.6086457,
    :source :openstreetmap,
    :homepage "https://discgolfmetrix.com/course/28403",
-   :locality "Luleå",
+   :location "Luleå",
    :image "",
    :description ""}
   {:name "Serpent Hill",
@@ -3043,7 +3043,7 @@
    :latitude 57.03162743996876,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46202",
-   :locality "Falkenberg",
+   :location "Falkenberg",
    :image "",
    :description ""}
   {:name "SIF Vimmerby Sparbank Discgolf Park",
@@ -3051,7 +3051,7 @@
    :latitude 57.58170334817751,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28464",
-   :locality "Storebro",
+   :location "Storebro",
    :image "",
    :description ""}
   {:name "Sigtuna DiscGolfPark",
@@ -3059,7 +3059,7 @@
    :latitude 59.79796498109903,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18722",
-   :locality "Sigtuna",
+   :location "Sigtuna",
    :image "",
    :description ""}
   {:name "Siljansnäs Stugby",
@@ -3067,14 +3067,14 @@
    :latitude 60.786699450690634,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24186",
-   :locality "Siljansnäs",
+   :location "Siljansnäs",
    :image "",
    :description ""}
   {:name "Sjöbovallens Discgolfbana",
    :longitude 12.9410634,
    :latitude 57.755435,
    :source :openstreetmap,
-   :locality "Borås",
+   :location "Borås",
    :image "",
    :description ""}
   {:name "Sk storms discgolf",
@@ -3082,7 +3082,7 @@
    :latitude 64.90529322477056,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24293",
-   :locality "Kåge",
+   :location "Kåge",
    :image "",
    :description ""}
   {:name "Skarpnäcks Discgolf",
@@ -3090,7 +3090,7 @@
    :latitude 59.26944692935501,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42416",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Skatås 15 hålsbana",
@@ -3098,7 +3098,7 @@
    :latitude 57.70295891832336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27458",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Skatås discgolfbana",
@@ -3106,7 +3106,7 @@
    :latitude 57.70389319637093,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26214",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Skedshult DGB",
@@ -3114,7 +3114,7 @@
    :latitude 58.08920518559114,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18681",
-   :locality "Edsbruk",
+   :location "Edsbruk",
    :image "",
    :description ""}
   {:name "Skellefteå Discgolf",
@@ -3129,7 +3129,7 @@
    :latitude 64.71947095598509,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16653",
-   :locality "Skellefteå",
+   :location "Skellefteå",
    :image "",
    :description ""}
   {:name "Skjulsta DGB",
@@ -3137,14 +3137,14 @@
    :latitude 59.340771401261605,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22643",
-   :locality "Eskilstuna",
+   :location "Eskilstuna",
    :image "",
    :description ""}
   {:name "Skogsparken",
    :longitude 18.7078238698341,
    :latitude 64.6045551062136,
    :source :discgolfapi,
-   :locality "Lycksele",
+   :location "Lycksele",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3153,7 +3153,7 @@
    :latitude 60.599707295929875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42729",
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Skultorp",
@@ -3161,7 +3161,7 @@
    :latitude 58.34250424278366,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26138",
-   :locality "Skultorp",
+   :location "Skultorp",
    :image "",
    :description ""}
   {:name "Skutberget DGB",
@@ -3169,7 +3169,7 @@
    :latitude 59.371957724832555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32610",
-   :locality "Karlstad",
+   :location "Karlstad",
    :image "",
    :description ""}
   {:name "Sloethorn Creek",
@@ -3177,7 +3177,7 @@
    :latitude 58.938989163312954,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32719",
-   :locality "Vagnhärad",
+   :location "Vagnhärad",
    :image "",
    :description ""}
   {:name "slottskogen Gul",
@@ -3185,7 +3185,7 @@
    :latitude 57.681217694203156,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18538",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Slottsskogen Blå",
@@ -3193,7 +3193,7 @@
    :latitude 57.68077987582555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41669",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Slottsskogens discgolfbana",
@@ -3201,7 +3201,7 @@
    :latitude 57.68091857290844,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46624",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Slottsskogens Discgolfsbana (BLÅ)",
@@ -3209,7 +3209,7 @@
    :latitude 57.68679104166799,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18680",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Slottsskogens gula bana",
@@ -3217,7 +3217,7 @@
    :latitude 57.71397116623342,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15512",
-   :locality "Gothenburg",
+   :location "Gothenburg",
    :image "",
    :description ""}
   {:name "Smedby Discgolf bana Gunnes gård",
@@ -3225,14 +3225,14 @@
    :latitude 59.50852362849673,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22224",
-   :locality "Smedby",
+   :location "Smedby",
    :image "",
    :description ""}
   {:name "Snäckans discgolfbana",
    :longitude 18.2028447,
    :latitude 57.3863942,
    :source :manual,
-   :locality "Klintehamn",
+   :location "Klintehamn",
    :image "",
    :description ""}
   {:name "Sollentuna Discgolfbana",
@@ -3240,14 +3240,14 @@
    :latitude 59.44961902599533,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34988",
-   :locality "Edsberg",
+   :location "Edsberg",
    :image "",
    :description ""}
   {:name "Spinndisc Arena",
    :longitude 13.5158862546206,
    :latitude 55.5933384920301,
    :source :discgolfapi,
-   :locality "Lund",
+   :location "Lund",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3256,7 +3256,7 @@
    :latitude 55.72408907604944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5629",
-   :locality "Lund",
+   :location "Lund",
    :image "",
    :description ""}
   {:name "Stadsparken Sandviken",
@@ -3271,7 +3271,7 @@
    :latitude 60.620879781048956,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16302",
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Stavby Disc Golf",
@@ -3279,7 +3279,7 @@
    :latitude 60.01090296168712,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27264",
-   :locality "Alunda",
+   :location "Alunda",
    :image "",
    :description ""}
   {:name "Stavlund Discgolfbana",
@@ -3294,14 +3294,14 @@
    :latitude 58.06125063694836,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27732",
-   :locality "Stenungsund",
+   :location "Stenungsund",
    :image "",
    :description ""}
   {:name "Stenungsund DGB",
    :longitude 11.8408,
    :latitude 58.0596,
    :source :discgolfapi,
-   :locality "Stenungsund",
+   :location "Stenungsund",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3310,7 +3310,7 @@
    :latitude 58.05549523004103,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35374",
-   :locality "Stenungsund",
+   :location "Stenungsund",
    :image "",
    :description ""}
   {:name "Sticksjö Discgolf bana 2020",
@@ -3318,7 +3318,7 @@
    :latitude 62.41367315465777,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18365",
-   :locality "Sundsvall",
+   :location "Sundsvall",
    :image "",
    :description ""}
   {:name "Sticksjö Discgolf Bana 2022 Svart Slinga",
@@ -3326,7 +3326,7 @@
    :latitude 62.41246422907062,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28275",
-   :locality "Sundsvall",
+   :location "Sundsvall",
    :image "",
    :description ""}
   {:name "Sticksjö Discgolf Bana 2023 Gul Slinga",
@@ -3334,7 +3334,7 @@
    :latitude 62.41273073823959,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35932",
-   :locality "Sundsvall",
+   :location "Sundsvall",
    :image "",
    :description ""}
   {:name "Stimmarebo",
@@ -3342,7 +3342,7 @@
    :latitude 60.16256010619864,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34323",
-   :locality "Smedjebacken",
+   :location "Smedjebacken",
    :image "",
    :description ""}
   {:name "Stimmerbo Discgolf",
@@ -3350,14 +3350,14 @@
    :latitude 60.159577379832086,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31606",
-   :locality "Smedjebacken",
+   :location "Smedjebacken",
    :image "",
    :description ""}
   {:name "Stjärnorp Discgolfbana",
    :longitude 15.6003484106676,
    :latitude 58.5368299440601,
    :source :discgolfapi,
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3366,7 +3366,7 @@
    :latitude 59.328791242879106,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19023",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Stora Valls Discgolfbana Gefle FDC",
@@ -3374,7 +3374,7 @@
    :latitude 60.67196900225275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23590",
-   :locality "Gävle",
+   :location "Gävle",
    :image "",
    :description ""}
   {:name "Strömstad Discgolfpark",
@@ -3382,7 +3382,7 @@
    :latitude 58.92280252128171,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41882",
-   :locality "Strömstad",
+   :location "Strömstad",
    :image "",
    :description ""}
   {:name "Strømstad DG",
@@ -3390,7 +3390,7 @@
    :latitude 58.9228953125137,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38618",
-   :locality "Strømstad",
+   :location "Strømstad",
    :image "",
    :description ""}
   {:name "Stångebro",
@@ -3398,14 +3398,14 @@
    :latitude 58.415180536937356,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25482",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Sudervallen Discgolf",
    :longitude 18.3800194,
    :latitude 57.2401493,
    :source :manual,
-   :locality "Hemse",
+   :location "Hemse",
    :image "",
    :description ""}
   {:name "Sunneberg",
@@ -3413,21 +3413,21 @@
    :latitude 59.32490122166237,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35555",
-   :locality "Kristinehamn",
+   :location "Kristinehamn",
    :image "",
    :description ""}
   {:name "Svaidestugans discgolfbana",
    :longitude 18.297982,
    :latitude 57.6379361,
    :source :manual,
-   :locality "Visby",
+   :location "Visby",
    :image "",
    :description ""}
   {:name "Svartbäcksmåla",
    :longitude 15.945874,
    :latitude 56.718413,
    :source :discgolfapi,
-   :locality "Nybro",
+   :location "Nybro",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3436,7 +3436,7 @@
    :latitude 62.02607442599211,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36006",
-   :locality "Sveg",
+   :location "Sveg",
    :image "",
    :description ""}
   {:name "Sätraskogen Discgolfbana",
@@ -3444,7 +3444,7 @@
    :latitude 59.294884435357176,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6022",
-   :locality "Skärholmen",
+   :location "Skärholmen",
    :image "",
    :description ""}
   {:name "Sättra Discgolfbana",
@@ -3458,7 +3458,7 @@
    :longitude 20.5427767256676,
    :latitude 63.9072535034645,
    :source :discgolfapi,
-   :locality "Sävar",
+   :location "Sävar",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3467,14 +3467,14 @@
    :latitude 56.05076448425575,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33453",
-   :locality "Sölvesborg",
+   :location "Sölvesborg",
    :image "",
    :description ""}
   {:name "Tallbackens Discgolfbana",
    :longitude 15.5711262,
    :latitude 59.0105909,
    :source :discgolfapi,
-   :locality "Brevens Bruk",
+   :location "Brevens Bruk",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -3485,7 +3485,7 @@
    :latitude 59.314058751044676,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18393",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Terminalen Nya Röd 2023",
@@ -3493,14 +3493,14 @@
    :latitude 64.7224353745992,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34182",
-   :locality "Bergsbyn",
+   :location "Bergsbyn",
    :image "",
    :description ""}
   {:name "Tidaholm",
    :longitude 13.9720814408272,
    :latitude 58.1780050524647,
    :source :discgolfapi,
-   :locality "Tidaholm",
+   :location "Tidaholm",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3509,7 +3509,7 @@
    :latitude 60.502655974281026,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22780",
-   :locality "Borlänge",
+   :location "Borlänge",
    :image "",
    :description ""}
   {:name "Tolered DiscGolfPark",
@@ -3523,7 +3523,7 @@
    :latitude 59.322456773250224,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29332",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Topp Tre KM Kärsön 2022 Runda 2",
@@ -3531,14 +3531,14 @@
    :latitude 59.322380043463994,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29333",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Torpavallens DGB",
    :longitude 15.0784201425717,
    :latitude 57.9599723709226,
    :source :discgolfapi,
-   :locality "Ydre",
+   :location "Ydre",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3547,7 +3547,7 @@
    :latitude 60.1479478337686,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20022",
-   :locality "Torsby",
+   :location "Torsby",
    :image "",
    :description ""}
   {:name "Torsby Frisbeegolfpark",
@@ -3555,7 +3555,7 @@
    :latitude 60.147836170997806,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44012",
-   :locality "Torsby",
+   :location "Torsby",
    :image "",
    :description ""}
   {:name "Tranemo DiskGolf course",
@@ -3563,7 +3563,7 @@
    :latitude 57.48142141458362,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33158",
-   :locality "Tranemo",
+   :location "Tranemo",
    :image "",
    :description ""}
   {:name "Trelleborg DiscGolfPark",
@@ -3571,7 +3571,7 @@
    :latitude 55.383918068311715,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45200",
-   :locality "Trelleborg",
+   :location "Trelleborg",
    :image "",
    :action :deleted,
    :description ""}
@@ -3579,7 +3579,7 @@
    :longitude 12.7112733137619,
    :latitude 56.0219056196088,
    :source :discgolfapi,
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3587,7 +3587,7 @@
    :longitude 12.2507911920548,
    :latitude 58.2545525872159,
    :source :discgolfapi,
-   :locality "Trollhättan",
+   :location "Trollhättan",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3596,7 +3596,7 @@
    :latitude 55.837409374011315,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46716",
-   :locality "Eslöv",
+   :location "Eslöv",
    :image "",
    :description ""}
   {:name "Trolltjärns multigolfbana",
@@ -3604,7 +3604,7 @@
    :latitude 65.56806755587468,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29308",
-   :locality "Luleå",
+   :location "Luleå",
    :image "",
    :description ""}
   {:name "Trollywood",
@@ -3612,7 +3612,7 @@
    :latitude 58.251374060881176,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38594",
-   :locality "Trollhetta",
+   :location "Trollhetta",
    :image "",
    :description ""}
   {:name "Tunaåstrand",
@@ -3620,7 +3620,7 @@
    :latitude 60.45168759534826,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22783",
-   :locality "Borlänge",
+   :location "Borlänge",
    :image "",
    :description ""}
   {:name "Tyresö DGC",
@@ -3628,7 +3628,7 @@
    :latitude 59.229556,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/718",
-   :locality "Tyresö",
+   :location "Tyresö",
    :image "",
    :description ""}
   {:name "Tyresö DiscGolf park",
@@ -3636,7 +3636,7 @@
    :latitude 59.229486823805246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9515",
-   :locality "Tyresö",
+   :location "Tyresö",
    :image "",
    :description ""}
   {:name "Täby Discgolfbana",
@@ -3644,7 +3644,7 @@
    :latitude 59.461501,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8158",
-   :locality "Erikslund",
+   :location "Erikslund",
    :image "",
    :description ""}
   {:name "Ultuna",
@@ -3652,7 +3652,7 @@
    :latitude 59.813098,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18690",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Umeå Discgolf",
@@ -3660,7 +3660,7 @@
    :latitude 63.847294305920116,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19235",
-   :locality "Umeå",
+   :location "Umeå",
    :image "",
    :description ""}
   {:name "Upplands Väsby DiscGolfPark",
@@ -3668,7 +3668,7 @@
    :latitude 59.5082,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8334",
-   :locality "Bollstanäs",
+   :location "Bollstanäs",
    :image "",
    :description ""}
   {:name "Ursviks Discgolf",
@@ -3683,14 +3683,14 @@
    :latitude 57.902367699737255,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27737",
-   :locality "Nol",
+   :location "Nol",
    :image "",
    :description ""}
   {:name "Vadstena DiscGolf",
    :longitude 14.900682,
    :latitude 58.4546511,
    :source :discgolfapi,
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :holes 18,
    :layout-holes 18,
@@ -3707,14 +3707,14 @@
    :latitude 56.28652090588352,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40456",
-   :locality "Ängelholm",
+   :location "Ängelholm",
    :image "",
    :description ""}
   {:name "Valhall Park",
    :longitude 12.8427607130737,
    :latitude 56.2862108421897,
    :source :discgolfapi,
-   :locality "Ängelholm",
+   :location "Ängelholm",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3723,7 +3723,7 @@
    :latitude 63.16775647894673,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26687",
-   :locality "Frösön",
+   :location "Frösön",
    :image "",
    :description ""}
   {:name "Vallentuna",
@@ -3731,7 +3731,7 @@
    :latitude 59.542550611964714,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35653",
-   :locality "Vallentuna",
+   :location "Vallentuna",
    :image "",
    :description ""}
   {:name "Vallentuna Discgolfbana",
@@ -3739,7 +3739,7 @@
    :latitude 59.54180109182502,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18718",
-   :locality "Vallentuna",
+   :location "Vallentuna",
    :image "",
    :description ""}
   {:name "Valls Herrgård Svart",
@@ -3747,7 +3747,7 @@
    :latitude 60.67167563407701,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7322",
-   :locality "Gävle",
+   :location "Gävle",
    :image "",
    :description ""}
   {:name "Vallåsen",
@@ -3755,7 +3755,7 @@
    :latitude 56.407683151611394,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23077",
-   :locality "Våxtorp",
+   :location "Våxtorp",
    :image "",
    :description ""}
   {:name "Vallåsens DGB 2023",
@@ -3763,7 +3763,7 @@
    :latitude 56.40373398205068,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33658",
-   :locality "Våxtorp",
+   :location "Våxtorp",
    :image "",
    :description ""}
   {:name "Vaxjo water-tower main",
@@ -3771,7 +3771,7 @@
    :latitude 56.88437681111432,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28796",
-   :locality "Växjö",
+   :location "Växjö",
    :image "",
    :description ""}
   {:name "Vetlanda aces high",
@@ -3779,7 +3779,7 @@
    :latitude 57.40908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9846",
-   :locality "Östanåbadet",
+   :location "Östanåbadet",
    :image "",
    :description ""}
   {:name "Vetlanda DiscGolf 18hole",
@@ -3787,7 +3787,7 @@
    :latitude 57.40845004331928,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28864",
-   :locality "Östanåbadet",
+   :location "Östanåbadet",
    :image "",
    :description ""}
   {:name "Vetlanda discgolfpark",
@@ -3795,7 +3795,7 @@
    :latitude 57.40900961317644,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22522",
-   :locality "Östanåbadet",
+   :location "Östanåbadet",
    :image "",
    :description ""}
   {:name "Vika - Blå",
@@ -3803,7 +3803,7 @@
    :latitude 60.51769469307612,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36005",
-   :locality "Vika",
+   :location "Vika",
    :image "",
    :description ""}
   {:name "Vika - Vit",
@@ -3811,7 +3811,7 @@
    :latitude 60.51750755706004,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36004",
-   :locality "Vika",
+   :location "Vika",
    :image "",
    :description ""}
   {:name "Vika PRO (EJ I BRUK)",
@@ -3819,7 +3819,7 @@
    :latitude 60.51936829902402,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24024",
-   :locality "Vika",
+   :location "Vika",
    :image "",
    :description ""}
   {:name "Vikabanan (EJ I BRUK)",
@@ -3827,7 +3827,7 @@
    :latitude 60.5192,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9116",
-   :locality "Vika",
+   :location "Vika",
    :image "",
    :description ""}
   {:name "Vikabanan - pro",
@@ -3835,7 +3835,7 @@
    :latitude 60.5192530954794,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24145",
-   :locality "Vika",
+   :location "Vika",
    :image "",
    :description ""}
   {:name "Vilsta DGB",
@@ -3843,7 +3843,7 @@
    :latitude 59.34964577662572,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10464",
-   :locality "Eskilstuna",
+   :location "Eskilstuna",
    :image "",
    :description ""}
   {:name "Vinbergs Discgolf",
@@ -3851,7 +3851,7 @@
    :latitude 56.9619534565509,
    :source :discgolfapi,
    :homepage "https://discgolfmetrix.com/course/45964",
-   :locality "Vinberg",
+   :location "Vinberg",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3860,7 +3860,7 @@
    :latitude 59.8647693223316,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27305",
-   :locality "Virsbo",
+   :location "Virsbo",
    :image "",
    :description ""}
   {:name "Visby Discgolf Arena",
@@ -3868,7 +3868,7 @@
    :latitude 57.67155761391709,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35222",
-   :locality "Visby",
+   :location "Visby",
    :image "",
    :description ""}
   {:name "Visby Discgolfbana",
@@ -3876,7 +3876,7 @@
    :latitude 57.671425961396125,
    :source :manual,
    :homepage "https://udisc.com/courses/visby-discgolfbana-OhJM",
-   :locality "Visby",
+   :location "Visby",
    :image "",
    :description ""}
   {:name "Visättra",
@@ -3891,7 +3891,7 @@
    :latitude 59.21753377779331,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19025",
-   :locality "Flemingsberg",
+   :location "Flemingsberg",
    :image "",
    :description ""}
   {:name "Visättra 2020 2x9",
@@ -3899,7 +3899,7 @@
    :latitude 59.217423010325604,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18625",
-   :locality "Flemingsberg",
+   :location "Flemingsberg",
    :image "",
    :description ""}
   {:name "Visättra 2022",
@@ -3907,7 +3907,7 @@
    :latitude 59.217164784800104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22357",
-   :locality "Flemingsberg",
+   :location "Flemingsberg",
    :image "",
    :description ""}
   {:name "Visättra DGB 2016",
@@ -3915,7 +3915,7 @@
    :latitude 59.216720168996574,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/3796",
-   :locality "Flemingsberg",
+   :location "Flemingsberg",
    :image "",
    :description ""}
   {:name "Visättra Discgolf",
@@ -3923,7 +3923,7 @@
    :latitude 59.217442,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/721",
-   :locality "Flemingsberg",
+   :location "Flemingsberg",
    :image "",
    :description ""}
   {:name "Visättra Discgolf 2025",
@@ -3931,7 +3931,7 @@
    :latitude 59.217197587893736,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42743",
-   :locality "Flemingsberg",
+   :location "Flemingsberg",
    :image "",
    :description ""}
   {:name "Visättra discgolfbana",
@@ -3947,7 +3947,7 @@
    :latitude 58.4216805383819,
    :source :discgolfapi,
    :homepage "https://discgolfmetrix.com/course/31597",
-   :locality "Skövde",
+   :location "Skövde",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -3956,7 +3956,7 @@
    :latitude 58.89240676843306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34693",
-   :locality "Askersund",
+   :location "Askersund",
    :image "",
    :description ""}
   {:name "Välkommen till Gustafs discgolfbana",
@@ -3970,14 +3970,14 @@
    :latitude 57.1752140754045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7462",
-   :locality "Värnamo",
+   :location "Värnamo",
    :image "",
    :description ""}
   {:name "Västerby Discgolfbana",
    :longitude 18.2067101,
    :latitude 57.4244442,
    :source :manual,
-   :locality "Klintehamn",
+   :location "Klintehamn",
    :image "",
    :description ""}
   {:name "Västerhaninge 1-18 (2020 sep.).",
@@ -3985,7 +3985,7 @@
    :latitude 59.13911264715884,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20794",
-   :locality "Västerhaninge",
+   :location "Västerhaninge",
    :image "",
    :description ""}
   {:name "Västerhaninge 2023 (ombyggd 2021)",
@@ -3993,7 +3993,7 @@
    :latitude 59.136857,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25074",
-   :locality "Västerhaninge",
+   :location "Västerhaninge",
    :image "",
    :description ""}
   {:name "Västerhaninge Discgolf 2019",
@@ -4001,7 +4001,7 @@
    :latitude 59.13670237670132,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17799",
-   :locality "Västerhaninge",
+   :location "Västerhaninge",
    :image "",
    :description ""}
   {:name "Västerhaninge Discgolfbana 2020",
@@ -4009,7 +4009,7 @@
    :latitude 59.136726576522676,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17801",
-   :locality "Västerhaninge",
+   :location "Västerhaninge",
    :image "",
    :description ""}
   {:name "Västerhaninge Discgolfbana sep 2020",
@@ -4017,7 +4017,7 @@
    :latitude 59.13683056431776,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20799",
-   :locality "Västerhaninge",
+   :location "Västerhaninge",
    :image "",
    :description ""}
   {:name "Västerhaninge maj -21",
@@ -4025,7 +4025,7 @@
    :latitude 59.136853846004556,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22901",
-   :locality "Västerhaninge",
+   :location "Västerhaninge",
    :image "",
    :description ""}
   {:name "Wasa golf",
@@ -4033,7 +4033,7 @@
    :latitude 59.193554324585534,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19853",
-   :locality "Södertälje",
+   :location "Södertälje",
    :image "",
    :description ""}
   {:name "Wasteland Discgolf Official",
@@ -4041,7 +4041,7 @@
    :latitude 64.23826304211109,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7792",
-   :locality "Robertsfors",
+   :location "Robertsfors",
    :image "",
    :description ""}
   {:name "Wendelsbergs Discgolfbana 18 Blå",
@@ -4055,7 +4055,7 @@
    :longitude 14.1469573974609,
    :latitude 55.9892866202389,
    :source :discgolfapi,
-   :locality "Kristianstad",
+   :location "Kristianstad",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -4064,7 +4064,7 @@
    :latitude 62.41793325424615,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16773",
-   :locality "Kovland",
+   :location "Kovland",
    :image "",
    :description ""}
   {:name "Wexio DiscGolf",
@@ -4072,7 +4072,7 @@
    :latitude 56.856788497054595,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28740",
-   :locality "Växjö",
+   :location "Växjö",
    :image "",
    :description ""}
   {:name "Woodensala",
@@ -4080,7 +4080,7 @@
    :latitude 63.15476248977427,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30351",
-   :locality "Östersund",
+   :location "Östersund",
    :image "",
    :description ""}
   {:name "Woodpecker Park",
@@ -4088,7 +4088,7 @@
    :latitude 59.29443855748562,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32585",
-   :locality "Kristinehamn",
+   :location "Kristinehamn",
    :image "",
    :description ""}
   {:name "Ymergårdens Discgolfcenter (Korrekt)",
@@ -4096,7 +4096,7 @@
    :latitude 57.740426,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6661",
-   :locality "Brämhult",
+   :location "Brämhult",
    :image "",
    :description ""}
   {:name "Älmhult discgolfbana",
@@ -4104,7 +4104,7 @@
    :latitude 56.5448769,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13499",
-   :locality "Älmhult",
+   :location "Älmhult",
    :image "",
    :description ""}
   {:name "Älmhult Discgolfpark",
@@ -4112,7 +4112,7 @@
    :latitude 56.54,
    :source :discgolfapi,
    :homepage "https://www.almhultdiscgolf.se",
-   :locality "Älmhult",
+   :location "Älmhult",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -4120,7 +4120,7 @@
    :longitude 17.4525750865046,
    :latitude 60.5678460171959,
    :source :discgolfapi,
-   :locality "Älvkarleby",
+   :location "Älvkarleby",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -4129,7 +4129,7 @@
    :latitude 56.24060104758763,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29769",
-   :locality "Ängelholm",
+   :location "Ängelholm",
    :image "",
    :description ""}
   {:name "Ängenäs Discgolfpark",
@@ -4144,7 +4144,7 @@
    :latitude 59.30460519804123,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29191",
-   :locality "Sandhamn",
+   :location "Sandhamn",
    :image "",
    :description ""}
   {:name "Ängsjö Multigolf park",
@@ -4152,7 +4152,7 @@
    :latitude 59.50180450851582,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30937",
-   :locality "Järfälla",
+   :location "Järfälla",
    :image "",
    :description ""}
   {:name "Åby paradise",
@@ -4174,7 +4174,7 @@
    :latitude 59.1367587,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11380",
-   :locality "Västerhaninge",
+   :location "Västerhaninge",
    :image "",
    :description ""}
   {:name "Ågesta DGC",
@@ -4182,14 +4182,14 @@
    :latitude 59.223958881816515,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19338",
-   :locality "Farsta",
+   :location "Farsta",
    :image "",
    :description ""}
   {:name "Ågårdens Discgolfbana",
    :longitude 13.134259348999,
    :latitude 58.4942056505747,
    :source :discgolfapi,
-   :locality "Lidköping",
+   :location "Lidköping",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -4198,7 +4198,7 @@
    :latitude 59.48833158666291,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5124",
-   :locality "Åkersberga",
+   :location "Åkersberga",
    :image "",
    :description ""}
   {:name "Åkeslund Discgolfcenter",
@@ -4206,7 +4206,7 @@
    :latitude 55.8090704548839,
    :source :discgolfapi,
    :homepage "https://www.akeslund.com",
-   :locality "Hörby",
+   :location "Hörby",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -4222,7 +4222,7 @@
    :latitude 58.429123550937405,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10536",
-   :locality "Tibro",
+   :location "Tibro",
    :image "",
    :description ""}
   {:name "Ånge discgolfbana 2023",
@@ -4230,7 +4230,7 @@
    :latitude 62.52061711877246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34419",
-   :locality "Ånge",
+   :location "Ånge",
    :image "",
    :description ""}
   {:name "Ånnaboda",
@@ -4252,7 +4252,7 @@
    :latitude 62.64633106614622,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25383",
-   :locality "Åsarna",
+   :location "Åsarna",
    :image "",
    :description ""}
   {:name "Åsbo Discgolfbana",
@@ -4260,7 +4260,7 @@
    :latitude 60.62164308552184,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40394",
-   :locality "Falun",
+   :location "Falun",
    :image "",
    :description ""}
   {:name "ÖLLSJÖ 9-HÅL",
@@ -4268,7 +4268,7 @@
    :latitude 56.00795156902029,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17495",
-   :locality "Öllsjö",
+   :location "Öllsjö",
    :image "",
    :description ""}
   {:name "Öllsjö BLÅ - Junior layout 2 x 9",
@@ -4276,7 +4276,7 @@
    :latitude 56.00793312903045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19171",
-   :locality "Öllsjö",
+   :location "Öllsjö",
    :image "",
    :description ""}
   {:name "Öllsjö GUL  - Ordinarie 9 hålsbanan (spelas 2 varv",
@@ -4284,7 +4284,7 @@
    :latitude 56.00858107823614,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14105",
-   :locality "Öllsjö",
+   :location "Öllsjö",
    :image "",
    :description ""}
   {:name "Öllsjö VIT (Långa/SAFARI-banan)",
@@ -4292,7 +4292,7 @@
    :latitude 56.00851318834451,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8582",
-   :locality "Öllsjö",
+   :location "Öllsjö",
    :image "",
    :description ""}
   {:name "Önsköldsparken",
@@ -4300,14 +4300,14 @@
    :latitude 59.28106681310376,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28970",
-   :locality "Örebro",
+   :location "Örebro",
    :image "",
    :description ""}
   {:name "Örbäck",
    :longitude 15.3318753,
    :latitude 58.5211066,
    :source :openstreetmap,
-   :locality "Klockrike",
+   :location "Klockrike",
    :image "",
    :description ""}],
  :source

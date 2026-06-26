@@ -8,27 +8,27 @@
    :longitude 13.1950657,
    :latitude -8.9193385,
    :source :openstreetmap,
-   :locality "Luanda"}
+   :location "Luanda"}
   {:name "Casa Museu Óscar Ribas",
    :longitude 13.2443927,
    :latitude -8.8153194,
    :source :openstreetmap,
-   :locality "Luanda"}
+   :location "Luanda"}
   {:name "Centro Cultural da Huíla",
    :longitude 13.4978802,
    :latitude -14.9156694,
    :source :openstreetmap,
-   :locality "Lubango"}
+   :location "Lubango"}
   {:name "Centro de Artes Padú",
    :longitude 13.5161646,
    :latitude -14.9078635,
    :source :openstreetmap,
-   :locality "Lalula"}
+   :location "Lalula"}
   {:name "INEFOP_CENTRO DE FORMAÇÃO TÉCNICO PROFISSIONAL",
    :longitude 12.1456614,
    :latitude -15.2072315,
    :source :openstreetmap,
-   :locality "Moçâmedes"}
+   :location "Moçâmedes"}
   {:name "Museu da Força Aérea",
    :longitude 13.2280832,
    :latitude -8.8487211,
@@ -38,7 +38,7 @@
    :latitude -8.8108992,
    :source :openstreetmap,
    :homepage "https://www.museudamoeda.bna.ao/",
-   :locality "Luanda"}
+   :location "Luanda"}
   {:name "Museu das Telecomunicações",
    :longitude 13.2711159,
    :latitude -8.8181445,
@@ -51,12 +51,12 @@
    :longitude 13.4886878,
    :latitude -14.9154348,
    :source :openstreetmap,
-   :locality "Lubango"}
+   :location "Lubango"}
   {:name "Museu de Geologia Facuan",
    :longitude 13.2373657,
    :latitude -8.8089663,
    :source :openstreetmap,
-   :locality "Luanda"}
+   :location "Luanda"}
   {:name "Museu Dos Caminhos de Ferro",
    :longitude 13.5402629,
    :latitude -12.4309023,
@@ -69,12 +69,12 @@
    :longitude 13.1049569,
    :latitude -8.9588698,
    :source :openstreetmap,
-   :locality "Luanda"}
+   :location "Luanda"}
   {:name "Museu Nacional de Antropologia",
    :longitude 13.2278019,
    :latitude -8.8135824,
    :source :openstreetmap,
-   :locality "Luanda"}
+   :location "Luanda"}
   {:name "Museu Nacional de Arqueologia",
    :longitude 13.3969773,
    :latitude -12.5778403,
@@ -84,7 +84,7 @@
    :latitude -8.8091638,
    :source :openstreetmap,
    :homepage "https://www.movart.co.ao",
-   :locality "Luanda"}
+   :location "Luanda"}
   {:name "Museu Regional do Dundo",
    :longitude 20.8347394,
    :latitude -7.3788544,
@@ -98,7 +98,7 @@
    :longitude 13.2384618,
    :latitude -8.8153575,
    :source :openstreetmap,
-   :locality "Luanda"}],
+   :location "Luanda"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

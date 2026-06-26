@@ -17,7 +17,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.csepelivaroskep.hu/kiralyerdei/helytorteneti-gyujtemeny/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "56-os Múzeum",
@@ -25,7 +25,7 @@
    :latitude 46.4542367,
    :source :openstreetmap,
    :homepage "https://1956majsa.hu/",
-   :locality "Kiskunmajsa",
+   :location "Kiskunmajsa",
    :image "",
    :description ""}
   {:name "86 Galéria",
@@ -33,7 +33,7 @@
    :latitude 47.6198701,
    :source :openstreetmap,
    :homepage "https://86galeria.hu/",
-   :locality "Pilisvörösvár",
+   :location "Pilisvörösvár",
    :image "",
    :description ""}
   {:name "A budapesti Duna-hidak",
@@ -73,7 +73,7 @@
    :latitude 47.1764362,
    :source :openstreetmap,
    :homepage "https://www.ankk.hu/",
-   :locality "Szolnok",
+   :location "Szolnok",
    :image "",
    :description ""}
   {:name "Abaúji Múzeum, Érc- és Ásványbányászati Múzeum",
@@ -81,7 +81,7 @@
    :latitude 48.4848238,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=84351",
-   :locality "Telkibánya",
+   :location "Telkibánya",
    :image "",
    :description ""}
   {:name "Abonyi Lajos Falumúzeum",
@@ -102,7 +102,7 @@
    :latitude 47.4921191,
    :source :openstreetmap,
    :homepage "https://pim.hu/hu/filiale/ady-emlekmuzeum",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Afrika Múzeum és Állatkert",
@@ -137,7 +137,7 @@
    :latitude 47.4485975,
    :source :openstreetmap,
    :homepage "https://ahgy.ujbuda.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Alföldfásítási Múzeum",
@@ -146,7 +146,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kefag.hu/index.php?option=com_content&view=article&id=50&Itemid=55&lang=hu",
-   :locality "Bugac",
+   :location "Bugac",
    :image "",
    :description ""}
   {:name "Alföldi Galéria",
@@ -179,14 +179,14 @@
    :latitude 47.4925351,
    :source :openstreetmap,
    :homepage "https://molnaranigaleria.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ambrózy emlékház",
    :longitude 16.8991483,
    :latitude 47.0727361,
    :source :openstreetmap,
-   :locality "Kám",
+   :location "Kám",
    :image "",
    :description ""}
   {:name "André Kertész Fotómúzeum és Emlékház",
@@ -201,7 +201,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kult13.hu/intezmenyeink/angyalfoldi-gyermek-es-ifjusagi-haz.html",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Angyalföldi Helytörténeti Gyűjtemény",
@@ -210,7 +210,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kult13.hu/intezmenyeink/angyalfoldi-helytorteneti-gyujtemeny.html",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "ANP Mohos-ház bemutatóhely",
@@ -225,7 +225,7 @@
    :latitude 47.499995,
    :source :openstreetmap,
    :homepage "https://www.nyitottmuhely.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Apátsági Múzeum",
@@ -245,7 +245,7 @@
    :latitude 47.5636411,
    :source :openstreetmap,
    :homepage "https://www.aquincum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Arany János Emlékház",
@@ -267,7 +267,7 @@
    :latitude 47.5006451,
    :source :openstreetmap,
    :homepage "https://semmelweismuseum.hu/arany-sas-patikamuzeum/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Aranymonostor Látogatóközpont",
@@ -275,7 +275,7 @@
    :latitude 46.6903896,
    :source :openstreetmap,
    :homepage "https://aranymonostor.hu/",
-   :locality "Bugac",
+   :location "Bugac",
    :image "",
    :description ""}
   {:name "Aranyponty Halászati Múzeum",
@@ -297,7 +297,7 @@
    :latitude 47.4929266,
    :source :openstreetmap,
    :homepage "https://arikupsusgallery.com/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "art garage",
@@ -317,7 +317,7 @@
    :latitude 47.5488454,
    :source :openstreetmap,
    :homepage "http://artezi.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Arácsi Népház",
@@ -325,7 +325,7 @@
    :latitude 46.9716632,
    :source :openstreetmap,
    :homepage "https://kultura.balatonfured.hu/aracsi-nephaz/",
-   :locality "Balatonfüred",
+   :location "Balatonfüred",
    :image "",
    :description ""}
   {:name "Asztalos Joachim fafaragó kiállítása",
@@ -358,14 +358,14 @@
    :longitude 18.7507382,
    :latitude 47.7906512,
    :source :openstreetmap,
-   :locality "Esztergom",
+   :location "Esztergom",
    :image "",
    :description ""}
   {:name "Bagolyvár",
    :longitude 21.2670232,
    :latitude 46.9344705,
    :source :openstreetmap,
-   :locality "Vésztő",
+   :location "Vésztő",
    :image "",
    :description ""}
   {:name "Bajor Gizi Színészmúzeum",
@@ -374,7 +374,7 @@
    :source :openstreetmap,
    :homepage
    "https://szinhaziintezet.hu/index.php?option=com_content&view=article&id=153",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Bajza József Múzeum",
@@ -389,7 +389,7 @@
    :latitude 47.4465784,
    :source :openstreetmap,
    :homepage "https://bmac.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Bakonyi Természettudományi Múzeum kiállítása",
@@ -397,7 +397,7 @@
    :latitude 47.2631401,
    :source :openstreetmap,
    :homepage "http://bakonymuseum.nhmus.hu/",
-   :locality "Zirc",
+   :location "Zirc",
    :image "",
    :description ""}
   {:name "Baktay Ervin Indián és Cowboy Kiállítás",
@@ -406,14 +406,14 @@
    :source :openstreetmap,
    :homepage
    "https://dunaharasztikultura.hu/baktay-ervin-indian-cowboy-kiallitas/",
-   :locality "Dunaharaszti",
+   :location "Dunaharaszti",
    :image "",
    :description ""}
   {:name "Balassa Iván Falumúzeum",
    :longitude 21.227274,
    :latitude 47.2933394,
    :source :openstreetmap,
-   :locality "Báránd",
+   :location "Báránd",
    :image "",
    :description ""}
   {:name "Balassi Bálint Magyar Művészetek Háza",
@@ -421,7 +421,7 @@
    :latitude 46.6813479,
    :source :openstreetmap,
    :homepage "http://www.balassitancegyuttes.hu/",
-   :locality "Békéscsaba",
+   :location "Békéscsaba",
    :image "",
    :description ""}
   {:name "Balaton Csavargőzös Műemlékhajó",
@@ -436,7 +436,7 @@
    :latitude 46.9917315,
    :source :openstreetmap,
    :homepage "https://le-go-kart.hu/",
-   :locality "Balatonvilágos",
+   :location "Balatonvilágos",
    :image "",
    :description ""}
   {:name "Balatoni Farkas János Helytörténeti Gyűjtemény",
@@ -451,7 +451,7 @@
    :latitude 46.7587568,
    :source :openstreetmap,
    :homepage "https://www.balatonimuzeum.hu/",
-   :locality "Keszthely",
+   :location "Keszthely",
    :image "",
    :description ""}
   {:name "Balás Jenő Bauxitbányászati Kiállítás",
@@ -465,7 +465,7 @@
    :longitude 17.7590145,
    :latitude 47.738998,
    :source :openstreetmap,
-   :locality "Vének",
+   :location "Vének",
    :image "",
    :description ""}
   {:name "Barabás-villa",
@@ -473,14 +473,14 @@
    :latitude 47.5051473,
    :source :openstreetmap,
    :homepage "https://barabasvilla.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Barcsi Művelődési Központ",
    :longitude 17.4532563,
    :latitude 45.9590147,
    :source :openstreetmap,
-   :locality "Barcs",
+   :location "Barcs",
    :image "",
    :description ""}
   {:name "Barlanglakás Emlékkiállítás",
@@ -488,7 +488,7 @@
    :latitude 47.4193965,
    :source :openstreetmap,
    :homepage "https://www.klauzalhaz.hu/barlanglakas/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Barlanglakásos tájház",
@@ -510,7 +510,7 @@
    :source :openstreetmap,
    :homepage
    "https://piliscentrum.hu/helyszin/pilisszanto-baross-haz/",
-   :locality "Pilisszántó",
+   :location "Pilisszántó",
    :image "",
    :description ""}
   {:name "Bartók Béla Emlékház",
@@ -518,7 +518,7 @@
    :latitude 47.5279842,
    :source :openstreetmap,
    :homepage "https://bartokemlekhaz.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Batéi gőzmalom",
@@ -554,14 +554,14 @@
    :latitude 47.1855719,
    :source :openstreetmap,
    :homepage "http://www.bellaitaliamuzeum.hu/",
-   :locality "Székesfehérvár",
+   :location "Székesfehérvár",
    :image "",
    :description ""}
   {:name "Belvárosi Fazekasház",
    :longitude 20.3243551,
    :latitude 46.4154597,
    :source :openstreetmap,
-   :locality "Hódmezővásárhely",
+   :location "Hódmezővásárhely",
    :image "",
    :description ""}
   {:name "Belvárosi Tájház",
@@ -569,7 +569,7 @@
    :latitude 46.7128446,
    :source :openstreetmap,
    :homepage "http://www.konyvtar.csongrad.hu/tajhaz",
-   :locality "Csongrád",
+   :location "Csongrád",
    :image "",
    :description ""}
   {:name "Bemutatóház",
@@ -584,7 +584,7 @@
    :latitude 46.5715635,
    :source :openstreetmap,
    :homepage "http://uszod.hu/kultura/benedek-peter/",
-   :locality "Uszód",
+   :location "Uszód",
    :image "",
    :description ""}
   {:name "Bereczki Imre Helytörténeti Gyűjtemény",
@@ -599,7 +599,7 @@
    :latitude 48.1314915,
    :source :openstreetmap,
    :homepage "https://www.beregi-muzeum.hu/",
-   :locality "Vásárosnamény",
+   :location "Vásárosnamény",
    :image "",
    :description ""}
   {:name "Beretzk Péter kiállító-ház",
@@ -650,7 +650,7 @@
    :longitude 21.5354696,
    :latitude 47.2220208,
    :source :openstreetmap,
-   :locality "Berettyóújfalu",
+   :location "Berettyóújfalu",
    :image "",
    :description ""}
   {:name "Blaha Lujza nyaralója",
@@ -665,7 +665,7 @@
    :latitude 47.3341584,
    :source :openstreetmap,
    :homepage "http://www.blaskovichmuzeum.hu",
-   :locality "Tápiószele",
+   :location "Tápiószele",
    :image "",
    :description ""}
   {:name "Bleyer Jakab Helytörténeti Gyűjtemény",
@@ -673,7 +673,7 @@
    :latitude 47.4618706,
    :source :openstreetmap,
    :homepage "http://www.heimatmuseum.hu/",
-   :locality "Budaörs",
+   :location "Budaörs",
    :image "",
    :description ""}
   {:name "BNPI Nyugati Kapu Oktató- és Látogatóközpont",
@@ -682,7 +682,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bnpi.hu/hu/reszletek/nyugati-kapu-latogatokozpont",
-   :locality "Felsőtárkány",
+   :location "Felsőtárkány",
    :image "",
    :description ""}
   {:name "Boba Falumúzeum",
@@ -755,7 +755,7 @@
    :longitude 19.1130012,
    :latitude 47.977245,
    :source :openstreetmap,
-   :locality "Borsosberény",
+   :location "Borsosberény",
    :image "",
    :description ""}
   {:name "Boszorkánymúzeum",
@@ -763,7 +763,7 @@
    :latitude 47.5549791,
    :source :openstreetmap,
    :homepage "https://boszorkanymuzeum.webnode.hu/",
-   :locality "Zsámbok",
+   :location "Zsámbok",
    :image "",
    :description ""}
   {:name "Bozsoki Borház",
@@ -771,7 +771,7 @@
    :latitude 47.3240595,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=74075",
-   :locality "Bozsok",
+   :location "Bozsok",
    :image "",
    :description ""}
   {:name "Bozsó Gyűjtemény",
@@ -792,7 +792,7 @@
    :latitude 47.513424,
    :source :openstreetmap,
    :homepage "http://www.heimatmuseum-wudigess.hu/",
-   :locality "Budakeszi",
+   :location "Budakeszi",
    :image "",
    :description ""}
   {:name "Budapest Art Brut Galéria",
@@ -800,7 +800,7 @@
    :latitude 47.4842605,
    :source :openstreetmap,
    :homepage "http://artbrut.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Bugac Puszta",
@@ -822,7 +822,7 @@
    :longitude 19.1622403,
    :latitude 47.2213709,
    :source :openstreetmap,
-   :locality "Bugyi",
+   :location "Bugyi",
    :image "",
    :description ""}
   {:name "Bukovinai székely tájház",
@@ -835,14 +835,14 @@
    :longitude 18.6879247,
    :latitude 45.9913168,
    :source :openstreetmap,
-   :locality "Mohács",
+   :location "Mohács",
    :image "",
    :description ""}
   {:name "Bácskai Hagyományok Alkotó- és Kiállítóháza",
    :longitude 19.2769583,
    :latitude 46.16324,
    :source :openstreetmap,
-   :locality "Mátételke",
+   :location "Mátételke",
    :image "",
    :description ""}
   {:name "Bálint Ágnes Emlékház",
@@ -850,14 +850,14 @@
    :latitude 47.4002462,
    :source :openstreetmap,
    :homepage "http://balintagnesemlekhaz.hu/",
-   :locality "Vecsés",
+   :location "Vecsés",
    :image "",
    :description ""}
   {:name "Bánhidai szlovák tájház",
    :longitude 18.3835456,
    :latitude 47.5750398,
    :source :openstreetmap,
-   :locality "Tatabánya",
+   :location "Tatabánya",
    :image "",
    :description ""}
   {:name "Bányamúzeum",
@@ -871,7 +871,7 @@
    :longitude 18.7368823,
    :latitude 47.7252824,
    :source :openstreetmap,
-   :locality "Dorog",
+   :location "Dorog",
    :image "",
    :description ""}
   {:name "Bányász Múzeum és Ásványgyűjtemény Csolnok",
@@ -879,14 +879,14 @@
    :latitude 47.7024543,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=161265",
-   :locality "Csolnok",
+   :location "Csolnok",
    :image "",
    :description ""}
   {:name "Bányászati Emlékház (ZÁRVA!)",
    :longitude 16.496764,
    :latitude 47.6508369,
    :source :openstreetmap,
-   :locality "Sopron",
+   :location "Sopron",
    :image "",
    :description ""}
   {:name "Bányászati Múzeum",
@@ -929,7 +929,7 @@
    :source :openstreetmap,
    :homepage
    "https://kulturkozpont.hu/haz/bekasmegyeri-kozossegi-haz/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Békésszentandrási Tájház",
@@ -949,14 +949,14 @@
    :latitude 47.502282,
    :source :openstreetmap,
    :homepage "https://www.belyegmuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Börzsöny Múzeum",
    :longitude 18.8663346,
    :latitude 47.8176749,
    :source :openstreetmap,
-   :locality "Szob",
+   :location "Szob",
    :image "",
    :description ""}
   {:name "Bükki Üveghuták Ipartörténeti Múzeuma",
@@ -978,14 +978,14 @@
    :latitude 46.55484,
    :source :openstreetmap,
    :homepage "https://szank.hu/telepulesi-es-kornyekbeli-latnivalok/",
-   :locality "Szank",
+   :location "Szank",
    :image "",
    :description ""}
   {:name "Bődi István Falumúzeum és Tájház",
    :longitude 21.733408,
    :latitude 47.3891575,
    :source :openstreetmap,
-   :locality "Hosszúpályi",
+   :location "Hosszúpályi",
    :image "",
    :description ""}
   {:name "Cadillac Múzeum",
@@ -993,7 +993,7 @@
    :latitude 46.7628359,
    :source :openstreetmap,
    :homepage "http://www.cadillacmuzeum.hu",
-   :locality "Keszthely",
+   :location "Keszthely",
    :image "",
    :description ""}
   {:name "Cats Museum",
@@ -1001,7 +1001,7 @@
    :latitude 47.4935038,
    :source :openstreetmap,
    :homepage "https://kgaleria.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ceglédi Sportmúzeum",
@@ -1016,7 +1016,7 @@
    :latitude 46.097423,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=97646",
-   :locality "Erzsébet",
+   :location "Erzsébet",
    :image "",
    :description ""}
   {:name "Centrális Galéria",
@@ -1024,14 +1024,14 @@
    :latitude 47.5025491,
    :source :openstreetmap,
    :homepage "http://w3.osaarchivum.org/galeria",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Cifra Istálló és Kocsimúzeum",
    :longitude 20.0531252,
    :latitude 47.9239098,
    :source :openstreetmap,
-   :locality "Parád",
+   :location "Parád",
    :image "",
    :description ""}
   {:name "Cinkotai Tájház",
@@ -1040,7 +1040,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bp16.hu/intezmenyek/kertvarosi-helytorteneti-es-emlekezetkozpont",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Cipészmúzeum",
@@ -1055,7 +1055,7 @@
    :latitude 47.4912729,
    :source :openstreetmap,
    :homepage "https://csekovszky.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Cselley-ház",
@@ -1063,7 +1063,7 @@
    :latitude 47.8782123,
    :source :openstreetmap,
    :homepage "http://www.hansagimuzeum.hu/",
-   :locality "Mosonmagyaróvár",
+   :location "Mosonmagyaróvár",
    :image "",
    :description ""}
   {:name "Csepel Autó gyártmánymúzeum",
@@ -1077,7 +1077,7 @@
    :latitude 47.4337463,
    :source :openstreetmap,
    :homepage "https://www.csepelivaroskep.hu/varoskep/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Csepeli Helytörténeti Gyűjtemény",
@@ -1086,7 +1086,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.csepelivaroskep.hu/kiralyerdei/helytorteneti-gyujtemeny-magunkrol/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Csepeli Vezetési Pont",
@@ -1095,14 +1095,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.csepelivaroskep.hu/kiralyerdei/helytorteneti-gyujtemeny/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Csepregi Városi Múzeum, Helytörténeti Gyűjtemény",
    :longitude 16.7078361,
    :latitude 47.4009461,
    :source :openstreetmap,
-   :locality "Csepreg",
+   :location "Csepreg",
    :image "",
    :description ""}
   {:name "Cserenc Vadászház-Múzeum",
@@ -1111,21 +1111,21 @@
    :source :openstreetmap,
    :homepage
    "http://www.museum.hu/muzeum/628/A_Sarkoz_elovilaga_-_Termeszettudomanyi_Bemutatoterem",
-   :locality "Decs",
+   :location "Decs",
    :image "",
    :description ""}
   {:name "Cserépedény-gyűjtemény",
    :longitude 20.4847987,
    :latitude 48.1781618,
    :source :openstreetmap,
-   :locality "Dédestapolcsány",
+   :location "Dédestapolcsány",
    :image "",
    :description ""}
   {:name "Cserépkályha történeti kiállítás",
    :longitude 17.6398552,
    :latitude 47.6903614,
    :source :openstreetmap,
-   :locality "Győr",
+   :location "Győr",
    :image "",
    :description ""}
   {:name "Csesztvei Tájház",
@@ -1147,7 +1147,7 @@
    :latitude 47.5856177,
    :source :openstreetmap,
    :homepage "https://www.kulturkozpont.hu/csillaghegyi-kozossegi-haz",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Csillagvár múzeum",
@@ -1176,7 +1176,7 @@
    :latitude 47.622309,
    :source :openstreetmap,
    :homepage "https://www.csipkehaz-hegyko.hu/",
-   :locality "Hegykő",
+   :location "Hegykő",
    :image "",
    :description ""}
   {:name "Csipkemúzeum",
@@ -1184,7 +1184,7 @@
    :latitude 46.4305177,
    :source :openstreetmap,
    :homepage "http://www.halasicsipke.hu/",
-   :locality "Kiskunhalas",
+   :location "Kiskunhalas",
    :image "",
    :description ""}
   {:name "Csizmadia vízimalom",
@@ -1192,7 +1192,7 @@
    :latitude 47.0691073,
    :source :openstreetmap,
    :homepage "https://csizmadiavizimalom.hu/",
-   :locality "Nemeshany",
+   :location "Nemeshany",
    :image "",
    :description ""}
   {:name "Csokonai Művelődési Ház",
@@ -1200,7 +1200,7 @@
    :latitude 47.556489,
    :source :openstreetmap,
    :homepage "http://csokonaiksk.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Csokonai-Lilla emlékszoba",
@@ -1222,7 +1222,7 @@
    :latitude 47.4795832,
    :source :openstreetmap,
    :homepage "https://csonkamuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Csontkép kiállítás (Tóth Sándor Alex)",
@@ -1236,7 +1236,7 @@
    :longitude 17.250125,
    :latitude 47.612633,
    :source :openstreetmap,
-   :locality "Csorna",
+   :location "Csorna",
    :image "",
    :description ""}
   {:name "Csuha-Kállay-kúria",
@@ -1291,7 +1291,7 @@
    :longitude 20.3251759,
    :latitude 46.4298813,
    :source :openstreetmap,
-   :locality "Hódmezővásárhely",
+   :location "Hódmezővásárhely",
    :image "",
    :description ""}
   {:name "Cukrászati gyűjtemény",
@@ -1324,7 +1324,7 @@
    :longitude 20.6874588,
    :latitude 46.5616744,
    :source :openstreetmap,
-   :locality "Orosháza",
+   :location "Orosháza",
    :image "",
    :description ""}
   {:name "Denevér Múzeum",
@@ -1345,7 +1345,7 @@
    :latitude 47.4967569,
    :source :openstreetmap,
    :homepage "https://www.deak17galeria.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Deák Erika Galéria",
@@ -1353,7 +1353,7 @@
    :latitude 47.5042011,
    :source :openstreetmap,
    :homepage "http://deakgaleria.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Deák Ferenc szülőháza",
@@ -1386,7 +1386,7 @@
    :latitude 47.1756358,
    :source :openstreetmap,
    :homepage "https://varpark.hu/",
-   :locality "Gárdony",
+   :location "Gárdony",
    :image "",
    :description ""}
   {:name "Diósgyőri Papíripari Múzeum",
@@ -1420,14 +1420,14 @@
    :longitude 19.8056043,
    :latitude 48.1030259,
    :source :openstreetmap,
-   :locality "Salgótarján",
+   :location "Salgótarján",
    :image "",
    :description ""}
   {:name "Dorozsmai Tájház",
    :longitude 20.06333,
    :latitude 46.2751046,
    :source :openstreetmap,
-   :locality "Szeged",
+   :location "Szeged",
    :image "",
    :description ""}
   {:name "Dr. Batthyány-Strattmann László Múzeum",
@@ -1460,14 +1460,14 @@
    :latitude 47.4911445,
    :source :openstreetmap,
    :homepage "https://dreherzrt.hu/sormuzeum/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Dráva Múzeum",
    :longitude 17.4497011,
    :latitude 45.9552367,
    :source :openstreetmap,
-   :locality "Barcs",
+   :location "Barcs",
    :image "",
    :description ""}
   {:name "Dulity Tibor Képtár",
@@ -1515,7 +1515,7 @@
    :longitude 20.7725278,
    :latitude 48.1040902,
    :source :openstreetmap,
-   :locality "Miskolc",
+   :location "Miskolc",
    :image "",
    :description ""}
   {:name "Dömeföldi tájház",
@@ -1523,7 +1523,7 @@
    :latitude 46.58656,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=85408",
-   :locality "Páka",
+   :location "Páka",
    :image "",
    :description ""}
   {:name "Dörmögő ház",
@@ -1532,7 +1532,7 @@
    :source :openstreetmap,
    :homepage
    "https://szabadszallas.hu/turisztika/nevezetessegeink.html",
-   :locality "Szabadszállás",
+   :location "Szabadszállás",
    :image "",
    :description ""}
   {:name "E-On Történeti és Elektrotechnikai Gyűjtemény",
@@ -1603,7 +1603,7 @@
    :latitude 46.5298983,
    :source :openstreetmap,
    :homepage "https://vddelek.wordpress.com/",
-   :locality "Elek",
+   :location "Elek",
    :image "",
    :description ""}
   {:name "Elektromos Jelzőrendszer Múzeum",
@@ -1611,7 +1611,7 @@
    :latitude 47.7132476,
    :source :openstreetmap,
    :homepage "http://vasfuggony-ejrmuseum.hu/",
-   :locality "Fertőrákos",
+   :location "Fertőrákos",
    :image "",
    :description ""}
   {:name "Elektrotechnikai Múzeum",
@@ -1620,7 +1620,7 @@
    :source :openstreetmap,
    :homepage
    "https://kozlekedesimuzeum.hu/hu/kiallitohelyek/elektrotechnikai-gyujtemeny",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Első Magyar Jelvénymúzeum",
@@ -1652,7 +1652,7 @@
    :longitude 21.1227662,
    :latitude 48.3300496,
    :source :openstreetmap,
-   :locality "Encs",
+   :location "Encs",
    :image "",
    :description ""}
   {:name "Encsy ásványgyűjtemény",
@@ -1667,7 +1667,7 @@
    :latitude 47.5134743,
    :source :openstreetmap,
    :homepage "https://mke.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Erdészeti kiállítás",
@@ -1688,7 +1688,7 @@
    :latitude 48.467517,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=13065",
-   :locality "Pálháza",
+   :location "Pálháza",
    :image "",
    :description ""}
   {:name "Erdős Renée-ház Muzeális Gyűjtemény és Kiállítóterem",
@@ -1696,7 +1696,7 @@
    :latitude 47.4715594,
    :source :openstreetmap,
    :homepage "http://www.erdosreneehaz.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Erdőspusztai Bemutatóház",
@@ -1704,7 +1704,7 @@
    :latitude 47.4870095,
    :source :openstreetmap,
    :homepage "https://nyirerdo.hu/erdospusztai-bemutatohaz/",
-   :locality "Debrecen",
+   :location "Debrecen",
    :image "",
    :description ""}
   {:name "Erkel Ferenc szülőháza",
@@ -1712,7 +1712,7 @@
    :latitude 46.6470016,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=73947",
-   :locality "Gyula",
+   :location "Gyula",
    :image "",
    :description ""}
   {:name "Erzsébetligeti Színház – Corvin Művelődési Ház",
@@ -1720,7 +1720,7 @@
    :latitude 47.5100932,
    :source :openstreetmap,
    :homepage "http://kulturliget.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Esterházy Madárvárta",
@@ -1740,7 +1740,7 @@
    :latitude 47.4442148,
    :source :openstreetmap,
    :homepage "https://www.ujbuda.hu/tags/albertfalvi-kozossegi-haz",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ezer Év Parkja",
@@ -1748,21 +1748,21 @@
    :latitude 46.2218796,
    :source :openstreetmap,
    :homepage "http://ezerevparkja.hu/",
-   :locality "Mórahalom",
+   :location "Mórahalom",
    :image "",
    :description ""}
   {:name "Eötvös József Emlékmúzeum",
    :longitude 18.9056078,
    :latitude 47.2462436,
    :source :openstreetmap,
-   :locality "Ercsi",
+   :location "Ercsi",
    :image "",
    :description ""}
   {:name "Eötvös Károly Művelődési Ház",
    :longitude 18.2727114,
    :latitude 46.9897389,
    :source :openstreetmap,
-   :locality "Mezőszentgyörgy",
+   :location "Mezőszentgyörgy",
    :image "",
    :description ""}
   {:name "Eötvös Loránd Emlékgyűjtemény",
@@ -1770,7 +1770,7 @@
    :latitude 47.5129544,
    :source :openstreetmap,
    :homepage "http://www.mfgi.hu/hu/node/60",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Fafaragás kiállítás",
@@ -1811,21 +1811,21 @@
    :longitude 17.7573297,
    :latitude 46.9408435,
    :source :openstreetmap,
-   :locality "Vászoly",
+   :location "Vászoly",
    :image "",
    :description ""}
   {:name "Faluház",
    :longitude 17.1123781,
    :latitude 46.8760989,
    :source :openstreetmap,
-   :locality "Zalaszentlászló",
+   :location "Zalaszentlászló",
    :image "",
    :description ""}
   {:name "Faluház",
    :longitude 19.1868,
    :latitude 46.1954653,
    :source :openstreetmap,
-   :locality "Felsőszentiván",
+   :location "Felsőszentiván",
    :image "",
    :description ""}
   {:name "Faluház",
@@ -1833,14 +1833,14 @@
    :latitude 47.5959228,
    :source :openstreetmap,
    :homepage "https://mogyorodturizmus.hu/faluhaz/",
-   :locality "Mogyoród",
+   :location "Mogyoród",
    :image "",
    :description ""}
   {:name "Faluház",
    :longitude 20.4748288,
    :latitude 47.8610094,
    :source :openstreetmap,
-   :locality "Novaj",
+   :location "Novaj",
    :image "",
    :description ""}
   {:name "Faluház, Az Európai kultúra útvonala 1. állomás",
@@ -1861,7 +1861,7 @@
    :longitude 17.6068596,
    :latitude 46.9548562,
    :source :openstreetmap,
-   :locality "Kapolcs",
+   :location "Kapolcs",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -1880,7 +1880,7 @@
    :longitude 18.2560734,
    :latitude 47.2041708,
    :source :openstreetmap,
-   :locality "Csór",
+   :location "Csór",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -1905,7 +1905,7 @@
    :longitude 19.1604336,
    :latitude 46.1242235,
    :source :openstreetmap,
-   :locality "Bácsbokod",
+   :location "Bácsbokod",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -1989,14 +1989,14 @@
    :latitude 48.25755,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=74829",
-   :locality "Cigánd",
+   :location "Cigánd",
    :image "",
    :description ""}
   {:name "Falumúzeum",
    :longitude 18.8260378,
    :latitude 47.63218,
    :source :openstreetmap,
-   :locality "Piliscsaba",
+   :location "Piliscsaba",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -2004,7 +2004,7 @@
    :latitude 47.5201416,
    :source :openstreetmap,
    :homepage "https://www.muemlekem.hu/muemlek/show/6990",
-   :locality "Dány",
+   :location "Dány",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -2035,21 +2035,21 @@
    :longitude 17.6998921,
    :latitude 46.9458675,
    :source :openstreetmap,
-   :locality "Mencshely",
+   :location "Mencshely",
    :image "",
    :description ""}
   {:name "Falumúzeum",
    :longitude 19.0334914,
    :latitude 46.0391926,
    :source :openstreetmap,
-   :locality "Gara",
+   :location "Gara",
    :image "",
    :description ""}
   {:name "Falumúzeum",
    :longitude 19.4909252,
    :latitude 48.0379415,
    :source :openstreetmap,
-   :locality "Varsány",
+   :location "Varsány",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -2074,7 +2074,7 @@
    :longitude 18.820026,
    :latitude 47.6780895,
    :source :openstreetmap,
-   :locality "Piliscsév",
+   :location "Piliscsév",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -2094,14 +2094,14 @@
    :latitude 46.9693724,
    :source :openstreetmap,
    :homepage "https://www.biharugra.hu/index.php/falumuzeum",
-   :locality "Biharugra",
+   :location "Biharugra",
    :image "",
    :description ""}
   {:name "Falumúzeum",
    :longitude 18.2134306,
    :latitude 47.019654,
    :source :openstreetmap,
-   :locality "Balatonfőkajár",
+   :location "Balatonfőkajár",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -2120,14 +2120,14 @@
    :longitude 19.6771944,
    :latitude 48.0720424,
    :source :openstreetmap,
-   :locality "Sóshartyán",
+   :location "Sóshartyán",
    :image "",
    :description ""}
   {:name "Falumúzeum",
    :longitude 17.2880021,
    :latitude 47.9640135,
    :source :openstreetmap,
-   :locality "Dunakiliti",
+   :location "Dunakiliti",
    :image "",
    :description ""}
   {:name "Falumúzeum",
@@ -2140,7 +2140,7 @@
    :longitude 18.2447722,
    :latitude 46.9957685,
    :source :openstreetmap,
-   :locality "Lepsény",
+   :location "Lepsény",
    :image "",
    :description ""}
   {:name "Falumúzeum Szlovák tájház",
@@ -2148,7 +2148,7 @@
    :latitude 47.7269168,
    :source :openstreetmap,
    :homepage "https://muemlekem.hu/muemlek/show/6267",
-   :locality "Esztergom",
+   :location "Esztergom",
    :image "",
    :description ""}
   {:name "Falumúzeum és galéria",
@@ -2161,14 +2161,14 @@
    :longitude 18.7189233,
    :latitude 47.6911698,
    :source :openstreetmap,
-   :locality "Csolnok",
+   :location "Csolnok",
    :image "",
    :description ""}
   {:name "Falusi Gyűjteményes Ház Árpádhalom",
    :longitude 20.5479769,
    :latitude 46.6161395,
    :source :openstreetmap,
-   :locality "Árpádhalom",
+   :location "Árpádhalom",
    :image "",
    :description ""}
   {:name "Farkas Bertalan szülőháza",
@@ -2195,7 +2195,7 @@
    :longitude 18.4108604,
    :latitude 46.2206759,
    :source :openstreetmap,
-   :locality "Óbánya",
+   :location "Óbánya",
    :image "",
    :description ""}
   {:name "Fazekasház",
@@ -2237,7 +2237,7 @@
    :longitude 19.1774927,
    :latitude 47.4470396,
    :source :openstreetmap,
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Fekete István Emlékház",
@@ -2252,7 +2252,7 @@
    :latitude 46.4382858,
    :source :openstreetmap,
    :homepage "http://www.feketeistvanmuzeum.hu/golle.html",
-   :locality "Gölle",
+   :location "Gölle",
    :image "",
    :description ""}
   {:name "Fekete István Látogatóközpont",
@@ -2266,7 +2266,7 @@
    :longitude 18.1294756,
    :latitude 46.3835331,
    :source :openstreetmap,
-   :locality "Dombóvár",
+   :location "Dombóvár",
    :image "",
    :description ""}
   {:name "Fekete kerámia bemutató ház",
@@ -2274,7 +2274,7 @@
    :latitude 47.429062,
    :source :openstreetmap,
    :homepage "https://www.feketekeramia.eu/",
-   :locality "Nádudvar",
+   :location "Nádudvar",
    :image "",
    :description ""}
   {:name "Fekete Lajos Múzeum",
@@ -2293,7 +2293,7 @@
    :longitude 18.5855344,
    :latitude 47.4568392,
    :source :openstreetmap,
-   :locality "Felcsút",
+   :location "Felcsút",
    :image "",
    :description ""}
   {:name "Feldebrői Római Katolikus Plébánia",
@@ -2306,14 +2306,14 @@
    :longitude 20.4695713,
    :latitude 46.5871034,
    :source :openstreetmap,
-   :locality "Nagymágocs",
+   :location "Nagymágocs",
    :image "",
    :description ""}
   {:name "Felső-Tiszavidéki Vízügyi Történeti Gyűjtemény",
    :longitude 21.7121453,
    :latitude 47.9408184,
    :source :openstreetmap,
-   :locality "Nyíregyháza",
+   :location "Nyíregyháza",
    :image "",
    :description ""}
   {:name "Felsővárosi Alkotóház",
@@ -2333,7 +2333,7 @@
    :latitude 46.7102665,
    :source :openstreetmap,
    :homepage "https://helikonkastely.hu/",
-   :locality "Keszthely",
+   :location "Keszthely",
    :image "",
    :description ""}
   {:name "Ferences romkert",
@@ -2348,7 +2348,7 @@
    :latitude 47.4765334,
    :source :openstreetmap,
    :homepage "http://fmkportal.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ferenczy Múzeum",
@@ -2356,7 +2356,7 @@
    :latitude 47.6644355,
    :source :openstreetmap,
    :homepage "https://www.muzeumicentrum.hu/museum/ferenczy-muzeum/",
-   :locality "Szentendre",
+   :location "Szentendre",
    :image "",
    :description ""}
   {:name "Fertőszéplaki Tájházak",
@@ -2364,7 +2364,7 @@
    :latitude 47.6171791,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=8848",
-   :locality "Fertőszéplak",
+   :location "Fertőszéplak",
    :image "",
    :description ""}
   {:name "Festetics-kastély",
@@ -2372,7 +2372,7 @@
    :latitude 46.7707759,
    :source :openstreetmap,
    :homepage "https://helikonkastely.hu/",
-   :locality "Keszthely",
+   :location "Keszthely",
    :image "",
    :description ""}
   {:name "Festmények-Paintings",
@@ -2386,7 +2386,7 @@
    :longitude 17.6542738,
    :latitude 46.7769891,
    :source :openstreetmap,
-   :locality "Balatonboglár",
+   :location "Balatonboglár",
    :image "",
    :description ""}
   {:name "Flippermúzeum",
@@ -2394,7 +2394,7 @@
    :latitude 47.5146457,
    :source :openstreetmap,
    :homepage "https://flippermuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Fodrászmúzeum",
@@ -2402,7 +2402,7 @@
    :latitude 47.447841,
    :source :openstreetmap,
    :homepage "http://fodraszmuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Folk Art House Musuem",
@@ -2422,7 +2422,7 @@
    :latitude 47.4599273,
    :source :openstreetmap,
    :homepage "https://www.fono.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Forgách-kastély",
@@ -2437,7 +2437,7 @@
    :latitude 47.475633,
    :source :openstreetmap,
    :homepage "https://www.fradi.hu/szolgaltatasok/fradi-muzeum",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Fridrich Fényirda",
@@ -2450,14 +2450,14 @@
    :longitude 19.6244313,
    :latitude 47.8657792,
    :source :openstreetmap,
-   :locality "Csécse",
+   :location "Csécse",
    :image "",
    :description ""}
   {:name "FUTURA Interaktív Természettudományi Élményközpont",
    :longitude 17.2806069,
    :latitude 47.8530313,
    :source :openstreetmap,
-   :locality "Mosonmagyaróvár",
+   :location "Mosonmagyaróvár",
    :image "",
    :description ""}
   {:name "Fáma Háza",
@@ -2465,7 +2465,7 @@
    :latitude 46.4329003,
    :source :openstreetmap,
    :homepage "https://famahaza.eoldal.hu/",
-   :locality "Letenye",
+   :location "Letenye",
    :image "",
    :description ""}
   {:name "Földanya ékességei",
@@ -2479,7 +2479,7 @@
    :latitude 46.9905053,
    :source :openstreetmap,
    :homepage "https://www.tiszazugmuzeum.hu/",
-   :locality "Tiszaföldvár",
+   :location "Tiszaföldvár",
    :image "",
    :description ""}
   {:name "Földtani Kiállítás",
@@ -2487,7 +2487,7 @@
    :latitude 47.5057129,
    :source :openstreetmap,
    :homepage "http://www.mfgi.hu/node/67",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Fürdőmúzeum",
@@ -2502,7 +2502,7 @@
    :longitude 21.455627,
    :latitude 48.5418918,
    :source :openstreetmap,
-   :locality "Füzér",
+   :location "Füzér",
    :image "",
    :description ""}
   {:name "Főkötő Múzeum",
@@ -2517,21 +2517,21 @@
    :latitude 47.5377179,
    :source :openstreetmap,
    :homepage "https://fovarosikeptar.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Fűvészkert és vadállatgyűjtemény",
    :longitude 22.3862528,
    :latitude 47.8610669,
    :source :openstreetmap,
-   :locality "Nagyecsed",
+   :location "Nagyecsed",
    :image "",
    :description ""}
   {:name "Fűzfőfürdői Közösségi és Rendezvénytér",
    :longitude 18.0401508,
    :latitude 47.0659106,
    :source :openstreetmap,
-   :locality "Balatonfűzfő",
+   :location "Balatonfűzfő",
    :image "",
    :description ""}
   {:name "Gabonamúzeum",
@@ -2554,7 +2554,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.galenus.hu/shop/content/6-galenus-gyujtemeny",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Galéria",
@@ -2569,7 +2569,7 @@
    :latitude 47.3996255,
    :source :openstreetmap,
    :homepage "https://galeria13.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Galéria 12 Kávézó és Borbár",
@@ -2577,7 +2577,7 @@
    :latitude 47.5056964,
    :source :openstreetmap,
    :homepage "https://galeria12.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Gazdagréti Közösségi Ház",
@@ -2585,14 +2585,14 @@
    :latitude 47.4681233,
    :source :openstreetmap,
    :homepage "https://gkh.ujbuda.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Gazdaház és Malvinka Emlékszoba",
    :longitude 20.5338874,
    :latitude 47.9400512,
    :source :openstreetmap,
-   :locality "Cserépfalu",
+   :location "Cserépfalu",
    :image "",
    :description ""}
   {:name "Gaál Imre Galéria",
@@ -2601,7 +2601,7 @@
    :source :openstreetmap,
    :homepage
    "http://pesterzsebetimuzeum.hu/index.php/gaal-imre-galeria",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Gemenc kincsei (Vízügyi és Vadászati kiállítás)",
@@ -2621,7 +2621,7 @@
    :longitude 18.7418474,
    :latitude 47.7911603,
    :source :openstreetmap,
-   :locality "Esztergom",
+   :location "Esztergom",
    :image "",
    :description ""}
   {:name "Georgikon Majortörténeti Kiállítóhely",
@@ -2640,7 +2640,7 @@
    :longitude 20.9847907,
    :latitude 47.9702134,
    :source :openstreetmap,
-   :locality "Girincs",
+   :location "Girincs",
    :image "",
    :description ""}
   {:name "Glassyard Gallery",
@@ -2648,7 +2648,7 @@
    :latitude 47.5007736,
    :source :openstreetmap,
    :homepage "https://polinst.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Glatz Oszkár Kiállítás",
@@ -2670,7 +2670,7 @@
    :latitude 47.8249566,
    :source :openstreetmap,
    :homepage "https://www.veroce.hu/reszletek/gorka-muzeum",
-   :locality "Verőce",
+   :location "Verőce",
    :image "",
    :description ""}
   {:name "Gorsium látogatóközpont",
@@ -2712,7 +2712,7 @@
    :latitude 47.6827185,
    :source :openstreetmap,
    :homepage "https://gyikrendezvenyhaz.hu/",
-   :locality "Sopron",
+   :location "Sopron",
    :image "",
    :description ""}
   {:name "Gyufacímke gyűjtemény",
@@ -2732,14 +2732,14 @@
    :longitude 20.922387,
    :latitude 47.3154105,
    :source :openstreetmap,
-   :locality "Karcag",
+   :location "Karcag",
    :image "",
    :description ""}
   {:name "Gyűjtemények Háza",
    :longitude 19.538484,
    :latitude 46.2092154,
    :source :openstreetmap,
-   :locality "Tompa",
+   :location "Tompa",
    :image "",
    :description ""}
   {:name "Gárdonyi Géza szülőháza",
@@ -2758,7 +2758,7 @@
    :longitude 19.7182601,
    :latitude 46.1990237,
    :source :openstreetmap,
-   :locality "Ásotthalom",
+   :location "Ásotthalom",
    :image "",
    :description ""}
   {:name "Gázmúzeum",
@@ -2766,7 +2766,7 @@
    :latitude 47.9514124,
    :source :openstreetmap,
    :homepage "http://www.gazmuzeum.hu/",
-   :locality "Nyíregyháza",
+   :location "Nyíregyháza",
    :image "",
    :description ""}
   {:name "Gébárti Regionális Népi Kézműves Alkotóház",
@@ -2781,7 +2781,7 @@
    :latitude 47.442363,
    :source :openstreetmap,
    :homepage "http://geptar.hu",
-   :locality "Hajdúszoboszló",
+   :location "Hajdúszoboszló",
    :image "",
    :description ""}
   {:name "Göcsej Múzeum",
@@ -2789,7 +2789,7 @@
    :latitude 46.8463763,
    :source :openstreetmap,
    :homepage "https://mindszentyneum.hu/",
-   :locality "Zalaegerszeg",
+   :location "Zalaegerszeg",
    :image "",
    :description ""}
   {:name "Göcseji Falumúzeum",
@@ -2797,7 +2797,7 @@
    :latitude 46.8503759,
    :source :openstreetmap,
    :homepage "https://gocsejiskanzen.hu/",
-   :locality "Zalaegerszeg",
+   :location "Zalaegerszeg",
    :image "",
    :description ""}
   {:name "Gödöllői Királyi Váróterem",
@@ -2805,7 +2805,7 @@
    :latitude 47.5917807,
    :source :openstreetmap,
    :homepage "https://muemlekem.hu/muemlek?id=-12505",
-   :locality "Gödöllő",
+   :location "Gödöllő",
    :image "",
    :description ""}
   {:name "Gödöllői Városi múzeum",
@@ -2825,14 +2825,14 @@
    :latitude 47.6700105,
    :source :openstreetmap,
    :homepage "http://gorbehalom-banyamuzeum.hu/",
-   :locality "Sopron",
+   :location "Sopron",
    :image "",
    :description ""}
   {:name "Görögkatolikus Múzeum",
    :longitude 21.711446,
    :latitude 47.9555637,
    :source :openstreetmap,
-   :locality "Nyíregyháza",
+   :location "Nyíregyháza",
    :image "",
    :description ""}
   {:name "Gőzüzemű szivattyútelep",
@@ -2865,7 +2865,7 @@
    :longitude 18.1930126,
    :latitude 47.2811786,
    :source :openstreetmap,
-   :locality "Isztimér",
+   :location "Isztimér",
    :image "",
    :description ""}
   {:name "Hadtörténeti Kiállítás",
@@ -2893,14 +2893,14 @@
    :latitude 47.5030873,
    :source :openstreetmap,
    :homepage "https://www.hagyomanyokhaza.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Hajdúdorogi Tájház",
    :longitude 21.4958793,
    :latitude 47.8114789,
    :source :openstreetmap,
-   :locality "Hajdúdorog",
+   :location "Hajdúdorog",
    :image "",
    :description ""}
   {:name "Hajdúszoboszlói Fazekasház",
@@ -2908,7 +2908,7 @@
    :latitude 47.4454576,
    :source :openstreetmap,
    :homepage "http://szoboszloifazekashaz.hu",
-   :locality "Hajdúszoboszló",
+   :location "Hajdúszoboszló",
    :image "",
    :description ""}
   {:name "Hajó Skanzen",
@@ -2929,7 +2929,7 @@
    :latitude 46.845242,
    :source :openstreetmap,
    :homepage "https://balatonfoldvarikilato.hu/",
-   :locality "Balatonföldvár",
+   :location "Balatonföldvár",
    :image "",
    :description ""}
   {:name "Halászati Mini Skanzen",
@@ -2956,7 +2956,7 @@
    :latitude 46.9150878,
    :source :openstreetmap,
    :homepage "https://www.bacskiskun.hu/latnivalok/halasz-tanya",
-   :locality "Kerekegyháza",
+   :location "Kerekegyháza",
    :image "",
    :description ""}
   {:name "Hamza",
@@ -2964,28 +2964,28 @@
    :latitude 47.5059785,
    :source :openstreetmap,
    :homepage "https://www.hamzamuzeum.hu/",
-   :locality "Jászberény",
+   :location "Jászberény",
    :image "",
    :description ""}
   {:name "Hankó István Művészeti Központ",
    :longitude 19.3934144,
    :latitude 47.4214133,
    :source :openstreetmap,
-   :locality "Gyömrő",
+   :location "Gyömrő",
    :image "",
    :description ""}
   {:name "Hanság Élővilága Kiállítás",
    :longitude 17.0458518,
    :latitude 47.6412247,
    :source :openstreetmap,
-   :locality "Kapuvár",
+   :location "Kapuvár",
    :image "",
    :description ""}
   {:name "Hanák Kolos Közösségi- és Emlékház",
    :longitude 19.6961548,
    :latitude 47.8577143,
    :source :openstreetmap,
-   :locality "Szurdokpüspöki",
+   :location "Szurdokpüspöki",
    :image "",
    :description ""}
   {:name "HarckocsiPark",
@@ -2993,7 +2993,7 @@
    :latitude 47.447671,
    :source :openstreetmap,
    :homepage "http://harckocsi.com",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Harkai Evangélikus múzeum",
@@ -3002,7 +3002,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.muzeumhalozat.hu/muzeumok/evangelikus-muzeum-harka",
-   :locality "Harka",
+   :location "Harka",
    :image "",
    :description ""}
   {:name "Hartai helytörténeti gyűjtemény",
@@ -3024,7 +3024,7 @@
    :latitude 47.666058,
    :source :openstreetmap,
    :homepage "http://www.hatvanymuzeum.net/",
-   :locality "Hatvan",
+   :location "Hatvan",
    :image "",
    :description ""}
   {:name "Határőrmúzeum",
@@ -3046,7 +3046,7 @@
    :latitude 47.4429172,
    :source :openstreetmap,
    :homepage "http://muzeum18ker.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Hefter Üveggaléria",
@@ -3054,7 +3054,7 @@
    :latitude 47.555079,
    :source :openstreetmap,
    :homepage "https://www.heftergallery.com/",
-   :locality "Pannonhalma",
+   :location "Pannonhalma",
    :image "",
    :description ""}
   {:name "Hegyvidék Galéria",
@@ -3062,7 +3062,7 @@
    :latitude 47.4952623,
    :source :openstreetmap,
    :homepage "https://www.hegytortenet.hu/galeria",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Heimatmuseum Vemend",
@@ -3075,7 +3075,7 @@
    :longitude 19.1964148,
    :latitude 47.998109,
    :source :openstreetmap,
-   :locality "Érsekvadkert",
+   :location "Érsekvadkert",
    :image "",
    :description ""}
   {:name "Helytörténeti Gyűjtemény",
@@ -3176,7 +3176,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.vkbalassa.hu/index.php?action=h_bemutatkozas",
-   :locality "Balassagyarmat",
+   :location "Balassagyarmat",
    :image "",
    :description ""}
   {:name "Helytörténeti gyűjtemény",
@@ -3208,14 +3208,14 @@
    :longitude 21.5013197,
    :latitude 47.8169659,
    :source :openstreetmap,
-   :locality "Hajdúdorog",
+   :location "Hajdúdorog",
    :image "",
    :description ""}
   {:name "Helytörténeti Gyűjtemény",
    :longitude 18.3468785,
    :latitude 47.254154,
    :source :openstreetmap,
-   :locality "Sárkeresztes",
+   :location "Sárkeresztes",
    :image "",
    :description ""}
   {:name "Helytörténeti gyűjtemény",
@@ -3240,21 +3240,21 @@
    :longitude 20.9471985,
    :latitude 48.002784,
    :source :openstreetmap,
-   :locality "Sajóhídvég",
+   :location "Sajóhídvég",
    :image "",
    :description ""}
   {:name "Helytörténeti Gyűjtemény",
    :longitude 19.347179,
    :latitude 47.3846908,
    :source :openstreetmap,
-   :locality "Üllő",
+   :location "Üllő",
    :image "",
    :description ""}
   {:name "Helytörténeti Gyűjtemény",
    :longitude 20.8009245,
    :latitude 46.7588985,
    :source :openstreetmap,
-   :locality "Kondoros",
+   :location "Kondoros",
    :image "",
    :description ""}
   {:name "Helytörténeti gyűjtemény",
@@ -3273,7 +3273,7 @@
    :longitude 21.4557439,
    :latitude 48.2562489,
    :source :openstreetmap,
-   :locality "Vámosújfalu",
+   :location "Vámosújfalu",
    :image "",
    :description ""}
   {:name "Helytörténeti gyűjtemény",
@@ -3292,7 +3292,7 @@
    :longitude 19.0089867,
    :latitude 47.3242559,
    :source :openstreetmap,
-   :locality "Szigethalom",
+   :location "Szigethalom",
    :image "",
    :description ""}
   {:name "Helytörténeti Gyűjtemény 06-44-630029",
@@ -3356,7 +3356,7 @@
    :longitude 21.9217836,
    :latitude 48.2249394,
    :source :openstreetmap,
-   :locality "Dombrád",
+   :location "Dombrád",
    :image "",
    :description ""}
   {:name "Helytörténeti kiállítás",
@@ -3370,14 +3370,14 @@
    :longitude 19.31474,
    :latitude 47.1871614,
    :source :openstreetmap,
-   :locality "Dabas",
+   :location "Dabas",
    :image "",
    :description ""}
   {:name "Helytörténeti Múzeum",
    :longitude 19.0868943,
    :latitude 47.7131754,
    :source :openstreetmap,
-   :locality "Leányfalu",
+   :location "Leányfalu",
    :image "",
    :description ""}
   {:name "Helytörténeti Múzeum",
@@ -3472,21 +3472,21 @@
    :longitude 18.1293693,
    :latitude 46.373265,
    :source :openstreetmap,
-   :locality "Dombóvár",
+   :location "Dombóvár",
    :image "",
    :description ""}
   {:name "Helytörténeti Múzeum",
    :longitude 19.0362738,
    :latitude 47.7938575,
    :source :openstreetmap,
-   :locality "Dunabogdány",
+   :location "Dunabogdány",
    :image "",
    :description ""}
   {:name "Helytörténeti Múzeum",
    :longitude 20.2812726,
    :latitude 46.8398764,
    :source :openstreetmap,
-   :locality "Kunszentmárton",
+   :location "Kunszentmárton",
    :image "",
    :description ""}
   {:name "Helytörténeti Múzeum",
@@ -3507,7 +3507,7 @@
    :longitude 17.5144538,
    :latitude 46.8050583,
    :source :openstreetmap,
-   :locality "Badacsonytomaj",
+   :location "Badacsonytomaj",
    :image "",
    :description ""}
   {:name "Helytörténeti és Repülő Múzeum",
@@ -3546,7 +3546,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.aquincum.hu/a-muzeumrol/budapest-romai-emlekei/hercules-villa/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Herman Ottó Emlékház",
@@ -3561,7 +3561,7 @@
    :latitude 47.1912655,
    :source :openstreetmap,
    :homepage "https://szikm.hu/kiallitohelyek/budenz-haz",
-   :locality "Székesfehérvár",
+   :location "Székesfehérvár",
    :image "",
    :description ""}
   {:name
@@ -3589,7 +3589,7 @@
    :longitude 21.6025881,
    :latitude 47.5220668,
    :source :openstreetmap,
-   :locality "Debrecen",
+   :location "Debrecen",
    :image "",
    :description ""}
   {:name "Holló László Galéria",
@@ -3602,14 +3602,14 @@
    :longitude 21.7466944,
    :latitude 48.3328746,
    :source :openstreetmap,
-   :locality "Karos",
+   :location "Karos",
    :image "",
    :description ""}
   {:name "Horvát nemzetiségi tájház",
    :longitude 17.6848502,
    :latitude 45.8965692,
    :source :openstreetmap,
-   :locality "Lakócsa",
+   :location "Lakócsa",
    :image "",
    :description ""}
   {:name "Horváth Emlékszoba",
@@ -3623,7 +3623,7 @@
    :latitude 48.0803853,
    :source :openstreetmap,
    :homepage "https://www.mkmk.hu/telephelyek/",
-   :locality "Balassagyarmat",
+   :location "Balassagyarmat",
    :image "",
    :description ""}
   {:name "Hosszúpályi Bormúzeum",
@@ -3631,7 +3631,7 @@
    :latitude 47.4158191,
    :source :openstreetmap,
    :homepage "http://hosszupalyibormuzeum.hu",
-   :locality "Hosszúpályi",
+   :location "Hosszúpályi",
    :image "",
    :description ""}
   {:name "Huszita ház, Tájház",
@@ -3639,14 +3639,14 @@
    :latitude 48.472902,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=24296",
-   :locality "Gönc",
+   :location "Gönc",
    :image "",
    :description ""}
   {:name "Huszákné Czencz Marietta emlékszoba",
    :longitude 18.7904102,
    :latitude 46.1295294,
    :source :openstreetmap,
-   :locality "Báta",
+   :location "Báta",
    :image "",
    :description ""}
   {:name "Házi Múzeum",
@@ -3666,7 +3666,7 @@
    :longitude 21.263572,
    :latitude 46.6403921,
    :source :openstreetmap,
-   :locality "Gyula",
+   :location "Gyula",
    :image "",
    :description ""}
   {:name "Ifj. Lele József Néprajzi Magángyűjteménye",
@@ -3695,7 +3695,7 @@
    :latitude 47.5062437,
    :source :openstreetmap,
    :homepage "https://www.parlament.hu/web/orszaggyulesi-muzeum",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Indiai Kulturális Központ",
@@ -3703,7 +3703,7 @@
    :latitude 47.525512,
    :source :openstreetmap,
    :homepage "http://www.indianembassy.hu/indiaikulturaliskozpont",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Informatikatörténeti Kiállítás",
@@ -3724,7 +3724,7 @@
    :longitude 18.2439428,
    :latitude 46.3150568,
    :source :openstreetmap,
-   :locality "Alsómocsolád",
+   :location "Alsómocsolád",
    :image "",
    :description ""}
   {:name "Iparművészeti Múzeum Ráth György-villa",
@@ -3733,7 +3733,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.imm.hu/hu/contents/262,R%C3%A1th+Gy%C3%B6rgy-villa",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ipartörténeti Skanzen",
@@ -3761,7 +3761,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.csepelivaroskep.hu/kiralyerdei/helytorteneti-gyujtemeny/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Iskolamúzeum",
@@ -3811,7 +3811,7 @@
    :latitude 47.950717,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=130079",
-   :locality "Terény",
+   :location "Terény",
    :image "",
    :description ""}
   {:name "IT Evolúció kiállítás",
@@ -3820,14 +3820,14 @@
    :source :openstreetmap,
    :homepage
    "http://news.uni-obuda.hu/articles/2016/08/05/it-evolucio-kiallitas-megnyito",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Iváncsa helytörténeti gyűjtemény",
    :longitude 18.8339588,
    :latitude 47.1445166,
    :source :openstreetmap,
-   :locality "Iváncsa",
+   :location "Iváncsa",
    :image "",
    :description ""}
   {:name "Izsák Pálinka Múzeum és Helytörténeti Gyűjtemény",
@@ -3835,7 +3835,7 @@
    :latitude 46.8091918,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=169142",
-   :locality "Izsák",
+   :location "Izsák",
    :image "",
    :description ""}
   {:name "Izsó Miklós Emlékház",
@@ -3850,7 +3850,7 @@
    :latitude 47.8030899,
    :source :openstreetmap,
    :homepage "http://muzeum.penc.hu",
-   :locality "Penc",
+   :location "Penc",
    :image "",
    :description ""}
   {:name "Jawa Motorkerékpár Múzeum",
@@ -3871,7 +3871,7 @@
    :longitude 18.4802383,
    :latitude 46.4991883,
    :source :openstreetmap,
-   :locality "Kalaznó",
+   :location "Kalaznó",
    :image "",
    :description ""}
   {:name "Jurányi Produkciós Közösségi Inkubátorház",
@@ -3879,14 +3879,14 @@
    :latitude 47.5085888,
    :source :openstreetmap,
    :homepage "https://www.juranyihaz.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Jász Múzeum",
    :longitude 19.9146407,
    :latitude 47.5024508,
    :source :openstreetmap,
-   :locality "Jászberény",
+   :location "Jászberény",
    :image "",
    :description ""}
   {:name "Jászai Mari Emlékház",
@@ -3894,7 +3894,7 @@
    :latitude 47.5060448,
    :source :openstreetmap,
    :homepage "https://aszar.hu/aszarrol/oldal/6",
-   :locality "Ászár",
+   :location "Ászár",
    :image "",
    :description ""}
   {:name "Játék- és Nosztalgiamúzeum",
@@ -3903,21 +3903,21 @@
    :source :openstreetmap,
    :homepage
    "https://www.bfnp.hu/magyar/oldalak/magas_bakony_bakonyi_erdok_haza/1/1",
-   :locality "Bakonybél",
+   :location "Bakonybél",
    :image "",
    :description ""}
   {:name "Játékkatona-magángyűjtemény",
    :longitude 17.3553504,
    :latitude 46.8682449,
    :source :openstreetmap,
-   :locality "Lesenceistvánd",
+   :location "Lesenceistvánd",
    :image "",
    :description ""}
   {:name "Jókai 7",
    :longitude 17.5534104,
    :latitude 46.8734438,
    :source :openstreetmap,
-   :locality "Mindszentkálla",
+   :location "Mindszentkálla",
    :image "",
    :description ""}
   {:name "Jókai Mór Emlékszoba",
@@ -3925,14 +3925,14 @@
    :latitude 47.4984395,
    :source :openstreetmap,
    :homepage "https://pim.hu/hu/filiale/jokai-emlekszoba",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Jókai Mór emlékszoba és tájház",
    :longitude 20.5345336,
    :latitude 48.1704537,
    :source :openstreetmap,
-   :locality "Tardona",
+   :location "Tardona",
    :image "",
    :description ""}
   {:name "Jósa András múzeum",
@@ -3953,7 +3953,7 @@
    :latitude 47.4785086,
    :source :openstreetmap,
    :homepage "https://jaemlekhely.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "József Attila Emlékház",
@@ -3980,7 +3980,7 @@
    :latitude 47.4874611,
    :source :openstreetmap,
    :homepage "https://jozsefvarosimuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kacár tanya - népművészeti bemutatóhely",
@@ -3988,7 +3988,7 @@
    :latitude 47.859588,
    :source :openstreetmap,
    :homepage "http://kacar.hu/",
-   :locality "Szokolya",
+   :location "Szokolya",
    :image "",
    :description ""}
   {:name "Kadarcsi Múzeum",
@@ -4011,7 +4011,7 @@
    :latitude 46.6259761,
    :source :openstreetmap,
    :homepage "https://www.kalapmuzeum.hu/",
-   :locality "Nagydorog",
+   :location "Nagydorog",
    :image "",
    :description ""}
   {:name "Kanizsai Dorottya Múzeum",
@@ -4019,7 +4019,7 @@
    :latitude 45.9937897,
    :source :openstreetmap,
    :homepage "https://www.kanizsaidorottyamuzeum.hu/",
-   :locality "Mohács",
+   :location "Mohács",
    :image "",
    :description ""}
   {:name "Kapoli múzeum",
@@ -4052,7 +4052,7 @@
    :latitude 47.314546,
    :source :openstreetmap,
    :homepage "http://www.kfmuzeum.hu/",
-   :locality "Püspökladány",
+   :location "Püspökladány",
    :image "",
    :description ""}
   {:name "Karapancsa szivattyútelep",
@@ -4095,14 +4095,14 @@
    :source :openstreetmap,
    :homepage
    "https://kulturkozpont.hu/haz/3k-kaszasduloi-kulturalis-kozpont/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Katalinpusztai Kirándulóközpont",
    :longitude 19.1057344,
    :latitude 47.8507067,
    :source :openstreetmap,
-   :locality "Szendehely",
+   :location "Szendehely",
    :image "",
    :description ""}
   {:name "Katasztrófavédelem Központi Múzeuma",
@@ -4110,7 +4110,7 @@
    :latitude 47.4813154,
    :source :openstreetmap,
    :homepage "http://muzeum.katasztrofavedelem.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Katolikus gyűjtemény",
@@ -4118,7 +4118,7 @@
    :latitude 47.6876468,
    :source :openstreetmap,
    :homepage "https://forum.scarbantia.com",
-   :locality "Sopron",
+   :location "Sopron",
    :image "",
    :description ""}
   {:name "Katona Áron Sándor Képtár",
@@ -4126,7 +4126,7 @@
    :latitude 47.4545477,
    :source :openstreetmap,
    :homepage "https://kmo.hu/intezmenyek/kas-keptar",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Katonaimotor-múzeum",
@@ -4155,7 +4155,7 @@
    :latitude 46.9193888,
    :source :openstreetmap,
    :homepage "https://automotormuzeum.hu",
-   :locality "Dörgicse",
+   :location "Dörgicse",
    :image "",
    :description ""}
   {:name "Keceli Múzeum",
@@ -4169,14 +4169,14 @@
    :latitude 47.4512715,
    :source :openstreetmap,
    :homepage "https://kkh.ujbuda.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Keller Lajos Városi Könyvtár és Helytörténeti Gyűjtemény",
    :longitude 20.1848878,
    :latitude 46.5241368,
    :source :openstreetmap,
-   :locality "Mindszent",
+   :location "Mindszent",
    :image "",
    :description ""}
   {:name "Keltike ház",
@@ -4184,7 +4184,7 @@
    :latitude 47.4745844,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=141267",
-   :locality "Várgesztes",
+   :location "Várgesztes",
    :image "",
    :description ""}
   {:name "Kemencei Erdei Múzeumvasút",
@@ -4217,7 +4217,7 @@
    :latitude 47.7974751,
    :source :openstreetmap,
    :homepage "https://www.keresztenymuzeum.hu/",
-   :locality "Esztergom",
+   :location "Esztergom",
    :image "",
    :description ""}
   {:name "Kerka Vízimalom Múzeum",
@@ -4232,7 +4232,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bp16.hu/intezmenyek/kertvarosi-helytorteneti-es-emlekezetkozpont",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kessler-ház",
@@ -4248,7 +4248,7 @@
    :latitude 47.71221,
    :source :openstreetmap,
    :homepage "https://kesztolc.hu/",
-   :locality "Kesztölc",
+   :location "Kesztölc",
    :image "",
    :description ""}
   {:name "Kieselback Galéria",
@@ -4256,7 +4256,7 @@
    :latitude 47.5125493,
    :source :openstreetmap,
    :homepage "https://www.kieselbach.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kigyós Sándor kiállítás",
@@ -4270,7 +4270,7 @@
    :longitude 17.7368039,
    :latitude 47.7014299,
    :source :openstreetmap,
-   :locality "Győr",
+   :location "Győr",
    :image "",
    :description ""}
   {:name "Kincsem Emlékmúzeum",
@@ -4313,7 +4313,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bfnp.hu/hu/latogatohelyek-3/kis-balaton-latogatokozpont-hu-471349",
-   :locality "Keszthely",
+   :location "Keszthely",
    :image "",
    :description ""}
   {:name "Kisfaludy Emlékház",
@@ -4328,14 +4328,14 @@
    :latitude 47.4717973,
    :source :openstreetmap,
    :homepage "https://www.kisfoghaz.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kisgulya Kútja",
    :longitude 20.7964915,
    :latitude 47.2226085,
    :source :openstreetmap,
-   :locality "Kisújszállás",
+   :location "Kisújszállás",
    :image "",
    :description ""}
   {:name "Kiskastély",
@@ -4348,7 +4348,7 @@
    :longitude 16.9888507,
    :latitude 46.4575064,
    :source :openstreetmap,
-   :locality "Nagykanizsa",
+   :location "Nagykanizsa",
    :image "",
    :description ""}
   {:name "Kiskastély",
@@ -4367,7 +4367,7 @@
    :longitude 19.8497729,
    :latitude 46.7150827,
    :source :openstreetmap,
-   :locality "Kiskunfélegyháza",
+   :location "Kiskunfélegyháza",
    :image "",
    :description ""}
   {:name "Kiskőrösi Közúti Szakgyűjtemény",
@@ -4382,14 +4382,14 @@
    :latitude 47.8267775,
    :source :openstreetmap,
    :homepage "https://www.radiomuzeum.hu/",
-   :locality "Kismaros",
+   :location "Kismaros",
    :image "",
    :description ""}
   {:name "Kisoroszi Helytörténeti Múzeum",
    :longitude 19.0108993,
    :latitude 47.8076326,
    :source :openstreetmap,
-   :locality "Kisoroszi",
+   :location "Kisoroszi",
    :image "",
    :description ""}
   {:name "Kispesti Helytörténeti Gyűjtemény",
@@ -4397,7 +4397,7 @@
    :latitude 47.4581914,
    :source :openstreetmap,
    :homepage "https://kmo.hu/intezmenyek/helytorteneti-gyujtemeny",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kispesti Munkásotthon Művelődési Ház",
@@ -4405,7 +4405,7 @@
    :latitude 47.4601283,
    :source :openstreetmap,
    :homepage "https://kmo.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kiss Géza Ormánsági Múzeum",
@@ -4425,7 +4425,7 @@
    :longitude 20.752307,
    :latitude 47.6224314,
    :source :openstreetmap,
-   :locality "Tiszafüred",
+   :location "Tiszafüred",
    :image "",
    :description ""}
   {:name "Kisvasút kiállítás",
@@ -4460,7 +4460,7 @@
    :latitude 47.7979815,
    :source :openstreetmap,
    :homepage "https://geocaching.hu/poi.geo?id=151796",
-   :locality "Nagymaros",
+   :location "Nagymaros",
    :image "",
    :description ""}
   {:name "Kiállítás a falunkról",
@@ -4487,7 +4487,7 @@
    :latitude 47.745217,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=275",
-   :locality "Komárom",
+   :location "Komárom",
    :image "",
    :description ""}
   {:name "Klauzál Gábor Budafok-Tétényi Művelődési Központ",
@@ -4495,7 +4495,7 @@
    :latitude 47.4089147,
    :source :openstreetmap,
    :homepage "https://www.klauzalhaz.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kner Nyomdaipari Múzeum",
@@ -4509,7 +4509,7 @@
    :longitude 18.2121725,
    :latitude 47.6097046,
    :source :openstreetmap,
-   :locality "Kocs",
+   :location "Kocs",
    :image "",
    :description ""}
   {:name "Kocsikiállítás",
@@ -4530,7 +4530,7 @@
    :latitude 45.8585634,
    :source :openstreetmap,
    :homepage "http://www.museum.hu/museum/index_hu.php?ID=178",
-   :locality "Vajszló",
+   :location "Vajszló",
    :image "",
    :description ""}
   {:name "Kodály Zoltán Emlékmúzeum és Archívum",
@@ -4539,7 +4539,7 @@
    :source :openstreetmap,
    :homepage
    "https://kodaly.hu/kodaly_muzeum/kodaly-zoltan-emlekmuzeum-es-archivum-107360",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kohászati Múzeum",
@@ -4548,14 +4548,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.mmkm.hu/hu/kiallitasaink/a-kohaszati-muzeum-allando-kiallitasa-ujmassan",
-   :locality "Miskolc",
+   :location "Miskolc",
    :image "",
    :description ""}
   {:name "Kokas Ignác szülőháza",
    :longitude 18.6782655,
    :latitude 47.3637725,
    :source :openstreetmap,
-   :locality "Vál",
+   :location "Vál",
    :image "",
    :description ""}
   {:name "Kolbászmúzeum",
@@ -4575,7 +4575,7 @@
    :latitude 47.528297,
    :source :openstreetmap,
    :homepage "https://kulturkozpont.hu/haz/civil-haz/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Komiszár János Képtár és Alkotóház",
@@ -4596,7 +4596,7 @@
    :latitude 47.2920484,
    :source :openstreetmap,
    :homepage "https://www.komosky51bazis.hu",
-   :locality "Dunavarsány",
+   :location "Dunavarsány",
    :image "",
    :description ""}
   {:name "Kondorosi Csárda és Múzeum",
@@ -4604,14 +4604,14 @@
    :latitude 46.7587146,
    :source :openstreetmap,
    :homepage "https://kondorosicsarda.hu/",
-   :locality "Kondoros",
+   :location "Kondoros",
    :image "",
    :description ""}
   {:name "Konecsni György Helytörténeti Múzeum",
    :longitude 19.7305635,
    :latitude 46.4882707,
    :source :openstreetmap,
-   :locality "Kiskunmajsa",
+   :location "Kiskunmajsa",
    :image "",
    :description ""}
   {:name "Kopcsik Marcipánia",
@@ -4638,7 +4638,7 @@
    :latitude 47.4857372,
    :source :openstreetmap,
    :homepage "https://www.kordasgaleria.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Koronás jurta",
@@ -4660,7 +4660,7 @@
    :latitude 46.9643193,
    :source :openstreetmap,
    :homepage "http://www.ica-d.hu/",
-   :locality "Dunaújváros",
+   :location "Dunaújváros",
    :image "",
    :description ""}
   {:name "Korányi Emlékház",
@@ -4675,7 +4675,7 @@
    :latitude 47.1847826,
    :source :openstreetmap,
    :homepage "https://www.kmkdabas.hu/index.php/kossuth-haz-galeria",
-   :locality "Dabas",
+   :location "Dabas",
    :image "",
    :description ""}
   {:name "Kossuth Lajos Múzeumhajó",
@@ -4683,7 +4683,7 @@
    :latitude 47.4975499,
    :source :openstreetmap,
    :homepage "https://venhajo-etterem.hu/kossuth-muzeumhajo/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kossuth Lajos Művelődési Központ",
@@ -4697,7 +4697,7 @@
    :longitude 21.1522907,
    :latitude 48.2097696,
    :source :openstreetmap,
-   :locality "Monok",
+   :location "Monok",
    :image "",
    :description ""}
   {:name "Kossuth múzeum/museum",
@@ -4723,7 +4723,7 @@
    :longitude 17.2276781,
    :latitude 46.8902533,
    :source :openstreetmap,
-   :locality "Zalaszántó",
+   :location "Zalaszántó",
    :image "",
    :description ""}
   {:name "Kovács kiállítás - Helytörténeti kiállítás",
@@ -4739,7 +4739,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.muzeumicentrum.hu/museum/kovacs-margit-muzeum-2/",
-   :locality "Szentendre",
+   :location "Szentendre",
    :image "",
    :description ""}
   {:name "Kovácsmúzeum",
@@ -4747,7 +4747,7 @@
    :latitude 47.210446,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=69197",
-   :locality "Biharnagybajom",
+   :location "Biharnagybajom",
    :image "",
    :description ""}
   {:name "Kovácsmúzeum",
@@ -4763,7 +4763,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.museum.hu/muzeum/1110/Tesi_Szelmalmok_es_Kovacsmuhely",
-   :locality "Tés",
+   :location "Tés",
    :image "",
    :description ""}
   {:name "Kovácsműhely",
@@ -4811,7 +4811,7 @@
    :latitude 47.5165304,
    :source :openstreetmap,
    :homepage "https://kreativliget.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "KRENFI kerékpártörténeti gyűjtemény",
@@ -4827,14 +4827,14 @@
    :latitude 47.508987,
    :source :openstreetmap,
    :homepage "https://www.mentok.hu/rolunk/mentomuzeum/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kristály Múzeum",
    :longitude 17.5685355,
    :latitude 47.1049061,
    :source :openstreetmap,
-   :locality "Ajka",
+   :location "Ajka",
    :image "",
    :description ""}
   {:name "KSH Könyvtár",
@@ -4842,21 +4842,21 @@
    :latitude 47.511808,
    :source :openstreetmap,
    :homepage "http://konyvtar.ksh.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kulipintyó helytörténeti kiállítás",
    :longitude 17.8765568,
    :latitude 46.8490692,
    :source :openstreetmap,
-   :locality "Balatonföldvár",
+   :location "Balatonföldvár",
    :image "",
    :description ""}
   {:name "KultPort-a",
    :longitude 16.2764039,
    :latitude 46.9500218,
    :source :openstreetmap,
-   :locality "Szentgotthárd",
+   :location "Szentgotthárd",
    :image "",
    :description ""}
   {:name "Kulturális Központ",
@@ -4864,7 +4864,7 @@
    :latitude 46.2289872,
    :source :openstreetmap,
    :homepage "https://www.nksk.hu/",
-   :locality "Nagyatád",
+   :location "Nagyatád",
    :image "",
    :description ""}
   {:name "Kunffy Lajos Emlékmúzeum",
@@ -4904,7 +4904,7 @@
    :latitude 47.4238403,
    :source :openstreetmap,
    :homepage "https://muemlekem.hu/muemlek/show/3558",
-   :locality "Alcsútdoboz",
+   :location "Alcsútdoboz",
    :image "",
    :description ""}
   {:name "Kávási Tájházak",
@@ -4919,7 +4919,7 @@
    :latitude 47.3283615,
    :source :openstreetmap,
    :homepage "http://www.kekfestomuzeum.hu/",
-   :locality "Pápa",
+   :location "Pápa",
    :image "",
    :description ""}
   {:name "Kékfestő műhely",
@@ -4958,7 +4958,7 @@
    :longitude 20.0546261,
    :latitude 47.8277975,
    :source :openstreetmap,
-   :locality "Markaz",
+   :location "Markaz",
    :image "",
    :description ""}
   {:name "Kézműves Nyomdaműhely",
@@ -4966,7 +4966,7 @@
    :latitude 47.9991323,
    :source :openstreetmap,
    :homepage "https://holloko.hu/paloc-babamuzeum",
-   :locality "Hollókő",
+   :location "Hollókő",
    :image "",
    :description ""}
   {:name "KÓD Teátrum",
@@ -4974,21 +4974,21 @@
    :latitude 47.4809789,
    :source :openstreetmap,
    :homepage "https://kodteatrum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kóspallagi Öregház",
    :longitude 18.9349029,
    :latitude 47.8761992,
    :source :openstreetmap,
-   :locality "Kóspallag",
+   :location "Kóspallag",
    :image "",
    :description ""}
   {:name "Kölcsey Ferenc Kulturális és Turisztikai Központ",
    :longitude 22.6245046,
    :latitude 48.0851812,
    :source :openstreetmap,
-   :locality "Szatmárcseke",
+   :location "Szatmárcseke",
    :image "",
    :description ""}
   {:name "Kölcsey-kúria",
@@ -5002,7 +5002,7 @@
    :longitude 17.3424714,
    :latitude 47.0636552,
    :source :openstreetmap,
-   :locality "Káptalanfa",
+   :location "Káptalanfa",
    :image "",
    :description ""}
   {:name "Körös Völgyi Természetvédelmi Bemutatóház",
@@ -5016,7 +5016,7 @@
    :latitude 46.6855583,
    :source :openstreetmap,
    :homepage "https://www.korosoknaturpark.hu/",
-   :locality "Békéscsaba",
+   :location "Békéscsaba",
    :image "",
    :description ""}
   {:name "Közösségi ház",
@@ -5042,14 +5042,14 @@
    :latitude 46.8755468,
    :source :openstreetmap,
    :homepage "https://www.slovenci.hu/",
-   :locality "Felsőszölnök",
+   :location "Felsőszölnök",
    :image "",
    :description ""}
   {:name "Külsővati Helytörténeti Kiállítóhely",
    :longitude 17.2251661,
    :latitude 47.2973542,
    :source :openstreetmap,
-   :locality "Külsővat",
+   :location "Külsővat",
    :image "",
    :description ""}
   {:name "Kő-kör",
@@ -5076,7 +5076,7 @@
    :latitude 47.4857603,
    :source :openstreetmap,
    :homepage "https://korosi.org/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Kőtenger Ásvány és Ősmaradvány Múzeum",
@@ -5084,7 +5084,7 @@
    :latitude 46.8454496,
    :source :openstreetmap,
    :homepage "https://kotengermuzeum.hu/",
-   :locality "Kővágóörs",
+   :location "Kővágóörs",
    :image "",
    :description ""}
   {:name "Kőtár",
@@ -5117,7 +5117,7 @@
    :latitude 46.255357,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=130018",
-   :locality "Decs",
+   :location "Decs",
    :image "",
    :description ""}
   {:name "Lantos Ferenc kiállítás",
@@ -5147,14 +5147,14 @@
    :source :openstreetmap,
    :homepage
    "https://postamuzeum.hu/hu/muzeumok/6/postamuzeum-balatonszemes",
-   :locality "Balatonszemes",
+   :location "Balatonszemes",
    :image "",
    :description ""}
   {:name "Lehetőségek tere",
    :longitude 19.0817662,
    :latitude 47.4866841,
    :source :openstreetmap,
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lenck-villa",
@@ -5162,7 +5162,7 @@
    :latitude 47.6826897,
    :source :openstreetmap,
    :homepage "https://sopronimuzeum.hu/helyszinek/lenck-villa",
-   :locality "Sopron",
+   :location "Sopron",
    :image "",
    :description ""}
   {:name "Lengyel Béla szülőháza",
@@ -5177,21 +5177,21 @@
    :latitude 47.485251,
    :source :openstreetmap,
    :homepage "http://lengyelmuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lenke galéria és tájház",
    :longitude 18.5560471,
    :latitude 47.3052334,
    :source :openstreetmap,
-   :locality "Lovasberény",
+   :location "Lovasberény",
    :image "",
    :description ""}
   {:name "Leskowsky Hangszergyűjtemény",
    :longitude 19.6985388,
    :latitude 46.9101215,
    :source :openstreetmap,
-   :locality "Kecskemét",
+   :location "Kecskemét",
    :image "",
    :description ""}
   {:name "Levendula Ház Látogatóközpont",
@@ -5199,7 +5199,7 @@
    :latitude 46.909166,
    :source :openstreetmap,
    :homepage "http://levendulahaz.eu/",
-   :locality "Tihany",
+   :location "Tihany",
    :image "",
    :description ""}
   {:name "Lidi néni háza kiállítás",
@@ -5212,7 +5212,7 @@
    :longitude 17.881751,
    :latitude 47.3532203,
    :source :openstreetmap,
-   :locality "Csesznek",
+   :location "Csesznek",
    :image "",
    :description ""}
   {:name "Lipták Galéria",
@@ -5220,7 +5220,7 @@
    :latitude 47.5111024,
    :source :openstreetmap,
    :homepage "https://www.liptakvilla.hu/?content=sm&smid=30",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lipóti falumúzeum",
@@ -5234,7 +5234,7 @@
    :latitude 47.5069655,
    :source :openstreetmap,
    :homepage "https://www.lisztmuseum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Liszt Ferenc Konferencia és Kulturális Központ",
@@ -5242,21 +5242,21 @@
    :latitude 47.6834185,
    :source :openstreetmap,
    :homepage "https://www.prokultura.hu/",
-   :locality "Sopron",
+   :location "Sopron",
    :image "",
    :description ""}
   {:name "Longtermhandstand",
    :longitude 19.0302067,
    :latitude 47.4927081,
    :source :openstreetmap,
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Longtermhandstand Hall",
    :longitude 19.0290493,
    :latitude 47.4807983,
    :source :openstreetmap,
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lovas Múzeum",
@@ -5265,7 +5265,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.szilvasvarad.hu/lipicai-menes/lipicai-lotorteneti-kiallitas",
-   :locality "Szilvásvárad",
+   :location "Szilvásvárad",
    :image "",
    :description ""}
   {:name "Lovashintói kiállítás",
@@ -5278,7 +5278,7 @@
    :longitude 17.9582211,
    :latitude 46.9932031,
    :source :openstreetmap,
-   :locality "Lovas",
+   :location "Lovas",
    :image "",
    :description ""}
   {:name "Lovasmúzeum",
@@ -5293,7 +5293,7 @@
    :latitude 47.469348,
    :source :openstreetmap,
    :homepage "https://ludwigmuseum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lumina Park Budapest",
@@ -5301,7 +5301,7 @@
    :latitude 47.5273507,
    :source :openstreetmap,
    :homepage "https://luminapark.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lábatlani Cementgyári Emlékház és Tudásközpont",
@@ -5322,7 +5322,7 @@
    :latitude 47.4758527,
    :source :openstreetmap,
    :homepage "https://www.lathatatlan.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Látogatóközpont",
@@ -5356,7 +5356,7 @@
    :latitude 47.4231827,
    :source :openstreetmap,
    :homepage "http://www.aeropark.hu",
-   :locality "Vecsés",
+   :location "Vecsés",
    :image "",
    :description ""}
   {:name "Lénia Galéria",
@@ -5364,7 +5364,7 @@
    :latitude 47.5265797,
    :source :openstreetmap,
    :homepage "http://www.galerialenia.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lívia-villa",
@@ -5372,7 +5372,7 @@
    :latitude 47.5009013,
    :source :openstreetmap,
    :homepage "http://viranyos.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lóvasút Kulturális és Rendezvényközpont",
@@ -5380,7 +5380,7 @@
    :latitude 47.5169215,
    :source :openstreetmap,
    :homepage "https://lovasut.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Lőrinci Tájház",
@@ -5414,21 +5414,21 @@
    :longitude 19.0379872,
    :latitude 47.4267959,
    :source :openstreetmap,
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "MAGTÁR - hadtörténeti és néprajzi tárlat",
    :longitude 18.4099997,
    :latitude 47.3130044,
    :source :openstreetmap,
-   :locality "Zámoly",
+   :location "Zámoly",
    :image "",
    :description ""}
   {:name "Magtár Múzeum",
    :longitude 21.9663292,
    :latitude 47.7372764,
    :source :openstreetmap,
-   :locality "Nyírmihálydi",
+   :location "Nyírmihálydi",
    :image "",
    :description ""}
   {:name "Magtár-Értéktár",
@@ -5442,14 +5442,14 @@
    :latitude 47.377184,
    :source :openstreetmap,
    :homepage "https://foldrajzimuzeum.hu",
-   :locality "Érd",
+   :location "Érd",
    :image "",
    :description ""}
   {:name "Magyar Ispita : Váczy Péter-gyűjtemény",
    :longitude 17.6358817,
    :latitude 47.6888675,
    :source :openstreetmap,
-   :locality "Győr",
+   :location "Győr",
    :image "",
    :description ""}
   {:name "Magyar Katonai Térképészet Szakmatörténeti Múzeuma",
@@ -5458,7 +5458,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.militaria.hu/kiallitasok/kulso-kiallitohelyek/magyar-katonai-terkepeszet",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Kosárlabda-múzeum",
@@ -5466,7 +5466,7 @@
    :latitude 47.4554869,
    :source :openstreetmap,
    :homepage "https://www.kosarlabdamuzeum.hu/",
-   :locality "Budaörs",
+   :location "Budaörs",
    :image "",
    :description ""}
   {:name "Magyar Légvédelemi Múzeum",
@@ -5482,7 +5482,7 @@
    :latitude 47.4922597,
    :source :openstreetmap,
    :homepage "https://mesemuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Mezőgazdasági Múzeum és Könyvtár",
@@ -5490,7 +5490,7 @@
    :latitude 47.5150508,
    :source :openstreetmap,
    :homepage "https://mezogazdasagimuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Motorok Múzeuma",
@@ -5505,7 +5505,7 @@
    :latitude 47.4986073,
    :source :openstreetmap,
    :homepage "https://www.magyarmuhely.hu/a-galeriarol",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Műszaki és Közlekedési Múzeum Aluminiumipari Múzeuma",
@@ -5513,7 +5513,7 @@
    :latitude 47.1931356,
    :source :openstreetmap,
    :homepage "https://kozlekedesimuzeum.hu/hu/tagintezmenyek?tid=4",
-   :locality "Székesfehérvár",
+   :location "Székesfehérvár",
    :image "",
    :description ""}
   {:name "Magyar Nemzeti Galéria",
@@ -5521,7 +5521,7 @@
    :latitude 47.4962283,
    :source :openstreetmap,
    :homepage "https://mng.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Olaj- és Gázipari Múzeum",
@@ -5529,7 +5529,7 @@
    :latitude 46.8394738,
    :source :openstreetmap,
    :homepage "https://www.olajmuzeum.hu/",
-   :locality "Zalaegerszeg",
+   :location "Zalaegerszeg",
    :image "",
    :description ""}
   {:name "Magyar Olimpiai és Sportmúzeum - Sportagóra kiállítóhely",
@@ -5537,7 +5537,7 @@
    :latitude 47.500887,
    :source :openstreetmap,
    :homepage "https://sportmuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Ortodox Egyházi Múzeum",
@@ -5545,7 +5545,7 @@
    :latitude 48.106036,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=65597",
-   :locality "Miskolc",
+   :location "Miskolc",
    :image "",
    :description ""}
   {:name "Magyar Rendőrmúzeum kiállítása",
@@ -5560,7 +5560,7 @@
    :latitude 47.4825726,
    :source :openstreetmap,
    :homepage "https://www.nhmus.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Tragédia 1944 kiállítóhely",
@@ -5574,14 +5574,14 @@
    :latitude 47.5407579,
    :source :openstreetmap,
    :homepage "https://vasuttortenetipark.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Épületgépészeti Múzeum",
    :longitude 18.9576414,
    :latitude 47.3878205,
    :source :openstreetmap,
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyar Úszó Hírességek Csarnoka",
@@ -5596,7 +5596,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.rusyn.hu/hu/kulturalis-ertekeink-es-hagyomanyaink/muzeumok",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Magyary Zoltán Művelődési Központ",
@@ -5604,7 +5604,7 @@
    :latitude 47.6494763,
    :source :openstreetmap,
    :homepage "https://www.kunymuzeum.hu/",
-   :locality "Tata",
+   :location "Tata",
    :image "",
    :description ""}
   {:name "Magán tájház",
@@ -5624,7 +5624,7 @@
    :latitude 47.5083145,
    :source :openstreetmap,
    :homepage "http://www.mamu.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Marczibányi Téri Művelődési Központ",
@@ -5632,14 +5632,14 @@
    :latitude 47.5134889,
    :source :openstreetmap,
    :homepage "https://kult2.hu/marczi/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Marsovszky Életmű múzeum",
    :longitude 19.3887497,
    :latitude 47.6549954,
    :source :openstreetmap,
-   :locality "Domonyvölgy",
+   :location "Domonyvölgy",
    :image "",
    :description ""}
   {:name "Martfűi Hely- és Ipartörténeti Gyűjtemény",
@@ -5660,7 +5660,7 @@
    :latitude 47.4915273,
    :source :openstreetmap,
    :homepage "https://instagram.com/feri.gallery",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Martyn Ferenc Galéria",
@@ -5675,7 +5675,7 @@
    :latitude 47.3217883,
    :source :openstreetmap,
    :homepage "https://matricamuzeum.hu",
-   :locality "Százhalombatta",
+   :location "Százhalombatta",
    :image "",
    :description ""}
   {:name "Matyó Múzeum",
@@ -5689,7 +5689,7 @@
    :longitude 19.3422159,
    :latitude 47.9937119,
    :source :openstreetmap,
-   :locality "Mohora",
+   :location "Mohora",
    :image "",
    :description ""}
   {:name "Mecsek kiállítás",
@@ -5703,7 +5703,7 @@
    :latitude 47.4833211,
    :source :openstreetmap,
    :homepage "https://www.musicart.hu/agoston/medgyaszay/index.htm",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Medgyessy Ferenc Emlékmúzeum",
@@ -5717,7 +5717,7 @@
    :latitude 47.5283981,
    :source :openstreetmap,
    :homepage "https://degy.hu/csipkemuzeum/",
-   :locality "Debrecen",
+   :location "Debrecen",
    :image "",
    :description ""}
   {:name "Merlin",
@@ -5740,7 +5740,7 @@
    :latitude 47.4717415,
    :source :openstreetmap,
    :homepage "https://www.computerart.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "meteorit kiállítás",
@@ -5775,7 +5775,7 @@
    :latitude 47.5961348,
    :source :openstreetmap,
    :homepage "http://www.gepmuzeum.szie.hu/",
-   :locality "Gödöllő",
+   :location "Gödöllő",
    :image "",
    :description ""}
   {:name "Mezőgazdasági Hagyományok Gyűjteménye",
@@ -5816,7 +5816,7 @@
    :latitude 47.512189,
    :source :openstreetmap,
    :homepage "https://millenniumhaza.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Millenniumi Emlékház",
@@ -5830,7 +5830,7 @@
    :longitude 18.5592723,
    :latitude 47.7257854,
    :source :openstreetmap,
-   :locality "Bajót",
+   :location "Bajót",
    :image "",
    :description ""}
   {:name "MimikArt",
@@ -5843,14 +5843,14 @@
    :longitude 18.7228639,
    :latitude 47.3251317,
    :source :openstreetmap,
-   :locality "Kajászó",
+   :location "Kajászó",
    :image "",
    :description ""}
   {:name "Mindszenty József szülőháza",
    :longitude 16.956041,
    :latitude 47.0457311,
    :source :openstreetmap,
-   :locality "Csehimindszent",
+   :location "Csehimindszent",
    :image "",
    :description ""}
   {:name "Mini skanzen",
@@ -5871,7 +5871,7 @@
    :latitude 47.2318399,
    :source :openstreetmap,
    :homepage "http://www.kulturista.hu/",
-   :locality "Szombathely",
+   :location "Szombathely",
    :image "",
    :description ""}
   {:name "MNL Somogy Megyei Levéltára - Nagyberki Fióklevéltár",
@@ -5879,7 +5879,7 @@
    :latitude 46.3649406,
    :source :openstreetmap,
    :homepage "https://mnl.gov.hu/sml",
-   :locality "Nagyberki",
+   :location "Nagyberki",
    :image "",
    :description ""}
   {:name "Modem",
@@ -5887,7 +5887,7 @@
    :latitude 47.5334763,
    :source :openstreetmap,
    :homepage "https://www.modemart.hu/",
-   :locality "Debrecen",
+   :location "Debrecen",
    :image "",
    :description ""}
   {:name "Modern Művészeti Gyűjtemény",
@@ -5922,14 +5922,14 @@
    :latitude 47.4901253,
    :source :openstreetmap,
    :homepage "https://momkult.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Monoszló-Hegyestű bemutatóhely",
    :longitude 17.6468283,
    :latitude 46.8896697,
    :source :openstreetmap,
-   :locality "Monoszló",
+   :location "Monoszló",
    :image "",
    :description ""}
   {:name "Montázs Art Café",
@@ -5937,7 +5937,7 @@
    :latitude 47.4647823,
    :source :openstreetmap,
    :homepage "http://montazsartcafe.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Monád galéria",
@@ -5952,7 +5952,7 @@
    :latitude 47.8713781,
    :source :openstreetmap,
    :homepage "https://www.hansagimuzeum.hu/",
-   :locality "Mosonmagyaróvár",
+   :location "Mosonmagyaróvár",
    :image "",
    :description ""}
   {:name "Motormúzeum",
@@ -5966,7 +5966,7 @@
    :latitude 47.4737715,
    :source :openstreetmap,
    :homepage "http://www.psyartcoll.mta.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Mundérba bújt történelem",
@@ -5975,7 +5975,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.szeghalmonvagyok.hu/munderba-bujt-tortenelem-2/",
-   :locality "Szeghalom",
+   :location "Szeghalom",
    :image "",
    :description ""}
   {:name "Mustó János Kiállítása",
@@ -5989,7 +5989,7 @@
    :latitude 48.1946949,
    :source :openstreetmap,
    :homepage "http://www.csodarabbikutja.hu",
-   :locality "Mád",
+   :location "Mád",
    :image "",
    :description ""}
   {:name "Mágocsy-kastély",
@@ -6003,7 +6003,7 @@
    :latitude 47.4694293,
    :source :openstreetmap,
    :homepage "https://malenkij.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Mária Múzeum",
@@ -6030,14 +6030,14 @@
    :latitude 47.9075503,
    :source :openstreetmap,
    :homepage "http://www.matraasvany.hu",
-   :locality "Mátraszentimre",
+   :location "Mátraszentimre",
    :image "",
    :description ""}
   {:name "Mátrakeresztesi Fakanál Múzeum és Tájház",
    :longitude 19.817931,
    :latitude 47.8971885,
    :source :openstreetmap,
-   :locality "Pásztó",
+   :location "Pásztó",
    :image "",
    :description ""}
   {:name "Mátraszentimrei Szlovák Tájház",
@@ -6046,7 +6046,7 @@
    :source :openstreetmap,
    :homepage
    "https://tajhazigazgatosag.skanzen.hu/matraszentimrei-szlovak-tajhaz.html",
-   :locality "Mátraszentimre",
+   :location "Mátraszentimre",
    :image "",
    :description ""}
   {:name "Mátyás Király Múzeum",
@@ -6054,21 +6054,21 @@
    :latitude 47.7913877,
    :source :openstreetmap,
    :homepage "https://visegradmuzeum.hu/palota2/",
-   :locality "Visegrád",
+   :location "Visegrád",
    :image "",
    :description ""}
   {:name "MÁV Oktatási és Művelődési Központ",
    :longitude 22.1803132,
    :latitude 48.405748,
    :source :openstreetmap,
-   :locality "Záhony",
+   :location "Záhony",
    :image "",
    :description ""}
   {:name "Mészöly-tanya alkotóház",
    :longitude 18.6764725,
    :latitude 46.3440512,
    :source :openstreetmap,
-   :locality "Szekszárd",
+   :location "Szekszárd",
    :image "",
    :description ""}
   {:name "Mézmúzeum",
@@ -6088,7 +6088,7 @@
    :longitude 19.8575392,
    :latitude 46.7095671,
    :source :openstreetmap,
-   :locality "Kiskunfélegyháza",
+   :location "Kiskunfélegyháza",
    :image "",
    :description ""}
   {:name "Móricz Zsigmond Emlékház",
@@ -6133,7 +6133,7 @@
    :longitude 17.7493076,
    :latitude 46.8811566,
    :source :openstreetmap,
-   :locality "Balatonakali",
+   :location "Balatonakali",
    :image "",
    :description ""}
   {:name "Múzeumposta",
@@ -6147,7 +6147,7 @@
    :latitude 47.4431985,
    :source :openstreetmap,
    :homepage "http://muzeum18ker.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Műcsarnok",
@@ -6155,7 +6155,7 @@
    :latitude 47.5139238,
    :source :openstreetmap,
    :homepage "https://www.mucsarnok.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Műszaki Tanulmánytár",
@@ -6163,7 +6163,7 @@
    :latitude 47.4684959,
    :source :openstreetmap,
    :homepage "https://www.mmkm.hu/index.php/hu/muszaki-tanulmanytar",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Művelődés Háza",
@@ -6177,7 +6177,7 @@
    :latitude 47.7954063,
    :source :openstreetmap,
    :homepage "http://www.dunamuzeum.hu",
-   :locality "Esztergom",
+   :location "Esztergom",
    :image "",
    :description ""}
   {:name "Művelődési ház",
@@ -6239,7 +6239,7 @@
    :longitude 20.1864189,
    :latitude 48.0333025,
    :source :openstreetmap,
-   :locality "Fedémes",
+   :location "Fedémes",
    :image "",
    :description ""}
   {:name "Művelődési Ház",
@@ -6258,21 +6258,21 @@
    :longitude 20.5012726,
    :latitude 48.2281981,
    :source :openstreetmap,
-   :locality "Bánhorváti",
+   :location "Bánhorváti",
    :image "",
    :description ""}
   {:name "Művelődési Ház",
    :longitude 19.7657097,
    :latitude 47.7376142,
    :source :openstreetmap,
-   :locality "Ecséd",
+   :location "Ecséd",
    :image "",
    :description ""}
   {:name "Művelődési Ház Bodroghalom",
    :longitude 21.7048591,
    :latitude 48.3020998,
    :source :openstreetmap,
-   :locality "Bodroghalom",
+   :location "Bodroghalom",
    :image "",
    :description ""}
   {:name "Művészbejáró",
@@ -6287,7 +6287,7 @@
    :source :openstreetmap,
    :homepage
    "https://anp.hu/articles/site/show/82/muveszetek_magtara_bodvaszilas",
-   :locality "Bódvaszilas",
+   :location "Bódvaszilas",
    :image "",
    :description ""}
   {:name "Művészeti Népfőiskola Kulturális Központ",
@@ -6302,7 +6302,7 @@
    :source :openstreetmap,
    :homepage
    "https://kmo.hu/intezmenyek/nagy-balogh-janos-kiallitoterem",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Nagy Ferenc Galéria",
@@ -6310,7 +6310,7 @@
    :latitude 46.7289038,
    :source :openstreetmap,
    :homepage "https://tabikonyvtar.hu/magyar-neprajzi-gyujtemeny/",
-   :locality "Tab",
+   :location "Tab",
    :image "",
    :description ""}
   {:name "Nagy Imre Emlékház",
@@ -6318,21 +6318,21 @@
    :latitude 47.523939,
    :source :openstreetmap,
    :homepage "http://nagyimreemlekhaz.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Nagy István Képtár",
    :longitude 18.9527627,
    :latitude 46.1814248,
    :source :openstreetmap,
-   :locality "Baja",
+   :location "Baja",
    :image "",
    :description ""}
   {:name "Nagy László Emlékház",
    :longitude 17.2916094,
    :latitude 47.1779998,
    :source :openstreetmap,
-   :locality "Iszkáz",
+   :location "Iszkáz",
    :image "",
    :description ""}
   {:name "Nagyharsányi Szoborpark",
@@ -6359,7 +6359,7 @@
    :latitude 47.5244207,
    :source :openstreetmap,
    :homepage "http://nagytarcsa.hu/falumuzeum/",
-   :locality "Nagytarcsa",
+   :location "Nagytarcsa",
    :image "",
    :description ""}
   {:name "Nagytétényi Helytörténeti Kiállítótér",
@@ -6367,7 +6367,7 @@
    :latitude 47.3928236,
    :source :openstreetmap,
    :homepage "https://cziffrakozpont.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Napkori múzeum",
@@ -6381,7 +6381,7 @@
    :latitude 46.2377741,
    :source :openstreetmap,
    :homepage "http://www.napsugarashaz.hu",
-   :locality "Szeged",
+   :location "Szeged",
    :image "",
    :description ""}
   {:name "Nemzeti Gyászpark Látogatóközpont",
@@ -6389,7 +6389,7 @@
    :latitude 47.4757773,
    :source :openstreetmap,
    :homepage "http://301.nori.gov.hu/hu/latogatokozpont",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Nemzetközi Cukorgyűjtemény",
@@ -6404,7 +6404,7 @@
    :latitude 46.9107099,
    :source :openstreetmap,
    :homepage "http://www.icshu.org/",
-   :locality "Kecskemét",
+   :location "Kecskemét",
    :image "",
    :description ""}
   {:name "Neogrády László Helytörténeti Gyűjtemény",
@@ -6413,7 +6413,7 @@
    :source :openstreetmap,
    :homepage
    "https://ujkk.hu/neogrady-laszlo-helytorteneti-gyujtemeny",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Nezde szabadtéri szoborpark alsó pontja",
@@ -6436,7 +6436,7 @@
    :source :openstreetmap,
    :homepage
    "https://nagyatadtdm.hu/kiallitasaink/katonatorteneti-kiallitas/",
-   :locality "Nagyatád",
+   :location "Nagyatád",
    :image "",
    :description ""}
   {:name "Nyugalom Kupola",
@@ -6444,7 +6444,7 @@
    :latitude 46.7718225,
    :source :openstreetmap,
    :homepage "https://kulturkor.wordpress.com/category/ozora/",
-   :locality "Igar",
+   :location "Igar",
    :image "",
    :description ""}
   {:name "Nyíri erdészház - 1848-as gyűjtemény",
@@ -6458,7 +6458,7 @@
    :longitude 21.9010119,
    :latitude 47.5816959,
    :source :openstreetmap,
-   :locality "Nyírmártonfalva",
+   :location "Nyírmártonfalva",
    :image "",
    :description ""}
   {:name "Nyúzó Gáspár Fazekas Tájház",
@@ -6466,7 +6466,7 @@
    :latitude 47.612033,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=11859",
-   :locality "Tiszafüred",
+   :location "Tiszafüred",
    :image "",
    :description ""}
   {:name "Nádasdy Ferenc Vármúzeum",
@@ -6474,7 +6474,7 @@
    :latitude 47.2522575,
    :source :openstreetmap,
    :homepage "https://nadasdymuzeum.hu/",
-   :locality "Sárvár",
+   :location "Sárvár",
    :image "",
    :description ""}
   {:name "Nádasdy-kastély",
@@ -6495,7 +6495,7 @@
    :latitude 47.6506903,
    :source :openstreetmap,
    :homepage "https://kunymuzeum.hu/nemet-nemzetisegi-muzeum-hu/",
-   :locality "Tata",
+   :location "Tata",
    :image "",
    :description ""}
   {:name "Német Nemzetiségi Tájház",
@@ -6510,7 +6510,7 @@
    :latitude 47.608104,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=149010",
-   :locality "Pilisborosjenő",
+   :location "Pilisborosjenő",
    :image "",
    :description ""}
   {:name "Német Nemzetiségi Tájház",
@@ -6531,7 +6531,7 @@
    :latitude 47.3460192,
    :source :openstreetmap,
    :homepage "https://www.svabhaz.hu/",
-   :locality "Dunaharaszti",
+   :location "Dunaharaszti",
    :image "",
    :description ""}
   {:name "Német Nemzetiségi tájház",
@@ -6551,7 +6551,7 @@
    :longitude 19.1821904,
    :latitude 47.6254236,
    :source :openstreetmap,
-   :locality "Fót",
+   :location "Fót",
    :image "",
    :description ""}
   {:name "Németh Veterán Autó Múzeum",
@@ -6572,7 +6572,7 @@
    :longitude 21.0301242,
    :latitude 46.8819456,
    :source :openstreetmap,
-   :locality "Köröstarcsa",
+   :location "Köröstarcsa",
    :image "",
    :description ""}
   {:name "Népi lakóház",
@@ -6593,7 +6593,7 @@
    :longitude 20.3148438,
    :latitude 48.0534859,
    :source :openstreetmap,
-   :locality "Mikófalva",
+   :location "Mikófalva",
    :image "",
    :description ""}
   {:name "Népművészetek Háza",
@@ -6602,7 +6602,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hmne.hu/tartalom/detki-ki%C3%A1ll%C3%ADt%C3%A1s",
-   :locality "Detk",
+   :location "Detk",
    :image "",
    :description ""}
   {:name "Népművészeti Alkotóház",
@@ -6630,7 +6630,7 @@
    :latitude 47.9500504,
    :source :openstreetmap,
    :homepage "http://www.hevesfolkart.hu/",
-   :locality "Mátraderecske",
+   :location "Mátraderecske",
    :image "",
    :description ""}
   {:name "Népraizi Múzeum",
@@ -6662,7 +6662,7 @@
    :longitude 20.8475329,
    :latitude 47.3822562,
    :source :openstreetmap,
-   :locality "Berekfürdő",
+   :location "Berekfürdő",
    :image "",
    :description ""}
   {:name "Néprajzi múzeum",
@@ -6670,7 +6670,7 @@
    :latitude 46.0728096,
    :source :openstreetmap,
    :homepage "https://pecsimuzeumok.hu/index.php?m=2",
-   :locality "Pécs",
+   :location "Pécs",
    :image "",
    :description ""}
   {:name "Néprajzi Múzeum",
@@ -6678,7 +6678,7 @@
    :latitude 47.4420245,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=146950",
-   :locality "Hajdúszoboszló",
+   :location "Hajdúszoboszló",
    :image "",
    :description ""}
   {:name "Néprajzi Múzeum Nagyvázsony",
@@ -6699,7 +6699,7 @@
    :latitude 46.6098635,
    :source :openstreetmap,
    :homepage "https://www.old-car.hu/",
-   :locality "Kiskőrös",
+   :location "Kiskőrös",
    :image "",
    :description ""}
   {:name "ONCSA ház",
@@ -6714,7 +6714,7 @@
    :latitude 48.106102,
    :source :openstreetmap,
    :homepage "https://www.orbanhaz.hu/",
-   :locality "Szilvásvárad",
+   :location "Szilvásvárad",
    :image "",
    :description ""}
   {:name "Orfűi Malmok",
@@ -6729,7 +6729,7 @@
    :latitude 47.4999299,
    :source :openstreetmap,
    :homepage "https://www.franciaintezet.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name
@@ -6738,7 +6738,7 @@
    :latitude 46.7500954,
    :source :openstreetmap,
    :homepage "https://buvarbirodalom.hu/",
-   :locality "Orgovány",
+   :location "Orgovány",
    :image "",
    :description ""}
   {:name "Orisek Ferenc szoborfaragó múzeum",
@@ -6752,7 +6752,7 @@
    :latitude 47.5132514,
    :source :openstreetmap,
    :homepage "https://ruscenter.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Oroszlányi Bányászati Múzeum",
@@ -6779,7 +6779,7 @@
    :latitude 47.477866,
    :source :openstreetmap,
    :homepage "https://www.opkm.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Országos Színháztörténeti Múzeum és Intézet",
@@ -6787,7 +6787,7 @@
    :latitude 47.4976938,
    :source :openstreetmap,
    :homepage "https://oszmi.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Orsós Magnó Múzeum",
@@ -6795,7 +6795,7 @@
    :latitude 46.7669109,
    :source :openstreetmap,
    :homepage "https://magnomuzeum.hu",
-   :locality "Keszthely",
+   :location "Keszthely",
    :image "",
    :description ""}
   {:name "Ortodox Egyháztörténeti Gyűjtemény (Ikonmúzeum)",
@@ -6811,7 +6811,7 @@
    :source :openstreetmap,
    :homepage
    "https://mta.hu/hatteranyagok/muveszeti-gyujtemeny-105345",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Pajta Galéria",
@@ -6832,7 +6832,7 @@
    :latitude 46.5742911,
    :source :openstreetmap,
    :homepage "https://atomeromu.mvm.hu/Latogatoknak",
-   :locality "Paks",
+   :location "Paks",
    :image "",
    :description ""}
   {:name "Paksi Képtár",
@@ -6840,7 +6840,7 @@
    :latitude 46.618204,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=165738",
-   :locality "Paks",
+   :location "Paks",
    :image "",
    :description ""}
   {:name "Palkonyai pincesor",
@@ -6854,7 +6854,7 @@
    :longitude 18.6451296,
    :latitude 46.1320196,
    :source :openstreetmap,
-   :locality "Palotabozsok",
+   :location "Palotabozsok",
    :image "",
    :description ""}
   {:name "Palóc tájház",
@@ -6863,21 +6863,21 @@
    :source :openstreetmap,
    :homepage
    "http://www.pvkisterseg.hu/new/index.php?option=com_content&view=article&id=155&Itemid=195",
-   :locality "Váraszó",
+   :location "Váraszó",
    :image "",
    :description ""}
   {:name "Palóc tájház",
    :longitude 20.0211476,
    :latitude 47.9842081,
    :source :openstreetmap,
-   :locality "Mátraballa",
+   :location "Mátraballa",
    :image "",
    :description ""}
   {:name "Palóc tájház",
    :longitude 19.8352077,
    :latitude 48.0081265,
    :source :openstreetmap,
-   :locality "Bátonyterenye",
+   :location "Bátonyterenye",
    :image "",
    :description ""}
   {:name "Palócbaba Múzeum",
@@ -6885,14 +6885,14 @@
    :latitude 47.8276163,
    :source :openstreetmap,
    :homepage "https://www.palocbabak.hu/",
-   :locality "Gyöngyös",
+   :location "Gyöngyös",
    :image "",
    :description ""}
   {:name "Pannónia Motorkerékpár Múzeum",
    :longitude 19.2866406,
    :latitude 48.0716855,
    :source :openstreetmap,
-   :locality "Balassagyarmat",
+   :location "Balassagyarmat",
    :image "",
    :description ""}
   {:name "Panoptikum",
@@ -6912,7 +6912,7 @@
    :longitude 20.7535947,
    :latitude 47.21909,
    :source :openstreetmap,
-   :locality "Kisújszállás",
+   :location "Kisújszállás",
    :image "",
    :description ""}
   {:name "PaprikaMolnár Fűszerpaprika Malom és Múzeum",
@@ -6933,7 +6933,7 @@
    :longitude 19.9745284,
    :latitude 47.9110891,
    :source :openstreetmap,
-   :locality "Parádsasvár",
+   :location "Parádsasvár",
    :image "",
    :description ""}
   {:name "Pataji Múzeum",
@@ -6966,7 +6966,7 @@
    :longitude 21.5115117,
    :latitude 48.4707826,
    :source :openstreetmap,
-   :locality "Pálháza",
+   :location "Pálháza",
    :image "",
    :description ""}
   {:name "Pesterzsébeti Múzeum",
@@ -6974,7 +6974,7 @@
    :latitude 47.4354767,
    :source :openstreetmap,
    :homepage "http://pesterzsebetimuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Pestszentimrei Közösségi Ház",
@@ -6982,7 +6982,7 @@
    :latitude 47.4044644,
    :source :openstreetmap,
    :homepage "http://pikhaz.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Pestújhelyi Közösségi Ház",
@@ -6990,7 +6990,7 @@
    :latitude 47.5335305,
    :source :openstreetmap,
    :homepage "http://csokonaiksk.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Petrits Mézeskalács Múzeum",
@@ -6998,7 +6998,7 @@
    :latitude 46.3482974,
    :source :openstreetmap,
    :homepage "https://mezeskalacs.hu/",
-   :locality "Szekszárd",
+   :location "Szekszárd",
    :image "",
    :description ""}
   {:name "Petőfi Emlékméhes Kiállítás",
@@ -7019,7 +7019,7 @@
    :latitude 47.652828,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=50867",
-   :locality "Aszód",
+   :location "Aszód",
    :image "",
    :description ""}
   {:name "Petőfi Szülőház és Emlékmúzeum",
@@ -7027,14 +7027,14 @@
    :latitude 46.6201064,
    :source :openstreetmap,
    :homepage "http://petofimuzeum.hu",
-   :locality "Kiskőrös",
+   :location "Kiskőrös",
    :image "",
    :description ""}
   {:name "Petőfi Sándor Emlékháza",
    :longitude 19.8531481,
    :latitude 46.7126625,
    :source :openstreetmap,
-   :locality "Kiskunfélegyháza",
+   :location "Kiskunfélegyháza",
    :image "",
    :description ""}
   {:name "Petőfi Sándor Emlékkiállítás",
@@ -7082,7 +7082,7 @@
    :latitude 47.4822275,
    :source :openstreetmap,
    :homepage "https://www.ph21gallery.com/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Pick Szalámi és Szegedi Paprika Múzeum",
@@ -7123,7 +7123,7 @@
    :latitude 46.538215,
    :source :openstreetmap,
    :homepage "http://pintermuvek.hu/hadtechnikai-park/",
-   :locality "Kecel",
+   :location "Kecel",
    :image "",
    :description ""}
   {:name "Pipamúzeum",
@@ -7149,7 +7149,7 @@
    :longitude 17.9192073,
    :latitude 46.9833786,
    :source :openstreetmap,
-   :locality "Csopak",
+   :location "Csopak",
    :image "",
    :description ""}
   {:name "Plánder Ferenc Helytörténeti Gyűjtemény",
@@ -7162,7 +7162,7 @@
    :longitude 17.6254771,
    :latitude 46.9636644,
    :source :openstreetmap,
-   :locality "Vigántpetend",
+   :location "Vigántpetend",
    :image "",
    :description ""}
   {:name "Polgármesteri Hivatal",
@@ -7175,7 +7175,7 @@
    :longitude 19.0249119,
    :latitude 47.6471586,
    :source :openstreetmap,
-   :locality "Pomáz",
+   :location "Pomáz",
    :image "",
    :description ""}
   {:name "Porcelán Múzeum, Márkabolt és Alkotó Centrum",
@@ -7183,7 +7183,7 @@
    :latitude 48.5337129,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=85597",
-   :locality "Hollóháza",
+   :location "Hollóháza",
    :image "",
    :description ""}
   {:name "Porcelánművészeti Múzeum",
@@ -7212,7 +7212,7 @@
    :latitude 47.4829975,
    :source :openstreetmap,
    :homepage "http://profetagaleria.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Pálos malom",
@@ -7240,7 +7240,7 @@
    :latitude 47.9177125,
    :source :openstreetmap,
    :homepage "https://www.pasztoimuzeum.hu/",
-   :locality "Pásztó",
+   :location "Pásztó",
    :image "",
    :description ""}
   {:name "Pável Ágoston Múzeum",
@@ -7248,7 +7248,7 @@
    :latitude 46.9556731,
    :source :openstreetmap,
    :homepage "https://sztgmuzeum.hu/",
-   :locality "Szentgotthárd",
+   :location "Szentgotthárd",
    :image "",
    :description ""}
   {:name "Pécs (Sopianae) ókeresztény temetője",
@@ -7264,7 +7264,7 @@
    :latitude 47.7111801,
    :source :openstreetmap,
    :homepage "https://bonumventus.hu/7263118488271428651/",
-   :locality "Bajót-Péliföldszentkereszt",
+   :location "Bajót-Péliföldszentkereszt",
    :image "",
    :description ""}
   {:name "Püspöki palota",
@@ -7297,7 +7297,7 @@
    :latitude 47.2623439,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=42304",
-   :locality "Zirc",
+   :location "Zirc",
    :image "",
    :description ""}
   {:name "Reimann Bányászati Múzeum és Miniverzum",
@@ -7312,7 +7312,7 @@
    :latitude 46.9374696,
    :source :openstreetmap,
    :homepage "https://www.okomuzeum.hu/",
-   :locality "Kerekegyháza",
+   :location "Kerekegyháza",
    :image "",
    :description ""}
   {:name "Rendszámtábla-gyűjtemény",
@@ -7327,14 +7327,14 @@
    :latitude 47.4983434,
    :source :openstreetmap,
    :homepage "http://rendormuzeum.com/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Rendőrmúzeum",
    :longitude 20.1568178,
    :latitude 47.6509683,
    :source :openstreetmap,
-   :locality "Tarnaméra",
+   :location "Tarnaméra",
    :image "",
    :description ""}
   {:name "RepTár Szolnoki Repülőmúzeum",
@@ -7342,7 +7342,7 @@
    :latitude 47.1671752,
    :source :openstreetmap,
    :homepage "https://www.reptar.hu/",
-   :locality "Szolnok",
+   :location "Szolnok",
    :image "",
    :description ""}
   {:name "Retro-Gépjármű Múzeum",
@@ -7350,7 +7350,7 @@
    :latitude 47.4486394,
    :source :openstreetmap,
    :homepage "https://geocaching.hu/caches.geo?id=5929",
-   :locality "Szentmártonkáta",
+   :location "Szentmártonkáta",
    :image "",
    :description ""}
   {:name "Retró múzeum",
@@ -7386,7 +7386,7 @@
    :latitude 47.5232281,
    :source :openstreetmap,
    :homepage "http://www.rockcsarnok.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Roma tájház",
@@ -7400,7 +7400,7 @@
    :longitude 18.120738,
    :latitude 47.7343202,
    :source :openstreetmap,
-   :locality "Komárom",
+   :location "Komárom",
    :image "",
    :description ""}
   {:name "Román Kulturális Intézet",
@@ -7408,7 +7408,7 @@
    :latitude 47.5080632,
    :source :openstreetmap,
    :homepage "https://www.icr.ro/budapesta/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Roncs-ranch",
@@ -7464,7 +7464,7 @@
    :latitude 47.5547274,
    :source :openstreetmap,
    :homepage "http://www.gaborracz.com",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ráday Múzeum",
@@ -7472,14 +7472,14 @@
    :latitude 46.9069692,
    :source :openstreetmap,
    :homepage "http://www.radaymuzeum.hu/",
-   :locality "Kecskemét",
+   :location "Kecskemét",
    :image "",
    :description ""}
   {:name "Rádió - Tv múzeum",
    :longitude 21.7563021,
    :latitude 47.9369548,
    :source :openstreetmap,
-   :locality "Nyíregyháza",
+   :location "Nyíregyháza",
    :image "",
    :description ""}
   {:name "Rádió- és Televíziómúzeum",
@@ -7487,7 +7487,7 @@
    :latitude 47.4133616,
    :source :openstreetmap,
    :homepage "https://www.postamuzeum.hu/radio-televiziomuzeum",
-   :locality "Diósd",
+   :location "Diósd",
    :image "",
    :description ""}
   {:name "Rádiómúzeum",
@@ -7515,7 +7515,7 @@
    :latitude 47.4749644,
    :source :openstreetmap,
    :homepage "https://bartokzenehaz.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Rákosivipera-védelmi és Oktató Központ",
@@ -7530,7 +7530,7 @@
    :latitude 47.5415342,
    :source :openstreetmap,
    :homepage "http://rakospalotaimuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Rákóczi Látványtár és Látogatóközpont",
@@ -7551,7 +7551,7 @@
    :latitude 47.430874,
    :source :openstreetmap,
    :homepage "http://pesterzsebetimuzeum.hu/index.php/ratkayatlok",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Régi malom",
@@ -7587,14 +7587,14 @@
    :latitude 46.975052,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=30646",
-   :locality "Dunaújváros",
+   :location "Dunaújváros",
    :image "",
    :description ""}
   {:name "Római Kori Kőtár",
    :longitude 18.9650623,
    :latitude 46.7401644,
    :source :openstreetmap,
-   :locality "Bölcske",
+   :location "Bölcske",
    :image "",
    :description ""}
   {:name "Római kori ásatások",
@@ -7615,14 +7615,14 @@
    :latitude 47.5034397,
    :source :openstreetmap,
    :homepage "https://rothmuzeum.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Rózsa Sándor Élményház",
    :longitude 19.7811522,
    :latitude 46.2009287,
    :source :openstreetmap,
-   :locality "Ásotthalom",
+   :location "Ásotthalom",
    :image "",
    :description ""}
   {:name "Rózsakerti Galéria",
@@ -7658,7 +7658,7 @@
    :latitude 47.5413527,
    :source :openstreetmap,
    :homepage "https://kulturkozpont.hu/haz/obudai-kulturalis-kozpont/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Savaria Múzeum",
@@ -7666,7 +7666,7 @@
    :latitude 47.2334099,
    :source :openstreetmap,
    :homepage "http://www.savariamuseum.hu/",
-   :locality "Szombathely",
+   :location "Szombathely",
    :image "",
    :description ""}
   {:name "Saxon art gallery",
@@ -7681,7 +7681,7 @@
    :latitude 47.2304917,
    :source :openstreetmap,
    :homepage "http://romkert.savariamuseum.hu/",
-   :locality "Szombathely",
+   :location "Szombathely",
    :image "",
    :description ""}
   {:name "Schrammel-gyűjtemény",
@@ -7695,7 +7695,7 @@
    :longitude 18.9814524,
    :latitude 46.5241602,
    :source :openstreetmap,
-   :locality "Kalocsa",
+   :location "Kalocsa",
    :image "",
    :description ""}
   {:name "Sebők Margit Galéria",
@@ -7709,7 +7709,7 @@
    :longitude 18.9604414,
    :latitude 47.7899039,
    :source :openstreetmap,
-   :locality "Nagymaros",
+   :location "Nagymaros",
    :image "",
    :description ""}
   {:name "Siklós galéria",
@@ -7722,7 +7722,7 @@
    :longitude 21.5045856,
    :latitude 47.6723329,
    :source :openstreetmap,
-   :locality "Hajdúböszörmény",
+   :location "Hajdúböszörmény",
    :image "",
    :description ""}
   {:name "Sindümúzeum",
@@ -7743,7 +7743,7 @@
    :latitude 46.1285683,
    :source :openstreetmap,
    :homepage "https://www.kekfesto.hu/",
-   :locality "Bácsalmás",
+   :location "Bácsalmás",
    :image "",
    :description ""}
   {:name "Slovenské Kuchynské Múzeum",
@@ -7781,7 +7781,7 @@
    :longitude 18.4581587,
    :latitude 47.6256019,
    :source :openstreetmap,
-   :locality "Vértestolna",
+   :location "Vértestolna",
    :image "",
    :description ""}
   {:name "Sváb tájház (Konrád ház)",
@@ -7796,7 +7796,7 @@
    :latitude 47.8786761,
    :source :openstreetmap,
    :homepage "http://andezithotel.hu/radiomuzeum.php",
-   :locality "Bér",
+   :location "Bér",
    :image "",
    :description ""}
   {:name "Szabadtéri Erdei Múzeum",
@@ -7832,7 +7832,7 @@
    :latitude 47.6935062,
    :source :openstreetmap,
    :homepage "https://skanzen.hu/",
-   :locality "Szentendre",
+   :location "Szentendre",
    :image "",
    :description ""}
   {:name "Szabadtéri Néprajzi Múzeum - Skanzen",
@@ -7840,7 +7840,7 @@
    :latitude 46.9152214,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=133832",
-   :locality "Tihany",
+   :location "Tihany",
    :image "",
    :description ""}
   {:name "Szabics Ferenc Emlékmúzeum",
@@ -7863,7 +7863,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.biharugra.hu/index.php/szabo-pal-irodalmi-emlekhaz",
-   :locality "Biharugra",
+   :location "Biharugra",
    :image "",
    :description ""}
   {:name "Szakácsmúzeum",
@@ -7897,7 +7897,7 @@
    :longitude 22.3271668,
    :latitude 47.9513867,
    :source :openstreetmap,
-   :locality "Mátészalka",
+   :location "Mátészalka",
    :image "",
    :description ""}
   {:name "Szeberényi Lajos Helytörténeti Gyűjtemény",
@@ -7911,7 +7911,7 @@
    :latitude 46.2486082,
    :source :openstreetmap,
    :homepage "https://domlatogatokozpont.hu/",
-   :locality "Szeged",
+   :location "Szeged",
    :image "",
    :description ""}
   {:name "Szegedi Hadipark",
@@ -7919,7 +7919,7 @@
    :latitude 46.2664464,
    :source :openstreetmap,
    :homepage "http://szegedihadipark.hu",
-   :locality "Szeged",
+   :location "Szeged",
    :image "",
    :description ""}
   {:name "Szegedi informatikai gyűjtemény",
@@ -7957,7 +7957,7 @@
    :longitude 18.5215702,
    :latitude 47.4279446,
    :source :openstreetmap,
-   :locality "Vértesboglár",
+   :location "Vértesboglár",
    :image "",
    :description ""}
   {:name "Szemafor gyűjtemény",
@@ -7965,7 +7965,7 @@
    :latitude 47.5118638,
    :source :openstreetmap,
    :homepage "https://geocaching.hu/caches.geo?id=5961",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Szendrey Júlia szülőháza (emlékszoba)",
@@ -7981,7 +7981,7 @@
    :latitude 46.307176,
    :source :openstreetmap,
    :homepage "https://szennai.skanzen.hu/",
-   :locality "Szenna",
+   :location "Szenna",
    :image "",
    :description ""}
   {:name
@@ -7990,7 +7990,7 @@
    :latitude 47.7850065,
    :source :openstreetmap,
    :homepage "https://www.szentbertalankincstar.hu/",
-   :locality "Gyöngyös",
+   :location "Gyöngyös",
    :image "",
    :description ""}
   {:name "Szent Miklós Vízi- és Taposómalom",
@@ -8012,7 +8012,7 @@
    :latitude 48.2655383,
    :source :openstreetmap,
    :homepage "https://erdobenye.hu/szepsi-laczk-mate-nyomaban-1054625",
-   :locality "Erdőbénye",
+   :location "Erdőbénye",
    :image "",
    :description ""}
   {:name "Szerbtemplom Galéria",
@@ -8020,7 +8020,7 @@
    :latitude 48.0795474,
    :source :openstreetmap,
    :homepage "https://www.mkmk.hu/kiallitasok/",
-   :locality "Balassagyarmat",
+   :location "Balassagyarmat",
    :image "",
    :description ""}
   {:name "Szigetszentmárton Helytörténeti Kiállítás",
@@ -8077,7 +8077,7 @@
    :longitude 18.8985766,
    :latitude 47.6905824,
    :source :openstreetmap,
-   :locality "Pilisszentkereszt",
+   :location "Pilisszentkereszt",
    :image "",
    :description ""}
   {:name "Szlovák Tájház",
@@ -8097,7 +8097,7 @@
    :longitude 21.0960865,
    :latitude 46.6850849,
    :source :openstreetmap,
-   :locality "Békéscsaba",
+   :location "Békéscsaba",
    :image "",
    :description ""}
   {:name "Szlovák Tájház",
@@ -8116,7 +8116,7 @@
    :longitude 20.1925406,
    :latitude 47.1717327,
    :source :openstreetmap,
-   :locality "Szolnok",
+   :location "Szolnok",
    :image "",
    :description ""}
   {:name "Szolnoki Hadkiegészítés Szakgyűjtemény",
@@ -8131,7 +8131,7 @@
    :latitude 47.1790419,
    :source :openstreetmap,
    :homepage "https://www.vasutialmarium.hu/",
-   :locality "Szolnok",
+   :location "Szolnok",
    :image "",
    :description ""}
   {:name "Szomolyai tájház",
@@ -8146,7 +8146,7 @@
    :latitude 48.0501221,
    :source :openstreetmap,
    :homepage "https://dregelyvara.hu/",
-   :locality "Drégelypalánk",
+   :location "Drégelypalánk",
    :image "",
    :description ""}
   {:name "Szovjet Atombunker Múzem",
@@ -8155,14 +8155,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.origo.hu/tudomany/20200526-majus-28an-megnyitja-kapuit-a-latogatok-elott-a-dunavarsanyi-szupertitkos-szovjet-atombunker.html",
-   :locality "Dunavarsány",
+   :location "Dunavarsány",
    :image "",
    :description ""}
   {:name "Szántó Kovács János Területi Múzeum",
    :longitude 20.674667,
    :latitude 46.5591827,
    :source :openstreetmap,
-   :locality "Orosháza",
+   :location "Orosháza",
    :image "",
    :description ""}
   {:name "Szántódpusztai majorság",
@@ -8177,7 +8177,7 @@
    :latitude 46.8650301,
    :source :openstreetmap,
    :homepage "https://szarvasimuzeum.hu/szarazmalom",
-   :locality "Szarvas",
+   :location "Szarvas",
    :image "",
    :description ""}
   {:name "Széchenyi István Emlékmúzeum",
@@ -8199,7 +8199,7 @@
    :latitude 46.7342289,
    :source :openstreetmap,
    :homepage "http://szechytamasemlekhaz.webnode.hu/",
-   :locality "Doboz",
+   :location "Doboz",
    :image "",
    :description ""}
   {:name "Székely Porta",
@@ -8220,7 +8220,7 @@
    :latitude 48.1029555,
    :source :openstreetmap,
    :homepage "https://www.miskolcigaleria.eu",
-   :locality "Miskolc",
+   :location "Miskolc",
    :image "",
    :description ""}
   {:name "Színország Galéria",
@@ -8229,7 +8229,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.museum.hu/muzeum/3437/Nemcsics_Emlekhaz_-_Szinorszag_Galeria",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Szórakaténusz Játékmúzeum és Műhely",
@@ -8237,14 +8237,14 @@
    :latitude 46.90578,
    :source :openstreetmap,
    :homepage "http://www.szorakatenusz.hu/",
-   :locality "Kecskemét",
+   :location "Kecskemét",
    :image "",
    :description ""}
   {:name "Szőlőskerti Tájház",
    :longitude 21.8876061,
    :latitude 47.4092005,
    :source :openstreetmap,
-   :locality "Létavértes",
+   :location "Létavértes",
    :image "",
    :description ""}
   {:name "Szőnyegmúzeum",
@@ -8278,21 +8278,21 @@
    :longitude 19.2718071,
    :latitude 47.2128317,
    :source :openstreetmap,
-   :locality "Dabas",
+   :location "Dabas",
    :image "",
    :description ""}
   {:name "Sárréti tájház",
    :longitude 18.2480367,
    :latitude 47.0504426,
    :source :openstreetmap,
-   :locality "Füle",
+   :location "Füle",
    :image "",
    :description ""}
   {:name "Sásdi Történeti Téka",
    :longitude 18.1065615,
    :latitude 46.252188,
    :source :openstreetmap,
-   :locality "Sásd",
+   :location "Sásd",
    :image "",
    :description ""}
   {:name "Sóstói Múzeumfalu",
@@ -8321,7 +8321,7 @@
    :latitude 46.442575,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=103490",
-   :locality "Tótkomlós",
+   :location "Tótkomlós",
    :image "",
    :description ""}
   {:name "Tanyamúzeum",
@@ -8340,7 +8340,7 @@
    :longitude 20.755251,
    :latitude 47.6172534,
    :source :openstreetmap,
-   :locality "Tiszafüred",
+   :location "Tiszafüred",
    :image "",
    :description ""}
   {:name "Tatabányai Múzeum",
@@ -8355,7 +8355,7 @@
    :latitude 47.5612263,
    :source :openstreetmap,
    :homepage "https://tbmuzeum.hu/skanzen",
-   :locality "Tatabánya",
+   :location "Tatabánya",
    :image "",
    :description ""}
   {:name "Tatay Sándor író szülőháza",
@@ -8395,7 +8395,7 @@
    :latitude 47.5484837,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=8337",
-   :locality "Telki",
+   :location "Telki",
    :image "",
    :description ""}
   {:name "Temető emlékpark",
@@ -8409,7 +8409,7 @@
    :longitude 20.3715047,
    :latitude 47.8976961,
    :source :openstreetmap,
-   :locality "Eger",
+   :location "Eger",
    :image "",
    :description ""}
   {:name "Templom- Múzeum",
@@ -8429,7 +8429,7 @@
    :longitude 20.4074069,
    :latitude 47.8119868,
    :source :openstreetmap,
-   :locality "Maklár",
+   :location "Maklár",
    :image "",
    :description ""}
   {:name "Természet Háza",
@@ -8443,7 +8443,7 @@
    :latitude 47.4722631,
    :source :openstreetmap,
    :homepage "https://muzeum.elte.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Természetrajzi és halászati kiállítás",
@@ -8464,7 +8464,7 @@
    :latitude 46.8646324,
    :source :openstreetmap,
    :homepage "https://szarvasimuzeum.hu",
-   :locality "Szarvas",
+   :location "Szarvas",
    :image "",
    :description ""}
   {:name "Thorma János Múzeum",
@@ -8478,7 +8478,7 @@
    :latitude 46.3338711,
    :source :openstreetmap,
    :homepage "https://www.knp.hu/hu/tisza-volgyi-bemutatohaz-szatymaz",
-   :locality "Szatymaz",
+   :location "Szatymaz",
    :image "",
    :description ""}
   {:name "TIT Posztoczky Károly Csillagvizsgáló és Múzeum",
@@ -8486,7 +8486,7 @@
    :latitude 47.6406887,
    :source :openstreetmap,
    :homepage "http://www.titkom.hu/tataicsillagda.html",
-   :locality "Tata",
+   :location "Tata",
    :image "",
    :description ""}
   {:name "Tojáspatkoló műhely és kiállítás",
@@ -8501,7 +8501,7 @@
    :latitude 48.1265632,
    :source :openstreetmap,
    :homepage "http://www.tokajimuzeum.hu",
-   :locality "Tokaj",
+   :location "Tokaj",
    :image "",
    :description ""}
   {:name "Tollas Tibor Emlékház",
@@ -8516,7 +8516,7 @@
    :latitude 47.4352432,
    :source :openstreetmap,
    :homepage "http://muzeum18ker.hu",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Tompa Mihály Emlékház",
@@ -8543,14 +8543,14 @@
    :longitude 20.3182433,
    :latitude 46.4169482,
    :source :openstreetmap,
-   :locality "Hódmezővásárhely",
+   :location "Hódmezővásárhely",
    :image "",
    :description ""}
   {:name "Trafikmúzeum",
    :longitude 18.9412153,
    :latitude 47.0221406,
    :source :openstreetmap,
-   :locality "Rácalmás",
+   :location "Rácalmás",
    :image "",
    :description ""}
   {:name "Traktormúzeum",
@@ -8564,7 +8564,7 @@
    :latitude 47.1990394,
    :source :openstreetmap,
    :homepage "https://www.trianonmuzeum.hu/",
-   :locality "Várpalota",
+   :location "Várpalota",
    :image "",
    :description ""}
   {:name "Trianon Múzeum",
@@ -8578,7 +8578,7 @@
    :latitude 48.0088813,
    :source :openstreetmap,
    :homepage "https://www.muemlekem.hu/muemlek?id=8490",
-   :locality "Tiszadob",
+   :location "Tiszadob",
    :image "",
    :description ""}
   {:name "Tudomány és Technika Háza",
@@ -8617,7 +8617,7 @@
    :longitude 18.1404361,
    :latitude 47.2034676,
    :source :openstreetmap,
-   :locality "Várpalota",
+   :location "Várpalota",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -8856,7 +8856,7 @@
    :latitude 46.261269,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=155165",
-   :locality "Hidas",
+   :location "Hidas",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -8995,7 +8995,7 @@
    :longitude 20.5500746,
    :latitude 48.4835905,
    :source :openstreetmap,
-   :locality "Jósvafő",
+   :location "Jósvafő",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9003,7 +9003,7 @@
    :latitude 47.6353545,
    :source :openstreetmap,
    :homepage "http://www.sarrodtajhaz.hu/",
-   :locality "Sarród",
+   :location "Sarród",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9011,14 +9011,14 @@
    :latitude 46.9837767,
    :source :openstreetmap,
    :homepage "https://www.paloznak.hu",
-   :locality "Paloznak",
+   :location "Paloznak",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 18.6395073,
    :latitude 47.6472429,
    :source :openstreetmap,
-   :locality "Epöl",
+   :location "Epöl",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9026,14 +9026,14 @@
    :latitude 46.3930593,
    :source :openstreetmap,
    :homepage "http://www.sioagard.hu/tajhaz.html",
-   :locality "Sióagárd",
+   :location "Sióagárd",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 19.6336803,
    :latitude 47.7043646,
    :source :openstreetmap,
-   :locality "Heréd",
+   :location "Heréd",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9058,7 +9058,7 @@
    :longitude 21.282685,
    :latitude 48.39152,
    :source :openstreetmap,
-   :locality "Fony",
+   :location "Fony",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9066,7 +9066,7 @@
    :latitude 47.5081392,
    :source :openstreetmap,
    :homepage "https://aszar.hu/aszarrol/oldal/6",
-   :locality "Ászár",
+   :location "Ászár",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9079,14 +9079,14 @@
    :longitude 17.2307026,
    :latitude 46.8893176,
    :source :openstreetmap,
-   :locality "Zalaszántó",
+   :location "Zalaszántó",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 19.1606922,
    :latitude 48.0412135,
    :source :openstreetmap,
-   :locality "Dejtár",
+   :location "Dejtár",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9094,7 +9094,7 @@
    :latitude 47.4108078,
    :source :openstreetmap,
    :homepage "https://diosditajhaz.hu/",
-   :locality "Diósd",
+   :location "Diósd",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9102,7 +9102,7 @@
    :latitude 47.4647639,
    :source :openstreetmap,
    :homepage "https://www.gyarmat.hu/latnivalok2/tajhaz3",
-   :locality "Gyarmat",
+   :location "Gyarmat",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9134,14 +9134,14 @@
    :latitude 47.4787465,
    :source :openstreetmap,
    :homepage "https://ujbarok-nemet.hu/tajhaz/",
-   :locality "Újbarok",
+   :location "Újbarok",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 17.9416862,
    :latitude 46.8759089,
    :source :openstreetmap,
-   :locality "Zamárdi",
+   :location "Zamárdi",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9149,14 +9149,14 @@
    :latitude 47.9723926,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=149551",
-   :locality "Felsőtárkány",
+   :location "Felsőtárkány",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 16.4946709,
    :latitude 46.6111056,
    :source :openstreetmap,
-   :locality "Rédics",
+   :location "Rédics",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9170,14 +9170,14 @@
    :latitude 46.8473746,
    :source :openstreetmap,
    :homepage "https://www.youtube.com/watch?v=G5ZnpnO5pcU",
-   :locality "Zalalövő",
+   :location "Zalalövő",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 16.4210618,
    :latitude 46.9406804,
    :source :openstreetmap,
-   :locality "Rábagyarmat",
+   :location "Rábagyarmat",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9192,21 +9192,21 @@
    :source :openstreetmap,
    :homepage
    "http://www.markaz.hu/index.php?option=com_content&view=article&id=66",
-   :locality "Markaz",
+   :location "Markaz",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 19.5409798,
    :latitude 47.9336403,
    :source :openstreetmap,
-   :locality "Bokor",
+   :location "Bokor",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 18.8935713,
    :latitude 47.6107871,
    :source :openstreetmap,
-   :locality "Pilisszentiván",
+   :location "Pilisszentiván",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9219,14 +9219,14 @@
    :longitude 16.8095188,
    :latitude 46.9800697,
    :source :openstreetmap,
-   :locality "Hegyhátszentpéter",
+   :location "Hegyhátszentpéter",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 18.2259357,
    :latitude 47.5159115,
    :source :openstreetmap,
-   :locality "Dad",
+   :location "Dad",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9258,14 +9258,14 @@
    :longitude 22.1756328,
    :latitude 48.4064143,
    :source :openstreetmap,
-   :locality "Záhony",
+   :location "Záhony",
    :image "",
    :description ""}
   {:name "Tájház",
    :longitude 21.9812365,
    :latitude 47.9401533,
    :source :openstreetmap,
-   :locality "Magy",
+   :location "Magy",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9278,7 +9278,7 @@
    :longitude 20.9989511,
    :latitude 48.2429749,
    :source :openstreetmap,
-   :locality "Halmaj",
+   :location "Halmaj",
    :image "",
    :description ""}
   {:name "Tájház",
@@ -9322,7 +9322,7 @@
    :longitude 18.3909233,
    :latitude 47.4420665,
    :source :openstreetmap,
-   :locality "Gánt",
+   :location "Gánt",
    :image "",
    :description ""}
   {:name "Tájház - Faluház",
@@ -9342,7 +9342,7 @@
    :longitude 17.757358,
    :latitude 46.1693266,
    :source :openstreetmap,
-   :locality "Magyarlukafa",
+   :location "Magyarlukafa",
    :image "",
    :description ""}
   {:name "Tájház Babamúzeum",
@@ -9363,7 +9363,7 @@
    :latitude 46.202431,
    :source :openstreetmap,
    :homepage "https://alsonyek.hu/tajhaz-es-falumuzeum/",
-   :locality "Alsónyék",
+   :location "Alsónyék",
    :image "",
    :description ""}
   {:name "Tájház és Falumúzeum",
@@ -9384,7 +9384,7 @@
    :latitude 47.2883463,
    :source :openstreetmap,
    :homepage "http://pazmand.hu/tajhaz/",
-   :locality "Pázmánd",
+   :location "Pázmánd",
    :image "",
    :description ""}
   {:name "TájVízHáz",
@@ -9392,7 +9392,7 @@
    :latitude 46.6451218,
    :source :openstreetmap,
    :homepage "https://www.gyulavaros.hu/muzeumok/tajvizhaz-gyula",
-   :locality "Gyula",
+   :location "Gyula",
    :image "",
    :description ""}
   {:name "Táncsics Emlékház",
@@ -9419,7 +9419,7 @@
    :latitude 47.4544529,
    :source :openstreetmap,
    :homepage "http://www.ruglitegla.hu/",
-   :locality "Szany",
+   :location "Szany",
    :image "",
    :description ""}
   {:name "Tégla- és Babakiállítás",
@@ -9456,7 +9456,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bp16.hu/intezmenyek/kertvarosi-helytorteneti-es-emlekezetkozpont",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Történelmi Emlékpark",
@@ -9464,21 +9464,21 @@
    :latitude 47.2584939,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=11342",
-   :locality "Inárcs",
+   :location "Inárcs",
    :image "",
    :description ""}
   {:name "Török ház",
    :longitude 17.8035342,
    :latitude 46.0454539,
    :source :openstreetmap,
-   :locality "Szigetvár",
+   :location "Szigetvár",
    :image "",
    :description ""}
   {:name "Török-ház",
    :longitude 17.971124,
    :latitude 46.9942137,
    :source :openstreetmap,
-   :locality "Alsóörs",
+   :location "Alsóörs",
    :image "",
    :description ""}
   {:name "Törökbálinti Falumúzeum",
@@ -9493,21 +9493,21 @@
    :source :openstreetmap,
    :homepage
    "https://hu.wikipedia.org/wiki/T%C3%BAristv%C3%A1ndi_v%C3%ADzimalom",
-   :locality "Túristvándi",
+   :location "Túristvándi",
    :image "",
    :description ""}
   {:name "Türr István Múzeum",
    :longitude 18.9520329,
    :latitude 46.1769479,
    :source :openstreetmap,
-   :locality "Baja",
+   :location "Baja",
    :image "",
    :description ""}
   {:name "Tűzoltó Múzeum",
    :longitude 18.4285992,
    :latitude 47.2045763,
    :source :openstreetmap,
-   :locality "Székesfehérvár",
+   :location "Székesfehérvár",
    :image "",
    :description ""}
   {:name "Tűzoltó Múzeum",
@@ -9536,7 +9536,7 @@
    :latitude 47.9068959,
    :source :openstreetmap,
    :homepage "http://www.tuzoltomuzeum.hu/",
-   :locality "Eger",
+   :location "Eger",
    :image "",
    :description ""}
   {:name "Tűzoltószertár",
@@ -9574,7 +9574,7 @@
    :longitude 19.4275444,
    :latitude 48.0310074,
    :source :openstreetmap,
-   :locality "Iliny",
+   :location "Iliny",
    :image "",
    :description ""}
   {:name "Urbán György műveinek galériája",
@@ -9633,7 +9633,7 @@
    :latitude 47.693047,
    :source :openstreetmap,
    :homepage "https://www.galgamacsa.hu/latnivalok/tajhaz",
-   :locality "Galgamácsa",
+   :location "Galgamácsa",
    :image "",
    :description ""}
   {:name "Varga Mátyás Színháztörténeti Gyűjtemény és Kiállítóhely",
@@ -9641,14 +9641,14 @@
    :latitude 46.244245,
    :source :openstreetmap,
    :homepage "https://moramuzeum.hu/",
-   :locality "Szeged",
+   :location "Szeged",
    :image "",
    :description ""}
   {:name "Varációk irtókapára",
    :longitude 17.7421028,
    :latitude 46.4579417,
    :source :openstreetmap,
-   :locality "Várda",
+   :location "Várda",
    :image "",
    :description ""}
   {:name "Vasfüggöny Múzeum",
@@ -9669,7 +9669,7 @@
    :latitude 47.2370173,
    :source :openstreetmap,
    :homepage "http://www.vasimuzeumfalu.hu/hu/hirek",
-   :locality "Szombathely",
+   :location "Szombathely",
    :image "",
    :description ""}
   {:name "Vasi Múzeumi Látványtár",
@@ -9696,7 +9696,7 @@
    :longitude 16.7994277,
    :latitude 47.0489788,
    :source :openstreetmap,
-   :locality "Vasvár",
+   :location "Vasvár",
    :image "",
    :description ""}
   {:name "Vasvári Pál Múzeum",
@@ -9731,7 +9731,7 @@
    :latitude 47.6157767,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=9407",
-   :locality "Fertőszéplak",
+   :location "Fertőszéplak",
    :image "",
    :description ""}
   {:name "Vasútmúzeum",
@@ -9786,7 +9786,7 @@
    :source :openstreetmap,
    :homepage
    "https://szentes.hu/turizmus/index.php/hu/vasuttorteneti-emlekhely",
-   :locality "Szentes",
+   :location "Szentes",
    :image "",
    :description ""}
   {:name "Vehiculum-Ház",
@@ -9794,7 +9794,7 @@
    :latitude 47.3017275,
    :source :openstreetmap,
    :homepage "http://vehiculum.hu/",
-   :locality "Besenyszög",
+   :location "Besenyszög",
    :image "",
    :description ""}
   {:name "Veres Péter Emlékház",
@@ -9808,7 +9808,7 @@
    :longitude 19.2807012,
    :latitude 47.6623575,
    :source :openstreetmap,
-   :locality "Veresegyház",
+   :location "Veresegyház",
    :image "",
    :description ""}
   {:name "Victor Vasarely Múzeum",
@@ -9816,7 +9816,7 @@
    :latitude 47.5406273,
    :source :openstreetmap,
    :homepage "https://vasarely.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Vidi Múzeum",
@@ -9830,14 +9830,14 @@
    :latitude 47.4957556,
    :source :openstreetmap,
    :homepage "https://vigado.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Vigyázó Sándor Művelődési Ház",
    :longitude 19.2460954,
    :latitude 47.4808121,
    :source :openstreetmap,
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Villa Scederkin Tájház",
@@ -9858,7 +9858,7 @@
    :latitude 47.3349857,
    :source :openstreetmap,
    :homepage "https://www.kozvilagitasregen.hu",
-   :locality "Püspökladány",
+   :location "Püspökladány",
    :image "",
    :description ""}
   {:name "Vilma-ház",
@@ -9866,7 +9866,7 @@
    :latitude 46.2912443,
    :source :openstreetmap,
    :homepage "https://vilmahaza.hu/",
-   :locality "Somogyszob",
+   :location "Somogyszob",
    :image "",
    :description ""}
   {:name "Virágh-kúria Helytörténeti Gyűjtemény",
@@ -9881,7 +9881,7 @@
    :latitude 47.5126232,
    :source :openstreetmap,
    :homepage "http://viranyos.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Vitéz Csupka Károly Hadimúzeum",
@@ -9895,7 +9895,7 @@
    :longitude 20.6737295,
    :latitude 47.2461114,
    :source :openstreetmap,
-   :locality "Kenderes",
+   :location "Kenderes",
    :image "",
    :description ""}
   {:name "Vizsolyi Biblianyomtató Műhely Élménymúzeum",
@@ -9903,14 +9903,14 @@
    :latitude 48.3839017,
    :source :openstreetmap,
    :homepage "http://vizsolyibiblia.com/",
-   :locality "Vizsoly",
+   :location "Vizsoly",
    :image "",
    :description ""}
   {:name "Váci Mihály Kulturális Központ",
    :longitude 21.7191841,
    :latitude 47.9578954,
    :source :openstreetmap,
-   :locality "Nyíregyháza",
+   :location "Nyíregyháza",
    :image "",
    :description ""}
   {:name "Vácrátóti Botanikus Kert",
@@ -9918,14 +9918,14 @@
    :latitude 47.707354,
    :source :openstreetmap,
    :homepage "https://botanikuskert.hu/",
-   :locality "Vácrátót",
+   :location "Vácrátót",
    :image "",
    :description ""}
   {:name "Vágó Pál Helytörténeti Múzeum",
    :longitude 20.1441124,
    :latitude 47.515331,
    :source :openstreetmap,
-   :locality "Jászapáti",
+   :location "Jászapáti",
    :image "",
    :description ""}
   {:name "Váraljai Bányászmúzeum",
@@ -9960,7 +9960,7 @@
    :latitude 47.5062135,
    :source :openstreetmap,
    :homepage "https://www.varfok-galeria.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Város a város alatt",
@@ -9975,7 +9975,7 @@
    :latitude 46.7095115,
    :source :openstreetmap,
    :homepage "https://www.kultur.csongrad.hu/",
-   :locality "Csongrád",
+   :location "Csongrád",
    :image "",
    :description ""}
   {:name "Városi Galéria \"Zsinagóga\"",
@@ -9988,14 +9988,14 @@
    :longitude 20.6702386,
    :latitude 46.5594245,
    :source :openstreetmap,
-   :locality "Orosháza",
+   :location "Orosháza",
    :image "",
    :description ""}
   {:name "Városi Múzeum",
    :longitude 19.2821948,
    :latitude 47.6587391,
    :source :openstreetmap,
-   :locality "Veresegyház",
+   :location "Veresegyház",
    :image "",
    :description ""}
   {:name "Városi Múzeum Paks",
@@ -10003,7 +10003,7 @@
    :latitude 46.6276409,
    :source :openstreetmap,
    :homepage "https://varosimuzeum.paks.hu/",
-   :locality "Paks",
+   :location "Paks",
    :image "",
    :description ""}
   {:name "Városi Művelődési Központ",
@@ -10016,7 +10016,7 @@
    :longitude 18.9582439,
    :latitude 47.4605057,
    :source :openstreetmap,
-   :locality "Budaörs",
+   :location "Budaörs",
    :image "",
    :description ""}
   {:name "Városi Tömegközlekedési Múzeum",
@@ -10025,7 +10025,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bkv.hu/hu/muzeumok/varosi_tomegkozlekedesi_muzeum_szentendre",
-   :locality "Szentendre",
+   :location "Szentendre",
    :image "",
    :description ""}
   {:name "Várostörténeti Múzeum",
@@ -10033,7 +10033,7 @@
    :latitude 46.0760505,
    :source :openstreetmap,
    :homepage "https://jpm.hu/index.php?m=3",
-   :locality "Pécs",
+   :location "Pécs",
    :image "",
    :description ""}
   {:name "Várvölgyi kultúrház",
@@ -10074,7 +10074,7 @@
    :latitude 47.0965743,
    :source :openstreetmap,
    :homepage "https://bakonykarszt.hu/hu/article/vizikozmu-muzeum",
-   :locality "Veszprém",
+   :location "Veszprém",
    :image "",
    :description ""}
   {:name "Vízimalom",
@@ -10082,14 +10082,14 @@
    :latitude 47.9366025,
    :source :openstreetmap,
    :homepage "http://www.vizimalomesvendeghaz.hu",
-   :locality "Nagybörzsöny",
+   :location "Nagybörzsöny",
    :image "",
    :description ""}
   {:name "Vízműtörténeti múzeum",
    :longitude 16.6065706,
    :latitude 47.2443392,
    :source :openstreetmap,
-   :locality "Szombathely",
+   :location "Szombathely",
    :image "",
    :description ""}
   {:name "Víztorony",
@@ -10142,7 +10142,7 @@
    :latitude 47.8278971,
    :source :openstreetmap,
    :homepage "http://www.wassalbertmuzeum.hu/",
-   :locality "Verőce",
+   :location "Verőce",
    :image "",
    :description ""}
   {:name "Wekerlei Kultúrház és Könyvtár",
@@ -10150,7 +10150,7 @@
    :latitude 47.4585046,
    :source :openstreetmap,
    :homepage "https://wkk.kispest.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Wenckheim-Fejérváry kastély",
@@ -10171,7 +10171,7 @@
    :latitude 46.3482432,
    :source :openstreetmap,
    :homepage "https://womm.hu/aloldal/0/wosinsky-mor-muzeum",
-   :locality "Szekszárd",
+   :location "Szekszárd",
    :image "",
    :description ""}
   {:name "Xantus-liget Ökoturisztikai Látogatóközpont",
@@ -10186,7 +10186,7 @@
    :latitude 47.4897151,
    :source :openstreetmap,
    :homepage "https://www.kisterem.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "youngart",
@@ -10206,7 +10206,7 @@
    :latitude 47.503908,
    :source :openstreetmap,
    :homepage "https://zti.hu/index.php/hu/muzeum",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Zichy Mihály Emlékmúzeum",
@@ -10229,7 +10229,7 @@
    :source :openstreetmap,
    :homepage
    "http://vaszaryvilla.hu/index.php/kiallitasok/jokai-mor-emlekhaz",
-   :locality "Balatonfüred",
+   :location "Balatonfüred",
    :image "",
    :description ""}
   {:name "Zsellérház",
@@ -10243,7 +10243,7 @@
    :latitude 46.9598282,
    :source :openstreetmap,
    :homepage "https://www.zsidokivalosagok.hu",
-   :locality "Balatonfüred",
+   :location "Balatonfüred",
    :image "",
    :description ""}
   {:name "Zsolnay múzeum",
@@ -10251,7 +10251,7 @@
    :latitude 46.0789939,
    :source :openstreetmap,
    :homepage "https://pecsimuzeumok.hu/index.php?m=1&s=2&id=96",
-   :locality "Pécs",
+   :location "Pécs",
    :image "",
    :description ""}
   {:name "Zsámbéki Romtemplom Szabadtéri Múzeum",
@@ -10265,7 +10265,7 @@
    :latitude 47.7858112,
    :source :openstreetmap,
    :homepage "http://www.palinkamuzeumvisegrad.hu/",
-   :locality "Visegrád",
+   :location "Visegrád",
    :image "",
    :description ""}
   {:name "Zwack Kecskeméti Pálinka Manufaktúra",
@@ -10274,21 +10274,21 @@
    :source :openstreetmap,
    :homepage
    "https://zwackunicum.hu/en/zwack-muzeumok/zwack-kecskemeti-palinkamanufaktura/bemutato/#tartalom",
-   :locality "Kecskemét",
+   :location "Kecskemét",
    :image "",
    :description ""}
   {:name "Zámbó Műterem",
    :longitude 17.9154417,
    :latitude 46.9764682,
    :source :openstreetmap,
-   :locality "Csopak",
+   :location "Csopak",
    :image "",
    :description ""}
   {:name "Zóka Peti Lidi néni háza",
    :longitude 17.7278645,
    :latitude 46.3042487,
    :source :openstreetmap,
-   :locality "Szenna",
+   :location "Szenna",
    :image "",
    :description ""}
   {:name "Állatorvos-történeti Gyűjtemény",
@@ -10296,7 +10296,7 @@
    :latitude 47.503151,
    :source :openstreetmap,
    :homepage "https://www.konyvtar.univet.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ányos Pál szülőháza",
@@ -10324,7 +10324,7 @@
    :latitude 48.4828996,
    :source :openstreetmap,
    :homepage "http://turistautak.hu/poi.php?id=98480",
-   :locality "Telkibánya",
+   :location "Telkibánya",
    :image "",
    :description ""}
   {:name "Ásványmúzeum",
@@ -10332,14 +10332,14 @@
    :latitude 47.7198319,
    :source :openstreetmap,
    :homepage "http://kalcitkristalyok.hu/",
-   :locality "Fertőrákos",
+   :location "Fertőrákos",
    :image "",
    :description ""}
   {:name "Ásványmúzeum",
    :longitude 16.7491318,
    :latitude 47.1836284,
    :source :openstreetmap,
-   :locality "Vasszécseny",
+   :location "Vasszécseny",
    :image "",
    :description ""}
   {:name "Ásványok Háza",
@@ -10360,7 +10360,7 @@
    :longitude 21.4801117,
    :latitude 48.450778,
    :source :openstreetmap,
-   :locality "Kishuta",
+   :location "Kishuta",
    :image "",
    :description ""}
   {:name "Égig érő paszuly - Népmesepark",
@@ -10368,7 +10368,7 @@
    :latitude 46.8590899,
    :source :openstreetmap,
    :homepage "http://www.nepmesepark.hu",
-   :locality "Szalafő",
+   :location "Szalafő",
    :image "",
    :description ""}
   {:name "Élő Tájház",
@@ -10376,7 +10376,7 @@
    :latitude 47.3916612,
    :source :openstreetmap,
    :homepage "http://www.hajdubagos.hu/latnivalok/elo-tajhaz/",
-   :locality "Hajdúbagos",
+   :location "Hajdúbagos",
    :image "",
    :description ""}
   {:name "Építészeti Múzeum",
@@ -10384,7 +10384,7 @@
    :latitude 47.5292357,
    :source :openstreetmap,
    :homepage "https://memmdk.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Ívfény Múzeum",
@@ -10392,7 +10392,7 @@
    :latitude 47.4985046,
    :source :openstreetmap,
    :homepage "https://ivfenymuzeum.wixsite.com/-vf-ny-m-zeum",
-   :locality "Budakeszi",
+   :location "Budakeszi",
    :image "",
    :description ""}
   {:name "Óbudai Varázsműhely – Kreatív Fejlesztőház",
@@ -10419,7 +10419,7 @@
    :latitude 48.217848,
    :source :openstreetmap,
    :homepage "http://www.ozdimuzeum.hu/",
-   :locality "Ózd",
+   :location "Ózd",
    :image "",
    :description ""}
   {:name "Ökológiai bemutatóhely",
@@ -10434,7 +10434,7 @@
    :latitude 47.5114745,
    :source :openstreetmap,
    :homepage "https://kozlekedesimuzeum.hu/hu/tagintezmenyek?tid=1",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Öreghegyi Pincemúzeum",
@@ -10454,7 +10454,7 @@
    :longitude 18.9588447,
    :latitude 47.786258,
    :source :openstreetmap,
-   :locality "Nagymaros",
+   :location "Nagymaros",
    :image "",
    :description ""}
   {:name "Örökségünk Néprajzi magángyűjtemény",
@@ -10468,7 +10468,7 @@
    :latitude 47.9558263,
    :source :openstreetmap,
    :homepage "http://www.humannet.hu/index.php/hu/",
-   :locality "Nyíregyháza",
+   :location "Nyíregyháza",
    :image "",
    :description ""}
   {:name "Öveges József szülőháza",
@@ -10484,7 +10484,7 @@
    :source :openstreetmap,
    :homepage
    "https://budapestgaleria.hu/_/uj-budapest-galeria-informaciok/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Újbuda Galéria",
@@ -10500,14 +10500,14 @@
    :source :openstreetmap,
    :homepage
    "https://ujkk.hu/programok/polgar-centrum-ujpest-galeria/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Újszilvási Tájház",
    :longitude 19.9103409,
    :latitude 47.2629234,
    :source :openstreetmap,
-   :locality "Újszilvás",
+   :location "Újszilvás",
    :image "",
    :description ""}
   {:name "Üvegkiállítás",
@@ -10522,7 +10522,7 @@
    :latitude 47.4635123,
    :source :openstreetmap,
    :homepage "https://okh.ujbuda.hu/",
-   :locality "Budapest",
+   :location "Budapest",
    :image "",
    :description ""}
   {:name "Őrségi Vadászati Kiállítás",
@@ -10530,7 +10530,7 @@
    :latitude 46.7605397,
    :source :openstreetmap,
    :homepage "http://www.magyarszombatfa.hu/turizmus/latnivalok",
-   :locality "Magyarszombatfa",
+   :location "Magyarszombatfa",
    :image "",
    :description ""}
   {:name "Ős-Dráva Látogatóközpont",
@@ -10538,7 +10538,7 @@
    :latitude 45.8002311,
    :source :openstreetmap,
    :homepage "https://odlk.hu/",
-   :locality "Szaporca",
+   :location "Szaporca",
    :image "",
    :description ""}
   {:name "Ősi Magyar Címertár",
@@ -10547,7 +10547,7 @@
    :source :openstreetmap,
    :homepage
    "https://golop.hu/index.php/turizmus/osi-magyar-cimer-es-zaszlokiallitas",
-   :locality "Golop",
+   :location "Golop",
    :image "",
    :description ""}
   {:name "Őskohászati Múzeum",
@@ -10576,7 +10576,7 @@
    :latitude 46.9786106,
    :source :openstreetmap,
    :homepage "http://www.osokhaza.hu/",
-   :locality "Taliándörögd",
+   :location "Taliándörögd",
    :image "",
    :description ""}
   {:name "„Bugaci buckák közt” és „Pásztorélet” kiállítások",

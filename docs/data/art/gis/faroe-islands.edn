@@ -21,17 +21,17 @@
    :longitude -6.7228058,
    :latitude 62.1243582,
    :source :openstreetmap,
-   :locality "Glyvrar"}
+   :location "Glyvrar"}
   {:name "Bátasavn",
    :longitude -6.7083607,
    :latitude 62.2114912,
    :source :openstreetmap,
-   :locality "Leirvík"}
+   :location "Leirvík"}
   {:name "Depilsgarðurin",
    :longitude -6.5293747,
    :latitude 62.2861643,
    :source :openstreetmap,
-   :locality "Depil"}
+   :location "Depil"}
   {:name "Dúvugarðar",
    :longitude -7.1764549,
    :latitude 62.2468442,
@@ -42,12 +42,12 @@
    :latitude 62.0135182,
    :source :openstreetmap,
    :homepage "https://gallarihavnara.fo/",
-   :locality "Tórshavn"}
+   :location "Tórshavn"}
   {:name "Gallarí Oyggin / Café Art",
    :longitude -6.8235508,
    :latitude 61.5598523,
    :source :openstreetmap,
-   :locality "Tvøroyri"}
+   :location "Tvøroyri"}
   {:name "Glarsmiðjan",
    :longitude -6.7756309,
    :latitude 62.0100303,
@@ -67,7 +67,7 @@
    :longitude -6.9283851,
    :latitude 61.6327916,
    :source :openstreetmap,
-   :locality "Sandvík"}
+   :location "Sandvík"}
   {:name "Kirkjbøargarður",
    :longitude -6.7928052,
    :latitude 61.9519088,
@@ -87,18 +87,18 @@
    :latitude 62.0175433,
    :source :openstreetmap,
    :homepage "https://art.fo/?_l=en",
-   :locality "Tórshavn"}
+   :location "Tórshavn"}
   {:name "Látrið",
    :longitude -7.0933494,
    :latitude 62.2992988,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/EidiMuseum",
-   :locality "Eiði"}
+   :location "Eiði"}
   {:name "Mentunarhúsið",
    :longitude -6.8157481,
    :latitude 62.2420505,
    :source :openstreetmap,
-   :locality "Fuglafjørður"}
+   :location "Fuglafjørður"}
   {:name "Norðoya Fornminnasavn",
    :longitude -6.5967123,
    :latitude 62.2305019,
@@ -108,29 +108,29 @@
    :longitude -6.5256555,
    :latitude 62.2925821,
    :source :openstreetmap,
-   :locality "Norðdepil"}
+   :location "Norðdepil"}
   {:name "Norðurlandahúsið",
    :longitude -6.7846352,
    :latitude 62.0220756,
    :source :openstreetmap,
    :homepage "http://www.nlh.fo/",
-   :locality "Tórshavn"}
+   :location "Tórshavn"}
   {:name "Pakkhús 18",
    :longitude -6.80749,
    :latitude 61.5543771,
    :source :openstreetmap,
-   :locality "Tvøroyri"}
+   :location "Tvøroyri"}
   {:name "Porkeris Bygdarsavn",
    :longitude -6.7476239,
    :latitude 61.4806427,
    :source :openstreetmap,
    :homepage "https://www.porkeri.fo/bygdarsavni",
-   :locality "Porkeri"}
+   :location "Porkeri"}
   {:name "Ruth Smith Savnið",
    :longitude -6.8216479,
    :latitude 61.4726766,
    :source :openstreetmap,
-   :locality "Vágur"}
+   :location "Vágur"}
   {:name "Savnið Á Mýri",
    :longitude -6.7558614,
    :latitude 61.5059623,
@@ -145,12 +145,12 @@
    :latitude 62.0321017,
    :source :openstreetmap,
    :homepage "https://www.tjodsavnid.fo/",
-   :locality "Hoyvík"}
+   :location "Hoyvík"}
   {:name "Vestmanna Bygdarsavn",
    :longitude -7.170993,
    :latitude 62.1536908,
    :source :openstreetmap,
-   :locality "Vestmanna"}],
+   :location "Vestmanna"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

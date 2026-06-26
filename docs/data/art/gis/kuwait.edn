@@ -20,7 +20,7 @@
    :longitude 47.9431856,
    :latitude 29.3383354,
    :source :openstreetmap,
-   :locality "Shuwaikh industrial"}
+   :location "Shuwaikh industrial"}
   {:name "KOC Tent for Events & Exhibitions",
    :longitude 48.0678048,
    :latitude 29.0908328,
@@ -40,7 +40,7 @@
    :latitude 29.3496278,
    :source :openstreetmap,
    :homepage "https://www.tsck.org.kw",
-   :locality "السالمية - قطعة 2"}
+   :location "السالمية - قطعة 2"}
   {:name "بيت دكسون",
    :longitude 47.9779368,
    :latitude 29.3839338,
@@ -57,7 +57,7 @@
    :longitude 47.9668515,
    :latitude 29.373311,
    :source :openstreetmap,
-   :locality "مدينة الكويت"}
+   :location "مدينة الكويت"}
   {:name "متحف بيت العثمان",
    :longitude 48.0139999,
    :latitude 29.341038,
@@ -67,12 +67,12 @@
    :latitude 29.3169557,
    :source :openstreetmap,
    :homepage "http://www.trmkt.com/startmain.htm",
-   :locality "الجابرية"}
+   :location "الجابرية"}
   {:name "مركز الشيخ عبدالله السالم الثقافي",
    :longitude 48.0406232,
    :latitude 29.3435007,
    :source :openstreetmap,
-   :locality "ميدان حولي"}],
+   :location "ميدان حولي"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

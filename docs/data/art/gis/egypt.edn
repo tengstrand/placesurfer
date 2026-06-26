@@ -28,13 +28,13 @@
    :longitude 31.4341179,
    :latitude 29.9915813,
    :source :openstreetmap,
-   :locality "New cairo"}
+   :location "New cairo"}
   {:name "B'sarya for Arts",
    :longitude 29.9047756,
    :latitude 31.1975034,
    :source :openstreetmap,
    :homepage "https://linktr.ee/bsarya",
-   :locality "الإسكندرية"}
+   :location "الإسكندرية"}
   {:name "Cairo Photography Club",
    :longitude 31.257741,
    :latitude 29.959,
@@ -53,19 +53,19 @@
    :longitude 31.2403083,
    :latitude 30.0498341,
    :source :openstreetmap,
-   :locality "القاهرة"}
+   :location "القاهرة"}
   {:name "Egyptian Textile Museum",
    :longitude 31.2613757,
    :latitude 30.049967,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/EgyptianTextileMuseum",
-   :locality "Cairo"}
+   :location "Cairo"}
   {:name "ElMadina Arts",
    :longitude 29.9011964,
    :latitude 31.1940878,
    :source :openstreetmap,
    :homepage "www.elmadinaart.com",
-   :locality "Alexandria"}
+   :location "Alexandria"}
   {:name "ENP",
    :longitude 33.9408016,
    :latitude 26.7975372,
@@ -111,7 +111,7 @@
    :longitude 31.226104,
    :latitude 30.0545854,
    :source :openstreetmap,
-   :locality "Cairo"}
+   :location "Cairo"}
   {:name "Nūn Art Gallery",
    :longitude 32.6328437,
    :latitude 25.7039153,
@@ -164,7 +164,7 @@
    :latitude 30.0076128,
    :source :openstreetmap,
    :homepage "https://nmec.gov.eg/",
-   :locality "قاهرة"}
+   :location "قاهرة"}
   {:name "المتحف المصري",
    :longitude 31.2336017,
    :latitude 30.0478467,
@@ -200,7 +200,7 @@
    :longitude 25.518037,
    :latitude 29.2037725,
    :source :openstreetmap,
-   :locality "سيوة"}
+   :location "سيوة"}
   {:name "دار أوبرا دمنهور",
    :longitude 30.4695151,
    :latitude 31.0397927,
@@ -242,7 +242,7 @@
    :longitude 30.5034379,
    :latitude 30.3711885,
    :source :openstreetmap,
-   :locality "مدينة السادات"}
+   :location "مدينة السادات"}
   {:name "متحف أحمد شوقي",
    :longitude 31.2175989,
    :latitude 30.0214538,
@@ -424,7 +424,7 @@
    :longitude 31.239388,
    :latitude 30.0545121,
    :source :openstreetmap,
-   :locality "القاهرة"}],
+   :location "القاهرة"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

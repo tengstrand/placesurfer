@@ -12,13 +12,13 @@
    :longitude 8.8866681,
    :latitude 9.9694907,
    :source :openstreetmap,
-   :locality "jos"}
+   :location "jos"}
   {:name "African Artists' Foundation",
    :longitude 3.4193743,
    :latitude 6.4417685,
    :source :openstreetmap,
    :homepage "https://www.africanartists.org/",
-   :locality "Lagos"}
+   :location "Lagos"}
   {:name "Aircraft",
    :longitude 3.3338054,
    :latitude 6.5891273,
@@ -49,7 +49,7 @@
    :latitude 6.461786,
    :source :openstreetmap,
    :homepage "https://museum.ng/",
-   :locality "Enugu"}
+   :location "Enugu"}
   {:name "Exhibition Pavilion",
    :longitude 7.4930702,
    :latitude 9.0424355,
@@ -72,7 +72,7 @@
    :latitude 6.0233322,
    :source :openstreetmap,
    :homepage "https://museum.ng/museums/national-museums-list/",
-   :locality "Igbo-Ukwu, Aguata"}
+   :location "Igbo-Ukwu, Aguata"}
   {:name "Ilorin National Museum",
    :longitude 4.584396,
    :latitude 8.4821616,
@@ -85,7 +85,7 @@
    :longitude 3.346718,
    :latitude 7.1507683,
    :source :openstreetmap,
-   :locality "Abeokuta"}
+   :location "Abeokuta"}
   {:name "Lasu Museum",
    :longitude 3.330284,
    :latitude 6.62895,
@@ -95,7 +95,7 @@
    :latitude 7.804661,
    :source :openstreetmap,
    :homepage "https://museum.ng/museums/national-museums-list/",
-   :locality "Lokoja"}
+   :location "Lokoja"}
   {:name "Museum of Natural History",
    :longitude 4.5285709,
    :latitude 7.5165687,
@@ -109,18 +109,18 @@
    :latitude 7.3849462,
    :source :openstreetmap,
    :homepage "https://national-museum-of-unity.business.site/",
-   :locality "Ibadan"}
+   :location "Ibadan"}
   {:name "National Museum",
    :longitude 3.403518,
    :latitude 6.4444185,
    :source :openstreetmap,
-   :locality "Lagos"}
+   :location "Lagos"}
   {:name "National Museum Gidan Makama Kano",
    :longitude 8.5210264,
    :latitude 11.9883725,
    :source :openstreetmap,
    :homepage "https://ncmm.gov.ng/",
-   :locality "Kan Karofi"}
+   :location "Kan Karofi"}
   {:name "National Museum of Unity",
    :longitude 7.4866157,
    :latitude 6.4530724,
@@ -139,12 +139,12 @@
    :longitude 3.3945574,
    :latitude 6.4490351,
    :source :openstreetmap,
-   :locality "Lagos"}
+   :location "Lagos"}
   {:name "Prof Stella Idiong's Art Gallery",
    :longitude 7.9706404,
    :latitude 5.0376387,
    :source :openstreetmap,
-   :locality "Uyo"}
+   :location "Uyo"}
   {:name "Slave History Museum",
    :longitude 8.3184062,
    :latitude 4.966256,
@@ -153,7 +153,7 @@
    :longitude 3.4346205,
    :latitude 6.4401791,
    :source :openstreetmap,
-   :locality "Victoria Island"}
+   :location "Victoria Island"}
   {:name "Terra Kulture Gallery",
    :longitude 3.426812,
    :latitude 6.425189,

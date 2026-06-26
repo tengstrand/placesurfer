@@ -25,7 +25,7 @@
    :latitude 50.792777120221416,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33369",
-   :locality "Bedřichov"}
+   :location "Bedřichov"}
   {:name "Burov Disc Golf",
    :longitude 18.0991226,
    :latitude 49.4090352,
@@ -35,7 +35,7 @@
    :latitude 50.6236358536826,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22117",
-   :locality "Osek"}
+   :location "Osek"}
   {:name "DG Kladno U Lesíku",
    :longitude 14.1041566,
    :latitude 50.1529251,
@@ -45,13 +45,13 @@
    :latitude 50.566195365846454,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31893",
-   :locality "Hlinná"}
+   :location "Hlinná"}
   {:name "DG Park Kadaň",
    :longitude 13.277438879013062,
    :latitude 50.386857939677434,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8281",
-   :locality "Kadaň"}
+   :location "Kadaň"}
   {:name "DG Park Stromovka",
    :longitude 14.4540868,
    :latitude 48.9699204,
@@ -85,7 +85,7 @@
    :latitude 49.531238389627276,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41292",
-   :locality "Horšovský Týn"}
+   :location "Horšovský Týn"}
   {:name "DiscGolf Choltice",
    :longitude 15.6200892,
    :latitude 49.9833928,
@@ -95,7 +95,7 @@
    :latitude 50.92037053060727,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27039",
-   :locality "Frýdlant"}
+   :location "Frýdlant"}
   {:name "Discgolf Krejcárek",
    :longitude 14.4803397,
    :latitude 50.0948938,
@@ -114,7 +114,7 @@
    :latitude 50.077249772299325,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37195",
-   :locality "Cheb"}
+   :location "Cheb"}
   {:name "DiscGolf Park Brno-střed",
    :longitude 16.6107702,
    :latitude 49.1823696,
@@ -128,7 +128,7 @@
    :latitude 49.822348712661125,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24202",
-   :locality "Ostrava"}
+   :location "Ostrava"}
   {:name "Discgolf Sezimovo Ústí",
    :longitude 14.6984713,
    :latitude 49.3810403,
@@ -150,7 +150,7 @@
    :latitude 50.14344331715361,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37684",
-   :locality "Praha"}
+   :location "Praha"}
   {:name "DiscGolf Škodaland",
    :longitude 13.3524862,
    :latitude 49.716108,
@@ -181,7 +181,7 @@
    :latitude 50.55099167306537,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37204",
-   :locality "Bílina"}
+   :location "Bílina"}
   {:name "Discgolfové Hřiště Prachatice",
    :longitude 13.9997174,
    :latitude 49.0223597,
@@ -191,7 +191,7 @@
    :latitude 49.53851349326345,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31286",
-   :locality "Trojanovice"}
+   :location "Trojanovice"}
   {:name "Discgolfové hřiště Seč",
    :longitude 15.652025,
    :latitude 49.8397637,
@@ -205,7 +205,7 @@
    :latitude 50.4081339606561,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31782",
-   :locality "Mladá Boleslav"}
+   :location "Mladá Boleslav"}
   {:name "DiscGolfPark Avion Shopping Park Ostrava",
    :longitude 18.2297886,
    :latitude 49.8047496,
@@ -215,7 +215,7 @@
    :latitude 49.588947,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21226",
-   :locality "Nový Jičín"}
+   :location "Nový Jičín"}
   {:name "DiscGolfPark Běchovice",
    :longitude 14.6158441,
    :latitude 50.083842,
@@ -238,7 +238,7 @@
    :latitude 50.29294793209786,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39612",
-   :locality "Destne"}
+   :location "Destne"}
   {:name "DiscGolfPark Dolní Morava",
    :longitude 16.8094384,
    :latitude 50.1435163,
@@ -262,7 +262,7 @@
    :latitude 50.092801748366895,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19224",
-   :locality "Králíky"}
+   :location "Králíky"}
   {:name "DiscGolfPark Mertovy sady",
    :longitude 14.9948475,
    :latitude 49.1462523,
@@ -272,7 +272,7 @@
    :latitude 49.23185812718435,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30465",
-   :locality "Brno"}
+   :location "Brno"}
   {:name "Discgolfpark Otaslavice",
    :longitude 17.0592462,
    :latitude 49.3871137,
@@ -294,13 +294,13 @@
    :latitude 49.823851,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21227",
-   :locality "Mariánské Hory"}
+   :location "Mariánské Hory"}
   {:name "DiscGolfPark Uníčov",
    :longitude 17.128886118960622,
    :latitude 49.77598101611184,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46519",
-   :locality "Uníčov"}
+   :location "Uníčov"}
   {:name "DiscGolfPark Vajgar",
    :longitude 15.0210801,
    :latitude 49.1376082,
@@ -310,7 +310,7 @@
    :latitude 49.283513757355905,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22103",
-   :locality "Vyškov"}
+   :location "Vyškov"}
   {:name "Diskgolf Senomaty",
    :longitude 13.6563657,
    :latitude 50.1074283,
@@ -320,13 +320,13 @@
    :latitude 48.97008092731684,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31753",
-   :locality "Dolní Němčí"}
+   :location "Dolní Němčí"}
   {:name "Duchcov - sady B. Němcové",
    :longitude 13.75307290314609,
    :latitude 50.60846782617676,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31372",
-   :locality "Duchcov"}
+   :location "Duchcov"}
   {:name "Frisbee Golf Course Nučice Park",
    :longitude 14.2288293,
    :latitude 50.0209914,
@@ -336,19 +336,19 @@
    :latitude 49.6164268184979,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31788",
-   :locality "Havlíčkův Brod"}
+   :location "Havlíčkův Brod"}
   {:name "Hrochův Týnec - permanent 9",
    :longitude 15.909329110751031,
    :latitude 49.9577745795589,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32338",
-   :locality "Hrochův Týnec"}
+   :location "Hrochův Týnec"}
   {:name "Hustopeče Křížový Vrch",
    :longitude 16.736121123728424,
    :latitude 48.93338109047565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31786",
-   :locality "Hustopeče"}
+   :location "Hustopeče"}
   {:name "Hřiště na diskgolf",
    :longitude 17.6674976,
    :latitude 49.2383458,
@@ -358,19 +358,19 @@
    :latitude 50.71582761712057,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31780",
-   :locality "Jablonec nad Nisou"}
+   :location "Jablonec nad Nisou"}
   {:name "Jemnice - permanent 9",
    :longitude 15.577099142001146,
    :latitude 49.01690761312955,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34282",
-   :locality "Jemnice"}
+   :location "Jemnice"}
   {:name "Kobylí",
    :longitude 16.898725926739075,
    :latitude 48.927211986603055,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31823",
-   :locality "Kobylí"}
+   :location "Kobylí"}
   {:name "Konopiště - Myslivna",
    :longitude 14.6577338,
    :latitude 49.7834739,
@@ -380,49 +380,49 @@
    :latitude 49.984812667480355,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33034",
-   :locality "Kraliky"}
+   :location "Kraliky"}
   {:name "Ladronka",
    :longitude 14.357051,
    :latitude 50.078571,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/185",
-   :locality "Praha"}
+   :location "Praha"}
   {:name "Lesopark Letňany ",
    :longitude 14.524737191707658,
    :latitude 50.13636691970956,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32607",
-   :locality "Praha"}
+   :location "Praha"}
   {:name "Liberec - Skalka",
    :longitude 15.06077857948685,
    :latitude 50.78830077886039,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31842",
-   :locality "Liberec"}
+   :location "Liberec"}
   {:name "Litomyšl - permanent 9",
    :longitude 16.304527306946653,
    :latitude 49.87091378669524,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32951",
-   :locality "Litomyšl"}
+   :location "Litomyšl"}
   {:name "Louny",
    :longitude 13.824777892363556,
    :latitude 50.349504538537104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40695",
-   :locality "Louny"}
+   :location "Louny"}
   {:name "Moravsky Krumlov",
    :longitude 16.31225214638289,
    :latitude 49.04442687979781,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21519",
-   :locality "Moravský Krumlov"}
+   :location "Moravský Krumlov"}
   {:name "Moravský Krumlov 2023 - pevná 18",
    :longitude 16.306278280975647,
    :latitude 49.048395197153184,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32112",
-   :locality "Moravský Krumlov"}
+   :location "Moravský Krumlov"}
   {:name "MultiGolfPark U Vodárny Poděbrady",
    :longitude 15.1308837,
    :latitude 50.1395586,
@@ -437,7 +437,7 @@
    :latitude 49.913071173627515,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33121",
-   :locality "Orel"}
+   :location "Orel"}
   {:name "Pacov - zámecký park",
    :longitude 15.001135,
    :latitude 49.4743779,
@@ -451,79 +451,79 @@
    :latitude 50.7394645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33087",
-   :locality "Kořenov"}
+   :location "Kořenov"}
   {:name "Proboštov",
    :longitude 13.839047100736963,
    :latitude 50.672296016898684,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36217",
-   :locality "Proboštov"}
+   :location "Proboštov"}
   {:name "Rokytno - permanent 9",
    :longitude 15.899774601339658,
    :latitude 50.10771890940009,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32238",
-   :locality "Rokytno"}
+   :location "Rokytno"}
   {:name "Sady Sporovnice",
    :longitude 18.35222682696235,
    :latitude 49.815311240551154,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32524",
-   :locality "Ostrava"}
+   :location "Ostrava"}
   {:name "Strakonice",
    :longitude 13.909469616372292,
    :latitude 49.262615967153096,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31840",
-   :locality "Strakonice"}
+   :location "Strakonice"}
   {:name "Svitavy - permanent 12",
    :longitude 16.477329969827736,
    :latitude 49.7657915574961,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32945",
-   :locality "Svitavy"}
+   :location "Svitavy"}
   {:name "Teplice",
    :longitude 13.831576036951617,
    :latitude 50.63701665100683,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31486",
-   :locality "Teplice"}
+   :location "Teplice"}
   {:name "Triple Challenge - (Teplice - Osek- Duchcov)",
    :longitude 13.755463156872025,
    :latitude 50.622745345453495,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21922",
-   :locality "Teplice - Osek - Duchcov"}
+   :location "Teplice - Osek - Duchcov"}
   {:name "Tsehhi Open 2021",
    :longitude 14.398004240157746,
    :latitude 50.0866042399895,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25539",
-   :locality "Praha"}
+   :location "Praha"}
   {:name "Třešť",
    :longitude 15.487605831219525,
    :latitude 49.29499909652981,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31784",
-   :locality "Třešť"}
+   :location "Třešť"}
   {:name "Uherské Hradiště - Kunovský les",
    :longitude 17.445233141322717,
    :latitude 49.060047636212715,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31841",
-   :locality "Kunovice"}
+   :location "Kunovice"}
   {:name "Velké Meziříčí",
    :longitude 16.024949928019822,
    :latitude 49.35049635355284,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31785",
-   :locality "Velké Meziříčí"}
+   :location "Velké Meziříčí"}
   {:name "Vepříkov - Hunters Games",
    :longitude 15.568345481863389,
    :latitude 49.73945680731961,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34814",
-   :locality "Vepříkov"}
+   :location "Vepříkov"}
   {:name "Vesec",
    :longitude 15.0682175,
    :latitude 50.7264198,
@@ -533,31 +533,31 @@
    :latitude 48.9521899788821,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34835",
-   :locality "Veselí nad Moravou"}
+   :location "Veselí nad Moravou"}
   {:name "ZPT Osek ",
    :longitude 13.692925284503474,
    :latitude 50.623632126018435,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31872",
-   :locality "Osek"}
+   :location "Osek"}
   {:name "Ústí nad Labem",
    :longitude 14.027395841279713,
    :latitude 50.685381526608126,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31487",
-   :locality "Ústí nad Labem"}
+   :location "Ústí nad Labem"}
   {:name "České Budějovice",
    :longitude 14.4556819209524,
    :latitude 48.973397812718275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32224",
-   :locality "České Budějovice"}
+   :location "České Budějovice"}
   {:name "Český Krumlov ",
    :longitude 14.316007549308523,
    :latitude 48.8137879739146,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33526",
-   :locality "Český Krumlov"}
+   :location "Český Krumlov"}
   {:name "Štěrboholy",
    :longitude 14.545853751061884,
    :latitude 50.071761205829034,

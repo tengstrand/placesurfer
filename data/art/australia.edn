@@ -148,7 +148,7 @@
    :longitude 153.0445936,
    :latitude -27.4359725,
    :source :openstreetmap,
-   :locality "Albion",
+   :location "Albion",
    :image "",
    :description ""}
   {:name "Alexandra Timber Tramway and Museum",
@@ -175,7 +175,7 @@
    :longitude 151.9829169,
    :latitude -28.0331576,
    :source :openstreetmap,
-   :locality "Allora",
+   :location "Allora",
    :image "",
    :description ""}
   {:name "Alma Doepel Restoration Project",
@@ -196,7 +196,7 @@
    :latitude -37.953598,
    :source :openstreetmap,
    :homepage "https://www.amagoa.com",
-   :locality "Sandringham",
+   :location "Sandringham",
    :image "",
    :description ""}
   {:name "Ambush",
@@ -217,7 +217,7 @@
    :source :openstreetmap,
    :homepage
    "https://victoriancollections.net.au/organisations/anglesea-district-historical-society",
-   :locality "Anglesea",
+   :location "Anglesea",
    :image "",
    :description ""}
   {:name "Anmatjere Art",
@@ -238,7 +238,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.anz.com/shareholder/centre/about/history/banking-museum/",
-   :locality "Melbourne",
+   :location "Melbourne",
    :image "",
    :description ""}
   {:name "APA Gallery",
@@ -258,7 +258,7 @@
    :longitude 115.8346854,
    :latitude -32.0098881,
    :source :openstreetmap,
-   :locality "Applecross",
+   :location "Applecross",
    :image "",
    :description ""}
   {:name "Aquabumps",
@@ -271,7 +271,7 @@
    :longitude 141.9448015,
    :latitude -36.7407168,
    :source :openstreetmap,
-   :locality "Natimuk",
+   :location "Natimuk",
    :image "",
    :description ""}
   {:name "Archer Park Rail Museum",
@@ -352,7 +352,7 @@
    :latitude -27.4642377,
    :source :openstreetmap,
    :homepage "https://www.armymuseumsouthqueensland.com.au/",
-   :locality "Petrie Terrace",
+   :location "Petrie Terrace",
    :image "",
    :description ""}
   {:name "Art & Craft Gallery",
@@ -365,7 +365,7 @@
    :longitude 153.2791207,
    :latitude -28.8074565,
    :source :openstreetmap,
-   :locality "Lismore",
+   :location "Lismore",
    :image "",
    :description ""}
   {:name "Art Fusion",
@@ -466,7 +466,7 @@
    :longitude 148.0098434,
    :latitude -35.7761706,
    :source :openstreetmap,
-   :locality "Tumbarumba",
+   :location "Tumbarumba",
    :image "",
    :description ""}
   {:name "Artlandish Aboriginal Art Gallery",
@@ -499,7 +499,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.melbourne.vic.gov.au/arts-and-culture/arts-house/Pages/arts-house.aspx",
-   :locality "North Melbourne",
+   :location "North Melbourne",
    :image "",
    :description ""}
   {:name "Arts Northwest",
@@ -507,7 +507,7 @@
    :latitude -29.7391042,
    :source :openstreetmap,
    :homepage "https://www.artsnw.com.au/",
-   :locality "Glen Innes",
+   :location "Glen Innes",
    :image "",
    :description ""}
   {:name "Artsite",
@@ -515,7 +515,7 @@
    :latitude -33.8919486,
    :source :openstreetmap,
    :homepage "https://www.artsite.com.au/",
-   :locality "Camperdown",
+   :location "Camperdown",
    :image "",
    :description ""}
   {:name "Artspace",
@@ -536,7 +536,7 @@
    :latitude -37.8128018,
    :source :openstreetmap,
    :homepage "https://artvo.com.au/",
-   :locality "Docklands",
+   :location "Docklands",
    :image "",
    :description ""}
   {:name "Artwest Community Gallery",
@@ -577,7 +577,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/auburn-old-police-station-and-courthouse-museum/",
-   :locality "Auburn",
+   :location "Auburn",
    :image "",
    :description ""}
   {:name "Auditorium",
@@ -603,7 +603,7 @@
    :latitude -37.8039887,
    :source :openstreetmap,
    :homepage "https://auroraart.com.au/",
-   :locality "Ringwood East",
+   :location "Ringwood East",
    :image "",
    :description ""}
   {:name "Australian Army Flying Museum",
@@ -668,7 +668,7 @@
    :longitude 151.0634018,
    :latitude -33.8804678,
    :source :openstreetmap,
-   :locality "Strathfield",
+   :location "Strathfield",
    :image "",
    :description ""}
   {:name "Australian Heritage Services",
@@ -715,7 +715,7 @@
    :latitude -38.3266116,
    :source :openstreetmap,
    :homepage "https://ansmtorquay.wordpress.com/",
-   :locality "Torquay",
+   :location "Torquay",
    :image "",
    :description ""}
   {:name "Australian Poetry Hall of Fame",
@@ -723,7 +723,7 @@
    :latitude -30.2199474,
    :source :openstreetmap,
    :homepage "https://www.australianpoetryhalloffame.com.au/",
-   :locality "Guyra",
+   :location "Guyra",
    :image "",
    :description ""}
   {:name "Australian Road Transport Heritage Centre",
@@ -764,7 +764,7 @@
    :latitude -32.0490398,
    :source :openstreetmap,
    :homepage "https://www.raafawa.org.au",
-   :locality "Bull Creek",
+   :location "Bull Creek",
    :image "",
    :description ""}
   {:name "Axel Stenross Maritime Museum",
@@ -790,14 +790,14 @@
    :latitude -37.9080873,
    :source :openstreetmap,
    :homepage "https://www.b24australia.org.au/",
-   :locality "Werribee",
+   :location "Werribee",
    :image "",
    :description ""}
   {:name "Badila Art Gallery",
    :longitude 148.7165256,
    :latitude -21.1479753,
    :source :openstreetmap,
-   :locality "Pinnacle",
+   :location "Pinnacle",
    :image "",
    :description ""}
   {:name "Bakery",
@@ -943,7 +943,7 @@
    :latitude -41.1667055,
    :source :openstreetmap,
    :homepage "https://www.bassstraitmc.com.au/",
-   :locality "Devonport",
+   :location "Devonport",
    :image "",
    :description ""}
   {:name "Bathurst District Historical Museum",
@@ -970,7 +970,7 @@
    :latitude -25.8132696,
    :source :openstreetmap,
    :homepage "http://www.bauplemuseum.com",
-   :locality "Bauple",
+   :location "Bauple",
    :image "",
    :description ""}
   {:name "Bay Discovery Centre",
@@ -1012,7 +1012,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/beachport-old-wool-grain-store-museum/",
-   :locality "Beachport",
+   :location "Beachport",
    :image "",
    :description ""}
   {:name "Beaconsfield Mine & Heritage Centre",
@@ -1065,7 +1065,7 @@
    :latitude -27.7230828,
    :source :openstreetmap,
    :homepage "https://beenleighhistoricalvillage.com.au/",
-   :locality "Beenleigh",
+   :location "Beenleigh",
    :image "",
    :description ""}
   {:name "Bega Art Gallery",
@@ -1080,7 +1080,7 @@
    :latitude -36.6717715,
    :source :openstreetmap,
    :homepage "https://www.spiralgallery.org.au/",
-   :locality "Bega",
+   :location "Bega",
    :image "",
    :description ""}
   {:name "beinArt Gallery",
@@ -1126,7 +1126,7 @@
    :latitude -36.5543637,
    :source :openstreetmap,
    :homepage "http://www.bpacc.com.au",
-   :locality "Benalla",
+   :location "Benalla",
    :image "",
    :description ""}
   {:name "Benalla Costume and Pioneer Museum",
@@ -1140,7 +1140,7 @@
    :latitude -36.7573281,
    :source :openstreetmap,
    :homepage "https://www.bendigoartgallery.com.au/",
-   :locality "Bendigo",
+   :location "Bendigo",
    :image "",
    :description ""}
   {:name "Bendigo Joss House Temple",
@@ -1160,7 +1160,7 @@
    :longitude 144.2894774,
    :latitude -36.7545245,
    :source :openstreetmap,
-   :locality "Bendigo",
+   :location "Bendigo",
    :image "",
    :description ""}
   {:name "Berowra Community and Cultural Facility",
@@ -1180,7 +1180,7 @@
    :latitude -34.4905608,
    :source :openstreetmap,
    :homepage "https://www.berrimadistricthistoricalsociety.org.au/",
-   :locality "Berrima",
+   :location "Berrima",
    :image "",
    :description ""}
   {:name "Berry Museum",
@@ -1211,7 +1211,7 @@
    :longitude 151.1235378,
    :latitude -33.9076768,
    :source :openstreetmap,
-   :locality "Canterbury",
+   :location "Canterbury",
    :image "",
    :description ""}
   {:name "Beverley Aeronautical Museum",
@@ -1224,7 +1224,7 @@
    :longitude 146.4070241,
    :latitude -41.2348008,
    :source :openstreetmap,
-   :locality "Latrobe",
+   :location "Latrobe",
    :image "",
    :description ""}
   {:name "Bicentenial Library & Art Gallery",
@@ -1267,7 +1267,7 @@
    :longitude 150.5705295,
    :latitude -29.865915,
    :source :openstreetmap,
-   :locality "Bingara",
+   :location "Bingara",
    :image "",
    :description ""}
   {:name "Birchip History Museum",
@@ -1280,7 +1280,7 @@
    :longitude 153.2130734,
    :latitude -27.4960804,
    :source :openstreetmap,
-   :locality "Birkdale",
+   :location "Birkdale",
    :image "",
    :description ""}
   {:name "Black Diamond Heritage Centre",
@@ -1294,7 +1294,7 @@
    :latitude -33.8418649,
    :source :openstreetmap,
    :homepage "https://www.blackmangallery.com.au",
-   :locality "Clare",
+   :location "Clare",
    :image "",
    :description ""}
   {:name "Blacktown Arts Centre",
@@ -1313,7 +1313,7 @@
    :longitude 147.3437458,
    :latitude -43.3687677,
    :source :openstreetmap,
-   :locality "Adventure Bay",
+   :location "Adventure Bay",
    :image "",
    :description ""}
   {:name "Blinkbonny Apple Farm",
@@ -1340,7 +1340,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.maribyrnong.vic.gov.au/arts-and-culture/Bluestone-Church-Arts-Space",
-   :locality "Footscray",
+   :location "Footscray",
    :image "",
    :description ""}
   {:name "Bluestone Cottage Museum",
@@ -1348,7 +1348,7 @@
    :latitude -37.7415061,
    :source :openstreetmap,
    :homepage "http://home.vicnet.net.au/~coburghistorical/",
-   :locality "Coburg",
+   :location "Coburg",
    :image "",
    :description ""}
   {:name "Bluewater Springs Roadhouse - Military Models",
@@ -1374,7 +1374,7 @@
    :longitude 150.6655618,
    :latitude -31.5169805,
    :source :openstreetmap,
-   :locality "Quirindi",
+   :location "Quirindi",
    :image "",
    :description ""}
   {:name "Boggabri Agricultural Heritage Centre",
@@ -1409,7 +1409,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/bon-accord-mine-complex/",
-   :locality "Burra",
+   :location "Burra",
    :image "",
    :description ""}
   {:name "Boolarra Old School Museum",
@@ -1424,7 +1424,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.brisbane.qld.gov.au/clean-and-green/natural-environment-and-water/environment-centres/boondall-wetlands-environment-centre",
-   :locality "Boondall",
+   :location "Boondall",
    :image "",
    :description ""}
   {:name "Boondooma Homestead Museum",
@@ -1447,7 +1447,7 @@
    :source :openstreetmap,
    :homepage
    "https://boorowamuseum.wordpress.com/our-museum-building/",
-   :locality "Boorowa",
+   :location "Boorowa",
    :image "",
    :description ""}
   {:name "Boort Court House Historical Museum",
@@ -1566,7 +1566,7 @@
    :longitude 153.0355837,
    :latitude -27.4329592,
    :source :openstreetmap,
-   :locality "Windsor",
+   :location "Windsor",
    :image "",
    :description ""}
   {:name "Brisbane Motor Museum",
@@ -1580,7 +1580,7 @@
    :latitude -27.4073038,
    :source :openstreetmap,
    :homepage "https://www.brisbanetramwaymuseum.org/",
-   :locality "Ferny Grove",
+   :location "Ferny Grove",
    :image "",
    :description ""}
   {:name "Brislington Medical and Nursing Museum",
@@ -1594,7 +1594,7 @@
    :longitude 144.9161799,
    :latitude -37.6800329,
    :source :openstreetmap,
-   :locality "Broadmeadows",
+   :location "Broadmeadows",
    :image "",
    :description ""}
   {:name "Broadway Museum",
@@ -1640,7 +1640,7 @@
    :longitude 147.2435778,
    :latitude -43.3162547,
    :source :openstreetmap,
-   :locality "Alonnah",
+   :location "Alonnah",
    :image "",
    :description ""}
   {:name "Brush and Barrel",
@@ -1674,7 +1674,7 @@
    :latitude -37.8038893,
    :source :openstreetmap,
    :homepage "https://bsidegallery.com/",
-   :locality "Fitzroy",
+   :location "Fitzroy",
    :image "",
    :description ""}
   {:name "Bublacowie Military Museum",
@@ -1725,14 +1725,14 @@
    :latitude -35.2558725,
    :source :openstreetmap,
    :homepage "https://www.bungendorefineart.com.au/",
-   :locality "Bungendore",
+   :location "Bungendore",
    :image "",
    :description ""}
   {:name "Bunjil Place",
    :longitude 145.2994854,
    :latitude -38.0199092,
    :source :openstreetmap,
-   :locality "Narre Warren",
+   :location "Narre Warren",
    :image "",
    :description ""}
   {:name "Bunurong Environment Centre & Shell Museum",
@@ -1786,14 +1786,14 @@
    :latitude -37.91651,
    :source :openstreetmap,
    :homepage "https://www.burrinja.org.au/",
-   :locality "Upwey",
+   :location "Upwey",
    :image "",
    :description ""}
   {:name "Burrum and District Museum",
    :longitude 152.5620542,
    :latitude -25.3193838,
    :source :openstreetmap,
-   :locality "Howard",
+   :location "Howard",
    :image "",
    :description ""}
   {:name "Bush Engineers Tractor Museum",
@@ -1882,14 +1882,14 @@
    :latitude -26.8055009,
    :source :openstreetmap,
    :homepage "https://caloundraartsandcrafts.org.au/",
-   :locality "Caloundra",
+   :location "Caloundra",
    :image "",
    :description ""}
   {:name "Caloundra Regional Gallery",
    :longitude 153.1308159,
    :latitude -26.8037934,
    :source :openstreetmap,
-   :locality "Caloundra",
+   :location "Caloundra",
    :image "",
    :description ""}
   {:name "Calthorpes House",
@@ -2055,7 +2055,7 @@
    :longitude 150.5747668,
    :latitude -29.5425502,
    :source :openstreetmap,
-   :locality "Warialda",
+   :location "Warialda",
    :image "",
    :description ""}
   {:name "Carisbrook House",
@@ -2115,14 +2115,14 @@
    :longitude 151.1203259,
    :latitude -33.9904976,
    :source :openstreetmap,
-   :locality "Carss Park",
+   :location "Carss Park",
    :image "",
    :description ""}
   {:name "Casino Historical Museum",
    :longitude 153.0479619,
    :latitude -28.866374,
    :source :openstreetmap,
-   :locality "Casino",
+   :location "Casino",
    :image "",
    :description ""}
   {:name "Castle Hill Art Society",
@@ -2168,7 +2168,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/ceduna-school-house-museum/",
-   :locality "Ceduna",
+   :location "Ceduna",
    :image "",
    :description ""}
   {:name "Centenary Cottage Museum",
@@ -2188,7 +2188,7 @@
    :longitude 149.5681644,
    :latitude -33.4318851,
    :source :openstreetmap,
-   :locality "Bathurst",
+   :location "Bathurst",
    :image "",
    :description ""}
   {:name "Central Wandandian Public School 1911",
@@ -2202,7 +2202,7 @@
    :latitude -37.799913,
    :source :openstreetmap,
    :homepage "https://ccp.org.au",
-   :locality "Collingwood",
+   :location "Collingwood",
    :image "",
    :description ""}
   {:name "Centre For Stories",
@@ -2210,7 +2210,7 @@
    :latitude -31.9461531,
    :source :openstreetmap,
    :homepage "https://centreforstories.com/",
-   :locality "Northbridge",
+   :location "Northbridge",
    :image "",
    :description ""}
   {:name "Ceramic Break Sculpture Park",
@@ -2224,7 +2224,7 @@
    :latitude -43.0298521,
    :source :openstreetmap,
    :homepage "https://channelmuseum.org.au",
-   :locality "Margate",
+   :location "Margate",
    :image "",
    :description ""}
   {:name "Charles Sturt Museum",
@@ -2232,7 +2232,7 @@
    :latitude -34.9030138,
    :source :openstreetmap,
    :homepage "https://www.charlessturtmuseum.com.au/",
-   :locality "Grange",
+   :location "Grange",
    :image "",
    :description ""}
   {:name "Chau Chak Wing Museum",
@@ -2271,7 +2271,7 @@
    :latitude -36.151089,
    :source :openstreetmap,
    :homepage "https://www.chilternathenaeum.com.au/",
-   :locality "Chiltern",
+   :location "Chiltern",
    :image "",
    :description ""}
   {:name "China Heights",
@@ -2292,7 +2292,7 @@
    :latitude -37.8107405,
    :source :openstreetmap,
    :homepage "https://www.chinesemuseum.com.au/",
-   :locality "Melbourne",
+   :location "Melbourne",
    :image "",
    :description ""}
   {:name "Chiverton House Museum",
@@ -2307,7 +2307,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.innerwest.nsw.gov.au/live/living-arts/creative-spaces/chrissie-cotter-gallery",
-   :locality "Camperdown",
+   :location "Camperdown",
    :image "",
    :description ""}
   {:name "Circus Arts",
@@ -2341,7 +2341,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.claregilbertvalleys.sa.gov.au/community-facilities/clare-and-gilbert-valleys-council-clare-art-house",
-   :locality "Clare",
+   :location "Clare",
    :image "",
    :description ""}
   {:name "Clare Valley Art Gallery",
@@ -2355,7 +2355,7 @@
    :longitude 147.2538664,
    :latitude -42.7899915,
    :source :openstreetmap,
-   :locality "Claremont",
+   :location "Claremont",
    :image "",
    :description ""}
   {:name "Clarence Town and District Historical Museum",
@@ -2382,7 +2382,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/cleve-old-council-chambers/",
-   :locality "Cleve",
+   :location "Cleve",
    :image "",
    :description ""}
   {:name "Clifton Historical Museum",
@@ -2390,21 +2390,21 @@
    :latitude -27.9341938,
    :source :openstreetmap,
    :homepage "https://www.cliftonpa.org/",
-   :locality "Clifton",
+   :location "Clifton",
    :image "",
    :description ""}
   {:name "Cloncurry Unearthed Visitor Information Centre & Museum",
    :longitude 140.5188643,
    :latitude -20.7089349,
    :source :openstreetmap,
-   :locality "Cloncurry",
+   :location "Cloncurry",
    :image "",
    :description ""}
   {:name "Coach House Gallery & Museum",
    :longitude 143.6137097,
    :latitude -36.4192194,
    :source :openstreetmap,
-   :locality "Wedderburn",
+   :location "Wedderburn",
    :image "",
    :description ""}
   {:name "Coal Creek Community Park & Museum",
@@ -2418,7 +2418,7 @@
    :longitude 149.8892118,
    :latitude -36.3889767,
    :source :openstreetmap,
-   :locality "Cobargo",
+   :location "Cobargo",
    :image "",
    :description ""}
   {:name "Cobb & Co Coach",
@@ -2431,7 +2431,7 @@
    :longitude 149.0681285,
    :latitude -27.1520584,
    :source :openstreetmap,
-   :locality "Surat",
+   :location "Surat",
    :image "",
    :description ""}
   {:name "Cobb and Co Coach Collectables Museum",
@@ -2473,7 +2473,7 @@
    :longitude 153.1212058,
    :latitude -30.3008989,
    :source :openstreetmap,
-   :locality "Coffs Harbour",
+   :location "Coffs Harbour",
    :image "",
    :description ""}
   {:name "Coldstream Gallery",
@@ -2481,7 +2481,7 @@
    :latitude -29.6313483,
    :source :openstreetmap,
    :homepage "https://www.coldstreamgallery.com.au/",
-   :locality "Ulmarra",
+   :location "Ulmarra",
    :image "",
    :description ""}
   {:name "Collie Museum",
@@ -2502,7 +2502,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/collingrove-homestead/",
-   :locality "Angaston",
+   :location "Angaston",
    :image "",
    :description ""}
   {:name
@@ -2597,7 +2597,7 @@
    :latitude -37.807227,
    :source :openstreetmap,
    :homepage "https://fitzroypublicgallery.com",
-   :locality "Collingwood",
+   :location "Collingwood",
    :image "",
    :description ""}
   {:name "Cork & Chroma Brisbane",
@@ -2605,7 +2605,7 @@
    :latitude -27.4709952,
    :source :openstreetmap,
    :homepage "https://aboriginalart.co/",
-   :locality "South Brisbane",
+   :location "South Brisbane",
    :image "",
    :description ""}
   {:name "Correspondences",
@@ -2703,7 +2703,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.tr.qld.gov.au/facilities-recreation/theatres-galleries/galleries/3140-crows-nest-regional-art-gallery",
-   :locality "Crows Nest",
+   :location "Crows Nest",
    :image "",
    :description ""}
   {:name "Crystal Kingdom",
@@ -2740,7 +2740,7 @@
    :longitude 145.6812706,
    :latitude -28.0680338,
    :source :openstreetmap,
-   :locality "Cunnamulla",
+   :location "Cunnamulla",
    :image "",
    :description ""}
   {:name "Customs House Museum",
@@ -2790,7 +2790,7 @@
    :longitude 144.9979967,
    :latitude -37.7456077,
    :source :openstreetmap,
-   :locality "Preston",
+   :location "Preston",
    :image "",
    :description ""}
   {:name "Dargo Museum",
@@ -2810,7 +2810,7 @@
    :latitude -12.4079845,
    :source :openstreetmap,
    :homepage "https://www.darwinmilitarymuseum.au",
-   :locality "East Point",
+   :location "East Point",
    :image "",
    :description ""}
   {:name "Das Neumann Haus",
@@ -2865,7 +2865,7 @@
    :longitude 153.550279,
    :latitude -28.1649114,
    :source :openstreetmap,
-   :locality "Coolangatta",
+   :location "Coolangatta",
    :image "",
    :description ""}
   {:name "Deal Island Lighthouse Museum",
@@ -2920,7 +2920,7 @@
    :longitude 144.2822003,
    :latitude -36.7649582,
    :source :openstreetmap,
-   :locality "Bendigo",
+   :location "Bendigo",
    :image "",
    :description ""}
   {:name "Discovery Theatre",
@@ -2946,7 +2946,7 @@
    :longitude 152.7135754,
    :latitude -30.3399364,
    :source :openstreetmap,
-   :locality "Dorrigo",
+   :location "Dorrigo",
    :image "",
    :description ""}
   {:name "Don Rhodes Mining Museum",
@@ -2978,7 +2978,7 @@
    :latitude -31.4368564,
    :source :openstreetmap,
    :homepage "https://douglasvale.com.au/",
-   :locality "Port Macquarie",
+   :location "Port Macquarie",
    :image "",
    :description ""}
   {:name "Dover Museum and Art Gallery",
@@ -2997,14 +2997,14 @@
    :longitude 151.9170559,
    :latitude -27.5924872,
    :source :openstreetmap,
-   :locality "Drayton",
+   :location "Drayton",
    :image "",
    :description ""}
   {:name "Dr Arratta Memorial Museum",
    :longitude 144.5379694,
    :latitude -22.5983535,
    :source :openstreetmap,
-   :locality "Muttaburra",
+   :location "Muttaburra",
    :image "",
    :description ""}
   {:name "Dromana and District Historical Society Museum",
@@ -3037,14 +3037,14 @@
    :longitude 148.6096672,
    :latitude -32.2495603,
    :source :openstreetmap,
-   :locality "Dubbo",
+   :location "Dubbo",
    :image "",
    :description ""}
   {:name "Duldig Studio",
    :longitude 145.0498035,
    :latitude -37.8689664,
    :source :openstreetmap,
-   :locality "Malvern East",
+   :location "Malvern East",
    :image "",
    :description ""}
   {:name "Dunedoo Historical Museum",
@@ -3088,7 +3088,7 @@
    :longitude 115.7528336,
    :latitude -32.0692932,
    :source :openstreetmap,
-   :locality "South Fremantle",
+   :location "South Fremantle",
    :image "",
    :description ""}
   {:name "East Coast Heritage Museum",
@@ -3103,7 +3103,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.loddon.vic.gov.au/For-residents/Community-support/Community-Directory/East-Loddon-Historical-Society",
-   :locality "Mitiamo",
+   :location "Mitiamo",
    :image "",
    :description ""}
   {:name "East Pilbara Arts Centre",
@@ -3130,7 +3130,7 @@
    :longitude 137.746623,
    :latitude -35.0851137,
    :source :openstreetmap,
-   :locality "Edithburgh",
+   :location "Edithburgh",
    :image "",
    :description ""}
   {:name "Education Centre",
@@ -3150,7 +3150,7 @@
    :latitude -33.8211852,
    :source :openstreetmap,
    :homepage "https://mhnsw.au/visit-us/elizabeth-farm/",
-   :locality "Rosehill",
+   :location "Rosehill",
    :image "",
    :description ""}
   {:name "Ellis House",
@@ -3170,7 +3170,7 @@
    :latitude -37.7224899,
    :source :openstreetmap,
    :homepage "http://www.elthamhistory.org.au/",
-   :locality "Eltham",
+   :location "Eltham",
    :image "",
    :description ""}
   {:name "Emerald Art Gallery",
@@ -3202,7 +3202,7 @@
    :latitude -29.4451605,
    :source :openstreetmap,
    :homepage "https://emmavilleminingmuseum.com/",
-   :locality "Emmaville",
+   :location "Emmaville",
    :image "",
    :description ""}
   {:name "Emmet Railway Station (Display)",
@@ -3393,7 +3393,7 @@
    :source :openstreetmap,
    :homepage
    "https://fineprintco.com/pages/ferry-road-store-southport",
-   :locality "Southport",
+   :location "Southport",
    :image "",
    :description ""}
   {:name "Fire Services Museum",
@@ -3429,7 +3429,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visithughenden.com.au/flinders-discovery-centre/",
-   :locality "Hughenden",
+   :location "Hughenden",
    :image "",
    :description ""}
   {:name "Flinders Lane Gallery",
@@ -3437,7 +3437,7 @@
    :latitude -37.8156599,
    :source :openstreetmap,
    :homepage "https://flg.com.au/",
-   :locality "Melbourne",
+   :location "Melbourne",
    :image "",
    :description ""}
   {:name "Flourish Art",
@@ -3463,7 +3463,7 @@
    :latitude -37.8033391,
    :source :openstreetmap,
    :homepage "https://footscrayarts.com/",
-   :locality "Footscray",
+   :location "Footscray",
    :image "",
    :description ""}
   {:name "Fordson Tractor",
@@ -3534,7 +3534,7 @@
    :latitude -37.821252,
    :source :openstreetmap,
    :homepage "https://www.foxcollection.org.au/",
-   :locality "Docklands",
+   :location "Docklands",
    :image "",
    :description ""}
   {:name "Franklin Harbour Historical Museum",
@@ -3601,7 +3601,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.newcastle.edu.au/campus-life/university-galleries/events-and-exhibitions",
-   :locality "Callaghan",
+   :location "Callaghan",
    :image "",
    :description ""}
   {:name "Gallery 103",
@@ -3609,7 +3609,7 @@
    :latitude -35.4442159,
    :source :openstreetmap,
    :homepage "https://www.joparsons.com.au/",
-   :locality "Braidwood",
+   :location "Braidwood",
    :image "",
    :description ""}
   {:name "Gallery 371",
@@ -3662,7 +3662,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.nationaltrust.net.au/content/gallop-house-dalkeith",
-   :locality "Dalkeith",
+   :location "Dalkeith",
    :image "",
    :description ""}
   {:name "Gamble Cottage-National Trust",
@@ -3677,7 +3677,7 @@
    :latitude -33.4826815,
    :source :openstreetmap,
    :homepage "https://gggallery.com.au",
-   :locality "Lithgow",
+   :location "Lithgow",
    :image "",
    :description ""}
   {:name "Gaol Museum",
@@ -3698,7 +3698,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/gawler-old-telegraph-station-museum/",
-   :locality "Gawler",
+   :location "Gawler",
    :image "",
    :description ""}
   {:name "Gayndah Heritage Railway",
@@ -3747,7 +3747,7 @@
    :latitude -37.8538964,
    :source :openstreetmap,
    :homepage "https://www.geoffreykayemuseum.org.au/",
-   :locality "Melbourne",
+   :location "Melbourne",
    :image "",
    :description ""}
   {:name "George Hanna Museum",
@@ -3767,7 +3767,7 @@
    :latitude -28.773382,
    :source :openstreetmap,
    :homepage "https://artgallery.cgg.wa.gov.au/home.aspx",
-   :locality "Geraldton",
+   :location "Geraldton",
    :image "",
    :description ""}
   {:name "Gerringong Heritage Museum",
@@ -3781,7 +3781,7 @@
    :latitude -37.7514315,
    :source :openstreetmap,
    :homepage "https://gertrude.org.au/",
-   :locality "Preston",
+   :location "Preston",
    :image "",
    :description ""}
   {:name "Gilbert's Motor Museum",
@@ -3803,7 +3803,7 @@
    :latitude -38.1118614,
    :source :openstreetmap,
    :homepage "https://www.gippslandartgallery.com/",
-   :locality "Sale",
+   :location "Sale",
    :image "",
    :description ""}
   {:name "Gippsland Performing Arts Centre",
@@ -3837,7 +3837,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/glencoe-woolshed/",
-   :locality "Glencoe",
+   :location "Glencoe",
    :image "",
    :description ""}
   {:name "Glenmorgan Railway Station",
@@ -3875,7 +3875,7 @@
    :longitude 153.2578285,
    :latitude -27.9101414,
    :source :openstreetmap,
-   :locality "Upper Coomera",
+   :location "Upper Coomera",
    :image "",
    :description ""}
   {:name "Gold Coast Potters & Sculptors Corner",
@@ -3883,7 +3883,7 @@
    :latitude -28.0093002,
    :source :openstreetmap,
    :homepage "https://goldcoastpotters.com/",
-   :locality "Benowa",
+   :location "Benowa",
    :image "",
    :description ""}
   {:name "Gold Coast War Museum",
@@ -3953,14 +3953,14 @@
    :latitude -35.5029631,
    :source :openstreetmap,
    :homepage "https://www.nationaltrust.org.au/places/goolwa-museum/",
-   :locality "Goolwa",
+   :location "Goolwa",
    :image "",
    :description ""}
   {:name "Goolwa Old Railway Superintendent's Cottage",
    :longitude 138.7853563,
    :latitude -35.5029716,
    :source :openstreetmap,
-   :locality "Goolwa",
+   :location "Goolwa",
    :image "",
    :description ""}
   {:name "Goomalling Historical Museum",
@@ -4038,7 +4038,7 @@
    :latitude -24.8833012,
    :source :openstreetmap,
    :homepage "https://grasslandgallery.com.au/",
-   :locality "Tambo",
+   :location "Tambo",
    :image "",
    :description ""}
   {:name "Graydon Gallery",
@@ -4081,7 +4081,7 @@
    :longitude 138.9371582,
    :latitude -34.4381644,
    :source :openstreetmap,
-   :locality "Greenock",
+   :location "Greenock",
    :image "",
    :description ""}
   {:name "Greens Gunyah Museum",
@@ -4102,14 +4102,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.grenfell.org.au/attractions/grenfell-art-gallery",
-   :locality "Grenfell",
+   :location "Grenfell",
    :image "",
    :description ""}
   {:name "Gresford District Historical Museum",
    :longitude 151.5533051,
    :latitude -32.4335487,
    :source :openstreetmap,
-   :locality "East Gresford",
+   :location "East Gresford",
    :image "",
    :description ""}
   {:name "Greycliffe Homestead",
@@ -4141,7 +4141,7 @@
    :latitude -42.8038444,
    :source :openstreetmap,
    :homepage "https://www.utas.edu.au/groterebermuseum",
-   :locality "Cambridge",
+   :location "Cambridge",
    :image "",
    :description ""}
   {:name "Gulgong Pioneers Museum",
@@ -4245,7 +4245,7 @@
    :longitude 150.3388951,
    :latitude -34.4855891,
    :source :openstreetmap,
-   :locality "Berrima",
+   :location "Berrima",
    :image "",
    :description ""}
   {:name "Harrietville Museum",
@@ -4258,7 +4258,7 @@
    :longitude 152.6674287,
    :latitude -27.811707,
    :source :openstreetmap,
-   :locality "Harrisville",
+   :location "Harrisville",
    :image "",
    :description ""}
   {:name "Harrow Discovery Centre",
@@ -4285,7 +4285,7 @@
    :latitude -43.1641524,
    :source :openstreetmap,
    :homepage "https://harvestandlight.com.au/",
-   :locality "Geeveston",
+   :location "Geeveston",
    :image "",
    :description ""}
   {:name "Hastings Museum",
@@ -4293,7 +4293,7 @@
    :latitude -38.3089466,
    :source :openstreetmap,
    :homepage "https://www.hwphs.org.au/",
-   :locality "Hastings",
+   :location "Hastings",
    :image "",
    :description ""}
   {:name "Hastings Valley Art Gallery",
@@ -4320,7 +4320,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hay.nsw.gov.au/Museums/GaolMuseum/tabid/98/Default.aspx",
-   :locality "Hay",
+   :location "Hay",
    :image "",
    :description ""}
   {:name "Haydon Hall",
@@ -4366,7 +4366,7 @@
    :longitude 146.1076717,
    :latitude -17.8672117,
    :source :openstreetmap,
-   :locality "Mission Beach",
+   :location "Mission Beach",
    :image "",
    :description ""}
   {:name "Hellenic Museum",
@@ -4444,7 +4444,7 @@
    :longitude 146.7855812,
    :latitude -37.9812998,
    :source :openstreetmap,
-   :locality "Heyfield",
+   :location "Heyfield",
    :image "",
    :description ""}
   {:name "Hidden Temple Gallery",
@@ -4508,7 +4508,7 @@
    :latitude -34.5612998,
    :source :openstreetmap,
    :homepage "https://hars.org.au/",
-   :locality "Albion Park Rail",
+   :location "Albion Park Rail",
    :image "",
    :description ""}
   {:name
@@ -4626,7 +4626,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.devonport.tas.gov.au/Play/Arts-Culture-Heritage/Home-Hill",
-   :locality "Miandetta",
+   :location "Miandetta",
    :image "",
    :description ""}
   {:name "Home of the Arts",
@@ -4640,7 +4640,7 @@
    :latitude -35.6461962,
    :source :openstreetmap,
    :homepage "https://www.nationaltrust.org.au/places/hope-cottage/",
-   :locality "Kingscote",
+   :location "Kingscote",
    :image "",
    :description ""}
   {:name "Horsham Regional Art Gallery",
@@ -4713,7 +4713,7 @@
    :latitude -34.5689981,
    :source :openstreetmap,
    :homepage "https://ilrms.com.au/",
-   :locality "Albion Park Rail",
+   :location "Albion Park Rail",
    :image "",
    :description ""}
   {:name "Illusionary Art",
@@ -4728,7 +4728,7 @@
    :latitude -27.415786,
    :source :openstreetmap,
    :homepage "https://www.impress.org.au/",
-   :locality "Wooloowin",
+   :location "Wooloowin",
    :image "",
    :description ""}
   {:name "Incinerator Art Space",
@@ -4761,7 +4761,7 @@
    :longitude 144.8875784,
    :latitude -37.8302625,
    :source :openstreetmap,
-   :locality "Spotswood",
+   :location "Spotswood",
    :image "",
    :description ""}
   {:name "Injalak Art Centre",
@@ -4827,7 +4827,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/bassett-boys-schoolroom/",
-   :locality "Willunga",
+   :location "Willunga",
    :image "",
    :description ""}
   {:name "James Cook Museum",
@@ -4843,7 +4843,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/jamestown-local-history-centre/",
-   :locality "Jamestown",
+   :location "Jamestown",
    :image "",
    :description ""}
   {:name "Jamestown Railway Station Museum-National Trust",
@@ -4852,7 +4852,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/jamestown-railway-station-museum/",
-   :locality "Jamestown",
+   :location "Jamestown",
    :image "",
    :description ""}
   {:name "JamFactory",
@@ -4911,7 +4911,7 @@
    :latitude -28.0965826,
    :source :openstreetmap,
    :homepage "https://www.jellurgal.com.au/",
-   :locality "Burleigh Heads",
+   :location "Burleigh Heads",
    :image "",
    :description ""}
   {:name "Jerilderie And District Historical Museum",
@@ -4948,7 +4948,7 @@
    :longitude 146.5563341,
    :latitude -34.748943,
    :source :openstreetmap,
-   :locality "Narrandera",
+   :location "Narrandera",
    :image "",
    :description ""}
   {:name "John Pullbrook Machinery Shed",
@@ -5035,7 +5035,7 @@
    :latitude -37.8176276,
    :source :openstreetmap,
    :homepage "https://www.kapiartspace.com/",
-   :locality "Kalorama",
+   :location "Kalorama",
    :image "",
    :description ""}
   {:name "Kapunda Museum",
@@ -5050,7 +5050,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.brisbane.qld.gov.au/clean-and-green/natural-environment-and-water/environment-centres/karawatha-forest-discovery-centre",
-   :locality "Brisbane",
+   :location "Brisbane",
    :image "",
    :description ""}
   {:name "Karen Brown Fine Art",
@@ -5095,7 +5095,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/keith-early-settlers-cottage/",
-   :locality "Keith",
+   :location "Keith",
    :image "",
    :description ""}
   {:name "Kelp Craft",
@@ -5179,7 +5179,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.loganarts.com.au/venue/kingston-butter-factory-precinct/",
-   :locality "Kingston",
+   :location "Kingston",
    :image "",
    :description ""}
   {:name "Kingston National Trust Museum",
@@ -5188,7 +5188,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/kingston-national-trust-museum/",
-   :locality "Kingston SE",
+   :location "Kingston SE",
    :image "",
    :description ""}
   {:name "Koobabbie Precinct",
@@ -5215,7 +5215,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/koppio-smithy-museum/",
-   :locality "Koppio",
+   :location "Koppio",
    :image "",
    :description ""}
   {:name "Kotz Cottage-National Trust",
@@ -5254,7 +5254,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.mrsc.vic.gov.au/See-Do/Arts-Culture/Kyneton-Museum",
-   :locality "Kyneton",
+   :location "Kyneton",
    :image "",
    :description ""}
   {:name "Kyogle Museum",
@@ -5269,7 +5269,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.randwick.nsw.gov.au/facilities-and-recreation/buildings/la-perouse-museum",
-   :locality "La Perouse",
+   :location "La Perouse",
    :image "",
    :description ""}
   {:name "La Trobe University Museum of Art",
@@ -5369,7 +5369,7 @@
    :longitude 144.394043,
    :latitude -38.0337494,
    :source :openstreetmap,
-   :locality "Lara",
+   :location "Lara",
    :image "",
    :description ""}
   {:name "Larikins Lock-up - Old Comboyne Gaol and Garden Centre",
@@ -5431,21 +5431,21 @@
    :source :openstreetmap,
    :homepage
    "https://www.centralcoast.nsw.gov.au/theatres/visit-us/laycock-street-community-theatre",
-   :locality "Wyoming",
+   :location "Wyoming",
    :image "",
    :description ""}
   {:name "Lee Medlyn Bottle Museum",
    :longitude 143.7805522,
    :latitude -37.2940783,
    :source :openstreetmap,
-   :locality "Clunes",
+   :location "Clunes",
    :image "",
    :description ""}
   {:name "Leeton Museum and Art Gallery",
    :longitude 146.4065574,
    :latitude -34.5501603,
    :source :openstreetmap,
-   :locality "Leeton",
+   :location "Leeton",
    :image "",
    :description ""}
   {:name "Legends Of Surf Museum",
@@ -5458,7 +5458,7 @@
    :longitude 148.1921967,
    :latitude -32.727842,
    :source :openstreetmap,
-   :locality "Peak Hill",
+   :location "Peak Hill",
    :image "",
    :description ""}
   {:name "Leschenault Inlet Eco Museum",
@@ -5530,7 +5530,7 @@
    :longitude 144.8415932,
    :latitude -37.844372,
    :source :openstreetmap,
-   :locality "Altona North",
+   :location "Altona North",
    :image "",
    :description ""}
   {:name "Little Gallery",
@@ -5559,7 +5559,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.liverpool.nsw.gov.au/venues/places-to-visit/collingwood-house",
-   :locality "Liverpool",
+   :location "Liverpool",
    :image "",
    :description ""}
   {:name "Living Arts Centre",
@@ -5567,7 +5567,7 @@
    :latitude -24.4216341,
    :source :openstreetmap,
    :homepage "https://blackallcultural.org.au/",
-   :locality "Blackall",
+   :location "Blackall",
    :image "",
    :description ""}
   {:name "Living Desert Sculpture Symposium",
@@ -5582,7 +5582,7 @@
    :source :openstreetmap,
    :homepage
    "https://explore.history.sa.gov.au/organisation/lobethal-archives-historical-museum/",
-   :locality "Lobethal",
+   :location "Lobethal",
    :image "",
    :description ""}
   {:name "Lock & Districts Heritage Museum",
@@ -5628,7 +5628,7 @@
    :latitude -33.7205521,
    :source :openstreetmap,
    :homepage "https://lostbeargallery.com.au",
-   :locality "Katoomba",
+   :location "Katoomba",
    :image "",
    :description ""}
   {:name "Lost Eden Gallery",
@@ -5642,7 +5642,7 @@
    :longitude 145.2043694,
    :latitude -17.4290052,
    :source :openstreetmap,
-   :locality "Irvinebank",
+   :location "Irvinebank",
    :image "",
    :description ""}
   {:name "Lunastudio",
@@ -5662,7 +5662,7 @@
    :latitude -26.6174174,
    :source :openstreetmap,
    :homepage "https://www.lynbarnes.com",
-   :locality "Quilpie",
+   :location "Quilpie",
    :image "",
    :description ""}
   {:name "M16 Artspace",
@@ -5748,7 +5748,7 @@
    :latitude -27.464815,
    :source :openstreetmap,
    :homepage "https://magdaproductions.com/",
-   :locality "Bardon",
+   :location "Bardon",
    :image "",
    :description ""}
   {:name "Main Gallery Building",
@@ -5770,7 +5770,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/maitland-museum/",
-   :locality "Maitland",
+   :location "Maitland",
    :image "",
    :description ""}
   {:name "Maitland Regional Museum",
@@ -5886,7 +5886,7 @@
    :latitude -34.2359696,
    :source :openstreetmap,
    :homepage "https://www.margaretriversculpturepark.com",
-   :locality "Hamelin Bay",
+   :location "Hamelin Bay",
    :image "",
    :description ""}
   {:name "Margaret Whitlam Galleries",
@@ -5922,14 +5922,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/market-square-museum/",
-   :locality "Burra",
+   :location "Burra",
    :image "",
    :description ""}
   {:name "Marlborough Historical Museum",
    :longitude 149.8915496,
    :latitude -22.8128905,
    :source :openstreetmap,
-   :locality "Marlborough",
+   :location "Marlborough",
    :image "",
    :description ""}
   {:name "Marnin Studio",
@@ -5942,14 +5942,14 @@
    :longitude 145.2304474,
    :latitude -37.8197459,
    :source :openstreetmap,
-   :locality "Ringwood",
+   :location "Ringwood",
    :image "",
    :description ""}
   {:name "Marrawuddi Arts & Culture",
    :longitude 132.8339973,
    :latitude -12.6691789,
    :source :openstreetmap,
-   :locality "Jabiru",
+   :location "Jabiru",
    :image "",
    :description ""}
   {:name "Marree Railway Museum",
@@ -5984,7 +5984,7 @@
    :latitude -25.5386886,
    :source :openstreetmap,
    :homepage "https://www.maryboroughmuseum.org",
-   :locality "Maryborough",
+   :location "Maryborough",
    :image "",
    :description ""}
   {:name "Matron's Quarters",
@@ -6044,7 +6044,7 @@
    :latitude -37.8015961,
    :source :openstreetmap,
    :homepage "https://meatmarket.org.au/",
-   :locality "North Melbourne",
+   :location "North Melbourne",
    :image "",
    :description ""}
   {:name "Melbourne City Gallery",
@@ -6067,7 +6067,7 @@
    :latitude -37.8032374,
    :source :openstreetmap,
    :homepage "https://museumsvictoria.com.au/melbournemuseum/",
-   :locality "Carlton",
+   :location "Carlton",
    :image "",
    :description ""}
   {:name "Melville Community Arts Association",
@@ -6092,7 +6092,7 @@
    :longitude 118.2810728,
    :latitude -31.4816566,
    :source :openstreetmap,
-   :locality "Merredin",
+   :location "Merredin",
    :image "",
    :description ""}
   {:name "Merredin Railway Museum",
@@ -6162,7 +6162,7 @@
    :latitude -34.1776597,
    :source :openstreetmap,
    :homepage "https://www.milduraartscentre.com.au/",
-   :locality "Mildura",
+   :location "Mildura",
    :image "",
    :description ""}
   {:name "Mildura Holden Motor Museum",
@@ -6170,7 +6170,7 @@
    :latitude -34.1748985,
    :source :openstreetmap,
    :homepage "https://www.milduraholdenmuseum.com.au/",
-   :locality "Buronga",
+   :location "Buronga",
    :image "",
    :description ""}
   {:name "Miles Historical Village",
@@ -6203,7 +6203,7 @@
    :latitude -34.3898381,
    :source :openstreetmap,
    :homepage "https://www.millewapioneerpark.org.au/index.htm",
-   :locality "Meringur",
+   :location "Meringur",
    :image "",
    :description ""}
   {:name "Millicent National Trust Museum",
@@ -6212,7 +6212,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/millicent-museum/",
-   :locality "Millicent",
+   :location "Millicent",
    :image "",
    :description ""}
   {:name "Millmerran Museum",
@@ -6227,14 +6227,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/burra-miners-dugouts/",
-   :locality "Burra",
+   :location "Burra",
    :image "",
    :description ""}
   {:name "Mingara Gallery",
    :longitude 145.2385409,
    :latitude -38.463389,
    :source :openstreetmap,
-   :locality "Cowes",
+   :location "Cowes",
    :image "",
    :description ""}
   {:name "Mingkiri Gallery",
@@ -6262,7 +6262,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/minlaton-museum/",
-   :locality "Minlaton",
+   :location "Minlaton",
    :image "",
    :description ""}
   {:name "Minto Carriage Museum",
@@ -6276,7 +6276,7 @@
    :latitude -17.8718755,
    :source :openstreetmap,
    :homepage "https://www.missionarts.org.au/",
-   :locality "Mission Beach",
+   :location "Mission Beach",
    :image "",
    :description ""}
   {:name "Mist Gallery - Art Gallery & Studio",
@@ -6297,7 +6297,7 @@
    :latitude -35.4401191,
    :source :openstreetmap,
    :homepage "https://www.carmodels.com.au/",
-   :locality "Braidwood",
+   :location "Braidwood",
    :image "",
    :description ""}
   {:name "Model Train Club and Railway Museum",
@@ -6341,7 +6341,7 @@
    :latitude -37.8771439,
    :source :openstreetmap,
    :homepage "https://www.monash.edu/muma",
-   :locality "Caulfield East",
+   :location "Caulfield East",
    :image "",
    :description ""}
   {:name "Mont De Lancey Museum",
@@ -6381,7 +6381,7 @@
    :latitude -42.848254,
    :source :openstreetmap,
    :homepage "https://www.moonahartscentre.org.au/",
-   :locality "Moonah",
+   :location "Moonah",
    :image "",
    :description ""}
   {:name "Moonbi Museum",
@@ -6394,7 +6394,7 @@
    :longitude 144.9242836,
    :latitude -37.7672748,
    :source :openstreetmap,
-   :locality "Moonee Ponds",
+   :location "Moonee Ponds",
    :image "",
    :description ""}
   {:name "Moonta Miner's Cottage and Heritage Garden-National Trust",
@@ -6411,7 +6411,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/moonta-mines-model-school-museum/",
-   :locality "Moonta Mines",
+   :location "Moonta Mines",
    :image "",
    :description ""}
   {:name "Moonta Railway Station-National Trust",
@@ -6420,7 +6420,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/moonta-railway-station/",
-   :locality "Moonta",
+   :location "Moonta",
    :image "",
    :description ""}
   {:name "Moonta School Of Mines-National Trust",
@@ -6429,7 +6429,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/moonta-school-of-mines/",
-   :locality "Moonta",
+   :location "Moonta",
    :image "",
    :description ""}
   {:name "Moonta Wheal Hughes Copper Mine",
@@ -6443,7 +6443,7 @@
    :latitude -31.955324,
    :source :openstreetmap,
    :homepage "https://moorecontemporary.com",
-   :locality "Perth",
+   :location "Perth",
    :image "",
    :description ""}
   {:name "Moores Building Art Space",
@@ -6496,7 +6496,7 @@
    :source :openstreetmap,
    :homepage
    "https://magsq.com.au/museum-gallery/morven-historical-museum/",
-   :locality "Morven",
+   :location "Morven",
    :image "",
    :description ""}
   {:name "Mosman Art Gallery & Community Centre",
@@ -6517,7 +6517,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/mount-gambier-courthouse-museum/",
-   :locality "Mount Gambier",
+   :location "Mount Gambier",
    :image "",
    :description ""}
   {:name "Mount Gambier RSL War Museum",
@@ -6531,7 +6531,7 @@
    :longitude 137.5338839,
    :latitude -33.0296156,
    :source :openstreetmap,
-   :locality "Whyalla Norrie",
+   :location "Whyalla Norrie",
    :image "",
    :description ""}
   {:name "Mount Morgan Historical Museum",
@@ -6558,7 +6558,7 @@
    :latitude -32.5899469,
    :source :openstreetmap,
    :homepage "https://www.mudgeeartsprecinct.com.au/",
-   :locality "Mudgee",
+   :location "Mudgee",
    :image "",
    :description ""}
   {:name "Mudgee Museum & Historical Society",
@@ -6596,7 +6596,7 @@
    :longitude 152.8919245,
    :latitude -26.7760431,
    :source :openstreetmap,
-   :locality "Maleny",
+   :location "Maleny",
    :image "",
    :description ""}
   {:name "Murama Healing Space",
@@ -6615,7 +6615,7 @@
    :longitude 146.916706,
    :latitude -36.0805179,
    :source :openstreetmap,
-   :locality "Albury",
+   :location "Albury",
    :image "",
    :description ""}
   {:name "Murrurundi Museum",
@@ -6628,7 +6628,7 @@
    :longitude 142.4711939,
    :latitude -36.6151659,
    :source :openstreetmap,
-   :locality "Murtoa",
+   :location "Murtoa",
    :image "",
    :description ""}
   {:name "Museo Italiano",
@@ -6691,7 +6691,7 @@
    :latitude -33.7474461,
    :source :openstreetmap,
    :homepage "http://www.museumoffire.com.au/",
-   :locality "Penrith",
+   :location "Penrith",
    :image "",
    :description ""}
   {:name "Museum of Lands, Mapping and Surveying",
@@ -6713,7 +6713,7 @@
    :latitude -42.8126862,
    :source :openstreetmap,
    :homepage "https://www.mona.net.au/",
-   :locality "Berriedale",
+   :location "Berriedale",
    :image "",
    :description ""}
   {:name "Museum of Perth",
@@ -6778,7 +6778,7 @@
    :latitude -33.7246968,
    :source :openstreetmap,
    :homepage "https://www.maas.museum/museums-discovery-centre",
-   :locality "Castle Hill",
+   :location "Castle Hill",
    :image "",
    :description ""}
   {:name "Muswellbrook Regional Arts Centre",
@@ -6866,7 +6866,7 @@
    :longitude 149.7761309,
    :latitude -30.3296116,
    :source :openstreetmap,
-   :locality "Narrabri",
+   :location "Narrabri",
    :image "",
    :description ""}
   {:name "Narrabri Old Gaol",
@@ -6987,7 +6987,7 @@
    :latitude -38.520604,
    :source :openstreetmap,
    :homepage "https://vietnamvetsmuseum.org",
-   :locality "Newhaven",
+   :location "Newhaven",
    :image "",
    :description ""}
   {:name "National Wool Museum",
@@ -7013,7 +7013,7 @@
    :latitude -37.8041235,
    :source :openstreetmap,
    :homepage "https://www.neospace.com.au/",
-   :locality "Collingwood",
+   :location "Collingwood",
    :image "",
    :description ""}
   {:name "Nepean Naval Museum",
@@ -7032,7 +7032,7 @@
    :longitude 149.4454053,
    :latitude -35.5921103,
    :source :openstreetmap,
-   :locality "Captains Flat",
+   :location "Captains Flat",
    :image "",
    :description ""}
   {:name "New Italy Museum",
@@ -7073,7 +7073,7 @@
    :latitude -32.9261652,
    :source :openstreetmap,
    :homepage "https://www.newcastlemuseum.com.au",
-   :locality "Newcastle",
+   :location "Newcastle",
    :image "",
    :description ""}
   {:name "Newcastle Police Station Museum",
@@ -7099,7 +7099,7 @@
    :latitude -37.8557493,
    :source :openstreetmap,
    :homepage "https://www.railwaymuseum.org.au",
-   :locality "Newport",
+   :location "Newport",
    :image "",
    :description ""}
   {:name "Newsagency Gallery",
@@ -7120,7 +7120,7 @@
    :latitude -37.6709196,
    :source :openstreetmap,
    :homepage "https://www.nillumbikhistory.org.au/",
-   :locality "Diamond Creek",
+   :location "Diamond Creek",
    :image "",
    :description ""}
   {:name "Nishi Gallery",
@@ -7142,7 +7142,7 @@
    :latitude -26.3633925,
    :source :openstreetmap,
    :homepage "http://www.noosamuseum.org.au",
-   :locality "Pomona",
+   :location "Pomona",
    :image "",
    :description ""}
   {:name "Norman Lindsay Gallery",
@@ -7186,7 +7186,7 @@
    :longitude 153.0435842,
    :latitude -28.8699806,
    :source :openstreetmap,
-   :locality "Casino",
+   :location "Casino",
    :image "",
    :description ""}
   {:name "Norwood Gallery",
@@ -7206,7 +7206,7 @@
    :latitude -34.2076388,
    :source :openstreetmap,
    :homepage "https://www.nswrailmuseum.com.au/",
-   :locality "Thirlmere",
+   :location "Thirlmere",
    :image "",
    :description ""}
   {:name "NSW Schoolhouse Museum",
@@ -7225,14 +7225,14 @@
    :longitude 149.9709611,
    :latitude -32.7966448,
    :source :openstreetmap,
-   :locality "Rylstone",
+   :location "Rylstone",
    :image "",
    :description ""}
   {:name "Numinbah Valley School of the Arts Hall",
    :longitude 153.223753,
    :latitude -28.1381881,
    :source :openstreetmap,
-   :locality "Numinbah Valley",
+   :location "Numinbah Valley",
    :image "",
    :description ""}
   {:name "Nundle Court House Museum",
@@ -7282,7 +7282,7 @@
    :longitude 147.3777259,
    :latitude -42.2980374,
    :source :openstreetmap,
-   :locality "Oatlands",
+   :location "Oatlands",
    :image "",
    :description ""}
   {:name "Oberon RSL Subbranch And Museum",
@@ -7321,7 +7321,7 @@
    :longitude 148.633421,
    :latitude -34.6700813,
    :source :openstreetmap,
-   :locality "Binalong",
+   :location "Binalong",
    :image "",
    :description ""}
   {:name "Old Borroloola Police Station Museum",
@@ -7335,7 +7335,7 @@
    :latitude -38.1609436,
    :source :openstreetmap,
    :homepage "http://www.browncoalminemuseum.websyte.com.au/",
-   :locality "Yallourn North",
+   :location "Yallourn North",
    :image "",
    :description ""}
   {:name "Old Butcher Shop Pottery",
@@ -7389,7 +7389,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/tea-tree-gully-heritage-museum/",
-   :locality "Tea Tree Gully",
+   :location "Tea Tree Gully",
    :image "",
    :description ""}
   {:name "Old Isisford District Hospital Museum",
@@ -7429,7 +7429,7 @@
    :longitude 150.0831016,
    :latitude -35.1204755,
    :source :openstreetmap,
-   :locality "Nerriga",
+   :location "Nerriga",
    :image "",
    :description ""}
   {:name "Old Steam Sawmill",
@@ -7454,7 +7454,7 @@
    :longitude 147.0608301,
    :latitude -38.1069059,
    :source :openstreetmap,
-   :locality "Sale",
+   :location "Sale",
    :image "",
    :description ""}
   {:name "Old Treasury Building Museum",
@@ -7462,14 +7462,14 @@
    :latitude -37.8131993,
    :source :openstreetmap,
    :homepage "https://www.oldtreasurybuilding.org.au/",
-   :locality "East Melbourne",
+   :location "East Melbourne",
    :image "",
    :description ""}
   {:name "Old Wentworth Gaol",
    :longitude 141.9135629,
    :latitude -34.102682,
    :source :openstreetmap,
-   :locality "Wentworth",
+   :location "Wentworth",
    :image "",
    :description ""}
   {:name "Old Wirrega Council Chambers",
@@ -7489,7 +7489,7 @@
    :latitude -34.1808822,
    :source :openstreetmap,
    :homepage "https://www.nationaltrust.org.au/places/olivewood/",
-   :locality "Renmark",
+   :location "Renmark",
    :image "",
    :description ""}
   {:name "Olsen",
@@ -7503,7 +7503,7 @@
    :longitude 153.4248561,
    :latitude -28.0119527,
    :source :openstreetmap,
-   :locality "Surfers Paradise",
+   :location "Surfers Paradise",
    :image "",
    :description ""}
   {:name "One88",
@@ -7556,7 +7556,7 @@
    :latitude -34.4034661,
    :source :openstreetmap,
    :homepage "https://www.orchardstreetgallery.com.au/",
-   :locality "Taralga",
+   :location "Taralga",
    :image "",
    :description ""}
   {:name "Ossies Opal Workshop and Museum",
@@ -7569,7 +7569,7 @@
    :longitude 146.740737,
    :latitude -42.3476247,
    :source :openstreetmap,
-   :locality "Osterley",
+   :location "Osterley",
    :image "",
    :description ""}
   {:name "Outback Exploratorium Science Museum",
@@ -7577,7 +7577,7 @@
    :latitude -23.5193487,
    :source :openstreetmap,
    :homepage "https://outbackxp.com.au/",
-   :locality "Emerald",
+   :location "Emerald",
    :image "",
    :description ""}
   {:name "Oxley Museum",
@@ -7609,7 +7609,7 @@
    :longitude 145.3585017,
    :latitude -38.025673,
    :source :openstreetmap,
-   :locality "Berwick",
+   :location "Berwick",
    :image "",
    :description ""}
   {:name "Parkside Museum",
@@ -7663,14 +7663,14 @@
    :latitude -37.7595423,
    :source :openstreetmap,
    :homepage "https://www.temporubato.com.au/",
-   :locality "Brunswick",
+   :location "Brunswick",
    :image "",
    :description ""}
   {:name "Peacock Gallery and Arts Studio",
    :longitude 151.0172136,
    :latitude -33.8598192,
    :source :openstreetmap,
-   :locality "Auburn",
+   :location "Auburn",
    :image "",
    :description ""}
   {:name "Pemberton Fine Woodcraft Gallery",
@@ -7678,7 +7678,7 @@
    :latitude -34.4512715,
    :source :openstreetmap,
    :homepage "http://pembertonfwg.com.au/",
-   :locality "Pemberton",
+   :location "Pemberton",
    :image "",
    :description ""}
   {:name "Peninsula House & Tebbutt's Observatory 1879 & 1894",
@@ -7693,7 +7693,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/penneshaw-maritime-and-folk-museum/",
-   :locality "Penneshaw",
+   :location "Penneshaw",
    :image "",
    :description ""}
   {:name "Penong Windmill Museum",
@@ -7782,7 +7782,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.moretonbay.qld.gov.au/Galleries-Museums/Locations/Pine-Rivers-Gallery",
-   :locality "Strathpine",
+   :location "Strathpine",
    :image "",
    :description ""}
   {:name "Pine Rivers Heritage Museum",
@@ -7802,7 +7802,7 @@
    :latitude -34.4228862,
    :source :openstreetmap,
    :homepage "https://www.pinotandpicasso.com.au/wollongong/",
-   :locality "Wollongong",
+   :location "Wollongong",
    :image "",
    :description ""}
   {:name "Pinot & Piccasso",
@@ -7810,7 +7810,7 @@
    :latitude -33.7277793,
    :source :openstreetmap,
    :homepage "https://www.pinotandpicasso.com.au/turramurra/",
-   :locality "Turramurra",
+   :location "Turramurra",
    :image "",
    :description ""}
   {:name "Pinot and Picasso",
@@ -7841,7 +7841,7 @@
    :longitude 151.2449198,
    :latitude -27.1762326,
    :source :openstreetmap,
-   :locality "Dalby",
+   :location "Dalby",
    :image "",
    :description ""}
   {:name "Pioneer Park Museum",
@@ -7879,7 +7879,7 @@
    :longitude 145.0684968,
    :latitude -37.6437251,
    :source :openstreetmap,
-   :locality "South Morang",
+   :location "South Morang",
    :image "",
    :description ""}
   {:name "Police Station Museum",
@@ -7921,7 +7921,7 @@
    :latitude -35.5327304,
    :source :openstreetmap,
    :homepage "https://www.strandgallery.com.au/",
-   :locality "Port Elliot",
+   :location "Port Elliot",
    :image "",
    :description ""}
   {:name "Port Lincoln Railway Museum",
@@ -7949,7 +7949,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/port-pirie-railway-station/",
-   :locality "Port Pirie",
+   :location "Port Pirie",
    :image "",
    :description ""}
   {:name "Port Victoria Maritime Museum",
@@ -8062,7 +8062,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.loddon.vic.gov.au/For-residents/Community-support/Community-Directory/Pyramid-Hill-Historical-Society",
-   :locality "Pyramid Hill",
+   :location "Pyramid Hill",
    :image "",
    :description ""}
   {:name "Pyramid Rock Gallery",
@@ -8076,7 +8076,7 @@
    :longitude 149.1451342,
    :latitude -35.2618821,
    :source :openstreetmap,
-   :locality "Ainslie",
+   :location "Ainslie",
    :image "",
    :description ""}
   {:name "Qantas Founders Museum",
@@ -8108,7 +8108,7 @@
    :longitude 143.5204126,
    :latitude -35.8499536,
    :source :openstreetmap,
-   :locality "Quambatook",
+   :location "Quambatook",
    :image "",
    :description ""}
   {:name "Quandamooka Art Gallery",
@@ -8141,7 +8141,7 @@
    :longitude 144.6671881,
    :latitude -38.2648195,
    :source :openstreetmap,
-   :locality "Queenscliff",
+   :location "Queenscliff",
    :image "",
    :description ""}
   {:name "Queensland Air Museum",
@@ -8178,28 +8178,28 @@
    :source :openstreetmap,
    :homepage
    "https://www.luvyalockyer.com.au/queensland-transport-museum",
-   :locality "Gatton",
+   :location "Gatton",
    :image "",
    :description ""}
   {:name "Queenstown Galley Museum",
    :longitude 145.5566431,
    :latitude -42.0783749,
    :source :openstreetmap,
-   :locality "Queenstown",
+   :location "Queenstown",
    :image "",
    :description ""}
   {:name "Quilpie Outback Powerhouse Museum",
    :longitude 144.2710468,
    :latitude -26.618354,
    :source :openstreetmap,
-   :locality "Quilpie",
+   :location "Quilpie",
    :image "",
    :description ""}
   {:name "Quilpie Shire Military History Museum",
    :longitude 144.2676606,
    :latitude -26.6135111,
    :source :openstreetmap,
-   :locality "Quilpie",
+   :location "Quilpie",
    :image "",
    :description ""}
   {:name "Quinkan and Regional Culture Centre",
@@ -8258,7 +8258,7 @@
    :source :openstreetmap,
    :homepage
    "https://raafbasewagga.com.au/raaf-base-wagga-heritage-centre/",
-   :locality "Forest Hill",
+   :location "Forest Hill",
    :image "",
    :description ""}
   {:name "Raglan Gallery & Cultural Centre",
@@ -8283,7 +8283,7 @@
    :longitude 115.9387861,
    :latitude -31.9096384,
    :source :openstreetmap,
-   :locality "Bassendean",
+   :location "Bassendean",
    :image "",
    :description ""}
   {:name "Railway Station Art and Crafts Gallery",
@@ -8334,7 +8334,7 @@
    :latitude -37.7853764,
    :source :openstreetmap,
    :homepage "https://www.redgallery.com.au/",
-   :locality "Fitzroy North",
+   :location "Fitzroy North",
    :image "",
    :description ""}
   {:name "Redcliffe Art Society",
@@ -8367,7 +8367,7 @@
    :latitude -27.5341254,
    :source :openstreetmap,
    :homepage "https://www.redlandmuseum.org.au/",
-   :locality "Cleveland",
+   :location "Cleveland",
    :image "",
    :description ""}
   {:name "Redruth Gaol",
@@ -8375,7 +8375,7 @@
    :latitude -33.6644944,
    :source :openstreetmap,
    :homepage "https://www.nationaltrust.org.au/places/redruth-gaol/",
-   :locality "Burra",
+   :location "Burra",
    :image "",
    :description ""}
   {:name "Renmark Paringa Community Museum",
@@ -8440,7 +8440,7 @@
    :latitude -32.8569605,
    :source :openstreetmap,
    :homepage "https://www.richmondvalerailwaymuseum.org/",
-   :locality "Richmond Vale",
+   :location "Richmond Vale",
    :image "",
    :description ""}
   {:name "Richmond Villa Heritage Centre",
@@ -8453,7 +8453,7 @@
    :longitude 146.0816927,
    :latitude -38.6941138,
    :source :openstreetmap,
-   :locality "Fish Creek",
+   :location "Fish Creek",
    :image "",
    :description ""}
   {:name "Ridgey Plains",
@@ -8492,7 +8492,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.rmit.edu.au/about/schools-colleges/college-of-design-and-social-context/engagement/cultural-engagement/galleries/first-site-gallery-eoi",
-   :locality "Melbourne",
+   :location "Melbourne",
    :image "",
    :description ""}
   {:name "Robe Customs House - National Trust",
@@ -8501,7 +8501,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/robe-customs-house/",
-   :locality "Robe",
+   :location "Robe",
    :image "",
    :description ""}
   {:name "Robert Stein Motorcycle Museum",
@@ -8521,14 +8521,14 @@
    :longitude 150.5898061,
    :latitude -34.5885511,
    :source :openstreetmap,
-   :locality "Robertson",
+   :location "Robertson",
    :image "",
    :description ""}
   {:name "Robyn Bauer Art Gallery",
    :longitude 153.0005076,
    :latitude -27.4589069,
    :source :openstreetmap,
-   :locality "Brisbane",
+   :location "Brisbane",
    :image "",
    :description ""}
   {:name "Rockhampton Art Gallery",
@@ -8617,7 +8617,7 @@
    :longitude 147.366536,
    :latitude -42.8669303,
    :source :openstreetmap,
-   :locality "Rosny Park",
+   :location "Rosny Park",
    :image "",
    :description ""}
   {:name "Ross Female Factory",
@@ -8705,14 +8705,14 @@
    :longitude 145.0162864,
    :latitude -36.5868737,
    :source :openstreetmap,
-   :locality "Rushworth",
+   :location "Rushworth",
    :image "",
    :description ""}
   {:name "Russ Cottage",
    :longitude 114.9348358,
    :latitude -29.254771,
    :source :openstreetmap,
-   :locality "Port Denison",
+   :location "Port Denison",
    :image "",
    :description ""}
   {:name "Russell Island Museum",
@@ -8777,7 +8777,7 @@
    :latitude -38.3450005,
    :source :openstreetmap,
    :homepage "https://saltandpeppergallery.com.au/",
-   :locality "Bellbrae",
+   :location "Bellbrae",
    :image "",
    :description ""}
   {:name "Salt of the Earth Gallery",
@@ -8790,7 +8790,7 @@
    :longitude 152.8854131,
    :latitude -27.368952,
    :source :openstreetmap,
-   :locality "Samford Village",
+   :location "Samford Village",
    :image "",
    :description ""}
   {:name "Sandalford Winery",
@@ -8798,14 +8798,14 @@
    :latitude -31.8687006,
    :source :openstreetmap,
    :homepage "https://www.sandalford.com/",
-   :locality "Caversham",
+   :location "Caversham",
    :image "",
    :description ""}
   {:name "Sandgate Museam",
    :longitude 153.0721658,
    :latitude -27.3217041,
    :source :openstreetmap,
-   :locality "Brisbane",
+   :location "Brisbane",
    :image "",
    :description ""}
   {:name "Sandstone Gold & Wool Interpretive Park",
@@ -8891,21 +8891,21 @@
    :longitude 142.4877003,
    :latitude -38.3870671,
    :source :openstreetmap,
-   :locality "Warrnambool",
+   :location "Warrnambool",
    :image "",
    :description ""}
   {:name "Scott Livesy",
    :longitude 145.018435,
    :latitude -37.855087,
    :source :openstreetmap,
-   :locality "Armadale",
+   :location "Armadale",
    :image "",
    :description ""}
   {:name "Scottsdale Military Museum",
    :longitude 147.5167929,
    :latitude -41.1573607,
    :source :openstreetmap,
-   :locality "Scottsdale",
+   :location "Scottsdale",
    :image "",
    :description ""}
   {:name "Scout Heritage Centre (Wheelhouse)",
@@ -8986,7 +8986,7 @@
    :longitude 117.6262641,
    :latitude -35.0683774,
    :source :openstreetmap,
-   :locality "Kronkup",
+   :location "Kronkup",
    :image "",
    :description ""}
   {:name "Shellharbour City Museum",
@@ -9055,7 +9055,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bne.com.au/passenger/shop-dine-explore/explore/kingsford-smith-memorial",
-   :locality "Brisbane Airport",
+   :location "Brisbane Airport",
    :image "",
    :description ""}
   {:name "Sir Hubert Wilkins Homestead",
@@ -9076,7 +9076,7 @@
    :latitude -34.9484638,
    :source :openstreetmap,
    :homepage "http://www.etsapastemployees.org.au/Museum.html",
-   :locality "Kurralta Park",
+   :location "Kurralta Park",
    :image "",
    :description ""}
   {:name "Sister Kenny House",
@@ -9208,7 +9208,7 @@
    :latitude -42.5103715,
    :source :openstreetmap,
    :homepage "https://sbmdc.org.au/",
-   :locality "Triabunna",
+   :location "Triabunna",
    :image "",
    :description ""}
   {:name "Springwood Community Arts Centre",
@@ -9252,7 +9252,7 @@
    :longitude 144.9815178,
    :latitude -37.8352062,
    :source :openstreetmap,
-   :locality "South Yarra",
+   :location "South Yarra",
    :image "",
    :description ""}
   {:name "St Marys Arts & Crafts Centre",
@@ -9330,7 +9330,7 @@
    :latitude -33.3267163,
    :source :openstreetmap,
    :homepage "https://stirlingstreetarts.com.au/",
-   :locality "Bunbury",
+   :location "Bunbury",
    :image "",
    :description ""}
   {:name
@@ -9340,7 +9340,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/strathalbyn-police-station-and-courthouse-museum/",
-   :locality "Strathalbyn",
+   :location "Strathalbyn",
    :image "",
    :description ""}
   {:name "Strathnairn Gallery",
@@ -9369,7 +9369,7 @@
    :longitude 151.7202086,
    :latitude -32.9308447,
    :source :openstreetmap,
-   :locality "New Lambton",
+   :location "New Lambton",
    :image "",
    :description ""}
   {:name "Studio Artistique",
@@ -9425,7 +9425,7 @@
    :latitude -37.7997624,
    :source :openstreetmap,
    :homepage "https://www.dainesinger.com/",
-   :locality "Fitzroy",
+   :location "Fitzroy",
    :image "",
    :description ""}
   {:name "Swan Hill Regional Art Gallery",
@@ -9446,7 +9446,7 @@
    :latitude -33.8761398,
    :source :openstreetmap,
    :homepage "https://www.sydneybusmuseum.com/",
-   :locality "Leichhardt",
+   :location "Leichhardt",
    :image "",
    :description ""}
   {:name "Sydney Jewish Museum",
@@ -9461,14 +9461,14 @@
    :latitude -33.857117,
    :source :openstreetmap,
    :homepage "https://www.sydneyoperahouse.com/",
-   :locality "Sydney",
+   :location "Sydney",
    :image "",
    :description ""}
   {:name "Synagogue Of The Outback Museum",
    :longitude 141.4594285,
    :latitude -31.9568091,
    :source :openstreetmap,
-   :locality "Broken Hill",
+   :location "Broken Hill",
    :image "",
    :description ""}
   {:name "Tacit Galleries Collingwood",
@@ -9476,7 +9476,7 @@
    :latitude -37.7999213,
    :source :openstreetmap,
    :homepage "https://www.tacitart.com.au/",
-   :locality "Collingwood",
+   :location "Collingwood",
    :image "",
    :description ""}
   {:name "Tallangatta Art & Photography",
@@ -9533,7 +9533,7 @@
    :latitude -42.8819917,
    :source :openstreetmap,
    :homepage "https://www.tmag.tas.gov.au/",
-   :locality "Hobart",
+   :location "Hobart",
    :image "",
    :description ""}
   {:name "Tasmanian Transport Museum",
@@ -9561,7 +9561,7 @@
    :latitude -27.4268338,
    :source :openstreetmap,
    :homepage "https://www.telemuseum.org",
-   :locality "Brisbane",
+   :location "Brisbane",
    :image "",
    :description ""}
   {:name "Temora Rural Museum",
@@ -9599,7 +9599,7 @@
    :latitude -29.4398001,
    :source :openstreetmap,
    :homepage "https://themakersshed.org/",
-   :locality "Deepwater",
+   :location "Deepwater",
    :image "",
    :description ""}
   {:name "The A Frame",
@@ -9634,14 +9634,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.huonvalley.tas.gov.au/service/the-artisans-hand/",
-   :locality "Cygnet",
+   :location "Cygnet",
    :image "",
    :description ""}
   {:name "The Artist Cafe and Gallery",
    :longitude 152.9723084,
    :latitude -27.412701,
    :source :openstreetmap,
-   :locality "Mitchelton",
+   :location "Mitchelton",
    :image "",
    :description ""}
   {:name "The Artists Hut",
@@ -9668,7 +9668,7 @@
    :latitude -37.8352221,
    :source :openstreetmap,
    :homepage "https://www.agra.org.au/",
-   :locality "Camberwell",
+   :location "Camberwell",
    :image "",
    :description ""}
   {:name "The Australian Sports Museum",
@@ -9797,7 +9797,7 @@
    :latitude -36.7422542,
    :source :openstreetmap,
    :homepage "https://www.goatgallery.com.au/",
-   :locality "Natimuk",
+   :location "Natimuk",
    :image "",
    :description ""}
   {:name "The Goods Shed",
@@ -9812,7 +9812,7 @@
    :latitude -29.4273711,
    :source :openstreetmap,
    :homepage "https://aumuseums.com/nsw/goondee-keeping-place",
-   :locality "Lightning Ridge",
+   :location "Lightning Ridge",
    :image "",
    :description ""}
   {:name "The Groove Shack",
@@ -9826,7 +9826,7 @@
    :latitude -37.8422954,
    :source :openstreetmap,
    :homepage "https://thesubstation.org.au",
-   :locality "Newport",
+   :location "Newport",
    :image "",
    :description ""}
   {:name "The Headland Historical Museum",
@@ -9841,7 +9841,7 @@
    :source :openstreetmap,
    :homepage
    "https://henryformanatkinsondentalmuseum.mdhs.unimelb.edu.au/home",
-   :locality "Carlton",
+   :location "Carlton",
    :image "",
    :description ""}
   {:name "The Hitchen House Military Museum",
@@ -9874,7 +9874,7 @@
    :latitude -42.8871106,
    :source :openstreetmap,
    :homepage "https://www.kudelkashop.com/",
-   :locality "Battery Point",
+   :location "Battery Point",
    :image "",
    :description ""}
   {:name "The Laneway Artspace",
@@ -9906,7 +9906,7 @@
    :latitude -31.6067228,
    :source :openstreetmap,
    :homepage "http://www.zygybarratt.com.au/",
-   :locality "Comboyne",
+   :location "Comboyne",
    :image "",
    :description ""}
   {:name "The Old Court House",
@@ -9933,7 +9933,7 @@
    :longitude 151.1099864,
    :latitude -26.7816298,
    :source :openstreetmap,
-   :locality "Jandowae",
+   :location "Jandowae",
    :image "",
    :description ""}
   {:name "The Old Post Office",
@@ -9952,7 +9952,7 @@
    :longitude 146.7290037,
    :latitude -36.5623963,
    :source :openstreetmap,
-   :locality "Myrtleford",
+   :location "Myrtleford",
    :image "",
    :description ""}
   {:name "The Orangery Gallery",
@@ -9972,7 +9972,7 @@
    :longitude 147.7367984,
    :latitude -43.106941,
    :source :openstreetmap,
-   :locality "White Beach",
+   :location "White Beach",
    :image "",
    :description ""}
   {:name "The Pilots Cottage Museum",
@@ -10058,7 +10058,7 @@
    :longitude 148.581298,
    :latitude -28.0365072,
    :source :openstreetmap,
-   :locality "St George",
+   :location "St George",
    :image "",
    :description ""}
   {:name "The Up-to-Date Store Museum",
@@ -10097,7 +10097,7 @@
    :latitude -43.0854095,
    :source :openstreetmap,
    :homepage "https://www.woodenboatcentre.com/",
-   :locality "Franklin",
+   :location "Franklin",
    :image "",
    :description ""}
   {:name "Thirroul Gallery",
@@ -10111,14 +10111,14 @@
    :latitude -36.5042987,
    :source :openstreetmap,
    :homepage "https://www.thredboalpinemuseum.org.au/",
-   :locality "Thredbo",
+   :location "Thredbo",
    :image "",
    :description ""}
   {:name "Tibooburra Local Aboriginal Land Council",
    :longitude 142.010081,
    :latitude -29.4352524,
    :source :openstreetmap,
-   :locality "Tibooburra",
+   :location "Tibooburra",
    :image "",
    :description ""}
   {:name "Timber museum",
@@ -10180,7 +10180,7 @@
    :latitude -35.811954,
    :source :openstreetmap,
    :homepage "https://www.tocumwalaviationmuseum.com.au/",
-   :locality "Tocumwal",
+   :location "Tocumwal",
    :image "",
    :description ""}
   {:name "Tomago House",
@@ -10206,7 +10206,7 @@
    :latitude -27.5583757,
    :source :openstreetmap,
    :homepage "https://toowoombaartsociety.com.au/",
-   :locality "East Toowoomba",
+   :location "East Toowoomba",
    :image "",
    :description ""}
   {:name "Toowoomba Philharmonic Society",
@@ -10214,7 +10214,7 @@
    :latitude -27.5878075,
    :source :openstreetmap,
    :homepage "https://tphilo.com.au",
-   :locality "Harristown",
+   :location "Harristown",
    :image "",
    :description ""}
   {:name "Toowoomba Regional Art Gallery",
@@ -10267,7 +10267,7 @@
    :latitude -37.352181,
    :source :openstreetmap,
    :homepage "www.tramway.org.au",
-   :locality "Bylands",
+   :location "Bylands",
    :image "",
    :description ""}
   {:name "Treasure Gallery",
@@ -10288,7 +10288,7 @@
    :longitude 153.0701849,
    :latitude -30.8773283,
    :source :openstreetmap,
-   :locality "Arakoon",
+   :location "Arakoon",
    :image "",
    :description ""}
   {:name "Tributary Projects",
@@ -10296,7 +10296,7 @@
    :latitude -35.2779321,
    :source :openstreetmap,
    :homepage "https://www.tributaryprojects.xyz/",
-   :locality "Braddon",
+   :location "Braddon",
    :image "",
    :description ""}
   {:name "Tuggeranong Schoolhouse Museum",
@@ -10347,7 +10347,7 @@
    :longitude 145.0569558,
    :latitude -37.8281134,
    :source :openstreetmap,
-   :locality "Camberwell",
+   :location "Camberwell",
    :image "",
    :description ""}
   {:name "Tweed Regional Gallery & Margaret Olley Art Centre",
@@ -10362,7 +10362,7 @@
    :latitude -28.1897272,
    :source :openstreetmap,
    :homepage "https://museum.tweed.nsw.gov.au/VisitUs/Tweed#t",
-   :locality "Tweed Heads West",
+   :location "Tweed Heads West",
    :image "",
    :description ""}
   {:name "Tweed River Historical Museum",
@@ -10376,7 +10376,7 @@
    :latitude -37.9434148,
    :source :openstreetmap,
    :homepage "https://www.twistedscience.com.au/visit/melbourne/",
-   :locality "Moorabbin",
+   :location "Moorabbin",
    :image "",
    :description ""}
   {:name "Two Eight Two Eight Gallery Cafe",
@@ -10471,14 +10471,14 @@
    :longitude 144.3446852,
    :latitude -38.1729247,
    :source :openstreetmap,
-   :locality "Belmont",
+   :location "Belmont",
    :image "",
    :description ""}
   {:name "Vic Street Gallery",
    :longitude 144.9470915,
    :latitude -37.7650799,
    :source :openstreetmap,
-   :locality "Brunswick West",
+   :location "Brunswick West",
    :image "",
    :description ""}
   {:name "Vickers Vimy Exhibition",
@@ -10531,7 +10531,7 @@
    :latitude -33.7916533,
    :source :openstreetmap,
    :homepage "https://vqartstudio.com",
-   :locality "Eastwood",
+   :location "Eastwood",
    :image "",
    :description ""}
   {:name "Waddamana Power Station Museum",
@@ -10539,7 +10539,7 @@
    :latitude -42.1245315,
    :source :openstreetmap,
    :homepage "https://www.hydro.com.au/community/waddamana-museum",
-   :locality "Waddamana",
+   :location "Waddamana",
    :image "",
    :description ""}
   {:name "Wadjemup Museum",
@@ -10604,7 +10604,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hornsby.nsw.gov.au/lifestyle/arts-and-culture/wallarobba",
-   :locality "Hornsby",
+   :location "Hornsby",
    :image "",
    :description ""}
   {:name "Wallaroo Heritage and Nautical National Trust Museum",
@@ -10613,7 +10613,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/wallaroo-heritage-and-nautical-museum/",
-   :locality "Wallaroo",
+   :location "Wallaroo",
    :image "",
    :description ""}
   {:name "Wallbridge Gilbert Aztec Gallery",
@@ -10694,7 +10694,7 @@
    :latitude -38.1638535,
    :source :openstreetmap,
    :homepage "https://warragulhistory.org.au/",
-   :locality "Warragul",
+   :location "Warragul",
    :image "",
    :description ""}
   {:name "Warrandyte Historical Society",
@@ -10702,14 +10702,14 @@
    :latitude -37.7386052,
    :source :openstreetmap,
    :homepage "https://www.stonehousegallery.com/",
-   :locality "Warrandyte",
+   :location "Warrandyte",
    :image "",
    :description ""}
   {:name "Warren Museum & Art Gallery",
    :longitude 147.8369541,
    :latitude -31.7007838,
    :source :openstreetmap,
-   :locality "Warren",
+   :location "Warren",
    :image "",
    :description ""}
   {:name "Warrnambool Art Gallery",
@@ -10756,14 +10756,14 @@
    :latitude -33.893068,
    :source :openstreetmap,
    :homepage "https://wwas.org.au/",
-   :locality "Bondi",
+   :location "Bondi",
    :image "",
    :description ""}
   {:name "Wee Waa Community Arts & Cultural Centre",
    :longitude 149.4443045,
    :latitude -30.2243396,
    :source :openstreetmap,
-   :locality "Wee Waa",
+   :location "Wee Waa",
    :image "",
    :description ""}
   {:name "Weindorfer's Chalet",
@@ -10782,7 +10782,7 @@
    :longitude 119.3616914,
    :latitude -34.4350695,
    :source :openstreetmap,
-   :locality "Bremer Bay",
+   :location "Bremer Bay",
    :image "",
    :description ""}
   {:name "West Coast Heritage Centre",
@@ -10790,7 +10790,7 @@
    :latitude -41.8820154,
    :source :openstreetmap,
    :homepage "https://wchczeehan.com.au/",
-   :locality "Zeehan",
+   :location "Zeehan",
    :image "",
    :description ""}
   {:name "Western Australia Museum - Geraldton",
@@ -10798,7 +10798,7 @@
    :latitude -28.7682186,
    :source :openstreetmap,
    :homepage "https://www.museum.wa.gov.au/museums/geraldton",
-   :locality "Geraldton",
+   :location "Geraldton",
    :image "",
    :description ""}
   {:name "Wheatbin Museum Machinery Precinct",
@@ -10909,7 +10909,7 @@
    :longitude 143.2249459,
    :latitude -36.0834974,
    :source :openstreetmap,
-   :locality "Wycheproof",
+   :location "Wycheproof",
    :image "",
    :description ""}
   {:name "Williams Art and Craft Centre",
@@ -10935,7 +10935,7 @@
    :longitude 141.4684545,
    :latitude -31.9567459,
    :source :openstreetmap,
-   :locality "Broken Hill",
+   :location "Broken Hill",
    :image "",
    :description ""}
   {:name "Wimmera-Mallee Pioneer Museum",
@@ -10962,7 +10962,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/winns-bakehouse/",
-   :locality "Coromandel Valley",
+   :location "Coromandel Valley",
    :image "",
    :description ""}
   {:name "Wireless Hill Museum",
@@ -10993,7 +10993,7 @@
    :longitude 151.1408718,
    :latitude -32.9379907,
    :source :openstreetmap,
-   :locality "Wollombi",
+   :location "Wollombi",
    :image "",
    :description ""}
   {:name "Wollondilly Heritage Centre",
@@ -11006,7 +11006,7 @@
    :longitude 150.8975892,
    :latitude -34.4264102,
    :source :openstreetmap,
-   :locality "Wollongong",
+   :location "Wollongong",
    :image "",
    :description ""}
   {:name "Womens Museum",
@@ -11105,7 +11105,7 @@
    :longitude 142.1887966,
    :latitude -34.3072573,
    :source :openstreetmap,
-   :locality "Red Cliffs",
+   :location "Red Cliffs",
    :image "",
    :description ""}
   {:name "WWII Bunker Museum",
@@ -11126,7 +11126,7 @@
    :longitude 144.6578395,
    :latitude -37.9037257,
    :source :openstreetmap,
-   :locality "Werribee",
+   :location "Werribee",
    :image "",
    :description ""}
   {:name "Wyndham Art Works",
@@ -11134,14 +11134,14 @@
    :latitude -37.854158,
    :source :openstreetmap,
    :homepage "https://wyndhamartworks.wordpress.com/",
-   :locality "Laverton North",
+   :location "Laverton North",
    :image "",
    :description ""}
   {:name "Yaama Ganu",
    :longitude 149.8412583,
    :latitude -29.4667882,
    :source :openstreetmap,
-   :locality "Moree",
+   :location "Moree",
    :image "",
    :description ""}
   {:name "Yalgoo Museum",
@@ -11194,7 +11194,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.yarraranges.vic.gov.au/Experience/Yarra-Ranges-Regional-Museum",
-   :locality "Lilydale",
+   :location "Lilydale",
    :image "",
    :description ""}
   {:name "Yarram Historical Society Museum",
@@ -11208,7 +11208,7 @@
    :longitude 151.2775902,
    :latitude -33.2233288,
    :source :openstreetmap,
-   :locality "Yarramalong",
+   :location "Yarramalong",
    :image "",
    :description ""}
   {:name "Yarraman Gallery and Gift Shop",
@@ -11254,7 +11254,7 @@
    :longitude 148.6490366,
    :latitude -32.7515955,
    :source :openstreetmap,
-   :locality "Yeoval",
+   :location "Yeoval",
    :image "",
    :description ""}
   {:name "Yilgarn History Museum",
@@ -11282,7 +11282,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nationaltrust.org.au/places/york-courthouse-complex/",
-   :locality "York",
+   :location "York",
    :image "",
    :description ""}
   {:name "Yugambeh Museum",
@@ -11314,7 +11314,7 @@
    :latitude -27.2263705,
    :source :openstreetmap,
    :homepage "https://www.zokki.com.au/",
-   :locality "Redcliffe",
+   :location "Redcliffe",
    :image "",
    :description ""}],
  :source

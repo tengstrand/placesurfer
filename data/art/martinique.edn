@@ -115,7 +115,7 @@
    :latitude 14.776265,
    :source :openstreetmap,
    :homepage "https://museedelabanane.fr/",
-   :locality "Sainte-Marire",
+   :location "Sainte-Marire",
    :image "",
    :description ""}
   {:name "Musée des Arts et Traditions Populaires",
@@ -129,7 +129,7 @@
    :longitude -61.0687499,
    :latitude 14.6033494,
    :source :openstreetmap,
-   :locality "Fort-de-France",
+   :location "Fort-de-France",
    :image "",
    :description ""}
   {:name "Musée Gauguin",
@@ -154,7 +154,7 @@
    :longitude -60.9808986,
    :latitude 14.526588,
    :source :openstreetmap,
-   :locality "Rivière Salée",
+   :location "Rivière Salée",
    :image "",
    :description ""}],
  :source

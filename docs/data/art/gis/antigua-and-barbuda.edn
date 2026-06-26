@@ -8,7 +8,7 @@
    :longitude -61.8406379,
    :latitude 17.121528,
    :source :openstreetmap,
-   :locality "St. John's"}
+   :location "St. John's"}
   {:name "Betty's Hope Museum",
    :longitude -61.7457651,
    :latitude 17.0816654,

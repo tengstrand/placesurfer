@@ -16,7 +16,7 @@
    :latitude 6.223569797844561,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22034",
-   :locality "Medellín",
+   :location "Medellín",
    :image "",
    :description ""}
   {:name "agua clara",
@@ -31,7 +31,7 @@
    :latitude 3.3457291618367435,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39493",
-   :locality "Cali",
+   :location "Cali",
    :image "",
    :description ""}
   {:name "Agua Oscura - Cali - 9 Cestas / Sultana Tags",
@@ -46,7 +46,7 @@
    :latitude 6.904267317361942,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35546",
-   :locality "Amalfi",
+   :location "Amalfi",
    :image "",
    :description ""}
   {:name "Coliseo del pueblo",
@@ -54,7 +54,7 @@
    :latitude 3.4145825619551857,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38876",
-   :locality "Cali",
+   :location "Cali",
    :image "",
    :description ""}
   {:name "Enka",
@@ -62,7 +62,7 @@
    :latitude 6.380131414837592,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31795",
-   :locality "Girardota",
+   :location "Girardota",
    :image "",
    :description ""}
   {:name "ENKA ALTERNO",
@@ -70,7 +70,7 @@
    :latitude 6.380350454123288,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31881",
-   :locality "Girardota",
+   :location "Girardota",
    :image "",
    :description ""}
   {:name "Enka Disc Golf Course",
@@ -78,7 +78,7 @@
    :latitude 6.380197722495566,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28452",
-   :locality "Girardota",
+   :location "Girardota",
    :image "",
    :description ""}
   {:name "Interligas 15 CESTAS",
@@ -86,7 +86,7 @@
    :latitude 6.226664111646244,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24942",
-   :locality "Medellín",
+   :location "Medellín",
    :image "",
    :description ""}
   {:name "JP2 Norte",
@@ -94,7 +94,7 @@
    :latitude 6.2258929549090425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22610",
-   :locality "Medellín",
+   :location "Medellín",
    :image "",
    :description ""}
   {:name "Juan Pablo 2",
@@ -102,7 +102,7 @@
    :latitude 6.2268910923650225,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27903",
-   :locality "Medellín",
+   :location "Medellín",
    :image "",
    :description ""}
   {:name "Juan Pablo II",
@@ -110,7 +110,7 @@
    :latitude 6.22619055105659,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31798",
-   :locality "Medellín",
+   :location "Medellín",
    :image "",
    :description ""}
   {:name "Natural high",
@@ -118,7 +118,7 @@
    :latitude 3.2617447888737843,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43974",
-   :locality "Valle",
+   :location "Valle",
    :image "",
    :description ""}
   {:name "Parque Agustiniano",
@@ -126,7 +126,7 @@
    :latitude 4.701645556474745,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27677",
-   :locality "Bogotá, D.C.",
+   :location "Bogotá, D.C.",
    :image "",
    :description ""}
   {:name "Parque Modelia",
@@ -134,7 +134,7 @@
    :latitude 4.663519542104396,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27359",
-   :locality "Bogotá, D.C.",
+   :location "Bogotá, D.C.",
    :image "",
    :description ""}
   {:name "Santa Helena",
@@ -142,7 +142,7 @@
    :latitude 4.732298650904696,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26830",
-   :locality "Bogotá, D.C.",
+   :location "Bogotá, D.C.",
    :image "",
    :description ""}
   {:name "Unimagdalena",
@@ -150,7 +150,7 @@
    :latitude 11.225589245141634,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35884",
-   :locality "Santa Marta",
+   :location "Santa Marta",
    :image "",
    :description ""}],
  :source

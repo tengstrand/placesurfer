@@ -9,7 +9,7 @@
    :latitude 50.301083538172264,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41847",
-   :locality "Sainte-Catherine",
+   :location "Sainte-Catherine",
    :image "",
    :description ""}
   {:name "12 trous jarrie printemps été",
@@ -17,7 +17,7 @@
    :latitude 44.83987206548798,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23394",
-   :locality "Jarrie",
+   :location "Jarrie",
    :image "",
    :description ""}
   {:name "12 trous-Manche#2 Ligue de Rennes",
@@ -25,7 +25,7 @@
    :latitude 48.097101067337775,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30830",
-   :locality "Rennes",
+   :location "Rennes",
    :image "",
    :description ""}
   {:name "18 Ballan mire pendant travaux",
@@ -33,7 +33,7 @@
    :latitude 47.347592497869186,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35033",
-   :locality "Ballan-Miré",
+   :location "Ballan-Miré",
    :image "",
    :description ""}
   {:name "8EME MANCHE LIGUE DE PRINTEMPS",
@@ -48,7 +48,7 @@
    :latitude 48.097276199515335,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30614",
-   :locality "Rennes",
+   :location "Rennes",
    :image "",
    :description ""}
   {:name "ALLAN",
@@ -56,7 +56,7 @@
    :latitude 44.50212987206217,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9979",
-   :locality "Allan",
+   :location "Allan",
    :image "",
    :description ""}
   {:name "Amical octobre rose 2025",
@@ -64,7 +64,7 @@
    :latitude 50.46655179749797,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45234",
-   :locality "annay",
+   :location "annay",
    :image "",
    :description ""}
   {:name "Arche 1 - 18",
@@ -72,7 +72,7 @@
    :latitude 47.98355944537989,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5111",
-   :locality "Le Mans",
+   :location "Le Mans",
    :image "",
    :description ""}
   {:name "Arche 1-9 & 19-27",
@@ -80,7 +80,7 @@
    :latitude 47.98772135163253,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14349",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "Arche 10-18 & 19-27",
@@ -88,7 +88,7 @@
    :latitude 47.98397055404263,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40584",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "ARCHE 27",
@@ -96,7 +96,7 @@
    :latitude 47.99134730143177,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15007",
-   :locality "Le Mans",
+   :location "Le Mans",
    :image "",
    :description ""}
   {:name "Arche 36 (summer open 72 2022)",
@@ -104,7 +104,7 @@
    :latitude 47.98394968778334,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28782",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "Arche NT 2019",
@@ -112,7 +112,7 @@
    :latitude 47.98408711678846,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14345",
-   :locality "Le Mans",
+   :location "Le Mans",
    :image "",
    :description ""}
   {:name "Arche retour",
@@ -120,7 +120,7 @@
    :latitude 47.98367454358072,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17275",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "Arche retour 27-19 & 9-1",
@@ -128,7 +128,7 @@
    :latitude 47.98360995076084,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26062",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "Baker",
@@ -136,7 +136,7 @@
    :latitude 44.22009800919744,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29488",
-   :locality "Mimizan",
+   :location "Mimizan",
    :image "",
    :description ""}
   {:name "BALLAN MIRE CHAMPIONNAT CENTRE VAL DE LOIRE",
@@ -144,7 +144,7 @@
    :latitude 47.347682336829536,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30506",
-   :locality "Ballan-Miré",
+   :location "Ballan-Miré",
    :image "",
    :description ""}
   {:name "Base de la Saline - Lure (70)",
@@ -152,7 +152,7 @@
    :latitude 47.66400252012397,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31994",
-   :locality "Lure",
+   :location "Lure",
    :image "",
    :description ""}
   {:name "Base départementale de Bessilles",
@@ -160,7 +160,7 @@
    :latitude 43.47994508779499,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36672",
-   :locality "Montagnac",
+   :location "Montagnac",
    :image "",
    :description ""}
   {:name "BEUVRY",
@@ -168,7 +168,7 @@
    :latitude 50.52028558964187,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32230",
-   :locality "Beuvry",
+   :location "Beuvry",
    :image "",
    :description ""}
   {:name "Bois du Lion Version Mistral",
@@ -183,7 +183,7 @@
    :latitude 44.56002703740708,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40524",
-   :locality "Montélimar",
+   :location "Montélimar",
    :image "",
    :description ""}
   {:name "Bois le Roi - RT2023",
@@ -191,7 +191,7 @@
    :latitude 48.481904989034746,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36222",
-   :locality "Bois-le-Roi",
+   :location "Bois-le-Roi",
    :image "",
    :description ""}
   {:name "Bois Magnier - 18 trous Bleu",
@@ -199,7 +199,7 @@
    :latitude 50.4119621059302,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46341",
-   :locality "Berck-sur-Mer",
+   :location "Berck-sur-Mer",
    :image "",
    :description ""}
   {:name "Bois Magnier - Opale Open",
@@ -207,7 +207,7 @@
    :latitude 50.412127639889185,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10091",
-   :locality "Berck-sur-Mer",
+   :location "Berck-sur-Mer",
    :image "",
    :description ""}
   {:name "Bois Magnier 18 Rouge",
@@ -215,7 +215,7 @@
    :latitude 50.41201545892898,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32478",
-   :locality "Berck",
+   :location "Berck",
    :image "",
    :description ""}
   {:name "Bois Magnier BERCK",
@@ -223,7 +223,7 @@
    :latitude 50.412812458695555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25492",
-   :locality "Berck",
+   :location "Berck",
    :image "",
    :description ""}
   {:name "Bois Magnier Opale Open 2025",
@@ -231,7 +231,7 @@
    :latitude 50.42141313346974,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44425",
-   :locality "Berck",
+   :location "Berck",
    :image "",
    :description ""}
   {:name "Bois-le-Roi",
@@ -239,7 +239,7 @@
    :latitude 48.481064704786434,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45529",
-   :locality "Bois-le-Roi",
+   :location "Bois-le-Roi",
    :image "",
    :description ""}
   {:name "Bombannes Les Pignasses",
@@ -247,7 +247,7 @@
    :latitude 45.106078807747,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44158",
-   :locality "Carcans",
+   :location "Carcans",
    :image "",
    :description ""}
   {:name "Brette les Pins",
@@ -255,7 +255,7 @@
    :latitude 47.91656369841914,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32164",
-   :locality "Brette-les-Pins",
+   :location "Brette-les-Pins",
    :image "",
    :description ""}
   {:name "BRIVE PARC DES PERRIERES 18 COMPETITION 2023",
@@ -263,7 +263,7 @@
    :latitude 45.14986355294141,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31854",
-   :locality "Brive-la-Gaillarde",
+   :location "Brive-la-Gaillarde",
    :image "",
    :description ""}
   {:name "Brulon",
@@ -271,7 +271,7 @@
    :latitude 47.96155546670397,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31959",
-   :locality "Brûlon",
+   :location "Brûlon",
    :image "",
    :description ""}
   {:name "BUDA CVL",
@@ -279,7 +279,7 @@
    :latitude 47.36559648732606,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36413",
-   :locality "Saint-Étienne-de-Chigny",
+   :location "Saint-Étienne-de-Chigny",
    :image "",
    :description ""}
   {:name "Bully Trilogy 2023",
@@ -287,7 +287,7 @@
    :latitude 50.45826104697221,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35259",
-   :locality "Bully-les-Mines",
+   :location "Bully-les-Mines",
    :image "",
    :description ""}
   {:name "Bussy Challenge",
@@ -295,7 +295,7 @@
    :latitude 48.835732949144045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21043",
-   :locality "Bussy-Saint-Georges",
+   :location "Bussy-Saint-Georges",
    :image "",
    :description ""}
   {:name "Bussy Double 9",
@@ -303,7 +303,7 @@
    :latitude 48.83563353222843,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21058",
-   :locality "Bussy-Saint-Georges",
+   :location "Bussy-Saint-Georges",
    :image "",
    :description ""}
   {:name "Bussy Moulin de Russon",
@@ -311,7 +311,7 @@
    :latitude 48.837855518934276,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31507",
-   :locality "Bussy-Saint-Georges",
+   :location "Bussy-Saint-Georges",
    :image "",
    :description ""}
   {:name "BussyRT2025",
@@ -326,7 +326,7 @@
    :latitude 48.294155066963555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23146",
-   :locality "Buthiers",
+   :location "Buthiers",
    :image "",
    :description ""}
   {:name "Campus Universitaire U.Sport",
@@ -334,7 +334,7 @@
    :latitude 47.252078125914295,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17544",
-   :locality "Besançon",
+   :location "Besançon",
    :image "",
    :description ""}
   {:name "Capou",
@@ -342,7 +342,7 @@
    :latitude 44.03243185589548,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38019",
-   :locality "Montauban",
+   :location "Montauban",
    :image "",
    :description ""}
   {:name "Chalet du Meygal",
@@ -350,7 +350,7 @@
    :latitude 45.07135309059842,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34315",
-   :locality "Queyrières",
+   :location "Queyrières",
    :image "",
    :description ""}
   {:name "Chamberet",
@@ -358,7 +358,7 @@
    :latitude 45.59011252777816,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29560",
-   :locality "Chamberet",
+   :location "Chamberet",
    :image "",
    :description ""}
   {:name "Charleval",
@@ -366,7 +366,7 @@
    :latitude 43.71266546070702,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9657",
-   :locality "Charleval",
+   :location "Charleval",
    :image "",
    :description ""}
   {:name "Chateau de la Tour - 2*9 classique",
@@ -381,7 +381,7 @@
    :latitude 48.76522367449107,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36625",
-   :locality "Choisy-le-Roi",
+   :location "Choisy-le-Roi",
    :image "",
    :description ""}
   {:name "Choisy-le-roi",
@@ -389,7 +389,7 @@
    :latitude 48.766627547780075,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37115",
-   :locality "Choisy-le-Roi",
+   :location "Choisy-le-Roi",
    :image "",
    :description ""}
   {:name "Compet Chamrousse",
@@ -418,7 +418,7 @@
    :latitude 45.09419567261847,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26300",
-   :locality "Jarrie",
+   :location "Jarrie",
    :image "",
    :description ""}
   {:name "Coulaines",
@@ -426,7 +426,7 @@
    :latitude 48.02631482683657,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15232",
-   :locality "COULAINES",
+   :location "COULAINES",
    :image "",
    :description ""}
   {:name "Crehange",
@@ -434,7 +434,7 @@
    :latitude 49.06993759205679,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36780",
-   :locality "Créhange",
+   :location "Créhange",
    :image "",
    :description ""}
   {:name "Croix de Bauzon",
@@ -442,7 +442,7 @@
    :latitude 44.63022302912822,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24321",
-   :locality "Borne",
+   :location "Borne",
    :image "",
    :description ""}
   {:name "DGCC",
@@ -450,7 +450,7 @@
    :latitude 45.07463558168524,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40002",
-   :locality "ST CHRISTOPHE-DE-DOUBLE",
+   :location "ST CHRISTOPHE-DE-DOUBLE",
    :image "",
    :description ""}
   {:name "DGS - Parcours de Jablines-Annet",
@@ -458,7 +458,7 @@
    :latitude 48.91309343135981,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17504",
-   :locality "Jablines",
+   :location "Jablines",
    :image "",
    :description ""}
   {:name "DGS Parcours de la Saline",
@@ -466,7 +466,7 @@
    :latitude 47.66400253055019,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19040",
-   :locality "Lure",
+   :location "Lure",
    :image "",
    :description ""}
   {:name "DGS parcours de Mulsanne",
@@ -474,7 +474,7 @@
    :latitude 47.91888831070054,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32684",
-   :locality "Mulsanne",
+   :location "Mulsanne",
    :image "",
    :description ""}
   {:name "DGS Parcours du Bois de Lion",
@@ -482,7 +482,7 @@
    :latitude 44.5589179009138,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22515",
-   :locality "Montélimar",
+   :location "Montélimar",
    :image "",
    :description ""}
   {:name "DGS Parcours du Thronnet",
@@ -490,7 +490,7 @@
    :latitude 43.57166822374472,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19041",
-   :locality "Figanières",
+   :location "Figanières",
    :image "",
    :description ""}
   {:name "DGS Pinatelle-du-Zouave",
@@ -498,7 +498,7 @@
    :latitude 45.06016660090614,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32149",
-   :locality "Sanssac-l'Église",
+   :location "Sanssac-l'Église",
    :image "",
    :description ""}
   {:name "Disc Golf - Les Fourgs",
@@ -518,7 +518,7 @@
    :latitude 48.008724299433766,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30011",
-   :locality "Cloyes-les-Trois-Rivières",
+   :location "Cloyes-les-Trois-Rivières",
    :image "",
    :description ""}
   {:name "Disc Golf des Lacs de Laives",
@@ -526,7 +526,7 @@
    :latitude 46.650847355178314,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22949",
-   :locality "Laives",
+   :location "Laives",
    :image "",
    :description ""}
   {:name "Disc Golf La Chartreuse",
@@ -546,7 +546,7 @@
    :latitude 44.8288717433621,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17637",
-   :locality "Pineuilh",
+   :location "Pineuilh",
    :image "",
    :description ""}
   {:name "Disc Golf Pompey",
@@ -554,7 +554,7 @@
    :latitude 48.769750716897875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22236",
-   :locality "Pompey",
+   :location "Pompey",
    :image "",
    :description ""}
   {:name "DiscTroyes Fixe - Henri Terre",
@@ -569,7 +569,7 @@
    :latitude 48.27470653118485,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42594",
-   :locality "Troyes",
+   :location "Troyes",
    :image "",
    :description ""}
   {:name "Elles - Challenge Féminin - Vichy 2022",
@@ -577,7 +577,7 @@
    :latitude 46.13895893450842,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28750",
-   :locality "Bellerive-sur-Allier",
+   :location "Bellerive-sur-Allier",
    :image "",
    :description ""}
   {:name "Eysines",
@@ -585,7 +585,7 @@
    :latitude 44.87290761318607,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34203",
-   :locality "Eysines",
+   :location "Eysines",
    :image "",
    :description ""}
   {:name "FDGC 2025 - JARDIN DES TEULLIERES",
@@ -593,7 +593,7 @@
    :latitude 43.762134828526484,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43458",
-   :locality "JUNAS",
+   :location "JUNAS",
    :image "",
    :description ""}
   {:name "FFFD National Tour - BESSILLES",
@@ -601,7 +601,7 @@
    :latitude 43.48016304695574,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46006",
-   :locality "MONTAGNAC",
+   :location "MONTAGNAC",
    :image "",
    :description ""}
   {:name "Final compet Chamrousse",
@@ -616,7 +616,7 @@
    :latitude 46.45987014038619,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15776",
-   :locality "vendée",
+   :location "vendée",
    :image "",
    :description ""}
   {:name "FOOTGOLF & DISCGOLF",
@@ -624,7 +624,7 @@
    :latitude 46.656470347874716,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33747",
-   :locality "Saint-Bonnet-Tronçais",
+   :location "Saint-Bonnet-Tronçais",
    :image "",
    :description ""}
   {:name "Fosse 2 - Bully Les Mines",
@@ -632,7 +632,7 @@
    :latitude 50.45837166444403,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17924",
-   :locality "Bully-les-Mines",
+   :location "Bully-les-Mines",
    :image "",
    :description ""}
   {:name "Harnes",
@@ -640,7 +640,7 @@
    :latitude 50.441365304834136,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33592",
-   :locality "Harnes",
+   :location "Harnes",
    :image "",
    :description ""}
   {:name "HARNES NT 2024",
@@ -648,7 +648,7 @@
    :latitude 50.447035420446525,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38736",
-   :locality "HARNES",
+   :location "HARNES",
    :image "",
    :description ""}
   {:name "Henin-Beaumont - Parc des îles",
@@ -656,7 +656,7 @@
    :latitude 50.40318354923039,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17970",
-   :locality "Hénin-Beaumont",
+   :location "Hénin-Beaumont",
    :image "",
    :description ""}
   {:name "Hersin 2x9",
@@ -664,7 +664,7 @@
    :latitude 50.45671748809528,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42907",
-   :locality "Hersin-Coupigny",
+   :location "Hersin-Coupigny",
    :image "",
    :description ""}
   {:name "Hersin-Coupigny - Parc de la Fosse 2",
@@ -672,7 +672,7 @@
    :latitude 50.456803450612256,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25314",
-   :locality "Hersin-Coupigny",
+   :location "Hersin-Coupigny",
    :image "",
    :description ""}
   {:name "Jarrie",
@@ -680,7 +680,7 @@
    :latitude 45.09663,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12089",
-   :locality "Jarrie",
+   :location "Jarrie",
    :image "",
    :description ""}
   {:name "Jarrie -> Monkey Tour 2026",
@@ -688,7 +688,7 @@
    :latitude 45.09689190806674,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45648",
-   :locality "Jarrie",
+   :location "Jarrie",
    :image "",
    :description ""}
   {:name "Joué Les Tours Entrainement",
@@ -696,7 +696,7 @@
    :latitude 47.35686075081168,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18869",
-   :locality "Joué-lès-Tours",
+   :location "Joué-lès-Tours",
    :image "",
    :description ""}
   {:name "La loge des gardes",
@@ -704,7 +704,7 @@
    :latitude 46.08990451617936,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19762",
-   :locality "Châtel-Montagne",
+   :location "Châtel-Montagne",
    :image "",
    :description ""}
   {:name "La Prairie Malraux",
@@ -712,7 +712,7 @@
    :latitude 46.853458931610675,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32191",
-   :locality "Challans",
+   :location "Challans",
    :image "",
    :description ""}
   {:name "La Rincerie 53 La Selle Craonnaise",
@@ -720,7 +720,7 @@
    :latitude 47.86457399768045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27929",
-   :locality "La Selle-Craonnaise",
+   :location "La Selle-Craonnaise",
    :image "",
    :description ""}
   {:name "La roche sur Yon",
@@ -728,7 +728,7 @@
    :latitude 46.69373403465892,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31069",
-   :locality "La Roche-sur-Yon",
+   :location "La Roche-sur-Yon",
    :image "",
    :description ""}
   {:name "LA ROCHE SUR YON",
@@ -736,7 +736,7 @@
    :latitude 46.69379264636305,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31070",
-   :locality "La Roche-sur-Yon",
+   :location "La Roche-sur-Yon",
    :image "",
    :description ""}
   {:name "Lac de Maine",
@@ -744,7 +744,7 @@
    :latitude 47.46532507768265,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36119",
-   :locality "Angers",
+   :location "Angers",
    :image "",
    :description ""}
   {:name "Lac de Maine (18 holes) Open Anjou 2017",
@@ -752,7 +752,7 @@
    :latitude 47.465439,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9587",
-   :locality "Angers",
+   :location "Angers",
    :image "",
    :description ""}
   {:name "Lac des Settons Morvan - Activital",
@@ -760,7 +760,7 @@
    :latitude 47.18823244756763,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41050",
-   :locality "58230",
+   :location "58230",
    :image "",
    :description ""}
   {:name "LAC KIR",
@@ -768,7 +768,7 @@
    :latitude 47.329699647916215,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17744",
-   :locality "Plombières-lès-Dijon",
+   :location "Plombières-lès-Dijon",
    :image "",
    :description ""}
   {:name "Lac Kir - Dijon (21) - 9 trous",
@@ -776,7 +776,7 @@
    :latitude 47.330083809465265,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35823",
-   :locality "Dijon",
+   :location "Dijon",
    :image "",
    :description ""}
   {:name "Lacs de la monnerie BLEU",
@@ -784,7 +784,7 @@
    :latitude 47.701666165250344,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36714",
-   :locality "La Flèche",
+   :location "La Flèche",
    :image "",
    :description ""}
   {:name "Lacs de la monnerie JAUNE",
@@ -792,7 +792,7 @@
    :latitude 47.700843922938645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34418",
-   :locality "La Flèche",
+   :location "La Flèche",
    :image "",
    :description ""}
   {:name "Lagorce disc golf aquitaine loisirs",
@@ -800,7 +800,7 @@
    :latitude 45.123725,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10203",
-   :locality "La Clotte",
+   :location "La Clotte",
    :image "",
    :description ""}
   {:name "Laives Ephémère 18 trous",
@@ -808,7 +808,7 @@
    :latitude 46.671942778549806,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30358",
-   :locality "Laives",
+   :location "Laives",
    :image "",
    :description ""}
   {:name "Larra",
@@ -816,7 +816,7 @@
    :latitude 43.74153841193797,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35991",
-   :locality "Larra",
+   :location "Larra",
    :image "",
    :description ""}
   {:name "Le Bois de Cergy",
@@ -824,7 +824,7 @@
    :latitude 49.025817405027425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25043",
-   :locality "Cergy",
+   :location "Cergy",
    :image "",
    :description ""}
   {:name "Le Gasseau",
@@ -832,7 +832,7 @@
    :latitude 48.35967008861442,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17947",
-   :locality "Saint-Léonard-des-Bois",
+   :location "Saint-Léonard-des-Bois",
    :image "",
    :description ""}
   {:name "Les Achards",
@@ -840,7 +840,7 @@
    :latitude 46.61973301677364,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28171",
-   :locality "Les Achards",
+   :location "Les Achards",
    :image "",
    :description ""}
   {:name "Les Achards",
@@ -848,7 +848,7 @@
    :latitude 46.61502966269924,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28431",
-   :locality "Les Achards",
+   :location "Les Achards",
    :image "",
    :description ""}
   {:name "Les Achards",
@@ -856,7 +856,7 @@
    :latitude 46.615057186963355,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28956",
-   :locality "Les Achards",
+   :location "Les Achards",
    :image "",
    :description ""}
   {:name "Les Cortots",
@@ -864,7 +864,7 @@
    :latitude 47.35248745105821,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36440",
-   :locality "Fontaine-lès-Dijon",
+   :location "Fontaine-lès-Dijon",
    :image "",
    :description ""}
   {:name "Les Lavieres Is sur Tille ( temporaire)",
@@ -872,7 +872,7 @@
    :latitude 47.506738623871854,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26557",
-   :locality "Is-sur-Tille",
+   :location "Is-sur-Tille",
    :image "",
    :description ""}
   {:name "Les Lavieres Is sur Tille (9 trous fixes débutant)",
@@ -880,7 +880,7 @@
    :latitude 47.50514886949463,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42411",
-   :locality "Is-sur-Tille",
+   :location "Is-sur-Tille",
    :image "",
    :description ""}
   {:name "Les Lavieres Is sur Tille 18 trous ( Temporaire)",
@@ -888,7 +888,7 @@
    :latitude 47.50636125904131,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36912",
-   :locality "Is-sur-Tille",
+   :location "Is-sur-Tille",
    :image "",
    :description ""}
   {:name "Les Tirelles Bleu 12 trous 7 paniers",
@@ -896,7 +896,7 @@
    :latitude 48.005752230182196,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31998",
-   :locality "Cloyes-les-Trois-Rivières",
+   :location "Cloyes-les-Trois-Rivières",
    :image "",
    :description ""}
   {:name "Les tirelles noir 18 trous",
@@ -904,7 +904,7 @@
    :latitude 48.00580582155237,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31999",
-   :locality "Cloyes-les-Trois-Rivières",
+   :location "Cloyes-les-Trois-Rivières",
    :image "",
    :description ""}
   {:name "Les tirelles noirs 14 corbeilles",
@@ -912,7 +912,7 @@
    :latitude 48.00856674042191,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35062",
-   :locality "Cloyes-les-Trois-Rivières",
+   :location "Cloyes-les-Trois-Rivières",
    :image "",
    :description ""}
   {:name "Les Trous de Culles",
@@ -920,7 +920,7 @@
    :latitude 46.64633059696675,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38287",
-   :locality "Culles-les-Roches",
+   :location "Culles-les-Roches",
    :image "",
    :description ""}
   {:name "Les.Fourgs",
@@ -928,7 +928,7 @@
    :latitude 46.8261039745457,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19440",
-   :locality "Les Fourgs",
+   :location "Les Fourgs",
    :image "",
    :description ""}
   {:name "Lievin - Layout sans lîle (No Island)",
@@ -936,7 +936,7 @@
    :latitude 50.410657611636935,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42906",
-   :locality "Liévin",
+   :location "Liévin",
    :image "",
    :description ""}
   {:name "LIEVIN ENTRAINEMENT",
@@ -944,7 +944,7 @@
    :latitude 50.4129838814016,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37757",
-   :locality "Avion",
+   :location "Avion",
    :image "",
    :description ""}
   {:name "LUX DISC",
@@ -952,7 +952,7 @@
    :latitude 46.75521280197455,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43552",
-   :locality "Lux",
+   :location "Lux",
    :image "",
    :description ""}
   {:name "Marles les Mines",
@@ -960,7 +960,7 @@
    :latitude 50.50007112483226,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36927",
-   :locality "Marles-les-Mines",
+   :location "Marles-les-Mines",
    :image "",
    :description ""}
   {:name "Marles Pro 2x9",
@@ -968,7 +968,7 @@
    :latitude 50.500135482439276,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42908",
-   :locality "Marles-les-Mines",
+   :location "Marles-les-Mines",
    :image "",
    :description ""}
   {:name "Martinet - La Vallée des Ouches",
@@ -983,7 +983,7 @@
    :latitude 45.44035077668762,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14024",
-   :locality "Massieu",
+   :location "Massieu",
    :image "",
    :description ""}
   {:name "Massieu 9t rouge",
@@ -991,7 +991,7 @@
    :latitude 45.440045167681824,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14022",
-   :locality "Massieu",
+   :location "Massieu",
    :image "",
    :description ""}
   {:name "Massieux",
@@ -1006,7 +1006,7 @@
    :latitude 50.45816293895095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26010",
-   :locality "Merlimont",
+   :location "Merlimont",
    :image "",
    :description ""}
   {:name "Montmoreau",
@@ -1014,7 +1014,7 @@
    :latitude 45.395493451793044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46990",
-   :locality "Montmoreau",
+   :location "Montmoreau",
    :image "",
    :description ""}
   {:name "MUHLBACH 2020",
@@ -1022,7 +1022,7 @@
    :latitude 48.5746205522253,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17849",
-   :locality "Strasbourg",
+   :location "Strasbourg",
    :image "",
    :description ""}
   {:name "Mézeray Parc Boisé Aimé Touchard",
@@ -1030,7 +1030,7 @@
    :latitude 47.82808057027944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42540",
-   :locality "Mézeray",
+   :location "Mézeray",
    :image "",
    :description ""}
   {:name "Neogolf",
@@ -1038,7 +1038,7 @@
    :latitude 47.25211164868679,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39024",
-   :locality "SAINT HERBLAIN",
+   :location "SAINT HERBLAIN",
    :image "",
    :description ""}
   {:name "Noyelles-sous-Lens 2x9",
@@ -1053,7 +1053,7 @@
    :latitude 46.140265737661,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46048",
-   :locality "BELLERIVE SUR ALLIER",
+   :location "BELLERIVE SUR ALLIER",
    :image "",
    :description ""}
   {:name "Opale Open 2023",
@@ -1061,7 +1061,7 @@
    :latitude 50.411993053107096,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27310",
-   :locality "Berck",
+   :location "Berck",
    :image "",
    :description ""}
   {:name "Open du Pays de Nemours",
@@ -1069,7 +1069,7 @@
    :latitude 48.25694790496826,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41459",
-   :locality "Nemours",
+   :location "Nemours",
    :image "",
    :description ""}
   {:name "Ouis Tee Tour",
@@ -1077,7 +1077,7 @@
    :latitude 45.09831457766501,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20621",
-   :locality "Jarrie",
+   :location "Jarrie",
    :image "",
    :description ""}
   {:name "Ouisteetour 2 23/01/2022",
@@ -1085,7 +1085,7 @@
    :latitude 12.0,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26347",
-   :locality "Jarrie",
+   :location "Jarrie",
    :image "",
    :description ""}
   {:name "Parc de Cavaillé",
@@ -1093,7 +1093,7 @@
    :latitude 43.742612284759105,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25075",
-   :locality "Larra",
+   :location "Larra",
    :image "",
    :description ""}
   {:name "Parc de La Baye 12 holes (obsolète)",
@@ -1101,7 +1101,7 @@
    :latitude 43.53879809618229,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16595",
-   :locality "Tarnos",
+   :location "Tarnos",
    :image "",
    :description ""}
   {:name "Parc de Loire",
@@ -1109,7 +1109,7 @@
    :latitude 47.899283383916185,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32076",
-   :locality "Saint-Denis-en-Val",
+   :location "Saint-Denis-en-Val",
    :image "",
    :description ""}
   {:name "Parc de Vaugrenier",
@@ -1117,7 +1117,7 @@
    :latitude 43.62414255030413,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21275",
-   :locality "Villeneuve-Loubet",
+   :location "Villeneuve-Loubet",
    :image "",
    :description ""}
   {:name "parc des etangs",
@@ -1125,7 +1125,7 @@
    :latitude 50.46610370591833,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30516",
-   :locality "Annay",
+   :location "Annay",
    :image "",
    :description ""}
   {:name "PARC DES FAITELLES VENDIN LE VIEIL",
@@ -1133,7 +1133,7 @@
    :latitude 50.46200802912185,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29457",
-   :locality "Vendin-le-Vieil",
+   :location "Vendin-le-Vieil",
    :image "",
    :description ""}
   {:name "Parc des Perrières",
@@ -1141,7 +1141,7 @@
    :latitude 45.149244865913516,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9340",
-   :locality "Brive-la-Gaillarde",
+   :location "Brive-la-Gaillarde",
    :image "",
    :description ""}
   {:name "Parc des Perrières",
@@ -1149,7 +1149,7 @@
    :latitude 45.14589,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21237",
-   :locality "Brive-la-Gaillarde",
+   :location "Brive-la-Gaillarde",
    :image "",
    :description ""}
   {:name "Parc des Perrières",
@@ -1157,7 +1157,7 @@
    :latitude 45.14938945507933,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31983",
-   :locality "Brive-la-Gaillarde",
+   :location "Brive-la-Gaillarde",
    :image "",
    :description ""}
   {:name "Parc du Fagnard- Coutras",
@@ -1165,7 +1165,7 @@
    :latitude 45.03482,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9167",
-   :locality "Coutras",
+   :location "Coutras",
    :image "",
    :description ""}
   {:name "Parc du Fagnard-Coutras 18 trous",
@@ -1173,7 +1173,7 @@
    :latitude 45.04030103232424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32307",
-   :locality "Coutras",
+   :location "Coutras",
    :image "",
    :description ""}
   {:name "Parc du Tremblay",
@@ -1188,7 +1188,7 @@
    :latitude 43.76554831128607,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36587",
-   :locality "Boisseron",
+   :location "Boisseron",
    :image "",
    :description ""}
   {:name "Parcours de disc golf",
@@ -1208,7 +1208,7 @@
    :latitude 48.097288,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11421",
-   :locality "Rennes",
+   :location "Rennes",
    :image "",
    :description ""}
   {:name "Parcours de l Etenduère LES HERBIERS",
@@ -1216,7 +1216,7 @@
    :latitude 46.86188261396185,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32772",
-   :locality "Les Herbiers",
+   :location "Les Herbiers",
    :image "",
    :description ""}
   {:name "Parcours discgolf 21 trous",
@@ -1224,7 +1224,7 @@
    :latitude 46.138346993908044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28389",
-   :locality "Bellerive-sur-Allier",
+   :location "Bellerive-sur-Allier",
    :image "",
    :description ""}
   {:name "Parcours du Hameau de la Closerie-Fléré-la-Rivière",
@@ -1232,7 +1232,7 @@
    :latitude 47.000187244361456,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37776",
-   :locality "Fléré-la-Rivière",
+   :location "Fléré-la-Rivière",
    :image "",
    :description ""}
   {:name "Parcours Open du Muhlbach",
@@ -1240,7 +1240,7 @@
    :latitude 48.574799671567504,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10578",
-   :locality "Strasbourg",
+   :location "Strasbourg",
    :image "",
    :description ""}
   {:name "Parcours temporaire de Malemort",
@@ -1248,7 +1248,7 @@
    :latitude 45.1780954569889,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41835",
-   :locality "Malemort",
+   :location "Malemort",
    :image "",
    :description ""}
   {:name "Parcours Troyes - Henri Terré - Classique",
@@ -1256,7 +1256,7 @@
    :latitude 48.272540779005055,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38677",
-   :locality "Troyes",
+   :location "Troyes",
    :image "",
    :description ""}
   {:name "Parcours Troyes - Henri Terré - Open de Troyes",
@@ -1264,7 +1264,7 @@
    :latitude 48.27283978505534,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38675",
-   :locality "Troyes",
+   :location "Troyes",
    :image "",
    :description ""}
   {:name "Parigné lEveque",
@@ -1279,7 +1279,7 @@
    :latitude 48.25777085764963,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28673",
-   :locality "Saint-Pierre-lès-Nemours",
+   :location "Saint-Pierre-lès-Nemours",
    :image "",
    :description ""}
   {:name "Pays de Nemours - Championnat Régional",
@@ -1301,7 +1301,7 @@
    :latitude 46.24789936057155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34485",
-   :locality "Habère-Poche",
+   :location "Habère-Poche",
    :image "",
    :description ""}
   {:name "Pontvallain",
@@ -1309,7 +1309,7 @@
    :latitude 47.7518683398128,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34407",
-   :locality "Pontvallain",
+   :location "Pontvallain",
    :image "",
    :description ""}
   {:name "Poudrerie 18 trous RT2023",
@@ -1317,7 +1317,7 @@
    :latitude 49.01394295357679,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26148",
-   :locality "Nesles-la-Montagne",
+   :location "Nesles-la-Montagne",
    :image "",
    :description ""}
   {:name "Prévalaye",
@@ -1325,7 +1325,7 @@
    :latitude 48.316228487891635,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38139",
-   :locality "Feins",
+   :location "Feins",
    :image "",
    :description ""}
   {:name "Prévalaye Spécial Ace Race 9",
@@ -1333,7 +1333,7 @@
    :latitude 48.09708985115759,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25352",
-   :locality "Rennes",
+   :location "Rennes",
    :image "",
    :description ""}
   {:name "Quéven Disc Golf Park",
@@ -1341,7 +1341,7 @@
    :latitude 47.78930342851185,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17570",
-   :locality "Quéven",
+   :location "Quéven",
    :image "",
    :description ""}
   {:name "Rocket Discs",
@@ -1349,7 +1349,7 @@
    :latitude 47.814998953291735,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36305",
-   :locality "Le Moulinet-sur-Solin",
+   :location "Le Moulinet-sur-Solin",
    :image "",
    :description ""}
   {:name "Saint Benoît la Forêt 2022",
@@ -1357,7 +1357,7 @@
    :latitude 47.220291503259205,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26404",
-   :locality "Saint-Benoît-la-Forêt",
+   :location "Saint-Benoît-la-Forêt",
    :image "",
    :description ""}
   {:name "Saint Benoît La Forêt Entrainement 2019",
@@ -1365,7 +1365,7 @@
    :latitude 47.22034042917849,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25874",
-   :locality "Saint-Benoît-la-Forêt",
+   :location "Saint-Benoît-la-Forêt",
    :image "",
    :description ""}
   {:name "Saint Christophe de Double",
@@ -1373,7 +1373,7 @@
    :latitude 45.073991381899674,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35019",
-   :locality "Saint-Christophe-de-Double",
+   :location "Saint-Christophe-de-Double",
    :image "",
    :description ""}
   {:name "SAINT CHRISTOPHE DE DOUBLE",
@@ -1381,7 +1381,7 @@
    :latitude 45.07462489891222,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35112",
-   :locality "Saint-Christophe-de-Double",
+   :location "Saint-Christophe-de-Double",
    :image "",
    :description ""}
   {:name "Saint-Etienne de Chigny parcours Buda 2019",
@@ -1389,7 +1389,7 @@
    :latitude 47.36571407330965,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28545",
-   :locality "Saint-Étienne-de-Chigny",
+   :location "Saint-Étienne-de-Chigny",
    :image "",
    :description ""}
   {:name "saint-saturnin 2×9 trous",
@@ -1397,7 +1397,7 @@
    :latitude 48.05970837057683,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23248",
-   :locality "Saint-Saturnin",
+   :location "Saint-Saturnin",
    :image "",
    :description ""}
   {:name "Sauveterre de Rouergue - Open de la Gazonne 2022",
@@ -1405,7 +1405,7 @@
    :latitude 44.22068509024285,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28080",
-   :locality "Sauveterre-de-Rouergue",
+   :location "Sauveterre-de-Rouergue",
    :image "",
    :description ""}
   {:name "Sauveterre de rouergue - V2",
@@ -1413,7 +1413,7 @@
    :latitude 44.220808114995236,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21340",
-   :locality "Sauveterre-de-Rouergue",
+   :location "Sauveterre-de-Rouergue",
    :image "",
    :description ""}
   {:name "Seyssins project",
@@ -1421,7 +1421,7 @@
    :latitude 45.16280360273839,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26033",
-   :locality "Seyssins",
+   :location "Seyssins",
    :image "",
    :description ""}
   {:name "Seyssins project 2",
@@ -1429,7 +1429,7 @@
    :latitude 45.15070205734921,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26293",
-   :locality "Seyssins",
+   :location "Seyssins",
    :image "",
    :description ""}
   {:name "SPAY",
@@ -1437,7 +1437,7 @@
    :latitude 47.92146337835365,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15004",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "SPAY (parcours supprimé 1)",
@@ -1445,7 +1445,7 @@
    :latitude 47.921661499686195,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23679",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "SPAY (parcours supprimé 3)",
@@ -1453,7 +1453,7 @@
    :latitude 47.92161328999347,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28783",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "Spay challenge amateur 2022",
@@ -1461,7 +1461,7 @@
    :latitude 47.92152513923318,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30428",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "Spay Jaune",
@@ -1469,7 +1469,7 @@
    :latitude 47.92225630554768,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16863",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "Spay noir",
@@ -1477,7 +1477,7 @@
    :latitude 47.92092756063724,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25398",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "Spay Safari",
@@ -1485,7 +1485,7 @@
    :latitude 47.92192320542824,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27577",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "ST  CHISTOPHE-DE-DOUBLE  FRANCE",
@@ -1500,7 +1500,7 @@
    :latitude 47.98295088719769,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39184",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "Summer_Open72+1_2024 Arche le 33 !",
@@ -1508,7 +1508,7 @@
    :latitude 47.97733616683999,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39178",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "Summer_Open72+1_2024 Spay",
@@ -1516,7 +1516,7 @@
    :latitude 47.91811903026482,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39183",
-   :locality "Spay",
+   :location "Spay",
    :image "",
    :description ""}
   {:name "Summer_Open72_Arche 2023",
@@ -1524,7 +1524,7 @@
    :latitude 47.98393371262651,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34185",
-   :locality "Changé",
+   :location "Changé",
    :image "",
    :description ""}
   {:name "Summer_Open72_Arche_2021",
@@ -1532,7 +1532,7 @@
    :latitude 47.98312754323652,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23656",
-   :locality "LE MANS",
+   :location "LE MANS",
    :image "",
    :description ""}
   {:name "Taradeau",
@@ -1540,7 +1540,7 @@
    :latitude 43.45131300292496,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44897",
-   :locality "taradeau",
+   :location "taradeau",
    :image "",
    :description ""}
   {:name "Tarnos",
@@ -1548,7 +1548,7 @@
    :latitude 43.53879809618229,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13868",
-   :locality "Nouvelle Aquitaine",
+   :location "Nouvelle Aquitaine",
    :image "",
    :description ""}
   {:name "Tarnos - 18 holes - Parc de La Baye",
@@ -1556,7 +1556,7 @@
    :latitude 43.538927603242314,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23705",
-   :locality "Tarnos",
+   :location "Tarnos",
    :image "",
    :description ""}
   {:name "Tarnos Layout",
@@ -1564,7 +1564,7 @@
    :latitude 43.539007199150745,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36458",
-   :locality "Tarnos",
+   :location "Tarnos",
    :image "",
    :description ""}
   {:name "Troll Putters",
@@ -1572,7 +1572,7 @@
    :latitude 46.459877,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9759",
-   :locality "Fontenay-le-Comte",
+   :location "Fontenay-le-Comte",
    :image "",
    :description ""}
   {:name "Troll Putters NT5",
@@ -1580,7 +1580,7 @@
    :latitude 46.4582530844155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39724",
-   :locality "Fontenay le comte",
+   :location "Fontenay le comte",
    :image "",
    :description ""}
   {:name "Troyes 18 trous",
@@ -1588,7 +1588,7 @@
    :latitude 48.27195873339815,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40968",
-   :locality "Troyes",
+   :location "Troyes",
    :image "",
    :description ""}
   {:name "Troyes 18 trous UTT sans boue",
@@ -1603,7 +1603,7 @@
    :latitude 48.27505720517206,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41049",
-   :locality "Troyes",
+   :location "Troyes",
    :image "",
    :description ""}
   {:name "Troyes 9 Trous 2",
@@ -1611,7 +1611,7 @@
    :latitude 48.273134914889766,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41174",
-   :locality "Troyes",
+   :location "Troyes",
    :image "",
    :description ""}
   {:name "Usports - Challenge LBFC",
@@ -1619,7 +1619,7 @@
    :latitude 47.2520492234178,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17789",
-   :locality "Besançon",
+   :location "Besançon",
    :image "",
    :description ""}
   {:name "vabres alternatif",
@@ -1627,7 +1627,7 @@
    :latitude 44.40228192092965,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23044",
-   :locality "Onet-le-Château",
+   :location "Onet-le-Château",
    :image "",
    :description ""}
   {:name "Vairé - Les 5 Parcs",
@@ -1635,7 +1635,7 @@
    :latitude 46.602073390765014,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43983",
-   :locality "Vairé",
+   :location "Vairé",
    :image "",
    :description ""}
   {:name "Vairé Parcours des 5 parcs",
@@ -1643,7 +1643,7 @@
    :latitude 46.60205399639739,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39866",
-   :locality "Vairé",
+   :location "Vairé",
    :image "",
    :description ""}
   {:name "Val de Scie - NLA",
@@ -1651,7 +1651,7 @@
    :latitude 46.94486660977395,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32200",
-   :locality "Nueil-les-Aubiers",
+   :location "Nueil-les-Aubiers",
    :image "",
    :description ""}
   {:name "Vallee",
@@ -1659,7 +1659,7 @@
    :latitude 49.16425011529543,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22527",
-   :locality "Caen",
+   :location "Caen",
    :image "",
    :description ""}
   {:name "Vallée de Jardins 18 trous  (Norm 58)",
@@ -1667,7 +1667,7 @@
    :latitude 49.19527746996562,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38501",
-   :locality "Caen",
+   :location "Caen",
    :image "",
    :description ""}
   {:name "Vallée des Jardins",
@@ -1675,7 +1675,7 @@
    :latitude 49.19324349371982,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29834",
-   :locality "Caen",
+   :location "Caen",
    :image "",
    :description ""}
   {:name "Vallée des Jardins- Regional Tour",
@@ -1690,7 +1690,7 @@
    :latitude 50.504300107150016,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17786",
-   :locality "Wingles",
+   :location "Wingles",
    :image "",
    :description ""}],
  :source

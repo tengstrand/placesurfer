@@ -8,7 +8,7 @@
    :longitude 32.90127,
    :latitude -2.494334,
    :source :openstreetmap,
-   :locality "Mwanza"}
+   :location "Mwanza"}
   {:name "Alliance Franco Tanzanienne of Arusha",
    :longitude 36.7035358,
    :latitude -3.3854788,
@@ -30,7 +30,7 @@
    :longitude 36.68765,
    :latitude -3.3693508,
    :source :openstreetmap,
-   :locality "Arusha"}
+   :location "Arusha"}
   {:name "Baraka Natural Aquarium",
    :longitude 39.3034735,
    :latitude -5.7244467,
@@ -43,7 +43,7 @@
    :longitude 39.2457804,
    :latitude -6.8381793,
    :source :openstreetmap,
-   :locality "Dar es salaam"}
+   :location "Dar es salaam"}
   {:name "Chagga Live Museum",
    :longitude 37.5042263,
    :latitude -3.2866701,
@@ -66,17 +66,17 @@
    :longitude 39.2909935,
    :latitude -6.8161416,
    :source :openstreetmap,
-   :locality "Dar es salaam"}
+   :location "Dar es salaam"}
   {:name "Dhow Licious Boat Yard",
    :longitude 39.2725094,
    :latitude -6.753537,
    :source :openstreetmap,
-   :locality "Dar es Salaam"}
+   :location "Dar es Salaam"}
   {:name "Duka la Dawa",
    :longitude 39.2395363,
    :latitude -6.7551652,
    :source :openstreetmap,
-   :locality "Dar es salaaam"}
+   :location "Dar es salaaam"}
   {:name "Henkel",
    :longitude 39.2986865,
    :latitude -5.7363856,
@@ -85,12 +85,12 @@
    :longitude 39.2689382,
    :latitude -6.790277,
    :source :openstreetmap,
-   :locality "Dar es salaaam"}
+   :location "Dar es salaaam"}
   {:name "Iringa Boma Regional Museum and Cultural Center",
    :longitude 35.6970236,
    :latitude -7.7797067,
    :source :openstreetmap,
-   :locality "Iringa"}
+   :location "Iringa"}
   {:name "Isike museum",
    :longitude 32.7958319,
    :latitude -5.072978,
@@ -109,7 +109,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.zanzibarheritage.go.tz/House%20of%20Wonders%20Museum.htm",
-   :locality "Stone Town"}
+   :location "Stone Town"}
   {:name "Jaffery Hall",
    :longitude 39.1090504,
    :latitude -5.0725409,
@@ -122,7 +122,7 @@
    :longitude 39.2634565,
    :latitude -6.7797406,
    :source :openstreetmap,
-   :locality "Dar es salaaam"}
+   :location "Dar es salaaam"}
   {:name "Kaole Ruins",
    :longitude 38.948125,
    :latitude -6.4625845,
@@ -163,12 +163,12 @@
    :longitude 39.2387741,
    :latitude -6.8007756,
    :source :openstreetmap,
-   :locality "Dar es salaam"}
+   :location "Dar es salaam"}
   {:name "Magofu ya ladwa",
    :longitude 39.208803,
    :latitude -6.8311802,
    :source :openstreetmap,
-   :locality "Dar es salaam"}
+   :location "Dar es salaam"}
   {:name "Makarwe",
    :longitude 31.6513746,
    :latitude -1.8415506,
@@ -177,7 +177,7 @@
    :longitude 35.6015929,
    :latitude -7.7967795,
    :source :openstreetmap,
-   :locality "iringa"}
+   :location "iringa"}
   {:name "Makumbusho Museum",
    :longitude 39.2455812,
    :latitude -6.775989,
@@ -190,7 +190,7 @@
    :longitude 39.2160618,
    :latitude -6.8470896,
    :source :openstreetmap,
-   :locality "Dar es Salaam;Dar es salaam"}
+   :location "Dar es Salaam;Dar es salaam"}
   {:name "Moravian Church Museum",
    :longitude 33.5915763,
    :latitude -9.1699043,
@@ -216,13 +216,13 @@
    :latitude -6.7633579,
    :source :openstreetmap,
    :homepage "https://www.nafasiartspace.org/",
-   :locality "Dar es Salaam"}
+   :location "Dar es Salaam"}
   {:name "National Museum of Tanzania",
    :longitude 39.2941146,
    :latitude -6.813483,
    :source :openstreetmap,
    :homepage "http://www.houseofculture.or.tz",
-   :locality "Dar es Salaam"}
+   :location "Dar es Salaam"}
   {:name "Natural History National Museum (hominids aisle)",
    :longitude 36.6958683,
    :latitude -3.3694088,
@@ -239,7 +239,7 @@
    :longitude 39.242111,
    :latitude -6.7932736,
    :source :openstreetmap,
-   :locality "Dar es salaaam"}
+   :location "Dar es salaaam"}
   {:name "Old Boma Museum",
    :longitude 39.2872142,
    :latitude -6.8204917,
@@ -271,7 +271,7 @@
    :longitude 39.2484979,
    :latitude -6.7993134,
    :source :openstreetmap,
-   :locality "Dar es salaaam"}
+   :location "Dar es salaaam"}
   {:name "Roman Catholic Museum",
    :longitude 38.8984877,
    :latitude -6.4346847,
@@ -285,7 +285,7 @@
    :longitude 39.2189447,
    :latitude -6.7936964,
    :source :openstreetmap,
-   :locality "Dar es salaam"}
+   :location "Dar es salaam"}
   {:name "Sukuma Museum",
    :longitude 33.0401081,
    :latitude -2.5421867,
@@ -294,12 +294,12 @@
    :longitude 39.287227,
    :latitude -6.8017552,
    :source :openstreetmap,
-   :locality "Dar es salaam"}
+   :location "Dar es salaam"}
   {:name "Total",
    :longitude 32.8991818,
    :latitude -2.5176764,
    :source :openstreetmap,
-   :locality "Mwanza"}
+   :location "Mwanza"}
   {:name "Traditional Healing",
    :longitude 31.7393762,
    :latitude -5.1213969,
@@ -308,7 +308,7 @@
    :longitude 39.2367647,
    :latitude -6.8051527,
    :source :openstreetmap,
-   :locality "Dar es salaam"}
+   :location "Dar es salaam"}
   {:name "Wachoraji",
    :longitude 39.0930739,
    :latitude -5.0839173,

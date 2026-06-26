@@ -9,25 +9,25 @@
    :latitude 55.851788318952345,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42485",
-   :locality "Набережные челны"}
+   :location "Набережные челны"}
   {:name "\"ОЛ\" Звёздный Роза Ветров 3 карзины",
    :longitude 52.164535361562145,
    :latitude 55.968254722083884,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43476",
-   :locality "Набережные челны"}
+   :location "Набережные челны"}
   {:name "Azimut Park Kostroma",
    :longitude 40.89212586413856,
    :latitude 57.72963024811963,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32685",
-   :locality "Кострома"}
+   :location "Кострома"}
   {:name "Benua Disc Golf Course",
    :longitude 30.369150638580322,
    :latitude 60.01686680409594,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8968",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Boevogo Bratstva DGP_only PORTABLE",
    :longitude 30.45154804543384,
    :latitude 59.918584382188016,
@@ -38,193 +38,193 @@
    :latitude 60.67379638017431,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23673",
-   :locality "Приозерский район"}
+   :location "Приозерский район"}
   {:name "Discgolf Park Dunes",
    :longitude 29.948098737447197,
    :latitude 60.12308178804611,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27786",
-   :locality "Сестрорецк"}
+   :location "Сестрорецк"}
   {:name "Dunes park Sestroreck",
    :longitude 29.94661735005849,
    :latitude 60.123331573730695,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31658",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Dunes short tees, Sestroretsk",
    :longitude 29.938761329186207,
    :latitude 60.131258420609754,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36047",
-   :locality "Сестрорецк"}
+   :location "Сестрорецк"}
   {:name "Dunes, Sestroretsk",
    :longitude 29.9457099699452,
    :latitude 60.123380933973465,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27809",
-   :locality "Saint-Petersburg "}
+   :location "Saint-Petersburg "}
   {:name "Eagle park",
    :longitude 38.85249726303937,
    :latitude 57.95351802888629,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40681",
-   :locality "д. Орловское"}
+   :location "д. Орловское"}
   {:name "Esenina DGP_only PORTABLE",
    :longitude 30.48323992600797,
    :latitude 59.910438334722755,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45188",
-   :locality "Saint Petersburg"}
+   :location "Saint Petersburg"}
   {:name "ExtremLand",
    :longitude 44.228765575394334,
    :latitude 56.10113103917385,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16127",
-   :locality "Kstovo"}
+   :location "Kstovo"}
   {:name "H3",
    :longitude 49.46738881123616,
    :latitude 53.4805168431179,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30285",
-   :locality "Тольятти"}
+   :location "Тольятти"}
   {:name "International. Pr. Slavy (no baskets)",
    :longitude 30.40157744864851,
    :latitude 59.85817476816257,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34643",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Kurakina Dacha_only PORTABLE",
    :longitude 30.450952332166196,
    :latitude 59.87463877585739,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44464",
-   :locality "Saint Petersburg"}
+   :location "Saint Petersburg"}
   {:name "Ladozhskiy 6holes",
    :longitude 30.458321876772885,
    :latitude 59.943671239954625,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39454",
-   :locality "Saint-Petersburg"}
+   :location "Saint-Petersburg"}
   {:name "Ladozhskiy DGP_Mostly Portable baskets",
    :longitude 30.458397449512887,
    :latitude 59.94319042680701,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37891",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Murinskiy_Only Portable",
    :longitude 30.39318083377401,
    :latitude 60.02969138528613,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24420",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "NN_Slava_Pro",
    :longitude 43.871879645765546,
    :latitude 56.24566531538113,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27296",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "October 50th",
    :longitude 37.50787138938904,
    :latitude 55.67897575883153,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13037",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Ohta Disc Golf",
    :longitude 30.457411234111134,
    :latitude 59.94448845434454,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28336",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Olympic Village",
    :longitude 37.47968673706055,
    :latitude 55.68024607659247,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12935",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Palace of Pioneers",
    :longitude 37.55693435668945,
    :latitude 55.70428964195777,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8682",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Park of Fame - PSD",
    :longitude 43.86942164302573,
    :latitude 56.24622842918174,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14496",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "Park of Glory",
    :longitude 43.868907,
    :latitude 56.245061,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10372",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "Pioneer experiment",
    :longitude 37.55325706495924,
    :latitude 55.703732746193225,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37954",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Pioneer Palace Tour 2024",
    :longitude 37.55227562282553,
    :latitude 55.70356550390565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37929",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "PolustrovskiyDGP_only PORTABLE",
    :longitude 30.422689257840062,
    :latitude 59.9656465306287,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38024",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Presidents Cup 2021",
    :longitude 43.870656111392975,
    :latitude 56.245539018433675,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25290",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "Priokskiy",
    :longitude 43.94122258804521,
    :latitude 56.231245453786045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28276",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "Priokskiy лига Pro",
    :longitude 43.941107343313746,
    :latitude 56.23038814852006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33956",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "ProTour 2025 bez ovraga",
    :longitude 37.55240498793782,
    :latitude 55.70360706330612,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44386",
-   :locality "Moscow"}
+   :location "Moscow"}
   {:name "Skolkovo 8-14",
    :longitude 37.96951443478227,
    :latitude 55.59903789151235,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28860",
-   :locality "Раменский район"}
+   :location "Раменский район"}
   {:name "Skolkovo DGP",
    :longitude 37.34893717725791,
    :latitude 55.69376148990182,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16797",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Skolkovo-Gitara",
    :longitude 37.34947153838769,
    :latitude 55.6923305911026,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43146",
-   :locality "Moscow"}
+   :location "Moscow"}
   {:name "Sosnovka",
    :longitude 30.348645780069518,
    :latitude 60.01205306573971,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21392",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "SportMarafonFest24",
    :longitude 35.60610622894862,
    :latitude 54.758435489075964,
@@ -235,139 +235,139 @@
    :latitude 56.34393693809946,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35501",
-   :locality "Великие Луки"}
+   :location "Великие Луки"}
   {:name "Vihioja",
    :longitude 47.12686921373074,
    :latitude 62.300188786915726,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24469",
-   :locality "Верхнетоемский район"}
+   :location "Верхнетоемский район"}
   {:name "Zavidovo DGP",
    :longitude 36.525678634643555,
    :latitude 56.59607404888847,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8023",
-   :locality "Конаковский район"}
+   :location "Конаковский район"}
   {:name "Zvanskoe DGP",
    :longitude 28.628272839837905,
    :latitude 57.892449075298,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24803",
-   :locality "Псковский район"}
+   :location "Псковский район"}
   {:name "Бухта Песчаная",
    :longitude 105.70127247315605,
    :latitude 52.26129379531707,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39397",
-   :locality "Иркутск"}
+   :location "Иркутск"}
   {:name "Великие Луки",
    :longitude 30.507913516557267,
    :latitude 56.34232501058344,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34360",
-   :locality "Великие Луки"}
+   :location "Великие Луки"}
   {:name "Весенние надежды",
    :longitude 43.87067224566525,
    :latitude 56.246384779013766,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17932",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "Дом семьи",
    :longitude 20.482597641999888,
    :latitude 54.721606975264024,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42642",
-   :locality "Kaliningrad"}
+   :location "Kaliningrad"}
   {:name "Дюны КР2026 15",
    :longitude 29.946315442813557,
    :latitude 60.12312577006509,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47028",
-   :locality "Сестрорецк"}
+   :location "Сестрорецк"}
   {:name "Дюны КР2026 18",
    :longitude 29.94643103262456,
    :latitude 60.12318759798458,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47029",
-   :locality "Сестрорецк "}
+   :location "Сестрорецк "}
   {:name "Жигули",
    :longitude 49.21688566336033,
    :latitude 53.55756147471175,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38931",
-   :locality "Тольятти"}
+   :location "Тольятти"}
   {:name "Зеленогорск мини гольф",
    :longitude 29.70781401346116,
    :latitude 60.19708580263256,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30325",
-   :locality "Зеленогорск"}
+   :location "Зеленогорск"}
   {:name "Маленькая страна",
    :longitude 52.541921780309934,
    :latitude 55.81666829039216,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38364",
-   :locality "Тукаевский район"}
+   :location "Тукаевский район"}
   {:name "Масленица 2023",
    :longitude 43.870005149796754,
    :latitude 56.24551443261299,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32056",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "Матрица",
    :longitude 37.554265034802995,
    :latitude 55.705309964105254,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43101",
-   :locality "Russia"}
+   :location "Russia"}
   {:name "Озёры ",
    :longitude 38.4452860098956,
    :latitude 54.86535268125331,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34641",
-   :locality "Озёры"}
+   :location "Озёры"}
   {:name "Охта парк",
    :longitude 30.435787561284286,
    :latitude 60.137047220750645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38656",
-   :locality "Мистолово"}
+   :location "Мистолово"}
   {:name "Парк Ровесник Зеленоград",
    :longitude 37.23769178109109,
    :latitude 56.000712887080056,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26021",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Парк Славы 11+11",
    :longitude 43.86977158915914,
    :latitude 56.24616307638249,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40131",
-   :locality "Нижний Новгород"}
+   :location "Нижний Новгород"}
   {:name "Патт-лига",
    :longitude 38.10393582288512,
    :latitude 57.91010495603459,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41338",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Пискаревский",
    :longitude 30.41659218765932,
    :latitude 59.9996541434557,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34552",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Прибрежный",
    :longitude 52.37564357981864,
    :latitude 55.75125257859898,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38604",
-   :locality "Набережные Челны"}
+   :location "Набережные Челны"}
   {:name "Прибрежный-2 demo",
    :longitude 52.37603550897535,
    :latitude 55.75130188564148,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45295",
-   :locality "Набережные Челны"}
+   :location "Набережные Челны"}
   {:name "ПроТур 24 Москва",
    :longitude 37.55464035041655,
    :latitude 55.704353077852375,
@@ -378,13 +378,13 @@
    :latitude 55.70489162552525,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42371",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "РВ",
    :longitude 55.48091327498366,
    :latitude 57.01825863929878,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44028",
-   :locality "Набережные челны"}
+   :location "Набережные челны"}
   {:name "Роза ветров основная трасса",
    :longitude 1.23456789E8,
    :latitude 1.2345678E7,
@@ -395,19 +395,19 @@
    :latitude 54.69810568904262,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33249",
-   :locality "Калининград"}
+   :location "Калининград"}
   {:name "РУДН",
    :longitude 37.49666520018977,
    :latitude 55.65264709740913,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40601",
-   :locality "Москва"}
+   :location "Москва"}
   {:name "Сад Нева ",
    :longitude 30.409042259281364,
    :latitude 59.96004636306412,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34647",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Слава хазард",
    :longitude 43.87165588861103,
    :latitude 56.246219921381226,
@@ -418,31 +418,31 @@
    :latitude 59.69094667830643,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43194",
-   :locality "Санкт-Петербург"}
+   :location "Санкт-Петербург"}
   {:name "Уктус",
    :longitude 60.648319228326926,
    :latitude 56.77388372775272,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32750",
-   :locality "Екатеринбург"}
+   :location "Екатеринбург"}
   {:name "Черняховск парк Победы",
    :longitude 21.81689233774432,
    :latitude 54.640010283162326,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40128",
-   :locality "Черняховск"}
+   :location "Черняховск"}
   {:name "ЧР 2024 2.0",
    :longitude 52.54598046783414,
    :latitude 55.80717256844051,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37725",
-   :locality "Тукаевский район"}
+   :location "Тукаевский район"}
   {:name "Шильна",
    :longitude 52.5426371875441,
    :latitude 55.8026154831023,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35073",
-   :locality "Тукаевский район"}],
+   :location "Тукаевский район"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

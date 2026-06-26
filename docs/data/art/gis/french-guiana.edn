@@ -20,7 +20,7 @@
    :longitude -54.0331694,
    :latitude 5.5007174,
    :source :openstreetmap,
-   :locality "Saint-Laurent-du-Maroni"}
+   :location "Saint-Laurent-du-Maroni"}
   {:name "Centre d'Archéologie Amérindienne de Kourou",
    :longitude -52.6654953,
    :latitude 5.1589873,
@@ -36,14 +36,14 @@
    :latitude 4.9440449,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/espace.E.REY",
-   :locality "Cayenne"}
+   :location "Cayenne"}
   {:name "Ferronnerie D'Art",
    :longitude -52.3277492,
    :latitude 4.9418924,
    :source :openstreetmap,
    :homepage
    "http://amazonian-museum-network.org/fr/les-musees-d-amazonie/musee-des-cultures-guyanaises",
-   :locality "Cayenne"}
+   :location "Cayenne"}
   {:name "Herbier de Guyane",
    :longitude -52.318914,
    :latitude 4.9422399,
@@ -72,7 +72,7 @@
    :source :openstreetmap,
    :homepage
    "http://amazonian-museum-network.org/fr/les-musees-d-amazonie/musee-des-cultures-guyanaises",
-   :locality "Cayenne"}
+   :location "Cayenne"}
   {:name "Makandra : centre d'action sociale",
    :longitude -53.7767049,
    :latitude 5.6702338,
@@ -89,7 +89,7 @@
    :longitude -52.3344262,
    :latitude 4.9382912,
    :source :openstreetmap,
-   :locality "Cayenne"}
+   :location "Cayenne"}
   {:name "Musée Municipal",
    :longitude -52.3314402,
    :latitude 4.8501417,

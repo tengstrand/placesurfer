@@ -27,14 +27,14 @@
    :longitude 35.0053063,
    :latitude -15.7878679,
    :source :openstreetmap,
-   :locality "Blantyre",
+   :location "Blantyre",
    :image "",
    :description ""}
   {:name "Mandala House",
    :longitude 35.0115058,
    :latitude -15.7927173,
    :source :openstreetmap,
-   :locality "Blantyre",
+   :location "Blantyre",
    :image "",
    :description ""}
   {:name "Mua Mission",
@@ -53,7 +53,7 @@
    :longitude 34.1130189,
    :latitude -10.6116671,
    :source :openstreetmap,
-   :locality "Livingstonia",
+   :location "Livingstonia",
    :image "",
    :description ""}
   {:name "Thuchila Trading Centre",

@@ -22,27 +22,27 @@
    :latitude -21.2749468,
    :source :openstreetmap,
    :homepage "https://www.carambole.re/",
-   :locality "LE TAMPON"}
+   :location "LE TAMPON"}
   {:name "Centre académique de lecture écriture (CALE) de Saint-Leu",
    :longitude 55.2885219,
    :latitude -21.1721021,
    :source :openstreetmap,
-   :locality "Saint-Leu"}
+   :location "Saint-Leu"}
   {:name "Centre culturel Indien",
    :longitude 55.4807553,
    :latitude -20.8860509,
    :source :openstreetmap,
-   :locality "Sainte-Clotilde"}
+   :location "Sainte-Clotilde"}
   {:name "Centre de l'image Antoine Roussin",
    :longitude 55.3053036,
    :latitude -20.9365204,
    :source :openstreetmap,
-   :locality "Le Port"}
+   :location "Le Port"}
   {:name "Centre Pervenche",
    :longitude 55.5123761,
    :latitude -21.2814392,
    :source :openstreetmap,
-   :locality "Le Tampon"}
+   :location "Le Tampon"}
   {:name "Centre social et culturel Village Titan",
    :longitude 55.2914421,
    :latitude -20.9419065,
@@ -52,31 +52,31 @@
    :latitude -21.2028695,
    :source :openstreetmap,
    :homepage "https://museesreunion.fr/la-cite-du-volcan/",
-   :locality "Tampon"}
+   :location "Tampon"}
   {:name "Conservatoire de Saint-Denis (CRR)",
    :longitude 55.4485746,
    :latitude -20.8798229,
    :source :openstreetmap,
    :homepage "https://conservatoire.regionreunion.com/",
-   :locality "Saint-Denis"}
+   :location "Saint-Denis"}
   {:name "Conservatoire de Saint-Pierre",
    :longitude 55.4731655,
    :latitude -21.3428768,
    :source :openstreetmap,
    :homepage "https://conservatoire.regionreunion.com/",
-   :locality "Saint-Pierre"}
+   :location "Saint-Pierre"}
   {:name "Conservatoire à Rayonnement Régional de Saint-Benoît",
    :longitude 55.7160466,
    :latitude -21.0482191,
    :source :openstreetmap,
    :homepage "https://conservatoire.regionreunion.com/",
-   :locality "Saint-Benoît"}
+   :location "Saint-Benoît"}
   {:name "Conservatoire à rayonnement régional de Saint-Paul",
    :longitude 55.2700405,
    :latitude -21.0083768,
    :source :openstreetmap,
    :homepage "https://conservatoire.regionreunion.com/",
-   :locality "Saint-Paul"}
+   :location "Saint-Paul"}
   {:name "Domaine de Coco",
    :longitude 55.7194108,
    :latitude -21.0811015,
@@ -86,7 +86,7 @@
    :latitude -20.9047082,
    :source :openstreetmap,
    :homepage "http://www.lavanilleraie.com",
-   :locality "Sainte Suzanne"}
+   :location "Sainte Suzanne"}
   {:name "Far Far de Bézaves",
    :longitude 55.6131283,
    :latitude -21.3530944,
@@ -95,23 +95,23 @@
    :longitude 55.2880005,
    :latitude -21.178929,
    :source :openstreetmap,
-   :locality "Saint-Leu"}
+   :location "Saint-Leu"}
   {:name "Féé Mazine",
    :longitude 55.4298514,
    :latitude -21.3007231,
    :source :openstreetmap,
    :homepage "http://www.feemazine.com",
-   :locality "Saint-Pierre"}
+   :location "Saint-Pierre"}
   {:name "Galerie d'Arts",
    :longitude 55.5710726,
    :latitude -21.2060844,
    :source :openstreetmap,
-   :locality "Bourg Murat"}
+   :location "Bourg Murat"}
   {:name "Hang'Art",
    :longitude 55.4771095,
    :latitude -21.3440568,
    :source :openstreetmap,
-   :locality "Saint-Pierre"}
+   :location "Saint-Pierre"}
   {:name "Kélonia",
    :longitude 55.2802653,
    :latitude -21.152558,
@@ -125,19 +125,19 @@
    :longitude 55.4777454,
    :latitude -21.3403463,
    :source :openstreetmap,
-   :locality "Saint-Pierre"}
+   :location "Saint-Pierre"}
   {:name "La Cité des Arts",
    :longitude 55.4689827,
    :latitude -20.885161,
    :source :openstreetmap,
    :homepage "https://www.citedesarts.re/",
-   :locality "Saint-Denis"}
+   :location "Saint-Denis"}
   {:name "La Kaz Blanche",
    :longitude 55.4749866,
    :latitude -21.337273,
    :source :openstreetmap,
    :homepage "http://www.lakazblanche.com/",
-   :locality "Saint-Pierre"}
+   :location "Saint-Pierre"}
   {:name "La Rafinerie",
    :longitude 55.2991166,
    :latitude -20.988301,
@@ -180,7 +180,7 @@
    :longitude 55.4551007,
    :latitude -20.8934383,
    :source :openstreetmap,
-   :locality "Saint-Denis"}
+   :location "Saint-Denis"}
   {:name "Musée de Villèle",
    :longitude 55.2636244,
    :latitude -21.056533,
@@ -191,12 +191,12 @@
    :latitude -21.266983,
    :source :openstreetmap,
    :homepage "https://museesreunion.fr/",
-   :locality "Saint-Louis"}
+   :location "Saint-Louis"}
   {:name "Musée du Sel",
    :longitude 55.2835013,
    :latitude -21.2033524,
    :source :openstreetmap,
-   :locality "Saint-Leu"}
+   :location "Saint-Leu"}
   {:name "Musée du Tamarin",
    :longitude 55.5360932,
    :latitude -21.0611907,
@@ -206,17 +206,17 @@
    :latitude -20.8838403,
    :source :openstreetmap,
    :homepage "https://www.musee-leondierx.re/fr/",
-   :locality "Saint-Denis"}
+   :location "Saint-Denis"}
   {:name "Muséum d'histoire naturelle",
    :longitude 55.4516284,
    :latitude -20.8874566,
    :source :openstreetmap,
-   :locality "Saint-Denis"}
+   :location "Saint-Denis"}
   {:name "Usine à Gouzou",
    :longitude 55.4691935,
    :latitude -21.3360217,
    :source :openstreetmap,
-   :locality "Saint-Pierre"}
+   :location "Saint-Pierre"}
   {:name "Visite Guidée Sucrière du Gol",
    :longitude 55.4002634,
    :latitude -21.2798153,
@@ -233,7 +233,7 @@
    :longitude 55.5300889,
    :latitude -20.924078,
    :source :openstreetmap,
-   :locality "Sainte Marie"}],
+   :location "Sainte Marie"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

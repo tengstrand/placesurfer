@@ -62,12 +62,12 @@
    :latitude -18.8849798,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/antsonytontolomiaina/",
-   :locality "Antananarivo"}
+   :location "Antananarivo"}
   {:name "Fania",
    :longitude 47.0882974,
    :latitude -21.4515318,
    :source :openstreetmap,
-   :locality "Fianarantsoa"}
+   :location "Fianarantsoa"}
   {:name "FJKM",
    :longitude 47.5258024,
    :latitude -18.9084963,
@@ -92,7 +92,7 @@
    :longitude 47.2466244,
    :latitude -20.5284849,
    :source :openstreetmap,
-   :locality "Ambositra"}
+   :location "Ambositra"}
   {:name "Le musée royal Sakalava",
    :longitude 48.2804653,
    :latitude -13.3736886,
@@ -130,7 +130,7 @@
    :latitude -18.9070552,
    :source :openstreetmap,
    :homepage "https://piratenmuseum.ch/",
-   :locality "Antananarivo"}
+   :location "Antananarivo"}
   {:name "Musée Diocèse Fianarantsoa",
    :longitude 47.0762321,
    :latitude -21.4583739,
@@ -148,7 +148,7 @@
    :longitude 44.7464844,
    :latitude -24.694001,
    :source :openstreetmap,
-   :locality "Ampanihy"}
+   :location "Ampanihy"}
   {:name "Musée Régional de l'Analanjirofo",
    :longitude 49.410686,
    :latitude -17.3826826,

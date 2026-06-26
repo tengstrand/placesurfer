@@ -9,18 +9,18 @@
    :latitude 13.3438335,
    :source :openstreetmap,
    :homepage "http://www.angkorartwork.fr",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Angkor Conservancy",
    :longitude 103.86463,
    :latitude 13.373402,
    :source :openstreetmap,
-   :locality "Treang, Sla Kram, Krong Siem Reap, Siem Reap province"}
+   :location "Treang, Sla Kram, Krong Siem Reap, Siem Reap province"}
   {:name "Angkor National Museum",
    :longitude 103.8595207,
    :latitude 13.3663847,
    :source :openstreetmap,
    :homepage "http://www.angkornationalmuseum.com",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Art Bar",
    :longitude 104.9179011,
    :latitude 11.5878907,
@@ -30,7 +30,7 @@
    :latitude 13.3618489,
    :source :openstreetmap,
    :homepage "http://www.artbox.studio/",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Artisan d'Angkor",
    :longitude 103.7455565,
    :latitude 13.4685051,
@@ -39,7 +39,7 @@
    :longitude 103.8540101,
    :latitude 13.3564104,
    :source :openstreetmap,
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Battambang Museum",
    :longitude 103.1981075,
    :latitude 13.0948547,
@@ -49,7 +49,7 @@
    :latitude 11.5614353,
    :source :openstreetmap,
    :homepage "https://bophana.org/",
-   :locality "Phnom Penh"}
+   :location "Phnom Penh"}
   {:name "Build Your Future Today Center",
    :longitude 103.8663407,
    :latitude 13.3643786,
@@ -69,19 +69,19 @@
    :latitude 13.3382678,
    :source :openstreetmap,
    :homepage "https://www.tdiwo.com/",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Diwo Gallery 2",
    :longitude 103.854251,
    :latitude 13.3531137,
    :source :openstreetmap,
    :homepage "https://www.tdiwo.com/",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "HOMELESS Artists Collective",
    :longitude 104.908974,
    :latitude 11.5260914,
    :source :openstreetmap,
    :homepage "https://shanghaichang.portfoliobox.net/",
-   :locality "Phnom Penh"}
+   :location "Phnom Penh"}
   {:name "Jayav Art",
    :longitude 103.8623675,
    :latitude 13.3806687,
@@ -99,7 +99,7 @@
    :latitude 13.3485856,
    :source :openstreetmap,
    :homepage "https://www.damiendufresne.com/",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Khmer Kite Museum",
    :longitude 104.9348119,
    :latitude 11.5531657,
@@ -114,7 +114,7 @@
    :latitude 13.3753729,
    :source :openstreetmap,
    :homepage "https://www.mgcattmuseum.com/",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Military Museum",
    :longitude 104.8853479,
    :latitude 11.6776959,
@@ -123,7 +123,7 @@
    :longitude 103.8632601,
    :latitude 13.3637515,
    :source :openstreetmap,
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Ny Art",
    :longitude 104.9272695,
    :latitude 11.5546522,
@@ -134,7 +134,7 @@
    :longitude 103.8806983,
    :latitude 13.3821076,
    :source :openstreetmap,
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Pursat Museum",
    :longitude 103.9185849,
    :latitude 12.5334785,
@@ -171,7 +171,7 @@
    :latitude 13.3874346,
    :source :openstreetmap,
    :homepage "http://www.warmuseumcambodia.com/",
-   :locality "Siem Reap"}
+   :location "Siem Reap"}
   {:name "Wat Indochina",
    :longitude 104.8433983,
    :latitude 11.4766076,
@@ -193,32 +193,32 @@
    :longitude 104.666765,
    :latitude 12.2544667,
    :source :openstreetmap,
-   :locality "ក្រុងកំពង់ឆ្នាំង"}
+   :location "ក្រុងកំពង់ឆ្នាំង"}
   {:name "សារមន្ទីរ ខេត្តកំពង់ធំ",
    :longitude 104.888664,
    :latitude 12.7269855,
    :source :openstreetmap,
-   :locality "ក្រុងកំពង់ធំ"}
+   :location "ក្រុងកំពង់ធំ"}
   {:name "សារមន្ទីរខេត្ត បន្ទាយមានជ័យ",
    :longitude 102.9722207,
    :latitude 13.5893897,
    :source :openstreetmap,
-   :locality "សិរីសោភ័ណ"}
+   :location "សិរីសោភ័ណ"}
   {:name "សារមន្ទីរខេត្តតាកែវ",
    :longitude 104.7819584,
    :latitude 10.9923,
    :source :openstreetmap,
-   :locality "ដូនកែវ"}
+   :location "ដូនកែវ"}
   {:name "សារមន្ទីរខេត្តព្រៃវែង",
    :longitude 105.325462,
    :latitude 11.4828879,
    :source :openstreetmap,
-   :locality "ក្រុងព្រៃវែង"}
+   :location "ក្រុងព្រៃវែង"}
   {:name "សារមន្ទីរស្រុកស្វាយចេក",
    :longitude 102.9629886,
    :latitude 13.8022988,
    :source :openstreetmap,
-   :locality "ស្រុកស្វាយចេក"}
+   :location "ស្រុកស្វាយចេក"}
   {:name "សារមន្ទីរអង្គរបុរី",
    :longitude 104.97793,
    :latitude 10.9942224,

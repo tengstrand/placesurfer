@@ -21,7 +21,7 @@
    :longitude 46.6576501,
    :latitude 24.8573744,
    :source :openstreetmap,
-   :locality "الرياض"}
+   :location "الرياض"}
   {:name "Clock Tower Museum",
    :longitude 39.8255385,
    :latitude 21.4179756,
@@ -90,7 +90,7 @@
    :latitude 21.369238,
    :source :openstreetmap,
    :homepage "http://annabi.org/",
-   :locality "Makkah"}
+   :location "Makkah"}
   {:name "القصر الأحمر",
    :longitude 46.709801,
    :latitude 24.6428435,
@@ -179,7 +179,7 @@
    :longitude 42.0737685,
    :latitude 19.3226538,
    :source :openstreetmap,
-   :locality "العُرُش"}
+   :location "العُرُش"}
   {:name "متحف القرآن الكريم",
    :longitude 39.869607,
    :latitude 21.4564795,
@@ -205,12 +205,12 @@
    :latitude 24.4767646,
    :source :openstreetmap,
    :homepage "https://dar-almadinahcom",
-   :locality "Medina"}
+   :location "Medina"}
   {:name "متحف طلان",
    :longitude 43.1175583,
    :latitude 17.3641019,
    :source :openstreetmap,
-   :locality "محافظة الدائر"}
+   :location "محافظة الدائر"}
   {:name "متحف فيد",
    :longitude 42.517059,
    :latitude 27.119034,
@@ -224,7 +224,7 @@
    :latitude 21.4461528,
    :source :openstreetmap,
    :homepage "https://scth.gov.sa/",
-   :locality "Makkah"}
+   :location "Makkah"}
   {:name "متحف منطقة جازان",
    :longitude 42.6474087,
    :latitude 17.1633655,
@@ -250,12 +250,12 @@
    :latitude 24.4658839,
    :source :openstreetmap,
    :homepage "www.alquranalkarim.net",
-   :locality "Al Madinah"}
+   :location "Al Madinah"}
   {:name "معرض عمارة الحرمين الشريفين",
    :longitude 39.7542986,
    :latitude 21.4338082,
    :source :openstreetmap,
-   :locality "Makkah"}
+   :location "Makkah"}
   {:name "مكتب ابو عبدالله الجابري المدينة",
    :longitude 39.6542079,
    :latitude 24.4526307,

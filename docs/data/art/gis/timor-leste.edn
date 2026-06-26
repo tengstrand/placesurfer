@@ -16,7 +16,7 @@
    :longitude 125.5666669,
    :latitude -8.5489616,
    :source :openstreetmap,
-   :locality "Dili"}
+   :location "Dili"}
   {:name "Museum Resistensia de Timor-Leste",
    :longitude 125.5775575,
    :latitude -8.5556454,

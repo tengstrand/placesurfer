@@ -78,7 +78,7 @@
    :longitude -99.2991508,
    :latitude 19.5529204,
    :source :openstreetmap,
-   :locality "Atizapán de Zaragoza"}
+   :location "Atizapán de Zaragoza"}
   {:name "Academia De Danza Estudio 20",
    :longitude -99.5361462,
    :latitude 19.2705064,
@@ -164,7 +164,7 @@
    :latitude 17.0807191,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/AmbarStudioDanza/",
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "AMOR Y GALERIA",
    :longitude -98.2996593,
    :latitude 19.0496734,
@@ -181,13 +181,13 @@
    :longitude -99.6796797,
    :latitude 19.2734108,
    :source :openstreetmap,
-   :locality "Toluca"}
+   :location "Toluca"}
   {:name "Antigua Academia de San Carlos",
    :longitude -99.1284853,
    :latitude 19.4329774,
    :source :openstreetmap,
    :homepage "https://academiasancarlos.unam.mx/",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Antigua Casa de Adobe",
    :longitude -97.3524996,
    :latitude 18.3242365,
@@ -213,7 +213,7 @@
    :latitude 19.4174848,
    :source :openstreetmap,
    :homepage "https://www.goethe.de/ins/mx/lp/esindex.htm",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Archivo Historico y Museo de Mineria, Asociación Civil",
    :longitude -98.7312276,
    :latitude 20.1254399,
@@ -230,7 +230,7 @@
    :longitude -99.5273026,
    :latitude 19.3999935,
    :source :openstreetmap,
-   :locality "Xonacatlán"}
+   :location "Xonacatlán"}
   {:name "Art Music",
    :longitude -99.4711037,
    :latitude 19.1840533,
@@ -274,7 +274,7 @@
    :latitude 26.9339796,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/profile.php?id=61578326195325",
-   :locality "Valle de Allende"}
+   :location "Valle de Allende"}
   {:name "Asociación México Japonesa",
    :longitude -99.2017429,
    :latitude 19.3624125,
@@ -295,7 +295,7 @@
    :longitude -107.4167763,
    :latitude 24.7925866,
    :source :openstreetmap,
-   :locality "Culiacán"}
+   :location "Culiacán"}
   {:name "Auditorio Explanada Pachuca",
    :longitude -98.7945996,
    :latitude 20.0360939,
@@ -345,7 +345,7 @@
    :longitude -100.0436957,
    :latitude 19.790598,
    :source :openstreetmap,
-   :locality "Tapaxco"}
+   :location "Tapaxco"}
   {:name "Auditorio Universitario Doctor Samuel Ramos",
    :longitude -101.1772241,
    :latitude 19.7000382,
@@ -383,7 +383,7 @@
    :longitude -99.6629881,
    :latitude 19.2467967,
    :source :openstreetmap,
-   :locality "Toluca"}
+   :location "Toluca"}
   {:name "Banda Los Reyes De San Juan",
    :longitude -99.2961743,
    :latitude 19.5868042,
@@ -418,7 +418,7 @@
    :longitude -99.1916111,
    :latitude 19.4294235,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Biblioteca CU Lagos Sede San Juan",
    :longitude -102.3239365,
    :latitude 21.2626584,
@@ -435,7 +435,7 @@
    :longitude -99.0791013,
    :latitude 19.7394008,
    :source :openstreetmap,
-   :locality "México"}
+   :location "México"}
   {:name "Boca Mina San Román",
    :longitude -101.2579608,
    :latitude 21.0435021,
@@ -464,7 +464,7 @@
    :longitude -97.0449606,
    :latitude 15.8360658,
    :source :openstreetmap,
-   :locality "Puerto Escondido"}
+   :location "Puerto Escondido"}
   {:name "canchas de futbol techadas",
    :longitude -103.4856003,
    :latitude 25.5558014,
@@ -477,7 +477,7 @@
    :longitude -101.2560812,
    :latitude 21.018406,
    :source :openstreetmap,
-   :locality "Guanajuato"}
+   :location "Guanajuato"}
   {:name "Capilla de la Virgen Dolorosa",
    :longitude -100.3803479,
    :latitude 20.5924342,
@@ -487,7 +487,7 @@
    :latitude 19.0441945,
    :source :openstreetmap,
    :homepage "https://www.udlap.mx/internas/capilladelarte.aspx",
-   :locality "Puebla"}
+   :location "Puebla"}
   {:name "Casa Amarilla",
    :longitude -111.6739704,
    :latitude 25.0331831,
@@ -573,7 +573,7 @@
    :longitude -99.1370251,
    :latitude 19.3736018,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Casa de Cultura de Tlalpan",
    :longitude -99.1922094,
    :latitude 19.2960795,
@@ -596,7 +596,7 @@
    :longitude -99.1394904,
    :latitude 19.5124665,
    :source :openstreetmap,
-   :locality "Ciudad de Mexico"}
+   :location "Ciudad de Mexico"}
   {:name "Casa de Cultura Las Jarillas",
    :longitude -99.109591,
    :latitude 19.3974063,
@@ -606,12 +606,12 @@
    :latitude 19.591519,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/casadeculturabanderilla",
-   :locality "Banderilla"}
+   :location "Banderilla"}
   {:name "Casa de danza",
    :longitude -99.609835,
    :latitude 19.2608809,
    :source :openstreetmap,
-   :locality "Metepec"}
+   :location "Metepec"}
   {:name "Casa de dia y centro Cultural ISSSTE",
    :longitude -99.6702361,
    :latitude 19.2895476,
@@ -712,7 +712,7 @@
    :longitude -96.9955466,
    :latitude 18.8972547,
    :source :openstreetmap,
-   :locality "Fortin"}
+   :location "Fortin"}
   {:name "Casa de la Cultura \"Aurora Ferat de Zamacona\"",
    :longitude -95.7974565,
    :latitude 18.3643979,
@@ -775,7 +775,7 @@
    :longitude -95.0235961,
    :latitude 16.4320687,
    :source :openstreetmap,
-   :locality "Juchitán de Zaragoza"}
+   :location "Juchitán de Zaragoza"}
   {:name "Casa de la Cultura de Loreto",
    :longitude -111.3548251,
    :latitude 26.0052813,
@@ -784,13 +784,13 @@
    :longitude -101.191652,
    :latitude 19.706299,
    :source :openstreetmap,
-   :locality "Morelia"}
+   :location "Morelia"}
   {:name "Casa de la Cultura de San Francisco del Rincón",
    :longitude -101.8586118,
    :latitude 21.0132817,
    :source :openstreetmap,
    :homepage "https://sanfrancisco.gob.mx/",
-   :locality "San Francisco del Rincón"}
+   :location "San Francisco del Rincón"}
   {:name "Casa de la Cultura de San Rafael",
    :longitude -96.8707156,
    :latitude 20.1931438,
@@ -812,7 +812,7 @@
    :latitude 19.2670252,
    :source :openstreetmap,
    :homepage "https://villadealvarez.gob.mx/",
-   :locality "Villa de Álvarez"}
+   :location "Villa de Álvarez"}
   {:name "Casa de la Cultura de Zacapu",
    :longitude -101.7918077,
    :latitude 19.8194073,
@@ -825,7 +825,7 @@
    :longitude -99.5671061,
    :latitude 24.861985,
    :source :openstreetmap,
-   :locality "Linares"}
+   :location "Linares"}
   {:name "Casa de la Cultura Los Héroes Tecámac",
    :longitude -99.0240827,
    :latitude 19.6242396,
@@ -838,7 +838,7 @@
    :longitude -101.188023,
    :latitude 20.1204519,
    :source :openstreetmap,
-   :locality "Moroleón"}
+   :location "Moroleón"}
   {:name "Casa de la Cultura Potosina",
    :longitude -101.0032996,
    :latitude 22.1484887,
@@ -994,14 +994,14 @@
    :latitude 19.0405056,
    :source :openstreetmap,
    :homepage "https://casanueve.org/",
-   :locality "Puebla"}
+   :location "Puebla"}
   {:name "Casa Presidencial Lázaro Cárdenas",
    :longitude -99.1914339,
    :latitude 19.4138313,
    :source :openstreetmap,
    :homepage
    "https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=2181",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Casa Rivas Mercado",
    :longitude -99.1466056,
    :latitude 19.4408967,
@@ -1023,7 +1023,7 @@
    :longitude -96.8227418,
    :latitude 17.2353967,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Casa Taller José Clemente Orozco",
    :longitude -103.3853453,
    :latitude 20.6739287,
@@ -1041,19 +1041,19 @@
    :latitude 20.6706742,
    :source :openstreetmap,
    :homepage "https://patrimonio.udg.mx/",
-   :locality "Guadalajara"}
+   :location "Guadalajara"}
   {:name "Casa-Museo Juan Escutia",
    :longitude -104.8907797,
    :latitude 21.5104915,
    :source :openstreetmap,
    :homepage
    "https://www.inah.gob.mx/es/red-de-museos/257-museo-regional-de-nayarit",
-   :locality "Tepic"}
+   :location "Tepic"}
   {:name "CasaLab",
    :longitude -92.6341473,
    :latitude 16.732161,
    :source :openstreetmap,
-   :locality "San Cristóbal de Las Casas"}
+   :location "San Cristóbal de Las Casas"}
   {:name "Casino Auditorio Ciudad Guzmán",
    :longitude -103.4589277,
    :latitude 19.7257023,
@@ -1089,12 +1089,12 @@
    :longitude -93.0614866,
    :latitude 18.1763907,
    :source :openstreetmap,
-   :locality "Jalpa de Méndez"}
+   :location "Jalpa de Méndez"}
   {:name "Centro Cultural \"El Castillito\"",
    :longitude -99.0097741,
    :latitude 19.4033731,
    :source :openstreetmap,
-   :locality "Nezahualcoyotl"}
+   :location "Nezahualcoyotl"}
   {:name "Centro Cultural \"Guillermo Saenz\"",
    :longitude -98.9599031,
    :latitude 22.9589569,
@@ -1108,12 +1108,12 @@
    :longitude -100.3968182,
    :latitude 20.6012282,
    :source :openstreetmap,
-   :locality "Querétaro"}
+   :location "Querétaro"}
   {:name "Centro Cultural Bicentenario",
    :longitude -88.7105724,
    :latitude 19.7447863,
    :source :openstreetmap,
-   :locality "José María Morelos"}
+   :location "José María Morelos"}
   {:name "Centro Cultural Bicentenario",
    :longitude -98.9435917,
    :latitude 20.2622838,
@@ -1126,7 +1126,7 @@
    :longitude -99.1147305,
    :latitude 19.4190324,
    :source :openstreetmap,
-   :locality "Venustiano Carranza"}
+   :location "Venustiano Carranza"}
   {:name "Centro Cultural Casa del Faldón",
    :longitude -100.3928007,
    :latitude 20.6007494,
@@ -1141,7 +1141,7 @@
    :source :openstreetmap,
    :homepage
    "https://portalweb.uacm.edu.mx/uacm/dcyeu/es-es/centrosculturales/casatalavera.aspx",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Centro Cultural Cuauhtémoc",
    :longitude -103.6011681,
    :latitude 19.3288415,
@@ -1154,7 +1154,7 @@
    :longitude -99.3365238,
    :latitude 19.9106783,
    :source :openstreetmap,
-   :locality "Tepeji del Río de Ocampo"}
+   :location "Tepeji del Río de Ocampo"}
   {:name "Centro Cultural del Bosque",
    :longitude -99.1954334,
    :latitude 19.4237268,
@@ -1163,7 +1163,7 @@
    :longitude -98.7407899,
    :latitude 20.1222156,
    :source :openstreetmap,
-   :locality "Pachuca de Soto"}
+   :location "Pachuca de Soto"}
   {:name "Centro Cultural del México Contemporáneo",
    :longitude -99.1342267,
    :latitude 19.4389514,
@@ -1173,7 +1173,7 @@
    :longitude -99.1585324,
    :latitude 19.3485618,
    :source :openstreetmap,
-   :locality "La Concepción"}
+   :location "La Concepción"}
   {:name "Centro Cultural Garambullo",
    :longitude -100.4555955,
    :latitude 20.6332126,
@@ -1182,7 +1182,7 @@
    :longitude -98.3476019,
    :latitude 19.4698073,
    :source :openstreetmap,
-   :locality "Hueyotlipan"}
+   :location "Hueyotlipan"}
   {:name "Centro Cultural Isidro Fabela",
    :longitude -99.8732811,
    :latitude 19.798144,
@@ -1208,7 +1208,7 @@
    :latitude 21.0223878,
    :source :openstreetmap,
    :homepage "https://www.lorcacentrocultural.com/",
-   :locality "Mérida"}
+   :location "Mérida"}
   {:name "Centro Cultural los Arquitos",
    :longitude -102.2821838,
    :latitude 21.8830546,
@@ -1237,7 +1237,7 @@
    :longitude -99.2081675,
    :latitude 19.5116984,
    :source :openstreetmap,
-   :locality "Mexico"}
+   :location "Mexico"}
   {:name "Centro Cultural Ollin",
    :longitude -98.980278,
    :latitude 19.6749887,
@@ -1255,7 +1255,7 @@
    :longitude -96.7802574,
    :latitude 16.8662611,
    :source :openstreetmap,
-   :locality "Zimatlán de Álvarez Oaxaca"}
+   :location "Zimatlán de Álvarez Oaxaca"}
   {:name "Centro Cultural Ricardo Garibay",
    :longitude -98.3695275,
    :latitude 20.0820758,
@@ -1285,12 +1285,12 @@
    :latitude 32.5304031,
    :source :openstreetmap,
    :homepage "https://www.cecut.gob.mx",
-   :locality "Tijuana"}
+   :location "Tijuana"}
   {:name "Centro Cultural Treboles TyA",
    :longitude -103.435831,
    :latitude 20.8236867,
    :source :openstreetmap,
-   :locality "Zapopan"}
+   :location "Zapopan"}
   {:name "Centro Cultural Tres Marías",
    :longitude -101.1262344,
    :latitude 19.7101009,
@@ -1316,7 +1316,7 @@
    :latitude 19.3636355,
    :source :openstreetmap,
    :homepage "www.dif.df.gob.mx",
-   :locality "Benito Juárez"}
+   :location "Benito Juárez"}
   {:name "Centro Cultural y Social Veracruzano",
    :longitude -99.1630071,
    :latitude 19.3440891,
@@ -1329,7 +1329,7 @@
    :longitude -99.1465808,
    :latitude 19.4839405,
    :source :openstreetmap,
-   :locality "CDMX"}
+   :location "CDMX"}
   {:name "Centro De Arte Y Cultura",
    :longitude -99.608869,
    :latitude 19.2839954,
@@ -1346,12 +1346,12 @@
    :longitude -98.2352197,
    :latitude 19.0534478,
    :source :openstreetmap,
-   :locality "Puebla"}
+   :location "Puebla"}
   {:name "Centro de artes del moviento Butoyolotl",
    :longitude -99.2270847,
    :latitude 19.3150314,
    :source :openstreetmap,
-   :locality "CDMX"}
+   :location "CDMX"}
   {:name "Centro de Artes y Oficios “CAO TIEMPO NUEVO”",
    :longitude -99.1941307,
    :latitude 19.2866291,
@@ -1367,13 +1367,13 @@
    :latitude 24.8292921,
    :source :openstreetmap,
    :homepage "http://www.ccs.net.mx/",
-   :locality "Culiacán"}
+   :location "Culiacán"}
   {:name "Centro de Ciencias Explora",
    :longitude -101.6588474,
    :latitude 21.1086314,
    :source :openstreetmap,
    :homepage "http://w.explora.edu.mx/",
-   :locality "León"}
+   :location "León"}
   {:name "Centro de Convenciones Francisco Zarco",
    :longitude -103.4769231,
    :latitude 25.549542,
@@ -1382,12 +1382,12 @@
    :longitude -99.0840561,
    :latitude 19.416747,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Centro de Convivencia Jardín Balbuena",
    :longitude -99.1079046,
    :latitude 19.4179357,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Centro de Cultura Ambiental",
    :longitude -99.1983355,
    :latitude 19.4107776,
@@ -1415,7 +1415,7 @@
    :latitude 19.2917406,
    :source :openstreetmap,
    :homepage "https://patrimonioyserviciosc.edomex.gob.mx/estampa",
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Centro De Formacion Artistica De Oaxaca",
    :longitude -96.7127354,
    :latitude 17.0523706,
@@ -1424,7 +1424,7 @@
    :longitude -96.7124994,
    :latitude 17.0802846,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Centro de Interpretación Ruta Don Vasco",
    :longitude -101.6156429,
    :latitude 19.5363453,
@@ -1434,7 +1434,7 @@
    :latitude 19.5364419,
    :source :openstreetmap,
    :homepage "https://tlalnepantla.gob.mx/",
-   :locality "Tlalnepantla"}
+   :location "Tlalnepantla"}
   {:name "Centro de la Imagen",
    :longitude -99.1488978,
    :latitude 19.428709,
@@ -1449,7 +1449,7 @@
    :latitude 19.4236049,
    :source :openstreetmap,
    :homepage "http://www.ceartlax.gob.mx/",
-   :locality "San Luis Apizaquito"}
+   :location "San Luis Apizaquito"}
   {:name "Centro De Yoga Y Danza Bobina",
    :longitude -99.5478269,
    :latitude 19.2468484,
@@ -1502,7 +1502,7 @@
    :longitude -99.071152,
    :latitude 19.411098,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Centro Social Los Oyameles",
    :longitude -99.3383668,
    :latitude 19.3051998,
@@ -1518,7 +1518,7 @@
    :source :openstreetmap,
    :homepage
    "https://portalweb.uacm.edu.mx/uacm/dcyeu/es-es/centrosculturales/centrovlady/centrovlady,ellugar.aspx",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Ceo 15",
    :longitude -96.6487385,
    :latitude 17.0745071,
@@ -1535,7 +1535,7 @@
    :longitude -95.1910146,
    :latitude 16.1743106,
    :source :openstreetmap,
-   :locality "Salina Cruz"}
+   :location "Salina Cruz"}
   {:name "Choco-Story",
    :longitude -89.7673853,
    :latitude 20.3638253,
@@ -1594,7 +1594,7 @@
    :longitude -99.1696046,
    :latitude 19.3496241,
    :source :openstreetmap,
-   :locality "Mexico City"}
+   :location "Mexico City"}
   {:name "Concha acustica",
    :longitude -99.2085979,
    :latitude 19.6575577,
@@ -1659,7 +1659,7 @@
    :longitude -100.3145171,
    :latitude 25.7009417,
    :source :openstreetmap,
-   :locality "monterrey"}
+   :location "monterrey"}
   {:name "Dada",
    :longitude -101.0319595,
    :latitude 22.1419376,
@@ -1691,7 +1691,7 @@
    :latitude 20.9067802,
    :source :openstreetmap,
    :homepage "https://danyeljoyart.com",
-   :locality "San Miguel de Allende"}
+   :location "San Miguel de Allende"}
   {:name "De estomatologia",
    :longitude -98.2149951,
    :latitude 19.0388451,
@@ -1736,12 +1736,12 @@
    :longitude -99.5825605,
    :latitude 19.1934007,
    :source :openstreetmap,
-   :locality "San Andres Ocotlan"}
+   :location "San Andres Ocotlan"}
   {:name "Eco-Museo de Sitio Tehuelibampo",
    :longitude -109.2320296,
    :latitude 27.2316236,
    :source :openstreetmap,
-   :locality "Barrio Cantúa"}
+   :location "Barrio Cantúa"}
   {:name "Edificio de los Sueños",
    :longitude -106.4807053,
    :latitude 31.7379034,
@@ -1800,7 +1800,7 @@
    :longitude -99.5893036,
    :latitude 19.2817797,
    :source :openstreetmap,
-   :locality "Toluca"}
+   :location "Toluca"}
   {:name "Escuela Armonia Musical",
    :longitude -99.7657084,
    :latitude 19.5688113,
@@ -1825,7 +1825,7 @@
    :longitude -99.6434046,
    :latitude 19.2960638,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Escuela De Canto Evocal Studio",
    :longitude -99.2425892,
    :latitude 19.3386638,
@@ -1838,7 +1838,7 @@
    :longitude -99.7122252,
    :latitude 19.2852411,
    :source :openstreetmap,
-   :locality "Zinacantepec"}
+   :location "Zinacantepec"}
   {:name "Escuela De Danza Aerea Octubrolua",
    :longitude -99.304608,
    :latitude 19.6226592,
@@ -1852,7 +1852,7 @@
    :longitude -99.5296703,
    :latitude 18.9769048,
    :source :openstreetmap,
-   :locality "Tenancingo"}
+   :location "Tenancingo"}
   {:name "Escuela De Musica In Crescendo",
    :longitude -99.6485438,
    :latitude 19.2723585,
@@ -1874,7 +1874,7 @@
    :latitude 17.0358542,
    :source :openstreetmap,
    :homepage "www.elad.edu.mx",
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Escuela Sor Juana Ines De La Cruz",
    :longitude -99.5701111,
    :latitude 19.1614917,
@@ -1892,7 +1892,7 @@
    :longitude -99.297456,
    :latitude 19.5583503,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Espectaculos Jackson Risitas",
    :longitude -99.4659275,
    :latitude 19.179615,
@@ -1901,7 +1901,7 @@
    :longitude -96.7409317,
    :latitude 17.0703899,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Estacion del Ferrocarril",
    :longitude -103.1827805,
    :latitude 20.2925293,
@@ -1942,7 +1942,7 @@
    :longitude -99.6930099,
    :latitude 19.2889474,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Evoke The Spirit",
    :longitude -105.4412532,
    :latitude 20.8694348,
@@ -1992,13 +1992,13 @@
    :longitude -98.7703222,
    :latitude 19.124979,
    :source :openstreetmap,
-   :locality "amecameca"}
+   :location "amecameca"}
   {:name "Fonoteca Nacional",
    :longitude -99.1769889,
    :latitude 19.3498012,
    :source :openstreetmap,
    :homepage "https://www.fonotecanacional.gob.mx/",
-   :locality "México D.F."}
+   :location "México D.F."}
   {:name "Foro Abierto Miguel Vélez Arceo",
    :longitude -96.9243392,
    :latitude 19.524094,
@@ -2011,14 +2011,14 @@
    :longitude -98.732779,
    :latitude 20.1286619,
    :source :openstreetmap,
-   :locality "Pachuca de Soto"}
+   :location "Pachuca de Soto"}
   {:name "Foro Cultural Ofelia Dominguez A.C.",
    :longitude -104.900966,
    :latitude 21.5072985,
    :source :openstreetmap,
    :homepage
    "https://ofeliadominguezfc.github.io/ofeliadominguez.org/index.html",
-   :locality "Tepic"}
+   :location "Tepic"}
   {:name "Foro de Arte y Cultura",
    :longitude -103.34846,
    :latitude 20.6999949,
@@ -2031,7 +2031,7 @@
    :longitude -99.2386939,
    :latitude 19.4929141,
    :source :openstreetmap,
-   :locality "Naucalpan"}
+   :location "Naucalpan"}
   {:name "Foro Landó Espacio Cultural y de Musica",
    :longitude -99.6593298,
    :latitude 19.3011278,
@@ -2048,7 +2048,7 @@
    :longitude -98.3070151,
    :latitude 19.0637181,
    :source :openstreetmap,
-   :locality "Cholula de Rivadavia"}
+   :location "Cholula de Rivadavia"}
   {:name "fosiles",
    :longitude -100.7897531,
    :latitude 18.5789601,
@@ -2082,20 +2082,20 @@
    :latitude 19.3086135,
    :source :openstreetmap,
    :homepage "www.fundacioncadavieco.org",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Galeana 100 Museo del Alma Artesanal",
    :longitude -99.6571511,
    :latitude 19.2898263,
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/profile.php?id=61558944779356&mibextid=ZbWKwL",
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Galeria Ascender",
    :longitude -100.744243,
    :latitude 20.919042,
    :source :openstreetmap,
    :homepage "https://www.juanzaragoza.com/",
-   :locality "San Miguel de Allende"}
+   :location "San Miguel de Allende"}
   {:name "Galeria De Arte Serendipia",
    :longitude -96.7192179,
    :latitude 17.0597309,
@@ -2105,18 +2105,18 @@
    :longitude -99.6056271,
    :latitude 19.2516008,
    :source :openstreetmap,
-   :locality "Metepec"}
+   :location "Metepec"}
   {:name "Galeria de cultura",
    :longitude -93.1708354,
    :latitude 18.0702114,
    :source :openstreetmap,
-   :locality "Cunduacán"}
+   :location "Cunduacán"}
   {:name "Galeria Diana",
    :longitude -97.068302,
    :latitude 15.8642059,
    :source :openstreetmap,
    :homepage "www.galeriapuertoecondido.com",
-   :locality "Puerto Escondido"}
+   :location "Puerto Escondido"}
   {:name "Galeria Mercado Negro",
    :longitude -98.2962372,
    :latitude 19.0603324,
@@ -2147,7 +2147,7 @@
    :longitude -98.7354241,
    :latitude 20.1181992,
    :source :openstreetmap,
-   :locality "Pachuca de Soto"}
+   :location "Pachuca de Soto"}
   {:name "Galería de Arte Contemporáneo de Xalapa",
    :longitude -96.9153133,
    :latitude 19.5294081,
@@ -2203,12 +2203,12 @@
    :longitude -100.3898743,
    :latitude 20.5925057,
    :source :openstreetmap,
-   :locality "Santiago de Querétaro"}
+   :location "Santiago de Querétaro"}
   {:name "Galería MUY",
    :longitude -92.6286894,
    :latitude 16.7385891,
    :source :openstreetmap,
-   :locality "San Cristóbal de las Casas"}
+   :location "San Cristóbal de las Casas"}
   {:name "Galería Oscar Román",
    :longitude -99.1975664,
    :latitude 19.4276614,
@@ -2222,7 +2222,7 @@
    :latitude 16.7421737,
    :source :openstreetmap,
    :homepage "https://www.studiocerrillo.com/",
-   :locality "San Cristóbal de Las Casas"}
+   :location "San Cristóbal de Las Casas"}
   {:name "Galería universitaria.",
    :longitude -116.9649005,
    :latitude 32.531944,
@@ -2232,7 +2232,7 @@
    :latitude 20.6392308,
    :source :openstreetmap,
    :homepage "https://www.rodopadilla.com/",
-   :locality "San Pedro Tlaquepaque"}
+   :location "San Pedro Tlaquepaque"}
   {:name "Gran Museo de Chichén Itzá",
    :longitude -88.5669933,
    :latitude 20.6899544,
@@ -2266,7 +2266,7 @@
    :longitude -96.7082016,
    :latitude 17.0649199,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Grupo Musical Familia y Amigos",
    :longitude -96.7228067,
    :latitude 17.0773486,
@@ -2291,12 +2291,12 @@
    :longitude -99.4197056,
    :latitude 18.9747913,
    :source :openstreetmap,
-   :locality "Ocuilan"}
+   :location "Ocuilan"}
   {:name "Grupo Musical Manazo",
    :longitude -99.7344033,
    :latitude 19.3032436,
    :source :openstreetmap,
-   :locality "Zinacantepec"}
+   :location "Zinacantepec"}
   {:name "Grupo Sanics",
    :longitude -99.4312354,
    :latitude 19.1374387,
@@ -2309,7 +2309,7 @@
    :longitude -99.6548487,
    :latitude 19.3257255,
    :source :openstreetmap,
-   :locality "San Pablo Autopan"}
+   :location "San Pablo Autopan"}
   {:name "Gs Jazz Escuela De Baile",
    :longitude -99.7151253,
    :latitude 19.3008897,
@@ -2318,7 +2318,7 @@
    :longitude -105.3686742,
    :latitude 26.3833227,
    :source :openstreetmap,
-   :locality "Canutillo"}
+   :location "Canutillo"}
   {:name "Hacienda del Cochero",
    :longitude -101.2556781,
    :latitude 21.0364519,
@@ -2355,7 +2355,7 @@
    :longitude -110.9404498,
    :latitude 31.307175,
    :source :openstreetmap,
-   :locality "Nogales"}
+   :location "Nogales"}
   {:name "Instituto Cultural Cabañas",
    :longitude -103.3374907,
    :latitude 20.676885,
@@ -2409,19 +2409,19 @@
    :latitude 20.6830266,
    :source :openstreetmap,
    :homepage "https://jovem.org/",
-   :locality "Zapopan"}
+   :location "Zapopan"}
   {:name "Jupiterfab",
    :longitude -103.3564685,
    :latitude 20.6666447,
    :source :openstreetmap,
    :homepage "https://www.jupiterfab.com/",
-   :locality "Guadalajara"}
+   :location "Guadalajara"}
   {:name "Kinoki",
    :longitude -92.6355359,
    :latitude 16.7373808,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/kinokisancris/",
-   :locality "San Cristóbal de las Casas"}
+   :location "San Cristóbal de las Casas"}
   {:name "Kolors Taller De Arte Y Regalos",
    :longitude -99.571461,
    :latitude 19.259324,
@@ -2434,12 +2434,12 @@
    :longitude -105.0245889,
    :latitude 19.4434883,
    :source :openstreetmap,
-   :locality "Pueblo Careyes"}
+   :location "Pueblo Careyes"}
   {:name "La Burbuja, Museo del Niño",
    :longitude -110.9256125,
    :latitude 29.0729488,
    :source :openstreetmap,
-   :locality "Hermosillo"}
+   :location "Hermosillo"}
   {:name "La Calera",
    :longitude -96.7389308,
    :latitude 17.0769297,
@@ -2456,7 +2456,7 @@
    :longitude -100.3450447,
    :latitude 19.4331965,
    :source :openstreetmap,
-   :locality "Zitácuaro"}
+   :location "Zitácuaro"}
   {:name "La Ceiba Gráfica",
    :longitude -96.9369053,
    :latitude 19.4529687,
@@ -2485,7 +2485,7 @@
    :longitude -99.5646983,
    :latitude 19.9731357,
    :source :openstreetmap,
-   :locality "Jilotepec"}
+   :location "Jilotepec"}
   {:name "La Huátapera",
    :longitude -102.062108,
    :latitude 19.4210554,
@@ -2495,7 +2495,7 @@
    :latitude 17.0472275,
    :source :openstreetmap,
    :homepage "https://centroculturallatelarana.wordpress.com/",
-   :locality "Oaxaca de Juarez"}
+   :location "Oaxaca de Juarez"}
   {:name "La Voz Del Mariachi",
    :longitude -99.7450735,
    :latitude 19.5582504,
@@ -2509,7 +2509,7 @@
    :longitude -98.9907571,
    :latitude 21.3854395,
    :source :openstreetmap,
-   :locality "Xilitla"}
+   :location "Xilitla"}
   {:name "Lienzo Charro",
    :longitude -99.2199223,
    :latitude 19.6596909,
@@ -2526,7 +2526,7 @@
    :longitude -99.2948295,
    :latitude 19.3522434,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Loyola Museum",
    :longitude -107.5391211,
    :latitude 27.6018043,
@@ -2540,7 +2540,7 @@
    :longitude -104.4539336,
    :latitude 24.7455078,
    :source :openstreetmap,
-   :locality "San Juan del Rio Municipality"}
+   :location "San Juan del Rio Municipality"}
   {:name "Lunaria",
    :longitude -103.3455302,
    :latitude 20.6952028,
@@ -2570,7 +2570,7 @@
    :longitude -99.5800835,
    :latitude 19.4380867,
    :source :openstreetmap,
-   :locality "San Lorenzo Oyamel"}
+   :location "San Lorenzo Oyamel"}
   {:name "Mariachi Cristal",
    :longitude -99.6159899,
    :latitude 19.1632878,
@@ -2591,7 +2591,7 @@
    :longitude -99.5785707,
    :latitude 19.4342319,
    :source :openstreetmap,
-   :locality "San Lorenzo Oyamel"}
+   :location "San Lorenzo Oyamel"}
   {:name "Mariachi Oaxaca",
    :longitude -96.7229269,
    :latitude 17.0458027,
@@ -2600,7 +2600,7 @@
    :longitude -96.7244442,
    :latitude 17.0516227,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Maricachi Moreta",
    :longitude -99.4584967,
    :latitude 19.3262449,
@@ -2613,7 +2613,7 @@
    :longitude -99.6538446,
    :latitude 19.2956244,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Marte Galeria Infantil",
    :longitude -96.800596,
    :latitude 17.2076377,
@@ -2643,7 +2643,7 @@
    :longitude -98.3299545,
    :latitude 19.0640244,
    :source :openstreetmap,
-   :locality "Puebla"}
+   :location "Puebla"}
   {:name "Mina el Nopal",
    :longitude -101.2592061,
    :latitude 21.0325379,
@@ -2674,7 +2674,7 @@
    :longitude -113.0852375,
    :latitude 28.0512062,
    :source :openstreetmap,
-   :locality "Misión Santa Gertrudis la Magna"}
+   :location "Misión Santa Gertrudis la Magna"}
   {:name "Monasterio de San José",
    :longitude -98.8588205,
    :latitude 19.558328,
@@ -2701,7 +2701,7 @@
    :latitude 32.5296604,
    :source :openstreetmap,
    :homepage "https://mullme.com",
-   :locality "Tijuana"}
+   :location "Tijuana"}
   {:name "Mumeia",
    :longitude -100.8194896,
    :latitude 20.5341139,
@@ -2715,7 +2715,7 @@
    :latitude 19.3552357,
    :source :openstreetmap,
    :homepage "https://www.mundocallado.com/",
-   :locality "Ciudad de Mexico"}
+   :location "Ciudad de Mexico"}
   {:name "Mureh",
    :longitude -97.7750755,
    :latitude 17.8089745,
@@ -2786,14 +2786,14 @@
    :longitude -101.5887917,
    :latitude 19.5462198,
    :source :openstreetmap,
-   :locality "Tzurumútaro"}
+   :location "Tzurumútaro"}
   {:name "Museo Alberto Isaac",
    :longitude -103.7092792,
    :latitude 19.2770433,
    :source :openstreetmap,
    :homepage
    "https://sic.cultura.gob.mx/ficha.php?table=biblioteca&table_id=7097",
-   :locality "Colima"}
+   :location "Colima"}
   {:name "Museo Archeológico",
    :longitude -104.7869623,
    :latitude 20.522854,
@@ -2843,7 +2843,7 @@
    :longitude -96.923078,
    :latitude 19.5288504,
    :source :openstreetmap,
-   :locality "Xalapa"}
+   :location "Xalapa"}
   {:name "Museo Bebeleche",
    :longitude -104.6913659,
    :latitude 24.0211345,
@@ -2900,7 +2900,7 @@
    :longitude -99.1757692,
    :latitude 19.3742775,
    :source :openstreetmap,
-   :locality "México City"}
+   :location "México City"}
   {:name "Museo casa morelos",
    :longitude -102.3540163,
    :latitude 19.0873944,
@@ -2924,7 +2924,7 @@
    :longitude -97.4973027,
    :latitude 25.877833,
    :source :openstreetmap,
-   :locality "Matamoros"}
+   :location "Matamoros"}
   {:name "Museo Chiapas de Ciencia y Tecnologia (MUCH)",
    :longitude -93.0917046,
    :latitude 16.7226657,
@@ -2937,12 +2937,12 @@
    :longitude -99.0935057,
    :latitude 19.2967726,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Museo Cihuapili",
    :longitude -102.3337811,
    :latitude 21.2450499,
    :source :openstreetmap,
-   :locality "San Juan de los Lagos"}
+   :location "San Juan de los Lagos"}
   {:name "Museo Coahuila y Texas",
    :longitude -101.4154264,
    :latitude 26.9072982,
@@ -2955,7 +2955,7 @@
    :longitude -103.1246304,
    :latitude 21.3640422,
    :source :openstreetmap,
-   :locality "El Remolino, Juchipila, Zacatecas"}
+   :location "El Remolino, Juchipila, Zacatecas"}
   {:name "Museo Comunitario",
    :longitude -97.325777,
    :latitude 19.7960207,
@@ -3014,7 +3014,7 @@
    :latitude 17.1664265,
    :source :openstreetmap,
    :homepage "http://sic.gob.mx/ficha.php?table=museo&table_id=315",
-   :locality "Nazareno Etla"}
+   :location "Nazareno Etla"}
   {:name "Museo Comunitario de Yaxché",
    :longitude -88.0892384,
    :latitude 20.7185999,
@@ -3023,7 +3023,7 @@
    :longitude -98.6485617,
    :latitude 19.908429,
    :source :openstreetmap,
-   :locality "Zempoala"}
+   :location "Zempoala"}
   {:name "Museo Comunitario El Minero",
    :longitude -105.8177519,
    :latitude 26.8019936,
@@ -3060,7 +3060,7 @@
    :longitude -98.9268818,
    :latitude 19.8787643,
    :source :openstreetmap,
-   :locality "Tizayuca"}
+   :location "Tizayuca"}
   {:name "Museo Comunitario Tlamayocan",
    :longitude -97.5593445,
    :latitude 18.6012195,
@@ -3085,7 +3085,7 @@
    :longitude -100.850003,
    :latitude 25.4505799,
    :source :openstreetmap,
-   :locality "Arteaga, Coahuila"}
+   :location "Arteaga, Coahuila"}
   {:name "Museo Cultural Tziscao",
    :longitude -91.6666128,
    :latitude 16.0878079,
@@ -3107,7 +3107,7 @@
    :longitude -99.702041,
    :latitude 19.2740656,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Museo de Antropología e Historia",
    :longitude -110.3087532,
    :latitude 24.1595828,
@@ -3157,7 +3157,7 @@
    :latitude 25.6647076,
    :source :openstreetmap,
    :homepage "https://www.marco.org.mx/",
-   :locality "Monterrey"}
+   :location "Monterrey"}
   {:name "Museo de Arte Contemporáneo Querétaro",
    :longitude -100.3840596,
    :latitude 20.5926261,
@@ -3174,12 +3174,12 @@
    :longitude -110.9444261,
    :latitude 31.3305249,
    :source :openstreetmap,
-   :locality "Nogales"}
+   :location "Nogales"}
   {:name "Museo de Arte de Santa María Coyotepec",
    :longitude -96.7065458,
    :latitude 16.9667969,
    :source :openstreetmap,
-   :locality "Santa María Coyotepec"}
+   :location "Santa María Coyotepec"}
   {:name "Museo de Arte del Estado de Veracruz",
    :longitude -97.0932959,
    :latitude 18.8507112,
@@ -3197,12 +3197,12 @@
    :latitude 17.0633433,
    :source :openstreetmap,
    :homepage "http://www.rufinotamayo.galeon.com/",
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Museo de Arte Religioso Ex Convento de Santa Mónica",
    :longitude -98.1951356,
    :latitude 19.0514466,
    :source :openstreetmap,
-   :locality "Puebla"}
+   :location "Puebla"}
   {:name "Museo de Arte Sacro",
    :longitude -101.9310039,
    :latitude 21.3562335,
@@ -3215,7 +3215,7 @@
    :longitude -103.609096,
    :latitude 19.8832988,
    :source :openstreetmap,
-   :locality "Sayula"}
+   :location "Sayula"}
   {:name "Museo de arte virreinal",
    :longitude -99.6042292,
    :latitude 18.5568476,
@@ -3274,14 +3274,14 @@
    :longitude -89.7820105,
    :latitude 21.1318098,
    :source :openstreetmap,
-   :locality "Mérida"}
+   :location "Mérida"}
   {:name "Museo de Ciencia y Tecnología Xoloitzcuintle",
    :longitude -103.7140809,
    :latitude 19.2395223,
    :source :openstreetmap,
    :homepage
    "http://culturacolima.gob.mx/xoloitzcuintle-ciencia-y-tecnologia/",
-   :locality "Colima"}
+   :location "Colima"}
   {:name "Museo de Ciencias Naturales",
    :longitude -99.6616476,
    :latitude 19.282515,
@@ -3342,7 +3342,7 @@
    :longitude -93.3771111,
    :latitude 17.9876253,
    :source :openstreetmap,
-   :locality "cardenas"}
+   :location "cardenas"}
   {:name "Museo de historia",
    :longitude -97.3432305,
    :latitude 17.5268891,
@@ -3356,12 +3356,12 @@
    :longitude -89.6391807,
    :latitude 20.9709759,
    :source :openstreetmap,
-   :locality "Mérida"}
+   :location "Mérida"}
   {:name "Museo de historia natural",
    :longitude -99.0368423,
    :latitude 19.5469064,
    :source :openstreetmap,
-   :locality "mexico"}
+   :location "mexico"}
   {:name "Museo de Historia Natural",
    :longitude -102.2862641,
    :latitude 21.8527886,
@@ -3384,7 +3384,7 @@
    :longitude -99.5332012,
    :latitude 19.9508254,
    :source :openstreetmap,
-   :locality "Jilotepec"}
+   :location "Jilotepec"}
   {:name "Museo de Juan Pablo II",
    :longitude -102.415306,
    :latitude 21.1068881,
@@ -3416,7 +3416,7 @@
    :longitude -99.3839644,
    :latitude 19.2953802,
    :source :openstreetmap,
-   :locality "Lerma"}
+   :location "Lerma"}
   {:name "Museo de la casa de Zapata",
    :longitude -98.9865046,
    :latitude 18.7768104,
@@ -3433,7 +3433,7 @@
    :longitude -100.3957851,
    :latitude 20.5930226,
    :source :openstreetmap,
-   :locality "Querétaro"}
+   :location "Querétaro"}
   {:name "Museo de la Ciudad",
    :longitude -103.3521495,
    :latitude 20.6781168,
@@ -3444,7 +3444,7 @@
    :longitude -106.858521,
    :latitude 28.4047767,
    :source :openstreetmap,
-   :locality "Cd. Cuauhtémoc"}
+   :location "Cd. Cuauhtémoc"}
   {:name "Museo de la Ciudad",
    :longitude -101.6791235,
    :latitude 21.1230608,
@@ -3482,7 +3482,7 @@
    :latitude 20.9772734,
    :source :openstreetmap,
    :homepage "https://www.museodelaluz.unam.mx",
-   :locality "Mérida"}
+   :location "Mérida"}
   {:name "Museo de la Magia del Pasado",
    :longitude -100.4108442,
    :latitude 20.5930307,
@@ -3507,7 +3507,7 @@
    :longitude -100.5051446,
    :latitude 26.5360158,
    :source :openstreetmap,
-   :locality "Bustamante"}
+   :location "Bustamante"}
   {:name "Museo de la Milpa",
    :longitude -96.7311151,
    :latitude 17.050402,
@@ -3591,7 +3591,7 @@
    :longitude -100.5003279,
    :latitude 26.5350896,
    :source :openstreetmap,
-   :locality "Bustamante"}
+   :location "Bustamante"}
   {:name "Museo de las Culturas",
    :longitude -99.0876395,
    :latitude 19.3576774,
@@ -3616,7 +3616,7 @@
    :longitude -111.3435484,
    :latitude 26.0102908,
    :source :openstreetmap,
-   :locality "Loreto"}
+   :location "Loreto"}
   {:name "Museo de las momias",
    :longitude -89.6414781,
    :latitude 20.3279107,
@@ -3634,7 +3634,7 @@
    :longitude -117.0560034,
    :latitude 32.3714139,
    :source :openstreetmap,
-   :locality "Playas de Rosarito"}
+   :location "Playas de Rosarito"}
   {:name "Museo de los Metales",
    :longitude -103.4449524,
    :latitude 25.5232943,
@@ -3672,7 +3672,7 @@
    :longitude -113.5609439,
    :latitude 28.9480654,
    :source :openstreetmap,
-   :locality "Bahía de los Ángeles"}
+   :location "Bahía de los Ángeles"}
   {:name "Museo de Nuestra Señora del Rosario de Talpa",
    :longitude -104.8211661,
    :latitude 20.3809949,
@@ -3704,18 +3704,18 @@
    :longitude -112.8988471,
    :latitude 27.2832722,
    :source :openstreetmap,
-   :locality "San Ignacio"}
+   :location "San Ignacio"}
   {:name "Museo de Ripley",
    :longitude -99.1567641,
    :latitude 19.4285671,
    :source :openstreetmap,
    :homepage "https://museodecera.com.mx/museo-de-ripley-cdmx",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Museo de Ripley´s Aunque usted no lo crea!",
    :longitude -103.3451246,
    :latitude 20.6765941,
    :source :openstreetmap,
-   :locality "Guadalajara"}
+   :location "Guadalajara"}
   {:name "Museo de ropa etnica de Mexico",
    :longitude -88.2010994,
    :latitude 20.683823,
@@ -3843,7 +3843,7 @@
    :longitude -103.46824,
    :latitude 25.537058,
    :source :openstreetmap,
-   :locality "Torreón"}
+   :location "Torreón"}
   {:name "Museo del Ambar de Chiapas",
    :longitude -92.6421618,
    :latitude 16.7358432,
@@ -3881,7 +3881,7 @@
    :longitude -99.1377634,
    :latitude 19.450176,
    :source :openstreetmap,
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "MUSEO DEL CERRITO",
    :longitude -100.4415184,
    :latitude 20.5514247,
@@ -3898,7 +3898,7 @@
    :longitude -105.4897745,
    :latitude 28.1672648,
    :source :openstreetmap,
-   :locality "Delicias"}
+   :location "Delicias"}
   {:name "Museo del Dulce",
    :longitude -101.187199,
    :latitude 19.7026584,
@@ -3912,7 +3912,7 @@
    :longitude -103.3325484,
    :latitude 20.6693576,
    :source :openstreetmap,
-   :locality "Guadalajara"}
+   :location "Guadalajara"}
   {:name "Museo del Ejercito y Fuerza Aérea Mexicanos",
    :longitude -98.2078409,
    :latitude 19.0484104,
@@ -3965,7 +3965,7 @@
    :latitude 21.2883818,
    :source :openstreetmap,
    :homepage "https://www.culturyucatan.com/es/museos/meteorito",
-   :locality "Progreso"}
+   :location "Progreso"}
   {:name "Museo del Mineral de Nuestra Señora",
    :longitude -106.6099246,
    :latitude 24.4024131,
@@ -3985,7 +3985,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.inah.gob.mx/es/red-de-museos/228-museo-historico-de-cuautla-casa-de-morelos",
-   :locality "Cuautla"}
+   :location "Cuautla"}
   {:name "Museo del Origen",
    :longitude -105.4751779,
    :latitude 21.9061681,
@@ -4010,7 +4010,7 @@
    :longitude -103.4344492,
    :latitude 20.6351874,
    :source :openstreetmap,
-   :locality "Zapopan"}
+   :location "Zapopan"}
   {:name "Museo del Primer Milagro",
    :longitude -102.3370579,
    :latitude 21.2446129,
@@ -4020,7 +4020,7 @@
    :latitude 19.3669249,
    :source :openstreetmap,
    :homepage "https://sic.gob.mx/ficha.php?table=museo&table_id=1877",
-   :locality "CDMX"}
+   :location "CDMX"}
   {:name "Museo del Señor del Encino",
    :longitude -102.8491021,
    :latitude 21.0737655,
@@ -4086,7 +4086,7 @@
    :longitude -112.2673752,
    :latitude 27.3388822,
    :source :openstreetmap,
-   :locality "Santa Rosalía"}
+   :location "Santa Rosalía"}
   {:name "Museo El Cafétal Apan",
    :longitude -96.9244632,
    :latitude 19.4405938,
@@ -4156,7 +4156,7 @@
    :longitude -102.5776067,
    :latitude 22.7704081,
    :source :openstreetmap,
-   :locality "Zacatecas"}
+   :location "Zacatecas"}
   {:name "Museo Francisco Sarabia",
    :longitude -103.5209359,
    :latitude 25.542911,
@@ -4165,7 +4165,7 @@
    :longitude -105.6727274,
    :latitude 26.9329069,
    :source :openstreetmap,
-   :locality "Hidalgo del Parral"}
+   :location "Hidalgo del Parral"}
   {:name "Museo Frisell de Arte Zapoteca Mitla",
    :longitude -96.3633128,
    :latitude 16.9219898,
@@ -4201,7 +4201,7 @@
    :longitude -112.2456738,
    :latitude 27.0661142,
    :source :openstreetmap,
-   :locality "San José de Magdalena"}
+   :location "San José de Magdalena"}
   {:name "Museo Hermenegildo Bustos",
    :longitude -101.8781781,
    :latitude 21.0287264,
@@ -4214,7 +4214,7 @@
    :longitude -98.8344429,
    :latitude 26.3155101,
    :source :openstreetmap,
-   :locality "Ciudad Camargo"}
+   :location "Ciudad Camargo"}
   {:name "Museo historico de Múzquiz",
    :longitude -101.5157168,
    :latitude 27.8767788,
@@ -4282,7 +4282,7 @@
    :latitude 19.4516367,
    :source :openstreetmap,
    :homepage "http://www.cdi.gob.mx/",
-   :locality "Cuauhtémoc"}
+   :location "Cuauhtémoc"}
   {:name "Museo INEEL",
    :longitude -99.2173782,
    :latitude 18.8781078,
@@ -4307,7 +4307,7 @@
    :longitude -104.8494424,
    :latitude 21.4815856,
    :source :openstreetmap,
-   :locality "Tepic"}
+   :location "Tepic"}
   {:name "Museo Interactivo de la batalla 5 de Mayo",
    :longitude -98.1804855,
    :latitude 19.0548991,
@@ -4320,12 +4320,12 @@
    :longitude -92.9658894,
    :latitude 18.0059382,
    :source :openstreetmap,
-   :locality "Villahermosa"}
+   :location "Villahermosa"}
   {:name "Museo IRBAM",
    :longitude -97.507421,
    :latitude 25.8855289,
    :source :openstreetmap,
-   :locality "Heroica Matamoros"}
+   :location "Heroica Matamoros"}
   {:name "Museo J. Guadalupe Mendoza",
    :longitude -103.7906888,
    :latitude 18.9020819,
@@ -4359,7 +4359,7 @@
    :longitude -103.1415867,
    :latitude 25.4899453,
    :source :openstreetmap,
-   :locality "Congregación Hidalgo"}
+   :location "Congregación Hidalgo"}
   {:name "Museo Jurásica",
    :longitude -99.0539628,
    :latitude 19.5960018,
@@ -4369,7 +4369,7 @@
    :latitude 19.4376069,
    :source :openstreetmap,
    :homepage "https://www.conartemx.net/lanana",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "museo la cruz",
    :longitude -106.8927728,
    :latitude 23.9138293,
@@ -4379,13 +4379,13 @@
    :latitude 20.9146948,
    :source :openstreetmap,
    :homepage "https://www.maskmuseumsma.com/index.html",
-   :locality "San Miguel de Allende"}
+   :location "San Miguel de Allende"}
   {:name "Museo La Milarca",
    :longitude -100.3271857,
    :latitude 25.6442862,
    :source :openstreetmap,
    :homepage "https://museolamilarca.mx/",
-   :locality "San Pedro Garza García"}
+   :location "San Pedro Garza García"}
   {:name "Museo Laberinto de las Ciencias y las Artes",
    :longitude -100.9988602,
    :latitude 22.1174747,
@@ -4399,12 +4399,12 @@
    :longitude -102.9812768,
    :latitude 25.7588401,
    :source :openstreetmap,
-   :locality "San Pedro de las Colonias"}
+   :location "San Pedro de las Colonias"}
   {:name "Museo Manuel K'ulub",
    :longitude -92.3447705,
    :latitude 16.7896207,
    :source :openstreetmap,
-   :locality "Oxchuc"}
+   :location "Oxchuc"}
   {:name "Museo Marino Tecolutla",
    :longitude -97.0058618,
    :latitude 20.4753426,
@@ -4419,7 +4419,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.inah.gob.mx/es/red-de-museos/313-museo-maya-de-cancun",
-   :locality "Cancún"}
+   :location "Cancún"}
   {:name "Museo Maya Santa Cruz Xbáalam Naj",
    :longitude -88.0453464,
    :latitude 19.5775457,
@@ -4458,13 +4458,13 @@
    :latitude 19.0430684,
    :source :openstreetmap,
    :homepage "http://sic.gob.mx/ficha.php?table=museo&table_id=882",
-   :locality "Puebla"}
+   :location "Puebla"}
   {:name "Museo Morelense de Arte Contemporáneo Juan Soriano",
    :longitude -99.2304812,
    :latitude 18.9230925,
    :source :openstreetmap,
    :homepage "http://mmacjuansoriano.org/",
-   :locality "Cuernavaca"}
+   :location "Cuernavaca"}
   {:name "Museo Morelense de Arte Popular",
    :longitude -99.2357161,
    :latitude 18.9210363,
@@ -4511,7 +4511,7 @@
    :latitude 20.8122078,
    :source :openstreetmap,
    :homepage "http://sic.gob.mx/ficha.php?table=museo&table_id=74",
-   :locality "Tepatitlán"}
+   :location "Tepatitlán"}
   {:name "Museo Municipal Santiago de Anaya",
    :longitude -98.9642027,
    :latitude 20.382656,
@@ -4520,12 +4520,12 @@
    :longitude -101.9568271,
    :latitude 22.1647024,
    :source :openstreetmap,
-   :locality "Villa García, Zacatecas"}
+   :location "Villa García, Zacatecas"}
   {:name "Museo Naciona de la Ceramica",
    :longitude -103.2429978,
    :latitude 20.6267432,
    :source :openstreetmap,
-   :locality "Tonala"}
+   :location "Tonala"}
   {:name "Museo Nacional de agricultura",
    :longitude -98.8889506,
    :latitude 19.4923113,
@@ -4572,13 +4572,13 @@
    :latitude 19.4396397,
    :source :openstreetmap,
    :homepage "https://pem.facmed.unam.mx/",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Museo Padre Pro",
    :longitude -99.1609696,
    :latitude 19.4225853,
    :source :openstreetmap,
    :homepage "https://padrepro.com.mx/museo/",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Museo Padre Ricardo Nieves Barba",
    :longitude -102.3226954,
    :latitude 22.2248064,
@@ -4626,12 +4626,12 @@
    :longitude -96.1386548,
    :latitude 19.2016963,
    :source :openstreetmap,
-   :locality "Veracruz"}
+   :location "Veracruz"}
   {:name "Museo Regional",
    :longitude -95.2114478,
    :latitude 18.4475045,
    :source :openstreetmap,
-   :locality "San Andres Tuxtla"}
+   :location "San Andres Tuxtla"}
   {:name "Museo Regional Comunitario",
    :longitude -95.0870917,
    :latitude 18.2311152,
@@ -4716,7 +4716,7 @@
    :longitude -95.6598642,
    :latitude 18.612472,
    :source :openstreetmap,
-   :locality "Tlacotalpan"}
+   :location "Tlacotalpan"}
   {:name "Museo salón de la Fama Deportivo Toluca",
    :longitude -99.6657329,
    :latitude 19.287536,
@@ -4727,7 +4727,7 @@
    :latitude 28.6370882,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/SemillaMuseoInteractivo",
-   :locality "Chihuahua"}
+   :location "Chihuahua"}
   {:name "Museo Silvestre Rodriguez",
    :longitude -109.6896717,
    :latitude 30.3768252,
@@ -4757,7 +4757,7 @@
    :longitude -98.9973275,
    :latitude 21.9664594,
    :source :openstreetmap,
-   :locality "Ciudad Valles"}
+   :location "Ciudad Valles"}
   {:name "Museo Tarahumara de Arte Popular",
    :longitude -107.634897,
    :latitude 27.7531198,
@@ -4767,7 +4767,7 @@
    :latitude 18.8934333,
    :source :openstreetmap,
    :homepage "http://www.tatsugoro.com/",
-   :locality "Fortín de las Flores"}
+   :location "Fortín de las Flores"}
   {:name "Museo Teoton",
    :longitude -98.4805493,
    :latitude 19.0750333,
@@ -4825,7 +4825,7 @@
    :latitude 19.4419482,
    :source :openstreetmap,
    :homepage "https://www.chopo.unam.mx/",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "Museo Universitario Dr Luis Mario Schneider",
    :longitude -99.5013566,
    :latitude 18.9514277,
@@ -4834,7 +4834,7 @@
    :longitude -98.2154307,
    :latitude 19.0482677,
    :source :openstreetmap,
-   :locality "Puebla"}
+   :location "Puebla"}
   {:name "Museo Valle del Pilon",
    :longitude -99.8189697,
    :latitude 25.1935271,
@@ -4843,7 +4843,7 @@
    :longitude -91.7650495,
    :latitude 17.7451522,
    :source :openstreetmap,
-   :locality "e"}
+   :location "e"}
   {:name "Museo vieja estación de ferrocarril",
    :longitude -99.2379044,
    :latitude 19.3047164,
@@ -4888,7 +4888,7 @@
    :longitude -93.1770118,
    :latitude 18.0657368,
    :source :openstreetmap,
-   :locality "Cunduacán"}
+   :location "Cunduacán"}
   {:name "Museo Yancuic",
    :longitude -99.0658156,
    :latitude 19.3460004,
@@ -4906,7 +4906,7 @@
    :latitude 28.8574627,
    :source :openstreetmap,
    :homepage "http://sic.gob.mx/ficha.php?table=museo&table_id=379",
-   :locality "Bahía de Kino"}
+   :location "Bahía de Kino"}
   {:name "Museum Los Abuelos",
    :longitude -103.839229,
    :latitude 20.885513,
@@ -4917,7 +4917,7 @@
    :source :openstreetmap,
    :homepage
    "https://lugares.inah.gob.mx/es/museos-inah/museo/404-museo-de-el-carmen.html?lugar_id=404&lugar_tipo=museos",
-   :locality "San Ángel"}
+   :location "San Ángel"}
   {:name "Musical Magicos",
    :longitude -96.7437266,
    :latitude 17.0737642,
@@ -4926,7 +4926,7 @@
    :longitude -99.5892696,
    :latitude 19.2615755,
    :source :openstreetmap,
-   :locality "Metepec"}
+   :location "Metepec"}
   {:name "Na Bolom",
    :longitude -92.6299435,
    :latitude 16.741687,
@@ -4957,7 +4957,7 @@
    :latitude 19.2753226,
    :source :openstreetmap,
    :homepage "https://ofit.com.mx/",
-   :locality "Toluca"}
+   :location "Toluca"}
   {:name "Oficina De Mariachi Son De Mi Tierra",
    :longitude -99.6138619,
    :latitude 19.1663321,
@@ -4966,12 +4966,12 @@
    :longitude -99.2669965,
    :latitude 19.4470382,
    :source :openstreetmap,
-   :locality "Naucalpan de Juárez"}
+   :location "Naucalpan de Juárez"}
   {:name "Orquesta sinfónica de Oaxaca",
    :longitude -96.7202501,
    :latitude 17.0683387,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Pabellón Don Vasco",
    :longitude -101.1820705,
    :latitude 19.727115,
@@ -4986,13 +4986,13 @@
    :latitude 19.3220869,
    :source :openstreetmap,
    :homepage "https://www.culturatlaxcala.com.mx/",
-   :locality "Tlaxcala de Xicohténcatl"}
+   :location "Tlaxcala de Xicohténcatl"}
   {:name "Palacio de la Cultura y la Comunicación (PALCCO)",
    :longitude -103.4296575,
    :latitude 20.7257419,
    :source :openstreetmap,
    :homepage "https://www.palcco.com/",
-   :locality "Zapopan"}
+   :location "Zapopan"}
   {:name "Palacio del Arte",
    :longitude -101.150546,
    :latitude 19.6892894,
@@ -5005,7 +5005,7 @@
    :longitude -99.2310932,
    :latitude 18.9343179,
    :source :openstreetmap,
-   :locality "Cuernavaca"}
+   :location "Cuernavaca"}
   {:name "Papalote•Museo del Niño",
    :longitude -99.1947653,
    :latitude 19.4117844,
@@ -5115,12 +5115,12 @@
    :latitude 18.848324,
    :source :openstreetmap,
    :homepage "https://www.orizaba.travel/poliforum-mier-y-pesado",
-   :locality "Orizaba"}
+   :location "Orizaba"}
   {:name "Portón Madera",
    :longitude -101.2521191,
    :latitude 21.0170554,
    :source :openstreetmap,
-   :locality "Guanajuato"}
+   :location "Guanajuato"}
   {:name "Producioon De Pinturas Artisticas",
    :longitude -96.6002265,
    :latitude 17.0083215,
@@ -5130,7 +5130,7 @@
    :latitude 18.93224,
    :source :openstreetmap,
    :homepage "https://www.saps-latallera.org/",
-   :locality "Cuernavaca"}
+   :location "Cuernavaca"}
   {:name "Quinta El Molino",
    :longitude -99.9344516,
    :latitude 25.8637346,
@@ -5147,7 +5147,7 @@
    :longitude -110.0580258,
    :latitude 23.8063657,
    :source :openstreetmap,
-   :locality "San Antonio"}
+   :location "San Antonio"}
   {:name "Recinto de la Revolución",
    :longitude -103.4969452,
    :latitude 25.5615838,
@@ -5178,7 +5178,7 @@
    :longitude -99.7306748,
    :latitude 19.250348,
    :source :openstreetmap,
-   :locality "Zinacantepec"}
+   :location "Zinacantepec"}
   {:name "Restos de la Madre \"Luisita\"",
    :longitude -102.5070557,
    :latitude 20.5492234,
@@ -5195,7 +5195,7 @@
    :longitude -99.2612547,
    :latitude 19.3890844,
    :source :openstreetmap,
-   :locality "Ciudad de Mexico"}
+   :location "Ciudad de Mexico"}
   {:name "Rodolfo Morales",
    :longitude -96.6745545,
    :latitude 16.7916328,
@@ -5213,7 +5213,7 @@
    :latitude 19.4290014,
    :source :openstreetmap,
    :homepage "https://www.saps-latallera.org/",
-   :locality "CDMX"}
+   :location "CDMX"}
   {:name "Sala De Artes \"Centenario de la Revolucion\"",
    :longitude -99.0501406,
    :latitude 19.2863945,
@@ -5263,7 +5263,7 @@
    :latitude 19.4195773,
    :source :openstreetmap,
    :homepage "https://www.elmodo.mx/",
-   :locality "Ciudad de México"}
+   :location "Ciudad de México"}
   {:name "San Luis Contemporáneo",
    :longitude -106.4845368,
    :latitude 31.7390745,
@@ -5273,7 +5273,7 @@
    :longitude -99.6973394,
    :latitude 19.2671477,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "School Of Rock",
    :longitude -99.5907901,
    :latitude 19.2504965,
@@ -5324,12 +5324,12 @@
    :longitude -115.47315,
    :latitude 32.6528907,
    :source :openstreetmap,
-   :locality "Mexicali"}
+   :location "Mexicali"}
   {:name "Somos Academia Construyendo Talentos",
    :longitude -96.7507204,
    :latitude 17.1015528,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Son y Cafe",
    :longitude -96.7217998,
    :latitude 17.0564619,
@@ -5358,7 +5358,7 @@
    :longitude -99.6371901,
    :latitude 19.2647737,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "T-stage",
    :longitude -99.5760795,
    :latitude 19.2697819,
@@ -5383,7 +5383,7 @@
    :longitude -96.7456175,
    :latitude 16.9540735,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Taller De Danza Folklorica",
    :longitude -99.5940669,
    :latitude 19.0987647,
@@ -5400,12 +5400,12 @@
    :longitude -99.6450343,
    :latitude 19.2813458,
    :source :openstreetmap,
-   :locality "Toluca de Lerdo"}
+   :location "Toluca de Lerdo"}
   {:name "Taller de gráfica Enrique Flores",
    :longitude -96.8814073,
    :latitude 17.2821005,
    :source :openstreetmap,
-   :locality "San Pablo Huitzo"}
+   :location "San Pablo Huitzo"}
   {:name "Taller De Musica",
    :longitude -99.2570416,
    :latitude 19.3285286,
@@ -5427,7 +5427,7 @@
    :latitude 17.048884,
    :source :openstreetmap,
    :homepage "tallergaleriapablogustavo.com",
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Taller De Serigrafía",
    :longitude -96.7374274,
    :latitude 17.0722104,
@@ -5440,13 +5440,13 @@
    :longitude -97.0712739,
    :latitude 15.8610324,
    :source :openstreetmap,
-   :locality "Puerto Escondido"}
+   :location "Puerto Escondido"}
   {:name "Taller Sociedad",
    :longitude -103.3635022,
    :latitude 20.6643402,
    :source :openstreetmap,
    :homepage "https://www.tallersociedad.com/",
-   :locality "Guadalajara"}
+   :location "Guadalajara"}
   {:name "Taller Y Galeria Voltex",
    :longitude -99.6036659,
    :latitude 19.2607129,
@@ -5455,7 +5455,7 @@
    :longitude -96.7114953,
    :latitude 17.0567601,
    :source :openstreetmap,
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Talles De Arreglos De Niños Dios",
    :longitude -99.4656869,
    :latitude 19.1861113,
@@ -5488,7 +5488,7 @@
    :longitude -99.5869258,
    :latitude 19.4279741,
    :source :openstreetmap,
-   :locality "Loma De San Nicolás"}
+   :location "Loma De San Nicolás"}
   {:name "Tecladista Versátil",
    :longitude -99.5792829,
    :latitude 19.4280196,
@@ -5498,12 +5498,12 @@
    :latitude 20.9112805,
    :source :openstreetmap,
    :homepage "https://www.teddavisgaleria.com/",
-   :locality "San Miguel de Allende"}
+   :location "San Miguel de Allende"}
   {:name "Teodoro Cano",
    :longitude -97.320235,
    :latitude 20.4445961,
    :source :openstreetmap,
-   :locality "Papantla de Olarte"}
+   :location "Papantla de Olarte"}
   {:name "Terrenos de la Feria de Los Reyes",
    :longitude -102.4767536,
    :latitude 19.5752659,
@@ -5513,7 +5513,7 @@
    :latitude 17.1029786,
    :source :openstreetmap,
    :homepage "www.tierraindependientemexico.com",
-   :locality "Oaxaca de Juárez"}
+   :location "Oaxaca de Juárez"}
   {:name "Tlacuilo Studio",
    :longitude -99.6184847,
    :latitude 19.3132165,
@@ -5555,7 +5555,7 @@
    :longitude -102.3277272,
    :latitude 21.2489006,
    :source :openstreetmap,
-   :locality "san juan de los lagos"}
+   :location "san juan de los lagos"}
   {:name "Vivero Alameda Dos Mil",
    :longitude -99.7028017,
    :latitude 19.2677221,

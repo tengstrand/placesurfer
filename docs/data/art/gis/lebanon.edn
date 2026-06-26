@@ -25,12 +25,12 @@
    :longitude 35.4736033,
    :latitude 33.8879535,
    :source :openstreetmap,
-   :locality "الروشة"}
+   :location "الروشة"}
   {:name "Galerie Sfeir-Semler",
    :longitude 35.5366367,
    :latitude 33.9005201,
    :source :openstreetmap,
-   :locality "Beyrouth"}
+   :location "Beyrouth"}
   {:name "Galerie Tanit",
    :longitude 35.5227492,
    :latitude 33.8960429,
@@ -82,12 +82,12 @@
    :longitude 35.5117853,
    :latitude 33.8949173,
    :source :openstreetmap,
-   :locality "جميزة"}
+   :location "جميزة"}
   {:name "المتحف الأثري في الجامعة الأمريكية في بيروت",
    :longitude 35.4836324,
    :latitude 33.8994876,
    :source :openstreetmap,
-   :locality "بيروت"}
+   :location "بيروت"}
   {:name "المتحف الرومي",
    :longitude 35.8971832,
    :latitude 33.8472095,
@@ -97,7 +97,7 @@
    :latitude 33.8869945,
    :source :openstreetmap,
    :homepage "http://www.beitbeirut.org",
-   :locality "بيروت"}
+   :location "بيروت"}
   {:name "غاليري صالح بركات",
    :longitude 35.4914993,
    :latitude 33.8975835,
@@ -125,7 +125,7 @@
    :longitude 36.2792697,
    :latitude 34.5667187,
    :source :openstreetmap,
-   :locality "القبيات"}
+   :location "القبيات"}
   {:name "متحف الصابون في صيدا",
    :longitude 35.3713787,
    :latitude 33.5626307,
@@ -134,7 +134,7 @@
    :longitude 36.0805127,
    :latitude 34.1771385,
    :source :openstreetmap,
-   :locality "عيناتا - بعلبك"}
+   :location "عيناتا - بعلبك"}
   {:name "متحف المشاهير",
    :longitude 35.6233074,
    :latitude 33.9471575,
@@ -147,7 +147,7 @@
    :longitude 35.5051239,
    :latitude 33.8965847,
    :source :openstreetmap,
-   :locality "بيروت"}
+   :location "بيروت"}
   {:name "متحف ميم",
    :longitude 35.5141138,
    :latitude 33.879842,

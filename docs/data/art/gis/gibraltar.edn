@@ -8,7 +8,7 @@
    :longitude -5.3522714,
    :latitude 36.1206999,
    :source :openstreetmap,
-   :locality "Gibraltar"}
+   :location "Gibraltar"}
   {:name "Gorham's Cave Complex viewing platform",
    :longitude -5.3421055,
    :latitude 36.1174337,
@@ -26,7 +26,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.culture.gi/art_galleries/mario-finlayson-national-art-gallery/",
-   :locality "Gibraltar"}
+   :location "Gibraltar"}
   {:name "Military Heritage Centre",
    :longitude -5.3477369,
    :latitude 36.1448217,

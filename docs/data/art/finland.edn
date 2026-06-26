@@ -8,7 +8,7 @@
    :longitude 23.9421767,
    :latitude 62.8170601,
    :source :openstreetmap,
-   :locality "Lehtimäki",
+   :location "Lehtimäki",
    :image "",
    :description ""}
   {:name "A Nightwish Story",
@@ -22,7 +22,7 @@
    :longitude 28.382571,
    :latitude 64.1328752,
    :source :openstreetmap,
-   :locality "Sotkamo",
+   :location "Sotkamo",
    :image "",
    :description ""}
   {:name "Ahola",
@@ -30,7 +30,7 @@
    :latitude 60.4560983,
    :source :openstreetmap,
    :homepage "https://www.jarvenpaantaidemuseo.fi/ahola",
-   :locality "Järvenpää",
+   :location "Järvenpää",
    :image "",
    :description ""}
   {:name "Aimalan kulttuurimuuntaja KUMU",
@@ -45,7 +45,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.tornio.fi/kulttuuri-ja-vapaa-aika/aineen-taidemuseo/",
-   :locality "Tornio",
+   :location "Tornio",
    :image "",
    :description ""}
   {:name "Ainola",
@@ -53,7 +53,7 @@
    :latitude 60.4536444,
    :source :openstreetmap,
    :homepage "https://www.ainola.fi/",
-   :locality "Järvenpää",
+   :location "Järvenpää",
    :image "",
    :description ""}
   {:name "Aitoneva turvemuseo",
@@ -117,21 +117,21 @@
    :longitude 25.2759246,
    :latitude 60.5527329,
    :source :openstreetmap,
-   :locality "Numminen",
+   :location "Numminen",
    :image "",
    :description ""}
   {:name "Alpo Jaakolan ateljeekoti Torkville",
    :longitude 22.8719526,
    :latitude 60.8522811,
    :source :openstreetmap,
-   :locality "Loimaa",
+   :location "Loimaa",
    :image "",
    :description ""}
   {:name "Alvar Aallon Ateljee",
    :longitude 24.8695183,
    :latitude 60.1981928,
    :source :openstreetmap,
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Alvar Aallon kotitalo",
@@ -139,7 +139,7 @@
    :latitude 60.1967356,
    :source :openstreetmap,
    :homepage "https://www.alvaraalto.fi/kohde/alvar-aallon-kotitalo/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Alvar Aallon Terassitalo",
@@ -147,7 +147,7 @@
    :latitude 61.1117545,
    :source :openstreetmap,
    :homepage "https://www.eura.fi/terassitalo",
-   :locality "Eura",
+   :location "Eura",
    :image "",
    :description ""}
   {:name "Alvar Aalto -museo",
@@ -155,7 +155,7 @@
    :latitude 62.2334244,
    :source :openstreetmap,
    :homepage "https://www.alvaraalto.fi/aaltomuseum.htm",
-   :locality "Jyväskylä",
+   :location "Jyväskylä",
    :image "",
    :description ""}
   {:name "Alvarin sauna",
@@ -169,7 +169,7 @@
    :latitude 60.1706865,
    :source :openstreetmap,
    :homepage "https://amosrex.fi",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Anjalan kartanomuseo",
@@ -178,7 +178,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nuorisokeskusanjala.fi/fi/Ankkapurhan%20kulttuuripuisto/Anjalan%20kartano%20ja%20makasiinikahvio/",
-   :locality "Anjala",
+   :location "Anjala",
    :image "",
    :description ""}
   {:name "Anna Ruohonen",
@@ -186,7 +186,7 @@
    :latitude 60.1646812,
    :source :openstreetmap,
    :homepage "https://proartibus.fi/fi/tule-meille/sinne/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Annalan kotiseutumuseo",
@@ -200,7 +200,7 @@
    :latitude 61.1319223,
    :source :openstreetmap,
    :homepage "https://www.antinautomuseo.fi/automuseo",
-   :locality "Vesivehmaa",
+   :location "Vesivehmaa",
    :image "",
    :description ""}
   {:name "Anu Pentik Galleria",
@@ -220,7 +220,7 @@
    :latitude 62.6476247,
    :source :openstreetmap,
    :homepage "https://www.toysa-seura.fi/?page_id=17",
-   :locality "Alavus",
+   :location "Alavus",
    :image "",
    :description ""}
   {:name "Arktikum",
@@ -228,7 +228,7 @@
    :latitude 66.5075427,
    :source :openstreetmap,
    :homepage "https://arktikum.fi/",
-   :locality "Rovaniemi",
+   :location "Rovaniemi",
    :image "",
    :description ""}
   {:name "ARS Auttoinen",
@@ -236,7 +236,7 @@
    :latitude 61.3049853,
    :source :openstreetmap,
    :homepage "https://ars-auttoinen-taide-design.business.site/",
-   :locality "Padasjoki",
+   :location "Padasjoki",
    :image "",
    :description ""}
   {:name "Art Center Ihana",
@@ -250,7 +250,7 @@
    :latitude 60.3889028,
    :source :openstreetmap,
    :homepage "https://www.taidetehdas.fi/",
-   :locality "Porvoo",
+   :location "Porvoo",
    :image "",
    :description ""}
   {:name "Artjärven kotiseutumuseo",
@@ -259,7 +259,7 @@
    :source :openstreetmap,
    :homepage
    "https://artjarvenkotiseutu.wixsite.com/kotiseutuyhdistys/museo",
-   :locality "Artjärvi",
+   :location "Artjärvi",
    :image "",
    :description ""}
   {:name "Artsi",
@@ -267,7 +267,7 @@
    :latitude 60.2614028,
    :source :openstreetmap,
    :homepage "https://www.artsimuseo.com/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "ARTsi",
@@ -281,7 +281,7 @@
    :latitude 60.9983779,
    :source :openstreetmap,
    :homepage "http://arx.hameenlinna.fi/",
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Ase- ja varusmuseo",
@@ -295,7 +295,7 @@
    :latitude 61.8003589,
    :source :openstreetmap,
    :homepage "https://www.asemantaidelaituri.fi/",
-   :locality "Punkaharju",
+   :location "Punkaharju",
    :image "",
    :description ""}
   {:name "Asikkalan kotiseutumuseo",
@@ -303,21 +303,21 @@
    :latitude 61.2162036,
    :source :openstreetmap,
    :homepage "https://asikkalanmuseo.fi/",
-   :locality "Asikkala",
+   :location "Asikkala",
    :image "",
    :description ""}
   {:name "Askolan kotiseutumuseo",
    :longitude 25.5965933,
    :latitude 60.5306653,
    :source :openstreetmap,
-   :locality "Askola",
+   :location "Askola",
    :image "",
    :description ""}
   {:name "Asukastalo Lava",
    :longitude 25.0401938,
    :latitude 60.2342691,
    :source :openstreetmap,
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Ateljee",
@@ -330,7 +330,7 @@
    :longitude 30.0401366,
    :latitude 63.1510639,
    :source :openstreetmap,
-   :locality "Lieksa",
+   :location "Lieksa",
    :image "",
    :description ""}
   {:name "Ateljee Hulmi",
@@ -344,7 +344,7 @@
    :latitude 61.4945735,
    :source :openstreetmap,
    :homepage "https://susannaseriola.fi",
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Ateljee Tuire Hämäläinen",
@@ -358,14 +358,14 @@
    :latitude 60.4667885,
    :source :openstreetmap,
    :homepage "https://www.hetasaarelainen.com/",
-   :locality "Naantali",
+   :location "Naantali",
    :image "",
    :description ""}
   {:name "Ateljé Sari Haapaniemi",
    :longitude 23.8965318,
    :latitude 62.7837966,
    :source :openstreetmap,
-   :locality "Lehtimäen kirkonkylä",
+   :location "Lehtimäen kirkonkylä",
    :image "",
    :description ""}
   {:name "Ateneum",
@@ -373,7 +373,7 @@
    :latitude 60.1700224,
    :source :openstreetmap,
    :homepage "https://ateneum.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "August Pyölniitun henkilöhistoriallinen museo",
@@ -381,7 +381,7 @@
    :latitude 60.408017,
    :source :openstreetmap,
    :homepage "http://www.pyolniittu.fi/",
-   :locality "Paimio",
+   :location "Paimio",
    :image "",
    :description ""}
   {:name "Automuseo",
@@ -402,7 +402,7 @@
    :latitude 61.4403223,
    :source :openstreetmap,
    :homepage "https://mobilia.fi/",
-   :locality "Kangasala",
+   :location "Kangasala",
    :image "",
    :description ""}
   {:name "Beta Space",
@@ -430,7 +430,7 @@
    :latitude 60.4557035,
    :source :openstreetmap,
    :homepage "http://bonga.fi/",
-   :locality "Loviisa",
+   :location "Loviisa",
    :image "",
    :description ""}
   {:name "Bonk museo",
@@ -451,7 +451,7 @@
    :longitude 21.6305712,
    :latitude 63.0820186,
    :source :openstreetmap,
-   :locality "Vaasa",
+   :location "Vaasa",
    :image "",
    :description ""}
   {:name "Branderin torppa",
@@ -466,7 +466,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.museo-opas.fi/fi/museo/v%C3%A4nrikin-virkatalo-brofogdas",
-   :locality "Lapinjärvi",
+   :location "Lapinjärvi",
    :image "",
    :description ""}
   {:name "Bunkkerimuseo",
@@ -479,14 +479,14 @@
    :longitude 27.5940334,
    :latitude 60.5732084,
    :source :openstreetmap,
-   :locality "Ala-Pihlaja",
+   :location "Ala-Pihlaja",
    :image "",
    :description ""}
   {:name "Carlsron museo",
    :longitude 21.3749134,
    :latitude 62.3132564,
    :source :openstreetmap,
-   :locality "Kristiinankaupunki",
+   :location "Kristiinankaupunki",
    :image "",
    :description ""}
   {:name "Cronoholmens skeppsvarv",
@@ -500,7 +500,7 @@
    :latitude 60.1852729,
    :source :openstreetmap,
    :homepage "https://www.didrichsenmuseum.fi",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Duunarimuseo",
@@ -508,7 +508,7 @@
    :latitude 60.1894098,
    :source :openstreetmap,
    :homepage "https://www.duunarimuseo.fi",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Dånö hembygdsmuseum",
@@ -523,14 +523,14 @@
    :source :openstreetmap,
    :homepage
    "https://kauhajoki.fi/hyvinvointi-ja-vapaa-aika/kulttuuripalvelut/eduskuntamuseo/",
-   :locality "Kauhajoki",
+   :location "Kauhajoki",
    :image "",
    :description ""}
   {:name "Eemilän kotiseutumuseo",
    :longitude 27.575075,
    :latitude 62.6948953,
    :source :openstreetmap,
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Ehrensvärd-museo",
@@ -539,7 +539,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.suomenlinna.fi/kavijalle/museot/ehrensvard-museo/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Einari Vuorelan runoilijakoti",
@@ -548,7 +548,7 @@
    :source :openstreetmap,
    :homepage
    "https://keuruunvapaa-aika.fi/kulttuuri/einari-vuorela-runopalkinto/kirjailijakoti-vuorela/",
-   :locality "Keuruu",
+   :location "Keuruu",
    :image "",
    :description ""}
   {:name "Elektroniikkamuseo",
@@ -564,7 +564,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitkouvola.fi/fi/elim%C3%A4en-kotiseutumuseo",
-   :locality "Elimäki",
+   :location "Elimäki",
    :image "",
    :description ""}
   {:name "Emil Aaltosen museo",
@@ -572,7 +572,7 @@
    :latitude 61.4926224,
    :source :openstreetmap,
    :homepage "https://www.pyynikinlinna.fi",
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Emil Cedercreutzin museo",
@@ -586,7 +586,7 @@
    :latitude 60.1788939,
    :source :openstreetmap,
    :homepage "http://www.emma.museum/",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Englantilainen barkassi",
@@ -600,7 +600,7 @@
    :latitude 61.3967512,
    :source :openstreetmap,
    :homepage "https://kellosalmi.net/enni-id",
-   :locality "Padasjoki",
+   :location "Padasjoki",
    :image "",
    :description ""}
   {:name "Enon Museo",
@@ -613,7 +613,7 @@
    :longitude 23.6982982,
    :latitude 68.3957046,
    :source :openstreetmap,
-   :locality "Enontekiö",
+   :location "Enontekiö",
    :image "",
    :description ""}
   {:name "Esihistorian opastuskeskus Naurava lohikäärme",
@@ -621,7 +621,7 @@
    :latitude 61.127286,
    :source :openstreetmap,
    :homepage "https://www.eura.fi/naurava",
-   :locality "Eura",
+   :location "Eura",
    :image "",
    :description ""}
   {:name "Esinemuseo",
@@ -635,7 +635,7 @@
    :latitude 60.2755499,
    :source :openstreetmap,
    :homepage "http://espoonautomuseo.com/",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Espoon kulttuurikeskus",
@@ -643,7 +643,7 @@
    :latitude 60.1778999,
    :source :openstreetmap,
    :homepage "https://www.espoo.fi/kulttuurikeskus",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Etelä-Karjalan Automuseo",
@@ -651,7 +651,7 @@
    :latitude 61.1744116,
    :source :openstreetmap,
    :homepage "https://ekva.fi/",
-   :locality "Lappeenranta",
+   :location "Lappeenranta",
    :image "",
    :description ""}
   {:name "Etelä-Pohjanmaan maakuntamuseo",
@@ -660,7 +660,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.seinajoki.fi/kulttuurijaliikunta/Etela-Pohjanmaanmaakuntamuseo.html",
-   :locality "Seinäjoki",
+   :location "Seinäjoki",
    :image "",
    :description ""}
   {:name "Etelä-Pohjanmaan traktorimuseo",
@@ -668,7 +668,7 @@
    :latitude 62.8173861,
    :source :openstreetmap,
    :homepage "https://www.traktorimuseo.fi/",
-   :locality "Nurmo",
+   :location "Nurmo",
    :image "",
    :description ""}
   {:name "Ett Hem",
@@ -702,7 +702,7 @@
    :longitude 24.2276642,
    :latitude 60.1354257,
    :source :openstreetmap,
-   :locality "Siuntio",
+   :location "Siuntio",
    :image "",
    :description ""}
   {:name "Feri's Sausage",
@@ -710,7 +710,7 @@
    :latitude 60.1605318,
    :source :openstreetmap,
    :homepage "https://www.feris.fi",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Fillialen",
@@ -724,7 +724,7 @@
    :latitude 60.2373807,
    :source :openstreetmap,
    :homepage "https://finnfoto.fi/finnfoto-galleria/kaari/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Forngårdenin talomuseo",
@@ -744,7 +744,7 @@
    :latitude 60.8144763,
    :source :openstreetmap,
    :homepage "http://www.lounaisluonto.net/museo/",
-   :locality "Forssa",
+   :location "Forssa",
    :image "",
    :description ""}
   {:name "Forum Box",
@@ -752,7 +752,7 @@
    :latitude 60.1616631,
    :source :openstreetmap,
    :homepage "https://forumbox.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Forum Marinum, S/S Bore",
@@ -779,14 +779,14 @@
    :latitude 60.3015478,
    :source :openstreetmap,
    :homepage "https://fredrikantupa.business.site/",
-   :locality "Pargas",
+   :location "Pargas",
    :image "",
    :description ""}
   {:name "Friitalan Nahkamuseo",
    :longitude 21.8694631,
    :latitude 61.4303051,
    :source :openstreetmap,
-   :locality "Ulvila",
+   :location "Ulvila",
    :image "",
    :description ""}
   {:name "Furirsbostället",
@@ -800,7 +800,7 @@
    :latitude 60.1655181,
    :source :openstreetmap,
    :homepage "http://anhava.com",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Gallen-Kallelan Museo",
@@ -808,7 +808,7 @@
    :latitude 60.2064559,
    :source :openstreetmap,
    :homepage "https://gallen-kallela.fi/",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Galleri Emilie",
@@ -816,7 +816,7 @@
    :latitude 60.4528854,
    :source :openstreetmap,
    :homepage "https://www.galleriemilie.fi/",
-   :locality "Loviisa",
+   :location "Loviisa",
    :image "",
    :description ""}
   {:name "Galleria Akseli, Sammaljoen taidegalleria",
@@ -824,7 +824,7 @@
    :latitude 61.2327497,
    :source :openstreetmap,
    :homepage "https://www.galleriaakseli.fi/",
-   :locality "Sammaljoki",
+   :location "Sammaljoki",
    :image "",
    :description ""}
   {:name "Galleria Akvart",
@@ -839,7 +839,7 @@
    :latitude 64.7818845,
    :source :openstreetmap,
    :homepage "https://galleriaconrad.com",
-   :locality "Tyrnävä",
+   :location "Tyrnävä",
    :image "",
    :description ""}
   {:name "Galleria Dromig",
@@ -872,7 +872,7 @@
    :longitude 25.0390601,
    :latitude 60.2935193,
    :source :openstreetmap,
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Galleria Kellokas",
@@ -880,7 +880,7 @@
    :latitude 67.5894054,
    :source :openstreetmap,
    :homepage "https://nationalparks.fi/pallas-yllastunturi",
-   :locality "Äkäslompolo",
+   :location "Äkäslompolo",
    :image "",
    :description ""}
   {:name "Galleria Kivipankki",
@@ -889,14 +889,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.jamsa.fi/vapaa-aika-ja-matkailu/kulttuuri/galleria-kivipankki/",
-   :locality "Jämsä",
+   :location "Jämsä",
    :image "",
    :description ""}
   {:name "Galleria Koivulinna",
    :longitude 25.5811016,
    :latitude 60.6447902,
    :source :openstreetmap,
-   :locality "Pukkila",
+   :location "Pukkila",
    :image "",
    :description ""}
   {:name "Galleria Kuja",
@@ -931,7 +931,7 @@
    :latitude 60.1658591,
    :source :openstreetmap,
    :homepage "https://sculptors.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Galleria Seija Levanto",
@@ -939,7 +939,7 @@
    :latitude 61.4863499,
    :source :openstreetmap,
    :homepage "http://silkki-ikkuna.fi/",
-   :locality "Pori",
+   :location "Pori",
    :image "",
    :description ""}
   {:name "Galleria Sello",
@@ -948,7 +948,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sello.fi/liikkeet/vapaa-aika/galleria-sello/",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Galleria Sibakow-Mansikka",
@@ -963,7 +963,7 @@
    :latitude 60.4485899,
    :source :openstreetmap,
    :homepage "http://www.arte.fi",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Galleria V2",
@@ -1003,7 +1003,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.westernuusimaamuseums.fi/inkoon-kotiseutumuseo/",
-   :locality "Inkoo",
+   :location "Inkoo",
    :image "",
    :description ""}
   {:name "Geologiset kokoelmat",
@@ -1011,7 +1011,7 @@
    :latitude 60.2020695,
    :source :openstreetmap,
    :homepage "https://www.luomus.fi/fi/geologiset-kokoelmat",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Gesterbyn museoalue",
@@ -1019,7 +1019,7 @@
    :latitude 60.1314106,
    :source :openstreetmap,
    :homepage "https://www.kyhf.hembygd.fi/svenska/museot/gesterby/",
-   :locality "Kirkkonummi",
+   :location "Kirkkonummi",
    :image "",
    :description ""}
   {:name "Geta Motormuseum",
@@ -1047,14 +1047,14 @@
    :latitude 60.2582154,
    :source :openstreetmap,
    :homepage "https://konstoform.fi/",
-   :locality "Söderkulla",
+   :location "Söderkulla",
    :image "",
    :description ""}
   {:name "Gårdskulla Lantbruksmuseum",
    :longitude 24.1695717,
    :latitude 60.1801057,
    :source :openstreetmap,
-   :locality "Siuntio",
+   :location "Siuntio",
    :image "",
    :description ""}
   {:name "Gårdsmuseum",
@@ -1080,7 +1080,7 @@
    :longitude 25.3667939,
    :latitude 64.1362236,
    :source :openstreetmap,
-   :locality "Haapavesi",
+   :location "Haapavesi",
    :image "",
    :description ""}
   {:name "Haiharan taidekeskus",
@@ -1101,7 +1101,7 @@
    :latitude 61.857374,
    :source :openstreetmap,
    :homepage "https://lentotekniikankilta.fi/museo.htm",
-   :locality "Halli",
+   :location "Halli",
    :image "",
    :description ""}
   {:name "Halosenniemi",
@@ -1109,7 +1109,7 @@
    :latitude 60.4348318,
    :source :openstreetmap,
    :homepage "https://www.halosenniemi.fi/",
-   :locality "Tuusula",
+   :location "Tuusula",
    :image "",
    :description ""}
   {:name "Halsuan kotiseutumuseo",
@@ -1138,7 +1138,7 @@
    :latitude 59.9076057,
    :source :openstreetmap,
    :homepage "https://rintamamuseo.fi/",
-   :locality "Hanko",
+   :location "Hanko",
    :image "",
    :description ""}
   {:name "Hangon Taidegalleria",
@@ -1179,7 +1179,7 @@
    :longitude 22.6970043,
    :latitude 60.8617444,
    :source :openstreetmap,
-   :locality "Oripää",
+   :location "Oripää",
    :image "",
    :description ""}
   {:name "Hauhon esinemuseo",
@@ -1194,7 +1194,7 @@
    :latitude 60.7760607,
    :source :openstreetmap,
    :homepage "https://hausjarviseura.fi/kotiseutumuseo/",
-   :locality "Hausjärvi",
+   :location "Hausjärvi",
    :image "",
    :description ""}
   {:name "Havula",
@@ -1209,7 +1209,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.lahdenmuseot.fi/vastuumuseo/museotyo/paikallismuseot/",
-   :locality "Hollola",
+   :location "Hollola",
    :image "",
    :description ""}
   {:name "Heikki Klementin museo",
@@ -1237,7 +1237,7 @@
    :latitude 60.1720705,
    :source :openstreetmap,
    :homepage "https://www.taidehalli.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Hembygdsmuseum",
@@ -1245,7 +1245,7 @@
    :latitude 60.1620023,
    :source :openstreetmap,
    :homepage "https://www.korpo.hembygd.fi/suomeksi/",
-   :locality "Korpo, Korppoo",
+   :location "Korpo, Korppoo",
    :image "",
    :description ""}
   {:name "Hembygdsmuséet i Petalax",
@@ -1261,7 +1261,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hollolankotiseutuyhdistys.fi/museoalue/talomuseoalue/",
-   :locality "Hollola",
+   :location "Hollola",
    :image "",
    :description ""}
   {:name "Herajoen työväentalo",
@@ -1276,7 +1276,7 @@
    :latitude 60.1900474,
    :source :openstreetmap,
    :homepage "https://hertonasgard.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Hevosajoneuvomuseo Hepola",
@@ -1290,7 +1290,7 @@
    :latitude 61.4977812,
    :source :openstreetmap,
    :homepage "https://hiekantaidemuseo.fi/",
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Hiihtomuseo",
@@ -1298,7 +1298,7 @@
    :latitude 60.9840804,
    :source :openstreetmap,
    :homepage "https://www.hiihtomuseo.fi/",
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Himangan kotiseutumuseo",
@@ -1312,7 +1312,7 @@
    :longitude 23.5284805,
    :latitude 61.480502,
    :source :openstreetmap,
-   :locality "Nokia",
+   :location "Nokia",
    :image "",
    :description ""}
   {:name "Hirvitalo",
@@ -1328,7 +1328,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.honkajoki.fi/vapaa-aika/harrastuspaikat/museo",
-   :locality "Honkajoki",
+   :location "Honkajoki",
    :image "",
    :description ""}
   {:name "Houtskär skärgårdsmuseum",
@@ -1341,7 +1341,7 @@
    :longitude 26.5667665,
    :latitude 61.1597309,
    :source :openstreetmap,
-   :locality "Huhdasjärvi",
+   :location "Huhdasjärvi",
    :image "",
    :description ""}
   {:name "Huhtala",
@@ -1362,7 +1362,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sotkamo.fi/vapaa-aika-ja-liikunta/nahtavyydet/huovishuone/",
-   :locality "Sotkamo",
+   :location "Sotkamo",
    :image "",
    :description ""}
   {:name "Hvitträsk",
@@ -1370,14 +1370,14 @@
    :latitude 60.1813573,
    :source :openstreetmap,
    :homepage "http://www.nba.fi/fi/museot/hvittrask",
-   :locality "Luoma",
+   :location "Luoma",
    :image "",
    :description ""}
   {:name "Hyrsylänmutka",
    :longitude 24.0135278,
    :latitude 60.3767511,
    :source :openstreetmap,
-   :locality "Hyrsylä",
+   :location "Hyrsylä",
    :image "",
    :description ""}
   {:name "Hyvikkälän kauppamuseo",
@@ -1385,7 +1385,7 @@
    :latitude 60.8730914,
    :source :openstreetmap,
    :homepage "https://www.jpmaalaushuone.fi/",
-   :locality "Janakkala",
+   :location "Janakkala",
    :image "",
    :description ""}
   {:name "Häggin Eläintäyttämön museo",
@@ -1393,7 +1393,7 @@
    :latitude 61.2139937,
    :source :openstreetmap,
    :homepage "https://hagginelaintayttamo.wordpress.com/",
-   :locality "Asikkala",
+   :location "Asikkala",
    :image "",
    :description ""}
   {:name "Häkkilän kotiseutumuseo",
@@ -1409,7 +1409,7 @@
    :latitude 61.0032922,
    :source :openstreetmap,
    :homepage "https://www.kansallismuseo.fi/fi/haemeenlinna/",
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Hämeenkosken kotiseutumuseo",
@@ -1417,14 +1417,14 @@
    :latitude 61.0256037,
    :source :openstreetmap,
    :homepage "https://hollola.fi/vapaa-aika/kulttuuri/museot/",
-   :locality "Hämeenkoski",
+   :location "Hämeenkoski",
    :image "",
    :description ""}
   {:name "Härkätien museo",
    :longitude 24.2856912,
    :latitude 60.8941725,
    :source :openstreetmap,
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Höyry-galleria",
@@ -1446,7 +1446,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.janakkala.fi/palvelut/kulttuuri/ida-aalberg-museo/",
-   :locality "Janakkala",
+   :location "Janakkala",
    :image "",
    :description ""}
   {:name "Idänsuhteiden museo Nootti",
@@ -1468,7 +1468,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.iitti.fi/vapaa-aika-ja-hyvinvointi/kulttuuri/kotiseutumuseo/",
-   :locality "Iitti",
+   :location "Iitti",
    :image "",
    :description ""}
   {:name "Ikaalisten kotiseutumuseo",
@@ -1488,14 +1488,14 @@
    :latitude 63.5648492,
    :source :openstreetmap,
    :homepage "https://www.nurmes.fi/en/web/nurmes_en/museum",
-   :locality "Nurmes",
+   :location "Nurmes",
    :image "",
    :description ""}
   {:name "Ilmajoen Puhelinmuseo",
    :longitude 22.5752613,
    :latitude 62.7316357,
    :source :openstreetmap,
-   :locality "Ilmajoki",
+   :location "Ilmajoki",
    :image "",
    :description ""}
   {:name "Ilmatorjuntamuseo",
@@ -1503,7 +1503,7 @@
    :latitude 60.4012079,
    :source :openstreetmap,
    :homepage "https://www.ilmatorjuntamuseo.fi/",
-   :locality "Tuusula",
+   :location "Tuusula",
    :image "",
    :description ""}
   {:name "Irma-bunkkeri",
@@ -1511,14 +1511,14 @@
    :latitude 59.933564,
    :source :openstreetmap,
    :homepage "https://rintamamuseo.fi/fin/fin_irma/",
-   :locality "Skogby",
+   :location "Skogby",
    :image "",
    :description ""}
   {:name "Isonkyrön kotiseutumuseo",
    :longitude 22.3140206,
    :latitude 63.0043195,
    :source :openstreetmap,
-   :locality "Isokyrö",
+   :location "Isokyrö",
    :image "",
    :description ""}
   {:name "Ite-Aulis -kotimuseo",
@@ -1526,14 +1526,14 @@
    :latitude 62.664842,
    :source :openstreetmap,
    :homepage "https://iteaulis.fi/",
-   :locality "Suonenjoki",
+   :location "Suonenjoki",
    :image "",
    :description ""}
   {:name "ITtE näyttely",
    :longitude 25.6929472,
    :latitude 61.5000581,
    :source :openstreetmap,
-   :locality "Sysmä",
+   :location "Sysmä",
    :image "",
    :description ""}
   {:name "J. L. Runebergin koti",
@@ -1541,7 +1541,7 @@
    :latitude 60.3903213,
    :source :openstreetmap,
    :homepage "https://www.porvoonmuseo.fi/",
-   :locality "Porvoo",
+   :location "Porvoo",
    :image "",
    :description ""}
   {:name "J.V. Snellmanin kotimuseo",
@@ -1549,7 +1549,7 @@
    :latitude 62.8909794,
    :source :openstreetmap,
    :homepage "https://snellmaninkotimuseo.fi/",
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Jacobstads Wapen",
@@ -1562,7 +1562,7 @@
    :longitude 22.7035334,
    :latitude 63.6718507,
    :source :openstreetmap,
-   :locality "Jakobstad",
+   :location "Jakobstad",
    :image "",
    :description ""}
   {:name "Jakokosken museokanava",
@@ -1575,7 +1575,7 @@
    :longitude 29.9958514,
    :latitude 62.7271522,
    :source :openstreetmap,
-   :locality "Jakokoski",
+   :location "Jakokoski",
    :image "",
    :description ""}
   {:name "Jalasjärven kotiseutumuseo",
@@ -1615,7 +1615,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.latvalamotorsport.com/index.php/fi/ralliautonayttely/",
-   :locality "Alavus",
+   :location "Alavus",
    :image "",
    :description ""}
   {:name "Joella",
@@ -1628,7 +1628,7 @@
    :longitude 25.5872856,
    :latitude 60.5229769,
    :source :openstreetmap,
-   :locality "Askola",
+   :location "Askola",
    :image "",
    :description ""}
   {:name "Jokelan kotiseutumuseo",
@@ -1636,7 +1636,7 @@
    :latitude 60.6169651,
    :source :openstreetmap,
    :homepage "http://jokelanmuseo.info/",
-   :locality "Ruotsinkylä",
+   :location "Ruotsinkylä",
    :image "",
    :description ""}
   {:name "Jokelan tiilitehdas",
@@ -1645,7 +1645,7 @@
    :source :openstreetmap,
    :homepage
    "https://tuusula.fi/etusivu/kulttuuri-ja-vapaa-aika/museot/museokohteet/jokelan-tiilitehdas/",
-   :locality "Jokela",
+   :location "Jokela",
    :image "",
    :description ""}
   {:name "Joutsan talomuseo",
@@ -1665,7 +1665,7 @@
    :latitude 60.3482927,
    :source :openstreetmap,
    :homepage "https://juhlapirtti.fi/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Julkkis-Galleria Teuvo Salminen",
@@ -1673,7 +1673,7 @@
    :latitude 61.128417,
    :source :openstreetmap,
    :homepage "http://www.teuvosalminen.com/",
-   :locality "Rauma",
+   :location "Rauma",
    :image "",
    :description ""}
   {:name "Juminkeko",
@@ -1681,7 +1681,7 @@
    :latitude 64.126352,
    :source :openstreetmap,
    :homepage "https://www.juminkeko.fi/",
-   :locality "Kuhmo",
+   :location "Kuhmo",
    :image "",
    :description ""}
   {:name "Jungfrusunds museum",
@@ -1696,7 +1696,7 @@
    :latitude 62.6808124,
    :source :openstreetmap,
    :homepage "https://www.arthousejurva.fi/",
-   :locality "JURVA",
+   :location "JURVA",
    :image "",
    :description ""}
   {:name "Jurvan museo",
@@ -1741,7 +1741,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.designalonen.fi/jyvaskylan-nyky-ja-valotaiteen-keskus/",
-   :locality "Jyväskylä",
+   :location "Jyväskylä",
    :image "",
    :description ""}
   {:name "Jyväskylän taidemuseo",
@@ -1749,7 +1749,7 @@
    :latitude 62.2412882,
    :source :openstreetmap,
    :homepage "https://www.jyvaskyla.fi/taidemuseo",
-   :locality "Jyväskylä",
+   :location "Jyväskylä",
    :image "",
    :description ""}
   {:name "Jämijärven kotiseutumuseo",
@@ -1770,7 +1770,7 @@
    :latitude 60.474627,
    :source :openstreetmap,
    :homepage "https://www.jarvenpaantaidemuseo.fi/",
-   :locality "Järvenpää",
+   :location "Järvenpää",
    :image "",
    :description ""}
   {:name "K. H. Renlundin museo",
@@ -1779,7 +1779,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kokkola.fi/kulttuuri/museot/fi_FI/khrenlundin_museo/",
-   :locality "Kokkola",
+   :location "Kokkola",
    :image "",
    :description ""}
   {:name "Kaapin Jounin kenttä",
@@ -1800,14 +1800,14 @@
    :latitude 60.1580319,
    :source :openstreetmap,
    :homepage "https://kaarteensotamuseo.fi/",
-   :locality "Lohja",
+   :location "Lohja",
    :image "",
    :description ""}
   {:name "Kainuun Museo",
    :longitude 27.7377751,
    :latitude 64.2216395,
    :source :openstreetmap,
-   :locality "Kajaani",
+   :location "Kajaani",
    :image "",
    :description ""}
   {:name "Kaivolan museo",
@@ -1821,7 +1821,7 @@
    :latitude 62.7306827,
    :source :openstreetmap,
    :homepage "https://www.vanhakaivos.com/kaivosmuseo",
-   :locality "Outokumpu",
+   :location "Outokumpu",
    :image "",
    :description ""}
   {:name "Kalajoen Kotiseutumuseo",
@@ -1834,14 +1834,14 @@
    :longitude 23.0124282,
    :latitude 63.0514967,
    :source :openstreetmap,
-   :locality "Kauhava",
+   :location "Kauhava",
    :image "",
    :description ""}
   {:name "Kalastusmuseo",
    :longitude 21.4710188,
    :latitude 61.8512793,
    :source :openstreetmap,
-   :locality "Merikarvia",
+   :location "Merikarvia",
    :image "",
    :description ""}
   {:name "Kalastusmuseo",
@@ -1856,7 +1856,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.taivalkoski.fi/palvelut/kirjasto-ja-kulttuuri/paatalo-instituutti/kallioniemi/",
-   :locality "Taivalkoski",
+   :location "Taivalkoski",
    :image "",
    :description ""}
   {:name "Kalleria",
@@ -1871,14 +1871,14 @@
    :latitude 60.851437,
    :source :openstreetmap,
    :homepage "http://www.korianponsi.com/kallioniemi",
-   :locality "Koria",
+   :location "Koria",
    :image "",
    :description ""}
   {:name "Kalvolan kotiseutumuseo",
    :longitude 24.1131273,
    :latitude 61.0954576,
    :source :openstreetmap,
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Kanajärven talonpoikaismuseo",
@@ -1903,14 +1903,14 @@
    :longitude 22.4650738,
    :latitude 61.847757,
    :source :openstreetmap,
-   :locality "Niinisalo",
+   :location "Niinisalo",
    :image "",
    :description ""}
   {:name "Kanneltalon galleria",
    :longitude 24.876598,
    :latitude 60.2389292,
    :source :openstreetmap,
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Kansainvälinen Pullomuseo",
@@ -1932,7 +1932,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.ahtari.fi/index.php/vapaa-aika-ja-liikunta/kulttuuritoimi/museot",
-   :locality "Ähtäri",
+   :location "Ähtäri",
    :image "",
    :description ""}
   {:name "Kansantaiteenkeskus",
@@ -1940,7 +1940,7 @@
    :latitude 63.5436995,
    :source :openstreetmap,
    :homepage "https://www.kansantaiteenkeskus.fi/",
-   :locality "Kaustinen",
+   :location "Kaustinen",
    :image "",
    :description ""}
   {:name "Kapearaidemuseo",
@@ -1968,7 +1968,7 @@
    :longitude 24.8354161,
    :latitude 60.1672914,
    :source :openstreetmap,
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Karijoen Kotiseutumuseo",
@@ -1989,14 +1989,14 @@
    :latitude 61.0410256,
    :source :openstreetmap,
    :homepage "https://www.karjalanilmailumuseo.fi/",
-   :locality "Lappeenranta",
+   :location "Lappeenranta",
    :image "",
    :description ""}
   {:name "Karjalan kotiseutumuseo",
    :longitude 22.0741997,
    :latitude 60.7859876,
    :source :openstreetmap,
-   :locality "Mynämäki",
+   :location "Mynämäki",
    :image "",
    :description ""}
   {:name "Karjalatalo",
@@ -2004,7 +2004,7 @@
    :latitude 60.2149422,
    :source :openstreetmap,
    :homepage "https://karjalanliitto.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Karkkila-Högforsin työläismuseo",
@@ -2020,7 +2020,7 @@
    :latitude 60.7761476,
    :source :openstreetmap,
    :homepage "https://www.iitinkotiseutuyhdistys.fi/karrala/",
-   :locality "Iitti",
+   :location "Iitti",
    :image "",
    :description ""}
   {:name "Karstulan kotiseutumuseo",
@@ -2033,7 +2033,7 @@
    :longitude 22.5602335,
    :latitude 62.135353,
    :source :openstreetmap,
-   :locality "Karvia",
+   :location "Karvia",
    :image "",
    :description ""}
   {:name "Kasvimuseo TUR",
@@ -2048,7 +2048,7 @@
    :latitude 62.4275464,
    :source :openstreetmap,
    :homepage "https://kauhajoenmuseo.fi/",
-   :locality "Kauhajoki",
+   :location "Kauhajoki",
    :image "",
    :description ""}
   {:name "Kauhajoen kotiseututalo",
@@ -2057,7 +2057,7 @@
    :source :openstreetmap,
    :homepage
    "https://kauhajoki.fi/hyvinvointi-ja-vapaa-aika/kansalaisopisto/",
-   :locality "Kauhajoki",
+   :location "Kauhajoki",
    :image "",
    :description ""}
   {:name "Kauhajoen taitokeskus",
@@ -2066,14 +2066,14 @@
    :source :openstreetmap,
    :homepage
    "https://taitoep.fi/etusivu/yhteystiedot/kauhajoen-taitokeskus/",
-   :locality "Kauhajoki",
+   :location "Kauhajoki",
    :image "",
    :description ""}
   {:name "Kauhanojan kauppamuseo",
    :longitude 23.1484207,
    :latitude 60.8258374,
    :source :openstreetmap,
-   :locality "Loimaa",
+   :location "Loimaa",
    :image "",
    :description ""}
   {:name "Kauko Räsäsen Ateljeetalo",
@@ -2102,7 +2102,7 @@
    :longitude 24.0271391,
    :latitude 61.2609133,
    :source :openstreetmap,
-   :locality "Valkeakoski",
+   :location "Valkeakoski",
    :image "",
    :description ""}
   {:name "Kaustisen kotiseutumuseo",
@@ -2136,7 +2136,7 @@
    :source :openstreetmap,
    :homepage
    "https://tuusula.fi/etusivu/kulttuuri-ja-vapaa-aika/museot/museokohteet/kellokosken-sairaalamuseo/",
-   :locality "Kellokoski",
+   :location "Kellokoski",
    :image "",
    :description ""}
   {:name "Kemijärven Kotiseutumuseo",
@@ -2144,7 +2144,7 @@
    :latitude 66.7196562,
    :source :openstreetmap,
    :homepage "https://kemijarvenmuseo.com/",
-   :locality "Kemijärvi",
+   :location "Kemijärvi",
    :image "",
    :description ""}
   {:name "Kemin jalokivigalleria",
@@ -2157,7 +2157,7 @@
    :longitude 24.5586156,
    :latitude 65.7358459,
    :source :openstreetmap,
-   :locality "Kemi",
+   :location "Kemi",
    :image "",
    :description ""}
   {:name "Kempeleen Kotiseutumuseo",
@@ -2166,7 +2166,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kempele.fi/kempele-akatemia-ja-vapaa-aika/kulttuuri/kotiseutumuseo.html",
-   :locality "Kempele",
+   :location "Kempele",
    :image "",
    :description ""}
   {:name "Kemppien tupa",
@@ -2180,14 +2180,14 @@
    :latitude 60.4033562,
    :source :openstreetmap,
    :homepage "https://www.keravanmusiikkiopisto.fi/",
-   :locality "Kerava",
+   :location "Kerava",
    :image "",
    :description ""}
   {:name "Keravan Taide- ja museokeskus Sinkka",
    :longitude 25.1086776,
    :latitude 60.4008571,
    :source :openstreetmap,
-   :locality "Kerava",
+   :location "Kerava",
    :image "",
    :description ""}
   {:name "Keski-Suomen luontomuseo",
@@ -2195,14 +2195,14 @@
    :latitude 62.2430769,
    :source :openstreetmap,
    :homepage "https://tiedemuseo.jyu.fi/fi/luontomuseo",
-   :locality "Jyväskylä",
+   :location "Jyväskylä",
    :image "",
    :description ""}
   {:name "Keski-Suomen tieliikennemuseo",
    :longitude 25.3349744,
    :latitude 62.2718814,
    :source :openstreetmap,
-   :locality "Kintaus",
+   :location "Kintaus",
    :image "",
    :description ""}
   {:name "Kesälahden kotiseutumuseo",
@@ -2230,7 +2230,7 @@
    :longitude 22.5793836,
    :latitude 60.8154208,
    :source :openstreetmap,
-   :locality "Pöytyä",
+   :location "Pöytyä",
    :image "",
    :description ""}
   {:name "Kierikkikeskus",
@@ -2238,7 +2238,7 @@
    :latitude 65.3606367,
    :source :openstreetmap,
    :homepage "https://kierikki.fi/",
-   :locality "Yli-Ii",
+   :location "Yli-Ii",
    :image "",
    :description ""}
   {:name "Kiihtelysvaaran Kotiseutumuseu",
@@ -2258,7 +2258,7 @@
    :latitude 61.463242,
    :source :openstreetmap,
    :homepage "https://kimmopyykkotaidemuseo.fi/",
-   :locality "Kangasala",
+   :location "Kangasala",
    :image "",
    :description ""}
   {:name "Kinnarin kotimuseo",
@@ -2266,7 +2266,7 @@
    :latitude 61.1375507,
    :source :openstreetmap,
    :homepage "https://akaa.fi/kohteet/kinnarinkotimuseo/",
-   :locality "Akaa",
+   :location "Akaa",
    :image "",
    :description ""}
   {:name "Kirkkomuseo",
@@ -2279,7 +2279,7 @@
    :longitude 25.8616175,
    :latitude 62.5658765,
    :source :openstreetmap,
-   :locality "Suolahti",
+   :location "Suolahti",
    :image "",
    :description ""}
   {:name "Kirkkotuvat",
@@ -2287,14 +2287,14 @@
    :latitude 69.8633723,
    :source :openstreetmap,
    :homepage "https://retkipaikka.fi/vapaa/utsjoen-kirkkotuvat/",
-   :locality "Utsjoki",
+   :location "Utsjoki",
    :image "",
    :description ""}
   {:name "Kirkonrakentajien museo",
    :longitude 27.6848709,
    :latitude 61.2004111,
    :source :openstreetmap,
-   :locality "Savitaipale",
+   :location "Savitaipale",
    :image "",
    :description ""}
   {:name "Kirstin Galleria",
@@ -2314,21 +2314,21 @@
    :longitude 24.9429894,
    :latitude 67.6585247,
    :source :openstreetmap,
-   :locality "Kittilä",
+   :location "Kittilä",
    :image "",
    :description ""}
   {:name "Kiuruveden kotiseutumuseo",
    :longitude 26.6315812,
    :latitude 63.6501673,
    :source :openstreetmap,
-   :locality "Kiuruvesi",
+   :location "Kiuruvesi",
    :image "",
    :description ""}
   {:name "Kiveisten Palokalusto",
    :longitude 21.7319008,
    :latitude 60.8206306,
    :source :openstreetmap,
-   :locality "Laitila",
+   :location "Laitila",
    :image "",
    :description ""}
   {:name "Kivikauden kylä",
@@ -2349,7 +2349,7 @@
    :longitude 27.2788317,
    :latitude 61.6950674,
    :source :openstreetmap,
-   :locality "Mikkeli",
+   :location "Mikkeli",
    :image "",
    :description ""}
   {:name "Klemetsgårdarna",
@@ -2357,14 +2357,14 @@
    :latitude 63.2031456,
    :source :openstreetmap,
    :homepage "https://maxmo.sou.fi/sv/klemetsgardarna/",
-   :locality "Maxmo",
+   :location "Maxmo",
    :image "",
    :description ""}
   {:name "Kniivilän kotiseutumuseo",
    :longitude 24.6983226,
    :latitude 65.0080717,
    :source :openstreetmap,
-   :locality "Hailuoto",
+   :location "Hailuoto",
    :image "",
    :description ""}
   {:name "Kohta",
@@ -2385,7 +2385,7 @@
    :latitude 60.4620942,
    :source :openstreetmap,
    :homepage "http://koivistonmuseomaki.fi/",
-   :locality "Vihti",
+   :location "Vihti",
    :image "",
    :description ""}
   {:name "Kolikkoinmäen työläiskotimuseo",
@@ -2400,7 +2400,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.kolinkotiseutuyhdistys.fi/kolin_kotiseutumuseo.htm",
-   :locality "Koli",
+   :location "Koli",
    :image "",
    :description ""}
   {:name "Kollaa ja Simo Häyhä -museo",
@@ -2413,7 +2413,7 @@
    :longitude 28.5942732,
    :latitude 69.5092881,
    :source :openstreetmap,
-   :locality "Sevettijärvi",
+   :location "Sevettijärvi",
    :image "",
    :description ""}
   {:name "Komperon Kotiseutumuseo",
@@ -2441,7 +2441,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.pargas.fi/web/tjanster/kultur/museot/sv_SE/korpo_skarimuseum/",
-   :locality "korppoo, korpo",
+   :location "korppoo, korpo",
    :image "",
    :description ""}
   {:name "Korsnäs Museum",
@@ -2455,7 +2455,7 @@
    :latitude 61.4153224,
    :source :openstreetmap,
    :homepage "https://mantyharju.fi/matkailu/149-naehtaevyydet",
-   :locality "Mäntyharju",
+   :location "Mäntyharju",
    :image "",
    :description ""}
   {:name "Korsumuseo",
@@ -2475,7 +2475,7 @@
    :latitude 62.8886818,
    :source :openstreetmap,
    :homepage "https://kuopionkorttelimuseo.fi/",
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Korven museomylly",
@@ -2489,7 +2489,7 @@
    :latitude 60.7060297,
    :source :openstreetmap,
    :homepage "https://www.korvenkylankesateatteri.fi/museo",
-   :locality "Muhniemi",
+   :location "Muhniemi",
    :image "",
    :description ""}
   {:name "Koskelan museotorppa",
@@ -2502,7 +2502,7 @@
    :longitude 24.3706532,
    :latitude 61.7954123,
    :source :openstreetmap,
-   :locality "Juupajoki",
+   :location "Juupajoki",
    :image "",
    :description ""}
   {:name "Koskenkorvan museo",
@@ -2529,21 +2529,21 @@
    :longitude 25.3304828,
    :latitude 63.7492219,
    :source :openstreetmap,
-   :locality "Haapajärvi",
+   :location "Haapajärvi",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
    :longitude 21.7868355,
    :latitude 61.242745,
    :source :openstreetmap,
-   :locality "Eurajoki",
+   :location "Eurajoki",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
    :longitude 28.6300158,
    :latitude 62.4311872,
    :source :openstreetmap,
-   :locality "Heinävesi",
+   :location "Heinävesi",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
@@ -2565,7 +2565,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.vaala.fi/elinvoima/matkailu/kayntikohteet-ja-nahtavyydet/saraisniemen-kotiseutumuseo/",
-   :locality "Säräisniemi",
+   :location "Säräisniemi",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
@@ -2578,7 +2578,7 @@
    :longitude 25.4163802,
    :latitude 64.9356898,
    :source :openstreetmap,
-   :locality "Oulu",
+   :location "Oulu",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
@@ -2591,7 +2591,7 @@
    :longitude 28.8271674,
    :latitude 61.2862292,
    :source :openstreetmap,
-   :locality "Ruokolahti",
+   :location "Ruokolahti",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
@@ -2611,21 +2611,21 @@
    :longitude 24.4143627,
    :latitude 63.2150859,
    :source :openstreetmap,
-   :locality "Perho",
+   :location "Perho",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
    :longitude 26.5904312,
    :latitude 67.4036157,
    :source :openstreetmap,
-   :locality "Sodankylä",
+   :location "Sodankylä",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
    :longitude 27.5063977,
    :latitude 67.1095902,
    :source :openstreetmap,
-   :locality "Pelkosenniemi",
+   :location "Pelkosenniemi",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
@@ -2633,7 +2633,7 @@
    :latitude 67.1601049,
    :source :openstreetmap,
    :homepage "https://www.kolari.fi/fi/palvelut/vapaa-aika/museo.html",
-   :locality "Sieppijärvi",
+   :location "Sieppijärvi",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
@@ -2647,14 +2647,14 @@
    :longitude 28.4089449,
    :latitude 64.1296261,
    :source :openstreetmap,
-   :locality "Sotkamo",
+   :location "Sotkamo",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
    :longitude 24.9372193,
    :latitude 63.6039866,
    :source :openstreetmap,
-   :locality "Reisjärvi",
+   :location "Reisjärvi",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
@@ -2669,14 +2669,14 @@
    :latitude 62.381949,
    :source :openstreetmap,
    :homepage "https://www.jappila.fi/palvelu/museo/",
-   :locality "Jäppilä",
+   :location "Jäppilä",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo",
    :longitude 24.7930163,
    :latitude 62.4082129,
    :source :openstreetmap,
-   :locality "Multia",
+   :location "Multia",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo Alisgården",
@@ -2684,14 +2684,14 @@
    :latitude 60.2210826,
    :source :openstreetmap,
    :homepage "https://www.kyhf.hembygd.fi/svenska/museot/alisgarden/",
-   :locality "Lapinkylä",
+   :location "Lapinkylä",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo Helinin  Torppa",
    :longitude 21.5919333,
    :latitude 60.9695633,
    :source :openstreetmap,
-   :locality "Pyhä-Ranta",
+   :location "Pyhä-Ranta",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo Katvala",
@@ -2707,7 +2707,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.loppi.fi/hyvinvointi-ja-vapaa-aika/kulttuuri/vanhankirkon-maki/kotiseutumuseo-lukkarin-puustelli/",
-   :locality "Loppi",
+   :location "Loppi",
    :image "",
    :description ""}
   {:name "Kotiseutumuseo Sibbesgården",
@@ -2715,35 +2715,35 @@
    :latitude 60.3336776,
    :source :openstreetmap,
    :homepage "https://www.sibbo.hembygd.fi/museot/",
-   :locality "Sipoo",
+   :location "Sipoo",
    :image "",
    :description ""}
   {:name "Kotiseututalo",
    :longitude 25.6398372,
    :latitude 64.7679438,
    :source :openstreetmap,
-   :locality "Tyrnävä",
+   :location "Tyrnävä",
    :image "",
    :description ""}
   {:name "Kotiseututalo Kahari",
    :longitude 21.8720248,
    :latitude 61.5907092,
    :source :openstreetmap,
-   :locality "Noormarkku",
+   :location "Noormarkku",
    :image "",
    :description ""}
   {:name "Kotiseututalo Röytty",
    :longitude 28.0623891,
    :latitude 61.1601243,
    :source :openstreetmap,
-   :locality "Taipalsaari",
+   :location "Taipalsaari",
    :image "",
    :description ""}
   {:name "Kotiseututalo Simola",
    :longitude 26.1197182,
    :latitude 61.9200457,
    :source :openstreetmap,
-   :locality "Leivonmäki",
+   :location "Leivonmäki",
    :image "",
    :description ""}
   {:name "Koulumuseo",
@@ -2757,7 +2757,7 @@
    :latitude 60.2079916,
    :source :openstreetmap,
    :homepage "https://www.espoo.fi/fi/koulumuseo-lagstad",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Kouvolan pienoisrautatiemuseo",
@@ -2773,14 +2773,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.kouvola.fi/index/museokavijalle/museot/taidemuseo.html",
-   :locality "Kouvola",
+   :location "Kouvola",
    :image "",
    :description ""}
   {:name "Kovelan traktorimuseo",
    :longitude 23.8478954,
    :latitude 60.3971776,
    :source :openstreetmap,
-   :locality "Nummi",
+   :location "Nummi",
    :image "",
    :description ""}
   {:name "Krookilan kotiseutukeskus",
@@ -2793,7 +2793,7 @@
    :longitude 24.9566846,
    :latitude 60.1724383,
    :source :openstreetmap,
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Kruununmakasiinimuseo",
@@ -2813,14 +2813,14 @@
    :longitude 22.5336975,
    :latitude 63.5302921,
    :source :openstreetmap,
-   :locality "Nykarleby",
+   :location "Nykarleby",
    :image "",
    :description ""}
   {:name "Kuhmalahden kotiseutumuseo",
    :longitude 24.5630488,
    :latitude 61.5059821,
    :source :openstreetmap,
-   :locality "Kuhmalahti",
+   :location "Kuhmalahti",
    :image "",
    :description ""}
   {:name "Kuhmo-talo",
@@ -2828,14 +2828,14 @@
    :latitude 64.1299959,
    :source :openstreetmap,
    :homepage "https://www.kuhmotalo.fi/",
-   :locality "Kuhmo",
+   :location "Kuhmo",
    :image "",
    :description ""}
   {:name "Kuhmoisten kotiseutumuseo",
    :longitude 25.1761773,
    :latitude 61.5613008,
    :source :openstreetmap,
-   :locality "Kuhmoinen",
+   :location "Kuhmoinen",
    :image "",
    :description ""}
   {:name "Kuhmon kamarimusiikki - toimisto",
@@ -2843,7 +2843,7 @@
    :latitude 64.1260111,
    :source :openstreetmap,
    :homepage "https://www.kuhmofestival.fi/",
-   :locality "Kuhmo",
+   :location "Kuhmo",
    :image "",
    :description ""}
   {:name "Kuhmon talvisotamuseo",
@@ -2851,7 +2851,7 @@
    :latitude 64.1171255,
    :source :openstreetmap,
    :homepage "https://www.kuhmo.fi/talvisotamuseo",
-   :locality "Kuhmo",
+   :location "Kuhmo",
    :image "",
    :description ""}
   {:name "Kuivurigalleria",
@@ -2885,7 +2885,7 @@
    :latitude 68.1782472,
    :source :openstreetmap,
    :homepage "https://www.kultamuseo.fi/",
-   :locality "Tankavaara",
+   :location "Tankavaara",
    :image "",
    :description ""}
   {:name "Kulttuurikeskus",
@@ -2904,7 +2904,7 @@
    :longitude 23.1300582,
    :latitude 60.3871824,
    :source :openstreetmap,
-   :locality "Salo",
+   :location "Salo",
    :image "",
    :description ""}
   {:name "Kulttuurikeskus Skantz",
@@ -2912,7 +2912,7 @@
    :latitude 62.0781602,
    :source :openstreetmap,
    :homepage "https://skantz.fi/",
-   :locality "Kantti",
+   :location "Kantti",
    :image "",
    :description ""}
   {:name "Kulttuurikeskus Villa Rana",
@@ -2920,14 +2920,14 @@
    :latitude 62.2366119,
    :source :openstreetmap,
    :homepage "https://www.villarana.fi/",
-   :locality "Jyväskylä",
+   :location "Jyväskylä",
    :image "",
    :description ""}
   {:name "Kulttuuritalo Laaksola",
    :longitude 23.8653032,
    :latitude 61.1708937,
    :source :openstreetmap,
-   :locality "Akaa",
+   :location "Akaa",
    :image "",
    :description ""}
   {:name "Kulttuuritalo Lilla Villan",
@@ -2935,7 +2935,7 @@
    :latitude 60.3783251,
    :source :openstreetmap,
    :homepage "https://www.lillavillan.fi/",
-   :locality "Sipoo",
+   :location "Sipoo",
    :image "",
    :description ""}
   {:name "Kulttuuritalo Valve",
@@ -2943,7 +2943,7 @@
    :latitude 65.0141915,
    :source :openstreetmap,
    :homepage "https://www.kulttuurivalve.fi/",
-   :locality "Oulu",
+   :location "Oulu",
    :image "",
    :description ""}
   {:name "Kulttuuritalo Virta",
@@ -2965,7 +2965,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kimitoon.fi/fritid-och-kultur/kulturhuset-villa-lande/",
-   :locality "Kimito",
+   :location "Kimito",
    :image "",
    :description ""}
   {:name "Kuntsin modernin taiteen museo",
@@ -2974,7 +2974,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.vaasa.fi/en/see-and-experience/culture-in-vaasa-and-vaasa-region/museums-of-vaasa/kuntsi-museum-of-modern-art/",
-   :locality "Vaasa",
+   :location "Vaasa",
    :image "",
    :description ""}
   {:name "Kuokkalan kartano",
@@ -2989,7 +2989,7 @@
    :latitude 62.8923889,
    :source :openstreetmap,
    :homepage "https://kuopionmuseo.fi/",
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Kuopion sotaveteraanimuseo",
@@ -2997,7 +2997,7 @@
    :latitude 62.8934506,
    :source :openstreetmap,
    :homepage "http://www.kuopionsotaveteraanit.fi/museo/",
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Kuopion taidemuseo",
@@ -3005,14 +3005,14 @@
    :latitude 62.8919867,
    :source :openstreetmap,
    :homepage "https://kuopiontaidemuseo.fi/",
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Kuoreveden kotiseutumuseo",
    :longitude 24.7288163,
    :latitude 61.9681648,
    :source :openstreetmap,
-   :locality "Halli",
+   :location "Halli",
    :image "",
    :description ""}
   {:name "KUPRU Galleria",
@@ -3027,21 +3027,21 @@
    :latitude 60.4617641,
    :source :openstreetmap,
    :homepage "https://www.turku.fi/kuralankylamaki",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Kurikan kotiseutumuseo",
    :longitude 22.3883498,
    :latitude 62.6169268,
    :source :openstreetmap,
-   :locality "Kurikka",
+   :location "Kurikka",
    :image "",
    :description ""}
   {:name "Kurkijoki-museo",
    :longitude 23.0480673,
    :latitude 60.8560582,
    :source :openstreetmap,
-   :locality "Loimaa",
+   :location "Loimaa",
    :image "",
    :description ""}
   {:name "Kurun ulkomuseo",
@@ -3050,14 +3050,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.ylojarvi.fi/vapaa-aika/kulttuuri/kurun-ulkomuseo/",
-   :locality "Kuru",
+   :location "Kuru",
    :image "",
    :description ""}
   {:name "Kuusamon kotiseutumuseo",
    :longitude 29.2054356,
    :latitude 65.9582096,
    :source :openstreetmap,
-   :locality "Kuusamo",
+   :location "Kuusamo",
    :image "",
    :description ""}
   {:name "Kuusiston kartano",
@@ -3071,14 +3071,14 @@
    :latitude 62.9730577,
    :source :openstreetmap,
    :homepage "https://museum.malax.fi/index-filer/Page679.htm",
-   :locality "Malax",
+   :location "Malax",
    :image "",
    :description ""}
   {:name "KWUM",
    :longitude 23.5605304,
    :latitude 60.1351631,
    :source :openstreetmap,
-   :locality "Fiskars",
+   :location "Fiskars",
    :image "",
    :description ""}
   {:name "Kycklings kotiseututalo",
@@ -3087,7 +3087,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museo-opas.fi/fi/museo/kycklingsin-kotiseututalo",
-   :locality "Lapinjärvi",
+   :location "Lapinjärvi",
    :image "",
    :description ""}
   {:name "Kylmäkosken vanha mylly",
@@ -3126,7 +3126,7 @@
    :latitude 61.2020092,
    :source :openstreetmap,
    :homepage "https://kakisalmimuseo.fi",
-   :locality "Heinola",
+   :location "Heinola",
    :image "",
    :description ""}
   {:name "Kälviän kotiseutumuseo",
@@ -3142,7 +3142,7 @@
    :latitude 60.9048425,
    :source :openstreetmap,
    :homepage "https://www.huovilanpuisto.fi/kotiseutumuseo/",
-   :locality "Kärkölä",
+   :location "Kärkölä",
    :image "",
    :description ""}
   {:name "Käsityömuseo Miila",
@@ -3151,7 +3151,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.paimio.fi/kulttuuri-ja-vapaa-aika/museot/kasityomuseo-miila/",
-   :locality "Paimio",
+   :location "Paimio",
    :image "",
    :description ""}
   {:name "Käytävä Galleria",
@@ -3159,7 +3159,7 @@
    :latitude 60.6323486,
    :source :openstreetmap,
    :homepage "http://www.wanhanvillantaide.fi/taidegalleria",
-   :locality "Hyvinkää",
+   :location "Hyvinkää",
    :image "",
    :description ""}
   {:name "Kökar hembygdsmuseum",
@@ -3172,7 +3172,7 @@
    :longitude 19.946879,
    :latitude 60.0933982,
    :source :openstreetmap,
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Kötsin museo",
@@ -3180,7 +3180,7 @@
    :latitude 63.5494051,
    :source :openstreetmap,
    :homepage "https://www.nurmes.fi/kulttuuri-ja-vapaa-aika/museo/",
-   :locality "Nurmes",
+   :location "Nurmes",
    :image "",
    :description ""}
   {:name "Labbas hembygds- & bankmuseum",
@@ -3194,7 +3194,7 @@
    :latitude 60.9856307,
    :source :openstreetmap,
    :homepage "https://www.lahdenhistoriallinen.fi/",
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Lahden taidemuseo",
@@ -3202,14 +3202,14 @@
    :latitude 60.9837183,
    :source :openstreetmap,
    :homepage "https://www.lahdenmuseot.fi/main.php?id=26&taidemuseo",
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Laihosen torppa, Pyhämaan kotiseutumuseo",
    :longitude 21.36738,
    :latitude 60.9524715,
    :source :openstreetmap,
-   :locality "Uusikaupunki",
+   :location "Uusikaupunki",
    :image "",
    :description ""}
   {:name "Laila Pullisen veistospuisto ja kotimuseo",
@@ -3217,14 +3217,14 @@
    :latitude 60.2818282,
    :source :openstreetmap,
    :homepage "https://www.lailapullinen.fi/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Lammintalo",
    :longitude 23.7509643,
    :latitude 60.3700527,
    :source :openstreetmap,
-   :locality "Sammatti",
+   :location "Sammatti",
    :image "",
    :description ""}
   {:name "Lampivaaran ametistikaivos",
@@ -3232,7 +3232,7 @@
    :latitude 67.1197893,
    :source :openstreetmap,
    :homepage "https://www.amethystmine.fi/",
-   :locality "Luosto",
+   :location "Luosto",
    :image "",
    :description ""}
   {:name "Lapin kotiseutumuseo",
@@ -3245,7 +3245,7 @@
    :longitude 25.7593801,
    :latitude 66.4778328,
    :source :openstreetmap,
-   :locality "Rovaniemi",
+   :location "Rovaniemi",
    :image "",
    :description ""}
   {:name "Lapland Hotels SnowVillage",
@@ -3254,7 +3254,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.laplandhotels.com/en/hotels-and-destinations/yllas/lapland-hotels-snowvillage",
-   :locality "Kittilä",
+   :location "Kittilä",
    :image "",
    :description ""}
   {:name "Lappajärven museo",
@@ -3262,21 +3262,21 @@
    :latitude 63.2108939,
    :source :openstreetmap,
    :homepage "https://www.lappajarviseura.fi/museo/",
-   :locality "Lappajärvi",
+   :location "Lappajärvi",
    :image "",
    :description ""}
   {:name "Lappeenrannan automuseo",
    :longitude 28.0774034,
    :latitude 61.0263161,
    :source :openstreetmap,
-   :locality "Lappeenranta",
+   :location "Lappeenranta",
    :image "",
    :description ""}
   {:name "Lappeenrannan taidemuseo",
    :longitude 28.1831242,
    :latitude 61.0650354,
    :source :openstreetmap,
-   :locality "Lappeenranta",
+   :location "Lappeenranta",
    :image "",
    :description ""}
   {:name "Lasarettimuseo",
@@ -3303,14 +3303,14 @@
    :latitude 60.1877081,
    :source :openstreetmap,
    :homepage "https://lastentarhamuseo.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Lauri Viita -museo",
    :longitude 23.7104121,
    :latitude 61.5039585,
    :source :openstreetmap,
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Laurien tupa",
@@ -3319,7 +3319,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museoraitti.fi/museot/kallenaution-kestikievari/",
-   :locality "Juupajoki",
+   :location "Juupajoki",
    :image "",
    :description ""}
   {:name "Laurinmäen torpparimuseo",
@@ -3335,14 +3335,14 @@
    :source :openstreetmap,
    :homepage
    "https://satakunnanmuseo.pori.fi/tietoa-meista/lavian-kotiseutumuseo/",
-   :locality "Lavia",
+   :location "Lavia",
    :image "",
    :description ""}
   {:name "Lebellska köpmansgården",
    :longitude 21.3777897,
    :latitude 62.2731475,
    :source :openstreetmap,
-   :locality "Kristiinankaupunki",
+   :location "Kristiinankaupunki",
    :image "",
    :description ""}
   {:name "Lehtimäen kotiseutumuseo",
@@ -3350,7 +3350,7 @@
    :latitude 62.8000826,
    :source :openstreetmap,
    :homepage "http://lehtimakiseura.epk.fi/kotiseutumuseo/",
-   :locality "Lehtimäen kirkonkylä",
+   :location "Lehtimäen kirkonkylä",
    :image "",
    :description ""}
   {:name "Leivintupa",
@@ -3370,7 +3370,7 @@
    :longitude 25.1353769,
    :latitude 60.2921892,
    :source :openstreetmap,
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Lepaan Puutarhamuseo",
@@ -3378,7 +3378,7 @@
    :latitude 61.1138751,
    :source :openstreetmap,
    :homepage "https://www.museoraitti.fi/museot/lepaan-puutarhamuseo/",
-   :locality "Hattula",
+   :location "Hattula",
    :image "",
    :description ""}
   {:name "Leppävirran museo",
@@ -3387,7 +3387,7 @@
    :source :openstreetmap,
    :homepage
    "https://leppavirta.fi/kulttuuri-ja-vapaa-aika/kotiseutumuseo/",
-   :locality "Leppävirta",
+   :location "Leppävirta",
    :image "",
    :description ""}
   {:name "Lestijärven kotiseutumuseo",
@@ -3426,7 +3426,7 @@
    :longitude 25.4033061,
    :latitude 64.8030986,
    :source :openstreetmap,
-   :locality "Liminka",
+   :location "Liminka",
    :image "",
    :description ""}
   {:name "Lohjan museo",
@@ -3440,7 +3440,7 @@
    :longitude 23.4989403,
    :latitude 64.0221935,
    :source :openstreetmap,
-   :locality "Lohtaja",
+   :location "Lohtaja",
    :image "",
    :description ""}
   {:name "Loimaan kotiseutumuseo",
@@ -3453,7 +3453,7 @@
    :longitude 23.0646571,
    :latitude 60.8505007,
    :source :openstreetmap,
-   :locality "Loimaa",
+   :location "Loimaa",
    :image "",
    :description ""}
   {:name "Lotsmuseum",
@@ -3495,7 +3495,7 @@
    :latitude 60.4522561,
    :source :openstreetmap,
    :homepage "https://osterstjernan.fi/",
-   :locality "Loviisa",
+   :location "Loviisa",
    :image "",
    :description ""}
   {:name "Lumivaara museo",
@@ -3503,7 +3503,7 @@
    :latitude 62.4035289,
    :source :openstreetmap,
    :homepage "https://www.killinkoski.fi/",
-   :locality "Killinkoski",
+   :location "Killinkoski",
    :image "",
    :description ""}
   {:name "Luontokeskus Petola",
@@ -3511,7 +3511,7 @@
    :latitude 64.1215895,
    :source :openstreetmap,
    :homepage "https://www.luontoon.fi/kuhmonluontokeskus",
-   :locality "Kuhmo",
+   :location "Kuhmo",
    :image "",
    :description ""}
   {:name "Luontotalo Villa Elfvik",
@@ -3531,7 +3531,7 @@
    :longitude 22.2774895,
    :latitude 60.4467998,
    :source :openstreetmap,
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Luvian kotiseutumuseo",
@@ -3545,7 +3545,7 @@
    :longitude 21.3732046,
    :latitude 62.2753753,
    :source :openstreetmap,
-   :locality "Kristiinankaupunki",
+   :location "Kristiinankaupunki",
    :image "",
    :description ""}
   {:name "Lönnströmin Kotimuseo",
@@ -3604,7 +3604,7 @@
    :latitude 61.7517338,
    :source :openstreetmap,
    :homepage "https://www.maitolaiturimuseo.net/",
-   :locality "Velaatta",
+   :location "Velaatta",
    :image "",
    :description ""}
   {:name "Makasiini Contemporary",
@@ -3612,7 +3612,7 @@
    :latitude 60.1935402,
    :source :openstreetmap,
    :homepage "https://makasiinicontemporary.com/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Makasiinimuseo",
@@ -3626,7 +3626,7 @@
    :latitude 60.1867517,
    :source :openstreetmap,
    :homepage "https://makeyourmark.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Malakta",
@@ -3634,14 +3634,14 @@
    :latitude 62.9334855,
    :source :openstreetmap,
    :homepage "https://www.malakta.fi/",
-   :locality "Malax",
+   :location "Malax",
    :image "",
    :description ""}
   {:name "Mallassauna",
    :longitude 25.452376,
    :latitude 65.0190305,
    :source :openstreetmap,
-   :locality "Oulu",
+   :location "Oulu",
    :image "",
    :description ""}
   {:name "Malva - Lahden visuaalisten taiteiden museo",
@@ -3649,7 +3649,7 @@
    :latitude 60.9861192,
    :source :openstreetmap,
    :homepage "https://www.malvamuseo.fi/",
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Manilla",
@@ -3657,7 +3657,7 @@
    :latitude 60.4393928,
    :source :openstreetmap,
    :homepage "https://www.manillantehdas.fi/",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Mankkaan makasiini",
@@ -3665,7 +3665,7 @@
    :latitude 60.1932099,
    :source :openstreetmap,
    :homepage "https://www.espoo.fi/fi/toimipisteet/mankkaan-makasiini",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Mannerheim-museo",
@@ -3673,7 +3673,7 @@
    :latitude 60.1588725,
    :source :openstreetmap,
    :homepage "https://www.mannerheim-museo.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Manners skogshuggarstuga",
@@ -3714,7 +3714,7 @@
    :latitude 60.7172615,
    :source :openstreetmap,
    :homepage "https://www.marskinmaja.fi/",
-   :locality "Loppi",
+   :location "Loppi",
    :image "",
    :description ""}
   {:name "Marskin Salonkivaunu",
@@ -3722,7 +3722,7 @@
    :latitude 61.3588381,
    :source :openstreetmap,
    :homepage "https://www.kiskokabinetti.net/marskin-salonkivaunu/",
-   :locality "Sastamala",
+   :location "Sastamala",
    :image "",
    :description ""}
   {:name "Maskun museo",
@@ -3743,7 +3743,7 @@
    :longitude 24.7085777,
    :latitude 60.2386953,
    :source :openstreetmap,
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Meilahden Taidehalli",
@@ -3751,7 +3751,7 @@
    :latitude 60.1910703,
    :source :openstreetmap,
    :homepage "https://meilahdenkartano.fi/tilat/taidehalli/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Mekaanisen Musiikin Museo",
@@ -3759,7 +3759,7 @@
    :latitude 62.2990003,
    :source :openstreetmap,
    :homepage "https://www.mekaanisenmusiikinmuseo.fi/",
-   :locality "Varkaus",
+   :location "Varkaus",
    :image "",
    :description ""}
   {:name "Merijärven kotiseutumuseo",
@@ -3775,7 +3775,7 @@
    :latitude 60.4725229,
    :source :openstreetmap,
    :homepage "https://www.merikeskusvellamo.fi/",
-   :locality "Kotka",
+   :location "Kotka",
    :image "",
    :description ""}
   {:name "Merimiehenkotimuseo",
@@ -3790,7 +3790,7 @@
    :latitude 60.3902466,
    :source :openstreetmap,
    :homepage "https://www.salontaidemuseo.fi/meritalo/index.html",
-   :locality "Salo",
+   :location "Salo",
    :image "",
    :description ""}
   {:name "Merkki",
@@ -3798,7 +3798,7 @@
    :latitude 60.1657046,
    :source :openstreetmap,
    :homepage "http://www.merkkiin.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Metsätyömuseo",
@@ -3837,7 +3837,7 @@
    :longitude 25.5715357,
    :latitude 60.9828679,
    :source :openstreetmap,
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Motormuseum",
@@ -3845,7 +3845,7 @@
    :latitude 63.7082075,
    :source :openstreetmap,
    :homepage "http://www.sikurimuseo.fi/",
-   :locality "Jakobstad",
+   :location "Jakobstad",
    :image "",
    :description ""}
   {:name "Munkkiniemen Taidelainaamo ja Kehys",
@@ -3872,7 +3872,7 @@
    :latitude 63.0690145,
    :source :openstreetmap,
    :homepage "https://www.masuunibrunou.fi/",
-   :locality "Juankoski",
+   :location "Juankoski",
    :image "",
    :description ""}
   {:name "Museo Milavida",
@@ -3880,7 +3880,7 @@
    :latitude 61.5040384,
    :source :openstreetmap,
    :homepage "https://museomilavida.fi/",
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Museo Militaria",
@@ -3895,7 +3895,7 @@
    :latitude 60.996831,
    :source :openstreetmap,
    :homepage "https://hmlmuseo.fi/kohteet/museo-skogster/",
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Museo-Eerola",
@@ -3909,7 +3909,7 @@
    :latitude 67.4145685,
    :source :openstreetmap,
    :homepage "https://alariestomuseo.fi",
-   :locality "Sodankylä",
+   :location "Sodankylä",
    :image "",
    :description ""}
   {:name "Museolossi",
@@ -3922,14 +3922,14 @@
    :longitude 24.954174,
    :latitude 60.2095944,
    :source :openstreetmap,
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Museotalo Warpunen",
    :longitude 26.8190492,
    :latitude 60.7026701,
    :source :openstreetmap,
-   :locality "Inkeroinen",
+   :location "Inkeroinen",
    :image "",
    :description ""}
   {:name "Museum of Impossible Forms",
@@ -3937,7 +3937,7 @@
    :latitude 60.1806284,
    :source :openstreetmap,
    :homepage "https://www.impossibleforms.org/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Museum of malware art",
@@ -3953,7 +3953,7 @@
    :latitude 60.1737932,
    :source :openstreetmap,
    :homepage "https://hakasalmivilla.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Musiikkiteatteri Spektri",
@@ -3961,7 +3961,7 @@
    :latitude 60.9925822,
    :source :openstreetmap,
    :homepage "https://www.musiikkiteatterispektri.fi",
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Mustialan maataloushistoriallinen museo",
@@ -3977,7 +3977,7 @@
    :latitude 60.0840803,
    :source :openstreetmap,
    :homepage "https://www.degerby.fi/en/museum/igor",
-   :locality "Degerby",
+   :location "Degerby",
    :image "",
    :description ""}
   {:name "Muumimuseo",
@@ -3992,7 +3992,7 @@
    :latitude 62.1316156,
    :source :openstreetmap,
    :homepage "https://www.muurame.fi/fi/muuramen_kulttuurikeskus/",
-   :locality "Muurame",
+   :location "Muurame",
    :image "",
    :description ""}
   {:name "Muuratsalon koetalo (1952-54)",
@@ -4001,7 +4001,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.alvaraalto.fi/en/location/muuratsalo-experimental-house",
-   :locality "Säynätsalo",
+   :location "Säynätsalo",
    :image "",
    :description ""}
   {:name "Muurlan kotiseutumuseo",
@@ -4028,7 +4028,7 @@
    :latitude 63.2429195,
    :source :openstreetmap,
    :homepage "https://juukaseura.fi/museot/myllymuseo/",
-   :locality "Juuka",
+   :location "Juuka",
    :image "",
    :description ""}
   {:name "Myllymäen torppa",
@@ -4043,7 +4043,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.valkeakoski.fi/portal/suomi/kulttuuri_ja_vapaa-aika/museot/myllysaaren_museo/",
-   :locality "Valkeakoski",
+   :location "Valkeakoski",
    :image "",
    :description ""}
   {:name "Myrbergsgården",
@@ -4083,7 +4083,7 @@
    :latitude 62.6418773,
    :source :openstreetmap,
    :homepage "https://mohkonruukki.fi/",
-   :locality "Möhkö",
+   :location "Möhkö",
    :image "",
    :description ""}
   {:name "Naantalin Taidehuone",
@@ -4092,7 +4092,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.naantali.fi/fi/kulttuuri-ja-vapaa-aika/museot-kulttuuriperinto-ja-nayttelyt/naantalin-taidehuone",
-   :locality "Naantali",
+   :location "Naantali",
    :image "",
    :description ""}
   {:name "Naivistit Iittalassa (Naive Art Gallery)",
@@ -4100,7 +4100,7 @@
    :latitude 61.0898229,
    :source :openstreetmap,
    :homepage "https://naivistitiittalassa.fi/",
-   :locality "Iittala",
+   :location "Iittala",
    :image "",
    :description ""}
   {:name "Nakkilan kotiseutumuseo",
@@ -4115,7 +4115,7 @@
    :latitude 63.6555601,
    :source :openstreetmap,
    :homepage "https://www.nanoq.fi/",
-   :locality "Jakobstad",
+   :location "Jakobstad",
    :image "",
    :description ""}
   {:name "Napialan Wanha Koulu",
@@ -4123,7 +4123,7 @@
    :latitude 60.8362721,
    :source :openstreetmap,
    :homepage "https://www.napialanwanhakoulu.info/",
-   :locality "Janakkala",
+   :location "Janakkala",
    :image "",
    :description ""}
   {:name "Narvan kotiseutumuseo",
@@ -4145,7 +4145,7 @@
    :latitude 60.5598607,
    :source :openstreetmap,
    :homepage "https://www.liedonmuseo.fi/",
-   :locality "Lieto as",
+   :location "Lieto as",
    :image "",
    :description ""}
   {:name "Nauvon Merenkulkutalo",
@@ -4173,14 +4173,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.jyvaskyla.fi/keskisuomenmuseo/tervetuloa/museoperheemme/niitynpaan-tyolaiskotimuseo",
-   :locality "Vaajakoski",
+   :location "Vaajakoski",
    :image "",
    :description ""}
   {:name "Nilsiän museo",
    :longitude 28.0727462,
    :latitude 63.2219639,
    :source :openstreetmap,
-   :locality "Nilsiä",
+   :location "Nilsiä",
    :image "",
    :description ""}
   {:name "Nostalgia Museo",
@@ -4193,14 +4193,14 @@
    :longitude 22.121459,
    :latitude 60.6111118,
    :source :openstreetmap,
-   :locality "Nousiainen",
+   :location "Nousiainen",
    :image "",
    :description ""}
   {:name "Nuijamaan pitäjänmuseo",
    :longitude 28.5388205,
    :latitude 60.9601757,
    :source :openstreetmap,
-   :locality "Nuijamaa",
+   :location "Nuijamaa",
    :image "",
    :description ""}
   {:name "Nukarin koulumuseo",
@@ -4209,7 +4209,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nurmijarvi.fi/kuntalaisen-palvelut/kulttuuri-ja-vapaa-aika/museo/museot-ja-nayttelyt/nukarin-koulumuseo/",
-   :locality "Nukari",
+   :location "Nukari",
    :image "",
    :description ""}
   {:name "Nukke- ja lelumuseo",
@@ -4217,14 +4217,14 @@
    :latitude 60.3945307,
    :source :openstreetmap,
    :homepage "http://lelumuseo.com",
-   :locality "Porvoo",
+   :location "Porvoo",
    :image "",
    :description ""}
   {:name "Nummen kotiseutumuseo",
    :longitude 23.884856,
    :latitude 60.3930292,
    :source :openstreetmap,
-   :locality "Nummi",
+   :location "Nummi",
    :image "",
    :description ""}
   {:name "Nurmijärvi-Taiteen Museo",
@@ -4232,7 +4232,7 @@
    :latitude 60.4599107,
    :source :openstreetmap,
    :homepage "https://www.nt-museo.net/",
-   :locality "Nurmijärvi",
+   :location "Nurmijärvi",
    :image "",
    :description ""}
   {:name "Nurmon museo",
@@ -4240,7 +4240,7 @@
    :latitude 62.8351085,
    :source :openstreetmap,
    :homepage "http://www.nurmoo-seura.fi/",
-   :locality "Nurmo",
+   :location "Nurmo",
    :image "",
    :description ""}
   {:name "Nuukuuren Museo",
@@ -4254,7 +4254,7 @@
    :latitude 61.9094956,
    :source :openstreetmap,
    :homepage "https://kerimaki.fi/kotiseutumuseo/",
-   :locality "Kerimäki",
+   :location "Kerimäki",
    :image "",
    :description ""}
   {:name "Ojalan kotiseutumuseo",
@@ -4268,7 +4268,7 @@
    :latitude 60.3962469,
    :source :openstreetmap,
    :homepage "http://www.olympiakasarmi.fi/",
-   :locality "Tuusula",
+   :location "Tuusula",
    :image "",
    :description ""}
   {:name "Onnintupa",
@@ -4276,7 +4276,7 @@
    :latitude 63.2470092,
    :source :openstreetmap,
    :homepage "https://visitlappajarvi.fi/onnintupa/",
-   :locality "Lappajärvi",
+   :location "Lappajärvi",
    :image "",
    :description ""}
   {:name "Opiskelijakulttuurimuseo",
@@ -4284,14 +4284,14 @@
    :latitude 60.1873655,
    :source :openstreetmap,
    :homepage "https://www.ayy.fi/fi/opiskelijakulttuurimuseo",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Orimattilan Pullomuseo",
    :longitude 25.7398037,
    :latitude 60.8085855,
    :source :openstreetmap,
-   :locality "Orimattila",
+   :location "Orimattila",
    :image "",
    :description ""}
   {:name "Orimattilan taidemuseo",
@@ -4300,14 +4300,14 @@
    :source :openstreetmap,
    :homepage
    "https://orimattila.fi/vapaa-aika-ja-hyvinvointi/taidemuseo/",
-   :locality "Orimattila",
+   :location "Orimattila",
    :image "",
    :description ""}
   {:name "Oripään kotiseutumuseo Kivimakasiini",
    :longitude 22.6962397,
    :latitude 60.85674,
    :source :openstreetmap,
-   :locality "Oripää",
+   :location "Oripää",
    :image "",
    :description ""}
   {:name "Oskari Tokoi museo",
@@ -4328,7 +4328,7 @@
    :latitude 65.0035932,
    :source :openstreetmap,
    :homepage "https://www.oulunmusiikkikeskus.fi/",
-   :locality "Oulu",
+   :location "Oulu",
    :image "",
    :description ""}
   {:name "Outogalleria",
@@ -4336,7 +4336,7 @@
    :latitude 62.725816,
    :source :openstreetmap,
    :homepage "https://www.outokummunkaupunki.fi/kulttuuritalo-marita1",
-   :locality "Outokumpu",
+   :location "Outokumpu",
    :image "",
    :description ""}
   {:name "Paattisten kotiseutumuseo",
@@ -4349,14 +4349,14 @@
    :longitude 22.251069,
    :latitude 60.4513142,
    :source :openstreetmap,
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Paavon pirtti",
    :longitude 28.0447874,
    :latitude 63.3161554,
    :source :openstreetmap,
-   :locality "Tahkovuori",
+   :location "Tahkovuori",
    :image "",
    :description ""}
   {:name "Padasjoen kotiseutumuseo",
@@ -4373,7 +4373,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.padasjoki.fi/hyvinvointi-ja-kulttuuri/padasjoen-kotiseututalo",
-   :locality "Padasjoki",
+   :location "Padasjoki",
    :image "",
    :description ""}
   {:name "Pahaojan Kultala",
@@ -4414,7 +4414,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.paimio.fi/kulttuuri-ja-vapaa-aika/museot/paimion-kotiseutumuseo/",
-   :locality "Paimio",
+   :location "Paimio",
    :image "",
    :description ""}
   {:name "Pajamuseo",
@@ -4428,7 +4428,7 @@
    :longitude 29.6319754,
    :latitude 62.3312729,
    :source :openstreetmap,
-   :locality "Rääkkylä",
+   :location "Rääkkylä",
    :image "",
    :description ""}
   {:name "Palanderin talo",
@@ -4436,14 +4436,14 @@
    :latitude 60.9991554,
    :source :openstreetmap,
    :homepage "https://hmlmuseo.fi/kohteet/palanderin-talo/",
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Paloaukean Museo",
    :longitude 29.5462915,
    :latitude 62.6242314,
    :source :openstreetmap,
-   :locality "Ylämylly",
+   :location "Ylämylly",
    :image "",
    :description ""}
   {:name "Palomuseo",
@@ -4457,7 +4457,7 @@
    :latitude 60.9114539,
    :source :openstreetmap,
    :homepage "https://www.palomuseot.fi/fi/page/504",
-   :locality "Kuusankoski",
+   :location "Kuusankoski",
    :image "",
    :description ""}
   {:name "Palsa-museo",
@@ -4465,7 +4465,7 @@
    :latitude 67.6549192,
    :source :openstreetmap,
    :homepage "https://www.kaukosorjosensaatio.fi/getsemane/",
-   :locality "Kittilä",
+   :location "Kittilä",
    :image "",
    :description ""}
   {:name "Palsan myllymuseo",
@@ -4485,7 +4485,7 @@
    :longitude 24.3529717,
    :latitude 61.6829917,
    :source :openstreetmap,
-   :locality "Orivesi",
+   :location "Orivesi",
    :image "",
    :description ""}
   {:name "Panelian Rivimylly ja kotiseutumuseo",
@@ -4499,7 +4499,7 @@
    :latitude 63.5531007,
    :source :openstreetmap,
    :homepage "https://www.olvisaatio.fi/panimomuseo/",
-   :locality "Iisalmi",
+   :location "Iisalmi",
    :image "",
    :description ""}
   {:name "Panssarimuseo",
@@ -4507,14 +4507,14 @@
    :latitude 61.0420749,
    :source :openstreetmap,
    :homepage "https://www.panssarimuseo.fi/",
-   :locality "Parola",
+   :location "Parola",
    :image "",
    :description ""}
   {:name "Pappilamuseo",
    :longitude 23.472773,
    :latitude 60.8001848,
    :source :openstreetmap,
-   :locality "Jokioinen",
+   :location "Jokioinen",
    :image "",
    :description ""}
   {:name "Pargas Hembygdsmuseum",
@@ -4522,7 +4522,7 @@
    :latitude 60.3004849,
    :source :openstreetmap,
    :homepage "https://www.pargas.fi/fi/paraisten-kotiseutumuseo",
-   :locality "Pargas",
+   :location "Pargas",
    :image "",
    :description ""}
   {:name "Pargas industrimuseum",
@@ -4530,7 +4530,7 @@
    :latitude 60.2954618,
    :source :openstreetmap,
    :homepage "https://www.pargashembygdsmuseum.fi/swe/industrimuseet/",
-   :locality "Pargas",
+   :location "Pargas",
    :image "",
    :description ""}
   {:name "Parikkalan Meijerimuseo",
@@ -4539,7 +4539,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.etelakarjalanmuseot.fi/parikkala-local-history-museum/",
-   :locality "Parikkala",
+   :location "Parikkala",
    :image "",
    :description ""}
   {:name "Parkanon kotiseutumuseo",
@@ -4553,7 +4553,7 @@
    :latitude 62.0800076,
    :source :openstreetmap,
    :homepage "https://www.parkano.fi/parkanon-metsamuseo/",
-   :locality "Parkano",
+   :location "Parkano",
    :image "",
    :description ""}
   {:name "Pateniemen sahan museo",
@@ -4561,7 +4561,7 @@
    :latitude 65.0869457,
    :source :openstreetmap,
    :homepage "https://www.ouka.fi/oulu/luuppi/pateniemen-sahan-museo",
-   :locality "Oulu",
+   :location "Oulu",
    :image "",
    :description ""}
   {:name "Pedersörenejdens Bygdemuseum",
@@ -4574,7 +4574,7 @@
    :longitude 24.7851624,
    :latitude 60.2712805,
    :source :openstreetmap,
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Pekilo",
@@ -4588,14 +4588,14 @@
    :latitude 61.8336554,
    :source :openstreetmap,
    :homepage "https://luhangankotiseutuyhdistys.yhdistysavain.fi/",
-   :locality "Tammijärvi",
+   :location "Tammijärvi",
    :image "",
    :description ""}
   {:name "Pentik Kartano",
    :longitude 27.838458,
    :latitude 66.2125935,
    :source :openstreetmap,
-   :locality "Perä-Posio",
+   :location "Perä-Posio",
    :image "",
    :description ""}
   {:name "Pentti Valkealahden kotimuseo",
@@ -4604,7 +4604,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.turisti-info.fi/n%C3%A4ht%C3%A4vyydet/pentti-valkealahden-kotimuseo/1323/",
-   :locality "Alavus",
+   :location "Alavus",
    :image "",
    :description ""}
   {:name "Perinnemuseo",
@@ -4617,14 +4617,14 @@
    :longitude 23.0142926,
    :latitude 60.8577501,
    :source :openstreetmap,
-   :locality "Loimaa",
+   :location "Loimaa",
    :image "",
    :description ""}
   {:name "Perniön museo",
    :longitude 23.122491,
    :latitude 60.2088623,
    :source :openstreetmap,
-   :locality "Perniö",
+   :location "Perniö",
    :image "",
    :description ""}
   {:name "Pertti Vuoren ateljee",
@@ -4638,7 +4638,7 @@
    :latitude 60.1187172,
    :source :openstreetmap,
    :homepage "https://www.outboardmuseum.fi/",
-   :locality "Kirkkonummi",
+   :location "Kirkkonummi",
    :image "",
    :description ""}
   {:name "Petäjäveden vanha kirkko",
@@ -4657,7 +4657,7 @@
    :longitude 26.7704616,
    :latitude 63.2275245,
    :source :openstreetmap,
-   :locality "Pielavesi",
+   :location "Pielavesi",
    :image "",
    :description ""}
   {:name "Pielisen museo",
@@ -4665,7 +4665,7 @@
    :latitude 63.3106375,
    :source :openstreetmap,
    :homepage "https://www.lieksa.fi/museo",
-   :locality "Lieksa",
+   :location "Lieksa",
    :image "",
    :description ""}
   {:name "Pieni Plokimuseo",
@@ -4680,7 +4680,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.jyvaskyla.fi/keskisuomenmuseo/museot/pienmaen_talomuseo",
-   :locality "Hankasalmi",
+   :location "Hankasalmi",
    :image "",
    :description ""}
   {:name "Pihlajaveden kotiseutumuseo",
@@ -4689,14 +4689,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.keuruunmuseo.fi/kohteet/pihlajaveden-kotiseutumuseo",
-   :locality "Keuruu",
+   :location "Keuruu",
    :image "",
    :description ""}
   {:name "Pihtiputaan kotiseutumuseo",
    :longitude 25.5711303,
    :latitude 63.3697451,
    :source :openstreetmap,
-   :locality "Pihtipudas",
+   :location "Pihtipudas",
    :image "",
    :description ""}
   {:name "Pikantti",
@@ -4716,7 +4716,7 @@
    :latitude 62.5508602,
    :source :openstreetmap,
    :homepage "https://www.ahtari.fi/pirkanpohja/index.php",
-   :locality "Ähtäri",
+   :location "Ähtäri",
    :image "",
    :description ""}
   {:name "Pitäjänmäen kyläkirkko",
@@ -4724,7 +4724,7 @@
    :latitude 60.2261488,
    :source :openstreetmap,
    :homepage "https://www.kylakirkko.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Pläkkyrimuseo Fyrry",
@@ -4733,7 +4733,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museiportalosterbotten.fi/museot-a-o/museo/68-fyrry-plakkyrimuseo",
-   :locality "Vähäkyrö",
+   :location "Vähäkyrö",
    :image "",
    :description ""}
   {:name "Pohjanmaan museo",
@@ -4741,21 +4741,21 @@
    :latitude 63.0995837,
    :source :openstreetmap,
    :homepage "http://www.pohjanmaanmuseo.fi/",
-   :locality "Vaasa",
+   :location "Vaasa",
    :image "",
    :description ""}
   {:name "Pohjoinen Tullitupa",
    :longitude 21.3777507,
    :latitude 62.2802046,
    :source :openstreetmap,
-   :locality "Kristiinankaupunki",
+   :location "Kristiinankaupunki",
    :image "",
    :description ""}
   {:name "Pohjois-Savon Palomuseo",
    :longitude 27.6247484,
    :latitude 62.885851,
    :source :openstreetmap,
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Pohjolan Pirtti",
@@ -4770,7 +4770,7 @@
    :latitude 61.4530034,
    :source :openstreetmap,
    :homepage "https://poliisimuseo.fi/etusivu",
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Poriginal Galleria",
@@ -4778,7 +4778,7 @@
    :latitude 61.4899781,
    :source :openstreetmap,
    :homepage "https://www.poriartmuseum.fi/",
-   :locality "Pori",
+   :location "Pori",
    :image "",
    :description ""}
   {:name "Porlammin kotiseutumuseo",
@@ -4786,7 +4786,7 @@
    :latitude 60.6752956,
    :source :openstreetmap,
    :homepage "http://www.porlammi.fi/museot/koulumuseo/",
-   :locality "Porlammi",
+   :location "Porlammi",
    :image "",
    :description ""}
   {:name "Poromuseo",
@@ -4800,7 +4800,7 @@
    :latitude 60.4559071,
    :source :openstreetmap,
    :homepage "https://www.postbacken.fi",
-   :locality "Ilola",
+   :location "Ilola",
    :image "",
    :description ""}
   {:name "Postrotemuseet",
@@ -4815,7 +4815,7 @@
    :latitude 60.9679396,
    :source :openstreetmap,
    :homepage "https://www.kotkaniemi.fi/",
-   :locality "Luumäki",
+   :location "Luumäki",
    :image "",
    :description ""}
   {:name "Pro Puu -keskus",
@@ -4835,7 +4835,7 @@
    :longitude 24.9597851,
    :latitude 60.1956767,
    :source :openstreetmap,
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Puhelinmuseo",
@@ -4844,7 +4844,7 @@
    :source :openstreetmap,
    :homepage
    "https://elisa.fi/yhtiotieto/tietoa-elisasta/historia/puhelinmuseo/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Puistokulma",
@@ -4852,7 +4852,7 @@
    :latitude 60.3034385,
    :source :openstreetmap,
    :homepage "https://www.puistokulma.fi/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Pukinmäen taidekoulut",
@@ -4860,7 +4860,7 @@
    :latitude 60.2408106,
    :source :openstreetmap,
    :homepage "https://taidekoulut.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Pukkilan kartanomuseo",
@@ -4881,7 +4881,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.seurantalot.fi/talot/719-puotinkylan-marjaniemen-tyovaentalo-oy-2605",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Puskeman Kustaan tölli",
@@ -4900,7 +4900,7 @@
    :longitude 23.0607731,
    :latitude 63.1005555,
    :source :openstreetmap,
-   :locality "Kauhava",
+   :location "Kauhava",
    :image "",
    :description ""}
   {:name "Pyhälahden valokuvaamomuseo",
@@ -4908,7 +4908,7 @@
    :latitude 62.9676785,
    :source :openstreetmap,
    :homepage "https://vanhapaukku.fi/palvelut/kulttuuripalvelut/",
-   :locality "Lapua",
+   :location "Lapua",
    :image "",
    :description ""}
   {:name "Pyhännän kotiseutumuseo",
@@ -4923,7 +4923,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.lahdenilmasilta.fi/museo/paijat-hameen-ilmailumuseo",
-   :locality "Vesivehmaa",
+   :location "Vesivehmaa",
    :image "",
    :description ""}
   {:name "Päivikki ja Sakari Sohlbergin kotimuseo",
@@ -4931,7 +4931,7 @@
    :latitude 60.1672432,
    :source :openstreetmap,
    :homepage "https://pss-saatio.fi/kotimuseo/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Pälämäen kotiseutumuseo",
@@ -4950,14 +4950,14 @@
    :longitude 27.9296559,
    :latitude 60.7720921,
    :source :openstreetmap,
-   :locality "Ylijärvi",
+   :location "Ylijärvi",
    :image "",
    :description ""}
   {:name "Pöljän kotiseutumuseo",
    :longitude 27.6267746,
    :latitude 63.1233385,
    :source :openstreetmap,
-   :locality "Pöljä",
+   :location "Pöljä",
    :image "",
    :description ""}
   {:name "Pöykkölän kotiseutumuseo",
@@ -4991,7 +4991,7 @@
    :latitude 64.8082051,
    :source :openstreetmap,
    :homepage "https://visitsuomussalmi.fi/tuote/raatteen-vartiomuseo/",
-   :locality "Suomussalmi",
+   :location "Suomussalmi",
    :image "",
    :description ""}
   {:name "Radio- ja puhelinmuseo",
@@ -5005,7 +5005,7 @@
    :latitude 60.9793546,
    :source :openstreetmap,
    :homepage "https://www.lahdenmastola.fi/",
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Ragvaldsin museoalue",
@@ -5018,7 +5018,7 @@
    :longitude 22.1645767,
    :latitude 60.4803438,
    :source :openstreetmap,
-   :locality "Raisio",
+   :location "Raisio",
    :image "",
    :description ""}
   {:name "Rajamuseo",
@@ -5027,7 +5027,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.raja.fi/rajavartiolaitos/historia_perinteet_ja_museotoiminta/rajamuseo",
-   :locality "Imatra",
+   :location "Imatra",
    :image "",
    :description ""}
   {:name "Rakennuskulttuuritalo Toivo ja Korsmanin talo",
@@ -5048,7 +5048,7 @@
    :longitude 28.3071601,
    :latitude 62.0652577,
    :source :openstreetmap,
-   :locality "Rantasalmi",
+   :location "Rantasalmi",
    :image "",
    :description ""}
   {:name "Rantatien Galleria",
@@ -5062,7 +5062,7 @@
    :latitude 62.2444086,
    :source :openstreetmap,
    :homepage "https://jyvaskyla.fi/ratamo/en",
-   :locality "Jyväskylä",
+   :location "Jyväskylä",
    :image "",
    :description ""}
   {:name "Rauman kuvataidekoulu",
@@ -5082,7 +5082,7 @@
    :latitude 61.1286788,
    :source :openstreetmap,
    :homepage "https://www.rmm.fi/",
-   :locality "Rauma",
+   :location "Rauma",
    :image "",
    :description ""}
   {:name "Rautakautinen kauppakylä",
@@ -5097,7 +5097,7 @@
    :latitude 62.62138,
    :source :openstreetmap,
    :homepage "https://rautalamminmuseo.fi/",
-   :locality "Rautalampi",
+   :location "Rautalampi",
    :image "",
    :description ""}
   {:name "Red Conception",
@@ -5105,7 +5105,7 @@
    :latitude 60.1591629,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/redconceptionhelsinki/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Reipin kotiseutumuseo",
@@ -5150,7 +5150,7 @@
    :latitude 62.8988061,
    :source :openstreetmap,
    :homepage "http://www.ortodoksinenkirkkomuseo.fi/en/",
-   :locality "Kuopio",
+   :location "Kuopio",
    :image "",
    :description ""}
   {:name "Riistaveden kotiseutumuseo",
@@ -5164,7 +5164,7 @@
    :latitude 63.0957908,
    :source :openstreetmap,
    :homepage "https://ritz.fi/",
-   :locality "Vaasa",
+   :location "Vaasa",
    :image "",
    :description ""}
   {:name "Riuttalan talonpoikaismuseo",
@@ -5177,7 +5177,7 @@
    :longitude 22.4158092,
    :latitude 59.8522174,
    :source :openstreetmap,
-   :locality "Rosala",
+   :location "Rosala",
    :image "",
    :description ""}
   {:name "Rosenlew-museo",
@@ -5186,7 +5186,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.pori.fi/satakunnan-museo/vierailulle-museoon/rosenlew-museo/",
-   :locality "Pori",
+   :location "Pori",
    :image "",
    :description ""}
   {:name "Rovaniemen kuvataidekoulu",
@@ -5199,7 +5199,7 @@
    :longitude 25.7185376,
    :latitude 66.501103,
    :source :openstreetmap,
-   :locality "Rovaniemi",
+   :location "Rovaniemi",
    :image "",
    :description ""}
   {:name "RUK-museo",
@@ -5207,7 +5207,7 @@
    :latitude 60.567375,
    :source :openstreetmap,
    :homepage "https://rukmuseo.fi/",
-   :locality "Hamina",
+   :location "Hamina",
    :image "",
    :description ""}
   {:name "Rukajärvi-keskus",
@@ -5220,7 +5220,7 @@
    :longitude 22.7312097,
    :latitude 63.7029649,
    :source :openstreetmap,
-   :locality "Jakobstad",
+   :location "Jakobstad",
    :image "",
    :description ""}
   {:name "Runokulman Galleria",
@@ -5247,7 +5247,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.karkkila.fi/sivut/FI/Karkkilan-ruukkimuseo-Senkka",
-   :locality "Karkkila",
+   :location "Karkkila",
    :image "",
    :description ""}
   {:name "Rytivaaran kruununmetsätorppa",
@@ -5275,7 +5275,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.raakkyla.fi/kulttuuri-ja-vapaa-aika/kulttuuri/museot/",
-   :locality "Rääkkylä",
+   :location "Rääkkylä",
    :image "",
    :description ""}
   {:name "Rödhamns museum",
@@ -5288,7 +5288,7 @@
    :longitude 24.3517613,
    :latitude 61.2486206,
    :source :openstreetmap,
-   :locality "Pälkäne",
+   :location "Pälkäne",
    :image "",
    :description ""}
   {:name "Rönnäsin Saaristomuseo",
@@ -5303,14 +5303,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.hamina.fi/asukkaalle/vapaa-aika-2/museot/merikarhu/",
-   :locality "Hamina",
+   :location "Hamina",
    :image "",
    :description ""}
   {:name "Sa-Int Maanpuolustusmuseo",
    :longitude 21.7196699,
    :latitude 60.6888455,
    :source :openstreetmap,
-   :locality "Vehmaa",
+   :location "Vehmaa",
    :image "",
    :description ""}
   {:name "Saarijärven museo",
@@ -5323,7 +5323,7 @@
    :longitude 30.4972135,
    :latitude 62.2490882,
    :source :openstreetmap,
-   :locality "Tohmajärvi",
+   :location "Tohmajärvi",
    :image "",
    :description ""}
   {:name "Saaristolaismuseo",
@@ -5338,7 +5338,7 @@
    :latitude 60.1057976,
    :source :openstreetmap,
    :homepage "https://www.espoonkaupunginmuseo.fi/fi-FI/Saaristomuseo",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Sagalund",
@@ -5346,7 +5346,7 @@
    :latitude 60.161936,
    :source :openstreetmap,
    :homepage "https://sagalund.fi",
-   :locality "Kimito",
+   :location "Kimito",
    :image "",
    :description ""}
   {:name "Sahalahden museomakasiini",
@@ -5365,7 +5365,7 @@
    :longitude 28.3056079,
    :latitude 61.073011,
    :source :openstreetmap,
-   :locality "Lappeenranta",
+   :location "Lappeenranta",
    :image "",
    :description ""}
   {:name "Saimaan Taideluola",
@@ -5386,7 +5386,7 @@
    :longitude 22.8311986,
    :latitude 62.7687299,
    :source :openstreetmap,
-   :locality "Seinäjoki",
+   :location "Seinäjoki",
    :image "",
    :description ""}
   {:name "Salinmäen ulkomuseo",
@@ -5400,7 +5400,7 @@
    :latitude 66.8360483,
    :source :openstreetmap,
    :homepage "https://www.salla.fi/museo",
-   :locality "Salla",
+   :location "Salla",
    :image "",
    :description ""}
   {:name "Salpa-Asema",
@@ -5414,7 +5414,7 @@
    :latitude 60.6840155,
    :source :openstreetmap,
    :homepage "https://salpakeskus.fi/fi/salpalinja-museo_ala",
-   :locality "Miehikkälä",
+   :location "Miehikkälä",
    :image "",
    :description ""}
   {:name "Santa's House of Snowmobiles",
@@ -5429,7 +5429,7 @@
    :latitude 61.5051554,
    :source :openstreetmap,
    :homepage "https://www.sarahildenintaidemuseo.fi/",
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Sarkin museo",
@@ -5443,7 +5443,7 @@
    :latitude 61.4899877,
    :source :openstreetmap,
    :homepage "https://www.pori.fi/smu",
-   :locality "Pori",
+   :location "Pori",
    :image "",
    :description ""}
   {:name "Sauvon kotiseutumuseo",
@@ -5457,7 +5457,7 @@
    :longitude 21.5176399,
    :latitude 61.124087,
    :source :openstreetmap,
-   :locality "Rauma",
+   :location "Rauma",
    :image "",
    :description ""}
   {:name "Savi- ja käsityöpaja Pirkko Ritoranta",
@@ -5471,7 +5471,7 @@
    :latitude 62.3005744,
    :source :openstreetmap,
    :homepage "http://www.savonradanmuseo.fi/",
-   :locality "Pieksämäki",
+   :location "Pieksämäki",
    :image "",
    :description ""}
   {:name "Savusauna",
@@ -5485,7 +5485,7 @@
    :latitude 62.7967858,
    :source :openstreetmap,
    :homepage "https://www.seinajoentaidehalli.fi",
-   :locality "Seinäjoki",
+   :location "Seinäjoki",
    :image "",
    :description ""}
   {:name "Sellosali",
@@ -5493,7 +5493,7 @@
    :latitude 60.2175199,
    :source :openstreetmap,
    :homepage "https://www.sellosali.fi/",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Sepän Paja",
@@ -5508,7 +5508,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.mantsala.fi/yleista/kylat/hirvihaara/507-sepanmaen-kasityomuseo",
-   :locality "Hirvihaara",
+   :location "Hirvihaara",
    :image "",
    :description ""}
   {:name "Serlachius Kartano",
@@ -5516,7 +5516,7 @@
    :latitude 62.0276883,
    :source :openstreetmap,
    :homepage "https://serlachius.fi/nayttelyt/nayttelymme-nyt/",
-   :locality "Mänttä",
+   :location "Mänttä",
    :image "",
    :description ""}
   {:name "Serlachius Pääkonttori",
@@ -5545,14 +5545,14 @@
    :latitude 68.9108769,
    :source :openstreetmap,
    :homepage "https://siida.fi/",
-   :locality "Inari",
+   :location "Inari",
    :image "",
    :description ""}
   {:name "Siikaisten kotiseutumuseo",
    :longitude 21.8191833,
    :latitude 61.8714418,
    :source :openstreetmap,
-   :locality "Siikainen",
+   :location "Siikainen",
    :image "",
    :description ""}
   {:name "Siikavan museoaitta",
@@ -5560,7 +5560,7 @@
    :latitude 61.0897073,
    :source :openstreetmap,
    :homepage "http://jaalankotiseutuyhdistys.net/siikava.html",
-   :locality "Siikava",
+   :location "Siikava",
    :image "",
    :description ""}
   {:name "Silliperinnemuseo Dikseli, Myllymuseo, Näyttämö",
@@ -5568,7 +5568,7 @@
    :latitude 60.3460157,
    :source :openstreetmap,
    :homepage "http://www.roola.fi/",
-   :locality "Röölä",
+   :location "Röölä",
    :image "",
    :description ""}
   {:name "Simo Korpelan synnyinkoti",
@@ -5577,7 +5577,7 @@
    :source :openstreetmap,
    :homepage
    "https://visitsuupohja.fi/tietoa-ja-tarinoita/kulttuurikohteet/runoilija-rovasti-simo-korpelan-synnyinkoti/",
-   :locality "Teuva",
+   :location "Teuva",
    :image "",
    :description ""}
   {:name "Sinikan savikamarin Mustikkapaikka",
@@ -5591,7 +5591,7 @@
    :latitude 60.402249,
    :source :openstreetmap,
    :homepage "https://museo-opas.fi/sipoon-koulumuseo/",
-   :locality "Talma",
+   :location "Talma",
    :image "",
    :description ""}
   {:name "Sipoon maatalousmuseo",
@@ -5599,7 +5599,7 @@
    :latitude 60.3684593,
    :source :openstreetmap,
    :homepage "https://museot.fi/museohaku/index.php?museo_id=21768",
-   :locality "Sipoo",
+   :location "Sipoo",
    :image "",
    :description ""}
   {:name "Sippolan kotiseutumuseo",
@@ -5607,7 +5607,7 @@
    :latitude 60.7395839,
    :source :openstreetmap,
    :homepage "https://www.galleriaantares.fi",
-   :locality "Sippola",
+   :location "Sippola",
    :image "",
    :description ""}
   {:name "Sirenin talomuseo",
@@ -5615,28 +5615,28 @@
    :latitude 60.6721819,
    :source :openstreetmap,
    :homepage "http://www.porlammi.fi/museot/sirenin-talomuseo/",
-   :locality "Porlammi",
+   :location "Porlammi",
    :image "",
    :description ""}
   {:name "Siuntion kotiseutumuseo",
    :longitude 24.2087044,
    :latitude 60.1786324,
    :source :openstreetmap,
-   :locality "Siuntio kk",
+   :location "Siuntio kk",
    :image "",
    :description ""}
   {:name "Sjöfartsmuseets Sjöfartsmagasin",
    :longitude 21.3773523,
    :latitude 62.268112,
    :source :openstreetmap,
-   :locality "Kristinestad",
+   :location "Kristinestad",
    :image "",
    :description ""}
   {:name "Sjökvarteret museum",
    :longitude 19.9450784,
    :latitude 60.1048492,
    :source :openstreetmap,
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Skarpnåtö hembygdsmuseum",
@@ -5657,7 +5657,7 @@
    :latitude 60.6307016,
    :source :openstreetmap,
    :homepage "https://www.hiidenlinna.com/ski-museo",
-   :locality "Somerniemi",
+   :location "Somerniemi",
    :image "",
    :description ""}
   {:name "Skrivarhemmet Strömmen",
@@ -5697,14 +5697,14 @@
    :longitude 25.7331838,
    :latitude 60.803393,
    :source :openstreetmap,
-   :locality "Orimattila",
+   :location "Orimattila",
    :image "",
    :description ""}
   {:name "Someron Torppamuseo",
    :longitude 23.5095993,
    :latitude 60.634061,
    :source :openstreetmap,
-   :locality "Somero",
+   :location "Somero",
    :image "",
    :description ""}
   {:name "Sotamuseon Maneesi",
@@ -5712,7 +5712,7 @@
    :latitude 60.1457744,
    :source :openstreetmap,
    :homepage "https://www.suomenlinna.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Sotavanhuksen Museo",
@@ -5721,7 +5721,7 @@
    :source :openstreetmap,
    :homepage
    "https://kotiseudut.fi/alavusseura/museot/sotavanhuksen-museo",
-   :locality "Alavus",
+   :location "Alavus",
    :image "",
    :description ""}
   {:name "Sotilaslääketieteenmuseo",
@@ -5729,7 +5729,7 @@
    :latitude 60.9639368,
    :source :openstreetmap,
    :homepage "https://sotilaslaaketieteenmuseo.fi/",
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Sovintovaraan Huippu",
@@ -5744,14 +5744,14 @@
    :latitude 60.4387765,
    :source :openstreetmap,
    :homepage "https://space81.fi/",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Stockmannin rauniot",
    :longitude 24.696982,
    :latitude 60.2171766,
    :source :openstreetmap,
-   :locality "Kauniainen",
+   :location "Kauniainen",
    :image "",
    :description ""}
   {:name "Strengbergs Tobaksmuseum",
@@ -5765,7 +5765,7 @@
    :latitude 60.220958,
    :source :openstreetmap,
    :homepage "https://www.studiokukkapuro.com/fi",
-   :locality "Kauniainen",
+   :location "Kauniainen",
    :image "",
    :description ""}
   {:name "Stundars",
@@ -5778,7 +5778,7 @@
    :longitude 22.7785322,
    :latitude 61.5597395,
    :source :openstreetmap,
-   :locality "Sastamala",
+   :location "Sastamala",
    :image "",
    :description ""}
   {:name "Suojeluskunta- ja Lotta Svärd -museo",
@@ -5787,7 +5787,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.seinajoki.fi/kulttuuri-ja-liikunta/museo/tietoa-museoista/suojeluskunta-ja-lottamuseo/#756d1fcb",
-   :locality "Seinäjoki",
+   :location "Seinäjoki",
    :image "",
    :description ""}
   {:name "Suomalaisen kirjan museo Pukstaavi",
@@ -5795,7 +5795,7 @@
    :latitude 61.3425693,
    :source :openstreetmap,
    :homepage "https://www.pukstaavi.fi/",
-   :locality "Sastamala",
+   :location "Sastamala",
    :image "",
    :description ""}
   {:name "Suomen asutusmuseo",
@@ -5809,7 +5809,7 @@
    :latitude 61.021482,
    :source :openstreetmap,
    :homepage "https://gramofonimuseo.fi/",
-   :locality "Hämeenkoski",
+   :location "Hämeenkoski",
    :image "",
    :description ""}
   {:name "Suomen Harmonikkamuseo",
@@ -5817,7 +5817,7 @@
    :latitude 61.5036165,
    :source :openstreetmap,
    :homepage "https://www.harmonikkamuseo.fi/",
-   :locality "Sysmä",
+   :location "Sysmä",
    :image "",
    :description ""}
   {:name "Suomen Hevosurheilumuseo",
@@ -5825,7 +5825,7 @@
    :latitude 60.8032064,
    :source :openstreetmap,
    :homepage "http://www.hevosurheilumuseo.fi/",
-   :locality "Ypäjä",
+   :location "Ypäjä",
    :image "",
    :description ""}
   {:name "Suomen ilmailumuseo",
@@ -5833,7 +5833,7 @@
    :latitude 60.3041274,
    :source :openstreetmap,
    :homepage "http://www.ilmailumuseo.fi/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Suomen ilmavoimamuseo",
@@ -5863,7 +5863,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kauhava.fi/palvelut/kulttuuri_ja_museot/museot/suomen_jaakarimuseo",
-   :locality "Kortesjärvi",
+   :location "Kortesjärvi",
    :image "",
    :description ""}
   {:name "Suomen kivikeskus",
@@ -5877,7 +5877,7 @@
    :latitude 60.7321613,
    :source :openstreetmap,
    :homepage "https://www.metsastysmuseo.fi",
-   :locality "Riihimäki",
+   :location "Riihimäki",
    :image "",
    :description ""}
   {:name "Suomen melontamuseo",
@@ -5892,7 +5892,7 @@
    :latitude 61.0083281,
    :source :openstreetmap,
    :homepage "https://www.moottoripyoramuseo.fi/",
-   :locality "Lahti",
+   :location "Lahti",
    :image "",
    :description ""}
   {:name "Suomen Pankin rahamuseo",
@@ -5900,7 +5900,7 @@
    :latitude 60.170329,
    :source :openstreetmap,
    :homepage "https://www.rahamuseo.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Suomen rautatiemuseo",
@@ -5908,7 +5908,7 @@
    :latitude 60.6258671,
    :source :openstreetmap,
    :homepage "https://rautatiemuseo.fi/",
-   :locality "Hyvinkää",
+   :location "Hyvinkää",
    :image "",
    :description ""}
   {:name "Suomen Salibandymuseo",
@@ -5916,7 +5916,7 @@
    :latitude 61.3609762,
    :source :openstreetmap,
    :homepage "https://www.kulttuuripiipoo.fi/",
-   :locality "Lempäälä",
+   :location "Lempäälä",
    :image "",
    :description ""}
   {:name "Suomen Tietokonemuseo",
@@ -5931,7 +5931,7 @@
    :latitude 61.1780925,
    :source :openstreetmap,
    :homepage "http://suomenkalastusmuseo.fi/",
-   :locality "Asikkala",
+   :location "Asikkala",
    :image "",
    :description ""}
   {:name "Suomunruoktu",
@@ -5979,7 +5979,7 @@
    :latitude 60.4521154,
    :source :openstreetmap,
    :homepage "https://www.jarvenpaantaidemuseo.fi/suviranta",
-   :locality "Järvenpää",
+   :location "Järvenpää",
    :image "",
    :description ""}
   {:name "Sysmän kotiseutumuseo",
@@ -5987,7 +5987,7 @@
    :latitude 61.4961826,
    :source :openstreetmap,
    :homepage "http://sysmaseura.fi/kotiseutumuseo/",
-   :locality "Sysmä",
+   :location "Sysmä",
    :image "",
    :description ""}
   {:name "Säkylän Talvi- ja jatkosotamuseo",
@@ -6001,7 +6001,7 @@
    :latitude 67.525189,
    :source :openstreetmap,
    :homepage "https://www.sarestoniemenmuseo.fi/",
-   :locality "Kaukonen",
+   :location "Kaukonen",
    :image "",
    :description ""}
   {:name "Särätupa",
@@ -6009,14 +6009,14 @@
    :latitude 61.0632819,
    :source :openstreetmap,
    :homepage "https://www.museosara.fi/index.php",
-   :locality "Lemi",
+   :location "Lemi",
    :image "",
    :description ""}
   {:name "Säveltäjänpuiston taidetalo",
    :longitude 24.9908706,
    :latitude 60.2454659,
    :source :openstreetmap,
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Säynätsalon Kunnantalo",
@@ -6025,7 +6025,7 @@
    :source :openstreetmap,
    :homepage
    "https://visitjyvaskyla.fi/en/attractions/saynatsalo-town-hall/",
-   :locality "Säynätsalo",
+   :location "Säynätsalo",
    :image "",
    :description ""}
   {:name "Sääksmäen kotiseutumuseo",
@@ -6085,7 +6085,7 @@
    :latitude 65.3594761,
    :source :openstreetmap,
    :homepage "https://www.pudasjarvi.fi/kulttuuri/",
-   :locality "Pudasjärvi",
+   :location "Pudasjärvi",
    :image "",
    :description ""}
   {:name "Taidekasarmi",
@@ -6093,7 +6093,7 @@
    :latitude 60.992846,
    :source :openstreetmap,
    :homepage "https://taidekasarmi.com/",
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Taidekeskus Ahjo",
@@ -6106,7 +6106,7 @@
    :longitude 23.6082363,
    :latitude 62.5758396,
    :source :openstreetmap,
-   :locality "Alavus",
+   :location "Alavus",
    :image "",
    :description ""}
   {:name "Taidekeskus Järvilinna",
@@ -6121,7 +6121,7 @@
    :latitude 60.9953936,
    :source :openstreetmap,
    :homepage "https://kettuki.fi/",
-   :locality "Hämeenlinna",
+   :location "Hämeenlinna",
    :image "",
    :description ""}
   {:name "Taidekeskus Purnu",
@@ -6137,7 +6137,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitkemijarvi.fi/fi/hallinta/yritykset/taidekeskus_puustelli/",
-   :locality "Kemijärvi",
+   :location "Kemijärvi",
    :image "",
    :description ""}
   {:name "Taidekeskus Salmela",
@@ -6145,7 +6145,7 @@
    :latitude 61.4117587,
    :source :openstreetmap,
    :homepage "https://www.taidekeskussalmela.fi/",
-   :locality "Mäntyharju",
+   :location "Mäntyharju",
    :image "",
    :description ""}
   {:name "Taidekoulu Alfa",
@@ -6153,7 +6153,7 @@
    :latitude 60.255118,
    :source :openstreetmap,
    :homepage "https://www.alfa-art.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Taidekulma Art by Alpo Jaakola",
@@ -6167,7 +6167,7 @@
    :latitude 61.7514641,
    :source :openstreetmap,
    :homepage "https://haihatus.fi/",
-   :locality "Joutsa",
+   :location "Joutsa",
    :image "",
    :description ""}
   {:name "Taideluokka Muusa",
@@ -6193,7 +6193,7 @@
    :latitude 60.1278655,
    :source :openstreetmap,
    :homepage "https://kirkkonummentaideyhdistys.fi/",
-   :locality "Kirkkonummi",
+   :location "Kirkkonummi",
    :image "",
    :description ""}
   {:name "Taideruukki",
@@ -6201,7 +6201,7 @@
    :latitude 60.9032808,
    :source :openstreetmap,
    :homepage "https://www.taideruukki.fi/",
-   :locality "Kuusankoski",
+   :location "Kuusankoski",
    :image "",
    :description ""}
   {:name "Taidesalonki Piirto",
@@ -6216,7 +6216,7 @@
    :latitude 61.5681204,
    :source :openstreetmap,
    :homepage "https://www.taidesalonkitalvio.fi/",
-   :locality "Hartola",
+   :location "Hartola",
    :image "",
    :description ""}
   {:name "Taideshop",
@@ -6224,7 +6224,7 @@
    :latitude 62.1870288,
    :source :openstreetmap,
    :homepage "https://www.annemattila.fi/taideshop/",
-   :locality "Karvia",
+   :location "Karvia",
    :image "",
    :description ""}
   {:name "Taidetalo",
@@ -6245,14 +6245,14 @@
    :longitude 25.1858284,
    :latitude 62.2579329,
    :source :openstreetmap,
-   :locality "Petäjävesi",
+   :location "Petäjävesi",
    :image "",
    :description ""}
   {:name "Taidevintti Art Asikkala",
    :longitude 25.538354,
    :latitude 61.1760382,
    :source :openstreetmap,
-   :locality "Vääksy",
+   :location "Vääksy",
    :image "",
    :description ""}
   {:name "Taipaleen kanavamuseo",
@@ -6268,7 +6268,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.vaasa.fi/asu-ja-ela/vapaa-aika/taiteen-perusopetus/taikon/",
-   :locality "Vaasa",
+   :location "Vaasa",
    :image "",
    :description ""}
   {:name "Taiteilijatalo Gjutars",
@@ -6277,7 +6277,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.vantaantaiteilijaseura.fi/gjutars-residenssi/esittely/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Taito galleria",
@@ -6285,7 +6285,7 @@
    :latitude 62.5993097,
    :source :openstreetmap,
    :homepage "https://www.museoeliel.fi/",
-   :locality "Joensuu",
+   :location "Joensuu",
    :image "",
    :description ""}
   {:name "Taitokeskus Lempäälä",
@@ -6298,7 +6298,7 @@
    :longitude 26.4250686,
    :latitude 60.7301714,
    :source :openstreetmap,
-   :locality "Elimäki",
+   :location "Elimäki",
    :image "",
    :description ""}
   {:name "Talomuseo Glims",
@@ -6306,7 +6306,7 @@
    :latitude 60.22096,
    :source :openstreetmap,
    :homepage "https://www.espoo.fi/fi/talomuseo-glims",
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Talonpoikaismuseo Yli-Kirra",
@@ -6335,7 +6335,7 @@
    :latitude 61.4985928,
    :source :openstreetmap,
    :homepage "https://tampereentaidemuseo.fi/",
-   :locality "Tampere",
+   :location "Tampere",
    :image "",
    :description ""}
   {:name "Tanhuhovi",
@@ -6343,7 +6343,7 @@
    :latitude 60.2200649,
    :source :openstreetmap,
    :homepage "https://www.tanhuhovi.fi/",
-   :locality "Lohja",
+   :location "Lohja",
    :image "",
    :description ""}
   {:name "Tapulimakasiini",
@@ -6356,7 +6356,7 @@
    :longitude 22.738029,
    :latitude 60.5859565,
    :source :openstreetmap,
-   :locality "Tarvasjoki",
+   :location "Tarvasjoki",
    :image "",
    :description ""}
   {:name "Tasangon Kotimuseo",
@@ -6377,7 +6377,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nurmijarvi.fi/kuntalaisen-palvelut/kulttuuri-ja-vapaa-aika/museo/museot-ja-nayttelyt/tehdas-ja-alkoholimuseo-rajamaen-ryyppi/",
-   :locality "Rajamäki",
+   :location "Rajamäki",
    :image "",
    :description ""}
   {:name "Teiskon museo",
@@ -6385,7 +6385,7 @@
    :latitude 61.67522,
    :source :openstreetmap,
    :homepage "https://www.teisko.fi/teiskoseura/museo/",
-   :locality "Terälahti",
+   :location "Terälahti",
    :image "",
    :description ""}
   {:name "Telegrafen",
@@ -6416,7 +6416,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sotkamo.fi/vapaa-aika/kulttuuritoimi/nahtavyydet/museot/",
-   :locality "Sotkamo",
+   :location "Sotkamo",
    :image "",
    :description ""}
   {:name "Terveydenhuoltomuseo",
@@ -6429,7 +6429,7 @@
    :longitude 24.7098126,
    :latitude 66.0115909,
    :source :openstreetmap,
-   :locality "Tervola",
+   :location "Tervola",
    :image "",
    :description ""}
   {:name "Teuvan kotiseutumuseo",
@@ -6438,7 +6438,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museiportalosterbotten.fi/museot-a-o/museo/41-teuvan-kotiseutumuseo",
-   :locality "Teuva",
+   :location "Teuva",
    :image "",
    :description ""}
   {:name "The Mystery of Banksy – A Genius Mind",
@@ -6453,7 +6453,7 @@
    :latitude 60.2875001,
    :source :openstreetmap,
    :homepage "https://www.heureka.fi/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Tiedekeskus Tietomaa",
@@ -6461,7 +6461,7 @@
    :latitude 65.0184362,
    :source :openstreetmap,
    :homepage "https://www.ouka.fi/oulu/luuppi/tiedekeskus-tietomaa",
-   :locality "Oulu",
+   :location "Oulu",
    :image "",
    :description ""}
   {:name "Tiedemuseo Liekki",
@@ -6485,7 +6485,7 @@
    :latitude 60.897937,
    :source :openstreetmap,
    :homepage "https://www.tiibetintaiteenkeskus.fi/",
-   :locality "Loimaa",
+   :location "Loimaa",
    :image "",
    :description ""}
   {:name "Tischenko Gallery",
@@ -6493,7 +6493,7 @@
    :latitude 60.1715338,
    :source :openstreetmap,
    :homepage "https://tischenko-gallery.com/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Toijalan veturimuseo",
@@ -6507,7 +6507,7 @@
    :longitude 25.7447207,
    :latitude 62.2377165,
    :source :openstreetmap,
-   :locality "Jyväskylä",
+   :location "Jyväskylä",
    :image "",
    :description ""}
   {:name "Toivosen talonpojanmuseo",
@@ -6515,7 +6515,7 @@
    :latitude 63.8571288,
    :source :openstreetmap,
    :homepage "http://www.elainpuisto.fi/",
-   :locality "Kokkola",
+   :location "Kokkola",
    :image "",
    :description ""}
   {:name "Tonttumuseo",
@@ -6523,14 +6523,14 @@
    :latitude 63.343936,
    :source :openstreetmap,
    :homepage "https://www.tonttumuseo.fi/",
-   :locality "Pensala",
+   :location "Pensala",
    :image "",
    :description ""}
   {:name "Toritun Sepänmäen museo",
    :longitude 25.0959459,
    :latitude 61.4426751,
    :source :openstreetmap,
-   :locality "Padasjoki",
+   :location "Padasjoki",
    :image "",
    :description ""}
   {:name "Trollbergan traktori- ja maatalousmuseo",
@@ -6550,7 +6550,7 @@
    :longitude 22.8742201,
    :latitude 60.4148489,
    :source :openstreetmap,
-   :locality "Hajala",
+   :location "Hajala",
    :image "",
    :description ""}
   {:name "Tullimuseo",
@@ -6564,7 +6564,7 @@
    :longitude 26.7737694,
    :latitude 61.6438854,
    :source :openstreetmap,
-   :locality "Hirvensalmi",
+   :location "Hirvensalmi",
    :image "",
    :description ""}
   {:name "Tupalan talomuseo",
@@ -6573,7 +6573,7 @@
    :source :openstreetmap,
    :homepage
    "https://asikkala.fi/kulttuuri-ja-vapaa-aika/kulttuuri/museot/tupalan-talomuseo/",
-   :locality "Asikkala",
+   :location "Asikkala",
    :image "",
    :description ""}
   {:name "Turkansaaren ulkomuseo",
@@ -6581,7 +6581,7 @@
    :latitude 64.949929,
    :source :openstreetmap,
    :homepage "https://www.ouka.fi/ppm/turkansaari",
-   :locality "Oulu",
+   :location "Oulu",
    :image "",
    :description ""}
   {:name "Turun biologinen museo",
@@ -6589,7 +6589,7 @@
    :latitude 60.4445312,
    :source :openstreetmap,
    :homepage "https://www.turku.fi/biologinenmuseo",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Turun Taidehalli",
@@ -6597,7 +6597,7 @@
    :latitude 60.4505198,
    :source :openstreetmap,
    :homepage "https://turuntaidehalli.fi",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Turun taidemuseo",
@@ -6605,7 +6605,7 @@
    :latitude 60.4540828,
    :source :openstreetmap,
    :homepage "http://www.turuntaidemuseo.fi/",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Turun vesilaitosmuseo",
@@ -6613,7 +6613,7 @@
    :latitude 60.4630639,
    :source :openstreetmap,
    :homepage "https://www.vesilaitosmuseo.fi/",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Turvemuseo",
@@ -6633,7 +6633,7 @@
    :latitude 64.1249283,
    :source :openstreetmap,
    :homepage "https://www.kuhmo.fi/tuupalanmuseo",
-   :locality "Kuhmo",
+   :location "Kuhmo",
    :image "",
    :description ""}
   {:name "Tuusniemen kotiseutumuseo",
@@ -6647,7 +6647,7 @@
    :latitude 60.3815158,
    :source :openstreetmap,
    :homepage "https://r-stenvall.fi/tuusulan-automuseo/",
-   :locality "Tuusula",
+   :location "Tuusula",
    :image "",
    :description ""}
   {:name "Tuusulan Työläiskotimuseo",
@@ -6655,14 +6655,14 @@
    :latitude 60.411659,
    :source :openstreetmap,
    :homepage "https://tuusulantyolaiskotimuseo.yhdistysavain.fi/",
-   :locality "Tuusula",
+   :location "Tuusula",
    :image "",
    :description ""}
   {:name "Tyrnävän esinemuseo",
    :longitude 25.6534651,
    :latitude 64.7642001,
    :source :openstreetmap,
-   :locality "Tyrnävä",
+   :location "Tyrnävä",
    :image "",
    :description ""}
   {:name "Tyrvännön järvikalastusmuseo",
@@ -6670,7 +6670,7 @@
    :latitude 61.150604,
    :source :openstreetmap,
    :homepage "https://tyrvanto.net/jarvikalastusmuseo",
-   :locality "Hattula",
+   :location "Hattula",
    :image "",
    :description ""}
   {:name "Tytyri Elämyskaivos",
@@ -6678,7 +6678,7 @@
    :latitude 60.2636685,
    :source :openstreetmap,
    :homepage "https://www.tytyrielamyskaivos.fi/",
-   :locality "Lohja",
+   :location "Lohja",
    :image "",
    :description ""}
   {:name "Tyynelän Tonttula",
@@ -6691,7 +6691,7 @@
    :longitude 26.643569,
    :latitude 61.0637255,
    :source :openstreetmap,
-   :locality "Verla",
+   :location "Verla",
    :image "",
    :description ""}
   {:name "Työväenasuntomuseo",
@@ -6706,7 +6706,7 @@
    :latitude 60.7388547,
    :source :openstreetmap,
    :homepage "https://www.tyovaentalomuseo.fi/",
-   :locality "Riihimäki",
+   :location "Riihimäki",
    :image "",
    :description ""}
   {:name "Tölkkimuseo",
@@ -6714,7 +6714,7 @@
    :latitude 62.0454741,
    :source :openstreetmap,
    :homepage "https://karvilanpanimo.fi/tolkkimuseo/",
-   :locality "Karvila",
+   :location "Karvila",
    :image "",
    :description ""}
   {:name "Uitamonkosken myllymuseo",
@@ -6740,7 +6740,7 @@
    :latitude 61.1386947,
    :source :openstreetmap,
    :homepage "https://www.urajarvenkartano.fi/",
-   :locality "Asikkala",
+   :location "Asikkala",
    :image "",
    :description ""}
   {:name "Urheilun ja liikunnan kulttuurikeskus TAHTO",
@@ -6748,7 +6748,7 @@
    :latitude 60.1873649,
    :source :openstreetmap,
    :homepage "https://tahto.com/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Urpolan luontokeskus",
@@ -6762,7 +6762,7 @@
    :longitude 21.4497372,
    :latitude 60.8091963,
    :source :openstreetmap,
-   :locality "Uusikaupunki",
+   :location "Uusikaupunki",
    :image "",
    :description ""}
   {:name "Uusi Paviljonki",
@@ -6771,7 +6771,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kauniainen.fi/kulttuuri-ja-vapaa-aika/juhla-ja-kokoustilat/uusi-paviljonki/",
-   :locality "Kauniainen",
+   :location "Kauniainen",
    :image "",
    :description ""}
   {:name "Vaasan auto- ja moottorimuseo",
@@ -6779,7 +6779,7 @@
    :latitude 63.0974456,
    :source :openstreetmap,
    :homepage "https://vaasanautomuseo.fi",
-   :locality "Vaasa",
+   :location "Vaasa",
    :image "",
    :description ""}
   {:name "Vaasan merimuseo",
@@ -6825,7 +6825,7 @@
    :longitude 27.0616671,
    :latitude 63.6688051,
    :source :openstreetmap,
-   :locality "Vieremä",
+   :location "Vieremä",
    :image "",
    :description ""}
   {:name "Valmarin museo",
@@ -6839,7 +6839,7 @@
    :latitude 60.1619331,
    :source :openstreetmap,
    :homepage "https://www.valokuvataiteenmuseo.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Vanha Mylly",
@@ -6853,7 +6853,7 @@
    :longitude 21.7223841,
    :latitude 63.0723165,
    :source :openstreetmap,
-   :locality "Vaasa",
+   :location "Vaasa",
    :image "",
    :description ""}
   {:name "Vanhat rakennukset",
@@ -6867,7 +6867,7 @@
    :latitude 60.2908608,
    :source :openstreetmap,
    :homepage "https://kaupunginmuseo.vantaa.fi/fi",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Vantaan Maatalousmuseo",
@@ -6875,7 +6875,7 @@
    :latitude 60.2875717,
    :source :openstreetmap,
    :homepage "https://www.vantaanmaatalousmuseo.fi/",
-   :locality "Vantaa",
+   :location "Vantaa",
    :image "",
    :description ""}
   {:name "Vapaan Taiteen Tila",
@@ -6883,14 +6883,14 @@
    :latitude 60.1872424,
    :source :openstreetmap,
    :homepage "https://vapaantaiteentila.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Varkauden museokeskus Konsti",
    :longitude 27.9027579,
    :latitude 62.3206785,
    :source :openstreetmap,
-   :locality "Varkaus",
+   :location "Varkaus",
    :image "",
    :description ""}
   {:name "Varkauden museot",
@@ -6898,7 +6898,7 @@
    :latitude 62.3133531,
    :source :openstreetmap,
    :homepage "https://www.varkaus.fi/museot",
-   :locality "Varkaus",
+   :location "Varkaus",
    :image "",
    :description ""}
   {:name "Varpaisjärven kotiseutumuseo",
@@ -6911,14 +6911,14 @@
    :longitude 27.1790539,
    :latitude 60.6035801,
    :source :openstreetmap,
-   :locality "Hamina",
+   :location "Hamina",
    :image "",
    :description ""}
   {:name "Vehmaan kivityömuseo",
    :longitude 21.7522781,
    :latitude 60.6828309,
    :source :openstreetmap,
-   :locality "Laittinen",
+   :location "Laittinen",
    :image "",
    :description ""}
   {:name "Vehoniemen automuseo",
@@ -6926,7 +6926,7 @@
    :latitude 61.4084508,
    :source :openstreetmap,
    :homepage "https://automuseo.com/",
-   :locality "Kangasala",
+   :location "Kangasala",
    :image "",
    :description ""}
   {:name "Verlan ruukkikylä",
@@ -6934,7 +6934,7 @@
    :latitude 61.0620165,
    :source :openstreetmap,
    :homepage "https://verla.fi/",
-   :locality "Kouvola",
+   :location "Kouvola",
    :image "",
    :description ""}
   {:name "Vesannon torpparimuseo",
@@ -6948,7 +6948,7 @@
    :latitude 60.1425602,
    :source :openstreetmap,
    :homepage "https://sotamuseo.fi/sukellusvene-vesikko",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Vesikosken mylly",
@@ -6995,7 +6995,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.mikkeli.fi/sisalto/palvelut/kulttuuri-ja-kirjasto/mikkelin-kaupungin-museot/paamajamuseo",
-   :locality "Mikkeli",
+   :location "Mikkeli",
    :image "",
    :description ""}
   {:name "Vihannin Kotiseutuyhdistys",
@@ -7009,7 +7009,7 @@
    :longitude 24.3112405,
    :latitude 60.4173009,
    :source :openstreetmap,
-   :locality "Vihti",
+   :location "Vihti",
    :image "",
    :description ""}
   {:name "Vihdin museo",
@@ -7017,14 +7017,14 @@
    :latitude 60.4167248,
    :source :openstreetmap,
    :homepage "https://www.vihti.fi/kulttuuri-ja-vapaa-aika/museo/",
-   :locality "Vihti",
+   :location "Vihti",
    :image "",
    :description ""}
   {:name "Vihdin PopUp Museo",
    :longitude 24.3201285,
    :latitude 60.3338997,
    :source :openstreetmap,
-   :locality "Nummela",
+   :location "Nummela",
    :image "",
    :description ""}
   {:name "Viirilän kotiseutumuseo",
@@ -7037,7 +7037,7 @@
    :longitude 22.4255586,
    :latitude 60.5290137,
    :source :openstreetmap,
-   :locality "Lieto",
+   :location "Lieto",
    :image "",
    :description ""}
   {:name "Villa Gyllenberg",
@@ -7045,7 +7045,7 @@
    :latitude 60.1841505,
    :source :openstreetmap,
    :homepage "https://www.villagyllenberg.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Villa Kokkonen",
@@ -7053,7 +7053,7 @@
    :latitude 60.4574751,
    :source :openstreetmap,
    :homepage "https://www.jarvenpaantaidemuseo.fi/villa-kokkonen",
-   :locality "Järvenpää",
+   :location "Järvenpää",
    :image "",
    :description ""}
   {:name "Villa Nelimarkka",
@@ -7061,21 +7061,21 @@
    :latitude 63.0159036,
    :source :openstreetmap,
    :homepage "https://nelimarkka-museo.fi/villa-nelimarkka/",
-   :locality "Alajärvi",
+   :location "Alajärvi",
    :image "",
    :description ""}
   {:name "Villa Royal",
    :longitude 22.9624606,
    :latitude 61.5508637,
    :source :openstreetmap,
-   :locality "Hyynilä",
+   :location "Hyynilä",
    :image "",
    :description ""}
   {:name "Villa Ville Syrjämän ateljeekoti",
    :longitude 22.6904079,
    :latitude 60.8584681,
    :source :openstreetmap,
-   :locality "Oripää",
+   :location "Oripää",
    :image "",
    :description ""}
   {:name "Villa Väinölä",
@@ -7084,21 +7084,21 @@
    :source :openstreetmap,
    :homepage
    "https://alajarvi.fi/kulttuuri-ja-vapaa-aika/kulttuuri/villa-vainola/",
-   :locality "Alajärvi",
+   :location "Alajärvi",
    :image "",
    :description ""}
   {:name "Vindängensali",
    :longitude 24.7997565,
    :latitude 60.170827,
    :source :openstreetmap,
-   :locality "Espoo",
+   :location "Espoo",
    :image "",
    :description ""}
   {:name "Virkin salotupa",
    :longitude 28.6827537,
    :latitude 61.1357041,
    :source :openstreetmap,
-   :locality "Imatra",
+   :location "Imatra",
    :image "",
    :description ""}
   {:name "Virkki kotimuseo",
@@ -7106,7 +7106,7 @@
    :latitude 60.1771238,
    :source :openstreetmap,
    :homepage "https://www.virkkimuseo.com/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Visavuori",
@@ -7127,7 +7127,7 @@
    :longitude 24.0616441,
    :latitude 61.203618,
    :source :openstreetmap,
-   :locality "Sääksmäki",
+   :location "Sääksmäki",
    :image "",
    :description ""}
   {:name "von Knorringmuseet",
@@ -7140,7 +7140,7 @@
    :longitude 26.7948448,
    :latitude 61.0906059,
    :source :openstreetmap,
-   :locality "Vuohijärvi",
+   :location "Vuohijärvi",
    :image "",
    :description ""}
   {:name "Vuolenkosken mylly",
@@ -7148,7 +7148,7 @@
    :latitude 61.0830383,
    :source :openstreetmap,
    :homepage "http://www.vuolenkoski.fi/fi/palvelut/vuolenkoskenmylly",
-   :locality "Huutotöyry",
+   :location "Huutotöyry",
    :image "",
    :description ""}
   {:name "Vuotalo",
@@ -7156,14 +7156,14 @@
    :latitude 60.2088798,
    :source :openstreetmap,
    :homepage "https://www.vuotalo.fi/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Vuovjjuš – Kulkijat -näyttely",
    :longitude 23.6681121,
    :latitude 68.3951816,
    :source :openstreetmap,
-   :locality "Enontekiö",
+   :location "Enontekiö",
    :image "",
    :description ""}
   {:name "Väestönsuojelumuseo",
@@ -7171,7 +7171,7 @@
    :latitude 60.1764418,
    :source :openstreetmap,
    :homepage "https://hvssy.fi/vaestonsuojelumuseo/",
-   :locality "Helsinki",
+   :location "Helsinki",
    :image "",
    :description ""}
   {:name "Väski Adventure Island",
@@ -7186,7 +7186,7 @@
    :latitude 60.801621,
    :source :openstreetmap,
    :homepage "https://uusikaupunki.fi/fi/kohteet/merimiehenkotimuseo",
-   :locality "Uusikaupunki",
+   :location "Uusikaupunki",
    :image "",
    :description ""}
   {:name "Wanha Apteekki",
@@ -7200,7 +7200,7 @@
    :latitude 62.6355348,
    :source :openstreetmap,
    :homepage "https://susirajanmobilistit.fi/",
-   :locality "Ylämylly",
+   :location "Ylämylly",
    :image "",
    :description ""}
   {:name "Wanha Markki",
@@ -7233,7 +7233,7 @@
    :longitude 22.7018213,
    :latitude 63.6761739,
    :source :openstreetmap,
-   :locality "Jakobstad",
+   :location "Jakobstad",
    :image "",
    :description ""}
   {:name "Willa Galleria",
@@ -7241,7 +7241,7 @@
    :latitude 60.6322845,
    :source :openstreetmap,
    :homepage "https://www.hyvinkaa.fi/museokeskus-taika/",
-   :locality "Hyvinkää",
+   :location "Hyvinkää",
    :image "",
    :description ""}
   {:name "Woikosken Automuseo",
@@ -7250,7 +7250,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.woikoskifeeling.fi/museot/woikosken-automuseo.html",
-   :locality "Nurmaa",
+   :location "Nurmaa",
    :image "",
    :description ""}
   {:name "Woikosken tehdasmuseo",
@@ -7263,7 +7263,7 @@
    :longitude 28.1851961,
    :latitude 61.060336,
    :source :openstreetmap,
-   :locality "Lappeenranta",
+   :location "Lappeenranta",
    :image "",
    :description ""}
   {:name "WPK:n juhlahuoneisto (1891)",
@@ -7272,7 +7272,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.heinola.fi/vapaa-aika/museot/heinolan-taidemuseo/",
-   :locality "Heinola",
+   :location "Heinola",
    :image "",
    :description ""}
   {:name "Wäinö Aaltosen museo",
@@ -7280,7 +7280,7 @@
    :latitude 60.4449518,
    :source :openstreetmap,
    :homepage "https://www.wam.fi/",
-   :locality "Turku",
+   :location "Turku",
    :image "",
    :description ""}
   {:name "Yli-Lauroselan talomuseo",
@@ -7293,7 +7293,7 @@
    :longitude 27.1974353,
    :latitude 63.5537285,
    :source :openstreetmap,
-   :locality "Iisalmi",
+   :location "Iisalmi",
    :image "",
    :description ""}
   {:name "Ylämaan Jalokivimuseo",
@@ -7301,7 +7301,7 @@
    :latitude 60.7901037,
    :source :openstreetmap,
    :homepage "https://ylamaanjalokivimuseo.fi/",
-   :locality "Ylämaa",
+   :location "Ylämaa",
    :image "",
    :description ""}
   {:name "Yläneen kotiseutumuseo",
@@ -7309,7 +7309,7 @@
    :latitude 60.8816515,
    :source :openstreetmap,
    :homepage "https://www.museoylane.fi/",
-   :locality "Yläne",
+   :location "Yläne",
    :image "",
    :description ""}
   {:name "Yläneen Luontokapinetti, luontonäyttely",
@@ -7317,7 +7317,7 @@
    :latitude 60.8759758,
    :source :openstreetmap,
    :homepage "http://www.luontokapinetti.fi/",
-   :locality "Pöytyä",
+   :location "Pöytyä",
    :image "",
    :description ""}
   {:name "Ylöjärven museo",
@@ -7332,7 +7332,7 @@
    :longitude 23.1469704,
    :latitude 60.6587019,
    :source :openstreetmap,
-   :locality "Koski Tl",
+   :location "Koski Tl",
    :image "",
    :description ""}
   {:name "Yrjö Väisälä -museo",
@@ -7346,7 +7346,7 @@
    :longitude 22.372375,
    :latitude 61.1091669,
    :source :openstreetmap,
-   :locality "Köyliö",
+   :location "Köyliö",
    :image "",
    :description ""}
   {:name "Yö galleria",
@@ -7361,7 +7361,7 @@
    :latitude 62.5559366,
    :source :openstreetmap,
    :homepage "https://ahtariseura.fi/museot/kotiseutumuseo",
-   :locality "Ähtäri",
+   :location "Ähtäri",
    :image "",
    :description ""}
   {:name "Äänekosken taidemuseo",
@@ -7370,7 +7370,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.aanekoski.fi/kulttuuri-ja-vapaa-aika/kulttuuri/museot/aanekosken-taidemuseo",
-   :locality "Äänekoski",
+   :location "Äänekoski",
    :image "",
    :description ""}
   {:name "Ålands Brandkårsmuseum",
@@ -7378,7 +7378,7 @@
    :latitude 60.2287551,
    :source :openstreetmap,
    :homepage "https://brandkar.ax/museum/",
-   :locality "Hammarland",
+   :location "Hammarland",
    :image "",
    :description ""}
   {:name "Ålands Fotografiska Museum",
@@ -7386,7 +7386,7 @@
    :latitude 60.2717835,
    :source :openstreetmap,
    :homepage "https://www.cameramuseum.com",
-   :locality "Pålsböle",
+   :location "Pålsböle",
    :image "",
    :description ""}
   {:name "Ålands Jakt- och Fiskemuseum",
@@ -7394,7 +7394,7 @@
    :latitude 60.2321752,
    :source :openstreetmap,
    :homepage "https://www.jaktfiskemuseum.ax",
-   :locality "Eckerö",
+   :location "Eckerö",
    :image "",
    :description ""}
   {:name "Ålands museum",
@@ -7403,7 +7403,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museum.ax/museer-sevardheter/alands-kulturhistoriska-museum",
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Ålands Sjöfartsmuseum",
@@ -7411,7 +7411,7 @@
    :latitude 60.0972474,
    :source :openstreetmap,
    :homepage "https://sjofartsmuseum.ax",
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Ålidens hembygdsmuseum",
@@ -7425,7 +7425,7 @@
    :latitude 60.1182866,
    :source :openstreetmap,
    :homepage "https://www.onningeby.com/",
-   :locality "Jomala",
+   :location "Jomala",
    :image "",
    :description ""}
   {:name "Östergrannas",

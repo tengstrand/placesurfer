@@ -9,43 +9,43 @@
    :latitude 45.78717111980933,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17767",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Marty liga 2021",
    :longitude 16.2812353852554,
    :latitude 46.45390752583302,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22098",
-   :locality "Gornji Mihaljevec"}
+   :location "Gornji Mihaljevec"}
   {:name "Platak DGO 2021 Final",
    :longitude 14.561352255080465,
    :latitude 45.42906948634558,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23572",
-   :locality "Čavle"}
+   :location "Čavle"}
   {:name "Platak Disc Golf",
    :longitude 14.565165718011883,
    :latitude 45.42673577694066,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17850",
-   :locality "Čavle"}
+   :location "Čavle"}
   {:name "Pula - Proljetna liga",
    :longitude 13.849266917863758,
    :latitude 44.85815054842854,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37564",
-   :locality "Pula"}
+   :location "Pula"}
   {:name "Pula - Zimska Liga",
    :longitude 13.84926249754895,
    :latitude 44.85819130484248,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37574",
-   :locality "Pula"}
+   :location "Pula"}
   {:name "Varaždin Arena",
    :longitude 16.360486305482254,
    :latitude 46.31568803812627,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21169",
-   :locality "Varaždin"}],
+   :location "Varaždin"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

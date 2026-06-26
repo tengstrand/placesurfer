@@ -13,7 +13,7 @@
    :latitude 9.5247475,
    :source :openstreetmap,
    :homepage "http://www.ccfg-conakry.org",
-   :locality "Conakry"}
+   :location "Conakry"}
   {:name "centre culturel Jams Sylla de rogbanet",
    :longitude -13.8252188,
    :latitude 9.4837104,

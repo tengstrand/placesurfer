@@ -12,7 +12,7 @@
    :longitude 166.4452154,
    :latitude -22.3014404,
    :source :openstreetmap,
-   :locality "Nouméa"}
+   :location "Nouméa"}
   {:name "Boulangerie Guillain",
    :longitude 166.4031097,
    :latitude -22.2617452,
@@ -34,12 +34,12 @@
    :longitude 166.4561546,
    :latitude -22.2373016,
    :source :openstreetmap,
-   :locality "Nouméa"}
+   :location "Nouméa"}
   {:name "Centre Culturel Ko We Kara",
    :longitude 166.4560352,
    :latitude -22.2338546,
    :source :openstreetmap,
-   :locality "Nouméa"}
+   :location "Nouméa"}
   {:name "Centre culturel Pomémie",
    :longitude 164.8852747,
    :latitude -21.0685915,
@@ -96,13 +96,13 @@
    :latitude -21.5716044,
    :source :openstreetmap,
    :homepage "https://www.bourailtourisme.nc/",
-   :locality "Bourail"}
+   :location "Bourail"}
   {:name "Musée de l'Histoire Maritime",
    :longitude 166.4339855,
    :latitude -22.2681335,
    :source :openstreetmap,
    :homepage "www.patrimoine-maritime.asso.nc/",
-   :locality "Nouméa"}
+   :location "Nouméa"}
   {:name "Musée de la Nouvelle-Calédonie",
    :longitude 166.4433978,
    :latitude -22.2758754,
@@ -115,7 +115,7 @@
    :longitude 166.4794187,
    :latitude -22.2254892,
    :source :openstreetmap,
-   :locality "Nouméa"}
+   :location "Nouméa"}
   {:name "Villa musée de Païta",
    :longitude 166.3781558,
    :latitude -22.140787,

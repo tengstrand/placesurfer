@@ -14,7 +14,7 @@
    :longitude -60.7269163,
    :latitude 11.1774096,
    :source :openstreetmap,
-   :locality "Scarborough",
+   :location "Scarborough",
    :image "",
    :description ""}
   {:name "Highlanders Steel Orchestra",
@@ -57,14 +57,14 @@
    :longitude -61.4657728,
    :latitude 10.2675032,
    :source :openstreetmap,
-   :locality "San Fernando",
+   :location "San Fernando",
    :image "",
    :description ""}
   {:name "National Museum & Art Gallery",
    :longitude -61.5103176,
    :latitude 10.6628611,
    :source :openstreetmap,
-   :locality "Port of Spain",
+   :location "Port of Spain",
    :image "",
    :description ""}
   {:name "National Science Centre",
@@ -72,7 +72,7 @@
    :latitude 10.6139359,
    :source :openstreetmap,
    :homepage "https://www.niherst.gov.tt/",
-   :locality "D'Abadie",
+   :location "D'Abadie",
    :image "",
    :description ""}
   {:name "Pointe-à-Pierre Train Station",
@@ -98,7 +98,7 @@
    :latitude 10.6479451,
    :source :openstreetmap,
    :homepage "http://www.nmag.gov.tt/content/museum-city-port-spain",
-   :locality "Port of Spain",
+   :location "Port of Spain",
    :image "",
    :description ""}
   {:name "Tobago Cocoa Estate",
@@ -112,7 +112,7 @@
    :longitude -61.5288431,
    :latitude 10.6658442,
    :source :openstreetmap,
-   :locality "Port of Spain",
+   :location "Port of Spain",
    :image "",
    :description ""}],
  :source

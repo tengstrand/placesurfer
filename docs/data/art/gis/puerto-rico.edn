@@ -13,7 +13,7 @@
    :latitude 18.4492414,
    :source :openstreetmap,
    :homepage "http://www.c787studios.com/",
-   :locality "San Juan"}
+   :location "San Juan"}
   {:name "Casa Canales",
    :longitude -66.5607364,
    :latitude 18.2095062,
@@ -26,7 +26,7 @@
    :longitude -66.7231467,
    :latitude 18.0599961,
    :source :openstreetmap,
-   :locality "Peñuelas"}
+   :location "Peñuelas"}
   {:name "Casa de la Masacre de Ponce",
    :longitude -66.6135337,
    :latitude 18.0093027,
@@ -35,7 +35,7 @@
    :longitude -65.8249243,
    :latitude 18.147982,
    :source :openstreetmap,
-   :locality "Humacao"}
+   :location "Humacao"}
   {:name "Casa Museo Aurora",
    :longitude -66.3399788,
    :latitude 18.3485162,
@@ -45,7 +45,7 @@
    :latitude 18.1447961,
    :source :openstreetmap,
    :homepage "https://www.casamuseofilibertoojedarios.com",
-   :locality "Hormigueros"}
+   :location "Hormigueros"}
   {:name "Casa Museo Jesús T. Piñero",
    :longitude -65.9096742,
    :latitude 18.3767921,
@@ -54,7 +54,7 @@
    :longitude -66.1081473,
    :latitude 18.3703116,
    :source :openstreetmap,
-   :locality "Guaynabo"}
+   :location "Guaynabo"}
   {:name "Centro Ceremonial Indígena de Tibes",
    :longitude -66.6218961,
    :latitude 18.0416891,
@@ -64,17 +64,17 @@
    :latitude 18.2291467,
    :source :openstreetmap,
    :homepage "https://c3tec.org/",
-   :locality "Caguas"}
+   :location "Caguas"}
   {:name "Centro de Arte y Cultura de Luquillo",
    :longitude -65.723347,
    :latitude 18.3802395,
    :source :openstreetmap,
-   :locality "Luquillo"}
+   :location "Luquillo"}
   {:name "Centro de las Artes Joaquín Rosa Gómez",
    :longitude -66.4935224,
    :latitude 18.427067,
    :source :openstreetmap,
-   :locality "Manatí"}
+   :location "Manatí"}
   {:name "Conde de Mirasol Museum",
    :longitude -65.4391522,
    :latitude 18.1475645,
@@ -94,7 +94,7 @@
    :latitude 18.4529229,
    :source :openstreetmap,
    :homepage "http://www.espacio-minerva.com",
-   :locality "San Juan"}
+   :location "San Juan"}
   {:name "Faro de Punta Tuna",
    :longitude -65.8852725,
    :latitude 17.9883646,
@@ -109,7 +109,7 @@
    :latitude 18.452533,
    :source :openstreetmap,
    :homepage "http://madmi.org/#top",
-   :locality "San Juan"}
+   :location "San Juan"}
   {:name "Guaynabo Museum of History",
    :longitude -66.1125033,
    :latitude 18.3579005,
@@ -118,7 +118,7 @@
    :longitude -66.8482517,
    :latitude 18.0339095,
    :source :openstreetmap,
-   :locality "Yauco"}
+   :location "Yauco"}
   {:name "Museo Casa del Pueblo",
    :longitude -66.7221187,
    :latitude 18.1610698,
@@ -140,7 +140,7 @@
    :longitude -66.7905661,
    :latitude 18.0174057,
    :source :openstreetmap,
-   :locality "Guayanilla"}
+   :location "Guayanilla"}
   {:name "Museo de Arte",
    :longitude -66.0362765,
    :latitude 18.2357884,
@@ -155,7 +155,7 @@
    :latitude 18.448441,
    :source :openstreetmap,
    :homepage "http://www.mapr.org/",
-   :locality "San Juan"}
+   :location "San Juan"}
   {:name "Museo de Arte e Historia de Arecibo \"René Marqués García\"",
    :longitude -66.7161486,
    :latitude 18.4696252,
@@ -164,7 +164,7 @@
    :longitude -66.015146,
    :latitude 18.005155,
    :source :openstreetmap,
-   :locality "Patillas"}
+   :location "Patillas"}
   {:name "Museo de Arte y Senado Académico",
    :longitude -67.1425305,
    :latitude 18.2101276,
@@ -186,7 +186,7 @@
    :longitude -66.1168828,
    :latitude 18.4420054,
    :source :openstreetmap,
-   :locality "Cataño"}
+   :location "Cataño"}
   {:name "Museo de la Historia de Ponce",
    :longitude -66.6117064,
    :latitude 18.0125528,
@@ -209,28 +209,28 @@
    :longitude -67.1469291,
    :latitude 18.0790202,
    :source :openstreetmap,
-   :locality "Cabo Rojo"}
+   :location "Cabo Rojo"}
   {:name "Museo del Café",
    :longitude -66.4687389,
    :latitude 18.3345549,
    :source :openstreetmap,
-   :locality "Ciales"}
+   :location "Ciales"}
   {:name "Museo del Deporte Aiboniteño",
    :longitude -66.2645543,
    :latitude 18.1400622,
    :source :openstreetmap,
-   :locality "Aibonito"}
+   :location "Aibonito"}
   {:name
    "Museo del Deporte Cagüeño Dr. Emigdio \"Millo\" Buonomo Morales",
    :longitude -66.0552265,
    :latitude 18.240355,
    :source :openstreetmap,
-   :locality "Caguas"}
+   :location "Caguas"}
   {:name "Museo del Deporte de Gurabo",
    :longitude -65.9728856,
    :latitude 18.2549206,
    :source :openstreetmap,
-   :locality "Gurabo"}
+   :location "Gurabo"}
   {:name "Museo del Deporte de Puerto Rico",
    :longitude -66.1115894,
    :latitude 18.3735614,
@@ -240,23 +240,23 @@
    :latitude 18.4662972,
    :source :openstreetmap,
    :homepage "http://www.elmuseodelmar.com/",
-   :locality "Viejo San Juan"}
+   :location "Viejo San Juan"}
   {:name "Museo del Niño de Carolina",
    :longitude -65.9683059,
    :latitude 18.4191628,
    :source :openstreetmap,
    :homepage "https://www.museodelninocarolina.com",
-   :locality "Carolina"}
+   :location "Carolina"}
   {:name "Museo del Tren",
    :longitude -67.0168305,
    :latitude 18.4975861,
    :source :openstreetmap,
-   :locality "Isabela"}
+   :location "Isabela"}
   {:name "Museo Galería",
    :longitude -67.0598253,
    :latitude 18.0500872,
    :source :openstreetmap,
-   :locality "Lajas"}
+   :location "Lajas"}
   {:name "Museo Histórico de Culebra",
    :longitude -65.2832039,
    :latitude 18.3104097,
@@ -269,12 +269,12 @@
    :longitude -66.3549907,
    :latitude 18.0805338,
    :source :openstreetmap,
-   :locality "Coamo"}
+   :location "Coamo"}
   {:name "Museo José Celso Barbosa",
    :longitude -66.1544603,
    :latitude 18.3990206,
    :source :openstreetmap,
-   :locality "Bayamón"}
+   :location "Bayamón"}
   {:name "Museo Militar",
    :longitude -66.1016598,
    :latitude 18.4662489,
@@ -295,29 +295,29 @@
    :longitude -67.2686485,
    :latitude 18.365294,
    :source :openstreetmap,
-   :locality "Rincón"}
+   :location "Rincón"}
   {:name "Museo y Escuela de Arte Marcos Juan Alegría Valle",
    :longitude -66.2614838,
    :latitude 18.4597635,
    :source :openstreetmap,
-   :locality "Dorado"}
+   :location "Dorado"}
   {:name "Museum of Transportation",
    :longitude -66.1155779,
    :latitude 18.3586208,
    :source :openstreetmap,
-   :locality "Guaynabo"}
+   :location "Guaynabo"}
   {:name "Omart Gallery",
    :longitude -66.0641129,
    :latitude 18.4438365,
    :source :openstreetmap,
    :homepage "https://musan.org/",
-   :locality "San Juan"}
+   :location "San Juan"}
   {:name
    "Plaza-Museo de los Fundadores Profesora Gisella Ocasio Rentas",
    :longitude -66.2962784,
    :latitude 17.9789645,
    :source :openstreetmap,
-   :locality "Salinas"}
+   :location "Salinas"}
   {:name "Roberto Paradise",
    :longitude -66.0767749,
    :latitude 18.4473474,
@@ -327,12 +327,12 @@
    :longitude -65.9003341,
    :latitude 18.3786098,
    :source :openstreetmap,
-   :locality "Canóvanas"}
+   :location "Canóvanas"}
   {:name "Sala de la Estación del Ferrocarril",
    :longitude -66.3870842,
    :latitude 18.4490288,
    :source :openstreetmap,
-   :locality "Vega Baja"}],
+   :location "Vega Baja"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

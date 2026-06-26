@@ -9,7 +9,7 @@
    :latitude -19.5585975,
    :source :openstreetmap,
    :homepage "http://www.altefortmuseum.de/",
-   :locality "Grootfontein"}
+   :location "Grootfontein"}
   {:name "American Cultural Centre",
    :longitude 17.08406,
    :latitude -22.5675425,
@@ -27,13 +27,13 @@
    :latitude -23.7993711,
    :source :openstreetmap,
    :homepage "https://nhc-nam.org",
-   :locality "Aminuis"}
+   :location "Aminuis"}
   {:name "COSDEF",
    :longitude 14.5605408,
    :latitude -22.6679825,
    :source :openstreetmap,
    :homepage "https://www.cosdef.org.na/cosdef-arts-and-crafts-centre",
-   :locality "Swakopmund"}
+   :location "Swakopmund"}
   {:name "Damara",
    :longitude 14.3763098,
    :latitude -20.4276466,
@@ -67,7 +67,7 @@
    :longitude 17.0879914,
    :latitude -22.568721,
    :source :openstreetmap,
-   :locality "Windhoek"}
+   :location "Windhoek"}
   {:name "John Muafangejo Art Centre",
    :longitude 17.0643655,
    :latitude -22.5287295,
@@ -78,12 +78,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.museums.com.na/museums/south/keetmanshoop-museum",
-   :locality "Keetmanshoop"}
+   :location "Keetmanshoop"}
   {:name "King Mandume Museum",
    :longitude 15.8637664,
    :latitude -17.4793581,
    :source :openstreetmap,
-   :locality "Omhedi"}
+   :location "Omhedi"}
   {:name "Kristall Galerie",
    :longitude 14.5262186,
    :latitude -22.6747595,
@@ -94,7 +94,7 @@
    :latitude -19.2387891,
    :source :openstreetmap,
    :homepage "https://www.lcfn.info/juhoansi/home",
-   :locality "Grashoek"}
+   :location "Grashoek"}
   {:name "Lizauli Historical Village",
    :longitude 23.354565,
    :latitude -18.0659003,
@@ -125,7 +125,7 @@
    :latitude -20.4672727,
    :source :openstreetmap,
    :homepage "https://www.namibianfashion.com/",
-   :locality "Otjiwarongo"}
+   :location "Otjiwarongo"}
   {:name "Museum of Namibian Music",
    :longitude 16.5800995,
    :latitude -18.3634053,
@@ -141,7 +141,7 @@
    :latitude -26.6474771,
    :source :openstreetmap,
    :homepage "http://kolmanskuppe.com/goerke-haus",
-   :locality "Lüderitz"}
+   :location "Lüderitz"}
   {:name "National Art Gallery of Namibia",
    :longitude 17.0857375,
    :latitude -22.5623176,
@@ -157,7 +157,7 @@
    :latitude -22.60087,
    :source :openstreetmap,
    :homepage "https://www.mme.gov.na/gsn/museum/",
-   :locality "Windhoek"}
+   :location "Windhoek"}
   {:name "Old Location",
    :longitude 17.0639564,
    :latitude -22.5809874,
@@ -194,13 +194,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.museums.com.na/museums/north/outapi-war-museum",
-   :locality "Outapi"}
+   :location "Outapi"}
   {:name "Ovahimba Living Museum",
    :longitude 13.6910567,
    :latitude -17.8016835,
    :source :openstreetmap,
    :homepage "https://www.lcfn.info/ovahimba",
-   :locality "Omungunda"}
+   :location "Omungunda"}
   {:name "Rehoboth Museum",
    :longitude 17.0719734,
    :latitude -23.3240912,
@@ -210,7 +210,7 @@
    :latitude -22.6782733,
    :source :openstreetmap,
    :homepage "https://roglsouvenirs.com",
-   :locality "Swakopmund"}
+   :location "Swakopmund"}
   {:name "Sam Nujoma Multipurpose Centre",
    :longitude 15.7664104,
    :latitude -17.7735469,
@@ -228,7 +228,7 @@
    :longitude 14.5634775,
    :latitude -22.6375693,
    :source :openstreetmap,
-   :locality "Swakopmund"}
+   :location "Swakopmund"}
   {:name "The Jasper House Museum",
    :longitude 16.4277539,
    :latitude -28.5527835,
@@ -237,7 +237,7 @@
    :longitude 16.3559181,
    :latitude -26.1834985,
    :source :openstreetmap,
-   :locality "Gundsbewys"}
+   :location "Gundsbewys"}
   {:name "TransNamib Railway Museum",
    :longitude 17.0813084,
    :latitude -22.5593477,
@@ -252,7 +252,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museums.com.na/museums/coast/walvis-bay-museum",
-   :locality "Walvis Bay"}
+   :location "Walvis Bay"}
   {:name "Warmbad Museum",
    :longitude 18.7389216,
    :latitude -28.4474307,
@@ -267,7 +267,7 @@
    :longitude 16.9740683,
    :latitude -24.8437873,
    :source :openstreetmap,
-   :locality "Maltahöhe"}],
+   :location "Maltahöhe"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

@@ -18,7 +18,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.travelmuse.com/pois/BS/attractions/erickson-museum-and-library",
-   :locality "Matthew Town"}
+   :location "Matthew Town"}
   {:name "Heritage Museum",
    :longitude -77.3465569,
    :latitude 25.0766177,

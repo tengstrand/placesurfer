@@ -8,7 +8,7 @@
    :latitude 56.7400572,
    :source :openstreetmap,
    :homepage "http://www.007museum.com/",
-   :locality "Nybro",
+   :location "Nybro",
    :image "",
    :description ""}
   {:name "2047 Science Center",
@@ -30,7 +30,7 @@
    :latitude 59.3248966,
    :source :openstreetmap,
    :homepage "https://abbathemuseum.com",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Abecita Popkonst och Foto",
@@ -38,14 +38,14 @@
    :latitude 57.7351272,
    :source :openstreetmap,
    :homepage "https://www.abecitakonst.se/",
-   :locality "Borås",
+   :location "Borås",
    :image "",
    :description ""}
   {:name "ABU-museum i Svängsta",
    :longitude 14.7689704,
    :latitude 56.2658755,
    :source :openstreetmap,
-   :locality "Svängsta",
+   :location "Svängsta",
    :image "",
    :description ""}
   {:name "Accelerator konsthall",
@@ -60,7 +60,7 @@
    :latitude 57.7707666,
    :source :openstreetmap,
    :homepage "http://www.aeroseum.se",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image
    "https://commons.wikimedia.org/wiki/Special:FilePath/%3AAeroseum+in+Gothenburg%2C+Sweden.jpg",
    :description ""}
@@ -75,7 +75,7 @@
    :latitude 58.4273815,
    :source :openstreetmap,
    :homepage "https://www.linkoping.se/agora",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Aguélimuseet",
@@ -89,7 +89,7 @@
    :longitude 19.8411501,
    :latitude 66.6040078,
    :source :openstreetmap,
-   :locality "Jokkmokk",
+   :location "Jokkmokk",
    :image "",
    :description ""}
   {:name "Aktiveum",
@@ -140,7 +140,7 @@
    :latitude 60.7240149,
    :source :openstreetmap,
    :homepage "https://www.alfvengarden.se/",
-   :locality "Leksand",
+   :location "Leksand",
    :image "",
    :description ""}
   {:name "Alingsås Museum",
@@ -188,7 +188,7 @@
    :latitude 55.599537,
    :source :openstreetmap,
    :homepage "https://www.altaartspace.org/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Amazon",
@@ -239,7 +239,7 @@
    :longitude 11.9608276,
    :latitude 57.6933176,
    :source :openstreetmap,
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Anundsjö Hembygdsgård",
@@ -273,7 +273,7 @@
    :latitude 58.4081975,
    :source :openstreetmap,
    :homepage "https://www.linkoping.se/ungarbis",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Arboga museum",
@@ -281,7 +281,7 @@
    :latitude 59.394305,
    :source :openstreetmap,
    :homepage "https://arbogamuseum.se/",
-   :locality "Arboga",
+   :location "Arboga",
    :image "",
    :description ""}
   {:name "Arboga Robotmuseum",
@@ -296,7 +296,7 @@
    :latitude 55.5930752,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/ateljearkana/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Arkitektur- och designcentrum",
@@ -337,7 +337,7 @@
    :latitude 59.3674748,
    :source :openstreetmap,
    :homepage "https://arsenalen.se",
-   :locality "Strängnäs",
+   :location "Strängnäs",
    :image "",
    :description ""}
   {:name "Art Institute",
@@ -345,7 +345,7 @@
    :latitude 57.9944298,
    :source :openstreetmap,
    :homepage "http://artinstitute.se/",
-   :locality "Skärhamn",
+   :location "Skärhamn",
    :image "",
    :description ""}
   {:name "Art Åre",
@@ -358,7 +358,7 @@
    :longitude 12.8274552,
    :latitude 55.8702259,
    :source :openstreetmap,
-   :locality "Landskrona",
+   :location "Landskrona",
    :image "",
    :description ""}
   {:name "Artillerimuseet",
@@ -366,7 +366,7 @@
    :latitude 55.9838057,
    :source :openstreetmap,
    :homepage "http://www.artillerimuseet.se",
-   :locality "Kristianstad",
+   :location "Kristianstad",
    :image "",
    :description ""}
   {:name "Artipelag",
@@ -392,7 +392,7 @@
    :longitude 14.8359861,
    :latitude 56.204024,
    :source :openstreetmap,
-   :locality "Asarum",
+   :location "Asarum",
    :image "",
    :description ""}
   {:name "Aschanska gården",
@@ -441,7 +441,7 @@
    :latitude 57.6976549,
    :source :openstreetmap,
    :homepage "http://www.vsa-sweden.org",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Ateljé 89",
@@ -454,7 +454,7 @@
    :longitude 11.7348297,
    :latitude 58.0164932,
    :source :openstreetmap,
-   :locality "Hakenäset",
+   :location "Hakenäset",
    :image "",
    :description ""}
   {:name "Ateljé Avant",
@@ -482,7 +482,7 @@
    :latitude 55.5819512,
    :source :openstreetmap,
    :homepage "http://filiprahimhansson.com/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Ateljé FjällDesign",
@@ -501,7 +501,7 @@
    :longitude 11.9549505,
    :latitude 57.6947249,
    :source :openstreetmap,
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Ateljé Stillagatan",
@@ -550,7 +550,7 @@
    :latitude 55.54919,
    :source :openstreetmap,
    :homepage "https://autoseum.se/de/",
-   :locality "Simrishamn",
+   :location "Simrishamn",
    :image "",
    :description ""}
   {:name "Avicii Experience",
@@ -585,7 +585,7 @@
    :latitude 58.4090904,
    :source :openstreetmap,
    :homepage "https://babettes.se/kultur/",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Backamo Museum",
@@ -625,7 +625,7 @@
    :latitude 58.4057834,
    :source :openstreetmap,
    :homepage "https://gamlalinkoping.se/aktiviteter/bankmuseet/",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Barnens Bruk",
@@ -633,7 +633,7 @@
    :latitude 60.4112593,
    :source :openstreetmap,
    :homepage "https://www.lövstabruk.com/kulforbarn#/",
-   :locality "Lövstabruk",
+   :location "Lövstabruk",
    :image "",
    :description ""}
   {:name "Bastöna gammelgård",
@@ -689,7 +689,7 @@
    :latitude 60.4521458,
    :source :openstreetmap,
    :homepage "https://www.brukshistoriska.se/",
-   :locality "Långshyttan",
+   :location "Långshyttan",
    :image "",
    :description ""}
   {:name "Beredskapsmuseet",
@@ -697,7 +697,7 @@
    :latitude 56.1293804,
    :source :openstreetmap,
    :homepage "https://www.beredskapsmuseet.com/",
-   :locality "Viken",
+   :location "Viken",
    :image "",
    :description ""}
   {:name "Bergdala glastekniska museum",
@@ -737,7 +737,7 @@
    :longitude 16.1797283,
    :latitude 58.5899746,
    :source :openstreetmap,
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :description ""}
   {:name "Bergsgård",
@@ -802,7 +802,7 @@
    :latitude 59.5107298,
    :source :openstreetmap,
    :homepage "https://biloteknikmuseet.se/",
-   :locality "Köping",
+   :location "Köping",
    :image "",
    :description ""}
   {:name "Bildmuseet",
@@ -810,7 +810,7 @@
    :latitude 63.8203253,
    :source :openstreetmap,
    :homepage "https://bildmuseet.umu.se/",
-   :locality "Umeå",
+   :location "Umeå",
    :image "",
    :description ""}
   {:name "Bildtska Hembygdsmuseet",
@@ -829,7 +829,7 @@
    :longitude 12.5249902,
    :latitude 56.8994809,
    :source :openstreetmap,
-   :locality "Falkenberg",
+   :location "Falkenberg",
    :image "",
    :description ""}
   {:name "Bilmuseum Gotland",
@@ -844,7 +844,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sodertalje.se/kultur-och-fritid/torekallberget/om-torekallberget2/biologiska-museet/",
-   :locality "Södertälje",
+   :location "Södertälje",
    :image "",
    :description ""}
   {:name "Biologiska museet",
@@ -853,7 +853,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sodertalje.se/kultur-och-fritid/torekallberget/om-torekallberget2/biologiska-museet/",
-   :locality "Södertälje",
+   :location "Södertälje",
    :image "",
    :description ""}
   {:name "Biologiska museet i Oskarshamn",
@@ -861,7 +861,7 @@
    :latitude 57.2527193,
    :source :openstreetmap,
    :homepage "https://www.bimon.se/",
-   :locality "Oskarshamn",
+   :location "Oskarshamn",
    :image "",
    :description ""}
   {:name "Biotopia",
@@ -869,7 +869,7 @@
    :latitude 59.8600522,
    :source :openstreetmap,
    :homepage "https://www.biotopia.nu/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Birgit Nilsson Museum",
@@ -892,7 +892,7 @@
    :latitude 56.4810458,
    :source :openstreetmap,
    :homepage "https://bitcoingalleriet.se",
-   :locality "Mörbylånga",
+   :location "Mörbylånga",
    :image "https://bitcoingalleriet.se/1/twitter_card.jpg",
    :description ""}
   {:name "Bjersunds tegelbruksmuseum",
@@ -900,7 +900,7 @@
    :latitude 55.7101679,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/lomma/about",
-   :locality "Bjärred",
+   :location "Bjärred",
    :image "",
    :description ""}
   {:name "Bjuråker Forngård",
@@ -933,7 +933,7 @@
    :latitude 57.7364685,
    :source :openstreetmap,
    :homepage "http://bjorko-hembygdsforening.webnode.se/",
-   :locality "Bohus-Björkö",
+   :location "Bohus-Björkö",
    :image "",
    :description ""}
   {:name "Björkö-Arholma Sjöfartsmuseum",
@@ -941,7 +941,7 @@
    :latitude 59.8709476,
    :source :openstreetmap,
    :homepage "https://www.sjomanna.se/",
-   :locality "Björkö",
+   :location "Björkö",
    :image "",
    :description ""}
   {:name "Björna Hembygdsgård",
@@ -969,7 +969,7 @@
    :latitude 56.1621531,
    :source :openstreetmap,
    :homepage "https://blekingemuseum.se/",
-   :locality "Karlskrona",
+   :location "Karlskrona",
    :image "",
    :description ""}
   {:name "Blockmakarens hus",
@@ -978,7 +978,7 @@
    :source :openstreetmap,
    :homepage
    "https://stadsmuseet.stockholm/historiska-rum/blockmakarens-hus-1917/",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Bläse kalkbruksmuseum",
@@ -986,7 +986,7 @@
    :latitude 57.8942851,
    :source :openstreetmap,
    :homepage "https://blase.se/",
-   :locality "Lärbro",
+   :location "Lärbro",
    :image "",
    :description ""}
   {:name "Blås & knåda",
@@ -1022,7 +1022,7 @@
    :latitude 58.3489577,
    :source :openstreetmap,
    :homepage "https://www.bohuslans-forsvarsmuseum.se/",
-   :locality "Uddevalla",
+   :location "Uddevalla",
    :image "",
    :description ""}
   {:name "Bohusläns Museum",
@@ -1030,7 +1030,7 @@
    :latitude 58.3492504,
    :source :openstreetmap,
    :homepage "https://www.bohuslansmuseum.se/",
-   :locality "Uddevalla",
+   :location "Uddevalla",
    :image "",
    :description ""}
   {:name "Bokmärkesmuseet",
@@ -1045,7 +1045,7 @@
    :latitude 59.4542153,
    :source :openstreetmap,
    :homepage "https://bolindermuseet.se",
-   :locality "Järfälla",
+   :location "Järfälla",
    :image "",
    :description ""}
   {:name "Bondens år",
@@ -1067,7 +1067,7 @@
    :source :openstreetmap,
    :homepage
    "https://malmo.se/Uppleva-och-gora/Konst-och-museer/Bore.html",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Borgholms Slott",
@@ -1081,7 +1081,7 @@
    :latitude 56.8775891,
    :source :openstreetmap,
    :homepage "https://www.borgholmsstadsmuseum.com/",
-   :locality "Borgholm",
+   :location "Borgholm",
    :image "",
    :description ""}
   {:name "Borgsjö Hembygdsgård",
@@ -1089,7 +1089,7 @@
    :latitude 62.5415454,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/borgsjohembygdsforening",
-   :locality "Erikslund",
+   :location "Erikslund",
    :image "",
    :description ""}
   {:name "Borgvik Bruksmuseum",
@@ -1162,7 +1162,7 @@
    :latitude 58.1921001,
    :source :openstreetmap,
    :homepage "http://www.krafttaget.com/bruksmuseum/",
-   :locality "Boxholm",
+   :location "Boxholm",
    :image "",
    :description ""}
   {:name "Brandbilsmuseum",
@@ -1182,7 +1182,7 @@
    :latitude 55.6024025,
    :source :openstreetmap,
    :homepage "https://brandmuseumrsyd.se/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Branteviks Maritima Museum",
@@ -1203,7 +1203,7 @@
    :latitude 57.0676839,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/sjosas/hembygdsparken-i-braas",
-   :locality "Braås",
+   :location "Braås",
    :image "",
    :description ""}
   {:name "Brevens Bruks Hembygdsgård",
@@ -1223,7 +1223,7 @@
    :latitude 59.3883036,
    :source :openstreetmap,
    :homepage "http://brigadmuseum.se/",
-   :locality "Karlstad",
+   :location "Karlstad",
    :image "",
    :description ""}
   {:name "Brocenter Bil & Fordonmuseum",
@@ -1238,7 +1238,7 @@
    :latitude 59.8492864,
    :source :openstreetmap,
    :homepage "https://www.brorhjorthshus.se",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Bruksmuseet",
@@ -1314,7 +1314,7 @@
    :longitude 15.0295948,
    :latitude 59.5198615,
    :source :openstreetmap,
-   :locality "Nora",
+   :location "Nora",
    :image "",
    :description ""}
   {:name "Bryggerimuséet",
@@ -1349,7 +1349,7 @@
    :longitude 15.1167087,
    :latitude 56.2267357,
    :source :openstreetmap,
-   :locality "Bräkne-Hoby",
+   :location "Bräkne-Hoby",
    :image "",
    :description ""}
   {:name "Brännö Lagård",
@@ -1400,7 +1400,7 @@
    :latitude 57.4970716,
    :source :openstreetmap,
    :homepage "http://bynandersmotormuseum.se/",
-   :locality "Svenljunga",
+   :location "Svenljunga",
    :image "",
    :description ""}
   {:name "Byske Hantverksmuseum",
@@ -1491,7 +1491,7 @@
    :longitude 14.8362663,
    :latitude 56.0097563,
    :source :openstreetmap,
-   :locality "Sölvesborg",
+   :location "Sölvesborg",
    :image "",
    :description ""}
   {:name "Callanderska gården",
@@ -1524,7 +1524,7 @@
    :latitude 59.8549918,
    :source :openstreetmap,
    :homepage "https://www.ub.uu.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Charlottenborgs slott",
@@ -1603,7 +1603,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.dalregementetsmuseer.se/02_Falun/fln_museet/fln_museet001.htm",
-   :locality "Falun",
+   :location "Falun",
    :image
    "https://commons.wikimedia.org/wiki/Special:FilePath/%3ADalregementet+bild+7.jpg",
    :description ""}
@@ -1684,7 +1684,7 @@
    :latitude 61.8072138,
    :source :openstreetmap,
    :homepage "https://delsbohus.se/",
-   :locality "Delsbo",
+   :location "Delsbo",
    :image "",
    :description ""}
   {:name "Den förhistoriska världen",
@@ -1712,7 +1712,7 @@
    :latitude 55.6008966,
    :source :openstreetmap,
    :homepage "https://disgustingfoodmuseum.com",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Diö Konsthall",
@@ -1739,7 +1739,7 @@
    :longitude 15.5645833,
    :latitude 56.1103782,
    :source :openstreetmap,
-   :locality "Drottningskär",
+   :location "Drottningskär",
    :image "",
    :description ""}
   {:name "Dunkers kulturhus",
@@ -1747,7 +1747,7 @@
    :latitude 56.0476884,
    :source :openstreetmap,
    :homepage "https://dunkerskulturhus.se",
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :description ""}
   {:name "Dyvelstens Flottningsmuseum",
@@ -1768,14 +1768,14 @@
    :source :openstreetmap,
    :homepage
    "https://www2.oskarshamn.com/sv/se-gora/a378599/doderhultarns-atelje/detaljer",
-   :locality "Oskarshamn",
+   :location "Oskarshamn",
    :image "",
    :description ""}
   {:name "Dövas kulturarvscentrum",
    :longitude 14.9553794,
    :latitude 60.7219331,
    :source :openstreetmap,
-   :locality "Leksand",
+   :location "Leksand",
    :image "",
    :description ""}
   {:name "Ebbamåla bruk",
@@ -1789,7 +1789,7 @@
    :longitude 13.0057766,
    :latitude 55.6053708,
    :source :openstreetmap,
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Ebelingmuseet",
@@ -1847,7 +1847,7 @@
    :longitude 15.016754,
    :latitude 57.4960121,
    :source :openstreetmap,
-   :locality "Ekenässjön",
+   :location "Ekenässjön",
    :image "",
    :description ""}
   {:name "Ekerum konsthall",
@@ -1868,7 +1868,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.ronneby.se/sv/uppleva-gora/kultur/museer/gjuteri-och-emaljmuseet/",
-   :locality "Kallinge",
+   :location "Kallinge",
    :image "",
    :description ""}
   {:name "Eksjö Museum",
@@ -1876,7 +1876,7 @@
    :latitude 57.6695746,
    :source :openstreetmap,
    :homepage "https://www.eksjo.se/kultur_fritid/eksjoe_museum",
-   :locality "Växjö",
+   :location "Växjö",
    :image "",
    :description ""}
   {:name "Ekvall & Törnblom",
@@ -1890,7 +1890,7 @@
    :latitude 58.0247655,
    :source :openstreetmap,
    :homepage "http://elinsundberg.se/",
-   :locality "Kyrkesund",
+   :location "Kyrkesund",
    :image "",
    :description ""}
   {:name "Elliseum",
@@ -1936,7 +1936,7 @@
    :latitude 59.3776601,
    :source :openstreetmap,
    :homepage "https://konstmuseet.eskilstuna.se",
-   :locality "Eskilstuna",
+   :location "Eskilstuna",
    :image "",
    :description ""}
   {:name "Eskilstuna stadsmuseum",
@@ -1945,7 +1945,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.eskilstuna.se/uppleva-och-gora/museer-och-konst/eskilstuna-stadsmuseum.html",
-   :locality "Eskilstuna",
+   :location "Eskilstuna",
    :image "",
    :description ""}
   {:name "Eslövs Leksaksmuseum",
@@ -1953,7 +1953,7 @@
    :latitude 55.8384854,
    :source :openstreetmap,
    :homepage "https://www.eslovsleksaksmuseum.se/",
-   :locality "Eslöv",
+   :location "Eslöv",
    :image "",
    :description ""}
   {:name "Esso",
@@ -1981,7 +1981,7 @@
    :latitude 59.8492511,
    :source :openstreetmap,
    :homepage "https://www.evolutionsmuseet.uu.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Evolutionsmuseet Zoologi",
@@ -1989,7 +1989,7 @@
    :latitude 59.8501782,
    :source :openstreetmap,
    :homepage "https://www.evolutionsmuseet.uu.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Exploratoriet",
@@ -1997,7 +1997,7 @@
    :latitude 64.7490137,
    :source :openstreetmap,
    :homepage "https://exploratoriet.se/",
-   :locality "Skellefteå",
+   :location "Skellefteå",
    :image "",
    :description ""}
   {:name "Eyvind Johnsons stuga",
@@ -2037,7 +2037,7 @@
    :latitude 55.3905868,
    :source :openstreetmap,
    :homepage "https://falsterbokonsthall.se/",
-   :locality "Falsterbo",
+   :location "Falsterbo",
    :image "",
    :description ""}
   {:name "Falsterbo museum",
@@ -2098,14 +2098,14 @@
    :latitude 57.6215124,
    :source :openstreetmap,
    :homepage "http://www.filmbyn.se/",
-   :locality "Mariannelund",
+   :location "Mariannelund",
    :image "",
    :description ""}
   {:name "Filmmuseet",
    :longitude 14.1571262,
    :latitude 56.0301042,
    :source :openstreetmap,
-   :locality "Kristianstad",
+   :location "Kristianstad",
    :image "",
    :description ""}
   {:name "Finnfors kraftverksmuseum",
@@ -2132,7 +2132,7 @@
    :longitude 12.8460029,
    :latitude 55.4141386,
    :source :openstreetmap,
-   :locality "Skanör",
+   :location "Skanör",
    :image "",
    :description ""}
   {:name "Fiske- & sjöfarts-museet",
@@ -2152,7 +2152,7 @@
    :longitude 14.6970069,
    :latitude 56.0108765,
    :source :openstreetmap,
-   :locality "Sölvesborg",
+   :location "Sölvesborg",
    :image "",
    :description ""}
   {:name "Fiskemuseum",
@@ -2178,7 +2178,7 @@
    :latitude 59.366082,
    :source :openstreetmap,
    :homepage "https://www.fjarilshuset.se/",
-   :locality "Solna",
+   :location "Solna",
    :image "",
    :description ""}
   {:name "Flaménska galleriet",
@@ -2230,7 +2230,7 @@
    :latitude 55.4978455,
    :source :openstreetmap,
    :homepage "http://www.stenbacksflygmuseum.com",
-   :locality "Skurup",
+   :location "Skurup",
    :image "",
    :description ""}
   {:name "Flygvapenmuseum",
@@ -2238,7 +2238,7 @@
    :latitude 58.4099325,
    :source :openstreetmap,
    :homepage "https://www.flygvapenmuseum.se/",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Fläckebo hembygdsgård",
@@ -2276,7 +2276,7 @@
    :longitude 12.3853618,
    :latitude 56.9833155,
    :source :openstreetmap,
-   :locality "Långås",
+   :location "Långås",
    :image "",
    :description ""}
   {:name "Fordonsmuseet",
@@ -2350,7 +2350,7 @@
    :longitude 16.9039403,
    :latitude 60.6122316,
    :source :openstreetmap,
-   :locality "Forsbacka",
+   :location "Forsbacka",
    :image "",
    :description ""}
   {:name "Forshaga Hembygdförening",
@@ -2410,7 +2410,7 @@
    :latitude 59.3180039,
    :source :openstreetmap,
    :homepage "https://www.fotografiska.com/sto/",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Fotomuseet",
@@ -2418,7 +2418,7 @@
    :latitude 56.3799108,
    :source :openstreetmap,
    :homepage "https://www.fotomuseetiosby.nu/",
-   :locality "Osby",
+   :location "Osby",
    :image "",
    :description ""}
   {:name "Fotomuseet Olympia",
@@ -2426,7 +2426,7 @@
    :latitude 56.9034903,
    :source :openstreetmap,
    :homepage "http://www.fotomuseet-olympia.com/",
-   :locality "Falkenberg",
+   :location "Falkenberg",
    :image "",
    :description ""}
   {:name "Four",
@@ -2434,7 +2434,7 @@
    :latitude 57.6944712,
    :source :openstreetmap,
    :homepage "https://fourgallery.com/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "FRANK",
@@ -2449,7 +2449,7 @@
    :latitude 59.8577524,
    :source :openstreetmap,
    :homepage "https://www.fredenshus.se",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Fredriksbergs Hembygdsgård",
@@ -2490,7 +2490,7 @@
    :latitude 56.8904056,
    :source :openstreetmap,
    :homepage "https://femsjo.com/2020/08/friesmuseet-3/",
-   :locality "Femsjö",
+   :location "Femsjö",
    :image "",
    :description ""}
   {:name "Friluftsmuseet",
@@ -2519,7 +2519,7 @@
    :latitude 55.4304297,
    :source :openstreetmap,
    :homepage "https://www.ystadsfbc.se/museum/",
-   :locality "Ystad",
+   :location "Ystad",
    :image "",
    :description ""}
   {:name "Frösthults Bygdegård",
@@ -2655,14 +2655,14 @@
    :longitude 13.872757,
    :latitude 60.8088837,
    :source :openstreetmap,
-   :locality "Öje",
+   :location "Öje",
    :image "",
    :description ""}
   {:name "Galleri 20",
    :longitude 11.8993006,
    :latitude 57.6798663,
    :source :openstreetmap,
-   :locality "Västra Frölunda",
+   :location "Västra Frölunda",
    :image "",
    :description ""}
   {:name "Galleri 86 Stockholm",
@@ -2710,7 +2710,7 @@
    :longitude 16.8980895,
    :latitude 60.2886036,
    :source :openstreetmap,
-   :locality "Gysinge",
+   :location "Gysinge",
    :image "",
    :description ""}
   {:name "Galleri CC",
@@ -2718,7 +2718,7 @@
    :latitude 55.5952354,
    :source :openstreetmap,
    :homepage "https://gallericc.se/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Galleri Cora Hillebrand",
@@ -2726,7 +2726,7 @@
    :latitude 57.7002409,
    :source :openstreetmap,
    :homepage "https://remfabriken.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Galleri Duerr",
@@ -2791,7 +2791,7 @@
    :longitude 15.6210944,
    :latitude 58.4102167,
    :source :openstreetmap,
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Galleri Imma",
@@ -2806,7 +2806,7 @@
    :latitude 57.9212951,
    :source :openstreetmap,
    :homepage "https://astol.se/roda-stugan/",
-   :locality "Åstol",
+   :location "Åstol",
    :image "",
    :description ""}
   {:name "Galleri Kontrast",
@@ -2827,7 +2827,7 @@
    :longitude 16.1872128,
    :latitude 58.5916653,
    :source :openstreetmap,
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :description ""}
   {:name "Galleri Källan Skanör",
@@ -2887,7 +2887,7 @@
    :longitude 16.6520488,
    :latitude 56.8788804,
    :source :openstreetmap,
-   :locality "Borgholm",
+   :location "Borgholm",
    :image "",
    :description ""}
   {:name "Galleri OSs",
@@ -2895,7 +2895,7 @@
    :latitude 63.8275305,
    :source :openstreetmap,
    :homepage "https://gallerioss.se/",
-   :locality "Umeå",
+   :location "Umeå",
    :image "",
    :description ""}
   {:name "Galleri pi",
@@ -2928,7 +2928,7 @@
    :latitude 58.4093555,
    :source :openstreetmap,
    :homepage "https://gallerisander.se/linkoping/",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Galleri Scandinavia",
@@ -2967,7 +2967,7 @@
    :longitude 14.8892587,
    :latitude 58.4486079,
    :source :openstreetmap,
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :description ""}
   {:name "Galleri Zest",
@@ -3014,7 +3014,7 @@
    :longitude 15.9855644,
    :latitude 58.4679571,
    :source :openstreetmap,
-   :locality "Norsholm",
+   :location "Norsholm",
    :image "",
    :description ""}
   {:name "Gallery Aveny",
@@ -3022,7 +3022,7 @@
    :latitude 57.6932069,
    :source :openstreetmap,
    :homepage "https://www.galleriaveny.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Gallery M1",
@@ -3049,7 +3049,7 @@
    :latitude 57.3556797,
    :source :openstreetmap,
    :homepage "https://bankgarden.se/",
-   :locality "Vrigstad",
+   :location "Vrigstad",
    :image "",
    :description ""}
   {:name "Gamla Bruket",
@@ -3081,14 +3081,14 @@
    :latitude 60.1748451,
    :source :openstreetmap,
    :homepage "https://www.skargardsmuseet.org/",
-   :locality "Gimo",
+   :location "Gimo",
    :image "",
    :description ""}
   {:name "Gamla skolan",
    :longitude 18.1718745,
    :latitude 60.1748451,
    :source :openstreetmap,
-   :locality "Gimo",
+   :location "Gimo",
    :image "",
    :description ""}
   {:name "Gamla stans krukmakeri",
@@ -3103,7 +3103,7 @@
    :latitude 59.8977665,
    :source :openstreetmap,
    :homepage "https://www.upplandsmuseet.se/gamla-uppsala-museum/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Gamlegård Hembygdsmuseum",
@@ -3117,7 +3117,7 @@
    :latitude 60.8946631,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/rattvik/",
-   :locality "Rättvik",
+   :location "Rättvik",
    :image "",
    :description ""}
   {:name "Gammelgården",
@@ -3145,7 +3145,7 @@
    :latitude 60.8946631,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/rattvik/",
-   :locality "Rättvik",
+   :location "Rättvik",
    :image "",
    :description ""}
   {:name "Gammelgårdens Friluftsmuseum",
@@ -3204,7 +3204,7 @@
    :latitude 57.6985833,
    :source :openstreetmap,
    :homepage "https://www.gathenhielmska.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Ge-Hå:s Konst",
@@ -3232,7 +3232,7 @@
    :latitude 60.4841572,
    :source :openstreetmap,
    :homepage "http://www.geologiskamuseet.se",
-   :locality "Borlänge",
+   :location "Borlänge",
    :image "",
    :description ""}
   {:name "Geologiskt museum",
@@ -3272,7 +3272,7 @@
    :latitude 57.5355428,
    :source :openstreetmap,
    :homepage "https://glasetshuslimmared.se/",
-   :locality "Limmared",
+   :location "Limmared",
    :image
    "https://commons.wikimedia.org/wiki/Special:FilePath/%3ALimmareds+glasmuseum.jpg",
    :description ""}
@@ -3319,14 +3319,14 @@
    :latitude 57.734775,
    :source :openstreetmap,
    :homepage "https://www.gotlandsforsvarsmuseum.se/",
-   :locality "Tingstäde",
+   :location "Tingstäde",
    :image "",
    :description ""}
   {:name "Gotlands konstmuseum",
    :longitude 18.2936295,
    :latitude 57.6394241,
    :source :openstreetmap,
-   :locality "Visby",
+   :location "Visby",
    :image "",
    :description ""}
   {:name "Gotlands Lantbruksmuseum",
@@ -3340,21 +3340,21 @@
    :longitude 18.2924131,
    :latitude 57.6396406,
    :source :openstreetmap,
-   :locality "Visby",
+   :location "Visby",
    :image "",
    :description ""}
   {:name "Gottfrid Larsson Gården",
    :longitude 14.8966048,
    :latitude 58.4478993,
    :source :openstreetmap,
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :description ""}
   {:name "Grafiska museet",
    :longitude 12.7094958,
    :latitude 56.0581009,
    :source :openstreetmap,
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :description ""}
   {:name "Grafiska sällskapet",
@@ -3374,7 +3374,7 @@
    :longitude 17.6361376,
    :latitude 59.8567036,
    :source :openstreetmap,
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Granviks museum",
@@ -3394,7 +3394,7 @@
    :latitude 58.0218981,
    :source :openstreetmap,
    :homepage "https://www.grennamuseum.se/",
-   :locality "Gränna",
+   :location "Gränna",
    :image "",
    :description ""}
   {:name "Gripsholms Slott",
@@ -3489,7 +3489,7 @@
    :longitude 14.5481554,
    :latitude 59.3329104,
    :source :openstreetmap,
-   :locality "Karlskoga",
+   :location "Karlskoga",
    :image "",
    :description ""}
   {:name "Grönwallska gården",
@@ -3530,7 +3530,7 @@
    :latitude 59.8579424,
    :source :openstreetmap,
    :homepage "https://www.gustavianum.uu.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Gustavsbergs Konsthall",
@@ -3565,7 +3565,7 @@
    :latitude 59.3456692,
    :source :openstreetmap,
    :homepage "https://gyttja.se/",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Gäddede hembygdsgård",
@@ -3579,7 +3579,7 @@
    :latitude 67.1341524,
    :source :openstreetmap,
    :homepage "http://www.gellivare.se/Kommun/Kultur/Gallivare-museum/",
-   :locality "Gällivare",
+   :location "Gällivare",
    :image "",
    :description ""}
   {:name "Gällö hembygdsmuseum",
@@ -3600,7 +3600,7 @@
    :longitude 14.9078501,
    :latitude 56.9437027,
    :source :openstreetmap,
-   :locality "Växjö",
+   :location "Växjö",
    :image "",
    :description ""}
   {:name "Göhestra hembygdsgård",
@@ -3621,7 +3621,7 @@
    :latitude 57.6941708,
    :source :openstreetmap,
    :homepage "https://goteborgskonstforening.org/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Göteborgs konsthall",
@@ -3629,7 +3629,7 @@
    :latitude 57.6964939,
    :source :openstreetmap,
    :homepage "http://www.konsthallen.goteborg.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Göteborgs konstmuseum",
@@ -3644,7 +3644,7 @@
    :latitude 57.6898887,
    :source :openstreetmap,
    :homepage "https://www.gnm.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Göteborgs remfabrik",
@@ -3659,7 +3659,7 @@
    :latitude 57.7100122,
    :source :openstreetmap,
    :homepage "https://www.ringlinien.org/sv/museum/besoek-museet/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Göteborgs stadsmuseum",
@@ -3688,7 +3688,7 @@
    :latitude 60.5451549,
    :source :openstreetmap,
    :homepage "https://www.hagasciencecenter.se/",
-   :locality "Hofors",
+   :location "Hofors",
    :image "",
    :description ""}
   {:name "Hallands Konstmuseum",
@@ -3696,7 +3696,7 @@
    :latitude 56.6808063,
    :source :openstreetmap,
    :homepage "https://hallandskonstmuseum.se/",
-   :locality "Halmstad",
+   :location "Halmstad",
    :image "",
    :description ""}
   {:name "Hallands kulturhistoriska museum",
@@ -3704,7 +3704,7 @@
    :latitude 57.1059794,
    :source :openstreetmap,
    :homepage "https://museumhalland.se/varbergs-fastning/",
-   :locality "Varberg",
+   :location "Varberg",
    :image "",
    :description ""}
   {:name "Hallandsgården",
@@ -3718,7 +3718,7 @@
    :latitude 59.3332771,
    :source :openstreetmap,
    :homepage "https://hallwylskamuseet.se/",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Halmstads konsthall",
@@ -3727,7 +3727,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.halmstad.se/upplevaochgora/kultur/konst/halmstadskonsthall",
-   :locality "Halmstad",
+   :location "Halmstad",
    :image "",
    :description ""}
   {:name "Hammarede skogsmiljö",
@@ -3780,7 +3780,7 @@
    :latitude 59.2388051,
    :source :openstreetmap,
    :homepage "https://subtopia.se/om-subtopia.php?id2=119",
-   :locality "Norsborg",
+   :location "Norsborg",
    :image "",
    :description ""}
   {:name "Hangaren – Centrum För Urbankonst",
@@ -3882,7 +3882,7 @@
    :longitude 12.7001423,
    :latitude 56.041331,
    :source :openstreetmap,
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :description ""}
   {:name "Helsingborgs medicinhistoriska museum",
@@ -3890,7 +3890,7 @@
    :latitude 56.0479225,
    :source :openstreetmap,
    :homepage "https://hmhf.se/",
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :description ""}
   {:name "Helsingborgs skolmuseum",
@@ -3905,7 +3905,7 @@
    :latitude 57.6986316,
    :source :openstreetmap,
    :homepage "https://goteborgsstadsmuseum.se/besok-oss/hem-i-haga/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Hembygdsgård",
@@ -3957,7 +3957,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hembygd.se/vaxholms-hembygdsforening/museet/",
-   :locality "Vaxholm",
+   :location "Vaxholm",
    :image "",
    :description ""}
   {:name "Hembygdsgården",
@@ -4003,14 +4003,14 @@
    :latitude 55.6369361,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/bara-harad",
-   :locality "Arlöv",
+   :location "Arlöv",
    :image "",
    :description ""}
   {:name "Hembygdsmuseet i Östgöta-Dal",
    :longitude 14.6972173,
    :latitude 58.3937798,
    :source :openstreetmap,
-   :locality "Borghamn",
+   :location "Borghamn",
    :image "",
    :description ""}
   {:name "Hembygdsmuseet ”Sladdstycket”",
@@ -4024,14 +4024,14 @@
    :latitude 57.6176311,
    :source :openstreetmap,
    :homepage "https://www.hembygdarvidsjaur.se/",
-   :locality "Styrsö",
+   :location "Styrsö",
    :image "",
    :description ""}
   {:name "Hembygdsmuseum",
    :longitude 11.5819129,
    :latitude 57.8875259,
    :source :openstreetmap,
-   :locality "Marstrand",
+   :location "Marstrand",
    :image "",
    :description ""}
   {:name "Hembygdsmuseum",
@@ -4075,7 +4075,7 @@
    :longitude 11.7812289,
    :latitude 57.6176311,
    :source :openstreetmap,
-   :locality "Styrsö",
+   :location "Styrsö",
    :image "",
    :description ""}
   {:name "Hembygdsmuseum Bella Vista",
@@ -4133,14 +4133,14 @@
    :latitude 57.7943107,
    :source :openstreetmap,
    :homepage "http://hilleforsgrynkvarn.se",
-   :locality "Stenkullen",
+   :location "Stenkullen",
    :image "",
    :description ""}
   {:name "Himmelsberga Hembakt",
    :longitude 16.0917945,
    :latitude 59.4283829,
    :source :openstreetmap,
-   :locality "Kungsör",
+   :location "Kungsör",
    :image "",
    :description ""}
   {:name "Hindströmsgården",
@@ -4161,7 +4161,7 @@
    :latitude 59.3348465,
    :source :openstreetmap,
    :homepage "https://www.historiska.se",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Hjalmar Bergmans museum",
@@ -4181,7 +4181,7 @@
    :latitude 57.6235183,
    :source :openstreetmap,
    :homepage "https://veteranmoped.se/",
-   :locality "Hjorted",
+   :location "Hjorted",
    :image "",
    :description ""}
   {:name "Holens gammelgård",
@@ -4189,7 +4189,7 @@
    :latitude 60.8190355,
    :source :openstreetmap,
    :homepage "https://www.valkommentilltallberg.se/holen/",
-   :locality "Tällberg",
+   :location "Tällberg",
    :image "",
    :description ""}
   {:name "Holgers traktormuseum",
@@ -4216,7 +4216,7 @@
    :longitude 12.469563,
    :latitude 58.9955277,
    :source :openstreetmap,
-   :locality "Fengersfors",
+   :location "Fengersfors",
    :image "",
    :description ""}
   {:name "Honey Gallery",
@@ -4271,7 +4271,7 @@
    :longitude 17.9929397,
    :latitude 59.2308892,
    :source :openstreetmap,
-   :locality "Huddinge",
+   :location "Huddinge",
    :image "",
    :description ""}
   {:name "Husqvarna Fabriksmuseum",
@@ -4285,7 +4285,7 @@
    :longitude 16.4253246,
    :latitude 64.2585248,
    :source :openstreetmap,
-   :locality "Dorotea",
+   :location "Dorotea",
    :image "",
    :description ""}
   {:name "Hvens kulturhus",
@@ -4320,7 +4320,7 @@
    :latitude 58.1224671,
    :source :openstreetmap,
    :homepage "https://morlanda.org",
-   :locality "Hälleviksstrand",
+   :location "Hälleviksstrand",
    :image "",
    :description ""}
   {:name "Hällristningsmuséet",
@@ -4334,7 +4334,7 @@
    :latitude 61.7279662,
    :source :openstreetmap,
    :homepage "https://halsinglandsmuseum.se/",
-   :locality "Hudiksvall",
+   :location "Hudiksvall",
    :image "",
    :description ""}
   {:name "Hängengården",
@@ -4354,7 +4354,7 @@
    :latitude 62.5483979,
    :source :openstreetmap,
    :homepage "https://www.fjallmuseet.se/",
-   :locality "Funäsdalen",
+   :location "Funäsdalen",
    :image "",
    :description ""}
   {:name "Härledgården",
@@ -4412,7 +4412,7 @@
    :latitude 55.7059959,
    :source :openstreetmap,
    :homepage "https://www.kulturen.com/vara-besoksmal/hokeriet/",
-   :locality "Lund",
+   :location "Lund",
    :image
    "http://www.kulturen.com/wp-content/uploads/2011/11/H%C3%B6keriet.jpg",
    :description ""}
@@ -4487,7 +4487,7 @@
    :latitude 59.2931974,
    :source :openstreetmap,
    :homepage "https://www.importhallen.se/",
-   :locality "Årsta",
+   :location "Årsta",
    :image "",
    :description ""}
   {:name "Indals Hembygdsförening",
@@ -4500,7 +4500,7 @@
    :longitude 14.1118748,
    :latitude 57.7000836,
    :source :openstreetmap,
-   :locality "Norrahammar",
+   :location "Norrahammar",
    :image "",
    :description ""}
   {:name "Industrimuseum",
@@ -4535,7 +4535,7 @@
    :latitude 56.3635428,
    :source :openstreetmap,
    :homepage "http://jagsmuseum.se/",
-   :locality "Degerhamn",
+   :location "Degerhamn",
    :image "",
    :description ""}
   {:name "Jaktmuseum",
@@ -4549,7 +4549,7 @@
    :latitude 63.1871345,
    :source :openstreetmap,
    :homepage "https://www.jamtli.com/",
-   :locality "Östersund",
+   :location "Östersund",
    :image "",
    :description ""}
   {:name "Jamtli Historieland",
@@ -4570,7 +4570,7 @@
    :longitude 17.1499212,
    :latitude 60.6721724,
    :source :openstreetmap,
-   :locality "Gävle",
+   :location "Gävle",
    :image "",
    :description ""}
   {:name "Johannamuseet",
@@ -4578,7 +4578,7 @@
    :latitude 55.5000984,
    :source :openstreetmap,
    :homepage "https://johannamuseet.se/",
-   :locality "Skurup",
+   :location "Skurup",
    :image "",
    :description ""}
   {:name "Judiska muséet",
@@ -4605,7 +4605,7 @@
    :longitude 17.9149579,
    :latitude 60.1167792,
    :source :openstreetmap,
-   :locality "Alunda",
+   :location "Alunda",
    :image "",
    :description ""}
   {:name "Julita Gård",
@@ -4627,14 +4627,14 @@
    :latitude 55.5933541,
    :source :openstreetmap,
    :homepage "https://www.juntamalmo.se/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Jämshögs Hembygdsmuseum",
    :longitude 14.5314333,
    :latitude 56.2364815,
    :source :openstreetmap,
-   :locality "Jämshög",
+   :location "Jämshög",
    :image "",
    :description ""}
   {:name "Jämtlands läns museum",
@@ -4661,7 +4661,7 @@
    :latitude 56.2428163,
    :source :openstreetmap,
    :homepage "http://www.engelholm.se/jarnvagsmuseum/",
-   :locality "Ängelholm",
+   :location "Ängelholm",
    :image "",
    :description ""}
   {:name "Järnvägsmuseum",
@@ -4696,14 +4696,14 @@
    :source :openstreetmap,
    :homepage
    "http://www.ronneby.se/sv/uppleva-gora/kultur/museer/gjuteri-och-emaljmuseet/",
-   :locality "Kallinge",
+   :location "Kallinge",
    :image "",
    :description ""}
   {:name "Kallvattenkuren",
    :longitude 15.2856973,
    :latitude 56.1988949,
    :source :openstreetmap,
-   :locality "Ronneby",
+   :location "Ronneby",
    :image "",
    :description ""}
   {:name "Kalmar läns museum",
@@ -4711,7 +4711,7 @@
    :latitude 56.6643971,
    :source :openstreetmap,
    :homepage "https://www.kalmarlansmuseum.se/",
-   :locality "Kalmar",
+   :location "Kalmar",
    :image "",
    :description ""}
   {:name "Kalsta Hembygdsgård",
@@ -4724,7 +4724,7 @@
    :longitude 14.5255029,
    :latitude 56.2652528,
    :source :openstreetmap,
-   :locality "Olofström",
+   :location "Olofström",
    :image "",
    :description ""}
   {:name "Kanalmuseum",
@@ -4750,7 +4750,7 @@
    :latitude 58.8217863,
    :source :openstreetmap,
    :homepage "https://www.kanalmuseet.se/",
-   :locality "Håverud",
+   :location "Håverud",
    :image "",
    :description ""}
   {:name "Kanongården",
@@ -4796,7 +4796,7 @@
    :latitude 56.1738286,
    :source :openstreetmap,
    :homepage "http://www.karlshamnskonstforening.se/",
-   :locality "Karlshamn",
+   :location "Karlshamn",
    :image "",
    :description ""}
   {:name "Karlshamns museum",
@@ -4804,7 +4804,7 @@
    :latitude 56.1738926,
    :source :openstreetmap,
    :homepage "https://karlshamnsmuseum.se/",
-   :locality "Karlshamn",
+   :location "Karlshamn",
    :image "",
    :description ""}
   {:name "Karlskrona Bilmuseum",
@@ -4812,7 +4812,7 @@
    :latitude 56.1624159,
    :source :openstreetmap,
    :homepage "https://www.fabas.se/vara-museer/",
-   :locality "Karlskrona",
+   :location "Karlskrona",
    :image "",
    :description ""}
   {:name "Karlskrona konsthall",
@@ -4827,7 +4827,7 @@
    :latitude 56.1624448,
    :source :openstreetmap,
    :homepage "https://www.fabas.se/vara-museer/",
-   :locality "Karlskrona",
+   :location "Karlskrona",
    :image "",
    :description ""}
   {:name "Kata gård",
@@ -4846,7 +4846,7 @@
    :longitude 13.1522543,
    :latitude 56.6099083,
    :source :openstreetmap,
-   :locality "Laholm",
+   :location "Laholm",
    :image "",
    :description ""}
   {:name "KIKAIN",
@@ -4860,7 +4860,7 @@
    :latitude 55.6155184,
    :source :openstreetmap,
    :homepage "https://kipi.se",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Kipi Konsthall",
@@ -4868,7 +4868,7 @@
    :latitude 55.6155616,
    :source :openstreetmap,
    :homepage "https://kipi.se",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Kiviks Museum",
@@ -4908,7 +4908,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sollentuna.se/uppleva--gora/konst-kultur-och-sevardheter/kulturhistoria-kulturarv/Klasro-skolmuseum/",
-   :locality "Sollentuna",
+   :location "Sollentuna",
    :image "",
    :description ""}
   {:name "Klensmedjan",
@@ -4954,7 +4954,7 @@
    :latitude 57.948989,
    :source :openstreetmap,
    :homepage "https://kladesholmen.com/att-gora/museum/",
-   :locality "Klädesholmen",
+   :location "Klädesholmen",
    :image "",
    :description ""}
   {:name "Knall",
@@ -4967,7 +4967,7 @@
    :longitude 18.18495,
    :latitude 60.1787975,
    :source :openstreetmap,
-   :locality "Gimo",
+   :location "Gimo",
    :image "",
    :description ""}
   {:name "Kollingen Studio",
@@ -4989,7 +4989,7 @@
    :latitude 55.4575622,
    :source :openstreetmap,
    :homepage "https://annagreta.se/wp/",
-   :locality "Glemmingebro",
+   :location "Glemmingebro",
    :image "",
    :description ""}
   {:name "Konst i Karlstad",
@@ -5016,14 +5016,14 @@
    :latitude 59.3287664,
    :source :openstreetmap,
    :homepage "https://konstakademien.se/",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Konstateljé",
    :longitude 16.5946715,
    :latitude 60.7281786,
    :source :openstreetmap,
-   :locality "Järbo",
+   :location "Järbo",
    :image "",
    :description ""}
   {:name "Konstcentrum",
@@ -5061,28 +5061,28 @@
    :longitude 18.0781786,
    :latitude 59.2536729,
    :source :openstreetmap,
-   :locality "Farsta",
+   :location "Farsta",
    :image "",
    :description ""}
   {:name "Konsthallen",
    :longitude 17.9373987,
    :latitude 62.6320346,
    :source :openstreetmap,
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Konsthallen",
    :longitude 16.7798641,
    :latitude 60.6205711,
    :source :openstreetmap,
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Konsthallen Längan",
    :longitude 14.5250201,
    :latitude 56.2660571,
    :source :openstreetmap,
-   :locality "Olofström",
+   :location "Olofström",
    :image "",
    :description ""}
   {:name "Konsthallen Trollhättan",
@@ -5108,7 +5108,7 @@
    :longitude 14.5299554,
    :latitude 56.2797628,
    :source :openstreetmap,
-   :locality "Olofström",
+   :location "Olofström",
    :image "",
    :description ""}
   {:name "Konstjord",
@@ -5122,7 +5122,7 @@
    :latitude 61.2076246,
    :source :openstreetmap,
    :homepage "https://www.konstkraftljusne.se/",
-   :locality "Ljusne",
+   :location "Ljusne",
    :image "",
    :description ""}
   {:name "Konstmuseet",
@@ -5136,7 +5136,7 @@
    :latitude 55.5589186,
    :source :openstreetmap,
    :homepage "https://www.gostawerner.se/",
-   :locality "Simrishamn",
+   :location "Simrishamn",
    :image "",
    :description ""}
   {:name "Konstnärsgården",
@@ -5163,7 +5163,7 @@
    :longitude 16.2906354,
    :latitude 60.5528133,
    :source :openstreetmap,
-   :locality "Hofors",
+   :location "Hofors",
    :image "",
    :description ""}
   {:name "Korså Bymuséum",
@@ -5190,7 +5190,7 @@
    :latitude 56.1946651,
    :source :openstreetmap,
    :homepage "https://kreativum.se/",
-   :locality "Karlshamn",
+   :location "Karlshamn",
    :image "",
    :description ""}
   {:name "Kretseum",
@@ -5205,7 +5205,7 @@
    :latitude 56.0217293,
    :source :openstreetmap,
    :homepage "https://www.regionmuseet.se/jarnvagsmuseet.htm",
-   :locality "Kristianstad",
+   :location "Kristianstad",
    :image "",
    :description ""}
   {:name "Kristianstads konsthall",
@@ -5221,7 +5221,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hembygd.se/kristinehamns-och-varnums-hembygdsf-rening",
-   :locality "Kristinehamn",
+   :location "Kristinehamn",
    :image "",
    :description ""}
   {:name "Kristinehamns historiska museum",
@@ -5242,7 +5242,7 @@
    :latitude 58.4100274,
    :source :openstreetmap,
    :homepage "http://krogenamerika.com",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Krognoshuset",
@@ -5250,7 +5250,7 @@
    :latitude 55.7020138,
    :source :openstreetmap,
    :homepage "https://www.krognoshuset.se",
-   :locality "Lund",
+   :location "Lund",
    :image "",
    :description ""}
   {:name "Kronobergs lantbruksmuseum",
@@ -5283,7 +5283,7 @@
    :latitude 56.3013119,
    :source :openstreetmap,
    :homepage "https://www.kullabergsnatur.se/",
-   :locality "Mölle",
+   :location "Mölle",
    :image "",
    :description ""}
   {:name "Kulls Vingård",
@@ -5317,7 +5317,7 @@
    :longitude 14.5263872,
    :latitude 56.2775486,
    :source :openstreetmap,
-   :locality "Olofström",
+   :location "Olofström",
    :image "",
    :description ""}
   {:name "Kulturhuset Fyren",
@@ -5350,7 +5350,7 @@
    :latitude 61.9528157,
    :source :openstreetmap,
    :homepage "http://www.kulturkossan.se",
-   :locality "Bjuråker",
+   :location "Bjuråker",
    :image "",
    :description ""}
   {:name "Kulturkvarteret Hallarna",
@@ -5358,14 +5358,14 @@
    :latitude 58.5935043,
    :source :openstreetmap,
    :homepage "https://www.kulturkvarterethallarna.se/",
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :description ""}
   {:name "Kulturmagasinet",
    :longitude 12.7088282,
    :latitude 56.057875,
    :source :openstreetmap,
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :description ""}
   {:name "Kulturpunkten",
@@ -5416,7 +5416,7 @@
    :latitude 59.4816949,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/stockholms-nas",
-   :locality "Kungsängen",
+   :location "Kungsängen",
    :image "",
    :description ""}
   {:name "Kurortsmuseum",
@@ -5435,7 +5435,7 @@
    :longitude 16.5370492,
    :latitude 60.5909757,
    :source :openstreetmap,
-   :locality "Storvik",
+   :location "Storvik",
    :image "",
    :description ""}
   {:name "Kvarnen",
@@ -5462,7 +5462,7 @@
    :latitude 59.3485171,
    :source :openstreetmap,
    :homepage "https://kvarnvikensmuseum.se/",
-   :locality "Bromma",
+   :location "Bromma",
    :image "",
    :description ""}
   {:name "Kvekgården",
@@ -5488,7 +5488,7 @@
    :longitude 14.5909542,
    :latitude 56.352827,
    :source :openstreetmap,
-   :locality "Kyrkhult",
+   :location "Kyrkhult",
    :image "",
    :description ""}
   {:name "Kyrkstallarna",
@@ -5572,7 +5572,7 @@
    :longitude 12.8287895,
    :latitude 55.8706919,
    :source :openstreetmap,
-   :locality "Landskrona",
+   :location "Landskrona",
    :image "",
    :description ""}
   {:name "Landsorts museum",
@@ -5614,7 +5614,7 @@
    :latitude 56.3792557,
    :source :openstreetmap,
    :homepage "https://www.lekoseum.se/",
-   :locality "Osby",
+   :location "Osby",
    :image "",
    :description ""}
   {:name "Leksaksmuseet",
@@ -5641,7 +5641,7 @@
    :latitude 59.9779052,
    :source :openstreetmap,
    :homepage "http://www.lesjoforsmuseum.com",
-   :locality "Lesjöfors",
+   :location "Lesjöfors",
    :image "",
    :description ""}
   {:name "Lessebo Hembygdsmuseum",
@@ -5655,7 +5655,7 @@
    :latitude 59.3667052,
    :source :openstreetmap,
    :homepage "http://www.lidingohembygd.se/museet.html",
-   :locality "Lidingö",
+   :location "Lidingö",
    :image "",
    :description ""}
   {:name "Liljevalchs konsthall",
@@ -5676,7 +5676,7 @@
    :latitude 57.0806453,
    :source :openstreetmap,
    :homepage "https://lillabjorka.se/",
-   :locality "Lammhult",
+   :location "Lammhult",
    :image "",
    :description ""}
   {:name "lilla galleriet",
@@ -5703,7 +5703,7 @@
    :source :openstreetmap,
    :homepage
    "http://goteborgsstadsmuseum.se/besok-museet/lilla-anggaden",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Lillhersby Hembygdsgård",
@@ -5712,7 +5712,7 @@
    :source :openstreetmap,
    :homepage
    "https://sollentunahembygd.se/hersby-hembygdsgard/hersby-hembygdsgard/",
-   :locality "Sollentuna",
+   :location "Sollentuna",
    :image "",
    :description ""}
   {:name "Limhamns museum",
@@ -5733,7 +5733,7 @@
    :latitude 58.5774953,
    :source :openstreetmap,
    :homepage "https://www.bohuslin.se/",
-   :locality "Fjällbacka",
+   :location "Fjällbacka",
    :image "",
    :description ""}
   {:name "Linnémuseet",
@@ -5741,7 +5741,7 @@
    :latitude 59.8616412,
    :source :openstreetmap,
    :homepage "https://www.linnaeus.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Linnés bröllopsstuga",
@@ -5776,7 +5776,7 @@
    :source :openstreetmap,
    :homepage
    "https://solvesborg.se/uppleva-och-gora/turism-att-besoka-solvesborg/sevardheter/listers-harads-tingshus.html",
-   :locality "Sölvesborg",
+   :location "Sölvesborg",
    :image "",
    :description ""}
   {:name "Litografiska museet",
@@ -5784,7 +5784,7 @@
    :latitude 59.2005685,
    :source :openstreetmap,
    :homepage "https://www.litografiskamuseet.se/om-sundby-gard/",
-   :locality "Huddinge",
+   :location "Huddinge",
    :image "",
    :description ""}
   {:name "Livets museum",
@@ -5806,7 +5806,7 @@
    :latitude 56.830071,
    :source :openstreetmap,
    :homepage "https://www.ljungbergmuseet.se/",
-   :locality "Ljungby",
+   :location "Ljungby",
    :image "",
    :description ""}
   {:name "Ljungby Bibliotek Konsthall",
@@ -5827,7 +5827,7 @@
    :latitude 56.6328712,
    :source :openstreetmap,
    :homepage "https://ljungbyhembygd.se/sockenmagasin.html",
-   :locality "Ljungbyholm",
+   :location "Ljungbyholm",
    :image "",
    :description ""}
   {:name "Ljungbyheds Militärhistoriska Museum",
@@ -5835,7 +5835,7 @@
    :latitude 56.079049,
    :source :openstreetmap,
    :homepage "http://www.lmhm.se/",
-   :locality "Ljungbyhed",
+   :location "Ljungbyhed",
    :image "",
    :description ""}
   {:name "Ljurhalla Fabriken",
@@ -5896,7 +5896,7 @@
    :longitude 13.077,
    :latitude 61.69391,
    :source :openstreetmap,
-   :locality "Särna",
+   :location "Särna",
    :image "",
    :description ""}
   {:name "Longest Night",
@@ -5923,7 +5923,7 @@
    :latitude 60.4029964,
    :source :openstreetmap,
    :homepage "http://www.lundgrens.nu",
-   :locality "Gustafs",
+   :location "Gustafs",
    :image "",
    :description ""}
   {:name "Lunds by",
@@ -5937,7 +5937,7 @@
    :latitude 55.7022065,
    :source :openstreetmap,
    :homepage "https://lundskonsthall.se/",
-   :locality "Lund",
+   :location "Lund",
    :image "",
    :description ""}
   {:name "Luntertunstugan",
@@ -5968,7 +5968,7 @@
    :longitude 17.5295146,
    :latitude 59.8484382,
    :source :openstreetmap,
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Läder- och Lokalhistoriskt Museum",
@@ -5996,7 +5996,7 @@
    :latitude 60.673784,
    :source :openstreetmap,
    :homepage "https://lansmuseetgavleborg.se/",
-   :locality "Gävle",
+   :location "Gävle",
    :image "",
    :description ""}
   {:name "Långban gruv-och kulturby",
@@ -6024,7 +6024,7 @@
    :latitude 58.2928937,
    :source :openstreetmap,
    :homepage "www.lofwings.se",
-   :locality "Broddetorp",
+   :location "Broddetorp",
    :image "",
    :description ""}
   {:name "Lövstabruks kulturförening",
@@ -6032,7 +6032,7 @@
    :latitude 60.4046782,
    :source :openstreetmap,
    :homepage "https://leufstakultur.se/",
-   :locality "Lövstabruk",
+   :location "Lövstabruk",
    :image "",
    :description ""}
   {:name "Madesjö Kyrkstallar Hembygdsmuseum",
@@ -6046,7 +6046,7 @@
    :latitude 55.391901,
    :source :openstreetmap,
    :homepage "https://magasinetfalun.se/",
-   :locality "Falun",
+   :location "Falun",
    :image "",
    :description ""}
   {:name "Malexanders hembygdsgård",
@@ -6066,7 +6066,7 @@
    :latitude 55.6047507,
    :source :openstreetmap,
    :homepage "https://malmo.se/museer",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Malöga kassaregård mangårdsbyggnad",
@@ -6105,7 +6105,7 @@
    :longitude 17.6387193,
    :latitude 59.1825264,
    :source :openstreetmap,
-   :locality "Södertälje",
+   :location "Södertälje",
    :image "",
    :description ""}
   {:name "Maria Vulfovitch Gallery",
@@ -6113,7 +6113,7 @@
    :latitude 59.3473799,
    :source :openstreetmap,
    :homepage "https://www.mariavulfovitchgallery.com",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Mariestads Industrimuseum",
@@ -6135,7 +6135,7 @@
    :latitude 57.7094385,
    :source :openstreetmap,
    :homepage "https://www.maritiman.se",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Marmorbrukets museum",
@@ -6160,7 +6160,7 @@
    :longitude 15.2763485,
    :latitude 56.2127232,
    :source :openstreetmap,
-   :locality "Ronneby",
+   :location "Ronneby",
    :image "",
    :description ""}
   {:name "MC Collection",
@@ -6181,7 +6181,7 @@
    :latitude 57.6815014,
    :source :openstreetmap,
    :homepage "https://www.medborgarskolan.se",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Medelhavsmuseet",
@@ -6196,7 +6196,7 @@
    :latitude 59.8292868,
    :source :openstreetmap,
    :homepage "https://www.medicinhistoriskamuseet.uu.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Medicinhistoriska museet",
@@ -6212,14 +6212,14 @@
    :latitude 59.8292868,
    :source :openstreetmap,
    :homepage "https://www.medicinhistoriskamuseet.uu.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Mellanskånes Hemvärnsmuseum",
    :longitude 13.3214269,
    :latitude 55.8503089,
    :source :openstreetmap,
-   :locality "Eslöv",
+   :location "Eslöv",
    :image "",
    :description ""}
   {:name "Melleruds Museum & Släktforskningsarkiv",
@@ -6232,7 +6232,7 @@
    :longitude 15.711709,
    :latitude 60.342132,
    :source :openstreetmap,
-   :locality "Säter",
+   :location "Säter",
    :image "",
    :description ""}
   {:name "Mermaid",
@@ -6259,7 +6259,7 @@
    :latitude 56.8282581,
    :source :openstreetmap,
    :homepage "https://www.minivarlden.se/",
-   :locality "Ljungby",
+   :location "Ljungby",
    :image "",
    :description ""}
   {:name "Minnenas bod",
@@ -6267,7 +6267,7 @@
    :latitude 57.9262712,
    :source :openstreetmap,
    :homepage "https://www.dyron.se/se-gora/minnenas-bod/",
-   :locality "Dyrön",
+   :location "Dyrön",
    :image "",
    :description ""}
   {:name "Minnenas Museum",
@@ -6282,7 +6282,7 @@
    :latitude 60.8890829,
    :source :openstreetmap,
    :homepage "https://minnesmaskinen.se/",
-   :locality "Rättvik",
+   :location "Rättvik",
    :image "",
    :description ""}
   {:name "Misterhult Hembygdsgård",
@@ -6303,14 +6303,14 @@
    :latitude 56.678971,
    :source :openstreetmap,
    :homepage "http://www.mjellbykonstmuseum.se/",
-   :locality "Halmstad",
+   :location "Halmstad",
    :image "",
    :description ""}
   {:name "Modelladan",
    :longitude 15.2886102,
    :latitude 56.2423498,
    :source :openstreetmap,
-   :locality "Kallinge",
+   :location "Kallinge",
    :image "",
    :description ""}
   {:name "Modellboden, arbetslivsmuseum",
@@ -6324,7 +6324,7 @@
    :latitude 60.0465671,
    :source :openstreetmap,
    :homepage "https://www.modelljarnvagenshus.se/",
-   :locality "Alunda",
+   :location "Alunda",
    :image "",
    :description ""}
   {:name "Modellkammaren",
@@ -6339,7 +6339,7 @@
    :latitude 55.6046324,
    :source :openstreetmap,
    :homepage "https://www.modernamuseet.se/malmo/sv/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "MoDo museum",
@@ -6367,7 +6367,7 @@
    :latitude 55.5953937,
    :source :openstreetmap,
    :homepage "https://molekylgallery.com/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Molekylverkstan",
@@ -6375,7 +6375,7 @@
    :latitude 58.0660543,
    :source :openstreetmap,
    :homepage "https://www.molekylverkstan.se/",
-   :locality "Stenungsund",
+   :location "Stenungsund",
    :image "",
    :description ""}
   {:name "Monica Zetterlund Museet",
@@ -6390,7 +6390,7 @@
    :latitude 55.5897772,
    :source :openstreetmap,
    :homepage "https://monopolyfanclub.com/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Moped MC museum",
@@ -6411,7 +6411,7 @@
    :latitude 59.6343104,
    :source :openstreetmap,
    :homepage "http://uppleveda.se/mosstakan",
-   :locality "Koppom",
+   :location "Koppom",
    :image "",
    :description ""}
   {:name "Mot strömmen",
@@ -6444,7 +6444,7 @@
    :latitude 60.0635002,
    :source :openstreetmap,
    :homepage "https://www.motornostalgimuseum.com/",
-   :locality "Grängesberg",
+   :location "Grängesberg",
    :image "",
    :description ""}
   {:name "Motorcycle Museum",
@@ -6464,7 +6464,7 @@
    :longitude 14.5627615,
    :latitude 56.3101441,
    :source :openstreetmap,
-   :locality "Olofström",
+   :location "Olofström",
    :image "",
    :description ""}
   {:name "Movikens masugn",
@@ -6478,7 +6478,7 @@
    :latitude 60.4526368,
    :source :openstreetmap,
    :homepage "https://www.brukshistoriska.se/",
-   :locality "Långshyttan",
+   :location "Långshyttan",
    :image "",
    :description ""}
   {:name "Munktellmuseet",
@@ -6486,7 +6486,7 @@
    :latitude 59.3764927,
    :source :openstreetmap,
    :homepage "https://munktellmuseet.com/",
-   :locality "Eskilstuna",
+   :location "Eskilstuna",
    :image "",
    :description ""}
   {:name "Murbergets fiskeläge",
@@ -6520,7 +6520,7 @@
    :longitude 14.1607207,
    :latitude 59.7122741,
    :source :openstreetmap,
-   :locality "Filipstad",
+   :location "Filipstad",
    :image "",
    :description ""}
   {:name "Museet Stora Karlsö",
@@ -6564,7 +6564,7 @@
    :latitude 59.1329386,
    :source :openstreetmap,
    :homepage "https://www.muma.se/",
-   :locality "Malmköping",
+   :location "Malmköping",
    :image "",
    :description ""}
   {:name "Museum de Vries",
@@ -6578,7 +6578,7 @@
    :latitude 56.1167447,
    :source :openstreetmap,
    :homepage "http://www.ka2.se/",
-   :locality "Drottningskär",
+   :location "Drottningskär",
    :image "",
    :description ""}
   {:name "Museum Lars Jonsson",
@@ -6613,14 +6613,14 @@
    :latitude 59.3400834,
    :source :openstreetmap,
    :homepage "https://musikochteaterbiblioteket.se/",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Muséet Gamla Kosta",
    :longitude 15.3968635,
    :latitude 56.8501633,
    :source :openstreetmap,
-   :locality "Kosta",
+   :location "Kosta",
    :image "",
    :description ""}
   {:name "Myntmuseet",
@@ -6686,7 +6686,7 @@
    :longitude 15.2767823,
    :latitude 56.2125379,
    :source :openstreetmap,
-   :locality "Ronneby",
+   :location "Ronneby",
    :image "",
    :description ""}
   {:name "Möllegården kultur",
@@ -6699,7 +6699,7 @@
    :longitude 14.7685403,
    :latitude 56.2669585,
    :source :openstreetmap,
-   :locality "Svängsta",
+   :location "Svängsta",
    :image "",
    :description ""}
   {:name "Mölltorps museum",
@@ -6851,14 +6851,14 @@
    :latitude 63.1482805,
    :source :openstreetmap,
    :homepage "https://naturumvaladalen.se/",
-   :locality "Vålådalen",
+   :location "Vålådalen",
    :image "",
    :description ""}
   {:name "NAVET",
    :longitude 12.9368814,
    :latitude 57.7243334,
    :source :openstreetmap,
-   :locality "Borås",
+   :location "Borås",
    :image "",
    :description ""}
   {:name "Newport Gallery",
@@ -6907,7 +6907,7 @@
    :latitude 57.9881083,
    :source :openstreetmap,
    :homepage "https://www.akvarellmuseet.org",
-   :locality "Skärhamn",
+   :location "Skärhamn",
    :image "",
    :description ""}
   {:name "Nordiska museet",
@@ -6952,7 +6952,7 @@
    :latitude 65.5965954,
    :source :openstreetmap,
    :homepage "https://www.nbjvm.se/",
-   :locality "Luleå",
+   :location "Luleå",
    :image "",
    :description ""}
   {:name "Norrbottens museum",
@@ -6960,7 +6960,7 @@
    :latitude 65.5821322,
    :source :openstreetmap,
    :homepage "http://www.nll.se",
-   :locality "Luleå",
+   :location "Luleå",
    :image "",
    :description ""}
   {:name "Norrbys",
@@ -6980,7 +6980,7 @@
    :latitude 58.5828998,
    :source :openstreetmap,
    :homepage "https://www.norrkopingskonstmuseum.se/",
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :description ""}
   {:name "Norrköpings spårvägsmuseum",
@@ -7006,7 +7006,7 @@
    :longitude 17.1404285,
    :latitude 60.9266995,
    :source :openstreetmap,
-   :locality "Norrsundet",
+   :location "Norrsundet",
    :image "",
    :description ""}
   {:name "Norrtälje Luftvärnsmuseum",
@@ -7014,14 +7014,14 @@
    :latitude 59.7473195,
    :source :openstreetmap,
    :homepage "http://www.lv3.se/mus/",
-   :locality "Norrtälje",
+   :location "Norrtälje",
    :image "",
    :description ""}
   {:name "Norrö Tingshus",
    :longitude 18.2648432,
    :latitude 59.4981409,
    :source :openstreetmap,
-   :locality "Åkersberga",
+   :location "Åkersberga",
    :image "",
    :description ""}
   {:name "Norsjö skidlöparmuseum",
@@ -7035,7 +7035,7 @@
    :latitude 59.4714467,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/babsansfik",
-   :locality "Fellingsbro",
+   :location "Fellingsbro",
    :image "",
    :description ""}
   {:name "Nostalgicafé the 50’s",
@@ -7084,7 +7084,7 @@
    :latitude 67.8469817,
    :source :openstreetmap,
    :homepage "https://nutti.se/",
-   :locality "Jukkasjärvi",
+   :location "Jukkasjärvi",
    :image "",
    :description ""}
   {:name "Nya Gården",
@@ -7105,7 +7105,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hembygdhuddinge.se/museer/nyboda-skolmuseeum/",
-   :locality "Huddinge",
+   :location "Huddinge",
    :image "",
    :description ""}
   {:name "Nybyggarland",
@@ -7113,14 +7113,14 @@
    :latitude 60.0936435,
    :source :openstreetmap,
    :homepage "https://www.nybyggarland.se/",
-   :locality "Tärnsjö",
+   :location "Tärnsjö",
    :image "",
    :description ""}
   {:name "Nynäshamns bildarkiv",
    :longitude 17.946184,
    :latitude 58.9022005,
    :source :openstreetmap,
-   :locality "Nynäshamn",
+   :location "Nynäshamn",
    :image "",
    :description ""}
   {:name "Nynäshamns järnvägsmuseum",
@@ -7141,7 +7141,7 @@
    :latitude 56.129989,
    :source :openstreetmap,
    :homepage "https://nyvangsgruva.se/",
-   :locality "Nyvång",
+   :location "Nyvång",
    :image "",
    :description ""}
   {:name "Näktergalen",
@@ -7168,7 +7168,7 @@
    :latitude 57.6496178,
    :source :openstreetmap,
    :homepage "http://www.lokstallet.se/",
-   :locality "Nässjö",
+   :location "Nässjö",
    :image "",
    :description ""}
   {:name "Nättraby Vägmuseum",
@@ -7208,7 +7208,7 @@
    :latitude 59.3610244,
    :source :openstreetmap,
    :homepage "https://www.solna.se/olleolssonmuseet",
-   :locality "Solna",
+   :location "Solna",
    :image "",
    :description ""}
   {:name "Olofsfors Bruk",
@@ -7216,14 +7216,14 @@
    :latitude 63.5815903,
    :source :openstreetmap,
    :homepage "https://olofsforsbruk.nu/",
-   :locality "Nordmaling",
+   :location "Nordmaling",
    :image "",
    :description ""}
   {:name "Olofströms hembygdsmuseum",
    :longitude 14.5243117,
    :latitude 56.2667026,
    :source :openstreetmap,
-   :locality "Olofström",
+   :location "Olofström",
    :image "",
    :description ""}
   {:name "Opalen - Rimbo kulturscen",
@@ -7282,7 +7282,7 @@
    :latitude 55.5827535,
    :source :openstreetmap,
    :homepage "http://www.oomuseet.se/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Ottilia Adelborgmuseet",
@@ -7309,7 +7309,7 @@
    :latitude 58.4102612,
    :source :openstreetmap,
    :homepage "https://www.linkoping.se/passagen",
-   :locality "Linköping",
+   :location "Linköping",
    :image "",
    :description ""}
   {:name "Paul Jönska gården",
@@ -7317,7 +7317,7 @@
    :latitude 56.1437641,
    :source :openstreetmap,
    :homepage "https://vikensbyaforening.se/paul-jonska-garden/",
-   :locality "Viken",
+   :location "Viken",
    :image "",
    :description ""}
   {:name "Pellasgården",
@@ -7338,14 +7338,14 @@
    :latitude 55.5732506,
    :source :openstreetmap,
    :homepage "https://www.peralbinhuset.se/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Per-Jansgården",
    :longitude 17.095292,
    :latitude 61.7038867,
    :source :openstreetmap,
-   :locality "Hudiksvall",
+   :location "Hudiksvall",
    :image "",
    :description ""}
   {:name "Pers Mekaniska kabinett",
@@ -7378,7 +7378,7 @@
    :latitude 62.3898435,
    :source :openstreetmap,
    :homepage "https://pipelinesundsvall.se/",
-   :locality "Sundsvall",
+   :location "Sundsvall",
    :image "",
    :description ""}
   {:name "Piratenmuseet",
@@ -7475,7 +7475,7 @@
    :longitude 17.6511451,
    :latitude 59.8292984,
    :source :openstreetmap,
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Psykiatrins arbetsplatsmuseum",
@@ -7489,7 +7489,7 @@
    :latitude 59.8545704,
    :source :openstreetmap,
    :homepage "https://www.uppsalavatten.se/pumphuset",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Pumphuset",
@@ -7503,14 +7503,14 @@
    :latitude 59.8545704,
    :source :openstreetmap,
    :homepage "https://www.uppsalavatten.se/pumphuset",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Punschmuseet",
    :longitude 14.8581902,
    :latitude 56.1738209,
    :source :openstreetmap,
-   :locality "Karlshamn",
+   :location "Karlshamn",
    :image "",
    :description ""}
   {:name "Pythagoras Industrimuseum",
@@ -7518,7 +7518,7 @@
    :latitude 59.7556567,
    :source :openstreetmap,
    :homepage "https://pythagorasmuseum.se/",
-   :locality "Norrtälje",
+   :location "Norrtälje",
    :image "",
    :description ""}
   {:name "Rackstadmuseet",
@@ -7545,7 +7545,7 @@
    :latitude 57.7087442,
    :source :openstreetmap,
    :homepage "https://radiomuseet.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image
    "https://commons.wikimedia.org/wiki/Special:FilePath/%3ARadiomuseetGbg01.jpg",
    :description ""}
@@ -7554,7 +7554,7 @@
    :latitude 56.6790456,
    :source :openstreetmap,
    :homepage "https://radiomuseum.se/",
-   :locality "Skruv",
+   :location "Skruv",
    :image "",
    :description ""}
   {:name "Ragunda hembygdsgård",
@@ -7600,7 +7600,7 @@
    :latitude 56.4472577,
    :source :openstreetmap,
    :homepage "https://www.ravinenkultur.se/",
-   :locality "Båstad",
+   :location "Båstad",
    :image "",
    :description ""}
   {:name "REDAN Galleri",
@@ -7608,7 +7608,7 @@
    :latitude 55.6010691,
    :source :openstreetmap,
    :homepage "https://www.redangalleri.se/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Redvägs Jernvägsmuseum",
@@ -7636,7 +7636,7 @@
    :latitude 57.9622252,
    :source :openstreetmap,
    :homepage "http://www.repslagarbanan.se",
-   :locality "Älvängen",
+   :location "Älvängen",
    :image "",
    :description ""}
   {:name "Repslageriet",
@@ -7693,7 +7693,7 @@
    :longitude 15.2506703,
    :latitude 56.1781694,
    :source :openstreetmap,
-   :locality "Ronneby",
+   :location "Ronneby",
    :image "",
    :description ""}
   {:name "Rogberga Hembygdsgård",
@@ -7722,7 +7722,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.ronneby.se/sv/uppleva-gora/kultur/kultur-och-aktivitetshus/kulturcentrum/",
-   :locality "Ronneby",
+   :location "Ronneby",
    :image "",
    :description ""}
   {:name "Rosenlöfs tryckerimuseum",
@@ -7730,7 +7730,7 @@
    :latitude 60.6017312,
    :source :openstreetmap,
    :homepage "https://www.rosenlofsvanner.se/",
-   :locality "Kungsgården",
+   :location "Kungsgården",
    :image "",
    :description ""}
   {:name "Roslagens Sjöfartsmuseum",
@@ -7745,7 +7745,7 @@
    :latitude 59.7549509,
    :source :openstreetmap,
    :homepage "https://www.roslagsmuseet.se/",
-   :locality "Norrtälje",
+   :location "Norrtälje",
    :image "",
    :description ""}
   {:name "Rostugnen",
@@ -7792,7 +7792,7 @@
    :latitude 58.4723313,
    :source :openstreetmap,
    :homepage "https://www.rydenskahuset.se",
-   :locality "Lundsbrunn",
+   :location "Lundsbrunn",
    :image "",
    :description ""}
   {:name "Ryggåsstugan",
@@ -7845,7 +7845,7 @@
    :latitude 55.9934292,
    :source :openstreetmap,
    :homepage "http://raamuseum.se/",
-   :locality "Råå",
+   :location "Råå",
    :image "",
    :description ""}
   {:name "Röda Sten Konsthall",
@@ -7853,7 +7853,7 @@
    :latitude 57.689173,
    :source :openstreetmap,
    :homepage "http://www.rodasten.com/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Rödbergsfortet",
@@ -7868,14 +7868,14 @@
    :latitude 57.699984,
    :source :openstreetmap,
    :homepage "https://rohsska.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Rörstrand Museum",
    :longitude 13.1587213,
    :latitude 58.5071385,
    :source :openstreetmap,
-   :locality "Lidköping",
+   :location "Lidköping",
    :image "",
    :description ""}
   {:name "Röstånga Konsthall",
@@ -7922,7 +7922,7 @@
    :latitude 56.8335321,
    :source :openstreetmap,
    :homepage "https://www.sagobygden.se/",
-   :locality "Ljungby",
+   :location "Ljungby",
    :image "",
    :description ""}
   {:name "Sala Silvergruva",
@@ -7975,7 +7975,7 @@
    :latitude 59.38463,
    :source :openstreetmap,
    :homepage "https://sandgrund.org/",
-   :locality "Karlstad",
+   :location "Karlstad",
    :image "",
    :description ""}
   {:name "Sandslåns flottarmuseum",
@@ -8000,7 +8000,7 @@
    :longitude 15.2350733,
    :latitude 56.1644766,
    :source :openstreetmap,
-   :locality "Ronneby",
+   :location "Ronneby",
    :image "",
    :description ""}
   {:name "Scenkonstmuseet",
@@ -8008,7 +8008,7 @@
    :latitude 59.3337201,
    :source :openstreetmap,
    :homepage "https://scenkonstmuseet.se/",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Selma Lagerlöfs Mårbacka",
@@ -8062,7 +8062,7 @@
    :latitude 55.5948429,
    :source :openstreetmap,
    :homepage "http://www.signalsignal.org/",
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Sigrid Storråda",
@@ -8078,7 +8078,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sigtuna.se/kultur-och-fritid/kultur/sigtuna-museum--art.html",
-   :locality "Sigtuna",
+   :location "Sigtuna",
    :image "",
    :description ""}
   {:name "Sigtuna rådhus",
@@ -8150,7 +8150,7 @@
    :latitude 60.8984089,
    :source :openstreetmap,
    :homepage "https://www.restaurangsixten.se/",
-   :locality "Lima",
+   :location "Lima",
    :image "",
    :description ""}
   {:name "Själevads Hembygdsgård",
@@ -8165,7 +8165,7 @@
    :latitude 57.6991738,
    :source :openstreetmap,
    :homepage "https://www.sjofartsmuseetakvariet.se/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image
    "https://commons.wikimedia.org/wiki/Special:FilePath/Sj%C3%B6fartsmuseet+Akvariet+01+exterior+February+2023.jpg",
    :description ""}
@@ -8174,7 +8174,7 @@
    :latitude 56.1658341,
    :source :openstreetmap,
    :homepage "http://www.sjofartsmuseum.se/",
-   :locality "Karlshamn",
+   :location "Karlshamn",
    :image "",
    :description ""}
   {:name "Sjöfartsmuseum",
@@ -8288,7 +8288,7 @@
    :latitude 60.8153771,
    :source :openstreetmap,
    :homepage "https://oje.se",
-   :locality "Öje",
+   :location "Öje",
    :image "",
    :description ""}
   {:name "Skissernas museum",
@@ -8296,7 +8296,7 @@
    :latitude 55.7078035,
    :source :openstreetmap,
    :homepage "https://skissernasmuseum.se/",
-   :locality "Lund",
+   :location "Lund",
    :image "",
    :description ""}
   {:name "Skogen",
@@ -8304,7 +8304,7 @@
    :latitude 57.6977611,
    :source :openstreetmap,
    :homepage "https://www.skogen.pm/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Skogsmuseet",
@@ -8342,7 +8342,7 @@
    :longitude 13.0164636,
    :latitude 55.7612774,
    :source :openstreetmap,
-   :locality "Löddeköpinge",
+   :location "Löddeköpinge",
    :image "",
    :description ""}
   {:name "Skolmuseet i Svartbäcken",
@@ -8379,7 +8379,7 @@
    :longitude 14.8973094,
    :latitude 58.4480785,
    :source :openstreetmap,
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :description ""}
   {:name "Skorpeds Hembygdsgård",
@@ -8393,7 +8393,7 @@
    :longitude 14.8588505,
    :latitude 56.1744338,
    :source :openstreetmap,
-   :locality "Karlshamn",
+   :location "Karlshamn",
    :image "",
    :description ""}
   {:name "Skottvångs Gruvmuseum",
@@ -8418,7 +8418,7 @@
    :longitude 14.8965288,
    :latitude 58.4476827,
    :source :openstreetmap,
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :description ""}
   {:name "Skultuna messingsbruk",
@@ -8471,7 +8471,7 @@
    :latitude 59.2930018,
    :source :openstreetmap,
    :homepage "https://www.skargardsmuseet.org/",
-   :locality "Stavsnäs",
+   :location "Stavsnäs",
    :image "",
    :description ""}
   {:name "Skärhamns sjöfartsmuseum",
@@ -8479,7 +8479,7 @@
    :latitude 57.9900907,
    :source :openstreetmap,
    :homepage "https://www.deseglade.se",
-   :locality "Skärhamn",
+   :location "Skärhamn",
    :image "",
    :description ""}
   {:name "Skånela hembygdsgård och museeum",
@@ -8533,7 +8533,7 @@
    :latitude 60.8092796,
    :source :openstreetmap,
    :homepage "https://oje.se",
-   :locality "Öje",
+   :location "Öje",
    :image "",
    :description ""}
   {:name "Smedsbostaden",
@@ -8541,7 +8541,7 @@
    :latitude 60.4107942,
    :source :openstreetmap,
    :homepage "https://www.leufstabygden.se/verksamhet/smedsbostaden/",
-   :locality "Lövstabruk",
+   :location "Lövstabruk",
    :image "",
    :description ""}
   {:name "Smedsbygget",
@@ -8554,7 +8554,7 @@
    :longitude 16.7799617,
    :latitude 60.6168011,
    :source :openstreetmap,
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Smedsta skolmuseum",
@@ -8594,7 +8594,7 @@
    :latitude 59.1062649,
    :source :openstreetmap,
    :homepage "https://www.juneskattsamling.se",
-   :locality "Tungelsta",
+   :location "Tungelsta",
    :image "",
    :description ""}
   {:name "Soldattorp",
@@ -8692,7 +8692,7 @@
    :latitude 55.6037459,
    :source :openstreetmap,
    :homepage "https://www.spelenshus.se/",
-   :locality "Malmö",
+   :location "Malmö",
    :image
    "https://www.spelenshus.se/wp-content/uploads/2020/01/cropped-Spelenshus.png",
    :description ""}
@@ -8734,7 +8734,7 @@
    :latitude 55.8395868,
    :source :openstreetmap,
    :homepage "https://www.eslovsleksaksmuseum.se/",
-   :locality "Eslöv",
+   :location "Eslöv",
    :image "",
    :description ""}
   {:name "Stadsmuséet Ahlbergshallen",
@@ -8787,7 +8787,7 @@
    :longitude 16.654068,
    :latitude 56.8796349,
    :source :openstreetmap,
-   :locality "Borgholm",
+   :location "Borgholm",
    :image "",
    :description ""}
   {:name "Stenhuggarmuseum",
@@ -8819,7 +8819,7 @@
    :longitude 11.8170129,
    :latitude 58.0664422,
    :source :openstreetmap,
-   :locality "Stenungsund",
+   :location "Stenungsund",
    :image "",
    :description ""}
   {:name "Stenåldersbåten",
@@ -8840,7 +8840,7 @@
    :latitude 56.3944295,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/stigsmuseum/",
-   :locality "Lönsboda",
+   :location "Lönsboda",
    :image "",
    :description ""}
   {:name "Stjernfors herrgård",
@@ -8874,7 +8874,7 @@
    :latitude 58.4515763,
    :source :openstreetmap,
    :homepage "https://www.sanctabirgitta.com/underniva/klostermusum/",
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :description ""}
   {:name "Stora Hyttnäs",
@@ -8925,7 +8925,7 @@
    :longitude 21.4640012,
    :latitude 65.3286187,
    :source :openstreetmap,
-   :locality "Piteå",
+   :location "Piteå",
    :image "",
    :description ""}
   {:name "Studio Bantorget",
@@ -8946,7 +8946,7 @@
    :longitude 12.9382568,
    :latitude 55.5894354,
    :source :openstreetmap,
-   :locality "Malmö",
+   :location "Malmö",
    :image "",
    :description ""}
   {:name "Studio42",
@@ -8965,7 +8965,7 @@
    :longitude 16.1833079,
    :latitude 58.5900262,
    :source :openstreetmap,
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :description ""}
   {:name "Sundbybergs museum",
@@ -9053,7 +9053,7 @@
    :latitude 56.8214373,
    :source :openstreetmap,
    :homepage "https://www.svedinos.se",
-   :locality "Ugglarp",
+   :location "Ugglarp",
    :image "",
    :description ""}
   {:name "Sven-Harrys konstmuseum",
@@ -9148,7 +9148,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.tjorn.se/kultur-fritid-och-turism/turism-och-sevardheter/sabygarden",
-   :locality "Kållekärr",
+   :location "Kållekärr",
    :image "",
    :description ""}
   {:name "Säldebråten Fornminnesgård",
@@ -9181,7 +9181,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitdalarna.se/en/do/attractions/sagmyra-homestead-museum",
-   :locality "Sågmyra",
+   :location "Sågmyra",
    :image "",
    :description ""}
   {:name "Såguddens hembygdsgård",
@@ -9215,7 +9215,7 @@
    :latitude 61.2696511,
    :source :openstreetmap,
    :homepage "https://www.soderhamnflygmuseum.se/",
-   :locality "Söderhamn",
+   :location "Söderhamn",
    :image "",
    :description ""}
   {:name "Söderhamns museum",
@@ -9224,7 +9224,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitsoderhamn.se/boka/se-gora/a909080/s%C3%B6derhamns-stadsmuseum/detaljer",
-   :locality "Söderhamn",
+   :location "Söderhamn",
    :image "",
    :description ""}
   {:name "Söderhällgården",
@@ -9244,14 +9244,14 @@
    :longitude 14.587778,
    :latitude 56.0512162,
    :source :openstreetmap,
-   :locality "Sölvesborg",
+   :location "Sölvesborg",
    :image "",
    :description ""}
   {:name "Sölvesborgs museum",
    :longitude 14.5882281,
    :latitude 56.0514611,
    :source :openstreetmap,
-   :locality "Sölvesborg",
+   :location "Sölvesborg",
    :image "",
    :description ""}
   {:name "Sörmlands museum",
@@ -9285,14 +9285,14 @@
    :latitude 63.7673679,
    :source :openstreetmap,
    :homepage "http://www.nyaker.com/utstallning.htm",
-   :locality "NYÅKER",
+   :location "NYÅKER",
    :image "",
    :description ""}
   {:name "Tallbo – Ecke Hedbergs konstnärshem",
    :longitude 16.538638,
    :latitude 60.7599065,
    :source :openstreetmap,
-   :locality "Järbo",
+   :location "Järbo",
    :image "",
    :description ""}
   {:name "Talldungen",
@@ -9350,7 +9350,7 @@
    :longitude 12.7194151,
    :latitude 56.0748412,
    :source :openstreetmap,
-   :locality "Helsingborg",
+   :location "Helsingborg",
    :image "",
    :description ""}
   {:name "Teknikens hus",
@@ -9391,7 +9391,7 @@
    :latitude 59.2658781,
    :source :openstreetmap,
    :homepage "https://www.orebro.se/5977.html",
-   :locality "Örebro",
+   :location "Örebro",
    :image "",
    :description ""}
   {:name "Tekniska museet",
@@ -9509,7 +9509,7 @@
    :latitude 57.4594478,
    :source :openstreetmap,
    :homepage "http://tjuls.se/Jarnvagsmus/start-j.htm",
-   :locality "Gotlands Tofta",
+   :location "Gotlands Tofta",
    :image "",
    :description ""}
   {:name "Tjörnedalagården Baskemölla",
@@ -9686,7 +9686,7 @@
    :latitude 60.4961162,
    :source :openstreetmap,
    :homepage "https://tunahembygd.se/",
-   :locality "Borlänge",
+   :location "Borlänge",
    :image "",
    :description ""}
   {:name "Tycho Brahe museum",
@@ -9752,7 +9752,7 @@
    :latitude 58.7348329,
    :source :openstreetmap,
    :homepage "http://www.rockartscandinavia.com/",
-   :locality "Tanumshede",
+   :location "Tanumshede",
    :image "",
    :description ""}
   {:name "Uniformsmuseet",
@@ -9767,7 +9767,7 @@
    :latitude 59.8588982,
    :source :openstreetmap,
    :homepage "https://www.upplandsmuseet.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Upplevelse Museet",
@@ -9775,7 +9775,7 @@
    :latitude 59.2921606,
    :source :openstreetmap,
    :homepage "https://upplevelsemuseet.se/",
-   :locality "Johanneshov",
+   :location "Johanneshov",
    :image "",
    :description ""}
   {:name "Uppsala domkyrkas skattkammare",
@@ -9783,7 +9783,7 @@
    :latitude 59.8582373,
    :source :openstreetmap,
    :homepage "https://www.svenskakyrkan.se/uppsala/skattkammaren",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Uppsala konstmuseum",
@@ -9806,7 +9806,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.uu.se/gustavianum/om-museet/vara-samlingar/myntkabinettet",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Uppåkra Arkeologiska Center",
@@ -9838,7 +9838,7 @@
    :latitude 56.8756042,
    :source :openstreetmap,
    :homepage "https://www.kulturparkensmaland.se/1.0.1.0/14/1/",
-   :locality "Växjö",
+   :location "Växjö",
    :image "",
    :description ""}
   {:name "Vadsbo Museum",
@@ -9864,7 +9864,7 @@
    :latitude 58.44764,
    :source :openstreetmap,
    :homepage "https://www.vadstenastadsmuseum.se",
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :description ""}
   {:name "Vaggeryds Museum",
@@ -9877,7 +9877,7 @@
    :longitude 16.8116281,
    :latitude 60.6701565,
    :source :openstreetmap,
-   :locality "Sandviken",
+   :location "Sandviken",
    :image "",
    :description ""}
   {:name "Vagnsmuseum",
@@ -9891,14 +9891,14 @@
    :latitude 57.1656095,
    :source :openstreetmap,
    :homepage "https://vandalorum.se",
-   :locality "Värnamo",
+   :location "Värnamo",
    :image "",
    :description ""}
   {:name "Vannslätten",
    :longitude 15.100422,
    :latitude 56.3966296,
    :source :openstreetmap,
-   :locality "Hallabro",
+   :location "Hallabro",
    :image "",
    :description ""}
   {:name "Vantörs konstförening",
@@ -9912,7 +9912,7 @@
    :latitude 59.8530164,
    :source :openstreetmap,
    :homepage "https://vasaborgen.se/",
-   :locality "Uppsala",
+   :location "Uppsala",
    :image "",
    :description ""}
   {:name "Vasaloppets Hus",
@@ -9920,7 +9920,7 @@
    :latitude 61.0076605,
    :source :openstreetmap,
    :homepage "www.vasaloppet.se",
-   :locality "Mora",
+   :location "Mora",
    :image "",
    :description ""}
   {:name "Vasamuseet",
@@ -9941,7 +9941,7 @@
    :latitude 59.4028807,
    :source :openstreetmap,
    :homepage "https://www.vaxholmsfastning.se/",
-   :locality "Vaxholm",
+   :location "Vaxholm",
    :image "",
    :description ""}
   {:name "Vemdalens hembygdsgård",
@@ -10001,7 +10001,7 @@
    :latitude 58.2682991,
    :source :openstreetmap,
    :homepage "www.vikarvet.se",
-   :locality "Lysekil",
+   :location "Lysekil",
    :image "",
    :description ""}
   {:name "Vikens Sjöfartsmuseum",
@@ -10009,7 +10009,7 @@
    :latitude 56.1426671,
    :source :openstreetmap,
    :homepage "https://vikensbyaforening.se/vikens-sjofartsmuseum/",
-   :locality "Viken",
+   :location "Viken",
    :image "",
    :description ""}
   {:name "Vikingabyn Storholmen",
@@ -10024,7 +10024,7 @@
    :latitude 59.5084012,
    :source :openstreetmap,
    :homepage "https://www.upplandsvasby.se/gunnes",
-   :locality "Upplands Väsby",
+   :location "Upplands Väsby",
    :image "",
    :description ""}
   {:name "Vikingaliv",
@@ -10059,7 +10059,7 @@
    :longitude 18.704624,
    :latitude 59.3601406,
    :source :openstreetmap,
-   :locality "Djurhamn",
+   :location "Djurhamn",
    :image "",
    :description ""}
   {:name "Vinnsäter Skolmuseum",
@@ -10072,14 +10072,14 @@
    :longitude 20.3606531,
    :latitude 63.7106082,
    :source :openstreetmap,
-   :locality "Holmsund",
+   :location "Holmsund",
    :image "",
    :description ""}
   {:name "Virserums Konsthall",
    :longitude 15.5921885,
    :latitude 57.3169084,
    :source :openstreetmap,
-   :locality "Virserum",
+   :location "Virserum",
    :image "",
    :description ""}
   {:name "Visby Bilmuseum",
@@ -10098,7 +10098,7 @@
    :longitude 16.1774782,
    :latitude 58.5891277,
    :source :openstreetmap,
-   :locality "Norrköping",
+   :location "Norrköping",
    :image "",
    :description ""}
   {:name "Vita Huset",
@@ -10106,7 +10106,7 @@
    :latitude 68.4416433,
    :source :openstreetmap,
    :homepage "https://www.karesuando.se/",
-   :locality "Karesuando",
+   :location "Karesuando",
    :image "",
    :description ""}
   {:name "Vitlycke Museum",
@@ -10158,7 +10158,7 @@
    :latitude 58.5111229,
    :source :openstreetmap,
    :homepage "https://www.vanermuseet.se/",
-   :locality "Lidköping",
+   :location "Lidköping",
    :image "",
    :description ""}
   {:name "Vänersborgs Museum",
@@ -10172,7 +10172,7 @@
    :latitude 63.9085175,
    :source :openstreetmap,
    :homepage "https://www.vannasmotormuseum.se/",
-   :locality "Vännäs",
+   :location "Vännäs",
    :image "",
    :description ""}
   {:name "Världsarvet Grimeton, besökscentrum",
@@ -10192,7 +10192,7 @@
    :latitude 57.6946662,
    :source :openstreetmap,
    :homepage "https://www.varldskulturmuseerna.se/varldskulturmuseet/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Värmdö Hembygdsmuseum",
@@ -10225,7 +10225,7 @@
    :latitude 59.5257457,
    :source :openstreetmap,
    :homepage "https://www.vasbykonsthall.com/",
-   :locality "Upplands Väsby",
+   :location "Upplands Väsby",
    :image "",
    :description ""}
   {:name "Väsby Kungsgård",
@@ -10246,7 +10246,7 @@
    :latitude 63.8293759,
    :source :openstreetmap,
    :homepage "https://www.vbm.se/",
-   :locality "Umeå",
+   :location "Umeå",
    :image "",
    :description ""}
   {:name "Västergötlands museum",
@@ -10294,7 +10294,7 @@
    :latitude 59.6100088,
    :source :openstreetmap,
    :homepage "http://www.krlsg2.se/",
-   :locality "Västerås",
+   :location "Västerås",
    :image "",
    :description ""}
   {:name "Västerås Slott",
@@ -10320,7 +10320,7 @@
    :latitude 56.309214,
    :source :openstreetmap,
    :homepage "https://www.vavmuseum.se/",
-   :locality "Glimåkra",
+   :location "Glimåkra",
    :image "",
    :description ""}
   {:name "Växbo kvarn",
@@ -10357,7 +10357,7 @@
    :longitude 14.8962392,
    :latitude 58.4477837,
    :source :openstreetmap,
-   :locality "Vadstena",
+   :location "Vadstena",
    :image "",
    :description ""}
   {:name "Waldemarsudde",
@@ -10385,7 +10385,7 @@
    :latitude 59.3433128,
    :source :openstreetmap,
    :homepage "https://www.waygallerysthlm.com/",
-   :locality "Stockholm",
+   :location "Stockholm",
    :image "",
    :description ""}
   {:name "Welcome House",
@@ -10437,7 +10437,7 @@
    :latitude 57.6895138,
    :source :openstreetmap,
    :homepage "https://www.worldofvolvo.com/",
-   :locality "Göteborg",
+   :location "Göteborg",
    :image "",
    :description ""}
   {:name "Ystad Studios Visitor Center",
@@ -10456,7 +10456,7 @@
    :longitude 16.880992,
    :latitude 61.7362534,
    :source :openstreetmap,
-   :locality "Forsa",
+   :location "Forsa",
    :image "",
    :description ""}
   {:name "Zarah Leander museum",
@@ -10476,7 +10476,7 @@
    :latitude 61.0076028,
    :source :openstreetmap,
    :homepage "https://zorn.se/besok/zorngarden/",
-   :locality "Mora",
+   :location "Mora",
    :image "",
    :description ""}
   {:name "Zornmuseet",
@@ -10484,7 +10484,7 @@
    :latitude 61.0069958,
    :source :openstreetmap,
    :homepage "https://zorn.se/",
-   :locality "Mora",
+   :location "Mora",
    :image "",
    :description ""}
   {:name "Zorns Gammelgård",
@@ -10493,7 +10493,7 @@
    :source :openstreetmap,
    :homepage
    "https://zorn.se/besok/zorns-gammelgard-och-textilkammaren/",
-   :locality "Mora",
+   :location "Mora",
    :image "",
    :description ""}
   {:name "Ädelfors Gruvmuseum",
@@ -10569,7 +10569,7 @@
    :latitude 59.5581969,
    :source :openstreetmap,
    :homepage "https://www.abergsmuseum.se/",
-   :locality "Bålsta",
+   :location "Bålsta",
    :image "",
    :description ""}
   {:name "Ådalens Veteranbilmuseum",
@@ -10619,7 +10619,7 @@
    :longitude 12.6996178,
    :latitude 59.0430858,
    :source :openstreetmap,
-   :locality "Åmål",
+   :location "Åmål",
    :image "",
    :description ""}
   {:name "Ångkransbrottet",
@@ -10639,7 +10639,7 @@
    :longitude 16.7507561,
    :latitude 60.5269182,
    :source :openstreetmap,
-   :locality "Årsunda",
+   :location "Årsunda",
    :image "",
    :description ""}
   {:name "Åse Kalkmuseum",
@@ -10674,7 +10674,7 @@
    :latitude 57.9235237,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/astol",
-   :locality "Åstol",
+   :location "Åstol",
    :image "",
    :description ""}
   {:name "Åstradsgården",
@@ -10682,7 +10682,7 @@
    :latitude 55.645819,
    :source :openstreetmap,
    :homepage "https://www.hembygd.se/staffanstorp/page/24840",
-   :locality "Staffanstorp",
+   :location "Staffanstorp",
    :image "",
    :description ""}
   {:name "Åtvidabergs Bruks- och Facitmuseum",
@@ -10690,7 +10690,7 @@
    :latitude 58.1984923,
    :source :openstreetmap,
    :homepage "www.brukskultur.se",
-   :locality "Åtivdaberg",
+   :location "Åtivdaberg",
    :image "",
    :description ""}
   {:name "Öckerö hembygdsgård",
@@ -10723,7 +10723,7 @@
    :latitude 56.7391345,
    :source :openstreetmap,
    :homepage "https://olandsmuseum.com/",
-   :locality "Himmelsberga",
+   :location "Himmelsberga",
    :image "",
    :description ""}
   {:name "Ölmestadsmuséet",
@@ -10788,7 +10788,7 @@
    :longitude 17.8945428,
    :latitude 60.1911445,
    :source :openstreetmap,
-   :locality "Österbybruk",
+   :location "Österbybruk",
    :image "",
    :description ""}
   {:name "Östergötlands Järnvägsmuseum",
@@ -10815,7 +10815,7 @@
    :longitude 14.3477497,
    :latitude 55.5564072,
    :source :openstreetmap,
-   :locality "Simrishamn",
+   :location "Simrishamn",
    :image "",
    :description ""}
   {:name "Östervåla hembygdsgård",

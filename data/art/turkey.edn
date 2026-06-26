@@ -121,7 +121,7 @@
    :longitude 44.2837486,
    :latitude 37.5699009,
    :source :openstreetmap,
-   :locality "Yüksekova/Hakkari",
+   :location "Yüksekova/Hakkari",
    :image "",
    :description ""}
   {:name "Afrodisias Müze",
@@ -140,7 +140,7 @@
    :longitude 27.1384144,
    :latitude 38.4189676,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Ahlat Müzesi",
@@ -183,7 +183,7 @@
    :longitude 27.5275478,
    :latitude 39.65411,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Akdeniz Üniversitesi Konser Alanı",
@@ -282,7 +282,7 @@
    :longitude 26.8587345,
    :latitude 39.5909193,
    :source :openstreetmap,
-   :locality "Çamlıbel Mahallesi",
+   :location "Çamlıbel Mahallesi",
    :image "",
    :description ""}
   {:name "Alpman Sanat Galerisi",
@@ -295,7 +295,7 @@
    :longitude 27.1445734,
    :latitude 38.4343479,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Altunizade Kültür ve Sanat Merkezi",
@@ -304,7 +304,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.uskudar.bel.tr/tr/main/pages/altunizade-kultur-ve-sanat-merkezi/85",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Altınköy Açık Hava Müzesi",
@@ -312,7 +312,7 @@
    :latitude 39.9774874,
    :source :openstreetmap,
    :homepage "http://www.altinkoy.tc/",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Alva Arena",
@@ -327,7 +327,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?SectionId=AMR01&DistId=MRK",
-   :locality "Bartın",
+   :location "Bartın",
    :image "",
    :description ""}
   {:name "Ambarköy Açık Hava Müzesi",
@@ -359,7 +359,7 @@
    :latitude 39.9379522,
    :source :openstreetmap,
    :homepage "https://erimtanmuseum.org/tr",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Anadolu Üniversitesi Cumhuriyet Tarihi Müzesi",
@@ -388,14 +388,14 @@
    :latitude 36.8857689,
    :source :openstreetmap,
    :homepage "http://www.antalyamuzesi.gov.tr/",
-   :locality "Antalya",
+   :location "Antalya",
    :image "",
    :description ""}
   {:name "Antalya Nekropol Müzesi",
    :longitude 30.713305,
    :latitude 36.8871842,
    :source :openstreetmap,
-   :locality "Antalya",
+   :location "Antalya",
    :image "",
    :description ""}
   {:name "Antalya Oyuncak Müzesi",
@@ -428,7 +428,7 @@
    :longitude 28.8268158,
    :latitude 40.5195715,
    :source :openstreetmap,
-   :locality "YALOVA",
+   :location "YALOVA",
    :image "",
    :description ""}
   {:name "Ara Güler Müzesi",
@@ -447,7 +447,7 @@
    :longitude 29.2671576,
    :latitude 40.874353,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Arkas Art Center",
@@ -467,7 +467,7 @@
    :longitude 26.7953134,
    :latitude 38.3303746,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Arkeoloji Müzesi",
@@ -482,7 +482,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=DBA01",
-   :locality "Diyarbakır",
+   :location "Diyarbakır",
    :image "",
    :description ""}
   {:name "Arslantepe",
@@ -495,7 +495,7 @@
    :longitude 27.9732024,
    :latitude 40.357197,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Art Galerry",
@@ -573,7 +573,7 @@
    :longitude 31.9998233,
    :latitude 36.5490742,
    :source :openstreetmap,
-   :locality "Alanya/Antalya",
+   :location "Alanya/Antalya",
    :image "",
    :description ""}
   {:name "Atatürk Evi Müzesi",
@@ -604,7 +604,7 @@
    :longitude 27.5844819,
    :latitude 41.4358847,
    :source :openstreetmap,
-   :locality "Lüleburgaz",
+   :location "Lüleburgaz",
    :image "",
    :description ""}
   {:name "Atatürk Kültür ve Sanat Merkezi",
@@ -643,14 +643,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.etimesgut.bel.tr/merkez/hizmet-merkezlerimiz/ataturk-muzesi-ve-okuma-evi",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Atatürk Sanat Merkezi",
    :longitude 32.7669525,
    :latitude 39.9086642,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Atatürk ve Etnografya Müzesi",
@@ -677,7 +677,7 @@
    :latitude 40.9958266,
    :source :openstreetmap,
    :homepage "https://kultursanat.atasehir.bel.tr/mskm",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Atlantis Kültür Sanat",
@@ -685,7 +685,7 @@
    :latitude 37.8807848,
    :source :openstreetmap,
    :homepage "https://atlantiskultursanat.com",
-   :locality "Meram/Konya",
+   :location "Meram/Konya",
    :image "",
    :description ""}
   {:name "Atlas Sanat Galerisi",
@@ -705,7 +705,7 @@
    :longitude 27.9456125,
    :latitude 40.3426089,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Aydın Arkeoloji Müzesi",
@@ -714,7 +714,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.aydinkulturturizm.gov.tr/TR,64420/aydin-arkeoloji-muzesi.html",
-   :locality "Aydın",
+   :location "Aydın",
    :image "",
    :description ""}
   {:name "Ayvalık Anadolu Uygarlıkları Sergisi",
@@ -753,7 +753,7 @@
    :latitude 41.0826576,
    :source :openstreetmap,
    :homepage "https://muze.gen.tr/muze-detay/rumeli",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Bahçelievler Kültür Sarayı",
@@ -767,14 +767,14 @@
    :latitude 40.3857146,
    :source :openstreetmap,
    :homepage "https://baksi.org/",
-   :locality "Bayburt",
+   :location "Bayburt",
    :image "",
    :description ""}
   {:name "Balkan Savaşları Müzesi",
    :longitude 26.5757024,
    :latitude 41.6751407,
    :source :openstreetmap,
-   :locality "Edirne",
+   :location "Edirne",
    :image "",
    :description ""}
   {:name "Balıkesir Kuvâ-yi Milliye Müzesi",
@@ -788,7 +788,7 @@
    :longitude 27.9533627,
    :latitude 40.3471611,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Bandırma Bilim ve Sanat Merkezi",
@@ -796,14 +796,14 @@
    :latitude 40.3506986,
    :source :openstreetmap,
    :homepage "https://bandirmabilsem.meb.k12.tr",
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Bandırma Kültür Merkezi",
    :longitude 27.9551068,
    :latitude 40.3422499,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Bartın Kent Müzesi",
@@ -829,7 +829,7 @@
    :latitude 40.9817446,
    :source :openstreetmap,
    :homepage "https://barismanco.kadikoy.bel.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Barış Manço Kültür Merkezi",
@@ -844,7 +844,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=BAT01",
-   :locality "Batman",
+   :location "Batman",
    :image "",
    :description ""}
   {:name "Batı Cephesi Karargahı müzesi",
@@ -864,7 +864,7 @@
    :latitude 38.3863779,
    :source :openstreetmap,
    :homepage "https://bayrakmuzesi.deu.edu.tr",
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Bayındır Müzesi",
@@ -908,7 +908,7 @@
    :latitude 41.0099458,
    :source :openstreetmap,
    :homepage "https://muzeyum.istanbul.edu.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Beylerbeyi Sarayı",
@@ -917,7 +917,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.millisaraylar.gov.tr/en/saray-kosk-ve-kasirlar/beylerbeyi-sarayi",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Beylikbağı Kültür Sanat Merkezi",
@@ -942,7 +942,7 @@
    :longitude 41.1305465,
    :latitude 37.9027593,
    :source :openstreetmap,
-   :locality "Batman",
+   :location "Batman",
    :image "",
    :description ""}
   {:name "Bilim Üsküdar",
@@ -950,7 +950,7 @@
    :latitude 40.9974599,
    :source :openstreetmap,
    :homepage "https://www.bilimuskudar.org/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Binbirdirek Sarnıcı",
@@ -1030,7 +1030,7 @@
    :latitude 40.9567383,
    :source :openstreetmap,
    :homepage "https://bgmonline.net/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Bostanlı Açık Hava Müzesi",
@@ -1056,7 +1056,7 @@
    :latitude 41.0070276,
    :source :openstreetmap,
    :homepage "https://kultursanat.istanbul/mekanlarimiz/bulgur-palas",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Burdur Doga Tarihi Muzesi",
@@ -1101,7 +1101,7 @@
    :source :openstreetmap,
    :homepage
    "https://kultur.istanbul/ibb-bulent-ecevit-kultur-merkezi/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Büyük Mabeyn Köşkü",
@@ -1114,7 +1114,7 @@
    :longitude 27.5462618,
    :latitude 41.2987271,
    :source :openstreetmap,
-   :locality "Büyükkarıştıran",
+   :location "Büyükkarıştıran",
    :image "",
    :description ""}
   {:name "Cadde Sanat",
@@ -1129,7 +1129,7 @@
    :source :openstreetmap,
    :homepage
    "https://kultursanat.kadikoy.bel.tr/tr/kultur-merkezleri/caddebostan-kultur-merkezi",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Cahit Sıtkı Tarancı Müzesi",
@@ -1142,7 +1142,7 @@
    :longitude 29.1039692,
    :latitude 41.1385096,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Can Art Akademi",
@@ -1150,7 +1150,7 @@
    :latitude 40.9239709,
    :source :openstreetmap,
    :homepage "https://canartakademi.com/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Canik Kültür Merkezi",
@@ -1171,7 +1171,7 @@
    :latitude 39.9321052,
    :source :openstreetmap,
    :homepage "https://www.cermodern.org/",
-   :locality "Altındağ",
+   :location "Altındağ",
    :image "",
    :description ""}
   {:name "Chez Galip",
@@ -1209,7 +1209,7 @@
    :longitude 27.120452,
    :latitude 38.4095462,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Cumhuriyet Müzesi",
@@ -1217,7 +1217,7 @@
    :latitude 39.9413794,
    :source :openstreetmap,
    :homepage "http://cumhuriyetmuzesi.gov.tr/index.php",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Dalaman kültür merkezi",
@@ -1237,7 +1237,7 @@
    :latitude 40.9592658,
    :source :openstreetmap,
    :homepage "https://decollageartspace.com",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Deniz Müzesi",
@@ -1251,7 +1251,7 @@
    :latitude 36.5939393,
    :source :openstreetmap,
    :homepage "https://iskenderundenizmuzesi.dzkk.tsk.tr",
-   :locality "Hatay",
+   :location "Hatay",
    :image "",
    :description ""}
   {:name "Deniz Ticareti Tarihi Müzesi",
@@ -1259,7 +1259,7 @@
    :latitude 37.8635528,
    :source :openstreetmap,
    :homepage "https://dtm.org.tr/",
-   :locality "Aydın",
+   :location "Aydın",
    :image "",
    :description ""}
   {:name "Depo No.4",
@@ -1292,7 +1292,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kulturportali.gov.tr/turkiye/mardin/gezilecekyer/midyat-devlet-konukevi",
-   :locality "Mardin",
+   :location "Mardin",
    :image "",
    :description ""}
   {:name "Devlet Mezarlığı Müzesi",
@@ -1305,7 +1305,7 @@
    :longitude 37.381903,
    :latitude 37.064597,
    :source :openstreetmap,
-   :locality "Gaziantep",
+   :location "Gaziantep",
    :image "",
    :description ""}
   {:name "Devrim Arabaları Müzesi",
@@ -1365,7 +1365,7 @@
    :latitude 36.8640665,
    :source :openstreetmap,
    :homepage "www.dominartmusic.com",
-   :locality "Antalya",
+   :location "Antalya",
    :image "",
    :description ""}
   {:name "Don Kişot Sanat Suadiye",
@@ -1373,7 +1373,7 @@
    :latitude 40.9625124,
    :source :openstreetmap,
    :homepage "https://www.donkisotsanat.com",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Dondurma Müzesi",
@@ -1387,7 +1387,7 @@
    :latitude 38.355266,
    :source :openstreetmap,
    :homepage "https://dorasceramichouse.com",
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Doğa Tarihi Müzesi",
@@ -1400,7 +1400,7 @@
    :longitude 32.8576093,
    :latitude 39.9086327,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Dumlupınar Müzesi",
@@ -1414,7 +1414,7 @@
    :latitude 40.9936089,
    :source :openstreetmap,
    :homepage "https://www.atasehir.bel.tr/dustepe-oyun-muzesi",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Edebiyat Müzesi",
@@ -1485,7 +1485,7 @@
    :source :openstreetmap,
    :homepage
    "https://elazig.ktb.gov.tr/TR-194066/arkeoloji-muzesi.html",
-   :locality "Elazığ",
+   :location "Elazığ",
    :image "",
    :description ""}
   {:name "Elmalı Müzesi",
@@ -1529,14 +1529,14 @@
    :longitude 34.0477119,
    :latitude 37.5159669,
    :source :openstreetmap,
-   :locality "Ereğli/Konya",
+   :location "Ereğli/Konya",
    :image "",
    :description ""}
   {:name "Ergene Atatürk Evi",
    :longitude 27.7486253,
    :latitude 41.206346,
    :source :openstreetmap,
-   :locality "Marmaracık Mahallesi",
+   :location "Marmaracık Mahallesi",
    :image "",
    :description ""}
   {:name "Ergene Köşkü",
@@ -1569,14 +1569,14 @@
    :longitude 35.4994027,
    :latitude 38.7166742,
    :source :openstreetmap,
-   :locality "Kayseri",
+   :location "Kayseri",
    :image "",
    :description ""}
   {:name "Eski Kilise",
    :longitude 35.2195561,
    :latitude 37.3217843,
    :source :openstreetmap,
-   :locality "Adana",
+   :location "Adana",
    :image "",
    :description ""}
   {:name "Ethnographic museum",
@@ -1590,7 +1590,7 @@
    :latitude 39.7657801,
    :source :openstreetmap,
    :homepage "http://www.eskisehirmuze.gov.tr/",
-   :locality "Eskişehir",
+   :location "Eskişehir",
    :image "",
    :description ""}
   {:name "Etnografya Müzesi",
@@ -1599,7 +1599,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?SectionId=AET01&DistId=MRK",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Etnoğrafya Müzesi",
@@ -1626,7 +1626,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.atasehir.bel.tr/haber/evrensel-degerler-cocuk-muzesi-kapilarini-ziyaretcilere-acti",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Eylül Bilim ve Sanat Akademisi",
@@ -1645,7 +1645,7 @@
    :longitude 28.9441721,
    :latitude 41.0601625,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Eğirdir Seramik",
@@ -1685,7 +1685,7 @@
    :longitude 29.117181,
    :latitude 36.6229977,
    :source :openstreetmap,
-   :locality "Muğla",
+   :location "Muğla",
    :image "",
    :description ""}
   {:name "Feyzullah Efendi Konağı",
@@ -1699,7 +1699,7 @@
    :latitude 39.9683754,
    :source :openstreetmap,
    :homepage "https://fgbm.com.tr/",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Fikret Otyam Müzesi",
@@ -1724,7 +1724,7 @@
    :longitude 30.5759663,
    :latitude 36.6004382,
    :source :openstreetmap,
-   :locality "Antalya",
+   :location "Antalya",
    :image "",
    :description ""}
   {:name "Fransız Kültür Merkezi",
@@ -1759,7 +1759,7 @@
    :longitude 27.9870804,
    :latitude 40.3495723,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Galleria Mavist",
@@ -1792,14 +1792,14 @@
    :longitude 31.4205664,
    :latitude 41.2773525,
    :source :openstreetmap,
-   :locality "Karadeniz Ereğli",
+   :location "Karadeniz Ereğli",
    :image "",
    :description ""}
   {:name "Gazi Köşkü",
    :longitude 40.2286554,
    :latitude 37.8950896,
    :source :openstreetmap,
-   :locality "Diyarbakır",
+   :location "Diyarbakır",
    :image "",
    :description ""}
   {:name "Gazi Müzesi",
@@ -1824,14 +1824,14 @@
    :longitude 37.3785605,
    :latitude 37.0690278,
    :source :openstreetmap,
-   :locality "Gaziantep",
+   :location "Gaziantep",
    :image "",
    :description ""}
   {:name "Gaziantep Oyun ve Oyuncak Müzesi",
    :longitude 37.3771307,
    :latitude 37.0613166,
    :source :openstreetmap,
-   :locality "Gaziantep",
+   :location "Gaziantep",
    :image "",
    :description ""}
   {:name "Gaziosman Paşa Plevne Müzesi",
@@ -1845,7 +1845,7 @@
    :latitude 41.0575046,
    :source :openstreetmap,
    :homepage "https://www.gaziosmanpasa.bel.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Gelibolu Savaş Müzesi",
@@ -1882,14 +1882,14 @@
    :longitude 37.0168037,
    :latitude 39.7443204,
    :source :openstreetmap,
-   :locality "Sivas",
+   :location "Sivas",
    :image "",
    :description ""}
   {:name "Gölge Sanat Kahramanmaraş",
    :longitude 36.930512,
    :latitude 37.5770856,
    :source :openstreetmap,
-   :locality "KAHRAMANMARAŞ",
+   :location "KAHRAMANMARAŞ",
    :image "",
    :description ""}
   {:name "Göre Müze / Ören Yeri",
@@ -1902,14 +1902,14 @@
    :longitude 34.8455909,
    :latitude 38.6390817,
    :source :openstreetmap,
-   :locality "Göreme",
+   :location "Göreme",
    :image "",
    :description ""}
   {:name "Gözne Kalesi",
    :longitude 34.5749916,
    :latitude 36.9918611,
    :source :openstreetmap,
-   :locality "Mersin",
+   :location "Mersin",
    :image "",
    :description ""}
   {:name "Göç ve Mübadele Evi",
@@ -1961,7 +1961,7 @@
    :latitude 40.9762221,
    :source :openstreetmap,
    :homepage "https://muzeler.org/haldun-taner-muze-evi--462411",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Haleplibahçe Mozaik Müzesi",
@@ -1980,7 +1980,7 @@
    :longitude 32.0763046,
    :latitude 39.5027983,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Halikarnas Balıkçısı Müzesi",
@@ -2007,14 +2007,14 @@
    :latitude 41.0087318,
    :source :openstreetmap,
    :homepage "http://www.halimuzesi.com",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Hamam Müzesi",
    :longitude 35.3292417,
    :latitude 36.9810272,
    :source :openstreetmap,
-   :locality "Adana",
+   :location "Adana",
    :image "",
    :description ""}
   {:name "Hamamizade İhsanbey Kültür Merkezi",
@@ -2039,7 +2039,7 @@
    :longitude 28.9277844,
    :latitude 41.0196249,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Hamit Kaplan Müzesi",
@@ -2100,14 +2100,14 @@
    :longitude 41.4292121,
    :latitude 37.7270211,
    :source :openstreetmap,
-   :locality "Batman",
+   :location "Batman",
    :image "",
    :description ""}
   {:name "Hastane Müze",
    :longitude 28.8642457,
    :latitude 40.9876324,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Hatay Arkeoloji Müzesi",
@@ -2116,7 +2116,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?SectionId=HTY01&DistId=HTY",
-   :locality "Antakya",
+   :location "Antakya",
    :image "",
    :description ""}
   {:name "Hatay Şehir Müzesi",
@@ -2132,7 +2132,7 @@
    :source :openstreetmap,
    :homepage
    "https://ankarahavamuze.hvkk.tsk.tr/News/Article/ankarahavamuze/7117",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Hazeranlar Konağı",
@@ -2163,7 +2163,7 @@
    :longitude 29.0650899,
    :latitude 40.1741315,
    :source :openstreetmap,
-   :locality "Bursa",
+   :location "Bursa",
    :image "",
    :description ""}
   {:name "Hüseyin Meral Zeytinyağ ve Sanat Evi",
@@ -2220,7 +2220,7 @@
    :longitude 32.4900076,
    :latitude 37.8728882,
    :source :openstreetmap,
-   :locality "Konya",
+   :location "Konya",
    :image "",
    :description ""}
   {:name "İSKİ Terkos Su Medeniyetleri Müzesi",
@@ -2259,7 +2259,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.ismetinonu.org.tr/heybeliada-ismet-inonu-evi/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "İsmet Yılmaz Eğitim Müzesi",
@@ -2273,7 +2273,7 @@
    :latitude 40.9642032,
    :source :openstreetmap,
    :homepage "http://www.hho.edu.tr/muze/muze.htm",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "İstanbul Havalimanı Müzesi",
@@ -2288,7 +2288,7 @@
    :latitude 41.025911,
    :source :openstreetmap,
    :homepage "https://www.istanbulmodern.org/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "İstanbul Oyuncak Müzesi",
@@ -2296,7 +2296,7 @@
    :latitude 40.9759534,
    :source :openstreetmap,
    :homepage "https://istanbuloyuncakmuzesi.com/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "İstanbul Robot Müzesi",
@@ -2309,7 +2309,7 @@
    :longitude 32.5097114,
    :latitude 37.8704834,
    :source :openstreetmap,
-   :locality "Konya",
+   :location "Konya",
    :image "",
    :description ""}
   {:name "İzmir Bergama Müzesi",
@@ -2362,7 +2362,7 @@
    :longitude 32.5108072,
    :latitude 37.8664712,
    :source :openstreetmap,
-   :locality "Konya",
+   :location "Konya",
    :image "",
    :description ""}
   {:name "Kadir Has Kent Müzesi",
@@ -2408,7 +2408,7 @@
    :longitude 33.2116818,
    :latitude 37.1825601,
    :source :openstreetmap,
-   :locality "Karaman",
+   :location "Karaman",
    :image "",
    :description ""}
   {:name "Karatepe Müzesi",
@@ -2422,7 +2422,7 @@
    :latitude 40.99456,
    :source :openstreetmap,
    :homepage "https://karikaturevi.kadikoy.bel.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Kars Müzesi̇",
@@ -2431,7 +2431,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.karskulturturizm.gov.tr/TR,54869/muzeler.html",
-   :locality "Kars",
+   :location "Kars",
    :image "",
    :description ""}
   {:name "Kartal Belediyesi Masal Müzesi",
@@ -2470,14 +2470,14 @@
    :longitude 27.0762221,
    :latitude 38.4795473,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Karşıyaka Spor Tarihi Müzesi",
    :longitude 27.0688861,
    :latitude 38.4677091,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Kasr-ı Hümayün Av Köşkü",
@@ -2491,7 +2491,7 @@
    :latitude 41.37568,
    :source :openstreetmap,
    :homepage "http://www.kastamonukentmuzesi.gov.tr/index.php",
-   :locality "Kastamonu",
+   :location "Kastamonu",
    :image "",
    :description ""}
   {:name "Kaymakamlar Muze",
@@ -2512,14 +2512,14 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?SectionId=KAR01&DistId=MRK",
-   :locality "Kayseri",
+   :location "Kayseri",
    :image "",
    :description ""}
   {:name "Kazlıçeşme Kültür Merkezi",
    :longitude 28.909065,
    :latitude 40.9868427,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Kazım Karabekir Paşa Müzesi",
@@ -2527,7 +2527,7 @@
    :latitude 40.9682691,
    :source :openstreetmap,
    :homepage "https://www.kazimkarabekirvakfi.org.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Kemal Samancıoğlu Etnografya Müzesi",
@@ -2542,7 +2542,7 @@
    :source :openstreetmap,
    :homepage
    "https://gezilmesigerekenyerler.com/kemal-sunal-muzesi-istanbul/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Kent Belleği Müzesi",
@@ -2580,7 +2580,7 @@
    :longitude 26.6379647,
    :latitude 40.8496064,
    :source :openstreetmap,
-   :locality "Edirne",
+   :location "Edirne",
    :image "",
    :description ""}
   {:name "Kilim Müzesi",
@@ -2593,7 +2593,7 @@
    :longitude 37.0137795,
    :latitude 39.7496672,
    :source :openstreetmap,
-   :locality "Sivas",
+   :location "Sivas",
    :image "",
    :description ""}
   {:name "Konuralp Müzesi",
@@ -2655,7 +2655,7 @@
    :longitude 26.9810922,
    :latitude 39.5038991,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Kuzey Makedonya Kültür Merkezi",
@@ -2663,7 +2663,7 @@
    :latitude 41.0371795,
    :source :openstreetmap,
    :homepage "https://www.kultura.gov.mk/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Kâğıthane Belediyesi Şehir Müzesi",
@@ -2676,7 +2676,7 @@
    :longitude 28.3627095,
    :latitude 37.2188464,
    :source :openstreetmap,
-   :locality "Muğla",
+   :location "Muğla",
    :image "",
    :description ""}
   {:name "Kültür ve Etnografya Müzesi",
@@ -2695,7 +2695,7 @@
    :longitude 30.0199451,
    :latitude 39.4120386,
    :source :openstreetmap,
-   :locality "Kütahya",
+   :location "Kütahya",
    :image "",
    :description ""}
   {:name "Küçük Prens Kitap Müzesi",
@@ -2711,21 +2711,21 @@
    :source :openstreetmap,
    :homepage
    "https://www.millisaraylar.gov.tr/Lokasyon/6/kucuksu-kasri",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Kırkgöz İzci Müzesi",
    :longitude 27.6804641,
    :latitude 41.2388045,
    :source :openstreetmap,
-   :locality "Kırkgöz",
+   :location "Kırkgöz",
    :image "",
    :description ""}
   {:name "Kırklareli Müzesi",
    :longitude 27.2248335,
    :latitude 41.7337075,
    :source :openstreetmap,
-   :locality "Kırklareli",
+   :location "Kırklareli",
    :image "",
    :description ""}
   {:name "Kızla Müze Han",
@@ -2751,7 +2751,7 @@
    :latitude 41.0762602,
    :source :openstreetmap,
    :homepage "http://www.besiktas.bel.tr/altsayfa.aspx?ID=5450",
-   :locality "istanbul",
+   :location "istanbul",
    :image "",
    :description ""}
   {:name "Likya Uygarlıkları Müzesi'",
@@ -2767,7 +2767,7 @@
    :latitude 41.0128714,
    :source :openstreetmap,
    :homepage "https://muze.gen.tr",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Liva Paşa Etnografya Müzesi",
@@ -2800,7 +2800,7 @@
    :longitude 32.4926881,
    :latitude 37.876506,
    :source :openstreetmap,
-   :locality "Selçuklu/Konya",
+   :location "Selçuklu/Konya",
    :image "",
    :description ""}
   {:name "Malatya Müzesi",
@@ -2808,7 +2808,7 @@
    :latitude 38.3428785,
    :source :openstreetmap,
    :homepage "https://malatya.ktb.gov.tr/TR-58294/malatya-muzesi.html",
-   :locality "Malatya",
+   :location "Malatya",
    :image "",
    :description ""}
   {:name "Manisa Kurtuluş Müzesi",
@@ -2827,7 +2827,7 @@
    :longitude 27.4010631,
    :latitude 38.6148454,
    :source :openstreetmap,
-   :locality "Manisa",
+   :location "Manisa",
    :image "",
    :description ""}
   {:name "Manisa Şehzadeler Müzesi",
@@ -2840,7 +2840,7 @@
    :longitude 40.7346344,
    :latitude 37.313782,
    :source :openstreetmap,
-   :locality "Mardin",
+   :location "Mardin",
    :image "",
    :description ""}
   {:name "Mardin Yaşayan Müze",
@@ -2868,7 +2868,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=MRM01",
-   :locality "Muğla",
+   :location "Muğla",
    :image "",
    :description ""}
   {:name "Maslak Kasrı",
@@ -2876,7 +2876,7 @@
    :latitude 41.1191757,
    :source :openstreetmap,
    :homepage "https://millisaraylar.gov.tr/Lokasyon/10/maslak-kasri",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Mehmet Akif Ersoy Evi",
@@ -2890,7 +2890,7 @@
    :latitude 39.9326084,
    :source :openstreetmap,
    :homepage "https://www.gokyaysatrancvakfi.org.tr/",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Mehmet Tüzüm Kızılcan Sanat Galerisi",
@@ -2910,7 +2910,7 @@
    :latitude 40.1996861,
    :source :openstreetmap,
    :homepage "https://www.bursamuze.com/merinos-tekstil-sanayi-muzesi",
-   :locality "Bursa",
+   :location "Bursa",
    :image "",
    :description ""}
   {:name "Mersin Arkeoloji Müzesi",
@@ -2919,14 +2919,14 @@
    :source :openstreetmap,
    :homepage
    "https://sanalmuze.gov.tr/muzeler/MERSIN_ARKEOLOJI_MUZESI/",
-   :locality "Mersin",
+   :location "Mersin",
    :image "",
    :description ""}
   {:name "Mersin Atatürk Evi",
    :longitude 34.6266205,
    :latitude 36.7950456,
    :source :openstreetmap,
-   :locality "Mersin",
+   :location "Mersin",
    :image "",
    :description ""}
   {:name "Metreküp Terrace",
@@ -2952,14 +2952,14 @@
    :longitude 41.3359233,
    :latitude 37.4252135,
    :source :openstreetmap,
-   :locality "Midyat/Mardin",
+   :location "Midyat/Mardin",
    :image "",
    :description ""}
   {:name "Milas Müzesi",
    :longitude 27.784217,
    :latitude 37.3132404,
    :source :openstreetmap,
-   :locality "Milas",
+   :location "Milas",
    :image "",
    :description ""}
   {:name "Milet Müzesi",
@@ -2979,7 +2979,7 @@
    :latitude 41.059005,
    :source :openstreetmap,
    :homepage "https://www.miniaturk.com.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Misparta Koku Müzesi",
@@ -3010,14 +3010,14 @@
    :longitude 27.493675,
    :latitude 41.1684423,
    :source :openstreetmap,
-   :locality "Muratlı",
+   :location "Muratlı",
    :image "",
    :description ""}
   {:name "Musa Anter Evi",
    :longitude 41.0597551,
    :latitude 37.2330269,
    :source :openstreetmap,
-   :locality "Mardin",
+   :location "Mardin",
    :image "",
    :description ""}
   {:name "Musa Paşa Camii",
@@ -3036,7 +3036,7 @@
    :longitude 36.3375917,
    :latitude 41.2910198,
    :source :openstreetmap,
-   :locality "Samsun",
+   :location "Samsun",
    :image "",
    :description ""}
   {:name "Mustafa Ayaz Müzesi ve Kültür Merkezi",
@@ -3050,7 +3050,7 @@
    :longitude 28.3683932,
    :latitude 37.2174073,
    :source :openstreetmap,
-   :locality "Muğla",
+   :location "Muğla",
    :image "",
    :description ""}
   {:name "Muş Atatürk Şehir Müzesi",
@@ -3082,7 +3082,7 @@
    :latitude 40.9879399,
    :source :openstreetmap,
    :homepage "https://www.mujdatgezensanatmerkezi.com.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Müze",
@@ -3102,7 +3102,7 @@
    :latitude 40.9967248,
    :source :openstreetmap,
    :homepage "https://muzegazhane.istanbul/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Müze Girişi",
@@ -3121,7 +3121,7 @@
    :longitude 27.5167183,
    :latitude 40.9790248,
    :source :openstreetmap,
-   :locality "Tekirdağ",
+   :location "Tekirdağ",
    :image "",
    :description ""}
   {:name "Nar-ı Aşk Sanat Galerisi",
@@ -3147,7 +3147,7 @@
    :latitude 38.3561055,
    :source :openstreetmap,
    :homepage "https://nasreddinhocackbm.karabaglar.bel.tr/",
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Nazilli Belediyesi Etnoğrafya Müzesi",
@@ -3241,7 +3241,7 @@
    :longitude 32.833357,
    :latitude 39.85967,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "ODTÜ Bilim ve Teknoloji Müzesi",
@@ -3254,7 +3254,7 @@
    :longitude 27.2911328,
    :latitude 37.7586429,
    :source :openstreetmap,
-   :locality "Aydın",
+   :location "Aydın",
    :image "",
    :description ""}
   {:name "Olgunlaşma Enstitüleri İzmir Kültür Sanat Merkezi",
@@ -3280,7 +3280,7 @@
    :longitude 29.4395172,
    :latitude 40.8059992,
    :source :openstreetmap,
-   :locality "Kocaeli",
+   :location "Kocaeli",
    :image "",
    :description ""}
   {:name "Osman Hamdi Bey Müzesi",
@@ -3306,7 +3306,7 @@
    :latitude 41.0238356,
    :source :openstreetmap,
    :homepage "https://obmuze.com/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Osmanlı Halk Kıyafetleri ve Takıları Müzesi",
@@ -3320,7 +3320,7 @@
    :latitude 40.1863836,
    :source :openstreetmap,
    :homepage "https://panorama1326.com.tr/",
-   :locality "Bursa",
+   :location "Bursa",
    :image "",
    :description ""}
   {:name "Panorama 1453 Tarih Müzesi",
@@ -3328,7 +3328,7 @@
    :latitude 41.0181549,
    :source :openstreetmap,
    :homepage "https://www.panoramikmuze.com/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Pendik Mehmet Akif Ersoy Sanat Merkezi",
@@ -3355,7 +3355,7 @@
    :longitude 26.6714424,
    :latitude 40.4058843,
    :source :openstreetmap,
-   :locality "Çanakkale",
+   :location "Çanakkale",
    :image "",
    :description ""}
   {:name "pompeipolis",
@@ -3368,7 +3368,7 @@
    :longitude 27.3777305,
    :latitude 37.0415507,
    :source :openstreetmap,
-   :locality "Muğla",
+   :location "Muğla",
    :image "",
    :description ""}
   {:name "Prof. Dr. Türkan Saylan Eğitim Kültür ve Sanat Merkezi",
@@ -3401,7 +3401,7 @@
    :latitude 39.9381236,
    :source :openstreetmap,
    :homepage "http://www.pttpulmuzesi.org.tr/PageDetail.aspx?PID=3",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Rahmi M. Koç Müzesi",
@@ -3434,7 +3434,7 @@
    :latitude 41.0252799,
    :source :openstreetmap,
    :homepage "https://www.rhm.org.tr/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Rize Atatürk Evi Müzesi",
@@ -3447,7 +3447,7 @@
    :longitude 32.8531381,
    :latitude 39.9459958,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Russian Museum",
@@ -3466,7 +3466,7 @@
    :longitude 40.7461212,
    :latitude 37.3144862,
    :source :openstreetmap,
-   :locality "Mardin",
+   :location "Mardin",
    :image "",
    :description ""}
   {:name "Sabancı Kültür Merkezi",
@@ -3494,7 +3494,7 @@
    :source :openstreetmap,
    :homepage
    "https://amasya.ktb.gov.tr/TR-59522/sabuncuoglu-tip-ve-cerrahi-tarihi-muzesi.html",
-   :locality "Amasya",
+   :location "Amasya",
    :image "",
    :description ""}
   {:name "Sadberk Hanım Müzesi",
@@ -3502,7 +3502,7 @@
    :latitude 41.1630055,
    :source :openstreetmap,
    :homepage "https://www.sadberkhanimmuzesi.org.tr",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Sahib-i Ata Müzesi",
@@ -3511,7 +3511,7 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?sectionId=KAM01&distId=MRK",
-   :locality "Meram/Konya",
+   :location "Meram/Konya",
    :image "",
    :description ""}
   {:name "Sahne74",
@@ -3525,7 +3525,7 @@
    :latitude 40.8810298,
    :source :openstreetmap,
    :homepage "https://saitfaikmuzesi.org/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Sakarya Meydan Muharebesi Tarihi Milli Parkı",
@@ -3592,7 +3592,7 @@
    :longitude 28.8211794,
    :latitude 40.9559888,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Sanat Sokağı",
@@ -3617,7 +3617,7 @@
    :longitude 32.7156827,
    :latitude 39.8619063,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Sanayi Müzesi",
@@ -3669,7 +3669,7 @@
    :latitude 40.7626766,
    :source :openstreetmap,
    :homepage "https://sekakagitmuzesi.com/",
-   :locality "İzmit",
+   :location "İzmit",
    :image "",
    :description ""}
   {:name "Selçuk Efes Müzesi",
@@ -3700,7 +3700,7 @@
    :longitude 28.9816446,
    :latitude 41.0163283,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Seramik Müzesi",
@@ -3719,7 +3719,7 @@
    :longitude 33.5153435,
    :latitude 39.846857,
    :source :openstreetmap,
-   :locality "Kırıkkale",
+   :location "Kırıkkale",
    :image "",
    :description ""}
   {:name "Silifke Müzesi",
@@ -3787,21 +3787,21 @@
    :latitude 41.138072,
    :source :openstreetmap,
    :homepage "www.studyoipek.com",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Su Ürünleri Fakültesi Deniz Canlıları Koleksiyon Merkezi",
    :longitude 27.0323272,
    :latitude 38.5090145,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Suadiye Sanat Galerisi",
    :longitude 29.0889802,
    :latitude 40.961583,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Subatan Müzesi",
@@ -3851,7 +3851,7 @@
    :longitude 29.9758276,
    :latitude 40.7658201,
    :source :openstreetmap,
-   :locality "Yahyakaptan İzmit",
+   :location "Yahyakaptan İzmit",
    :image "",
    :description ""}
   {:name "Sıtkı Olçar Çini Müzesi",
@@ -3865,7 +3865,7 @@
    :latitude 41.6521714,
    :source :openstreetmap,
    :homepage "https://dogamuzesi.trakya.edu.tr/",
-   :locality "Edirne",
+   :location "Edirne",
    :image "",
    :description ""}
   {:name
@@ -3879,7 +3879,7 @@
    :longitude 32.6911252,
    :latitude 41.2424896,
    :source :openstreetmap,
-   :locality "Karabük",
+   :location "Karabük",
    :image "",
    :description ""}
   {:name "Takmak Köyü Etnografya Müzesi",
@@ -3894,7 +3894,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.muze.gov.tr/tr/muzeler/taksiyarhis-anit-muzesi",
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Tarabya Kulturakademie",
@@ -4001,7 +4001,7 @@
    :longitude 36.999106,
    :latitude 41.2074244,
    :source :openstreetmap,
-   :locality "Terme",
+   :location "Terme",
    :image "",
    :description ""}
   {:name "Terra Point Art Studio",
@@ -4009,7 +4009,7 @@
    :latitude 39.923591,
    :source :openstreetmap,
    :homepage "https://terrapointart.com/",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Ters Ev",
@@ -4083,7 +4083,7 @@
    :longitude 27.9700242,
    :latitude 40.3573246,
    :source :openstreetmap,
-   :locality "Balıkesir",
+   :location "Balıkesir",
    :image "",
    :description ""}
   {:name "Turkiano Art Gallery",
@@ -4150,7 +4150,7 @@
    :longitude 32.6370913,
    :latitude 39.9030503,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Türk Telekom Telekominikasyon Müzesi",
@@ -4159,7 +4159,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.kulturportali.gov.tr/turkiye/ankara/gezilecekyer/turk-telekom-telekomunkasyon-muzes",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Türkiye İş Bankası İktisadi Bağımsızlık Müzesi",
@@ -4167,7 +4167,7 @@
    :latitude 39.9427523,
    :source :openstreetmap,
    :homepage "https://www.issanat.com.tr/iktisadi-bagimsizlik-muzesi",
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Türkiye Sucul Canlılar Müzesi",
@@ -4187,7 +4187,7 @@
    :longitude 28.5827468,
    :latitude 41.0179076,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name
@@ -4202,14 +4202,14 @@
    :latitude 41.1281086,
    :source :openstreetmap,
    :homepage "https://www.atamanmuseum.com/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Urfa Kent Müzesi",
    :longitude 38.7968823,
    :latitude 37.1516997,
    :source :openstreetmap,
-   :locality "Şanlıurfa",
+   :location "Şanlıurfa",
    :image "",
    :description ""}
   {:name "Urfa Mutfak Müzesi",
@@ -4223,7 +4223,7 @@
    :latitude 40.6176774,
    :source :openstreetmap,
    :homepage "https://uzungolmuzesi.com",
-   :locality "Trabzon",
+   :location "Trabzon",
    :image "",
    :description ""}
   {:name "Uçhisar Kalesi",
@@ -4242,7 +4242,7 @@
    :longitude 29.4073196,
    :latitude 38.6651424,
    :source :openstreetmap,
-   :locality "Uşak",
+   :location "Uşak",
    :image "",
    :description ""}
   {:name "V Orman Bitki Müzesi",
@@ -4257,14 +4257,14 @@
    :source :openstreetmap,
    :homepage
    "https://muze.gov.tr/muze-detay?SectionId=VNM01&DistId=MRK",
-   :locality "Van",
+   :location "Van",
    :image "",
    :description ""}
   {:name "Vehbi Koç Evi",
    :longitude 29.0527977,
    :latitude 41.1652679,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Velibaba Akşemseddin Kültür Merkezi",
@@ -4273,14 +4273,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.sporadeger.com/spor-salonu/aksemseddin-spor-merkezi",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Venüs Sanat",
    :longitude 29.0594218,
    :latitude 40.9804051,
    :source :openstreetmap,
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "X Media Art Müsesi",
@@ -4288,7 +4288,7 @@
    :latitude 40.993222,
    :source :openstreetmap,
    :homepage "https://xmediaartmuseum.com",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Yakutiye Medresesi",
@@ -4307,7 +4307,7 @@
    :longitude 29.2478827,
    :latitude 40.6580756,
    :source :openstreetmap,
-   :locality "Yalova",
+   :location "Yalova",
    :image "",
    :description ""}
   {:name "Yalova Belediyesi Kent Müzesi",
@@ -4316,7 +4316,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.yalova.bel.tr/tarihi-merkez/yalova-kent-muzesi/8",
-   :locality "Yalova",
+   :location "Yalova",
    :image "",
    :description ""}
   {:name "Yalvaç Müzesi",
@@ -4325,7 +4325,7 @@
    :source :openstreetmap,
    :homepage
    "https://kvmgm.ktb.gov.tr/TR-44093/isparta-yalvac-muze-mudurlugu.html",
-   :locality "Isparta",
+   :location "Isparta",
    :image "",
    :description ""}
   {:name "Yarhisar Gemisi Müzesi",
@@ -4339,7 +4339,7 @@
    :latitude 40.1485328,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/canakkaleresimkursu/",
-   :locality "Çanakkale",
+   :location "Çanakkale",
    :image "",
    :description ""}
   {:name "Yayladere Belediyesi Kültür Merkezi",
@@ -4358,7 +4358,7 @@
    :longitude 27.1617874,
    :latitude 38.4379857,
    :source :openstreetmap,
-   :locality "İzmir",
+   :location "İzmir",
    :image "",
    :description ""}
   {:name "Yaşayan Kültürel Miras Müzesi",
@@ -4410,7 +4410,7 @@
    :longitude 32.84738,
    :latitude 39.978976,
    :source :openstreetmap,
-   :locality "Keçiören/Ankara",
+   :location "Keçiören/Ankara",
    :image "",
    :description ""}
   {:name "Yunus Emre Kültür ve Sanat Merkezi",
@@ -4419,7 +4419,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.pendik.bel.tr/yer/detay/yunus-emre-kultur-ve-sanat-merkezi",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Yunusemre Kültür Park",
@@ -4459,7 +4459,7 @@
    :latitude 41.0450504,
    :source :openstreetmap,
    :homepage "https://www.zambaoyuncakmuzesi.com/",
-   :locality "İstanbul",
+   :location "İstanbul",
    :image "",
    :description ""}
   {:name "Zeki Müren Sanat Müzesi",
@@ -4478,7 +4478,7 @@
    :longitude 37.3859035,
    :latitude 37.0756171,
    :source :openstreetmap,
-   :locality "Gaziantep",
+   :location "Gaziantep",
    :image "",
    :description ""}
   {:name "Zonguldak Maden Müzesi",
@@ -4551,7 +4551,7 @@
    :longitude 32.6354668,
    :latitude 39.8485989,
    :source :openstreetmap,
-   :locality "Ankara",
+   :location "Ankara",
    :image "",
    :description ""}
   {:name "Çeşme Müzesi",
@@ -4646,21 +4646,21 @@
    :longitude 27.113682,
    :latitude 40.6150892,
    :source :openstreetmap,
-   :locality "Tekirdağ",
+   :location "Tekirdağ",
    :image "",
    :description ""}
   {:name "Şarköy Kültür ve Sanat Sokağı",
    :longitude 27.1258374,
    :latitude 40.6121268,
    :source :openstreetmap,
-   :locality "Şarköy",
+   :location "Şarköy",
    :image "",
    :description ""}
   {:name "Şebinkarahisar Atatürk Evi Müzesi",
    :longitude 38.422939,
    :latitude 40.2887453,
    :source :openstreetmap,
-   :locality "Şebinkarahisar",
+   :location "Şebinkarahisar",
    :image "",
    :description ""}
   {:name "Şefik gül kültür evi",

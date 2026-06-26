@@ -20,7 +20,7 @@
    :longitude 43.2695074,
    :latitude -11.7336061,
    :source :openstreetmap,
-   :locality "Mkazi"}
+   :location "Mkazi"}
   {:name "Foyer",
    :longitude 43.3209854,
    :latitude -11.5565789,
@@ -37,7 +37,7 @@
    :longitude 43.272278,
    :latitude -11.563361,
    :source :openstreetmap,
-   :locality "Hahaya"}
+   :location "Hahaya"}
   {:name "Musée des Comores متحف جزر القمر",
    :longitude 43.2556284,
    :latitude -11.703178,

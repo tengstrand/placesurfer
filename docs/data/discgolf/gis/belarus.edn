@@ -9,13 +9,13 @@
    :latitude 52.10790703830031,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35904",
-   :locality "Ляскавічы"}
+   :location "Ляскавічы"}
   {:name "Čaliuskincaŭ Park",
    :longitude 27.615079879760742,
    :latitude 53.92400365213255,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8327",
-   :locality "Мінск"}],
+   :location "Мінск"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

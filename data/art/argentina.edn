@@ -8,7 +8,7 @@
    :longitude -57.9939806,
    :latitude -30.7540764,
    :source :openstreetmap,
-   :locality "Chajarí",
+   :location "Chajarí",
    :image "",
    :description ""}
   {:name "3005 Moto Cafe",
@@ -23,14 +23,14 @@
    :longitude -61.3486581,
    :latitude -37.984409,
    :source :openstreetmap,
-   :locality "Coronel Pringles",
+   :location "Coronel Pringles",
    :image "",
    :description ""}
   {:name "A&C Arte",
    :longitude -59.3438695,
    :latitude -26.5370202,
    :source :openstreetmap,
-   :locality "General José de San Martín",
+   :location "General José de San Martín",
    :image "",
    :description ""}
   {:name "Administración del Ente Portuario",
@@ -61,7 +61,7 @@
    :longitude -65.706446,
    :latitude -28.4580664,
    :source :openstreetmap,
-   :locality "Santa Rosa",
+   :location "Santa Rosa",
    :image "",
    :description ""}
   {:name "ANNA Espacio de Arte y Bienestar",
@@ -99,14 +99,14 @@
    :longitude -58.5515367,
    :latitude -34.5572054,
    :source :openstreetmap,
-   :locality "Villa Ballester",
+   :location "Villa Ballester",
    :image "",
    :description ""}
   {:name "Archivo Grafico y Museo Histórico",
    :longitude -62.084359,
    :latitude -31.4312404,
    :source :openstreetmap,
-   :locality "San Francisco",
+   :location "San Francisco",
    :image "",
    :description ""}
   {:name "Archivo Histórico Lucio García Ledesma",
@@ -127,14 +127,14 @@
    :longitude -62.1107828,
    :latitude -31.4228316,
    :source :openstreetmap,
-   :locality "San Francisco",
+   :location "San Francisco",
    :image "",
    :description ""}
   {:name "Archivo y Museo Histórico Gral. Julio de Vedia",
    :longitude -60.8882735,
    :latitude -35.4407157,
    :source :openstreetmap,
-   :locality "9 De Julio",
+   :location "9 De Julio",
    :image "",
    :description ""}
   {:name
@@ -144,7 +144,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.flickr.com/photos/buenosairesmiprovincia/29444523592",
-   :locality "María Ignacia (Est. Vela)",
+   :location "María Ignacia (Est. Vela)",
    :image "",
    :description ""}
   {:name "Arenal",
@@ -159,7 +159,7 @@
    :latitude -26.8164688,
    :source :openstreetmap,
    :homepage "https://arte-hobby.blogspot.com/",
-   :locality "Puerto Rico",
+   :location "Puerto Rico",
    :image "",
    :description ""}
   {:name "Arte Magdala",
@@ -178,7 +178,7 @@
    :longitude -68.8424864,
    :latitude -32.9223146,
    :source :openstreetmap,
-   :locality "Godoy Cruz",
+   :location "Godoy Cruz",
    :image "",
    :description ""}
   {:name "Asociación Civil Tacurú",
@@ -191,7 +191,7 @@
    :longitude -55.327061,
    :latitude -27.6098665,
    :source :openstreetmap,
-   :locality "Leandro N. Alem",
+   :location "Leandro N. Alem",
    :image "",
    :description ""}
   {:name "Auditorio Eloy Camus",
@@ -211,7 +211,7 @@
    :longitude -65.7913293,
    :latitude -28.4697768,
    :source :openstreetmap,
-   :locality "San Fernando del Valle de Catamarca",
+   :location "San Fernando del Valle de Catamarca",
    :image "",
    :description ""}
   {:name "aula de arte",
@@ -225,14 +225,14 @@
    :latitude -34.598359,
    :source :openstreetmap,
    :homepage "http://www.awala.com.ar",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Azotea Lapalma",
    :longitude -58.526093,
    :latitude -33.0038758,
    :source :openstreetmap,
-   :locality "Gualeguaychú",
+   :location "Gualeguaychú",
    :image "",
    :description ""}
   {:name "Azulejo - Espacio de Arte",
@@ -252,7 +252,7 @@
    :latitude -34.5625445,
    :source :openstreetmap,
    :homepage "https://www.buenosairesfinearts.com/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Buque Museo Corbeta A.R.A. Uruguay",
@@ -260,14 +260,14 @@
    :latitude -34.6041969,
    :source :openstreetmap,
    :homepage "https://www.ara.mil.ar/pag.asp?idItem=113",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Buque Museo Fragata A.R.A. 'Presidente Sarmiento'",
    :longitude -58.3656563,
    :latitude -34.6089568,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "C.c. El Surco",
@@ -305,14 +305,14 @@
    :latitude -32.9139371,
    :source :openstreetmap,
    :homepage "http://estudiovalija.com.ar",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Casa Chorizo",
    :longitude -64.4315233,
    :latitude -31.6585497,
    :source :openstreetmap,
-   :locality "Alta Gracia",
+   :location "Alta Gracia",
    :image "",
    :description ""}
   {:name "Casa Coleman",
@@ -326,7 +326,7 @@
    :longitude -64.2008504,
    :latitude -31.4092045,
    :source :openstreetmap,
-   :locality "Córdoba",
+   :location "Córdoba",
    :image "",
    :description ""}
   {:name "Casa de Bialet Masse",
@@ -340,7 +340,7 @@
    :latitude -34.6025302,
    :source :openstreetmap,
    :homepage "https://casadesabato.com/",
-   :locality "Santos Lugares",
+   :location "Santos Lugares",
    :image "",
    :description ""}
   {:name "Casa de González de Ataide",
@@ -373,21 +373,21 @@
    :longitude -59.0423155,
    :latitude -28.5079992,
    :source :openstreetmap,
-   :locality "Bella Vista",
+   :location "Bella Vista",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
    :longitude -63.7876616,
    :latitude -32.7568274,
    :source :openstreetmap,
-   :locality "General Deheza",
+   :location "General Deheza",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
    :longitude -65.3618721,
    :latitude -41.6053283,
    :source :openstreetmap,
-   :locality "Sierra Grande",
+   :location "Sierra Grande",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
@@ -443,7 +443,7 @@
    :longitude -67.6929306,
    :latitude -53.7895852,
    :source :openstreetmap,
-   :locality "Río Grande",
+   :location "Río Grande",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
@@ -456,7 +456,7 @@
    :longitude -65.0351589,
    :latitude -42.7652374,
    :source :openstreetmap,
-   :locality "Puerto Madryn",
+   :location "Puerto Madryn",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
@@ -475,28 +475,28 @@
    :longitude -68.9231008,
    :latitude -37.3899591,
    :source :openstreetmap,
-   :locality "Rincón de Los Sauces",
+   :location "Rincón de Los Sauces",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
    :longitude -65.7791838,
    :latitude -28.4698826,
    :source :openstreetmap,
-   :locality "San Fernando del Valle de Catamarca",
+   :location "San Fernando del Valle de Catamarca",
    :image "",
    :description ""}
   {:name "Casa de la Cultura \"Tahona\"",
    :longitude -62.9842658,
    :latitude -40.8036014,
    :source :openstreetmap,
-   :locality "Carmen de Patagones",
+   :location "Carmen de Patagones",
    :image "",
    :description ""}
   {:name "Casa de la Cultura - Jorge Cafrune - Sector B6",
    :longitude -65.2651753,
    :latitude -24.2485324,
    :source :openstreetmap,
-   :locality "Alto Comedero",
+   :location "Alto Comedero",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Almirante Brown",
@@ -509,28 +509,28 @@
    :longitude -63.4230719,
    :latitude -36.407541,
    :source :openstreetmap,
-   :locality "Catriló",
+   :location "Catriló",
    :image "",
    :description ""}
   {:name "Casa de la Cultura de Entre Ríos",
    :longitude -60.5304328,
    :latitude -31.7378604,
    :source :openstreetmap,
-   :locality "Parana",
+   :location "Parana",
    :image "",
    :description ""}
   {:name "Casa de la Cultura de Martínez - Sede Saavedra",
    :longitude -58.5134137,
    :latitude -34.4929925,
    :source :openstreetmap,
-   :locality "Martínez",
+   :location "Martínez",
    :image "",
    :description ""}
   {:name "Casa de la Cultura de Quilmes",
    :longitude -58.2536321,
    :latitude -34.7204591,
    :source :openstreetmap,
-   :locality "Quilmes",
+   :location "Quilmes",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Doña Paula",
@@ -543,7 +543,7 @@
    :longitude -68.2261946,
    :latitude -38.9502759,
    :source :openstreetmap,
-   :locality "Plottier",
+   :location "Plottier",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Rancagua",
@@ -556,7 +556,7 @@
    :longitude -65.7033283,
    :latitude -39.4245764,
    :source :openstreetmap,
-   :locality "Lamarque",
+   :location "Lamarque",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Villa Rosa",
@@ -581,7 +581,7 @@
    :longitude -69.2331152,
    :latitude -38.9299808,
    :source :openstreetmap,
-   :locality "Cutral Có",
+   :location "Cutral Có",
    :image "",
    :description ""}
   {:name "Casa de la Historia y Cultura",
@@ -594,14 +594,14 @@
    :longitude -58.4051355,
    :latitude -31.5259481,
    :source :openstreetmap,
-   :locality "General Campos",
+   :location "General Campos",
    :image "",
    :description ""}
   {:name "Casa de la Historia y la Cultura",
    :longitude -68.3528402,
    :latitude -31.5173189,
    :source :openstreetmap,
-   :locality "Villa San Martín",
+   :location "Villa San Martín",
    :image "",
    :description ""}
   {:name "Casa de la Historia y la Cultura",
@@ -614,7 +614,7 @@
    :longitude -65.0884755,
    :latitude -40.8113179,
    :source :openstreetmap,
-   :locality "Las Grutas",
+   :location "Las Grutas",
    :image "",
    :description ""}
   {:name "Casa de la Historia y la Cultura del Bicentenario",
@@ -633,28 +633,28 @@
    :longitude -54.8959729,
    :latitude -27.0971913,
    :source :openstreetmap,
-   :locality "Aristóbulo del Valle",
+   :location "Aristóbulo del Valle",
    :image "",
    :description ""}
   {:name "Casa de la Historia y la Cultura del Bicentenario",
    :longitude -59.1072388,
    :latitude -37.306591,
    :source :openstreetmap,
-   :locality "Tandil",
+   :location "Tandil",
    :image "",
    :description ""}
   {:name "Casa de la Historia y la Cultura del Bicentenario",
    :longitude -65.2168622,
    :latitude -24.2593702,
    :source :openstreetmap,
-   :locality "Palpalá, Jujuy",
+   :location "Palpalá, Jujuy",
    :image "",
    :description ""}
   {:name "Casa de la Juventud",
    :longitude -58.5184536,
    :latitude -34.4687404,
    :source :openstreetmap,
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name "Casa de la memoria",
@@ -673,14 +673,14 @@
    :longitude -58.1921187,
    :latitude -32.2194666,
    :source :openstreetmap,
-   :locality "Colón",
+   :location "Colón",
    :image "",
    :description ""}
   {:name "Casa de la Puna",
    :longitude -65.7575416,
    :latitude -28.4534774,
    :source :openstreetmap,
-   :locality "San Fernando del Valle de Catamarca",
+   :location "San Fernando del Valle de Catamarca",
    :image "",
    :description ""}
   {:name "Casa de las botellas",
@@ -699,14 +699,14 @@
    :longitude -68.0610218,
    :latitude -38.9480421,
    :source :openstreetmap,
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Casa de las Culturas Tigre",
    :longitude -58.579125,
    :latitude -34.4220044,
    :source :openstreetmap,
-   :locality "Tigre",
+   :location "Tigre",
    :image "",
    :description ""}
   {:name "Casa de Los Gobernadores",
@@ -731,7 +731,7 @@
    :longitude -55.3231255,
    :latitude -27.6049123,
    :source :openstreetmap,
-   :locality "Leandro N. Alem",
+   :location "Leandro N. Alem",
    :image "",
    :description ""}
   {:name "Casa del Bicentenario",
@@ -744,7 +744,7 @@
    :longitude -54.3519592,
    :latitude -27.3774736,
    :source :openstreetmap,
-   :locality "Colonia Alicia",
+   :location "Colonia Alicia",
    :image "",
    :description ""}
   {:name "Casa del Poeta Agüero",
@@ -758,21 +758,21 @@
    :latitude -31.6388228,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/casagrande.sf/",
-   :locality "Santa Fe",
+   :location "Santa Fe",
    :image "",
    :description ""}
   {:name "Casa Histórica 'Isaac Fernández Blanco'",
    :longitude -58.3865096,
    :latitude -34.6100737,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Casa Malvinas",
    :longitude -58.6317653,
    :latitude -34.6538772,
    :source :openstreetmap,
-   :locality "Castelar",
+   :location "Castelar",
    :image "",
    :description ""}
   {:name "Casa Mapea",
@@ -786,7 +786,7 @@
    :latitude -38.9508972,
    :source :openstreetmap,
    :homepage "https://casa-museo-dr-gregorio-alvarez.business.site/",
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Casa Museo Arturo Illia",
@@ -799,7 +799,7 @@
    :longitude -58.4055309,
    :latitude -34.600918,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Casa museo Buffo",
@@ -813,7 +813,7 @@
    :latitude -26.8222079,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/CasaMuseoDeLaCiudadSMT/",
-   :locality "San Miguel de Tucumán",
+   :location "San Miguel de Tucumán",
    :image "",
    :description ""}
   {:name "Casa Museo Dr. Domingo Liotta",
@@ -826,7 +826,7 @@
    :longitude -54.5736525,
    :latitude -25.6003543,
    :source :openstreetmap,
-   :locality "Puerto Iguazú",
+   :location "Puerto Iguazú",
    :image "",
    :description ""}
   {:name "Casa Museo Henry Viegas",
@@ -839,7 +839,7 @@
    :longitude -57.1329747,
    :latitude -36.9893172,
    :source :openstreetmap,
-   :locality "General Juan Madariaga",
+   :location "General Juan Madariaga",
    :image "",
    :description ""}
   {:name "Casa Museo Martin Santiago",
@@ -889,7 +889,7 @@
    :longitude -65.7039661,
    :latitude -28.3942126,
    :source :openstreetmap,
-   :locality "San José de Piedra Blanca",
+   :location "San José de Piedra Blanca",
    :image "",
    :description ""}
   {:name "Casa Natal del Cura Brochero",
@@ -902,7 +902,7 @@
    :longitude -60.590995,
    :latitude -33.8865287,
    :source :openstreetmap,
-   :locality "Pergamino",
+   :location "Pergamino",
    :image "",
    :description ""}
   {:name "Casa Natal Mario Enrique Flores",
@@ -915,7 +915,7 @@
    :longitude -58.5652999,
    :latitude -34.6374814,
    :source :openstreetmap,
-   :locality "Ramos Mejía",
+   :location "Ramos Mejía",
    :image "",
    :description ""}
   {:name "Casa Natal San Martín",
@@ -935,14 +935,14 @@
    :latitude -34.6245274,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/casavalle.espaciodearte/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Casona Histórica Ismeria",
    :longitude -64.30092,
    :latitude -31.0678918,
    :source :openstreetmap,
-   :locality "Agua de Oro",
+   :location "Agua de Oro",
    :image "",
    :description ""}
   {:name "Castillo del Parque Luro",
@@ -951,7 +951,7 @@
    :source :openstreetmap,
    :homepage
    "https://sitio.lapampa.edu.ar/index.php/investigaciones-culturales/patrimonio-cultural/registro-provincial-del-patrimonio-cultural-pampeano/item/castillo-del-parque-luro",
-   :locality "Ataliva Roca",
+   :location "Ataliva Roca",
    :image "",
    :description ""}
   {:name "Castillo van Dorsser",
@@ -976,7 +976,7 @@
    :longitude -72.2657384,
    :latitude -50.3394165,
    :source :openstreetmap,
-   :locality "El Calafate",
+   :location "El Calafate",
    :image "",
    :description ""}
   {:name "Centro Cultural",
@@ -989,7 +989,7 @@
    :longitude -65.9740787,
    :latitude -26.0724293,
    :source :openstreetmap,
-   :locality "Cafayate",
+   :location "Cafayate",
    :image "",
    :description ""}
   {:name "Centro Cultural",
@@ -1002,7 +1002,7 @@
    :longitude -65.2126471,
    :latitude -26.8281605,
    :source :openstreetmap,
-   :locality "San Miguel de Tucumán",
+   :location "San Miguel de Tucumán",
    :image "",
    :description ""}
   {:name "Centro Cultural",
@@ -1015,7 +1015,7 @@
    :longitude -70.8091072,
    :latitude -43.4920189,
    :source :openstreetmap,
-   :locality "Tecka",
+   :location "Tecka",
    :image "",
    :description ""}
   {:name "Centro Cultural",
@@ -1076,7 +1076,7 @@
    :longitude -58.8437503,
    :latitude -27.4649439,
    :source :openstreetmap,
-   :locality "Corrientes",
+   :location "Corrientes",
    :image "",
    :description ""}
   {:name "Centro Cultural \"Divisadero del Arte\"",
@@ -1113,7 +1113,7 @@
    :longitude -67.7053047,
    :latitude -53.78764,
    :source :openstreetmap,
-   :locality "Río Grande",
+   :location "Río Grande",
    :image "",
    :description ""}
   {:name "Centro Cultural (Vieja Escuela)",
@@ -1127,7 +1127,7 @@
    :latitude -34.5754151,
    :source :openstreetmap,
    :homepage "https://www.clubdemusica.com/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Centro Cultural Argentino",
@@ -1135,7 +1135,7 @@
    :latitude -34.615059,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/CentroCulturalArgentino/",
-   :locality "San Rafael",
+   :location "San Rafael",
    :image "",
    :description ""}
   {:name "Centro Cultural Barrial",
@@ -1149,14 +1149,14 @@
    :latitude -34.612774,
    :source :openstreetmap,
    :homepage "http://ccba.itamaraty.gov.br/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Centro Cultural Chileno",
    :longitude -68.2391007,
    :latitude -38.9571919,
    :source :openstreetmap,
-   :locality "Plottier",
+   :location "Plottier",
    :image "",
    :description ""}
   {:name "Centro Cultural Comunal María Teresa",
@@ -1176,7 +1176,7 @@
    :longitude -60.6383086,
    :latitude -32.9539166,
    :source :openstreetmap,
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Centro Cultural de San Carlos",
@@ -1189,14 +1189,14 @@
    :longitude -70.2769585,
    :latitude -37.3741526,
    :source :openstreetmap,
-   :locality "Chos Malal",
+   :location "Chos Malal",
    :image "",
    :description ""}
   {:name "Centro Cultural Desafíos",
    :longitude -68.0722363,
    :latitude -38.9545133,
    :source :openstreetmap,
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Centro Cultural El Galpón",
@@ -1229,21 +1229,21 @@
    :latitude -27.4519421,
    :source :openstreetmap,
    :homepage "https://centroculturalgalatea.blogspot.com",
-   :locality "Resistencia",
+   :location "Resistencia",
    :image "",
    :description ""}
   {:name "Centro Cultural GFO",
    :longitude -67.9212825,
    :latitude -38.952152,
    :source :openstreetmap,
-   :locality "General Fernández Oro",
+   :location "General Fernández Oro",
    :image "",
    :description ""}
   {:name "Centro Cultural Gregorio Álvarez",
    :longitude -69.1728672,
    :latitude -38.9206966,
    :source :openstreetmap,
-   :locality "Plaza Huincul",
+   :location "Plaza Huincul",
    :image "",
    :description ""}
   {:name "Centro Cultural Haroldo Conti",
@@ -1268,7 +1268,7 @@
    :longitude -62.9953462,
    :latitude -40.814035,
    :source :openstreetmap,
-   :locality "Viedma",
+   :location "Viedma",
    :image "",
    :description ""}
   {:name "Centro cultural IMPA La Fábrica",
@@ -1290,7 +1290,7 @@
    :longitude -68.5383669,
    :latitude -31.5336945,
    :source :openstreetmap,
-   :locality "San Juan",
+   :location "San Juan",
    :image "",
    :description ""}
   {:name "Centro Cultural José Hernández",
@@ -1333,7 +1333,7 @@
    :longitude -65.2317822,
    :latitude -24.2627422,
    :source :openstreetmap,
-   :locality "Alto Comedero",
+   :location "Alto Comedero",
    :image "",
    :description ""}
   {:name "Centro Cultural MACÁ",
@@ -1347,14 +1347,14 @@
    :latitude -34.5973344,
    :source :openstreetmap,
    :homepage "https://www.ccmatienzo.com.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Centro Cultural Melipal",
    :longitude -71.3208779,
    :latitude -42.9108947,
    :source :openstreetmap,
-   :locality "Esquel",
+   :location "Esquel",
    :image "",
    :description ""}
   {:name "Centro Cultural Mirando al Sur",
@@ -1367,7 +1367,7 @@
    :longitude -62.834832,
    :latitude -28.462021,
    :source :openstreetmap,
-   :locality "Añatuya",
+   :location "Añatuya",
    :image "",
    :description ""}
   {:name "Centro Cultural Municipal",
@@ -1392,7 +1392,7 @@
    :longitude -64.9408906,
    :latitude -40.730502,
    :source :openstreetmap,
-   :locality "San Antonio Oeste",
+   :location "San Antonio Oeste",
    :image "",
    :description ""}
   {:name "Centro Cultural Municipal",
@@ -1429,7 +1429,7 @@
    :longitude -68.1296747,
    :latitude -38.9425131,
    :source :openstreetmap,
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Centro Cultural Olmedo",
@@ -1448,7 +1448,7 @@
    :longitude -58.4307622,
    :latitude -34.5797432,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Centro Cultural Parque España",
@@ -1468,7 +1468,7 @@
    :longitude -58.4714741,
    :latitude -34.5199223,
    :source :openstreetmap,
-   :locality "Vicente López",
+   :location "Vicente López",
    :image "",
    :description ""}
   {:name "Centro Cultural Peta Otamendi de Allende",
@@ -1487,7 +1487,7 @@
    :longitude -68.0587837,
    :latitude -38.9527669,
    :source :openstreetmap,
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Centro Cultural Pueblo Esther",
@@ -1508,21 +1508,21 @@
    :source :openstreetmap,
    :homepage
    "http://www.rosario.gov.ar/web/ciudad/cultura/centros-culturales/centro-cultural-roberto-fontanarrosa",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Centro Cultural Ruca Lighuen",
    :longitude -69.1954796,
    :latitude -38.9250224,
    :source :openstreetmap,
-   :locality "Plaza Huincul",
+   :location "Plaza Huincul",
    :image "",
    :description ""}
   {:name "Centro Cultural San Rafael del Diamante",
    :longitude -68.3329949,
    :latitude -34.614678,
    :source :openstreetmap,
-   :locality "San Rafael",
+   :location "San Rafael",
    :image "",
    :description ""}
   {:name "Centro Cultural Tartagal",
@@ -1535,7 +1535,7 @@
    :longitude -59.0240955,
    :latitude -34.0989953,
    :source :openstreetmap,
-   :locality "Zárate",
+   :location "Zárate",
    :image "",
    :description ""}
   {:name "Centro Cultural Tres de Febrero",
@@ -1548,14 +1548,14 @@
    :longitude -65.262205,
    :latitude -24.257008,
    :source :openstreetmap,
-   :locality "San Salvador de Jujuy",
+   :location "San Salvador de Jujuy",
    :image "",
    :description ""}
   {:name "Centro Cultural Vicente Cidade",
    :longitude -55.8881162,
    :latitude -27.363673,
    :source :openstreetmap,
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Centro Cultural y Biblioteca Popular \"El Sueñero\"",
@@ -1563,7 +1563,7 @@
    :latitude -34.6315197,
    :source :openstreetmap,
    :homepage "http://www.ccelsueñero.com.ar",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Centro Cultural y Museo \"Las 9 Musas\"",
@@ -1576,21 +1576,21 @@
    :longitude -59.1106403,
    :latitude -34.568224,
    :source :openstreetmap,
-   :locality "Luján",
+   :location "Luján",
    :image "",
    :description ""}
   {:name "Centro Cultural Éxodo Jujeño",
    :longitude -65.2956224,
    :latitude -24.2048518,
    :source :openstreetmap,
-   :locality "San Salvador de Jujuy",
+   :location "San Salvador de Jujuy",
    :image "",
    :description ""}
   {:name "Centro de Arte Asiatico Chen",
    :longitude -64.3455484,
    :latitude -33.0976797,
    :source :openstreetmap,
-   :locality "Río Cuarto",
+   :location "Río Cuarto",
    :image "",
    :description ""}
   {:name "Centro de Arte Contemporáneo Chateau Carreras",
@@ -1628,7 +1628,7 @@
    :latitude -32.9420152,
    :source :openstreetmap,
    :homepage "http://www.cecrosario.gob.ar/",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Centro de Imaginería Guaraní",
@@ -1637,7 +1637,7 @@
    :source :openstreetmap,
    :homepage
    "https://museo-guarani.negocio.site/?utm_source=gmb&utm_medium=referral",
-   :locality "Corrientes",
+   :location "Corrientes",
    :image "",
    :description ""}
   {:name "Centro de Interpretación Ambiental",
@@ -1687,7 +1687,7 @@
    :longitude -63.1566337,
    :latitude -41.1564329,
    :source :openstreetmap,
-   :locality "La Lobería",
+   :location "La Lobería",
    :image "",
    :description ""}
   {:name "Centro de Interpretación Histórica",
@@ -1712,14 +1712,14 @@
    :longitude -65.8315389,
    :latitude -28.4661803,
    :source :openstreetmap,
-   :locality "San Fernando del Valle de Catamarca",
+   :location "San Fernando del Valle de Catamarca",
    :image "",
    :description ""}
   {:name "Centro de Producción Audiovisual Leonardo Favio",
    :longitude -58.2897462,
    :latitude -34.7137309,
    :source :openstreetmap,
-   :locality "Bernal",
+   :location "Bernal",
    :image "",
    :description ""}
   {:name "Centro de Veteranos yFamiliares Caidos en Malvinas",
@@ -1739,7 +1739,7 @@
    :latitude -31.5354259,
    :source :openstreetmap,
    :homepage "https://casanatalsarmiento.cultura.gob.ar",
-   :locality "San Juan",
+   :location "San Juan",
    :image "",
    :description ""}
   {:name "Centro Laboral Nº 22",
@@ -1753,14 +1753,14 @@
    :latitude -34.6548778,
    :source :openstreetmap,
    :homepage "http://www.cmd.gov.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Centro Municipal de Arte",
    :longitude -67.5804035,
    :latitude -39.0273734,
    :source :openstreetmap,
-   :locality "General Roca",
+   :location "General Roca",
    :image "",
    :description ""}
   {:name "Centro Navarro",
@@ -1773,21 +1773,21 @@
    :longitude -68.7247258,
    :latitude -38.4515625,
    :source :openstreetmap,
-   :locality "Añelo",
+   :location "Añelo",
    :image "",
    :description ""}
   {:name "Centro Polivalente de Arte",
    :longitude -62.736313,
    :latitude -35.9658829,
    :source :openstreetmap,
-   :locality "Trenque Lauquen",
+   :location "Trenque Lauquen",
    :image "",
    :description ""}
   {:name "Centro Recreativo de La 3º Edad",
    :longitude -65.2934365,
    :latitude -24.1923754,
    :source :openstreetmap,
-   :locality "San Salvador de Jujuy",
+   :location "San Salvador de Jujuy",
    :image "",
    :description ""}
   {:name "Centro Tombo",
@@ -1812,14 +1812,14 @@
    :longitude -67.4772544,
    :latitude -45.8634392,
    :source :openstreetmap,
-   :locality "Comodoro Rivadavia",
+   :location "Comodoro Rivadavia",
    :image "",
    :description ""}
   {:name "Chien Noir",
    :longitude -58.440574,
    :latitude -34.5819676,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Ciudad Cultural Konex",
@@ -1827,7 +1827,7 @@
    :latitude -34.606124,
    :source :openstreetmap,
    :homepage "http://ciudadculturalkonex.org",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Claustros históricos Basílica del Pilar",
@@ -1836,7 +1836,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.basilicadelpilar.org.ar/index.php/la-parroquia/la-basilica/claustros",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Club de Astronomía ing Felix Aguilar",
@@ -1851,7 +1851,7 @@
    :latitude -34.5995425,
    :source :openstreetmap,
    :homepage "https://www.coleccionfortabat.org.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Comparsa Maringá",
@@ -1870,7 +1870,7 @@
    :longitude -68.0002375,
    :latitude -38.9409052,
    :source :openstreetmap,
-   :locality "Cipolletti",
+   :location "Cipolletti",
    :image "",
    :description ""}
   {:name "Complejo Cultural Las Juntas",
@@ -1883,7 +1883,7 @@
    :longitude -58.5374851,
    :latitude -34.5763397,
    :source :openstreetmap,
-   :locality "San Martín",
+   :location "San Martín",
    :image "",
    :description ""}
   {:name "Complejo Cultural Sanidad",
@@ -1891,7 +1891,7 @@
    :latitude -34.6148905,
    :source :openstreetmap,
    :homepage "https://www.atsa.org.ar/ccs/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Complejo Cultural Urbano Girardi",
@@ -1917,7 +1917,7 @@
    :longitude -65.271911,
    :latitude -24.1820922,
    :source :openstreetmap,
-   :locality "SAN SALVADOR DE JUJUY",
+   :location "SAN SALVADOR DE JUJUY",
    :image "",
    :description ""}
   {:name "Complejo Municipal de Cultura de los Santos Lugares",
@@ -1949,7 +1949,7 @@
    :latitude -34.4875511,
    :source :openstreetmap,
    :homepage "http://cjjc.com.ar/",
-   :locality "Martínez",
+   :location "Martínez",
    :image "",
    :description ""}
   {:name "Copérnico",
@@ -1987,7 +1987,7 @@
    :longitude -58.3974412,
    :latitude -34.7741062,
    :source :openstreetmap,
-   :locality "Temperley",
+   :location "Temperley",
    :image "",
    :description ""}
   {:name "Deodora Roca",
@@ -2006,7 +2006,7 @@
    :longitude -55.7537042,
    :latitude -27.9144059,
    :source :openstreetmap,
-   :locality "Apóstoles",
+   :location "Apóstoles",
    :image "",
    :description ""}
   {:name "Domingo Isthilart",
@@ -2020,35 +2020,35 @@
    :latitude -34.5772335,
    :source :openstreetmap,
    :homepage "https://www.domusartis.com.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Don Francisco Soto y Calvo",
    :longitude -60.0691863,
    :latitude -33.5034104,
    :source :openstreetmap,
-   :locality "Villa Ramallo",
+   :location "Villa Ramallo",
    :image "",
    :description ""}
   {:name "Dynart",
    :longitude -58.4668206,
    :latitude -34.548558,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Ecocentro",
    :longitude -64.9958574,
    :latitude -42.7822677,
    :source :openstreetmap,
-   :locality "Puerto Madryn",
+   :location "Puerto Madryn",
    :image "",
    :description ""}
   {:name "Edificio central",
    :longitude -58.418539,
    :latitude -34.5824536,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Edificio de Administración de Ferrocarriles",
@@ -2085,7 +2085,7 @@
    :longitude -68.8363402,
    :latitude -32.8661311,
    :source :openstreetmap,
-   :locality "Mendoza",
+   :location "Mendoza",
    :image "",
    :description ""}
   {:name "El Hogar Misionero del Che",
@@ -2110,7 +2110,7 @@
    :longitude -55.7681092,
    :latitude -27.9277362,
    :source :openstreetmap,
-   :locality "Apóstoles",
+   :location "Apóstoles",
    :image "",
    :description ""}
   {:name "El Taller de la Cigarra",
@@ -2118,7 +2118,7 @@
    :latitude -34.5874584,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/taller.delacigarra",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "El Templo del Fútbol",
@@ -2126,7 +2126,7 @@
    :latitude -34.6059443,
    :source :openstreetmap,
    :homepage "https://www.argentinosjuniors.com.ar/el-club/museo/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "El Tordillo",
@@ -2135,7 +2135,7 @@
    :source :openstreetmap,
    :homepage
    "https://museoeltordillo.tripod.com/pareravirtual/id21.html",
-   :locality "Parera",
+   :location "Parera",
    :image "",
    :description ""}
   {:name "El Triunfo",
@@ -2144,14 +2144,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.noroestebonaerense.com.ar/PARTIDOLINCOLN/ElTriunfo/LugaresFotosElTriunfo/LugaresFotosElTriunfo.htm",
-   :locality "El Triunfo",
+   :location "El Triunfo",
    :image "",
    :description ""}
   {:name "El Tupí",
    :longitude -54.5960972,
    :latitude -26.0182005,
    :source :openstreetmap,
-   :locality "Puerto Esperanza",
+   :location "Puerto Esperanza",
    :image "",
    :description ""}
   {:name "Ernesto 'Finito' Gehrmann",
@@ -2164,14 +2164,14 @@
    :longitude -62.1091673,
    :latitude -32.6964744,
    :source :openstreetmap,
-   :locality "Marcos Juárez",
+   :location "Marcos Juárez",
    :image "",
    :description ""}
   {:name "Escuela de Arte Municipal",
    :longitude -58.8306606,
    :latitude -27.4827909,
    :source :openstreetmap,
-   :locality "Corrientes",
+   :location "Corrientes",
    :image "",
    :description ""}
   {:name "Escuela de Artes Circenses \"Larrisa\"",
@@ -2200,28 +2200,28 @@
    :source :openstreetmap,
    :homepage
    "https://www.buenosaires.gob.ar/areas/educacion/escuelas/escuelas/primaria/de12esc01/default.htm",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Escuela Museo Gobernación de los Andes",
    :longitude -69.4195175,
    :latitude -31.4599399,
    :source :openstreetmap,
-   :locality "Tamberías",
+   :location "Tamberías",
    :image "",
    :description ""}
   {:name "Escuela Provincial de Títeres \"Alicia Murphy\"",
    :longitude -68.0849836,
    :latitude -38.9582268,
    :source :openstreetmap,
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Espacio Abierto",
    :longitude -64.4177923,
    :latitude -31.8030887,
    :source :openstreetmap,
-   :locality "José de la Quintana",
+   :location "José de la Quintana",
    :image "",
    :description ""}
   {:name "Espacio Cultural \"Julio Le Parc\"",
@@ -2253,7 +2253,7 @@
    :latitude -32.9462046,
    :source :openstreetmap,
    :homepage "http://www.ecu.unr.edu.ar/",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Espacio de Arte \"La Salamandra\"",
@@ -2306,7 +2306,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.neuquencapital.gov.ar/cultura/espaciosculturales/sala-emilio-saraco/",
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Espacio Reciclado",
@@ -2332,7 +2332,7 @@
    :longitude -61.9028688,
    :latitude -32.2656817,
    :source :openstreetmap,
-   :locality "María Susana",
+   :location "María Susana",
    :image "",
    :description ""}
   {:name "Estación de la Juventud",
@@ -2370,7 +2370,7 @@
    :latitude -31.6576743,
    :source :openstreetmap,
    :homepage "https://museoliniers.cultura.gob.ar/",
-   :locality "Alta Gracia",
+   :location "Alta Gracia",
    :image "",
    :description ""}
   {:name "Estancia Jesuitica Colonia Caroya",
@@ -2383,7 +2383,7 @@
    :longitude -68.304081,
    :latitude -54.8069602,
    :source :openstreetmap,
-   :locality "Ushuaia",
+   :location "Ushuaia",
    :image "",
    :description ""}
   {:name "Explanada de entrada",
@@ -2405,7 +2405,7 @@
    :latitude -24.1890667,
    :source :openstreetmap,
    :homepage "https://fi.unju.edu.ar/",
-   :locality "San Salvador de Jujuy",
+   :location "San Salvador de Jujuy",
    :image "",
    :description ""}
   {:name "Fauna",
@@ -2421,7 +2421,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.ferroclub.org.ar/?fbclid=IwY2xjawLqJQNleHRuA2FlbQIxMABicmlkETFJTGVOclp2NkxkN2FzbkE3AR6AIawn5naVPJLV9jJJ-akw-qO06nivXXnPfbh5pJkcIqwFCdkcF1rPT_0LbA_aem_sPLCvpWI8ETJHwh5DQJtZA",
-   :locality "Sáenz Peña",
+   :location "Sáenz Peña",
    :image "",
    :description ""}
   {:name "Ferroclub de Remedios de Escalada",
@@ -2443,14 +2443,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.unl.edu.ar/extension/foro-cultural-univesitario/",
-   :locality "Santa Fe",
+   :location "Santa Fe",
    :image "",
    :description ""}
   {:name "FotografiArte",
    :longitude -67.5068491,
    :latitude -46.4480656,
    :source :openstreetmap,
-   :locality "Caleta Olivia",
+   :location "Caleta Olivia",
    :image "",
    :description ""}
   {:name "Francisco Pascasio Moreno",
@@ -2487,21 +2487,21 @@
    :longitude -58.3990059,
    :latitude -34.6188891,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Fundación Marambio Museo Antártico",
    :longitude -58.5510873,
    :latitude -34.528179,
    :source :openstreetmap,
-   :locality "Villa Adelina",
+   :location "Villa Adelina",
    :image "",
    :description ""}
   {:name "Fundación Ramseyer Dayer",
    :longitude -60.932564,
    :latitude -31.44742,
    :source :openstreetmap,
-   :locality "Esperanza",
+   :location "Esperanza",
    :image "",
    :description ""}
   {:name "Galeno Art",
@@ -2509,7 +2509,7 @@
    :latitude -34.6047275,
    :source :openstreetmap,
    :homepage "https://museomitre.cultura.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Galeria Cultural",
@@ -2529,7 +2529,7 @@
    :latitude -34.622947,
    :source :openstreetmap,
    :homepage "https://www.galeriadelasombro.com/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Galería centro",
@@ -2542,7 +2542,7 @@
    :longitude -58.3716411,
    :latitude -34.6162447,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Galería de Arte Cerro Otto",
@@ -2573,7 +2573,7 @@
    :longitude -58.4310208,
    :latitude -34.5877256,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Galería Notre Dame",
@@ -2618,7 +2618,7 @@
    :latitude -50.3366032,
    :source :openstreetmap,
    :homepage "https://www.glaciarium.com/",
-   :locality "El Calafate",
+   :location "El Calafate",
    :image "",
    :description ""}
   {:name "Gorriti Art Center",
@@ -2649,7 +2649,7 @@
    :longitude -60.5881778,
    :latitude -31.9918145,
    :source :openstreetmap,
-   :locality "Valle María",
+   :location "Valle María",
    :image "",
    :description ""}
   {:name "Hoy en el Arte",
@@ -2663,14 +2663,14 @@
    :longitude -65.4959271,
    :latitude -26.2346447,
    :source :openstreetmap,
-   :locality "San Pedro de Colalao",
+   :location "San Pedro de Colalao",
    :image "",
    :description ""}
   {:name "Huellas del Pasado",
    :longitude -54.748504,
    :latitude -26.5717336,
    :source :openstreetmap,
-   :locality "Montecarlo",
+   :location "Montecarlo",
    :image "",
    :description ""}
   {:name "Hugo Alberto Luna",
@@ -2683,7 +2683,7 @@
    :longitude -59.1359339,
    :latitude -37.3105788,
    :source :openstreetmap,
-   :locality "Tandil",
+   :location "Tandil",
    :image "",
    :description ""}
   {:name "Instituto Canción Taller de Arte",
@@ -2744,14 +2744,14 @@
    :longitude -64.3328215,
    :latitude -31.3537456,
    :source :openstreetmap,
-   :locality "La Calera",
+   :location "La Calera",
    :image "",
    :description ""}
   {:name "Julio Pagano",
    :longitude -59.645133,
    :latitude -29.144132,
    :source :openstreetmap,
-   :locality "Reconquista",
+   :location "Reconquista",
    :image "",
    :description ""}
   {:name "Kadenza",
@@ -2759,14 +2759,14 @@
    :latitude -34.6067673,
    :source :openstreetmap,
    :homepage "http://www.kadenza.com.ar",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Kumelen Asociación Civil",
    :longitude -61.9793024,
    :latitude -32.1438961,
    :source :openstreetmap,
-   :locality "Piamonte",
+   :location "Piamonte",
    :image "",
    :description ""}
   {:name "La Abadía, Centro de Arte y Estudios Latinoamericanos",
@@ -2774,7 +2774,7 @@
    :latitude -34.5676431,
    :source :openstreetmap,
    :homepage "http://www.laabadia.org/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "La Bici Barrio Hipódromo",
@@ -2787,7 +2787,7 @@
    :longitude -60.6886757,
    :latitude -31.6383423,
    :source :openstreetmap,
-   :locality "Santa Fe",
+   :location "Santa Fe",
    :image "",
    :description ""}
   {:name "La Casa de los Abuelos",
@@ -2800,7 +2800,7 @@
    :longitude -58.0118024,
    :latitude -31.3858661,
    :source :openstreetmap,
-   :locality "Concordia",
+   :location "Concordia",
    :image "",
    :description ""}
   {:name "La Estación",
@@ -2808,7 +2808,7 @@
    :latitude -34.601398,
    :source :openstreetmap,
    :homepage "https://www.museoabasto.org.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "La Ira de Dios",
@@ -2834,7 +2834,7 @@
    :latitude -28.4504869,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/la.osera.casa.cultural/",
-   :locality "San Fernando del Valle de Catamarca",
+   :location "San Fernando del Valle de Catamarca",
    :image "",
    :description ""}
   {:name "La Pastera Museo del Che Guevara",
@@ -2871,7 +2871,7 @@
    :longitude -58.3771261,
    :latitude -34.6517467,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Los Rostros de la Pampa",
@@ -2896,7 +2896,7 @@
    :longitude -60.9278541,
    :latitude -31.4502298,
    :source :openstreetmap,
-   :locality "Esperanza",
+   :location "Esperanza",
    :image "",
    :description ""}
   {:name "MALBA Puertos / Salas del Bosque 3",
@@ -2925,7 +2925,7 @@
    :source :openstreetmap,
    :homepage
    "https://salamone.museosabiertos.org/Matadero_municipal_de_Salliqueló",
-   :locality "Salliqueló",
+   :location "Salliqueló",
    :image "",
    :description ""}
   {:name "MEC Muso en los Cerros",
@@ -2963,7 +2963,7 @@
    :longitude -58.5746955,
    :latitude -34.4958584,
    :source :openstreetmap,
-   :locality "Bouloge",
+   :location "Bouloge",
    :image "",
    :description ""}
   {:name "Mirador de Altube",
@@ -3000,14 +3000,14 @@
    :longitude -67.5013252,
    :latitude -29.1631472,
    :source :openstreetmap,
-   :locality "Chilecito",
+   :location "Chilecito",
    :image "",
    :description ""}
   {:name "Monumento Histórico Nacional",
    :longitude -61.1417436,
    :latitude -31.6094437,
    :source :openstreetmap,
-   :locality "San Jerónimo del Sauce",
+   :location "San Jerónimo del Sauce",
    :image "",
    :description ""}
   {:name "Monumento Histórico Nacional 4ª Batería",
@@ -3099,14 +3099,14 @@
    :longitude -59.4473212,
    :latitude -28.2315458,
    :source :openstreetmap,
-   :locality "Villa Guillermina",
+   :location "Villa Guillermina",
    :image "",
    :description ""}
   {:name "Museo \"Tarragó Ros\"",
    :longitude -58.0655811,
    :latitude -29.7872527,
    :source :openstreetmap,
-   :locality "Curuzú Cuatiá",
+   :location "Curuzú Cuatiá",
    :image "",
    :description ""}
   {:name "Museo 'Amigos del Centenario de Santa Lucía'",
@@ -3125,7 +3125,7 @@
    :longitude -64.8835483,
    :latitude -40.8041512,
    :source :openstreetmap,
-   :locality "San Antonio Este",
+   :location "San Antonio Este",
    :image "",
    :description ""}
   {:name "Museo 'Manuel de Falla'",
@@ -3142,7 +3142,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.dominicasanunciata.org/noticias/museo-padre-coll/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "museo 1923",
@@ -3168,7 +3168,7 @@
    :latitude -27.6017988,
    :source :openstreetmap,
    :homepage "http://www.rusticoabolengo.com.ar/",
-   :locality "Leandro N. Alem",
+   :location "Leandro N. Alem",
    :image "",
    :description ""}
   {:name "Museo Acatushún",
@@ -3182,7 +3182,7 @@
    :latitude -28.4662848,
    :source :openstreetmap,
    :homepage "http://museoarquiroga.blogspot.com/",
-   :locality "San Fernando del Valle de Catamarca",
+   :location "San Fernando del Valle de Catamarca",
    :image "",
    :description ""}
   {:name "Museo Aeronáutico Militar",
@@ -3195,14 +3195,14 @@
    :longitude -60.004584,
    :latitude -31.6099251,
    :source :openstreetmap,
-   :locality "Aldea Santa María",
+   :location "Aldea Santa María",
    :image "",
    :description ""}
   {:name "Museo Alfaro",
    :longitude -58.5105719,
    :latitude -34.4674007,
    :source :openstreetmap,
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name
@@ -3216,7 +3216,7 @@
    :longitude -62.7273634,
    :latitude -35.9757308,
    :source :openstreetmap,
-   :locality "Trenque Lauquen",
+   :location "Trenque Lauquen",
    :image "",
    :description ""}
   {:name "Museo Almafuerte",
@@ -3250,14 +3250,14 @@
    :latitude -34.5629374,
    :source :openstreetmap,
    :homepage "https://www.centroanafrank.com.ar/museo",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Ana P. Boleas",
    :longitude -59.446682,
    :latitude -31.3410928,
    :source :openstreetmap,
-   :locality "Bovril",
+   :location "Bovril",
    :image "",
    :description ""}
   {:name "Museo Anconetani del Acordeón",
@@ -3265,7 +3265,7 @@
    :latitude -34.5865588,
    :source :openstreetmap,
    :homepage "http://www.anconetani.net/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Andés Rodriguez",
@@ -3287,7 +3287,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.ituzaingo.gob.ar/index.php/lugares-para-visitar",
-   :locality "Ituzaingó",
+   :location "Ituzaingó",
    :image "",
    :description ""}
   {:name "Museo archeologico de Tastil",
@@ -3300,7 +3300,7 @@
    :longitude -60.8006251,
    :latitude -37.543599,
    :source :openstreetmap,
-   :locality "Laprida",
+   :location "Laprida",
    :image "",
    :description ""}
   {:name
@@ -3316,14 +3316,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.argentina.gob.ar/derechoshumanos/museo-sitio-de-memoria-esma",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Arcor",
    :longitude -63.0425235,
    :latitude -31.4216426,
    :source :openstreetmap,
-   :locality "Arroyito",
+   :location "Arroyito",
    :image "",
    :description ""}
   {:name "Museo Argentino de Ciencias Naturales Bernardino Rivadavia",
@@ -3331,21 +3331,21 @@
    :latitude -34.6055662,
    :source :openstreetmap,
    :homepage "https://www.macnconicet.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Argentino de Motos Antiguas \"Luis Paludet\"",
    :longitude -68.8378537,
    :latitude -32.8961422,
    :source :openstreetmap,
-   :locality "Mendoza",
+   :location "Mendoza",
    :image "",
    :description ""}
   {:name "Museo Argentino del Juguete",
    :longitude -72.2624641,
    :latitude -50.3383719,
    :source :openstreetmap,
-   :locality "El Calafate",
+   :location "El Calafate",
    :image "",
    :description ""}
   {:name "Museo Argentino del Títere",
@@ -3354,21 +3354,21 @@
    :source :openstreetmap,
    :homepage
    "https://museodeltiterebsas.wixsite.com/museoargdeltitere",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Argentino Urquiza",
    :longitude -68.9148622,
    :latitude -37.3844613,
    :source :openstreetmap,
-   :locality "Rincón de Los Sauces",
+   :location "Rincón de Los Sauces",
    :image "",
    :description ""}
   {:name "Museo Arquelógico Cadillal (MAC)",
    :longitude -65.200587,
    :latitude -26.6228081,
    :source :openstreetmap,
-   :locality "El Cadillal",
+   :location "El Cadillal",
    :image "",
    :description ""}
   {:name "Museo Arqueologico Andalgalá",
@@ -3441,7 +3441,7 @@
    :longitude -66.0476226,
    :latitude -26.6953877,
    :source :openstreetmap,
-   :locality "Santa María",
+   :location "Santa María",
    :image "",
    :description ""}
   {:name "Museo Arqueológico Jorge Saravia",
@@ -3513,7 +3513,7 @@
    :latitude -36.6115866,
    :source :openstreetmap,
    :homepage "http://www.estancialaholanda.com.ar/museo/",
-   :locality "Carro Quemado",
+   :location "Carro Quemado",
    :image "",
    :description ""}
   {:name "Museo Automóvilístico",
@@ -3527,7 +3527,7 @@
    :latitude -34.6279263,
    :source :openstreetmap,
    :homepage "https://museobarriodeflores.com.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Barrio de Flores",
@@ -3548,7 +3548,7 @@
    :longitude -55.1386953,
    :latitude -27.8694942,
    :source :openstreetmap,
-   :locality "San Javier",
+   :location "San Javier",
    :image "",
    :description ""}
   {:name "Museo Bergallo",
@@ -3573,7 +3573,7 @@
    :longitude -60.6425063,
    :latitude -32.9452385,
    :source :openstreetmap,
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo Borges",
@@ -3623,7 +3623,7 @@
    :latitude -40.7992852,
    :source :openstreetmap,
    :homepage "www.prefecturanaval.edu.ar/museo/",
-   :locality "Carmen de Patagones",
+   :location "Carmen de Patagones",
    :image "",
    :description ""}
   {:name "Museo Cartref Taid",
@@ -3636,7 +3636,7 @@
    :longitude -58.5528611,
    :latitude -34.55094,
    :source :openstreetmap,
-   :locality "Villa Ballester",
+   :location "Villa Ballester",
    :image "",
    :description ""}
   {:name "Museo Casa Copetti",
@@ -3656,14 +3656,14 @@
    :longitude -62.2244282,
    :latitude -38.1022157,
    :source :openstreetmap,
-   :locality "Tornquist",
+   :location "Tornquist",
    :image "",
    :description ""}
   {:name "Museo Casa de Los Oribe",
    :longitude -64.994175,
    :latitude -33.1709019,
    :source :openstreetmap,
-   :locality "Achiras",
+   :location "Achiras",
    :image "",
    :description ""}
   {:name "Museo casa de los Patricios Tucumanos",
@@ -3685,7 +3685,7 @@
    :latitude -34.5939504,
    :source :openstreetmap,
    :homepage "https://museorojas.cultura.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Casa de Yrurtia",
@@ -3693,7 +3693,7 @@
    :latitude -34.5573828,
    :source :openstreetmap,
    :homepage "https://museoyrurtia.cultura.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Casa del Che Guevara",
@@ -3731,7 +3731,7 @@
    :longitude -68.8189429,
    :latitude -32.8781733,
    :source :openstreetmap,
-   :locality "Guaymallén",
+   :location "Guaymallén",
    :image "",
    :description ""}
   {:name "Museo Casa Natal de Eva Perón",
@@ -3745,14 +3745,14 @@
    :latitude -34.6083444,
    :source :openstreetmap,
    :homepage "https://www.casarosada.gob.ar/museo",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Casa sobre el Arroyo",
    :longitude -57.5737136,
    :latitude -38.0087311,
    :source :openstreetmap,
-   :locality "Mar del Plata",
+   :location "Mar del Plata",
    :image "",
    :description ""}
   {:name "Museo Cayetano Silva",
@@ -3773,14 +3773,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.sanfernando.gob.ar/municipio/lugares-historicos/museo-de-la-ciudad-san-fernando-de-la-buena-vista",
-   :locality "San Fernando",
+   :location "San Fernando",
    :image "",
    :description ""}
   {:name "Museo Club Atlético San Lorenzo de Almagro",
    :longitude -58.4241297,
    :latitude -34.6358194,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Colonias Judias",
@@ -3793,7 +3793,7 @@
    :longitude -62.0409718,
    :latitude -33.3278862,
    :source :openstreetmap,
-   :locality "Chañar Ladeado",
+   :location "Chañar Ladeado",
    :image "",
    :description ""}
   {:name "Museo Comunal",
@@ -3806,7 +3806,7 @@
    :longitude -61.125166,
    :latitude -33.541811,
    :source :openstreetmap,
-   :locality "Alcorta",
+   :location "Alcorta",
    :image "",
    :description ""}
   {:name "Museo Comunal - Punto Digital",
@@ -3832,14 +3832,14 @@
    :latitude -26.4080854,
    :source :openstreetmap,
    :homepage "http://museoprincipal9.blogspot.com/",
-   :locality "Eldorado",
+   :location "Eldorado",
    :image "",
    :description ""}
   {:name "Museo Criollo de los Corrales",
    :longitude -58.4995777,
    :latitude -34.6626257,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Cultural Sanvalentino",
@@ -3865,21 +3865,21 @@
    :longitude -57.9286867,
    :latitude -34.911227,
    :source :openstreetmap,
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Museo de Antigüedades del Pueblo",
    :longitude -57.2803721,
    :latitude -27.7696664,
    :source :openstreetmap,
-   :locality "Loreto",
+   :location "Loreto",
    :image "",
    :description ""}
   {:name "Museo de Antropología",
    :longitude -65.2037437,
    :latitude -26.82754,
    :source :openstreetmap,
-   :locality "San Miguel de Tucumán",
+   :location "San Miguel de Tucumán",
    :image "",
    :description ""}
   {:name "Museo de Antropología de la Universidad de Córdoba",
@@ -3892,14 +3892,14 @@
    :longitude -65.3977468,
    :latitude -24.7862231,
    :source :openstreetmap,
-   :locality "Salta",
+   :location "Salta",
    :image "",
    :description ""}
   {:name "Museo de Antropología y Ciencias Naturales de Concordia",
    :longitude -58.0135305,
    :latitude -31.4010466,
    :source :openstreetmap,
-   :locality "Concordia",
+   :location "Concordia",
    :image "",
    :description ""}
   {:name "Museo de Armas de la Nación",
@@ -3907,7 +3907,7 @@
    :latitude -34.5960316,
    :source :openstreetmap,
    :homepage "https://museodeinformatica.org.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo De Arqueología Carlos Gradin",
@@ -3928,7 +3928,7 @@
    :latitude -34.5864222,
    :source :openstreetmap,
    :homepage "https://socearq.org/marq/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Arte Cañadense",
@@ -3942,7 +3942,7 @@
    :latitude -34.4588072,
    :source :openstreetmap,
    :homepage "https://www.museolucymattos.com/",
-   :locality "Beccar",
+   :location "Beccar",
    :image "",
    :description ""}
   {:name "Museo de Arte Contemporáneo - UNL",
@@ -3955,21 +3955,21 @@
    :longitude -60.9430368,
    :latitude -34.5829454,
    :source :openstreetmap,
-   :locality "Junín",
+   :location "Junín",
    :image "",
    :description ""}
   {:name "Museo de Arte Contemporáneo Beato Angélico",
    :longitude -57.9615321,
    :latitude -34.9214703,
    :source :openstreetmap,
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Museo de Arte Contemporáneo Conrad Meier",
    :longitude -71.635127,
    :latitude -40.765578,
    :source :openstreetmap,
-   :locality "Villa La Angostura",
+   :location "Villa La Angostura",
    :image "",
    :description ""}
   {:name "Museo de Arte Contemporáneo Raúl Lozza",
@@ -3977,7 +3977,7 @@
    :latitude -35.0313474,
    :source :openstreetmap,
    :homepage "http://museolozza.com.ar",
-   :locality "Alberti",
+   :location "Alberti",
    :image "",
    :description ""}
   {:name "Museo de Arte Contemporáneo Rosario",
@@ -3985,7 +3985,7 @@
    :latitude -32.9301236,
    :source :openstreetmap,
    :homepage "http://www.macromuseo.org.ar/index.htm",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo de Arte de General Alvear",
@@ -3999,7 +3999,7 @@
    :latitude -51.6240391,
    :source :openstreetmap,
    :homepage "http://museominnicelli.santacruz.gov.ar/",
-   :locality "Río Gallegos",
+   :location "Río Gallegos",
    :image "",
    :description ""}
   {:name "Museo de Arte Escenográfico \"Botica del Ángel\"",
@@ -4007,7 +4007,7 @@
    :latitude -34.614929,
    :source :openstreetmap,
    :homepage "https://boticadelangel.usal.edu.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Arte Gabriel Dubois",
@@ -4016,7 +4016,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.altagracia.gov.ar/cultura/museo-de-arte-gabriel-dubois.html",
-   :locality "Alta Gracia",
+   :location "Alta Gracia",
    :image "",
    :description ""}
   {:name "Museo de Arte Luis José Pisano",
@@ -4029,7 +4029,7 @@
    :longitude -65.0318425,
    :latitude -42.7679059,
    :source :openstreetmap,
-   :locality "Puerto Madryn",
+   :location "Puerto Madryn",
    :image "",
    :description ""}
   {:name "Museo de Arte Molina Rosa",
@@ -4044,14 +4044,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.buenosaires.gob.ar/museos/museo-de-arte-popular-jose-hernandez",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Arte Sacro María Antonia de San José",
    :longitude -58.3824447,
    :latitude -34.618134,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Arte Sacro San Francisco Solano",
@@ -4064,7 +4064,7 @@
    :longitude -58.7115725,
    :latitude -28.5714914,
    :source :openstreetmap,
-   :locality "San Roque",
+   :location "San Roque",
    :image "",
    :description ""}
   {:name "Museo de Arte Tigre",
@@ -4072,7 +4072,7 @@
    :latitude -34.4090586,
    :source :openstreetmap,
    :homepage "http://www.mat.gov.ar/",
-   :locality "Tigre",
+   :location "Tigre",
    :image "",
    :description ""}
   {:name "Museo de Arte y Diseño",
@@ -4086,21 +4086,21 @@
    :latitude -34.568916,
    :source :openstreetmap,
    :homepage "https://www.buenosaires.gob.ar/museos/museo-sivori",
-   :locality "Ciudad autónoma de Buenos Aires",
+   :location "Ciudad autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Artes Plásticas Julián Tornambé",
    :longitude -68.5493525,
    :latitude -31.5325257,
    :source :openstreetmap,
-   :locality "San Juan",
+   :location "San Juan",
    :image "",
    :description ""}
   {:name "Museo de Artes Plásticas Pompeo Boggio",
    :longitude -60.0225636,
    :latitude -34.8912872,
    :source :openstreetmap,
-   :locality "Chivilcoy",
+   :location "Chivilcoy",
    :image "",
    :description ""}
   {:name "Museo de Artes Visuales \"Orlando Rufinengo\"",
@@ -4114,7 +4114,7 @@
    :latitude -34.6389831,
    :source :openstreetmap,
    :homepage "https://www.buenosaires.gob.ar/museoquinquelamartin/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Automovilismo",
@@ -4139,14 +4139,14 @@
    :longitude -63.0137468,
    :latitude -35.0334771,
    :source :openstreetmap,
-   :locality "General Villegas",
+   :location "General Villegas",
    :image "",
    :description ""}
   {:name "Museo de Bellas Artes Fernán Félix de Amador",
    :longitude -59.1201557,
    :latitude -34.562484,
    :source :openstreetmap,
-   :locality "Luján",
+   :location "Luján",
    :image "",
    :description ""}
   {:name "Museo de Bellas Artes Laureano Brizuela",
@@ -4155,7 +4155,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.catamarcaciudad.gob.ar/museo-de-la-virgen-del-valle/",
-   :locality "San Fernando del Valle de Catamarca",
+   :location "San Fernando del Valle de Catamarca",
    :image "",
    :description ""}
   {:name "Museo de Bellas Artes Lucas Braulio Areco",
@@ -4163,7 +4163,7 @@
    :latitude -27.367629,
    :source :openstreetmap,
    :homepage "http://www.museojuanyapari.misiones.gov.ar/",
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Museo de Bellas Artes Osvaldo Gasparini",
@@ -4172,7 +4172,7 @@
    :source :openstreetmap,
    :homepage
    "https://elguiadeareco.wixsite.com/website/museo-evocativo-de-bellas-artes-osv",
-   :locality "San Antonio de Areco",
+   :location "San Antonio de Areco",
    :image "",
    :description ""}
   {:name "Museo de Bellas Artes René Bruseau",
@@ -4185,7 +4185,7 @@
    :longitude -60.2881955,
    :latitude -29.8842656,
    :source :openstreetmap,
-   :locality "Calchaquí",
+   :location "Calchaquí",
    :image "",
    :description ""}
   {:name "Museo de Campo Santo",
@@ -4219,14 +4219,14 @@
    :latitude -36.8976482,
    :source :openstreetmap,
    :homepage "https://www.olavarria.gov.ar/cultura/museo-de-ciencias/",
-   :locality "Olavarría",
+   :location "Olavarría",
    :image "",
    :description ""}
   {:name "Museo de Ciencias",
    :longitude -62.3125603,
    :latitude -38.6919972,
    :source :openstreetmap,
-   :locality "Bahia Blanca",
+   :location "Bahia Blanca",
    :image "",
    :description ""}
   {:name "Museo de Ciencias Naturales",
@@ -4251,7 +4251,7 @@
    :longitude -65.4030912,
    :latitude -24.7956749,
    :source :openstreetmap,
-   :locality "Salta",
+   :location "Salta",
    :image "",
    :description ""}
   {:name "Museo de Ciencias Naturales \"Amado Bonpland\"",
@@ -4259,7 +4259,7 @@
    :latitude -27.4655587,
    :source :openstreetmap,
    :homepage "http://museobonpland.com.ar/",
-   :locality "Corrientes",
+   :location "Corrientes",
    :image "",
    :description ""}
   {:name
@@ -4267,14 +4267,14 @@
    :longitude -58.390107,
    :latitude -34.6413146,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Ciencias Naturales del Colegio San José",
    :longitude -58.4009224,
    :latitude -34.6080001,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Ciencias Naturales del San José",
@@ -4289,14 +4289,14 @@
    :latitude -27.3693053,
    :source :openstreetmap,
    :homepage "http://www.isparm.edu.ar/servicios.php?pageid=museo",
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Museo de Ciencias Naturales Gesué P. Noseda",
    :longitude -58.7849018,
    :latitude -38.1676332,
    :source :openstreetmap,
-   :locality "Lobería",
+   :location "Lobería",
    :image "",
    :description ""}
   {:name "Museo de Ciencias Naturales Guillermo Goméz Cadret",
@@ -4309,7 +4309,7 @@
    :longitude -57.5102968,
    :latitude -37.8402279,
    :source :openstreetmap,
-   :locality "Santa Clara del Mar",
+   :location "Santa Clara del Mar",
    :image "",
    :description ""}
   {:name "Museo de Ciencias Naturales Punta Hermengo",
@@ -4331,7 +4331,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.cultura.mendoza.gov.ar/museos/museo-juan-cornelio-moyano/",
-   :locality "Mendoza",
+   :location "Mendoza",
    :image "",
    :description ""}
   {:name "Museo de Colón",
@@ -4344,7 +4344,7 @@
    :longitude -58.9767994,
    :latitude -27.4467714,
    :source :openstreetmap,
-   :locality "Resistencia",
+   :location "Resistencia",
    :image "",
    :description ""}
   {:name "Museo de Esculturas Luis Perlotti",
@@ -4352,7 +4352,7 @@
    :latitude -34.6151019,
    :source :openstreetmap,
    :homepage "https://www.buenosaires.gob.ar/museoluisperlotti/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo De Fierros",
@@ -4366,7 +4366,7 @@
    :latitude -34.9078362,
    :source :openstreetmap,
    :homepage "https://museo.fisica.unlp.edu.ar/",
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Museo de Garín",
@@ -4379,7 +4379,7 @@
    :longitude -59.2776375,
    :latitude -32.3947113,
    :source :openstreetmap,
-   :locality "Echagüe",
+   :location "Echagüe",
    :image "",
    :description ""}
   {:name "Museo de Guerra Malvinas Argentinas",
@@ -4399,7 +4399,7 @@
    :latitude -34.6456096,
    :source :openstreetmap,
    :homepage "https://www.sanrafael.gov.ar/museo/",
-   :locality "San Rafael",
+   :location "San Rafael",
    :image "",
    :description ""}
   {:name "Museo de Historia Regional",
@@ -4419,7 +4419,7 @@
    :longitude -55.8937234,
    :latitude -27.3555431,
    :source :openstreetmap,
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Museo de Historia y Ciencias Naturales de Daireaux",
@@ -4433,14 +4433,14 @@
    :latitude -34.9113487,
    :source :openstreetmap,
    :homepage "https://www.centrodearte.unlp.edu.ar/",
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Museo de Interpretación Ferroviaria Base Vagues",
    :longitude -59.4446359,
    :latitude -34.2993488,
    :source :openstreetmap,
-   :locality "Vagues",
+   :location "Vagues",
    :image "",
    :description ""}
   {:name "Museo de Junín de los Andes",
@@ -4448,7 +4448,7 @@
    :latitude -39.9530312,
    :source :openstreetmap,
    :homepage "https://museodejunin.wordpress.com/",
-   :locality "Junín de los Andes",
+   :location "Junín de los Andes",
    :image "",
    :description ""}
   {:name "Museo de la anestesia y biblioteca histórica de la AAARBA",
@@ -4456,7 +4456,7 @@
    :latitude -34.6229132,
    :source :openstreetmap,
    :homepage "https://www.aaarba.org/SubSeccion/museo-aaarba_6",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Asociación de Veteranos de Bomberos Voluntarios",
@@ -4469,14 +4469,14 @@
    :longitude -62.1640834,
    :latitude -38.7349593,
    :source :openstreetmap,
-   :locality "Bahía Blanca",
+   :location "Bahía Blanca",
    :image "",
    :description ""}
   {:name "Museo de la Balanza",
    :longitude -58.3771644,
    :latitude -34.6480027,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Casa de Castañares",
@@ -4491,7 +4491,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.argentina.gob.ar/casademoneda/se-casa-de-moneda/museo",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Catedral de La Plata",
@@ -4520,7 +4520,7 @@
    :source :openstreetmap,
    :homepage
    "http://munilasbrenas.chaco.gov.ar/MUSEO%20DE%20LA%20CIUDAD.htm",
-   :locality "Las Breñas",
+   :location "Las Breñas",
    :image "",
    :description ""}
   {:name "Museo de la Ciudad",
@@ -4533,7 +4533,7 @@
    :longitude -64.3057315,
    :latitude -31.2426129,
    :source :openstreetmap,
-   :locality "Unquillo",
+   :location "Unquillo",
    :image "",
    :description ""}
   {:name "Museo de la Ciudad Carlos Anadon",
@@ -4548,14 +4548,14 @@
    :source :openstreetmap,
    :homepage
    "https://amigosmuseolujan.wixsite.com/museo-de-lujan/contacto",
-   :locality "Luján",
+   :location "Luján",
    :image "",
    :description ""}
   {:name "Museo de la ciudad de Viale",
    :longitude -60.0106619,
    :latitude -31.8737094,
    :source :openstreetmap,
-   :locality "Viale",
+   :location "Viale",
    :image "",
    :description ""}
   {:name "Museo de la Ciudad Wladimir Mikielievich",
@@ -4563,21 +4563,21 @@
    :latitude -32.9621924,
    :source :openstreetmap,
    :homepage "http://www.museodelaciudad.gob.ar/",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo de la Colonia",
    :longitude -61.0934658,
    :latitude -31.7270357,
    :source :openstreetmap,
-   :locality "San Carlos Centro",
+   :location "San Carlos Centro",
    :image "",
    :description ""}
   {:name "Museo de la Colonia y la Avicultura",
    :longitude -58.433005,
    :latitude -32.4447568,
    :source :openstreetmap,
-   :locality "San Justo",
+   :location "San Justo",
    :image "",
    :description ""}
   {:name "Museo de la Comunidad",
@@ -4590,14 +4590,14 @@
    :longitude -60.7170742,
    :latitude -31.6691849,
    :source :openstreetmap,
-   :locality "Santa Fe",
+   :location "Santa Fe",
    :image "",
    :description ""}
   {:name "Museo de la Cosechadora",
    :longitude -61.5471635,
    :latitude -30.9417137,
    :source :openstreetmap,
-   :locality "Sunchales",
+   :location "Sunchales",
    :image "",
    :description ""}
   {:name "Museo de la Cuidad",
@@ -4610,7 +4610,7 @@
    :longitude -58.8505356,
    :latitude -27.4731253,
    :source :openstreetmap,
-   :locality "Corrientes",
+   :location "Corrientes",
    :image "",
    :description ""}
   {:name "Museo de la Cárcova",
@@ -4618,21 +4618,21 @@
    :latitude -34.6196065,
    :source :openstreetmap,
    :homepage "https://museodelacarcova.una.edu.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Educación",
    :longitude -60.5330659,
    :latitude -31.7229051,
    :source :openstreetmap,
-   :locality "Paraná",
+   :location "Paraná",
    :image "",
    :description ""}
   {:name "Museo de la Estacion Ferroviaria",
    :longitude -65.8909532,
    :latitude -47.7541651,
    :source :openstreetmap,
-   :locality "Puerto Deseado",
+   :location "Puerto Deseado",
    :image "",
    :description ""}
   {:name "Museo de la estación",
@@ -4646,14 +4646,14 @@
    :latitude -34.908339,
    :source :openstreetmap,
    :homepage "https://www.museo.fcnym.unlp.edu.ar/",
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Museo de la Facultad de Odontología",
    :longitude -58.398212,
    :latitude -34.5973826,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Familia Perón",
@@ -4678,7 +4678,7 @@
    :longitude -58.3689992,
    :latitude -34.6130728,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Fuerza de Submarinos",
@@ -4710,7 +4710,7 @@
    :longitude -64.1694749,
    :latitude -31.4091292,
    :source :openstreetmap,
-   :locality "Córdoba",
+   :location "Córdoba",
    :image "",
    :description ""}
   {:name "Museo de la Industria Azucarera",
@@ -4725,14 +4725,14 @@
    :source :openstreetmap,
    :homepage
    "https://untref.edu.ar/muntref/es/museo-de-la-inmigracion",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Maquina Agricola",
    :longitude -60.917488,
    :latitude -31.4475438,
    :source :openstreetmap,
-   :locality "Esperanza",
+   :location "Esperanza",
    :image "",
    :description ""}
   {:name "Museo de la Maquinaria Agrícola Antigua",
@@ -4746,7 +4746,7 @@
    :latitude -31.416321,
    :source :openstreetmap,
    :homepage "https://apm.gov.ar/node",
-   :locality "Córdoba",
+   :location "Córdoba",
    :image "",
    :description ""}
   {:name "Museo de la Memoria",
@@ -4759,7 +4759,7 @@
    :longitude -58.3853485,
    :latitude -34.6068838,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Pasión Boquense",
@@ -4767,7 +4767,7 @@
    :latitude -34.6364603,
    :source :openstreetmap,
    :homepage "https://museoboquense.com/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo De La Poesía",
@@ -4781,7 +4781,7 @@
    :longitude -58.4087291,
    :latitude -34.6197274,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de la Reconquista",
@@ -4790,7 +4790,7 @@
    :source :openstreetmap,
    :homepage
    "http://tigre.galeon.com/textos/turismo/museos/musrecon.htm",
-   :locality "Tigre",
+   :location "Tigre",
    :image "",
    :description ""}
   {:name "Museo de la Reforma Universitaria",
@@ -4803,7 +4803,7 @@
    :longitude -55.4105831,
    :latitude -27.1369425,
    :source :openstreetmap,
-   :locality "Santo Pipó",
+   :location "Santo Pipó",
    :image "",
    :description ""}
   {:name "Museo de la Zamba \"Paisajes de Catamarca\"",
@@ -4818,7 +4818,7 @@
    :source :openstreetmap,
    :homepage
    "http://ppct.caicyt.gov.ar/index.php/anuario/article/view/3115",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de las Estancias",
@@ -4843,7 +4843,7 @@
    :longitude -62.7328949,
    :latitude -35.9648654,
    :source :openstreetmap,
-   :locality "Trenque Lauquen",
+   :location "Trenque Lauquen",
    :image "",
    :description ""}
   {:name "Museo de los Inmigrantes",
@@ -4881,7 +4881,7 @@
    :longitude -62.7142592,
    :latitude -34.2707368,
    :source :openstreetmap,
-   :locality "Rufino",
+   :location "Rufino",
    :image "",
    :description ""}
   {:name "Museo de Malvinas",
@@ -4890,7 +4890,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/MUSEO-NACIONAL-DE-MALVINAS-126702024009770/",
-   :locality "Oliva",
+   :location "Oliva",
    :image "",
    :description ""}
   {:name "Museo de Malvinas",
@@ -4904,14 +4904,14 @@
    :latitude -34.5414994,
    :source :openstreetmap,
    :homepage "http://museomortola.gl.fcen.uba.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Marcapasos y Precursores de la Medicina Moderna",
    :longitude -58.4054196,
    :latitude -34.6166971,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo de Mineralogía",
@@ -4924,7 +4924,7 @@
    :longitude -58.6243426,
    :latitude -34.648656,
    :source :openstreetmap,
-   :locality "Morón",
+   :location "Morón",
    :image "",
    :description ""}
   {:name "Museo de Motos Y Bicicletas",
@@ -4956,7 +4956,7 @@
    :latitude -46.7955524,
    :source :openstreetmap,
    :homepage "https://museo-de-pico-truncado.business.site/",
-   :locality "Pico Truncado",
+   :location "Pico Truncado",
    :image "",
    :description ""}
   {:name "Museo de Piedra",
@@ -4982,7 +4982,7 @@
    :latitude -35.6377239,
    :source :openstreetmap,
    :homepage "https://www.saladillo.gob.ar/?q=museo_saladillo",
-   :locality "Saladillo",
+   :location "Saladillo",
    :image "",
    :description ""}
   {:name "Museo de Salto Grande",
@@ -4990,14 +4990,14 @@
    :latitude -31.2597606,
    :source :openstreetmap,
    :homepage "https://www.saltogrande.org/museo.php",
-   :locality "Concordia",
+   :location "Concordia",
    :image "",
    :description ""}
   {:name "Museo de Santa Teresita",
    :longitude -56.6894292,
    :latitude -36.5422357,
    :source :openstreetmap,
-   :locality "Santa Teresita",
+   :location "Santa Teresita",
    :image "",
    :description ""}
   {:name
@@ -5005,7 +5005,7 @@
    :longitude -58.5702616,
    :latitude -28.9537505,
    :source :openstreetmap,
-   :locality "Chavarría",
+   :location "Chavarría",
    :image "",
    :description ""}
   {:name "Museo de Sitio - Dr. Williams Sill",
@@ -5030,21 +5030,21 @@
    :longitude -63.4717944,
    :latitude -29.3832638,
    :source :openstreetmap,
-   :locality "Sumampa",
+   :location "Sumampa",
    :image "",
    :description ""}
   {:name "Museo De Tractores",
    :longitude -64.5063611,
    :latitude -31.3897226,
    :source :openstreetmap,
-   :locality "Villa Carlos Paz",
+   :location "Villa Carlos Paz",
    :image "",
    :description ""}
   {:name "Museo de Tres Cruces",
    :longitude -65.5889173,
    :latitude -22.9187619,
    :source :openstreetmap,
-   :locality "Tres Cruces",
+   :location "Tres Cruces",
    :image "",
    :description ""}
   {:name "Museo de Veterinaria Doctor Eduardo Murthag",
@@ -5057,7 +5057,7 @@
    :longitude -54.5603361,
    :latitude -25.9719211,
    :source :openstreetmap,
-   :locality "Wanda",
+   :location "Wanda",
    :image "",
    :description ""}
   {:name "Museo de Ángel Vicente Peñaloza \"El Chacho\"",
@@ -5070,7 +5070,7 @@
    :longitude -54.7006464,
    :latitude -26.6054529,
    :source :openstreetmap,
-   :locality "Montecarlo",
+   :location "Montecarlo",
    :image "",
    :description ""}
   {:name "Museo del Arroz",
@@ -5095,7 +5095,7 @@
    :longitude -68.7874803,
    :latitude -32.9727731,
    :source :openstreetmap,
-   :locality "Maipú",
+   :location "Maipú",
    :image "",
    :description ""}
   {:name "Museo del automovilismo 'Juan Manuel Fangio'",
@@ -5103,14 +5103,14 @@
    :latitude -37.8480795,
    :source :openstreetmap,
    :homepage "https://www.museofangio.com/",
-   :locality "Balcarce",
+   :location "Balcarce",
    :image "",
    :description ""}
   {:name "Museo del Automóvil",
    :longitude -58.9641057,
    :latitude -34.1664814,
    :source :openstreetmap,
-   :locality "Campana",
+   :location "Campana",
    :image "",
    :description ""}
   {:name "Museo del Automóvil",
@@ -5118,7 +5118,7 @@
    :latitude -34.6206375,
    :source :openstreetmap,
    :homepage "https://www.museodelautomovil.com/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo del Automóvil Club Argentino",
@@ -5126,14 +5126,14 @@
    :latitude -34.5829376,
    :source :openstreetmap,
    :homepage "https://www.aca.org.ar/museo/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo del Automóvil Don Iris",
    :longitude -63.2254169,
    :latitude -32.4184095,
    :source :openstreetmap,
-   :locality "Villa Maria",
+   :location "Villa Maria",
    :image "",
    :description ""}
   {:name "Museo del Automóvil Venado Tuerto",
@@ -5147,14 +5147,14 @@
    :latitude -34.6405298,
    :source :openstreetmap,
    :homepage "http://www.museomariani.com.ar/index.html",
-   :locality "La Reja",
+   :location "La Reja",
    :image "",
    :description ""}
   {:name "Museo del Botón",
    :longitude -68.8293802,
    :latitude -39.2610735,
    :source :openstreetmap,
-   :locality "Villa El Chocón",
+   :location "Villa El Chocón",
    :image "",
    :description ""}
   {:name "Museo del Boxeador \"Casa de Jose Maria Gatica\"",
@@ -5179,7 +5179,7 @@
    :longitude -57.8770866,
    :latitude -28.3903137,
    :source :openstreetmap,
-   :locality "Concepción",
+   :location "Concepción",
    :image "",
    :description ""}
   {:name "Museo del Carnaval",
@@ -5200,7 +5200,7 @@
    :latitude -31.8972659,
    :source :openstreetmap,
    :homepage "http://www.museodelcarruaje.org.ar/el%20Museo.htm",
-   :locality "Falda de Los Reartes",
+   :location "Falda de Los Reartes",
    :image "",
    :description ""}
   {:name "Museo del Chamamé de Mburucuyá",
@@ -5214,7 +5214,7 @@
    :latitude -41.1321129,
    :source :openstreetmap,
    :homepage "http://museochocolate.com.ar/",
-   :locality "San Carlos de Bariloche",
+   :location "San Carlos de Bariloche",
    :image "",
    :description ""}
   {:name "Museo del Cine Pablo Ducrós Hicken",
@@ -5223,7 +5223,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.buenosaires.gob.ar/museos/museo-del-cine-pablo-ducros-hicken",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo del Cine, Radio y Televisión Roberto Di Chiara",
@@ -5231,14 +5231,14 @@
    :latitude -34.7820819,
    :source :openstreetmap,
    :homepage "https://difilm-argentina.com/",
-   :locality "Florencio Varela",
+   :location "Florencio Varela",
    :image "",
    :description ""}
   {:name "Museo del Deporte \"Roque Amadeo Giuliano\"",
    :longitude -58.8019465,
    :latitude -35.4404169,
    :source :openstreetmap,
-   :locality "San Miguel del Monte",
+   :location "San Miguel del Monte",
    :image "",
    :description ""}
   {:name "Museo del Deporte Santafesino",
@@ -5258,7 +5258,7 @@
    :longitude -68.356026,
    :latitude -52.3331187,
    :source :openstreetmap,
-   :locality "Cabo Vírgenes",
+   :location "Cabo Vírgenes",
    :image "",
    :description ""}
   {:name "Museo del Fin del Mundo",
@@ -5266,7 +5266,7 @@
    :latitude -54.8059627,
    :source :openstreetmap,
    :homepage "https://mfm.tierradelfuego.gov.ar/",
-   :locality "Ushuaia",
+   :location "Ushuaia",
    :image "",
    :description ""}
   {:name "Museo del Fuerte Indepencia",
@@ -5285,7 +5285,7 @@
    :longitude -67.6161003,
    :latitude -27.6892012,
    :source :openstreetmap,
-   :locality "Fiambalá",
+   :location "Fiambalá",
    :image "",
    :description ""}
   {:name "Museo del Hombre",
@@ -5304,7 +5304,7 @@
    :longitude -57.5433212,
    :latitude -38.0469771,
    :source :openstreetmap,
-   :locality "Mar del Plata",
+   :location "Mar del Plata",
    :image "",
    :description ""}
   {:name "Museo del Humor",
@@ -5312,7 +5312,7 @@
    :latitude -34.6094291,
    :source :openstreetmap,
    :homepage "https://www.buenosaires.gob.ar/museos/museo-del-humor",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Del Indigena",
@@ -5331,14 +5331,14 @@
    :longitude -67.509742,
    :latitude -35.0024061,
    :source :openstreetmap,
-   :locality "Bowen",
+   :location "Bowen",
    :image "",
    :description ""}
   {:name "Museo del Inmigrante y Ciencias Naturales",
    :longitude -62.5020163,
    :latitude -36.7596937,
    :source :openstreetmap,
-   :locality "Casbas",
+   :location "Casbas",
    :image "",
    :description ""}
   {:name "Museo del Instituto de Geología y Minería",
@@ -5352,7 +5352,7 @@
    :latitude -34.5011817,
    :source :openstreetmap,
    :homepage "https://www.museodeljuguetesi.gob.ar/",
-   :locality "Boulogne Sur Mer",
+   :location "Boulogne Sur Mer",
    :image "",
    :description ""}
   {:name "Museo del Ladrillo",
@@ -5371,7 +5371,7 @@
    :longitude -60.5305726,
    :latitude -31.7310223,
    :source :openstreetmap,
-   :locality "Paraná",
+   :location "Paraná",
    :image "",
    :description ""}
   {:name "Museo del Monumento Nacional Bosques Petrificados",
@@ -5390,7 +5390,7 @@
    :longitude -60.6261993,
    :latitude -32.949556,
    :source :openstreetmap,
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo del Parque Nacional Nahuel Huapi",
@@ -5403,7 +5403,7 @@
    :longitude -59.0984012,
    :latitude -34.2942637,
    :source :openstreetmap,
-   :locality "Capilla del Señor",
+   :location "Capilla del Señor",
    :image "",
    :description ""}
   {:name "Museo del Pilar",
@@ -5422,21 +5422,21 @@
    :longitude -59.1059788,
    :latitude -25.7321009,
    :source :openstreetmap,
-   :locality "Pirané",
+   :location "Pirané",
    :image "",
    :description ""}
   {:name "Museo del Pueblo Peregrino",
    :longitude -58.557469,
    :latitude -27.5076455,
    :source :openstreetmap,
-   :locality "San Luis del Palmar",
+   :location "San Luis del Palmar",
    :image "",
    :description ""}
   {:name "Museo del Puerto",
    :longitude -62.2667606,
    :latitude -38.7873392,
    :source :openstreetmap,
-   :locality "Ingeniero White",
+   :location "Ingeniero White",
    :image "",
    :description ""}
   {:name "Museo del recuerdo \"Cecil González\"",
@@ -5450,14 +5450,14 @@
    :latitude -34.6103731,
    :source :openstreetmap,
    :homepage "https://www.senado.gov.ar/micrositios/Museo",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo del Subte Centenera",
    :longitude -58.439988,
    :latitude -34.6285907,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Del Tango Roberto Firpo",
@@ -5466,7 +5466,7 @@
    :source :openstreetmap,
    :homepage
    "https://saltonline.com.ar/museos/tango/tango_inicio.html",
-   :locality "Salto",
+   :location "Salto",
    :image "",
    :description ""}
   {:name "Museo del Transporte Carlos Hillner Decoud",
@@ -5485,7 +5485,7 @@
    :longitude -58.5542868,
    :latitude -34.6555024,
    :source :openstreetmap,
-   :locality "Ramos Mejia",
+   :location "Ramos Mejia",
    :image "",
    :description ""}
   {:name "Museo del Vino",
@@ -5505,14 +5505,14 @@
    :longitude -68.8279605,
    :latitude -32.87975,
    :source :openstreetmap,
-   :locality "Mendoza",
+   :location "Mendoza",
    :image "",
    :description ""}
   {:name "Museo Doctor Roberto Habenicht",
    :longitude -60.4537135,
    :latitude -32.0655899,
    :source :openstreetmap,
-   :locality "Libertador San Martín",
+   :location "Libertador San Martín",
    :image "",
    :description ""}
   {:name "Museo Domingo Faustino Sarmiento",
@@ -5531,14 +5531,14 @@
    :longitude -62.3092586,
    :latitude -31.4064501,
    :source :openstreetmap,
-   :locality "Devoto",
+   :location "Devoto",
    :image "",
    :description ""}
   {:name "Museo Dr. Genaro Giacobini",
    :longitude -58.4070952,
    :latitude -34.6372301,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Duende Tafi del Valle",
@@ -5552,14 +5552,14 @@
    :latitude -36.8942634,
    :source :openstreetmap,
    :homepage "https://www.olavarria.gov.ar/cultura/museo-damaso-arce/",
-   :locality "Olavarría",
+   :location "Olavarría",
    :image "",
    :description ""}
   {:name "Museo El Antigal",
    :longitude -60.9376705,
    :latitude -31.467103,
    :source :openstreetmap,
-   :locality "Esperanza",
+   :location "Esperanza",
    :image "",
    :description ""}
   {:name "Museo El Carmen",
@@ -5572,7 +5572,7 @@
    :longitude -68.0126894,
    :latitude -38.9429644,
    :source :openstreetmap,
-   :locality "Cipolletti",
+   :location "Cipolletti",
    :image "",
    :description ""}
   {:name "Museo El Porvenir",
@@ -5580,7 +5580,7 @@
    :latitude -32.1745046,
    :source :openstreetmap,
    :homepage "https://www.museoelporvenir.com.ar/",
-   :locality "Villa Elisa",
+   :location "Villa Elisa",
    :image "",
    :description ""}
   {:name "Museo El Taller",
@@ -5607,14 +5607,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.turismo.saavedra.gov.ar/inicio/turismo-urbano/museos.html",
-   :locality "Espartillar",
+   :location "Espartillar",
    :image "",
    :description ""}
   {:name "Museo Estación Cultural Lucinda Larrosa",
    :longitude -67.921414,
    :latitude -38.9573334,
    :source :openstreetmap,
-   :locality "General Fernández Oro",
+   :location "General Fernández Oro",
    :image "",
    :description ""}
   {:name "Museo Estación Fulton",
@@ -5633,7 +5633,7 @@
    :longitude -58.4205079,
    :latitude -34.6015504,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Etnográfico Enrique Squirru",
@@ -5641,7 +5641,7 @@
    :latitude -36.7762704,
    :source :openstreetmap,
    :homepage "https://www.museosquirru.com.ar/",
-   :locality "Azul",
+   :location "Azul",
    :image "",
    :description ""}
   {:name
@@ -5650,7 +5650,7 @@
    :latitude -34.5807452,
    :source :openstreetmap,
    :homepage "https://museoevita.org/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Experimental de Ciencias",
@@ -5659,7 +5659,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.complejoastronomico.gob.ar/page/museodeciencias",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo Facón Grande",
@@ -5674,7 +5674,7 @@
    :source :openstreetmap,
    :homepage
    "https://turismoalem.com.ar/atractivos/museo-de-autos-pedro-faryluk/",
-   :locality "Leandro N. Alem",
+   :location "Leandro N. Alem",
    :image "",
    :description ""}
   {:name "Museo Ferroviario",
@@ -5682,7 +5682,7 @@
    :latitude -34.156159,
    :source :openstreetmap,
    :homepage "http://museo-ferroviario.com.ar/",
-   :locality "Campana",
+   :location "Campana",
    :image "",
    :description ""}
   {:name "Museo Ferroviario",
@@ -5707,7 +5707,7 @@
    :longitude -61.794569,
    :latitude -38.1387568,
    :source :openstreetmap,
-   :locality "Sierra de la Ventana",
+   :location "Sierra de la Ventana",
    :image "",
    :description ""}
   {:name "Museo Ferroviario",
@@ -5726,7 +5726,7 @@
    :longitude -59.8512656,
    :latitude -36.784435,
    :source :openstreetmap,
-   :locality "Azul",
+   :location "Azul",
    :image "",
    :description ""}
   {:name "Museo Ferroviario Adolfo Giles",
@@ -5739,14 +5739,14 @@
    :longitude -58.3623451,
    :latitude -34.6749111,
    :source :openstreetmap,
-   :locality "Avellaneda",
+   :location "Avellaneda",
    :image "",
    :description ""}
   {:name "Museo Ferroviario de Cipolletti",
    :longitude -67.9964557,
    :latitude -38.9417988,
    :source :openstreetmap,
-   :locality "Cipolletti",
+   :location "Cipolletti",
    :image "",
    :description ""}
   {:name "Museo Ferroviario de Mercedes",
@@ -5767,7 +5767,7 @@
    :longitude -60.6361523,
    :latitude -32.969232,
    :source :openstreetmap,
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo Ferroviario Roberto Galian",
@@ -5792,7 +5792,7 @@
    :longitude -62.4678211,
    :latitude -34.8490388,
    :source :openstreetmap,
-   :locality "Florentino Ameghino",
+   :location "Florentino Ameghino",
    :image "",
    :description ""}
   {:name "Museo Folklórico",
@@ -5812,7 +5812,7 @@
    :latitude -34.6004016,
    :source :openstreetmap,
    :homepage "https://www.csjn.gov.ar/cmfcs/files/museo.htm",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Fortín Cuatreros",
@@ -5849,14 +5849,14 @@
    :longitude -67.6970778,
    :latitude -53.7828886,
    :source :openstreetmap,
-   :locality "Río Grande",
+   :location "Río Grande",
    :image "",
    :description ""}
   {:name "Museo Fundador",
    :longitude -54.6897571,
    :latitude -26.410194,
    :source :openstreetmap,
-   :locality "Eldorado",
+   :location "Eldorado",
    :image "",
    :description ""}
   {:name "Museo Gabriel Campomar Cervera",
@@ -5870,7 +5870,7 @@
    :latitude -29.1413099,
    :source :openstreetmap,
    :homepage "http://www.gladysacevedo.com.ar/index.html",
-   :locality "Goya",
+   :location "Goya",
    :image "",
    :description ""}
   {:name "Museo Gauchesco Ricardo Güiraldes",
@@ -5883,7 +5883,7 @@
    :longitude -58.4944222,
    :latitude -34.6333056,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo General Pirán",
@@ -5891,7 +5891,7 @@
    :latitude -37.277847,
    :source :openstreetmap,
    :homepage "http://museogralpiran.blogspot.com/",
-   :locality "General Pirán",
+   :location "General Pirán",
    :image "",
    :description ""}
   {:name "Museo Gentilini",
@@ -5910,14 +5910,14 @@
    :longitude -62.6713931,
    :latitude -30.9035792,
    :source :openstreetmap,
-   :locality "Miramar",
+   :location "Miramar",
    :image "",
    :description ""}
   {:name "Museo Gregorio Álvarez",
    :longitude -68.0623036,
    :latitude -38.9557398,
    :source :openstreetmap,
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Museo Gustavo Cochet",
@@ -5961,7 +5961,7 @@
    :longitude -60.5205676,
    :latitude -35.3222861,
    :source :openstreetmap,
-   :locality "Comodoro Py",
+   :location "Comodoro Py",
    :image "",
    :description ""}
   {:name "Museo Historico",
@@ -5986,21 +5986,21 @@
    :longitude -58.3166588,
    :latitude -35.5170528,
    :source :openstreetmap,
-   :locality "Ranchos",
+   :location "Ranchos",
    :image "",
    :description ""}
   {:name "Museo Historico Brinkmann",
    :longitude -62.0381379,
    :latitude -30.8610281,
    :source :openstreetmap,
-   :locality "Brinkmann",
+   :location "Brinkmann",
    :image "",
    :description ""}
   {:name "Museo Historico Municipal",
    :longitude -59.5974546,
    :latitude -26.1363495,
    :source :openstreetmap,
-   :locality "Presidencia Roca",
+   :location "Presidencia Roca",
    :image "",
    :description ""}
   {:name "Museo Historico Municipal Egisto Ratti",
@@ -6013,21 +6013,21 @@
    :longitude -68.5134269,
    :latitude -31.5370057,
    :source :openstreetmap,
-   :locality "San Juan",
+   :location "San Juan",
    :image "",
    :description ""}
   {:name "Museo Historico Provincial Doctor Julio Marc",
    :longitude -60.6598478,
    :latitude -32.9566706,
    :source :openstreetmap,
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo Historico Regional",
    :longitude -64.3494143,
    :latitude -33.1210353,
    :source :openstreetmap,
-   :locality "Río Cuarto",
+   :location "Río Cuarto",
    :image "",
    :description ""}
   {:name "Museo Historico Rural",
@@ -6053,7 +6053,7 @@
    :longitude -63.5341711,
    :latitude -37.6680766,
    :source :openstreetmap,
-   :locality "Guatraché",
+   :location "Guatraché",
    :image "",
    :description ""}
   {:name "Museo Histórico",
@@ -6067,7 +6067,7 @@
    :latitude -35.0065692,
    :source :openstreetmap,
    :homepage "https://navarro.gob.ar/",
-   :locality "Navarro",
+   :location "Navarro",
    :image "",
    :description ""}
   {:name "Museo Histórico",
@@ -6086,21 +6086,21 @@
    :longitude -59.354019,
    :latitude -28.4901061,
    :source :openstreetmap,
-   :locality "Villa Ocampo",
+   :location "Villa Ocampo",
    :image "",
    :description ""}
   {:name "Museo Histórico",
    :longitude -58.6231133,
    :latitude -28.2557909,
    :source :openstreetmap,
-   :locality "Saladas",
+   :location "Saladas",
    :image "",
    :description ""}
   {:name "Museo Histórico",
    :longitude -67.3933681,
    :latitude -39.0508114,
    :source :openstreetmap,
-   :locality "Cervantes",
+   :location "Cervantes",
    :image "",
    :description ""}
   {:name "Museo Histórico \"Juan Meisen Ebene\"",
@@ -6120,21 +6120,21 @@
    :latitude -31.8674426,
    :source :openstreetmap,
    :homepage "http://museoubajay.blogspot.com/",
-   :locality "Ubajay",
+   :location "Ubajay",
    :image "",
    :description ""}
   {:name "Museo Histórico 'Rosa Giussani de Piva'",
    :longitude -60.5918635,
    :latitude -30.7888299,
    :source :openstreetmap,
-   :locality "San Justo",
+   :location "San Justo",
    :image "",
    :description ""}
   {:name "Museo Histórico - Centenario",
    :longitude -61.5990599,
    :latitude -32.0552185,
    :source :openstreetmap,
-   :locality "Cañada Rosquín",
+   :location "Cañada Rosquín",
    :image "",
    :description ""}
   {:name "Museo Histórico - Quinta Jovita",
@@ -6147,14 +6147,14 @@
    :longitude -58.4365552,
    :latitude -35.0201173,
    :source :openstreetmap,
-   :locality "San Vicente",
+   :location "San Vicente",
    :image "",
    :description ""}
   {:name "Museo Histórico A. G. Chaves",
    :longitude -60.1026768,
    :latitude -38.0291165,
    :source :openstreetmap,
-   :locality "Adolfo González Chavez",
+   :location "Adolfo González Chavez",
    :image "",
    :description ""}
   {:name "Museo Histórico Alfredo Román Almada",
@@ -6162,21 +6162,21 @@
    :latitude -36.0183373,
    :source :openstreetmap,
    :homepage "https://www.lasflores.gob.ar/?q=turismo",
-   :locality "Las Flores",
+   :location "Las Flores",
    :image "",
    :description ""}
   {:name "Museo Histórico Altube",
    :longitude -58.7502588,
    :latitude -34.5221427,
    :source :openstreetmap,
-   :locality "José C. Paz",
+   :location "José C. Paz",
    :image "",
    :description ""}
   {:name "Museo Histórico Carmen de Areco",
    :longitude -59.8241345,
    :latitude -34.3767973,
    :source :openstreetmap,
-   :locality "Carmen de Areco",
+   :location "Carmen de Areco",
    :image "",
    :description ""}
   {:name "Museo Histórico Carmen de Areco",
@@ -6197,7 +6197,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.buenosaires.gob.ar/museos/museo-historico-cornelio-de-saavedra",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Histórico de Ciudad Jardín Erich Zeyen",
@@ -6205,7 +6205,7 @@
    :latitude -34.5978761,
    :source :openstreetmap,
    :homepage "https://www.tresdefebrero.gov.ar/museozeyen/",
-   :locality "Ciudad Jardín Lomas del Palomar",
+   :location "Ciudad Jardín Lomas del Palomar",
    :image "",
    :description ""}
   {:name "Museo Histórico de Cultura y Tradición",
@@ -6220,21 +6220,21 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/museodefriasdraamaliajosefinagramajo/",
-   :locality "Frías",
+   :location "Frías",
    :image "",
    :description ""}
   {:name "Museo Histórico de General Pacheco",
    :longitude -58.6255233,
    :latitude -34.4558841,
    :source :openstreetmap,
-   :locality "General Pacheco",
+   :location "General Pacheco",
    :image "",
    :description ""}
   {:name "Museo Histórico de Guaminí",
    :longitude -62.4227345,
    :latitude -37.0089276,
    :source :openstreetmap,
-   :locality "Guaminí",
+   :location "Guaminí",
    :image "",
    :description ""}
   {:name "Museo Histórico de la Ciudad",
@@ -6248,14 +6248,14 @@
    :latitude -34.6080568,
    :source :openstreetmap,
    :homepage "https://www.diputados.gov.ar/secparl/dmuseo/index.html",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Histórico de la Policía de Misiones",
    :longitude -55.8941027,
    :latitude -27.373102,
    :source :openstreetmap,
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Museo Histórico de la Prefectura Naval Argentina",
@@ -6264,77 +6264,77 @@
    :source :openstreetmap,
    :homepage
    "https://www.argentina.gob.ar/prefecturanaval/museohistorico",
-   :locality "Tigre",
+   :location "Tigre",
    :image "",
    :description ""}
   {:name "Museo Histórico de Las Bóvedas",
    :longitude -69.3405203,
    :latitude -32.5696889,
    :source :openstreetmap,
-   :locality "Uspallata",
+   :location "Uspallata",
    :image "",
    :description ""}
   {:name "Museo Histórico de las Campañas al Desierto",
    :longitude -62.7271477,
    :latitude -35.978743,
    :source :openstreetmap,
-   :locality "Trenque Lauquen",
+   :location "Trenque Lauquen",
    :image "",
    :description ""}
   {:name "Museo Histórico de Mercedes Dr. Víctor Míguez",
    :longitude -59.4304133,
    :latitude -34.6561401,
    :source :openstreetmap,
-   :locality "Mercedes",
+   :location "Mercedes",
    :image "",
    :description ""}
   {:name "Museo Histórico de Olivera Donato Macagno",
    :longitude -59.2531974,
    :latitude -34.6258003,
    :source :openstreetmap,
-   :locality "Olivera",
+   :location "Olivera",
    :image "",
    :description ""}
   {:name "Museo histórico de Rivadavia",
    :longitude -62.9763185,
    :latitude -35.4858064,
    :source :openstreetmap,
-   :locality "Rivadavia",
+   :location "Rivadavia",
    :image "",
    :description ""}
   {:name "Museo Histórico de San Luis",
    :longitude -66.337272,
    :latitude -33.3041882,
    :source :openstreetmap,
-   :locality "San Luis",
+   :location "San Luis",
    :image "",
    :description ""}
   {:name "Museo Histórico de Santa Ana",
    :longitude -58.6550617,
    :latitude -27.4545994,
    :source :openstreetmap,
-   :locality "Santa Ana",
+   :location "Santa Ana",
    :image "",
    :description ""}
   {:name "Museo Histórico de Tostado",
    :longitude -61.771833,
    :latitude -29.2386107,
    :source :openstreetmap,
-   :locality "Tostado",
+   :location "Tostado",
    :image "",
    :description ""}
   {:name "Museo Histórico de Vías Navegables",
    :longitude -58.8321865,
    :latitude -27.4609738,
    :source :openstreetmap,
-   :locality "Corrientes",
+   :location "Corrientes",
    :image "",
    :description ""}
   {:name "Museo Histórico de Yapeyú",
    :longitude -56.8173891,
    :latitude -29.4709512,
    :source :openstreetmap,
-   :locality "Yapeyú",
+   :location "Yapeyú",
    :image "",
    :description ""}
   {:name "Museo Histórico del Centenario",
@@ -6343,7 +6343,7 @@
    :source :openstreetmap,
    :homepage
    "https://turismo.crespo.gob.ar/museo-municipal-del-centenario/w",
-   :locality "Crespo",
+   :location "Crespo",
    :image "",
    :description ""}
   {:name "Museo Histórico Del Ejército Argentino",
@@ -6351,14 +6351,14 @@
    :latitude -34.6293476,
    :source :openstreetmap,
    :homepage "http://www.dahe.ejercito.mil.ar",
-   :locality "Ciudadela",
+   :location "Ciudadela",
    :image "",
    :description ""}
   {:name "Museo histórico del médico rural “Doctor René Favaloro”",
    :longitude -63.431421,
    :latitude -38.0846695,
    :source :openstreetmap,
-   :locality "Jacinto Aráuz",
+   :location "Jacinto Aráuz",
    :image "",
    :description ""}
   {:name
@@ -6366,7 +6366,7 @@
    :longitude -58.4350299,
    :latitude -34.5720472,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Histórico del Tuyú",
@@ -6374,14 +6374,14 @@
    :latitude -37.0052007,
    :source :openstreetmap,
    :homepage "https://www.turismo.madariaga.gob.ar/paginas/mostrar/27",
-   :locality "General Juan Madariaga",
+   :location "General Juan Madariaga",
    :image "",
    :description ""}
   {:name "Museo Histórico Esquel",
    :longitude -71.3230439,
    :latitude -42.9172878,
    :source :openstreetmap,
-   :locality "Esquel",
+   :location "Esquel",
    :image "",
    :description ""}
   {:name "Museo Histórico General San Martín",
@@ -6406,21 +6406,21 @@
    :longitude -55.7739278,
    :latitude -27.9980406,
    :source :openstreetmap,
-   :locality "Apóstoles",
+   :location "Apóstoles",
    :image "",
    :description ""}
   {:name "Museo Histórico Militar Coronel Leopoldo Ornstein",
    :longitude -58.0068057,
    :latitude -31.3702894,
    :source :openstreetmap,
-   :locality "Concordia",
+   :location "Concordia",
    :image "",
    :description ""}
   {:name "Museo Histórico Militar Fortín Chacabuco",
    :longitude -67.4348867,
    :latitude -45.7733752,
    :source :openstreetmap,
-   :locality "Comodoro Rivadavia",
+   :location "Comodoro Rivadavia",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal",
@@ -6441,35 +6441,35 @@
    :source :openstreetmap,
    :homepage
    "https://es-la.facebook.com/museohistoricomunicipal.debalcarce.1/",
-   :locality "Balcarce",
+   :location "Balcarce",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal",
    :longitude -57.0864978,
    :latitude -29.7181486,
    :source :openstreetmap,
-   :locality "Paso de los Libres",
+   :location "Paso de los Libres",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal",
    :longitude -64.9475705,
    :latitude -40.7284384,
    :source :openstreetmap,
-   :locality "San Antonio Oeste",
+   :location "San Antonio Oeste",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal",
    :longitude -60.1219441,
    :latitude -31.9586339,
    :source :openstreetmap,
-   :locality "Seguí",
+   :location "Seguí",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal",
    :longitude -59.3971004,
    :latitude -32.1769184,
    :source :openstreetmap,
-   :locality "Maciá",
+   :location "Maciá",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal \"La Para\"",
@@ -6477,21 +6477,21 @@
    :latitude -30.8931645,
    :source :openstreetmap,
    :homepage "http://www.museodelapara.gob.ar/",
-   :locality "La Para",
+   :location "La Para",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal 'Dr. Rodolfo Doval Fermi'",
    :longitude -61.8312403,
    :latitude -31.7692234,
    :source :openstreetmap,
-   :locality "Sastre y Ortiz",
+   :location "Sastre y Ortiz",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal Alfredo E. Múlgura",
    :longitude -58.492313,
    :latitude -35.7680659,
    :source :openstreetmap,
-   :locality "General Belgrano",
+   :location "General Belgrano",
    :image "",
    :description ""}
   {:name
@@ -6500,7 +6500,7 @@
    :latitude -34.8519672,
    :source :openstreetmap,
    :homepage "https://museorosas.blogspot.com/",
-   :locality "Virrey del Pino",
+   :location "Virrey del Pino",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal Brig. Gral. Juan M. Pueyrredón",
@@ -6508,7 +6508,7 @@
    :latitude -34.4699409,
    :source :openstreetmap,
    :homepage "https://www.museopueyrredon.gob.ar/",
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal Hércules J. Rabagliati",
@@ -6517,7 +6517,7 @@
    :source :openstreetmap,
    :homepage
    "http://ramalloturismo.esy.es/MUSEO%20HERCULES%20RABAGLIATI.htm",
-   :locality "Ramallo",
+   :location "Ramallo",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal José Domingo Mercado",
@@ -6525,14 +6525,14 @@
    :latitude -31.4196565,
    :source :openstreetmap,
    :homepage "https://www.municipioarroyito.gob.ar/dependencias/museo",
-   :locality "Arroyito",
+   :location "Arroyito",
    :image "",
    :description ""}
   {:name "Museo Histórico Municipal La Campana",
    :longitude -58.4927213,
    :latitude -34.8124436,
    :source :openstreetmap,
-   :locality "El Jagüel",
+   :location "El Jagüel",
    :image "",
    :description ""}
   {:name "Museo Histórico Nacional",
@@ -6540,7 +6540,7 @@
    :latitude -34.6269637,
    :source :openstreetmap,
    :homepage "https://museohistoriconacional.cultura.gob.ar",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name
@@ -6549,7 +6549,7 @@
    :latitude -34.6087695,
    :source :openstreetmap,
    :homepage "https://cabildonacional.cultura.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Histórico Nicanor Olivera",
@@ -6558,7 +6558,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.necocheamiciudad.com.ar/dnotyent/recopilador/nicanorolivera.html",
-   :locality "La Dulce",
+   :location "La Dulce",
    :image "",
    :description ""}
   {:name "Museo Histórico Privado La Roca",
@@ -6571,7 +6571,7 @@
    :longitude -62.9951976,
    :latitude -40.8070341,
    :source :openstreetmap,
-   :locality "Viedma",
+   :location "Viedma",
    :image "",
    :description ""}
   {:name
@@ -6579,21 +6579,21 @@
    :longitude -65.4635904,
    :latitude -22.1309917,
    :source :openstreetmap,
-   :locality "Yavi",
+   :location "Yavi",
    :image "",
    :description ""}
   {:name "Museo histórico provincial Marqués de Sombremonte",
    :longitude -64.1813098,
    :latitude -31.4168967,
    :source :openstreetmap,
-   :locality "Córdoba",
+   :location "Córdoba",
    :image "",
    :description ""}
   {:name "Museo Histórico Provincial “Guillermo Enrique Hudson”",
    :longitude -58.2298129,
    :latitude -34.8551992,
    :source :openstreetmap,
-   :locality "Villa San Luis",
+   :location "Villa San Luis",
    :image "",
    :description ""}
   {:name "Museo Histórico Regional",
@@ -6608,7 +6608,7 @@
    :longitude -58.6144882,
    :latitude -27.2924047,
    :source :openstreetmap,
-   :locality "Isla del Cerrito",
+   :location "Isla del Cerrito",
    :image "",
    :description ""}
   {:name "Museo Histórico Regional",
@@ -6627,35 +6627,35 @@
    :longitude -64.5738644,
    :latitude -32.1745231,
    :source :openstreetmap,
-   :locality "Amboy",
+   :location "Amboy",
    :image "",
    :description ""}
   {:name "Museo Histórico Regional Almirante Brown",
    :longitude -58.2847558,
    :latitude -34.712137,
    :source :openstreetmap,
-   :locality "Bernal",
+   :location "Bernal",
    :image "",
    :description ""}
   {:name "Museo Histórico Regional Americanista",
    :longitude -68.8929227,
    :latitude -33.0356916,
    :source :openstreetmap,
-   :locality "Luján de Cuyo",
+   :location "Luján de Cuyo",
    :image "",
    :description ""}
   {:name "Museo Histórico Regional General Villegas",
    :longitude -63.0220552,
    :latitude -35.0309716,
    :source :openstreetmap,
-   :locality "General Villegas",
+   :location "General Villegas",
    :image "",
    :description ""}
   {:name "Museo Histórico Regional Juan Pablo Duffard",
    :longitude -58.1647514,
    :latitude -26.1824599,
    :source :openstreetmap,
-   :locality "Formosa",
+   :location "Formosa",
    :image "",
    :description ""}
   {:name "Museo Histórico San Francisco",
@@ -6664,7 +6664,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.santafecultura.gob.ar/museo-etnografico-y-colonial-juan-de-garay/",
-   :locality "Santa Fe",
+   :location "Santa Fe",
    :image "",
    :description ""}
   {:name
@@ -6673,14 +6673,14 @@
    :latitude -27.4664639,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/museovidalctes/",
-   :locality "Corrientes",
+   :location "Corrientes",
    :image "",
    :description ""}
   {:name "Museo Histórico Vecinal de Flores",
    :longitude -58.4708221,
    :latitude -34.6277555,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Histórico y Archivo de Arrecifes",
@@ -6693,7 +6693,7 @@
    :longitude -55.8882817,
    :latitude -27.3681224,
    :source :openstreetmap,
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Museo Histórico y de Ciencias Naturales Pago de los Lobos",
@@ -6701,7 +6701,7 @@
    :latitude -35.1757209,
    :source :openstreetmap,
    :homepage "http://www.museopagodeloslobos.com.ar",
-   :locality "Lobos",
+   :location "Lobos",
    :image "",
    :description ""}
   {:name "Museo Histórico y Etnográfico Ivy Marä Ey",
@@ -6714,14 +6714,14 @@
    :longitude -62.9589737,
    :latitude -36.7524388,
    :source :openstreetmap,
-   :locality "Salliqueló",
+   :location "Salliqueló",
    :image "",
    :description ""}
   {:name "Museo Histórico y Regional Municipal Rubén Jesús Ferrer",
    :longitude -60.7091501,
    :latitude -27.5786827,
    :source :openstreetmap,
-   :locality "Villa Ángela",
+   :location "Villa Ángela",
    :image "",
    :description ""}
   {:name "Museo Hotel Edén",
@@ -6748,14 +6748,14 @@
    :latitude -27.4522216,
    :source :openstreetmap,
    :homepage "https://museoichoalay.blogspot.com/",
-   :locality "Resistencia",
+   :location "Resistencia",
    :image "",
    :description ""}
   {:name "Museo Ignacio Balvidares",
    :longitude -62.7673809,
    :latitude -37.543473,
    :source :openstreetmap,
-   :locality "Puan",
+   :location "Puan",
    :image "",
    :description ""}
   {:name "Museo Imágenes de la selva",
@@ -6780,7 +6780,7 @@
    :longitude -58.0165452,
    :latitude -31.3972468,
    :source :openstreetmap,
-   :locality "Concordia",
+   :location "Concordia",
    :image "",
    :description ""}
   {:name "Museo Interactivo de Ciencias Naturales",
@@ -6793,7 +6793,7 @@
    :longitude -58.4396097,
    :latitude -34.5445375,
    :source :openstreetmap,
-   :locality "Ciudad Autonoma de Buenos Aires",
+   :location "Ciudad Autonoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Inti Huasi",
@@ -6820,7 +6820,7 @@
    :latitude -34.5892616,
    :source :openstreetmap,
    :homepage "https://www.argentina.gob.ar/iser/museo",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Islas Malvinas e Islas del Atlántico Sur",
@@ -6834,7 +6834,7 @@
    :latitude -34.6361684,
    :source :openstreetmap,
    :homepage "http://www.corralesviejos.com",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Jacobacci",
@@ -6860,7 +6860,7 @@
    :latitude -30.9701937,
    :source :openstreetmap,
    :homepage "https://museojesuitico.cultura.gob.ar/",
-   :locality "Jesús María",
+   :location "Jesús María",
    :image "",
    :description ""}
   {:name "Museo José Hernández",
@@ -6873,7 +6873,7 @@
    :longitude -57.9557241,
    :latitude -34.9156007,
    :source :openstreetmap,
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Museo Juan Manuel de Rosas",
@@ -6881,7 +6881,7 @@
    :latitude -34.5663315,
    :source :openstreetmap,
    :homepage "https://las4plumasclubdearte.com.ar/",
-   :locality "San Andrés",
+   :location "San Andrés",
    :image "",
    :description ""}
   {:name "Museo Juan Manuel Fangio",
@@ -6901,7 +6901,7 @@
    :latitude -34.5995877,
    :source :openstreetmap,
    :homepage "http://museojudio.org.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Kosice",
@@ -6909,7 +6909,7 @@
    :latitude -34.6010134,
    :source :openstreetmap,
    :homepage "https://kosice.com.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Kurteff",
@@ -6935,14 +6935,14 @@
    :latitude -30.9242901,
    :source :openstreetmap,
    :homepage "http://museolaloma.blogspot.com/",
-   :locality "Los Cocos",
+   :location "Los Cocos",
    :image "",
    :description ""}
   {:name "Museo La Viña",
    :longitude -65.568292,
    :latitude -25.4682064,
    :source :openstreetmap,
-   :locality "La Viña",
+   :location "La Viña",
    :image "",
    :description ""}
   {:name "Museo Las Lilas de Areco",
@@ -6950,7 +6950,7 @@
    :latitude -34.2472161,
    :source :openstreetmap,
    :homepage "http://www.museolaslilas.org",
-   :locality "San Antonio de Areco",
+   :location "San Antonio de Areco",
    :image "",
    :description ""}
   {:name "Museo Leleque",
@@ -6969,7 +6969,7 @@
    :longitude -68.4917569,
    :latitude -39.7236573,
    :source :openstreetmap,
-   :locality "Cerro Policía",
+   :location "Cerro Policía",
    :image "",
    :description ""}
   {:name "Museo Lisandro de la Torre",
@@ -6988,14 +6988,14 @@
    :longitude -61.0815466,
    :latitude -31.5475287,
    :source :openstreetmap,
-   :locality "San Jerónimo Norte",
+   :location "San Jerónimo Norte",
    :image "",
    :description ""}
   {:name "Museo Los Pioneros",
    :longitude -61.4868769,
    :latitude -30.8373029,
    :source :openstreetmap,
-   :locality "Colonia Raquel",
+   :location "Colonia Raquel",
    :image "",
    :description ""}
   {:name "Museo Luis Benedetti",
@@ -7010,7 +7010,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.vicentelopez.gov.ar/modernizacion/punto-de-interes/8-lumiton-museo-del-cine-usina-audiovisual",
-   :locality "Munro",
+   :location "Munro",
    :image "",
    :description ""}
   {:name "Museo Magda-Frank",
@@ -7018,7 +7018,7 @@
    :latitude -34.5448778,
    :source :openstreetmap,
    :homepage "https://www.magdafrank.com.ar/museo/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Malvinas",
@@ -7043,7 +7043,7 @@
    :longitude -58.4237661,
    :latitude -34.6510105,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Manuel A. Moreira",
@@ -7056,7 +7056,7 @@
    :longitude -63.756576,
    :latitude -35.6634583,
    :source :openstreetmap,
-   :locality "General Pico",
+   :location "General Pico",
    :image "",
    :description ""}
   {:name "Museo Mariano Gambier",
@@ -7076,7 +7076,7 @@
    :latitude -54.8033637,
    :source :openstreetmap,
    :homepage "https://www.museomaritimo.com/",
-   :locality "Ushuaia",
+   :location "Ushuaia",
    :image "",
    :description ""}
   {:name "Museo Metereológico del Observatorio",
@@ -7090,7 +7090,7 @@
    :latitude -26.8315818,
    :source :openstreetmap,
    :homepage "https://museo.lillo.org.ar/",
-   :locality "San Miguel de Tucumán",
+   :location "San Miguel de Tucumán",
    :image "",
    :description ""}
   {:name "Museo Mineralógico",
@@ -7140,7 +7140,7 @@
    :latitude -34.6082955,
    :source :openstreetmap,
    :homepage "http://mumin.gob.ar/museo/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Municipal",
@@ -7153,7 +7153,7 @@
    :longitude -67.6955166,
    :latitude -34.9786033,
    :source :openstreetmap,
-   :locality "General Alvear",
+   :location "General Alvear",
    :image "",
    :description ""}
   {:name "Museo Municipal",
@@ -7166,7 +7166,7 @@
    :longitude -64.5959412,
    :latitude -33.6222686,
    :source :openstreetmap,
-   :locality "Coronel Moldes",
+   :location "Coronel Moldes",
    :image "",
    :description ""}
   {:name "Museo Municipal",
@@ -7191,7 +7191,7 @@
    :longitude -66.9453636,
    :latitude -27.1422239,
    :source :openstreetmap,
-   :locality "Corral Quemado",
+   :location "Corral Quemado",
    :image "",
    :description ""}
   {:name "Museo Municipal \"Cacique Corocorto\"",
@@ -7204,7 +7204,7 @@
    :longitude -64.5619628,
    :latitude -35.5913758,
    :source :openstreetmap,
-   :locality "Caleufú",
+   :location "Caleufú",
    :image "",
    :description ""}
   {:name "Museo Municipal \"Paraje Confluencia\"",
@@ -7213,21 +7213,21 @@
    :source :openstreetmap,
    :homepage
    "https://www.neuquencapital.gov.ar/cultura/espaciosculturales/museo-paraje-confluencia/",
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Museo Municipal \"Rosario del Tala\"",
    :longitude -59.1390406,
    :latitude -32.3013654,
    :source :openstreetmap,
-   :locality "Rosario del Tala",
+   :location "Rosario del Tala",
    :image "",
    :description ""}
   {:name "Museo Municipal 'Carmen Funes'",
    :longitude -69.1938018,
    :latitude -38.9311734,
    :source :openstreetmap,
-   :locality "Plaza Huincul",
+   :location "Plaza Huincul",
    :image "",
    :description ""}
   {:name "Museo Municipal 'Casa de Ameghino'",
@@ -7235,7 +7235,7 @@
    :latitude -34.5676477,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/museocasaameghino/",
-   :locality "Luján",
+   :location "Luján",
    :image "",
    :description ""}
   {:name "Museo Municipal Alba Posse",
@@ -7293,14 +7293,14 @@
    :longitude -59.0933299,
    :latitude -36.7782859,
    :source :openstreetmap,
-   :locality "Rauch",
+   :location "Rauch",
    :image "",
    :description ""}
   {:name "Museo Municipal de Artes Visuales",
    :longitude -65.3104474,
    :latitude -43.2534567,
    :source :openstreetmap,
-   :locality "Trelew",
+   :location "Trelew",
    :image "",
    :description ""}
   {:name "Museo Municipal de Bellas Artes",
@@ -7308,7 +7308,7 @@
    :latitude -37.3303606,
    :source :openstreetmap,
    :homepage "https://mumbat.com/",
-   :locality "Tandil",
+   :location "Tandil",
    :image "",
    :description ""}
   {:name "Museo Municipal de Bellas Artes \"Juan B. Castagnino\"",
@@ -7316,7 +7316,7 @@
    :latitude -32.9538719,
    :source :openstreetmap,
    :homepage "http://www.museocastagnino.org.ar/",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo Municipal de Bellas Artes Fernando Bonfiglioli",
@@ -7324,7 +7324,7 @@
    :latitude -32.4176403,
    :source :openstreetmap,
    :homepage "https://linktr.ee/museobonfiglioli",
-   :locality "Villa María",
+   :location "Villa María",
    :image "",
    :description ""}
   {:name "Museo Municipal de Bellas Artes Manuel Belgrano",
@@ -7337,14 +7337,14 @@
    :longitude -68.1197378,
    :latitude -38.8278271,
    :source :openstreetmap,
-   :locality "Centenario",
+   :location "Centenario",
    :image "",
    :description ""}
   {:name "Museo Municipal de Ciencias Naturales \"Carlos Ameghino\"",
    :longitude -59.4285227,
    :latitude -34.6507196,
    :source :openstreetmap,
-   :locality "Mercedes",
+   :location "Mercedes",
    :image "",
    :description ""}
   {:name "Museo Municipal de Ciencias Naturales 'Lorenzo Scaglia'",
@@ -7358,7 +7358,7 @@
    :longitude -62.0808047,
    :latitude -38.8836952,
    :source :openstreetmap,
-   :locality "Punta Alta",
+   :location "Punta Alta",
    :image "",
    :description ""}
   {:name "Museo Municipal de Colonia Barón",
@@ -7367,7 +7367,7 @@
    :source :openstreetmap,
    :homepage
    "https://repositorio.lapampa.edu.ar/index.php/museos/item/museo-colonia-baron",
-   :locality "Colonia Barón",
+   :location "Colonia Barón",
    :image "",
    :description ""}
   {:name
@@ -7387,7 +7387,7 @@
    :longitude -59.2744119,
    :latitude -35.0038134,
    :source :openstreetmap,
-   :locality "Navarro",
+   :location "Navarro",
    :image "",
    :description ""}
   {:name "Museo Municipal Duamn Ruca",
@@ -7395,14 +7395,14 @@
    :latitude -41.6036402,
    :source :openstreetmap,
    :homepage "https://www.ilam.org/index.php/es/museo?id=1708",
-   :locality "Sierra Grande",
+   :location "Sierra Grande",
    :image "",
    :description ""}
   {:name "Museo Municipal El Almacén de Pepa",
    :longitude -63.5900189,
    :latitude -35.2442861,
    :source :openstreetmap,
-   :locality "Intendente Alvear",
+   :location "Intendente Alvear",
    :image "",
    :description ""}
   {:name "Museo Municipal Ernesto Bachmann",
@@ -7411,21 +7411,21 @@
    :source :openstreetmap,
    :homepage
    "http://neuquentur.gob.ar/es/turismo-paleontologico/22761/museo-municipal-ernesto-bachmann-villa-el-chocon/",
-   :locality "Villa El Chocón",
+   :location "Villa El Chocón",
    :image "",
    :description ""}
   {:name "Museo Municipal Gobernador Manuel Ignacio Lagraña",
    :longitude -56.678106,
    :latitude -27.5740523,
    :source :openstreetmap,
-   :locality "Ituzaingó",
+   :location "Ituzaingó",
    :image "",
    :description ""}
   {:name "Museo Municipal Guardia del Monte",
    :longitude -58.8014816,
    :latitude -35.4444068,
    :source :openstreetmap,
-   :locality "San Miguel del Monte",
+   :location "San Miguel del Monte",
    :image "",
    :description ""}
   {:name "Museo Municipal Hermanos Emiliozzi",
@@ -7434,7 +7434,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.olavarria.gov.ar/cultura/museo-municipal-hermanos-emiliozzi/",
-   :locality "Olavarría",
+   :location "Olavarría",
    :image "",
    :description ""}
   {:name "Museo Municipal Ivy Mara Ey",
@@ -7447,7 +7447,7 @@
    :longitude -57.8847522,
    :latitude -36.8636415,
    :source :openstreetmap,
-   :locality "Maipú",
+   :location "Maipú",
    :image "",
    :description ""}
   {:name "Museo Municipal Lorenzo Vintte",
@@ -7460,7 +7460,7 @@
    :longitude -65.8979533,
    :latitude -47.7564637,
    :source :openstreetmap,
-   :locality "Puerto Deseado",
+   :location "Puerto Deseado",
    :image "",
    :description ""}
   {:name "Museo Municipal Marull",
@@ -7468,7 +7468,7 @@
    :latitude -30.9930629,
    :source :openstreetmap,
    :homepage "http://museomarull.blogspot.com/",
-   :locality "Marull",
+   :location "Marull",
    :image "",
    :description ""}
   {:name "Museo Municipal Mony Gundín",
@@ -7483,28 +7483,28 @@
    :source :openstreetmap,
    :homepage
    "https://repositorio.lapampa.edu.ar/index.php/museos/item/museo-nestor-telleria",
-   :locality "Embajador Martini",
+   :location "Embajador Martini",
    :image "",
    :description ""}
   {:name "Museo Municipal Pergamino Giuníppero Castellano",
    :longitude -60.5685529,
    :latitude -33.8895135,
    :source :openstreetmap,
-   :locality "Pergamino",
+   :location "Pergamino",
    :image "",
    :description ""}
   {:name "Museo Municipal Raíces",
    :longitude -55.0241856,
    :latitude -26.8053978,
    :source :openstreetmap,
-   :locality "Puerto Rico",
+   :location "Puerto Rico",
    :image "",
    :description ""}
   {:name "Museo Municipal Regional de Diamante",
    :longitude -60.6370078,
    :latitude -32.0682521,
    :source :openstreetmap,
-   :locality "Diamante",
+   :location "Diamante",
    :image "",
    :description ""}
   {:name "Museo Nacional Casa del Acuerdo",
@@ -7512,14 +7512,14 @@
    :latitude -33.3298987,
    :source :openstreetmap,
    :homepage "https://museodelacuerdo.cultura.gob.ar/",
-   :locality "San Nicolás de los Arroyos",
+   :location "San Nicolás de los Arroyos",
    :image "",
    :description ""}
   {:name "Museo Nacional de Aeronáutica",
    :longitude -58.6373168,
    :latitude -34.6752302,
    :source :openstreetmap,
-   :locality "Morón",
+   :location "Morón",
    :image "",
    :description ""}
   {:name "Museo Nacional de Arte Oriental",
@@ -7527,14 +7527,14 @@
    :latitude -34.5996894,
    :source :openstreetmap,
    :homepage "https://mnao.cultura.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Nacional del Petróleo",
    :longitude -67.4809645,
    :latitude -45.8371601,
    :source :openstreetmap,
-   :locality "Comodoro Rivadavia",
+   :location "Comodoro Rivadavia",
    :image "",
    :description ""}
   {:name "Museo Nacional Ferroviario",
@@ -7549,7 +7549,7 @@
    :latitude -34.4132807,
    :source :openstreetmap,
    :homepage "http://www.ara.mil.ar/pag.asp?idItem=110",
-   :locality "Tigre",
+   :location "Tigre",
    :image "",
    :description ""}
   {:name "Museo Naval Puerto Belgrano",
@@ -7563,14 +7563,14 @@
    :latitude -34.5912478,
    :source :openstreetmap,
    :homepage "http://www.museonotarial.org.ar:8080/museo/home.do",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Octavio Pinto",
    :longitude -64.0689435,
    :latitude -30.7043853,
    :source :openstreetmap,
-   :locality "Villa del Totoral",
+   :location "Villa del Totoral",
    :image "",
    :description ""}
   {:name "Museo Olga Orozco",
@@ -7579,7 +7579,7 @@
    :source :openstreetmap,
    :homepage
    "https://sitio.lapampa.edu.ar/index.php/cultura/museos/casa-museo-olga-orozco",
-   :locality "Toay",
+   :location "Toay",
    :image "",
    :description ""}
   {:name "Museo Olgbrun",
@@ -7593,7 +7593,7 @@
    :latitude -38.9064408,
    :source :openstreetmap,
    :homepage "http://museoolsacherzapala.blogspot.com/",
-   :locality "Zapala",
+   :location "Zapala",
    :image "",
    :description ""}
   {:name "Museo Ovni",
@@ -7619,7 +7619,7 @@
    :latitude -43.2492757,
    :source :openstreetmap,
    :homepage "https://mef.org.ar/",
-   :locality "Trelew",
+   :location "Trelew",
    :image "",
    :description ""}
   {:name "Museo Paleontológico",
@@ -7632,14 +7632,14 @@
    :longitude -71.2921162,
    :latitude -41.1326119,
    :source :openstreetmap,
-   :locality "San Carlos de Bariloche",
+   :location "San Carlos de Bariloche",
    :image "",
    :description ""}
   {:name "Museo Paleontológico de Las Lajas",
    :longitude -70.3661039,
    :latitude -38.534605,
    :source :openstreetmap,
-   :locality "Las Lajas",
+   :location "Las Lajas",
    :image "",
    :description ""}
   {:name "Museo Paleontológico y Petrolero de Astra",
@@ -7658,7 +7658,7 @@
    :longitude -58.0176582,
    :latitude -35.5786097,
    :source :openstreetmap,
-   :locality "Chascomús",
+   :location "Chascomús",
    :image "",
    :description ""}
   {:name "Museo Parque Provincial Ischigualasto",
@@ -7671,7 +7671,7 @@
    :longitude -67.5767995,
    :latitude -39.0315277,
    :source :openstreetmap,
-   :locality "General Roca",
+   :location "General Roca",
    :image "",
    :description ""}
   {:name "Museo Patria Chica",
@@ -7684,7 +7684,7 @@
    :longitude -60.1704803,
    :latitude -35.4329282,
    :source :openstreetmap,
-   :locality "25 de Mayo",
+   :location "25 de Mayo",
    :image "",
    :description ""}
   {:name "Museo Perito Moreno",
@@ -7716,21 +7716,21 @@
    :latitude -34.6038405,
    :source :openstreetmap,
    :homepage "http://cpf.org.ar/museo-policial/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Policial \"Alberto Dionisio Antonio\"",
    :longitude -64.2758528,
    :latitude -36.6193041,
    :source :openstreetmap,
-   :locality "Santa Rosa",
+   :location "Santa Rosa",
    :image "",
    :description ""}
   {:name "Museo Policial (Cabildo)",
    :longitude -65.2999878,
    :latitude -24.1850221,
    :source :openstreetmap,
-   :locality "San Salvador de Jujuy",
+   :location "San Salvador de Jujuy",
    :image "",
    :description ""}
   {:name "Museo Polifacético Regional Vottero",
@@ -7749,14 +7749,14 @@
    :longitude -58.4401302,
    :latitude -34.5718301,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Provincial Carlos Ameghino",
    :longitude -67.9953856,
    :latitude -38.9187163,
    :source :openstreetmap,
-   :locality "Cipolletti",
+   :location "Cipolletti",
    :image "",
    :description ""}
   {:name "Museo Provincial de Arte Contemporáneo",
@@ -7780,7 +7780,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.cultura.laplata.gov.ar/cultura/dependencias/mumart",
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Museo Provincial de Bellas Artes Rosa Galisteo de Rodríguez",
@@ -7788,7 +7788,7 @@
    :latitude -31.6568974,
    :source :openstreetmap,
    :homepage "https://www.museorosagalisteo.gob.ar/",
-   :locality "Santa Fe",
+   :location "Santa Fe",
    :image "",
    :description ""}
   {:name
@@ -7798,7 +7798,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.cba.gov.ar/museo-provincial-de-ciencias-naturales/",
-   :locality "Córdoba",
+   :location "Córdoba",
    :image "",
    :description ""}
   {:name "Museo Provincial de Ciencias Naturales y Oceanográfico",
@@ -7848,14 +7848,14 @@
    :latitude -34.5954882,
    :source :openstreetmap,
    :homepage "http://casadelteatro.org.ar/museo-regina-pacini/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo regional",
    :longitude -60.3770148,
    :latitude -31.6501348,
    :source :openstreetmap,
-   :locality "Villa Urquiza",
+   :location "Villa Urquiza",
    :image "",
    :description ""}
   {:name "Museo Regional",
@@ -7874,14 +7874,14 @@
    :longitude -63.5969729,
    :latitude -30.3816131,
    :source :openstreetmap,
-   :locality "Las Arrias",
+   :location "Las Arrias",
    :image "",
    :description ""}
   {:name "Museo Regional",
    :longitude -66.3206032,
    :latitude -24.2138481,
    :source :openstreetmap,
-   :locality "San Antonio de los Cobres",
+   :location "San Antonio de los Cobres",
    :image "",
    :description ""}
   {:name "Museo Regional",
@@ -7912,7 +7912,7 @@
    :longitude -68.518011,
    :latitude -50.016307,
    :source :openstreetmap,
-   :locality "Puerto Santa Cruz",
+   :location "Puerto Santa Cruz",
    :image "",
    :description ""}
   {:name "Museo Regional Cerrito",
@@ -7920,21 +7920,21 @@
    :latitude -31.5788366,
    :source :openstreetmap,
    :homepage "https://cerrito.gob.ar/index2012/?cat=8",
-   :locality "Cerrito",
+   :location "Cerrito",
    :image "",
    :description ""}
   {:name "Museo Regional Claromecó Anibal Paz",
    :longitude -60.0740013,
    :latitude -38.8579039,
    :source :openstreetmap,
-   :locality "Claromecó",
+   :location "Claromecó",
    :image "",
    :description ""}
   {:name "Museo Regional de Antropología Juan Martinet",
    :longitude -58.9834451,
    :latitude -27.4646364,
    :source :openstreetmap,
-   :locality "Resistencia",
+   :location "Resistencia",
    :image "",
    :description ""}
   {:name "Museo Regional de Joaquín V. González",
@@ -7959,7 +7959,7 @@
    :longitude -62.7616536,
    :latitude -37.1808428,
    :source :openstreetmap,
-   :locality "Carhué",
+   :location "Carhué",
    :image "",
    :description ""}
   {:name "Museo Regional Histórico 24 de Agosto",
@@ -7967,7 +7967,7 @@
    :latitude -31.5123784,
    :source :openstreetmap,
    :homepage "https://www.hasenkamp.gob.ar/museo/",
-   :locality "Hasenkamp",
+   :location "Hasenkamp",
    :image "",
    :description ""}
   {:name "Museo Regional Lolma",
@@ -8000,14 +8000,14 @@
    :longitude -61.9964306,
    :latitude -30.7122723,
    :source :openstreetmap,
-   :locality "Morteros",
+   :location "Morteros",
    :image "",
    :description ""}
   {:name "Museo Regional Municipal",
    :longitude -59.5303945,
    :latitude -32.3835288,
    :source :openstreetmap,
-   :locality "Lucas González",
+   :location "Lucas González",
    :image "",
    :description ""}
   {:name "Museo Regional Municipal Doctora Elsa Mosconi",
@@ -8015,7 +8015,7 @@
    :latitude -31.6653087,
    :source :openstreetmap,
    :homepage "https://www.sacanta.gob.ar/?q=turismo",
-   :locality "Sacanta",
+   :location "Sacanta",
    :image "",
    :description ""}
   {:name "Museo Regional Municipal Palacio Arruabarrena",
@@ -8024,14 +8024,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.concordia.gob.ar/turismo/atractivos/museos/museo-arruabarrena",
-   :locality "Concordia",
+   :location "Concordia",
    :image "",
    :description ""}
   {:name "Museo Regional Patagónico “Profesor Antonio Garcés”",
    :longitude -67.4903628,
    :latitude -45.8622878,
    :source :openstreetmap,
-   :locality "Comodoro Rivadavia",
+   :location "Comodoro Rivadavia",
    :image "",
    :description ""}
   {:name "Museo Regional Puerto Bemberg",
@@ -8062,14 +8062,14 @@
    :longitude -70.3692614,
    :latitude -38.526701,
    :source :openstreetmap,
-   :locality "Las Lajas",
+   :location "Las Lajas",
    :image "",
    :description ""}
   {:name "Museo Regonial Camila Quiroga",
    :longitude -57.9784865,
    :latitude -30.7463742,
    :source :openstreetmap,
-   :locality "Chajarí",
+   :location "Chajarí",
    :image "",
    :description ""}
   {:name "Museo Renzo Herrera",
@@ -8082,14 +8082,14 @@
    :longitude -64.3323664,
    :latitude -31.3503321,
    :source :openstreetmap,
-   :locality "La Calera",
+   :location "La Calera",
    :image "",
    :description ""}
   {:name "Museo Rincón de Historia",
    :longitude -60.2496298,
    :latitude -34.2929987,
    :source :openstreetmap,
-   :locality "Salto",
+   :location "Salto",
    :image "",
    :description ""}
   {:name "Museo River Plate",
@@ -8097,21 +8097,21 @@
    :latitude -34.5463523,
    :source :openstreetmap,
    :homepage "http://www.cariverplate.com.ar/museo-river/",
-   :locality "Ciudad Autonoma de Buenos Aires",
+   :location "Ciudad Autonoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Rivolta",
    :longitude -64.3183427,
    :latitude -31.2271286,
    :source :openstreetmap,
-   :locality "Unquillo",
+   :location "Unquillo",
    :image "",
    :description ""}
   {:name "Museo Roberto Cerutti",
    :longitude -66.787598,
    :latitude -39.1540834,
    :source :openstreetmap,
-   :locality "Valle Azul",
+   :location "Valle Azul",
    :image "",
    :description ""}
   {:name "Museo Roca",
@@ -8119,7 +8119,7 @@
    :latitude -34.587663,
    :source :openstreetmap,
    :homepage "https://museoroca.cultura.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Rocsen",
@@ -8127,7 +8127,7 @@
    :latitude -31.7993106,
    :source :openstreetmap,
    :homepage "https://www.museorocsen.org/",
-   :locality "Nono",
+   :location "Nono",
    :image "",
    :description ""}
   {:name "Museo Rosenda Quiroga",
@@ -8158,7 +8158,7 @@
    :longitude -57.588306,
    :latitude -27.9983132,
    :source :openstreetmap,
-   :locality "San Miguel",
+   :location "San Miguel",
    :image "",
    :description ""}
   {:name "Museo Sadaic 'Vicente López y Planes'",
@@ -8166,7 +8166,7 @@
    :latitude -34.6028503,
    :source :openstreetmap,
    :homepage "http://elculturalsanmartin.org/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo Salesiano Cardenal Cagliero",
@@ -8174,7 +8174,7 @@
    :latitude -40.8104783,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/museogardelianoviedma/",
-   :locality "Viedma",
+   :location "Viedma",
    :image "",
    :description ""}
   {:name "Museo Sanmartiniano de Tucumán",
@@ -8214,7 +8214,7 @@
    :longitude -64.3152335,
    :latitude -31.231469,
    :source :openstreetmap,
-   :locality "Unquillo",
+   :location "Unquillo",
    :image "",
    :description ""}
   {:name "Museo Sánchez Vacca",
@@ -8227,14 +8227,14 @@
    :longitude -58.175822,
    :latitude -34.7837881,
    :source :openstreetmap,
-   :locality "Plátanos",
+   :location "Plátanos",
    :image "",
    :description ""}
   {:name "Museo Taller Ferrowhite",
    :longitude -62.2618644,
    :latitude -38.7886423,
    :source :openstreetmap,
-   :locality "Ingeniero White",
+   :location "Ingeniero White",
    :image "",
    :description ""}
   {:name "Museo Timón Cruz",
@@ -8247,7 +8247,7 @@
    :longitude -64.3214237,
    :latitude -31.2304909,
    :source :openstreetmap,
-   :locality "Unquillo",
+   :location "Unquillo",
    :image "",
    :description ""}
   {:name "Museo Tte1ero Ibañez",
@@ -8261,7 +8261,7 @@
    :latitude -37.0088372,
    :source :openstreetmap,
    :homepage "https://www.turismo.madariaga.gob.ar/paginas/mostrar/28",
-   :locality "General Juan Madariaga",
+   :location "General Juan Madariaga",
    :image "",
    :description ""}
   {:name "Museo Universidad Nacional de Tucumán",
@@ -8274,14 +8274,14 @@
    :longitude -60.6578082,
    :latitude -32.9307584,
    :source :openstreetmap,
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Museo Usina Molet (MUM)",
    :longitude -64.4260872,
    :latitude -31.3617413,
    :source :openstreetmap,
-   :locality "La Calera",
+   :location "La Calera",
    :image "",
    :description ""}
   {:name "Museo V Brigada Aerea",
@@ -8306,7 +8306,7 @@
    :longitude -58.2346771,
    :latitude -35.1673672,
    :source :openstreetmap,
-   :locality "Brandsen",
+   :location "Brandsen",
    :image "",
    :description ""}
   {:name "Museo y Archivo De La Direcccion Nacional De Arquitectura",
@@ -8321,7 +8321,7 @@
    :source :openstreetmap,
    :homepage
    "https://repositorio.lapampa.edu.ar/index.php/museos/item/museo-y-archivo-trenel",
-   :locality "Trenel",
+   :location "Trenel",
    :image "",
    :description ""}
   {:name "Museo y archivo historico",
@@ -8336,14 +8336,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.turismo.saavedra.gov.ar/inicio/turismo-urbano/museos.html",
-   :locality "Pigüé",
+   :location "Pigüé",
    :image "",
    :description ""}
   {:name "Museo y Archivo Histórico",
    :longitude -56.6761116,
    :latitude -36.7294782,
    :source :openstreetmap,
-   :locality "Mar De Ajó",
+   :location "Mar De Ajó",
    :image "",
    :description ""}
   {:name
@@ -8352,21 +8352,21 @@
    :latitude -34.5825987,
    :source :openstreetmap,
    :homepage "https://www.bellasartes.gob.ar/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Museo y Archivo Histórico de Rufino",
    :longitude -62.7134982,
    :latitude -34.2633237,
    :source :openstreetmap,
-   :locality "Rufino",
+   :location "Rufino",
    :image "",
    :description ""}
   {:name "Museo y Archivo Histórico Municipal",
    :longitude -62.2590168,
    :latitude -38.7290637,
    :source :openstreetmap,
-   :locality "Bahía Blanca",
+   :location "Bahía Blanca",
    :image "",
    :description ""}
   {:name "Museo y Archivo Histórico Municipal",
@@ -8375,7 +8375,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.villagesellturismo.com/que-hacer/museo-y-archivo-historico-municipal-de-villa-gesell/",
-   :locality "Villa Gesell",
+   :location "Villa Gesell",
    :image "",
    :description ""}
   {:name "Museo y Archivo Histórico Policial \"Comisario Luis Dewey\"",
@@ -8383,14 +8383,14 @@
    :latitude -38.9606081,
    :source :openstreetmap,
    :homepage "https://www.legislaturaneuquen.gob.ar/CasaLeyes.aspx",
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Museo y Archivo Histórico Santa Elena",
    :longitude -59.7894865,
    :latitude -30.9460576,
    :source :openstreetmap,
-   :locality "Santa Elena",
+   :location "Santa Elena",
    :image "",
    :description ""}
   {:name
@@ -8398,7 +8398,7 @@
    :longitude -59.0971072,
    :latitude -35.1903181,
    :source :openstreetmap,
-   :locality "Lobos",
+   :location "Lobos",
    :image "",
    :description ""}
   {:name "Museo y Casa De Cultura",
@@ -8424,7 +8424,7 @@
    :longitude -55.7481986,
    :latitude -27.9131289,
    :source :openstreetmap,
-   :locality "Apóstoles",
+   :location "Apóstoles",
    :image "",
    :description ""}
   {:name "Museo y Centro de Cultura",
@@ -8433,7 +8433,7 @@
    :source :openstreetmap,
    :homepage
    "https://salidores.com/tapalque/museo-y-centro-de-cultura",
-   :locality "Tapalqué",
+   :location "Tapalqué",
    :image "",
    :description ""}
   {:name "Museo y Centro de Interpretación Sitio El Shincal",
@@ -8452,7 +8452,7 @@
    :longitude -62.2737773,
    :latitude -38.7247065,
    :source :openstreetmap,
-   :locality "Bahía Blanca",
+   :location "Bahía Blanca",
    :image "",
    :description ""}
   {:name "Museo y Taller de Platería Draghi",
@@ -8472,7 +8472,7 @@
    :latitude -32.9422383,
    :source :openstreetmap,
    :homepage "http://www.museodelamemoria.gob.ar/",
-   :locality "Rosario",
+   :location "Rosario",
    :image "",
    :description ""}
   {:name "Musep de la Infantería de Marina",
@@ -8499,14 +8499,14 @@
    :source :openstreetmap,
    :homepage
    "http://www.ciudaddemendoza.gov.ar/municipio/areas/intendencia/area-cultura/nave-cultural",
-   :locality "Mendoza",
+   :location "Mendoza",
    :image "",
    :description ""}
   {:name "Nicolás Caubarrere Art",
    :longitude -58.5284566,
    :latitude -34.4918635,
    :source :openstreetmap,
-   :locality "Martínez",
+   :location "Martínez",
    :image "",
    :description ""}
   {:name "Nocenta Pisetta",
@@ -8525,7 +8525,7 @@
    :longitude -64.5241799,
    :latitude -30.8562989,
    :source :openstreetmap,
-   :locality "Capilla del Monte",
+   :location "Capilla del Monte",
    :image "",
    :description ""}
   {:name "Pajcha Museo de Arte Etnico Americano",
@@ -8539,14 +8539,14 @@
    :latitude -34.6035842,
    :source :openstreetmap,
    :homepage "https://palaciolibertad.gob.ar",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Palacio Municipal del Pilar",
    :longitude -58.9130782,
    :latitude -34.4588254,
    :source :openstreetmap,
-   :locality "Pilar",
+   :location "Pilar",
    :image "",
    :description ""}
   {:name "Palacio San José",
@@ -8554,7 +8554,7 @@
    :latitude -32.4266368,
    :source :openstreetmap,
    :homepage "https://museourquiza.cultura.gob.ar/",
-   :locality "Caseros",
+   :location "Caseros",
    :image "",
    :description ""}
   {:name "Paleorama",
@@ -8586,14 +8586,14 @@
    :longitude -64.4944868,
    :latitude -30.9371072,
    :source :openstreetmap,
-   :locality "Los Cocos",
+   :location "Los Cocos",
    :image "",
    :description ""}
   {:name "Paseo Agrícola",
    :longitude -63.0469295,
    :latitude -31.4156896,
    :source :openstreetmap,
-   :locality "Arroyito",
+   :location "Arroyito",
    :image "",
    :description ""}
   {:name "Paseo de las Esculturas",
@@ -8606,7 +8606,7 @@
    :longitude -60.9216658,
    :latitude -31.4478519,
    :source :openstreetmap,
-   :locality "Esperanza",
+   :location "Esperanza",
    :image "",
    :description ""}
   {:name "Paseo Los Artesanos",
@@ -8619,14 +8619,14 @@
    :longitude -58.4221943,
    :latitude -34.597923,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Pinacoteca Sanmartiniana \"Fidel Roig Matóns\"",
    :longitude -68.8430641,
    :latitude -32.8984125,
    :source :openstreetmap,
-   :locality "Mendoza",
+   :location "Mendoza",
    :image "",
    :description ""}
   {:name "Pinturas",
@@ -8663,7 +8663,7 @@
    :longitude -55.9500589,
    :latitude -27.3995828,
    :source :openstreetmap,
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Posta de Hornillos",
@@ -8676,7 +8676,7 @@
    :longitude -64.9497789,
    :latitude -25.5900831,
    :source :openstreetmap,
-   :locality "Yatasto",
+   :location "Yatasto",
    :image "",
    :description ""}
   {:name "Posta Los Nogales",
@@ -8698,14 +8698,14 @@
    :latitude -31.6355879,
    :source :openstreetmap,
    :homepage "https://proyecto3.org/contacto/",
-   :locality "Santa Fe",
+   :location "Santa Fe",
    :image "",
    :description ""}
   {:name "Pueblo Viejo",
    :longitude -58.0237423,
    :latitude -31.3989699,
    :source :openstreetmap,
-   :locality "Concordia",
+   :location "Concordia",
    :image "",
    :description ""}
   {:name "Pulperia (Almacén Historico)",
@@ -8726,7 +8726,7 @@
    :latitude -34.4668919,
    :source :openstreetmap,
    :homepage "https://www.quintalosombues.gob.ar/",
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name "Ramón Trinidad Pozzi",
@@ -8745,14 +8745,14 @@
    :longitude -60.6214001,
    :latitude -33.0231672,
    :source :openstreetmap,
-   :locality "Villa Gobernador Gálvez",
+   :location "Villa Gobernador Gálvez",
    :image "",
    :description ""}
   {:name "Reconquista",
    :longitude -59.6500766,
    :latitude -29.144799,
    :source :openstreetmap,
-   :locality "Reconquista",
+   :location "Reconquista",
    :image "",
    :description ""}
   {:name "Rectorado de la Universidad Nacional de Jujuy",
@@ -8780,21 +8780,21 @@
    :latitude -34.9080489,
    :source :openstreetmap,
    :homepage "https://residenciacorazon.com.ar/",
-   :locality "La Plata",
+   :location "La Plata",
    :image "",
    :description ""}
   {:name "Revolución CC",
    :longitude -64.1660727,
    :latitude -31.4366624,
    :source :openstreetmap,
-   :locality "Córdoba",
+   :location "Córdoba",
    :image "",
    :description ""}
   {:name "Rojo al Frente",
    :longitude -58.5330831,
    :latitude -34.5756531,
    :source :openstreetmap,
-   :locality "General San Martín",
+   :location "General San Martín",
    :image "",
    :description ""}
   {:name "Roma antiguedades",
@@ -8826,28 +8826,28 @@
    :latitude -34.5914013,
    :source :openstreetmap,
    :homepage "http://www.ruthbenzacar.com/",
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}
   {:name "Réplica de la Casa de la Independencia",
    :longitude -68.4285852,
    :latitude -39.0087426,
    :source :openstreetmap,
-   :locality "Senillosa",
+   :location "Senillosa",
    :image "",
    :description ""}
   {:name "Sala Alma Mía",
    :longitude -68.813805,
    :latitude -32.883002,
    :source :openstreetmap,
-   :locality "Guaymallén",
+   :location "Guaymallén",
    :image "",
    :description ""}
   {:name "Sala Braier",
    :longitude -61.9757077,
    :latitude -33.7358755,
    :source :openstreetmap,
-   :locality "Venado Tuerto",
+   :location "Venado Tuerto",
    :image "",
    :description ""}
   {:name "Sala Cultural Malvinas Argentinas",
@@ -8862,7 +8862,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.dpvneuquen.gov.ar/museo-vial-de-la-provincia-del-neuquen/",
-   :locality "Zapala",
+   :location "Zapala",
    :image "",
    :description ""}
   {:name "Sala de Arte Patrimonial",
@@ -8881,14 +8881,14 @@
    :longitude -68.0587583,
    :latitude -38.9411401,
    :source :openstreetmap,
-   :locality "Neuquén",
+   :location "Neuquén",
    :image "",
    :description ""}
   {:name "Sala de Dioramas Cutral Có",
    :longitude -69.2317022,
    :latitude -38.9345352,
    :source :openstreetmap,
-   :locality "Cutral Có",
+   :location "Cutral Có",
    :image "",
    :description ""}
   {:name "Sala de Interpretación Maiá-Kú",
@@ -8925,7 +8925,7 @@
    :longitude -55.9039527,
    :latitude -27.3654128,
    :source :openstreetmap,
-   :locality "Posadas",
+   :location "Posadas",
    :image "",
    :description ""}
   {:name "Sala Museo Miguel Ocampo",
@@ -8950,14 +8950,14 @@
    :longitude -67.6903625,
    :latitude -53.7933628,
    :source :openstreetmap,
-   :locality "Río Grande",
+   :location "Río Grande",
    :image "",
    :description ""}
   {:name "Salón Cultural",
    :longitude -68.2327615,
    :latitude -38.954683,
    :source :openstreetmap,
-   :locality "Plottier",
+   :location "Plottier",
    :image "",
    :description ""}
   {:name "Salón de Arte \"Limay\"",
@@ -8972,7 +8972,7 @@
    :source :openstreetmap,
    :homepage
    "https://cultura.cba.gov.ar/institucional/museos/salon-de-los-gobernadores/",
-   :locality "Córdoba",
+   :location "Córdoba",
    :image "",
    :description ""}
   {:name "Samay Huasi",
@@ -8991,7 +8991,7 @@
    :longitude -55.7779351,
    :latitude -27.7675564,
    :source :openstreetmap,
-   :locality "San José",
+   :location "San José",
    :image "",
    :description ""}
   {:name "Sanaviron",
@@ -9046,7 +9046,7 @@
    :longitude -68.8318337,
    :latitude -32.8826459,
    :source :openstreetmap,
-   :locality "Mendoza",
+   :location "Mendoza",
    :image "",
    :description ""}
   {:name "Taller de Arte",
@@ -9071,7 +9071,7 @@
    :longitude -59.1084519,
    :latitude -35.1876007,
    :source :openstreetmap,
-   :locality "Lobos",
+   :location "Lobos",
    :image "",
    :description ""}
   {:name "Tehanú",
@@ -9079,7 +9079,7 @@
    :latitude -34.4837804,
    :source :openstreetmap,
    :homepage "https://www.tehanu.com.ar/",
-   :locality "Acassuso",
+   :location "Acassuso",
    :image "",
    :description ""}
   {:name "Todo lo Nuestro",
@@ -9134,7 +9134,7 @@
    :longitude -58.4353557,
    :latitude -34.5800621,
    :source :openstreetmap,
-   :locality "Ciudad Autónoma de Buenos Aires",
+   :location "Ciudad Autónoma de Buenos Aires",
    :image "",
    :description ""}],
  :source

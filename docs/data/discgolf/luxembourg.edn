@@ -9,7 +9,7 @@
    :latitude 49.702408846707044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40356",
-   :locality "Bourglinster",
+   :location "Bourglinster",
    :image "",
    :description ""}
   {:name "Disc Golf Park Dudelange",
@@ -17,7 +17,7 @@
    :latitude 49.483945677780184,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25614",
-   :locality "Dudelange",
+   :location "Dudelange",
    :image "",
    :description ""}
   {:name "Disc Golf Park Um Belval",
@@ -25,7 +25,7 @@
    :latitude 49.50564874690866,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24585",
-   :locality "Belvaux",
+   :location "Belvaux",
    :image "",
    :description ""}
   {:name "Disc Golf Park Um Belval 2x9",
@@ -40,7 +40,7 @@
    :latitude 49.483873602563335,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17657",
-   :locality "Dudelange",
+   :location "Dudelange",
    :image "",
    :description ""}],
  :source

@@ -9,13 +9,13 @@
    :latitude 42.513659157653734,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40278",
-   :locality "Burgas"}
+   :location "Burgas"}
   {:name "Mineralni Bani park",
    :longitude 27.39805504616291,
    :latitude 42.617212193349445,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35964",
-   :locality "Бургас"}],
+   :location "Бургас"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

@@ -51,13 +51,13 @@
    :latitude 25.2867416,
    :source :openstreetmap,
    :homepage "https://nmoq.org.qa/",
-   :locality "الدوحة"}
+   :location "الدوحة"}
   {:name "المعهد الفرنسي في قطر",
    :longitude 51.5073412,
    :latitude 25.3515536,
    :source :openstreetmap,
    :homepage "http://www.institutfrancais-qatar.com",
-   :locality "الدوحة"}
+   :location "الدوحة"}
   {:name "قاعة الرواق للمعارض",
    :longitude 51.5432963,
    :latitude 25.293039,
@@ -72,7 +72,7 @@
    :latitude 25.2868923,
    :source :openstreetmap,
    :homepage "https://m7.org.qa/en/",
-   :locality "الدوحة"}
+   :location "الدوحة"}
   {:name "مركز الزوار - أكواريوم قطر",
    :longitude 51.5825789,
    :latitude 25.0337589,

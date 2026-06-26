@@ -15,7 +15,7 @@
    :latitude -34.0489561,
    :source :openstreetmap,
    :homepage "https://www.18gm.co.za/",
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "African Renaissance Museum - Masoga",
@@ -47,7 +47,7 @@
    :latitude -28.7398108,
    :source :openstreetmap,
    :homepage "https://museumsnc.co.za",
-   :locality "Kimberley",
+   :location "Kimberley",
    :image "",
    :description ""}
   {:name "Alice Art Gallery",
@@ -85,7 +85,7 @@
    :latitude -34.0173864,
    :source :openstreetmap,
    :homepage "https://artdeolivia.com",
-   :locality "Swellendam",
+   :location "Swellendam",
    :image "",
    :description ""}
   {:name "Art Den",
@@ -117,7 +117,7 @@
    :longitude 19.250667,
    :latitude -34.4123809,
    :source :openstreetmap,
-   :locality "Hermanus",
+   :location "Hermanus",
    :image "",
    :description ""}
   {:name "Artists Admin",
@@ -150,7 +150,7 @@
    :latitude -33.784989,
    :source :openstreetmap,
    :homepage "https://autopavilion.co.za/",
-   :locality "Uitenhage",
+   :location "Uitenhage",
    :image "",
    :description ""}
   {:name "Barberton Museum",
@@ -183,7 +183,7 @@
    :latitude -32.3505016,
    :source :openstreetmap,
    :homepage "https://www.beaufortwestmuseum.co.za/",
-   :locality "Beaufort West",
+   :location "Beaufort West",
    :image "",
    :description ""}
   {:name "Belinda Hewer",
@@ -209,7 +209,7 @@
    :longitude 28.3153914,
    :latitude -28.2314553,
    :source :openstreetmap,
-   :locality "Bethlehem",
+   :location "Bethlehem",
    :image "",
    :description ""}
   {:name "Blacksmith Museum",
@@ -228,7 +228,7 @@
    :longitude 26.2137027,
    :latitude -29.091086,
    :source :openstreetmap,
-   :locality "Dan Pienaar, Bloemfontein",
+   :location "Dan Pienaar, Bloemfontein",
    :image "",
    :description ""}
   {:name "Blombos Museum of Archaeology",
@@ -236,14 +236,14 @@
    :latitude -34.3722806,
    :source :openstreetmap,
    :homepage "https://www.hesva.org.za/",
-   :locality "Stilbaai",
+   :location "Stilbaai",
    :image "",
    :description ""}
   {:name "Bram Fischer Museum",
    :longitude 26.2125698,
    :latitude -29.1083811,
    :source :openstreetmap,
-   :locality "Bloemfontein",
+   :location "Bloemfontein",
    :image "",
    :description ""}
   {:name "Buffelsfontein Art & Coffee",
@@ -274,7 +274,7 @@
    :longitude 19.7750835,
    :latitude -31.4721746,
    :source :openstreetmap,
-   :locality "Calvinia",
+   :location "Calvinia",
    :image "",
    :description ""}
   {:name "Cape Agulhas Lighthouse Museum",
@@ -338,7 +338,7 @@
    :latitude -29.6142197,
    :source :openstreetmap,
    :homepage "https://www.comrades.com/",
-   :locality "Pietermaritzburg",
+   :location "Pietermaritzburg",
    :image "",
    :description ""}
   {:name "CP Nel Museum",
@@ -351,7 +351,7 @@
    :longitude 27.8692774,
    :latitude -26.2428163,
    :source :openstreetmap,
-   :locality "Jabavu, Soweto",
+   :location "Jabavu, Soweto",
    :image "",
    :description ""}
   {:name "Cultural Village",
@@ -376,7 +376,7 @@
    :longitude 19.6088554,
    :latitude -34.0507686,
    :source :openstreetmap,
-   :locality "Greyton",
+   :location "Greyton",
    :image "",
    :description ""}
   {:name "De Volkstem Building",
@@ -439,7 +439,7 @@
    :latitude -28.7472949,
    :source :openstreetmap,
    :homepage "https://museumsnc.co.za",
-   :locality "Kimberley",
+   :location "Kimberley",
    :image "",
    :description ""}
   {:name "Durban Holocaust & Genocide Centre",
@@ -453,7 +453,7 @@
    :latitude -33.9715342,
    :source :openstreetmap,
    :homepage "https://www.dylanlewis.com/garden/visit-the-garden",
-   :locality "Stellenbosch",
+   :location "Stellenbosch",
    :image "",
    :description ""}
   {:name "E.P.S.A. & C. Arts Hall",
@@ -468,7 +468,7 @@
    :latitude -32.9955135,
    :source :openstreetmap,
    :homepage "https://www.elmuseum.za.org/",
-   :locality "KuGompo City",
+   :location "KuGompo City",
    :image "",
    :description ""}
   {:name "Elephant Hall of Fame",
@@ -494,14 +494,14 @@
    :longitude 26.216538,
    :latitude -29.1204875,
    :source :openstreetmap,
-   :locality "Bloemfontein",
+   :location "Bloemfontein",
    :image "",
    :description ""}
   {:name "Fish Hoek Valley Museum",
    :longitude 18.4272968,
    :latitude -34.1373483,
    :source :openstreetmap,
-   :locality "Fish Hoek",
+   :location "Fish Hoek",
    :image "",
    :description ""}
   {:name "Flood Museum",
@@ -560,14 +560,14 @@
    :latitude -33.8798343,
    :source :openstreetmap,
    :homepage "https://www.fmm.co.za/",
-   :locality "Franschhoek",
+   :location "Franschhoek",
    :image "",
    :description ""}
   {:name "Fransie Pienaar Museum",
    :longitude 22.0304852,
    :latitude -33.2246267,
    :source :openstreetmap,
-   :locality "Prince Albert",
+   :location "Prince Albert",
    :image "",
    :description ""}
   {:name "Fransmanshoek Information Centre",
@@ -580,14 +580,14 @@
    :longitude 19.4468235,
    :latitude -30.9522077,
    :source :openstreetmap,
-   :locality "Loeriesfontein",
+   :location "Loeriesfontein",
    :image "",
    :description ""}
   {:name "Gately House Museum",
    :longitude 27.9013985,
    :latitude -33.0188978,
    :source :openstreetmap,
-   :locality "KuGompo City",
+   :location "KuGompo City",
    :image "",
    :description ""}
   {:name "George Museum",
@@ -601,7 +601,7 @@
    :latitude -26.1493231,
    :source :openstreetmap,
    :homepage "https://www.goodman-gallery.com/",
-   :locality "Johannesburg",
+   :location "Johannesburg",
    :image "",
    :description ""}
   {:name "Goudkop Museum",
@@ -627,7 +627,7 @@
    :latitude -34.0311871,
    :source :openstreetmap,
    :homepage "https://grootconstantia.co.za/",
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "Groote Schuur",
@@ -683,7 +683,7 @@
    :longitude 20.119721,
    :latitude -33.7852939,
    :source :openstreetmap,
-   :locality "Montagu",
+   :location "Montagu",
    :image "",
    :description ""}
   {:name "Himeville Fort Museum",
@@ -801,7 +801,7 @@
    :latitude -31.8669219,
    :source :openstreetmap,
    :homepage "https://kfec.co.za/",
-   :locality "Nieu Bethesda",
+   :location "Nieu Bethesda",
    :image "",
    :description ""}
   {:name "Kleinfontein Volksmuseum",
@@ -820,7 +820,7 @@
    :longitude 29.4247495,
    :latitude -30.547101,
    :source :openstreetmap,
-   :locality "Kokstad",
+   :location "Kokstad",
    :image "",
    :description ""}
   {:name "Kowie History Museum",
@@ -834,14 +834,14 @@
    :latitude -25.7464954,
    :source :openstreetmap,
    :homepage "https://www.ditsong.org.za/?venue=kruger-museum",
-   :locality "Pretoria",
+   :location "Pretoria",
    :image "",
    :description ""}
   {:name "KwaMaqoma Historical Museum",
    :longitude 26.6291764,
    :latitude -32.777237,
    :source :openstreetmap,
-   :locality "KwaMaqoma",
+   :location "KwaMaqoma",
    :image "",
    :description ""}
   {:name "KZNSA Gallery and Cafe",
@@ -867,7 +867,7 @@
    :latitude -33.9213345,
    :source :openstreetmap,
    :homepage "https://www.iziko.org.za/museums/bo-kaap-museum",
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "Le Roux Town House",
@@ -905,7 +905,7 @@
    :latitude -26.1852037,
    :source :openstreetmap,
    :homepage "https://lindfield.wixsite.com/museum",
-   :locality "Johannesburg",
+   :location "Johannesburg",
    :image "",
    :description ""}
   {:name "Long Street Gallery",
@@ -913,14 +913,14 @@
    :latitude -33.7888064,
    :source :openstreetmap,
    :homepage "https://montagumuseum.co.za/old-mission-church/",
-   :locality "Montagu",
+   :location "Montagu",
    :image "",
    :description ""}
   {:name "Lucas Meyer House",
    :longitude 30.7964218,
    :latitude -27.7682061,
    :source :openstreetmap,
-   :locality "Vryheid",
+   :location "Vryheid",
    :image "",
    :description ""}
   {:name "Luthuli Museum",
@@ -951,21 +951,21 @@
    :longitude 25.6420883,
    :latitude -25.8634422,
    :source :openstreetmap,
-   :locality "Mahikeng",
+   :location "Mahikeng",
    :image "",
    :description ""}
   {:name "Malmesbury Museum",
    :longitude 18.7296698,
    :latitude -33.4662114,
    :source :openstreetmap,
-   :locality "Malmesbury",
+   :location "Malmesbury",
    :image "",
    :description ""}
   {:name "Mandela House",
    :longitude 27.9088036,
    :latitude -26.2385115,
    :source :openstreetmap,
-   :locality "Johannesburg",
+   :location "Johannesburg",
    :image "",
    :description ""}
   {:name "Mandela House Alexandra",
@@ -1047,7 +1047,7 @@
    :longitude 18.5259594,
    :latitude -33.94419,
    :source :openstreetmap,
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "Museum House",
@@ -1061,7 +1061,7 @@
    :latitude -26.2031799,
    :source :openstreetmap,
    :homepage "http://agoggallery.com/",
-   :locality "Johannesburg",
+   :location "Johannesburg",
    :image "",
    :description ""}
   {:name "Museum of Illusions",
@@ -1075,7 +1075,7 @@
    :latitude -33.9275532,
    :source :openstreetmap,
    :homepage "https://moicapetown.co.za",
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "museum of man",
@@ -1100,7 +1100,7 @@
    :longitude 17.8807422,
    :latitude -29.6659502,
    :source :openstreetmap,
-   :locality "Springbok",
+   :location "Springbok",
    :image "",
    :description ""}
   {:name "Natal Maritime Museum",
@@ -1134,7 +1134,7 @@
    :source :openstreetmap,
    :homepage
    "https://ditsong.org.za/en/our-museums/museum-of-natural-history/",
-   :locality "Pretoria",
+   :location "Pretoria",
    :image "",
    :description ""}
   {:name "Ncome Zulu Museum",
@@ -1167,7 +1167,7 @@
    :longitude 25.6215684,
    :latitude -33.9634178,
    :source :openstreetmap,
-   :locality "Gqeberha",
+   :location "Gqeberha",
    :image "",
    :description ""}
   {:name "Norval Foundation",
@@ -1175,14 +1175,14 @@
    :latitude -34.0764763,
    :source :openstreetmap,
    :homepage "https://www.norvalfoundation.org/",
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "Noupoort Local Museum",
    :longitude 24.9525962,
    :latitude -31.1779865,
    :source :openstreetmap,
-   :locality "Noupoort",
+   :location "Noupoort",
    :image "",
    :description ""}
   {:name "Number Four Prison",
@@ -1214,14 +1214,14 @@
    :latitude -34.4201626,
    :source :openstreetmap,
    :homepage "https://www.old-harbour-museum.co.za/",
-   :locality "Hermanus",
+   :location "Hermanus",
    :image "",
    :description ""}
   {:name "Old House Museum",
    :longitude 31.0175077,
    :latitude -29.8630648,
    :source :openstreetmap,
-   :locality "Durban",
+   :location "Durban",
    :image "",
    :description ""}
   {:name "Old Library",
@@ -1229,7 +1229,7 @@
    :latitude -32.2512817,
    :source :openstreetmap,
    :homepage "https://www.graaffreinetmuseums.co.za",
-   :locality "Graaff-Reinet",
+   :location "Graaff-Reinet",
    :image "",
    :description ""}
   {:name "Open Mine Museum",
@@ -1249,7 +1249,7 @@
    :longitude 26.912888,
    :latitude -32.5851122,
    :source :openstreetmap,
-   :locality "Hogsback",
+   :location "Hogsback",
    :image "",
    :description ""}
   {:name "Origins Centre",
@@ -1274,14 +1274,14 @@
    :longitude 26.297209,
    :latitude -32.709868,
    :source :openstreetmap,
-   :locality "Adelaide",
+   :location "Adelaide",
    :image "",
    :description ""}
   {:name "Outeniqua Transport Museum",
    :longitude 22.4735527,
    :latitude -33.9630291,
    :source :openstreetmap,
-   :locality "George",
+   :location "George",
    :image "",
    :description ""}
   {:name "Paardeberg Museum",
@@ -1300,7 +1300,7 @@
    :longitude 27.4569661,
    :latitude -26.9004155,
    :source :openstreetmap,
-   :locality "Parys",
+   :location "Parys",
    :image "",
    :description ""}
   {:name "Pecanwood",
@@ -1313,7 +1313,7 @@
    :longitude 25.9753994,
    :latitude -30.493889,
    :source :openstreetmap,
-   :locality "Bethulie",
+   :location "Bethulie",
    :image "",
    :description ""}
   {:name "Peter Clarke Art Centre",
@@ -1339,7 +1339,7 @@
    :longitude 29.4534618,
    :latitude -23.9074942,
    :source :openstreetmap,
-   :locality "Polokwane",
+   :location "Polokwane",
    :image "",
    :description ""}
   {:name "Port Nolloth Museum",
@@ -1377,7 +1377,7 @@
    :longitude 25.6055746,
    :latitude -33.8976927,
    :source :openstreetmap,
-   :locality "iBhayi",
+   :location "iBhayi",
    :image "",
    :description ""}
   {:name "Rhodes Cottage",
@@ -1447,14 +1447,14 @@
    :latitude -33.9418008,
    :source :openstreetmap,
    :homepage "https://rupertmuseum.org/",
-   :locality "Stellenbosch",
+   :location "Stellenbosch",
    :image "",
    :description ""}
   {:name "Rust-en-Vrede Gallery and Clay Museum",
    :longitude 18.6488129,
    :latitude -33.8316007,
    :source :openstreetmap,
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "Sammy Marks",
@@ -1469,7 +1469,7 @@
    :latitude -32.0945502,
    :source :openstreetmap,
    :homepage "https://lambertsbay.co.za/culture-sandveld.html",
-   :locality "Lamberts Bay",
+   :location "Lamberts Bay",
    :image "",
    :description ""}
   {:name "Sarah Baartman Memorial Centre",
@@ -1489,7 +1489,7 @@
    :latitude -33.4890752,
    :source :openstreetmap,
    :homepage "https://www.art.co.za/dianemclean/index.php",
-   :locality "De Rust",
+   :location "De Rust",
    :image "",
    :description ""}
   {:name "Sci-Bono Centre",
@@ -1510,7 +1510,7 @@
    :latitude -34.0656922,
    :source :openstreetmap,
    :homepage "https://seeplaas.co.za/",
-   :locality "Groot Brakrivier",
+   :location "Groot Brakrivier",
    :image "",
    :description ""}
   {:name "Sesotho Literature Museum (Dingolweng)",
@@ -1529,7 +1529,7 @@
    :longitude 20.0384437,
    :latitude -34.5326227,
    :source :openstreetmap,
-   :locality "Bredasdorp",
+   :location "Bredasdorp",
    :image "",
    :description ""}
   {:name "Sid Fourie Historical House Museum",
@@ -1555,7 +1555,7 @@
    :longitude 28.2318838,
    :latitude -25.8884464,
    :source :openstreetmap,
-   :locality "Irene, Centurion",
+   :location "Irene, Centurion",
    :image "",
    :description ""}
   {:name "Soetmelksvlei – A family experience by Babylonstoren",
@@ -1568,7 +1568,7 @@
    :longitude 24.7633823,
    :latitude -28.7460819,
    :source :openstreetmap,
-   :locality "Kimberley",
+   :location "Kimberley",
    :image "",
    :description ""}
   {:name "Somerset East Museum",
@@ -1594,7 +1594,7 @@
    :longitude 18.466704,
    :latitude -34.1106408,
    :source :openstreetmap,
-   :locality "Muizenberg",
+   :location "Muizenberg",
    :image "",
    :description ""}
   {:name "South African Sendinggestig Museum",
@@ -1622,7 +1622,7 @@
    :longitude 25.5716376,
    :latitude -33.945662,
    :source :openstreetmap,
-   :locality "Gqeberha",
+   :location "Gqeberha",
    :image "",
    :description ""}
   {:name "Standard Bank Gallery",
@@ -1648,7 +1648,7 @@
    :latitude -33.9352394,
    :source :openstreetmap,
    :homepage "https://www0.sun.ac.za/museum/",
-   :locality "Stellenbosch",
+   :location "Stellenbosch",
    :image "",
    :description ""}
   {:name "Stephenson Photo Museum",
@@ -1716,7 +1716,7 @@
    :longitude 24.7721131,
    :latitude -34.0289037,
    :source :openstreetmap,
-   :locality "Humansdorp",
+   :location "Humansdorp",
    :image "",
    :description ""}
   {:name "The Mapungubwe Interpretation Centre",
@@ -1736,14 +1736,14 @@
    :longitude 27.9826484,
    :latitude -25.5973526,
    :source :openstreetmap,
-   :locality "Pretoria",
+   :location "Pretoria",
    :image "",
    :description ""}
   {:name "The Yard Bloemfontein",
    :longitude 26.2049944,
    :latitude -29.1027001,
    :source :openstreetmap,
-   :locality "Bloemfontein",
+   :location "Bloemfontein",
    :image "",
    :description ""}
   {:name "Toy Musem",
@@ -1758,7 +1758,7 @@
    :latitude -33.9377679,
    :source :openstreetmap,
    :homepage "https://stelmus.co.za/",
-   :locality "Stellenbosch",
+   :location "Stellenbosch",
    :image "",
    :description ""}
   {:name "Tractor Museum",
@@ -1813,7 +1813,7 @@
    :longitude 24.4118325,
    :latitude -29.8142417,
    :source :openstreetmap,
-   :locality "Orania",
+   :location "Orania",
    :image "",
    :description ""}
   {:name "Victoria Art Gallery",
@@ -1821,7 +1821,7 @@
    :latitude -33.9289754,
    :source :openstreetmap,
    :homepage "https://sidestreet.co.za",
-   :locality "Cape Town",
+   :location "Cape Town",
    :image "",
    :description ""}
   {:name "Victoria West Museum",
@@ -1924,7 +1924,7 @@
    :source :openstreetmap,
    :homepage
    "https://ditsong.org.za/en/our-museums/willem-prinsloo-agricultural-museum/",
-   :locality "Cullinan",
+   :location "Cullinan",
    :image "",
    :description ""}
   {:name "William Hayes Memorial",
@@ -1963,7 +1963,7 @@
    :longitude 28.1936129,
    :latitude -25.7465919,
    :source :openstreetmap,
-   :locality "Pretoria",
+   :location "Pretoria",
    :image "",
    :description ""}
   {:name "Worcester Museum (Kleinplasie)",

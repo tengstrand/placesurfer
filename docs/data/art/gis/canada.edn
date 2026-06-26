@@ -23,7 +23,7 @@
    :latitude 43.7005161,
    :source :openstreetmap,
    :homepage "https://4catsleaside.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "50 Bayswater",
    :longitude -75.720766,
    :latitude 45.4062349,
@@ -39,7 +39,7 @@
    :latitude 43.6687259,
    :source :openstreetmap,
    :homepage "https://8x7.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "a little art boutique",
    :longitude -97.1557506,
    :latitude 49.8701358,
@@ -53,7 +53,7 @@
    :latitude 49.044557,
    :source :openstreetmap,
    :homepage "https://abbotsfordarts.abbyschools.ca",
-   :locality "Abbotsford"}
+   :location "Abbotsford"}
   {:name "Abbotsford Sports Hall of Fame",
    :longitude -122.3244289,
    :latitude 49.0615884,
@@ -64,7 +64,7 @@
    :latitude 46.0932111,
    :source :openstreetmap,
    :homepage "https://centreculturelaberdeen.com/en/home/",
-   :locality "Moncton"}
+   :location "Moncton"}
   {:name "Abri du prêtre",
    :longitude -71.1197911,
    :latitude 45.4471275,
@@ -73,13 +73,13 @@
    :longitude -63.8653006,
    :latitude 46.4324247,
    :source :openstreetmap,
-   :locality "Miscouche"}
+   :location "Miscouche"}
   {:name "Acadien House Museum",
    :longitude -63.2616704,
    :latitude 44.7065796,
    :source :openstreetmap,
    :homepage "https://www.acadiedechezzetcook.ca/en/",
-   :locality "West Chezzetcook"}
+   :location "West Chezzetcook"}
   {:name "Académie des Beaux Arts de Montreal",
    :longitude -73.603744,
    :latitude 45.5363079,
@@ -95,31 +95,31 @@
    :latitude 49.2784361,
    :source :openstreetmap,
    :homepage "https://orgallery.org/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Actual",
    :longitude -97.1408277,
    :latitude 49.9013392,
    :source :openstreetmap,
    :homepage "https://www.actualgallery.ca/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Administration Buiding / Visitor Centre",
    :longitude -84.3508897,
    :latitude 46.51322,
    :source :openstreetmap,
    :homepage "https://parks.canada.ca/lhn-nhs/on/ssmarie",
-   :locality "Sault Ste. Marie"}
+   :location "Sault Ste. Marie"}
   {:name "Africville Museum",
    :longitude -63.6194979,
    :latitude 44.6738887,
    :source :openstreetmap,
    :homepage "https://africvillemuseum.org/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "Aga Khan Museum",
    :longitude -79.3319998,
    :latitude 43.7252934,
    :source :openstreetmap,
    :homepage "https://www.agakhanmuseum.org/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Agassiz Harrison Museum",
    :longitude -121.7654037,
    :latitude 49.2392807,
@@ -135,13 +135,13 @@
    :latitude 44.2253551,
    :source :openstreetmap,
    :homepage "https://agnes.queensu.ca/",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Agricultural Museum of N.B. Inc.",
    :longitude -65.5012598,
    :latitude 45.7237353,
    :source :openstreetmap,
    :homepage "http://www.agriculturalmuseumofnb.com/",
-   :locality "Sussex"}
+   :location "Sussex"}
   {:name "Ahtsik Gallery + Godon Dick Studio",
    :longitude -124.8764742,
    :latitude 49.2741939,
@@ -160,7 +160,7 @@
    :latitude 45.8488622,
    :source :openstreetmap,
    :homepage "https://www.albertcountymuseum.com/",
-   :locality "Hopewell Cape"}
+   :location "Hopewell Cape"}
   {:name "Albert Gilles musée du cuivre",
    :longitude -71.0425307,
    :latitude 46.9524514,
@@ -171,31 +171,31 @@
    :latitude 53.565379,
    :source :openstreetmap,
    :homepage "https://www.albertaaviationmuseum.com/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Alberta Craft Gallery",
    :longitude -114.1009733,
    :latitude 51.0273166,
    :source :openstreetmap,
    :homepage "http://www.albertacraft.ab.ca",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Alberta Craft Gallery & Shop",
    :longitude -113.503295,
    :latitude 53.5428424,
    :source :openstreetmap,
    :homepage "https://www.albertacraft.ab.ca/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Alberta Railway Museum",
    :longitude -113.3835992,
    :latitude 53.7025649,
    :source :openstreetmap,
    :homepage "https://albertarailwaymuseum.com/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Alberta Sports Hall of Fame",
    :longitude -113.8541048,
    :latitude 52.2620634,
    :source :openstreetmap,
    :homepage "https://www.albertasportshall.ca/",
-   :locality "Red Deer"}
+   :location "Red Deer"}
   {:name "Alberta Wheat Pool Acadia Valley",
    :longitude -110.2030742,
    :latitude 51.1581083,
@@ -205,7 +205,7 @@
    :latitude 46.8114211,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/artsandheritagecentre",
-   :locality "Alberton"}
+   :location "Alberton"}
   {:name "Alcove Centre for the Arts",
    :longitude -114.0677179,
    :latitude 51.0467735,
@@ -215,7 +215,7 @@
    :latitude 49.0603274,
    :source :openstreetmap,
    :homepage "https://www.aldergroveheritage.ca/",
-   :locality "Aldergrove"}
+   :location "Aldergrove"}
   {:name "Alert Bay ArtLoft Gallery and Gift Shop",
    :longitude -126.9294519,
    :latitude 50.5862795,
@@ -229,7 +229,7 @@
    :longitude -89.2214454,
    :latitude 48.4259379,
    :source :openstreetmap,
-   :locality "Thunder Bay"}
+   :location "Thunder Bay"}
   {:name "Algonquin Logging Museum",
    :longitude -78.2629146,
    :latitude 45.5436546,
@@ -262,13 +262,13 @@
    :latitude 42.1012432,
    :source :openstreetmap,
    :homepage "https://amherstburgfreedom.org/",
-   :locality "Amherstburg"}
+   :location "Amherstburg"}
   {:name "An Drochaid",
    :longitude -61.3919616,
    :latitude 46.0721153,
    :source :openstreetmap,
    :homepage "https://maboumuseum.square.site/",
-   :locality "Mabou"}
+   :location "Mabou"}
   {:name "Ancaster Memorial Arts Centre",
    :longitude -79.9774621,
    :latitude 43.2278386,
@@ -286,7 +286,7 @@
    :longitude -67.688096,
    :latitude 48.5659529,
    :source :openstreetmap,
-   :locality "Sayabec"}
+   :location "Sayabec"}
   {:name "Ancienne école d'Old-Harry",
    :longitude -61.4800367,
    :latitude 47.5711858,
@@ -298,25 +298,25 @@
    :latitude 44.0188533,
    :source :openstreetmap,
    :homepage "https://www.andaragallery.com/",
-   :locality "Bloomfield"}
+   :location "Bloomfield"}
   {:name "Anderson Farm Museum",
    :longitude -81.1476946,
    :latitude 46.4323646,
    :source :openstreetmap,
    :homepage
    "http://www.sudburymuseums.ca/index.cfm?app=w_vmuseum&lang=en&currID=1372&parID=1371",
-   :locality "Lively"}
+   :location "Lively"}
   {:name "Andrew & District Local History Museum",
    :longitude -112.3362193,
    :latitude 53.8800473,
    :source :openstreetmap,
-   :locality "Andrew"}
+   :location "Andrew"}
   {:name "Angelo Rossi Galleria and Studio",
    :longitude -79.0797525,
    :latitude 43.0848904,
    :source :openstreetmap,
    :homepage "https://www.angelorossi.ca/",
-   :locality "Niagara Falls"}
+   :location "Niagara Falls"}
   {:name "Animalium",
    :longitude -73.5267047,
    :latitude 45.0382128,
@@ -325,7 +325,7 @@
    :longitude -74.6138897,
    :latitude 46.1371232,
    :source :openstreetmap,
-   :locality "Mont-Tremblant"}
+   :location "Mont-Tremblant"}
   {:name "Anishinabe Sharing Lodge",
    :longitude -99.9697695,
    :latitude 50.6564729,
@@ -335,19 +335,19 @@
    :latitude 44.2237772,
    :source :openstreetmap,
    :homepage "https://www.museumofhealthcare.ca/",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Anne of Green Gables Museum",
    :longitude -63.544534,
    :latitude 46.5298453,
    :source :openstreetmap,
    :homepage "https://www.annemuseum.com/index.php",
-   :locality "Park Corner"}
+   :location "Park Corner"}
   {:name "Anthony Henday Museum",
    :longitude -113.2391187,
    :latitude 52.1970788,
    :source :openstreetmap,
    :homepage "https://www.delburne.ca/explore/anthony-henday-museum",
-   :locality "Delburne"}
+   :location "Delburne"}
   {:name "Antigonish Heritage Museum",
    :longitude -61.9798386,
    :latitude 45.6248713,
@@ -358,7 +358,7 @@
    :latitude 45.0416523,
    :source :openstreetmap,
    :homepage "https://berwickapplemuseum.wixsite.com/homepage",
-   :locality "Berwick"}
+   :location "Berwick"}
   {:name "Aquatarium",
    :longitude -75.6826512,
    :latitude 44.5878484,
@@ -392,7 +392,7 @@
    :latitude 53.5369979,
    :source :openstreetmap,
    :homepage "https://archivesmuseum.epsb.ca/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Archives Lanark",
    :longitude -76.2398842,
    :latitude 44.9900859,
@@ -402,7 +402,7 @@
    :latitude 44.6454875,
    :source :openstreetmap,
    :homepage "https://www.argylefineart.com/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "Armstrong Heritage Farm",
    :longitude -76.4809476,
    :latitude 45.5979868,
@@ -440,7 +440,7 @@
    :latitude 53.5449546,
    :source :openstreetmap,
    :homepage "https://www.youraga.ca/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Art Gallery of Algoma",
    :longitude -84.3307669,
    :latitude 46.5055627,
@@ -450,7 +450,7 @@
    :longitude -116.9670274,
    :latitude 51.3008891,
    :source :openstreetmap,
-   :locality "Golden"}
+   :location "Golden"}
   {:name "Art Gallery of Grande Prairie",
    :longitude -118.7906804,
    :latitude 55.1730335,
@@ -465,7 +465,7 @@
    :latitude 43.5329837,
    :source :openstreetmap,
    :homepage "https://artgalleryofguelph.ca/",
-   :locality "Guelph"}
+   :location "Guelph"}
   {:name "Art Gallery of Mississauga",
    :longitude -79.6439136,
    :latitude 43.5892667,
@@ -490,7 +490,7 @@
    :latitude 42.3183663,
    :source :openstreetmap,
    :homepage "https://www.agw.ca/",
-   :locality "Windsor"}
+   :location "Windsor"}
   {:name "Art Inuit et Parc Boyd",
    :longitude -77.614584,
    :latitude 53.792467,
@@ -521,7 +521,7 @@
    :latitude 42.3172071,
    :source :openstreetmap,
    :homepage "https://www.artciteinc.ca/",
-   :locality "Windsor"}
+   :location "Windsor"}
   {:name "ArtFocus",
    :longitude -71.8898708,
    :latitude 45.401295,
@@ -551,13 +551,13 @@
    :latitude 44.6552224,
    :source :openstreetmap,
    :homepage "http://www.hermeshfx.com/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "ArtKela.com",
    :longitude -71.2015887,
    :latitude 46.813647,
    :source :openstreetmap,
    :homepage "https://artkela.com",
-   :locality "Québec"}
+   :location "Québec"}
   {:name "Arts & Crafts",
    :longitude -78.4870027,
    :latitude 44.9796325,
@@ -576,18 +576,18 @@
    :latitude 49.3802823,
    :source :openstreetmap,
    :homepage "https://artspacificgallery.com/",
-   :locality "Bowen Island"}
+   :location "Bowen Island"}
   {:name "Arts Place Gallery",
    :longitude -79.2525065,
    :latitude 42.8964894,
    :source :openstreetmap,
    :homepage "https://artsplacegallery.com/",
-   :locality "Port Colborne"}
+   :location "Port Colborne"}
   {:name "Arts Sutton",
    :longitude -72.6154671,
    :latitude 45.1083067,
    :source :openstreetmap,
-   :locality "Sutton"}
+   :location "Sutton"}
   {:name "Arts Umbrella",
    :longitude -123.133298,
    :latitude 49.2703704,
@@ -602,13 +602,13 @@
    :latitude 60.7189176,
    :source :openstreetmap,
    :homepage "https://www.artsunderground.ca/",
-   :locality "Whitehorse"}
+   :location "Whitehorse"}
   {:name "ArtsForward",
    :longitude -99.4658118,
    :latitude 50.2324489,
    :source :openstreetmap,
    :homepage "http://artsforward.weebly.com",
-   :locality "Neepawa"}
+   :location "Neepawa"}
   {:name "Artspace",
    :longitude -78.3230084,
    :latitude 44.3050698,
@@ -619,13 +619,13 @@
    :latitude 49.2827902,
    :source :openstreetmap,
    :homepage "https://artspeak.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "ArtSpring",
    :longitude -123.5027603,
    :latitude 48.8519389,
    :source :openstreetmap,
    :homepage "https://artspring.ca",
-   :locality "Salt Spring Island"}
+   :location "Salt Spring Island"}
   {:name "Ashcroft Museum",
    :longitude -121.2810868,
    :latitude 50.7229221,
@@ -642,7 +642,7 @@
    :latitude 49.6332815,
    :source :openstreetmap,
    :homepage "https://assinimuseum.wixsite.com/home",
-   :locality "Assiniboia"}
+   :location "Assiniboia"}
   {:name "Atelier 30",
    :longitude -74.2050325,
    :latitude 45.2599617,
@@ -664,7 +664,7 @@
    :longitude -75.7182437,
    :latitude 45.4314945,
    :source :openstreetmap,
-   :locality "Gatineau"}
+   :location "Gatineau"}
   {:name "Athol Murray College of Notre Dame Archives Museum",
    :longitude -104.7194503,
    :latitude 50.0969882,
@@ -675,13 +675,13 @@
    :latitude 44.8772163,
    :source :openstreetmap,
    :homepage "https://acamuseum.ca/",
-   :locality "Goffs"}
+   :location "Goffs"}
   {:name "Atlas Coal Mine National Historic Site",
    :longitude -112.4813428,
    :latitude 51.3295459,
    :source :openstreetmap,
    :homepage "https://atlascoalmine.ab.ca/",
-   :locality "East Coulee"}
+   :location "East Coulee"}
   {:name "Atlin Courthouse Gallery",
    :longitude -133.7025994,
    :latitude 59.5734562,
@@ -691,7 +691,7 @@
    :latitude 45.5335694,
    :source :openstreetmap,
    :homepage "https://www.audiotopie.com/",
-   :locality "Rosemont-Petite-Patrie"}
+   :location "Rosemont-Petite-Patrie"}
   {:name "Aultsville Train Station",
    :longitude -75.0897754,
    :latitude 44.9402602,
@@ -705,19 +705,19 @@
    :latitude 49.2667256,
    :source :openstreetmap,
    :homepage "http://www.auroradigitalis.org/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Aurora Museum & Cultural Centre",
    :longitude -79.4655782,
    :latitude 43.9973982,
    :source :openstreetmap,
    :homepage "https://auroraculturalcentre.ca/",
-   :locality "Aurora"}
+   :location "Aurora"}
   {:name "Avant Garde",
    :longitude -79.3896159,
    :latitude 43.6976557,
    :source :openstreetmap,
    :homepage "https://www.avantgardetoronto.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Aviation Display Hangar",
    :longitude -113.4164707,
    :latitude 52.9654626,
@@ -737,13 +737,13 @@
    :longitude -65.5104138,
    :latitude 45.7237654,
    :source :openstreetmap,
-   :locality "Sussex"}
+   :location "Sussex"}
   {:name "Axart",
    :longitude -72.4894092,
    :latitude 45.8853604,
    :source :openstreetmap,
    :homepage "https://www.axart.ca/",
-   :locality "Drummondville"}
+   :location "Drummondville"}
   {:name "BABA'S ART Haus",
    :longitude -114.1455782,
    :latitude 51.0457221,
@@ -755,7 +755,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.loyalisttownship.ca/index.cfm/tourism/culture-and-heritage/babcock-mill/",
-   :locality "Odessa"}
+   :location "Odessa"}
   {:name "Bacalieu Island Interpretation Center",
    :longitude -52.8850776,
    :latitude 48.1276406,
@@ -771,12 +771,12 @@
    :latitude 51.173781,
    :source :openstreetmap,
    :homepage "https://www.pc.gc.ca/eng/lhn-nhs/ab/banff/index.aspx",
-   :locality "Banff"}
+   :location "Banff"}
   {:name "bang",
    :longitude -71.0643884,
    :latitude 48.4276207,
    :source :openstreetmap,
-   :locality "Saguenay"}
+   :location "Saguenay"}
   {:name "Bank of Canada Museum",
    :longitude -75.7020619,
    :latitude 45.421506,
@@ -791,13 +791,13 @@
    :latitude 42.9900008,
    :source :openstreetmap,
    :homepage "https://bantinghousenhs.ca",
-   :locality "London"}
+   :location "London"}
   {:name "Barbie Expo",
    :longitude -73.5738436,
    :latitude 45.5012232,
    :source :openstreetmap,
    :homepage "https://expobarbie.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Barkerville Historic Town & Park",
    :longitude -121.5151355,
    :latitude 53.0691009,
@@ -812,7 +812,7 @@
    :latitude 45.591576,
    :source :openstreetmap,
    :homepage "https://brsshmuseum.tripod.com/",
-   :locality "Barneys River Station"}
+   :location "Barneys River Station"}
   {:name "Barrhead Museum",
    :longitude -114.4010861,
    :latitude 54.1266887,
@@ -822,13 +822,13 @@
    :latitude 53.5962705,
    :source :openstreetmap,
    :homepage "https://www.basilianmuseum.ca/",
-   :locality "Mundare"}
+   :location "Mundare"}
   {:name "Bata Shoe Museum",
    :longitude -79.4001432,
    :latitude 43.6672516,
    :source :openstreetmap,
    :homepage "https://batashoemuseum.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Bath Museum",
    :longitude -76.7802293,
    :latitude 44.1807153,
@@ -840,7 +840,7 @@
    :latitude 52.7537254,
    :source :openstreetmap,
    :homepage "https://parks.canada.ca/lhn-nhs/sk/batoche/index",
-   :locality "Wakaw"}
+   :location "Wakaw"}
   {:name "Battle Ground Hotel Museum",
    :longitude -79.0966174,
    :latitude 43.0897536,
@@ -862,7 +862,7 @@
    :latitude 43.2176274,
    :source :openstreetmap,
    :homepage "http://www.battlefieldhouse.ca/",
-   :locality "Hamilton"}
+   :location "Hamilton"}
   {:name "Bau Xi Gallery",
    :longitude -79.4399464,
    :latitude 43.6697056,
@@ -872,7 +872,7 @@
    :longitude -123.139033,
    :latitude 49.258494,
    :source :openstreetmap,
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Bau-Xi Gallery",
    :longitude -79.3926864,
    :latitude 43.6542076,
@@ -883,14 +883,14 @@
    :latitude 43.9852616,
    :source :openstreetmap,
    :homepage "https://www.baxterartscentre.org/",
-   :locality "Bloomfield"}
+   :location "Bloomfield"}
   {:name "Bay Breeze Art Gallery",
    :longitude -65.65867,
    :latitude 47.6208315,
    :source :openstreetmap,
    :homepage
    "https://tourismnewbrunswick.ca/listing/nepisiguit-centennial-museumcultural-centre",
-   :locality "Bathurst"}
+   :location "Bathurst"}
   {:name "Bay De Verde Heritage Premises",
    :longitude -52.8974307,
    :latitude 48.0862666,
@@ -930,13 +930,13 @@
    :longitude -53.7545246,
    :latitude 48.653681,
    :source :openstreetmap,
-   :locality "Eastport"}
+   :location "Eastport"}
   {:name "Beaconsfield Historic House",
    :longitude -63.1334854,
    :latitude 46.2318763,
    :source :openstreetmap,
    :homepage "http://www.peimuseum.ca/",
-   :locality "Charlottetown"}
+   :location "Charlottetown"}
   {:name "Bear River First Nation Heritage & Cultural Centre",
    :longitude -65.6337137,
    :latitude 44.5595746,
@@ -966,13 +966,13 @@
    :latitude 51.385405,
    :source :openstreetmap,
    :homepage "https://beisekerstationmuseum.wordpress.com/",
-   :locality "Beiseker"}
+   :location "Beiseker"}
   {:name "Bell Island #2 Mine and Community Museum",
    :longitude -52.9494068,
    :latitude 47.6463227,
    :source :openstreetmap,
    :homepage "https://www.bellislandminetour.com/",
-   :locality "Bell Island"}
+   :location "Bell Island"}
   {:name "Bella Coola Museum",
    :longitude -126.7590796,
    :latitude 52.371476,
@@ -990,7 +990,7 @@
    :longitude -113.4709175,
    :latitude 53.5367115,
    :source :openstreetmap,
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Beothuk Interpretation Centre",
    :longitude -54.6361345,
    :latitude 49.4572466,
@@ -1001,13 +1001,13 @@
    :longitude -67.0502175,
    :latitude 45.0722874,
    :source :openstreetmap,
-   :locality "Saint Andrews"}
+   :location "Saint Andrews"}
   {:name "Bethune Memorial House National Historic Site",
    :longitude -79.3765795,
    :latitude 44.920933,
    :source :openstreetmap,
    :homepage "https://www.pc.gc.ca/en/lhn-nhs/on/bethune",
-   :locality "Gravenhurst"}
+   :location "Gravenhurst"}
   {:name "Bible History Museum",
    :longitude -113.9775251,
    :latitude 52.0007866,
@@ -1023,7 +1023,7 @@
    :latitude 43.2242409,
    :source :openstreetmap,
    :homepage "https://www.bigheartslittletheatre.ca/",
-   :locality "Hamilton"}
+   :location "Hamilton"}
   {:name "Biggar Museum and Gallery",
    :longitude -107.986064,
    :latitude 52.056343,
@@ -1040,7 +1040,7 @@
    :latitude 44.5661559,
    :source :openstreetmap,
    :homepage "https://www.billybishop.org/",
-   :locality "Owen Sound"}
+   :location "Owen Sound"}
   {:name "Billy Proctor's Museum",
    :longitude -126.4967308,
    :latitude 50.7482247,
@@ -1059,7 +1059,7 @@
    :latitude 46.0468252,
    :source :openstreetmap,
    :homepage "https://biophare.com/",
-   :locality "Sorel-Tracy"}
+   :location "Sorel-Tracy"}
   {:name "Biosphère",
    :longitude -73.5314263,
    :latitude 45.5140928,
@@ -1111,7 +1111,7 @@
    :longitude -64.4800566,
    :latitude 45.0702286,
    :source :openstreetmap,
-   :locality "Kentville"}
+   :location "Kentville"}
   {:name "Blast To The Past",
    :longitude -63.7216222,
    :latitude 45.1754511,
@@ -1157,20 +1157,20 @@
    :longitude -53.1134207,
    :latitude 48.6518362,
    :source :openstreetmap,
-   :locality "Bonavista"}
+   :location "Bonavista"}
   {:name "Bonnechere Museum",
    :longitude -77.1001376,
    :latitude 45.5406362,
    :source :openstreetmap,
    :homepage "https://www.bonnechere.ca/",
-   :locality "Eganville"}
+   :location "Eganville"}
   {:name "Borden Military Museum",
    :longitude -79.8924904,
    :latitude 44.28663,
    :source :openstreetmap,
    :homepage
    "http://www.cg.cfpsa.ca/cg-pc/Borden/EN/Facilities/Pages/BordenMilitaryMuseum.aspx",
-   :locality "Cfb Borden"}
+   :location "Cfb Borden"}
   {:name "Boréalis",
    :longitude -72.5322055,
    :latitude 46.3483641,
@@ -1181,30 +1181,30 @@
    :latitude 49.1522571,
    :source :openstreetmap,
    :homepage "https://www.botwoodnl.ca/botwood-heritage-society.html",
-   :locality "Botwood"}
+   :location "Botwood"}
   {:name "Boultenhouse Heritage Centre",
    :longitude -64.3710171,
    :latitude 45.8914008,
    :source :openstreetmap,
    :homepage "https://tantramarheritage.ca",
-   :locality "Sackville"}
+   :location "Sackville"}
   {:name "Bovaird House",
    :longitude -79.7750745,
    :latitude 43.7166415,
    :source :openstreetmap,
    :homepage "https://bovairdhouse.ca/",
-   :locality "Brampton"}
+   :location "Brampton"}
   {:name "Bowden Pioneer Museum",
    :longitude -114.0315092,
    :latitude 51.9318906,
    :source :openstreetmap,
-   :locality "Bowden"}
+   :location "Bowden"}
   {:name "Bowen Island Historians Museum and Archive",
    :longitude -123.338824,
    :latitude 49.3800162,
    :source :openstreetmap,
    :homepage "https://bowenislandmuseum.ca",
-   :locality "Bowen Island"}
+   :location "Bowen Island"}
   {:name "Bowman Arts Centre",
    :longitude -112.8344103,
    :latitude 49.6933188,
@@ -1213,20 +1213,20 @@
    :longitude -78.5434152,
    :latitude 44.5379276,
    :source :openstreetmap,
-   :locality "Bobcaygeon"}
+   :location "Bobcaygeon"}
   {:name "Bradley Museum",
    :longitude -79.6111184,
    :latitude 43.5118717,
    :source :openstreetmap,
    :homepage
    "https://www.mississauga.ca/arts-and-culture/locations/bradley-museum/",
-   :locality "Mississauga"}
+   :location "Mississauga"}
   {:name "Brakendale Art Gallery",
    :longitude -123.1506914,
    :latitude 49.7679963,
    :source :openstreetmap,
    :homepage "https://brackendaleartgallery.com",
-   :locality "Squamish"}
+   :location "Squamish"}
   {:name "Bralorne Pioneer Museum",
    :longitude -122.8071104,
    :latitude 50.7716022,
@@ -1270,7 +1270,7 @@
    :latitude 50.5710988,
    :source :openstreetmap,
    :homepage "https://www.brooksmuseum.ca/",
-   :locality "Brooks"}
+   :location "Brooks"}
   {:name "Broom Point Historical Exhibit",
    :longitude -57.8689253,
    :latitude 49.8369798,
@@ -1327,7 +1327,7 @@
    :latitude 42.3060652,
    :source :openstreetmap,
    :homepage "https://buxtonmuseum.com/",
-   :locality "North Buxton"}
+   :location "North Buxton"}
   {:name "Bytown Museum",
    :longitude -75.6976617,
    :latitude 45.4258377,
@@ -1338,7 +1338,7 @@
    :latitude 43.6628885,
    :source :openstreetmap,
    :homepage "https://www.cabbagetownarts.org/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Cabot Tower",
    :longitude -52.6820527,
    :latitude 47.5700955,
@@ -1349,7 +1349,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.edmontonmapsheritage.ca/location/ce-railway-station-museum/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Calgary Selfie Museum",
    :longitude -114.0613462,
    :latitude 51.0380025,
@@ -1371,7 +1371,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.travelalberta.com/ca/listings/camrose-railway-station-museum-archives-and-station-cafe-2032/",
-   :locality "Camrose"}
+   :location "Camrose"}
   {:name "Canada Agriculture and Food Museum",
    :longitude -75.7093766,
    :latitude 45.3872914,
@@ -1386,18 +1386,18 @@
    :longitude -79.4814326,
    :latitude 43.1378172,
    :source :openstreetmap,
-   :locality "Beamsville"}
+   :location "Beamsville"}
   {:name "Canada's Sports Hall Of Fame",
    :longitude -114.2219994,
    :latitude 51.0834631,
    :source :openstreetmap,
    :homepage "https://www.sportshall.ca/",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Canada's Theatre Museum",
    :longitude -79.379298,
    :latitude 43.6530125,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Canadian Automotive Museum",
    :longitude -78.8621421,
    :latitude 43.8948828,
@@ -1413,31 +1413,31 @@
    :latitude 46.5048405,
    :source :openstreetmap,
    :homepage "https://bushplane.com/",
-   :locality "Sault Ste. Marie"}
+   :location "Sault Ste. Marie"}
   {:name "Canadian Canoe Museum",
    :longitude -78.3303287,
    :latitude 44.2881373,
    :source :openstreetmap,
    :homepage "https://canoemuseum.ca/",
-   :locality "Peterborough"}
+   :location "Peterborough"}
   {:name "Canadian Canoe Museum",
    :longitude -78.3018371,
    :latitude 44.2980532,
    :source :openstreetmap,
    :homepage "https://canoemuseum.ca/",
-   :locality "Peterborough"}
+   :location "Peterborough"}
   {:name "Canadian Clay and Glass Gallery",
    :longitude -80.5262666,
    :latitude 43.4649281,
    :source :openstreetmap,
    :homepage "https://www.theclayandglass.ca/",
-   :locality "Waterloo"}
+   :location "Waterloo"}
   {:name "Canadian Energy Museum",
    :longitude -113.7281687,
    :latitude 53.3294088,
    :source :openstreetmap,
    :homepage "https://www.canadianenergymuseum.ca/",
-   :locality "Leduc"}
+   :location "Leduc"}
   {:name "Canadian Football Hall of Fame & Museum",
    :longitude -79.8311708,
    :latitude 43.2523649,
@@ -1457,13 +1457,13 @@
    :longitude -80.2429844,
    :latitude 43.1313158,
    :source :openstreetmap,
-   :locality "Brantford"}
+   :location "Brantford"}
   {:name "Canadian Museum of Flight",
    :longitude -122.6260525,
    :latitude 49.0992266,
    :source :openstreetmap,
    :homepage "http://www.canadianflight.org",
-   :locality "Langley"}
+   :location "Langley"}
   {:name "Canadian Museum of Fraternal Lodges",
    :longitude -76.955161,
    :latitude 44.2470792,
@@ -1482,7 +1482,7 @@
    :latitude 49.5106732,
    :source :openstreetmap,
    :homepage "https://www.cranbrookhistorycentre.com/",
-   :locality "Cranbrook"}
+   :location "Cranbrook"}
   {:name "Canadian Museum of Science and Technology",
    :longitude -75.6189638,
    :latitude 45.4035246,
@@ -1493,13 +1493,13 @@
    :latitude 46.1004214,
    :source :openstreetmap,
    :homepage "https://nuclearheritage.com/museum/",
-   :locality "Deep River"}
+   :location "Deep River"}
   {:name "Canadian Potato Museum",
    :longitude -64.2345826,
    :latitude 46.7039461,
    :source :openstreetmap,
    :homepage "https://canadianpotatomuseum.com/",
-   :locality "O'Leary"}
+   :location "O'Leary"}
   {:name "Canadian Tractor Museum",
    :longitude -113.8770212,
    :latitude 54.150054,
@@ -1510,7 +1510,7 @@
    :latitude 42.0782325,
    :source :openstreetmap,
    :homepage "https://ctmhv.com/",
-   :locality "Kingsville"}
+   :location "Kingsville"}
   {:name "Canadian War Museum",
    :longitude -75.7173308,
    :latitude 45.4170412,
@@ -1521,7 +1521,7 @@
    :latitude 43.1598737,
    :source :openstreetmap,
    :homepage "https://www.warplane.com/",
-   :locality "Mount Hope"}
+   :location "Mount Hope"}
   {:name "Canmore Museum & Geoscience Centre",
    :longitude -115.3603314,
    :latitude 51.0898958,
@@ -1544,13 +1544,13 @@
    :latitude 43.6708819,
    :source :openstreetmap,
    :homepage "https://canvasgallery.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Cape Breton Miners Museum",
    :longitude -59.941956,
    :latitude 46.1930229,
    :source :openstreetmap,
    :homepage "https://www.minersmuseum.com/",
-   :locality "Glace Bay"}
+   :location "Glace Bay"}
   {:name "Cape George Heritage School Museum",
    :longitude -61.9275076,
    :latitude 45.8400241,
@@ -1573,7 +1573,7 @@
    :longitude -67.6206436,
    :latitude 46.2605462,
    :source :openstreetmap,
-   :locality "Jacksontown"}
+   :location "Jacksontown"}
   {:name "Carleton Martello Tower National Historic Site",
    :longitude -66.0765222,
    :latitude 45.2520383,
@@ -1596,12 +1596,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.novascotia.com/see-do/attractions/carmichael-stewart-house-museum/1325",
-   :locality "New Glasgow"}
+   :location "New Glasgow"}
   {:name "Carnegie Gallery",
    :longitude -79.9548541,
    :latitude 43.2660482,
    :source :openstreetmap,
-   :locality "Dundas"}
+   :location "Dundas"}
   {:name "Caroline Wheels of Time Museum",
    :longitude -114.7245697,
    :latitude 52.094004,
@@ -1612,7 +1612,7 @@
    :latitude 43.4944288,
    :source :openstreetmap,
    :homepage "https://www.carouseldancecentre.ca/",
-   :locality "Waterloo"}
+   :location "Waterloo"}
   {:name "Carstairs",
    :longitude -114.0946773,
    :latitude 51.5665922,
@@ -1622,19 +1622,19 @@
    :latitude 51.5635276,
    :source :openstreetmap,
    :homepage "https://carstairsmuseum.ca/",
-   :locality "Carstairs"}
+   :location "Carstairs"}
   {:name "Cartizan Studio",
    :longitude -97.1295005,
    :latitude 49.887002,
    :source :openstreetmap,
    :homepage "https://cartizanstudio.ca/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Casa d'Italia",
    :longitude -73.6143371,
    :latitude 45.539145,
    :source :openstreetmap,
    :homepage "https://www.casaditalia.org/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Castle Hill",
    :longitude -53.9725723,
    :latitude 47.2514003,
@@ -1660,7 +1660,7 @@
    :latitude 43.6715995,
    :source :openstreetmap,
    :homepage "https://www.caviar20.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Celtic Music Interpretive Centre",
    :longitude -61.4913193,
    :latitude 45.8774645,
@@ -1670,13 +1670,13 @@
    :longitude -63.7691277,
    :latitude 46.3944785,
    :source :openstreetmap,
-   :locality "Summerside"}
+   :location "Summerside"}
   {:name "Central New Brunswick Woodmen's Museum",
    :longitude -66.3975587,
    :latitude 46.4681707,
    :source :openstreetmap,
    :homepage "https://woodmensmuseum.com/",
-   :locality "Boiestown"}
+   :location "Boiestown"}
   {:name "Central Saanich Fire Museum",
    :longitude -123.4214484,
    :latitude 48.5953303,
@@ -1686,39 +1686,39 @@
    :latitude 45.490974,
    :source :openstreetmap,
    :homepage "https://www.cca.qc.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Centre culturel Berger",
    :longitude -69.5401445,
    :latitude 47.8272121,
    :source :openstreetmap,
-   :locality "Rivière-du-Loup"}
+   :location "Rivière-du-Loup"}
   {:name "Centre culturel Boisvert",
    :longitude -73.4286664,
    :latitude 45.4754916,
    :source :openstreetmap,
-   :locality "Longueuil"}
+   :location "Longueuil"}
   {:name "Centre culturel de Caraquet",
    :longitude -64.9650385,
    :latitude 47.7888633,
    :source :openstreetmap,
    :homepage "https://centrecultureldecaraquet.com",
-   :locality "Caraquet"}
+   :location "Caraquet"}
   {:name "Centre culturel de Pierrefonds",
    :longitude -73.8492122,
    :latitude 45.4966015,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Centre culturel du Vieux-Presbytère",
    :longitude -68.229553,
    :latitude 48.6108549,
    :source :openstreetmap,
-   :locality "Sainte-Flavie"}
+   :location "Sainte-Flavie"}
   {:name "Centre culturel et du patrimoine Uplands",
    :longitude -71.8605232,
    :latitude 45.368663,
    :source :openstreetmap,
    :homepage "https://www.uplands.ca/",
-   :locality "Sherbrooke"}
+   :location "Sherbrooke"}
   {:name "Centre culturel franco-manitobain",
    :longitude -97.1140497,
    :latitude 49.8935214,
@@ -1729,7 +1729,7 @@
    :latitude 45.4836471,
    :source :openstreetmap,
    :homepage "https://ccgv.ca",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Centre culturel Humania Assurances",
    :longitude -72.9409509,
    :latitude 45.6196599,
@@ -1738,7 +1738,7 @@
    :longitude -75.7185173,
    :latitude 45.4267451,
    :source :openstreetmap,
-   :locality "Gatineau"}
+   :location "Gatineau"}
   {:name "Centre culturel La Belle Église",
    :longitude -73.8892413,
    :latitude 46.0746193,
@@ -1748,13 +1748,13 @@
    :latitude 45.5128397,
    :source :openstreetmap,
    :homepage "www.lecentreculturelmarocain.ca",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Centre d'art d'Argenteuil",
    :longitude -74.3322706,
    :latitude 45.6576995,
    :source :openstreetmap,
    :homepage "https://www.centredartargenteuil.com",
-   :locality "Lachute"}
+   :location "Lachute"}
   {:name "Centre d'arts La Chapelle",
    :longitude -71.2614982,
    :latitude 46.824453,
@@ -1769,7 +1769,7 @@
    :latitude 45.6082861,
    :source :openstreetmap,
    :homepage "https://www.parc-mille-iles.qc.ca/",
-   :locality "Laval"}
+   :location "Laval"}
   {:name "Centre d'exposition de Val-David",
    :longitude -74.207344,
    :latitude 46.0300251,
@@ -1784,18 +1784,18 @@
    :latitude 45.4517083,
    :source :openstreetmap,
    :homepage "https://greenwoodcentre.org/",
-   :locality "Hudson"}
+   :location "Hudson"}
   {:name "Centre d'Interpretation de l'Ardoise",
    :longitude -72.1490345,
    :latitude 45.6567637,
    :source :openstreetmap,
    :homepage "https://museedelardoise.ca/",
-   :locality "Canton de Melbourne"}
+   :location "Canton de Melbourne"}
   {:name "Centre d'Interprétation - Exposition Sel",
    :longitude -61.5533275,
    :latitude 47.6197789,
    :source :openstreetmap,
-   :locality "Grosse-Île"}
+   :location "Grosse-Île"}
   {:name "Centre d'interprétation de l'histoire de port-cartier",
    :longitude -66.8616926,
    :latitude 50.0246676,
@@ -1814,7 +1814,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.tourismecote-nord.com/fr/centre-d-interpretation-de-la-romaine/musees-et-centres-d-interpretation/",
-   :locality "La Romaine"}
+   :location "La Romaine"}
   {:name "Centre d'interprétation des mammifères marins",
    :longitude -69.7195251,
    :latitude 48.138586,
@@ -1843,42 +1843,42 @@
    :source :openstreetmap,
    :homepage
    "https://parcmarin.qc.ca/page_details/centre-de-decouverte-du-milieu-marin/",
-   :locality "Les Escoumins"}
+   :location "Les Escoumins"}
   {:name "Centre des Arts",
    :longitude -72.7483839,
    :latitude 46.5593724,
    :source :openstreetmap,
    :homepage "https://cultureshawinigan.ca/",
-   :locality "Shawinigan"}
+   :location "Shawinigan"}
   {:name "Centre des arts contemporains du Québec à Sorel-Tracy",
    :longitude -73.1176347,
    :latitude 46.0430596,
    :source :openstreetmap,
    :homepage "https://cacqst.ca/",
-   :locality "Sorel-Tracy"}
+   :location "Sorel-Tracy"}
   {:name "Centre des arts d'Edmundston",
    :longitude -68.3300044,
    :latitude 47.3641035,
    :source :openstreetmap,
-   :locality "Edmundston"}
+   :location "Edmundston"}
   {:name "Centre des arts de Baie-Comeau",
    :longitude -68.2602069,
    :latitude 49.2043769,
    :source :openstreetmap,
    :homepage "https://centredesartsbc.com/",
-   :locality "Baie-Comeau"}
+   :location "Baie-Comeau"}
   {:name "Centre des arts de la scène Jean-Besré",
    :longitude -71.887647,
    :latitude 45.397868,
    :source :openstreetmap,
    :homepage "https://casjb.com/",
-   :locality "Sherbrooke"}
+   :location "Sherbrooke"}
   {:name "Centre des arts et de la culture de Dieppe",
    :longitude -64.7481877,
    :latitude 46.0945457,
    :source :openstreetmap,
    :homepage "https://centredesartsdieppe.ca/en/",
-   :locality "Dieppe"}
+   :location "Dieppe"}
   {:name "Centre des arts Juliette-Lassonde",
    :longitude -72.9456466,
    :latitude 45.6229324,
@@ -1898,18 +1898,18 @@
    :latitude 43.657364,
    :source :openstreetmap,
    :homepage "https://www.wildseedcentre.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Centre interprétation de l'Eau",
    :longitude -73.786533,
    :latitude 45.6165135,
    :source :openstreetmap,
    :homepage "https://cieau.org/",
-   :locality "Laval"}
+   :location "Laval"}
   {:name "Centre Le Rendez-vous",
    :longitude -105.9182293,
    :latitude 52.7832919,
    :source :openstreetmap,
-   :locality "Saint-Isidore-de-Bellevue"}
+   :location "Saint-Isidore-de-Bellevue"}
   {:name "Centre multifonctionnel",
    :longitude -73.511576,
    :latitude 45.5028677,
@@ -1932,7 +1932,7 @@
    :latitude 45.5013472,
    :source :openstreetmap,
    :homepage "https://phi-centre.com/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "CFB Esquimalt Naval & Military Museum - NAD20",
    :longitude -123.4204949,
    :latitude 48.4364537,
@@ -1954,7 +1954,7 @@
    :latitude 49.2848345,
    :source :openstreetmap,
    :homepage "https://chalirosso.com/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Champlain Trail Museum",
    :longitude -77.0853071,
    :latitude 45.8229987,
@@ -1969,12 +1969,12 @@
    :latitude 52.768181,
    :source :openstreetmap,
    :homepage "https://www.chapelgallery.ca/",
-   :locality "North Battleford"}
+   :location "North Battleford"}
   {:name "Chapelle de la Grève",
    :longitude -69.9543119,
    :latitude 47.511264,
    :source :openstreetmap,
-   :locality "Saint-Denis-De La Bouteillerie"}
+   :location "Saint-Denis-De La Bouteillerie"}
   {:name "Chapelle de Pied-du-Lac",
    :longitude -68.9987839,
    :latitude 47.4675616,
@@ -1984,7 +1984,7 @@
    :longitude -74.0265499,
    :latitude 45.3971805,
    :source :openstreetmap,
-   :locality "Vaudreuil-Dorion"}
+   :location "Vaudreuil-Dorion"}
   {:name "Chaplin Nature Centre",
    :longitude -106.6593561,
    :latitude 50.4566651,
@@ -2007,7 +2007,7 @@
    :latitude 49.8574782,
    :source :openstreetmap,
    :homepage "https://charleswoodhistoricalsociety.ca/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Charlotte Wall Works",
    :longitude -123.1389841,
    :latitude 49.2660857,
@@ -2052,7 +2052,7 @@
    :longitude -64.8624422,
    :latitude 46.682087,
    :source :openstreetmap,
-   :locality "Richibucto"}
+   :location "Richibucto"}
   {:name "Chief Poundmaker Museum and Gallery",
    :longitude -108.9659157,
    :latitude 52.838857,
@@ -2066,20 +2066,20 @@
    :latitude 49.2797611,
    :source :openstreetmap,
    :homepage "https://www.cccvan.com/museum",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Chisasibi Heritage & Cultural Centre",
    :longitude -78.8878175,
    :latitude 53.7789709,
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/ChisasibiHeritageCulturalCentre/",
-   :locality "Chisasibi"}
+   :location "Chisasibi"}
   {:name "Chocolate Museum",
    :longitude -67.2793955,
    :latitude 45.1929404,
    :source :openstreetmap,
    :homepage "https://chocolatemuseum.ca/",
-   :locality "Saint Stephen"}
+   :location "Saint Stephen"}
   {:name "Christin'Art",
    :longitude -74.2850398,
    :latitude 46.046761,
@@ -2099,20 +2099,20 @@
    :latitude 45.5538831,
    :source :openstreetmap,
    :homepage "http://www.chateaudufresne.com/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Cinémathèque québécoise",
    :longitude -73.5627339,
    :latitude 45.5140089,
    :source :openstreetmap,
    :homepage "https://www.cinematheque.qc.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "City Arts Centre",
    :longitude -113.5138867,
    :latitude 53.519723,
    :source :openstreetmap,
    :homepage
    "https://www.edmonton.ca/activities_parks_recreation/city-arts-centre.aspx",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "City of Vancouver Archives",
    :longitude -123.1427011,
    :latitude 49.2759765,
@@ -2129,7 +2129,7 @@
    :longitude -73.6160376,
    :latitude 45.5584402,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Claresholm & District Museum",
    :longitude -113.5818836,
    :latitude 50.0277091,
@@ -2140,7 +2140,7 @@
    :latitude 43.9139823,
    :source :openstreetmap,
    :homepage "https://claringtonmuseums.com/",
-   :locality "Bowmanville"}
+   :location "Bowmanville"}
   {:name "Claybank Brick Plant Historic Site",
    :longitude -105.219411,
    :latitude 50.0315603,
@@ -2186,7 +2186,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museumsontario.ca/museum/Cochrane-Railway-and-Pioneer-M",
-   :locality "Cochrane"}
+   :location "Cochrane"}
   {:name "Cochrane Snowmobile Museum",
    :longitude -81.0166568,
    :latitude 49.0540659,
@@ -2197,19 +2197,19 @@
    :latitude 49.2064178,
    :source :openstreetmap,
    :homepage "https://www.marpolehistorical.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Colby-Curtis Museum",
    :longitude -72.0938533,
    :latitude 45.0162308,
    :source :openstreetmap,
    :homepage "https://www.colbycurtis.ca/",
-   :locality "Stanstead"}
+   :location "Stanstead"}
   {:name "Colchester Historeum",
    :longitude -63.2791828,
    :latitude 45.363732,
    :source :openstreetmap,
    :homepage "https://colchesterhistoreum.ca/",
-   :locality "Truro"}
+   :location "Truro"}
   {:name "Cold Lake Museums",
    :longitude -110.1795638,
    :latitude 54.4347679,
@@ -2224,7 +2224,7 @@
    :latitude 44.6725916,
    :source :openstreetmap,
    :homepage "https://coleharbourfarmmuseum.ca/",
-   :locality "Cole Harbour"}
+   :location "Cole Harbour"}
   {:name "Collectors' Gallery of Art",
    :longitude -114.032254,
    :latitude 51.0405694,
@@ -2241,7 +2241,7 @@
    :latitude 50.6772202,
    :source :openstreetmap,
    :homepage "https://www.colombolodge.com/",
-   :locality "Kamloops"}
+   :location "Kamloops"}
   {:name "Combermere Craft Cabin",
    :longitude -77.6252306,
    :latitude 45.3640502,
@@ -2265,25 +2265,25 @@
    :latitude 46.1072999,
    :source :openstreetmap,
    :homepage "https://complexechezboris.com/",
-   :locality "Saint-Léonard-d'Aston"}
+   :location "Saint-Léonard-d'Aston"}
   {:name "Conexus Arts Centre",
    :longitude -104.5978343,
    :latitude 50.4283363,
    :source :openstreetmap,
    :homepage "https://www.conexusartscentre.ca/",
-   :locality "Saskatchewan"}
+   :location "Saskatchewan"}
   {:name "Confederation Centre of the Arts",
    :longitude -63.1268969,
    :latitude 46.2344893,
    :source :openstreetmap,
    :homepage "https://www.confederationcentre.com/en/",
-   :locality "Charlottetown"}
+   :location "Charlottetown"}
   {:name "Contemporary Art Gallery",
    :longitude -123.121185,
    :latitude 49.2782799,
    :source :openstreetmap,
    :homepage "https://www.contemporaryartgallery.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Contemporary Calgary",
    :longitude -114.0894459,
    :latitude 51.0473578,
@@ -2299,13 +2299,13 @@
    :latitude 48.4420615,
    :source :openstreetmap,
    :homepage "https://coop-paradis.com/",
-   :locality "Rimouski"}
+   :location "Rimouski"}
   {:name "Coors Event Centre",
    :longitude -106.6651649,
    :latitude 52.1266026,
    :source :openstreetmap,
    :homepage "https://obrianseventcentre.ca/",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "Copper Cliff Museum",
    :longitude -81.0670135,
    :latitude 46.4737,
@@ -2354,7 +2354,7 @@
    :latitude 48.7407323,
    :source :openstreetmap,
    :homepage "https://www.classicboats.org/",
-   :locality "Cowichan Bay"}
+   :location "Cowichan Bay"}
   {:name "COWS Creamery",
    :longitude -63.1797647,
    :latitude 46.2595826,
@@ -2365,7 +2365,7 @@
    :latitude 48.4225493,
    :source :openstreetmap,
    :homepage "https://thecastle.ca",
-   :locality "Victoria"}
+   :location "Victoria"}
   {:name "Craigflower Manor",
    :longitude -123.4248764,
    :latitude 48.452124,
@@ -2400,7 +2400,7 @@
    :latitude 49.1059827,
    :source :openstreetmap,
    :homepage "https://crestonmuseum.ca/",
-   :locality "Creston"}
+   :location "Creston"}
   {:name "Crofton Old School Museum",
    :longitude -123.6400773,
    :latitude 48.8649441,
@@ -2410,7 +2410,7 @@
    :latitude 49.6348709,
    :source :openstreetmap,
    :homepage "https://www.crowsnestmuseum.ca/",
-   :locality "Crowsnest Pass"}
+   :location "Crowsnest Pass"}
   {:name "Crowsnest Pass Art Gallery",
    :longitude -114.4079072,
    :latitude 49.6027021,
@@ -2428,19 +2428,19 @@
    :latitude 43.6669772,
    :source :openstreetmap,
    :homepage "https://culturalgoodsgallery.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Culture Rising Streetsville",
    :longitude -79.7155998,
    :latitude 43.583282,
    :source :openstreetmap,
    :homepage "https://culturerising.com/",
-   :locality "Mississauga"}
+   :location "Mississauga"}
   {:name "Cumberland County Museum & Archives",
    :longitude -64.20146,
    :latitude 45.8289918,
    :source :openstreetmap,
    :homepage "https://www.cumberlandcountymuseum.com/",
-   :locality "Amherst"}
+   :location "Amherst"}
   {:name "Cumberland Heritage Village Museum",
    :longitude -75.3911933,
    :latitude 45.5178222,
@@ -2452,7 +2452,7 @@
    :latitude 49.618992,
    :source :openstreetmap,
    :homepage "https://cumberlandmuseum.ca/",
-   :locality "Cumberland"}
+   :location "Cumberland"}
   {:name "Cupids Legacy Centre",
    :longitude -53.2282057,
    :latitude 47.5472414,
@@ -2472,19 +2472,19 @@
    :latitude 60.7624218,
    :source :openstreetmap,
    :homepage "https://dakuculturalcentre.ca/",
-   :locality "Haines Junction"}
+   :location "Haines Junction"}
   {:name "DAIS",
    :longitude -79.42653,
    :latitude 43.6427708,
    :source :openstreetmap,
    :homepage "https://www.propellerctr.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Dalnavert Museum & Visitors’ Centre",
    :longitude -97.1418187,
    :latitude 49.8859858,
    :source :openstreetmap,
    :homepage "http://www.mhs.mb.ca/info/museums/dalnavert/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Daniel Cyr's Visual & Stained Glass Art visuel et vitraux",
    :longitude -63.4564012,
    :latitude 46.4628492,
@@ -2499,7 +2499,7 @@
    :latitude 45.4977316,
    :source :openstreetmap,
    :homepage "https://fonderiedarling.org/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "David Pollard Art Centre",
    :longitude -107.4578766,
    :latitude 49.9360143,
@@ -2528,7 +2528,7 @@
    :longitude -62.7130564,
    :latitude 45.6759119,
    :source :openstreetmap,
-   :locality "Pictou"}
+   :location "Pictou"}
   {:name "Deeley Motorcycle Exhibition",
    :longitude -123.0246744,
    :latitude 49.2680809,
@@ -2543,7 +2543,7 @@
    :longitude -63.914497,
    :latitude 44.4937676,
    :source :openstreetmap,
-   :locality "Peggys Cove"}
+   :location "Peggys Cove"}
   {:name "Dehcho Heritage Centre",
    :longitude -121.355275,
    :latitude 61.8644915,
@@ -2563,13 +2563,13 @@
    :latitude 44.3679446,
    :source :openstreetmap,
    :homepage "https://desbrisaymuseum.ca/",
-   :locality "Bridgewater"}
+   :location "Bridgewater"}
   {:name "Design Exchange",
    :longitude -79.3801145,
    :latitude 43.6477412,
    :source :openstreetmap,
    :homepage "https://designexchangetoronto.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Dewberry Valley Museum",
    :longitude -110.5246873,
    :latitude 53.5882313,
@@ -2580,7 +2580,7 @@
    :latitude 43.664237,
    :source :openstreetmap,
    :homepage "https://www.diannawitte.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Dicken's Sweets & British Museum",
    :longitude -121.9538726,
    :latitude 49.1648191,
@@ -2591,7 +2591,7 @@
    :latitude 51.6622268,
    :source :openstreetmap,
    :homepage "http://www.didsburymuseum.ca/",
-   :locality "Town of Didsbury"}
+   :location "Town of Didsbury"}
   {:name "Diefenbunker",
    :longitude -76.0477194,
    :latitude 45.3516641,
@@ -2624,13 +2624,13 @@
    :latitude 51.0412344,
    :source :openstreetmap,
    :homepage "https://www.decidedlyjazz.com/dance-centre/overview/",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Doak Provincial Hertiage Site",
    :longitude -66.1307862,
    :latitude 46.5549594,
    :source :openstreetmap,
    :homepage "https://www.doaksite.ca/",
-   :locality "Doaktown"}
+   :location "Doaktown"}
   {:name "Dominion Heritage School House Museum",
    :longitude -60.0335041,
    :latitude 46.2134467,
@@ -2640,7 +2640,7 @@
    :latitude 52.5848565,
    :source :openstreetmap,
    :homepage "https://donaldamuseum.com/",
-   :locality "Donalda"}
+   :location "Donalda"}
   {:name "Done Studio",
    :longitude -76.325967,
    :latitude 44.3890878,
@@ -2650,7 +2650,7 @@
    :latitude 43.18799,
    :source :openstreetmap,
    :homepage "https://www.donnellymuseum.com/",
-   :locality "Lucan"}
+   :location "Lucan"}
   {:name "Doran Bay Model Ship Museum",
    :longitude -75.2871005,
    :latitude 44.8572454,
@@ -2667,13 +2667,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.algonquinhighlands.ca/explore-play/dorset-heritage-museum/",
-   :locality "Algonquin Highlands"}
+   :location "Algonquin Highlands"}
   {:name "Double Door Studios & Gallery",
    :longitude -79.8245179,
    :latitude 44.4851815,
    :source :openstreetmap,
    :homepage "https://www.ddsag.com/",
-   :locality "Anten Mills"}
+   :location "Anten Mills"}
   {:name "Douglas J. Husband Discovery Centre",
    :longitude -123.0581907,
    :latitude 49.0836151,
@@ -2699,7 +2699,7 @@
    :latitude 53.2149427,
    :source :openstreetmap,
    :homepage "https://www.draytonvalleymuseum.com/",
-   :locality "Drayton Valley"}
+   :location "Drayton Valley"}
   {:name "Dreamcycle Motorcycle Museum",
    :longitude -119.3551946,
    :latitude 50.8522325,
@@ -2709,7 +2709,7 @@
    :longitude -60.2599635,
    :latitude 45.7243955,
    :source :openstreetmap,
-   :locality "Fourchu"}
+   :location "Fourchu"}
   {:name "Drumbo and District Museum",
    :longitude -80.5528495,
    :latitude 43.2348624,
@@ -2720,13 +2720,13 @@
    :latitude 49.7845087,
    :source :openstreetmap,
    :homepage "https://www.dryden.ca/en/explore/museum.aspx",
-   :locality "Dryden"}
+   :location "Dryden"}
   {:name "Duck Lake Regional Interpretive Center",
    :longitude -106.2160339,
    :latitude 52.8167409,
    :source :openstreetmap,
    :homepage "https://www.dlric.org/",
-   :locality "Duck Lake"}
+   :location "Duck Lake"}
   {:name "Dufferin County Museum & Archives",
    :longitude -80.0263037,
    :latitude 44.116797,
@@ -2742,7 +2742,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.southdundas.com/recreation-tourism/dundas-county-archives",
-   :locality "Iroquois"}
+   :location "Iroquois"}
   {:name "Dundas Museum and Archives",
    :longitude -79.9592891,
    :latitude 43.2681558,
@@ -2753,7 +2753,7 @@
    :source :openstreetmap,
    :homepage
    "https://conservationhamilton.ca/conservation-areas/dundas-valley/",
-   :locality "Dundas"}
+   :location "Dundas"}
   {:name "Dunster Train Museum",
    :longitude -119.8373601,
    :latitude 53.123533,
@@ -2772,13 +2772,13 @@
    :latitude 46.4739888,
    :source :openstreetmap,
    :homepage "http://sciencenorth.ca/dynamic-earth/",
-   :locality "Sudbury"}
+   :location "Sudbury"}
   {:name "Earth Sciences Museum",
    :longitude -80.5421751,
    :latitude 43.4717329,
    :source :openstreetmap,
    :homepage "https://uwaterloo.ca/earth-sciences-museum/",
-   :locality "Waterloo"}
+   :location "Waterloo"}
   {:name "Earth Sciences Museum",
    :longitude -113.523218,
    :latitude 53.5281193,
@@ -2796,7 +2796,7 @@
    :latitude 51.3386165,
    :source :openstreetmap,
    :homepage "http://www.ecsmuseum.ca/",
-   :locality "East Coulee"}
+   :location "East Coulee"}
   {:name "East Van Tiny Gallery",
    :longitude -123.0542607,
    :latitude 49.2757412,
@@ -2806,12 +2806,12 @@
    :latitude 42.990305,
    :source :openstreetmap,
    :homepage "http://eastvillagearts.ca/",
-   :locality "London"}
+   :location "London"}
   {:name "Eastern Edge",
    :longitude -52.7057111,
    :latitude 47.5644649,
    :source :openstreetmap,
-   :locality "St. John's"}
+   :location "St. John's"}
   {:name "Ecology Centre",
    :longitude -74.2059524,
    :latitude 45.8300116,
@@ -2827,7 +2827,7 @@
    :latitude 53.5201519,
    :source :openstreetmap,
    :homepage "http://www.edmonton-radial-railway.ab.ca/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Eglise mémorielle",
    :longitude -64.3122458,
    :latitude 45.1098937,
@@ -2862,7 +2862,7 @@
    :longitude -79.4087105,
    :latitude 43.757334,
    :source :openstreetmap,
-   :locality "North York"}
+   :location "North York"}
   {:name "Elk Lake Heritage Museum",
    :longitude -80.3264861,
    :latitude 47.7326593,
@@ -2902,12 +2902,12 @@
    :latitude 49.2737056,
    :source :openstreetmap,
    :homepage "https://www.roundhouse.ca/about/history/engine-374/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Ennismore Heritage and Artspace Centre",
    :longitude -78.4301129,
    :latitude 44.4100053,
    :source :openstreetmap,
-   :locality "Ennismore"}
+   :location "Ennismore"}
   {:name "Enterprising Women Making Art",
    :longitude -123.0869989,
    :latitude 49.2809448,
@@ -2922,19 +2922,19 @@
    :latitude 46.8173213,
    :source :openstreetmap,
    :homepage "https://expocite.com/fr/espace400",
-   :locality "Québec"}
+   :location "Québec"}
   {:name "Espace Félix Leclerc",
    :longitude -71.0946848,
    :latitude 46.8755541,
    :source :openstreetmap,
    :homepage "https://felixleclerc.com/",
-   :locality "Saint-Pierre-de-l'Île-d'Orléans"}
+   :location "Saint-Pierre-de-l'Île-d'Orléans"}
   {:name "Espace Pauline-Julien",
    :longitude -72.5245548,
    :latitude 46.3666961,
    :source :openstreetmap,
    :homepage "https://www.cultur3r.com/lieux/espace-pauline-julien/",
-   :locality "Trois-Rivières"}
+   :location "Trois-Rivières"}
   {:name "Espace Pierre-Debain",
    :longitude -75.8438877,
    :latitude 45.3945263,
@@ -2954,19 +2954,19 @@
    :latitude 50.0397567,
    :source :openstreetmap,
    :homepage "https://www.esplanade.ca/",
-   :locality "Medicine Hat"}
+   :location "Medicine Hat"}
   {:name "Essex and Community Historical Research Society",
    :longitude -82.8206368,
    :latitude 42.1744107,
    :source :openstreetmap,
    :homepage "https://echrs.ca/",
-   :locality "Essex"}
+   :location "Essex"}
   {:name "Essex County Steam & Gas Engine Museum",
    :longitude -82.9583705,
    :latitude 42.1380995,
    :source :openstreetmap,
    :homepage "https://essexsteamandgasengine.com/",
-   :locality "McGregor"}
+   :location "McGregor"}
   {:name "Essex Kent Mennonite Historical Society",
    :longitude -82.5900933,
    :latitude 42.0438013,
@@ -2977,32 +2977,32 @@
    :latitude 49.4765922,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/etzikommuseum",
-   :locality "Etzikom"}
+   :location "Etzikom"}
   {:name "Evergreen Community Spaces",
    :longitude -114.0191526,
    :latitude 51.0593218,
    :source :openstreetmap,
    :homepage "https://www.ecspaces.com/",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Evergreen Cultural Centre",
    :longitude -122.7908384,
    :latitude 49.2852654,
    :source :openstreetmap,
    :homepage "https://evergreenculturalcentre.ca",
-   :locality "Coquitlam"}
+   :location "Coquitlam"}
   {:name "Evergreen House",
    :longitude -63.5600039,
    :latitude 44.6666352,
    :source :openstreetmap,
    :homepage
    "https://www.dartmouthheritagemuseum.ns.ca/visit/evergreen-house/",
-   :locality "Dartmouth"}
+   :location "Dartmouth"}
   {:name "Exploramer",
    :longitude -66.4875828,
    :latitude 49.1315409,
    :source :openstreetmap,
    :homepage "https://exploramer.qc.ca/",
-   :locality "Sainte-Anne-des-Monts"}
+   :location "Sainte-Anne-des-Monts"}
   {:name "Exporail",
    :longitude -73.5635851,
    :latitude 45.3734817,
@@ -3018,7 +3018,7 @@
    :latitude 44.7019473,
    :source :openstreetmap,
    :homepage "https://www.shubenacadiecanal.ca/",
-   :locality "Dartmouth"}
+   :location "Dartmouth"}
   {:name "Farmers' Bank of Rustico",
    :longitude -63.2833069,
    :latitude 46.4232973,
@@ -3045,7 +3045,7 @@
    :latitude 53.5270228,
    :source :openstreetmap,
    :homepage "https://festivalplace.ca/",
-   :locality "Sherwood Park"}
+   :location "Sherwood Park"}
   {:name "FINA Gallery",
    :longitude -119.3983208,
    :latitude 49.9393508,
@@ -3059,7 +3059,7 @@
    :longitude -66.951697,
    :latitude 45.0034133,
    :source :openstreetmap,
-   :locality "Lords Cove"}
+   :location "Lords Cove"}
   {:name "Firefighters' Museum of Nova Scotia",
    :longitude -66.118877,
    :latitude 43.8403922,
@@ -3070,7 +3070,7 @@
    :latitude 49.2820693,
    :source :openstreetmap,
    :homepage "https://firehallartscentre.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "First Hussars Museum",
    :longitude -81.2558596,
    :latitude 42.9817822,
@@ -3099,13 +3099,13 @@
    :latitude 44.3761079,
    :source :openstreetmap,
    :homepage "https://fisheriesmuseum.novascotia.ca/",
-   :locality "Lunenburg"}
+   :location "Lunenburg"}
   {:name "Fisherman's Life Museum",
    :longitude -63.0160866,
    :latitude 44.7772839,
    :source :openstreetmap,
    :homepage "https://fishermanslife.novascotia.ca/",
-   :locality "Oyster Pond"}
+   :location "Oyster Pond"}
   {:name "Flour Mill Museum",
    :longitude -80.9877093,
    :latitude 46.5066003,
@@ -3143,7 +3143,7 @@
    :latitude 43.097919,
    :source :openstreetmap,
    :homepage "https://sites.google.com/view/forest-museum",
-   :locality "Forest"}
+   :location "Forest"}
   {:name "Forestry Museum",
    :longitude -110.3264877,
    :latitude 49.6353975,
@@ -3176,7 +3176,7 @@
    :latitude 51.1514722,
    :source :openstreetmap,
    :homepage "https://fortdauphinmuseum.ca/",
-   :locality "Dauphin"}
+   :location "Dauphin"}
   {:name "Fort de l'île Sainte-Hélène",
    :longitude -73.5364857,
    :latitude 45.5198144,
@@ -3186,21 +3186,21 @@
    :latitude 53.5014448,
    :source :openstreetmap,
    :homepage "https://www.fortedmontonpark.ca/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Fort Erie Historical Museum",
    :longitude -79.0489697,
    :latitude 42.882065,
    :source :openstreetmap,
    :homepage
    "https://www.forterie.ca/WebSite/webTOFE.nsf/contentPage.xsp?documentId=E9AC25FFB0CFB3D4852574A2005B7638&action=openDocument",
-   :locality "Ridgeway"}
+   :location "Ridgeway"}
   {:name "Fort Erie Railroad Museum",
    :longitude -78.9176426,
    :latitude 42.9231486,
    :source :openstreetmap,
    :homepage
    "https://www.forterie.ca/WebSite/webTOFE.nsf/contentPage.xsp?documentId=E9AC25FFB0CFB3D4852574A2005B7638&action=openDocument",
-   :locality "Fort Erie"}
+   :location "Fort Erie"}
   {:name "Fort Frances Museum and Cultural Centre",
    :longitude -93.3968615,
    :latitude 48.6097137,
@@ -3236,7 +3236,7 @@
    :latitude 49.17064,
    :source :openstreetmap,
    :homepage "http://www.langleyheritage.ca/cn-station/",
-   :locality "Langley"}
+   :location "Langley"}
   {:name "Fort Museum",
    :longitude -113.4073707,
    :latitude 49.7264212,
@@ -3257,7 +3257,7 @@
    :latitude 56.2406354,
    :source :openstreetmap,
    :homepage "https://fsjarts.org/",
-   :locality "Fort St. John"}
+   :location "Fort St. John"}
   {:name "Fort St. John North Peace Museum",
    :longitude -120.8457777,
    :latitude 56.2401592,
@@ -3277,12 +3277,12 @@
    :latitude 47.0739076,
    :source :openstreetmap,
    :homepage "https://www.fortunehead.com/",
-   :locality "Fortune"}
+   :location "Fortune"}
   {:name "Fossil World Dinosaur Museum",
    :longitude -112.7429748,
    :latitude 51.468887,
    :source :openstreetmap,
-   :locality "Drumheller"}
+   :location "Drumheller"}
   {:name "Fougberg Archives",
    :longitude -122.80747,
    :latitude 50.3243949,
@@ -3333,7 +3333,7 @@
    :longitude -76.4695,
    :latitude 44.227738,
    :source :openstreetmap,
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Free Little Art Gallery",
    :longitude -123.1164087,
    :latitude 49.2361873,
@@ -3343,7 +3343,7 @@
    :latitude 49.1742468,
    :source :openstreetmap,
    :homepage "https://freespiritstudio.ca/",
-   :locality "Gabriola"}
+   :location "Gabriola"}
   {:name "Freedom Library and Military Museum",
    :longitude -81.9986427,
    :latitude 42.3353764,
@@ -3364,25 +3364,25 @@
    :source :openstreetmap,
    :homepage
    "https://www.heritagetrust.on.ca/en/properties/fulford-place",
-   :locality "Brockville"}
+   :location "Brockville"}
   {:name "Fultz House Museum",
    :longitude -63.6642394,
    :latitude 44.7523718,
    :source :openstreetmap,
    :homepage "http://www.fultzhouse.ca/",
-   :locality "Lower Sackville"}
+   :location "Lower Sackville"}
   {:name "Fundy Geological Museum",
    :longitude -64.3242895,
    :latitude 45.399409,
    :source :openstreetmap,
    :homepage "https://fundygeological.novascotia.ca/",
-   :locality "Parrsboro"}
+   :location "Parrsboro"}
   {:name "Gabriola Museum",
    :longitude -123.8482842,
    :latitude 49.1713836,
    :source :openstreetmap,
    :homepage "https://gabriolamuseum.org/",
-   :locality "Gabriola"}
+   :location "Gabriola"}
   {:name "Galerie 2000",
    :longitude -73.5665003,
    :latitude 45.50341,
@@ -3393,28 +3393,28 @@
    :latitude 45.5713595,
    :source :openstreetmap,
    :homepage "https://www.johanneblaquiere.com/",
-   :locality "Beloeil"}
+   :location "Beloeil"}
   {:name "Galerie Bernard Séguin-Poirier",
    :longitude -74.054054,
    :latitude 45.3043601,
    :source :openstreetmap,
    :homepage "https://www.seguinpoirier.com/",
-   :locality "Les Cèdres"}
+   :location "Les Cèdres"}
   {:name "Galerie D Art & Atelier De Aapcm",
    :longitude -72.689744,
    :latitude 46.6165133,
    :source :openstreetmap,
-   :locality "Shawinigan"}
+   :location "Shawinigan"}
   {:name "Galerie d'art Antoine-Sirois",
    :longitude -71.9268801,
    :latitude 45.3788574,
    :source :openstreetmap,
-   :locality "Sherbrooke"}
+   :location "Sherbrooke"}
   {:name "Galerie d'art AU",
    :longitude -77.6304999,
    :latitude 49.7563737,
    :source :openstreetmap,
-   :locality "Matagami"}
+   :location "Matagami"}
   {:name "Galerie d'art C2",
    :longitude -72.5420595,
    :latitude 46.3412509,
@@ -3428,7 +3428,7 @@
    :longitude -73.8744992,
    :latitude 45.6795121,
    :source :openstreetmap,
-   :locality "Blainville"}
+   :location "Blainville"}
   {:name "Galerie d'art du Parc",
    :longitude -72.5383233,
    :latitude 46.3431083,
@@ -3447,7 +3447,7 @@
    :longitude -68.5253224,
    :latitude 48.4499012,
    :source :openstreetmap,
-   :locality "Rimouski"}
+   :location "Rimouski"}
   {:name "Galerie d'art ma p'tite folie",
    :longitude -70.8940611,
    :latitude 46.918295,
@@ -3461,12 +3461,12 @@
    :latitude 45.5069545,
    :source :openstreetmap,
    :homepage "https://artexte.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Galerie du Viaduc",
    :longitude -73.602564,
    :latitude 45.5273624,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Galerie Erga",
    :longitude -73.6081394,
    :latitude 45.5298971,
@@ -3495,19 +3495,19 @@
    :latitude 46.3346803,
    :source :openstreetmap,
    :homepage "https://www.galeriemavia.com/",
-   :locality "Bécancour"}
+   :location "Bécancour"}
   {:name "Galerie MËL",
    :longitude -73.551198,
    :latitude 45.5411376,
    :source :openstreetmap,
    :homepage "https://www.galeriemel.com/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Galerie Nicolas Robert",
    :longitude -73.5533741,
    :latitude 45.4973827,
    :source :openstreetmap,
    :homepage "https://www.gallerynicolasrobert.com/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Galerie Peter W. Hart",
    :longitude -73.5516986,
    :latitude 45.5095455,
@@ -3525,12 +3525,12 @@
    :longitude -73.59759,
    :latitude 45.5868813,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Galerie Valmi",
    :longitude -73.6174587,
    :latitude 45.5178851,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Galerie Yara",
    :longitude -73.5825281,
    :latitude 45.5504706,
@@ -3566,13 +3566,13 @@
    :longitude -79.4326463,
    :latitude 43.6603238,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Gallery 78",
    :longitude -66.6349701,
    :latitude 45.958687,
    :source :openstreetmap,
    :homepage "https://www.beaverbrookartgallery.org/",
-   :locality "Fredericton"}
+   :location "Fredericton"}
   {:name "Gallery @ Cove Commons",
    :longitude -123.3339095,
    :latitude 49.3800922,
@@ -3591,31 +3591,31 @@
    :latitude 43.6712883,
    :source :openstreetmap,
    :homepage "https://gevik.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Gallery Saint-Paul",
    :longitude -73.8019971,
    :latitude 45.6039871,
    :source :openstreetmap,
-   :locality "Laval"}
+   :location "Laval"}
   {:name "Gallery Stratford",
    :longitude -80.9638099,
    :latitude 43.3757783,
    :source :openstreetmap,
    :homepage "https://www.gallerystratford.on.ca/",
-   :locality "Stratford"}
+   :location "Stratford"}
   {:name "gallery2",
    :longitude -118.4415968,
    :latitude 49.0325077,
    :source :openstreetmap,
    :homepage "https://www.gallery2grandforks.ca/",
-   :locality "Grand Forks"}
+   :location "Grand Forks"}
   {:name "Gallery@501",
    :longitude -113.2965367,
    :latitude 53.5265152,
    :source :openstreetmap,
    :homepage
    "https://www.strathcona.ca/recreation-events/arts-and-culture/art-gallery-501/",
-   :locality "Sherwood Park"}
+   :location "Sherwood Park"}
   {:name "Galloway Station Museum",
    :longitude -116.442186,
    :latitude 53.5789973,
@@ -3631,7 +3631,7 @@
    :latitude 44.0739674,
    :source :openstreetmap,
    :homepage "https://www.ganaraskaforestcentre.ca/",
-   :locality "Campbellcroft"}
+   :location "Campbellcroft"}
   {:name "Garage de la Culture",
    :longitude -72.9566375,
    :latitude 46.4880713,
@@ -3641,7 +3641,7 @@
    :latitude 46.163786,
    :source :openstreetmap,
    :homepage "https://montaguemuseumpei.com/",
-   :locality "Montague"}
+   :location "Montague"}
   {:name "Gare de la Montée des Bouleaux",
    :longitude -73.5531613,
    :latitude 45.3783397,
@@ -3651,7 +3651,7 @@
    :longitude -68.6418746,
    :latitude 47.5500314,
    :source :openstreetmap,
-   :locality "Dégelis"}
+   :location "Dégelis"}
   {:name "Gasoline Alley",
    :longitude -114.1020254,
    :latitude 50.9829103,
@@ -3663,7 +3663,7 @@
    :latitude 52.9504099,
    :source :openstreetmap,
    :homepage "https://www.gatewaylabrador.ca/",
-   :locality "Labrador City"}
+   :location "Labrador City"}
   {:name "Gatineau Park",
    :longitude -75.8120528,
    :latitude 45.5062521,
@@ -3682,14 +3682,14 @@
    :longitude -132.7210811,
    :latitude 60.1679205,
    :source :openstreetmap,
-   :locality "Teslin"}
+   :location "Teslin"}
   {:name "George Russell Academy of Creative Expansion (G.R.A.C.E.)",
    :longitude -77.1776061,
    :latitude 43.9217459,
    :source :openstreetmap,
    :homepage
    "https://gracedcanvas.com/my-why-and-the-building-of-the-george-russell-academy-of-creative-expansion-g-r-a-c-e/",
-   :locality "Cherry Valley"}
+   :location "Cherry Valley"}
   {:name "Georgina Military Museum",
    :longitude -79.4593053,
    :latitude 44.2779236,
@@ -3699,7 +3699,7 @@
    :longitude -53.3390811,
    :latitude 48.5653385,
    :source :openstreetmap,
-   :locality "King's Cove"}
+   :location "King's Cove"}
   {:name "Gespeg Micmac interpretation site",
    :longitude -64.552048,
    :latitude 48.8721228,
@@ -3720,12 +3720,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/gibson-house-museum/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Gibson's Gallery Glass Art & More",
    :longitude -96.5147508,
    :latitude 50.6800419,
    :source :openstreetmap,
-   :locality "Albert Beach"}
+   :location "Albert Beach"}
   {:name "Glacier Gallery",
    :longitude -117.224266,
    :latitude 52.2203102,
@@ -3740,13 +3740,13 @@
    :latitude 51.0450364,
    :source :openstreetmap,
    :homepage "https://www.glenbow.org/",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Glengarry Pioneer Museum",
    :longitude -74.8175802,
    :latitude 45.362083,
    :source :openstreetmap,
    :homepage "https://glengarrypioneermuseum.ca/",
-   :locality "Dunvegan"}
+   :location "Dunvegan"}
   {:name "Glengarry Sports Hall of Fame",
    :longitude -74.8522884,
    :latitude 45.2921267,
@@ -3783,13 +3783,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.coastalnovascotia.ca/goldenville-gold-mining-interpretive-centre/",
-   :locality "Goldenville"}
+   :location "Goldenville"}
   {:name "Good Sport",
    :longitude -81.2472802,
    :latitude 42.9792287,
    :source :openstreetmap,
    :homepage "https://good-sport.ca/",
-   :locality "London"}
+   :location "London"}
   {:name "Gopher Hole Museum and Gift Shop",
    :longitude -113.6038793,
    :latitude 51.7916942,
@@ -3837,7 +3837,7 @@
    :latitude 53.5402015,
    :source :openstreetmap,
    :homepage "https://sprucegroveagsociety.com/",
-   :locality "Spruce Grove"}
+   :location "Spruce Grove"}
   {:name "Grand Coteau Heritage & Cultural Centre",
    :longitude -108.4084656,
    :latitude 49.648106,
@@ -3953,7 +3953,7 @@
    :latitude 43.1948994,
    :source :openstreetmap,
    :homepage "https://grimsbyhistoricalsociety.com/",
-   :locality "Grimsby"}
+   :location "Grimsby"}
   {:name "Gros Morne Visitor Information Centre",
    :longitude -57.8750352,
    :latitude 49.5722098,
@@ -3964,7 +3964,7 @@
    :latitude 49.5934325,
    :source :openstreetmap,
    :homepage "https://grosmornewildlifemuseum.ca",
-   :locality "Rocky Harbour"}
+   :location "Rocky Harbour"}
   {:name "Growth Path Optical Art",
    :longitude -79.4032857,
    :latitude 43.7087983,
@@ -3975,13 +3975,13 @@
    :latitude 43.5434769,
    :source :openstreetmap,
    :homepage "https://guelphmuseums.ca/venue/civic-museum/",
-   :locality "Guelph"}
+   :location "Guelph"}
   {:name "Gulf of Georgia Cannery National Historic Site",
    :longitude -123.1868218,
    :latitude 49.1247314,
    :source :openstreetmap,
    :homepage "http://gulfofgeorgiacannery.com/",
-   :locality "Richmond"}
+   :location "Richmond"}
   {:name "Gur Sikh Temple",
    :longitude -122.3072183,
    :latitude 49.0510444,
@@ -3998,7 +3998,7 @@
    :latitude 53.2483729,
    :source :openstreetmap,
    :homepage "https://www.haidaheritagecentre.com/",
-   :locality "Skidegate"}
+   :location "Skidegate"}
   {:name "Haig-Brown Heritage House",
    :longitude -125.2772552,
    :latitude 50.0347628,
@@ -4009,7 +4009,7 @@
    :latitude 47.4493205,
    :source :openstreetmap,
    :homepage "https://haileyburyheritagemuseum.com/",
-   :locality "Haileybury"}
+   :location "Haileybury"}
   {:name "Haliburton Forest Logging Museum",
    :longitude -78.5921425,
    :latitude 45.2238223,
@@ -4020,7 +4020,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.dysartetal.ca/en/explore-and-play/museum.aspx",
-   :locality "Haliburton"}
+   :location "Haliburton"}
   {:name "Halifax Citadel National Historic Site",
    :longitude -63.5800115,
    :latitude 44.6484334,
@@ -4052,7 +4052,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.hamilton.ca/attractions/hamilton-civic-museums/hamilton-museum-steam-technology-national-historic-site",
-   :locality "Hamilton"}
+   :location "Hamilton"}
   {:name "Hand of Man Museum",
    :longitude -123.6160276,
    :latitude 48.8159562,
@@ -4082,7 +4082,7 @@
    :longitude -64.3631943,
    :latitude 45.0915017,
    :source :openstreetmap,
-   :locality "Wolfville"}
+   :location "Wolfville"}
   {:name "Hastings and Prince Edward Regiment Museum",
    :longitude -77.3819537,
    :latitude 44.1635631,
@@ -4124,7 +4124,7 @@
    :latitude 49.3563551,
    :source :openstreetmap,
    :homepage "https://hedleymuseum.ca/",
-   :locality "Hedley"}
+   :location "Hedley"}
   {:name "Heiltsuk Cultural Education Centre",
    :longitude -128.1459548,
    :latitude 52.1625322,
@@ -4163,13 +4163,13 @@
    :longitude -97.8548731,
    :latitude 55.7330468,
    :source :openstreetmap,
-   :locality "Thompson"}
+   :location "Thompson"}
   {:name "Heritage Park",
    :longitude -128.592873,
    :latitude 54.5337455,
    :source :openstreetmap,
    :homepage "https://heritageparkmuseum.com/",
-   :locality "Terrace"}
+   :location "Terrace"}
   {:name "Heritage Park Museum",
    :longitude -83.5498361,
    :latitude 46.2963554,
@@ -4197,7 +4197,7 @@
    :latitude 49.2838008,
    :source :openstreetmap,
    :homepage "https://www.hfour.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "High Park Gallery",
    :longitude -79.4728034,
    :latitude 43.652088,
@@ -4224,20 +4224,20 @@
    :latitude 52.1235141,
    :source :openstreetmap,
    :homepage "https://www.historicmarkerville.com/our-sites.html",
-   :locality "Markerville"}
+   :location "Markerville"}
   {:name "Historic St Mary's Church",
    :longitude -63.6694194,
    :latitude 46.4767578,
    :source :openstreetmap,
    :homepage "https://underthespire.ca/venue/about-st-marys/",
-   :locality "Kensington"}
+   :location "Kensington"}
   {:name "Historic Zion Schoolhouse",
    :longitude -79.3633985,
    :latitude 43.7903635,
    :source :openstreetmap,
    :homepage
    "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/zion-schoolhouse/",
-   :locality "North York"}
+   :location "North York"}
   {:name "Historical Museum of Saint James-Assiniboia",
    :longitude -97.2881596,
    :latitude 49.8805183,
@@ -4263,7 +4263,7 @@
    :latitude 43.3947969,
    :source :openstreetmap,
    :homepage "https://www.homerwatson.on.ca/",
-   :locality "Kitchener"}
+   :location "Kitchener"}
   {:name "Homestead Antique Museum",
    :longitude -112.728153,
    :latitude 51.4704404,
@@ -4284,7 +4284,7 @@
    :latitude 44.6419399,
    :source :openstreetmap,
    :homepage "https://www.hookedrugmuseumnovascotia.org/",
-   :locality "Queensland"}
+   :location "Queensland"}
   {:name "Hope Museum",
    :longitude -121.4417775,
    :latitude 49.3770752,
@@ -4293,7 +4293,7 @@
    :longitude -124.647874,
    :latitude 49.5244312,
    :source :openstreetmap,
-   :locality "Hornby Island"}
+   :location "Hornby Island"}
   {:name "Horod Pioneer school",
    :longitude -100.299776,
    :latitude 50.6503204,
@@ -4308,7 +4308,7 @@
    :latitude 44.531631,
    :source :openstreetmap,
    :homepage "https://www.horselesscarriage.ca/",
-   :locality "Kawartha Lakes"}
+   :location "Kawartha Lakes"}
   {:name "House of Diamonds",
    :longitude -54.0335637,
    :latitude 48.6740688,
@@ -4330,13 +4330,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.heritagetrust.on.ca/en/properties/hudsons-bay-company-staff-house",
-   :locality "Moose Factory Island"}
+   :location "Moose Factory Island"}
   {:name "Hudson's Hope Museum",
    :longitude -121.9081983,
    :latitude 56.0287397,
    :source :openstreetmap,
    :homepage "https://www.hudsonshopemuseum.com/",
-   :locality "Hudson's Hope"}
+   :location "Hudson's Hope"}
   {:name "Humboldt and District Gallery",
    :longitude -105.1231396,
    :latitude 52.1989661,
@@ -4347,19 +4347,19 @@
    :source :openstreetmap,
    :homepage
    "https://www.huntsville.ca/en/culture-and-events/theatre.aspx",
-   :locality "Huntsville"}
+   :location "Huntsville"}
   {:name "Huron Artisan Market",
    :longitude -81.5395337,
    :latitude 43.6187014,
    :source :openstreetmap,
    :homepage "https://huron-artisan-market.square.site",
-   :locality "Clinton"}
+   :location "Clinton"}
   {:name "Huron County Museum",
    :longitude -81.7106312,
    :latitude 43.7467621,
    :source :openstreetmap,
    :homepage "https://www.huroncountymuseum.ca/",
-   :locality "Goderich"}
+   :location "Goderich"}
   {:name "Huronia Museum",
    :longitude -79.8822053,
    :latitude 44.7425784,
@@ -4374,7 +4374,7 @@
    :longitude -123.138862,
    :latitude 49.2620862,
    :source :openstreetmap,
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "In-Definite Arts",
    :longitude -114.0592866,
    :latitude 50.9824662,
@@ -4403,7 +4403,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.ingersoll.ca/visitors/cheese-and-agricultural-museum/cheese-agricultural-museum",
-   :locality "Ingersoll"}
+   :location "Ingersoll"}
   {:name "Innisfail Historical Village",
    :longitude -113.9551888,
    :latitude 52.0199001,
@@ -4419,7 +4419,7 @@
    :latitude 43.6419477,
    :source :openstreetmap,
    :homepage "https://www.interaccess.org/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Interarts Matrix",
    :longitude -80.4884177,
    :latitude 43.441329,
@@ -4458,7 +4458,7 @@
    :latitude 43.8022619,
    :source :openstreetmap,
    :homepage "https://alijanpour.com/",
-   :locality "Thornhill"}
+   :location "Thornhill"}
   {:name "Iron Art",
    :longitude -60.6064595,
    :latitude 46.3257953,
@@ -4473,7 +4473,7 @@
    :longitude -64.06415,
    :latitude 45.6450816,
    :source :openstreetmap,
-   :locality "Springhill"}
+   :location "Springhill"}
   {:name "Isles Wooden Boat Museum",
    :longitude -54.7761858,
    :latitude 49.6564786,
@@ -4489,7 +4489,7 @@
    :longitude -79.3898339,
    :latitude 43.671088,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "J. Petite Museum",
    :longitude -55.4928743,
    :latitude 47.4609939,
@@ -4505,13 +4505,13 @@
    :latitude 44.2207062,
    :source :openstreetmap,
    :homepage "https://parks.canada.ca/lhn-nhs/on/bellevue",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Jack Miner Museum",
    :longitude -82.7506056,
    :latitude 42.0661633,
    :source :openstreetmap,
    :homepage "https://jackminer.ca/jack-miner-museum/",
-   :locality "Kingsville"}
+   :location "Kingsville"}
   {:name "James Bartleman Archives and Library Materials Centre",
    :longitude -75.7578223,
    :latitude 45.3410895,
@@ -4539,7 +4539,7 @@
    :latitude 49.2397851,
    :source :openstreetmap,
    :homepage "https://lejardindesglaciers.com/en",
-   :locality "Baie-Comeau"}
+   :location "Baie-Comeau"}
   {:name "Jasper Planetarium",
    :longitude -118.0571118,
    :latitude 52.8862795,
@@ -4555,7 +4555,7 @@
    :latitude 53.0126117,
    :source :openstreetmap,
    :homepage "https://camroselive.ca/",
-   :locality "Camrose"}
+   :location "Camrose"}
   {:name "Jericho Arts Centre",
    :longitude -123.2030058,
    :latitude 49.2723169,
@@ -4566,7 +4566,7 @@
    :latitude 43.0309395,
    :source :openstreetmap,
    :homepage "http://www.jetaircraftmuseum.ca/",
-   :locality "London"}
+   :location "London"}
   {:name "Jewish Heritage Centre of Western Canada",
    :longitude -97.2087817,
    :latitude 49.8724177,
@@ -4587,7 +4587,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bostonbarbc.net/north-bend-community-center.html",
-   :locality "North Bend"}
+   :location "North Bend"}
   {:name "Joggins Fossil Centre",
    :longitude -64.4496903,
    :latitude 45.6946234,
@@ -4609,14 +4609,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.edmonton.ca/attractions_events/john-janzen-nature-centre",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "John Walter Museum",
    :longitude -113.5048249,
    :latitude 53.5277913,
    :source :openstreetmap,
    :homepage
    "https://www.edmonton.ca/attractions_events/john-walter-museum.aspx",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Jonanco Hobby Workshop",
    :longitude -123.9301976,
    :latitude 49.0778413,
@@ -4626,7 +4626,7 @@
    :latitude 43.1491835,
    :source :openstreetmap,
    :homepage "https://www.jordanartgallery.com/",
-   :locality "Jordan Station"}
+   :location "Jordan Station"}
   {:name "Joseph Brant Museum",
    :longitude -79.8015964,
    :latitude 43.3186764,
@@ -4639,21 +4639,21 @@
    :source :openstreetmap,
    :homepage
    "https://www.artsandculturecentre.com/gander/Online/default.asp",
-   :locality "Gander"}
+   :location "Gander"}
   {:name "Joseph Schneider Haus",
    :longitude -80.4950715,
    :latitude 43.4449194,
    :source :openstreetmap,
    :homepage
    "https://regionofwaterloomuseums.ca/en/visit/schneider-haus-national-historic-site.aspx?_mid_=33261",
-   :locality "Kitchener"}
+   :location "Kitchener"}
   {:name "Josiah Henson Museum of African-Canadian History",
    :longitude -82.1964662,
    :latitude 42.5852025,
    :source :openstreetmap,
    :homepage
    "https://www.heritagetrust.on.ca/en/index.php/properties/uncle-toms-cabin",
-   :locality "Chatham-Kent"}
+   :location "Chatham-Kent"}
   {:name "Julie Anne's Art Supplies and Gallery",
    :longitude -121.9571563,
    :latitude 49.1450162,
@@ -4686,13 +4686,13 @@
    :latitude 44.3547014,
    :source :openstreetmap,
    :homepage "https://www.thelindsaygallery.com/",
-   :locality "Kawartha Lakes"}
+   :location "Kawartha Lakes"}
   {:name "Kay Meek Centre for the Performing Arts",
    :longitude -123.160056,
    :latitude 49.3378962,
    :source :openstreetmap,
    :homepage "https://kaymeekcentre.com/",
-   :locality "West Vancouver"}
+   :location "West Vancouver"}
   {:name "Kay-Nah-Chi-Wah-Nung Visitor Centre",
    :longitude -94.0942355,
    :latitude 48.6474188,
@@ -4704,7 +4704,7 @@
    :source :openstreetmap,
    :homepage
    "https://keillorhousemuseum.com/museums/keillor-house-museum/",
-   :locality "Dorchester"}
+   :location "Dorchester"}
   {:name "Keith M Boyd Museum",
    :longitude -75.3573542,
    :latitude 45.2552432,
@@ -4741,7 +4741,7 @@
    :longitude -63.6402471,
    :latitude 46.4353977,
    :source :openstreetmap,
-   :locality "Kensington"}
+   :location "Kensington"}
   {:name "Kerry Wood Nature Centre",
    :longitude -113.7942298,
    :latitude 52.2847865,
@@ -4757,7 +4757,7 @@
    :latitude 56.7127164,
    :source :openstreetmap,
    :homepage "https://www.keyano.ca/en/theatre/theatre.aspx",
-   :locality "Fort McMurray"}
+   :location "Fort McMurray"}
   {:name "Kichener-Waterloo Art Gallery",
    :longitude -80.4846472,
    :latitude 43.4548198,
@@ -4772,7 +4772,7 @@
    :latitude 43.6525543,
    :source :openstreetmap,
    :homepage "https://www.kikospace.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Kilby General Store",
    :longitude -121.9571308,
    :latitude 49.2359256,
@@ -4789,42 +4789,42 @@
    :source :openstreetmap,
    :homepage
    "https://king.ca/LivingInKing/ParksRecreationCulture/CommunityandCulture/King%20Township%20Museum/Pages/default.aspx",
-   :locality "King City"}
+   :location "King City"}
   {:name "Kings County Gaol",
    :longitude -65.8264074,
    :latitude 45.5264925,
    :source :openstreetmap,
    :homepage "https://www.kingscountymuseum.com/",
-   :locality "Hampton"}
+   :location "Hampton"}
   {:name "Kings County Museum",
    :longitude -64.4939481,
    :latitude 45.0777969,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/kingscountymuseum",
-   :locality "Kentville"}
+   :location "Kentville"}
   {:name "Kings Landing",
    :longitude -66.977969,
    :latitude 45.8770371,
    :source :openstreetmap,
    :homepage "https://kingslanding.nb.ca/",
-   :locality "Prince William"}
+   :location "Prince William"}
   {:name "Kingston Mills",
    :longitude -76.4427885,
    :latitude 44.292237,
    :source :openstreetmap,
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Kingston Penitentiary",
    :longitude -76.5134918,
    :latitude 44.2193625,
    :source :openstreetmap,
    :homepage "https://www.kingstonpentour.com/",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Kingsville Historical Park",
    :longitude -82.7388222,
    :latitude 42.0327878,
    :source :openstreetmap,
    :homepage "https://kingsvillemilitarymuseum.ca/",
-   :locality "Kingsville"}
+   :location "Kingsville"}
   {:name "Kitimat Centennial Museum",
    :longitude -128.6531699,
    :latitude 54.0530572,
@@ -4834,7 +4834,7 @@
    :longitude -114.2767697,
    :latitude 51.0692081,
    :source :openstreetmap,
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Kluane Museum of Natural History",
    :longitude -138.9975625,
    :latitude 61.3541503,
@@ -4850,7 +4850,7 @@
    :latitude 43.6468933,
    :source :openstreetmap,
    :homepage "https://smallworldmusic.com",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Kootenai Brown Museum",
    :longitude -113.945984,
    :latitude 49.4865303,
@@ -4896,7 +4896,7 @@
    :latitude 45.4279488,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/atelierentre2/",
-   :locality "Gatineau"}
+   :location "Gatineau"}
   {:name
    "L'Epopée De Capelton - Entrée de la Mine (visite sous terre)",
    :longitude -71.9065433,
@@ -4908,7 +4908,7 @@
    :latitude 48.5816138,
    :source :openstreetmap,
    :homepage "https://www.odysseedesbatisseurs.com/",
-   :locality "Alma"}
+   :location "Alma"}
   {:name "L'Original",
    :longitude -73.5821581,
    :latitude 45.5237939,
@@ -4926,7 +4926,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.hydroquebec.com/visitez/monteregie/electrium.html",
-   :locality "Sainte-Julie"}
+   :location "Sainte-Julie"}
   {:name "L'Îlot - Galerie Art'chipel",
    :longitude -71.1832125,
    :latitude 46.8057561,
@@ -4946,7 +4946,7 @@
    :latitude 46.364245,
    :source :openstreetmap,
    :homepage "https://lafenetre3r.org/",
-   :locality "Trois-Rivières"}
+   :location "Trois-Rivières"}
   {:name "La forge haute - forneau neuf",
    :longitude -72.6588806,
    :latitude 46.396876,
@@ -4959,7 +4959,7 @@
    :longitude -68.8659027,
    :latitude 48.2976039,
    :source :openstreetmap,
-   :locality "Saint-Fabien"}
+   :location "Saint-Fabien"}
   {:name "La Maison Blanche",
    :longitude -73.4961812,
    :latitude 45.4988973,
@@ -4991,7 +4991,7 @@
    :longitude -73.6756879,
    :latitude 45.5511455,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "La Station Eastman - Café Bière & Cie",
    :longitude -72.3126581,
    :latitude 45.3010608,
@@ -5001,7 +5001,7 @@
    :longitude -72.5703008,
    :latitude 46.3482327,
    :source :openstreetmap,
-   :locality "Trois-Rivières"}
+   :location "Trois-Rivières"}
   {:name "La Vieille Gare de Rivière-Bleue",
    :longitude -69.0436122,
    :latitude 47.4386129,
@@ -5013,7 +5013,7 @@
    :latitude 48.4726285,
    :source :openstreetmap,
    :homepage "https://www.lavieilleusine.com",
-   :locality "Percé"}
+   :location "Percé"}
   {:name "Labrador Heritage Museum",
    :longitude -60.1392312,
    :latitude 53.5248314,
@@ -5034,7 +5034,7 @@
    :latitude 54.8233437,
    :source :openstreetmap,
    :homepage "https://laclabichemission.com/",
-   :locality "Lac la Biche"}
+   :location "Lac la Biche"}
   {:name "Ladysmith Gallery",
    :longitude -123.81834,
    :latitude 48.9941225,
@@ -5075,13 +5075,13 @@
    :latitude 43.2514496,
    :source :openstreetmap,
    :homepage "https://www.lambtonmuseums.ca/heritage/",
-   :locality "Grand Bend"}
+   :location "Grand Bend"}
   {:name "Lambton House",
    :longitude -79.5036593,
    :latitude 43.6630955,
    :source :openstreetmap,
    :homepage "https://lambtonhouse.org/",
-   :locality "York"}
+   :location "York"}
   {:name "Lanark & District Museum",
    :longitude -76.3659088,
    :latitude 45.0183682,
@@ -5103,13 +5103,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.tourismsaskatchewan.com/listings/73/lancer-centennial-museum",
-   :locality "Lancer"}
+   :location "Lancer"}
   {:name "Lang Pioneer Village",
    :longitude -78.1715308,
    :latitude 44.2753233,
    :source :openstreetmap,
    :homepage "https://www.langpioneervillage.ca/",
-   :locality "Keene"}
+   :location "Keene"}
   {:name "Lasqueti Arts Centre",
    :longitude -124.3471891,
    :latitude 49.4912834,
@@ -5129,12 +5129,12 @@
    :latitude 53.3058902,
    :source :openstreetmap,
    :homepage "https://www.obrienartscentre.ca/",
-   :locality "Happy Valley-Goose Bay"}
+   :location "Happy Valley-Goose Bay"}
   {:name "Lawrencetown Farm Museum",
    :longitude -65.1627751,
    :latitude 44.8818432,
    :source :openstreetmap,
-   :locality "Lawrencetown"}
+   :location "Lawrencetown"}
   {:name "Le barrage Daniel-Johnson et la centrale Manic-5",
    :longitude -68.7320802,
    :latitude 50.6398607,
@@ -5156,7 +5156,7 @@
    :latitude 45.3182756,
    :source :openstreetmap,
    :homepage "https://www.lemuseeduchocolatdelaconfiseriebromont.com/",
-   :locality "Bromont"}
+   :location "Bromont"}
   {:name "Le musée du Monastère des Augustines",
    :longitude -71.2100851,
    :latitude 46.8153109,
@@ -5168,7 +5168,7 @@
    :source :openstreetmap,
    :homepage
    "https://municipalite.laminerve.qc.ca/le-petit-musee-et-galerie-dart/",
-   :locality "La Minerve"}
+   :location "La Minerve"}
   {:name "Le P’tit Monde Des Grands",
    :longitude -72.7180006,
    :latitude 45.406204,
@@ -5188,7 +5188,7 @@
    :latitude 44.2031702,
    :source :openstreetmap,
    :homepage "https://lucymaudmontgomery.ca/",
-   :locality "Leaskdale"}
+   :location "Leaskdale"}
   {:name "Lebel Art Gallery",
    :longitude -113.9499141,
    :latitude 49.4847086,
@@ -5213,7 +5213,7 @@
    :longitude -114.212433,
    :latitude 50.7955763,
    :source :openstreetmap,
-   :locality "Foothills"}
+   :location "Foothills"}
   {:name "Les Moulins de l'Isle-aux-Coudres",
    :longitude -70.3990892,
    :latitude 47.3733282,
@@ -5277,18 +5277,18 @@
    :latitude 43.2179468,
    :source :openstreetmap,
    :homepage "https://niagaramilitaryheritagecentre.ca/",
-   :locality "Niagara-on-the-Lake"}
+   :location "Niagara-on-the-Lake"}
   {:name "Lipont Place",
    :longitude -123.1373526,
    :latitude 49.1830551,
    :source :openstreetmap,
-   :locality "Richmond"}
+   :location "Richmond"}
   {:name "Little Canada",
    :longitude -79.3809062,
    :latitude 43.6567118,
    :source :openstreetmap,
    :homepage "https://little-canada.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Little Claybelt Homesteaders' Museum",
    :longitude -79.6750488,
    :latitude 47.5287062,
@@ -5313,7 +5313,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.artsandheritage.ca/pages/little-white-school",
-   :locality "St. Albert"}
+   :location "St. Albert"}
   {:name "Living Museum",
    :longitude -81.6175494,
    :latitude 45.3062575,
@@ -5324,14 +5324,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.winnipeg.ca/publicworks/naturalist/livingprairie/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Lloydminster Museum + Archives",
    :longitude -109.9835767,
    :latitude 53.2773009,
    :source :openstreetmap,
    :homepage
    "https://www.lloydminster.ca/en/recreation-and-culture/lloydminster-museum-and-archives.aspx",
-   :locality "Lloydminster"}
+   :location "Lloydminster"}
   {:name "Lobster Cove Head Lighthouse",
    :longitude -57.9556771,
    :latitude 49.6029013,
@@ -5343,23 +5343,23 @@
    :latitude 51.0417529,
    :source :openstreetmap,
    :homepage "https://www.lochgallery.com/",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Loch Gallery",
    :longitude -97.1152024,
    :latitude 49.8726902,
    :source :openstreetmap,
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Loggers' Life Provincial Museum",
    :longitude -55.7068463,
    :latitude 48.9432799,
    :source :openstreetmap,
-   :locality "Grand Falls-Windsor"}
+   :location "Grand Falls-Windsor"}
   {:name "Lol Art School",
    :longitude -79.3223162,
    :latitude 43.7759645,
    :source :openstreetmap,
    :homepage "https://www.lolart.ca/",
-   :locality "Scarborough"}
+   :location "Scarborough"}
   {:name "LOL Museum",
    :longitude -55.9244509,
    :latitude 47.5540541,
@@ -5426,7 +5426,7 @@
    :source :openstreetmap,
    :homepage
    "https://luxtonfoundation.org/museum/the-luxton-home.html",
-   :locality "Banff"}
+   :location "Banff"}
   {:name "Lyman Entomological Museum",
    :longitude -73.9389999,
    :latitude 45.4061666,
@@ -5458,7 +5458,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitthecounty.com/business_listings/macaulay-heritage-park/",
-   :locality "Prince Edward"}
+   :location "Prince Edward"}
   {:name "MacBride Copperbelt Mining Museum",
    :longitude -135.130857,
    :latitude 60.7434788,
@@ -5469,7 +5469,7 @@
    :latitude 44.9437479,
    :source :openstreetmap,
    :homepage "https://macdonaldmuseum.ca/",
-   :locality "Middleton"}
+   :location "Middleton"}
   {:name "Mackenzie & District Museum",
    :longitude -123.0885229,
    :latitude 55.3381525,
@@ -5495,26 +5495,26 @@
    :latitude 44.3902099,
    :source :openstreetmap,
    :homepage "https://maclarenart.com/",
-   :locality "Barrie"}
+   :location "Barrie"}
   {:name "MacPhail Homestead",
    :longitude -62.8229139,
    :latitude 46.1614795,
    :source :openstreetmap,
    :homepage "https://macphailhomestead.ca/",
-   :locality "Orwell"}
+   :location "Orwell"}
   {:name "MacPhee House Museum",
    :longitude -62.54404,
    :latitude 44.9273504,
    :source :openstreetmap,
    :homepage
    "https://www.novascotia.com/see-do/attractions/macphee-house-community-museum/1407",
-   :locality "Sheet Harbour"}
+   :location "Sheet Harbour"}
   {:name "Macpherson House",
    :longitude -76.9458657,
    :latitude 44.2529986,
    :source :openstreetmap,
    :homepage "https://countymuseum.ca/exhibit/macpherson-house-park/",
-   :locality "Napanee"}
+   :location "Napanee"}
   {:name "Mad Dog Gallery",
    :longitude -77.1879332,
    :latitude 43.9403828,
@@ -5545,14 +5545,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.desjardins.com/a-propos/desjardins/qui-nous-sommes/notre-histoire-musee/visiter-maison-alphonse-desjardins/index.jsp",
-   :locality "Lévis"}
+   :location "Lévis"}
   {:name "Maison Culturelle Laurier Gauthier",
    :longitude -70.9027415,
    :latitude 45.4865094,
    :source :openstreetmap,
    :homepage
    "https://baladodiscovery.com/circuits/1105/poi/12449/laurier-gauthier-cultural-house",
-   :locality "Piopolis"}
+   :location "Piopolis"}
   {:name "Maison d'histoire de Terrebonne",
    :longitude -73.6344006,
    :latitude 45.6924385,
@@ -5577,41 +5577,41 @@
    :longitude -69.5364518,
    :latitude 47.8373224,
    :source :openstreetmap,
-   :locality "Rivière-du-Loup"}
+   :location "Rivière-du-Loup"}
   {:name "Maison de la culture de Pointe-aux-Trembles",
    :longitude -73.4948601,
    :latitude 45.6681374,
    :source :openstreetmap,
    :homepage
    "https://montreal.ca/lieux/maison-de-la-culture-de-pointe-aux-trembles",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Maison de la culture Janine-Sutto",
    :longitude -73.5516111,
    :latitude 45.5328205,
    :source :openstreetmap,
    :homepage
    "https://montreal.ca/lieux/maison-de-la-culture-janine-sutto",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Maison de la culture Marcel-Robidas",
    :longitude -73.5109707,
    :latitude 45.537053,
    :source :openstreetmap,
    :homepage
    "https://longueuil.quebec/fr/services/arts-et-culture/maison-de-la-culture-marcel-robidas",
-   :locality "Longueuil"}
+   :location "Longueuil"}
   {:name "Maison de la Culture Mercier",
    :longitude -73.5238463,
    :latitude 45.5955398,
    :source :openstreetmap,
    :homepage "https://montreal.ca/lieux/maison-de-la-culture-mercier",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Maison de la Culture Roland-Jomphe",
    :longitude -63.6083724,
    :latitude 50.2378521,
    :source :openstreetmap,
    :homepage
    "https://tourismehsp.com/quoi-faire/arts-et-culture/maison-de-la-culture-roland-jomphe/",
-   :locality "Havre-Saint-Pierre"}
+   :location "Havre-Saint-Pierre"}
   {:name "Maison de Lime Ridge",
    :longitude -71.5991985,
    :latitude 45.6311652,
@@ -5631,7 +5631,7 @@
    :latitude 45.8771696,
    :source :openstreetmap,
    :homepage "https://www.artsdrummondville.com",
-   :locality "Drummondville"}
+   :location "Drummondville"}
   {:name "Maison des Gouverneurs",
    :longitude -73.1163124,
    :latitude 46.0330033,
@@ -5659,7 +5659,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bonjourquebec.com/en-us/listing/to-see-and-do/maison-et-collection-dr-joseph-frenette/0pt3",
-   :locality "Causapscal"}
+   :location "Causapscal"}
   {:name "Maison Etienne Nivard de Saint-Dizier",
    :longitude -73.5828724,
    :latitude 45.4373986,
@@ -5670,19 +5670,19 @@
    :latitude 45.4206024,
    :source :openstreetmap,
    :homepage "http://maisonfelixleclerc.org",
-   :locality "Vaudreuil-Dorion"}
+   :location "Vaudreuil-Dorion"}
   {:name "Maison Gabrielle Roy House",
    :longitude -97.1110254,
    :latitude 49.8902247,
    :source :openstreetmap,
    :homepage "https://www.maisongabrielleroy.mb.ca/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Maison George-Bryson",
    :longitude -76.7402755,
    :latitude 45.8638118,
    :source :openstreetmap,
    :homepage "https://www.maisonbryson.com/",
-   :locality "Mansfield-et-Pontefract"}
+   :location "Mansfield-et-Pontefract"}
   {:name "Maison Hamilton",
    :longitude -73.802377,
    :latitude 45.6222466,
@@ -5692,7 +5692,7 @@
    :latitude 48.4841704,
    :source :openstreetmap,
    :homepage "https://maisonlamontagne.com/",
-   :locality "Rimouski"}
+   :location "Rimouski"}
   {:name "Maison LeBoutillier",
    :longitude -64.1732875,
    :latitude 48.5019738,
@@ -5701,19 +5701,19 @@
    :longitude -73.7621376,
    :latitude 45.6633078,
    :source :openstreetmap,
-   :locality "Bois-des-Filion"}
+   :location "Bois-des-Filion"}
   {:name "Maison Louis-Bertrand",
    :longitude -69.3378637,
    :latitude 48.0136287,
    :source :openstreetmap,
    :homepage "http://maisonlouisbertrand.uqar.ca/",
-   :locality "L'Isle-Verte"}
+   :location "L'Isle-Verte"}
   {:name "Maison Louis-Cyr",
    :longitude -73.5334431,
    :latitude 46.2312223,
    :source :openstreetmap,
    :homepage "https://maisonlouiscyr.com/",
-   :locality "Saint-Jean-de-Matha"}
+   :location "Saint-Jean-de-Matha"}
   {:name "Maison Louis-Hippolyte-La Fontaine",
    :longitude -73.4574425,
    :latitude 45.5992373,
@@ -5726,13 +5726,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.victoriaville.ca/page/632/mont-arthabaska.aspx",
-   :locality "Victoriaville"}
+   :location "Victoriaville"}
   {:name "Maison Rocheleau",
    :longitude -72.4999743,
    :latitude 46.3680199,
    :source :openstreetmap,
    :homepage "https://maisonrocheleau.ca/",
-   :locality "Trois-Rivières"}
+   :location "Trois-Rivières"}
   {:name "Maison Saint-Gabriel",
    :longitude -73.5562259,
    :latitude 45.476519,
@@ -5743,7 +5743,7 @@
    :latitude 45.388008,
    :source :openstreetmap,
    :homepage "https://www.trestler.qc.ca/",
-   :locality "Vaudreuil-Dorion"}
+   :location "Vaudreuil-Dorion"}
   {:name "Maison Turgeon",
    :longitude -79.0405185,
    :latitude 48.8647687,
@@ -5752,7 +5752,7 @@
    :longitude -71.1424193,
    :latitude 46.8918952,
    :source :openstreetmap,
-   :locality "Boischatel"}
+   :location "Boischatel"}
   {:name "Manitoba Agricultural Museum",
    :longitude -98.9472202,
    :latitude 49.9254449,
@@ -5780,13 +5780,13 @@
    :longitude -74.091513,
    :latitude 45.6265765,
    :source :openstreetmap,
-   :locality "Mirabel"}
+   :location "Mirabel"}
   {:name "Manoir Le Boutillier",
    :longitude -64.3017228,
    :latitude 48.93227,
    :source :openstreetmap,
    :homepage "https://manoirleboutillier.ca",
-   :locality "Gaspé"}
+   :location "Gaspé"}
   {:name "Manuel's River Interpretation Center",
    :longitude -52.9459605,
    :latitude 47.5198312,
@@ -5801,7 +5801,7 @@
    :latitude 49.2103809,
    :source :openstreetmap,
    :homepage "https://mapleridgemuseum.org/",
-   :locality "Maple Ridge"}
+   :location "Maple Ridge"}
   {:name "Marathon And District Historical Society",
    :longitude -86.381954,
    :latitude 48.7171818,
@@ -5812,19 +5812,19 @@
    :latitude 46.2112145,
    :source :openstreetmap,
    :homepage "https://parks.canada.ca/lhn-nhs/ns/marconi/index",
-   :locality "Glace Bay"}
+   :location "Glace Bay"}
   {:name "Maria Pezzano",
    :longitude -80.2344618,
    :latitude 43.548584,
    :source :openstreetmap,
    :homepage "https://www.mariapezzano.com/",
-   :locality "Guelph"}
+   :location "Guelph"}
   {:name "Marie Dressler House",
    :longitude -78.1745273,
    :latitude 43.9594248,
    :source :openstreetmap,
    :homepage "https://www.mariedressler.ca/dressler-house",
-   :locality "Cobourg"}
+   :location "Cobourg"}
   {:name "Marilyn Peeters Art Studio & Gallery",
    :longitude -125.1232939,
    :latitude 49.8201365,
@@ -5847,7 +5847,7 @@
    :longitude -64.3698811,
    :latitude 45.8984397,
    :source :openstreetmap,
-   :locality "Sackville"}
+   :location "Sackville"}
   {:name "Markham Museum",
    :longitude -79.2663283,
    :latitude 43.8933207,
@@ -5863,7 +5863,7 @@
    :latitude 44.2318988,
    :source :openstreetmap,
    :homepage "https://www.martelloalley.com/",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Marten River Logging Museum",
    :longitude -79.8017911,
    :latitude 46.7306392,
@@ -5873,7 +5873,7 @@
    :latitude 49.9003742,
    :source :openstreetmap,
    :homepage "https://printmakers.mb.ca/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Mary March Provincial Museum",
    :longitude -55.6608384,
    :latitude 48.939322,
@@ -5894,7 +5894,7 @@
    :latitude 51.0334935,
    :source :openstreetmap,
    :homepage "https://www.mastersgalleryltd.com/",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Mayne Island Museum",
    :longitude -123.2967126,
    :latitude 48.8509079,
@@ -5926,14 +5926,14 @@
    :latitude 45.4777669,
    :source :openstreetmap,
    :homepage "https://renfrewmuseum.ca/",
-   :locality "Renfrew"}
+   :location "Renfrew"}
   {:name "McFarland House",
    :longitude -79.061,
    :latitude 43.232049,
    :source :openstreetmap,
    :homepage
    "https://www.niagaraparks.com/visit/heritage/mcfarland-house/",
-   :locality "Niagara-On-The-Lake"}
+   :location "Niagara-On-The-Lake"}
   {:name "McIntosh Art Gallery",
    :longitude -81.2734327,
    :latitude 43.0094872,
@@ -5949,7 +5949,7 @@
    :latitude 44.898105,
    :source :openstreetmap,
    :homepage "https://www.perthseniors.ca/our-activities",
-   :locality "Perth"}
+   :location "Perth"}
   {:name "McMaster Museum of Art",
    :longitude -79.9181376,
    :latitude 43.2626347,
@@ -5960,7 +5960,7 @@
    :latitude 43.8434783,
    :source :openstreetmap,
    :homepage "https://mcmichael.com/",
-   :locality "Kleinburg"}
+   :location "Kleinburg"}
   {:name "Meadow Lake Museum",
    :longitude -108.4520956,
    :latitude 54.1207584,
@@ -5972,7 +5972,7 @@
    :latitude 44.6097512,
    :source :openstreetmap,
    :homepage "https://www.meaford.ca/meaford-museum.html",
-   :locality "Meaford"}
+   :location "Meaford"}
   {:name "Meanskinisht Museum",
    :longitude -128.0638381,
    :latitude 55.2652623,
@@ -6009,7 +6009,7 @@
    :latitude 44.7664539,
    :source :openstreetmap,
    :homepage "https://visitmemorylane.ca/",
-   :locality "Lake Charlotte"}
+   :location "Lake Charlotte"}
   {:name "Mennonite Heritage Gallery",
    :longitude -97.2326972,
    :latitude 49.8568472,
@@ -6029,12 +6029,12 @@
    :latitude 43.6586788,
    :source :openstreetmap,
    :homepage "https://www.mercerunion.org/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Meridian Arts Centre",
    :longitude -79.4144185,
    :latitude 43.7660533,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Metchosin Pioneer Museum",
    :longitude -123.5361447,
    :latitude 48.3803174,
@@ -6081,7 +6081,7 @@
    :latitude 53.5139742,
    :source :openstreetmap,
    :homepage "https://milezerodance.com/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Military and Police Museum",
    :longitude -89.6352006,
    :latitude 48.4272998,
@@ -6106,7 +6106,7 @@
    :latitude 44.2273817,
    :source :openstreetmap,
    :homepage "https://www.queensu.ca/millermuseumofgeology/",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "mimuseum",
    :longitude -79.6493526,
    :latitude 43.5887609,
@@ -6147,7 +6147,7 @@
    :latitude 45.2279858,
    :source :openstreetmap,
    :homepage "https://mvtm.ca/mvtm/",
-   :locality "Almonte"}
+   :location "Almonte"}
   {:name "Mockbeggar Plantation",
    :longitude -53.1203515,
    :latitude 48.6544518,
@@ -6176,7 +6176,7 @@
    :latitude 43.6516585,
    :source :openstreetmap,
    :homepage "http://montgomerysinn.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Moore Museum",
    :longitude -82.4626373,
    :latitude 42.8400569,
@@ -6187,7 +6187,7 @@
    :latitude 50.3948235,
    :source :openstreetmap,
    :homepage "http://www.mjmag.ca/",
-   :locality "Moose Jaw"}
+   :location "Moose Jaw"}
   {:name "Moose Meet Studio",
    :longitude -77.2117174,
    :latitude 44.6916411,
@@ -6212,7 +6212,7 @@
    :latitude 49.2681817,
    :source :openstreetmap,
    :homepage "https://belkin.ubc.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Morse Museum and Cultural Centre",
    :longitude -107.0434085,
    :latitude 50.4161293,
@@ -6238,7 +6238,7 @@
    :longitude -75.8936124,
    :latitude 46.4691781,
    :source :openstreetmap,
-   :locality "Aumond"}
+   :location "Aumond"}
   {:name "Moulin historique de Coteau-du-Lac",
    :longitude -74.1755169,
    :latitude 45.2875756,
@@ -6249,7 +6249,7 @@
    :latitude 46.28791,
    :source :openstreetmap,
    :homepage "http://www.moulin-pointedulac.com/",
-   :locality "Trois-Rivières"}
+   :location "Trois-Rivières"}
   {:name "Mount Royal, A Territory to Discover",
    :longitude -73.593052,
    :latitude 45.5015608,
@@ -6261,7 +6261,7 @@
    :latitude 51.7926198,
    :source :openstreetmap,
    :homepage "https://www.oldsmuseum.ca/",
-   :locality "Olds"}
+   :location "Olds"}
   {:name "Movieland Wax Museum of Stars",
    :longitude -79.07398,
    :latitude 43.0909474,
@@ -6273,7 +6273,7 @@
    :latitude 45.7796001,
    :source :openstreetmap,
    :homepage "https://www.mdhist.org/",
-   :locality "Mulgrave-et-Derry"}
+   :location "Mulgrave-et-Derry"}
   {:name "Murray L. Moore Hydro Museum",
    :longitude -77.1196567,
    :latitude 45.824636,
@@ -6282,23 +6282,23 @@
    :longitude -79.4535015,
    :latitude 43.6752291,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Musee d'Art Singulier Contemporain",
    :longitude -72.3924164,
    :latitude 45.0514021,
    :source :openstreetmap,
-   :locality "Potton"}
+   :location "Potton"}
   {:name "Musee de la Gaspesie",
    :longitude -64.4743714,
    :latitude 48.8364241,
    :source :openstreetmap,
    :homepage "https://museedelagaspesie.ca",
-   :locality "Gaspé"}
+   :location "Gaspé"}
   {:name "Musee Girouxville",
    :longitude -117.3376937,
    :latitude 55.7547331,
    :source :openstreetmap,
-   :locality "Girouxville"}
+   :location "Girouxville"}
   {:name "Musee Mineralogique et Minier",
    :longitude -71.3254029,
    :latitude 46.0960187,
@@ -6322,19 +6322,19 @@
    :latitude 44.3751555,
    :source :openstreetmap,
    :homepage "https://fisheriesmuseum.novascotia.ca/",
-   :locality "Lunenburg"}
+   :location "Lunenburg"}
   {:name "Museum of Anthropology",
    :longitude -123.25936,
    :latitude 49.2694664,
    :source :openstreetmap,
    :homepage "https://moa.ubc.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Museum of Antiquities",
    :longitude -106.6327705,
    :latitude 52.1306261,
    :source :openstreetmap,
    :homepage "https://artsandscience.usask.ca/antiquities/",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "Museum of Archaeology & Ethnology",
    :longitude -122.914436,
    :latitude 49.2795251,
@@ -6365,13 +6365,13 @@
    :source :openstreetmap,
    :homepage
    "https://archaeologymuseum.ca/?gclid=EAIaIQobChMI4Lz1punSgAMV-SWtBh0ENwnbEBEYASAEEgKSrPD_BwE",
-   :locality "London"}
+   :location "London"}
   {:name "Museum of Surrey",
    :longitude -122.7322808,
    :latitude 49.1046032,
    :source :openstreetmap,
    :homepage "https://www.surrey.ca/arts-culture/museum-of-surrey",
-   :locality "Surrey"}
+   :location "Surrey"}
   {:name "Museum of Television",
    :longitude -79.4222742,
    :latitude 43.637565,
@@ -6382,7 +6382,7 @@
    :latitude 52.1226926,
    :source :openstreetmap,
    :homepage "https://www.cowboy-museum.com/",
-   :locality "Williams Lake"}
+   :location "Williams Lake"}
   {:name "Museum of the Highwood",
    :longitude -113.8718556,
    :latitude 50.5791428,
@@ -6405,7 +6405,7 @@
    :latitude 43.3355804,
    :source :openstreetmap,
    :homepage "https://www.teentourband.org/",
-   :locality "Burlington"}
+   :location "Burlington"}
   {:name "Muskoka Heritage Place",
    :longitude -79.2107605,
    :latitude 45.3217849,
@@ -6416,7 +6416,7 @@
    :latitude 45.1192255,
    :source :openstreetmap,
    :homepage "https://mlmuseum.com/",
-   :locality "Port Carling"}
+   :location "Port Carling"}
   {:name "MUSO",
    :longitude -74.1310788,
    :latitude 45.2616441,
@@ -6437,7 +6437,7 @@
    :latitude 48.5792525,
    :source :openstreetmap,
    :homepage "https://museeilnu.ca/en/",
-   :locality "Mashteuiatsh"}
+   :location "Mashteuiatsh"}
   {:name "Musée amérindien et inuit",
    :longitude -67.5912118,
    :latitude 49.3252091,
@@ -6448,7 +6448,7 @@
    :longitude -73.7161839,
    :latitude 45.5408595,
    :source :openstreetmap,
-   :locality "Laval"}
+   :location "Laval"}
   {:name "Musée Autos Anciennes",
    :longitude -72.1336052,
    :latitude 45.6649939,
@@ -6458,7 +6458,7 @@
    :latitude 45.1305607,
    :source :openstreetmap,
    :homepage "https://www.museebeaulne.qc.ca/",
-   :locality "Coaticook"}
+   :location "Coaticook"}
   {:name "Musée canadien de l'histoire",
    :longitude -75.7089629,
    :latitude 45.429141,
@@ -6468,7 +6468,7 @@
    :longitude -72.2534941,
    :latitude 45.1400946,
    :source :openstreetmap,
-   :locality "Georgeville"}
+   :location "Georgeville"}
   {:name "Musée CRCMM",
    :longitude -73.5316203,
    :latitude 45.5790894,
@@ -6483,7 +6483,7 @@
    :latitude 47.4402939,
    :source :openstreetmap,
    :homepage "https://macbsp.com/",
-   :locality "Baie-Saint-Paul"}
+   :location "Baie-Saint-Paul"}
   {:name "Musée d'art contemporain des Laurentides",
    :longitude -74.003196,
    :latitude 45.7787415,
@@ -6499,12 +6499,12 @@
    :latitude 48.2368631,
    :source :openstreetmap,
    :homepage "https://museema.org",
-   :locality "Rouyn-Noranda"}
+   :location "Rouyn-Noranda"}
   {:name "Musée d'art et d'histoire de Dudswell",
    :longitude -71.5913769,
    :latitude 45.632956,
    :source :openstreetmap,
-   :locality "Dudswell"}
+   :location "Dudswell"}
   {:name "Musée d'histoire de l'Abitibi",
    :longitude -78.1128532,
    :latitude 48.5743945,
@@ -6520,7 +6520,7 @@
    :latitude 45.865495,
    :source :openstreetmap,
    :homepage "https://museedoutilsanciens.ca/",
-   :locality "Saint-Rémi-de-Tingwick"}
+   :location "Saint-Rémi-de-Tingwick"}
   {:name "Musée de Charlevoix",
    :longitude -70.1415932,
    :latitude 47.6307359,
@@ -6531,31 +6531,31 @@
    :latitude 45.3945425,
    :source :openstreetmap,
    :homepage "https://symmes.ca/",
-   :locality "Gatineau"}
+   :location "Gatineau"}
   {:name "Musée de l'aviation de Montréal",
    :longitude -73.9418275,
    :latitude 45.4126524,
    :source :openstreetmap,
    :homepage "https://www.mam.quebec/",
-   :locality "Sainte-Anne-de-Bellevue"}
+   :location "Sainte-Anne-de-Bellevue"}
   {:name "Musée de l'Holocauste",
    :longitude -73.6363675,
    :latitude 45.4889582,
    :source :openstreetmap,
    :homepage "https://museeholocauste.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Musée de l'imprimerie du Québec",
    :longitude -73.639979,
    :latitude 45.551585,
    :source :openstreetmap,
    :homepage "http://www.museeimpression.org/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Musée de l'ingéniosité J.Armand Bombardier",
    :longitude -72.3096421,
    :latitude 45.4946167,
    :source :openstreetmap,
    :homepage "https://museebombardier.com/",
-   :locality "Valcourt"}
+   :location "Valcourt"}
   {:name "Musée de L'Isle-aux-Grues",
    :longitude -70.5443258,
    :latitude 47.0675196,
@@ -6571,13 +6571,13 @@
    :latitude 46.3277454,
    :source :openstreetmap,
    :homepage "https://www.biodiversite.net/",
-   :locality "Bécancour"}
+   :location "Bécancour"}
   {:name "Musée de la divière Cascapédia",
    :longitude -65.8923483,
    :latitude 48.2515595,
    :source :openstreetmap,
    :homepage "https://cascapedia.org/",
-   :locality "Cascapédia - Saint-Jules"}
+   :location "Cascapédia - Saint-Jules"}
   {:name "Musée de la Défense Aérienne",
    :longitude -70.9903024,
    :latitude 48.3400774,
@@ -6597,31 +6597,31 @@
    :latitude 48.3873703,
    :source :openstreetmap,
    :homepage "https://museedelanature.com/",
-   :locality "Sainte-Rose-du-Nord"}
+   :location "Sainte-Rose-du-Nord"}
   {:name "Musée de la Petite Maison Blanche",
    :longitude -71.0760738,
    :latitude 48.4250048,
    :source :openstreetmap,
    :homepage "https://www.petitemaisonblanche.com",
-   :locality "Chicoutimi"}
+   :location "Chicoutimi"}
   {:name "Musée de la Société de l'histoire de Buckingham",
    :longitude -75.4175048,
    :latitude 45.5904935,
    :source :openstreetmap,
    :homepage "https://www.histoiredebuckingham.com/",
-   :locality "Gatineau"}
+   :location "Gatineau"}
   {:name "Musée de la Vieille Fromagerie Perron",
    :longitude -72.3379691,
    :latitude 48.5924495,
    :source :openstreetmap,
    :homepage "https://museevieillefromagerie.ca",
-   :locality "Saint-Prime"}
+   :location "Saint-Prime"}
   {:name "Musée de Lachine",
    :longitude -73.6663574,
    :latitude 45.4299863,
    :source :openstreetmap,
    :homepage "http://www.museedelachine.com/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Musée des Abénakis",
    :longitude -72.821558,
    :latitude 46.0711283,
@@ -6646,24 +6646,24 @@
    :latitude 45.1049633,
    :source :openstreetmap,
    :homepage "https://www.museedesutton.com/",
-   :locality "Sutton"}
+   :location "Sutton"}
   {:name "Musée des Filles de Jésus",
    :longitude -72.5528019,
    :latitude 46.3480176,
    :source :openstreetmap,
-   :locality "Trois-Rivières"}
+   :location "Trois-Rivières"}
   {:name "Musée des Hospitalières de l'Hôtel-Dieu de Montréal",
    :longitude -73.5769839,
    :latitude 45.5132568,
    :source :openstreetmap,
    :homepage "http://museedeshospitalieres.qc.ca/accueil/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Musée des maîtres et artisans du Québec",
    :longitude -73.6713332,
    :latitude 45.5116929,
    :source :openstreetmap,
    :homepage "https://www.mumaq.com/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Musée des ondes Emile Berliner",
    :longitude -73.5924031,
    :latitude 45.4775501,
@@ -6684,12 +6684,12 @@
    :latitude 45.5230566,
    :source :openstreetmap,
    :homepage "https://www.museedespompiers.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Musée des télécommunications",
    :longitude -73.7117914,
    :latitude 45.4419236,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Musée Donald Morrison",
    :longitude -71.1416529,
    :latitude 45.6018441,
@@ -6700,7 +6700,7 @@
    :latitude 47.8290723,
    :source :openstreetmap,
    :homepage "https://www.mbsl.qc.ca/en",
-   :locality "Rivière-du-Loup"}
+   :location "Rivière-du-Loup"}
   {:name "Musée du Coquilllage",
    :longitude -70.7699378,
    :latitude 47.1404672,
@@ -6720,7 +6720,7 @@
    :latitude 45.2994418,
    :source :openstreetmap,
    :homepage "http://www.museedufortsaintjean.ca/",
-   :locality "Saint-Jean-sur-Richelieu"}
+   :location "Saint-Jean-sur-Richelieu"}
   {:name "Musée du Haut-Richelieu",
    :longitude -73.2541754,
    :latitude 45.3053261,
@@ -6740,7 +6740,7 @@
    :longitude -71.5982996,
    :latitude 45.3646161,
    :source :openstreetmap,
-   :locality "Cookshire-Eaton"}
+   :location "Cookshire-Eaton"}
   {:name "Musée et Centre de découverte Le Chafaud",
    :longitude -64.2125138,
    :latitude 48.5220406,
@@ -6750,13 +6750,13 @@
    :latitude 46.371708,
    :source :openstreetmap,
    :homepage "https://www.garevalleejonction.ca/",
-   :locality "Vallée-Jonction"}
+   :location "Vallée-Jonction"}
   {:name "Musée Gilles Villeneuve",
    :longitude -73.1910364,
    :latitude 46.0868094,
    :source :openstreetmap,
    :homepage "https://museegillesvilleneuve.com/",
-   :locality "Berthierville"}
+   :location "Berthierville"}
   {:name "Musée historique du Madawaska",
    :longitude -68.3151685,
    :latitude 47.3731638,
@@ -6767,7 +6767,7 @@
    :latitude 45.4610575,
    :source :openstreetmap,
    :homepage "https://www.hudsonhistoricalsociety.ca/",
-   :locality "Hudson"}
+   :location "Hudson"}
   {:name "Musée Huron-Wendat",
    :longitude -71.3579901,
    :latitude 46.8570067,
@@ -6784,18 +6784,18 @@
    :latitude 46.0372657,
    :source :openstreetmap,
    :homepage "https://museelaurier.com/",
-   :locality "Victoriaville"}
+   :location "Victoriaville"}
   {:name "Musée Louis Hémon",
    :longitude -72.047964,
    :latitude 48.7655454,
    :source :openstreetmap,
-   :locality "Péribonka"}
+   :location "Péribonka"}
   {:name "Musée Maritime de Charlevoix",
    :longitude -70.3634068,
    :latitude 47.4565599,
    :source :openstreetmap,
    :homepage "https://www.museemaritime.com/",
-   :locality "Les Éboulements"}
+   :location "Les Éboulements"}
   {:name "Musée maritime du Québec - Capitaine J.E. Bernier",
    :longitude -70.3713165,
    :latitude 47.1286509,
@@ -6818,7 +6818,7 @@
    :latitude 45.1211184,
    :source :openstreetmap,
    :homepage "https://museemissisquoi.ca",
-   :locality "Stanbridge East"}
+   :location "Stanbridge East"}
   {:name "Musée Morinville Museum",
    :longitude -113.6475439,
    :latitude 53.8026579,
@@ -6828,7 +6828,7 @@
    :longitude -72.483526,
    :latitude 45.882379,
    :source :openstreetmap,
-   :locality "Drummondville"}
+   :location "Drummondville"}
   {:name "Musée Naval de Québec",
    :longitude -71.2009166,
    :latitude 46.8184694,
@@ -6843,7 +6843,7 @@
    :latitude 45.5719117,
    :source :openstreetmap,
    :homepage "https://www.museepourenfants.com/",
-   :locality "Laval"}
+   :location "Laval"}
   {:name "Musée québécois de l’agriculture et de l’alimentation",
    :longitude -70.042576,
    :latitude 47.3670405,
@@ -6854,7 +6854,7 @@
    :latitude 45.5649908,
    :source :openstreetmap,
    :homepage "http://www.museearg.com/",
-   :locality "Saint-André-d'Argenteuil"}
+   :location "Saint-André-d'Argenteuil"}
   {:name "Musée régional de Kamouraska",
    :longitude -69.8682413,
    :latitude 47.5660048,
@@ -6865,19 +6865,19 @@
    :latitude 50.2138511,
    :source :openstreetmap,
    :homepage "https://museeregionalcotenord.ca/",
-   :locality "Sept-Îles"}
+   :location "Sept-Îles"}
   {:name "Musée régional de RImouski",
    :longitude -68.5291485,
    :latitude 48.4504505,
    :source :openstreetmap,
    :homepage "https://museerimouski.qc.ca/",
-   :locality "Rimouski"}
+   :location "Rimouski"}
   {:name "Musée régional de Vaudreuil-Soulanges",
    :longitude -74.0270813,
    :latitude 45.4002041,
    :source :openstreetmap,
    :homepage "https://www.mrvs.qc.ca/",
-   :locality "Vaudreuil-Dorion"}
+   :location "Vaudreuil-Dorion"}
   {:name "Musée St-Laurent",
    :longitude -69.1977711,
    :latitude 48.114657,
@@ -6898,7 +6898,7 @@
    :latitude 45.9416945,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/FondationZenonAlary",
-   :locality "Sainte-Adèle"}
+   :location "Sainte-Adèle"}
   {:name "Métis Cultural Insitute",
    :longitude -111.8892905,
    :latitude 60.0065943,
@@ -6918,13 +6918,13 @@
    :latitude 56.042379,
    :source :openstreetmap,
    :homepage "https://www.nampamuseum.com/",
-   :locality "Nampa"}
+   :location "Nampa"}
   {:name "Nanaimo Museum",
    :longitude -123.93631,
    :latitude 49.1650213,
    :source :openstreetmap,
    :homepage "https://www.nanaimomuseum.ca",
-   :locality "Nanaimo"}
+   :location "Nanaimo"}
   {:name "NAR Railway Station Museum",
    :longitude -120.2271119,
    :latitude 55.7598047,
@@ -6934,7 +6934,7 @@
    :latitude 44.1141539,
    :source :openstreetmap,
    :homepage "https://airforcemuseum.ca/",
-   :locality "Trenton"}
+   :location "Trenton"}
   {:name "National Arts Centre",
    :longitude -75.6932876,
    :latitude 45.4231932,
@@ -6950,7 +6950,7 @@
    :latitude 45.4295235,
    :source :openstreetmap,
    :homepage "https://www.gallery.ca/",
-   :locality "Ottawa"}
+   :location "Ottawa"}
   {:name "National Music Centre",
    :longitude -114.0529054,
    :latitude 51.0445792,
@@ -6961,7 +6961,7 @@
    :latitude 45.4789497,
    :source :openstreetmap,
    :homepage "https://www.nativeimmigrant.com/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Nattilik Herritage Center",
    :longitude -95.8714414,
    :latitude 68.6238617,
@@ -6990,14 +6990,14 @@
    :latitude 44.0076169,
    :source :openstreetmap,
    :homepage "https://navalmarinearchive.com/",
-   :locality "Picton"}
+   :location "Picton"}
   {:name "Naval Museum of Halifax",
    :longitude -63.5927716,
    :latitude 44.6595611,
    :source :openstreetmap,
    :homepage
    "https://www.canada.ca/en/services/defence/caf/militaryhistory/militarymuseums/museums/military-museums-directory/naval-museum-halifax.html",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "Necromances Gallery",
    :longitude -79.8639726,
    :latitude 43.2551136,
@@ -7032,19 +7032,19 @@
    :longitude -73.6167126,
    :latitude 45.5421621,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "New Brunswick Internment Camp Museum",
    :longitude -66.0621503,
    :latitude 46.0715178,
    :source :openstreetmap,
    :homepage "https://www.nbinternmentcampmuseum.ca/",
-   :locality "Minto"}
+   :location "Minto"}
   {:name "New Brunswick Museum",
    :longitude -66.082244,
    :latitude 45.268966,
    :source :openstreetmap,
    :homepage "https://www.nbm-mnb.ca/",
-   :locality "Saint John"}
+   :location "Saint John"}
   {:name "New Brunswick Railway Museum",
    :longitude -64.6448908,
    :latitude 45.9231827,
@@ -7076,7 +7076,7 @@
    :latitude 43.1600975,
    :source :openstreetmap,
    :homepage "https://nac.org/",
-   :locality "St. Catharines"}
+   :location "St. Catharines"}
   {:name "Niagara Falls Armoury;Niagara Falls Museum",
    :longitude -79.0737514,
    :latitude 43.1011364,
@@ -7087,31 +7087,31 @@
    :latitude 43.0893437,
    :source :openstreetmap,
    :homepage "https://niagarafallsmuseums.ca/",
-   :locality "Niagara Falls"}
+   :location "Niagara Falls"}
   {:name "Niagara Falls Jade Museum",
    :longitude -79.071174,
    :latitude 43.1043991,
    :source :openstreetmap,
-   :locality "Niagara Falls"}
+   :location "Niagara Falls"}
   {:name "Niagara Historical Museum",
    :longitude -79.0716362,
    :latitude 43.2521764,
    :source :openstreetmap,
    :homepage "http://www.niagarahistorical.museum/",
-   :locality "Niagara-on-the-Lake"}
+   :location "Niagara-on-the-Lake"}
   {:name "Niagara Parks Power Station",
    :longitude -79.0788203,
    :latitude 43.0745103,
    :source :openstreetmap,
    :homepage
    "https://www.niagaraparks.com/visit/attractions/niagara-parks-power-station",
-   :locality "Niagara Falls"}
+   :location "Niagara Falls"}
   {:name "Niagara Railway Museum",
    :longitude -78.9238586,
    :latitude 42.9266783,
    :source :openstreetmap,
    :homepage "https://www.nfrm.ca/",
-   :locality "Fort Erie"}
+   :location "Fort Erie"}
   {:name "Nicola Valley Art Centre",
    :longitude -120.7887885,
    :latitude 50.1116394,
@@ -7126,7 +7126,7 @@
    :latitude 50.1071749,
    :source :openstreetmap,
    :homepage "https://nicolavalleymuseum.org/",
-   :locality "Merritt"}
+   :location "Merritt"}
   {:name "Nikkei National Museum & Cultural Centre",
    :longitude -122.9644095,
    :latitude 49.2176057,
@@ -7148,19 +7148,19 @@
    :source :openstreetmap,
    :homepage
    "https://nipissingtownship.com/services/museum-services-and-information/",
-   :locality "Nipissing"}
+   :location "Nipissing"}
   {:name "Nisg̱aʼa Museum",
    :longitude -129.5909412,
    :latitude 55.0302161,
    :source :openstreetmap,
    :homepage "http://nisgaamuseum.ca/",
-   :locality "Lax̱g̱altsʼap"}
+   :location "Lax̱g̱altsʼap"}
   {:name "No. 6 RCAF Dunnville Museum",
    :longitude -79.5888938,
    :latitude 42.8754844,
    :source :openstreetmap,
    :homepage "http://www.rcafmuseum.org",
-   :locality "Dunnville"}
+   :location "Dunnville"}
   {:name "Norberg Hall",
    :longitude -114.0581308,
    :latitude 51.0212572,
@@ -7182,7 +7182,7 @@
    :latitude 48.9525379,
    :source :openstreetmap,
    :homepage "https://www.northatlanticaviationmuseum.com/",
-   :locality "Gander"}
+   :location "Gander"}
   {:name "North Battleford Sports Hall of Fame & Museum",
    :longitude -108.296983,
    :latitude 52.7777808,
@@ -7200,13 +7200,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.delta.ca/community-culture/arts-culture/north-delta-centre-arts",
-   :locality "Delta"}
+   :location "Delta"}
   {:name "North End Gallery",
    :longitude -135.0510978,
    :latitude 60.7206425,
    :source :openstreetmap,
    :homepage "https://yukonart.ca/",
-   :locality "Whitehorse"}
+   :location "Whitehorse"}
   {:name "North Grenville Historical Society",
    :longitude -75.6447547,
    :latitude 45.0153335,
@@ -7228,7 +7228,7 @@
    :latitude 44.743208,
    :source :openstreetmap,
    :homepage "https://northhills.novascotia.ca",
-   :locality "Granville Ferry"}
+   :location "Granville Ferry"}
   {:name "North Mount Pleasant Arts Centre",
    :longitude -114.0726047,
    :latitude 51.0766946,
@@ -7249,23 +7249,23 @@
    :source :openstreetmap,
    :homepage
    "https://spiritofthepeace.ca/our-museums/northern-alberta-historical-railway-museum/",
-   :locality "McLennan"}
+   :location "McLennan"}
   {:name "Northern History Museum",
    :longitude -80.0481931,
    :latitude 48.1484728,
    :source :openstreetmap,
-   :locality "Kirkland Lake"}
+   :location "Kirkland Lake"}
   {:name "Northern Ontario Railroad Museum & Heritage Centre",
    :longitude -80.9242043,
    :latitude 46.7091605,
    :source :openstreetmap,
    :homepage "https://normhc.ca/",
-   :locality "Capreol"}
+   :location "Capreol"}
   {:name "Northern Rockies Museum of Culture & Heritage",
    :longitude -117.5844526,
    :latitude 53.4009162,
    :source :openstreetmap,
-   :locality "Hinton"}
+   :location "Hinton"}
   {:name "Northville Farm Heritage Centre",
    :longitude -64.5882861,
    :latitude 45.1389776,
@@ -7276,7 +7276,7 @@
    :latitude 48.3845799,
    :source :openstreetmap,
    :homepage "http://www.noahc.org/",
-   :locality "Thunder Bay"}
+   :location "Thunder Bay"}
   {:name "Norwegian Heritage House",
    :longitude -126.5526538,
    :latitude 52.3909945,
@@ -7291,7 +7291,7 @@
    :latitude 51.2777667,
    :source :openstreetmap,
    :homepage "https://nosecreekvalleymuseum.com/",
-   :locality "Airdrie"}
+   :location "Airdrie"}
   {:name "Nouveau Gallery",
    :longitude -104.618398,
    :latitude 50.4446142,
@@ -7305,7 +7305,7 @@
    :latitude 63.7434859,
    :source :openstreetmap,
    :homepage "https://www.nunattasunakkutaangit.ca/",
-   :locality "Iqaluit"}
+   :location "Iqaluit"}
   {:name "Nunavut Gallery",
    :longitude -97.1479865,
    :latitude 49.8728914,
@@ -7319,7 +7319,7 @@
    :latitude 50.0185723,
    :source :openstreetmap,
    :homepage "https://www.museumatcapemudge.com/",
-   :locality "Quathiaski Cove"}
+   :location "Quathiaski Cove"}
   {:name "nvrlnd. Boutique",
    :longitude -114.0369811,
    :latitude 51.0347516,
@@ -7330,7 +7330,7 @@
    :latitude 50.3646284,
    :source :openstreetmap,
    :homepage "https://okeeferanch.ca/",
-   :locality "Spallumcheen"}
+   :location "Spallumcheen"}
   {:name "O'Reilly House Museum",
    :longitude -53.9599561,
    :latitude 47.2462585,
@@ -7347,18 +7347,18 @@
    :latitude 43.4445437,
    :source :openstreetmap,
    :homepage "https://www.oakvillecentre.ca/",
-   :locality "Oakville"}
+   :location "Oakville"}
   {:name "Oakville Galleries in Gairloch Gardens",
    :longitude -79.6468127,
    :latitude 43.4607743,
    :source :openstreetmap,
-   :locality "Oakville"}
+   :location "Oakville"}
   {:name "Oakville Museum",
    :longitude -79.6667173,
    :latitude 43.4419256,
    :source :openstreetmap,
    :homepage "https://www.oakville.ca/museum/",
-   :locality "Oakville"}
+   :location "Oakville"}
   {:name
    "Oceanside Art Studio - Art Classes for Kids & Adults | Art Kits",
    :longitude -124.4446133,
@@ -7370,13 +7370,13 @@
    :latitude 44.0155032,
    :source :openstreetmap,
    :homepage "https://oenogallery.com",
-   :locality "Bloomfield"}
+   :location "Bloomfield"}
   {:name "Oil Museum of Canada",
    :longitude -82.1209474,
    :latitude 42.7733396,
    :source :openstreetmap,
    :homepage "https://www.lambtononline.ca/oil_museum",
-   :locality "Oil Springs"}
+   :location "Oil Springs"}
   {:name "Oil Sands Discovery Centre",
    :longitude -111.3460801,
    :latitude 56.6711032,
@@ -7386,7 +7386,7 @@
    :longitude -82.1619891,
    :latitude 45.826825,
    :source :openstreetmap,
-   :locality "M'Chigeeng"}
+   :location "M'Chigeeng"}
   {:name "Okanagan Heritage Museum",
    :longitude -119.4944065,
    :latitude 49.887688,
@@ -7408,7 +7408,7 @@
    :latitude 50.7239289,
    :source :openstreetmap,
    :homepage "https://www.okotoks.ca/culture-heritage/art-gallery",
-   :locality "Okotoks"}
+   :location "Okotoks"}
   {:name "Old Court House",
    :longitude -61.500625,
    :latitude 45.390614,
@@ -7418,7 +7418,7 @@
    :longitude -79.3542165,
    :latitude 43.665933,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Old Fire Hall",
    :longitude -79.2469791,
    :latitude 42.9915737,
@@ -7439,13 +7439,13 @@
    :latitude 44.3596183,
    :source :openstreetmap,
    :homepage "http://www.oldegaolmuseum.ca/",
-   :locality "Lindsay"}
+   :location "Lindsay"}
   {:name "Oliver & District Heritage Society Museum",
    :longitude -119.5514599,
    :latitude 49.1831051,
    :source :openstreetmap,
    :homepage "https://www.oliverheritage.ca/",
-   :locality "Oliver"}
+   :location "Oliver"}
   {:name "Oliver Paipoonge Heritage Park",
    :longitude -89.4144328,
    :latitude 48.3080095,
@@ -7460,7 +7460,7 @@
    :latitude 43.6496857,
    :source :openstreetmap,
    :homepage "https://www.ocadu.ca/onsite.htm",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Ontario Regiment Museum",
    :longitude -78.8954348,
    :latitude 43.916781,
@@ -7476,7 +7476,7 @@
    :latitude 49.281491,
    :source :openstreetmap,
    :homepage "https://thepostat750.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Orangedale Railway Museum",
    :longitude -61.0931591,
    :latitude 45.9004822,
@@ -7487,12 +7487,12 @@
    :longitude -79.4023637,
    :latitude 43.6557953,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Organic Conceptions",
    :longitude -76.0173276,
    :latitude 44.8996722,
    :source :openstreetmap,
-   :locality "Smiths Falls"}
+   :location "Smiths Falls"}
   {:name "Orillia Art Musuem",
    :longitude -79.4169306,
    :latitude 44.6084887,
@@ -7503,7 +7503,7 @@
    :latitude 44.6787663,
    :source :openstreetmap,
    :homepage "https://verityblue.ca",
-   :locality "Coldwater"}
+   :location "Coldwater"}
   {:name "Orwell Corner Historic Village",
    :longitude -62.8349499,
    :latitude 46.1563421,
@@ -7554,7 +7554,7 @@
    :latitude 45.8991751,
    :source :openstreetmap,
    :homepage "https://www.mta.ca/owens/index.php",
-   :locality "Sackville"}
+   :location "Sackville"}
   {:name "Oxford Riverside Gallery",
    :longitude -63.8674971,
    :latitude 45.7364735,
@@ -7576,7 +7576,7 @@
    :longitude -110.6717091,
    :latitude 50.0404503,
    :source :openstreetmap,
-   :locality "Medicine Hat"}
+   :location "Medicine Hat"}
   {:name "Paparella Innovative Arts Centre",
    :longitude -79.8593867,
    :latitude 43.2537766,
@@ -7605,7 +7605,7 @@
    :latitude 43.9040655,
    :source :openstreetmap,
    :homepage "https://www.parkwoodestate.com/",
-   :locality "Oshawa"}
+   :location "Oshawa"}
   {:name "Pavilion Gallery Museum",
    :longitude -97.2302896,
    :latitude 49.8721363,
@@ -7617,12 +7617,12 @@
    :latitude 46.232253,
    :source :openstreetmap,
    :homepage "https://www.museedescultures.com/",
-   :locality "Nicolet"}
+   :location "Nicolet"}
   {:name "Pavillon Mance",
    :longitude -68.147356,
    :latitude 49.2180582,
    :source :openstreetmap,
-   :locality "Baie-Comeau"}
+   :location "Baie-Comeau"}
   {:name "Pavillon Pierre-Lassonde",
    :longitude -71.2253618,
    :latitude 46.800875,
@@ -7636,14 +7636,14 @@
    :longitude -120.8479233,
    :latitude 56.2462644,
    :source :openstreetmap,
-   :locality "Fort St. John"}
+   :location "Fort St. John"}
   {:name "Peace Park Pavillion",
    :longitude -63.5677556,
    :latitude 44.6628739,
    :source :openstreetmap,
    :homepage
    "http://robertparkerassociates.com/projects/world-peace-pavilion/",
-   :locality "Dartmouth"}
+   :location "Dartmouth"}
   {:name "peach gallery",
    :longitude -79.419365,
    :latitude 43.6552891,
@@ -7653,7 +7653,7 @@
    :latitude 49.7719861,
    :source :openstreetmap,
    :homepage "https://peachlandhistory.ca/",
-   :locality "Peachland"}
+   :location "Peachland"}
   {:name "Pearl Ellis Gallery",
    :longitude -124.92443,
    :latitude 49.6726489,
@@ -7664,7 +7664,7 @@
    :latitude 43.6848908,
    :source :openstreetmap,
    :homepage "http://www.pama.peelregion.ca/en/index.asp",
-   :locality "Brampton"}
+   :location "Brampton"}
   {:name "PEI Shellfish Museum",
    :longitude -63.9159269,
    :latitude 46.6166034,
@@ -7674,7 +7674,7 @@
    :latitude 41.762923,
    :source :openstreetmap,
    :homepage "https://peleeislandmuseum.ca/",
-   :locality "Pelee Island"}
+   :location "Pelee Island"}
   {:name "Pemberton Memorial Operating Room",
    :longitude -123.3278753,
    :latitude 48.4328238,
@@ -7690,7 +7690,7 @@
    :latitude 48.7941667,
    :source :openstreetmap,
    :homepage "http://penderislandsmuseum.ca/",
-   :locality "Pender Island"}
+   :location "Pender Island"}
   {:name "Penticton Museum",
    :longitude -119.5892079,
    :latitude 49.4909144,
@@ -7702,7 +7702,7 @@
    :latitude 44.9010577,
    :source :openstreetmap,
    :homepage "https://www.perth.ca/en/visit/perth-museum.aspx",
-   :locality "Perth"}
+   :location "Perth"}
   {:name "Petawawa Heritage Village",
    :longitude -77.2543183,
    :latitude 45.8940103,
@@ -7726,7 +7726,7 @@
    :longitude -52.7091917,
    :latitude 47.4648646,
    :source :openstreetmap,
-   :locality "Petty Harbour-Maddox Cove"}
+   :location "Petty Harbour-Maddox Cove"}
   {:name "Phare de La Martre",
    :longitude -66.1709285,
    :latitude 49.2061506,
@@ -7737,7 +7737,7 @@
    :latitude 55.1692168,
    :source :openstreetmap,
    :homepage "https://dinomuseum.ca/",
-   :locality "Wembley"}
+   :location "Wembley"}
   {:name "Pickering Museum Village",
    :longitude -79.0719528,
    :latitude 43.9257132,
@@ -7748,13 +7748,13 @@
    :latitude 53.5127505,
    :source :openstreetmap,
    :homepage "https://www.picturethisgallery.com/",
-   :locality "Sherwood Park"}
+   :location "Sherwood Park"}
   {:name "Pier 21",
    :longitude -63.5651817,
    :latitude 44.6386089,
    :source :openstreetmap,
    :homepage "https://pier21.ca/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "Piercey House",
    :longitude -55.7508177,
    :latitude 47.9152242,
@@ -7765,7 +7765,7 @@
    :longitude -99.966624,
    :latitude 50.6589725,
    :source :openstreetmap,
-   :locality "Wasagaming"}
+   :location "Wasagaming"}
   {:name "Pinhey's Point",
    :longitude -75.9526458,
    :latitude 45.4404077,
@@ -7839,7 +7839,7 @@
    :latitude 45.5111516,
    :source :openstreetmap,
    :homepage "http://www.wilno.org/museum.html",
-   :locality "Wilno"}
+   :location "Wilno"}
   {:name "PoMo Arts Centre (Old City Hall)",
    :longitude -122.8571631,
    :latitude 49.2763573,
@@ -7850,13 +7850,13 @@
    :latitude 49.2792847,
    :source :openstreetmap,
    :homepage "https://portmoodymuseum.org/",
-   :locality "Port Moody"}
+   :location "Port Moody"}
   {:name "Pontiac Artists' Association",
    :longitude -76.6648647,
    :latitude 45.5909702,
    :source :openstreetmap,
    :homepage "https://artpontiac.com/",
-   :locality "Portage-du-Fort"}
+   :location "Portage-du-Fort"}
   {:name "Pontiac Museum",
    :longitude -76.4875128,
    :latitude 45.6039017,
@@ -7882,13 +7882,13 @@
    :source :openstreetmap,
    :homepage
    "https://portclements.ca/visitor-information/local-attractions/port-clements-museum/",
-   :locality "Port Clements"}
+   :location "Port Clements"}
   {:name "Port Colborne Historical and Marine Museum",
    :longitude -79.2516375,
    :latitude 42.8874657,
    :source :openstreetmap,
    :homepage "https://www.portcolborne.ca/page/museum",
-   :locality "Port Colborne"}
+   :location "Port Colborne"}
   {:name "Port Dover Harbour Museum",
    :longitude -80.1988747,
    :latitude 42.7848379,
@@ -7924,7 +7924,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.bchydro.com/community/recreation_areas/visitor-centres/stave-falls-visitor-centre.html",
-   :locality "Mission"}
+   :location "Mission"}
   {:name "Prairie West Historical Society",
    :longitude -108.7487177,
    :latitude 51.1454847,
@@ -7936,13 +7936,13 @@
    :latitude 45.1105743,
    :source :openstreetmap,
    :homepage "https://prescotthouse.novascotia.ca/",
-   :locality "Port Williams"}
+   :location "Port Williams"}
   {:name "Prescott Railway Station",
    :longitude -75.5246971,
    :latitude 44.711057,
    :source :openstreetmap,
    :homepage "https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=498",
-   :locality "Prescott"}
+   :location "Prescott"}
   {:name "Prime Berth Museum",
    :longitude -54.7008799,
    :latitude 49.5988737,
@@ -7954,7 +7954,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.edmonton.ca/attractions_events/prince-of-wales-armouries",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Prince of Wales Northern Heritage Centre",
    :longitude -114.379799,
    :latitude 62.456278,
@@ -7975,7 +7975,7 @@
    :latitude 49.4584516,
    :source :openstreetmap,
    :homepage "https://princetonmuseum.org/",
-   :locality "Princeton"}
+   :location "Princeton"}
   {:name "Proctor House Museum",
    :longitude -77.7401343,
    :latitude 44.0477748,
@@ -7986,13 +7986,13 @@
    :latitude 49.2737079,
    :source :openstreetmap,
    :homepage "https://c-space.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Prosperity Place",
    :longitude -83.0758791,
    :latitude 42.3025948,
    :source :openstreetmap,
    :homepage "https://portwindsor.com/",
-   :locality "Windsor"}
+   :location "Windsor"}
   {:name "Protection Island Museum",
    :longitude -123.9179013,
    :latitude 49.1707965,
@@ -8007,7 +8007,7 @@
    :latitude 44.2241352,
    :source :openstreetmap,
    :homepage "https://www.kingstonpumphouse.ca/",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Pôle culturel de Chambly",
    :longitude -73.2831455,
    :latitude 45.4449479,
@@ -8022,7 +8022,7 @@
    :latitude 45.3530835,
    :source :openstreetmap,
    :homepage "https://quaco.ca",
-   :locality "Saint Martins"}
+   :location "Saint Martins"}
   {:name "Quaker Hill",
    :longitude -79.145082,
    :latitude 44.1073577,
@@ -8081,7 +8081,7 @@
    :latitude 45.0465128,
    :source :openstreetmap,
    :homepage "https://railsendgallery.com/",
-   :locality "Haliburton"}
+   :location "Haliburton"}
   {:name "Railway & Chinese Worker Exhibit",
    :longitude -121.4508374,
    :latitude 49.7807159,
@@ -8091,7 +8091,7 @@
    :latitude 53.9216773,
    :source :openstreetmap,
    :homepage "https://www.pgrfm.bc.ca/",
-   :locality "Prince George"}
+   :location "Prince George"}
   {:name "Railway Museum of British Columbia",
    :longitude -123.1600304,
    :latitude 49.728815,
@@ -8115,7 +8115,7 @@
    :latitude 49.3056945,
    :source :openstreetmap,
    :homepage "http://kentharrisonartscouncil.com/",
-   :locality "Harrison Hot Springs"}
+   :location "Harrison Hot Springs"}
   {:name "RARE BOOK & PRINT GALLERY",
    :longitude -80.5641135,
    :latitude 43.5815711,
@@ -8130,7 +8130,7 @@
    :latitude 49.4616292,
    :source :openstreetmap,
    :homepage "https://raymondhistory.ca/",
-   :locality "Raymond"}
+   :location "Raymond"}
   {:name "Raymore Museum",
    :longitude -104.52722,
    :latitude 51.4078129,
@@ -8143,7 +8143,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sudburymuseums.ca/index.cfm?app=w_vmuseum&lang=en&currID=1375&parID=1371",
-   :locality "Azilda"}
+   :location "Azilda"}
   {:name "RBG Centre",
    :longitude -79.8752616,
    :latitude 43.2903841,
@@ -8177,7 +8177,7 @@
    :latitude 44.6379913,
    :source :openstreetmap,
    :homepage "https://archives.novascotia.ca/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "Red Art Gallery",
    :longitude -123.3956542,
    :latitude 48.6491839,
@@ -8193,7 +8193,7 @@
    :latitude 53.5872722,
    :source :openstreetmap,
    :homepage "https://www.redbrickartscentre.com/",
-   :locality "Edson"}
+   :location "Edson"}
   {:name "Red Deer Museum and Art Gallery",
    :longitude -113.8055352,
    :latitude 52.2646295,
@@ -8229,19 +8229,19 @@
    :longitude -104.6193005,
    :latitude 50.462429,
    :source :openstreetmap,
-   :locality "Regina"}
+   :location "Regina"}
   {:name "Remai Modern",
    :longitude -106.6675474,
    :latitude 52.123101,
    :source :openstreetmap,
    :homepage "https://remaimodern.org/",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "Remington Carriage Museum",
    :longitude -113.3056918,
    :latitude 49.1935773,
    :source :openstreetmap,
    :homepage "https://remingtoncarriagemuseum.ca/",
-   :locality "Cardston"}
+   :location "Cardston"}
   {:name "Rencontre East Military Museum",
    :longitude -55.2117486,
    :latitude 47.6368867,
@@ -8257,14 +8257,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.dalhousie.ca/portfolio-item/restigouche-regional-museum/",
-   :locality "Dalhousie"}
+   :location "Dalhousie"}
   {:name "Resurgo Place (Moncton Museum)",
    :longitude -64.7747567,
    :latitude 46.0940351,
    :source :openstreetmap,
    :homepage
    "https://www.moncton.ca/Residents/Recreation_Parks_and_Culture/Museums_and_Heritage/Moncton_Museum.htm",
-   :locality "Moncton"}
+   :location "Moncton"}
   {:name "Revelstoke Museum",
    :longitude -118.1980673,
    :latitude 51.0002104,
@@ -8285,14 +8285,14 @@
    :latitude 49.1641539,
    :source :openstreetmap,
    :homepage "https://www.richmondartgallery.org/",
-   :locality "Richmond"}
+   :location "Richmond"}
   {:name "Richmond Hill Heritage Centre",
    :longitude -79.4367813,
    :latitude 43.8768338,
    :source :openstreetmap,
    :homepage
    "http://www.town.richmond-hill.on.ca/subpage.asp?pageid=parks_the_richmond_hill_heritage_centre",
-   :locality "Richmond Hill"}
+   :location "Richmond Hill"}
   {:name "Richmond Olympic Experience",
    :longitude -123.1513329,
    :latitude 49.1744083,
@@ -8307,7 +8307,7 @@
    :latitude 49.819326,
    :source :openstreetmap,
    :homepage "https://parks.canada.ca/lhn-nhs/mb/riel",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Riverbrink Art Museum",
    :longitude -79.0570258,
    :latitude 43.1703144,
@@ -8317,7 +8317,7 @@
    :latitude 43.1617263,
    :source :openstreetmap,
    :homepage "http://riverbrink.org/",
-   :locality "Queenston"}
+   :location "Queenston"}
   {:name "RNWMP POST MUSEUM",
    :longitude -101.8934574,
    :latitude 54.7540369,
@@ -8329,7 +8329,7 @@
    :latitude 52.4972145,
    :source :openstreetmap,
    :homepage "https://www.roadhousearts.ca/",
-   :locality "Clearwater County"}
+   :location "Clearwater County"}
   {:name "Robbins Range Heritage School",
    :longitude -120.3603698,
    :latitude 50.6564698,
@@ -8339,12 +8339,12 @@
    :latitude 43.6728822,
    :source :openstreetmap,
    :homepage "https://mede-gallery.com",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Robinson-Adamson House",
    :longitude -79.6633956,
    :latitude 43.5402944,
    :source :openstreetmap,
-   :locality "Mississauga"}
+   :location "Mississauga"}
   {:name "Rocanville & District Museum",
    :longitude -101.7041311,
    :latitude 50.3858318,
@@ -8380,23 +8380,23 @@
    :latitude 52.3820794,
    :source :openstreetmap,
    :homepage "https://www.rockymuseum.com/",
-   :locality "Rocky Mountain House"}
+   :location "Rocky Mountain House"}
   {:name "Rodman Hall Art Centre",
    :longitude -79.246004,
    :latitude 43.1499451,
    :source :openstreetmap,
-   :locality "St. Catharines"}
+   :location "St. Catharines"}
   {:name "Roedde House Museum",
    :longitude -123.1321516,
    :latitude 49.2869083,
    :source :openstreetmap,
    :homepage "https://www.roeddehouse.org/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Rogersville Music Inc.",
    :longitude -65.3707145,
    :latitude 46.7506792,
    :source :openstreetmap,
-   :locality "Rogersville"}
+   :location "Rogersville"}
   {:name "Rollin Art Centre",
    :longitude -124.8002453,
    :latitude 49.234076,
@@ -8405,19 +8405,19 @@
    :longitude -97.6223042,
    :latitude 51.0842506,
    :source :openstreetmap,
-   :locality "Fisher Branch"}
+   :location "Fisher Branch"}
   {:name "Ron Morel Memorial Museum",
    :longitude -82.4239439,
    :latitude 49.412489,
    :source :openstreetmap,
    :homepage "https://mci390.wixsite.com/ron-morel-museum",
-   :locality "Kapuskasing"}
+   :location "Kapuskasing"}
   {:name "Ross Creek Centre for the Arts",
    :longitude -64.4379017,
    :latitude 45.2216627,
    :source :openstreetmap,
    :homepage "https://artscentre.ca/",
-   :locality "Ross Creek"}
+   :location "Ross Creek"}
   {:name "Ross Farm Museum",
    :longitude -64.4558776,
    :latitude 44.7270703,
@@ -8434,7 +8434,7 @@
    :source :openstreetmap,
    :homepage
    "https://tourismnewbrunswick.ca/listing/ross-memorial-museum",
-   :locality "Saint Andrews"}
+   :location "Saint Andrews"}
   {:name "Ross Museum",
    :longitude -76.7814698,
    :latitude 45.6767895,
@@ -8455,13 +8455,13 @@
    :latitude 49.8913095,
    :source :openstreetmap,
    :homepage "https://rotarycentreforthearts.com/",
-   :locality "Kelowna"}
+   :location "Kelowna"}
   {:name "Rotter Gallery",
    :longitude -78.2724275,
    :latitude 44.4230963,
    :source :openstreetmap,
    :homepage "https://www.divinecraft.ca/",
-   :locality "Lakefield"}
+   :location "Lakefield"}
   {:name "Royal Aviation Museum of Western Canada",
    :longitude -97.2243974,
    :latitude 49.9013092,
@@ -8481,13 +8481,13 @@
    :latitude 50.4398204,
    :source :openstreetmap,
    :homepage "https://royalsaskmuseum.ca/",
-   :locality "Regina"}
+   :location "Regina"}
   {:name "Royal Tyrrell Museum",
    :longitude -112.7901379,
    :latitude 51.479287,
    :source :openstreetmap,
    :homepage "http://www.tyrrellmuseum.com/",
-   :locality "Drumheller"}
+   :location "Drumheller"}
   {:name "Ruby Creek Art Gallery",
    :longitude -121.6062465,
    :latitude 49.3568088,
@@ -8508,13 +8508,13 @@
    :source :openstreetmap,
    :homepage
    "https://parks.canada.ca/lhn-nhs/yt/klondike/activ/sskeno",
-   :locality "Dawson City"}
+   :location "Dawson City"}
   {:name "S.S. Moyie National Historic Site",
    :longitude -116.9021815,
    :latitude 49.9116414,
    :source :openstreetmap,
    :homepage "https://www.klhs.bc.ca/",
-   :locality "Kaslo"}
+   :location "Kaslo"}
   {:name "Sage Tattoo & Art Gallery",
    :longitude -75.7748924,
    :latitude 45.3679884,
@@ -8524,7 +8524,7 @@
    :latitude 49.8878041,
    :source :openstreetmap,
    :homepage "https://msbm.mb.ca/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Saint Brigid's Centre for the Arts",
    :longitude -75.6906536,
    :latitude 45.4313826,
@@ -8535,13 +8535,13 @@
    :latitude 45.2753287,
    :source :openstreetmap,
    :homepage "https://www.saintjohnartscentre.com/",
-   :locality "Saint John"}
+   :location "Saint John"}
   {:name "Saint John Jewish Historical Museum",
    :longitude -66.0536774,
    :latitude 45.2736972,
    :source :openstreetmap,
    :homepage "http://jewishmuseumsj.com/",
-   :locality "Saint John"}
+   :location "Saint John"}
   {:name "Saint Vital Historial Society and Museum",
    :longitude -97.1116168,
    :latitude 49.8634241,
@@ -8561,7 +8561,7 @@
    :latitude 49.1649589,
    :source :openstreetmap,
    :homepage "https://www.mandolinehybride.com/salon58/",
-   :locality "Marsoui"}
+   :location "Marsoui"}
   {:name "Salvage Fisherman's Museum",
    :longitude -53.6537915,
    :latitude 48.6889467,
@@ -8606,7 +8606,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/scarborough-museum/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "School Days Museum",
    :longitude -66.6419017,
    :latitude 45.963283,
@@ -8625,19 +8625,19 @@
    :latitude 45.9584368,
    :source :openstreetmap,
    :homepage "https://scienceeast.nb.ca/",
-   :locality "Fredericton"}
+   :location "Fredericton"}
   {:name "Science North",
    :longitude -80.9958266,
    :latitude 46.4713508,
    :source :openstreetmap,
    :homepage "https://sciencenorth.ca",
-   :locality "Sudbury"}
+   :location "Sudbury"}
   {:name "Science World",
    :longitude -123.1036623,
    :latitude 49.2734536,
    :source :openstreetmap,
    :homepage "https://scienceworld.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Scierire Heritage Sawmill",
    :longitude -83.6645379,
    :latitude 49.6899225,
@@ -8648,7 +8648,7 @@
    :latitude 44.7292816,
    :source :openstreetmap,
    :homepage "https://scottmanor.ca/",
-   :locality "Bedford"}
+   :location "Bedford"}
   {:name "Screaming Heads",
    :longitude -79.5093571,
    :latitude 45.5910208,
@@ -8667,18 +8667,18 @@
    :longitude -114.7362185,
    :latitude 53.5599121,
    :source :openstreetmap,
-   :locality "Seba Beach"}
+   :location "Seba Beach"}
   {:name "Second Gallery",
    :longitude -63.5986339,
    :latitude 44.6451661,
    :source :openstreetmap,
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "Second Wind Music Centre",
    :longitude -67.5781033,
    :latitude 46.4700381,
    :source :openstreetmap,
    :homepage "https://www.secondwindmusiccentre.ca",
-   :locality "Florenceville-Bristol"}
+   :location "Florenceville-Bristol"}
   {:name "Secrets of Radar Museum",
    :longitude -81.1590359,
    :latitude 43.033612,
@@ -8704,7 +8704,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.sevenoakshouse.ca/seven-oaks-house-museum.html",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "Seymour Art Gallery",
    :longitude -122.9502997,
    :latitude 49.3269483,
@@ -8716,7 +8716,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Shadbolt-Centre-for-the-Arts.html",
-   :locality "Burnaby"}
+   :location "Burnaby"}
   {:name "Shand House Museum",
    :longitude -64.1426677,
    :latitude 44.9915119,
@@ -8731,7 +8731,7 @@
    :latitude 44.1012669,
    :source :openstreetmap,
    :homepage "https://www.sharontemple.ca/",
-   :locality "Sharon"}
+   :location "Sharon"}
   {:name "Shawnigan Lake Museum",
    :longitude -123.6236094,
    :latitude 48.6537964,
@@ -8742,7 +8742,7 @@
    :latitude 44.6279158,
    :source :openstreetmap,
    :homepage "https://www.shearwateraviationmuseum.ca/",
-   :locality "Shearwater"}
+   :location "Shearwater"}
   {:name "Shediac Railway Station",
    :longitude -64.5408431,
    :latitude 46.2203111,
@@ -8754,7 +8754,7 @@
    :latitude 44.5487921,
    :source :openstreetmap,
    :homepage "https://www.sheffieldparkblackhistory.com/",
-   :locality "Clarksburg"}
+   :location "Clarksburg"}
   {:name "Shelburne's Museums by the Sea",
    :longitude -65.3238712,
    :latitude 43.7606178,
@@ -8765,7 +8765,7 @@
    :latitude 45.480656,
    :source :openstreetmap,
    :homepage "https://shenkmanarts.ca/",
-   :locality "Ottawa"}
+   :location "Ottawa"}
   {:name "Sherbrooke Village",
    :longitude -61.9839405,
    :latitude 45.1408073,
@@ -8777,7 +8777,7 @@
    :source :openstreetmap,
    :homepage
    "https://tourismnewbrunswick.ca/listing/shogomoc-railway-site",
-   :locality "Florenceville-Bristol"}
+   :location "Florenceville-Bristol"}
   {:name "Short Studio",
    :longitude -54.1949581,
    :latitude 49.5963608,
@@ -8787,12 +8787,12 @@
    :latitude 49.6322959,
    :source :openstreetmap,
    :homepage "https://www.shurniakartgallery.ca/",
-   :locality "Assiniboia"}
+   :location "Assiniboia"}
   {:name "Sid Dickens Inc",
    :longitude -123.0847357,
    :latitude 49.2706309,
    :source :openstreetmap,
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Sidney Museum and Archives",
    :longitude -123.3993152,
    :latitude 48.6487751,
@@ -8841,7 +8841,7 @@
    :longitude -99.6841087,
    :latitude 49.593449,
    :source :openstreetmap,
-   :locality "Wawanesa"}
+   :location "Wawanesa"}
   {:name "Sir Adam Beck Power Stations",
    :longitude -79.0455302,
    :latitude 43.1473536,
@@ -8856,7 +8856,7 @@
    :latitude 45.3622204,
    :source :openstreetmap,
    :homepage "https://www.maisonlepailleur.ca/",
-   :locality "Châteauguay"}
+   :location "Châteauguay"}
   {:name "Site historique maritime de Pointe-au-Père",
    :longitude -68.4695689,
    :latitude 48.5171344,
@@ -8895,43 +8895,43 @@
    :latitude 44.901719,
    :source :openstreetmap,
    :homepage "https://rmeo.org/",
-   :locality "Smiths Falls"}
+   :location "Smiths Falls"}
   {:name "Société d'histoire de La Prairie-de-la-Magdeleine (SHLM)",
    :longitude -73.4962684,
    :latitude 45.4195238,
    :source :openstreetmap,
    :homepage "https://shlm.info/",
-   :locality "La Prairie"}
+   :location "La Prairie"}
   {:name "Société d'histoire de Matane",
    :longitude -67.5411599,
    :latitude 48.8425354,
    :source :openstreetmap,
    :homepage "https://shgmatane.org/",
-   :locality "Matane"}
+   :location "Matane"}
   {:name "Société d'histoire de Sherbrooke",
    :longitude -71.894887,
    :latitude 45.4054649,
    :source :openstreetmap,
    :homepage "https://mhist.org/",
-   :locality "Sherbrooke"}
+   :location "Sherbrooke"}
   {:name "Société d'Histoire des Mille-Iles",
    :longitude -73.840864,
    :latitude 45.6395817,
    :source :openstreetmap,
    :homepage "https://shgmi.ca/",
-   :locality "Sainte-Thérèse"}
+   :location "Sainte-Thérèse"}
   {:name "Société historique Louis-Joseph-Papineau",
    :longitude -74.9402092,
    :latitude 45.6507419,
    :source :openstreetmap,
    :homepage "https://www.shljp.org",
-   :locality "Montebello"}
+   :location "Montebello"}
   {:name "Sointula Museum",
    :longitude -127.0187936,
    :latitude 50.630214,
    :source :openstreetmap,
    :homepage "https://sointulamuseum.ca/",
-   :locality "Sointula"}
+   :location "Sointula"}
   {:name "Sooke Region Museum",
    :longitude -123.7064095,
    :latitude 48.3842987,
@@ -8954,7 +8954,7 @@
    :longitude -76.6689223,
    :latitude 44.4407328,
    :source :openstreetmap,
-   :locality "Hartington"}
+   :location "Hartington"}
   {:name "South Grey Museum",
    :longitude -80.5520424,
    :latitude 44.2631576,
@@ -8974,7 +8974,7 @@
    :longitude -79.8675765,
    :latitude 44.1542206,
    :source :openstreetmap,
-   :locality "Alliston"}
+   :location "Alliston"}
   {:name "Southampton Art Gallery",
    :longitude -81.3713447,
    :latitude 44.4953285,
@@ -8983,12 +8983,12 @@
    :longitude -112.838614,
    :latitude 49.6961795,
    :source :openstreetmap,
-   :locality "Lethbridge"}
+   :location "Lethbridge"}
   {:name "Southern Victoria Historical Museum",
    :longitude -67.6968398,
    :latitude 46.7507409,
    :source :openstreetmap,
-   :locality "Perth-Andover"}
+   :location "Perth-Andover"}
   {:name "southwestern railway museum",
    :longitude -64.3350154,
    :latitude 44.3783401,
@@ -8998,25 +8998,25 @@
    :latitude 49.2798431,
    :source :openstreetmap,
    :homepage "https://spacetospace.co/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Spadina Museum",
    :longitude -79.408114,
    :latitude 43.678931,
    :source :openstreetmap,
    :homepage
    "https://www.toronto.ca/explore-enjoy/history-art-culture/museums/spadina-museum/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "SPAO",
    :longitude -75.7081875,
    :latitude 45.3996685,
    :source :openstreetmap,
-   :locality "Ottawa"}
+   :location "Ottawa"}
   {:name "Sparrow Artspace",
    :longitude -114.0515272,
    :latitude 51.0522323,
    :source :openstreetmap,
    :homepage "https://www.sparrowartspace.com",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Sparta Church Museum and Cultural Centre",
    :longitude -81.0790315,
    :latitude 42.700913,
@@ -9056,7 +9056,7 @@
    :latitude 50.1187787,
    :source :openstreetmap,
    :homepage "https://www.slcc.ca/",
-   :locality "Whistler"}
+   :location "Whistler"}
   {:name "Squish Studio",
    :longitude -54.0642575,
    :latitude 49.7095865,
@@ -9066,13 +9066,13 @@
    :latitude 44.4659098,
    :source :openstreetmap,
    :homepage "https://www.ssatlantic.com/",
-   :locality "Terence Bay"}
+   :location "Terence Bay"}
   {:name "SS Klondike",
    :longitude -135.0474424,
    :latitude 60.7134825,
    :source :openstreetmap,
    :homepage "https://parks.canada.ca/lhn-nhs/yt/ssklondike",
-   :locality "Whitehorse"}
+   :location "Whitehorse"}
   {:name "SS Sicamous",
    :longitude -119.6110173,
    :latitude 49.5018465,
@@ -9083,7 +9083,7 @@
    :latitude 49.4420493,
    :source :openstreetmap,
    :homepage "https://museestpierrejolys.ca/",
-   :locality "St-Pierre-Jolys"}
+   :location "St-Pierre-Jolys"}
   {:name "St. Andrew's Rectory NHS",
    :longitude -96.978596,
    :latitude 50.066079,
@@ -9105,7 +9105,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.ajax.ca/en/play-and-discover/st-francis-centre.aspx",
-   :locality "Ajax"}
+   :location "Ajax"}
   {:name "St. George-South Dumfries Museum",
    :longitude -80.2526684,
    :latitude 43.2443271,
@@ -9126,7 +9126,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.beaumontheritage.com/index.php/la-maison-historique-st-jacques-heritage-house/",
-   :locality "Beaumont"}
+   :location "Beaumont"}
   {:name "St. Joseph's Church",
    :longitude -120.3360093,
    :latitude 50.6908067,
@@ -9147,13 +9147,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.townofstmarys.com/en/recreation-and-culture/Museum-and-Archives.aspx",
-   :locality "St. Marys"}
+   :location "St. Marys"}
   {:name "St. Norbert Arts Centre",
    :longitude -97.1528287,
    :latitude 49.7577645,
    :source :openstreetmap,
    :homepage "https://www.snac.mb.ca/",
-   :locality "Winnipeg"}
+   :location "Winnipeg"}
   {:name "St. Paul Museum",
    :longitude -111.3089493,
    :latitude 53.990833,
@@ -9163,12 +9163,12 @@
    :longitude -81.1998443,
    :latitude 42.779324,
    :source :openstreetmap,
-   :locality "St. Thomas"}
+   :location "St. Thomas"}
   {:name "Stadium",
    :longitude -80.2415026,
    :latitude 43.5420099,
    :source :openstreetmap,
-   :locality "Guelph"}
+   :location "Guelph"}
   {:name "Stand4art",
    :longitude -79.9200089,
    :latitude 43.2585366,
@@ -9178,7 +9178,7 @@
    :latitude 45.075728,
    :source :openstreetmap,
    :homepage "https://stanhopemuseum.on.ca/",
-   :locality "Algonquin Highlands"}
+   :location "Algonquin Highlands"}
   {:name "Station Gallery",
    :longitude -78.9402691,
    :latitude 43.861519,
@@ -9203,13 +9203,13 @@
    :latitude 44.6481423,
    :source :openstreetmap,
    :homepage "https://steelewheels.ca/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "Steffich Fine Art",
    :longitude -123.4975824,
    :latitude 48.8530961,
    :source :openstreetmap,
    :homepage "https://www.steffichfineart.ca",
-   :locality "Salt Spring Island"}
+   :location "Salt Spring Island"}
   {:name "Stephen Bulger Gallery",
    :longitude -79.4276755,
    :latitude 43.6496801,
@@ -9220,14 +9220,14 @@
    :latitude 44.6080841,
    :source :openstreetmap,
    :homepage "https://leacockmuseum.com/museum/hours-location/",
-   :locality "Orillia"}
+   :location "Orillia"}
   {:name "Stewart Farmhouse",
    :longitude -122.8420246,
    :latitude 49.0650929,
    :source :openstreetmap,
    :homepage
    "https://www.surrey.ca/arts-culture/historic-stewart-farm",
-   :locality "Surrey"}
+   :location "Surrey"}
   {:name "Stewart Hall - Centre culturel de Pointe-Claire",
    :longitude -73.8083502,
    :latitude 45.4343711,
@@ -9237,7 +9237,7 @@
    :latitude 55.9380771,
    :source :openstreetmap,
    :homepage "https://www.stewartbcmuseum.com/",
-   :locality "Stewart"}
+   :location "Stewart"}
   {:name "Stikine museum",
    :longitude -131.1620513,
    :latitude 57.9004632,
@@ -9275,7 +9275,7 @@
    :latitude 43.3841867,
    :source :openstreetmap,
    :homepage "https://www.stratfordperthmuseum.ca/",
-   :locality "Stratford"}
+   :location "Stratford"}
   {:name "Strathclair Museum",
    :longitude -100.394024,
    :latitude 50.402733,
@@ -9285,7 +9285,7 @@
    :latitude 53.5131315,
    :source :openstreetmap,
    :homepage "https://www.strathma.ca/",
-   :locality "Sherwood Park"}
+   :location "Sherwood Park"}
   {:name "Strathmore & Bow Valley Standard Newspaper Office",
    :longitude -114.1078533,
    :latitude 50.9852292,
@@ -9316,12 +9316,12 @@
    :longitude -73.268297,
    :latitude 45.474869,
    :source :openstreetmap,
-   :locality "Saint-Mathias-sur-Richelieu"}
+   :location "Saint-Mathias-sur-Richelieu"}
   {:name "Studios éphémères",
    :longitude -73.5161345,
    :latitude 45.5280598,
    :source :openstreetmap,
-   :locality "Longueuil"}
+   :location "Longueuil"}
   {:name "Su K",
    :longitude -79.315637,
    :latitude 43.6926801,
@@ -9345,7 +9345,7 @@
    :latitude 45.0746266,
    :source :openstreetmap,
    :homepage "https://sunburyshores.org/",
-   :locality "Saint Andrews"}
+   :location "Saint Andrews"}
   {:name
    "Sundre & District Pioneer Village Museum & Historical Society",
    :longitude -114.6411448,
@@ -9361,13 +9361,13 @@
    :latitude 49.4753681,
    :source :openstreetmap,
    :homepage "https://sunshinecoastartscouncil.com/",
-   :locality "Sechelt"}
+   :location "Sechelt"}
   {:name "Sunshine Coast Museum & Archives",
    :longitude -123.5094724,
    :latitude 49.3998611,
    :source :openstreetmap,
    :homepage "https://www.sunshinecoastmuseum.ca/",
-   :locality "Gibsons"}
+   :location "Gibsons"}
   {:name "Surrey Art Gallery",
    :longitude -122.8425278,
    :latitude 49.1624197,
@@ -9402,7 +9402,7 @@
    :latitude 49.5224904,
    :source :openstreetmap,
    :homepage "https://royalsaskmuseum.ca/trex",
-   :locality "Eastend"}
+   :location "Eastend"}
   {:name "Tableau Déco",
    :longitude -72.493328,
    :latitude 45.8809052,
@@ -9411,7 +9411,7 @@
    :longitude -64.7795185,
    :latitude 46.1578995,
    :source :openstreetmap,
-   :locality "Moncton"}
+   :location "Moncton"}
   {:name "Tatamagouche Heritage Centre",
    :longitude -63.28501,
    :latitude 45.7108707,
@@ -9426,7 +9426,7 @@
    :latitude 51.0114336,
    :source :openstreetmap,
    :homepage "https://taylorcentre.ca",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "Taytayski Gallery & Studio",
    :longitude -114.0692398,
    :latitude 50.9994782,
@@ -9452,7 +9452,7 @@
    :latitude 53.5612177,
    :source :openstreetmap,
    :homepage "https://telusworldofscienceedmonton.ca/",
-   :locality "Edmonton"}
+   :location "Edmonton"}
   {:name "Temiskaming Art Gallery",
    :longitude -79.6298107,
    :latitude 47.4457013,
@@ -9474,30 +9474,30 @@
    :latitude 49.7605461,
    :source :openstreetmap,
    :homepage "http://www.texadaheritagesociety.com/",
-   :locality "Van Anda"}
+   :location "Van Anda"}
   {:name "Textile Museum Of Canada",
    :longitude -79.3866913,
    :latitude 43.6544937,
    :source :openstreetmap,
    :homepage "http://www.textilemuseum.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Th'YARC",
    :longitude -66.1100074,
    :latitude 43.8370718,
    :source :openstreetmap,
    :homepage "https://yarcplayhouse.com",
-   :locality "Yarmouth"}
+   :location "Yarmouth"}
   {:name "The ACT Arts Centre",
    :longitude -122.5983904,
    :latitude 49.2191886,
    :source :openstreetmap,
    :homepage "https://theactmapleridge.org",
-   :locality "Maple Ridge"}
+   :location "Maple Ridge"}
   {:name "The Al Green Gallery / Green Family Companies",
    :longitude -79.394213,
    :latitude 43.696699,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "the ALAN BURNS MUSEUM",
    :longitude -97.5310525,
    :latitude 49.7262829,
@@ -9516,7 +9516,7 @@
    :latitude 42.9912432,
    :source :openstreetmap,
    :homepage "https://thebankah.com/",
-   :locality "Welland"}
+   :location "Welland"}
   {:name "The Baumann Centre",
    :longitude -123.3580932,
    :latitude 48.4286399,
@@ -9527,19 +9527,19 @@
    :latitude 49.6228295,
    :source :openstreetmap,
    :homepage "https://www.britanniaminemuseum.ca/",
-   :locality "Britannia Beach"}
+   :location "Britannia Beach"}
   {:name "The Butterfly Gallery",
    :longitude -79.0663558,
    :latitude 43.1065093,
    :source :openstreetmap,
    :homepage "http://www.butterflygallery.ca/",
-   :locality "Niagara Falls"}
+   :location "Niagara Falls"}
   {:name "The Citadel Ross Centre for Dance",
    :longitude -79.3660893,
    :latitude 43.6590356,
    :source :openstreetmap,
    :homepage "https://www.citadelcie.com/the-building/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "The Confluence Historic Site & Parkland",
    :longitude -114.0441865,
    :latitude 51.044821,
@@ -9555,7 +9555,7 @@
    :latitude 49.2769727,
    :source :openstreetmap,
    :homepage "https://thedancecentre.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "The Danforth Art Studio",
    :longitude -79.3547349,
    :latitude 43.6771557,
@@ -9570,18 +9570,18 @@
    :latitude 44.791999,
    :source :openstreetmap,
    :homepage "https://thedeaneryproject.com/",
-   :locality "Lower Ship Harbour"}
+   :location "Lower Ship Harbour"}
   {:name "The Effie Arts Collective",
    :longitude -120.3583613,
    :latitude 50.6906694,
    :source :openstreetmap,
    :homepage "https://effieartsco.ca/",
-   :locality "Kamloops"}
+   :location "Kamloops"}
   {:name "The Evel Knievel Daredevil Museum",
    :longitude -79.0729838,
    :latitude 43.1074612,
    :source :openstreetmap,
-   :locality "Niagara Falls"}
+   :location "Niagara Falls"}
   {:name "The Exploration Place",
    :longitude -122.7355138,
    :latitude 53.9053133,
@@ -9597,7 +9597,7 @@
    :latitude 47.9971849,
    :source :openstreetmap,
    :homepage "https://the-gallery-art-by-spike-mills.business.site/",
-   :locality "Wawa"}
+   :location "Wawa"}
   {:name "The Gallery",
    :longitude -80.4991912,
    :latitude 43.4451793,
@@ -9629,18 +9629,18 @@
    :latitude 48.8672742,
    :source :openstreetmap,
    :homepage "https://theglassfoundry.com/",
-   :locality "Salt Spring Island"}
+   :location "Salt Spring Island"}
   {:name "The Ground Floor: Jumblies Theatre",
    :longitude -79.3987471,
    :latitude 43.6394179,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "The Hangar Flight Museum",
    :longitude -114.0137645,
    :latitude 51.0939142,
    :source :openstreetmap,
    :homepage "https://www.thehangarmuseum.ca/",
-   :locality "Calgary"}
+   :location "Calgary"}
   {:name "The historic acadian Village of Nova Scotia",
    :longitude -65.7931446,
    :latitude 43.6374414,
@@ -9651,18 +9651,18 @@
    :latitude 54.3179239,
    :source :openstreetmap,
    :homepage "https://www.icehousegallery.ca/",
-   :locality "Prince Rupert"}
+   :location "Prince Rupert"}
   {:name "the industREALarts room",
    :longitude -79.406818,
    :latitude 43.6459528,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "The John Mann Gallery",
    :longitude -79.3138591,
    :latitude 43.1529544,
    :source :openstreetmap,
    :homepage "https://manngallery.ca",
-   :locality "St. Catharines"}
+   :location "St. Catharines"}
   {:name "The Loft Art Gallery",
    :longitude -123.5587677,
    :latitude 48.6519681,
@@ -9683,7 +9683,7 @@
    :latitude 44.5251379,
    :source :openstreetmap,
    :homepage "https://www.thebluemountainslibrary.ca/museum",
-   :locality "The Blue Mountains"}
+   :location "The Blue Mountains"}
   {:name "The Museum on Tower Hill",
    :longitude -80.0283486,
    :latitude 45.339938,
@@ -9708,7 +9708,7 @@
    :longitude -63.3021855,
    :latitude 44.7394494,
    :source :openstreetmap,
-   :locality "Porters Lake"}
+   :location "Porters Lake"}
   {:name "The Old House Museum",
    :longitude -76.4398619,
    :latitude 44.1942845,
@@ -9724,7 +9724,7 @@
    :longitude -63.6151454,
    :latitude 44.6654114,
    :source :openstreetmap,
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "The People's Gallery",
    :longitude -80.5226035,
    :latitude 43.4609654,
@@ -9734,30 +9734,30 @@
    :latitude 50.1177696,
    :source :openstreetmap,
    :homepage "https://artswhistler.com/",
-   :locality "Whistler"}
+   :location "Whistler"}
   {:name "The Power Plant Contemporary Art Gallery",
    :longitude -79.3819675,
    :latitude 43.6381551,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "The Prow Gallery",
    :longitude -63.5696733,
    :latitude 44.6443495,
    :source :openstreetmap,
    :homepage "https://theprowgallery.com/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "The Puffin Gallery",
    :longitude -63.5732828,
    :latitude 44.6501275,
    :source :openstreetmap,
    :homepage "https://carrefouratlantic.com/",
-   :locality "Halifax"}
+   :location "Halifax"}
   {:name "The Queen's York Rangers Museum",
    :longitude -79.4080393,
    :latitude 43.6368004,
    :source :openstreetmap,
    :homepage "https://qyrangmuseum.com/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "The R. Tait McKenzie Memorial Museum",
    :longitude -76.252846,
    :latitude 45.2463813,
@@ -9773,59 +9773,59 @@
    :latitude 52.119398,
    :source :openstreetmap,
    :homepage "https://www.emmanuelrefinery.org/grow-with-us/refinery",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "The River Art Centre & Studios",
    :longitude -67.6188729,
    :latitude 46.4420673,
    :source :openstreetmap,
-   :locality "Florenceville-Bristol"}
+   :location "Florenceville-Bristol"}
   {:name "The Robert McLaughlin Gallery",
    :longitude -78.8660554,
    :latitude 43.8949494,
    :source :openstreetmap,
    :homepage "https://rmg.on.ca/",
-   :locality "Oshawa"}
+   :location "Oshawa"}
   {:name "The Rooms",
    :longitude -52.7115986,
    :latitude 47.5660968,
    :source :openstreetmap,
    :homepage "https://www.therooms.ca/",
-   :locality "St. John's"}
+   :location "St. John's"}
   {:name "The Samson V Museum",
    :longitude -122.911952,
    :latitude 49.1997034,
    :source :openstreetmap,
    :homepage
    "https://www.newwestcity.ca/services/arts-and-heritage/museums-and-archives/sb_expander_articles/656.php",
-   :locality "New Westminster"}
+   :location "New Westminster"}
   {:name "The Sanctuary Arts Centre",
    :longitude -63.5661395,
    :latitude 44.6682178,
    :source :openstreetmap,
    :homepage "https://sanctuaryartscentre.com/",
-   :locality "Dartmouth"}
+   :location "Dartmouth"}
   {:name "The She Shed",
    :longitude -119.22897,
    :latitude 50.7073789,
    :source :openstreetmap,
    :homepage "https://shuswapsheshed.ca/",
-   :locality "Salmon Arm"}
+   :location "Salmon Arm"}
   {:name "The Station House Arts Collective",
    :longitude -65.9991437,
    :latitude 45.3893638,
    :source :openstreetmap,
-   :locality "Rothesay"}
+   :location "Rothesay"}
   {:name "The Studio - Keitha McClocklin Art",
    :longitude -106.6730189,
    :latitude 52.1243082,
    :source :openstreetmap,
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "The Trail Museum & Archives",
    :longitude -117.7059705,
    :latitude 49.0946683,
    :source :openstreetmap,
    :homepage "https://trail.ca/en/play/trail-museum-archives.aspx",
-   :locality "Trail"}
+   :location "Trail"}
   {:name "The Travelling Stage",
    :longitude -78.9430766,
    :latitude 43.8794339,
@@ -9835,7 +9835,7 @@
    :latitude 52.1307991,
    :source :openstreetmap,
    :homepage "https://umcnational.ca/",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "The Village",
    :longitude -119.4361121,
    :latitude 49.0453992,
@@ -9850,18 +9850,18 @@
    :latitude 45.4781894,
    :source :openstreetmap,
    :homepage "https://www.visualartscentre.ca/",
-   :locality "Westmount"}
+   :location "Westmount"}
   {:name "Thelma Miles Museum",
    :longitude -80.4656655,
    :latitude 48.5307517,
    :source :openstreetmap,
-   :locality "Matheson"}
+   :location "Matheson"}
   {:name "TheMuseum",
    :longitude -80.4894857,
    :latitude 43.4500936,
    :source :openstreetmap,
    :homepage "https://themuseum.ca/",
-   :locality "Kitchener"}
+   :location "Kitchener"}
   {:name "Thomas Garland General Store Historical Site ",
    :longitude -55.9029627,
    :latitude 47.6057495,
@@ -9876,7 +9876,7 @@
    :latitude 46.0883165,
    :source :openstreetmap,
    :homepage "https://capitol.nb.ca",
-   :locality "Moncton"}
+   :location "Moncton"}
   {:name "Tim Hortons Museum",
    :longitude -79.8191866,
    :latitude 43.2446133,
@@ -9891,7 +9891,7 @@
    :latitude 46.1802095,
    :source :openstreetmap,
    :homepage "https://www.brmarinepark.ca/museum",
-   :locality "Blind River"}
+   :location "Blind River"}
   {:name "Timmins Museum National Exhibitions Centre",
    :longitude -81.3263137,
    :latitude 48.4730647,
@@ -9902,7 +9902,7 @@
    :latitude 45.0888163,
    :source :openstreetmap,
    :homepage "http://www.tinsmithmuseum.ca/",
-   :locality "Shubenacadie"}
+   :location "Shubenacadie"}
   {:name "Tiny Pencil Studios",
    :longitude -125.0285124,
    :latitude 49.6192031,
@@ -9913,18 +9913,18 @@
    :latitude 53.601511,
    :source :openstreetmap,
    :homepage "https://www.tippleparkmuseum.ca/",
-   :locality "Evansburg"}
+   :location "Evansburg"}
   {:name "TLG",
    :longitude -79.4148366,
    :latitude 43.6549103,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Tofino Clayoquot Heritage Museum",
    :longitude -125.9075451,
    :latitude 49.1535735,
    :source :openstreetmap,
    :homepage "https://markhobson.com/",
-   :locality "Tofino"}
+   :location "Tofino"}
   {:name "Tom Bones House",
    :longitude -120.3600636,
    :latitude 50.686787,
@@ -9969,7 +9969,7 @@
    :latitude 43.6539648,
    :source :openstreetmap,
    :homepage "https://www.gallerytpw.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Tracy's Art Studio",
    :longitude -75.9064105,
    :latitude 45.2792785,
@@ -10016,7 +10016,7 @@
    :latitude 49.8366158,
    :source :openstreetmap,
    :homepage "http://www.tuckkwiowhumvillage.com/",
-   :locality "Boston Bar"}
+   :location "Boston Bar"}
   {:name "Tumbleweed Co",
    :longitude -119.4336287,
    :latitude 49.0387952,
@@ -10031,7 +10031,7 @@
    :latitude 53.9133489,
    :source :openstreetmap,
    :homepage "https://www.tworiversgallery.ca/",
-   :locality "Prince George"}
+   :location "Prince George"}
   {:name "U'mista Cultural Centre",
    :longitude -126.9417194,
    :latitude 50.593605,
@@ -10053,7 +10053,7 @@
    :latitude 43.6558857,
    :source :openstreetmap,
    :homepage "https://www.shevchenko.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Ukrainian Cultural Heritage Village",
    :longitude -112.7976286,
    :latitude 53.5681998,
@@ -10081,7 +10081,7 @@
    :latitude 44.90156,
    :source :openstreetmap,
    :homepage "https://uniacke.novascotia.ca",
-   :locality "Mt. Uniacke"}
+   :location "Mt. Uniacke"}
   {:name "Union Bay Museum at the Old Gaolhouse",
    :longitude -124.8864622,
    :latitude 49.583648,
@@ -10108,13 +10108,13 @@
    :longitude -73.5918328,
    :latitude 45.5483726,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Valemount & Area Museum",
    :longitude -119.2617279,
    :latitude 52.8362528,
    :source :openstreetmap,
    :homepage "https://www.valemountmuseum.ca/",
-   :locality "Valemount"}
+   :location "Valemount"}
   {:name "Van Egmond House-Museum",
    :longitude -81.4061784,
    :latitude 43.5389387,
@@ -10125,19 +10125,19 @@
    :latitude 43.6426417,
    :source :openstreetmap,
    :homepage "https://www.vangoghexhibit.ca/",
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Vancouver Art Gallery",
    :longitude -123.1206248,
    :latitude 49.2828495,
    :source :openstreetmap,
    :homepage "https://www.vanartgallery.bc.ca/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Vancouver Maritime Museum",
    :longitude -123.1475655,
    :latitude 49.2774924,
    :source :openstreetmap,
    :homepage "https://vanmaritime.com/",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Vanderhoof Museum",
    :longitude -124.0221884,
    :latitude 54.0130476,
@@ -10154,7 +10154,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.markham.ca/wps/portal/home/arts/varley-art-gallery",
-   :locality "Unionville"}
+   :location "Unionville"}
   {:name "VAV Gallery",
    :longitude -73.5736902,
    :latitude 45.4955648,
@@ -10164,13 +10164,13 @@
    :longitude -110.8625046,
    :latitude 53.3544163,
    :source :openstreetmap,
-   :locality "Vermilion"}
+   :location "Vermilion"}
   {:name "Vernon and District Performing Arts Centre",
    :longitude -119.2764304,
    :latitude 50.2696045,
    :source :openstreetmap,
    :homepage "https://vdpac.ca",
-   :locality "Vernon"}
+   :location "Vernon"}
   {:name "Vernon Public Art Gallery",
    :longitude -119.2744044,
    :latitude 50.2644755,
@@ -10180,7 +10180,7 @@
    :longitude -73.7100119,
    :latitude 45.545857,
    :source :openstreetmap,
-   :locality "Laval"}
+   :location "Laval"}
   {:name "Victoria Chinatown Museum",
    :longitude -123.367958,
    :latitude 48.4288495,
@@ -10190,7 +10190,7 @@
    :longitude -73.3592078,
    :latitude 45.7750645,
    :source :openstreetmap,
-   :locality "Verchères"}
+   :location "Verchères"}
   {:name "Vieux-Poste de Traite",
    :longitude -66.40315,
    :latitude 50.2256905,
@@ -10201,13 +10201,13 @@
    :latitude 46.2632918,
    :source :openstreetmap,
    :homepage "https://www.villagebeauceron.com/",
-   :locality "Saint-Prosper"}
+   :location "Saint-Prosper"}
   {:name "Village du Bucheron",
    :longitude -72.7276042,
    :latitude 46.689629,
    :source :openstreetmap,
    :homepage "https://villagedubucheron.com/",
-   :locality "Grandes-Piles"}
+   :location "Grandes-Piles"}
   {:name "Village Forestier d'antan",
    :longitude -67.8920637,
    :latitude 49.2929257,
@@ -10217,7 +10217,7 @@
    :longitude -65.0987423,
    :latitude 47.7889694,
    :source :openstreetmap,
-   :locality "Bertrand"}
+   :location "Bertrand"}
   {:name "Village Huron Site Traditionnel",
    :longitude -71.3657267,
    :latitude 46.868455,
@@ -10232,7 +10232,7 @@
    :latitude 45.5178278,
    :source :openstreetmap,
    :homepage "https://www.vintagewings.ca/",
-   :locality "Gatineau"}
+   :location "Gatineau"}
   {:name "Visitors Centre",
    :longitude -63.1354356,
    :latitude 46.1954779,
@@ -10242,24 +10242,24 @@
    :latitude 45.5099901,
    :source :openstreetmap,
    :homepage "http://centrevox.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Vulcan Historical Museum",
    :longitude -113.2636689,
    :latitude 50.403345,
    :source :openstreetmap,
    :homepage "https://www.townofvulcan.ca/explore/visit/attractions",
-   :locality "Vulcan"}
+   :location "Vulcan"}
   {:name "Vulcan Tourism & Trek Station",
    :longitude -113.2574116,
    :latitude 50.4060753,
    :source :openstreetmap,
    :homepage "https://vulcantourism.com",
-   :locality "Vulcan"}
+   :location "Vulcan"}
   {:name "Wainwright and District Museum",
    :longitude -110.8625365,
    :latitude 52.8322268,
    :source :openstreetmap,
-   :locality "Wainwright"}
+   :location "Wainwright"}
   {:name "Waldheim Museum",
    :longitude -106.6554101,
    :latitude 52.6207696,
@@ -10290,13 +10290,13 @@
    :latitude 52.2240071,
    :source :openstreetmap,
    :homepage "https://wanuskewin.com/",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "Wanuskewin Heritage Park",
    :longitude -106.6047746,
    :latitude 52.2238884,
    :source :openstreetmap,
    :homepage "https://wanuskewin.com/",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "Wasa Hotel Museum",
    :longitude -115.6332996,
    :latitude 49.615259,
@@ -10311,7 +10311,7 @@
    :latitude 42.9326188,
    :source :openstreetmap,
    :homepage "https://waterfordmuseum.ca/",
-   :locality "Waterford"}
+   :location "Waterford"}
   {:name "Waterloo Central Railway Resoration Shop",
    :longitude -80.5569699,
    :latitude 43.5380613,
@@ -10327,7 +10327,7 @@
    :latitude 51.150961,
    :source :openstreetmap,
    :homepage "https://watsonartcentre.com/",
-   :locality "Dauphin"}
+   :location "Dauphin"}
   {:name "Watson's Mill",
    :longitude -75.6828244,
    :latitude 45.2269821,
@@ -10338,7 +10338,7 @@
    :latitude 44.7821698,
    :source :openstreetmap,
    :homepage "https://waverleyheritagemuseum.ca/",
-   :locality "Waverley"}
+   :location "Waverley"}
   {:name "WEDS Performance Arts centre",
    :longitude -81.5027635,
    :latitude 42.6640312,
@@ -10349,13 +10349,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.thecounty.ca/residents/services/museums/wellington-heritage-museum/",
-   :locality "Wellington"}
+   :location "Wellington"}
   {:name "Wellington County Museum and Archives",
    :longitude -80.3996848,
    :latitude 43.6932208,
    :source :openstreetmap,
    :homepage "https://www.wellington.ca/en/museum-and-archives.aspx",
-   :locality "Fergus"}
+   :location "Fergus"}
   {:name "Wells Museum",
    :longitude -121.5758271,
    :latitude 53.1031013,
@@ -10392,13 +10392,13 @@
    :latitude 52.0948865,
    :source :openstreetmap,
    :homepage "https://wdm.ca/",
-   :locality "Saskatoon"}
+   :location "Saskatoon"}
   {:name "Western Development Museum",
    :longitude -105.5305429,
    :latitude 50.4196375,
    :source :openstreetmap,
    :homepage "https://governmenthousesk.ca/",
-   :locality "Moose Jaw"}
+   :location "Moose Jaw"}
   {:name "Western Development Museum North Battleford",
    :longitude -108.256929,
    :latitude 52.7522821,
@@ -10409,19 +10409,19 @@
    :latitude 49.8465087,
    :source :openstreetmap,
    :homepage "https://www.wmca.ca/",
-   :locality "Brandon"}
+   :location "Brandon"}
   {:name "Wetaskiwin & District Heritage Museum",
    :longitude -113.3751377,
    :latitude 52.9694468,
    :source :openstreetmap,
    :homepage "https://wetaskiwinmuseum.com/",
-   :locality "Wetaskiwin"}
+   :location "Wetaskiwin"}
   {:name "Wetaskiwin Art and Craft Centre",
    :longitude -113.3629525,
    :latitude 52.9675245,
    :source :openstreetmap,
    :homepage "https://www.waacc.ca/",
-   :locality "Wetaskiwin"}
+   :location "Wetaskiwin"}
   {:name "Weyburn and Area Heritage Village",
    :longitude -103.8507593,
    :latitude 49.6486242,
@@ -10432,13 +10432,13 @@
    :latitude 46.8283318,
    :source :openstreetmap,
    :homepage "https://whale-interpretive-centre.business.site/",
-   :locality "Pleasant Bay"}
+   :location "Pleasant Bay"}
   {:name "Whitchurch-Stouffville Museum and Community Centre",
    :longitude -79.393096,
    :latitude 44.003114,
    :source :openstreetmap,
    :homepage "https://www.townofws.ca/play/museum/",
-   :locality "Gormley"}
+   :location "Gormley"}
   {:name "White Elefant Museum",
    :longitude -59.1774004,
    :latitude 55.0886597,
@@ -10457,7 +10457,7 @@
    :longitude -60.1841263,
    :latitude 46.1543939,
    :source :openstreetmap,
-   :locality "Sydney"}
+   :location "Sydney"}
   {:name "Widzin Kwah Canyon House Museum (Widzin Kwah Diyik Be Yikh)",
    :longitude -127.3272952,
    :latitude 55.0142836,
@@ -10477,7 +10477,7 @@
    :longitude -132.7075638,
    :latitude 60.167378,
    :source :openstreetmap,
-   :locality "Teslin"}
+   :location "Teslin"}
   {:name "Wildwood Gallery",
    :longitude -77.935912,
    :latitude 45.231434,
@@ -10487,7 +10487,7 @@
    :latitude 44.3762839,
    :source :openstreetmap,
    :homepage "https://cardingmill.novascotia.ca/",
-   :locality "Bridgewater"}
+   :location "Bridgewater"}
   {:name "Williams Mill Visual Arts Centre",
    :longitude -79.9257957,
    :latitude 43.6698511,
@@ -10502,7 +10502,7 @@
    :longitude -53.2607997,
    :latitude 48.0149501,
    :source :openstreetmap,
-   :locality "Hant's Harbour"}
+   :location "Hant's Harbour"}
   {:name "Wilmot Heritage Fire Brigades Museum",
    :longitude -80.6656821,
    :latitude 43.4018711,
@@ -10517,7 +10517,7 @@
    :latitude 50.511706,
    :source :openstreetmap,
    :homepage "https://www.windermerevalleymuseum.ca/",
-   :locality "Invermere"}
+   :location "Invermere"}
   {:name "Winkler Arts & Culture",
    :longitude -97.9441112,
    :latitude 49.1866443,
@@ -10537,7 +10537,7 @@
    :latitude 50.5380951,
    :source :openstreetmap,
    :homepage "https://winnipegrivermuseum.com/",
-   :locality "St. Georges"}
+   :location "St. Georges"}
   {:name "Winter Harbour Museum",
    :longitude -128.0309881,
    :latitude 50.5125206,
@@ -10568,7 +10568,7 @@
    :latitude 45.0400406,
    :source :openstreetmap,
    :homepage "https://www.bracebridge.ca/en/explore/woodchester-.aspx",
-   :locality "Bracebridge"}
+   :location "Bracebridge"}
   {:name "Woodlands Pioneer Museum",
    :longitude -97.6552147,
    :latitude 50.2035316,
@@ -10580,7 +10580,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.cityofwoodstock.ca/en/live-and-play/woodstock-museum.aspx",
-   :locality "Woodstock"}
+   :location "Woodstock"}
   {:name "Works of Art",
    :longitude -125.2083016,
    :latitude 50.1009847,
@@ -10594,17 +10594,17 @@
    :longitude -79.4094854,
    :latitude 43.6517141,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Xinde Antique Gallery",
    :longitude -123.1361622,
    :latitude 49.1695844,
    :source :openstreetmap,
-   :locality "Richmond"}
+   :location "Richmond"}
   {:name "XPACE Cultural Centre",
    :longitude -79.4396507,
    :latitude 43.6506019,
    :source :openstreetmap,
-   :locality "Toronto"}
+   :location "Toronto"}
   {:name "Yale Historic Site",
    :longitude -121.4316455,
    :latitude 49.5619526,
@@ -10614,12 +10614,12 @@
    :latitude 43.8368144,
    :source :openstreetmap,
    :homepage "https://www.yarmouthcountymuseum.ca/",
-   :locality "Yarmouth"}
+   :location "Yarmouth"}
   {:name "Yasmeen Al-Sham Gallery",
    :longitude -79.6170817,
    :latitude 43.5812717,
    :source :openstreetmap,
-   :locality "Mississauga"}
+   :location "Mississauga"}
   {:name "Yellow Bird Arts Gallery",
    :longitude -124.0046141,
    :latitude 49.2062254,
@@ -10633,7 +10633,7 @@
    :longitude -114.3636695,
    :latitude 62.4865466,
    :source :openstreetmap,
-   :locality "Yellowknife"}
+   :location "Yellowknife"}
   {:name "Yeo House",
    :longitude -63.8918072,
    :latitude 46.587544,
@@ -10662,19 +10662,19 @@
    :latitude 60.7499768,
    :source :openstreetmap,
    :homepage "https://yukonartscentre.com/",
-   :locality "Whitehorse"}
+   :location "Whitehorse"}
   {:name "Yukon Beringia Interpretive Centre",
    :longitude -135.0789634,
    :latitude 60.7088595,
    :source :openstreetmap,
    :homepage "https://beringia.com/",
-   :locality "Whitehorse"}
+   :location "Whitehorse"}
   {:name "Yukon Transportation Museum",
    :longitude -135.0791732,
    :latitude 60.7120233,
    :source :openstreetmap,
    :homepage "https://goytm.ca/",
-   :locality "Whitehorse"}
+   :location "Whitehorse"}
   {:name "Zuckerberg Island",
    :longitude -117.6565219,
    :latitude 49.3154934,
@@ -10685,7 +10685,7 @@
    :latitude 48.2470015,
    :source :openstreetmap,
    :homepage "https://lecart.org/fr/",
-   :locality "Rouyn-Noranda"}
+   :location "Rouyn-Noranda"}
   {:name "Écocentre Homarus Eco-Centre",
    :longitude -64.5269516,
    :latitude 46.2396302,
@@ -10700,7 +10700,7 @@
    :longitude -73.6206301,
    :latitude 45.4913782,
    :source :openstreetmap,
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Écomuseum de la Pointe-aux-Trembles",
    :longitude -73.4906811,
    :latitude 45.6403236,
@@ -10719,13 +10719,13 @@
    :longitude -61.898782,
    :latitude 47.4034168,
    :source :openstreetmap,
-   :locality "Les Îles-de-la-Madeleine"}
+   :location "Les Îles-de-la-Madeleine"}
   {:name "Écomusée du Fier Monde",
    :longitude -73.5636566,
    :latitude 45.5203343,
    :source :openstreetmap,
    :homepage "https://ecomusee.qc.ca/",
-   :locality "Montréal"}
+   :location "Montréal"}
   {:name "Écomusée du fromage",
    :longitude -70.5312696,
    :latitude 47.4726086,
@@ -10740,7 +10740,7 @@
    :latitude 46.2245841,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/EglisehistoriquedeBarachois",
-   :locality "Grand Barachois"}
+   :location "Grand Barachois"}
   {:name "église Saint-Charles-Borromée",
    :longitude -71.38154,
    :latitude 45.8343695,
@@ -10755,7 +10755,7 @@
    :latitude 49.9240413,
    :source :openstreetmap,
    :homepage "https://creeculturalinstitute.ca/",
-   :locality "Oujé-Bougoumou"}],
+   :location "Oujé-Bougoumou"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

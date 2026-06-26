@@ -9,7 +9,7 @@
    :latitude -33.1143326707901,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33041",
-   :locality "Río Cuarto"}],
+   :location "Río Cuarto"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

@@ -25,12 +25,12 @@
    :longitude 114.9411976,
    :latitude 4.8927987,
    :source :openstreetmap,
-   :locality "Bandar Seri Begawan"}
+   :location "Bandar Seri Begawan"}
   {:name "Muzium Daerah Belait",
    :longitude 114.1910084,
    :latitude 4.5888197,
    :source :openstreetmap,
-   :locality "Kuala Belait"}
+   :location "Kuala Belait"}
   {:name "Muzium Teknologi Melayu",
    :longitude 114.9698005,
    :latitude 4.8832503,
@@ -39,7 +39,7 @@
    :longitude 114.9362126,
    :latitude 4.9273154,
    :source :openstreetmap,
-   :locality "Bandar Seri Begawan"}],
+   :location "Bandar Seri Begawan"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

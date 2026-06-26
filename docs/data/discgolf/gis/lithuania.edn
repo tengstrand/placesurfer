@@ -9,151 +9,151 @@
    :latitude 54.619989891038045,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40096",
-   :locality "Motiejiškės"}
+   :location "Motiejiškės"}
   {:name "A.Žikevičiaus mokyklos DG parkas",
    :longitude 23.93346453625105,
    :latitude 54.93177518457168,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42552",
-   :locality "Kaunas"}
+   :location "Kaunas"}
   {:name "Akmenės diskgolfo parkas",
    :longitude 22.708958307671935,
    :latitude 56.23764260688671,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38888",
-   :locality "Akmenė"}
+   :location "Akmenė"}
   {:name "Alytaus diskgolfo parkas",
    :longitude 24.008002458321243,
    :latitude 54.39866350712188,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43837",
-   :locality "Alytus"}
+   :location "Alytus"}
   {:name "Baltupių ",
    :longitude 25.270553230481198,
    :latitude 54.726839960856125,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24075",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Baltupių DG parkas",
    :longitude 25.270646,
    :latitude 54.726866,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12513",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Burbulynė",
    :longitude 26.210434945809737,
    :latitude 55.56878799864339,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24709",
-   :locality "Salakas"}
+   :location "Salakas"}
   {:name "DiskGolfPark® SKORPIONO TAKAS",
    :longitude 24.37867900939071,
    :latitude 55.731430196731765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38861",
-   :locality "Panevėžys"}
+   :location "Panevėžys"}
   {:name "Domeikava",
    :longitude 23.922607994113264,
    :latitude 54.962481499117104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26699",
-   :locality "Domeikava"}
+   :location "Domeikava"}
   {:name "Domeikavos DG parkas",
    :longitude 23.902187347283075,
    :latitude 54.96644968427901,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32519",
-   :locality "Domeikava"}
+   :location "Domeikava"}
   {:name "Dramblių Parkas",
    :longitude 23.80141756471494,
    :latitude 54.95015459184333,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30947",
-   :locality "Kaunas"}
+   :location "Kaunas"}
   {:name "Dramblių parkas 2x9",
    :longitude 23.802034352630073,
    :latitude 54.95022985864625,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31112",
-   :locality "Kaunas"}
+   :location "Kaunas"}
   {:name "Elektrėnų diskgolfo parkas",
    :longitude 24.66559029163014,
    :latitude 54.78345607590825,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13822",
-   :locality "Elektrėnai"}
+   :location "Elektrėnai"}
   {:name "EYNE DISCGOLF",
    :longitude 21.02502,
    :latitude 55.85859,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21220",
-   :locality "Nemirseta"}
+   :location "Nemirseta"}
   {:name "EYNE Diskgolfo parkas 18 krepšių ",
    :longitude 21.03613802812876,
    :latitude 55.89594057991235,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30735",
-   :locality "Palanga"}
+   :location "Palanga"}
   {:name "Gargždų Jaunimo Diskgolfo Parkas",
    :longitude 21.383407,
    :latitude 55.71464,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15197",
-   :locality "Gargždai"}
+   :location "Gargždai"}
   {:name "Gargždų jaunimo diskgolfo parkas (NAUJAS) (2x9)",
    :longitude 21.383792387202362,
    :latitude 55.71440480449786,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40226",
-   :locality "Gargždai"}
+   :location "Gargždai"}
   {:name "Jaukurai",
    :longitude 24.32980603345473,
    :latitude 55.73663627193375,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20908",
-   :locality "Panevėžys"}
+   :location "Panevėžys"}
   {:name "Jonavos 1x9 mažasis parkas 2024",
    :longitude 24.269487291448343,
    :latitude 55.078752758290165,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44822",
-   :locality "Jonava"}
+   :location "Jonava"}
   {:name "Jonavos 2x9 Mažasis parkas 2024",
    :longitude 24.26917233173475,
    :latitude 55.07612381297395,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36590",
-   :locality "Jonava"}
+   :location "Jonava"}
   {:name "Jonavos Diskgolfo Parkas (19 krepšių)",
    :longitude 24.269112725174523,
    :latitude 55.076035619345845,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46447",
-   :locality "Jonava"}
+   :location "Jonava"}
   {:name "Jonavos Diskgolfo Parkas 2025 (20 krepšių)",
    :longitude 24.26945612632258,
    :latitude 55.07588915262403,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37901",
-   :locality "Jonava"}
+   :location "Jonava"}
   {:name "Juodšiliai 3",
    :longitude 25.25996063045156,
    :latitude 54.57981816413408,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36161",
-   :locality "Juodšiliai"}
+   :location "Juodšiliai"}
   {:name "Kaišiadorių diskgolfo parkas",
    :longitude 24.467363519860072,
    :latitude 54.84633399541451,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23814",
-   :locality "Žiežmarių Apyl. seniūnija"}
+   :location "Žiežmarių Apyl. seniūnija"}
   {:name "Kauno Neries krantinės diskgolfo parkas 2022",
    :longitude 23.896821545941123,
    :latitude 54.90848851322406,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29001",
-   :locality "Kaunas"}
+   :location "Kaunas"}
   {:name "Kazlų Rūdos parkas",
    :longitude 23.4985063,
    :latitude 54.7452037,
@@ -163,31 +163,31 @@
    :latitude 55.62655077794369,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31427",
-   :locality "Kelmė"}
+   :location "Kelmė"}
   {:name "Klaipėdos Diskgolfo Parkas",
    :longitude 21.181037191729217,
    :latitude 55.682619186981555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39107",
-   :locality "Klaipėda"}
+   :location "Klaipėda"}
   {:name "Klaipėdos Kar Kar parkas",
    :longitude 21.12106039492599,
    :latitude 55.726499068171336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15451",
-   :locality "Klaipėda"}
+   :location "Klaipėda"}
   {:name "Klaipėdos Kar Kar parkas (2×9)",
    :longitude 21.12076191827913,
    :latitude 55.726377111572134,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15448",
-   :locality "Klaipėda"}
+   :location "Klaipėda"}
   {:name "Kulautuva",
    :longitude 23.635387669581633,
    :latitude 54.94438768003633,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33036",
-   :locality "Kulautuva"}
+   :location "Kulautuva"}
   {:name "Kulautuva 7+9",
    :longitude 23.634706101948495,
    :latitude 54.94521318114565,
@@ -203,145 +203,145 @@
    :latitude 54.944222108629276,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16021",
-   :locality "Kulautuva"}
+   :location "Kulautuva"}
   {:name "Kulautuvos Diskgolfo Parkas PRO",
    :longitude 23.63496023864414,
    :latitude 54.9442940372484,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34866",
-   :locality "Kulautuva"}
+   :location "Kulautuva"}
   {:name "Kulva",
    :longitude 24.14510042735293,
    :latitude 55.111858402457244,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25762",
-   :locality "Kulva"}
+   :location "Kulva"}
   {:name "Kulvos Diskgolfo Parkas",
    :longitude 24.17159467109809,
    :latitude 55.101825377854595,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20430",
-   :locality "Kulva"}
+   :location "Kulva"}
   {:name "Kėdainių DG parkas",
    :longitude 23.961386095578916,
    :latitude 55.28445122506628,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35532",
-   :locality "Kėdainiai"}
+   :location "Kėdainiai"}
   {:name "Laukuva",
    :longitude 22.23699269313667,
    :latitude 55.619980665373475,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30819",
-   :locality "Laukuva"}
+   :location "Laukuva"}
   {:name "Linkaučių DG parkas",
    :longitude 24.151555865972114,
    :latitude 55.468064449436014,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33479",
-   :locality "Krekenava"}
+   :location "Krekenava"}
   {:name "Liūdynės Diskgolfo parkas",
    :longitude 24.459023089331282,
    :latitude 55.69172771632472,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34689",
-   :locality "Velžys"}
+   :location "Velžys"}
   {:name "M",
    :longitude 24.389071855701587,
    :latitude 55.71557429801737,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35598",
-   :locality "Panevėžys"}
+   :location "Panevėžys"}
   {:name "moletai",
    :longitude 23.913731165338305,
    :latitude 55.543950433275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33693",
-   :locality "Krekenava"}
+   :location "Krekenava"}
   {:name "Molėtų diskgolfo parkas",
    :longitude 25.43103675829036,
    :latitude 55.23442911565513,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34129",
-   :locality "Molėtai"}
+   :location "Molėtai"}
   {:name "Molėtų Raudonoji 7",
    :longitude 25.4326556624992,
    :latitude 55.234778513484514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33612",
-   :locality "Čiulėnai"}
+   :location "Čiulėnai"}
   {:name "Nedožinka 18",
    :longitude 26.177712,
    :latitude 55.791798,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7020",
-   :locality "Nedožinka, Zarasai, Lithuania"}
+   :location "Nedožinka, Zarasai, Lithuania"}
   {:name "Neries krantinės parkas 13 krepšių miškelyje",
    :longitude 23.89591328814737,
    :latitude 54.90829144924251,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35772",
-   :locality "Kaunas"}
+   :location "Kaunas"}
   {:name "Panevėžio",
    :longitude 24.403075995642325,
    :latitude 55.75178886115424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23540",
-   :locality "Karsakiškis"}
+   :location "Karsakiškis"}
   {:name "Panevėžio Diskgolfo parkas",
    :longitude 24.33329438400824,
    :latitude 55.73685428287325,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17870",
-   :locality "Panevėžys"}
+   :location "Panevėžys"}
   {:name "Panevėžio Diskgolfo parkas - ORANGE 2026",
    :longitude 24.33115832547614,
    :latitude 55.73683417357233,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46415",
-   :locality "Panevežys"}
+   :location "Panevežys"}
   {:name "Panevėžio Lengvosios atletikos maniežas",
    :longitude 24.36777319119588,
    :latitude 55.7371383229746,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26126",
-   :locality "Panevėžys"}
+   :location "Panevėžys"}
   {:name "Panevėžio lengvosios atletikos maniežas -> 9 krepš",
    :longitude 24.36712917991622,
    :latitude 55.737070550384914,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46036",
-   :locality "Panevėžys"}
+   :location "Panevėžys"}
   {:name "Parko ",
    :longitude 24.330978106897078,
    :latitude 55.736580763760486,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18739",
-   :locality "Panevėžys"}
+   :location "Panevėžys"}
   {:name "Pasvalio disk golfo",
    :longitude 24.398394149654564,
    :latitude 56.056512331751804,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41112",
-   :locality "Pasvalio"}
+   :location "Pasvalio"}
   {:name "Pasvalio Smegduobių DG parkas",
    :longitude 24.39754402697659,
    :latitude 56.05675065791263,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38844",
-   :locality "Pasvalys"}
+   :location "Pasvalys"}
   {:name "Priekulės diskgolfo parkas",
    :longitude 21.32372839265679,
    :latitude 55.55466411874215,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39769",
-   :locality "Priekulė"}
+   :location "Priekulė"}
   {:name "Pučkorių geltona 2x9",
    :longitude 25.368742313693048,
    :latitude 54.68931613922794,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46365",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Pūčkoriu",
    :longitude 23.521224481951492,
    :latitude 55.68260802101514,
@@ -352,43 +352,43 @@
    :latitude 54.688965,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12518",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Pūčkorių oranžinė",
    :longitude 25.368326,
    :latitude 54.689444,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6743",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Pūčkorių švytintis",
    :longitude 25.368447571536024,
    :latitude 54.688704372670514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26749",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Ramygalos > Juodoji",
    :longitude 24.30609002938624,
    :latitude 55.511784199643046,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39265",
-   :locality "Ramygala"}
+   :location "Ramygala"}
   {:name "Ramygalos Diskgolfo parkas",
    :longitude 24.30549050808554,
    :latitude 55.511341913151654,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23400",
-   :locality "Ramygala"}
+   :location "Ramygala"}
   {:name "Realco 18",
    :longitude 25.28058,
    :latitude 54.718579,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/4113",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Realco diskgolf park",
    :longitude 25.280635,
    :latitude 54.718455,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/657",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Realco ozo parkas",
    :longitude 25.28165512192885,
    :latitude 54.71797604608136,
@@ -399,73 +399,73 @@
    :latitude 54.325354,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33865",
-   :locality "Alytaus seniūnija"}
+   :location "Alytaus seniūnija"}
   {:name "Rietavo diskgolfo parkas -> 18 krepšių",
    :longitude 21.938894002739033,
    :latitude 55.7263296843104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29164",
-   :locality "Rietavas"}
+   :location "Rietavas"}
   {:name "Rietavo diskgolfo parkas -> 9 krepšių",
    :longitude 21.938919379475834,
    :latitude 55.72644432109249,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18852",
-   :locality "Rietavas"}
+   :location "Rietavas"}
   {:name "Robmain",
    :longitude 24.01200672568109,
    :latitude 54.855530752735035,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37663",
-   :locality "Kaunas"}
+   :location "Kaunas"}
   {:name "Rookie",
    :longitude 24.61794701977351,
    :latitude 55.38088409379944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39465",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Santariškių DG parkas",
    :longitude 25.282679,
    :latitude 54.749175,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12739",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Skaudvilės",
    :longitude 22.5790153993608,
    :latitude 55.40672868397044,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24934",
-   :locality "Skaudvilė"}
+   :location "Skaudvilė"}
   {:name "Skaudvilės diskgolfo parkas",
    :longitude 22.57897365281204,
    :latitude 55.40671168433994,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24932",
-   :locality "Skaudvilė"}
+   :location "Skaudvilė"}
   {:name "Skaudvilės diskgolfo parkas (18 (2x9) krepšių)",
    :longitude 22.579102473851606,
    :latitude 55.40668504186951,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24929",
-   :locality "Skaudvilė"}
+   :location "Skaudvilė"}
   {:name "Skuodo Diskgolfo Parkas",
    :longitude 21.518252654270754,
    :latitude 56.26489937367302,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36559",
-   :locality "Skuodas"}
+   :location "Skuodas"}
   {:name "Survilų sodybos DG parkas",
    :longitude 24.256118028415784,
    :latitude 55.036820978419314,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15520",
-   :locality "Dumsiškiai"}
+   :location "Dumsiškiai"}
   {:name "Teltonika chalange",
    :longitude 25.48829062985081,
    :latitude 55.144318350087985,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29785",
-   :locality "Inturkė"}
+   :location "Inturkė"}
   {:name "Ugnius ruckis",
    :longitude 24.26968449893448,
    :latitude 55.078954276678985,
@@ -476,19 +476,19 @@
    :latitude 55.50418744197552,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37675",
-   :locality "Utena"}
+   :location "Utena"}
   {:name "Veiviržėnų diskgolfo parkas",
    :longitude 21.600528026711885,
    :latitude 55.59755387417238,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21622",
-   :locality "Veiviržėnai"}
+   :location "Veiviržėnai"}
   {:name "Vingio DG parkas",
    :longitude 25.236667,
    :latitude 54.682135,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12516",
-   :locality "Vilnius"}
+   :location "Vilnius"}
   {:name "Wr",
    :longitude 17.513870597109673,
    :latitude 54.074613580129125,
@@ -504,31 +504,31 @@
    :latitude 55.63070677839153,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15898",
-   :locality "Utenos"}
+   :location "Utenos"}
   {:name "Šaltinių sodyba 2020",
    :longitude 25.415282717525514,
    :latitude 55.63066178792096,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21362",
-   :locality "Svėdasai"}
+   :location "Svėdasai"}
   {:name "Šaltinių sodyba 2020 - (2×9)",
    :longitude 25.41453155104844,
    :latitude 55.6305295526289,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21365",
-   :locality "Šaltiniai"}
+   :location "Šaltiniai"}
   {:name "Šilinio sodybos DG parkas",
    :longitude 25.016233888801025,
    :latitude 55.83058378637514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23552",
-   :locality "Kupiškis"}
+   :location "Kupiškis"}
   {:name "Šilutės diskgolfo parkas",
    :longitude 21.489869906779575,
    :latitude 55.35237055838837,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41632",
-   :locality "Šilutė"}
+   :location "Šilutė"}
   {:name "Žirmūnų DiskGolfo Parkas",
    :longitude 25.31194516348623,
    :latitude 54.7232438708339,

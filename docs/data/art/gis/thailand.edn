@@ -86,7 +86,7 @@
    :longitude 99.1358524,
    :latitude 18.87,
    :source :openstreetmap,
-   :locality "ดอยสะเก็ด"}
+   :location "ดอยสะเก็ด"}
   {:name "Center for Northern Culture",
    :longitude 99.029595,
    :latitude 18.7953333,
@@ -127,7 +127,7 @@
    :latitude 14.0323337,
    :source :openstreetmap,
    :homepage "http://www.tbrconline.com/",
-   :locality "Kanchanaburi"}
+   :location "Kanchanaburi"}
   {:name "Dinosaur Museum",
    :longitude 100.7046358,
    :latitude 14.0702077,
@@ -163,7 +163,7 @@
    :latitude 8.6468285,
    :source :openstreetmap,
    :homepage "https://www.garangicecream.com/",
-   :locality "คึกคัก ตะกั่วป่า พังงา"}
+   :location "คึกคัก ตะกั่วป่า พังงา"}
   {:name "Good Rich Gallery",
    :longitude 100.5847581,
    :latitude 13.7237612,
@@ -203,7 +203,7 @@
    :latitude 18.7833599,
    :source :openstreetmap,
    :homepage "https://www.kalmvillage.com/",
-   :locality "Kalm Village Chiangmai"}
+   :location "Kalm Village Chiangmai"}
   {:name "Kathmandu Photo Gallery",
    :longitude 100.5232949,
    :latitude 13.7239301,
@@ -252,7 +252,7 @@
    :longitude 99.0030304,
    :latitude 18.7855672,
    :source :openstreetmap,
-   :locality "Chiang Mai"}
+   :location "Chiang Mai"}
   {:name "Maiiam",
    :longitude 99.093644,
    :latitude 18.7570519,
@@ -316,7 +316,7 @@
    :longitude 100.8954286,
    :latitude 12.9517847,
    :source :openstreetmap,
-   :locality "Chonburi"}
+   :location "Chonburi"}
   {:name "PASHTOSH ART GALLERY",
    :longitude 98.2986533,
    :latitude 7.8227964,
@@ -368,7 +368,7 @@
    :latitude 18.7766944,
    :source :openstreetmap,
    :homepage "https://rumpuengartspace.wordpress.com/",
-   :locality "Chiang Mai"}
+   :location "Chiang Mai"}
   {:name "SAC Residency Program",
    :longitude 98.9762849,
    :latitude 18.881671,
@@ -540,7 +540,7 @@
    :longitude 100.625336,
    :latitude 13.7765974,
    :source :openstreetmap,
-   :locality "แขวงพลับพลา"}
+   :location "แขวงพลับพลา"}
   {:name "ดิบ บางกอก",
    :longitude 100.5797412,
    :latitude 13.7122213,
@@ -591,7 +591,7 @@
    :longitude 100.1310074,
    :latitude 18.1375256,
    :source :openstreetmap,
-   :locality "หมู่ 13"}
+   :location "หมู่ 13"}
   {:name "บ้านปาร์คนายเลิศ",
    :longitude 100.5471762,
    :latitude 13.7462649,
@@ -609,12 +609,12 @@
    :latitude 17.7998855,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/ThiDaBanHea/",
-   :locality "หมู่4,"}
+   :location "หมู่4,"}
   {:name "บ้านลุงโฮจิมินห์",
    :longitude 104.7613453,
    :latitude 17.3745631,
    :source :openstreetmap,
-   :locality "หมู่ที่ 5"}
+   :location "หมู่ที่ 5"}
   {:name "บ้านศิลปิน",
    :longitude 100.4632472,
    :latitude 13.7312785,
@@ -648,7 +648,7 @@
    :longitude 104.6761505,
    :latitude 17.048952,
    :source :openstreetmap,
-   :locality "9"}
+   :location "9"}
   {:name "พระราชวังบางปะอิน",
    :longitude 100.5791532,
    :latitude 14.2324938,
@@ -682,7 +682,7 @@
    :longitude 99.5223189,
    :latitude 16.4885414,
    :source :openstreetmap,
-   :locality "กำแพงเพชร"}
+   :location "กำแพงเพชร"}
   {:name "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
    :longitude 102.8386592,
    :latitude 16.4461433,
@@ -741,7 +741,7 @@
    :longitude 100.5618199,
    :latitude 14.3511893,
    :source :openstreetmap,
-   :locality "หมู่ที่ 2"}
+   :location "หมู่ที่ 2"}
   {:name "พิพิธภัณฑสถานแห่งชาติ เชียงแสน",
    :longitude 100.0793278,
    :latitude 20.2735326,
@@ -768,7 +768,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.virtualmuseum.finearts.go.th/banchiang/index.php/",
-   :locality "หมู่ที่ 13"}
+   :location "หมู่ที่ 13"}
   {:name "พิพิธภัณฑสถานแห่งชาติพระปฐมเจดีย์",
    :longitude 100.0610141,
    :latitude 13.8184318,
@@ -777,7 +777,7 @@
    :longitude 102.0682954,
    :latitude 12.5847637,
    :source :openstreetmap,
-   :locality "หมู่ 8 ค่ายเนินวง"}
+   :location "หมู่ 8 ค่ายเนินวง"}
   {:name "พิพิธภัณฑสถานแห่งชาติรามคำแหง",
    :longitude 99.7077264,
    :latitude 17.0178046,
@@ -901,7 +901,7 @@
    :latitude 13.628573,
    :source :openstreetmap,
    :homepage "http://www.ancientcitygroup.net",
-   :locality "Samut Prakan"}
+   :location "Samut Prakan"}
   {:name "พิพิธภัณฑ์ช้างโลก",
    :longitude 99.8226605,
    :latitude 17.2307895,
@@ -910,7 +910,7 @@
    :longitude 100.3232666,
    :latitude 13.7904356,
    :source :openstreetmap,
-   :locality "Salaya, Nakhon Pathom"}
+   :location "Salaya, Nakhon Pathom"}
   {:name "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
    :longitude 99.0020383,
    :latitude 18.7891904,
@@ -1077,7 +1077,7 @@
    :latitude 16.445818,
    :source :openstreetmap,
    :homepage "https://museum.kku.ac.th/",
-   :locality "ในเมือง"}
+   :location "ในเมือง"}
   {:name "พิพิธภัณฑ์ประวัติศาสตร์และวัฒนธรรมท้องถิ่น จังหวัดอุทัยธานี",
    :longitude 100.0365949,
    :latitude 15.3747003,
@@ -1096,7 +1096,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museumthailand.com/th/museum/Thaiyuanlaplae-Museum",
-   :locality "หมู่ที่ 4"}
+   :location "หมู่ที่ 4"}
   {:name "พิพิธภัณฑ์พระตำหนักดาราภิรมย์ จุฬาลงกรณ์มหาวิทยาลัย",
    :longitude 98.9422091,
    :latitude 18.9128505,
@@ -1230,7 +1230,7 @@
    :latitude 14.848373,
    :source :openstreetmap,
    :homepage "http://www.virtualmuseum.finearts.go.th/surin",
-   :locality "Moo 13"}
+   :location "Moo 13"}
   {:name "พิพิธภัณฑ์สถานแห่งชาติราชบุรี",
    :longitude 99.8176576,
    :latitude 13.5410179,
@@ -1319,7 +1319,7 @@
    :latitude 19.903429,
    :source :openstreetmap,
    :homepage "https://www.oubkhammuseum.com/",
-   :locality "เชียงราย"}
+   :location "เชียงราย"}
   {:name "พิพิธภัณฑ์เฉลิมพระเกียรติกาญจนาภิเษก",
    :longitude 100.714837,
    :latitude 13.8130078,
@@ -1389,7 +1389,7 @@
    :longitude 100.5719627,
    :latitude 14.3565597,
    :source :openstreetmap,
-   :locality "หมู่ที่ 1"}
+   :location "หมู่ที่ 1"}
   {:name "พิพิธภัณฑ์เวียงพยาว (วัดลี)",
    :longitude 99.9156766,
    :latitude 19.1663895,
@@ -1407,7 +1407,7 @@
    :longitude 100.5294155,
    :latitude 13.847919,
    :source :openstreetmap,
-   :locality "ตำบลบางเขน"}
+   :location "ตำบลบางเขน"}
   {:name "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
    :longitude 98.9706445,
    :latitude 18.7961285,
@@ -1510,7 +1510,7 @@
    :longitude 102.0972237,
    :latitude 12.6636267,
    :source :openstreetmap,
-   :locality "ตำบลท่าช้าง"}
+   :location "ตำบลท่าช้าง"}
   {:name "วัดป่าเทพมงคล",
    :longitude 101.907284,
    :latitude 16.9806108,
@@ -1529,7 +1529,7 @@
    :latitude 14.5578218,
    :source :openstreetmap,
    :homepage "https://www.villamusee.com/museum.html",
-   :locality "หมู่ที่ /"}
+   :location "หมู่ที่ /"}
   {:name "ศาลากลางจังหวัดปทุมธานี(หลังเก่า)",
    :longitude 100.5342196,
    :latitude 14.0196557,
@@ -1550,7 +1550,7 @@
    :longitude 99.1237413,
    :latitude 18.8834251,
    :source :openstreetmap,
-   :locality "บ้านลวงเหนือ หมู่ 4 ซอย 4"}
+   :location "บ้านลวงเหนือ หมู่ 4 ซอย 4"}
   {:name "ศูนย์ข้อมูลการอนุรักษ์นครประวัติศาสตร์พระนครศรีอยุธยา",
    :longitude 100.557709,
    :latitude 14.3506686,
@@ -1598,7 +1598,7 @@
    :longitude 99.7597339,
    :latitude 17.4676207,
    :source :openstreetmap,
-   :locality "Ban Ko Noi"}
+   :location "Ban Ko Noi"}
   {:name "ศูนย์สร้างสรรค์งานออกแบบ",
    :longitude 100.5151833,
    :latitude 13.727054,
@@ -1732,7 +1732,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museumthailand.com/en/museum/Nan-Riverside-Art-Gallery",
-   :locality "หมู่ 2"}
+   :location "หมู่ 2"}
   {:name "หอศิลป์สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ",
    :longitude 100.5051315,
    :latitude 13.7565471,
@@ -1807,7 +1807,7 @@
    :latitude 18.780067,
    :source :openstreetmap,
    :homepage "https://chiangmai-artinparadise.com",
-   :locality "8"}
+   :location "8"}
   {:name "อุทยานการเรียนรู้ ลพชัย-ปทุมมาศ แก่นรัตนะ",
    :longitude 100.4973878,
    :latitude 13.9112719,

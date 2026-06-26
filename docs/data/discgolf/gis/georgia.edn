@@ -9,7 +9,7 @@
    :latitude 41.766835043376034,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43215",
-   :locality "Tbilisi"}
+   :location "Tbilisi"}
   {:name "Mziuri Valley",
    :longitude 45.00570246311858,
    :latitude 41.76337530645171,

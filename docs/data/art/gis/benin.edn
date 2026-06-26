@@ -77,7 +77,7 @@
    :latitude 6.3625552,
    :source :openstreetmap,
    :homepage "http://www.fondationzinsou.org",
-   :locality "Cotonou"}
+   :location "Cotonou"}
   {:name "Forêt ORO de Kpankou",
    :longitude 2.5876093,
    :latitude 7.3314985,
@@ -173,7 +173,7 @@
    :latitude 6.5006841,
    :source :openstreetmap,
    :homepage "https://www.ouadada.com/",
-   :locality "Porto-Novo"}
+   :location "Porto-Novo"}
   {:name "Palais Agonglo",
    :longitude 1.9998372,
    :latitude 7.1827976,
@@ -203,7 +203,7 @@
    :longitude 1.8251099,
    :latitude 6.2788514,
    :source :openstreetmap,
-   :locality "Grand-Popo"}
+   :location "Grand-Popo"}
   {:name "Porte du Non-Retour",
    :longitude 2.0878162,
    :latitude 6.3229457,

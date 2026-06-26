@@ -24,12 +24,12 @@
    :longitude -86.3559856,
    :latitude 13.0917596,
    :source :openstreetmap,
-   :locality "Esteli"}
+   :location "Esteli"}
   {:name "Casa de Cultura Calmecalt",
    :longitude -86.4799832,
    :latitude 13.3792019,
    :source :openstreetmap,
-   :locality "Pueblo Nuevo"}
+   :location "Pueblo Nuevo"}
   {:name "Casa de cultura Noel Ortuño",
    :longitude -86.2356255,
    :latitude 12.9683213,
@@ -74,7 +74,7 @@
    :longitude -83.7600994,
    :latitude 12.0104239,
    :source :openstreetmap,
-   :locality "Bluefields"}
+   :location "Bluefields"}
   {:name "Colonia Dambach",
    :longitude -86.2641619,
    :latitude 12.1558245,
@@ -83,7 +83,7 @@
    :longitude -85.951988,
    :latitude 11.9321723,
    :source :openstreetmap,
-   :locality "Granada"}
+   :location "Granada"}
   {:name "El Castillo del Cacao",
    :longitude -85.8994896,
    :latitude 12.9414033,
@@ -98,7 +98,7 @@
    :longitude -85.9949313,
    :latitude 13.0881291,
    :source :openstreetmap,
-   :locality "Jinotega"}
+   :location "Jinotega"}
   {:name "Galería Vivas",
    :longitude -86.0552178,
    :latitude 12.3035606,
@@ -144,7 +144,7 @@
    :longitude -86.0951575,
    :latitude 11.9045086,
    :source :openstreetmap,
-   :locality "Niquinohomo"}
+   :location "Niquinohomo"}
   {:name "MUSEO AUKA TANGNI",
    :longitude -83.9675495,
    :latitude 14.7444798,
@@ -174,7 +174,7 @@
    :longitude -86.057344,
    :latitude 11.756755,
    :source :openstreetmap,
-   :locality "Nandaime"}
+   :location "Nandaime"}
   {:name "Museo de la Revolución",
    :longitude -84.3979113,
    :latitude 11.0198893,
@@ -195,7 +195,7 @@
    :longitude -86.0010015,
    :latitude 13.0783586,
    :source :openstreetmap,
-   :locality "Jinotega"}
+   :location "Jinotega"}
   {:name "Museo del Folclor",
    :longitude -86.093529,
    :latitude 11.974156,
@@ -220,7 +220,7 @@
    :longitude -86.121436,
    :latitude 12.0029412,
    :source :openstreetmap,
-   :locality "Nindiri"}
+   :location "Nindiri"}
   {:name "Museo Nacudarí",
    :longitude -86.1195872,
    :latitude 11.9993237,
@@ -266,7 +266,7 @@
    :longitude -86.0973557,
    :latitude 11.977327,
    :source :openstreetmap,
-   :locality "Masaya"}],
+   :location "Masaya"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

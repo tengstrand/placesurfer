@@ -8,7 +8,7 @@
    :longitude 26.9884581,
    :latitude -16.8077298,
    :source :openstreetmap,
-   :locality "Choma"}
+   :location "Choma"}
   {:name "Field Museum",
    :longitude 25.865654,
    :latitude -17.9258686,
@@ -25,17 +25,17 @@
    :longitude 25.8551526,
    :latitude -17.847984,
    :source :openstreetmap,
-   :locality "Livingstone"}
+   :location "Livingstone"}
   {:name "Livingstone Railway Museum",
    :longitude 25.8479808,
    :latitude -17.862817,
    :source :openstreetmap,
-   :locality "Livingstone"}
+   :location "Livingstone"}
   {:name "Lusaka National Museum",
    :longitude 28.2913007,
    :latitude -15.4218737,
    :source :openstreetmap,
-   :locality "Lusaka"}
+   :location "Lusaka"}
   {:name "Moto Moto Museum",
    :longitude 31.3575855,
    :latitude -8.8213071,
@@ -45,7 +45,7 @@
    :latitude -17.8822013,
    :source :openstreetmap,
    :homepage "https://livingstoneartgallery.weebly.com",
-   :locality "Livingstone"}
+   :location "Livingstone"}
   {:name "Victoria Falls Bridge Visitor Centre",
    :longitude 25.8576796,
    :latitude -17.929589,

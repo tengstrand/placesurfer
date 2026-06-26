@@ -9,13 +9,13 @@
    :latitude 12.521802,
    :source :openstreetmap,
    :homepage "https://ateliers89.org/",
-   :locality "Oranjestad"}
+   :location "Oranjestad"}
   {:name "Community Museum",
    :longitude -69.9081416,
    :latitude 12.4337568,
    :source :openstreetmap,
    :homepage "https://artisaruba.com/",
-   :locality "Savaneta"}
+   :location "Savaneta"}
   {:name "Historical Museum",
    :longitude -70.0357433,
    :latitude 12.5177849,
@@ -29,7 +29,7 @@
    :longitude -70.0381623,
    :latitude 12.5210702,
    :source :openstreetmap,
-   :locality "Oranjestad"}],
+   :location "Oranjestad"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

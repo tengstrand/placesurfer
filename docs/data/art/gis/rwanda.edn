@@ -31,7 +31,7 @@
    :longitude 30.0535269,
    :latitude -1.94668,
    :source :openstreetmap,
-   :locality "Kigali"}
+   :location "Kigali"}
   {:name "Karisoke Exhibition",
    :longitude 29.6365772,
    :latitude -1.5045408,

@@ -9,7 +9,7 @@
    :latitude 42.769752869906,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30664",
-   :locality "Nikšić"}],
+   :location "Nikšić"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

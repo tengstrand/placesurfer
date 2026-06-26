@@ -9,7 +9,7 @@
    :latitude 42.7001858,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/amchall/",
-   :locality "Obiliq"}
+   :location "Obiliq"}
   {:name "Ansambli Kombëtar Shota",
    :longitude 21.1555234,
    :latitude 42.6630887,
@@ -27,7 +27,7 @@
    :longitude 21.3027735,
    :latitude 42.1378776,
    :source :openstreetmap,
-   :locality "Hani i Elezit"}
+   :location "Hani i Elezit"}
   {:name "Dom kulture \"Gračanica",
    :longitude 21.1883404,
    :latitude 42.6032387,
@@ -36,7 +36,7 @@
    :longitude 20.8386112,
    :latitude 42.9089302,
    :source :openstreetmap,
-   :locality "Zvečan"}
+   :location "Zvečan"}
   {:name "Galeria e Arteve",
    :longitude 21.1900635,
    :latitude 42.9119573,
@@ -49,7 +49,7 @@
    :longitude 20.8619022,
    :latitude 42.8929184,
    :source :openstreetmap,
-   :locality "Severna Kosovska Mitrovica / Mitrovicë Veriore"}
+   :location "Severna Kosovska Mitrovica / Mitrovicë Veriore"}
   {:name "Hyseni",
    :longitude 20.3209736,
    :latitude 42.6405195,
@@ -67,12 +67,12 @@
    :latitude 42.6550374,
    :source :openstreetmap,
    :homepage "http://k-tre.com",
-   :locality "Prishtinë"}
+   :location "Prishtinë"}
   {:name "Kulla e Avdullah Pashe Drenit",
    :longitude 20.4277624,
    :latitude 42.3831596,
    :source :openstreetmap,
-   :locality "Gjakova"}
+   :location "Gjakova"}
   {:name "LambdaLambdaLambda",
    :longitude 21.1596565,
    :latitude 42.6592481,
@@ -86,7 +86,7 @@
    :longitude 20.4004919,
    :latitude 42.7729626,
    :source :openstreetmap,
-   :locality "Vrellë,Istog"}
+   :location "Vrellë,Istog"}
   {:name "Mulliri i Haxhi Zekës",
    :longitude 20.2994848,
    :latitude 42.6629707,
@@ -108,7 +108,7 @@
    :latitude 42.3794709,
    :source :openstreetmap,
    :homepage "https://dtk.rks-gov.net/tkk_objekti_en.aspx?id=3207",
-   :locality "Gjakovë"}
+   :location "Gjakovë"}
   {:name "Muzeu i Burgut të Prishtinës - Burgu i Idealit",
    :longitude 21.1598874,
    :latitude 42.6629924,
@@ -138,7 +138,7 @@
    :longitude 20.8685905,
    :latitude 42.887281,
    :source :openstreetmap,
-   :locality "Mitrovicë"}
+   :location "Mitrovicë"}
   {:name "Muzeu i Pejës",
    :longitude 20.2922026,
    :latitude 42.6587043,
@@ -151,7 +151,7 @@
    :longitude 21.2563805,
    :latitude 42.2355493,
    :source :openstreetmap,
-   :locality "Kaçanik"}
+   :location "Kaçanik"}
   {:name "Muzeu i Vushtrrise",
    :longitude 20.9643498,
    :latitude 42.8197825,
@@ -176,12 +176,12 @@
    :longitude 21.2500568,
    :latitude 42.5741199,
    :source :openstreetmap,
-   :locality "Janjevë"}
+   :location "Janjevë"}
   {:name "SHTEPIA TRADICIONALE E FAMILJES QERKEZI MUZEU HISTORIK 1999",
    :longitude 20.4389994,
    :latitude 42.3728753,
    :source :openstreetmap,
-   :locality "Gjakove"}
+   :location "Gjakove"}
   {:name "Shtëpia e Herticëve",
    :longitude 21.1576284,
    :latitude 42.6775115,

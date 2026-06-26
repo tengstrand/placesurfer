@@ -20,7 +20,7 @@
    :longitude 15.0931974,
    :latitude 12.0919933,
    :source :openstreetmap,
-   :locality "انجمينا",
+   :location "انجمينا",
    :image "",
    :description ""}
   {:name "Centre Martin Luther King",
@@ -52,14 +52,14 @@
    :longitude 15.1487744,
    :latitude 12.1790609,
    :source :openstreetmap,
-   :locality "Gaoui",
+   :location "Gaoui",
    :image "",
    :description ""}
   {:name "Musée National المتحف الوطني",
    :longitude 15.0774352,
    :latitude 12.1254201,
    :source :openstreetmap,
-   :locality "انجمينا",
+   :location "انجمينا",
    :image "",
    :description ""}
   {:name "Palais Royal de Léré القصر الملكي في ليري",

@@ -17,7 +17,7 @@
    :latitude 18.0198223,
    :source :openstreetmap,
    :homepage "https://www.bobmarleymuseum.com/",
-   :locality "Kingston"}
+   :location "Kingston"}
   {:name "Charles Town Museum and Safu (Asafu) Yard",
    :longitude -76.6714341,
    :latitude 18.2133818,
@@ -42,7 +42,7 @@
    :longitude -77.0462106,
    :latitude 18.4220756,
    :source :openstreetmap,
-   :locality "Ocho Rios"}
+   :location "Ocho Rios"}
   {:name "Institute of Jamaica Museum",
    :longitude -77.9233707,
    :latitude 18.4735888,
@@ -67,7 +67,7 @@
    :longitude -76.9548052,
    :latitude 17.9956453,
    :source :openstreetmap,
-   :locality "Spanish Town"}
+   :location "Spanish Town"}
   {:name "Peter tosh museum",
    :longitude -76.7893495,
    :latitude 18.0114992,

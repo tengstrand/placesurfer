@@ -52,7 +52,7 @@
    :longitude 125.7231765,
    :latitude 38.9677066,
    :source :openstreetmap,
-   :locality "평양시"}
+   :location "평양시"}
   {:name "랑림혁명사적관",
    :longitude 127.1307783,
    :latitude 40.974334,
@@ -101,7 +101,7 @@
    :longitude 125.75114,
    :latitude 38.5035641,
    :source :openstreetmap,
-   :locality "류경동"}
+   :location "류경동"}
   {:name "삼지연혁명사적관",
    :longitude 128.3417989,
    :latitude 41.8307149,
@@ -122,7 +122,7 @@
    :longitude 125.7681472,
    :latitude 39.0306553,
    :source :openstreetmap,
-   :locality "Pyongyang 평양"}
+   :location "Pyongyang 평양"}
   {:name "왕재산혁명박물관",
    :longitude 130.0438681,
    :latitude 42.9636424,
@@ -199,7 +199,7 @@
    :longitude 125.744121,
    :latitude 39.0084457,
    :source :openstreetmap,
-   :locality "련화2동"}
+   :location "련화2동"}
   {:name "평양방직기계공장 혁명사적관",
    :longitude 125.7615809,
    :latitude 38.9975709,
@@ -208,7 +208,7 @@
    :longitude 125.729652,
    :latitude 39.0388873,
    :source :openstreetmap,
-   :locality "경흥동"}
+   :location "경흥동"}
   {:name "평천혁명사적관",
    :longitude 125.7247311,
    :latitude 38.9992079,

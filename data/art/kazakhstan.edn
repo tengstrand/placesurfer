@@ -9,7 +9,7 @@
    :latitude 54.8740186,
    :source :openstreetmap,
    :homepage "https://rah.kz/",
-   :locality "Петропавловск",
+   :location "Петропавловск",
    :image "",
    :description ""}
   {:name "Algyr",
@@ -54,7 +54,7 @@
    :latitude 49.6777765,
    :source :openstreetmap,
    :homepage "https://karlagmuseum.kz/",
-   :locality "Долинка",
+   :location "Долинка",
    :image "",
    :description ""}
   {:name "Kazoku",
@@ -91,14 +91,14 @@
    :longitude 77.0552251,
    :latitude 43.5687698,
    :source :openstreetmap,
-   :locality "Жаналык /Żanałyk/Zhanalyk",
+   :location "Жаналык /Żanałyk/Zhanalyk",
    :image "",
    :description ""}
   {:name "The One",
    :longitude 76.9547626,
    :latitude 43.2252551,
    :source :openstreetmap,
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "Xadzhymukan",
@@ -156,7 +156,7 @@
    :latitude 43.2486883,
    :source :openstreetmap,
    :homepage "https://almatymuseum.kz/",
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "Алматы Өнер Мұражайы",
@@ -170,7 +170,7 @@
    :longitude 77.4505299,
    :latitude 43.3680479,
    :source :openstreetmap,
-   :locality "Есик",
+   :location "Есик",
    :image "",
    :description ""}
   {:name "Археолого-этнографический музей",
@@ -184,7 +184,7 @@
    :longitude 80.2219551,
    :latitude 50.4031411,
    :source :openstreetmap,
-   :locality "Семей",
+   :location "Семей",
    :image "",
    :description ""}
   {:name "Астана-Экспо КС",
@@ -210,7 +210,7 @@
    :longitude 51.4336671,
    :latitude 51.2516269,
    :source :openstreetmap,
-   :locality "Орал",
+   :location "Орал",
    :image "",
    :description ""}
   {:name "Аудандық Орталық Музейі",
@@ -229,7 +229,7 @@
    :longitude 57.1399816,
    :latitude 50.2767846,
    :source :openstreetmap,
-   :locality "Ақтөбе",
+   :location "Ақтөбе",
    :image "",
    :description ""}
   {:name "Байганинский Музей",
@@ -297,7 +297,7 @@
    :longitude 77.062772,
    :latitude 43.8822276,
    :source :openstreetmap,
-   :locality "Қонаев",
+   :location "Қонаев",
    :image "",
    :description ""}
   {:name "Выставочный зал",
@@ -366,7 +366,7 @@
    :longitude 79.2255263,
    :latitude 43.0141912,
    :source :openstreetmap,
-   :locality "Кеген",
+   :location "Кеген",
    :image "",
    :description ""}
   {:name "Дом культуры",
@@ -385,7 +385,7 @@
    :longitude 61.6490668,
    :latitude 46.8049336,
    :source :openstreetmap,
-   :locality "Арал",
+   :location "Арал",
    :image "",
    :description ""}
   {:name "Дом культуры",
@@ -404,7 +404,7 @@
    :longitude 77.2243006,
    :latitude 52.7869589,
    :source :openstreetmap,
-   :locality "Константиновка",
+   :location "Константиновка",
    :image "",
    :description ""}
   {:name "Дом культуры Геолог",
@@ -417,7 +417,7 @@
    :longitude 68.5098776,
    :latitude 43.5141681,
    :source :openstreetmap,
-   :locality "Кентау",
+   :location "Кентау",
    :image "",
    :description ""}
   {:name "Дом-музей Ахмета и Газизы Жубановых",
@@ -443,7 +443,7 @@
    :latitude 43.2527165,
    :source :openstreetmap,
    :homepage "https://ikf.kz/museum",
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "Е. И. Пугачёв үй-мұражайы",
@@ -506,7 +506,7 @@
    :longitude 76.5199113,
    :latitude 43.1856002,
    :source :openstreetmap,
-   :locality "Шамалған",
+   :location "Шамалған",
    :image "",
    :description ""}
   {:name "Историко-культурный центр первого Президента РК",
@@ -594,7 +594,7 @@
    :longitude 79.8788329,
    :latitude 43.0438283,
    :source :openstreetmap,
-   :locality "Карасаз",
+   :location "Карасаз",
    :image "",
    :description ""}
   {:name "Мавзолей Габдул Уахит Хазрет",
@@ -607,7 +607,7 @@
    :longitude 55.1929394,
    :latitude 45.3231749,
    :source :openstreetmap,
-   :locality "Бейнеу",
+   :location "Бейнеу",
    :image "",
    :description ""}
   {:name "Махамбетский историко-краеведческий музей",
@@ -620,7 +620,7 @@
    :longitude 71.4312983,
    :latitude 51.1559295,
    :source :openstreetmap,
-   :locality "Астана",
+   :location "Астана",
    :image "",
    :description ""}
   {:name "Молодёжный ДК",
@@ -663,7 +663,7 @@
    :longitude 68.7951696,
    :latitude 42.420113,
    :source :openstreetmap,
-   :locality "Арыс",
+   :location "Арыс",
    :image "",
    :description ""}
   {:name "Музей",
@@ -712,7 +712,7 @@
    :longitude 69.5925437,
    :latitude 42.3288709,
    :source :openstreetmap,
-   :locality "Шымкент",
+   :location "Шымкент",
    :image "",
    :description ""}
   {:name "Музей заповедник - «Хан Ордалы Сарайчик»",
@@ -749,7 +749,7 @@
    :longitude 51.745526,
    :latitude 51.3487947,
    :source :openstreetmap,
-   :locality "Дарьинск",
+   :location "Дарьинск",
    :image "",
    :description ""}
   {:name "Музей Искусств",
@@ -787,7 +787,7 @@
    :longitude 68.2931178,
    :latitude 43.2915881,
    :source :openstreetmap,
-   :locality "Туркестан",
+   :location "Туркестан",
    :image "",
    :description ""}
   {:name "Музей Турксиба",
@@ -812,7 +812,7 @@
    :longitude 80.2561977,
    :latitude 50.4069868,
    :source :openstreetmap,
-   :locality "Семей",
+   :location "Семей",
    :image "",
    :description ""}
   {:name "Мәдениет үйі",
@@ -825,7 +825,7 @@
    :longitude 71.4421493,
    :latitude 51.1146527,
    :source :openstreetmap,
-   :locality "Астана",
+   :location "Астана",
    :image "",
    :description ""}
   {:name "Областной историко-краеведческий музей",
@@ -844,7 +844,7 @@
    :longitude 69.1366534,
    :latitude 54.8651303,
    :source :openstreetmap,
-   :locality "Петропавловск",
+   :location "Петропавловск",
    :image "",
    :description ""}
   {:name "Областной музей",
@@ -857,7 +857,7 @@
    :longitude 69.1481953,
    :latitude 54.866801,
    :source :openstreetmap,
-   :locality "Петропавловск",
+   :location "Петропавловск",
    :image "",
    :description ""}
   {:name "Органный зал Национальной академии музыки РК",
@@ -907,7 +907,7 @@
    :longitude 76.9328113,
    :latitude 43.2520448,
    :source :openstreetmap,
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "Риддерский краеведческий музей",
@@ -945,7 +945,7 @@
    :longitude 71.4235922,
    :latitude 51.1714825,
    :source :openstreetmap,
-   :locality "Астана",
+   :location "Астана",
    :image "",
    :description ""}
   {:name "Тамгалы",
@@ -959,7 +959,7 @@
    :longitude 71.3760666,
    :latitude 42.9007976,
    :source :openstreetmap,
-   :locality "Тараз",
+   :location "Тараз",
    :image "",
    :description ""}
   {:name "Тарас Шевченко мемориалдық мұражайы",
@@ -984,7 +984,7 @@
    :longitude 68.2755941,
    :latitude 43.2995097,
    :source :openstreetmap,
-   :locality "Туркестан",
+   :location "Туркестан",
    :image "",
    :description ""}
   {:name
@@ -1016,7 +1016,7 @@
    :longitude 68.5026399,
    :latitude 43.5226532,
    :source :openstreetmap,
-   :locality "Кентау",
+   :location "Кентау",
    :image "",
    :description ""}
   {:name "Центральный музей имени А.Найманбаева",
@@ -1029,7 +1029,7 @@
    :longitude 59.6134319,
    :latitude 47.829128,
    :source :openstreetmap,
-   :locality "Шалкар",
+   :location "Шалкар",
    :image "",
    :description ""}
   {:name "Шафердің музей-үйі",
@@ -1049,7 +1049,7 @@
    :latitude 50.6265497,
    :source :openstreetmap,
    :homepage "https://shikm.kz/",
-   :locality "Шемонаиха",
+   :location "Шемонаиха",
    :image "",
    :description ""}
   {:name "Ы. Алтынсарин Мұражайы",
@@ -1095,7 +1095,7 @@
    :latitude 43.2358799,
    :source :openstreetmap,
    :homepage "https://www.csmrk.kz/",
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "Қазақстан Республикасының Ұлттық Мұражайы",
@@ -1116,14 +1116,14 @@
    :latitude 43.2356381,
    :source :openstreetmap,
    :homepage "https://www.gmirk.kz/",
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "ҚР Тұңғыш Президенті Н. Ә. Назарбаевтың мұражайы",
    :longitude 71.4190323,
    :latitude 51.1667134,
    :source :openstreetmap,
-   :locality "Астана",
+   :location "Астана",
    :image "",
    :description ""}
   {:name "ҚР Қарулы күштерінің әскери-тарихи мұражайы",
@@ -1154,7 +1154,7 @@
    :longitude 76.923863,
    :latitude 43.2220796,
    :source :openstreetmap,
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "Әлихан Бөкейханов",
@@ -1168,7 +1168,7 @@
    :latitude 50.2886212,
    :source :openstreetmap,
    :homepage "https://aliya-museum.kz/",
-   :locality "Ақтөбе",
+   :location "Ақтөбе",
    :image "",
    :description ""}
   {:name "Әскери техникалар көрмесі",
@@ -1187,7 +1187,7 @@
    :longitude 76.9496056,
    :latitude 43.2434318,
    :source :openstreetmap,
-   :locality "Алматы",
+   :location "Алматы",
    :image "",
    :description ""}
   {:name "Өлкетану Мұражайы",
@@ -1201,14 +1201,14 @@
    :latitude 50.2875857,
    :source :openstreetmap,
    :homepage "https://oner-muzei.kz/",
-   :locality "Ақтөбе",
+   :location "Ақтөбе",
    :image "",
    :description ""}
   {:name "Өнер орталығы",
    :longitude 57.1829975,
    :latitude 50.2840384,
    :source :openstreetmap,
-   :locality "Ақтөбе",
+   :location "Ақтөбе",
    :image "",
    :description ""}],
  :source

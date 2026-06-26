@@ -20,7 +20,7 @@
    :longitude 129.1557479,
    :latitude 35.3898713,
    :source :openstreetmap,
-   :locality "양산시"}
+   :location "양산시"}
   {:name "3갤러리",
    :longitude 128.5941709,
    :latitude 35.8605848,
@@ -42,7 +42,7 @@
    :latitude 38.5841452,
    :source :openstreetmap,
    :homepage "http://www.tongiltour.co.kr",
-   :locality "고성군"}
+   :location "고성군"}
   {:name "671군함박물관",
    :longitude 126.5392451,
    :latitude 37.6406553,
@@ -76,7 +76,7 @@
    :longitude 128.3826507,
    :latitude 38.5764378,
    :source :openstreetmap,
-   :locality "고성군"}
+   :location "고성군"}
   {:name "DOCKING SEOUL",
    :longitude 126.9696175,
    :latitude 37.5561664,
@@ -90,7 +90,7 @@
    :longitude 127.0305922,
    :latitude 37.5224726,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "Gallery 526",
    :longitude 127.0006067,
    :latitude 37.497744,
@@ -115,7 +115,7 @@
    :longitude 127.1141583,
    :latitude 37.544493,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "Humphreys Museum",
    :longitude 127.0258108,
    :latitude 36.9492311,
@@ -128,7 +128,7 @@
    :longitude 126.4894048,
    :latitude 33.4526781,
    :source :openstreetmap,
-   :locality "제주시"}
+   :location "제주시"}
   {:name "K-Culture Museum",
    :longitude 126.9741285,
    :latitude 37.5757445,
@@ -150,17 +150,17 @@
    :longitude 127.0654264,
    :latitude 37.506443,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "KT&G상상마당 춘천",
    :longitude 127.7023565,
    :latitude 37.8735723,
    :source :openstreetmap,
-   :locality "춘천시"}
+   :location "춘천시"}
   {:name "LG아트센터 서울",
    :longitude 126.8294011,
    :latitude 37.5655385,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "Lynn Fine Art Gallery",
    :longitude 127.2990765,
    :latitude 37.5184129,
@@ -173,7 +173,7 @@
    :longitude 126.3888061,
    :latitude 34.7819657,
    :source :openstreetmap,
-   :locality "목포시"}
+   :location "목포시"}
   {:name "Multi-Museum",
    :longitude 126.9325563,
    :latitude 37.618831,
@@ -186,12 +186,12 @@
    :longitude 127.1056318,
    :latitude 36.8062168,
    :source :openstreetmap,
-   :locality "천안시"}
+   :location "천안시"}
   {:name "name=운정행복센터",
    :longitude 126.7512513,
    :latitude 37.7238485,
    :source :openstreetmap,
-   :locality "파주시"}
+   :location "파주시"}
   {:name "Naval Museum",
    :longitude 128.6595959,
    :latitude 35.134337,
@@ -221,7 +221,7 @@
    :longitude 126.9342976,
    :latitude 37.609285,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "SeMA벙커",
    :longitude 126.9236374,
    :latitude 37.5248541,
@@ -232,7 +232,7 @@
    :latitude 37.5274811,
    :source :openstreetmap,
    :homepage "sh-gallery.com",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "Trick Eye Museum",
    :longitude 126.9218976,
    :latitude 37.5538039,
@@ -297,7 +297,7 @@
    :latitude 37.5815454,
    :source :openstreetmap,
    :homepage "https://www.gahoemuseum.org/new",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "간송미술관",
    :longitude 126.99679,
    :latitude 37.593603,
@@ -371,7 +371,7 @@
    :latitude 34.6381681,
    :source :openstreetmap,
    :homepage "http://arthall.gangjin.go.kr",
-   :locality "강진군"}
+   :location "강진군"}
   {:name "강화문예회관",
    :longitude 126.4743047,
    :latitude 37.7453164,
@@ -393,12 +393,12 @@
    :latitude 37.4162815,
    :source :openstreetmap,
    :homepage "https://gv.koica.go.kr/main.htm",
-   :locality "성남시"}
+   :location "성남시"}
   {:name "개운산생태체험관",
    :longitude 127.0257595,
    :latitude 37.597211,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "갤러리 빛과소금",
    :longitude 127.6801562,
    :latitude 34.7482785,
@@ -408,22 +408,22 @@
    :latitude 35.7006703,
    :source :openstreetmap,
    :homepage "https://www.galleryiseo.com/",
-   :locality "청도군"}
+   :location "청도군"}
   {:name "갤러리 팔조",
    :longitude 128.6848851,
    :latitude 35.6975533,
    :source :openstreetmap,
-   :locality "청도군"}
+   :location "청도군"}
   {:name "갤러리107",
    :longitude 127.2944384,
    :latitude 35.2809718,
    :source :openstreetmap,
-   :locality "곡성군"}
+   :location "곡성군"}
   {:name "갤러리Ang",
    :longitude 127.1108492,
    :latitude 37.3467103,
    :source :openstreetmap,
-   :locality "성남시"}
+   :location "성남시"}
   {:name "갤러리노마드",
    :longitude 127.6752498,
    :latitude 34.7629064,
@@ -453,12 +453,12 @@
    :latitude 37.5772736,
    :source :openstreetmap,
    :homepage "https://www.galleryhyundai.com/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "갯벌문화관",
    :longitude 126.6495078,
    :latitude 37.3823758,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "거돈사지 유적센터",
    :longitude 127.7912428,
    :latitude 37.1917914,
@@ -476,23 +476,23 @@
    :longitude 128.7234626,
    :latitude 34.8670944,
    :source :openstreetmap,
-   :locality "거제시"}
+   :location "거제시"}
   {:name "거제민속박물관",
    :longitude 128.6772083,
    :latitude 34.949951,
    :source :openstreetmap,
-   :locality "거제시"}
+   :location "거제시"}
   {:name "거제박물관",
    :longitude 128.6861718,
    :latitude 34.8940123,
    :source :openstreetmap,
-   :locality "거제시"}
+   :location "거제시"}
   {:name "거제어촌민속전시관",
    :longitude 128.7018937,
    :latitude 34.8336523,
    :source :openstreetmap,
    :homepage "http://www.geojemarine.or.kr",
-   :locality "거제시"}
+   :location "거제시"}
   {:name "거창문화센터",
    :longitude 127.9102441,
    :latitude 35.673513,
@@ -506,7 +506,7 @@
    :longitude 127.0756128,
    :latitude 37.5423644,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "건들바우박물관",
    :longitude 128.6010552,
    :latitude 35.8655099,
@@ -531,7 +531,7 @@
    :longitude 127.064351,
    :latitude 37.9446633,
    :source :openstreetmap,
-   :locality "동두천시"}
+   :location "동두천시"}
   {:name "경기여고내경운박물관",
    :longitude 127.065421,
    :latitude 37.487164,
@@ -570,7 +570,7 @@
    :longitude 128.81282,
    :latitude 35.9115017,
    :source :openstreetmap,
-   :locality "경산시"}
+   :location "경산시"}
   {:name "경산시립박물관",
    :longitude 128.7632334,
    :latitude 35.8139645,
@@ -591,7 +591,7 @@
    :longitude 129.3914072,
    :latitude 36.0735614,
    :source :openstreetmap,
-   :locality "포항시"}
+   :location "포항시"}
   {:name "경상북도산림과학박물관",
    :longitude 128.822868,
    :latitude 36.711686,
@@ -613,7 +613,7 @@
    :latitude 37.5720687,
    :source :openstreetmap,
    :homepage "https://www.policemuseum.go.kr/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "경희대학교 중앙박물관",
    :longitude 127.0531465,
    :latitude 37.5966718,
@@ -634,12 +634,12 @@
    :longitude 126.7418378,
    :latitude 37.5373058,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "계양문화회관",
    :longitude 126.7178765,
    :latitude 37.5461708,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "계원예술대학교미술관",
    :longitude 126.9785509,
    :latitude 37.3790429,
@@ -692,7 +692,7 @@
    :longitude 128.3208122,
    :latitude 34.9793696,
    :source :openstreetmap,
-   :locality "고성군"}
+   :location "고성군"}
   {:name "고성탈박물관",
    :longitude 128.3338369,
    :latitude 34.9709891,
@@ -709,7 +709,7 @@
    :longitude 126.8362342,
    :latitude 37.6172591,
    :source :openstreetmap,
-   :locality "고양시"}
+   :location "고양시"}
   {:name "고양시문예회관",
    :longitude 126.8327763,
    :latitude 37.6580337,
@@ -718,12 +718,12 @@
    :longitude 126.7802706,
    :latitude 37.6702009,
    :source :openstreetmap,
-   :locality "고양시"}
+   :location "고양시"}
   {:name "고양어린이박물관",
    :longitude 126.8310704,
    :latitude 37.629447,
    :source :openstreetmap,
-   :locality "고양시"}
+   :location "고양시"}
   {:name "고운사진미술관",
    :longitude 129.1638947,
    :latitude 35.1620738,
@@ -733,7 +733,7 @@
    :latitude 36.6441327,
    :source :openstreetmap,
    :homepage "https://www.cheongju.go.kr/jikjiworld/index.do",
-   :locality "청주시"}
+   :location "청주시"}
   {:name "고창고인돌박물관",
    :longitude 126.6524645,
    :latitude 35.4416908,
@@ -743,7 +743,7 @@
    :latitude 35.4324669,
    :source :openstreetmap,
    :homepage "pansorimuseum.gochang.go.kr/",
-   :locality "고창군"}
+   :location "고창군"}
   {:name "고추박물관",
    :longitude 126.7794582,
    :latitude 36.4404863,
@@ -780,7 +780,7 @@
    :longitude 127.1697171,
    :latitude 35.3169801,
    :source :openstreetmap,
-   :locality "곡성군"}
+   :location "곡성군"}
   {:name "곤충박물관",
    :longitude 126.468701,
    :latitude 37.755457,
@@ -823,18 +823,18 @@
    :latitude 37.4771038,
    :source :openstreetmap,
    :homepage "https://www.gmcf.or.kr/Main/Index",
-   :locality "광명시"}
+   :location "광명시"}
   {:name "광명업사이클 아트센터",
    :longitude 126.863443,
    :latitude 37.4246998,
    :source :openstreetmap,
-   :locality "광명시"}
+   :location "광명시"}
   {:name "광명업사이클아트센터",
    :longitude 126.8703639,
    :latitude 37.4637163,
    :source :openstreetmap,
    :homepage "https://upcycle.gm.go.kr/",
-   :locality "광명시"}
+   :location "광명시"}
   {:name "광복기념관",
    :longitude 129.0745549,
    :latitude 35.1799009,
@@ -855,12 +855,12 @@
    :longitude 127.6908773,
    :latitude 34.9372983,
    :source :openstreetmap,
-   :locality "광양시"}
+   :location "광양시"}
   {:name "광양역사문화관",
    :longitude 127.5861542,
    :latitude 34.9757246,
    :source :openstreetmap,
-   :locality "광양시"}
+   :location "광양시"}
   {:name "광양장도박물관",
    :longitude 127.5805566,
    :latitude 34.9769136,
@@ -919,12 +919,12 @@
    :longitude 127.3339749,
    :latitude 36.5502315,
    :source :openstreetmap,
-   :locality "연동면"}
+   :location "연동면"}
   {:name "구대부면사무소",
    :longitude 126.5849602,
    :latitude 37.2435711,
    :source :openstreetmap,
-   :locality "안산시"}
+   :location "안산시"}
   {:name "구룡포근대역사관",
    :longitude 129.5615858,
    :latitude 35.9905475,
@@ -970,19 +970,19 @@
    :longitude 128.7970575,
    :latitude 36.5426975,
    :source :openstreetmap,
-   :locality "안동시"}
+   :location "안동시"}
   {:name "국립공주박물관",
    :longitude 127.1122089,
    :latitude 36.4654991,
    :source :openstreetmap,
    :homepage "https://gongju.museum.go.kr/",
-   :locality "공주시"}
+   :location "공주시"}
   {:name "국립과천과학관",
    :longitude 127.0055411,
    :latitude 37.4385296,
    :source :openstreetmap,
    :homepage "http://www.sciencecenter.go.kr/",
-   :locality "과천시"}
+   :location "과천시"}
   {:name "국립광주과학관",
    :longitude 126.8498472,
    :latitude 35.2300105,
@@ -1000,7 +1000,7 @@
    :latitude 36.4447045,
    :source :openstreetmap,
    :homepage "https://www.nnibr.re.kr/",
-   :locality "상주시"}
+   :location "상주시"}
   {:name "국립남도국악원",
    :longitude 126.2248507,
    :latitude 34.3849146,
@@ -1010,7 +1010,7 @@
    :latitude 37.2758171,
    :source :openstreetmap,
    :homepage "https://www.namuk.or.kr/",
-   :locality "수원시"}
+   :location "수원시"}
   {:name "국립대구과학관",
    :longitude 128.4648646,
    :latitude 35.6867614,
@@ -1041,23 +1041,23 @@
    :longitude 126.6939201,
    :latitude 37.7867197,
    :source :openstreetmap,
-   :locality "파주시"}
+   :location "파주시"}
   {:name "국립부산과학관",
    :longitude 129.2127964,
    :latitude 35.2044274,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "국립부산국악원",
    :longitude 129.0540222,
    :latitude 35.1713922,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "국립부여박물관",
    :longitude 126.9188707,
    :latitude 36.2763146,
    :source :openstreetmap,
    :homepage "https://buyeo.museum.go.kr/",
-   :locality "부여군"}
+   :location "부여군"}
   {:name "국립산림박물관",
    :longitude 127.164739,
    :latitude 37.755653,
@@ -1066,7 +1066,7 @@
    :longitude 128.5405444,
    :latitude 38.2028006,
    :source :openstreetmap,
-   :locality "속초시"}
+   :location "속초시"}
   {:name "국립새만금간척박물관",
    :longitude 126.5564605,
    :latitude 35.6963016,
@@ -1080,7 +1080,7 @@
    :latitude 37.3944412,
    :source :openstreetmap,
    :homepage "https://www.mow.or.kr/",
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "국립수산과학관",
    :longitude 129.2240199,
    :latitude 35.1935404,
@@ -1098,7 +1098,7 @@
    :longitude 128.1341887,
    :latitude 35.1791702,
    :source :openstreetmap,
-   :locality "진주시"}
+   :location "진주시"}
   {:name "국립전주박물관",
    :longitude 127.089704,
    :latitude 35.801028,
@@ -1121,13 +1121,13 @@
    :latitude 36.3755939,
    :source :openstreetmap,
    :homepage "https://www.science.go.kr/",
-   :locality "대전광역시"}
+   :location "대전광역시"}
   {:name "국립중앙박물관 어린이박물관",
    :longitude 126.9783367,
    :latitude 37.5238304,
    :source :openstreetmap,
    :homepage "child.museum.go.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "국립진주박물관",
    :longitude 128.0767991,
    :latitude 35.1890527,
@@ -1137,30 +1137,30 @@
    :latitude 36.6492486,
    :source :openstreetmap,
    :homepage "https://cheongju.museum.go.kr/",
-   :locality "청주시"}
+   :location "청주시"}
   {:name "국립체육박물관(2020년예정)",
    :longitude 127.1152342,
    :latitude 37.5201923,
    :source :openstreetmap,
    :homepage "https://kspo.or.kr/sportsmuseum/olympic.jsp",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "국립춘천박물관",
    :longitude 127.753855,
    :latitude 37.8639751,
    :source :openstreetmap,
-   :locality "춘천시"}
+   :location "춘천시"}
   {:name "국립충주기상과학관",
    :longitude 127.9487824,
    :latitude 36.9856395,
    :source :openstreetmap,
    :homepage "https://science.kma.go.kr/chungju/",
-   :locality "충주시"}
+   :location "충주시"}
   {:name "국립항공박물관",
    :longitude 126.8084643,
    :latitude 37.5566465,
    :source :openstreetmap,
    :homepage "https://www.aviation.or.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "국립해양과학관",
    :longitude 129.4100562,
    :latitude 37.0726855,
@@ -1170,7 +1170,7 @@
    :latitude 35.0785635,
    :source :openstreetmap,
    :homepage "https://www.knmm.or.kr/",
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "국립해양생물자원관",
    :longitude 126.6690165,
    :latitude 36.0174515,
@@ -1185,7 +1185,7 @@
    :latitude 37.4309785,
    :source :openstreetmap,
    :homepage "https://www.mmca.go.kr/contents.do?menuId=9051001516",
-   :locality "과천시"}
+   :location "과천시"}
   {:name "국립호남권생물자원관",
    :longitude 126.3662744,
    :latitude 34.7669737,
@@ -1200,7 +1200,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.gugak.go.kr/site/homepage/menu/viewMenu?menuid=001013003002&lang=ko",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "국악음반박물관",
    :longitude 127.372942,
    :latitude 37.641777,
@@ -1218,7 +1218,7 @@
    :longitude 126.6684803,
    :latitude 37.3808766,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "국제현대미술관",
    :longitude 128.506466,
    :latitude 37.207992,
@@ -1253,7 +1253,7 @@
    :longitude 126.707298,
    :latitude 35.9608711,
    :source :openstreetmap,
-   :locality "군산시"}
+   :location "군산시"}
   {:name "군산청소년수련관",
    :longitude 126.696483,
    :latitude 35.9797538,
@@ -1270,7 +1270,7 @@
    :longitude 126.9271942,
    :latitude 37.3662235,
    :source :openstreetmap,
-   :locality "군포시"}
+   :location "군포시"}
   {:name "군포시물누리체험관",
    :longitude 126.899056,
    :latitude 37.3213114,
@@ -1283,7 +1283,7 @@
    :longitude 129.2249959,
    :latitude 35.2630714,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "그리스 신화 박물관",
    :longitude 126.3574456,
    :latitude 33.3478761,
@@ -1301,7 +1301,7 @@
    :longitude 127.1366928,
    :latitude 37.2772264,
    :source :openstreetmap,
-   :locality "용인시"}
+   :location "용인시"}
   {:name "금강미술관",
    :longitude 128.628922,
    :latitude 36.819167,
@@ -1334,7 +1334,7 @@
    :longitude 126.9044808,
    :latitude 37.4464029,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "금호시민문화관",
    :longitude 126.9147114,
    :latitude 35.1519076,
@@ -1353,7 +1353,7 @@
    :latitude 37.4264268,
    :source :openstreetmap,
    :homepage "http://www.kihyungdo.co.kr/",
-   :locality "광명시"}
+   :location "광명시"}
   {:name "기흥성뮤지엄",
    :longitude 127.4157087,
    :latitude 37.4990164,
@@ -1370,7 +1370,7 @@
    :longitude 128.7154558,
    :latitude 34.9314108,
    :source :openstreetmap,
-   :locality "거제시"}
+   :location "거제시"}
   {:name "김재선갤러리",
    :longitude 129.0480013,
    :latitude 35.1286587,
@@ -1396,7 +1396,7 @@
    :longitude 128.1845834,
    :latitude 36.1244963,
    :source :openstreetmap,
-   :locality "김천시"}
+   :location "김천시"}
   {:name "김천문화예술회관",
    :longitude 128.088667,
    :latitude 36.138096,
@@ -1429,7 +1429,7 @@
    :longitude 128.8082007,
    :latitude 35.1799708,
    :source :openstreetmap,
-   :locality "김해시"}
+   :location "김해시"}
   {:name "김해박물관",
    :longitude 128.8735416,
    :latitude 35.2427915,
@@ -1474,7 +1474,7 @@
    :longitude 126.7668904,
    :latitude 35.0341103,
    :source :openstreetmap,
-   :locality "나주시"}
+   :location "나주시"}
   {:name "나주시 향토문화회관",
    :longitude 126.7114323,
    :latitude 35.0145953,
@@ -1523,7 +1523,7 @@
    :longitude 128.0303733,
    :latitude 35.1625221,
    :source :openstreetmap,
-   :locality "진주시"}
+   :location "진주시"}
   {:name "남도예술화랑",
    :longitude 126.93179,
    :latitude 35.176155,
@@ -1560,7 +1560,7 @@
    :longitude 127.2444339,
    :latitude 37.546397,
    :source :openstreetmap,
-   :locality "남양주시"}
+   :location "남양주시"}
   {:name "남원향토박물관",
    :longitude 127.3870487,
    :latitude 35.4016461,
@@ -1692,7 +1692,7 @@
    :longitude 128.3712069,
    :latitude 36.9827646,
    :source :openstreetmap,
-   :locality "단양군"}
+   :location "단양군"}
   {:name "단오문화관",
    :longitude 128.8951031,
    :latitude 37.7482477,
@@ -1765,13 +1765,13 @@
    :longitude 129.0945529,
    :latitude 35.2463944,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "대공연장",
    :longitude 128.5885287,
    :latitude 38.2126173,
    :source :openstreetmap,
    :homepage "https://www.sokcho.go.kr/ct/culture",
-   :locality "속초시"}
+   :location "속초시"}
   {:name "대구교육박물관",
    :longitude 128.6123688,
    :latitude 35.8974195,
@@ -1839,7 +1839,7 @@
    :longitude 127.8201294,
    :latitude 36.9781368,
    :source :openstreetmap,
-   :locality "충주시"}
+   :location "충주시"}
   {:name "대신화랑",
    :longitude 126.923144,
    :latitude 35.150711,
@@ -1876,7 +1876,7 @@
    :longitude 127.3352707,
    :latitude 36.3367955,
    :source :openstreetmap,
-   :locality "대전광역시"}
+   :location "대전광역시"}
   {:name "대전연정국악문화회관",
    :longitude 127.416092,
    :latitude 36.321871,
@@ -1936,7 +1936,7 @@
    :latitude 37.5739201,
    :source :openstreetmap,
    :homepage "https://www.much.go.kr/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "대한민국임시정부기념관",
    :longitude 127.4923376,
    :latitude 36.4614411,
@@ -2057,7 +2057,7 @@
    :longitude 126.7780609,
    :latitude 35.1539984,
    :source :openstreetmap,
-   :locality "광주광역시"}
+   :location "광주광역시"}
   {:name "동구릉역사문화관",
    :longitude 127.1362671,
    :latitude 37.6169184,
@@ -2075,12 +2075,12 @@
    :latitude 37.5670638,
    :source :openstreetmap,
    :homepage "http://www.ddp.or.kr/page/173/detail?menuId=45",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "동래문화회관 (Dongnae Cultural Center)",
    :longitude 129.090518,
    :latitude 35.2119852,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "동방화랑",
    :longitude 128.754355,
    :latitude 35.480572,
@@ -2097,7 +2097,7 @@
    :longitude 128.622372,
    :latitude 35.8904962,
    :source :openstreetmap,
-   :locality "대구광역시"}
+   :location "대구광역시"}
   {:name "동산도기박물관",
    :longitude 127.3739383,
    :latitude 36.3190464,
@@ -2106,7 +2106,7 @@
    :longitude 129.0797017,
    :latitude 35.0712281,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "동서개발주택전시관",
    :longitude 128.623171,
    :latitude 35.835058,
@@ -2167,7 +2167,7 @@
    :longitude 127.0276565,
    :latitude 37.6524379,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "둥지갤러리2F",
    :longitude 127.0192045,
    :latitude 37.5719203,
@@ -2189,17 +2189,17 @@
    :longitude 127.7661131,
    :latitude 34.7454619,
    :source :openstreetmap,
-   :locality "여수시"}
+   :location "여수시"}
   {:name "딴딴회관",
    :longitude 127.3186897,
    :latitude 37.5428729,
    :source :openstreetmap,
-   :locality "양평군"}
+   :location "양평군"}
   {:name "딴뚝미술관",
    :longitude 126.3505976,
    :latitude 36.5068244,
    :source :openstreetmap,
-   :locality "태안군"}
+   :location "태안군"}
   {:name "떡 박물관",
    :longitude 126.990576,
    :latitude 37.574915,
@@ -2217,12 +2217,12 @@
    :longitude 127.1476541,
    :latitude 37.5653169,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "라파스튜디오",
    :longitude 127.0598435,
    :latitude 37.5947714,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "레오나르도다빈치박물관(다빈치뮤지엄)",
    :longitude 126.3859761,
    :latitude 33.3192516,
@@ -2268,7 +2268,7 @@
    :longitude 127.1054044,
    :latitude 37.4532955,
    :source :openstreetmap,
-   :locality "성남시"}
+   :location "성남시"}
   {:name "마산불교전시관",
    :longitude 128.586837,
    :latitude 35.221209,
@@ -2285,7 +2285,7 @@
    :longitude 127.8064143,
    :latitude 36.97232,
    :source :openstreetmap,
-   :locality "충주시"}
+   :location "충주시"}
   {:name "마한교육문화회관",
    :longitude 126.960787,
    :latitude 35.938617,
@@ -2312,14 +2312,14 @@
    :latitude 37.4773099,
    :source :openstreetmap,
    :homepage "www.manhae.or.kr",
-   :locality "광주시"}
+   :location "광주시"}
   {:name "말박물관",
    :longitude 127.0120701,
    :latitude 37.4477873,
    :source :openstreetmap,
    :homepage
    "https://park.kra.co.kr/cms/guide/horse-museum/info/seoul",
-   :locality "과천시"}
+   :location "과천시"}
   {:name "매곡관",
    :longitude 127.9324346,
    :latitude 36.1918471,
@@ -2371,13 +2371,13 @@
    :latitude 36.7507096,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/monamour1857/",
-   :locality "아산시"}
+   :location "아산시"}
   {:name "모네아뜰리에",
    :longitude 127.0606328,
    :latitude 37.5978062,
    :source :openstreetmap,
    :homepage "https://blog.naver.com/mone_atelier",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "모란미술관",
    :longitude 127.3242748,
    :latitude 37.6505022,
@@ -2415,7 +2415,7 @@
    :longitude 126.3820907,
    :latitude 34.7875205,
    :source :openstreetmap,
-   :locality "목포시"}
+   :location "목포시"}
   {:name "목포문학관",
    :longitude 126.4169565,
    :latitude 34.7927706,
@@ -2441,7 +2441,7 @@
    :latitude 37.5238371,
    :source :openstreetmap,
    :homepage "baekjemuseum.seoul.go.kr/dreamvillage",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "무등갤러리",
    :longitude 126.9181853,
    :latitude 35.150156,
@@ -2626,7 +2626,7 @@
    :longitude 127.0357984,
    :latitude 37.3026369,
    :source :openstreetmap,
-   :locality "수원시"}
+   :location "수원시"}
   {:name "박물관",
    :longitude 126.9566411,
    :latitude 35.966277,
@@ -2657,7 +2657,7 @@
    :longitude 127.008564,
    :latitude 37.653691,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "박재삼문학관",
    :longitude 128.0742542,
    :latitude 34.9258425,
@@ -2674,7 +2674,7 @@
    :longitude 126.5408923,
    :latitude 36.7912631,
    :source :openstreetmap,
-   :locality "서산시"}
+   :location "서산시"}
   {:name "박태준기념관",
    :longitude 129.2611808,
    :latitude 35.316823,
@@ -2715,24 +2715,24 @@
    :longitude 126.9434206,
    :latitude 34.5510763,
    :source :openstreetmap,
-   :locality "장흥군"}
+   :location "장흥군"}
   {:name "배다리 아트스테이 1930",
    :longitude 126.6366555,
    :latitude 37.4727826,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "백남준아트센터",
    :longitude 127.1103533,
    :latitude 37.2691442,
    :source :openstreetmap,
    :homepage "https://njp.ggcf.kr/",
-   :locality "용인시"}
+   :location "용인시"}
   {:name "백범김구기념관",
    :longitude 126.9593367,
    :latitude 37.5442455,
    :source :openstreetmap,
    :homepage "www.kimkoomuseum.org/main",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "백산기념관",
    :longitude 129.034646,
    :latitude 35.101642,
@@ -2754,7 +2754,7 @@
    :latitude 37.7137337,
    :source :openstreetmap,
    :homepage "https://blog.naver.com/pysmuseum",
-   :locality "의정부시"}
+   :location "의정부시"}
   {:name "백운 아트홀",
    :longitude 127.9193201,
    :latitude 37.3414899,
@@ -2772,7 +2772,7 @@
    :latitude 36.3052345,
    :source :openstreetmap,
    :homepage "https://www.bhm.or.kr/html/kr/visit/visit_02_01.html",
-   :locality "부여군"}
+   :location "부여군"}
   {:name "백제왕궁박물관",
    :longitude 127.0557846,
    :latitude 35.9712654,
@@ -2809,7 +2809,7 @@
    :longitude 127.3021889,
    :latitude 37.2412864,
    :source :openstreetmap,
-   :locality "용인시"}
+   :location "용인시"}
   {:name "베스트화랑",
    :longitude 126.961816,
    :latitude 37.604412,
@@ -2824,7 +2824,7 @@
    :longitude 126.815993,
    :latitude 35.170889,
    :source :openstreetmap,
-   :locality "광주광역시"}
+   :location "광주광역시"}
   {:name "별새꽃돌자연탐사과학관",
    :longitude 128.058345,
    :latitude 37.185732,
@@ -2870,12 +2870,12 @@
    :latitude 35.2087537,
    :source :openstreetmap,
    :homepage "http://bcmuseum.busan.go.kr/",
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "본다빈치뮤지엄",
    :longitude 127.0761394,
    :latitude 37.5480663,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "본다빈치뮤지엄서울숲",
    :longitude 127.0424516,
    :latitude 37.5456915,
@@ -2896,12 +2896,12 @@
    :longitude 128.9427319,
    :latitude 35.1093482,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "부산광역시학생예술문화회관",
    :longitude 129.0019178,
    :latitude 35.19913,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "부산근대역사관",
    :longitude 129.0314784,
    :latitude 35.1027497,
@@ -2914,13 +2914,13 @@
    :longitude 129.1369715,
    :latitude 35.16678,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "부산시민회관",
    :longitude 129.0652314,
    :latitude 35.1389147,
    :source :openstreetmap,
    :homepage "http://citizenhall.bisco.or.kr/",
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "부산아트갤러리",
    :longitude 129.0129317,
    :latitude 35.2340981,
@@ -2933,22 +2933,22 @@
    :longitude 129.0656347,
    :latitude 35.1457219,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "부산포민속박물관",
    :longitude 129.060376,
    :latitude 35.1555602,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "부산해양자연사박물관",
    :longitude 129.0758158,
    :latitude 35.2218437,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "부안문화의전당",
    :longitude 126.7344613,
    :latitude 35.7377843,
    :source :openstreetmap,
-   :locality "부안군"}
+   :location "부안군"}
   {:name "부안청자전시관",
    :longitude 126.651715,
    :latitude 35.61148,
@@ -2961,12 +2961,12 @@
    :longitude 126.7704675,
    :latitude 37.4880991,
    :source :openstreetmap,
-   :locality "부천시"}
+   :location "부천시"}
   {:name "부천아트벙커39(구 폐기소각시설 부지)",
    :longitude 126.7673734,
    :latitude 37.5215549,
    :source :openstreetmap,
-   :locality "부천시"}
+   :location "부천시"}
   {:name "부천향토역사관",
    :longitude 126.789502,
    :latitude 37.515833,
@@ -2979,12 +2979,12 @@
    :longitude 126.7378125,
    :latitude 37.5121681,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "부풍오감차문화원",
    :longitude 126.7119553,
    :latitude 35.7313611,
    :source :openstreetmap,
-   :locality "부안군"}
+   :location "부안군"}
   {:name "북구문화예술회관",
    :longitude 129.3614179,
    :latitude 35.5813434,
@@ -3001,7 +3001,7 @@
    :longitude 126.499908,
    :latitude 34.9246589,
    :source :openstreetmap,
-   :locality "무안군"}
+   :location "무안군"}
   {:name "불교미술갤러리",
    :longitude 126.954022,
    :latitude 37.392603,
@@ -3042,7 +3042,7 @@
    :longitude 128.9819508,
    :latitude 35.2134192,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "빛고을공예창작촌",
    :longitude 126.8660766,
    :latitude 35.0857923,
@@ -3064,12 +3064,12 @@
    :latitude 37.5765557,
    :source :openstreetmap,
    :homepage "http://www.savinamuseum.com/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "사비나미술관",
    :longitude 126.9291644,
    :latitude 37.6301626,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "사이버 농업 과학관",
    :longitude 126.9854461,
    :latitude 37.2739398,
@@ -3245,7 +3245,7 @@
    :latitude 37.5745368,
    :source :openstreetmap,
    :homepage "http://www.sscmc.or.kr/newhistory/index_culture.asp",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서복전시관",
    :longitude 126.5706719,
    :latitude 33.2447662,
@@ -3258,7 +3258,7 @@
    :longitude 126.895389,
    :latitude 37.4577854,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서서울예술교육센터",
    :longitude 126.8321445,
    :latitude 37.52847,
@@ -3267,7 +3267,7 @@
    :longitude 127.0594094,
    :latitude 37.6051338,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서울과학기술대학교 미술관",
    :longitude 127.0787713,
    :latitude 37.6351927,
@@ -3278,12 +3278,12 @@
    :latitude 37.4664393,
    :source :openstreetmap,
    :homepage "http://www.snumoa.org/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서울로봇인공지능과학관",
    :longitude 127.0494397,
    :latitude 37.655519,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서울미술관",
    :longitude 126.9631766,
    :latitude 37.5946804,
@@ -3293,13 +3293,13 @@
    :latitude 37.6198683,
    :source :openstreetmap,
    :homepage "https://museum.seoul.go.kr/sulm/index.do",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서울시립과학관",
    :longitude 127.0773293,
    :latitude 37.6420495,
    :source :openstreetmap,
    :homepage "https://science.seoul.go.kr/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서울시립대학교박물관",
    :longitude 127.0569145,
    :latitude 37.5831251,
@@ -3317,7 +3317,7 @@
    :longitude 127.0667674,
    :latitude 37.6408521,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서울웨이브 아트센터",
    :longitude 127.0069299,
    :latitude 37.5188393,
@@ -3331,7 +3331,7 @@
    :latitude 37.557485,
    :source :openstreetmap,
    :homepage "https://sssmuseum.org/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "서원문화의집",
    :longitude 127.4693647,
    :latitude 36.6367179,
@@ -3344,7 +3344,7 @@
    :longitude 126.6916193,
    :latitude 36.0753375,
    :source :openstreetmap,
-   :locality "서천군"}
+   :location "서천군"}
   {:name "서천군조류생태전시관",
    :longitude 126.742671,
    :latitude 36.0227786,
@@ -3357,7 +3357,7 @@
    :longitude 126.3772266,
    :latitude 36.6387146,
    :source :openstreetmap,
-   :locality "서산시"}
+   :location "서산시"}
   {:name "서호미술관",
    :longitude 127.351386,
    :latitude 37.632829,
@@ -3402,7 +3402,7 @@
    :longitude 126.5900512,
    :latitude 33.2683986,
    :source :openstreetmap,
-   :locality "서귀포시"}
+   :location "서귀포시"}
   {:name "선감해양학습관",
    :longitude 126.6298817,
    :latitude 37.2204814,
@@ -3423,7 +3423,7 @@
    :longitude 127.4802321,
    :latitude 34.954882,
    :source :openstreetmap,
-   :locality "순천시"}
+   :location "순천시"}
   {:name "선비박물관",
    :longitude 127.380536,
    :latitude 36.35324,
@@ -3456,7 +3456,7 @@
    :longitude 128.6541168,
    :latitude 34.8916838,
    :source :openstreetmap,
-   :locality "거제시"}
+   :location "거제시"}
   {:name "섬진강어류생태관",
    :longitude 127.5454852,
    :latitude 35.1876705,
@@ -3557,7 +3557,7 @@
    :longitude 128.7764351,
    :latitude 36.5807851,
    :source :openstreetmap,
-   :locality "안동시"}
+   :location "안동시"}
   {:name "세계민속관",
    :longitude 127.1176325,
    :latitude 37.2576376,
@@ -3579,7 +3579,7 @@
    :longitude 125.9960066,
    :latitude 34.8778292,
    :source :openstreetmap,
-   :locality "자은면"}
+   :location "자은면"}
   {:name "세계파충류체험박물관",
    :longitude 129.45475,
    :latitude 35.581454,
@@ -3645,7 +3645,7 @@
    :longitude 126.9851319,
    :latitude 37.5459115,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "소양강댐 물문화관",
    :longitude 127.8151883,
    :latitude 37.9491341,
@@ -3699,7 +3699,7 @@
    :longitude 126.7933696,
    :latitude 35.1351943,
    :source :openstreetmap,
-   :locality "광주광역시"}
+   :location "광주광역시"}
   {:name "송종관 미술관",
    :longitude 129.1882396,
    :latitude 37.4505274,
@@ -3717,7 +3717,7 @@
    :latitude 37.4988874,
    :source :openstreetmap,
    :homepage "https://www.bookmuseum.go.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "송해기념관",
    :longitude 128.4889453,
    :latitude 35.7715622,
@@ -3751,18 +3751,18 @@
    :longitude 126.9863644,
    :latitude 37.3096331,
    :source :openstreetmap,
-   :locality "수원시"}
+   :location "수원시"}
   {:name "수원광교박물관",
    :longitude 127.0514071,
    :latitude 37.296335,
    :source :openstreetmap,
    :homepage "https://ggmuseum.suwon.go.kr/index.do",
-   :locality "수원시"}
+   :location "수원시"}
   {:name "수원시립만석전시관",
    :longitude 126.9994569,
    :latitude 37.2970568,
    :source :openstreetmap,
-   :locality "수원시"}
+   :location "수원시"}
   {:name "수원시립북수원전시관",
    :longitude 126.9874755,
    :latitude 37.3245887,
@@ -3771,7 +3771,7 @@
    :longitude 127.0354933,
    :latitude 37.2976705,
    :source :openstreetmap,
-   :locality "수원시"}
+   :location "수원시"}
   {:name "수작문화센터",
    :longitude 126.7401615,
    :latitude 35.7042187,
@@ -3796,12 +3796,12 @@
    :longitude 127.484295,
    :latitude 34.9664923,
    :source :openstreetmap,
-   :locality "순천시"}
+   :location "순천시"}
   {:name "순천만국가정원역사관",
    :longitude 127.4963104,
    :latitude 34.928919,
    :source :openstreetmap,
-   :locality "순천시"}
+   :location "순천시"}
   {:name "순천문학관",
    :longitude 127.5157747,
    :latitude 34.8938327,
@@ -3810,7 +3810,7 @@
    :longitude 127.4852892,
    :latitude 34.9706873,
    :source :openstreetmap,
-   :locality "순천시"}
+   :location "순천시"}
   {:name "순천시여성문화회관",
    :longitude 127.522204,
    :latitude 34.9477996,
@@ -3819,7 +3819,7 @@
    :longitude 126.9569614,
    :latitude 37.495598,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "쉬어가는박물관",
    :longitude 127.62882,
    :latitude 35.019634,
@@ -3857,7 +3857,7 @@
    :longitude 129.1782264,
    :latitude 35.1800478,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "신라대학교박물관",
    :longitude 128.9972808,
    :latitude 35.1672024,
@@ -3893,7 +3893,7 @@
    :longitude 126.3513304,
    :latitude 34.8344807,
    :source :openstreetmap,
-   :locality "신안군"}
+   :location "신안군"}
   {:name "신안해저유물발굴기념관",
    :longitude 126.0982264,
    :latitude 35.0006893,
@@ -3902,7 +3902,7 @@
    :longitude 126.4608026,
    :latitude 34.8080698,
    :source :openstreetmap,
-   :locality "무안군"}
+   :location "무안군"}
   {:name "신재생에너지전시관 (New & Renewable Energy Center)",
    :longitude 128.7582456,
    :latitude 37.6854936,
@@ -3948,7 +3948,7 @@
    :latitude 33.3964615,
    :source :openstreetmap,
    :homepage "https://artemuseum.com",
-   :locality "제주시"}
+   :location "제주시"}
   {:name "아르떼뮤지엄 강릉",
    :longitude 128.9073854,
    :latitude 37.7916054,
@@ -3962,7 +3962,7 @@
    :latitude 37.5803835,
    :source :openstreetmap,
    :homepage "www.arkoartcenter.or.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "아리랑박물관",
    :longitude 128.723238,
    :latitude 37.471299,
@@ -3976,12 +3976,12 @@
    :latitude 36.7988812,
    :source :openstreetmap,
    :homepage "https://www.asanfmc.or.kr/insect/",
-   :locality "아산시"}
+   :location "아산시"}
   {:name "아산조방원미술관",
    :longitude 127.1226008,
    :latitude 35.2971124,
    :source :openstreetmap,
-   :locality "곡성군"}
+   :location "곡성군"}
   {:name "아소갤러리",
    :longitude 127.060704,
    :latitude 37.508989,
@@ -4019,7 +4019,7 @@
    :latitude 35.1424488,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/arteon_art_academy",
-   :locality "광주광역시"}
+   :location "광주광역시"}
   {:name "아트 선재미술관",
    :longitude 129.2860652,
    :latitude 35.8415239,
@@ -4032,7 +4032,7 @@
    :longitude 127.1098145,
    :latitude 37.2969164,
    :source :openstreetmap,
-   :locality "용인시"}
+   :location "용인시"}
   {:name "아트소향",
    :longitude 129.1280761,
    :latitude 35.1730231,
@@ -4045,7 +4045,7 @@
    :longitude 126.9132016,
    :latitude 37.5943994,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "아트앤드림갤러리",
    :longitude 127.022978,
    :latitude 37.51856,
@@ -4150,7 +4150,7 @@
    :longitude 126.9313198,
    :latitude 37.3845819,
    :source :openstreetmap,
-   :locality "안양시"}
+   :location "안양시"}
   {:name "안용복기념관",
    :longitude 130.9065895,
    :latitude 37.5354383,
@@ -4181,7 +4181,7 @@
    :latitude 37.5616607,
    :source :openstreetmap,
    :homepage "sunsa.gangdong.go.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "애기봉 평화생태전시관",
    :longitude 126.5941648,
    :latitude 37.753106,
@@ -4198,7 +4198,7 @@
    :longitude 127.3918377,
    :latitude 37.5035058,
    :source :openstreetmap,
-   :locality "양평군"}
+   :location "양평군"}
   {:name "약령시 한의약박물관",
    :longitude 127.037593,
    :latitude 37.577803,
@@ -4248,7 +4248,7 @@
    :longitude 129.0490037,
    :latitude 35.3584499,
    :source :openstreetmap,
-   :locality "양산시"}
+   :location "양산시"}
   {:name "양주 청소년 문화의집",
    :longitude 127.0847806,
    :latitude 37.7914662,
@@ -4285,12 +4285,12 @@
    :longitude 127.5812371,
    :latitude 37.547595,
    :source :openstreetmap,
-   :locality "양평군"}
+   :location "양평군"}
   {:name "양평군립미술관",
    :longitude 127.4839097,
    :latitude 37.4970266,
    :source :openstreetmap,
-   :locality "양평군"}
+   :location "양평군"}
   {:name "양평군보훈회관",
    :longitude 127.505356,
    :latitude 37.49617,
@@ -4303,12 +4303,12 @@
    :longitude 127.1267086,
    :latitude 35.8555724,
    :source :openstreetmap,
-   :locality "전주시"}
+   :location "전주시"}
   {:name "어린이체험미술관 선물",
    :longitude 126.7657588,
    :latitude 37.7156601,
    :source :openstreetmap,
-   :locality "파주시"}
+   :location "파주시"}
   {:name "어촌민속전시관",
    :longitude 126.688342,
    :latitude 34.306978,
@@ -4338,7 +4338,7 @@
    :longitude 127.1113615,
    :latitude 37.5067687,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "에코리움",
    :longitude 126.7198977,
    :latitude 36.0372193,
@@ -4347,7 +4347,7 @@
    :longitude 127.0470882,
    :latitude 37.5856831,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "엘빈갤러리",
    :longitude 126.47515,
    :latitude 37.2621507,
@@ -4595,7 +4595,7 @@
    :longitude 127.2517381,
    :latitude 37.6956209,
    :source :openstreetmap,
-   :locality "남양주시"}
+   :location "남양주시"}
   {:name "오리박물관",
    :longitude 129.07726,
    :latitude 35.468689,
@@ -4604,7 +4604,7 @@
    :longitude 126.3579765,
    :latitude 36.4987207,
    :source :openstreetmap,
-   :locality "태안군"}
+   :location "태안군"}
   {:name "오산리선사유적박물관",
    :longitude 128.6604779,
    :latitude 38.0859642,
@@ -4638,12 +4638,12 @@
    :longitude 126.7965657,
    :latitude 37.5277356,
    :source :openstreetmap,
-   :locality "부천시"}
+   :location "부천시"}
   {:name "옥성문화센터",
    :longitude 127.1471977,
    :latitude 35.8213517,
    :source :openstreetmap,
-   :locality "전주시"}
+   :location "전주시"}
   {:name "온양민속박물관",
    :longitude 127.0062311,
    :latitude 36.7919999,
@@ -4684,7 +4684,7 @@
    :longitude 127.2917963,
    :latitude 36.5970143,
    :source :openstreetmap,
-   :locality "세종특별자치시"}
+   :location "세종특별자치시"}
   {:name "요산 김정한 문학관",
    :longitude 129.0857358,
    :latitude 35.2723867,
@@ -4698,7 +4698,7 @@
    :latitude 33.2333044,
    :source :openstreetmap,
    :homepage "www.jeju-accec.com",
-   :locality "서귀포시"}
+   :location "서귀포시"}
   {:name "용산역사박물관",
    :longitude 126.965839,
    :latitude 37.5251536,
@@ -4756,7 +4756,7 @@
    :longitude 126.808154,
    :latitude 35.1619035,
    :source :openstreetmap,
-   :locality "광주광역시"}
+   :location "광주광역시"}
   {:name "우석헌 자연사 박물관",
    :longitude 127.1608989,
    :latitude 37.698008,
@@ -4785,12 +4785,12 @@
    :longitude 127.1305169,
    :latitude 35.8275488,
    :source :openstreetmap,
-   :locality "전주시"}
+   :location "전주시"}
   {:name "우진화랑",
    :longitude 126.928195,
    :latitude 37.497887,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "운강이강년선생기념관",
    :longitude 127.995289,
    :latitude 36.67198,
@@ -4815,7 +4815,7 @@
    :longitude 129.3206316,
    :latitude 35.5576801,
    :source :openstreetmap,
-   :locality "울산광역시"}
+   :location "울산광역시"}
   {:name "울산암각화박물관",
    :longitude 129.1706344,
    :latitude 35.6080969,
@@ -4828,7 +4828,7 @@
    :longitude 129.2320787,
    :latitude 35.5643975,
    :source :openstreetmap,
-   :locality "울산광역시"}
+   :location "울산광역시"}
   {:name "울진문화예술회관",
    :longitude 129.4437336,
    :latitude 36.6871414,
@@ -4853,7 +4853,7 @@
    :longitude 128.9685716,
    :latitude 35.10387,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "원불교역사박물관",
    :longitude 126.9518388,
    :latitude 35.9731678,
@@ -4911,7 +4911,7 @@
    :longitude 128.7786077,
    :latitude 36.5694556,
    :source :openstreetmap,
-   :locality "안동시"}
+   :location "안동시"}
   {:name "유교문화박물관",
    :longitude 128.811269,
    :latitude 36.701969,
@@ -4924,7 +4924,7 @@
    :longitude 126.95203,
    :latitude 36.5548079,
    :source :openstreetmap,
-   :locality "공주시"}
+   :location "공주시"}
   {:name "유나이티드갤러리",
    :longitude 127.0280799,
    :latitude 37.5035333,
@@ -4966,18 +4966,18 @@
    :longitude 128.8114892,
    :latitude 35.1755825,
    :source :openstreetmap,
-   :locality "김해시"}
+   :location "김해시"}
   {:name "은평역사한옥박물관",
    :longitude 126.938036,
    :latitude 37.6403199,
    :source :openstreetmap,
    :homepage "https://museum.ep.go.kr/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "은하수미술관",
    :longitude 126.6920322,
    :latitude 37.4547805,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "은혜화랑",
    :longitude 126.811011,
    :latitude 37.573434,
@@ -5015,7 +5015,7 @@
    :latitude 37.3108875,
    :source :openstreetmap,
    :homepage "http://bird.uuc.or.kr",
-   :locality "의왕시"}
+   :location "의왕시"}
   {:name "의재미술관",
    :longitude 126.9674105,
    :latitude 35.1292047,
@@ -5050,7 +5050,7 @@
    :longitude 127.04891,
    :latitude 37.521988,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "이브갤러리",
    :longitude 127.29667,
    :latitude 36.350181,
@@ -5060,12 +5060,12 @@
    :latitude 37.9683802,
    :source :openstreetmap,
    :homepage "http://www.lswmuseum.com/",
-   :locality "춘천시"}
+   :location "춘천시"}
   {:name "이스트아뜰리에",
    :longitude 126.9964766,
    :latitude 37.5742364,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "이승복기념관",
    :longitude 128.463167,
    :latitude 37.672575,
@@ -5094,7 +5094,7 @@
    :longitude 127.4517375,
    :latitude 37.2804278,
    :source :openstreetmap,
-   :locality "이천시"}
+   :location "이천시"}
   {:name "이천시립박물관",
    :longitude 127.4272681,
    :latitude 37.2748924,
@@ -5136,7 +5136,7 @@
    :latitude 35.9484671,
    :source :openstreetmap,
    :homepage "http://arts.iksan.go.kr/index.iksan",
-   :locality "익산시"}
+   :location "익산시"}
   {:name "익산보석박물관",
    :longitude 127.1022676,
    :latitude 35.9907421,
@@ -5146,7 +5146,7 @@
    :latitude 35.9518404,
    :source :openstreetmap,
    :homepage "http://arts.iksan.go.kr/index.iksan",
-   :locality "익산시"}
+   :location "익산시"}
   {:name "인덕전시관",
    :longitude 128.675013,
    :latitude 35.274568,
@@ -5165,7 +5165,7 @@
    :latitude 38.0626347,
    :source :openstreetmap,
    :homepage "www.mvfm.kr",
-   :locality "인제군"}
+   :location "인제군"}
   {:name "인지당화랑",
    :longitude 126.877218,
    :latitude 35.154053,
@@ -5179,7 +5179,7 @@
    :latitude 37.5265004,
    :source :openstreetmap,
    :homepage "http://www.seogucul.or.kr/",
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "인천대공원 목재문화체험장",
    :longitude 126.7524947,
    :latitude 37.460583,
@@ -5204,7 +5204,7 @@
    :longitude 126.7000395,
    :latitude 37.4476266,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "인화랑",
    :longitude 128.90403,
    :latitude 37.766605,
@@ -5221,7 +5221,7 @@
    :longitude 126.7723239,
    :latitude 37.6815336,
    :source :openstreetmap,
-   :locality "고양시"}
+   :location "고양시"}
   {:name "일신재미술관",
    :longitude 129.165822,
    :latitude 35.886077,
@@ -5239,7 +5239,7 @@
    :latitude 35.1246234,
    :source :openstreetmap,
    :homepage "https://www.fomo.or.kr/museum/eng/Main.do",
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "일준부채박물관",
    :longitude 128.24191,
    :latitude 35.36101,
@@ -5256,7 +5256,7 @@
    :longitude 127.0655891,
    :latitude 37.530603,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "자연생태박물관",
    :longitude 126.8165464,
    :latitude 37.5048266,
@@ -5281,7 +5281,7 @@
    :longitude 127.0384835,
    :latitude 35.8271022,
    :source :openstreetmap,
-   :locality "완주군"}
+   :location "완주군"}
   {:name "잠사과학박물관",
    :longitude 126.988022,
    :latitude 37.264247,
@@ -5383,7 +5383,7 @@
    :longitude 127.1218979,
    :latitude 35.8468819,
    :source :openstreetmap,
-   :locality "전주시"}
+   :location "전주시"}
   {:name "전주역사박물관",
    :longitude 127.0931849,
    :latitude 35.8012213,
@@ -5427,7 +5427,7 @@
    :latitude 37.5678994,
    :source :openstreetmap,
    :homepage "https://www.jeongdong1928.com/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "정동진시간박물관",
    :longitude 129.0376375,
    :latitude 37.6871964,
@@ -5437,7 +5437,7 @@
    :latitude 36.2792103,
    :source :openstreetmap,
    :homepage "www.jeongnimsaji.or.kr",
-   :locality "부여군"}
+   :location "부여군"}
   {:name "정석항공관",
    :longitude 126.7225406,
    :latitude 33.3941031,
@@ -5478,7 +5478,7 @@
    :longitude 127.0745169,
    :latitude 37.6051572,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "제1아프리카관 실내건물",
    :longitude 127.0180194,
    :latitude 37.4272261,
@@ -5488,7 +5488,7 @@
    :latitude 35.1277989,
    :source :openstreetmap,
    :homepage "https://museum.busan.go.kr/busan",
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "제2땅굴",
    :longitude 127.3113703,
    :latitude 38.3095496,
@@ -5570,13 +5570,13 @@
    :longitude 126.3734656,
    :latitude 33.3941384,
    :source :openstreetmap,
-   :locality "제주시"}
+   :location "제주시"}
   {:name "제주월드컵경기장 세계성문화박물관",
    :longitude 126.5079958,
    :latitude 33.2455983,
    :source :openstreetmap,
    :homepage "cafe.naver.com/dakpaper",
-   :locality "서귀포시"}
+   :location "서귀포시"}
   {:name "제주유리박물관",
    :longitude 126.3699025,
    :latitude 33.2780187,
@@ -5605,7 +5605,7 @@
    :longitude 128.2084317,
    :latitude 37.1359369,
    :source :openstreetmap,
-   :locality "제천시"}
+   :location "제천시"}
   {:name "제천의병전시관",
    :longitude 128.086226,
    :latitude 37.099169,
@@ -5651,7 +5651,7 @@
    :latitude 37.5813125,
    :source :openstreetmap,
    :homepage "www.jfac.or.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "종이미술관",
    :longitude 126.5759915,
    :latitude 37.2245137,
@@ -5669,7 +5669,7 @@
    :longitude 129.3526547,
    :latitude 35.541234,
    :source :openstreetmap,
-   :locality "울산광역시"}
+   :location "울산광역시"}
   {:name "주천조각보박물관",
    :longitude 129.1664665,
    :latitude 35.1680322,
@@ -5715,7 +5715,7 @@
    :longitude 127.5699152,
    :latitude 36.7858185,
    :source :openstreetmap,
-   :locality "증평군"}
+   :location "증평군"}
   {:name "증평민속체험박물관",
    :longitude 127.5956093,
    :latitude 36.7640907,
@@ -5738,7 +5738,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.360cities.net/image/map-museum-in-ngiinatioanl-geographic-information-institute-korea",
-   :locality "수원시"}
+   :location "수원시"}
   {:name "지리산 빨치산 토벌전시관\\",
    :longitude 127.7542565,
    :latitude 35.2912493,
@@ -5768,7 +5768,7 @@
    :latitude 36.3775812,
    :source :openstreetmap,
    :homepage "http://museum.kigam.re.kr/",
-   :locality "대전광역시"}
+   :location "대전광역시"}
   {:name "지평리 전쟁기념관",
    :longitude 127.6373087,
    :latitude 37.478676,
@@ -5809,12 +5809,12 @@
    :longitude 128.1430514,
    :latitude 35.1757355,
    :source :openstreetmap,
-   :locality "진주시"}
+   :location "진주시"}
   {:name "진주익룡발자국전시관",
    :longitude 128.1396438,
    :latitude 35.1686894,
    :source :openstreetmap,
-   :locality "진주시"}
+   :location "진주시"}
   {:name "진주청동기문화박물관",
    :longitude 127.9623087,
    :latitude 35.223822,
@@ -5823,7 +5823,7 @@
    :longitude 127.4568456,
    :latitude 36.78986,
    :source :openstreetmap,
-   :locality "진천군"}
+   :location "진천군"}
   {:name "진천종박물관",
    :longitude 127.413858,
    :latitude 36.87089,
@@ -5927,7 +5927,7 @@
    :longitude 127.9132781,
    :latitude 35.6882684,
    :source :openstreetmap,
-   :locality "거창군"}
+   :location "거창군"}
   {:name "천주교관덕정순교기념관",
    :longitude 128.591169,
    :latitude 35.864948,
@@ -5945,7 +5945,7 @@
    :latitude 37.3139733,
    :source :openstreetmap,
    :homepage "https://www.railroadmuseum.co.kr/",
-   :locality "의왕시"}
+   :location "의왕시"}
   {:name "철박물관",
    :longitude 127.6495429,
    :latitude 37.0909259,
@@ -5962,12 +5962,12 @@
    :longitude 127.055139,
    :latitude 37.521534,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "청도박물관",
    :longitude 128.6866035,
    :latitude 35.6942004,
    :source :openstreetmap,
-   :locality "청도군"}
+   :location "청도군"}
   {:name "청도역전통생활문화관",
    :longitude 128.7462696,
    :latitude 35.6401099,
@@ -5981,12 +5981,12 @@
    :latitude 34.8547734,
    :source :openstreetmap,
    :homepage "http://cheongma.or.kr/main/index.php",
-   :locality "거제시"}
+   :location "거제시"}
   {:name "청소년커뮤니티센터(140)",
    :longitude 127.1089985,
    :latitude 37.6058186,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "청송민속박물관",
    :longitude 129.083435,
    :latitude 36.389787,
@@ -6024,7 +6024,7 @@
    :latitude 37.5825649,
    :source :openstreetmap,
    :homepage "https://www.cwdsarangchae.kr/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "청원미술관",
    :longitude 127.425482,
    :latitude 36.520678,
@@ -6046,12 +6046,12 @@
    :latitude 36.6121456,
    :source :openstreetmap,
    :homepage "https://cmoa.cheongju.go.kr/www/index.do",
-   :locality "청주시"}
+   :location "청주시"}
   {:name "청주시문화회관",
    :longitude 127.5056439,
    :latitude 36.5986558,
    :source :openstreetmap,
-   :locality "청주시"}
+   :location "청주시"}
   {:name "청학동박물관 Cheonghak-dong",
    :longitude 127.7045916,
    :latitude 35.238195,
@@ -6078,7 +6078,7 @@
    :longitude 126.2673399,
    :latitude 33.1141456,
    :source :openstreetmap,
-   :locality "서귀포시"}
+   :location "서귀포시"}
   {:name "최무선 과학관",
    :longitude 128.8811649,
    :latitude 35.9076387,
@@ -6091,7 +6091,7 @@
    :longitude 127.6651203,
    :latitude 36.0029987,
    :source :openstreetmap,
-   :locality "무주군"}
+   :location "무주군"}
   {:name "최수현사이버갤러리",
    :longitude 127.088369,
    :latitude 37.553082,
@@ -6109,7 +6109,7 @@
    :latitude 37.4527428,
    :source :openstreetmap,
    :homepage "www.chusamuseum.go.kr",
-   :locality "과천시"}
+   :location "과천시"}
   {:name "추사적거지기념관",
    :longitude 126.2783905,
    :latitude 33.2502086,
@@ -6119,7 +6119,7 @@
    :longitude 126.9872475,
    :latitude 35.3316351,
    :source :openstreetmap,
-   :locality "담양군"}
+   :location "담양군"}
   {:name "추억의민속박물관",
    :longitude 128.794632,
    :latitude 35.294132,
@@ -6136,7 +6136,7 @@
    :longitude 127.7312327,
    :latitude 37.8824455,
    :source :openstreetmap,
-   :locality "춘천시"}
+   :location "춘천시"}
   {:name "춘천인형극박물관",
    :longitude 127.720117,
    :latitude 37.9209855,
@@ -6177,7 +6177,7 @@
    :longitude 127.8482618,
    :latitude 37.0282881,
    :source :openstreetmap,
-   :locality "충주시"}
+   :location "충주시"}
   {:name "충주고구려천문과학관",
    :longitude 127.848332,
    :latitude 37.0402679,
@@ -6190,7 +6190,7 @@
    :longitude 127.9372202,
    :latitude 36.9705903,
    :source :openstreetmap,
-   :locality "충주시"}
+   :location "충주시"}
   {:name "충주박물관",
    :longitude 127.8654423,
    :latitude 37.0161427,
@@ -6204,12 +6204,12 @@
    :latitude 36.6598696,
    :source :openstreetmap,
    :homepage "https://www.chungnam.go.kr/art.do",
-   :locality "예산군"}
+   :location "예산군"}
   {:name "충청남도 홍보관",
    :longitude 126.806691,
    :latitude 36.9445192,
    :source :openstreetmap,
-   :locality "당진시"}
+   :location "당진시"}
   {:name "충청남도산림박물관",
    :longitude 127.2347374,
    :latitude 36.4347414,
@@ -6234,7 +6234,7 @@
    :longitude 126.878416,
    :latitude 37.4336934,
    :source :openstreetmap,
-   :locality "광명시"}
+   :location "광명시"}
   {:name "충효동분청자기전시관",
    :longitude 126.9988646,
    :latitude 35.1677607,
@@ -6289,7 +6289,7 @@
    :longitude 126.6261143,
    :latitude 37.3932483,
    :source :openstreetmap,
-   :locality "인천광역시"}
+   :location "인천광역시"}
   {:name "쾌연재도자미술관",
    :longitude 128.355675,
    :latitude 37.224593,
@@ -6304,7 +6304,7 @@
    :source :openstreetmap,
    :homepage
    "https://cc.speedium.co.kr:7443/content/03facility/10_01.jsp",
-   :locality "인제군"}
+   :location "인제군"}
   {:name "클래식포크아트갤러리",
    :longitude 129.2738261,
    :latitude 35.5565048,
@@ -6326,13 +6326,13 @@
    :latitude 37.5469545,
    :source :openstreetmap,
    :homepage "http://ujeongguk.com/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "태릉 조선왕릉전시관",
    :longitude 127.0970397,
    :latitude 37.630632,
    :source :openstreetmap,
    :homepage "https://royaltombs.cha.go.kr/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "태백문화예술회관",
    :longitude 128.9881254,
    :latitude 37.1719685,
@@ -6366,7 +6366,7 @@
    :latitude 35.5793735,
    :source :openstreetmap,
    :homepage "https://taehwaeco.ulju.ulsan.kr/",
-   :locality "울산광역시"}
+   :location "울산광역시"}
   {:name "털보만물화랑",
    :longitude 128.610927,
    :latitude 35.872448,
@@ -6436,12 +6436,12 @@
    :latitude 37.4009705,
    :source :openstreetmap,
    :homepage "https://www.pangyomuseum.go.kr/eng/index.asp",
-   :locality "성남시"}
+   :location "성남시"}
   {:name "팔달문, 가까이 늘 우리 곁에",
    :longitude 127.0172275,
    :latitude 37.2777832,
    :source :openstreetmap,
-   :locality "수원시"}
+   :location "수원시"}
   {:name "팽성생활사박물관",
    :longitude 127.0473441,
    :latitude 36.9605765,
@@ -6455,7 +6455,7 @@
    :longitude 126.8449499,
    :latitude 37.4921151,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "평창문화예술회관",
    :longitude 128.395531,
    :latitude 37.354636,
@@ -6464,7 +6464,7 @@
    :longitude 127.114077,
    :latitude 36.9911179,
    :source :openstreetmap,
-   :locality "평택시"}
+   :location "평택시"}
   {:name "평택문화예술회관",
    :longitude 127.0650851,
    :latitude 37.0658241,
@@ -6481,7 +6481,7 @@
    :longitude 126.9235579,
    :latitude 36.9224923,
    :source :openstreetmap,
-   :locality "평택시"}
+   :location "평택시"}
   {:name "평화예술의전당",
    :longitude 127.0333313,
    :latitude 37.03929,
@@ -6507,12 +6507,12 @@
    :longitude 129.365926,
    :latitude 36.009513,
    :source :openstreetmap,
-   :locality "포항시"}
+   :location "포항시"}
   {:name "포항시립미술관",
    :longitude 129.3910868,
    :latitude 36.0664573,
    :source :openstreetmap,
-   :locality "포항시"}
+   :location "포항시"}
   {:name "포항전통문화체험관",
    :longitude 129.1854679,
    :latitude 36.1650396,
@@ -6530,7 +6530,7 @@
    :latitude 37.5196102,
    :source :openstreetmap,
    :homepage "https://www.centrepompidou-hanwha.kr/visit/info",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "표화랑",
    :longitude 126.996029,
    :latitude 37.541421,
@@ -6539,7 +6539,7 @@
    :longitude 127.4547462,
    :latitude 37.2811047,
    :source :openstreetmap,
-   :locality "이천시"}
+   :location "이천시"}
   {:name "풋볼 팬타지움",
    :longitude 126.896336,
    :latitude 37.5684953,
@@ -6562,7 +6562,7 @@
    :latitude 38.1908526,
    :source :openstreetmap,
    :homepage "https://www.pinodia.com",
-   :locality "속초시"}
+   :location "속초시"}
   {:name "피카소화랑",
    :longitude 129.167104,
    :latitude 35.161765,
@@ -6611,7 +6611,7 @@
    :longitude 126.9644997,
    :latitude 37.4072172,
    :source :openstreetmap,
-   :locality "안양시"}
+   :location "안양시"}
   {:name "하정미술관",
    :longitude 127.386879,
    :latitude 35.409262,
@@ -6712,7 +6712,7 @@
    :longitude 127.505675,
    :latitude 37.489506,
    :source :openstreetmap,
-   :locality "양평군"}
+   :location "양평군"}
   {:name "한국SGI영등포문화회관",
    :longitude 126.90657,
    :latitude 37.508755,
@@ -6782,12 +6782,12 @@
    :longitude 126.8223331,
    :latitude 37.411973,
    :source :openstreetmap,
-   :locality "시흥시"}
+   :location "시흥시"}
   {:name "한국관악문화예술원",
    :longitude 127.062028,
    :latitude 37.8468468,
    :source :openstreetmap,
-   :locality "양주시"}
+   :location "양주시"}
   {:name "한국교원대학교 교육박물관",
    :longitude 127.3572816,
    :latitude 36.6071693,
@@ -6826,7 +6826,7 @@
    :latitude 37.5087816,
    :source :openstreetmap,
    :homepage "http://www.komacon.kr/comicsmuseum_m/",
-   :locality "부천시"}
+   :location "부천시"}
   {:name "한국만화박물관.부천수석박물관",
    :longitude 126.7975489,
    :latitude 37.5026714,
@@ -6913,7 +6913,7 @@
    :longitude 127.0697708,
    :latitude 37.6660949,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "한기숙갤러리",
    :longitude 128.605398,
    :latitude 35.869132,
@@ -6947,7 +6947,7 @@
    :latitude 37.515451,
    :source :openstreetmap,
    :homepage "http://baekjemuseum.seoul.go.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "한센병박물관, 체육관",
    :longitude 127.1194084,
    :latitude 34.5124884,
@@ -6961,7 +6961,7 @@
    :latitude 37.5727362,
    :source :openstreetmap,
    :homepage "www.museum.seoul.kr/scwm/NR_index.do",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "한얼문예박물관",
    :longitude 128.072779,
    :latitude 37.488916,
@@ -6983,7 +6983,7 @@
    :latitude 37.481793,
    :source :openstreetmap,
    :homepage "http://www.hanwon.org/",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "한의약박물관",
    :longitude 127.033946,
    :latitude 37.576107,
@@ -7029,7 +7029,7 @@
    :latitude 34.7848927,
    :source :openstreetmap,
    :homepage "www.iartschool.co.kr",
-   :locality "거제시"}
+   :location "거제시"}
   {:name "해강도자미술관",
    :longitude 127.4049065,
    :latitude 37.3087767,
@@ -7067,12 +7067,12 @@
    :longitude 129.1739809,
    :latitude 35.1711419,
    :source :openstreetmap,
-   :locality "부산광역시"}
+   :location "부산광역시"}
   {:name "해움미술관",
    :longitude 127.0149907,
    :latitude 37.2722503,
    :source :openstreetmap,
-   :locality "수원시"}
+   :location "수원시"}
   {:name "해인불교전시관",
    :longitude 129.0615405,
    :latitude 35.1637084,
@@ -7105,7 +7105,7 @@
    :longitude 126.851038,
    :latitude 37.567892,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "헬렌갤러리",
    :longitude 126.991869,
    :latitude 37.594922,
@@ -7165,7 +7165,7 @@
    :latitude 37.5016152,
    :source :openstreetmap,
    :homepage "https://www.snmb.mil.kr/mbshome/mbs/snmb/index.jsp",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "호남기후변화체험관",
    :longitude 127.0065949,
    :latitude 35.3252097,
@@ -7182,7 +7182,7 @@
    :longitude 126.9182401,
    :latitude 37.4808276,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "호반 아트리움 미술관",
    :longitude 126.8817885,
    :latitude 37.4162651,
@@ -7225,7 +7225,7 @@
    :longitude 127.3200236,
    :latitude 35.4810863,
    :source :openstreetmap,
-   :locality "남원시"}
+   :location "남원시"}
   {:name "홍강갤러리",
    :longitude 129.314114,
    :latitude 35.538488,
@@ -7239,7 +7239,7 @@
    :latitude 37.5484545,
    :source :openstreetmap,
    :homepage "www.rollinghall.co.kr",
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "홍사용문학관",
    :longitude 127.0755018,
    :latitude 37.2053407,
@@ -7284,7 +7284,7 @@
    :longitude 127.0933069,
    :latitude 37.6242884,
    :source :openstreetmap,
-   :locality "서울특별시"}
+   :location "서울특별시"}
   {:name "화랑미술관",
    :longitude 126.8218488,
    :latitude 37.3207703,
@@ -7333,7 +7333,7 @@
    :longitude 127.3705551,
    :latitude 36.3775177,
    :source :openstreetmap,
-   :locality "대전광역시"}
+   :location "대전광역시"}
   {:name "환경재생조형박물관",
    :longitude 127.483347,
    :latitude 37.483445,

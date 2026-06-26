@@ -9,37 +9,37 @@
    :latitude 48.151840459023674,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17451",
-   :locality "Bratislava"}
+   :location "Bratislava"}
   {:name "Jaslovske Bohunice",
    :longitude 17.647025516170288,
    :latitude 48.473584425628246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31535",
-   :locality "Jaslovské Bohunice"}
+   :location "Jaslovské Bohunice"}
   {:name "LESOPARK Borkut",
    :longitude 21.229116342282282,
    :latitude 48.962835042887235,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30494",
-   :locality "Prešov"}
+   :location "Prešov"}
   {:name "LESOPARK Borkut",
    :longitude 21.229116342282282,
    :latitude 48.962835042887235,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30495",
-   :locality "Prešov"}
+   :location "Prešov"}
   {:name "LESOPARK Borkut",
    :longitude 21.229116342282282,
    :latitude 48.962835042887235,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30496",
-   :locality "Prešov"}
+   :location "Prešov"}
   {:name "Matfyz Pro Layout",
    :longitude 17.071430381989103,
    :latitude 48.15215624984498,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39326",
-   :locality "Bratislava"}],
+   :location "Bratislava"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

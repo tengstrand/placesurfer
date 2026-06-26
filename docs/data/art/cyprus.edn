@@ -57,21 +57,21 @@
    :latitude 34.6808738,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/art_strokes_gallery",
-   :locality "Limasol - Λεμεσός",
+   :location "Limasol - Λεμεσός",
    :image "",
    :description ""}
   {:name "Art Workshop",
    :longitude 33.0247058,
    :latitude 35.2492215,
    :source :openstreetmap,
-   :locality "ODTÜ KKK",
+   :location "ODTÜ KKK",
    :image "",
    :description ""}
   {:name "ARUCAD Art Space",
    :longitude 33.3598901,
    :latitude 35.177294,
    :source :openstreetmap,
-   :locality "Lefkoşa",
+   :location "Lefkoşa",
    :image "",
    :description ""}
   {:name "Asgata Olive Mill And Flour Mill Museum",
@@ -114,7 +114,7 @@
    :longitude 33.0305918,
    :latitude 35.2455938,
    :source :openstreetmap,
-   :locality "ODTÜ KKK",
+   :location "ODTÜ KKK",
    :image "",
    :description ""}
   {:name "Byzantine Art Museum",
@@ -197,7 +197,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitcyprus.com/disabled-access-2/cyprus-railway-museum/",
-   :locality "Ευρύχου",
+   :location "Ευρύχου",
    :image "",
    :description ""}
   {:name "Cyprus Theatre Museum",
@@ -374,7 +374,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.whatson-northcyprus.com/interest/nicosia/north_nicosia/struggle.htm",
-   :locality "Lefkoşa",
+   :location "Lefkoşa",
    :image "",
    :description ""}
   {:name "Lellos point arts & events",
@@ -388,7 +388,7 @@
    :longitude 33.0577361,
    :latitude 34.6836589,
    :source :openstreetmap,
-   :locality "Limassol",
+   :location "Limassol",
    :image "",
    :description ""}
   {:name "Linos",
@@ -403,7 +403,7 @@
    :latitude 35.1898703,
    :source :openstreetmap,
    :homepage "www.malitattoo.com",
-   :locality "Lefkoşa Nicosia",
+   :location "Lefkoşa Nicosia",
    :image "",
    :description ""}
   {:name "Marginalia",
@@ -429,7 +429,7 @@
    :longitude 33.317684,
    :latitude 35.161833,
    :source :openstreetmap,
-   :locality "Engomi",
+   :location "Engomi",
    :image "",
    :description ""}
   {:name "Municipal Gallery",
@@ -448,7 +448,7 @@
    :longitude 33.6269542,
    :latitude 34.9164498,
    :source :openstreetmap,
-   :locality "Larnaka",
+   :location "Larnaka",
    :image "",
    :description ""}
   {:name "Museum of Underwater Sculpture Ayia Napa",
@@ -472,7 +472,7 @@
    :latitude 34.6761035,
    :source :openstreetmap,
    :homepage "https://www.neme.org",
-   :locality "Limassol",
+   :location "Limassol",
    :image "",
    :description ""}
   {:name "Nicholas Ladommatos",
@@ -486,7 +486,7 @@
    :latitude 35.1739404,
    :source :openstreetmap,
    :homepage "https://nimac.org.cy/",
-   :locality "Λευκωσία",
+   :location "Λευκωσία",
    :image "",
    :description ""}
   {:name "Oleastro Olive Mill, And Restaurant",
@@ -518,7 +518,7 @@
    :longitude 33.3539541,
    :latitude 35.1577923,
    :source :openstreetmap,
-   :locality "Λευκωσία",
+   :location "Λευκωσία",
    :image "",
    :description ""}
   {:name "Panagia Pergaminiotissa Kirche",
@@ -533,7 +533,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.mcw.gov.cy/mcw/da/da.nsf/All/306F2D157B5C878FC225719900205580?OpenDocument",
-   :locality "Pafos",
+   :location "Pafos",
    :image "",
    :description ""}
   {:name "Pierides Museum - Bank of Cyprus Cultural Foundation",
@@ -549,7 +549,7 @@
    :latitude 34.663291,
    :source :openstreetmap,
    :homepage "https://psi.art/",
-   :locality "Λεμεσός",
+   :location "Λεμεσός",
    :image "",
    :description ""}
   {:name "Psifida",
@@ -576,7 +576,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.cyprushighlights.com/en/museum-broadcasting-rik/",
-   :locality "Αγλαντζιά",
+   :location "Αγλαντζιά",
    :image "",
    :description ""}
   {:name "Shacolas Observatory",
@@ -605,7 +605,7 @@
    :longitude 33.350873,
    :latitude 35.1485668,
    :source :openstreetmap,
-   :locality "Στρόβολος",
+   :location "Στρόβολος",
    :image "",
    :description ""}
   {:name "Steni Museum of Village Life",
@@ -650,7 +650,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.moa.gov.cy/moa/fd/fd.nsf/fd58_en/fd58_en?OpenDocument",
-   :locality "Aglantzia",
+   :location "Aglantzia",
    :image "",
    :description ""}
   {:name "Wine Museum in Kathikas",
@@ -685,7 +685,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.culture.gov.cy/dmculture/da/da.nsf/All/F326C998358D550BC225719900203AEA?OpenDocument",
-   :locality "Limassol",
+   :location "Limassol",
    :image "",
    :description ""}
   {:name "Αστεροσκοπείο Τροόδους",
@@ -693,7 +693,7 @@
    :latitude 34.9262649,
    :source :openstreetmap,
    :homepage "https://www.troodosobservatory.com/",
-   :locality "Αγρίδια",
+   :location "Αγρίδια",
    :image "",
    :description ""}
   {:name "Αχυρώνας Λιοπετρίου",
@@ -707,7 +707,7 @@
    :latitude 34.9114293,
    :source :openstreetmap,
    :homepage "https://www.agioslazaros.org/museum",
-   :locality "Larnaka",
+   :location "Larnaka",
    :image "",
    :description ""}
   {:name "Γρηγόρης Αυξεντίου",
@@ -728,7 +728,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.culture.gov.cy/dmculture/da/da.nsf/All/8865F898FAA8A275C22571990020EEAA?OpenDocument",
-   :locality "Fikardou",
+   :location "Fikardou",
    :image "",
    :description ""}
   {:name "Εκκλησιαστικο και Λαογραφικο Μουσειο",
@@ -744,7 +744,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/ecclesiastical-and-viticulture-museums-koilani-village/",
-   :locality "Κοιλάνι",
+   :location "Κοιλάνι",
    :image "",
    :description ""}
   {:name "Εν Πλώ",
@@ -758,7 +758,7 @@
    :latitude 34.692959,
    :source :openstreetmap,
    :homepage "http://www.cyprusmedicalmuseum.org/",
-   :locality "Δήμος Κάτω Πολεμιδίων",
+   :location "Δήμος Κάτω Πολεμιδίων",
    :image "",
    :description ""}
   {:name "Κάστρο Λάρνακας",
@@ -775,7 +775,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.meci.gov.cy/meci/chs/chs.nsf/home2/home2?openform",
-   :locality "Στρόβολος",
+   :location "Στρόβολος",
    :image "",
    :description ""}
   {:name "Κέντρο Πληροφόρησης Γεωλογίας Παλαιοντολογίας Ακάμα",
@@ -789,7 +789,7 @@
    :latitude 35.1747176,
    :source :openstreetmap,
    :homepage "https://www.moca.org.cy/",
-   :locality "Nicosia",
+   :location "Nicosia",
    :image "",
    :description ""}
   {:name "Κυπριακό Οινομουσείο",
@@ -797,7 +797,7 @@
    :latitude 34.6750233,
    :source :openstreetmap,
    :homepage "https://cypruswinemuseum.com/",
-   :locality "Ερήμη",
+   :location "Ερήμη",
    :image "",
    :description ""}
   {:name "Λαογραφικο Μουσείο \"Χριστος Λούης\"",
@@ -818,7 +818,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/lemesos-limassol-medieval-castle/",
-   :locality "Λεμεσός",
+   :location "Λεμεσός",
    :image "",
    :description ""}
   {:name "Μνημείο Αντώνη Παπαδόπουλου",
@@ -844,7 +844,7 @@
    :latitude 35.1447515,
    :source :openstreetmap,
    :homepage "https://www.police.gov.cy",
-   :locality "Αγλαντζιά",
+   :location "Αγλαντζιά",
    :image "",
    :description ""}
   {:name "Μουσείο Ιστορίας Παχύαμμου",
@@ -859,7 +859,7 @@
    :source :openstreetmap,
    :homepage
    "https://cyclassicmotormuseum.wixsite.com/cyclassicmotormuseum",
-   :locality "Λευκωσία",
+   :location "Λευκωσία",
    :image "",
    :description ""}
   {:name "Μουσείο Ιστορικού και Κλασσικού Αυτοκινήτου",
@@ -867,7 +867,7 @@
    :latitude 34.6656093,
    :source :openstreetmap,
    :homepage "http://www.cyprusmotormuseum.com.ty",
-   :locality "Λεμεσός",
+   :location "Λεμεσός",
    :image "",
    :description ""}
   {:name "Μουσείο Κώστα Αργυρού",
@@ -875,7 +875,7 @@
    :latitude 34.8040972,
    :source :openstreetmap,
    :homepage "https://costasargyroumuseum.org/",
-   :locality "Mazotos",
+   :location "Mazotos",
    :image "",
    :description ""}
   {:name "Μουσείο Λαϊκής Τέχνης",
@@ -884,7 +884,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.culture.gov.cy/dmculture/da/da.nsf/All/38CF6DFE0977E664C22571990020C289?OpenDocument",
-   :locality "Γεροσκήπου",
+   :location "Γεροσκήπου",
    :image "",
    :description ""}
   {:name "Μουσείο Λαϊκής Τέχνης",
@@ -898,7 +898,7 @@
    :latitude 34.6687859,
    :source :openstreetmap,
    :homepage "https://eoalemesos.org.cy/en/water-museum",
-   :locality "Λεμεσός",
+   :location "Λεμεσός",
    :image "",
    :description ""}
   {:name "Μουσείο Παλαιόκαστρου",
@@ -960,7 +960,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.lefkara.org.cy/en/visitors/guided-tour/museum-of-lefkara",
-   :locality "Πάνω Λεύκαρα",
+   :location "Πάνω Λεύκαρα",
    :image "",
    :description ""}
   {:name "Τοπικό Αρχαιολογικό Moυσείο Μαρίου-Αρσινόης",
@@ -969,7 +969,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.culture.gov.cy/dmculture/da/da.nsf/All/CAF4EC728ABCA91CC225719900208766?OpenDocument",
-   :locality "Polis Chrysochous",
+   :location "Polis Chrysochous",
    :image "",
    :description ""}
   {:name "Τοπικό Αρχαιολογικό Μουσείο Κουρίου",
@@ -978,7 +978,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.culture.gov.cy/dmculture/da/da.nsf/All/21E14D80F55D8539C22571990020DC5C?OpenDocument",
-   :locality "Επισκοπή",
+   :location "Επισκοπή",
    :image "",
    :description ""}
   {:name "Τοπικό Αρχαιολογικό Μουσείο Παλαιπάφου",

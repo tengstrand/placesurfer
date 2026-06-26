@@ -9,7 +9,7 @@
    :latitude 43.187006141441486,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26678",
-   :locality "Iurreta",
+   :location "Iurreta",
    :image "",
    :description ""}
   {:name "Casa de Campo (Oficial)",
@@ -17,7 +17,7 @@
    :latitude 40.42454665583034,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17829",
-   :locality "Madrid",
+   :location "Madrid",
    :image "",
    :description ""}
   {:name "Catalunya Open",
@@ -25,7 +25,7 @@
    :latitude 41.56439930659286,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35208",
-   :locality "Palau-solità i Plegamans",
+   :location "Palau-solità i Plegamans",
    :image "",
    :description ""}
   {:name "Centro Asturiano de Oviedo x8",
@@ -33,7 +33,7 @@
    :latitude 43.37922034924202,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29652",
-   :locality "Oviedo",
+   :location "Oviedo",
    :image "",
    :description ""}
   {:name "CRK Disc Golf Valley",
@@ -41,7 +41,7 @@
    :latitude 43.373581805493245,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18184",
-   :locality "Oviedo",
+   :location "Oviedo",
    :image "",
    :description ""}
   {:name "DG Gran Canaria / Maspalomas",
@@ -49,7 +49,7 @@
    :latitude 27.762234578892205,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37658",
-   :locality "San Bartolomé de Tirajana",
+   :location "San Bartolomé de Tirajana",
    :image "",
    :description ""}
   {:name "DGP Mijas Special 2021",
@@ -57,7 +57,7 @@
    :latitude 36.58230616467215,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25032",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "DGP Mijas Special 2022",
@@ -65,7 +65,7 @@
    :latitude 36.58115354038975,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29990",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "DGP Mijas Special 2022 -12",
@@ -73,7 +73,7 @@
    :latitude 36.581631687428086,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30186",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "DGP Mijas Special 2022 -16",
@@ -81,7 +81,7 @@
    :latitude 36.58119202933679,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30716",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "Disc Golf Mijas, Blue Course",
@@ -89,7 +89,7 @@
    :latitude 36.582187693892564,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17607",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "Disc Golf Sanlúcar",
@@ -97,7 +97,7 @@
    :latitude 36.76764649247434,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16093",
-   :locality "Sanlúcar de Barrameda",
+   :location "Sanlúcar de Barrameda",
    :image "",
    :description ""}
   {:name "Discgolf Parc Catalunya",
@@ -105,7 +105,7 @@
    :latitude 41.550470928285705,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22139",
-   :locality "Sabadell",
+   :location "Sabadell",
    :image "",
    :description ""}
   {:name "DiscGolfPark Mijas",
@@ -113,7 +113,7 @@
    :latitude 36.58205459947794,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6232",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "DiscGolfPark Txiki",
@@ -121,7 +121,7 @@
    :latitude 43.30378346172495,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30400",
-   :locality "Valle de Trápaga",
+   :location "Valle de Trápaga",
    :image "",
    :description ""}
   {:name "DiscGolfPark Txiki - Trapagaran",
@@ -129,7 +129,7 @@
    :latitude 43.303679091085485,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38575",
-   :locality "Valle de Trápaga - Trapagaran",
+   :location "Valle de Trápaga - Trapagaran",
    :image "",
    :description ""}
   {:name "DONEZTEBE",
@@ -137,7 +137,7 @@
    :latitude 43.13290352568956,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22413",
-   :locality "Santesteban",
+   :location "Santesteban",
    :image "",
    :description ""}
   {:name "Euskal Herriko Txapelketa 2026",
@@ -152,7 +152,7 @@
    :latitude 41.562133074222515,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37497",
-   :locality "Palau",
+   :location "Palau",
    :image "",
    :description ""}
   {:name "Hostal del fum antic llarg",
@@ -160,7 +160,7 @@
    :latitude 41.563573717959116,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23719",
-   :locality "Palau-solità i Plegamans",
+   :location "Palau-solità i Plegamans",
    :image "",
    :description ""}
   {:name "IrriSarri Land Copa2023",
@@ -168,7 +168,7 @@
    :latitude 43.20361091774595,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32406",
-   :locality "Igantzi",
+   :location "Igantzi",
    :image "",
    :description ""}
   {:name "Irrisarriland Disc Golf",
@@ -176,7 +176,7 @@
    :latitude 43.20365082344537,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14235",
-   :locality "Igantzi",
+   :location "Igantzi",
    :image "",
    :description ""}
   {:name "Irrisarriland → Copa 2024",
@@ -184,7 +184,7 @@
    :latitude 43.20320577117894,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38074",
-   :locality "Igantzi",
+   :location "Igantzi",
    :image "",
    :description ""}
   {:name "La Molina",
@@ -192,7 +192,7 @@
    :latitude 42.330213245530075,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34043",
-   :locality "Alp",
+   :location "Alp",
    :image "",
    :description ""}
   {:name "La Morgal 12",
@@ -200,7 +200,7 @@
    :latitude 43.4317184708089,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41934",
-   :locality "Asturias",
+   :location "Asturias",
    :image "",
    :description ""}
   {:name "LEKUNBERRI DISK GOLF ZELAIA",
@@ -208,7 +208,7 @@
    :latitude 43.00142485648104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27141",
-   :locality "Lekunberri",
+   :location "Lekunberri",
    :image "",
    :description ""}
   {:name "LESAKA DISKO GOLF ZELAIA",
@@ -216,7 +216,7 @@
    :latitude 43.24881601696748,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43198",
-   :locality "Nafarroa",
+   :location "Nafarroa",
    :image "",
    :description ""}
   {:name "Looonghole Kanpazar (proyecto)",
@@ -224,7 +224,7 @@
    :latitude 43.32015554390583,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38752",
-   :locality "Portugalete",
+   :location "Portugalete",
    :image "",
    :description ""}
   {:name "Mahatma Gandhi",
@@ -232,7 +232,7 @@
    :latitude 27.763006,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6061",
-   :locality "San Bartolomé de Tirajana",
+   :location "San Bartolomé de Tirajana",
    :image "",
    :description ""}
   {:name "Match play x9",
@@ -240,7 +240,7 @@
    :latitude 43.51072722564902,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30448",
-   :locality "Gijón",
+   :location "Gijón",
    :image "",
    :description ""}
   {:name "MATZADA (BERA)",
@@ -255,7 +255,7 @@
    :latitude 36.59226581456113,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28818",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "Mijas - Mixed layouts",
@@ -263,7 +263,7 @@
    :latitude 36.582097150168394,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31644",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "Mijas - Mixed Layouts - Purple",
@@ -271,7 +271,7 @@
    :latitude 36.58196243776601,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45543",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "Mijas Experience layout",
@@ -279,7 +279,7 @@
    :latitude 36.58185954908349,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31522",
-   :locality "Mijas",
+   :location "Mijas",
    :image "",
    :description ""}
   {:name "Monte do Gozo",
@@ -287,7 +287,7 @@
    :latitude 42.88684051981551,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20701",
-   :locality "Santiago de Compostela",
+   :location "Santiago de Compostela",
    :image "",
    :description ""}
   {:name "Muskiz disc golf Zelaia (Euskadiscgolf)",
@@ -295,7 +295,7 @@
    :latitude 43.32426073858127,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36917",
-   :locality "Muskiz",
+   :location "Muskiz",
    :image "",
    :description ""}
   {:name "Männiku",
@@ -303,7 +303,7 @@
    :latitude 41.407181352805424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34633",
-   :locality "Almonacid de la Sierra",
+   :location "Almonacid de la Sierra",
    :image "",
    :description ""}
   {:name "Paderni",
@@ -325,7 +325,7 @@
    :latitude 41.551093270471256,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16497",
-   :locality "Sabadell",
+   :location "Sabadell",
    :image "",
    :description ""}
   {:name "PARQUE de INVIERNO",
@@ -333,7 +333,7 @@
    :latitude 43.35109229092487,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7420",
-   :locality "Oviedo",
+   :location "Oviedo",
    :image "",
    :description ""}
   {:name "Parque de la Carbayera - 9 hoyos",
@@ -341,7 +341,7 @@
    :latitude 43.510957269338945,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27877",
-   :locality "Gijón",
+   :location "Gijón",
    :image "",
    :description ""}
   {:name "Parque de los Lagos (Costa Ballena)",
@@ -349,7 +349,7 @@
    :latitude 36.69457562395212,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26000",
-   :locality "Chipiona",
+   :location "Chipiona",
    :image "",
    :description ""}
   {:name "Parque del Agua",
@@ -357,7 +357,7 @@
    :latitude 41.67228810726499,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26303",
-   :locality "Zaragoza",
+   :location "Zaragoza",
    :image "",
    :description ""}
   {:name "Parque del Alamillo",
@@ -365,7 +365,7 @@
    :latitude 37.418859127456784,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45732",
-   :locality "Sevilla",
+   :location "Sevilla",
    :image "",
    :description ""}
   {:name "Parque La Carbayera Gijón",
@@ -373,7 +373,7 @@
    :latitude 43.50772742133188,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26151",
-   :locality "Gijón",
+   :location "Gijón",
    :image "",
    :description ""}
   {:name "Parque Palmetum",
@@ -381,7 +381,7 @@
    :latitude 27.764899,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5684",
-   :locality "San Bartolomé de Tirajana",
+   :location "San Bartolomé de Tirajana",
    :image "",
    :description ""}
   {:name "Paseo Río Cubia",
@@ -389,7 +389,7 @@
    :latitude 43.38935723149686,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38793",
-   :locality "Grado",
+   :location "Grado",
    :image "",
    :description ""}
   {:name "Prueba golf",
@@ -397,7 +397,7 @@
    :latitude 43.55863911675604,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34047",
-   :locality "Valdés",
+   :location "Valdés",
    :image "",
    :description ""}
   {:name "Purificacion",
@@ -405,7 +405,7 @@
    :latitude 43.152209106083234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43214",
-   :locality "Asturias",
+   :location "Asturias",
    :image "",
    :description ""}
   {:name "PURIFICACIÓN TOMÁS",
@@ -413,7 +413,7 @@
    :latitude 43.37441640904768,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7663",
-   :locality "Oviedo",
+   :location "Oviedo",
    :image "",
    :description ""}
   {:name "Purificación Tomás",
@@ -428,7 +428,7 @@
    :latitude 43.37283952069623,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42917",
-   :locality "Oviedo",
+   :location "Oviedo",
    :image "",
    :description ""}
   {:name "Sunview Park",
@@ -436,7 +436,7 @@
    :latitude 36.69290001960036,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29891",
-   :locality "Alhaurín de la Torre",
+   :location "Alhaurín de la Torre",
    :image "",
    :description ""}
   {:name "Universidad Complutense Disc Golf Course",

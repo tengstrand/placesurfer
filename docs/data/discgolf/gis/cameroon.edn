@@ -9,7 +9,7 @@
    :latitude 5.615985819148108,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22386",
-   :locality "Lom-et-Djérem"}],
+   :location "Lom-et-Djérem"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

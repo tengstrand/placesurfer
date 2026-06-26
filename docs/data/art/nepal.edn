@@ -64,7 +64,7 @@
    :latitude 27.6288672,
    :source :openstreetmap,
    :homepage "http://www.facebook.com/bungamatimuseum",
-   :locality "Bungamati",
+   :location "Bungamati",
    :image "",
    :description ""}
   {:name "Changu Museum",
@@ -181,7 +181,7 @@
    :longitude 83.7742556,
    :latitude 28.3101096,
    :source :openstreetmap,
-   :locality "Annapurna Rural Municipality, Ward No.8",
+   :location "Annapurna Rural Municipality, Ward No.8",
    :image "",
    :description ""}
   {:name "International Mountain Museum",
@@ -213,7 +213,7 @@
    :longitude 84.0727486,
    :latitude 28.1990198,
    :source :openstreetmap,
-   :locality "Pokhara Lekhnath Metropolitan City",
+   :location "Pokhara Lekhnath Metropolitan City",
    :image "",
    :description ""}
   {:name "Kala Kendra",
@@ -274,7 +274,7 @@
    :longitude 85.3181031,
    :latitude 27.7148956,
    :source :openstreetmap,
-   :locality "Kathmandu",
+   :location "Kathmandu",
    :image "",
    :description ""}
   {:name "National History Museum",
@@ -343,7 +343,7 @@
    :longitude 87.3436979,
    :latitude 26.9805909,
    :source :openstreetmap,
-   :locality "Dhankuta",
+   :location "Dhankuta",
    :image "",
    :description ""}
   {:name "Regional Musium",
@@ -370,7 +370,7 @@
    :latitude 27.010777,
    :source :openstreetmap,
    :homepage "www.sanskriti.org.np",
-   :locality "Birgunj",
+   :location "Birgunj",
    :image "",
    :description ""}
   {:name "Santu Art Gallery",
@@ -420,7 +420,7 @@
    :latitude 27.7200271,
    :source :openstreetmap,
    :homepage "https://taragaonmuseum.com/",
-   :locality "Kathmandu",
+   :location "Kathmandu",
    :image "",
    :description ""}
   {:name "Tharu Cultural Museum",
@@ -439,7 +439,7 @@
    :longitude 81.147398,
    :latitude 28.4613729,
    :source :openstreetmap,
-   :locality "Rajaput Municipality, Ward no 2",
+   :location "Rajaput Municipality, Ward no 2",
    :image "",
    :description ""}
   {:name "The City Museum Kathmandu",

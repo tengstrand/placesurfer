@@ -27,7 +27,7 @@
    :longitude 32.5645172,
    :latitude 0.2289202,
    :source :openstreetmap,
-   :locality "Kampala",
+   :location "Kampala",
    :image "",
    :description ""}
   {:name "ATEKER CULTURAL CENTRE MUSEUM",
@@ -40,7 +40,7 @@
    :longitude 33.608438,
    :latitude 1.7194658,
    :source :openstreetmap,
-   :locality "Soroti",
+   :location "Soroti",
    :image "",
    :description ""}
   {:name "Bidibidi Arts Center",
@@ -59,7 +59,7 @@
    :longitude 31.740796,
    :latitude -0.3191325,
    :source :openstreetmap,
-   :locality "Ssaza Central",
+   :location "Ssaza Central",
    :image "",
    :description ""}
   {:name "Buganda Kingdom museum",
@@ -84,7 +84,7 @@
    :longitude 32.5805999,
    :latitude 0.3143923,
    :source :openstreetmap,
-   :locality "Kampala",
+   :location "Kampala",
    :image "",
    :description ""}
   {:name "CULTURAL REASEARCH CENTRE MUSEUM",
@@ -97,7 +97,7 @@
    :longitude 30.6317216,
    :latitude -0.6124161,
    :source :openstreetmap,
-   :locality "Mbarara , Ruharo",
+   :location "Mbarara , Ruharo",
    :image "",
    :description ""}
   {:name "Eriijukiro Museum of Southwestern Uganda",
@@ -112,7 +112,7 @@
    :latitude 0.3031768,
    :source :openstreetmap,
    :homepage "https://www.africagalleryantique.com/",
-   :locality "Kampala",
+   :location "Kampala",
    :image "",
    :description ""}
   {:name "Great Lakes Museum",
@@ -120,14 +120,14 @@
    :latitude -1.1531851,
    :source :openstreetmap,
    :homepage "www.greatlakesmuseum.co.ug",
-   :locality "Rwahi",
+   :location "Rwahi",
    :image "",
    :description ""}
   {:name "HAM MUKASA MUSEUM",
    :longitude 32.7563225,
    :latitude 0.3667289,
    :source :openstreetmap,
-   :locality "Mukono",
+   :location "Mukono",
    :image "",
    :description ""}
   {:name "KAKUNGULU MUSEUM",
@@ -176,7 +176,7 @@
    :longitude 31.4441809,
    :latitude 3.5631902,
    :source :openstreetmap,
-   :locality "Nabara",
+   :location "Nabara",
    :image "",
    :description ""}
   {:name "KOOGERE COMMUNITY MUSEUM",
@@ -189,7 +189,7 @@
    :longitude 32.8960461,
    :latitude 2.245247,
    :source :openstreetmap,
-   :locality "Lira City",
+   :location "Lira City",
    :image "",
    :description ""}
   {:name "law lib",
@@ -220,14 +220,14 @@
    :longitude 30.9108215,
    :latitude 3.0176121,
    :source :openstreetmap,
-   :locality "Arua",
+   :location "Arua",
    :image "",
    :description ""}
   {:name "Paidha Cultural Center",
    :longitude 30.987655,
    :latitude 2.4179383,
    :source :openstreetmap,
-   :locality "Mvuli",
+   :location "Mvuli",
    :image "",
    :description ""}
   {:name "RAILWAY MUSEUM",
@@ -264,7 +264,7 @@
    :longitude 31.5637837,
    :latitude -0.6173057,
    :source :openstreetmap,
-   :locality "Kiteredde",
+   :location "Kiteredde",
    :image "",
    :description ""}
   {:name "Taks Centre",
@@ -284,7 +284,7 @@
    :longitude 32.5914114,
    :latitude 0.3093973,
    :source :openstreetmap,
-   :locality "Kampala",
+   :location "Kampala",
    :image "",
    :description ""}
   {:name
@@ -298,7 +298,7 @@
    :longitude 32.6187588,
    :latitude 0.3298613,
    :source :openstreetmap,
-   :locality "Kampala",
+   :location "Kampala",
    :image "",
    :description ""}],
  :source

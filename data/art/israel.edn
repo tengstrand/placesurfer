@@ -14,7 +14,7 @@
    :longitude 35.0430252,
    :latitude 32.7761632,
    :source :openstreetmap,
-   :locality "Nesher",
+   :location "Nesher",
    :image "",
    :description ""}
   {:name "Artist's House",
@@ -64,7 +64,7 @@
    :longitude 34.8450319,
    :latitude 32.1346646,
    :source :openstreetmap,
-   :locality "רמת השרון",
+   :location "רמת השרון",
    :image "",
    :description ""}
   {:name "Kimaron Hall",
@@ -157,7 +157,7 @@
    :longitude 34.8537556,
    :latitude 32.0712844,
    :source :openstreetmap,
-   :locality "גבעת שמואל",
+   :location "גבעת שמואל",
    :image "",
    :description ""}
   {:name "אולם ספורט רוזמרין",
@@ -261,7 +261,7 @@
    :longitude 34.9187742,
    :latitude 32.2512811,
    :source :openstreetmap,
-   :locality "תל מונד",
+   :location "תל מונד",
    :image "",
    :description ""}
   {:name "בית העדות",
@@ -274,7 +274,7 @@
    :longitude 35.5306085,
    :latitude 32.7974992,
    :source :openstreetmap,
-   :locality "טבריה",
+   :location "טבריה",
    :image "",
    :description ""}
   {:name "בית הרצל",
@@ -287,7 +287,7 @@
    :longitude 34.8168374,
    :latitude 32.0607015,
    :source :openstreetmap,
-   :locality "גבעתיים",
+   :location "גבעתיים",
    :image "",
    :description ""}
   {:name "בית ז'בוטינסקי",
@@ -334,7 +334,7 @@
    :longitude 34.9216292,
    :latitude 32.4320091,
    :source :openstreetmap,
-   :locality "חדרה",
+   :location "חדרה",
    :image "",
    :description ""}
   {:name "בית ציוני אמריקה",
@@ -372,7 +372,7 @@
    :latitude 32.0674059,
    :source :openstreetmap,
    :homepage "https://chelouchegallery.com/",
-   :locality "תל אביב-יפו",
+   :location "תל אביב-יפו",
    :image "",
    :description ""}
   {:name "גלרייה ברונו",
@@ -385,7 +385,7 @@
    :longitude 34.8998381,
    :latitude 32.175909,
    :source :openstreetmap,
-   :locality "כפר סבא",
+   :location "כפר סבא",
    :image "",
    :description ""}
   {:name "הגלרייה על האגם",
@@ -406,7 +406,7 @@
    :latitude 32.0628337,
    :source :openstreetmap,
    :homepage "http://www.eng.ihi.org.il",
-   :locality "תל אביב-יפו",
+   :location "תל אביב-יפו",
    :image "",
    :description ""}
   {:name "היכל התרבות",
@@ -426,7 +426,7 @@
    :latitude 31.9627676,
    :source :openstreetmap,
    :homepage "https://www.htrl.co.il/",
-   :locality "ראשון לציון",
+   :location "ראשון לציון",
    :image "",
    :description ""}
   {:name "המוזיאון הישראלי",
@@ -455,14 +455,14 @@
    :latitude 32.0204283,
    :source :openstreetmap,
    :homepage "https://holonet.co.il/museum",
-   :locality "חולון",
+   :location "חולון",
    :image "",
    :description ""}
   {:name "המוזיאון לארכיאולוגיה אזורית וים תיכונית",
    :longitude 35.4517081,
    :latitude 32.5046094,
    :source :openstreetmap,
-   :locality "גן-השלושה (הסחנה(",
+   :location "גן-השלושה (הסחנה(",
    :image "",
    :description ""}
   {:name "המוזיאון לעתיקות יפו",
@@ -483,14 +483,14 @@
    :latitude 31.7753097,
    :source :openstreetmap,
    :homepage "https://www.biblico.it/jerusalem.html",
-   :locality "Jerusalem",
+   :location "Jerusalem",
    :image "",
    :description ""}
   {:name "המרכז לתיאטרון בובות",
    :longitude 34.767031,
    :latitude 32.0102456,
    :source :openstreetmap,
-   :locality "חולון",
+   :location "חולון",
    :image "",
    :description ""}
   {:name "המשכן העירוני למוזיקה ואמנויות",
@@ -499,7 +499,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.raanana.muni.il/Lists/List16/DispForm.aspx?ID=22",
-   :locality "רעננה",
+   :location "רעננה",
    :image "",
    :description ""}
   {:name "המשכן לאמנות יהודית על שם דוד לבקובסקי",
@@ -598,7 +598,7 @@
    :longitude 34.7776111,
    :latitude 32.0109161,
    :source :openstreetmap,
-   :locality "חולון",
+   :location "חולון",
    :image "",
    :description ""}
   {:name "מוזאון הרעות נבי יושע",
@@ -709,7 +709,7 @@
    :longitude 34.8431306,
    :latitude 32.1466687,
    :source :openstreetmap,
-   :locality "רמת השרון",
+   :location "רמת השרון",
    :image "",
    :description ""}
   {:name "מוזיאון דגון",
@@ -761,7 +761,7 @@
    :latitude 31.7662398,
    :source :openstreetmap,
    :homepage "https://muzteva.org.il/",
-   :locality "ירושלים",
+   :location "ירושלים",
    :image "",
    :description ""}
   {:name "מוזיאון הטבע התנ\"כי",
@@ -857,7 +857,7 @@
    :latitude 32.0074389,
    :source :openstreetmap,
    :homepage "https://holonet.co.il/?CategoryID=1048&ArticleID=5445",
-   :locality "חולון",
+   :location "חולון",
    :image "",
    :description ""}
   {:name "מוזיאון חיל האוויר",
@@ -890,7 +890,7 @@
    :longitude 34.7822347,
    :latitude 31.9680701,
    :source :openstreetmap,
-   :locality "ראשון לציון",
+   :location "ראשון לציון",
    :image "",
    :description ""}
   {:name "מוזיאון ישראל",
@@ -898,7 +898,7 @@
    :latitude 31.7722901,
    :source :openstreetmap,
    :homepage "https://www.imj.org.il",
-   :locality "ירושלים",
+   :location "ירושלים",
    :image "",
    :description ""}
   {:name "מוזיאון לאומנות האיסלאם",
@@ -914,7 +914,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.ramat-gan.muni.il/going_out/museums/aharon_kahana/",
-   :locality "רמת גן",
+   :location "רמת גן",
    :image "",
    :description ""}
   {:name "מוזיאון להסטוריה אילת",
@@ -922,7 +922,7 @@
    :latitude 29.5517662,
    :source :openstreetmap,
    :homepage "https://www.eilat-history.co.il/",
-   :locality "אילת",
+   :location "אילת",
    :image "",
    :description ""}
   {:name "מוזיאון לח\"י",
@@ -1028,7 +1028,7 @@
    :longitude 34.5581477,
    :latitude 31.5865854,
    :source :openstreetmap,
-   :locality "יד מרדכי",
+   :location "יד מרדכי",
    :image "",
    :description ""}
   {:name "מוזיאון תולדות השאיבה",
@@ -1042,7 +1042,7 @@
    :latitude 32.0775311,
    :source :openstreetmap,
    :homepage "https://www.tamuseum.org.il/",
-   :locality "תל אביב-יפו",
+   :location "תל אביב-יפו",
    :image "",
    :description ""}
   {:name "מוזיאון תל חי",
@@ -1068,7 +1068,7 @@
    :latitude 31.7822915,
    :source :openstreetmap,
    :homepage "https://www.terrasanctamuseum.org/",
-   :locality "ירושלים",
+   :location "ירושלים",
    :image "",
    :description ""}
   {:name "מרכז אדמונד דה רוטשילד",
@@ -1119,7 +1119,7 @@
    :latitude 31.7692694,
    :source :openstreetmap,
    :homepage "https://www.begincenter.org.il/",
-   :locality "Jerusalem",
+   :location "Jerusalem",
    :image "",
    :description ""}
   {:name "מרכז ג'ו אלון",
@@ -1157,7 +1157,7 @@
    :latitude 31.2372105,
    :source :openstreetmap,
    :homepage "http://www.abraham.org.il/",
-   :locality "באר שבע",
+   :location "באר שבע",
    :image "",
    :description ""}
   {:name "מרכז מורשת יהדות טורקיה",
@@ -1262,7 +1262,7 @@
    :latitude 31.2418391,
    :source :openstreetmap,
    :homepage "https://www.sci-park.co.il/",
-   :locality "באר שבע",
+   :location "באר שבע",
    :image "",
    :description ""}
   {:name "ציאורים - גלרייה לאומנות",
@@ -1275,7 +1275,7 @@
    :longitude 34.7965553,
    :latitude 31.2518828,
    :source :openstreetmap,
-   :locality "באר שבע",
+   :location "באר שבע",
    :image "",
    :description ""}
   {:name "קונסרבטוריון",
@@ -1312,7 +1312,7 @@
    :longitude 35.2993539,
    :latitude 32.7053171,
    :source :openstreetmap,
-   :locality "الناصرة",
+   :location "الناصرة",
    :image "",
    :description ""}
   {:name "بيت الفن الفلسطيني",
@@ -1326,7 +1326,7 @@
    :latitude 32.7000733,
    :source :openstreetmap,
    :homepage "https://nazarethvillage.com/",
-   :locality "الناصرة",
+   :location "الناصرة",
    :image "",
    :description ""}],
  :source

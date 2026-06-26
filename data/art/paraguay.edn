@@ -20,7 +20,7 @@
    :longitude -54.6092324,
    :latitude -25.5433694,
    :source :openstreetmap,
-   :locality "Ciudad del Este",
+   :location "Ciudad del Este",
    :image "",
    :description ""}
   {:name "Capilla Loreto",
@@ -35,7 +35,7 @@
    :source :openstreetmap,
    :homepage
    "https://visitaparaguay.com.py/lugar/555/casa-bicentenario-de-la-literatura-augusto-roa-bastos",
-   :locality "Asuncion",
+   :location "Asuncion",
    :image "",
    :description ""}
   {:name "Casa Bicentenario del Teatro \"Edda de los Ríos\"",
@@ -49,7 +49,7 @@
    :longitude -55.5541054,
    :latitude -26.8616835,
    :source :openstreetmap,
-   :locality "Pirapó",
+   :location "Pirapó",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
@@ -62,7 +62,7 @@
    :longitude -55.8691327,
    :latitude -27.3390204,
    :source :openstreetmap,
-   :locality "Encarnación",
+   :location "Encarnación",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Municipal",
@@ -75,7 +75,7 @@
    :longitude -57.6289867,
    :latitude -25.2814322,
    :source :openstreetmap,
-   :locality "Asunción",
+   :location "Asunción",
    :image "",
    :description ""}
   {:name "Casa Raatz",
@@ -124,7 +124,7 @@
    :longitude -57.6360107,
    :latitude -25.2829161,
    :source :openstreetmap,
-   :locality "Asuncion",
+   :location "Asuncion",
    :image "",
    :description ""}
   {:name "Eric Artes",
@@ -143,7 +143,7 @@
    :longitude -56.4399705,
    :latitude -25.444934,
    :source :openstreetmap,
-   :locality "Coronel Oviedo",
+   :location "Coronel Oviedo",
    :image "",
    :description ""}
   {:name "Estacion del Tren",
@@ -163,7 +163,7 @@
    :latitude -25.288959,
    :source :openstreetmap,
    :homepage "https://www.juandesalazar.org.py/",
-   :locality "Asunción",
+   :location "Asunción",
    :image "",
    :description ""}
   {:name "GALERIA CREANDO ARTE",
@@ -176,7 +176,7 @@
    :longitude -57.6344839,
    :latitude -25.2930181,
    :source :openstreetmap,
-   :locality "Asuncion",
+   :location "Asuncion",
    :image "",
    :description ""}
   {:name "Galería Exaedro",
@@ -195,7 +195,7 @@
    :longitude -57.5861929,
    :latitude -25.2891904,
    :source :openstreetmap,
-   :locality "VILLA MORRA",
+   :location "VILLA MORRA",
    :image "",
    :description ""}
   {:name "JARA GIL ARTES",
@@ -208,7 +208,7 @@
    :longitude -57.6442366,
    :latitude -25.2795125,
    :source :openstreetmap,
-   :locality "Asunción",
+   :location "Asunción",
    :image "",
    :description ""}
   {:name "La casa embrujada",
@@ -222,7 +222,7 @@
    :latitude -25.2837831,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/obradoracultural/",
-   :locality "Asuncion",
+   :location "Asuncion",
    :image "",
    :description ""}
   {:name "Los Fundadores",
@@ -247,7 +247,7 @@
    :longitude -57.5794826,
    :latitude -25.252793,
    :source :openstreetmap,
-   :locality "Asunción",
+   :location "Asunción",
    :image "",
    :description ""}
   {:name "Museo Bella Vista",
@@ -278,7 +278,7 @@
    :longitude -55.8691161,
    :latitude -27.3342947,
    :source :openstreetmap,
-   :locality "Encarnación",
+   :location "Encarnación",
    :image "",
    :description ""}
   {:name "Museo de Curuguaty",
@@ -315,7 +315,7 @@
    :longitude -57.6397417,
    :latitude -25.2886409,
    :source :openstreetmap,
-   :locality "Asunción",
+   :location "Asunción",
    :image "",
    :description ""}
   {:name "Museo de Santiago Misiones",
@@ -334,7 +334,7 @@
    :longitude -55.8734615,
    :latitude -27.3345025,
    :source :openstreetmap,
-   :locality "Encarnación",
+   :location "Encarnación",
    :image "",
    :description ""}
   {:name "Museo del Vino",
@@ -500,7 +500,7 @@
    :latitude -25.2898782,
    :source :openstreetmap,
    :homepage "https://www.osn.gov.py/",
-   :locality "Asuncion",
+   :location "Asuncion",
    :image "",
    :description ""}
   {:name "Parque Ecológico Ingeniero Alfredo Sitzmann",
@@ -550,7 +550,7 @@
    :latitude -25.2887379,
    :source :openstreetmap,
    :homepage "https://www.juandesalazar.org.py/",
-   :locality "Asunción",
+   :location "Asunción",
    :image "",
    :description ""}
   {:name "Salón Padre Guillermo Hütte",
@@ -570,7 +570,7 @@
    :latitude -25.2813073,
    :source :openstreetmap,
    :homepage "https://muci.org",
-   :locality "Asunción",
+   :location "Asunción",
    :image "",
    :description ""}
   {:name "Tecnica",

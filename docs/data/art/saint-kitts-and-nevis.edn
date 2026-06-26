@@ -9,7 +9,7 @@
    :latitude 17.1322574,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/caribbeancovenevis",
-   :locality "Charlestown",
+   :location "Charlestown",
    :image "",
    :description ""}
   {:name "Eva Wilkin Galleria",
@@ -22,14 +22,14 @@
    :longitude -62.7236882,
    :latitude 17.2945525,
    :source :openstreetmap,
-   :locality "Basseterre",
+   :location "Basseterre",
    :image "",
    :description ""}
   {:name "Nevis Performing Arts Center",
    :longitude -62.6230681,
    :latitude 17.1456151,
    :source :openstreetmap,
-   :locality "Charlestown",
+   :location "Charlestown",
    :image "",
    :description ""}
   {:name "Nevis Sports Museum",
@@ -37,7 +37,7 @@
    :latitude 17.1386273,
    :source :openstreetmap,
    :homepage "https://www.nevisheritage.org/",
-   :locality "Charlestown",
+   :location "Charlestown",
    :image "",
    :description ""}
   {:name "Sandy Point Hard Court",

@@ -20,14 +20,14 @@
    :longitude 81.3341736,
    :latitude 6.4186197,
    :source :openstreetmap,
-   :locality "Katharagama UP",
+   :location "Katharagama UP",
    :image "",
    :description ""}
   {:name "Archaeological Museum",
    :longitude 80.9989762,
    :latitude 7.9418009,
    :source :openstreetmap,
-   :locality "Polonnaruwa",
+   :location "Polonnaruwa",
    :image "",
    :description ""}
   {:name "Archaeological Museum Mihintale",
@@ -40,7 +40,7 @@
    :longitude 79.9051742,
    :latitude 6.8932566,
    :source :openstreetmap,
-   :locality "Sri Jayawardenepura Kotte",
+   :location "Sri Jayawardenepura Kotte",
    :image "",
    :description ""}
   {:name "Archeological Museum",
@@ -53,7 +53,7 @@
    :longitude 80.0506862,
    :latitude 6.2414013,
    :source :openstreetmap,
-   :locality "Ambalangoda",
+   :location "Ambalangoda",
    :image "",
    :description ""}
   {:name "Art Gallery",
@@ -66,7 +66,7 @@
    :longitude 81.0622983,
    :latitude 6.9841404,
    :source :openstreetmap,
-   :locality "Badulla",
+   :location "Badulla",
    :image "",
    :description ""}
   {:name "Buddhist Museum",
@@ -116,7 +116,7 @@
    :longitude 79.8516492,
    :latitude 6.9360639,
    :source :openstreetmap,
-   :locality "Colombo",
+   :location "Colombo",
    :image "",
    :description ""}
   {:name "Elephant Information Centre",
@@ -149,7 +149,7 @@
    :longitude 80.6106024,
    :latitude 7.2740748,
    :source :openstreetmap,
-   :locality "Kandy",
+   :location "Kandy",
    :image "",
    :description ""}
   {:name "General Tsunami Photo Museum",
@@ -163,14 +163,14 @@
    :latitude 6.9014644,
    :source :openstreetmap,
    :homepage "https://geoffreybawa.com/number-11",
-   :locality "Colombo 7",
+   :location "Colombo 7",
    :image "",
    :description ""}
   {:name "Goethe Institute",
    :longitude 79.87088,
    :latitude 6.9099345,
    :source :openstreetmap,
-   :locality "Colombo",
+   :location "Colombo",
    :image "",
    :description ""}
   {:name "Handunugoda Tea Estate",
@@ -190,7 +190,7 @@
    :longitude 80.5725878,
    :latitude 7.2672828,
    :source :openstreetmap,
-   :locality "Kiribathkumbura",
+   :location "Kiribathkumbura",
    :image "",
    :description ""}
   {:name "Hoods Tower Naval Museum",
@@ -245,14 +245,14 @@
    :longitude 80.766188,
    :latitude 6.972736,
    :source :openstreetmap,
-   :locality "Nuwara Eliya",
+   :location "Nuwara Eliya",
    :image "",
    :description ""}
   {:name "Maduwanwela Walawwa",
    :longitude 80.7037407,
    :latitude 6.3892301,
    :source :openstreetmap,
-   :locality "Embilipitiya",
+   :location "Embilipitiya",
    :image "",
    :description ""}
   {:name "Mondigliani Gallery",
@@ -308,7 +308,7 @@
    :longitude 79.8434128,
    :latitude 6.9360351,
    :source :openstreetmap,
-   :locality "Colombo",
+   :location "Colombo",
    :image "",
    :description ""}
   {:name "Orr's Hill Army Museum",
@@ -327,7 +327,7 @@
    :longitude 80.12647,
    :latitude 6.1142871,
    :source :openstreetmap,
-   :locality "Hikkaduwa",
+   :location "Hikkaduwa",
    :image "",
    :description ""}
   {:name "Pallegama Art Center",
@@ -390,14 +390,14 @@
    :longitude 80.7518029,
    :latitude 7.9569761,
    :source :openstreetmap,
-   :locality "Sigiriya",
+   :location "Sigiriya",
    :image "",
    :description ""}
   {:name "Sirisuwimala Sinhala Research Center",
    :longitude 80.5957183,
    :latitude 5.9352128,
    :source :openstreetmap,
-   :locality "Dondra",
+   :location "Dondra",
    :image "",
    :description ""}
   {:name "Sri Lanka Air Force Museum",
@@ -435,7 +435,7 @@
    :longitude 80.0607882,
    :latitude 6.2295349,
    :source :openstreetmap,
-   :locality "Ambalangoda",
+   :location "Ambalangoda",
    :image "",
    :description ""}
   {:name "Vadda's Heritage Centre",
@@ -448,7 +448,7 @@
    :longitude 80.768913,
    :latitude 6.9673282,
    :source :openstreetmap,
-   :locality "Nuwara Eliya",
+   :location "Nuwara Eliya",
    :image "",
    :description ""}
   {:name "W A Silva Museum",

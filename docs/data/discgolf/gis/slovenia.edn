@@ -9,49 +9,49 @@
    :latitude 45.66950586866869,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39165",
-   :locality "Lipica"}
+   :location "Lipica"}
   {:name "Disc golf Ljubljana Stožice",
    :longitude 14.531053844589053,
    :latitude 46.08657560038145,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30848",
-   :locality "Ljubljana"}
+   :location "Ljubljana"}
   {:name "DiscGolfPark Planica",
    :longitude 13.724551228801744,
    :latitude 46.475899890132155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39161",
-   :locality "Planica"}
+   :location "Planica"}
   {:name "DiscGolfPark Ruse-Areh",
    :longitude 15.508462796208988,
    :latitude 46.49634845961373,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20412",
-   :locality "Ruše"}
+   :location "Ruše"}
   {:name "DiscGolfPark Vogel",
    :longitude 13.839388105982835,
    :latitude 46.262414249138686,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39162",
-   :locality "Bohinj"}
+   :location "Bohinj"}
   {:name "Eko Koča Nanos",
    :longitude 14.052931151163307,
    :latitude 45.77218094370048,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39164",
-   :locality "Nanos"}
+   :location "Nanos"}
   {:name "Kope Disc Golf Parcours",
    :longitude 15.066823230372421,
    :latitude 46.58298564740488,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33521",
-   :locality "Leven"}
+   :location "Leven"}
   {:name "Krpanov disk golf - DiscGolfPark",
    :longitude 14.602773836123447,
    :latitude 46.1333580062541,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39156",
-   :locality "Domžale"}
+   :location "Domžale"}
   {:name "Krvavec",
    :longitude 14.524166393934223,
    :latitude 46.28142820214131,
@@ -62,31 +62,31 @@
    :latitude 46.085793735440234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21764",
-   :locality "Ljubljana"}
+   :location "Ljubljana"}
   {:name "Mezica",
    :longitude 14.848022961556808,
    :latitude 46.521995715734505,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14241",
-   :locality "Mežica"}
+   :location "Mežica"}
   {:name "Multigolf Lokve",
    :longitude 13.792446040909084,
    :latitude 46.011673126511596,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39163",
-   :locality "Lokve"}
+   :location "Lokve"}
   {:name "Park Rakican Disc Golf",
    :longitude 16.19204853474642,
    :latitude 46.64729278675668,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28845",
-   :locality "Murska Sobota"}
+   :location "Murska Sobota"}
   {:name "Radlje DiscGolfPark",
    :longitude 15.218132857215636,
    :latitude 46.613127795302205,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39160",
-   :locality "Radlje ob Dravi"}],
+   :location "Radlje ob Dravi"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

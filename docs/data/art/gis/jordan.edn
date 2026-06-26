@@ -56,7 +56,7 @@
    :longitude 35.8538382,
    :latitude 32.5357082,
    :source :openstreetmap,
-   :locality "irbid"}
+   :location "irbid"}
   {:name "Irbid Archaeological Museum",
    :longitude 35.8480225,
    :latitude 32.5577977,
@@ -115,23 +115,23 @@
    :latitude 31.9455804,
    :source :openstreetmap,
    :homepage "https://jordanmuseum.jo/",
-   :locality "عمان"}
+   :location "عمان"}
   {:name "متحف الحياة البرلمانية",
    :longitude 35.9211777,
    :latitude 31.9511145,
    :source :openstreetmap,
-   :locality "عمان"}
+   :location "عمان"}
   {:name "متحف الحيوانات",
    :longitude 35.8576276,
    :latitude 32.5371951,
    :source :openstreetmap,
-   :locality "اريد"}
+   :location "اريد"}
   {:name "متحف الدبابات الملكي",
    :longitude 35.9244252,
    :latitude 31.9088569,
    :source :openstreetmap,
    :homepage "https://rtm.jo/",
-   :locality "Amman"}
+   :location "Amman"}
   {:name "متحف السيارات الملكي m&h",
    :longitude 35.8264687,
    :latitude 31.9831565,

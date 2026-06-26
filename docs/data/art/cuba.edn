@@ -22,7 +22,7 @@
    :latitude 22.1465502,
    :source :openstreetmap,
    :homepage "http://www.ahs.cu/",
-   :locality "Cienfuegos",
+   :location "Cienfuegos",
    :image "",
    :description ""}
   {:name "AHS",
@@ -54,7 +54,7 @@
    :latitude 23.1163657,
    :source :openstreetmap,
    :homepage "http://www.artesanolaboratorio.com",
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Asociación Cultural Yoruba de Cuba",
@@ -127,7 +127,7 @@
    :longitude -74.4974802,
    :latitude 20.3483,
    :source :openstreetmap,
-   :locality "Baracoa",
+   :location "Baracoa",
    :image "",
    :description ""}
   {:name "Casa de Cultura",
@@ -182,7 +182,7 @@
    :longitude -79.2620052,
    :latitude 22.255702,
    :source :openstreetmap,
-   :locality "Meneses",
+   :location "Meneses",
    :image "",
    :description ""}
   {:name "Casa de Cultura",
@@ -261,7 +261,7 @@
    :longitude -76.2734454,
    :latitude 21.0703554,
    :source :openstreetmap,
-   :locality "Bocas",
+   :location "Bocas",
    :image "",
    :description ""}
   {:name "Casa de Cultura Leonel Rugama Rugama",
@@ -304,7 +304,7 @@
    :longitude -75.996581,
    :latitude 20.2130089,
    :source :openstreetmap,
-   :locality "Palma Soriano",
+   :location "Palma Soriano",
    :image "",
    :description ""}
   {:name "Casa de cultura Raúl Ferrer",
@@ -323,7 +323,7 @@
    :longitude -81.1279682,
    :latitude 22.5265704,
    :source :openstreetmap,
-   :locality "Jagüey Grande",
+   :location "Jagüey Grande",
    :image "",
    :description ""}
   {:name "Casa de Cultura Rubén Martínez Villena",
@@ -398,7 +398,7 @@
    :longitude -80.2008082,
    :latitude 22.150076,
    :source :openstreetmap,
-   :locality "Cumanayagua",
+   :location "Cumanayagua",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
@@ -435,7 +435,7 @@
    :longitude -80.2734575,
    :latitude 22.3431219,
    :source :openstreetmap,
-   :locality "Cruces",
+   :location "Cruces",
    :image "",
    :description ""}
   {:name "Casa de la Cultura \"José Manuel Poveda\"",
@@ -454,7 +454,7 @@
    :longitude -81.5740063,
    :latitude 23.0397034,
    :source :openstreetmap,
-   :locality "Ciudad de Matanzas",
+   :location "Ciudad de Matanzas",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Celia Sánchez Manduley",
@@ -491,7 +491,7 @@
    :longitude -82.2759685,
    :latitude 23.1616272,
    :source :openstreetmap,
-   :locality "Alamar",
+   :location "Alamar",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Jose A. Cepero Brito",
@@ -499,7 +499,7 @@
    :latitude 22.6027289,
    :source :openstreetmap,
    :homepage "https://www.ministeriodecultura.gob.cu/es/",
-   :locality "Manacas",
+   :location "Manacas",
    :image "",
    :description ""}
   {:name "Casa de la Cultura Nicolas Guillén",
@@ -512,14 +512,14 @@
    :longitude -76.6505936,
    :latitude 20.3728876,
    :source :openstreetmap,
-   :locality "Bayamo",
+   :location "Bayamo",
    :image "",
    :description ""}
   {:name "Casa de la Rumba",
    :longitude -82.3751258,
    :latitude 23.136621,
    :source :openstreetmap,
-   :locality "Centro Habana",
+   :location "Centro Habana",
    :image "",
    :description ""}
   {:name "Casa de Las Américas",
@@ -527,7 +527,7 @@
    :latitude 23.1440983,
    :source :openstreetmap,
    :homepage "https://www.casa.cult.cu",
-   :locality "Vedado",
+   :location "Vedado",
    :image "",
    :description ""}
   {:name "Casa de Los Mártires",
@@ -541,7 +541,7 @@
    :longitude -74.9420549,
    :latitude 20.6554462,
    :source :openstreetmap,
-   :locality "Moa",
+   :location "Moa",
    :image "",
    :description ""}
   {:name "Casa del campesino",
@@ -561,7 +561,7 @@
    :longitude -75.199879,
    :latitude 20.1453798,
    :source :openstreetmap,
-   :locality "Guantánamo",
+   :location "Guantánamo",
    :image "",
    :description ""}
   {:name "Casa del Escritor",
@@ -575,7 +575,7 @@
    :latitude 21.5275081,
    :source :openstreetmap,
    :homepage "http://www.ahs.cu/",
-   :locality "Florida",
+   :location "Florida",
    :image "",
    :description ""}
   {:name "Casa Insólita",
@@ -594,7 +594,7 @@
    :longitude -77.32341,
    :latitude 19.906344,
    :source :openstreetmap,
-   :locality "Pilón",
+   :location "Pilón",
    :image "",
    :description ""}
   {:name "Casa Museo Che Guevara",
@@ -614,7 +614,7 @@
    :latitude 23.1409761,
    :source :openstreetmap,
    :homepage "http://www.bellasartes.cult.cu/",
-   :locality "Centro Habana, La Habana",
+   :location "Centro Habana, La Habana",
    :image "",
    :description ""}
   {:name "Casa Natal Abel Santamaría",
@@ -627,7 +627,7 @@
    :longitude -77.4344449,
    :latitude 20.1421797,
    :source :openstreetmap,
-   :locality "Media Luna",
+   :location "Media Luna",
    :image "",
    :description ""}
   {:name "Casa Natal de Fidel Castro",
@@ -652,14 +652,14 @@
    :longitude -84.0909877,
    :latitude 22.1648989,
    :source :openstreetmap,
-   :locality "Isabel Rubio",
+   :location "Isabel Rubio",
    :image "",
    :description ""}
   {:name "Casa Natal de Serafín Sánchez",
    :longitude -79.4433993,
    :latitude 21.9304711,
    :source :openstreetmap,
-   :locality "Sancti Spiritus",
+   :location "Sancti Spiritus",
    :image "",
    :description ""}
   {:name "Casa Obrador",
@@ -674,7 +674,7 @@
    :latitude 22.1480993,
    :source :openstreetmap,
    :homepage "https://www.santiagohermes.com/",
-   :locality "Cienfuegos",
+   :location "Cienfuegos",
    :image "",
    :description ""}
   {:name "Castillo de San Pedro de la Roca (El Morro)",
@@ -713,7 +713,7 @@
    :latitude 21.0823176,
    :source :openstreetmap,
    :homepage "https://www.ecured.cu/Casa_de_Cultura_de_Velasco",
-   :locality "Velasco",
+   :location "Velasco",
    :image "",
    :description ""}
   {:name "Centro cultural The Beatles",
@@ -751,7 +751,7 @@
    :longitude -82.3590477,
    :latitude 23.1449597,
    :source :openstreetmap,
-   :locality "Centro Habana",
+   :location "Centro Habana",
    :image "",
    :description ""}
   {:name "Centro Iberoamericano de la décima y el verso improvisado",
@@ -776,7 +776,7 @@
    :longitude -82.4318119,
    :latitude 23.1046356,
    :source :openstreetmap,
-   :locality "Playa, La Habana.",
+   :location "Playa, La Habana.",
    :image "",
    :description ""}
   {:name "Cinco Palmas",
@@ -870,7 +870,7 @@
    :longitude -80.0962881,
    :latitude 22.4452214,
    :source :openstreetmap,
-   :locality "Esperanza",
+   :location "Esperanza",
    :image "",
    :description ""}
   {:name "Finca Artonomista",
@@ -896,7 +896,7 @@
    :longitude -82.3764755,
    :latitude 23.1408486,
    :source :openstreetmap,
-   :locality "Centro Habana",
+   :location "Centro Habana",
    :image "",
    :description ""}
   {:name "Galeria de Arte",
@@ -928,7 +928,7 @@
    :latitude 21.3933609,
    :source :openstreetmap,
    :homepage "https://www.artcasanova.com/",
-   :locality "Camaguey",
+   :location "Camaguey",
    :image "",
    :description ""}
   {:name "Galería Amalia",
@@ -973,7 +973,7 @@
    :longitude -82.3636224,
    :latitude 23.1380011,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Galería Guillermo Collazo",
@@ -1005,7 +1005,7 @@
    :longitude -82.3524412,
    :latitude 23.1297565,
    :source :openstreetmap,
-   :locality "San Isidro",
+   :location "San Isidro",
    :image "",
    :description ""}
   {:name "Galería Tita",
@@ -1036,7 +1036,7 @@
    :longitude -82.4408182,
    :latitude 23.1088958,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Idea",
@@ -1044,7 +1044,7 @@
    :latitude 21.7988256,
    :source :openstreetmap,
    :homepage "https://boulevardcuba.com/",
-   :locality "Trinidad",
+   :location "Trinidad",
    :image "",
    :description ""}
   {:name "Iglesia de Santa Ana",
@@ -1119,7 +1119,7 @@
    :longitude -79.9793365,
    :latitude 22.4026622,
    :source :openstreetmap,
-   :locality "Santa Clara",
+   :location "Santa Clara",
    :image "",
    :description ""}
   {:name "Memorial 26 de Julio",
@@ -1132,7 +1132,7 @@
    :longitude -82.4181731,
    :latitude 23.1248062,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Memorial Vicente García",
@@ -1218,21 +1218,21 @@
    :latitude 23.1385784,
    :source :openstreetmap,
    :homepage "http://www.cnpc.cult.cu/patrimonio/153",
-   :locality "Habana Vieja",
+   :location "Habana Vieja",
    :image "",
    :description ""}
   {:name "Museo Casa Natal de Camilo Cienfuegos",
    :longitude -82.3568068,
    :latitude 23.0965249,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Casa Natal de Juan Manuel Márquez",
    :longitude -82.5125603,
    :latitude 23.0794686,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Cayo Largo",
@@ -1323,7 +1323,7 @@
    :longitude -82.4915978,
    :latitude 23.0868637,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo de la Música Alejandro García Caturla",
@@ -1348,7 +1348,7 @@
    :longitude -82.475767,
    :latitude 23.0354743,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo de Playa Girón",
@@ -1361,7 +1361,7 @@
    :longitude -82.3877459,
    :latitude 22.9695713,
    :source :openstreetmap,
-   :locality "Santiago de Las Vegas",
+   :location "Santiago de Las Vegas",
    :image "",
    :description ""}
   {:name "Museo de Trenes a Vapor",
@@ -1462,7 +1462,7 @@
    :latitude 23.0677676,
    :source :openstreetmap,
    :homepage "https://www.hemingwayhavana.com/",
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Esmeralda",
@@ -1512,7 +1512,7 @@
    :longitude -82.352454,
    :latitude 23.066749,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo II Frente Oriental",
@@ -1531,7 +1531,7 @@
    :longitude -76.1276542,
    :latitude 21.1105123,
    :source :openstreetmap,
-   :locality "Gibara",
+   :location "Gibara",
    :image "",
    :description ""}
   {:name "Museo José Maceo",
@@ -1606,7 +1606,7 @@
    :longitude -77.436154,
    :latitude 20.1479648,
    :source :openstreetmap,
-   :locality "Media Luna",
+   :location "Media Luna",
    :image "",
    :description ""}
   {:name "Museo Municipal",
@@ -1625,7 +1625,7 @@
    :longitude -75.9926065,
    :latitude 20.208998,
    :source :openstreetmap,
-   :locality "Palma Soriano",
+   :location "Palma Soriano",
    :image "",
    :description ""}
   {:name "Museo Municipal",
@@ -1650,35 +1650,35 @@
    :longitude -76.7542303,
    :latitude 20.1675683,
    :source :openstreetmap,
-   :locality "Buey Arriba",
+   :location "Buey Arriba",
    :image "",
    :description ""}
   {:name "Museo Municipal de Arroyo Naranjo",
    :longitude -82.3503601,
    :latitude 23.0712147,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Municipal de Boyeros",
    :longitude -82.3919992,
    :latitude 22.9703937,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Municipal de Diez de Octubre",
    :longitude -82.3631537,
    :latitude 23.0905944,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Municipal de Guanabacoa",
    :longitude -82.3062662,
    :latitude 23.1253932,
    :source :openstreetmap,
-   :locality "Guanabacoa",
+   :location "Guanabacoa",
    :image "",
    :description ""}
   {:name "Museo Municipal de Guanajay",
@@ -1697,7 +1697,7 @@
    :longitude -82.1293964,
    :latitude 23.1702407,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Municipal de Palmira",
@@ -1706,7 +1706,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.comfandi.com.co/personas/cultura/museo-arqueologico-de-palmira",
-   :locality "Palmira",
+   :location "Palmira",
    :image "",
    :description ""}
   {:name "Museo Municipal de Pedro Betancourt",
@@ -1719,7 +1719,7 @@
    :longitude -82.4280328,
    :latitude 23.1085783,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Municipal de Regla Eduardo Gómez Luaces",
@@ -1732,7 +1732,7 @@
    :longitude -82.3396709,
    :latitude 23.1008728,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Municipal de Viñales Adela Azcuy Labrador",
@@ -1787,7 +1787,7 @@
    :longitude -82.3400722,
    :latitude 23.0949146,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Nacional Camilo Cienfuegos",
@@ -1807,7 +1807,7 @@
    :longitude -82.4283285,
    :latitude 23.0920102,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Nacional de la Lucha Contra Bandidos",
@@ -1815,7 +1815,7 @@
    :latitude 21.8061666,
    :source :openstreetmap,
    :homepage "http://www.yuditvidal.com",
-   :locality "Trinidad",
+   :location "Trinidad",
    :image "",
    :description ""}
   {:name "Museo Nacional de Transporte",
@@ -1840,7 +1840,7 @@
    :longitude -82.3843082,
    :latitude 23.1255299,
    :source :openstreetmap,
-   :locality "La Habana",
+   :location "La Habana",
    :image "",
    :description ""}
   {:name "Museo Provincial Abel Santamaria Cuadrado",
@@ -1991,14 +1991,14 @@
    :latitude 21.3761628,
    :source :openstreetmap,
    :homepage "http://www.magdielsculptor.com",
-   :locality "Camagüey",
+   :location "Camagüey",
    :image "",
    :description ""}
   {:name "Taller-Galería Babalu-Aye",
    :longitude -82.3663701,
    :latitude 23.1412272,
    :source :openstreetmap,
-   :locality "Centro Habana",
+   :location "Centro Habana",
    :image "",
    :description ""}
   {:name "Tren blindado",

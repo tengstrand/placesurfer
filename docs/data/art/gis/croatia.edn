@@ -9,7 +9,7 @@
    :latitude 45.3281115,
    :source :openstreetmap,
    :homepage "https://peekpoke.hr",
-   :locality "Rijeka"}
+   :location "Rijeka"}
   {:name "AeroPark",
    :longitude 13.6276162,
    :latitude 45.1426668,
@@ -42,13 +42,13 @@
    :longitude 16.4348605,
    :latitude 43.5158699,
    :source :openstreetmap,
-   :locality "Split"}
+   :location "Split"}
   {:name "Arheološki muzej Narona",
    :longitude 17.6280297,
    :latitude 43.0803743,
    :source :openstreetmap,
    :homepage "http://www.a-m-narona.hr/",
-   :locality "Vid"}
+   :location "Vid"}
   {:name "Arheološki Muzej Salona",
    :longitude 16.4833117,
    :latitude 43.5416891,
@@ -80,7 +80,7 @@
    :longitude 16.4440855,
    :latitude 43.5118071,
    :source :openstreetmap,
-   :locality "Split"}
+   :location "Split"}
   {:name "Autonomni kulturni centar Medika",
    :longitude 15.9648278,
    :latitude 45.8063378,
@@ -94,7 +94,7 @@
    :longitude 16.5987872,
    :latitude 43.18385,
    :source :openstreetmap,
-   :locality "Stari Grad"}
+   :location "Stari Grad"}
   {:name "Buymer Fishing Museum",
    :longitude 14.8048053,
    :latitude 44.9826127,
@@ -104,7 +104,7 @@
    :latitude 45.8114623,
    :source :openstreetmap,
    :homepage "http://www.canvas.hr/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Centar Gervais",
    :longitude 14.3056776,
    :latitude 45.33493,
@@ -116,7 +116,7 @@
    :source :openstreetmap,
    :homepage
    "https://tz.valpovo.hr/centar-kulture-matija-petar-katancic-valpovo/",
-   :locality "Valpovo"}
+   :location "Valpovo"}
   {:name "Centar Za kulturu",
    :longitude 16.6120845,
    :latitude 45.7480523,
@@ -132,7 +132,7 @@
    :latitude 46.4893048,
    :source :openstreetmap,
    :homepage "https://www.medjimurska-priroda.info/",
-   :locality "Križovec"}
+   :location "Križovec"}
   {:name "Dalmatian Ethno Village",
    :longitude 15.8864151,
    :latitude 43.6949192,
@@ -163,12 +163,12 @@
    :longitude 14.6749999,
    :latitude 45.077341,
    :source :openstreetmap,
-   :locality "Vrbnik"}
+   :location "Vrbnik"}
   {:name "Etno Kuća Kornić",
    :longitude 14.6139386,
    :latitude 45.04534,
    :source :openstreetmap,
-   :locality "Kornić"}
+   :location "Kornić"}
   {:name "Etno kuća Palaić",
    :longitude 16.8258846,
    :latitude 45.2901615,
@@ -218,7 +218,7 @@
    :latitude 45.7719329,
    :source :openstreetmap,
    :homepage "https://etnobaranja.eu/",
-   :locality "Beli Manastir"}
+   :location "Beli Manastir"}
   {:name "Eufrazijeve bazilike",
    :longitude 13.5934102,
    :latitude 45.2285281,
@@ -228,7 +228,7 @@
    :longitude 14.4454477,
    :latitude 45.3234016,
    :source :openstreetmap,
-   :locality "Rijeka"}
+   :location "Rijeka"}
   {:name "Franjevački Muzej",
    :longitude 16.6378058,
    :latitude 43.7020251,
@@ -254,7 +254,7 @@
    :latitude 45.3274779,
    :source :openstreetmap,
    :homepage "https://www.muzej-rijeka.hr/",
-   :locality "Rijeka"}
+   :location "Rijeka"}
   {:name "Galerija instituta za suvremenu umjetnost",
    :longitude 15.9777444,
    :latitude 45.8072092,
@@ -289,7 +289,7 @@
    :longitude 16.4179409,
    :latitude 43.5048993,
    :source :openstreetmap,
-   :locality "Split"}
+   :location "Split"}
   {:name "Galerija Miroslav Kraljević",
    :longitude 15.9947216,
    :latitude 45.8124012,
@@ -299,7 +299,7 @@
    :longitude 16.7752099,
    :latitude 45.4829948,
    :source :openstreetmap,
-   :locality "Kutina"}
+   :location "Kutina"}
   {:name "Galerija naive Josip Generalić",
    :longitude 16.967836,
    :latitude 46.1482304,
@@ -308,13 +308,13 @@
    :longitude 16.9675845,
    :latitude 46.1530628,
    :source :openstreetmap,
-   :locality "Hlebine"}
+   :location "Hlebine"}
   {:name "Galerija Prica",
    :longitude 15.7128429,
    :latitude 45.8027401,
    :source :openstreetmap,
    :homepage "https://www.samobor.hr/galerija-prica",
-   :locality "Samobor"}
+   :location "Samobor"}
   {:name "Galerija Ružić",
    :longitude 18.0062334,
    :latitude 45.1564391,
@@ -339,7 +339,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.gmv.hr/hr/o-muzeju/odjeli/galerija-starih-i-novih-majstora/",
-   :locality "Varaždin"}
+   :location "Varaždin"}
   {:name "Galerija Testen",
    :longitude 14.7399523,
    :latitude 44.768728,
@@ -348,14 +348,14 @@
    :longitude 15.543413,
    :latitude 45.4873115,
    :source :openstreetmap,
-   :locality "Karlovac"}
+   :location "Karlovac"}
   {:name "Gallery 'Dom kulture'",
    :longitude 16.6559215,
    :latitude 43.2615701,
    :source :openstreetmap,
    :homepage
    "https://czk-brac.hr/index.php/o-galeriji-branimir-deskovic-bol",
-   :locality "Bol"}
+   :location "Bol"}
   {:name "Gliptoteka Hrvatske akademije znanosti i umjetnosti",
    :longitude 15.9774209,
    :latitude 45.8221083,
@@ -383,7 +383,7 @@
    :latitude 43.2951744,
    :source :openstreetmap,
    :homepage "https://makarska.hr/tvrtke/gradski-muzej-makarska",
-   :locality "Makarska"}
+   :location "Makarska"}
   {:name "Gradski muzej Bjelovar",
    :longitude 16.8437917,
    :latitude 45.8986188,
@@ -400,7 +400,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.czk-jastrebarsko.hr/index/index.php/kultura/muzej",
-   :locality "Jastrebarsko"}
+   :location "Jastrebarsko"}
   {:name "Gradski muzej Karlovac",
    :longitude 15.5540582,
    :latitude 45.4938232,
@@ -411,7 +411,7 @@
    :latitude 45.3312186,
    :source :openstreetmap,
    :homepage "https://www.gmp.hr/",
-   :locality "Požega"}
+   :location "Požega"}
   {:name "Gradski muzej Senj",
    :longitude 14.9017504,
    :latitude 44.9905977,
@@ -421,7 +421,7 @@
    :latitude 45.4837195,
    :source :openstreetmap,
    :homepage "https://www.muzej-sisak.hr/",
-   :locality "Sisak"}
+   :location "Sisak"}
   {:name "Gradski muzej Vinkovci",
    :longitude 18.8036958,
    :latitude 45.2883186,
@@ -438,7 +438,7 @@
    :latitude 45.3547608,
    :source :openstreetmap,
    :homepage "http://www.muzej-vukovar.hr",
-   :locality "Vukovar"}
+   :location "Vukovar"}
   {:name "Hajduk Split Museum",
    :longitude 16.4306175,
    :latitude 43.5201221,
@@ -454,7 +454,7 @@
    :source :openstreetmap,
    :homepage
    "https://tz-nedelisce.hr/horvatova-kovacnica-u-gornjem-hrascanu/409",
-   :locality "Gornji Hrašćan"}
+   :location "Gornji Hrašćan"}
   {:name "Hrvatski dom",
    :longitude 17.0995239,
    :latitude 42.9835975,
@@ -464,13 +464,13 @@
    :latitude 43.5087203,
    :source :openstreetmap,
    :homepage "https://www.hpms.hr",
-   :locality "Split"}
+   :location "Split"}
   {:name "Hrvatski prirodoslovni muzej",
    :longitude 15.9722497,
    :latitude 45.8171563,
    :source :openstreetmap,
    :homepage "http://www.hpm.hr/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Hrvatski školski muzej",
    :longitude 15.971061,
    :latitude 45.8092347,
@@ -481,7 +481,7 @@
    :latitude 45.7735492,
    :source :openstreetmap,
    :homepage "http://www.inart-zg.hr/index.html",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Interpretacijski centar Grobnik",
    :longitude 14.4609004,
    :latitude 45.371397,
@@ -517,7 +517,7 @@
    :latitude 45.8009908,
    :source :openstreetmap,
    :homepage "https://www.lisinski.hr/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Košljun - samostan, Arhološka zbirka i Povijesni muzej",
    :longitude 14.6186008,
    :latitude 45.0265837,
@@ -548,7 +548,7 @@
    :longitude 14.3778015,
    :latitude 45.3828179,
    :source :openstreetmap,
-   :locality "Viškovo"}
+   :location "Viškovo"}
   {:name "Kuća istarskih fresaka",
    :longitude 14.0036493,
    :latitude 45.3322922,
@@ -565,13 +565,13 @@
    :longitude 14.5344917,
    :latitude 45.2909833,
    :source :openstreetmap,
-   :locality "Kostrena"}
+   :location "Kostrena"}
   {:name "Kuća Panonskog mora",
    :longitude 17.6609353,
    :latitude 45.4570693,
    :source :openstreetmap,
    :homepage "https://www.kucapanonskogmora.hr/",
-   :locality "Velika"}
+   :location "Velika"}
   {:name "Kućica od ribari",
    :longitude 14.6134623,
    :latitude 45.225111,
@@ -613,7 +613,7 @@
    :latitude 44.6936223,
    :source :openstreetmap,
    :homepage "http://www.muzej.losinj.hr/stalni_postav_azo",
-   :locality "Nerezine"}
+   :location "Nerezine"}
   {:name "Lošinjski muzej, prostor Kula",
    :longitude 14.5014307,
    :latitude 44.5208726,
@@ -629,7 +629,7 @@
    :longitude 19.1515341,
    :latitude 45.163323,
    :source :openstreetmap,
-   :locality "Tovarnik"}
+   :location "Tovarnik"}
   {:name "Matulov grunt",
    :longitude 16.3934539,
    :latitude 46.4593342,
@@ -652,12 +652,12 @@
    :latitude 44.5596537,
    :source :openstreetmap,
    :homepage "https://mcnikolatesla.hr",
-   :locality "Smiljan"}
+   :location "Smiljan"}
   {:name "Memorijalni centar 'Lipa pamti'",
    :longitude 14.3043186,
    :latitude 45.4664732,
    :source :openstreetmap,
-   :locality "Lipa"}
+   :location "Lipa"}
   {:name "Memorijalni centar Domovinskog rata",
    :longitude 19.004682,
    :latitude 45.3380481,
@@ -668,7 +668,7 @@
    :source :openstreetmap,
    :homepage
    "http://hvm.mdc.hr/hrvatski-povijesni-muzej---memorijalni-muzej-ivan-goran-kovacic,762%3ALKD/hr/info/",
-   :locality "Lukovdol"}
+   :location "Lukovdol"}
   {:name "Memorijalni muzej Spomen područja Jasenovac",
    :longitude 16.9223465,
    :latitude 45.2772186,
@@ -706,13 +706,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitcres.hr/croatia-island-cres/atrakcije-cres/muzej-andrija-linardic-cres.aspx",
-   :locality "Martinšćica"}
+   :location "Martinšćica"}
   {:name "Muzej antičkog stakla",
    :longitude 15.2295272,
    :latitude 44.1143315,
    :source :openstreetmap,
    :homepage "https://www.mas-zadar.hr/",
-   :locality "Zadar"}
+   :location "Zadar"}
   {:name "Muzej automobila Ferdinand Budicki",
    :longitude 15.8256399,
    :latitude 45.8720015,
@@ -722,14 +722,14 @@
    :latitude 45.6875898,
    :source :openstreetmap,
    :homepage "https://www.muzejbelisce.hr",
-   :locality "Belišće"}
+   :location "Belišće"}
   {:name "Muzej Betinske drvene brodogradnje",
    :longitude 15.6044785,
    :latitude 43.8232577,
    :source :openstreetmap,
    :homepage
    "http://www.mbdb.hr/en/museum-of-betina-wooden-shipbuilding/",
-   :locality "Betina"}
+   :location "Betina"}
   {:name "Muzej blaženog Alojzija Stepinca",
    :longitude 15.97908,
    :latitude 45.8143537,
@@ -757,7 +757,7 @@
    :latitude 45.4627197,
    :source :openstreetmap,
    :homepage "https://mgk.hr/muzej-domovinskog-rata/",
-   :locality "Karlovac"}
+   :location "Karlovac"}
   {:name "Muzej Grada Crikvenice",
    :longitude 14.6916996,
    :latitude 45.1729489,
@@ -771,17 +771,17 @@
    :longitude 16.8316906,
    :latitude 46.1598271,
    :source :openstreetmap,
-   :locality "Koprivnica"}
+   :location "Koprivnica"}
   {:name "Muzej grada Pakraca",
    :longitude 17.1940462,
    :latitude 45.4363899,
    :source :openstreetmap,
-   :locality "Pakrac"}
+   :location "Pakrac"}
   {:name "Muzej grada Pazina",
    :longitude 13.9303064,
    :latitude 45.2402554,
    :source :openstreetmap,
-   :locality "Pazin"}
+   :location "Pazin"}
   {:name "Muzej grada Pregrade Zlatko Dragutin Tudjina",
    :longitude 15.7502264,
    :latitude 46.1647635,
@@ -791,7 +791,7 @@
    :latitude 43.6195479,
    :source :openstreetmap,
    :homepage "https://muzejtriljskogkraja.hr/en/about-the-museum/",
-   :locality "Trilj"}
+   :location "Trilj"}
   {:name "Muzej Grada Trogira",
    :longitude 16.2506656,
    :latitude 43.5173297,
@@ -810,7 +810,7 @@
    :latitude 43.7353735,
    :source :openstreetmap,
    :homepage "http://www.muzej-sibenik.hr/hrv/default.asp",
-   :locality "Šibenik"}
+   :location "Šibenik"}
   {:name "Muzej Hanibal Lucić",
    :longitude 16.4421597,
    :latitude 43.1730011,
@@ -819,7 +819,7 @@
    :longitude 16.4221183,
    :latitude 43.5044249,
    :source :openstreetmap,
-   :locality "Split"}
+   :location "Split"}
   {:name "Muzej Hvarske baštine",
    :longitude 16.4458214,
    :latitude 43.1715291,
@@ -835,19 +835,19 @@
    :latitude 46.1646685,
    :source :openstreetmap,
    :homepage "http://www.mkn.mhz.hr/",
-   :locality "Krapina"}
+   :location "Krapina"}
   {:name "Muzej Like",
    :longitude 15.3749122,
    :latitude 44.5463549,
    :source :openstreetmap,
    :homepage "https://muzejlike.hr/",
-   :locality "Gospić"}
+   :location "Gospić"}
   {:name "Muzej likovnih umjetnosti",
    :longitude 18.683812,
    :latitude 45.5605247,
    :source :openstreetmap,
    :homepage "https://www.mlu.hr/",
-   :locality "Osijek"}
+   :location "Osijek"}
   {:name "Muzej lova, ribolova i šumarstva",
    :longitude 14.8535379,
    :latitude 45.4633041,
@@ -858,13 +858,13 @@
    :latitude 45.8139388,
    :source :openstreetmap,
    :homepage "https://www.muzejmamurluka.com/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Muzej moderne i suvremene umjetnosti",
    :longitude 14.431833,
    :latitude 45.3305247,
    :source :openstreetmap,
    :homepage "https://mmsu.hr/",
-   :locality "Rijeka"}
+   :location "Rijeka"}
   {:name "Muzej narodnih instrumenata",
    :longitude 13.7727181,
    :latitude 45.3735478,
@@ -882,7 +882,7 @@
    :latitude 43.1614245,
    :source :openstreetmap,
    :homepage "https://pityeia.wixsite.com/dalmacijaland",
-   :locality "Jelsa"}
+   :location "Jelsa"}
   {:name "Muzej Otoka Brača",
    :longitude 16.612058,
    :latitude 43.3556271,
@@ -895,24 +895,24 @@
    :longitude 16.125571,
    :latitude 46.2216357,
    :source :openstreetmap,
-   :locality "Ivanec"}
+   :location "Ivanec"}
   {:name "Muzej prehrane",
    :longitude 16.8244496,
    :latitude 46.1539303,
    :source :openstreetmap,
-   :locality "Koprivnica"}
+   :location "Koprivnica"}
   {:name "Muzej Prigorja",
    :longitude 16.1103444,
    :latitude 45.8267454,
    :source :openstreetmap,
    :homepage "https://www.muzejprigorja.hr/",
-   :locality "Sesvete"}
+   :location "Sesvete"}
   {:name "Muzej seljačkih buna",
    :longitude 16.0167943,
    :latitude 45.9848141,
    :source :openstreetmap,
    :homepage "https://www.mdc.hr/msb",
-   :locality "Samci"}
+   :location "Samci"}
   {:name "Muzej soli",
    :longitude 15.1920572,
    :latitude 44.243905,
@@ -928,23 +928,23 @@
    :latitude 43.182786,
    :source :openstreetmap,
    :homepage "https://msg.hr/",
-   :locality "Stari Grad"}
+   :location "Stari Grad"}
   {:name "Muzej suvremene umjetnosti",
    :longitude 15.9818602,
    :latitude 45.7787778,
    :source :openstreetmap,
    :homepage "http://www.msu.hr/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Muzej Sveti Ivan Zelina",
    :longitude 16.2428229,
    :latitude 45.9590972,
    :source :openstreetmap,
-   :locality "Sveti Ivan Zelina"}
+   :location "Sveti Ivan Zelina"}
   {:name "Muzej Turopolja",
    :longitude 16.076073,
    :latitude 45.714127,
    :source :openstreetmap,
-   :locality "Velika Gorica"}
+   :location "Velika Gorica"}
   {:name "Muzej uljarstva",
    :longitude 16.5223847,
    :latitude 43.3847686,
@@ -954,13 +954,13 @@
    :latitude 45.8127042,
    :source :openstreetmap,
    :homepage "https://www.backo.hr/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Muzej vučedolske kulture",
    :longitude 19.0588556,
    :latitude 45.3361851,
    :source :openstreetmap,
    :homepage "http://vucedol.hr/hr/",
-   :locality "Vukovar"}
+   :location "Vukovar"}
   {:name "Muzej zbirka sakralne umjetnosti",
    :longitude 13.8476326,
    :latitude 44.9609174,
@@ -970,7 +970,7 @@
    :latitude 45.3134359,
    :source :openstreetmap,
    :homepage "http://www.muzej-djakovstine.hr/index.php",
-   :locality "Đakovo"}
+   :location "Đakovo"}
   {:name "Muzej školjaka i vodenog svijeta Osijek",
    :longitude 18.6978715,
    :latitude 45.5611254,
@@ -1021,13 +1021,13 @@
    :latitude 45.4854944,
    :source :openstreetmap,
    :homepage "https://ntec.hr",
-   :locality "Karlovac"}
+   :location "Karlovac"}
   {:name "Oldtimer Muzej Šardi",
    :longitude 16.3979015,
    :latitude 46.493324,
    :source :openstreetmap,
    :homepage "http://sardi.com.hr/",
-   :locality "Selnica"}
+   :location "Selnica"}
   {:name "Permanent exhibition of Salt",
    :longitude 15.0522672,
    :latitude 44.442709,
@@ -1036,7 +1036,7 @@
    :longitude 13.606663,
    :latitude 45.1486088,
    :source :openstreetmap,
-   :locality "Vrsar"}
+   :location "Vrsar"}
   {:name "Pomorski i povijesni musej hrvatskog primorja Rijeka",
    :longitude 14.3487342,
    :latitude 45.3730556,
@@ -1051,7 +1051,7 @@
    :latitude 42.974118,
    :source :openstreetmap,
    :homepage "https://www.muzej-orebic.hr/",
-   :locality "Orebić"}
+   :location "Orebić"}
   {:name "POU Dom na Žalu",
    :longitude 15.1864862,
    :latitude 44.0838979,
@@ -1061,18 +1061,18 @@
    :latitude 44.8702519,
    :source :openstreetmap,
    :homepage "https://ppmi.hr/",
-   :locality "Pula"}
+   :location "Pula"}
   {:name "Prirodoslovni muzej",
    :longitude 16.4431032,
    :latitude 43.5072166,
    :source :openstreetmap,
    :homepage "https://www.mgst.net/",
-   :locality "Split"}
+   :location "Split"}
   {:name "Prirodoslovni muzej",
    :longitude 17.648316,
    :latitude 43.0523933,
    :source :openstreetmap,
-   :locality "Metković"}
+   :location "Metković"}
   {:name "Psycho's Snowboard Museum",
    :longitude 16.2891173,
    :latitude 45.8678888,
@@ -1082,7 +1082,7 @@
    :latitude 46.1663224,
    :source :openstreetmap,
    :homepage "https://www.radboa.hr/",
-   :locality "Radoboj"}
+   :location "Radoboj"}
   {:name "Red History Museum",
    :longitude 18.0870952,
    :latitude 42.659166,
@@ -1097,7 +1097,7 @@
    :latitude 46.3893599,
    :source :openstreetmap,
    :homepage "https://riznica.hr/",
-   :locality "Čakovec"}
+   :location "Čakovec"}
   {:name "Riznica samostana",
    :longitude 15.2217213,
    :latitude 44.116488,
@@ -1121,7 +1121,7 @@
    :latitude 44.5921335,
    :source :openstreetmap,
    :homepage "http://skaledosunca.petikat.com/",
-   :locality "stara novalja"}
+   :location "stara novalja"}
   {:name "Sobota",
    :longitude 15.9521324,
    :latitude 45.8117325,
@@ -1136,7 +1136,7 @@
    :longitude 16.3463318,
    :latitude 45.5929317,
    :source :openstreetmap,
-   :locality "Desno Trebarjevo"}
+   :location "Desno Trebarjevo"}
   {:name "spomen dom Domovinskog rata",
    :longitude 16.910117,
    :latitude 45.2697318,
@@ -1145,18 +1145,18 @@
    :longitude 18.942193,
    :latitude 45.3771924,
    :source :openstreetmap,
-   :locality "Vukovar"}
+   :location "Vukovar"}
   {:name "Spomen dom Ovčara",
    :longitude 19.046029,
    :latitude 45.2969078,
    :source :openstreetmap,
-   :locality "Vukovar"}
+   :location "Vukovar"}
   {:name "Spomen dom rudarstva",
    :longitude 16.447689,
    :latitude 46.5048665,
    :source :openstreetmap,
    :homepage "http://www.cimper.com.hr",
-   :locality "Mursko Središće"}
+   :location "Mursko Središće"}
   {:name "Spomen galerija Ivana Meštrovića",
    :longitude 18.4054345,
    :latitude 45.2098273,
@@ -1172,7 +1172,7 @@
    :longitude 18.847788,
    :latitude 45.8542448,
    :source :openstreetmap,
-   :locality "Batina"}
+   :location "Batina"}
   {:name "Spomen soba Dražen Petrović",
    :longitude 15.9023384,
    :latitude 43.7304008,
@@ -1210,31 +1210,31 @@
    :latitude 44.5348393,
    :source :openstreetmap,
    :homepage "https://www.muzejapoksiomena.hr/",
-   :locality "Mali Lošinj"}
+   :location "Mali Lošinj"}
   {:name "Tiflološki muzej",
    :longitude 15.9838133,
    :latitude 45.806191,
    :source :openstreetmap,
    :homepage "https://www.tifloloskimuzej.hr/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Tortureum - Muzej torture",
    :longitude 15.9758733,
    :latitude 45.8143495,
    :source :openstreetmap,
    :homepage "https://www.tortureum.com/",
-   :locality "Zagreb"}
+   :location "Zagreb"}
   {:name "Traktor Story",
    :longitude 13.6602872,
    :latitude 45.2682849,
    :source :openstreetmap,
    :homepage "https://traktorstory.com/",
-   :locality "Nova Vas"}
+   :location "Nova Vas"}
   {:name "Tvrdava Nehaj - Muzej",
    :longitude 14.903431,
    :latitude 44.9865996,
    :source :openstreetmap,
    :homepage "https://www.muzej-senj.hr/",
-   :locality "Senj"}
+   :location "Senj"}
   {:name "Ulika",
    :longitude 13.7833451,
    :latitude 45.0403874,
@@ -1244,7 +1244,7 @@
    :latitude 42.6418379,
    :source :openstreetmap,
    :homepage "https://www.ugdubrovnik.hr/",
-   :locality "Dubrovnik"}
+   :location "Dubrovnik"}
   {:name "Vatrogasni muzej",
    :longitude 16.4797967,
    :latitude 45.4414651,
@@ -1253,7 +1253,7 @@
    :longitude 18.8030258,
    :latitude 45.7978478,
    :source :openstreetmap,
-   :locality "Zmajevac"}
+   :location "Zmajevac"}
   {:name "Vinski muzej Teutoburgium",
    :longitude 18.986628,
    :latitude 45.4841008,
@@ -1277,7 +1277,7 @@
    :latitude 42.6884568,
    :source :openstreetmap,
    :homepage "https://www.tba21.org/#item--lopud--1337",
-   :locality "Lopud"}
+   :location "Lopud"}
   {:name "Zavićajni Muzej Baška",
    :longitude 14.7571072,
    :latitude 44.9699146,
@@ -1295,7 +1295,7 @@
    :longitude 13.9683539,
    :latitude 45.40677,
    :source :openstreetmap,
-   :locality "Buzet"}
+   :location "Buzet"}
   {:name "zavičajni muzej Donja Kupčina",
    :longitude 15.8105547,
    :latitude 45.548547,
@@ -1304,7 +1304,7 @@
    :longitude 14.4274039,
    :latitude 45.3586143,
    :source :openstreetmap,
-   :locality "Rijeka"}
+   :location "Rijeka"}
   {:name "Zavičajni muzej Grada Rovinja",
    :longitude 13.634139,
    :latitude 45.0825205,
@@ -1314,7 +1314,7 @@
    :longitude 17.2203559,
    :latitude 43.4440569,
    :source :openstreetmap,
-   :locality "Imotski"}
+   :location "Imotski"}
   {:name "Zavičajni muzej Kalinovac \"Štacija\"",
    :longitude 17.1207395,
    :latitude 46.0312875,
@@ -1328,7 +1328,7 @@
    :latitude 45.4918092,
    :source :openstreetmap,
    :homepage "http://www.zmn.hr/",
-   :locality "Našice"}
+   :location "Našice"}
   {:name "Zavičajni muzej Slatina",
    :longitude 17.7007329,
    :latitude 45.7011468,
@@ -1355,7 +1355,7 @@
    :latitude 42.5500433,
    :source :openstreetmap,
    :homepage "https://www.migk.hr",
-   :locality "Čilipi"}
+   :location "Čilipi"}
   {:name "Čamačarnica",
    :longitude 13.7704856,
    :latitude 44.9166529,
@@ -1364,7 +1364,7 @@
    :longitude 18.7561059,
    :latitude 45.0495248,
    :source :openstreetmap,
-   :locality "Bošnjaci"}
+   :location "Bošnjaci"}
   {:name "Švicarska kuća",
    :longitude 14.3087973,
    :latitude 45.3361982,
@@ -1374,7 +1374,7 @@
    :longitude 15.3831521,
    :latitude 45.7471503,
    :source :openstreetmap,
-   :locality "Sošice"}],
+   :location "Sošice"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

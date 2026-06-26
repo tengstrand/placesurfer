@@ -9,7 +9,7 @@
    :longitude 43.142393,
    :latitude 11.591479,
    :source :openstreetmap,
-   :locality "جيبوتي"}],
+   :location "جيبوتي"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

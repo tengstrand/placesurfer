@@ -16,7 +16,7 @@
    :source :openstreetmap,
    :homepage
    "https://montevideo.gub.uy/areas-tematicas/personas-y-ciudadania/afrodescendientes/mapeo-afrodescendencia-resiliente/asociacion-cultural-cuareim-1080",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Azotea de Haedo",
@@ -55,14 +55,14 @@
    :latitude -34.9070064,
    :source :openstreetmap,
    :homepage "https://www.museohistorico.gub.uy/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Casa de Fructuoso Rivera",
    :longitude -56.5229959,
    :latitude -33.3802359,
    :source :openstreetmap,
-   :locality "Durazno",
+   :location "Durazno",
    :image "",
    :description ""}
   {:name "Casa de la Cultura de Pan de Azucar",
@@ -76,7 +76,7 @@
    :latitude -34.9029565,
    :source :openstreetmap,
    :homepage "https://www.museohistorico.gub.uy/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Casa Quinta de Batlle y Ordóñez",
@@ -89,7 +89,7 @@
    :longitude -56.1762178,
    :latitude -34.8637368,
    :source :openstreetmap,
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Casa Soubiron",
@@ -122,7 +122,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.mapeosociedadcivil.uy/organizaciones/asociacion-de-integracion-cultural-tango/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Centro Cultural Mi Morena",
@@ -156,7 +156,7 @@
    :latitude -34.4722669,
    :source :openstreetmap,
    :homepage "https://www.museoscolonia.com.uy/index.php/esp-azulejo",
-   :locality "Colonia del Sacramento",
+   :location "Colonia del Sacramento",
    :image "",
    :description ""}
   {:name "Espacio Generaciones",
@@ -213,7 +213,7 @@
    :longitude -55.2450919,
    :latitude -34.3776174,
    :source :openstreetmap,
-   :locality "Minas",
+   :location "Minas",
    :image "",
    :description ""}
   {:name "MUDE - Museo Uruguayo del Escultismo",
@@ -250,7 +250,7 @@
    :longitude -56.1597694,
    :latitude -34.9276332,
    :source :openstreetmap,
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Casa Villamajó",
@@ -258,7 +258,7 @@
    :latitude -34.9149607,
    :source :openstreetmap,
    :homepage "https://www.fadu.edu.uy/museo-casa-vilamajo/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Castillo Pittamiglio",
@@ -266,7 +266,7 @@
    :latitude -34.9209902,
    :source :openstreetmap,
    :homepage "https://universopittamiglio.com/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo de Arte Americano",
@@ -291,7 +291,7 @@
    :longitude -55.9823897,
    :latitude -31.7152455,
    :source :openstreetmap,
-   :locality "Tacuarembó",
+   :location "Tacuarembó",
    :image "",
    :description ""}
   {:name "Museo de Autos Antiguos",
@@ -325,7 +325,7 @@
    :latitude -34.9062399,
    :source :openstreetmap,
    :homepage "https://muhar.montevideo.gub.uy/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo de Historia Natural Dr. Carlos Torres de la LLosa",
@@ -333,14 +333,14 @@
    :latitude -34.9034109,
    :source :openstreetmap,
    :homepage "https://museotorresdelallo.wixsite.com/museo",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo de la Dirección Nacional de Bomberos",
    :longitude -56.1807665,
    :latitude -34.9025571,
    :source :openstreetmap,
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo de la Revolucion Industrial",
@@ -353,7 +353,7 @@
    :longitude -56.1941027,
    :latitude -34.8920853,
    :source :openstreetmap,
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo de Madeira",
@@ -379,7 +379,7 @@
    :longitude -56.1514874,
    :latitude -34.8942474,
    :source :openstreetmap,
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo del Hombre y la Tecnología",
@@ -387,7 +387,7 @@
    :latitude -31.3857947,
    :source :openstreetmap,
    :homepage "https://www.salto.gub.uy/museo-del-hombre",
-   :locality "Salto",
+   :location "Salto",
    :image "",
    :description ""}
   {:name "Museo del Mar",
@@ -401,7 +401,7 @@
    :longitude -56.2494293,
    :latitude -34.7965275,
    :source :openstreetmap,
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo del Tango y el Turf",
@@ -409,7 +409,7 @@
    :latitude -34.896208,
    :source :openstreetmap,
    :homepage "https://municipioe.montevideo.gub.uy/villa-yeru%C3%A1",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Ferroviario",
@@ -458,7 +458,7 @@
    :longitude -54.9580738,
    :latitude -34.9074381,
    :source :openstreetmap,
-   :locality "Maldonado",
+   :location "Maldonado",
    :image "",
    :description ""}
   {:name "Museo Militar Soldado de la Frontera",
@@ -471,7 +471,7 @@
    :longitude -56.5192187,
    :latitude -33.3886321,
    :source :openstreetmap,
-   :locality "Durazno",
+   :location "Durazno",
    :image "",
    :description ""}
   {:name "Museo Municipal de Bellas Artes Juan Manuel Blanes",
@@ -479,7 +479,7 @@
    :latitude -34.8531544,
    :source :openstreetmap,
    :homepage "https://blanes.montevideo.gub.uy/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Nacional de Antropología",
@@ -487,7 +487,7 @@
    :latitude -34.8450435,
    :source :openstreetmap,
    :homepage "https://www.mna.gub.uy/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Nacional de Historia Natural",
@@ -495,7 +495,7 @@
    :latitude -34.8944926,
    :source :openstreetmap,
    :homepage "https://www.mnhn.gub.uy/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Naval",
@@ -503,7 +503,7 @@
    :latitude -34.9106553,
    :source :openstreetmap,
    :homepage "https://www.armada.mil.uy/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Numismático",
@@ -530,14 +530,14 @@
    :latitude -34.9052619,
    :source :openstreetmap,
    :homepage "https://www.dgeip.edu.uy/museo-info/",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Peugeot",
    :longitude -56.1931137,
    :latitude -34.9018726,
    :source :openstreetmap,
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Ralli Punta del Este",
@@ -545,7 +545,7 @@
    :latitude -34.9296699,
    :source :openstreetmap,
    :homepage "https://www.museoralli.com.uy/",
-   :locality "Punta del Este",
+   :location "Punta del Este",
    :image "",
    :description ""}
   {:name "Museo Spikerman",
@@ -559,7 +559,7 @@
    :latitude -34.9064601,
    :source :openstreetmap,
    :homepage "https://www.torresgarcia.org.uy",
-   :locality "Montevideo",
+   :location "Montevideo",
    :image "",
    :description ""}
   {:name "Museo Tourn",
@@ -581,7 +581,7 @@
    :source :openstreetmap,
    :homepage
    "https://sanjose.gub.uy/gobierno/dependencia/museo-wenceslao-varela/",
-   :locality "San Jose de Mayo",
+   :location "San Jose de Mayo",
    :image "",
    :description ""}
   {:name "Museo y Casa De La Cultura de Tranqueras",
@@ -595,7 +595,7 @@
    :latitude -34.9087578,
    :source :openstreetmap,
    :homepage "https://casapueblo.com.uy/",
-   :locality "Maldonado",
+   :location "Maldonado",
    :image "",
    :description ""}
   {:name "Musėo Paleontologico",
@@ -614,7 +614,7 @@
    :longitude -57.311373,
    :latitude -34.3462145,
    :source :openstreetmap,
-   :locality "La Paz",
+   :location "La Paz",
    :image "",
    :description ""}
   {:name "Sala Eduardo Fabini",

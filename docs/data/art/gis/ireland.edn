@@ -9,7 +9,7 @@
    :latitude 53.2772915,
    :source :openstreetmap,
    :homepage "https://126gallery.com/",
-   :locality "Galway"}
+   :location "Galway"}
   {:name "14 Henrietta Street museum",
    :longitude -6.2701547,
    :latitude 53.3523486,
@@ -41,7 +41,7 @@
    :latitude 51.6389923,
    :source :openstreetmap,
    :homepage "https://www.acmm.ie/",
-   :locality "Allihies"}
+   :location "Allihies"}
   {:name "An Ghairdín",
    :longitude -8.217954,
    :latitude 53.0942199,
@@ -52,7 +52,7 @@
    :source :openstreetmap,
    :homepage
    "https://visualartists.ie/locations/the-annexe-at-wexford-arts-centre/",
-   :locality "Wexford"}
+   :location "Wexford"}
   {:name "Ardara Heritage Centre",
    :longitude -8.4125076,
    :latitude 54.7619667,
@@ -66,19 +66,19 @@
    :latitude 52.7977198,
    :source :openstreetmap,
    :homepage "https://arklowartscentre.ie/",
-   :locality "Arklow"}
+   :location "Arklow"}
   {:name "Art Classes",
    :longitude -6.2743358,
    :latitude 53.311388,
    :source :openstreetmap,
    :homepage "https://www.artgar.net/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Art It",
    :longitude -7.2456738,
    :latitude 52.6551367,
    :source :openstreetmap,
    :homepage "https://artit.ie/",
-   :locality "Kilkenny"}
+   :location "Kilkenny"}
   {:name "Arts and Business Campus",
    :longitude -6.2589007,
    :latitude 53.3635648,
@@ -95,7 +95,7 @@
    :longitude -8.8701776,
    :latitude 52.7138541,
    :source :openstreetmap,
-   :locality "County Clare"}
+   :location "County Clare"}
   {:name "Backyard Arts Centre",
    :longitude -7.3528776,
    :latitude 53.9683962,
@@ -112,13 +112,13 @@
    :longitude -6.1898332,
    :latitude 53.5865363,
    :source :openstreetmap,
-   :locality "Balrothery"}
+   :location "Balrothery"}
   {:name "Bare Cheek Theatre Company Acting Studio",
    :longitude -6.4530855,
    :latitude 52.3325546,
    :source :openstreetmap,
    :homepage "https://www.barecheek.net/",
-   :locality "Wexford"}
+   :location "Wexford"}
   {:name "Bastion Gallery",
    :longitude -7.9436921,
    :latitude 53.4223445,
@@ -137,14 +137,14 @@
    :latitude 51.8760871,
    :source :openstreetmap,
    :homepage "https://www.beframed.ie/",
-   :locality "Douglas"}
+   :location "Douglas"}
   {:name "Belturbet Heritage Railway Station Museum",
    :longitude -7.4421918,
    :latitude 54.0977672,
    :source :openstreetmap,
    :homepage
    "http://discoverbelturbet.ie/business-directory/belturbet-railway-and-vintage-restoration-association/",
-   :locality "Belturbet"}
+   :location "Belturbet"}
   {:name "Berkeley Costume and Toy Collection",
    :longitude -6.5297272,
    :latitude 53.3492427,
@@ -158,7 +158,7 @@
    :latitude 53.3005362,
    :source :openstreetmap,
    :homepage "http://blackrockfinearts.com/",
-   :locality "Blackrock"}
+   :location "Blackrock"}
   {:name "Blessington Craft Centre",
    :longitude -6.532828,
    :latitude 53.1713965,
@@ -168,12 +168,12 @@
    :latitude 51.8312758,
    :source :openstreetmap,
    :homepage "https://www.bonaneheritagepark.com/",
-   :locality "Bonane"}
+   :location "Bonane"}
   {:name "Bramley",
    :longitude -7.3491368,
    :latitude 52.9129871,
    :source :openstreetmap,
-   :locality "Abbeyleix"}
+   :location "Abbeyleix"}
   {:name "Briery Gap Cultural Centre",
    :longitude -8.9585181,
    :latitude 51.9045532,
@@ -189,19 +189,19 @@
    :latitude 52.5212002,
    :source :openstreetmap,
    :homepage "https://bruboru.ie/",
-   :locality "Cashel"}
+   :location "Cashel"}
   {:name "Brú na Sí",
    :longitude -7.8607083,
    :latitude 51.9539358,
    :source :openstreetmap,
    :homepage "https://comhaltas.ie/locations/detail/brunasi/",
-   :locality "Youghal"}
+   :location "Youghal"}
   {:name "Butler Gallery",
    :longitude -7.2491527,
    :latitude 52.653872,
    :source :openstreetmap,
    :homepage "https://www.butlergallery.ie/",
-   :locality "Kilkenny"}
+   :location "Kilkenny"}
   {:name "Caol Cronin - Seascapes",
    :longitude -10.2698654,
    :latitude 52.1416433,
@@ -228,13 +228,13 @@
    :latitude 53.450634,
    :source :openstreetmap,
    :homepage "https://www.modelrailwaymuseum.ie",
-   :locality "Malahide"}
+   :location "Malahide"}
   {:name "Cavan & Leitrim Railway",
    :longitude -7.9164884,
    :latitude 53.8595321,
    :source :openstreetmap,
    :homepage "https://www.cavanandleitrim.com/",
-   :locality "Dromod"}
+   :location "Dromod"}
   {:name "Cavan County Museum",
    :longitude -7.2006539,
    :latitude 53.8669713,
@@ -244,18 +244,18 @@
    :latitude 53.9962703,
    :source :openstreetmap,
    :homepage "https://www.colemanirishmusic.com/",
-   :locality "Gorteen"}
+   :location "Gorteen"}
   {:name "Charity Variety Group",
    :longitude -7.3714618,
    :latitude 53.5144336,
    :source :openstreetmap,
    :homepage "http://www.mullingarcvg.com/",
-   :locality "Mullingar"}
+   :location "Mullingar"}
   {:name "Claddagh Ring Museum",
    :longitude -9.0537255,
    :latitude 53.2713428,
    :source :openstreetmap,
-   :locality "Galway"}
+   :location "Galway"}
   {:name "Clare Museum",
    :longitude -8.9816686,
    :latitude 52.8441522,
@@ -266,7 +266,7 @@
    :latitude 53.3606314,
    :source :openstreetmap,
    :homepage "https://clasac.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Clew Bay Heritage Centre",
    :longitude -9.554881,
    :latitude 53.8019456,
@@ -292,13 +292,13 @@
    :latitude 52.8663423,
    :source :openstreetmap,
    :homepage "https://www.cnocnagaoithe.ie/",
-   :locality "Tulla"}
+   :location "Tulla"}
   {:name "Cois na hAbhna",
    :longitude -8.9825074,
    :latitude 52.8598506,
    :source :openstreetmap,
    :homepage "https://coisnahabhna.ie/",
-   :locality "Ennis"}
+   :location "Ennis"}
   {:name "Collins Barracks",
    :longitude -6.2898022,
    :latitude 53.3489846,
@@ -309,13 +309,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.military.ie/en/public-information/defence-forces-museums/collins-barracks-museum/",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "Common Ground",
    :longitude -6.3204192,
    :latitude 53.3367679,
    :source :openstreetmap,
    :homepage "https://www.commonground.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Community Arts Centre",
    :longitude -7.3243348,
    :latitude 53.1155527,
@@ -339,19 +339,19 @@
    :latitude 51.8994829,
    :source :openstreetmap,
    :homepage "http://www.corkcitygoal.com/",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "Cork Community Art Link",
    :longitude -8.4738034,
    :latitude 51.9103273,
    :source :openstreetmap,
    :homepage "https://www.corkcommunityartlink.com/",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "Cork Folklore Project",
    :longitude -8.475779,
    :latitude 51.9045658,
    :source :openstreetmap,
    :homepage "https://corkfolklore.org/",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "Cork Public Museum",
    :longitude -8.4944753,
    :latitude 51.896293,
@@ -369,13 +369,13 @@
    :latitude 52.5046991,
    :source :openstreetmap,
    :homepage "https://www.cowhousestudios.com/",
-   :locality "Rathnure, Enniscorthy"}
+   :location "Rathnure, Enniscorthy"}
   {:name "Crafts Council of Ireland",
    :longitude -7.2498066,
    :latitude 52.6495088,
    :source :openstreetmap,
    :homepage "https://www.geraldinewalshart.com",
-   :locality "Kilkenny"}
+   :location "Kilkenny"}
   {:name "Crawford Art Gallery",
    :longitude -8.4732736,
    :latitude 51.8998462,
@@ -385,7 +385,7 @@
    :latitude 53.9831151,
    :source :openstreetmap,
    :homepage "http://www.creativespark.ie",
-   :locality "Dundalk"}
+   :location "Dundalk"}
   {:name "Cruachan Aí Heritage Centre",
    :longitude -8.2536887,
    :latitude 53.7788873,
@@ -397,7 +397,7 @@
    :latitude 53.2953723,
    :source :openstreetmap,
    :homepage "https://comhaltas.ie/locations/detail/culturlann/",
-   :locality "Monkstown"}
+   :location "Monkstown"}
   {:name "Custom House",
    :longitude -6.2531744,
    :latitude 53.3484529,
@@ -408,7 +408,7 @@
    :latitude 53.8001822,
    :source :openstreetmap,
    :homepage "https://www.customhousestudios.ie/",
-   :locality "Westport"}
+   :location "Westport"}
   {:name "Derrynane House",
    :longitude -10.1304599,
    :latitude 51.7624284,
@@ -429,13 +429,13 @@
    :latitude 54.6570427,
    :source :openstreetmap,
    :homepage "https://www.donegalrailway.com/",
-   :locality "Donegal"}
+   :location "Donegal"}
   {:name "Dublinia",
    :longitude -6.2720159,
    :latitude 53.3432376,
    :source :openstreetmap,
    :homepage "https://www.dublinia.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Dunfanaghy Workhouse",
    :longitude -7.9769792,
    :latitude 55.1798237,
@@ -470,19 +470,19 @@
    :latitude 52.5014705,
    :source :openstreetmap,
    :homepage "https://enniscorthycastle.ie/",
-   :locality "Enniscorthy"}
+   :location "Enniscorthy"}
   {:name "Eoin O Connor",
    :longitude -8.5190447,
    :latitude 51.7022074,
    :source :openstreetmap,
    :homepage "https://eoinoconnor.com",
-   :locality "Kinsale"}
+   :location "Kinsale"}
   {:name "EPIC The Irish Emigration Museum",
    :longitude -6.2479785,
    :latitude 53.3482653,
    :source :openstreetmap,
    :homepage "https://epicchq.com/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Esker Arts Centre",
    :longitude -7.4939961,
    :latitude 53.2734907,
@@ -497,7 +497,7 @@
    :latitude 52.6646529,
    :source :openstreetmap,
    :homepage "https://fablab.saulstudio.ie",
-   :locality "Limerick"}
+   :location "Limerick"}
   {:name "Famine & War Museum",
    :longitude -7.8065422,
    :latitude 52.6803504,
@@ -514,7 +514,7 @@
    :latitude 52.4659867,
    :source :openstreetmap,
    :homepage "https://fhcexperience.ie/",
-   :locality "Fethard"}
+   :location "Fethard"}
   {:name "Fire Station Artists' Studios",
    :longitude -6.2488753,
    :latitude 53.3537405,
@@ -524,7 +524,7 @@
    :longitude -8.3474543,
    :latitude 52.0081112,
    :source :openstreetmap,
-   :locality "Watergrasshill"}
+   :location "Watergrasshill"}
   {:name "Folk Village Museum",
    :longitude -8.740779,
    :latitude 54.7070922,
@@ -548,7 +548,7 @@
    :latitude 53.3599972,
    :source :openstreetmap,
    :homepage "https://crokepark.ie/gaamuseum",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Gailearaí Dixon",
    :longitude -8.2236915,
    :latitude 55.2645657,
@@ -558,31 +558,31 @@
    :latitude 53.3317974,
    :source :openstreetmap,
    :homepage "https://www.bennettsauctioneers.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "GalleryX",
    :longitude -6.2544441,
    :latitude 53.3378214,
    :source :openstreetmap,
    :homepage "http://www.galleryx.ie",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Galway Arts Centre",
    :longitude -9.0571817,
    :latitude 53.2709103,
    :source :openstreetmap,
    :homepage "https://www.galwayartscentre.ie/",
-   :locality "Galway"}
+   :location "Galway"}
   {:name "Garter Lane Arts Centre",
    :longitude -7.1145816,
    :latitude 52.2618548,
    :source :openstreetmap,
    :homepage "https://garterlane.ie/",
-   :locality "Waterford"}
+   :location "Waterford"}
   {:name "Georgian House Museum",
    :longitude -6.2477292,
    :latitude 53.3378922,
    :source :openstreetmap,
    :homepage "https://numbertwentynine.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Geraldine O’Rourke",
    :longitude -9.3002171,
    :latitude 53.2449771,
@@ -605,7 +605,7 @@
    :latitude 51.8947198,
    :source :openstreetmap,
    :homepage "https://www.glucksman.org",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "Goodly Barrow Museum",
    :longitude -6.9889368,
    :latitude 52.6308094,
@@ -630,7 +630,7 @@
    :latitude 51.9422023,
    :source :openstreetmap,
    :homepage "https://greywoodarts.org",
-   :locality "Killeagh"}
+   :location "Killeagh"}
   {:name "Hennigan's Heritage Centre",
    :longitude -8.9877254,
    :latitude 53.9744144,
@@ -648,12 +648,12 @@
    :longitude -9.2721355,
    :latitude 51.5509639,
    :source :openstreetmap,
-   :locality "Skibbereen"}
+   :location "Skibbereen"}
   {:name "Heritage Centre",
    :longitude -7.413143,
    :latitude 52.3465614,
    :source :openstreetmap,
-   :locality "Carrick-on-Suir"}
+   :location "Carrick-on-Suir"}
   {:name "Heritage Centre",
    :longitude -8.0380867,
    :latitude 54.3562903,
@@ -680,7 +680,7 @@
    :latitude 53.3441345,
    :source :openstreetmap,
    :homepage "https://illusionmuseumdublin.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Imaginosity",
    :longitude -6.2168266,
    :latitude 53.2773973,
@@ -714,7 +714,7 @@
    :latitude 52.7326914,
    :source :openstreetmap,
    :homepage "https://ionadlachtain.com/",
-   :locality "Freshford"}
+   :location "Freshford"}
   {:name "Ionad Oidhreachta Leitir Mealláin",
    :longitude -9.7319988,
    :latitude 53.2418834,
@@ -737,37 +737,37 @@
    :latitude 53.3307284,
    :source :openstreetmap,
    :homepage "http://www.jewishireland.org/museum.html",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Irish Military Museum And Park",
    :longitude -6.4704279,
    :latitude 53.7640434,
    :source :openstreetmap,
    :homepage "https://irishmilitarymuseum.com/",
-   :locality "Collon"}
+   :location "Collon"}
   {:name "Irish Museum of Modern Art",
    :longitude -6.3000533,
    :latitude 53.3429367,
    :source :openstreetmap,
    :homepage "https://imma.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Irish Museum of Time",
    :longitude -7.1068449,
    :latitude 52.2605796,
    :source :openstreetmap,
    :homepage "https://www.waterfordtreasures.com/irish-museum-of-time",
-   :locality "Waterford"}
+   :location "Waterford"}
   {:name "Irish Writers Centre",
    :longitude -6.2641595,
    :latitude 53.3543541,
    :source :openstreetmap,
    :homepage "https://irishwriterscentre.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Ivan Sutton Art Exhibition",
    :longitude -6.5879496,
    :latitude 52.1739257,
    :source :openstreetmap,
    :homepage "https://www.ivansutton.com/",
-   :locality "Kilmore Quay"}
+   :location "Kilmore Quay"}
   {:name "JaJa Studios",
    :longitude -6.2899593,
    :latitude 53.3540658,
@@ -790,7 +790,7 @@
    :latitude 52.2691029,
    :source :openstreetmap,
    :homepage "https://kerrymuseum.ie/",
-   :locality "Tralee"}
+   :location "Tralee"}
   {:name "John P. Holland Centre",
    :longitude -9.3944491,
    :latitude 52.9386286,
@@ -800,7 +800,7 @@
    :latitude 52.5458407,
    :source :openstreetmap,
    :homepage "https://kcat.ie/",
-   :locality "Callan"}
+   :location "Callan"}
   {:name "Kells Priory Mill Museum",
    :longitude -7.2713212,
    :latitude 52.5423042,
@@ -828,12 +828,12 @@
    :latitude 53.3419192,
    :source :openstreetmap,
    :homepage "https://kilmainhamgaolmuseum.ie",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Kiltartan Gregory Museum",
    :longitude -8.8153707,
    :latitude 53.0993516,
    :source :openstreetmap,
-   :locality "Gort"}
+   :location "Gort"}
   {:name "Kiltimagh Museum",
    :longitude -8.9940098,
    :latitude 53.8480877,
@@ -848,7 +848,7 @@
    :latitude 51.7063035,
    :source :openstreetmap,
    :homepage "http://homepage.eircom.net/%7Ekinsalemuseum",
-   :locality "Kinsale"}
+   :location "Kinsale"}
   {:name "Knock Museum",
    :longitude -8.9172572,
    :latitude 53.7899671,
@@ -870,13 +870,13 @@
    :latitude 53.3200177,
    :source :openstreetmap,
    :homepage "http://www.mcsherry.ie/p/53rd.html",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Lartigue Monorail",
    :longitude -9.4904963,
    :latitude 52.4496623,
    :source :openstreetmap,
    :homepage "https://www.lartiguemonorail.com/",
-   :locality "Listowel"}
+   :location "Listowel"}
   {:name "Lavelle Art Gallery",
    :longitude -10.021272,
    :latitude 53.4890386,
@@ -890,7 +890,7 @@
    :latitude 51.8954142,
    :source :openstreetmap,
    :homepage "http://www.lifetimelab.ie/",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "Lightvessel Kittiwake",
    :longitude -6.222346,
    :latitude 53.3501627,
@@ -904,7 +904,7 @@
    :latitude 53.2177496,
    :source :openstreetmap,
    :homepage "https://www.loughboora.com/sculpture/",
-   :locality "Boora"}
+   :location "Boora"}
   {:name "Louth County Museum",
    :longitude -6.3969714,
    :latitude 54.0046415,
@@ -920,7 +920,7 @@
    :latitude 52.6782457,
    :source :openstreetmap,
    :homepage "http://larnapairce.ie",
-   :locality "Thurles"}
+   :location "Thurles"}
   {:name "Malahide Historical Society Museum",
    :longitude -6.1628508,
    :latitude 53.4447157,
@@ -943,13 +943,13 @@
    :latitude 53.3282646,
    :source :openstreetmap,
    :homepage "http://martcade.com/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Mary Aikenhead Heritage Centre",
    :longitude -6.2806984,
    :latitude 53.326423,
    :source :openstreetmap,
    :homepage "http://www.rscmaheritage.com/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Michael Collins Centre",
    :longitude -8.8219365,
    :latitude 51.6432848,
@@ -973,7 +973,7 @@
    :longitude -9.0671697,
    :latitude 52.0597435,
    :source :openstreetmap,
-   :locality "Millstreet"}
+   :location "Millstreet"}
   {:name "Model Niland Gallery",
    :longitude -8.4686033,
    :latitude 54.2730084,
@@ -1006,7 +1006,7 @@
    :latitude 53.3367897,
    :source :openstreetmap,
    :homepage "https://moli.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Museum of Motorsport",
    :longitude -6.7438578,
    :latitude 53.256653,
@@ -1034,7 +1034,7 @@
    :latitude 53.2921453,
    :source :openstreetmap,
    :homepage "https://www.mariner.ie/",
-   :locality "Dún Laoghaire"}
+   :location "Dún Laoghaire"}
   {:name "National Museum of Ireland, Collins Barracks",
    :longitude -6.2859558,
    :latitude 53.348807,
@@ -1069,7 +1069,7 @@
    :longitude -8.2007144,
    :latitude 52.8656714,
    :source :openstreetmap,
-   :locality "Nenagh"}
+   :location "Nenagh"}
   {:name "Newbridge Silverware",
    :longitude -6.7966328,
    :latitude 53.1758066,
@@ -1089,7 +1089,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.tours.jamesonwhiskey.com/Home/The-Old-Jameson-Distillery-Dublin.aspx",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Old Warehouse",
    :longitude -7.4928867,
    :latitude 53.2776514,
@@ -1124,13 +1124,13 @@
    :latitude 53.3365223,
    :source :openstreetmap,
    :homepage "http://www.peppercanister.com/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Pine Forest Art Centre",
    :longitude -6.2572062,
    :latitude 53.2262133,
    :source :openstreetmap,
    :homepage "https://www.pineforestartcentre.com/",
-   :locality "Glencullen"}
+   :location "Glencullen"}
   {:name "Portlaw Heritage Centre",
    :longitude -7.317967,
    :latitude 52.2876901,
@@ -1140,7 +1140,7 @@
    :latitude 53.3449489,
    :source :openstreetmap,
    :homepage "https://projectartscentre.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "Quiet Man Museum",
    :longitude -9.2880122,
    :latitude 53.5408524,
@@ -1156,7 +1156,7 @@
    :latitude 53.3380783,
    :source :openstreetmap,
    :homepage "https://www.richmondbarracks.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "River Mouth Collective",
    :longitude -8.1901136,
    :latitude 54.5009498,
@@ -1171,7 +1171,7 @@
    :latitude 52.3934046,
    :source :openstreetmap,
    :homepage "https://rostapestry.ie/",
-   :locality "New Ross"}
+   :location "New Ross"}
   {:name "Rosie McGurran",
    :longitude -9.9205925,
    :latitude 53.3933354,
@@ -1182,13 +1182,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.visitrosslareharbour.ie/listings/rosslare-harbour-maritime-heritage-centre/",
-   :locality "Rosslare Harbour"}
+   :location "Rosslare Harbour"}
   {:name "Rothe House & Garden",
    :longitude -7.2556091,
    :latitude 52.6539806,
    :source :openstreetmap,
    :homepage "https://rothehouse.com/",
-   :locality "Kilkenny"}
+   :location "Kilkenny"}
   {:name "Rua Red, South Dublin Arts Centre",
    :longitude -6.3730388,
    :latitude 53.2880876,
@@ -1198,7 +1198,7 @@
    :latitude 51.9042376,
    :source :openstreetmap,
    :homepage "https://www.liveatstlukes.com",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "Sarah Walker Gallery",
    :longitude -9.9123341,
    :latitude 51.650016,
@@ -1208,7 +1208,7 @@
    :latitude 52.991704,
    :source :openstreetmap,
    :homepage "https://shackletonmuseum.com/",
-   :locality "Athy"}
+   :location "Athy"}
   {:name "Shannon Airport Aviation Gallery",
    :longitude -8.9207806,
    :latitude 52.6925251,
@@ -1282,7 +1282,7 @@
    :longitude -8.9550744,
    :latitude 53.9436675,
    :source :openstreetmap,
-   :locality "Swinford"}
+   :location "Swinford"}
   {:name "Tara Open Studio",
    :longitude -6.6093096,
    :latitude 53.5805677,
@@ -1293,7 +1293,7 @@
    :latitude 52.6373405,
    :source :openstreetmap,
    :homepage "https://comhaltas.ie/locations/detail/kilrush/",
-   :locality "Kilrush"}
+   :location "Kilrush"}
   {:name "Teach Cheoil",
    :longitude -9.976151,
    :latitude 53.5966994,
@@ -1311,7 +1311,7 @@
    :longitude -6.9716518,
    :latitude 53.9176486,
    :source :openstreetmap,
-   :locality "Bailieborough"}
+   :location "Bailieborough"}
   {:name "The Belltable",
    :longitude -8.6308126,
    :latitude 52.6596692,
@@ -1322,7 +1322,7 @@
    :latitude 53.274848,
    :source :openstreetmap,
    :homepage "https://www.blackgate.ie/",
-   :locality "Galway"}
+   :location "Galway"}
   {:name "The Blue Pool",
    :longitude -9.4880288,
    :latitude 52.0271178,
@@ -1340,7 +1340,7 @@
    :latitude 54.1781512,
    :source :openstreetmap,
    :homepage "https://cassandrahandcentre.wordpress.com/",
-   :locality "Clones"}
+   :location "Clones"}
   {:name "The Celtic Furrow",
    :longitude -9.299392,
    :latitude 53.7467863,
@@ -1359,7 +1359,7 @@
    :latitude 51.8963074,
    :source :openstreetmap,
    :homepage "https://www.countinghouse.ie/",
-   :locality "Cork"}
+   :location "Cork"}
   {:name "The Courthouse Gallery and Studios",
    :longitude -9.2919797,
    :latitude 52.9406989,
@@ -1391,13 +1391,13 @@
    :latitude 53.3541896,
    :source :openstreetmap,
    :homepage "https://jamesjoyce.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "The James Morrison Teach Cheoil",
    :longitude -8.3955687,
    :latitude 54.1316882,
    :source :openstreetmap,
    :homepage "https://jamesmorrisonfestival.com/teach-ceoil/",
-   :locality "Riverstown"}
+   :location "Riverstown"}
   {:name "The Kabin Studio",
    :longitude -8.503767,
    :latitude 51.905154,
@@ -1413,7 +1413,7 @@
    :latitude 53.3516,
    :source :openstreetmap,
    :homepage "https://artboxprojects.wordpress.com/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "The Linen Hall",
    :longitude -9.2974492,
    :latitude 53.8582357,
@@ -1432,12 +1432,12 @@
    :latitude 53.3244244,
    :source :openstreetmap,
    :homepage "https://mart.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "The Museum of Irish Rural Life",
    :longitude -9.4861317,
    :latitude 52.6418756,
    :source :openstreetmap,
-   :locality "Kilrush"}
+   :location "Kilrush"}
   {:name "The Music Makers of West Clare",
    :longitude -9.4034093,
    :latitude 52.8540298,
@@ -1447,13 +1447,13 @@
    :latitude 53.3464829,
    :source :openstreetmap,
    :homepage "https://www.waxmuseumplus.ie/",
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "The Presentation Arts Centre",
    :longitude -6.5725181,
    :latitude 52.5039386,
    :source :openstreetmap,
    :homepage "https://www.presentationcentre.ie",
-   :locality "Enniscorthy"}
+   :location "Enniscorthy"}
   {:name "The Rectory",
    :longitude -7.6056923,
    :latitude 53.6965584,
@@ -1462,13 +1462,13 @@
    :longitude -6.2256075,
    :latitude 53.3511224,
    :source :openstreetmap,
-   :locality "Dublin"}
+   :location "Dublin"}
   {:name "The Russell Gallery",
    :longitude -9.0833686,
    :latitude 53.1552636,
    :source :openstreetmap,
    :homepage "https://www.russellgallery.net/",
-   :locality "Burren"}
+   :location "Burren"}
   {:name "The Stables",
    :longitude -8.7626117,
    :latitude 52.8670095,
@@ -1483,24 +1483,24 @@
    :latitude 53.5861208,
    :source :openstreetmap,
    :homepage "https://www.tseac.ie/",
-   :locality "Naul"}
+   :location "Naul"}
   {:name "Thomas MacDonagh Heritage Centre",
    :longitude -8.0417616,
    :latitude 52.9430471,
    :source :openstreetmap,
    :homepage "https://www.macdonaghheritage.ie/",
-   :locality "Cloughjordan"}
+   :location "Cloughjordan"}
   {:name "Timahoe Heritage Centre",
    :longitude -7.2034575,
    :latitude 52.9605335,
    :source :openstreetmap,
-   :locality "Timahoe"}
+   :location "Timahoe"}
   {:name "Tipperary Excel",
    :longitude -8.1602246,
    :latitude 52.4751365,
    :source :openstreetmap,
    :homepage "http://tipperary-excel.com",
-   :locality "Tipperary"}
+   :location "Tipperary"}
   {:name "Trinity Arts Centre",
    :longitude -8.4827269,
    :latitude 53.7651365,
@@ -1514,24 +1514,24 @@
    :latitude 52.0886953,
    :source :openstreetmap,
    :homepage "https://www.waterfordmuseum.ie/",
-   :locality "Dungarvan"}
+   :location "Dungarvan"}
   {:name "West Cork Arts Centre",
    :longitude -9.2675817,
    :latitude 51.5487701,
    :source :openstreetmap,
-   :locality "Skibbereen"}
+   :location "Skibbereen"}
   {:name "West Cork Heritage Centre",
    :longitude -8.7368544,
    :latitude 51.7471829,
    :source :openstreetmap,
    :homepage "https://westcorkheritagecentre.com",
-   :locality "Bandon"}
+   :location "Bandon"}
   {:name "West End Art Studios",
    :longitude -8.6483656,
    :latitude 52.1376582,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/westendartstudios",
-   :locality "Mallow"}
+   :location "Mallow"}
   {:name "Western Light Art Gallery",
    :longitude -10.0751134,
    :latitude 53.9772413,
@@ -1540,7 +1540,7 @@
    :longitude -6.4670776,
    :latitude 52.3419307,
    :source :openstreetmap,
-   :locality "Wexford"}
+   :location "Wexford"}
   {:name "White Gables Art Studio",
    :longitude -7.843927,
    :latitude 51.9510006,
@@ -1567,13 +1567,13 @@
    :latitude 53.5237613,
    :source :openstreetmap,
    :homepage "https://www.arasanmhuilinn.ie",
-   :locality "Mullingar"}
+   :location "Mullingar"}
   {:name "Áras Inis Gluaire",
    :longitude -9.9888264,
    :latitude 54.2222476,
    :source :openstreetmap,
    :homepage "https://arasinisgluaire.ie/",
-   :locality "Belmullet"}
+   :location "Belmullet"}
   {:name "Áras Éanna",
    :longitude -9.5308866,
    :latitude 53.0645891,

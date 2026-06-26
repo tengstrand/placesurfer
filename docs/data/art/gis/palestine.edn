@@ -92,7 +92,7 @@
    :latitude 31.9635573,
    :source :openstreetmap,
    :homepage "https://www.palmuseum.org/",
-   :locality "Birzeit"}
+   :location "Birzeit"}
   {:name "Tulkarm",
    :longitude 35.0282944,
    :latitude 32.3138875,
@@ -122,7 +122,7 @@
    :longitude 35.2214561,
    :latitude 32.2276551,
    :source :openstreetmap,
-   :locality "نابلس"}
+   :location "نابلس"}
   {:name "مؤسسة ياسر عرفات - مكتب غزة",
    :longitude 34.4342512,
    :latitude 31.5206821,
@@ -140,7 +140,7 @@
    :longitude 35.2015638,
    :latitude 31.7166562,
    :source :openstreetmap,
-   :locality "بيت لحم"}
+   :location "بيت لحم"}
   {:name "متحف فلسطين للتاريخ الطبيعي",
    :longitude 35.2054099,
    :latitude 31.7178605,
@@ -161,12 +161,12 @@
    :latitude 31.9060368,
    :source :openstreetmap,
    :homepage "https://institutfrancais-jerusalem.org/ramallah-2/",
-   :locality "Ramallah"}
+   :location "Ramallah"}
   {:name "مركز بيت ساحور للتواصل الإجتماعي",
    :longitude 35.217306,
    :latitude 31.7037333,
    :source :openstreetmap,
-   :locality "بيت ساحور"}
+   :location "بيت ساحور"}
   {:name "مركز سيلة الحارثية الثقافي",
    :longitude 35.2287454,
    :latitude 32.5087645,

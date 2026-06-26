@@ -117,7 +117,7 @@
    :longitude -7.9995924,
    :latitude 12.6584191,
    :source :openstreetmap,
-   :locality "Bamako",
+   :location "Bamako",
    :image "",
    :description ""}
   {:name "Musée régional de Sikasso",
@@ -130,7 +130,7 @@
    :longitude -6.2775474,
    :latitude 13.4371651,
    :source :openstreetmap,
-   :locality "Ségou",
+   :location "Ségou",
    :image "",
    :description ""}
   {:name "Nouveau Musée du Sahel",

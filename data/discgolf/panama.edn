@@ -9,7 +9,7 @@
    :latitude 9.00245510140762,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34880",
-   :locality "Ciudad de Panamá",
+   :location "Ciudad de Panamá",
    :image "",
    :description ""}
   {:name "Guayacän @ Parque Omar",
@@ -17,7 +17,7 @@
    :latitude 8.999132513740193,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34881",
-   :locality "Ciudad de Panamá",
+   :location "Ciudad de Panamá",
    :image "",
    :description ""}
   {:name "La Ejecutiva",
@@ -25,7 +25,7 @@
    :latitude 8.915922184573958,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34885",
-   :locality "Veracruz",
+   :location "Veracruz",
    :image "",
    :description ""}],
  :source

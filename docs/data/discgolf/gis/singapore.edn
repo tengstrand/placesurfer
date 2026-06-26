@@ -9,7 +9,7 @@
    :latitude 1.3072232072621262,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38495",
-   :locality "Singapore"}],
+   :location "Singapore"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

@@ -8,7 +8,7 @@
    :longitude 23.3145478,
    :latitude 42.6992833,
    :source :openstreetmap,
-   :locality "София"}
+   :location "София"}
   {:name
    "Archaelogical-historic complex with museum collection Southern Fortress Wall and Tower",
    :longitude 27.6958035,
@@ -20,7 +20,7 @@
    :latitude 43.2077834,
    :source :openstreetmap,
    :homepage "https://www.varnacityartgallery.com/",
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Art cafe boutique",
    :longitude 23.3147168,
    :latitude 42.711078,
@@ -72,7 +72,7 @@
    :latitude 42.7014801,
    :source :openstreetmap,
    :homepage "https://jgglassart.com/",
-   :locality "Sofia"}
+   :location "Sofia"}
   {:name "Museum",
    :longitude 24.8490495,
    :latitude 41.941869,
@@ -90,7 +90,7 @@
    :longitude 23.097249,
    :latitude 42.0198991,
    :source :openstreetmap,
-   :locality "Благоевград"}
+   :location "Благоевград"}
   {:name "Rivoli",
    :longitude 23.3213473,
    :latitude 42.6735102,
@@ -109,7 +109,7 @@
    :latitude 42.6657995,
    :source :openstreetmap,
    :homepage "https://technomagicland.com/",
-   :locality "София"}
+   :location "София"}
   {:name "Trakart",
    :longitude 24.7515753,
    :latitude 42.1449127,
@@ -143,7 +143,7 @@
    :longitude 28.0151088,
    :latitude 43.2779995,
    :source :openstreetmap,
-   :locality "Община Варна"}
+   :location "Община Варна"}
   {:name "Алеко Константинов",
    :longitude 25.3400451,
    :latitude 43.6205498,
@@ -161,13 +161,13 @@
    :longitude 27.8998128,
    :latitude 42.8553482,
    :source :openstreetmap,
-   :locality "Бяла"}
+   :location "Бяла"}
   {:name "Арт Академи",
    :longitude 23.3113687,
    :latitude 42.7079449,
    :source :openstreetmap,
    :homepage "https://azrisuvam.com/",
-   :locality "София"}
+   :location "София"}
   {:name "Арт салон",
    :longitude 27.9231843,
    :latitude 43.2043677,
@@ -185,13 +185,13 @@
    :latitude 42.7088346,
    :source :openstreetmap,
    :homepage "https://artcenterbankya.bg/",
-   :locality "Банкя"}
+   :location "Банкя"}
   {:name "Арт Център Илинденци",
    :longitude 23.2361036,
    :latitude 41.6457526,
    :source :openstreetmap,
    :homepage "https://artcenterilindentci.com/",
-   :locality "Илинденци"}
+   :location "Илинденци"}
   {:name "Арт Център Плевен",
    :longitude 24.6174618,
    :latitude 43.4064282,
@@ -205,7 +205,7 @@
    :latitude 42.6583467,
    :source :openstreetmap,
    :homepage "https://www.ancient-nessebar.com/html/main_en.php",
-   :locality "Несебър"}
+   :location "Несебър"}
   {:name "Археологически музей",
    :longitude 27.1168371,
    :latitude 43.2771899,
@@ -214,7 +214,7 @@
    :longitude 24.7062482,
    :latitude 42.5018756,
    :source :openstreetmap,
-   :locality "Хисаря"}
+   :location "Хисаря"}
   {:name "Археологически музей",
    :longitude 27.8846646,
    :latitude 42.8761514,
@@ -224,7 +224,7 @@
    :latitude 43.2075792,
    :source :openstreetmap,
    :homepage "http://archaeo.museumvarna.com",
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Археологически музей \"Велики Преслав\"",
    :longitude 26.8149624,
    :latitude 43.1533635,
@@ -233,19 +233,19 @@
    :longitude 27.6927671,
    :latitude 42.421606,
    :source :openstreetmap,
-   :locality "Созопол"}
+   :location "Созопол"}
   {:name "Археологически музей \"Проф. Мечислав Домарадски\"",
    :longitude 24.1297365,
    :latitude 42.2103927,
    :source :openstreetmap,
    :homepage
    "http://www.museology.bg/bg/museums/i111/археологически-музей-професор-мечислав-домарадски-септември.html",
-   :locality "Септември"}
+   :location "Септември"}
   {:name "Археологически музей (Сандански)",
    :longitude 23.2806589,
    :latitude 41.5663243,
    :source :openstreetmap,
-   :locality "Сандански"}
+   :location "Сандански"}
   {:name "Археологически музей Марица Изток",
    :longitude 25.9351871,
    :latitude 42.288635,
@@ -272,7 +272,7 @@
    :longitude 23.3391686,
    :latitude 42.6913208,
    :source :openstreetmap,
-   :locality "София"}
+   :location "София"}
   {:name "Атрактивна къща \"Природа и наследство\"",
    :longitude 24.8317041,
    :latitude 41.8381754,
@@ -286,7 +286,7 @@
    :latitude 42.4837526,
    :source :openstreetmap,
    :homepage "https://www.bezistena.com/",
-   :locality "Ямбол"}
+   :location "Ямбол"}
   {:name "Бившата къща музей \"Николай Хрелков\"",
    :longitude 23.9462498,
    :latitude 43.467795,
@@ -315,7 +315,7 @@
    :longitude 27.6133906,
    :latitude 42.2814541,
    :source :openstreetmap,
-   :locality "Ясна поляна"}
+   :location "Ясна поляна"}
   {:name "Вазов кът",
    :longitude 23.6162986,
    :latitude 43.0938107,
@@ -324,7 +324,7 @@
    :longitude 23.0697542,
    :latitude 42.0924988,
    :source :openstreetmap,
-   :locality "Кочериново"}
+   :location "Кочериново"}
   {:name "Вила \"Армира\"",
    :longitude 26.1062767,
    :latitude 41.4991541,
@@ -342,12 +342,12 @@
    :latitude 42.6727437,
    :source :openstreetmap,
    :homepage "https://plus359gallery.com/",
-   :locality "София"}
+   :location "София"}
   {:name "Възрожденски етнографски комплекс",
    :longitude 26.5010835,
    :latitude 42.47945,
    :source :openstreetmap,
-   :locality "Ямбол"}
+   :location "Ямбол"}
   {:name "Възрожденски комплекс",
    :longitude 27.0123087,
    :latitude 43.0654493,
@@ -373,7 +373,7 @@
    :latitude 42.6990532,
    :source :openstreetmap,
    :homepage "https://bulgary.bg/",
-   :locality "София"}
+   :location "София"}
   {:name "Галерия Васка Емануилова",
    :longitude 23.3417199,
    :latitude 42.6983474,
@@ -383,7 +383,7 @@
    :latitude 42.1214362,
    :source :openstreetmap,
    :homepage "https://stoychev.art/",
-   :locality "Рила"}
+   :location "Рила"}
   {:name "Галерия Джуркови",
    :longitude 24.7496171,
    :latitude 42.1481379,
@@ -423,7 +423,7 @@
    :longitude 25.4868527,
    :latitude 42.865094,
    :source :openstreetmap,
-   :locality "Трявна"}
+   :location "Трявна"}
   {:name "Дворът На Кирилицата",
    :longitude 27.1152398,
    :latitude 43.3633227,
@@ -441,17 +441,17 @@
    :latitude 42.6289903,
    :source :openstreetmap,
    :homepage "https://www.gabarevo.com/",
-   :locality "село Габарево"}
+   :location "село Габарево"}
   {:name "Дирекция „Национален парк Централен Балкан“",
    :longitude 25.3051143,
    :latitude 42.8401853,
    :source :openstreetmap,
-   :locality "Дядо Дянко"}
+   :location "Дядо Дянко"}
   {:name "Дом на хумора и сатирата",
    :longitude 25.3181062,
    :latitude 42.8797427,
    :source :openstreetmap,
-   :locality "Габрово"}
+   :location "Габрово"}
   {:name "ДОМ-МУЗЕЙ НА ТЕСНОЛИНЕЙКАТА Гара Цепина",
    :longitude 24.1059383,
    :latitude 42.1069729,
@@ -467,7 +467,7 @@
    :source :openstreetmap,
    :homepage
    "https://beinsadouno.org/%D0%B0%D1%80%D0%B1%D0%B0%D0%BD%D0%B0%D1%81%D0%B8/",
-   :locality "Арбанаси"}
+   :location "Арбанаси"}
   {:name "Дринова къща",
    :longitude 24.1932678,
    :latitude 42.5058356,
@@ -493,12 +493,12 @@
    :source :openstreetmap,
    :homepage
    "http://rimvidin.bg/археологически-музей-епиграфски-цен/?lang=bg",
-   :locality "Видин"}
+   :location "Видин"}
   {:name "Етногарфски комплекс",
    :longitude 28.3345689,
    :latitude 43.4302258,
    :source :openstreetmap,
-   :locality "Каварна"}
+   :location "Каварна"}
   {:name "Етнографска къща-музей",
    :longitude 27.4275143,
    :latitude 42.0451537,
@@ -515,7 +515,7 @@
    :longitude 26.8113325,
    :latitude 42.1524939,
    :source :openstreetmap,
-   :locality "Болярово"}
+   :location "Болярово"}
   {:name "Етнографски исторически музей",
    :longitude 23.5609645,
    :latitude 41.8199061,
@@ -529,13 +529,13 @@
    :latitude 42.7095895,
    :source :openstreetmap,
    :homepage "https://genger.business.site/",
-   :locality "Айтос"}
+   :location "Айтос"}
   {:name "Етнографски комплекс Дамасцена",
    :longitude 25.1947842,
    :latitude 42.6776569,
    :source :openstreetmap,
    :homepage "https://damascena.net/",
-   :locality "Скобелево"}
+   :location "Скобелево"}
   {:name "Етнографски комплекс „Драсова и Рашова къщи“",
    :longitude 24.7179253,
    :latitude 43.1304545,
@@ -547,7 +547,7 @@
    :latitude 43.2010051,
    :source :openstreetmap,
    :homepage "http://revival.museumvarna.com",
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Етнографски музей",
    :longitude 25.0859452,
    :latitude 41.3873014,
@@ -578,7 +578,7 @@
    :latitude 44.0493503,
    :source :openstreetmap,
    :homepage "https://www.tutrakanmuseum.com/",
-   :locality "Тутракан"}
+   :location "Тутракан"}
   {:name "Етнографски музей \"Чирпанлиевата къща\"",
    :longitude 25.3333757,
    :latitude 42.7131445,
@@ -632,25 +632,25 @@
    :longitude 25.4739683,
    :latitude 42.9749553,
    :source :openstreetmap,
-   :locality "Дряново"}
+   :location "Дряново"}
   {:name "Интерактивен музей на индустрията",
    :longitude 25.3197629,
    :latitude 42.8710357,
    :source :openstreetmap,
    :homepage "https://h-museum-gabrovo.bg/",
-   :locality "Габрово"}
+   :location "Габрово"}
   {:name "Историческа църква-музей Рождество Христово",
    :longitude 25.6637904,
    :latitude 43.0973242,
    :source :openstreetmap,
-   :locality "Арбанаси"}
+   :location "Арбанаси"}
   {:name "Исторически музей",
    :longitude 25.1032259,
    :latitude 43.0260227,
    :source :openstreetmap,
    :homepage
    "https://www.sevlievo.bg/bg/istoricheski-muzey-sevlievo-2",
-   :locality "Севлиево"}
+   :location "Севлиево"}
   {:name "Исторически музей",
    :longitude 25.9652287,
    :latitude 42.3512564,
@@ -676,7 +676,7 @@
    :latitude 42.0556518,
    :source :openstreetmap,
    :homepage "http://museumperushtitsa.com/",
-   :locality "Перущица"}
+   :location "Перущица"}
   {:name "Исторически музей",
    :longitude 28.1629197,
    :latitude 43.4072273,
@@ -687,7 +687,7 @@
    :latitude 42.6366844,
    :source :openstreetmap,
    :homepage "https://www.starinnokarlovo.com/",
-   :locality "Карлово"}
+   :location "Карлово"}
   {:name "Исторически музей",
    :longitude 23.5602468,
    :latitude 42.3393592,
@@ -701,7 +701,7 @@
    :longitude 27.1415558,
    :latitude 43.820043,
    :source :openstreetmap,
-   :locality "Дулово"}
+   :location "Дулово"}
   {:name "Исторически музей",
    :longitude 23.7927473,
    :latitude 42.9066343,
@@ -730,7 +730,7 @@
    :longitude 25.3112559,
    :latitude 43.2388413,
    :source :openstreetmap,
-   :locality "Павликени"}
+   :location "Павликени"}
   {:name "Исторически музей",
    :longitude 22.8789565,
    :latitude 43.3835415,
@@ -763,7 +763,7 @@
    :source :openstreetmap,
    :homepage
    "https://museumvt.com/bg/%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bc%d1%83%d0%b7%d0%b5%d0%b9-%d0%b3%d1%80-%d0%ba%d0%b8%d0%bb%d0%b8%d1%84%d0%b0%d1%80%d0%b5%d0%b2%d0%be/",
-   :locality "Килифарево"}
+   :location "Килифарево"}
   {:name "Исторически музей Белоградчик",
    :longitude 22.6815266,
    :latitude 43.6248816,
@@ -773,7 +773,7 @@
    :latitude 42.0438446,
    :source :openstreetmap,
    :homepage "http://museum.velingrad.eu/",
-   :locality "Велинград"}
+   :location "Велинград"}
   {:name "Исторически музей гр. Клисура",
    :longitude 24.4499704,
    :latitude 42.6942539,
@@ -782,7 +782,7 @@
    :longitude 26.2249815,
    :latitude 43.3494963,
    :source :openstreetmap,
-   :locality "Попово"}
+   :location "Попово"}
   {:name "Исторически музей Етрополе",
    :longitude 23.9940932,
    :latitude 42.8305026,
@@ -792,7 +792,7 @@
    :longitude 25.3950302,
    :latitude 42.6212631,
    :source :openstreetmap,
-   :locality "Казанлък"}
+   :location "Казанлък"}
   {:name "Исторически музей Поморие",
    :longitude 27.6463798,
    :latitude 42.5545207,
@@ -817,7 +817,7 @@
    :latitude 43.2042525,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/Kamena.Sirakova/",
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Керамични пластики",
    :longitude 24.0758065,
    :latitude 43.2687992,
@@ -844,7 +844,7 @@
    :latitude 42.9794968,
    :source :openstreetmap,
    :homepage "https://museumdryanovo.com",
-   :locality "Дряново"}
+   :location "Дряново"}
   {:name "Конака",
    :longitude 22.8746783,
    :latitude 43.9889773,
@@ -854,7 +854,7 @@
    :latitude 41.5231853,
    :source :openstreetmap,
    :homepage "http://www.kordopulova-house.com",
-   :locality "Мелник"}
+   :location "Мелник"}
   {:name "Кръстата казарма",
    :longitude 22.881645,
    :latitude 43.9903399,
@@ -894,7 +894,7 @@
    :longitude 23.3275571,
    :latitude 42.6872339,
    :source :openstreetmap,
-   :locality "София"}
+   :location "София"}
   {:name "Къща музей \"Лайош Кошут\"",
    :longitude 26.9240917,
    :latitude 43.2721121,
@@ -989,7 +989,7 @@
    :longitude 22.519435,
    :latitude 43.887129,
    :source :openstreetmap,
-   :locality "Кула"}
+   :location "Кула"}
   {:name "Къща-музей \"Райна Княгиня\"",
    :longitude 24.1837576,
    :latitude 42.5066408,
@@ -1014,7 +1014,7 @@
    :source :openstreetmap,
    :homepage
    "https://direkciamuzei.com/%d1%80%d0%be%d0%b4%d0%bd%d0%b0%d1%82%d0%b0-%d0%ba%d1%8a%d1%89%d0%b0-%d0%bd%d0%b0-%d0%b1%d0%b5%d0%bd%d0%ba%d0%be%d0%b2%d1%81%d0%ba%d0%b8/",
-   :locality "Копривщица"}
+   :location "Копривщица"}
   {:name "Къща-музей Георги Парцалев",
    :longitude 25.1429473,
    :latitude 43.3569212,
@@ -1029,7 +1029,7 @@
    :source :openstreetmap,
    :homepage
    "https://direkciamuzei.com/%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%82%D0%B0-%D0%BA%D1%8A%D1%89%D0%B0-%D0%BD%D0%B0-%D0%BA%D0%B0%D1%80%D0%B0%D0%B2%D0%B5%D0%BB%D0%BE%D0%B2/",
-   :locality "Копривщица"}
+   :location "Копривщица"}
   {:name "Къща-музей на Филип Тотю",
    :longitude 25.6561725,
    :latitude 42.8706639,
@@ -1038,7 +1038,7 @@
    :longitude 26.9325017,
    :latitude 43.2736003,
    :source :openstreetmap,
-   :locality "Шумен"}
+   :location "Шумен"}
   {:name "Къща-музей Пейо К. Яворов",
    :longitude 23.3230516,
    :latitude 42.6896138,
@@ -1072,7 +1072,7 @@
    :longitude 25.9516775,
    :latitude 43.8523408,
    :source :openstreetmap,
-   :locality "Русе"}
+   :location "Русе"}
   {:name "Къщата-музей Димитър Димов",
    :longitude 23.3290956,
    :latitude 42.6790552,
@@ -1102,7 +1102,7 @@
    :longitude 23.3783364,
    :latitude 42.6269176,
    :source :openstreetmap,
-   :locality "Бизнес Парк София"}
+   :location "Бизнес Парк София"}
   {:name "Мемориална музейна сбирка “Ласло Наги”",
    :longitude 24.7459914,
    :latitude 41.5668594,
@@ -1166,7 +1166,7 @@
    :latitude 43.2310938,
    :source :openstreetmap,
    :homepage "https://varnenchikmuseum.com/",
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Музей за история на Варна",
    :longitude 27.9179723,
    :latitude 43.1986471,
@@ -1194,7 +1194,7 @@
    :longitude 26.5050979,
    :latitude 42.4894361,
    :source :openstreetmap,
-   :locality "Ямбол"}
+   :location "Ямбол"}
   {:name "Музей на водата",
    :longitude 23.0647966,
    :latitude 42.0207008,
@@ -1208,7 +1208,7 @@
    :latitude 43.1034559,
    :source :openstreetmap,
    :homepage "https://gradinarstvo.lyaskovets.net/",
-   :locality "Лясковец"}
+   :location "Лясковец"}
   {:name "Музей на киселото мляко",
    :longitude 22.5966049,
    :latitude 42.7919704,
@@ -1242,7 +1242,7 @@
    :longitude 24.3809539,
    :latitude 41.6103252,
    :source :openstreetmap,
-   :locality "Триград"}
+   :location "Триград"}
   {:name "Музей на родопския карст",
    :longitude 24.6882948,
    :latitude 41.7252399,
@@ -1352,13 +1352,13 @@
    :latitude 42.6549995,
    :source :openstreetmap,
    :homepage "https://historymuseum.org/",
-   :locality "София"}
+   :location "София"}
   {:name "Национален музей \"Земята и хората\"",
    :longitude 23.320516,
    :latitude 42.679758,
    :source :openstreetmap,
    :homepage "https://www.earthandman.org",
-   :locality "София"}
+   :location "София"}
   {:name "Национален музей на образованието",
    :longitude 25.3165643,
    :latitude 42.8704016,
@@ -1368,7 +1368,7 @@
    :latitude 42.6887618,
    :source :openstreetmap,
    :homepage "https://museum.sliven.net/obekti-slivenski-bit",
-   :locality "пл. Стоил войвода"}
+   :location "пл. Стоил войвода"}
   {:name "Национален музей на транспорта и съобщенията",
    :longitude 25.964011,
    :latitude 43.860833,
@@ -1380,7 +1380,7 @@
    :latitude 42.7040544,
    :source :openstreetmap,
    :homepage "https://polytechnic-museum.com/",
-   :locality "София"}
+   :location "София"}
   {:name
    "Национален църковен историко-археологически музей при Св. Синод",
    :longitude 23.3215228,
@@ -1393,14 +1393,14 @@
    :latitude 42.6965175,
    :source :openstreetmap,
    :homepage "https://www.nationalartgallerybg.org/",
-   :locality "пл. Княз Александър I"}
+   :location "пл. Княз Александър I"}
   {:name
    "Национално изложение на художествените занаяти и изкуствата - Орешак",
    :longitude 24.7794447,
    :latitude 42.8669617,
    :source :openstreetmap,
    :homepage "https://www.fairoreshakbg.com/",
-   :locality "Орешак"}
+   :location "Орешак"}
   {:name "Неолитни жилища",
    :longitude 25.6106758,
    :latitude 42.4245653,
@@ -1414,13 +1414,13 @@
    :latitude 42.6910783,
    :source :openstreetmap,
    :homepage "https://www.a-cube.gallery/",
-   :locality "София"}
+   :location "София"}
   {:name "Оборище 5",
    :longitude 23.3362873,
    :latitude 42.6955826,
    :source :openstreetmap,
    :homepage "https://gpff.gea.uni-sofia.bg/bg/база/музей/",
-   :locality "София"}
+   :location "София"}
   {:name "Обсерватория АВРЕН",
    :longitude 27.6693302,
    :latitude 43.1198977,
@@ -1429,7 +1429,7 @@
    :longitude 26.6167292,
    :latitude 44.0515039,
    :source :openstreetmap,
-   :locality "Тутракан"}
+   :location "Тутракан"}
   {:name "Общински исторически музей",
    :longitude 26.3324558,
    :latitude 42.0864038,
@@ -1442,7 +1442,7 @@
    :longitude 23.133674,
    :latitude 42.1303708,
    :source :openstreetmap,
-   :locality "Рила"}
+   :location "Рила"}
   {:name "Орфей",
    :longitude 24.747781,
    :latitude 42.1567796,
@@ -1461,7 +1461,7 @@
    :longitude 23.485437,
    :latitude 41.8351665,
    :source :openstreetmap,
-   :locality "Банско"}
+   :location "Банско"}
   {:name "Палеонтологически музей",
    :longitude 24.8804291,
    :latitude 42.0081663,
@@ -1477,12 +1477,12 @@
    :latitude 43.3987994,
    :source :openstreetmap,
    :homepage "https://panorama-pleven.com/",
-   :locality "Плевен"}
+   :location "Плевен"}
   {:name "Пантеон на Възрожденците",
    :longitude 25.9608269,
    :latitude 43.8506311,
    :source :openstreetmap,
-   :locality "Русе"}
+   :location "Русе"}
   {:name
    "Пантеон на Г. С. Раковски и Музей на котленските възрожденци",
    :longitude 26.4470047,
@@ -1521,7 +1521,7 @@
    :latitude 43.2066725,
    :source :openstreetmap,
    :homepage "http://nature.museumvarna.com",
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Природонаучен музей Сребърна",
    :longitude 27.0622515,
    :latitude 44.1022063,
@@ -1538,7 +1538,7 @@
    :longitude 25.4902928,
    :latitude 42.8668936,
    :source :openstreetmap,
-   :locality "Трявна"}
+   :location "Трявна"}
   {:name "Райна Княгиня",
    :longitude 24.1095228,
    :latitude 42.5092379,
@@ -1553,7 +1553,7 @@
    :latitude 42.14999,
    :source :openstreetmap,
    :homepage "https://ethnograph.info/",
-   :locality "Пловдив"}
+   :location "Пловдив"}
   {:name "Регионален исторически музей",
    :longitude 25.5580142,
    :latitude 41.9324387,
@@ -1567,13 +1567,13 @@
    :longitude 23.0290613,
    :latitude 42.6091667,
    :source :openstreetmap,
-   :locality "Перник"}
+   :location "Перник"}
   {:name "Регионален исторически музей",
    :longitude 23.103215,
    :latitude 42.0204241,
    :source :openstreetmap,
    :homepage "http://museumblg.bg/",
-   :locality "Благоевград"}
+   :location "Благоевград"}
   {:name "Регионален исторически музей",
    :longitude 25.3695814,
    :latitude 41.6468529,
@@ -1597,13 +1597,13 @@
    :latitude 43.4059275,
    :source :openstreetmap,
    :homepage "https://montanahm.eu/",
-   :locality "Монтана"}
+   :location "Монтана"}
   {:name "Регионален исторически музей - Русе",
    :longitude 25.9476467,
    :latitude 43.8440441,
    :source :openstreetmap,
    :homepage "https://www.museumruse.com/",
-   :locality "Русе"}
+   :location "Русе"}
   {:name "Регионален исторически музей - Шумен",
    :longitude 26.9275297,
    :latitude 43.2703419,
@@ -1612,17 +1612,17 @@
    :longitude 22.685104,
    :latitude 42.2873966,
    :source :openstreetmap,
-   :locality "Кюстендил"}
+   :location "Кюстендил"}
   {:name "Регионален Музей Търговище",
    :longitude 26.5714063,
    :latitude 43.2420528,
    :source :openstreetmap,
-   :locality "Търговище"}
+   :location "Търговище"}
   {:name "Ретро музей",
    :longitude 27.8994032,
    :latitude 43.217503,
    :source :openstreetmap,
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Рилска Света Обител",
    :longitude 23.3407217,
    :latitude 42.1333404,
@@ -1648,7 +1648,7 @@
    :longitude 25.9549616,
    :latitude 43.8433454,
    :source :openstreetmap,
-   :locality "Русе"}
+   :location "Русе"}
   {:name "Сарафкина къща",
    :longitude 25.6406688,
    :latitude 43.0819972,
@@ -1672,7 +1672,7 @@
    :longitude 27.9154268,
    :latitude 43.2042549,
    :source :openstreetmap,
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Славина Арт Център",
    :longitude 23.3478288,
    :latitude 42.665736,
@@ -1783,7 +1783,7 @@
    :longitude 22.6889489,
    :latitude 42.2829598,
    :source :openstreetmap,
-   :locality "Кюстендил"}
+   :location "Кюстендил"}
   {:name "Художествена галерия Никола Петров",
    :longitude 22.8789508,
    :latitude 43.9855235,
@@ -1808,12 +1808,12 @@
    :longitude 27.7387967,
    :latitude 42.6598811,
    :source :openstreetmap,
-   :locality "Несебър"}
+   :location "Несебър"}
   {:name "частна галерия Обелиск",
    :longitude 27.9487284,
    :latitude 43.2202227,
    :source :openstreetmap,
-   :locality "Варна"}
+   :location "Варна"}
   {:name "Чифте баня",
    :longitude 24.749793,
    :latitude 42.1518469,
@@ -1823,7 +1823,7 @@
    :longitude 24.1090003,
    :latitude 42.9553874,
    :source :openstreetmap,
-   :locality "Голям Извор"}
+   :location "Голям Извор"}
   {:name "ШМ",
    :longitude 23.3316357,
    :latitude 42.68751,

@@ -26,7 +26,7 @@
    :longitude 17.1870305,
    :latitude 44.7672513,
    :source :openstreetmap,
-   :locality "Banja Luka",
+   :location "Banja Luka",
    :image "",
    :description ""}
   {:name "Biblioteka i uprava",
@@ -58,7 +58,7 @@
    :longitude 17.6132364,
    :latitude 43.8189815,
    :source :openstreetmap,
-   :locality "Prozor",
+   :location "Prozor",
    :image "",
    :description ""}
   {:name "Dom kulture Puračić",
@@ -78,7 +78,7 @@
    :latitude 43.8570132,
    :source :openstreetmap,
    :homepage "https://www.duplex100m2.com/",
-   :locality "Sarajevo",
+   :location "Sarajevo",
    :image "",
    :description ""}
   {:name "Eminagića konak - Muzej Grada Tešnja",
@@ -104,7 +104,7 @@
    :latitude 44.6639972,
    :source :openstreetmap,
    :homepage "https://etno-muzej.com/",
-   :locality "Banja Luka",
+   :location "Banja Luka",
    :image "",
    :description ""}
   {:name "Franjevačka galerija",
@@ -117,7 +117,7 @@
    :longitude 17.2260792,
    :latitude 43.7212673,
    :source :openstreetmap,
-   :locality "Tomislavgrad",
+   :location "Tomislavgrad",
    :image "",
    :description ""}
   {:name "Galerija",
@@ -131,7 +131,7 @@
    :latitude 44.775198,
    :source :openstreetmap,
    :homepage "http://www.galerijakevic.com",
-   :locality "Banja Luka",
+   :location "Banja Luka",
    :image "",
    :description ""}
   {:name "Gradska Galerija",
@@ -150,14 +150,14 @@
    :longitude 19.2149821,
    :latitude 44.7654389,
    :source :openstreetmap,
-   :locality "Bijeljina",
+   :location "Bijeljina",
    :image "",
    :description ""}
   {:name "Hadžišabanovića vila",
    :longitude 18.5788851,
    :latitude 43.7943617,
    :source :openstreetmap,
-   :locality "Pale",
+   :location "Pale",
    :image "",
    :description ""}
   {:name "Ivo Andric Memorial Classroom",
@@ -205,7 +205,7 @@
    :latitude 44.7586356,
    :source :openstreetmap,
    :homepage "https://djecijecarstvo.org/",
-   :locality "Banja Luka",
+   :location "Banja Luka",
    :image "",
    :description ""}
   {:name "Kulturni centar Srebrenica",
@@ -236,14 +236,14 @@
    :longitude 18.6870998,
    :latitude 44.5359371,
    :source :openstreetmap,
-   :locality "Tuzla",
+   :location "Tuzla",
    :image "",
    :description ""}
   {:name "Museum of Eastern Bosnia",
    :longitude 18.6740642,
    :latitude 44.542139,
    :source :openstreetmap,
-   :locality "Tuzla",
+   :location "Tuzla",
    :image "",
    :description ""}
   {:name
@@ -284,7 +284,7 @@
    :latitude 43.8551116,
    :source :openstreetmap,
    :homepage "https://ex-yurock.com/",
-   :locality "Skenderija",
+   :location "Skenderija",
    :image "",
    :description ""}
   {:name "Muzej AVNOJ-a",
@@ -310,7 +310,7 @@
    :longitude 17.5309598,
    :latitude 43.8037879,
    :source :openstreetmap,
-   :locality "Šćit",
+   :location "Šćit",
    :image "",
    :description ""}
   {:name "Muzej Gorica",
@@ -350,7 +350,7 @@
    :latitude 44.9771793,
    :source :openstreetmap,
    :homepage "https://muzejkozare.org/",
-   :locality "Prijedor",
+   :location "Prijedor",
    :image "",
    :description ""}
   {:name "Muzej Optičkih iluzija",
@@ -370,7 +370,7 @@
    :latitude 44.7691951,
    :source :openstreetmap,
    :homepage "https://www.muzejrs.com/site/",
-   :locality "Banja Luka",
+   :location "Banja Luka",
    :image "",
    :description ""}
   {:name "Muzej savremene umjetnosti Repubike Srpske",
@@ -378,21 +378,21 @@
    :latitude 44.7722627,
    :source :openstreetmap,
    :homepage "https://msurs.net/index.php/csr",
-   :locality "Banja Luka",
+   :location "Banja Luka",
    :image "",
    :description ""}
   {:name "Muzej Semberije",
    :longitude 19.2179804,
    :latitude 44.7569582,
    :source :openstreetmap,
-   :locality "Bijeljina",
+   :location "Bijeljina",
    :image "",
    :description ""}
   {:name "Muzej stare Hercegovine",
    :longitude 18.7753742,
    :latitude 43.5061657,
    :source :openstreetmap,
-   :locality "Foča",
+   :location "Foča",
    :image "",
    :description ""}
   {:name "Muzej Stare srpske pravoslavne crkve Sarajevo",
@@ -419,7 +419,7 @@
    :longitude 16.8491999,
    :latitude 44.0426272,
    :source :openstreetmap,
-   :locality "Glamoč",
+   :location "Glamoč",
    :image "",
    :description ""}
   {:name "Naša majka art galery",
@@ -434,7 +434,7 @@
    :source :openstreetmap,
    :homepage
    "https://gradskimuzeji.ba/gradski-muzeji/olimpijski-muzej/",
-   :locality "Sarajevo",
+   :location "Sarajevo",
    :image "",
    :description ""}
   {:name "Ottoman house",
@@ -461,7 +461,7 @@
    :longitude 18.0830607,
    :latitude 44.7331562,
    :source :openstreetmap,
-   :locality "Doboj",
+   :location "Doboj",
    :image "",
    :description ""}
   {:name "Samostanski muzej",
@@ -504,7 +504,7 @@
    :longitude 16.3734594,
    :latitude 45.0492737,
    :source :openstreetmap,
-   :locality "Novi Grad",
+   :location "Novi Grad",
    :image "",
    :description ""}
   {:name "Stara željeznička stanica na Ilidži",
@@ -530,7 +530,7 @@
    :latitude 43.3458788,
    :source :openstreetmap,
    :homepage "https://www.thehub.ba/",
-   :locality "Mostar",
+   :location "Mostar",
    :image "",
    :description ""}
   {:name "Titova pećina",
@@ -544,14 +544,14 @@
    :latitude 43.8198211,
    :source :openstreetmap,
    :homepage "https://www.tunelspasa.ba",
-   :locality "Ilidža",
+   :location "Ilidža",
    :image "",
    :description ""}
   {:name "Velagićevina",
    :longitude 17.898061,
    :latitude 43.2572994,
    :source :openstreetmap,
-   :locality "Velagićevina",
+   :location "Velagićevina",
    :image "",
    :description ""}
   {:name "Vrata Bosne",
@@ -595,14 +595,14 @@
    :latitude 45.1471211,
    :source :openstreetmap,
    :homepage "https://muzejgradiska.com/",
-   :locality "Gradiška",
+   :location "Gradiška",
    :image "",
    :description ""}
   {:name "Zavičajni muzej Prnjavor",
    :longitude 17.6653344,
    :latitude 44.8712311,
    :source :openstreetmap,
-   :locality "Prnjavor",
+   :location "Prnjavor",
    :image "",
    :description ""}
   {:name "Zavičajni muzej Travnik",

@@ -9,7 +9,7 @@
    :longitude -117.0210007,
    :latitude 32.786145,
    :source :openstreetmap,
-   :locality "La Mesa"}
+   :location "La Mesa"}
   {:name "1",
    :longitude -94.7853952,
    :latitude 38.9825908,
@@ -41,7 +41,7 @@
    :latitude 37.092140690840054,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37167",
-   :locality "Hampton"}
+   :location "Hampton"}
   {:name "13",
    :longitude -94.7430306,
    :latitude 38.828983,
@@ -67,19 +67,19 @@
    :latitude 35.09060361235046,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38336",
-   :locality "Amarillo"}
+   :location "Amarillo"}
   {:name "2 Basket Beginner's Course",
    :longitude -101.68692218470937,
    :latitude 35.09060361235046,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38337",
-   :locality "Amarillo"}
+   :location "Amarillo"}
   {:name "2nd Annual John Evans Memorial Championship",
    :longitude -113.45668934764495,
    :latitude 42.65966184540673,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37880",
-   :locality "Declo"}
+   :location "Declo"}
   {:name "3",
    :longitude -122.1194261,
    :latitude 42.4204311,
@@ -139,7 +139,7 @@
    :latitude 29.81057107488438,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18561",
-   :locality "Houston"}
+   :location "Houston"}
   {:name "Airborn Disc Golf Preserve",
    :longitude -94.0345969,
    :latitude 45.4070768,
@@ -154,7 +154,7 @@
    :latitude 28.460372273643713,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17881",
-   :locality "Orlando"}
+   :location "Orlando"}
   {:name "Alamosa Disc Golf Course",
    :longitude -105.8855916,
    :latitude 37.4916712,
@@ -184,25 +184,25 @@
    :latitude 25.883924302691753,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17839",
-   :locality "Hialeah"}
+   :location "Hialeah"}
   {:name "Anderson Lake Disc Golf Course",
    :longitude -121.605572684925,
    :latitude 37.16669300701652,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35911",
-   :locality "Morgan Hill"}
+   :location "Morgan Hill"}
   {:name "Anna Page Park",
    :longitude -89.14910005310368,
    :latitude 42.30615557715515,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33072",
-   :locality "Rockford"}
+   :location "Rockford"}
   {:name "Another Round",
    :longitude -111.8665352,
    :latitude 40.6409194,
    :source :openstreetmap,
    :homepage "https://www.anotherroundsaltlake.com/",
-   :locality "Murray"}
+   :location "Murray"}
   {:name "Another Round",
    :longitude -80.7982132,
    :latitude 35.2417778,
@@ -211,13 +211,13 @@
    :longitude -82.50473,
    :latitude 35.5720945,
    :source :openstreetmap,
-   :locality "Asheville"}
+   :location "Asheville"}
   {:name "Another Round Greenville",
    :longitude -82.3648342,
    :latitude 34.8449421,
    :source :openstreetmap,
    :homepage "https://www.anotherroundgreenville.com/",
-   :locality "Greenville"}
+   :location "Greenville"}
   {:name "Aptos High School Disc Golf Course",
    :longitude -121.8653566,
    :latitude 36.9762689,
@@ -226,7 +226,7 @@
    :longitude -149.8050862,
    :latitude 61.19023,
    :source :openstreetmap,
-   :locality "Anchorage"}
+   :location "Anchorage"}
   {:name "Arboretum Spiker Disc Golf Couse",
    :longitude -81.4094885,
    :latitude 40.8391085,
@@ -260,7 +260,7 @@
    :latitude 32.83582566528247,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26076",
-   :locality "Garland"}
+   :location "Garland"}
   {:name "Austin Ridge Bible Church Disc Golf Course",
    :longitude -97.8697071,
    :latitude 30.3215282,
@@ -269,7 +269,7 @@
    :longitude -105.1400011,
    :latitude 39.9361613,
    :source :openstreetmap,
-   :locality "Superior"}
+   :location "Superior"}
   {:name "Avian Commons Disc Golf Course",
    :longitude -80.2574781,
    :latitude 33.1452259,
@@ -296,7 +296,7 @@
    :latitude 36.57338835737425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6941",
-   :locality "Danville"}
+   :location "Danville"}
   {:name "Bandemer Park Disc Golf",
    :longitude -83.7436228,
    :latitude 42.2995724,
@@ -306,13 +306,13 @@
    :latitude 29.873410759874176,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18553",
-   :locality "Houston"}
+   :location "Houston"}
   {:name "Barnet School",
    :longitude -72.08063028588205,
    :latitude 44.30673342162055,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29883",
-   :locality "Barnet"}
+   :location "Barnet"}
   {:name "Bartholomew Disc Golf Park",
    :longitude -97.692062,
    :latitude 30.3024326,
@@ -391,7 +391,7 @@
    :latitude 48.78796662717099,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44274",
-   :locality "Bellingham"}
+   :location "Bellingham"}
   {:name "Belmont Park Disc Golf Course",
    :longitude -84.1339185,
    :latitude 39.7331715,
@@ -425,13 +425,13 @@
    :latitude 33.078328005306645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45022",
-   :locality "Collin"}
+   :location "Collin"}
   {:name "Bill Frederick Park,Fl",
    :longitude -81.43836323800183,
    :latitude 28.38408920636047,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26768",
-   :locality "Orlando"}
+   :location "Orlando"}
   {:name "Billerica Recreation Disk Golf Course",
    :longitude -71.2991046,
    :latitude 42.5504282,
@@ -441,13 +441,13 @@
    :latitude 40.5697052869387,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36537",
-   :locality "South Jordan"}
+   :location "South Jordan"}
   {:name "Birch Park",
    :longitude -71.6121328231547,
    :latitude 42.865462852996245,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17294",
-   :locality "Amherst"}
+   :location "Amherst"}
   {:name "Bird's Nest Disc Golf Course",
    :longitude -105.2005377,
    :latitude 39.8179911,
@@ -461,7 +461,7 @@
    :latitude 46.82318303555999,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38399",
-   :locality "Bismarck"}
+   :location "Bismarck"}
   {:name "Black Butte Ranch Disc Golf Course",
    :longitude -121.659194,
    :latitude 44.3779483,
@@ -518,13 +518,13 @@
    :latitude 45.33536403434837,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19533",
-   :locality "Cedar"}
+   :location "Cedar"}
   {:name "Blue Ribbon Pines Disc Golf Club",
    :longitude -93.2229203,
    :latitude 45.334691,
    :source :openstreetmap,
    :homepage "https://blueribbonpines.com/",
-   :locality "East Bethel"}
+   :location "East Bethel"}
   {:name "Blue Valley Park Championship Course",
    :longitude -94.5098198,
    :latitude 39.0816104,
@@ -538,7 +538,7 @@
    :latitude 35.87582984206986,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29470",
-   :locality "Mountain View"}
+   :location "Mountain View"}
   {:name "Bob Mowreys Meadows ",
    :longitude -95.36824554295143,
    :latitude 38.94044059710106,
@@ -549,7 +549,7 @@
    :latitude 34.31987615672038,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32023",
-   :locality "Atoka"}
+   :location "Atoka"}
   {:name "Bohannon Disc Golf Course",
    :longitude -123.8194947,
    :latitude 45.4551553,
@@ -563,7 +563,7 @@
    :latitude 39.47006710564176,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43809",
-   :locality "Chesapeake City"}
+   :location "Chesapeake City"}
   {:name "Bomber Disc Golf at Griffiss Park",
    :longitude -75.4130851,
    :latitude 43.2150027,
@@ -579,13 +579,13 @@
    :latitude 42.06211513932416,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35482",
-   :locality "North Easton"}
+   :location "North Easton"}
   {:name "Borderlands State Park",
    :longitude -71.16433279657238,
    :latitude 42.06275224506243,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17138",
-   :locality "North Easton"}
+   :location "North Easton"}
   {:name "Boulder Woods Disc Golf",
    :longitude -76.8874605,
    :latitude 40.0701227,
@@ -595,7 +595,7 @@
    :latitude 35.444703,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6364",
-   :locality "Huntersville"}
+   :location "Huntersville"}
   {:name "Bradley Park",
    :longitude -89.6220883,
    :latitude 40.706914,
@@ -625,7 +625,7 @@
    :latitude 42.81444841946882,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27025",
-   :locality "Byron Center"}
+   :location "Byron Center"}
   {:name "Brewer Disc Golf Course",
    :longitude -86.7051386,
    :latitude 34.4093046,
@@ -635,7 +635,7 @@
    :latitude 44.596549198790086,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35802",
-   :locality "Jeffersonville"}
+   :location "Jeffersonville"}
   {:name "Brickyard Disc Golf Course",
    :longitude -91.9410366,
    :latitude 44.8787275,
@@ -645,7 +645,7 @@
    :latitude 29.957376289666726,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26586",
-   :locality "Cypress"}
+   :location "Cypress"}
   {:name "Brighton's Big Buckeye and The Sasquatch Disc Golf Course",
    :longitude -81.4552046,
    :latitude 39.4547417,
@@ -656,13 +656,13 @@
    :latitude 29.392879182812905,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40463",
-   :locality "Alvin"}
+   :location "Alvin"}
   {:name "Broadmoor Disc Golf",
    :longitude -91.07403796211372,
    :latitude 30.451450538032063,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26661",
-   :locality "Baton Rouge"}
+   :location "Baton Rouge"}
   {:name "Brock Adventure Park",
    :longitude -95.2312811,
    :latitude 29.8443932,
@@ -676,7 +676,7 @@
    :latitude 33.299820574319156,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37582",
-   :locality "Denmark"}
+   :location "Denmark"}
   {:name "Brooks Memorial State Park Disc Golf Course",
    :longitude -120.6690123,
    :latitude 45.9490434,
@@ -724,7 +724,7 @@
    :latitude 42.649907891671546,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27053",
-   :locality "Holt"}
+   :location "Holt"}
   {:name "Buxton Woods Disc Golf Course",
    :longitude -123.1745756,
    :latitude 45.7153578,
@@ -755,19 +755,19 @@
    :latitude 40.9109697938282,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13733",
-   :locality "Calverton"}
+   :location "Calverton"}
   {:name "Camden Park",
    :longitude -90.56240780670173,
    :latitude 41.42538364772332,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23138",
-   :locality "Milan"}
+   :location "Milan"}
   {:name "Camp Capers Disc Golf",
    :longitude -98.81832768670641,
    :latitude 29.955219363157155,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35165",
-   :locality "Comfort"}
+   :location "Comfort"}
   {:name "Camp Catalpa Disc Golf Course",
    :longitude -84.2503906,
    :latitude 37.7405065,
@@ -785,7 +785,7 @@
    :latitude 34.522380719001646,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27449",
-   :locality "Prescott"}
+   :location "Prescott"}
   {:name "Campville Commons Disc Golf Course",
    :longitude -76.1443314,
    :latitude 42.0889117,
@@ -803,13 +803,13 @@
    :latitude 25.69492142365067,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28287",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Carlitos Way Long",
    :longitude -80.37887225511516,
    :latitude 25.691922491558685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31196",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Carlyss Park Disc Golf Course",
    :longitude -93.3826665,
    :latitude 30.1567059,
@@ -819,7 +819,7 @@
    :latitude 33.565908618781336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22904",
-   :locality "Camden"}
+   :location "Camden"}
   {:name "Carolina Disc Golf",
    :longitude -79.0370523,
    :latitude 35.9061837,
@@ -836,7 +836,7 @@
    :latitude 38.7598033,
    :source :openstreetmap,
    :homepage "http://stlouisdiscgolfclub.com/courses/#Bridgeton",
-   :locality "Bridgeton"}
+   :location "Bridgeton"}
   {:name "Cascades Gateway Disc Golf Course",
    :longitude -122.9904269,
    :latitude 44.9087016,
@@ -846,7 +846,7 @@
    :latitude 42.8661710266139,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40313",
-   :locality "Natrona / Casper"}
+   :location "Natrona / Casper"}
   {:name "Castle Hills Disc Golf Course",
    :longitude -96.9138531,
    :latitude 33.0320973,
@@ -856,13 +856,13 @@
    :latitude 40.63455946121729,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13735",
-   :locality "Babylon"}
+   :location "Babylon"}
   {:name "Cedar Swamp",
    :longitude -72.41340219739624,
    :latitude 41.299734266637074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35403",
-   :locality "Old Saybrook"}
+   :location "Old Saybrook"}
   {:name "Cedars of Lebanon Disc Golf",
    :longitude -86.3171301,
    :latitude 36.0815232,
@@ -888,14 +888,14 @@
    :latitude 42.8018445,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12025",
-   :locality "Schenectady"}
+   :location "Schenectady"}
   {:name "Central Park Disc Golf Course",
    :longitude -104.9312154,
    :latitude 40.1426214,
    :source :openstreetmap,
    :homepage
    "https://www.firestoneco.gov/facilities/facility/details/Central-Park-Disc-Golf-Course-34",
-   :locality "Firestone"}
+   :location "Firestone"}
   {:name "Central Park Disc Golf Course",
    :longitude -118.5196676,
    :latitude 34.4339214,
@@ -912,13 +912,13 @@
    :longitude -104.795678,
    :latitude 39.7134552,
    :source :openstreetmap,
-   :locality "Aurora"}
+   :location "Aurora"}
   {:name "Century Park",
    :longitude -82.24048794273743,
    :latitude 34.92913899794564,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35624",
-   :locality "Greer"}
+   :location "Greer"}
   {:name "Champions Landing",
    :longitude -96.1867462,
    :latitude 38.4227099,
@@ -931,7 +931,7 @@
    :longitude -85.6817068,
    :latitude 38.3628137,
    :source :openstreetmap,
-   :locality "Jeffersonville"}
+   :location "Jeffersonville"}
   {:name "Chariton Disc Golf Course",
    :longitude -93.3263477,
    :latitude 41.0289603,
@@ -950,7 +950,7 @@
    :latitude 42.722587,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32346",
-   :locality "Hamburg"}
+   :location "Hamburg"}
   {:name "Cheyenne Mountain Disc Golf Course",
    :longitude -104.8257746,
    :latitude 38.7390373,
@@ -976,7 +976,7 @@
    :latitude 43.6083413176234,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46466",
-   :locality "Midland"}
+   :location "Midland"}
   {:name "Chisholm Disc Golf",
    :longitude -92.8708971,
    :latitude 47.4827808,
@@ -998,13 +998,13 @@
    :latitude 29.99962703098923,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30032",
-   :locality "New Orleans"}
+   :location "New Orleans"}
   {:name "Clatter Valley Disc Golf",
    :longitude -73.3906986,
    :latitude 41.5460291,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/groups/768768824454498",
-   :locality "New Milford"}
+   :location "New Milford"}
   {:name "Clearwater / Pleasant Regional Park Disc Golf Course",
    :longitude -94.1137183,
    :latitude 45.2843422,
@@ -1022,7 +1022,7 @@
    :latitude 35.46897300523064,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22648",
-   :locality "Clarksville"}
+   :location "Clarksville"}
   {:name "Clover Dell Disc Golf Course",
    :longitude -93.2902338,
    :latitude 38.6827465,
@@ -1043,12 +1043,12 @@
    :longitude -71.7943239,
    :latitude 42.562129,
    :source :openstreetmap,
-   :locality "Fitchburg"}
+   :location "Fitchburg"}
   {:name "Columbia Village Disc Golf Course",
    :longitude -116.1375639,
    :latitude 43.5488672,
    :source :openstreetmap,
-   :locality "Boise"}
+   :location "Boise"}
   {:name "Columbus Disc Golf",
    :longitude -94.8420711,
    :latitude 37.163669,
@@ -1058,13 +1058,13 @@
    :latitude 26.6970232814555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38297",
-   :locality "Royal Palm Beach"}
+   :location "Royal Palm Beach"}
   {:name "Commons Northside",
    :longitude -80.22215803506462,
    :latitude 26.697842725908203,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36472",
-   :locality "Royal Palm Beach"}
+   :location "Royal Palm Beach"}
   {:name "Community Disc Golf Course",
    :longitude -89.5851579,
    :latitude 40.6400196,
@@ -1078,7 +1078,7 @@
    :latitude 32.28793428538651,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36723",
-   :locality "Rincon"}
+   :location "Rincon"}
   {:name "Conder Park DGC",
    :longitude -97.7191239,
    :latitude 31.1086789,
@@ -1105,14 +1105,14 @@
    :latitude 38.92885820911292,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24098",
-   :locality "Colorado Springs"}
+   :location "Colorado Springs"}
   {:name "Coyote Creek Disc Golf Course",
    :longitude -121.8059909,
    :latitude 37.2810651,
    :source :openstreetmap,
    :homepage
    "https://www.pdga.com/course-directory/course/coyote-creek-disc-golf-course-hellyer-park",
-   :locality "San Jose"}
+   :location "San Jose"}
   {:name "Coyote Point Disc Golf Course",
    :longitude -119.35184,
    :latitude 34.4088078,
@@ -1132,7 +1132,7 @@
    :latitude 38.328345904250966,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17093",
-   :locality "Penngrove"}
+   :location "Penngrove"}
   {:name "Credit Island Disc Golf Course",
    :longitude -90.6116243,
    :latitude 41.495926,
@@ -1150,7 +1150,7 @@
    :latitude 34.14365257939104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/7923",
-   :locality "Chapin"}
+   :location "Chapin"}
   {:name "Cross Farms DGC",
    :longitude -72.3400402,
    :latitude 41.8652139,
@@ -1185,7 +1185,7 @@
    :latitude 45.516003407615926,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33299",
-   :locality "Troutdale"}
+   :location "Troutdale"}
   {:name "Dacusville Disc Golf Course",
    :longitude -82.5456703,
    :latitude 34.9142997,
@@ -1239,13 +1239,13 @@
    :latitude 44.28486331618316,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32561",
-   :locality "East Tawas"}
+   :location "East Tawas"}
   {:name "Diamond X",
    :longitude -108.66282492825611,
    :latitude 45.853058217114636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32055",
-   :locality "Billings"}
+   :location "Billings"}
   {:name "Diamond X",
    :longitude -108.6872168,
    :latitude 45.8145578,
@@ -1255,7 +1255,7 @@
    :latitude 33.953772673430606,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45869",
-   :locality "Sumter"}
+   :location "Sumter"}
   {:name "Dingerz",
    :longitude -121.3068486,
    :latitude 44.0861769,
@@ -1264,7 +1264,7 @@
    :longitude -91.7780797,
    :latitude 37.9235408,
    :source :openstreetmap,
-   :locality "Rolla"}
+   :location "Rolla"}
   {:name "Disc Golf",
    :longitude -94.1965456,
    :latitude 39.327701,
@@ -1310,7 +1310,7 @@
    :latitude 42.4239405,
    :source :openstreetmap,
    :homepage "https://discgolf978.com",
-   :locality "Sterling"}
+   :location "Sterling"}
   {:name "Disc Golf Area",
    :longitude -91.1555252,
    :latitude 38.7988637,
@@ -1444,13 +1444,13 @@
    :latitude 30.1748482,
    :source :openstreetmap,
    :homepage "https://discnation.com/",
-   :locality "Austin"}
+   :location "Austin"}
   {:name "Disc Nation",
    :longitude -97.6962679,
    :latitude 30.4382245,
    :source :openstreetmap,
    :homepage "https://discnation.com/",
-   :locality "Austin"}
+   :location "Austin"}
   {:name "Disc-Golf Course",
    :longitude -93.1553094,
    :latitude 44.9137335,
@@ -1488,7 +1488,7 @@
    :latitude 39.59801582134514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34759",
-   :locality "Morgantown"}
+   :location "Morgantown"}
   {:name "Dr Thomas Walker State Park Disc Golf Course",
    :longitude -83.9193609,
    :latitude 36.839689,
@@ -1498,19 +1498,19 @@
    :latitude 41.38095876493179,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35422",
-   :locality "Stonington"}
+   :location "Stonington"}
   {:name "Dreher",
    :longitude -80.06706694386234,
    :latitude 26.67368813108378,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23981",
-   :locality "West Palm Beach"}
+   :location "West Palm Beach"}
   {:name "Dretzka Park",
    :longitude -88.05994053996379,
    :latitude 43.16756999886246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19228",
-   :locality "Milwaukee"}
+   :location "Milwaukee"}
   {:name "Driftless 18",
    :longitude -92.4366507,
    :latitude 43.9507452,
@@ -1524,13 +1524,13 @@
    :latitude 39.32646380198983,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24684",
-   :locality "Baltimore"}
+   :location "Baltimore"}
   {:name "Du Quoin Fairground DGC",
    :longitude -89.22926853383068,
    :latitude 37.99651324093952,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25760",
-   :locality "Du Quoin"}
+   :location "Du Quoin"}
   {:name "Dunbar DGC",
    :longitude -95.4582395,
    :latitude 29.0557364,
@@ -1548,7 +1548,7 @@
    :latitude 41.70215869683881,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30254",
-   :locality "Oswego"}
+   :location "Oswego"}
   {:name "Eagle's Nest Disc Golf Course",
    :longitude -82.5708874,
    :latitude 39.6759549,
@@ -1558,7 +1558,7 @@
    :latitude 38.96283728454472,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27282",
-   :locality "Hawk Point"}
+   :location "Hawk Point"}
   {:name "Eagles Flight Disc Golf Course",
    :longitude -90.112138,
    :latitude 38.9060641,
@@ -1580,7 +1580,7 @@
    :latitude 26.170254034296846,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18016",
-   :locality "Fort Lauderdale"}
+   :location "Fort Lauderdale"}
   {:name "ECHO VALLEY",
    :longitude -114.2403432,
    :latitude 47.0413978,
@@ -1594,26 +1594,26 @@
    :latitude 39.23529407589339,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31215",
-   :locality "Ellettsville"}
+   :location "Ellettsville"}
   {:name "Edmundson Park Disc Golf Course",
    :longitude -92.6597131,
    :latitude 41.2839714,
    :source :openstreetmap,
    :homepage
    "https://www.dgcoursereview.com/course.php?id=514&mode=ci",
-   :locality "Oskaloosa"}
+   :location "Oskaloosa"}
   {:name "Edora Disc Golf Course",
    :longitude -105.04570494041424,
    :latitude 40.56415430167601,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35470",
-   :locality "Fort Collins"}
+   :location "Fort Collins"}
   {:name "Effingham Disc Golf Course",
    :longitude -88.53351272640982,
    :latitude 39.12451846327136,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41836",
-   :locality "Effingham"}
+   :location "Effingham"}
   {:name "Eighteens at the Pond",
    :longitude -92.3651285,
    :latitude 34.6940156,
@@ -1628,7 +1628,7 @@
    :latitude 33.808285665178275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27427",
-   :locality "Long Beach"}
+   :location "Long Beach"}
   {:name "Ellensburg Disc Golf Course",
    :longitude -120.5784326,
    :latitude 46.9939714,
@@ -1638,7 +1638,7 @@
    :latitude 43.02467714448039,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32345",
-   :locality "Tonawanda"}
+   :location "Tonawanda"}
   {:name "Elm Creek Disc Golf",
    :longitude -95.4055721,
    :latitude 37.9119543,
@@ -1648,7 +1648,7 @@
    :latitude 35.63802344022207,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32353",
-   :locality "Stilwell"}
+   :location "Stilwell"}
   {:name "Elver Park Disc Golf Course",
    :longitude -89.5020145,
    :latitude 43.034866,
@@ -1671,7 +1671,7 @@
    :latitude 43.100971049812074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22444",
-   :locality "Whitefish Bay"}
+   :location "Whitefish Bay"}
   {:name "ETMS Disc Golf Course",
    :longitude -88.4195954,
    :latitude 42.7859409,
@@ -1681,7 +1681,7 @@
    :latitude 33.9846841313944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26437",
-   :locality "Wichita Falls"}
+   :location "Wichita Falls"}
   {:name "Fairgrounds Disc Golf Course",
    :longitude -122.66917,
    :latitude 47.6324871,
@@ -1691,7 +1691,7 @@
    :latitude 39.176469634448154,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18471",
-   :locality "Manhattan"}
+   :location "Manhattan"}
   {:name "Fairview Park Disk Golf",
    :longitude -87.9867894,
    :latitude 39.2946778,
@@ -1701,25 +1701,25 @@
    :latitude 43.701534608853024,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45834",
-   :locality "Gagetown"}
+   :location "Gagetown"}
   {:name "Fallsberg ",
    :longitude -85.3275813676862,
    :latitude 42.98469252323653,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27029",
-   :locality "Lowell"}
+   :location "Lowell"}
   {:name "Farr West City Disc Golf",
    :longitude -112.02445709306933,
    :latitude 41.29199040071646,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45214",
-   :locality "Farr West"}
+   :location "Farr West"}
   {:name "FDR",
    :longitude -73.81558359665377,
    :latitude 41.28270748788134,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18728",
-   :locality "Yorktown Heights"}
+   :location "Yorktown Heights"}
   {:name "Fehringer Ranch Disc Golf Course",
    :longitude -105.1213063,
    :latitude 39.6415176,
@@ -1744,18 +1744,18 @@
    :longitude -121.2246911,
    :latitude 38.6968742,
    :source :openstreetmap,
-   :locality "Orangevale"}
+   :location "Orangevale"}
   {:name "Fire Mountain",
    :longitude -107.52489255211181,
    :latitude 39.56781238230661,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29447",
-   :locality "New Castle"}
+   :location "New Castle"}
   {:name "Firefighter's Park Disc Golf Course",
    :longitude -83.1791442,
    :latitude 42.6091126,
    :source :openstreetmap,
-   :locality "Troy"}
+   :location "Troy"}
   {:name "Firefighter’s Memorial Park Disc Golf Course",
    :longitude -114.0302602,
    :latitude 35.2149814,
@@ -1781,7 +1781,7 @@
    :latitude 43.62175968261215,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27035",
-   :locality "Shelby"}
+   :location "Shelby"}
   {:name "Flying Ace 18 Hole Disc Golf Course",
    :longitude -72.8412683,
    :latitude 41.4596225,
@@ -1790,13 +1790,13 @@
    :longitude -108.5253551,
    :latitude 45.8334255,
    :source :openstreetmap,
-   :locality "Billings"}
+   :location "Billings"}
   {:name "Fore Palms",
    :longitude -81.50669149693064,
    :latitude 30.364893291858465,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22740",
-   :locality "Jacksonville"}
+   :location "Jacksonville"}
   {:name "Forest Hills DGC",
    :longitude -81.0780716,
    :latitude 32.0211817,
@@ -1814,7 +1814,7 @@
    :latitude 31.338703846611722,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38487",
-   :locality "Fort Novosel"}
+   :location "Fort Novosel"}
   {:name "Fort Steilacoom Disc Golf Course",
    :longitude -122.5652042,
    :latitude 47.184916,
@@ -1832,18 +1832,18 @@
    :latitude 41.175092288071625,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39683",
-   :locality "Fostoria"}
+   :location "Fostoria"}
   {:name "Foundation Disc Golf",
    :longitude -79.2597691,
    :latitude 37.3661341,
    :source :openstreetmap,
-   :locality "Forest"}
+   :location "Forest"}
   {:name "Foundation Park",
    :longitude -89.11099649350349,
    :latitude 38.53269429679008,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18128",
-   :locality "Centralia"}
+   :location "Centralia"}
   {:name "Founders Park Disc Golf Course",
    :longitude -96.8173684,
    :latitude 32.7606685,
@@ -1857,7 +1857,7 @@
    :latitude 44.59723485966478,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35803",
-   :locality "Jeffersonville"}
+   :location "Jeffersonville"}
   {:name "France Park Disk Golf Course",
    :longitude -86.463252,
    :latitude 40.7594823,
@@ -1867,7 +1867,7 @@
    :latitude 36.730818996201414,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6618",
-   :locality "Franklin"}
+   :location "Franklin"}
   {:name "Franklin Park Disc Golf Course",
    :longitude -77.7433334,
    :latitude 39.1300121,
@@ -1877,7 +1877,7 @@
    :latitude 43.682419954347125,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46105",
-   :locality "Star"}
+   :location "Star"}
   {:name "Freeman Park Disc Golf",
    :longitude -112.0517462,
    :latitude 43.513863,
@@ -1887,7 +1887,7 @@
    :latitude 43.86440758362642,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31424",
-   :locality "Freeport"}
+   :location "Freeport"}
   {:name "Freestone Disc Golf Course",
    :longitude -111.766302,
    :latitude 33.3635035,
@@ -1897,7 +1897,7 @@
    :latitude 41.45123550689556,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26478",
-   :locality "Fremont"}
+   :location "Fremont"}
   {:name "French Creek State Park Disc Golf Course",
    :longitude -75.7827252,
    :latitude 40.1986518,
@@ -1907,7 +1907,7 @@
    :latitude 40.57948315251102,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35916",
-   :locality "Staten Island"}
+   :location "Staten Island"}
   {:name "Frisbee Golf",
    :longitude -83.9495899,
    :latitude 44.7400662,
@@ -1925,7 +1925,7 @@
    :latitude 30.24641585819714,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27018",
-   :locality "Slidell"}
+   :location "Slidell"}
   {:name "Fullbright Park Disc Golf Course",
    :longitude -120.477941,
    :latitude 46.538606,
@@ -1935,7 +1935,7 @@
    :latitude 47.380098442507034,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30617",
-   :locality "Maple Valley"}
+   :location "Maple Valley"}
   {:name "Game1new",
    :longitude 30.425364198361137,
    :latitude 50.34596011616941,
@@ -1946,13 +1946,13 @@
    :latitude 44.82340090474952,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14351",
-   :locality "Traverse City"}
+   :location "Traverse City"}
   {:name "Garfield Park",
    :longitude -85.65966632580086,
    :latitude 42.92573191839304,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27022",
-   :locality "Grand Rapids"}
+   :location "Grand Rapids"}
   {:name "GCTS Disc Golf Course",
    :longitude -70.8425246,
    :latitude 42.6108125,
@@ -1970,7 +1970,7 @@
    :latitude 44.549197632566035,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46005",
-   :locality "Glennie"}
+   :location "Glennie"}
   {:name "Giles Run Meadow",
    :longitude -77.238894,
    :latitude 38.7077461,
@@ -1984,7 +1984,7 @@
    :latitude 45.7105351,
    :source :openstreetmap,
    :homepage "https://glenwoodcc.org/mission/local/disc-golf",
-   :locality "Vancouver"}
+   :location "Vancouver"}
   {:name "Goblin Valley Disc Golf Course",
    :longitude -110.7133942,
    :latitude 38.5654847,
@@ -1998,13 +1998,13 @@
    :latitude 37.771051,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13841",
-   :locality "San Francisco"}
+   :location "San Francisco"}
   {:name "Golden Gate Park Disc Golf Course",
    :longitude -122.48639747325694,
    :latitude 37.7709228034434,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30026",
-   :locality "San Francisco"}
+   :location "San Francisco"}
   {:name "Golden Hills Disc Golf Course",
    :longitude -80.4137887,
    :latitude 37.1714084,
@@ -2014,19 +2014,19 @@
    :latitude 29.485961377862495,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26604",
-   :locality "Gonzales"}
+   :location "Gonzales"}
   {:name "Goochland High School Course",
    :longitude -77.89491830973112,
    :latitude 37.70271611812201,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32547",
-   :locality "Goochland"}
+   :location "Goochland"}
   {:name "Gordon Holton Disc Golf Course",
    :longitude -83.05798581936743,
    :latitude 40.380573523733574,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25104",
-   :locality "Delaware"}
+   :location "Delaware"}
   {:name "Goyne Park",
    :longitude -77.4617947,
    :latitude 37.3610404,
@@ -2042,18 +2042,18 @@
    :latitude 28.5573594297243,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22238",
-   :locality "Brooksville"}
+   :location "Brooksville"}
   {:name "Grand Central Station",
    :longitude -82.79853,
    :latitude 34.78358,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35279",
-   :locality "Central"}
+   :location "Central"}
   {:name "Grand Miami Disc Golf Course",
    :longitude -84.382629,
    :latitude 40.5391949,
    :source :openstreetmap,
-   :locality "St Marys"}
+   :location "St Marys"}
   {:name "Grand Woods Park",
    :longitude -84.6136026,
    :latitude 42.7587793,
@@ -2063,19 +2063,19 @@
    :latitude 43.579631,
    :source :openstreetmap,
    :homepage "https://grantsnonesuchvalleyfarmdiscgolf.com/",
-   :locality "Saco"}
+   :location "Saco"}
   {:name "Graybarry Disc Golf",
    :longitude -86.3650854,
    :latitude 39.6173814,
    :source :openstreetmap,
    :homepage "https://gbdiscs.com/",
-   :locality "Mooresville"}
+   :location "Mooresville"}
   {:name "Grayling Rotary Pine Knoll DGC",
    :longitude -84.75357789158375,
    :latitude 44.64628029535015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22970",
-   :locality "Grayling"}
+   :location "Grayling"}
   {:name "Green Lake Disc Golf Park",
    :longitude -85.7606833,
    :latitude 44.6032541,
@@ -2092,13 +2092,13 @@
    :longitude -78.4184553,
    :latitude 38.274893,
    :source :openstreetmap,
-   :locality "Ruckersville"}
+   :location "Ruckersville"}
   {:name "Greenhorn Disc Golf ",
    :longitude -122.65787358760154,
    :latitude 41.711510015861165,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35715",
-   :locality "Yreka"}
+   :location "Yreka"}
   {:name "Greensburg Fitness Park",
    :longitude -85.4914171,
    :latitude 37.2460658,
@@ -2116,19 +2116,19 @@
    :latitude 42.53616898796872,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40732",
-   :locality "Silver Lake, WI"}
+   :location "Silver Lake, WI"}
   {:name "Greystone Woods",
    :longitude -74.50312018612235,
    :latitude 40.839221219767666,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19190",
-   :locality "Morris Plains"}
+   :location "Morris Plains"}
   {:name "Greystone Woods",
    :longitude -74.50312018612235,
    :latitude 40.839221219767666,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19193",
-   :locality "Morris Plains"}
+   :location "Morris Plains"}
   {:name "Grindstone Park",
    :longitude -105.6814572,
    :latitude 33.322765,
@@ -2144,7 +2144,7 @@
    :latitude 39.00329658221659,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29906",
-   :locality "Oblong"}
+   :location "Oblong"}
   {:name "Guilford Meadows Disc Golf Course",
    :longitude -79.8884469,
    :latitude 36.0988015,
@@ -2158,7 +2158,7 @@
    :latitude 35.238275317983636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36665",
-   :locality "Amarillo"}
+   :location "Amarillo"}
   {:name "Half-Moon Lagoon Disc Golf Course",
    :longitude -90.012805,
    :latitude 43.5360902,
@@ -2226,7 +2226,7 @@
    :latitude 38.82161154967713,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39856",
-   :locality "Gallipolis"}
+   :location "Gallipolis"}
   {:name "Hawley Jaycees DGC",
    :longitude -96.3106691,
    :latitude 46.8751767,
@@ -2236,31 +2236,31 @@
    :latitude 38.86895450099908,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27352",
-   :locality "Lee's Summit"}
+   :location "Lee's Summit"}
   {:name "Heckscher State Park",
    :longitude -73.17378606496719,
    :latitude 40.710480062534515,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/11449",
-   :locality "East Islip"}
+   :location "East Islip"}
   {:name "Heckscher State Park Alternate Layouts",
    :longitude -73.17451880546535,
    :latitude 40.710633042959074,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14551",
-   :locality "East Islip"}
+   :location "East Islip"}
   {:name "Heilmann Park",
    :longitude -120.64545634465115,
    :latitude 35.47834654680153,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34088",
-   :locality "Atascadero"}
+   :location "Atascadero"}
   {:name "Heilmann regional park",
    :longitude -120.64572636586028,
    :latitude 35.478022918028685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14983",
-   :locality "Atascadero"}
+   :location "Atascadero"}
   {:name "Henry Horton Disc Golf",
    :longitude -86.6911371,
    :latitude 35.5867001,
@@ -2270,31 +2270,31 @@
    :latitude 35.38815282300652,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42253",
-   :locality "bakersfield"}
+   :location "bakersfield"}
   {:name "Heritage park",
    :longitude -80.20148006031405,
    :latitude 25.759073107576967,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18761",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Heritage Park",
    :longitude -87.9624229634743,
    :latitude 41.617556632178406,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22774",
-   :locality "Homer Glen"}
+   :location "Homer Glen"}
   {:name "Heritage park",
    :longitude -119.77258811278149,
    :latitude 36.31143190940159,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36493",
-   :locality "Lemoore"}
+   :location "Lemoore"}
   {:name "Heritage Pines",
    :longitude -83.80841550739984,
    :latitude 33.82411161671887,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36524",
-   :locality "Monroe"}
+   :location "Monroe"}
   {:name "Hermiston Desert Disc Golf",
    :longitude -119.3164531,
    :latitude 45.8479633,
@@ -2448,13 +2448,13 @@
    :longitude -86.0939741,
    :latitude 43.4175176,
    :source :openstreetmap,
-   :locality "Holton"}
+   :location "Holton"}
   {:name "Homestead Air Reserve Park",
    :longitude -80.39052968982422,
    :latitude 25.51527940954354,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21798",
-   :locality "Homestead"}
+   :location "Homestead"}
   {:name "Hoover Park Disc Golf Course",
    :longitude -122.9683909,
    :latitude 45.2994911,
@@ -2480,7 +2480,7 @@
    :latitude 33.699014879221835,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37631",
-   :locality "Huntington Beach"}
+   :location "Huntington Beach"}
   {:name "Hustisford School DGC",
    :longitude -88.6059389,
    :latitude 43.3373647,
@@ -2498,13 +2498,13 @@
    :latitude 25.691891949180004,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31195",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Indian Hammocks Club54",
    :longitude -80.37790638401661,
    :latitude 25.69291467566427,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32357",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Indian Rock",
    :longitude -82.3932521,
    :latitude 38.4171149,
@@ -2522,13 +2522,13 @@
    :latitude 33.93673203821605,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23023",
-   :locality "Winfield"}
+   :location "Winfield"}
   {:name "Iwen Park",
    :longitude -96.79993477298335,
    :latitude 46.803053465016916,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21165",
-   :locality "Fargo"}
+   :location "Fargo"}
   {:name "Iwen Park",
    :longitude -96.8031228,
    :latitude 46.8037389,
@@ -2555,7 +2555,7 @@
    :latitude 39.323581632627366,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26825",
-   :locality "Vienna"}
+   :location "Vienna"}
   {:name "Jade Trace",
    :longitude -71.4908861,
    :latitude 43.5735313,
@@ -2582,7 +2582,7 @@
    :latitude 42.86097235708081,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27023",
-   :locality "Grand Rapids"}
+   :location "Grand Rapids"}
   {:name "Jaycee Disc Golf Course",
    :longitude -104.4312686,
    :latitude 32.8244358,
@@ -2608,7 +2608,7 @@
    :latitude 33.99767882472631,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18657",
-   :locality "Kure Beach"}
+   :location "Kure Beach"}
   {:name "Joel Fletcher Armstrong Memorial Disc Golf Course",
    :longitude -149.4555841,
    :latitude 61.404084,
@@ -2622,12 +2622,12 @@
    :latitude 42.67417017270816,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33016",
-   :locality "Rupert"}
+   :location "Rupert"}
   {:name "John G. Lancaster Park",
    :longitude -76.4449413,
    :latitude 38.2604897,
    :source :openstreetmap,
-   :locality "Lexington Park"}
+   :location "Lexington Park"}
   {:name "Johnson Park Disc Golf Course",
    :longitude -89.3648468,
    :latitude 43.1041988,
@@ -2649,7 +2649,7 @@
    :latitude 25.69255919683046,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37625",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "K1 A 1 - 18, K2 1 - 6, 18",
    :longitude -80.36740206274756,
    :latitude 25.691991665575358,
@@ -2660,25 +2660,25 @@
    :latitude 25.694969698789095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18746",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "K2 Covid-19 Layout",
    :longitude -80.37263978519734,
    :latitude 25.6962326519576,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18932",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "K3 Long Covid-19 Layout ",
    :longitude -80.37079997309371,
    :latitude 25.6957126509202,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19747",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kaleb Kitchens",
    :longitude -86.02819928322812,
    :latitude 36.523552842220994,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31813",
-   :locality "Lafayette"}
+   :location "Lafayette"}
   {:name "Kaposia Disc Golf Course",
    :longitude -93.0637254,
    :latitude 44.9075008,
@@ -2688,7 +2688,7 @@
    :latitude 39.345446996816065,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27284",
-   :locality "Athens"}
+   :location "Athens"}
   {:name "Karohl Park",
    :longitude -84.0409542,
    :latitude 39.7417543,
@@ -2706,73 +2706,73 @@
    :latitude 25.694950332995617,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46577",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks Big Chief",
    :longitude -80.37259905700826,
    :latitude 25.69493239905961,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41991",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks K2 old",
    :longitude -80.37273268739324,
    :latitude 25.695709213015547,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17804",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks K3 old",
    :longitude -80.37737743060092,
    :latitude 25.691517988031904,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27102",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks Park K1",
    :longitude -80.37055629844153,
    :latitude 25.693795185596528,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17770",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks Park K1 - New 2023",
    :longitude -80.37177151220142,
    :latitude 25.69454434812029,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33007",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks Park K2 new",
    :longitude -80.37220559064738,
    :latitude 25.69501896032105,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32017",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks Park K3 new",
    :longitude -80.37824481809677,
    :latitude 25.692635998097742,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32003",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kendall Indian Hammocks Park K4",
    :longitude -80.37324100401787,
    :latitude 25.6952092274327,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22269",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Kenneth Hahn State Rec. Area Disc Golf Course",
    :longitude -118.3625008084,
    :latitude 34.007574005732,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34558",
-   :locality "Los Angeles"}
+   :location "Los Angeles"}
   {:name "Kenneth J. Sims Park",
    :longitude -81.52147702957768,
    :latitude 41.615689444139775,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14694",
-   :locality "Euclid"}
+   :location "Euclid"}
   {:name "Kensington metroparks - Black Locust",
    :longitude -83.63522128984248,
    :latitude 42.52622183183158,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14709",
-   :locality "Milford"}
+   :location "Milford"}
   {:name "Kensington Toboggan Course",
    :longitude -83.6447843,
    :latitude 42.5406067,
@@ -2787,19 +2787,19 @@
    :latitude 35.77574856876814,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17611",
-   :locality "Raleigh"}
+   :location "Raleigh"}
   {:name "KenWood Trails Masters  2025",
    :longitude -93.06671609397124,
    :latitude 46.385594517293896,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43723",
-   :locality "Saint Paul"}
+   :location "Saint Paul"}
   {:name "KERN RIVER PARKWAY DG COURSE",
    :longitude -119.0685397076038,
    :latitude 35.36564721436277,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33482",
-   :locality "Bakersfield"}
+   :location "Bakersfield"}
   {:name "Key Largo 9 Hole Twice",
    :longitude -80.43826884997279,
    :latitude 25.092773032073055,
@@ -2810,7 +2810,7 @@
    :latitude 25.092820915982543,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26855",
-   :locality "Key Largo"}
+   :location "Key Largo"}
   {:name "Kickapoo Disc Golf",
    :longitude -87.7372742,
    :latitude 40.1387423,
@@ -2820,7 +2820,7 @@
    :latitude 25.693995172043657,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25695",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Killingworth Recreational Park Disc Golf",
    :longitude -72.5373395,
    :latitude 41.4064822,
@@ -2830,7 +2830,7 @@
    :latitude 42.305082595836126,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19257",
-   :locality "Battle Creek"}
+   :location "Battle Creek"}
   {:name "Kimberly High School Disc Golf Course",
    :longitude -88.3198742,
    :latitude 44.2601708,
@@ -2844,7 +2844,7 @@
    :latitude 39.10026604446011,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14168",
-   :locality "Millersville"}
+   :location "Millersville"}
   {:name "Kingston Springs Disc Golf Course",
    :longitude -87.1082117,
    :latitude 36.1027574,
@@ -2866,7 +2866,7 @@
    :latitude 40.65763928409791,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25182",
-   :locality "Wexford"}
+   :location "Wexford"}
   {:name "Knoch Knolls Disc Golf Course",
    :longitude -88.1448091,
    :latitude 41.7113922,
@@ -2884,7 +2884,7 @@
    :latitude 20.23738976809456,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24249",
-   :locality "Kapaau"}
+   :location "Kapaau"}
   {:name "Kraxberger Middle School Disc Golf Course",
    :longitude -122.587073,
    :latitude 45.3958065,
@@ -2903,7 +2903,7 @@
    :latitude 33.83263110996812,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26759",
-   :locality "Anaheim"}
+   :location "Anaheim"}
   {:name "La Plata City Disc Golf Course",
    :longitude -92.4300602,
    :latitude 40.015929,
@@ -2913,7 +2913,7 @@
    :latitude 37.2769159,
    :source :openstreetmap,
    :homepage "https://www.svdgc.org/de-la-raza-disc-golf-course",
-   :locality "San Jose"}
+   :location "San Jose"}
   {:name "LaBenite Park Disc Golf Course",
    :longitude -94.3915054,
    :latitude 39.1646803,
@@ -2931,7 +2931,7 @@
    :latitude 42.053354955689514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33683",
-   :locality "Cement City"}
+   :location "Cement City"}
   {:name "Lafayette Park Disc Golf Course",
    :longitude -76.280317,
    :latitude 36.8770774,
@@ -2941,19 +2941,19 @@
    :latitude 35.26182780470488,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14964",
-   :locality "San Luis Obispo"}
+   :location "San Luis Obispo"}
   {:name "Lake Corriher Disc Golf Course",
    :longitude -80.60777430571785,
    :latitude 35.56397161240049,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37519",
-   :locality "China Grove"}
+   :location "China Grove"}
   {:name "Lake Eureka - Birdie Discgolf",
    :longitude -89.01111982342428,
    :latitude 40.143491057037465,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21713",
-   :locality "Clinton"}
+   :location "Clinton"}
   {:name "Lake Fenwick Disc Golf Course",
    :longitude -122.2758058,
    :latitude 47.3682389,
@@ -2963,12 +2963,12 @@
    :latitude 47.190026580894965,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35901",
-   :locality "Lake Linden"}
+   :location "Lake Linden"}
   {:name "Lake Marshall Disc Golf Course",
    :longitude -76.7415462,
    :latitude 38.0568691,
    :source :openstreetmap,
-   :locality "Montross"}
+   :location "Montross"}
   {:name "Lake Montebello Disc Golf Course",
    :longitude -76.5802684,
    :latitude 39.3358534,
@@ -2982,7 +2982,7 @@
    :latitude 48.01524983758364,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19829",
-   :locality "Lake Stevens"}
+   :location "Lake Stevens"}
   {:name "Lake Storey Disc Golf Course",
    :longitude -90.3889313,
    :latitude 40.9892516,
@@ -2992,13 +2992,13 @@
    :latitude 42.673540209892536,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32364",
-   :locality "Rupert"}
+   :location "Rupert"}
   {:name "lakeside disc golf course",
    :longitude -97.65232665901407,
    :latitude 38.37205246319715,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37536",
-   :locality "McPherson"}
+   :location "McPherson"}
   {:name "Lakeside Hills Disc Golf Course",
    :longitude -94.8654289,
    :latitude 38.8739508,
@@ -3016,7 +3016,7 @@
    :latitude 37.09169764281127,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26032",
-   :locality "Joplin"}
+   :location "Joplin"}
   {:name "Landreth Park Disc Golf Course",
    :longitude -94.5083395,
    :latitude 37.0973694,
@@ -3039,7 +3039,7 @@
    :longitude -99.5158698,
    :latitude 27.5052795,
    :source :openstreetmap,
-   :locality "Laredo"}
+   :location "Laredo"}
   {:name "Lawrence Park Disc Golf Course",
    :longitude -114.314163,
    :latitude 48.2108894,
@@ -3049,13 +3049,13 @@
    :latitude 38.020339651769795,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6433",
-   :locality "Lawrenceburg"}
+   :location "Lawrenceburg"}
   {:name "Lawrenceburg City Park DGC",
    :longitude -84.90594993747102,
    :latitude 38.02019416881464,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17976",
-   :locality "Lawrenceburg"}
+   :location "Lawrenceburg"}
   {:name "Lawson City Disc Golf Course",
    :longitude -94.2044531,
    :latitude 39.4560495,
@@ -3069,7 +3069,7 @@
    :latitude 38.94286325673809,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27353",
-   :locality "Lee's Summit"}
+   :location "Lee's Summit"}
   {:name "Leif Erickson Disc Golf Course",
    :longitude -96.3975495,
    :latitude 42.5221778,
@@ -3083,7 +3083,7 @@
    :latitude 41.618847169455364,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30223",
-   :locality "Leland"}
+   :location "Leland"}
   {:name "Lewis Wetzel Park Disc Golf Course",
    :longitude -80.848278,
    :latitude 39.6789437,
@@ -3105,7 +3105,7 @@
    :latitude 47.40330576502777,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46026",
-   :locality "Wenatchee"}
+   :location "Wenatchee"}
   {:name "Lincoln Park Disc Golf Course",
    :longitude -94.7173782,
    :latitude 37.4165449,
@@ -3115,7 +3115,7 @@
    :latitude 31.063037513648283,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29471",
-   :locality "Temple"}
+   :location "Temple"}
   {:name "Lions Park Chatfield",
    :longitude -92.75779252886417,
    :latitude 44.025070756316495,
@@ -3134,7 +3134,7 @@
    :latitude 35.22706640579672,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24382",
-   :locality "Norman"}
+   :location "Norman"}
   {:name "Live Oak Disc Golf Course",
    :longitude -97.6597101,
    :latitude 30.2218106,
@@ -3166,20 +3166,20 @@
    :latitude 37.28915549766364,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22348",
-   :locality "Farmville"}
+   :location "Farmville"}
   {:name "Loretto Disc Golf Park",
    :longitude -87.55834992828288,
    :latitude 35.007204242236156,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34026",
-   :locality "Loretto"}
+   :location "Loretto"}
   {:name "Louisa Disc Golf Course",
    :longitude -77.9735773,
    :latitude 38.0137197,
    :source :openstreetmap,
    :homepage
    "https://www.louisacounty.gov/Facilities/Facility/Details/-30",
-   :locality "Louisa"}
+   :location "Louisa"}
   {:name "Louisa Lake DiscGolfPark",
    :longitude -71.5203953,
    :latitude 42.1570675,
@@ -3194,13 +3194,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.warsaw.in.gov/Facilities/Facility/Details/50",
-   :locality "Warsaw"}
+   :location "Warsaw"}
   {:name "Lucy Park",
    :longitude -98.51516896722741,
    :latitude 33.917360435281424,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27090",
-   :locality "Wichita Falls"}
+   :location "Wichita Falls"}
   {:name "Ludington Park Disc Golf",
    :longitude -87.0527381,
    :latitude 45.739391,
@@ -3215,13 +3215,13 @@
    :latitude 43.519729027272575,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32875",
-   :locality "Boise"}
+   :location "Boise"}
   {:name "LZ discgolf park",
    :longitude -85.87049721398726,
    :latitude 31.348729909110205,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38715",
-   :locality "Enterprise"}
+   :location "Enterprise"}
   {:name "Macatawa Greenspace Disc Golf Course",
    :longitude -86.051724,
    :latitude 42.798675,
@@ -3231,7 +3231,7 @@
    :latitude 39.00627686616011,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21755",
-   :locality "Peru"}
+   :location "Peru"}
   {:name "MadMando Discs",
    :longitude -89.4978945,
    :latitude 43.0321681,
@@ -3254,7 +3254,7 @@
    :latitude 42.275910308037,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35485",
-   :locality "Leicester"}
+   :location "Leicester"}
   {:name "Maple Ridge Disc Golf",
    :longitude -67.9519378,
    :latitude 46.5737245,
@@ -3269,13 +3269,13 @@
    :latitude 45.09065687225845,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29645",
-   :locality "Marinette"}
+   :location "Marinette"}
   {:name "Markham ",
    :longitude -80.34851463822618,
    :latitude 26.12893535977932,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19645",
-   :locality "Fort Lauderdale"}
+   :location "Fort Lauderdale"}
   {:name "Marquette Heights Disc Golf Course",
    :longitude -89.608237,
    :latitude 40.6193841,
@@ -3313,18 +3313,18 @@
    :latitude 41.68825181042371,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22650",
-   :locality "Newton"}
+   :location "Newton"}
   {:name "McAllen Disc Golf Course",
    :longitude -98.2681568,
    :latitude 26.1805506,
    :source :openstreetmap,
-   :locality "McAllen"}
+   :location "McAllen"}
   {:name "McClain",
    :longitude -98.3935388482575,
    :latitude 29.5889103919704,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14311",
-   :locality "San Antonio"}
+   :location "San Antonio"}
   {:name "McCormick Park Disc Golf Course",
    :longitude -122.8190336,
    :latitude 45.8511871,
@@ -3334,7 +3334,7 @@
    :latitude 40.206181804651976,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23026",
-   :locality "Muncie"}
+   :location "Muncie"}
   {:name "McFarland Park Disc Golf Course",
    :longitude -87.6772681,
    :latitude 34.7874275,
@@ -3344,13 +3344,13 @@
    :latitude 40.283903134885634,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22784",
-   :locality "Cambridge"}
+   :location "Cambridge"}
   {:name "Meadow Creek Gardens and Disc Golf Course",
    :longitude -78.4043095,
    :latitude 38.055467,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/8758",
-   :locality "Charlottesville"}
+   :location "Charlottesville"}
   {:name "Meadow Creek Gardens Disc Golf Course",
    :longitude -78.4919237,
    :latitude 38.0558499,
@@ -3365,19 +3365,19 @@
    :latitude 35.1356666975379,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36853",
-   :locality "Tehachapi"}
+   :location "Tehachapi"}
   {:name "Medal Of Honor (Cottage Hill Park)",
    :longitude -88.18586244179464,
    :latitude 30.654272573113758,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31143",
-   :locality "Mobile"}
+   :location "Mobile"}
   {:name "Meeks",
    :longitude -83.92180908798973,
    :latitude 34.86356129755805,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30519",
-   :locality "Blairsville"}
+   :location "Blairsville"}
   {:name "Memorial Park Disc Golf Course",
    :longitude -122.755394,
    :latitude 45.2979275,
@@ -3387,7 +3387,7 @@
    :latitude 40.261791221862154,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21566",
-   :locality "Robbinsville"}
+   :location "Robbinsville"}
   {:name "Metzler Park Disc Golf Course",
    :longitude -122.3655161,
    :latitude 45.228797,
@@ -3397,13 +3397,13 @@
    :latitude 41.944327336859885,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32759",
-   :locality "Three Rivers"}
+   :location "Three Rivers"}
   {:name "Michigan tech disc golf",
    :longitude -88.55235720733106,
    :latitude 47.11654111299734,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41630",
-   :locality "Houghton"}
+   :location "Houghton"}
   {:name "Middle Creek Disc Golf Course",
    :longitude -78.764144,
    :latitude 35.6642103,
@@ -3423,7 +3423,7 @@
    :latitude 39.55929770156928,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37296",
-   :locality "Churchville"}
+   :location "Churchville"}
   {:name "Miller Park Disc Golf Course",
    :longitude -84.1220846,
    :latitude 36.9420207,
@@ -3446,7 +3446,7 @@
    :latitude 38.92840298288533,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27339",
-   :locality "Peebles"}
+   :location "Peebles"}
   {:name "Mineral Springs Park Disc Golf Course",
    :longitude -122.3368614,
    :latitude 47.7056676,
@@ -3456,13 +3456,13 @@
    :latitude 42.37249075293897,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38303",
-   :locality "Johnsburg"}
+   :location "Johnsburg"}
   {:name "Minnippi Parklands Disc Golf Course ",
    :longitude 153.11046385777894,
    :latitude -27.481252375473602,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35914",
-   :locality "Brisbane"}
+   :location "Brisbane"}
   {:name "MLK Park Disc Golf",
    :longitude -92.4410788,
    :latitude 44.0225219,
@@ -3472,7 +3472,7 @@
    :latitude 45.48593920723556,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36055",
-   :locality "Becker"}
+   :location "Becker"}
   {:name "Monster Disc Golf Course",
    :longitude -83.9066567,
    :latitude 42.3804035,
@@ -3482,13 +3482,13 @@
    :latitude 39.184610667892116,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41233",
-   :locality "Montgomery Village"}
+   :location "Montgomery Village"}
   {:name "Montiel Park",
    :longitude -117.11381118471527,
    :latitude 33.131246385338514,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25004",
-   :locality "San Marcos"}
+   :location "San Marcos"}
   {:name "Moore Township Disc Golf Course",
    :longitude -75.4082198,
    :latitude 40.7710043,
@@ -3520,7 +3520,7 @@
    :latitude 33.578946547958736,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36284",
-   :locality "Murrieta"}
+   :location "Murrieta"}
   {:name "Mountain View Disc Golf Course",
    :longitude -105.1946483,
    :latitude 38.7369317,
@@ -3556,7 +3556,7 @@
    :latitude 29.524261634263212,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38333",
-   :locality "San Antonio"}
+   :location "San Antonio"}
   {:name "Nantucket Disc Golf Course",
    :longitude -70.0800026,
    :latitude 41.2609298,
@@ -3570,7 +3570,7 @@
    :latitude 36.16612393826361,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36611",
-   :locality "Nashville"}
+   :location "Nashville"}
   {:name "Nelson Acres Disc Golf Coarse",
    :longitude -80.4810842,
    :latitude 36.3995974,
@@ -3588,7 +3588,7 @@
    :latitude 30.231273444906066,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21605",
-   :locality "Jacksonville"}
+   :location "Jacksonville"}
   {:name "New York Disc Golf Supply",
    :longitude -73.6941853,
    :latitude 42.7297399,
@@ -3617,13 +3617,13 @@
    :longitude -99.474755,
    :latitude 27.5996562,
    :source :openstreetmap,
-   :locality "Laredo"}
+   :location "Laredo"}
   {:name "North Charlotte Regional Park",
    :longitude -82.17818964755567,
    :latitude 27.013399443236736,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26507",
-   :locality "Port Charlotte"}
+   :location "Port Charlotte"}
   {:name "North Disc Golf Course",
    :longitude -85.6761181,
    :latitude 41.9385662,
@@ -3665,7 +3665,7 @@
    :latitude 44.849983,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43387",
-   :locality "Dakota"}
+   :location "Dakota"}
   {:name "Northeast Coachman Park Disc Golf Course",
    :longitude -82.7372096,
    :latitude 27.9763767,
@@ -3681,7 +3681,7 @@
    :latitude 29.469666157350062,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38054",
-   :locality "San Antonio"}
+   :location "San Antonio"}
   {:name "Northwood Black",
    :longitude -89.4460848,
    :latitude 40.6496935,
@@ -3708,7 +3708,7 @@
    :latitude 46.88095226815443,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21160",
-   :locality "Fargo"}
+   :location "Fargo"}
   {:name "Oak Grove Regional Park - Gold Course",
    :longitude -121.3668703,
    :latitude 38.0548516,
@@ -3723,7 +3723,7 @@
    :longitude -72.527596,
    :latitude 42.6414896,
    :source :openstreetmap,
-   :locality "Gill"}
+   :location "Gill"}
   {:name "Oak Ridge Park Disc Golf Course",
    :longitude -74.3451246,
    :latitude 40.6061169,
@@ -3733,13 +3733,13 @@
    :latitude 44.835973428784854,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37501",
-   :locality "Cottage Grove"}
+   :location "Cottage Grove"}
   {:name "Ohio University ",
    :longitude -82.10038575240182,
    :latitude 39.3208761819439,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28379",
-   :locality "Athens"}
+   :location "Athens"}
   {:name "Okeeheelee DGC",
    :longitude -80.1644612,
    :latitude 26.659988,
@@ -3753,13 +3753,13 @@
    :latitude 42.875859199275936,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27028",
-   :locality "Grand Rapids"}
+   :location "Grand Rapids"}
   {:name "Old Ranch Park ",
    :longitude -121.9196068243981,
    :latitude 37.73589046459759,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21385",
-   :locality "San Ramon"}
+   :location "San Ramon"}
   {:name "Old Town Disc Golf Course",
    :longitude -87.6186866,
    :latitude 46.4993801,
@@ -3782,31 +3782,31 @@
    :latitude 42.18522212954895,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35913",
-   :locality "Afton"}
+   :location "Afton"}
   {:name "Orange Crush",
    :longitude -80.14066020762199,
    :latitude 39.45997307865758,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34752",
-   :locality "Fairmont"}
+   :location "Fairmont"}
   {:name "OrangeBrook ",
    :longitude -80.1708043568386,
    :latitude 26.00228088515297,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19565",
-   :locality "Hollywood"}
+   :location "Hollywood"}
   {:name "Orchard disc golf course",
    :longitude -97.87874508895396,
    :latitude 38.098970480726024,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39736",
-   :locality "Hutchinson"}
+   :location "Hutchinson"}
   {:name "Oregon Park",
    :longitude -84.66173487072469,
    :latitude 33.958702589965185,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13986",
-   :locality "Marietta"}
+   :location "Marietta"}
   {:name "Original Disc Golf Course",
    :longitude -83.9096876,
    :latitude 42.3738247,
@@ -3821,7 +3821,7 @@
    :latitude 42.05274238629542,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27054",
-   :locality "Kalamazoo"}
+   :location "Kalamazoo"}
   {:name "Oshtemo Township Park Disc Golf Course",
    :longitude -85.6942604,
    :latitude 42.2935181,
@@ -3831,7 +3831,7 @@
    :latitude 43.9025563,
    :source :openstreetmap,
    :homepage "https://pinelandfarms.org/recreation/",
-   :locality "New Gloucester"}
+   :location "New Gloucester"}
   {:name "Owens Field Disk Golf Course",
    :longitude -80.9999472,
    :latitude 33.9792044,
@@ -3873,7 +3873,7 @@
    :latitude 25.60133712098309,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17842",
-   :locality "Palmetto Bay"}
+   :location "Palmetto Bay"}
   {:name "Palomino Park Disc Golf",
    :longitude -104.9161734,
    :latitude 39.5590507,
@@ -3891,19 +3891,19 @@
    :latitude 32.881163803590425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21602",
-   :locality "North Charleston"}
+   :location "North Charleston"}
   {:name "Park Hill Disc Golf Course",
    :longitude -121.40595579975732,
    :latitude 36.85554990963307,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35797",
-   :locality "Hollister"}
+   :location "Hollister"}
   {:name "Parkway DGC",
    :longitude -85.42668669769975,
    :latitude 37.797191521058565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37491",
-   :locality "Bardstown"}
+   :location "Bardstown"}
   {:name "Parma Disc Golf",
    :longitude -81.717616,
    :latitude 41.3915982,
@@ -3926,13 +3926,13 @@
    :latitude 31.142978658020652,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26756",
-   :locality "Hattiesburg"}
+   :location "Hattiesburg"}
   {:name "Paulina Views",
    :longitude -121.52406106756588,
    :latitude 43.66829259419825,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23757",
-   :locality "La Pine"}
+   :location "La Pine"}
   {:name "Peak One Disc Golf Course",
    :longitude -106.0776122,
    :latitude 39.5771635,
@@ -3944,7 +3944,7 @@
    :latitude 37.42268291561669,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25056",
-   :locality "Lynchburg"}
+   :location "Lynchburg"}
   {:name "Pearsall Park Disc Golf Course",
    :longitude -98.5950411,
    :latitude 29.3545784,
@@ -3954,14 +3954,14 @@
    :latitude 33.664487947625204,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26581",
-   :locality "Sherman"}
+   :location "Sherman"}
   {:name "Pelican Ponds Open Space",
    :longitude -104.9289683,
    :latitude 39.8643338,
    :source :openstreetmap,
    :homepage
    "https://adamscountyco.gov/our-county/parks-open-space-cultural-arts/parks-open-space-trails/pelican-ponds-open-space/",
-   :locality "Thornton"}
+   :location "Thornton"}
   {:name "Pendleton King 18 Hole Disc Golf Course",
    :longitude -82.0142434,
    :latitude 33.4600868,
@@ -3971,7 +3971,7 @@
    :latitude 41.67311205190592,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27446",
-   :locality "Iowa City"}
+   :location "Iowa City"}
   {:name "Penn State Behrend Disk Golf",
    :longitude -79.981553,
    :latitude 42.1217893,
@@ -3993,25 +3993,25 @@
    :latitude 33.71326600980723,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13996",
-   :locality "Atlanta"}
+   :location "Atlanta"}
   {:name "Perkerson Park",
    :longitude -84.413130608597,
    :latitude 33.71207208096982,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21582",
-   :locality "Atlanta"}
+   :location "Atlanta"}
   {:name "PGA National",
    :longitude -80.13824771128948,
    :latitude 26.812066493812324,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22088",
-   :locality "Palm Beach Gardens"}
+   :location "Palm Beach Gardens"}
   {:name "Picnic Island Discgolf Course",
    :longitude -82.55227664722388,
    :latitude 27.853578849703126,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43931",
-   :locality "Tampa "}
+   :location "Tampa "}
   {:name "Picuris Pueblo Disc Golf Course (27 Holes)",
    :longitude -105.7151923,
    :latitude 36.1949142,
@@ -4021,7 +4021,7 @@
    :latitude 45.60333430357585,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21543",
-   :locality "Portland"}
+   :location "Portland"}
   {:name "Pinecreat CC DGC",
    :longitude -79.1554353,
    :latitude 41.1715532,
@@ -4031,7 +4031,7 @@
    :latitude 32.295289609900976,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46631",
-   :locality "Guyton"}
+   :location "Guyton"}
   {:name "Piney Woods Disc Golf Course",
    :longitude -82.3047251,
    :latitude 32.5863928,
@@ -4045,13 +4045,13 @@
    :latitude 42.05909407601533,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23218",
-   :locality "Torrington"}
+   :location "Torrington"}
   {:name "Pioneer Park Disc golf course ",
    :longitude -120.70274820639796,
    :latitude 38.60726173973248,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37409",
-   :locality "Somerset"}
+   :location "Somerset"}
   {:name "Pioneer Park Disc Golf Course",
    :longitude -108.5272679,
    :latitude 45.7879976,
@@ -4080,7 +4080,7 @@
    :longitude -87.7850123,
    :latitude 42.7357514,
    :source :openstreetmap,
-   :locality "Racine"}
+   :location "Racine"}
   {:name "Plantation Heritage B  - White Pads",
    :longitude -80.22643300638099,
    :latitude 26.107477558588485,
@@ -4091,7 +4091,7 @@
    :latitude 35.0872491,
    :source :openstreetmap,
    :homepage "https://www.playdiscgolf505.com/",
-   :locality "Albuquerque"}
+   :location "Albuquerque"}
   {:name "Pleasant Grove Disc Golf course",
    :longitude -78.2852124,
    :latitude 37.8721554,
@@ -4118,7 +4118,7 @@
    :latitude 42.750286385064015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34194",
-   :locality "Port Orford"}
+   :location "Port Orford"}
   {:name "Porter Park Disc Golf Course",
    :longitude -88.9903531,
    :latitude 42.3917074,
@@ -4144,7 +4144,7 @@
    :latitude 39.3667603,
    :source :openstreetmap,
    :homepage "https://elizabethpr.com/prickly-pines-disc-golf",
-   :locality "Elizabeth"}
+   :location "Elizabeth"}
   {:name "Prince Gallitzin DGC",
    :longitude -78.5419508,
    :latitude 40.6670729,
@@ -4179,7 +4179,7 @@
    :latitude 42.2740515368784,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35798",
-   :locality "Leicester"}
+   :location "Leicester"}
   {:name "Quaker's Challenge Disc Golf",
    :longitude -76.8959941,
    :latitude 40.0755398,
@@ -4192,13 +4192,13 @@
    :longitude -69.767851,
    :latitude 44.2942759,
    :source :openstreetmap,
-   :locality "Augusta"}
+   :location "Augusta"}
   {:name "Quiet Waters",
    :longitude -80.15676793571741,
    :latitude 26.31252293274902,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30278",
-   :locality "Deerfield Beach"}
+   :location "Deerfield Beach"}
   {:name "Rabbit Flats Disc Golf Course",
    :longitude -118.8753501,
    :latitude 34.213979,
@@ -4227,7 +4227,7 @@
    :latitude 25.22194370890483,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30698",
-   :locality "Miami"}
+   :location "Miami"}
   {:name "Rathdrum Mountain Disc Golf Course",
    :longitude -116.9028871,
    :latitude 47.8248289,
@@ -4240,13 +4240,13 @@
    :longitude -123.9372892,
    :latitude 44.6257198,
    :source :openstreetmap,
-   :locality "Toledo"}
+   :location "Toledo"}
   {:name "Red Mesa Rim DGC",
    :longitude -111.43602777612197,
    :latitude 36.88288404651742,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42607",
-   :locality "Page"}
+   :location "Page"}
   {:name "Red Mountain North",
    :longitude -111.6663075,
    :latitude 33.4347485,
@@ -4276,7 +4276,7 @@
    :latitude 39.14059680527791,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41460",
-   :locality "Derwood"}
+   :location "Derwood"}
   {:name "Reserve at Park Place",
    :longitude -89.359566759747,
    :latitude 31.330071215654115,
@@ -4317,7 +4317,7 @@
    :latitude 45.06103574927991,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27573",
-   :locality "Minneapolis"}
+   :location "Minneapolis"}
   {:name "Riverfront Park Disc Golf Course",
    :longitude -95.2391714,
    :latitude 39.0025586,
@@ -4331,7 +4331,7 @@
    :latitude 43.01153325321533,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27034",
-   :locality "Grand Rapids"}
+   :location "Grand Rapids"}
   {:name "Riverside Disc Golf Course",
    :longitude -122.2143576,
    :latitude 47.1855994,
@@ -4361,13 +4361,13 @@
    :latitude 41.51791915406051,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15085",
-   :locality "Valparaiso "}
+   :location "Valparaiso "}
   {:name "Rollin Ridge Disc Golf",
    :longitude -87.9906014,
    :latitude 44.1628188,
    :source :openstreetmap,
    :homepage "https://www.rollinridge.com",
-   :locality "Reedsville"}
+   :location "Reedsville"}
   {:name "Rolling A Disk Golf Course",
    :longitude -119.5270654,
    :latitude 39.2847489,
@@ -4376,7 +4376,7 @@
    :longitude -83.6528545,
    :latitude 42.1767698,
    :source :openstreetmap,
-   :locality "Ypsilanti Township"}
+   :location "Ypsilanti Township"}
   {:name "Rolling Hills Park",
    :longitude -99.3340092,
    :latitude 38.8987142,
@@ -4408,13 +4408,13 @@
    :latitude 44.88568382886274,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24105",
-   :locality "Minneapolis"}
+   :location "Minneapolis"}
   {:name "Rotary Park",
    :longitude -97.29977395414213,
    :latitude 36.283990608141394,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30181",
-   :locality "Perry"}
+   :location "Perry"}
   {:name "Rotary Park",
    :longitude -120.34812858879934,
    :latitude 47.44267330079862,
@@ -4431,7 +4431,7 @@
    :latitude 47.44255148441067,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46025",
-   :locality "Washington"}
+   :location "Washington"}
   {:name "Roy G. Guerrero Disc Golf Course",
    :longitude -97.7083902,
    :latitude 30.24704,
@@ -4446,26 +4446,26 @@
    :source :openstreetmap,
    :homepage
    "https://www.jasperindiana.gov/topic/subtopic.php?topicid=142",
-   :locality "Jasper"}
+   :location "Jasper"}
   {:name "Ryan Ranch Disc Golf Course",
    :longitude -121.8227401,
    :latitude 36.5812084,
    :source :openstreetmap,
    :homepage
    "https://www.pdga.com/course-directory/course/ryan-ranch-disc-golf-course",
-   :locality "Monterey"}
+   :location "Monterey"}
   {:name "Sabattus Disc Golf",
    :longitude -70.0324373022393,
    :latitude 44.0548236202757,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18053",
-   :locality "Sabattus"}
+   :location "Sabattus"}
   {:name "Sabattus-Falcon",
    :longitude -70.04664695270482,
    :latitude 44.063165637382326,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33661",
-   :locality "Sabattus"}
+   :location "Sabattus"}
   {:name "SAGEBRUSH FLATS",
    :longitude -112.47028,
    :latitude 45.89278,
@@ -4522,7 +4522,7 @@
    :longitude -76.295709,
    :latitude 39.6360075,
    :source :openstreetmap,
-   :locality "Street"}
+   :location "Street"}
   {:name "Scenic Vista",
    :longitude -80.8185899,
    :latitude 40.7360145,
@@ -4548,7 +4548,7 @@
    :latitude 39.98145385192595,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14160",
-   :locality "Philadelphia"}
+   :location "Philadelphia"}
   {:name "Seneca Creek Disc Golf Area",
    :longitude -77.2609916,
    :latitude 39.1353151,
@@ -4560,19 +4560,19 @@
    :latitude 39.45957131711367,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34743",
-   :locality "Fairmont"}
+   :location "Fairmont"}
   {:name "Seven Oaks",
    :longitude -86.6983039836722,
    :latitude 36.109204480587636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29436",
-   :locality "Nashville"}
+   :location "Nashville"}
   {:name "Seymour lake park",
    :longitude -83.32295253777845,
    :latitude 42.81972383374381,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27048",
-   :locality "Oxford"}
+   :location "Oxford"}
   {:name "Shank Park Disc Golf",
    :longitude -76.6749727,
    :latitude 40.2480776,
@@ -4590,7 +4590,7 @@
    :latitude 39.41913547222518,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26282",
-   :locality "Shelbyville"}
+   :location "Shelbyville"}
   {:name "Shernado Park Disc Golf Course",
    :longitude -78.1794795,
    :latitude 39.0805209,
@@ -4604,13 +4604,13 @@
    :latitude 37.98788808367894,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19803",
-   :locality "Lexington"}
+   :location "Lexington"}
   {:name "Shipwreck Bluffs At Lake Erie State Park",
    :longitude -79.43083528697706,
    :latitude 42.42268692265449,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21834",
-   :locality "Fredonia"}
+   :location "Fredonia"}
   {:name "Short Park Disc Golf Course",
    :longitude -108.717742,
    :latitude 32.3505729,
@@ -4628,7 +4628,7 @@
    :latitude 38.7677318315242,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23847",
-   :locality "Highland"}
+   :location "Highland"}
   {:name "Silver Moutain",
    :longitude -84.830163,
    :latitude 45.889218,
@@ -4646,7 +4646,7 @@
    :latitude 35.266670279124796,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33696",
-   :locality "San Luis Obispo"}
+   :location "San Luis Obispo"}
   {:name "Sinsheimer Park Disc Golf Course",
    :longitude -120.64815738356666,
    :latitude 35.26696765092821,
@@ -4673,7 +4673,7 @@
    :latitude 38.63655126995536,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32059",
-   :locality "St Louis"}
+   :location "St Louis"}
   {:name "SNOW BOWL SKI AREA",
    :longitude -113.99924,
    :latitude 47.014044,
@@ -4683,13 +4683,13 @@
    :latitude 36.36761297085221,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37481",
-   :locality "Thorn Hill"}
+   :location "Thorn Hill"}
   {:name "Snyder Park Original Blues",
    :longitude -80.14862597117768,
    :latitude 26.084656464423347,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18660",
-   :locality "Fort Lauderdale"}
+   :location "Fort Lauderdale"}
   {:name "Somerset Disc Golf Course",
    :longitude -92.6585787,
    :latitude 45.1319622,
@@ -4707,7 +4707,7 @@
    :latitude 47.472163820127435,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30604",
-   :locality "North Bend"}
+   :location "North Bend"}
   {:name "South Hills Disc Golf",
    :longitude -76.403126,
    :latitude 40.3211323,
@@ -4721,7 +4721,7 @@
    :latitude 32.22816459194125,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16256",
-   :locality "Tyler"}
+   :location "Tyler"}
   {:name "South Tee",
    :longitude -99.2903667,
    :latitude 38.8721174,
@@ -4730,7 +4730,7 @@
    :longitude -93.7459263,
    :latitude 41.5664624,
    :source :openstreetmap,
-   :locality "West Des Moines"}
+   :location "West Des Moines"}
   {:name "Spearfish Canyon Disc Golf Course",
    :longitude -103.8523268,
    :latitude 44.4723893,
@@ -4744,7 +4744,7 @@
    :latitude 42.47126671207994,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21952",
-   :locality "Eastpointe"}
+   :location "Eastpointe"}
   {:name "Spinners on the Green",
    :longitude -111.9164722,
    :latitude 33.4645026,
@@ -4758,25 +4758,25 @@
    :latitude 33.65848407071816,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30033",
-   :locality "Myrtle Beach"}
+   :location "Myrtle Beach"}
   {:name "Spring Park Frisbee Golf",
    :longitude -92.85278070141784,
    :latitude 43.27516429865827,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36054",
-   :locality "Osage"}
+   :location "Osage"}
   {:name "Spring Valley",
    :longitude -85.55225073725903,
    :latitude 42.3156745864097,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16552",
-   :locality "Kalamazoo"}
+   :location "Kalamazoo"}
   {:name "Sprinkle Valley",
    :longitude -97.64714120623472,
    :latitude 30.344419008293855,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37070",
-   :locality "Austin"}
+   :location "Austin"}
   {:name "Squirrel Run Disc Golf Course",
    :longitude -80.7636259,
    :latitude 41.3032983,
@@ -4811,13 +4811,13 @@
    :latitude 35.44513792895755,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31510",
-   :locality "Bakersfield"}
+   :location "Bakersfield"}
   {:name "Summer Trails at Alpine Valley Resort ",
    :longitude -88.42935059793648,
    :latitude 42.735143909541904,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34968",
-   :locality "Elkhorn"}
+   :location "Elkhorn"}
   {:name "Sunkissed Meadows Disc Golf Course",
    :longitude -94.1930614,
    :latitude 42.4984757,
@@ -4851,7 +4851,7 @@
    :latitude 26.010613545227628,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24859",
-   :locality "Hollywood"}
+   :location "Hollywood"}
   {:name "T2 @ Bill Frederick Park",
    :longitude -81.47693115305877,
    :latitude 28.50051594594018,
@@ -4865,14 +4865,14 @@
    :longitude -121.9345047,
    :latitude 47.8618608,
    :source :openstreetmap,
-   :locality "Monroe"}
+   :location "Monroe"}
   {:name "Tall Grass Disc Golf Course",
    :longitude -93.3711596,
    :latitude 43.6749308,
    :source :openstreetmap,
    :homepage
    "https://www.pdga.com/course-directory/course/tall-grass-disc-golf-course-bancroft-bay-park",
-   :locality "Albert Lea"}
+   :location "Albert Lea"}
   {:name "Tam O'Shanter Disc Golf",
    :longitude -122.8938193,
    :latitude 46.1403202,
@@ -4973,24 +4973,24 @@
    :latitude 42.731923,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13041",
-   :locality "Washington"}
+   :location "Washington"}
   {:name "The Canyons Disc Golf Course",
    :longitude -88.0618766,
    :latitude 41.5719022,
    :source :openstreetmap,
-   :locality "Lockport"}
+   :location "Lockport"}
   {:name "The Compound ",
    :longitude -84.40657429197567,
    :latitude 33.23793994401706,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35364",
-   :locality "Griffin"}
+   :location "Griffin"}
   {:name "THE Diavolo DGC @ New Hope Park",
    :longitude -78.92670324942627,
    :latitude 35.815321702198446,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24775",
-   :locality "Cary"}
+   :location "Cary"}
   {:name "The Gorge at Anthony Run",
    :longitude -79.2807008,
    :latitude 40.6459206,
@@ -5004,7 +5004,7 @@
    :latitude 39.978371,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6367",
-   :locality "Carmel"}
+   :location "Carmel"}
   {:name "The Hollows Disc Golf Course (North)",
    :longitude -71.4695253,
    :latitude 42.9608985,
@@ -5022,7 +5022,7 @@
    :latitude 36.5969603,
    :source :openstreetmap,
    :homepage "http://www.thelodgeattaylorranch.com/",
-   :locality "Pawhuska"}
+   :location "Pawhuska"}
   {:name "The Lyons Den Disc Golf Course",
    :longitude -83.6294826,
    :latitude 42.5184814,
@@ -5036,13 +5036,13 @@
    :latitude 42.941924923354236,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45868",
-   :locality "Keene"}
+   :location "Keene"}
   {:name "The PIT",
    :longitude -97.04309477157068,
    :latitude 33.162272251130005,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22832",
-   :locality "Denton"}
+   :location "Denton"}
   {:name "The Point Disc Golf Course",
    :longitude -86.0351336,
    :latitude 42.7739105,
@@ -5060,7 +5060,7 @@
    :latitude 28.547070299025194,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22196",
-   :locality "Brooksville"}
+   :location "Brooksville"}
   {:name "The Ranch Frisbee Golf Course",
    :longitude -119.8279972,
    :latitude 39.5535485,
@@ -5077,7 +5077,7 @@
    :longitude -81.0481989,
    :latitude 32.3275914,
    :source :openstreetmap,
-   :locality "Hardeeville"}
+   :location "Hardeeville"}
   {:name "The Shaft",
    :longitude -109.241663,
    :latitude 45.197787,
@@ -5091,13 +5091,13 @@
    :latitude 36.36802603634246,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33337",
-   :locality "Hendersonville"}
+   :location "Hendersonville"}
   {:name "The Tiger",
    :longitude -87.80859157715369,
    :latitude 33.71605809389506,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41909",
-   :locality "Fayette"}
+   :location "Fayette"}
   {:name "The Tracks",
    :longitude -84.1552832,
    :latitude 33.4496863,
@@ -5107,7 +5107,7 @@
    :latitude 35.76429166264104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41090",
-   :locality "Raleigh"}
+   :location "Raleigh"}
   {:name "Thompson Park Disc Golf Course",
    :longitude -74.4386476,
    :latitude 40.3423374,
@@ -5124,7 +5124,7 @@
    :longitude -123.0108396,
    :latitude 44.9197655,
    :source :openstreetmap,
-   :locality "Salem"}
+   :location "Salem"}
   {:name "Tiger Town Disc Golf Course",
    :longitude -80.7524926,
    :latitude 41.2496575,
@@ -5150,7 +5150,7 @@
    :latitude 34.865310352814504,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29141",
-   :locality "Greenville"}
+   :location "Greenville"}
   {:name "TJC Disc Golf Course",
    :longitude -95.2749264,
    :latitude 32.3396846,
@@ -5164,13 +5164,13 @@
    :latitude 30.446257666409835,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34115",
-   :locality "Tallahassee"}
+   :location "Tallahassee"}
   {:name "Tom Triplett Park",
    :longitude -81.2136502756192,
    :latitude 32.09440107963354,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36562",
-   :locality "Pooler"}
+   :location "Pooler"}
   {:name "Town Square Course",
    :longitude -71.5033583,
    :latitude 43.9518173,
@@ -5189,25 +5189,25 @@
    :latitude 26.26500207370877,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19369",
-   :locality "Coconut Creek"}
+   :location "Coconut Creek"}
   {:name "Tradewoods ",
    :longitude -80.17074184031736,
    :latitude 26.267183817243932,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18032",
-   :locality "Coconut Creek"}
+   :location "Coconut Creek"}
   {:name "Tranquility Trails",
    :longitude -75.33197617661205,
    :latitude 39.75102492420294,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37213",
-   :locality "Swedesboro"}
+   :location "Swedesboro"}
   {:name "Travis AFB Disc Golf Course",
    :longitude -121.93255895424275,
    :latitude 38.27264688164209,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39372",
-   :locality "Travis AFB"}
+   :location "Travis AFB"}
   {:name "Tri-Municipal Park Disc Golf Course",
    :longitude -77.693119,
    :latitude 40.835648,
@@ -5217,7 +5217,7 @@
    :latitude 38.72822740782007,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23855",
-   :locality "Troy"}
+   :location "Troy"}
   {:name "Trinity Disc Golf Course",
    :longitude -77.9049504,
    :latitude 34.041438,
@@ -5227,13 +5227,13 @@
    :latitude 41.561661922838425,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30748",
-   :locality "Lockport"}
+   :location "Lockport"}
   {:name "Triple Crown Throwdown 2025",
    :longitude -116.40080663744223,
    :latitude 43.68579200631288,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44699",
-   :locality "Eagle"}
+   :location "Eagle"}
   {:name "Trollwood Disc Golf Course",
    :longitude -96.7803937,
    :latitude 46.926132,
@@ -5249,7 +5249,7 @@
    :latitude 32.75258818883658,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36718",
-   :locality "Grand Prairie"}
+   :location "Grand Prairie"}
   {:name "Turtle Rock Park Disc Golf",
    :longitude -119.7999346,
    :latitude 38.723014,
@@ -5259,7 +5259,7 @@
    :latitude 29.201414955554426,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20178",
-   :locality "Daytona Beach"}
+   :location "Daytona Beach"}
   {:name "Tuttle Creek State Park Disc Golf Course",
    :longitude -96.5828011,
    :latitude 39.2569213,
@@ -5269,7 +5269,7 @@
    :latitude 36.29608594325343,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16618",
-   :locality "Rogers"}
+   :location "Rogers"}
   {:name "Tye F. Cunningham Memorial Disc Golf Course",
    :longitude -97.5113984,
    :latitude 35.6840219,
@@ -5320,13 +5320,13 @@
    :latitude 40.2950598295609,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30967",
-   :locality "Harleysville"}
+   :location "Harleysville"}
   {:name "USCG Base Elizabeth City",
    :longitude -76.18338561291891,
    :latitude 36.26797180421299,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35086",
-   :locality "Elizabeth City"}
+   :location "Elizabeth City"}
   {:name "USDF Pro Shop @ Carson Park",
    :longitude -117.0593519,
    :latitude 33.0776553,
@@ -5344,7 +5344,7 @@
    :latitude 38.42928326878814,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32863",
-   :locality "Hurricane"}
+   :location "Hurricane"}
   {:name "Valmont Disc Golf Course",
    :longitude -105.2372827,
    :latitude 40.027754,
@@ -5353,13 +5353,13 @@
    :longitude -82.4044266,
    :latitude 38.4068165,
    :source :openstreetmap,
-   :locality "Huntington"}
+   :location "Huntington"}
   {:name "Vet's Memorial Park",
    :longitude -90.6644864234549,
    :latitude 42.4991909728119,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28551",
-   :locality "Dubuque"}
+   :location "Dubuque"}
   {:name "Veteran Hills Disc Golf Course",
    :longitude -90.8781459,
    :latitude 43.5440427,
@@ -5377,7 +5377,7 @@
    :latitude 41.21765657188695,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35402",
-   :locality "Bridgeport"}
+   :location "Bridgeport"}
   {:name "Veterans Park Disc Golf Course",
    :longitude -87.6233247,
    :latitude 34.8097749,
@@ -5401,12 +5401,12 @@
    :latitude 37.30322973035888,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43832",
-   :locality "Cupertino"}
+   :location "Cupertino"}
   {:name "Village Greeen Disc Golf Course",
    :longitude -84.5837719,
    :latitude 33.4000256,
    :source :openstreetmap,
-   :locality "Peachtree City"}
+   :location "Peachtree City"}
   {:name "Village of Bergen Disc Golf Course",
    :longitude -77.9460338,
    :latitude 43.0797499,
@@ -5423,7 +5423,7 @@
    :longitude -85.8352972,
    :latitude 40.7991542,
    :source :openstreetmap,
-   :locality "Wabash"}
+   :location "Wabash"}
   {:name "Wabun Disc Golf Course",
    :longitude -93.2049446,
    :latitude 44.9170869,
@@ -5449,7 +5449,7 @@
    :latitude 34.89996414607542,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15051",
-   :locality "Santa Maria"}
+   :location "Santa Maria"}
   {:name "Walnut Creek Disc Golf Course",
    :longitude -97.6820649,
    :latitude 32.9643729,
@@ -5479,7 +5479,7 @@
    :latitude 39.15772102565313,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26924",
-   :locality "Kansas City"}
+   :location "Kansas City"}
   {:name "Waterworks Park Disc Golf Course",
    :longitude -83.6064055,
    :latitude 42.2370831,
@@ -5523,25 +5523,25 @@
    :latitude 26.462037327405156,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34911",
-   :locality "Delray Beach"}
+   :location "Delray Beach"}
   {:name "West Delray Regional Park",
    :longitude -80.21394628856027,
    :latitude 26.46101617479782,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25414",
-   :locality "Delray Beach"}
+   :location "Delray Beach"}
   {:name "West Fork DGC",
    :longitude -104.99328430354471,
    :latitude 39.553266431262216,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20981",
-   :locality "Littleton"}
+   :location "Littleton"}
   {:name "West Lake",
    :longitude -108.57389831437403,
    :latitude 39.084896854419014,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33979",
-   :locality "Grand Junction"}
+   :location "Grand Junction"}
   {:name "West Wetlands Disc Golf Course",
    :longitude -114.6400271,
    :latitude 32.7293384,
@@ -5557,7 +5557,7 @@
    :latitude 47.21265011753354,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36972",
-   :locality "Tacoma"}
+   :location "Tacoma"}
   {:name "Westmoreland Disc Golf Course",
    :longitude -123.1149251,
    :latitude 44.0384246,
@@ -5566,7 +5566,7 @@
    :longitude -79.5667292,
    :latitude 39.8004377,
    :source :openstreetmap,
-   :locality "Farmington"}
+   :location "Farmington"}
   {:name "Wheatland Disc Golf Course",
    :longitude -123.0551,
    :latitude 45.0823407,
@@ -5580,13 +5580,13 @@
    :latitude 43.31497705917286,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33791",
-   :locality "Roseburg"}
+   :location "Roseburg"}
   {:name "White Mountain Disc Golf Course",
    :longitude -71.66510702542863,
    :latitude 43.816991883143544,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24830",
-   :locality "Campton"}
+   :location "Campton"}
   {:name "White River Golf Course",
    :longitude -122.197196,
    :latitude 47.2793265,
@@ -5639,7 +5639,7 @@
    :longitude -74.6257002,
    :latitude 40.4861634,
    :source :openstreetmap,
-   :locality "Hillsborough"}
+   :location "Hillsborough"}
   {:name "Willow Run Disc Golf Course",
    :longitude -89.7335097,
    :latitude 44.365563,
@@ -5653,7 +5653,7 @@
    :latitude 41.060123533998166,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18881",
-   :locality "Mogadore"}
+   :location "Mogadore"}
   {:name "Winthrop University Disc Golf Course",
    :longitude -81.0137663,
    :latitude 34.9411482,
@@ -5667,12 +5667,12 @@
    :latitude 33.690084292696085,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32218",
-   :locality "Myrtle Beach"}
+   :location "Myrtle Beach"}
   {:name "Wolf Knob Disc Golf Course at Hickory Cabins",
    :longitude -86.139051,
    :latitude 37.2558384,
    :source :openstreetmap,
-   :locality "Mammoth Cave"}
+   :location "Mammoth Cave"}
   {:name "Woodland Mound Disc Golf",
    :longitude -84.3236717,
    :latitude 39.0395582,
@@ -5682,13 +5682,13 @@
    :latitude 38.690098138587615,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23856",
-   :locality "Collinsville"}
+   :location "Collinsville"}
   {:name "Woodland Valley Clubhouse & Pro Shop",
    :longitude -70.7786191,
    :latitude 43.6833431,
    :source :openstreetmap,
    :homepage "https://www.woodlandvalley.com/",
-   :locality "Limerick"}
+   :location "Limerick"}
   {:name "Woodlawn Disc Golf Course",
    :longitude -88.3879509,
    :latitude 43.3302568,
@@ -5718,7 +5718,7 @@
    :latitude 32.68872062934636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22561",
-   :locality "Fort Worth"}
+   :location "Fort Worth"}
   {:name "Zachary field disc golf",
    :longitude -93.4226325,
    :latitude 45.0357932,

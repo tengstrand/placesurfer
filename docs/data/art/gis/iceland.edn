@@ -25,7 +25,7 @@
    :latitude 64.1429238,
    :source :openstreetmap,
    :homepage "http://www.lej.is/",
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Art Gallery 101",
    :longitude -21.9247881,
    :latitude 64.1447581,
@@ -47,7 +47,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/pages/Verslunarminjasafn-Bardúsa-Hvammstanga",
-   :locality "Hvammstangi"}
+   :location "Hvammstangi"}
   {:name "Bjarnarhöfn Museum",
    :longitude -22.9635396,
    :latitude 64.9978539,
@@ -73,7 +73,7 @@
    :longitude -22.688531,
    :latitude 64.0817902,
    :source :openstreetmap,
-   :locality "Garður"}
+   :location "Garður"}
   {:name "Byggðasafn Hafnarfjarðar",
    :longitude -21.9594714,
    :latitude 64.0701355,
@@ -105,19 +105,19 @@
    :latitude 65.6801268,
    :source :openstreetmap,
    :homepage "https://listagil.is/?page_id=765",
-   :locality "Akureyri"}
+   :location "Akureyri"}
   {:name "Draugasetrið",
    :longitude -21.0643982,
    :latitude 63.8363327,
    :source :openstreetmap,
    :homepage "https://www.draugasetrid.is/",
-   :locality "Stokkseyri"}
+   :location "Stokkseyri"}
   {:name "Duus Museum",
    :longitude -22.5573993,
    :latitude 64.0076193,
    :source :openstreetmap,
    :homepage "https://sofn.reykjanesbaer.is/duushus",
-   :locality "Keflavík"}
+   :location "Keflavík"}
   {:name "Eiríksstaðir",
    :longitude -21.5384308,
    :latitude 65.0586289,
@@ -132,13 +132,13 @@
    :latitude 63.9373913,
    :source :openstreetmap,
    :homepage "https://www.fischersetur.is/",
-   :locality "Selfoss"}
+   :location "Selfoss"}
   {:name "Fish Factory - Creative Centre Stöðvarfjörður",
    :longitude -13.8745405,
    :latitude 64.8323412,
    :source :openstreetmap,
    :homepage "http://inhere.is",
-   :locality "Stöðvarfjörður"}
+   :location "Stöðvarfjörður"}
   {:name "Fiskhöllin",
    :longitude -21.9436389,
    :latitude 64.1502473,
@@ -159,7 +159,7 @@
    :latitude 65.7065353,
    :source :openstreetmap,
    :homepage "https://galdrasyning.is/",
-   :locality "Hólmavík"}
+   :location "Hólmavík"}
   {:name "Gallery 16C",
    :longitude -21.871314,
    :latitude 64.10536,
@@ -232,7 +232,7 @@
    :latitude 64.1484683,
    :source :openstreetmap,
    :homepage "https://www.phallus.is/",
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Hnjótur",
    :longitude -24.1573878,
    :latitude 65.5625821,
@@ -246,7 +246,7 @@
    :longitude -18.5327937,
    :latitude 65.9740284,
    :source :openstreetmap,
-   :locality "Dalvík"}
+   :location "Dalvík"}
   {:name "Höfuðstöðin",
    :longitude -21.834205,
    :latitude 64.1233314,
@@ -261,7 +261,7 @@
    :latitude 64.0890499,
    :source :openstreetmap,
    :homepage "https://www.honnunarsafn.is/",
-   :locality "Garðabær"}
+   :location "Garðabær"}
   {:name "Húsið",
    :longitude -21.1540479,
    :latitude 63.864651,
@@ -280,13 +280,13 @@
    :latitude 64.1378705,
    :source :openstreetmap,
    :homepage "https://listasafnreykjavikur.is/kjarvalsstadir",
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Kotbýli kuklarans",
    :longitude -21.5220615,
    :latitude 65.7809339,
    :source :openstreetmap,
    :homepage "https://galdrasyning.is/",
-   :locality "Bjarnarfjörður"}
+   :location "Bjarnarfjörður"}
   {:name "Kröflustöð",
    :longitude -16.7749429,
    :latitude 65.7026971,
@@ -323,7 +323,7 @@
    :longitude -21.8870282,
    :latitude 64.1531215,
    :source :openstreetmap,
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Listasafn Árnesinga",
    :longitude -21.1850159,
    :latitude 63.9963838,
@@ -341,13 +341,13 @@
    :latitude 66.1514003,
    :source :openstreetmap,
    :homepage "https://www.folkmusik.is",
-   :locality "Siglufjörður"}
+   :location "Siglufjörður"}
   {:name "Lyfjafræðisafn",
    :longitude -22.0064677,
    :latitude 64.1579993,
    :source :openstreetmap,
    :homepage "https://www.lfi.is/um-lyfjafraedisafnid",
-   :locality "Seltjarnarnes"}
+   :location "Seltjarnarnes"}
   {:name "Marshallhúsið",
    :longitude -21.9389793,
    :latitude 64.1561311,
@@ -357,7 +357,7 @@
    :longitude -18.0874144,
    :latitude 65.6833566,
    :source :openstreetmap,
-   :locality "Akureyri"}
+   :location "Akureyri"}
   {:name "Menningarmiðstöð Fljótsdalshéraðs MMF",
    :longitude -14.4062969,
    :latitude 65.2591764,
@@ -376,7 +376,7 @@
    :longitude -21.9311551,
    :latitude 64.14627,
    :source :openstreetmap,
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Mánárbakki Minjasafn",
    :longitude -17.1035624,
    :latitude 66.1996314,
@@ -386,7 +386,7 @@
    :latitude 65.6612551,
    :source :openstreetmap,
    :homepage "https://motorhjolasafn.is/",
-   :locality "Akureyri"}
+   :location "Akureyri"}
   {:name "Múlastofa",
    :longitude -14.8264345,
    :latitude 65.7535184,
@@ -396,7 +396,7 @@
    :latitude 64.1116927,
    :source :openstreetmap,
    :homepage "https://natkop.kopavogur.is/",
-   :locality "Kópavogur"}
+   :location "Kópavogur"}
   {:name "Náttúrugripasafn Skagafjarðar",
    :longitude -19.4511518,
    :latitude 65.5525239,
@@ -410,7 +410,7 @@
    :longitude -13.6887796,
    :latitude 65.1473318,
    :source :openstreetmap,
-   :locality "Neskaupstaður"}
+   :location "Neskaupstaður"}
   {:name "Nýibær",
    :longitude -19.111012,
    :latitude 65.7332055,
@@ -434,7 +434,7 @@
    :longitude -23.70862,
    :latitude 64.8961178,
    :source :openstreetmap,
-   :locality "Ólafsvík"}
+   :location "Ólafsvík"}
   {:name "Petra's Stone Collection",
    :longitude -13.8811929,
    :latitude 64.8355738,
@@ -465,7 +465,7 @@
    :latitude 65.2626214,
    :source :openstreetmap,
    :homepage "https://www.minjasafn.is/",
-   :locality "Egilsstaðir"}
+   :location "Egilsstaðir"}
   {:name "Safnahús Borgarfjarðar",
    :longitude -21.9203406,
    :latitude 64.5367143,
@@ -494,7 +494,7 @@
    :latitude 63.8638854,
    :source :openstreetmap,
    :homepage "https://sagnagardur.land.is/",
-   :locality "Hella"}
+   :location "Hella"}
   {:name "Samgönguminjasafnið í Stóragerði",
    :longitude -19.3085296,
    :latitude 65.8081325,
@@ -534,7 +534,7 @@
    :latitude 66.3012171,
    :source :openstreetmap,
    :homepage "http://www.skjalftasetur.is/",
-   :locality "Kópasker"}
+   :location "Kópasker"}
   {:name "Skriðuklaustur",
    :longitude -14.9530877,
    :latitude 65.0409385,
@@ -596,7 +596,7 @@
    :latitude 66.0487019,
    :source :openstreetmap,
    :homepage "https://www.explorationmuseum.com/",
-   :locality "Húsavík"}
+   :location "Húsavík"}
   {:name "The Sheep Farming Museum",
    :longitude -21.5833711,
    :latitude 65.6410528,
@@ -607,13 +607,13 @@
    :latitude 64.1975266,
    :source :openstreetmap,
    :homepage "https://tolli.is",
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Tónlistarsafn Íslands",
    :longitude -21.9506468,
    :latitude 64.1426715,
    :source :openstreetmap,
    :homepage "http://www.natmus.is",
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Veiðisafnið",
    :longitude -21.0719514,
    :latitude 63.8388704,
@@ -632,13 +632,13 @@
    :latitude 64.1531874,
    :source :openstreetmap,
    :homepage "http://www.sjominjasafn.is",
-   :locality "Reykjavík"}
+   :location "Reykjavík"}
   {:name "Víkingaheimar",
    :longitude -22.5290082,
    :latitude 63.9760201,
    :source :openstreetmap,
    :homepage "https://www.vikingworld.is",
-   :locality "Reykjanesbær"}
+   :location "Reykjanesbær"}
   {:name "Ystafell Transporation museum",
    :longitude -17.5797502,
    :latitude 65.7808218,

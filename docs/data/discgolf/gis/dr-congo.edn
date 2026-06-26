@@ -9,13 +9,13 @@
    :latitude -6.1444330268516865,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18865",
-   :locality "Dibaya"}
+   :location "Dibaya"}
   {:name "Savannah disc golf cource park",
    :longitude 19.97022749760808,
    :latitude -2.793978029980522,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23312",
-   :locality "Oshwe"}],
+   :location "Oshwe"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

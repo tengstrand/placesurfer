@@ -16,7 +16,7 @@
    :longitude -88.9176085,
    :latitude 16.0010475,
    :source :openstreetmap,
-   :locality "Barranco"}
+   :location "Barranco"}
   {:name "Belize Natural History Archive",
    :longitude -89.0603924,
    :latitude 17.1701052,
@@ -29,7 +29,7 @@
    :longitude -88.1860525,
    :latitude 17.4933984,
    :source :openstreetmap,
-   :locality "Belize City"}
+   :location "Belize City"}
   {:name "Cahal Pech Visitor Center",
    :longitude -89.0747296,
    :latitude 17.1472488,
@@ -63,7 +63,7 @@
    :longitude -88.1834714,
    :latitude 17.4980859,
    :source :openstreetmap,
-   :locality "Belize City"}
+   :location "Belize City"}
   {:name "Nim Li Punit Visitor Center",
    :longitude -88.8237037,
    :latitude 16.3216819,
@@ -84,7 +84,7 @@
    :longitude -88.9422168,
    :latitude 17.208809,
    :source :openstreetmap,
-   :locality "Unitedville"}
+   :location "Unitedville"}
   {:name "Xunantunich Visitor's Center",
    :longitude -89.1401929,
    :latitude 17.0893042,

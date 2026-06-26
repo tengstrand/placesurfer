@@ -113,7 +113,7 @@
    :latitude 49.4383283,
    :source :openstreetmap,
    :homepage "https://shop.cherevan.art",
-   :locality "Черкаси",
+   :location "Черкаси",
    :image "",
    :description ""}
   {:name "Cільський клуб",
@@ -200,7 +200,7 @@
    :longitude 24.8526714,
    :latitude 49.0302039,
    :source :openstreetmap,
-   :locality "Маріямпіль",
+   :location "Маріямпіль",
    :image "",
    :description ""}
   {:name "MEZZANINE",
@@ -240,7 +240,7 @@
    :longitude 30.4833736,
    :latitude 50.4306335,
    :source :openstreetmap,
-   :locality "Киев",
+   :location "Киев",
    :image "",
    :description ""}
   {:name "Old Cars",
@@ -356,7 +356,7 @@
    :latitude 44.6738701,
    :source :openstreetmap,
    :homepage "https://www.tavrida-museum.ru/alushta",
-   :locality "Алушта",
+   :location "Алушта",
    :image "",
    :description ""}
   {:name
@@ -638,7 +638,7 @@
    :longitude 36.5761728,
    :latitude 50.2091684,
    :source :openstreetmap,
-   :locality "Нескучне",
+   :location "Нескучне",
    :image "",
    :description ""}
   {:name "Будинок Кочубея",
@@ -735,7 +735,7 @@
    :longitude 35.370081,
    :latitude 46.3751831,
    :source :openstreetmap,
-   :locality "Кирилівка",
+   :location "Кирилівка",
    :image "",
    :description ""}
   {:name "Будинок культури",
@@ -778,7 +778,7 @@
    :longitude 29.9861952,
    :latitude 46.3407255,
    :source :openstreetmap,
-   :locality "Старокозаче",
+   :location "Старокозаче",
    :image "",
    :description ""}
   {:name "Будинок культури",
@@ -917,7 +917,7 @@
    :longitude 37.0512374,
    :latitude 49.3956142,
    :source :openstreetmap,
-   :locality "Савинці",
+   :location "Савинці",
    :image "",
    :description ""}
   {:name "Будинок культури",
@@ -1092,7 +1092,7 @@
    :longitude 27.7474372,
    :latitude 50.9247046,
    :source :openstreetmap,
-   :locality "Підлуби",
+   :location "Підлуби",
    :image "",
    :description ""}
   {:name "Будинок культури",
@@ -1417,7 +1417,7 @@
    :longitude 28.6336589,
    :latitude 50.9558391,
    :source :openstreetmap,
-   :locality "Коростень",
+   :location "Коростень",
    :image "",
    :description ""}
   {:name "Будинок національних творчих колективів України",
@@ -2024,7 +2024,7 @@
    :latitude 44.4934033,
    :source :openstreetmap,
    :homepage "https://chekhov-yalta.org/",
-   :locality "Ялта",
+   :location "Ялта",
    :image "",
    :description ""}
   {:name "Дача Чехова",
@@ -2037,7 +2037,7 @@
    :longitude 33.6000599,
    :latitude 45.1315466,
    :source :openstreetmap,
-   :locality "Саки",
+   :location "Саки",
    :image "",
    :description ""}
   {:name "Дворец Культуры Рыбаков (ДКР)",
@@ -2400,7 +2400,7 @@
    :longitude 24.5113032,
    :latitude 48.7868724,
    :source :openstreetmap,
-   :locality "Підгір’я",
+   :location "Підгір’я",
    :image "",
    :description ""}
   {:name "Дім культури, Клуб",
@@ -2419,7 +2419,7 @@
    :longitude 37.9047075,
    :latitude 47.9931835,
    :source :openstreetmap,
-   :locality "Донецьк",
+   :location "Донецьк",
    :image "",
    :description ""}
   {:name "Дім-музей Лесі Українки",
@@ -2549,7 +2549,7 @@
    :longitude 29.2163885,
    :latitude 50.4776131,
    :source :openstreetmap,
-   :locality "Радомишль",
+   :location "Радомишль",
    :image "",
    :description ""}
   {:name "Запорізький обласний художній музей",
@@ -2848,7 +2848,7 @@
    :longitude 26.2486147,
    :latitude 50.5007921,
    :source :openstreetmap,
-   :locality "Здовбиця",
+   :location "Здовбиця",
    :image "",
    :description ""}
   {:name "Клуб",
@@ -3003,7 +3003,7 @@
    :latitude 51.2389378,
    :source :openstreetmap,
    :homepage "https://konotop-museum.in.ua/",
-   :locality "Конотоп",
+   :location "Конотоп",
    :image "",
    :description ""}
   {:name "Концерт хол „Подоляни“",
@@ -3288,7 +3288,7 @@
    :longitude 33.4887905,
    :latitude 51.8648891,
    :source :openstreetmap,
-   :locality "Шостка",
+   :location "Шостка",
    :image "",
    :description ""}
   {:name "Краєзнавчий музей",
@@ -3417,7 +3417,7 @@
    :longitude 33.8638949,
    :latitude 51.3349465,
    :source :openstreetmap,
-   :locality "Путивль",
+   :location "Путивль",
    :image "",
    :description ""}
   {:name "Краєзнавчий музей",
@@ -3430,7 +3430,7 @@
    :longitude 38.7350919,
    :latitude 49.5265873,
    :source :openstreetmap,
-   :locality "Білокуракине",
+   :location "Білокуракине",
    :image "",
    :description ""}
   {:name "Краєзнавчий музей",
@@ -3438,7 +3438,7 @@
    :latitude 46.1937422,
    :source :openstreetmap,
    :homepage "http://bdkm.ucoz.com",
-   :locality "Білгород-Дністровський",
+   :location "Білгород-Дністровський",
    :image "",
    :description ""}
   {:name "Краєзнавчий музей",
@@ -3529,7 +3529,7 @@
    :longitude 23.8470742,
    :latitude 49.2586337,
    :source :openstreetmap,
-   :locality "Стрий",
+   :location "Стрий",
    :image "",
    :description ""}
   {:name "Краєзнавчий музей бібліотеки-філіалу № 21",
@@ -3586,7 +3586,7 @@
    :longitude 36.9356933,
    :latitude 49.8646174,
    :source :openstreetmap,
-   :locality "Печеніги",
+   :location "Печеніги",
    :image "",
    :description ""}
   {:name "Краєзнавчий музей ім.П. Д. Мартиновича",
@@ -3613,7 +3613,7 @@
    :source :openstreetmap,
    :homepage
    "https://kerchmuseum.ru/ru/ekskursii-grafiki-raboty-.html",
-   :locality "Керчь",
+   :location "Керчь",
    :image "",
    :description ""}
   {:name "Криволуцький етнодвір",
@@ -3858,7 +3858,7 @@
    :longitude 33.26303,
    :latitude 50.3569186,
    :source :openstreetmap,
-   :locality "Лохвиця",
+   :location "Лохвиця",
    :image "",
    :description ""}
   {:name "Лоцманів",
@@ -4156,7 +4156,7 @@
    :latitude 50.1070975,
    :source :openstreetmap,
    :homepage "https://stetsenko.in.ua/",
-   :locality "Веприк",
+   :location "Веприк",
    :image "",
    :description ""}
   {:name "Меморіальний музей К.Г. Паустовського",
@@ -4388,7 +4388,7 @@
    :longitude 24.6109515,
    :latitude 49.408613,
    :source :openstreetmap,
-   :locality "Рогатин",
+   :location "Рогатин",
    :image "",
    :description ""}
   {:name "Музей \"Подільська хата\"",
@@ -4419,7 +4419,7 @@
    :longitude 34.0108637,
    :latitude 44.7256601,
    :source :openstreetmap,
-   :locality "Научный",
+   :location "Научный",
    :image "",
    :description ""}
   {:name "Музей - садиба Павла Тичини",
@@ -4939,7 +4939,7 @@
    :latitude 48.5287681,
    :source :openstreetmap,
    :homepage "https://hutsul.museum/",
-   :locality "Коломия",
+   :location "Коломия",
    :image "",
    :description ""}
   {:name "Музей гімназії",
@@ -4960,7 +4960,7 @@
    :source :openstreetmap,
    :homepage
    "https://krtmuseum.ru/muzej-dvazhdy-geroya-sovetskogo-soyuza-amet-hana-sultana-g-alupka/",
-   :locality "Алупка",
+   :location "Алупка",
    :image "",
    :description ""}
   {:name "Музей дерев'яних церков",
@@ -5019,7 +5019,7 @@
    :longitude 24.5546279,
    :latitude 48.4498842,
    :source :openstreetmap,
-   :locality "Яремче",
+   :location "Яремче",
    :image "",
    :description ""}
   {:name "Музей етнографії та побуту району",
@@ -5032,7 +5032,7 @@
    :longitude 25.9253646,
    :latitude 48.2969272,
    :source :openstreetmap,
-   :locality "Chernivtsi",
+   :location "Chernivtsi",
    :image "",
    :description ""}
   {:name "Музей етнографії та художнього промислу",
@@ -5140,7 +5140,7 @@
    :longitude 33.894123,
    :latitude 44.7464461,
    :source :openstreetmap,
-   :locality "Бахчисарай",
+   :location "Бахчисарай",
    :image "",
    :description ""}
   {:name "Музей истории Артека",
@@ -5376,7 +5376,7 @@
    :source :openstreetmap,
    :homepage
    "https://volyn-kray-mus.at.ua/publ/pidrozdili_vkm/muzej_volinskoji_ikoni_viddil_volinskogo_kraeznavchogo_muzeju/5-1-0-2",
-   :locality "ВНУ: Лабораторний корпус",
+   :location "ВНУ: Лабораторний корпус",
    :image "",
    :description ""}
   {:name "Музей Лесі Українки у Колодяжному",
@@ -5626,7 +5626,7 @@
    :latitude 45.3426083,
    :source :openstreetmap,
    :homepage "https://hero.izmail-city.com/muzei/museum.html",
-   :locality "Ізмаїл",
+   :location "Ізмаїл",
    :image "",
    :description ""}
   {:name "музей о. Михайла Зубрицького",
@@ -6006,7 +6006,7 @@
    :longitude 34.7519422,
    :latitude 50.0637924,
    :source :openstreetmap,
-   :locality "Котельва",
+   :location "Котельва",
    :image "",
    :description ""}
   {:name "Музей Садиба Василя Стефаника",
@@ -6193,7 +6193,7 @@
    :latitude 48.7889339,
    :source :openstreetmap,
    :homepage "https://verteba.com.ua",
-   :locality "Більче-Золоте",
+   :location "Більче-Золоте",
    :image "",
    :description ""}
   {:name "Музей трудової слави",
@@ -6690,7 +6690,7 @@
    :longitude 30.5068804,
    :latitude 50.4560211,
    :source :openstreetmap,
-   :locality "Київ",
+   :location "Київ",
    :image "",
    :description ""}
   {:name "Музей історії Полтавської битви",
@@ -6818,7 +6818,7 @@
    :longitude 31.2162111,
    :latitude 49.2171919,
    :source :openstreetmap,
-   :locality "Вільшана",
+   :location "Вільшана",
    :image "",
    :description ""}
   {:name "Музей історії смт Єлизаветградка",
@@ -7024,7 +7024,7 @@
    :latitude 50.0608146,
    :source :openstreetmap,
    :homepage "https://iskozlovsky.wixsite.com/museum",
-   :locality "Мар’янівка",
+   :location "Мар’янівка",
    :image "",
    :description ""}
   {:name "Музей-садиба Івана Горбачевського",
@@ -7149,7 +7149,7 @@
    :longitude 32.6223757,
    :latitude 46.6338162,
    :source :openstreetmap,
-   :locality "Херсон",
+   :location "Херсон",
    :image "",
    :description ""}
   {:name "Музична школа №2",
@@ -7262,7 +7262,7 @@
    :longitude 38.7923222,
    :latitude 48.4697367,
    :source :openstreetmap,
-   :locality "Алчевск",
+   :location "Алчевск",
    :image "",
    :description ""}
   {:name "Нiкопольський краєзнавчий музей",
@@ -7329,7 +7329,7 @@
    :longitude 35.6108071,
    :latitude 49.8357588,
    :source :openstreetmap,
-   :locality "Валки",
+   :location "Валки",
    :image "",
    :description ""}
   {:name "Народний краєзнавчий музей",
@@ -7456,7 +7456,7 @@
    :latitude 50.4320337,
    :source :openstreetmap,
    :homepage "https://warmuseum.kyiv.ua/",
-   :locality "Kyiv",
+   :location "Kyiv",
    :image "",
    :description ""}
   {:name
@@ -7496,7 +7496,7 @@
    :longitude 33.8805804,
    :latitude 50.8332901,
    :source :openstreetmap,
-   :locality "Недригайлів",
+   :location "Недригайлів",
    :image "",
    :description ""}
   {:name "Нечаївський літературно-меморіальний музей Ю.І.Яновського",
@@ -7521,14 +7521,14 @@
    :longitude 35.862429,
    :latitude 49.7176128,
    :source :openstreetmap,
-   :locality "Нова Водолага",
+   :location "Нова Водолага",
    :image "",
    :description ""}
   {:name "Нововолинський історичний музей",
    :longitude 24.1648755,
    :latitude 50.7272879,
    :source :openstreetmap,
-   :locality "Нововолинськ",
+   :location "Нововолинськ",
    :image "",
    :description ""}
   {:name "Нововоронцовський музей",
@@ -7568,7 +7568,7 @@
    :latitude 50.0951185,
    :source :openstreetmap,
    :homepage "http://mjsk.te.ua/",
-   :locality "Кременець",
+   :location "Кременець",
    :image "",
    :description ""}
   {:name "Обласний художній музей",
@@ -7603,7 +7603,7 @@
    :longitude 30.627461,
    :latitude 50.1108708,
    :source :openstreetmap,
-   :locality "Обухів",
+   :location "Обухів",
    :image "",
    :description ""}
   {:name "Овідіопольський селищний будинок культури",
@@ -7726,7 +7726,7 @@
    :longitude 23.8716622,
    :latitude 49.1510354,
    :source :openstreetmap,
-   :locality "Моршин",
+   :location "Моршин",
    :image "",
    :description ""}
   {:name "Палац культури",
@@ -7769,7 +7769,7 @@
    :longitude 28.7235527,
    :latitude 50.7486857,
    :source :openstreetmap,
-   :locality "Іршанськ",
+   :location "Іршанськ",
    :image "",
    :description ""}
   {:name "Палац культури \"Юність\"",
@@ -7920,7 +7920,7 @@
    :latitude 44.5476092,
    :source :openstreetmap,
    :homepage "http://vk.com/feduhy.park",
-   :locality "Севастополь",
+   :location "Севастополь",
    :image "",
    :description ""}
   {:name "Парк миниатюр \"Альпийская Роза\"",
@@ -7928,7 +7928,7 @@
    :latitude 45.1838811,
    :source :openstreetmap,
    :homepage "https://minievp.ru/",
-   :locality "Евпатория",
+   :location "Евпатория",
    :image "",
    :description ""}
   {:name "Парк ракет",
@@ -8016,7 +8016,7 @@
    :longitude 34.5199037,
    :latitude 49.6003037,
    :source :openstreetmap,
-   :locality "Полтава",
+   :location "Полтава",
    :image "",
    :description ""}
   {:name "Покинутий центр мистецтв",
@@ -8148,7 +8148,7 @@
    :longitude 28.8792947,
    :latitude 48.2130327,
    :source :openstreetmap,
-   :locality "Піщанка",
+   :location "Піщанка",
    :image "",
    :description ""}
   {:name "Радехівський краєзнавчий музей",
@@ -8161,7 +8161,7 @@
    :longitude 23.7029787,
    :latitude 48.4254273,
    :source :openstreetmap,
-   :locality "Колочава",
+   :location "Колочава",
    :image "",
    :description ""}
   {:name "Районний будинок дитячої творчості",
@@ -8180,7 +8180,7 @@
    :longitude 27.2355534,
    :latitude 49.0347224,
    :source :openstreetmap,
-   :locality "Віньківці",
+   :location "Віньківці",
    :image "",
    :description ""}
   {:name "Районний будинок культури",
@@ -8277,7 +8277,7 @@
    :longitude 24.204907,
    :latitude 48.0559229,
    :source :openstreetmap,
-   :locality "Рахів",
+   :location "Рахів",
    :image "",
    :description ""}
   {:name "Регiональний етнографiчний музей",
@@ -8324,7 +8324,7 @@
    :latitude 49.9715908,
    :source :openstreetmap,
    :homepage "https://muzeum-r.fitshi.com/",
-   :locality "Ржищів",
+   :location "Ржищів",
    :image "",
    :description ""}
   {:name "Римская крепость Каструм I-III века н.э.",
@@ -8337,7 +8337,7 @@
    :longitude 24.6073678,
    :latitude 49.4086893,
    :source :openstreetmap,
-   :locality "Рогати",
+   :location "Рогати",
    :image "",
    :description ""}
   {:name "Родини Косачів",
@@ -8363,7 +8363,7 @@
    :longitude 29.6372947,
    :latitude 49.9916616,
    :source :openstreetmap,
-   :locality "Романівка",
+   :location "Романівка",
    :image "",
    :description ""}
   {:name "Россия. Моя история",
@@ -8410,7 +8410,7 @@
    :source :openstreetmap,
    :homepage
    "https://travels.in.ua/uk-UA/object/5328/pryvatnyy-krayeznavchyy-muzey-sadyba-zinchenkiv",
-   :locality "Дерев'яна",
+   :location "Дерев'яна",
    :image "",
    :description ""}
   {:name "Садиба на Кудрявці",
@@ -8550,7 +8550,7 @@
    :longitude 31.8819143,
    :latitude 49.2346165,
    :source :openstreetmap,
-   :locality "Сміла",
+   :location "Сміла",
    :image "",
    :description ""}
   {:name "Сокальщина",
@@ -8893,14 +8893,14 @@
    :longitude 28.5652634,
    :latitude 50.9186397,
    :source :openstreetmap,
-   :locality "Коростень",
+   :location "Коростень",
    :image "",
    :description ""}
   {:name "Філія Коростенського міського будинку культури",
    :longitude 28.5958819,
    :latitude 51.003467,
    :source :openstreetmap,
-   :locality "Коростень",
+   :location "Коростень",
    :image "",
    :description ""}
   {:name "Ханский дворец в Бахчисарае",
@@ -9265,7 +9265,7 @@
    :latitude 46.1429599,
    :source :openstreetmap,
    :homepage "https://shabo.ua/",
-   :locality "Шабо",
+   :location "Шабо",
    :image "",
    :description ""}
   {:name "Центр культурних послуг",
@@ -9466,7 +9466,7 @@
    :longitude 34.7640364,
    :latitude 45.3996928,
    :source :openstreetmap,
-   :locality "Желябовка",
+   :location "Желябовка",
    :image "",
    :description ""}
   {:name "Шарiвський палац",
@@ -9904,7 +9904,7 @@
    :longitude 24.8979744,
    :latitude 48.1720498,
    :source :openstreetmap,
-   :locality "Криворівня",
+   :location "Криворівня",
    :image "",
    :description ""}],
  :source

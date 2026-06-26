@@ -134,7 +134,7 @@
    :longitude 1.4768456,
    :latitude 6.2037924,
    :source :openstreetmap,
-   :locality "Agbodrafo",
+   :location "Agbodrafo",
    :image "",
    :description ""}
   {:name "Maison des jeunes et de la culture de Pagouda",

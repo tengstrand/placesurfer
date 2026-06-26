@@ -9,7 +9,7 @@
    :latitude 45.901164750531166,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30009",
-   :locality "Folgaria"}
+   :location "Folgaria"}
   {:name "Alpe Cmbra Disc Golf Park",
    :longitude 11.1757623,
    :latitude 45.8882658,
@@ -21,79 +21,79 @@
    :latitude 44.978045435149426,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42215",
-   :locality "Busseto"}
+   :location "Busseto"}
   {:name "Cascina Donda DiscGolfPark",
    :longitude 8.225981816408591,
    :latitude 45.54357209195379,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42491",
-   :locality "Biella"}
+   :location "Biella"}
   {:name "Disc Golf Brescia ",
    :longitude 10.216062736386391,
    :latitude 45.5696489498026,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42245",
-   :locality "Brescia"}
+   :location "Brescia"}
   {:name "Fattoria di Pietrabuona",
    :longitude 10.685213221257271,
    :latitude 43.92956899705996,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14357",
-   :locality "Pescia"}
+   :location "Pescia"}
   {:name "Green Club Lainate - Ventitre DG",
    :longitude 9.036320270577988,
    :latitude 45.56387418734241,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37922",
-   :locality "Lainate"}
+   :location "Lainate"}
   {:name "Groane Disc Golf Park",
    :longitude 9.104159168731655,
    :latitude 45.561270222135875,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27129",
-   :locality "Bollate"}
+   :location "Bollate"}
   {:name "Lambro 18 TOP",
    :longitude 9.258565414534445,
    :latitude 45.495184248397635,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45711",
-   :locality "Milan"}
+   :location "Milan"}
   {:name "Lambro 18PRO ",
    :longitude 9.258011644549299,
    :latitude 45.495112677872214,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41802",
-   :locality "Milan"}
+   :location "Milan"}
   {:name "Milano Lambro",
    :longitude 9.257778197572463,
    :latitude 45.49584727992331,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30464",
-   :locality "Milano"}
+   :location "Milano"}
   {:name "Parco Lambro Disc Golf",
    :longitude 9.257661689105674,
    :latitude 45.49601403100888,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37579",
-   :locality "Milano"}
+   :location "Milano"}
   {:name "Playing Field DG Barona",
    :longitude 9.144281483431598,
    :latitude 45.435690605226796,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37307",
-   :locality "Milano"}
+   :location "Milano"}
   {:name "Torino Disc Golf Park",
    :longitude 7.725032669787851,
    :latitude 45.08930750873043,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31415",
-   :locality "Torino"}
+   :location "Torino"}
   {:name "Vigheffio Parma",
    :longitude 10.289029665997447,
    :latitude 44.77415866535435,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44333",
-   :locality "Parma"}],
+   :location "Parma"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

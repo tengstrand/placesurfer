@@ -9,7 +9,7 @@
    :latitude 37.292033,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42959",
-   :locality "Aljezur",
+   :location "Aljezur",
    :image "",
    :description ""}
   {:name "Peregrine DGC/Percurso Falcão Peregrina",
@@ -17,7 +17,7 @@
    :latitude 37.723076,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42956",
-   :locality "São Luis",
+   :location "São Luis",
    :image "",
    :description ""}
   {:name "Santo da serra",
@@ -25,7 +25,7 @@
    :latitude 32.72518049350532,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28087",
-   :locality "Machico",
+   :location "Machico",
    :image "",
    :description ""}
   {:name "Valle d'encanto",

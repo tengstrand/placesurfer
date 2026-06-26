@@ -8,17 +8,17 @@
    :longitude -63.0512844,
    :latitude 18.0255393,
    :source :openstreetmap,
-   :locality "Philipsburg"}
+   :location "Philipsburg"}
   {:name "J.W. Sloan Gallery",
    :longitude -63.0776962,
    :latitude 18.0336191,
    :source :openstreetmap,
-   :locality "Koolbaai"}
+   :location "Koolbaai"}
   {:name "John Larmonie Center",
    :longitude -63.0546473,
    :latitude 18.0280429,
    :source :openstreetmap,
-   :locality "Philipsburg"}
+   :location "Philipsburg"}
   {:name "Meotti Artist Painter",
    :longitude -63.0830531,
    :latitude 18.0433581,

@@ -9,7 +9,7 @@
    :latitude 30.023104261067274,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26658",
-   :locality "Colonia LeBaron",
+   :location "Colonia LeBaron",
    :image "",
    :description ""}
   {:name "Las Hadas Club de Golf",
@@ -17,7 +17,7 @@
    :latitude 19.109958806842528,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24465",
-   :locality "Manzanillo",
+   :location "Manzanillo",
    :image "",
    :description ""}
   {:name "Parque Rufino Tamayo",
@@ -25,7 +25,7 @@
    :latitude 25.644723598781184,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26795",
-   :locality "San Pedro Garza García",
+   :location "San Pedro Garza García",
    :image "",
    :description ""}],
  :source

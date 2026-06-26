@@ -8,12 +8,12 @@
    :longitude -55.1611358,
    :latitude 5.8288986,
    :source :openstreetmap,
-   :locality "Paramaribo"}
+   :location "Paramaribo"}
   {:name "Bibliotheek Surinaams Museum",
    :longitude -55.1835507,
    :latitude 5.8130355,
    :source :openstreetmap,
-   :locality "Paramaribo"}
+   :location "Paramaribo"}
   {:name "Butterfly Plantation",
    :longitude -55.2018356,
    :latitude 5.68712,
@@ -28,18 +28,18 @@
    :latitude 5.8873094,
    :source :openstreetmap,
    :homepage "https://www.fortnieuwamsterdam.com/",
-   :locality "Nieuw Amsterdam"}
+   :location "Nieuw Amsterdam"}
   {:name "Fort Zeelandia",
    :longitude -55.1497155,
    :latitude 5.8251427,
    :source :openstreetmap,
-   :locality "Paramaribo"}
+   :location "Paramaribo"}
   {:name "Koto Museum",
    :longitude -55.1574203,
    :latitude 5.8334186,
    :source :openstreetmap,
    :homepage "https://www.hetkotomuseum.org/",
-   :locality "Paramaribo"}
+   :location "Paramaribo"}
   {:name "Mariënburg Suikerfabriek",
    :longitude -55.0478227,
    :latitude 5.8724945,
@@ -48,7 +48,7 @@
    :longitude -55.1635162,
    :latitude 5.8233799,
    :source :openstreetmap,
-   :locality "Paramaribo"}
+   :location "Paramaribo"}
   {:name "Peperpot Nature Reserve Information Centre",
    :longitude -55.1186587,
    :latitude 5.8004812,
@@ -69,7 +69,7 @@
    :longitude -55.177239,
    :latitude 5.8241875,
    :source :openstreetmap,
-   :locality "Paramaribo"}
+   :location "Paramaribo"}
   {:name "Verhalenmuseum",
    :longitude -55.0342724,
    :latitude 5.8887367,

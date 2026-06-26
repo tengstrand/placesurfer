@@ -9,25 +9,25 @@
    :latitude 48.157146528059286,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24884",
-   :locality "Wels"}
+   :location "Wels"}
   {:name "Böhmerwaldpark",
    :longitude 13.863476460386806,
    :latitude 48.67727661390336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39246",
-   :locality "Seitelschlag"}
+   :location "Seitelschlag"}
   {:name "die Wies´n Discgolf",
    :longitude 15.870614151491623,
    :latitude 46.99392719892168,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31185",
-   :locality "Feldbach"}
+   :location "Feldbach"}
   {:name "Disc Golf Club Petzen Training 2026",
    :longitude 14.795678078671045,
    :latitude 46.55997473856277,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45798",
-   :locality "Penk"}
+   :location "Penk"}
   {:name "Disc Golf Course VGT (6 Körbe)",
    :longitude 15.4542545,
    :latitude 47.0545182,
@@ -40,37 +40,37 @@
    :latitude 48.15053888585007,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17643",
-   :locality "Schwechat"}
+   :location "Schwechat"}
   {:name "Disc Golf Erholungsgebiet Mannswörth",
    :longitude 16.520820359503603,
    :latitude 48.145316116457764,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22255",
-   :locality "Schwechat"}
+   :location "Schwechat"}
   {:name "Disc Golf Erholungsgebiet Mannswörth",
    :longitude 16.507370754213667,
    :latitude 48.150748232777545,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35032",
-   :locality "Schwechat"}
+   :location "Schwechat"}
   {:name "Disc Golf Parcours Rangger Köpfl",
    :longitude 11.200170231316946,
    :latitude 47.240338380464095,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20609",
-   :locality "Oberperfuss"}
+   :location "Oberperfuss"}
   {:name "Disc Golf Parcours Volkspark Laaerberg",
    :longitude 16.38808289159499,
    :latitude 48.155866224038306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17647",
-   :locality "Wien"}
+   :location "Wien"}
   {:name "Disc Golf Park Bichlbach",
    :longitude 10.7874520315371,
    :latitude 47.41951370122328,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19499",
-   :locality "Bichlbach"}
+   :location "Bichlbach"}
   {:name "Discgolf in da Pampa",
    :longitude 16.173202,
    :latitude 47.444338,
@@ -78,7 +78,7 @@
    :holes 9,
    :layout-holes 9,
    :layout-name "Main Layout",
-   :locality "Grametschlag"}
+   :location "Grametschlag"}
   {:name "Discgolf Parcours Schmitten",
    :longitude 12.7560277,
    :latitude 47.3440877,
@@ -98,13 +98,13 @@
    :latitude 47.85877940536204,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14145",
-   :locality "Eisenstadt"}
+   :location "Eisenstadt"}
   {:name "Glungezer",
    :longitude 11.543909923073983,
    :latitude 47.24193671911257,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28245",
-   :locality "Tulfes"}
+   :location "Tulfes"}
   {:name "GUG 2026",
    :longitude 11.137190066303248,
    :latitude 47.12931805982592,
@@ -115,7 +115,7 @@
    :latitude 48.324767349062,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22530",
-   :locality "Linz-Urfahr"}
+   :location "Linz-Urfahr"}
   {:name "Hebalm",
    :longitude 15.0059587,
    :latitude 46.9297107,
@@ -129,61 +129,61 @@
    :holes 18,
    :layout-holes 18,
    :layout-name "Main Layout",
-   :locality "Graz"}
+   :location "Graz"}
   {:name "Karlingberger Gut",
    :longitude 14.642751871793536,
    :latitude 48.252804993702114,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28052",
-   :locality "Perg"}
+   :location "Perg"}
   {:name "KUMM crazy 13 (1,2,3,4,5,7,7b,13,14,15,16,17,18)",
    :longitude 14.732097841078712,
    :latitude 48.30888657065813,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36212",
-   :locality "Sankt Thomas am Blasenstein"}
+   :location "Sankt Thomas am Blasenstein"}
   {:name "KUMM Disc Golf Parcourse --> Classic",
    :longitude 14.731853259765387,
    :latitude 48.30903184296844,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14238",
-   :locality "Sankt Thomas am Blasenstein"}
+   :location "Sankt Thomas am Blasenstein"}
   {:name "Kumm Final 9",
    :longitude 14.738608419592254,
    :latitude 48.3202633124657,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27418",
-   :locality "Sankt Thomas am Blasenstein"}
+   :location "Sankt Thomas am Blasenstein"}
   {:name "KUMM Front 9 + Insel und 6a",
    :longitude 14.732099631057082,
    :latitude 48.30904434412736,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45238",
-   :locality "St. Thomas am Blasenstein"}
+   :location "St. Thomas am Blasenstein"}
   {:name "Lake Park Trophy",
    :longitude 15.084109356678255,
    :latitude 48.16301913982309,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23622",
-   :locality "Ybbs an der Donau"}
+   :location "Ybbs an der Donau"}
   {:name "Park Gratwein-Straßengel ",
    :longitude 15.336880452770771,
    :latitude 47.114690765782115,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31183",
-   :locality "Gratwein-Straßengel"}
+   :location "Gratwein-Straßengel"}
   {:name "Petzen Parcours",
    :longitude 14.771315553936375,
    :latitude 46.51789482615922,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14302",
-   :locality "Feistritz ob Bleiburg"}
+   :location "Feistritz ob Bleiburg"}
   {:name "Prater",
    :longitude 16.425110991218787,
    :latitude 48.19953721863382,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29146",
-   :locality "Wien"}
+   :location "Wien"}
   {:name "Prater Fast & Stable 10",
    :longitude 16.42256043055596,
    :latitude 48.200865590615365,
@@ -194,49 +194,49 @@
    :latitude 47.08232518140409,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35815",
-   :locality "Graz"}
+   :location "Graz"}
   {:name "Round of Lässig",
    :longitude 16.42253769731869,
    :latitude 48.20095411898646,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46934",
-   :locality "Wien"}
+   :location "Wien"}
   {:name "Safari Layout Hurricanes Training",
    :longitude 16.422591847390606,
    :latitude 48.20070345374617,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35243",
-   :locality "Wien"}
+   :location "Wien"}
   {:name "Schleifmühlbach, Ybbs, (Classic-Turnier-Layout)",
    :longitude 15.087151280865385,
    :latitude 48.16766034519998,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29938",
-   :locality "Ybbs an der Donau"}
+   :location "Ybbs an der Donau"}
   {:name "SCHÖCKL",
    :longitude 15.466447911783376,
    :latitude 47.198483118636005,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26626",
-   :locality "8061 Sankt Radegund bei Graz"}
+   :location "8061 Sankt Radegund bei Graz"}
   {:name "Schöckl-Turnierlayour_ab2019",
    :longitude 15.486044568311854,
    :latitude 47.18574627254171,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/16031",
-   :locality "St. Radegund bei Graz"}
+   :location "St. Radegund bei Graz"}
   {:name "Schöckl-Turnierlayout_ab2020 Finale",
    :longitude 15.467191078357757,
    :latitude 47.19856217085197,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20547",
-   :locality "Sankt Radegund bei Graz"}
+   :location "Sankt Radegund bei Graz"}
   {:name "Splash & Throw - Approach & Putt Course",
    :longitude 10.413277521311755,
    :latitude 47.279185880834774,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42580",
-   :locality "Elbigenalp"}
+   :location "Elbigenalp"}
   {:name "Stiglreith TT Turnierlayout 25",
    :longitude 11.21894456710595,
    :latitude 47.237604786068204,
@@ -247,14 +247,14 @@
    :latitude 48.19083846882887,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46704",
-   :locality "St. Pölten"}
+   :location "St. Pölten"}
   {:name "STP Lions Green Park",
    :longitude 15.632959316979623,
    :latitude 48.1894581049863,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19845",
-   :locality "Sankt Pölten"}
-  {:locality "Kappl",
+   :location "Sankt Pölten"}
+  {:location "Kappl",
    :homepage
    "http://www.andersgolfen.com/parcours/sunny-mountain-disc-golf-parcours-in-kappl/",
    :name "Sunny Mountain Disc Golf Parcours",
@@ -269,31 +269,31 @@
    :latitude 47.25612129545186,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22187",
-   :locality "Innsbruck"}
+   :location "Innsbruck"}
   {:name "Volkspark 2x9 Bahnen (Mulligan Challenge) ",
    :longitude 16.386822326857725,
    :latitude 48.15818919540513,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32542",
-   :locality "Wien"}
+   :location "Wien"}
   {:name "Wagrain",
    :longitude 13.312087445672859,
    :latitude 47.33559300336313,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19466",
-   :locality "Wagrain"}
+   :location "Wagrain"}
   {:name "Wiener LL Finale ",
    :longitude 16.42187164210972,
    :latitude 48.20123340054113,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45215",
-   :locality "Wien"}
+   :location "Wien"}
   {:name "Wiener Prater Disc Golf Parcours",
    :longitude 16.42189,
    :latitude 48.201326,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13753",
-   :locality "Wien"}],
+   :location "Wien"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

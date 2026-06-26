@@ -9,7 +9,7 @@
    :latitude 3.5701475607973094,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42545",
-   :locality "Port Harcourt"}],
+   :location "Port Harcourt"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

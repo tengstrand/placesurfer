@@ -9,31 +9,31 @@
    :latitude 51.156750842564094,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35288",
-   :locality "Salisbury"}
+   :location "Salisbury"}
   {:name "Calcot",
    :longitude -2.231553,
    :latitude 51.653503,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9415",
-   :locality "Tetbury"}
+   :location "Tetbury"}
   {:name "Clara Vale Recretion Ground",
    :longitude -1.799217819648021,
    :latitude 54.97773720829176,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14275",
-   :locality "Ryton"}
+   :location "Ryton"}
   {:name "Cotswold View DGC",
    :longitude -1.4713753356331836,
    :latitude 51.88531622660989,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38722",
-   :locality "Charlburyб Chipping Norton OX7"}
+   :location "Charlburyб Chipping Norton OX7"}
   {:name "Craggan",
    :longitude -3.627805709838867,
    :latitude 57.31283804495915,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9613",
-   :locality "Grantown on Spey"}
+   :location "Grantown on Spey"}
   {:name "Dinton Pastures Country Park -> WHITE",
    :longitude -0.869382917650114,
    :latitude 51.446425006136735,
@@ -44,7 +44,7 @@
    :latitude 53.49011915772806,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25431",
-   :locality "Doncaster"}
+   :location "Doncaster"}
   {:name "Harcourt Course",
    :longitude -1.2812569,
    :latitude 51.734627,
@@ -60,19 +60,19 @@
    :latitude 51.547575014135816,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23165",
-   :locality "Greenford"}
+   :location "Greenford"}
   {:name "Kenward Place disc golf",
    :longitude 0.42109690963684443,
    :latitude 51.2373567967243,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35238",
-   :locality "Maidstone"}
+   :location "Maidstone"}
   {:name "King George V Park",
    :longitude -1.1688571475279161,
    :latitude 53.12888931560775,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35325",
-   :locality "Mansfield"}
+   :location "Mansfield"}
   {:name "Lea Heath",
    :longitude -0.8717681,
    :latitude 51.4430914,
@@ -83,19 +83,19 @@
    :latitude 51.3642562,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10267",
-   :locality "Croydon"}
+   :location "Croydon"}
   {:name "Lloyd Park Disc Golf Course",
    :longitude -0.0805418063229979,
    :latitude 51.364306465731346,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27902",
-   :locality "Croydon"}
+   :location "Croydon"}
   {:name "Longford Park (advanced course)",
    :longitude -2.291078567504883,
    :latitude 53.448337207560684,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/13297",
-   :locality "Manchester"}
+   :location "Manchester"}
   {:name "LVRP Disc Golf",
    :longitude -0.0181481,
    :latitude 51.6931341,
@@ -107,7 +107,7 @@
    :latitude 51.329911,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/6045",
-   :locality "Bristol"}
+   :location "Bristol"}
   {:name "Mereside",
    :longitude -2.7259721,
    :latitude 52.6908788,
@@ -117,7 +117,7 @@
    :latitude 52.25420863542698,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38739",
-   :locality "Cambridge CB23 3RD"}
+   :location "Cambridge CB23 3RD"}
   {:name "Quarry Park Disk Golf",
    :longitude -1.547158,
    :latitude 52.3085188,
@@ -127,7 +127,7 @@
    :latitude 54.846741463489565,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15339",
-   :locality "Leamington Spa"}
+   :location "Leamington Spa"}
   {:name "Quarry Park Open 2019 rd2",
    :longitude -0.6669556479178027,
    :latitude 53.9947414237804,
@@ -143,7 +143,7 @@
    :latitude 56.05861654366072,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14685",
-   :locality "North Berwick"}
+   :location "North Berwick"}
   {:name "Riverside Park Disc Golf",
    :longitude -3.1832144,
    :latitude 56.2013648,
@@ -153,19 +153,19 @@
    :latitude 53.164838429451834,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35182",
-   :locality "Chesterfield"}
+   :location "Chesterfield"}
   {:name "Sherwood Pines",
    :longitude -1.0876020651286922,
    :latitude 53.16751947923575,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35068",
-   :locality "Mansfield"}
+   :location "Mansfield"}
   {:name "Springburn Park",
    :longitude -4.221763856073096,
    :latitude 55.89019112053353,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21919",
-   :locality "Glasgow"}
+   :location "Glasgow"}
   {:name "VereinsmeisterschaftDGMUC2024",
    :longitude 11.591511998089032,
    :latitude 48.03633430881712,

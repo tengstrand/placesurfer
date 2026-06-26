@@ -14,7 +14,7 @@
    :longitude -6.9029523,
    :latitude 30.9279353,
    :source :openstreetmap,
-   :locality "Ouarzazate ورزازات",
+   :location "Ouarzazate ورزازات",
    :image "",
    :description ""}
   {:name "Ali's Art Gallery",
@@ -51,7 +51,7 @@
    :longitude -4.9848905,
    :latitude 34.0672703,
    :source :openstreetmap,
-   :locality "Fès",
+   :location "Fès",
    :image "",
    :description ""}
   {:name "Caligraphie au safran",
@@ -100,14 +100,14 @@
    :longitude -5.3669548,
    :latitude 35.5663355,
    :source :openstreetmap,
-   :locality "Tétouan",
+   :location "Tétouan",
    :image "",
    :description ""}
   {:name "Chez Les Artistes",
    :longitude -4.0056805,
    :latitude 31.034002,
    :source :openstreetmap,
-   :locality "Khamlia ⵅⵎⵍⵢⵢⴰ خملية",
+   :location "Khamlia ⵅⵎⵍⵢⵢⴰ خملية",
    :image "",
    :description ""}
   {:name "Cité des Arts مديمة الفنون",
@@ -126,7 +126,7 @@
    :longitude -5.0028195,
    :latitude 34.0419573,
    :source :openstreetmap,
-   :locality "Fès",
+   :location "Fès",
    :image "",
    :description ""}
   {:name "Conservatoire",
@@ -170,7 +170,7 @@
    :longitude -7.7787547,
    :latitude 31.3578068,
    :source :openstreetmap,
-   :locality "Tafza",
+   :location "Tafza",
    :image "",
    :description ""}
   {:name "Ecomusée du Parc national de Toubkal",
@@ -228,7 +228,7 @@
    :longitude -7.6334062,
    :latitude 33.5859385,
    :source :openstreetmap,
-   :locality "Casablanca",
+   :location "Casablanca",
    :image "",
    :description ""}
   {:name "Galerie Panorama",
@@ -342,14 +342,14 @@
    :longitude -1.2305447,
    :latitude 32.108878,
    :source :openstreetmap,
-   :locality "Figuig ⵉⴼⵉⵢⵢⵉⵢ فكيك",
+   :location "Figuig ⵉⴼⵉⵢⵢⵉⵢ فكيك",
    :image "",
    :description ""}
   {:name "Maison de la Culture",
    :longitude -6.3587049,
    :latitude 32.3307955,
    :source :openstreetmap,
-   :locality "Béni Mellal",
+   :location "Béni Mellal",
    :image "",
    :description ""}
   {:name "Maison de la cédraie (Site Moudmame)",
@@ -363,7 +363,7 @@
    :latitude 31.6319862,
    :source :openstreetmap,
    :homepage "https://www.maisondelaphotographie.ma",
-   :locality "Marrakech",
+   :location "Marrakech",
    :image "",
    :description ""}
   {:name "Maison de Patrimoine Ich",
@@ -376,7 +376,7 @@
    :longitude -7.244742,
    :latitude 33.0678963,
    :source :openstreetmap,
-   :locality "Ben Ahmed",
+   :location "Ben Ahmed",
    :image "",
    :description ""}
   {:name
@@ -390,7 +390,7 @@
    :longitude -6.843415,
    :latitude 34.0117324,
    :source :openstreetmap,
-   :locality "Rabat ⵔⴱⴰⵟ الرباط",
+   :location "Rabat ⵔⴱⴰⵟ الرباط",
    :image "",
    :description ""}
   {:name "Maison Traditionelle",
@@ -403,7 +403,7 @@
    :longitude -8.942976,
    :latitude 29.7647696,
    :source :openstreetmap,
-   :locality "Oumnenat",
+   :location "Oumnenat",
    :image "",
    :description ""}
   {:name "Marshan Art Gallery",
@@ -460,7 +460,7 @@
    :latitude 31.4940787,
    :source :openstreetmap,
    :homepage "https://www.elkhorbat.com/",
-   :locality "Tinejdad",
+   :location "Tinejdad",
    :image "",
    :description ""}
   {:name "Musee Maison Traditionel متحف البيت التقليدي",
@@ -479,7 +479,7 @@
    :longitude -4.2928792,
    :latitude 33.4727064,
    :source :openstreetmap,
-   :locality "Imouzzer Marmoucha ⵉⵎⵓⵣⵣⴰⵔ ⵎⵕⵎⵓⵛⴰ إموزار مرموشة",
+   :location "Imouzzer Marmoucha ⵉⵎⵓⵣⵣⴰⵔ ⵎⵕⵎⵓⵛⴰ إموزار مرموشة",
    :image "",
    :description ""}
   {:name "Museum Kasbah",
@@ -541,7 +541,7 @@
    :latitude 34.0604457,
    :source :openstreetmap,
    :homepage "http://www.fnm.ma/musee-al-batha-de-fes/",
-   :locality "Fès",
+   :location "Fès",
    :image "",
    :description ""}
   {:name "Musée Berbère",
@@ -573,7 +573,7 @@
    :longitude -9.6551752,
    :latitude 30.4443476,
    :source :openstreetmap,
-   :locality "Agadir ⴰⴳⴰⴷⵉⵔ أكادير",
+   :location "Agadir ⴰⴳⴰⴷⵉⵔ أكادير",
    :image "",
    :description ""}
   {:name "Musée De la Civilisation de L'eau",
@@ -592,7 +592,7 @@
    :longitude -7.9472929,
    :latitude 31.6508833,
    :source :openstreetmap,
-   :locality "Marrakech",
+   :location "Marrakech",
    :image "",
    :description ""}
   {:name "Musée de la Résistance",
@@ -611,7 +611,7 @@
    :longitude -6.8275879,
    :latitude 34.020877,
    :source :openstreetmap,
-   :locality "RABAT",
+   :location "RABAT",
    :image "",
    :description ""}
   {:name "Musée des sources de Lalla Minouna",
@@ -664,7 +664,7 @@
    :longitude -5.0098041,
    :latitude 34.0386772,
    :source :openstreetmap,
-   :locality "Fès",
+   :location "Fès",
    :image "",
    :description ""}
   {:name "Musée Régional Berbère",
@@ -678,7 +678,7 @@
    :latitude 31.6222731,
    :source :openstreetmap,
    :homepage "https://tiskiwin.wdro.net/",
-   :locality "Marrakech",
+   :location "Marrakech",
    :image "",
    :description ""}
   {:name
@@ -686,7 +686,7 @@
    :longitude -6.8387658,
    :latitude 34.0062816,
    :source :openstreetmap,
-   :locality "Rabat ⵔⴱⴰⵟ الرباط",
+   :location "Rabat ⵔⴱⴰⵟ الرباط",
    :image "",
    :description ""}
   {:name "Orientaliste Art Gallery",
@@ -699,7 +699,7 @@
    :longitude -5.8217646,
    :latitude 35.7854903,
    :source :openstreetmap,
-   :locality "Tánger طنجة",
+   :location "Tánger طنجة",
    :image "",
    :description ""}
   {:name "Petit Musée",
@@ -714,7 +714,7 @@
    :source :openstreetmap,
    :homepage
    "https://tanger.cervantes.es/es/sobre_nosotros_centro_espanol.htm",
-   :locality "Tanger",
+   :location "Tanger",
    :image "",
    :description ""}
   {:name "Tahiri Museum Fossils & Minerals",
@@ -728,7 +728,7 @@
    :latitude 35.7838627,
    :source :openstreetmap,
    :homepage "https://www.legation.org/",
-   :locality "Tanger ⵜⵉⵏ ⵉⴳⴳⵉ طنجة",
+   :location "Tanger ⵜⵉⵏ ⵉⴳⴳⵉ طنجة",
    :image "",
    :description ""}
   {:name "Taourirt Kasbah",
@@ -773,7 +773,7 @@
    :longitude -4.9601637,
    :latitude 34.0608065,
    :source :openstreetmap,
-   :locality "جنان الورد فاس ساحة انوال",
+   :location "جنان الورد فاس ساحة انوال",
    :image "",
    :description ""}
   {:name "دار نادية سلا",

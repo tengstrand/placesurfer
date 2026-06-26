@@ -8,7 +8,7 @@
    :longitude -52.8709421,
    :latitude 68.708477,
    :source :openstreetmap,
-   :locality "Aasiaat",
+   :location "Aasiaat",
    :image "",
    :description ""}
   {:name "Ammassalik Museum",
@@ -47,7 +47,7 @@
    :longitude -21.9618078,
    :latitude 70.484749,
    :source :openstreetmap,
-   :locality "Ittoqqortoormiit",
+   :location "Ittoqqortoormiit",
    :image "",
    :description ""}
   {:name "Kangaamiut Katersugaasiviat (museum)",
@@ -75,7 +75,7 @@
    :latitude 65.4195624,
    :source :openstreetmap,
    :homepage "http://www.maniitsoq.museum.gl/",
-   :locality "Maniitsoq",
+   :location "Maniitsoq",
    :image "",
    :description ""}
   {:name "Nanortalik Open-Air Museum",
@@ -88,7 +88,7 @@
    :longitude -45.4201384,
    :latitude 61.1605601,
    :source :openstreetmap,
-   :locality "Narsarsuaq",
+   :location "Narsarsuaq",
    :image "",
    :description ""}
   {:name "Nuuk Kunstmuseum",
@@ -119,7 +119,7 @@
    :longitude -51.1813138,
    :latitude 68.8202093,
    :source :openstreetmap,
-   :locality "Qasigiannguit",
+   :location "Qasigiannguit",
    :image "",
    :description ""}
   {:name "Qeqertarsuaq  Katersugaasivia",
@@ -134,7 +134,7 @@
    :latitude 60.7187658,
    :source :openstreetmap,
    :homepage "http://www.Qaqortoq.Museum.gl/",
-   :locality "Qaqortoq",
+   :location "Qaqortoq",
    :image "",
    :description ""}
   {:name "Sanaluttarfimmut",
@@ -155,7 +155,7 @@
    :latitude 60.7160104,
    :source :openstreetmap,
    :homepage "http://www.museum.gl/Qaqortoq",
-   :locality "Qaqortoq",
+   :location "Qaqortoq",
    :image "",
    :description ""}
   {:name "Tuullik",

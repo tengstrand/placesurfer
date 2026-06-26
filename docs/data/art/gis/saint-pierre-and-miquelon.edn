@@ -20,7 +20,7 @@
    :longitude -56.1498708,
    :latitude 46.7845698,
    :source :openstreetmap,
-   :locality "Saint-Pierre"}
+   :location "Saint-Pierre"}
   {:name "Musée Héritage",
    :longitude -56.1729563,
    :latitude 46.779659,

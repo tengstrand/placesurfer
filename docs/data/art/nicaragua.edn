@@ -32,14 +32,14 @@
    :longitude -86.3559856,
    :latitude 13.0917596,
    :source :openstreetmap,
-   :locality "Esteli",
+   :location "Esteli",
    :image "",
    :description ""}
   {:name "Casa de Cultura Calmecalt",
    :longitude -86.4799832,
    :latitude 13.3792019,
    :source :openstreetmap,
-   :locality "Pueblo Nuevo",
+   :location "Pueblo Nuevo",
    :image "",
    :description ""}
   {:name "Casa de cultura Noel Ortuño",
@@ -106,7 +106,7 @@
    :longitude -83.7600994,
    :latitude 12.0104239,
    :source :openstreetmap,
-   :locality "Bluefields",
+   :location "Bluefields",
    :image "",
    :description ""}
   {:name "Colonia Dambach",
@@ -119,7 +119,7 @@
    :longitude -85.951988,
    :latitude 11.9321723,
    :source :openstreetmap,
-   :locality "Granada",
+   :location "Granada",
    :image "",
    :description ""}
   {:name "El Castillo del Cacao",
@@ -140,7 +140,7 @@
    :longitude -85.9949313,
    :latitude 13.0881291,
    :source :openstreetmap,
-   :locality "Jinotega",
+   :location "Jinotega",
    :image "",
    :description ""}
   {:name "Galería Vivas",
@@ -208,7 +208,7 @@
    :longitude -86.0951575,
    :latitude 11.9045086,
    :source :openstreetmap,
-   :locality "Niquinohomo",
+   :location "Niquinohomo",
    :image "",
    :description ""}
   {:name "MUSEO AUKA TANGNI",
@@ -252,7 +252,7 @@
    :longitude -86.057344,
    :latitude 11.756755,
    :source :openstreetmap,
-   :locality "Nandaime",
+   :location "Nandaime",
    :image "",
    :description ""}
   {:name "Museo de la Revolución",
@@ -283,7 +283,7 @@
    :longitude -86.0010015,
    :latitude 13.0783586,
    :source :openstreetmap,
-   :locality "Jinotega",
+   :location "Jinotega",
    :image "",
    :description ""}
   {:name "Museo del Folclor",
@@ -320,7 +320,7 @@
    :longitude -86.121436,
    :latitude 12.0029412,
    :source :openstreetmap,
-   :locality "Nindiri",
+   :location "Nindiri",
    :image "",
    :description ""}
   {:name "Museo Nacudarí",
@@ -388,7 +388,7 @@
    :longitude -86.0973557,
    :latitude 11.977327,
    :source :openstreetmap,
-   :locality "Masaya",
+   :location "Masaya",
    :image "",
    :description ""}],
  :source

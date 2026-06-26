@@ -9,7 +9,7 @@
    :latitude 52.176739770733406,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41219",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "#7 zpdgw",
@@ -17,7 +17,7 @@
    :latitude 52.177759754843976,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40371",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "0 par 3",
@@ -25,7 +25,7 @@
    :latitude 52.17668350854916,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38055",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "5 kolejka - finał - OZLDG",
@@ -33,7 +33,7 @@
    :latitude 53.53234776790865,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32309",
-   :locality "Warchały",
+   :location "Warchały",
    :image "",
    :description ""}
   {:name "Amatorskie zawody #2",
@@ -41,7 +41,7 @@
    :latitude 52.176893620868555,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40120",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Bak’yärd",
@@ -49,7 +49,7 @@
    :latitude 52.01286526275268,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28562",
-   :locality "Piaseczno",
+   :location "Piaseczno",
    :image "",
    :description ""}
   {:name "Bielawki",
@@ -57,7 +57,7 @@
    :latitude 54.28037721840755,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39492",
-   :locality "Bielawki",
+   :location "Bielawki",
    :image "",
    :description ""}
   {:name "Bober - trening ZPDGW 24/25 #3",
@@ -86,7 +86,7 @@
    :latitude 52.172279554728476,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45584",
-   :locality "Warsaw",
+   :location "Warsaw",
    :image "",
    :description ""}
   {:name "Bober DG #18 - bez lasku",
@@ -94,7 +94,7 @@
    :latitude 52.17731592810773,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43084",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Boisko 1",
@@ -102,7 +102,7 @@
    :latitude 52.17467620003316,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28883",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Brajniki 18",
@@ -110,7 +110,7 @@
    :latitude 53.532115931614015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23417",
-   :locality "Jedwabno",
+   :location "Jedwabno",
    :image "",
    :description ""}
   {:name "Bunkier challenge",
@@ -125,7 +125,7 @@
    :latitude 52.40374793903726,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44951",
-   :locality "Klembów",
+   :location "Klembów",
    :image "",
    :description ""}
   {:name "Dgdg 18 2025",
@@ -140,7 +140,7 @@
    :latitude 52.179124153027146,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34483",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "DGW 12",
@@ -148,7 +148,7 @@
    :latitude 52.13589967213392,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18780",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "DGW 15 nowy układ 08-2021",
@@ -156,7 +156,7 @@
    :latitude 52.211566572119494,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24492",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "DGW Ziomy",
@@ -164,7 +164,7 @@
    :latitude 52.2352177693123,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18467",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Disc Golf Droga Golfowa - DGDG",
@@ -172,7 +172,7 @@
    :latitude 52.177072193226735,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30880",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Disc Golf Luboń DiscGolfEurope -> Purple",
@@ -180,7 +180,7 @@
    :latitude 52.33330336876645,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45299",
-   :locality "Luboń",
+   :location "Luboń",
    :image "",
    :description ""}
   {:name "Disc Golf Międzybłocie - Złotów",
@@ -188,7 +188,7 @@
    :latitude 53.361933510804306,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41431",
-   :locality "Złotów",
+   :location "Złotów",
    :image "",
    :description ""}
   {:name "Disc Golf Ożarowianka",
@@ -196,7 +196,7 @@
    :latitude 52.23322995178302,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42006",
-   :locality "Kręczki",
+   :location "Kręczki",
    :image "",
    :description ""}
   {:name "DISC GOLF PARK im. R. REAGANA",
@@ -204,7 +204,7 @@
    :latitude 54.40873178582282,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40341",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "DISC GOLF PARK im. R. REAGANA Nowe 9",
@@ -219,7 +219,7 @@
    :latitude 50.76315747014684,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30983",
-   :locality "Wałbrzych",
+   :location "Wałbrzych",
    :image "",
    :description ""}
   {:name "Disc Golf Park Złotów 10",
@@ -227,7 +227,7 @@
    :latitude 53.35515641993655,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37369",
-   :locality "Złotów",
+   :location "Złotów",
    :image "",
    :description ""}
   {:name "Disc Golf Pompka",
@@ -235,7 +235,7 @@
    :latitude 52.16660162946957,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45400",
-   :locality "Mińsk Mazowiecki",
+   :location "Mińsk Mazowiecki",
    :image "",
    :description ""}
   {:name "Disc Golf Pompka zimowy puchar #9",
@@ -243,7 +243,7 @@
    :latitude 52.16966905343696,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46133",
-   :locality "Mińsk Mazowiecki",
+   :location "Mińsk Mazowiecki",
    :image "",
    :description ""}
   {:name "Disc Golf Rypin",
@@ -251,7 +251,7 @@
    :latitude 53.06244614990774,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30995",
-   :locality "Rypin",
+   :location "Rypin",
    :image "",
    :description ""}
   {:name "Disc Golf Skorupy",
@@ -265,7 +265,7 @@
    :latitude 52.210725,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14020",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Disc golf Warszawa",
@@ -273,7 +273,7 @@
    :latitude 52.17756703835144,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38613",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Disc Golf Warszawa 2020",
@@ -281,7 +281,7 @@
    :latitude 52.21275970772626,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18945",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Disc Golf Wawer 2022",
@@ -289,7 +289,7 @@
    :latitude 52.21108584368437,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28306",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Disc Golf Zielona Ostoja Łódź",
@@ -297,7 +297,7 @@
    :latitude 51.804791832705945,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45601",
-   :locality "Łódź",
+   :location "Łódź",
    :image "",
    :description ""}
   {:name "DiscGolfPark Złotów",
@@ -305,7 +305,7 @@
    :latitude 53.356909751092104,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20164",
-   :locality "Złotów",
+   :location "Złotów",
    :image "",
    :description ""}
   {:name "DiscGolfPark Złotów 12",
@@ -313,7 +313,7 @@
    :latitude 53.35495547941332,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/20557",
-   :locality "Złotów",
+   :location "Złotów",
    :image "",
    :description ""}
   {:name "DiscGolfPark Złotów 22",
@@ -321,7 +321,7 @@
    :latitude 53.35414862679136,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24209",
-   :locality "Złotów (Gmina)",
+   :location "Złotów (Gmina)",
    :image "",
    :description ""}
   {:name "Dolina Trzech Stawów Katowice (red tee)",
@@ -329,7 +329,7 @@
    :latitude 50.246828136579666,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31569",
-   :locality "Katowice",
+   :location "Katowice",
    :image "",
    :description ""}
   {:name "Droga Golfowa /nieaktualne/",
@@ -337,7 +337,7 @@
    :latitude 52.17773492755683,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29861",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Droga golfowa mini layout 9 dołków",
@@ -345,7 +345,7 @@
    :latitude 52.18196917775509,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33692",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Droga Golfowa PDGA",
@@ -353,7 +353,7 @@
    :latitude 52.177678672825834,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46731",
-   :locality "Warsaw",
+   :location "Warsaw",
    :image "",
    :description ""}
   {:name "Fojutowo Disc Golf",
@@ -361,7 +361,7 @@
    :latitude 53.72489797594798,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/15773",
-   :locality "Fojutowo",
+   :location "Fojutowo",
    :image "",
    :description ""}
   {:name "Forehand Layout 2x12",
@@ -369,7 +369,7 @@
    :latitude 50.28767883508948,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37349",
-   :locality "Gliwice",
+   :location "Gliwice",
    :image "",
    :description ""}
   {:name "Gawel zimowa dgw",
@@ -384,7 +384,7 @@
    :latitude 50.287405902505895,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/10322",
-   :locality "Gliwice",
+   :location "Gliwice",
    :image "",
    :description ""}
   {:name "Golfowa putter only 2026",
@@ -392,7 +392,7 @@
    :latitude 52.17767893004441,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45837",
-   :locality "Warsaw",
+   :location "Warsaw",
    :image "",
    :description ""}
   {:name "Green Valley DGC",
@@ -400,7 +400,7 @@
    :latitude 54.38921641860347,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34594",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Grobla",
@@ -408,7 +408,7 @@
    :latitude 51.11019878997669,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30577",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "Grobla LG",
@@ -416,7 +416,7 @@
    :latitude 51.0982611692404,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31886",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "Grobla moiko",
@@ -424,7 +424,7 @@
    :latitude 51.09972327784482,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34823",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "Grynwald Discgolf Course",
@@ -432,7 +432,7 @@
    :latitude 50.698045434844346,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/43905",
-   :locality "Raków",
+   :location "Raków",
    :image "",
    :description ""}
   {:name "J.J. layout",
@@ -440,7 +440,7 @@
    :latitude 50.76303306236778,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41660",
-   :locality "Wałbrzych",
+   :location "Wałbrzych",
    :image "",
    :description ""}
   {:name "Jaśkowa",
@@ -448,7 +448,7 @@
    :latitude 54.37413191615923,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/24580",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa",
@@ -463,7 +463,7 @@
    :latitude 54.372438636611264,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37098",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa Crazy Merge 2024",
@@ -471,7 +471,7 @@
    :latitude 54.372359406737445,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36690",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa Disc Golf Zone",
@@ -479,7 +479,7 @@
    :latitude 54.371854400017725,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37063",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa Dolina - King of The Jungle II",
@@ -487,7 +487,7 @@
    :latitude 54.37315580868781,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39659",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa Glow Disc Golf Zone",
@@ -495,7 +495,7 @@
    :latitude 54.371936254452635,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39359",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa Johnny Bros",
@@ -503,7 +503,7 @@
    :latitude 54.375517670008264,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29767",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa Par 60 (18 dołków)",
@@ -511,7 +511,7 @@
    :latitude 54.37401204249369,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44729",
-   :locality "Gdansk",
+   :location "Gdansk",
    :image "",
    :description ""}
   {:name "Jaśkowa szybkie 5 do samochodu",
@@ -519,7 +519,7 @@
    :latitude 54.374310308341705,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29747",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa z MANDO",
@@ -527,7 +527,7 @@
    :latitude 54.37403188736212,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32576",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Jaśkowa z MANDO na 10",
@@ -535,7 +535,7 @@
    :latitude 54.37486924685243,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32454",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "King of the Jungle vol. 3, 18 holes, par 59",
@@ -543,7 +543,7 @@
    :latitude 54.371664080047765,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35198",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Kobyl#18",
@@ -551,7 +551,7 @@
    :latitude 52.81726776977334,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39764",
-   :locality "Kobylec",
+   :location "Kobylec",
    :image "",
    :description ""}
   {:name "Kolibki Advanced 12",
@@ -559,7 +559,7 @@
    :latitude 54.470634604424674,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25259",
-   :locality "Gdynia",
+   :location "Gdynia",
    :image "",
    :description ""}
   {:name "Kolibki v4",
@@ -567,7 +567,7 @@
    :latitude 54.47044322907462,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23511",
-   :locality "Gdynia",
+   :location "Gdynia",
    :image "",
    :description ""}
   {:name "Konrad Szroter",
@@ -575,7 +575,7 @@
    :latitude 50.28805992276736,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30054",
-   :locality "Gliwice",
+   :location "Gliwice",
    :image "",
    :description ""}
   {:name "Kraków Lotników DiscGolfPark",
@@ -583,7 +583,7 @@
    :latitude 50.06959469658062,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47052",
-   :locality "Kraków",
+   :location "Kraków",
    :image "",
    :description ""}
   {:name "Krzyczki 16 Dołków",
@@ -591,7 +591,7 @@
    :latitude 52.60046248962365,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27463",
-   :locality "Nasielsk",
+   :location "Nasielsk",
    :image "",
    :description ""}
   {:name "Krzyczki 2025 Bober",
@@ -606,7 +606,7 @@
    :latitude 52.2311937405527,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/38379",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Lesniczowka",
@@ -614,7 +614,7 @@
    :latitude 52.8254647097215,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31624",
-   :locality "Wągrowiec",
+   :location "Wągrowiec",
    :image "",
    :description ""}
   {:name "Lipna Dzikarnia",
@@ -622,7 +622,7 @@
    :latitude 51.438792476479136,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18317",
-   :locality "Przewóz",
+   :location "Przewóz",
    :image "",
    :description ""}
   {:name "LLT - kolejka 4",
@@ -630,7 +630,7 @@
    :latitude 53.354189366236085,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25993",
-   :locality "Złotów (Gmina)",
+   :location "Złotów (Gmina)",
    :image "",
    :description ""}
   {:name "LlT Sezon 6 - kolejka 5 - Powered by DISCPOINT.PL",
@@ -638,7 +638,7 @@
    :latitude 53.35544259619482,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36913",
-   :locality "Złotów",
+   :location "Złotów",
    :image "",
    :description ""}
   {:name "Lubowisko dgc",
@@ -646,7 +646,7 @@
    :latitude 54.19626997325548,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23018",
-   :locality "Stężyca",
+   :location "Stężyca",
    :image "",
    :description ""}
   {:name "Marek 6",
@@ -654,7 +654,7 @@
    :latitude 52.638887269521035,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41593",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Marne2025 layout 9",
@@ -662,7 +662,7 @@
    :latitude 54.140144365505336,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/45502",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Maro Johnson",
@@ -670,7 +670,7 @@
    :latitude 52.17708216561252,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32970",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Mazury Disc Golf Paradise",
@@ -678,7 +678,7 @@
    :latitude 53.53372867439123,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35793",
-   :locality "Jedwabno",
+   :location "Jedwabno",
    :image "",
    :description ""}
   {:name "Migowo Hill",
@@ -686,7 +686,7 @@
    :latitude 54.354449032090685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26479",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Millenium Park - night layout #flyhigh",
@@ -694,7 +694,7 @@
    :latitude 52.40656956741395,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31626",
-   :locality "Poznań",
+   :location "Poznań",
    :image "",
    :description ""}
   {:name "MOICO - Na Grobli",
@@ -702,7 +702,7 @@
    :latitude 51.098293418666685,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30971",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "MPDG 2022",
@@ -710,7 +710,7 @@
    :latitude 51.10167640826509,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29401",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "MVP CC 2025 by discgolfzone.pl",
@@ -725,7 +725,7 @@
    :latitude 54.37223805744844,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40422",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "NA GROBLI DGC WROCŁAW (OLD)",
@@ -733,7 +733,7 @@
    :latitude 51.099656771084,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34828",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "Na Zboczu+",
@@ -741,7 +741,7 @@
    :latitude 54.34665704809129,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/36901",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Na Zboczu++",
@@ -749,7 +749,7 @@
    :latitude 54.346398559600914,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/37499",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Nosselia Krzyczki Nasielsk",
@@ -757,7 +757,7 @@
    :latitude 52.60047850753352,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/30978",
-   :locality "Nasielsk",
+   :location "Nasielsk",
    :image "",
    :description ""}
   {:name "Olsztyn Kortowo DGC",
@@ -765,7 +765,7 @@
    :latitude 53.74969621895923,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41429",
-   :locality "Olsztyn",
+   :location "Olsztyn",
    :image "",
    :description ""}
   {:name "Ostoja Dworska 10",
@@ -773,7 +773,7 @@
    :latitude 50.82992328940449,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22851",
-   :locality "Małogoszcz",
+   :location "Małogoszcz",
    :image "",
    :description ""}
   {:name "Ostoja Dworska Open",
@@ -781,7 +781,7 @@
    :latitude 50.830373117423136,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22163",
-   :locality "Małogoszcz",
+   :location "Małogoszcz",
    :image "",
    :description ""}
   {:name "Ostoja Dworska turniejowe",
@@ -789,7 +789,7 @@
    :latitude 50.83010472339305,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/22138",
-   :locality "Małogoszcz",
+   :location "Małogoszcz",
    :image "",
    :description ""}
   {:name "Park Jaśkowej Doliny",
@@ -797,7 +797,7 @@
    :latitude 54.373795068281,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21874",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Park Reagana w Gdańsku",
@@ -805,7 +805,7 @@
    :latitude 54.40887229498014,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19821",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Park Szczytnicki",
@@ -813,7 +813,7 @@
    :latitude 51.1178146567884,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/29725",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "Park Śląski",
@@ -821,7 +821,7 @@
    :latitude 50.284427,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/9785",
-   :locality "Chorzów",
+   :location "Chorzów",
    :image "",
    :description ""}
   {:name "Park Śląski 2020",
@@ -829,7 +829,7 @@
    :latitude 50.28460068926458,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21743",
-   :locality "Chorzów",
+   :location "Chorzów",
    :image "",
    :description ""}
   {:name "Park Śląski 2024 Urodziny",
@@ -844,7 +844,7 @@
    :latitude 50.284474856612235,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/27493",
-   :locality "Chorzów",
+   :location "Chorzów",
    :image "",
    :description ""}
   {:name "Park Żywiecki",
@@ -859,7 +859,7 @@
    :latitude 52.33403136189281,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39509",
-   :locality "Luboń",
+   :location "Luboń",
    :image "",
    :description ""}
   {:name "Piknik Luboń 2024 Kategoria Open - 9 koszy",
@@ -874,7 +874,7 @@
    :latitude 52.212917,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5604",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Przysieczyn#18",
@@ -889,7 +889,7 @@
    :latitude 52.270418006304396,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23596",
-   :locality "Puszczykowo",
+   :location "Puszczykowo",
    :image "",
    :description ""}
   {:name "Pętla 12 dołków. PAR 37",
@@ -897,7 +897,7 @@
    :latitude 53.095523856057895,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31430",
-   :locality "Bydgoszcz",
+   :location "Bydgoszcz",
    :image "",
    :description ""}
   {:name "Pętla 13dołków PAR 41",
@@ -912,14 +912,14 @@
    :latitude 50.2881113319869,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31906",
-   :locality "Gliwice",
+   :location "Gliwice",
    :image "",
    :description ""}
   {:name "SmartDiscGolf.pl",
    :longitude 17.036543,
    :latitude 53.3623414,
    :source :openstreetmap,
-   :locality "Złotów",
+   :location "Złotów",
    :image "",
    :description ""}
   {:name "Szczytnicki Disc Golf Course",
@@ -927,7 +927,7 @@
    :latitude 51.11783785056605,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21573",
-   :locality "Wrocław",
+   :location "Wrocław",
    :image "",
    :description ""}
   {:name "Twierdza Kłodzko",
@@ -935,7 +935,7 @@
    :latitude 50.444737,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/12328",
-   :locality "Kłodzko",
+   :location "Kłodzko",
    :image "",
    :description ""}
   {:name "Warchały 1 kolejka OZLDG 2023",
@@ -943,7 +943,7 @@
    :latitude 53.53313431885692,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31679",
-   :locality "Warchały",
+   :location "Warchały",
    :image "",
    :description ""}
   {:name "Warchały 2 kolejka OZLDG 2023",
@@ -951,7 +951,7 @@
    :latitude 53.53337554662332,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/31760",
-   :locality "Jedwabno",
+   :location "Jedwabno",
    :image "",
    :description ""}
   {:name "Warchały 4 kolejka OZLDG",
@@ -959,7 +959,7 @@
    :latitude 53.532528363455015,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32108",
-   :locality "Jedwabno",
+   :location "Jedwabno",
    :image "",
    :description ""}
   {:name "Warsaw open training",
@@ -967,7 +967,7 @@
    :latitude 52.19627143175168,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42646",
-   :locality "Warsaw",
+   :location "Warsaw",
    :image "",
    :description ""}
   {:name "Wawer 12",
@@ -975,7 +975,7 @@
    :latitude 52.21224743568732,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18609",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "WAWER OPEN 2019",
@@ -983,7 +983,7 @@
    :latitude 52.21156622006109,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/14390",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "Wałbrzych STAŁE POLE DGCW",
@@ -991,7 +991,7 @@
    :latitude 50.762929431307356,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32375",
-   :locality "Wałbrzych",
+   :location "Wałbrzych",
    :image "",
    :description ""}
   {:name "Wembley Pro 11",
@@ -999,7 +999,7 @@
    :latitude 54.45367494286708,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23223",
-   :locality "Sopot",
+   :location "Sopot",
    :image "",
    :description ""}
   {:name "Widmowe wydmy",
@@ -1007,7 +1007,7 @@
    :latitude 54.36590440372834,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/46021",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Wielki Finał Zimowej Trójmiejskiej Ligi DG 2025",
@@ -1015,7 +1015,7 @@
    :latitude 54.372588437275,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/42146",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Windy Wisełka",
@@ -1023,7 +1023,7 @@
    :latitude 54.35510929186199,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33835",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Węgierska Gorka",
@@ -1031,7 +1031,7 @@
    :latitude 49.60465916410507,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28290",
-   :locality "Węgierska Górka",
+   :location "Węgierska Górka",
    :image "",
    :description ""}
   {:name "ZA MOSTEM SPOT",
@@ -1039,7 +1039,7 @@
    :latitude 52.803725048914146,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32363",
-   :locality "Wągrowiec (Gmina)",
+   :location "Wągrowiec (Gmina)",
    :image "",
    :description ""}
   {:name "Zaspa - Park JP2 w Gdańsku",
@@ -1047,7 +1047,7 @@
    :latitude 54.40187913786724,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19316",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Zaspa JP2 v4 by Oskar",
@@ -1055,7 +1055,7 @@
    :latitude 54.399209631752285,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28716",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Zaspa v4",
@@ -1063,7 +1063,7 @@
    :latitude 54.39964716328308,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/28726",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Zbocze 2xLoop",
@@ -1078,7 +1078,7 @@
    :latitude 54.34585844103907,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/41608",
-   :locality "Gdańsk",
+   :location "Gdańsk",
    :image "",
    :description ""}
   {:name "Zieleniec 10 par 32",
@@ -1086,7 +1086,7 @@
    :latitude 50.33943947994442,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/18633",
-   :locality "Duszniki-Zdrój",
+   :location "Duszniki-Zdrój",
    :image "",
    :description ""}
   {:name "Zieleniec 13 Holes",
@@ -1094,7 +1094,7 @@
    :latitude 50.3464346063877,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/23460",
-   :locality "Duszniki-Zdrój",
+   :location "Duszniki-Zdrój",
    :image "",
    :description ""}
   {:name "Zieleniec DiscGolfPark",
@@ -1102,7 +1102,7 @@
    :latitude 50.335349,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/5571",
-   :locality "Duszniki-Zdrój",
+   :location "Duszniki-Zdrój",
    :image "",
    :description ""}
   {:name "Zimowa droga golfowa 2024",
@@ -1117,7 +1117,7 @@
    :latitude 52.21114018262668,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/17683",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "ZPDG FIN",
@@ -1146,7 +1146,7 @@
    :latitude 52.21163239872067,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26011",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "ZPDGW2122 - normalna 15",
@@ -1154,7 +1154,7 @@
    :latitude 52.21156216716784,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26049",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "ZPDGW2122 4",
@@ -1162,7 +1162,7 @@
    :latitude 52.21186691587894,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26073",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "ZPDGW2122 5",
@@ -1170,7 +1170,7 @@
    :latitude 52.211548416916315,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26172",
-   :locality "Warszawa",
+   :location "Warszawa",
    :image "",
    :description ""}
   {:name "ZPDGW2122 6",
@@ -1178,7 +1178,7 @@
    :latitude 52.600746999674016,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26340",
-   :locality "Nasielsk",
+   :location "Nasielsk",
    :image "",
    :description ""}
   {:name "Łakina #18",
@@ -1186,7 +1186,7 @@
    :latitude 52.77640360849739,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/34010",
-   :locality "Wągrowiec (Gmina)",
+   :location "Wągrowiec (Gmina)",
    :image "",
    :description ""}],
  :source

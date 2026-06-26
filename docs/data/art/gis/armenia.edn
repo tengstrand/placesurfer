@@ -13,13 +13,13 @@
    :longitude 43.8328109,
    :latitude 40.8301805,
    :source :openstreetmap,
-   :locality "Գյումրի"}
+   :location "Գյումրի"}
   {:name "Alexander Spendiaryan House Museum",
    :longitude 44.5187661,
    :latitude 40.1809574,
    :source :openstreetmap,
    :homepage "http://www.spendiaryanmuseum.am/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Archeologic site Gnishikadzor",
    :longitude 45.2073917,
    :latitude 39.7052253,
@@ -28,13 +28,13 @@
    :longitude 46.3438846,
    :latitude 39.5059872,
    :source :openstreetmap,
-   :locality "Գորիս"}
+   :location "Գորիս"}
   {:name "Avetiq Harutyunyan Art Gallery",
    :longitude 44.8524483,
    :latitude 40.7400518,
    :source :openstreetmap,
    :homepage "https://avetiqharutyunyan.weebly.com/",
-   :locality "Դիլիջան"}
+   :location "Դիլիջան"}
   {:name "Danieljan",
    :longitude 44.5241437,
    :latitude 40.2125751,
@@ -49,18 +49,18 @@
    :latitude 40.1850946,
    :source :openstreetmap,
    :homepage "https://www.nikogosyanfoundation.com/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Gallery by Melikyans",
    :longitude 44.5244899,
    :latitude 40.1692939,
    :source :openstreetmap,
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "History museum",
    :longitude 45.3321741,
    :latitude 39.7642906,
    :source :openstreetmap,
    :homepage "http://www.iatp.am/culture/tangaran/english_type.htm",
-   :locality "Եղեգնաձոր"}
+   :location "Եղեգնաձոր"}
   {:name "House of Culture",
    :longitude 44.6582432,
    :latitude 41.0916527,
@@ -69,7 +69,7 @@
    :longitude 45.1444479,
    :latitude 40.8761322,
    :source :openstreetmap,
-   :locality "Իջևան"}
+   :location "Իջևան"}
   {:name "Kapan modern art museum",
    :longitude 46.4032222,
    :latitude 39.2071124,
@@ -95,7 +95,7 @@
    :latitude 39.5252217,
    :source :openstreetmap,
    :homepage "http://www.sisianmuseum.am/index.php?lng=1",
-   :locality "Սիսիան"}
+   :location "Սիսիան"}
   {:name "Soviet Club",
    :longitude 44.4603054,
    :latitude 40.1811141,
@@ -113,7 +113,7 @@
    :latitude 41.0018294,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/TumanyanMatchboxLabelMuseum",
-   :locality "Թումանյան"}
+   :location "Թումանյան"}
   {:name "Youth art centre named after Aghvan Minasyan",
    :longitude 46.0214501,
    :latitude 39.5191692,
@@ -127,17 +127,17 @@
    :longitude 44.4462389,
    :latitude 40.1765843,
    :source :openstreetmap,
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Арт Галлерия",
    :longitude 44.4594878,
    :latitude 40.1574781,
    :source :openstreetmap,
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Ալեք և Մարի Մանուկյան Գանձատուն",
    :longitude 44.2884644,
    :latitude 40.1613318,
    :source :openstreetmap,
-   :locality "Վաղարշապատ"}
+   :location "Վաղարշապատ"}
   {:name "Ակսել Բակունցի տուն-թանգարան",
    :longitude 46.3407972,
    :latitude 39.5112294,
@@ -165,7 +165,7 @@
    :latitude 40.1914243,
    :source :openstreetmap,
    :homepage "https://www.cmf.am/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Գիտության և տեխնոլոգիայի թանգարան",
    :longitude 44.580937,
    :latitude 40.2004563,
@@ -185,12 +185,12 @@
    :latitude 40.1816601,
    :source :openstreetmap,
    :homepage "https://mamy.am/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Դիլիջանի երկրագիտական թանգարան-պատկերասրահ",
    :longitude 44.8669477,
    :latitude 40.7383987,
    :source :openstreetmap,
-   :locality "Դիլիջան"}
+   :location "Դիլիջան"}
   {:name "Երկրաբանական թանգարան",
    :longitude 44.5094453,
    :latitude 40.192213,
@@ -206,7 +206,7 @@
    :latitude 40.174333,
    :source :openstreetmap,
    :homepage "https://yhm.am/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Զվարթնոց արգելոց թանգարան",
    :longitude 44.3358961,
    :latitude 40.1596502,
@@ -215,13 +215,13 @@
    :longitude 44.5352371,
    :latitude 40.1411293,
    :source :openstreetmap,
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Ժողովրդական Արվեստների Թանգարան",
    :longitude 44.528726,
    :latitude 40.1914666,
    :source :openstreetmap,
    :homepage "https://hrantmatevossian.org/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Իջևանի Պատմաերկրագիտական Թանգարան",
    :longitude 45.1387591,
    :latitude 40.8687031,
@@ -232,17 +232,17 @@
    :source :openstreetmap,
    :homepage
    "https://m.facebook.com/LusikAguletsi/?ref=page_internal&mt_nav=0",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Խաչատուր Աբովյան",
    :longitude 44.5345724,
    :latitude 40.2180008,
    :source :openstreetmap,
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Կալենցի Թանգարան",
    :longitude 44.4895777,
    :latitude 40.1989456,
    :source :openstreetmap,
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "ԿԲ Այցելուների կենտրոն",
    :longitude 44.5103439,
    :latitude 40.176003,
@@ -252,7 +252,7 @@
    :latitude 40.8070576,
    :source :openstreetmap,
    :homepage "https://vanart.org/",
-   :locality "Վանաձոր"}
+   :location "Վանաձոր"}
   {:name "Հ.Հովհաննիսյանի անվան թանգարան",
    :longitude 44.2928208,
    :latitude 40.1635826,
@@ -280,7 +280,7 @@
    :latitude 40.1785143,
    :source :openstreetmap,
    :homepage "https://historymuseum.am/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Հայկական դրամի թանգարան",
    :longitude 44.8657872,
    :latitude 40.7436253,
@@ -302,7 +302,7 @@
    :longitude 43.8455645,
    :latitude 40.7813242,
    :source :openstreetmap,
-   :locality "Գյումրի"}
+   :location "Գյումրի"}
   {:name "Ղարաբաղյան պատերազմում զոհված զինվորների թանգարան",
    :longitude 44.453602,
    :latitude 40.1604586,
@@ -320,7 +320,7 @@
    :latitude 41.0898443,
    :source :openstreetmap,
    :homepage "https://www.mikoyanbrothersmuseum.com",
-   :locality "Ալավերդի"}
+   :location "Ալավերդի"}
   {:name "ՄԻՆԱՍ ԱՎԵՏԻՍՅԱՆԻ ԱՆՎԱՆ ԿԵՐՊԱՐՎԵՍՏԻ ԴՊՐՈՑ",
    :longitude 44.5437921,
    :latitude 40.2060325,
@@ -342,12 +342,12 @@
    :longitude 44.3625,
    :latitude 40.2975838,
    :source :openstreetmap,
-   :locality "Աշտարակ"}
+   :location "Աշտարակ"}
   {:name "Մշակույթի տուն",
    :longitude 44.568864,
    :latitude 40.2321122,
    :source :openstreetmap,
-   :locality "Առինջ"}
+   :location "Առինջ"}
   {:name "Մուշեղ Գալշոյան",
    :longitude 43.954594,
    :latitude 40.3757494,
@@ -374,18 +374,18 @@
    :longitude 45.0324352,
    :latitude 39.8209371,
    :source :openstreetmap,
-   :locality "Զանգակատուն"}
+   :location "Զանգակատուն"}
   {:name "Պատմական թանգարան",
    :longitude 46.3996531,
    :latitude 39.2028161,
    :source :openstreetmap,
    :homepage "https://www.kapanum.am/historical-museum/",
-   :locality "Կապան"}
+   :location "Կապան"}
   {:name "Պարարվեստի դպրոց",
    :longitude 43.8448719,
    :latitude 40.7922654,
    :source :openstreetmap,
-   :locality "Գյումրի"}
+   :location "Գյումրի"}
   {:name "ՌաՄան",
    :longitude 44.446813,
    :latitude 40.1336547,
@@ -395,7 +395,7 @@
    :latitude 40.1788968,
    :source :openstreetmap,
    :homepage "https://www.parajanovmuseum.am/",
-   :locality "Երևան"}
+   :location "Երևան"}
   {:name "Սերո Խանզադյան թանգարան",
    :longitude 46.3441347,
    :latitude 39.516104,
@@ -404,17 +404,17 @@
    :longitude 44.4882374,
    :latitude 40.8064486,
    :source :openstreetmap,
-   :locality "Վանաձոր"}
+   :location "Վանաձոր"}
   {:name "Ստեփան Շահումյանի թանգարան",
    :longitude 44.3839835,
    :latitude 41.0088171,
    :source :openstreetmap,
-   :locality "Ստեփանավան"}
+   :location "Ստեփանավան"}
   {:name "Վազգեն Սարգսյանի տուն-թանգարան",
    :longitude 44.7055548,
    :latitude 39.8222698,
    :source :openstreetmap,
-   :locality "Արարատ (գյուղ)"}
+   :location "Արարատ (գյուղ)"}
   {:name "Վանաձորի Կոմիտասի անվան արվեստի դպրոց",
    :longitude 44.4430617,
    :latitude 40.8308427,
@@ -438,7 +438,7 @@
    :latitude 40.5331273,
    :source :openstreetmap,
    :homepage "http://orbelimuseum.am/",
-   :locality "Ծաղկաձոր"}
+   :location "Ծաղկաձոր"}
   {:name "Ֆրիտյոֆ Նանսենի թանգարան",
    :longitude 44.5622106,
    :latitude 40.1991017,

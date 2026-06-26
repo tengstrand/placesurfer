@@ -18,7 +18,7 @@
    :latitude 22.3679678,
    :source :openstreetmap,
    :homepage "https://dope.gallery",
-   :locality "荃灣 Tsuen Wan"}
+   :location "荃灣 Tsuen Wan"}
   {:name "F11攝影博物館 F11 Foto Museum",
    :longitude 114.1857975,
    :latitude 22.2685665,
@@ -167,7 +167,7 @@
    :latitude 22.3917098,
    :source :openstreetmap,
    :homepage "https://www.lcsd.gov.hk/en/tmth/index.html",
-   :locality "屯門 Tuen Mun"}
+   :location "屯門 Tuen Mun"}
   {:name "慈山寺佛教藝術博物館 Tsz Shan Monastery Buddhist Art Museum",
    :longitude 114.206177,
    :latitude 22.4753573,
@@ -265,12 +265,12 @@
    :source :openstreetmap,
    :homepage
    "http://www.taoheung.com.hk/tc/museum/introduction/index.html",
-   :locality "Hong Kong"}
+   :location "Hong Kong"}
   {:name "綠匯學苑 Green Hub",
    :longitude 114.1697019,
    :latitude 22.4465954,
    :source :openstreetmap,
-   :locality "大埔 Tai Po"}
+   :location "大埔 Tai Po"}
   {:name "羅屋民俗館 Law Uk Folk Museum",
    :longitude 114.2355474,
    :latitude 22.2641554,
@@ -298,7 +298,7 @@
    :latitude 22.2607064,
    :source :openstreetmap,
    :homepage "https://www.pokfulamfarm.org.hk",
-   :locality "薄扶林 Pok Fu Lam"}
+   :location "薄扶林 Pok Fu Lam"}
   {:name "藝穗會 Fringe Club",
    :longitude 114.1556123,
    :latitude 22.2801762,
@@ -317,7 +317,7 @@
    :longitude 114.2111272,
    :latitude 22.4160767,
    :source :openstreetmap,
-   :locality "新界"}
+   :location "新界"}
   {:name "賽馬會鯉魚門創意館 Jockey Club Lei Yue Mun Plus",
    :longitude 114.2374849,
    :latitude 22.2891103,
@@ -404,7 +404,7 @@
    :source :openstreetmap,
    :homepage
    "https://corporate.hkjc.com/corporate/english/history-and-reports/plan-your-visit.aspx",
-   :locality "跑馬地馬場 Happy Valley Racecourse"}
+   :location "跑馬地馬場 Happy Valley Racecourse"}
   {:name "香港鐵路博物館 Hong Kong Railway Museum",
    :longitude 114.1639023,
    :latitude 22.4482737,
@@ -424,7 +424,7 @@
    :longitude 114.1518588,
    :latitude 22.2452596,
    :source :openstreetmap,
-   :locality "Ap Lei Chau, Hong Kong"}
+   :location "Ap Lei Chau, Hong Kong"}
   {:name
    "黄大仙信俗文化馆 Cultural Centre for Wong Tai Sin Belief and Customs",
    :longitude 114.1935622,

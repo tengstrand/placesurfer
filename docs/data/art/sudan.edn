@@ -92,7 +92,7 @@
    :longitude 32.5501724,
    :latitude 15.5762852,
    :source :openstreetmap,
-   :locality "الخرطوم",
+   :location "الخرطوم",
    :image "",
    :description ""}
   {:name "بلاك كرافتر",
@@ -123,7 +123,7 @@
    :longitude 32.5083485,
    :latitude 15.606077,
    :source :openstreetmap,
-   :locality "الخرطوم",
+   :location "الخرطوم",
    :image "",
    :description ""}
   {:name "مسجد الحيف",

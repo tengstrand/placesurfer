@@ -34,7 +34,7 @@
    :longitude 113.9763577,
    :latitude 4.3787047,
    :source :openstreetmap,
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "Art & Garden",
@@ -60,7 +60,7 @@
    :latitude 2.945414,
    :source :openstreetmap,
    :homepage "https://artsense.com.my/",
-   :locality "Teluk Panglima Garang",
+   :location "Teluk Panglima Garang",
    :image "",
    :description ""}
   {:name "Asia Culture Education Centre",
@@ -142,7 +142,7 @@
    :longitude 114.0072203,
    :latitude 4.4165383,
    :source :openstreetmap,
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "Chan Lok Hung Commemorative Hall",
@@ -150,7 +150,7 @@
    :latitude 3.1975287,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/CLHMFKLMY/",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Cherating Sea Turtle Sanctuary",
@@ -189,7 +189,7 @@
    :longitude 100.306151,
    :latitude 5.4289008,
    :source :openstreetmap,
-   :locality "George Town",
+   :location "George Town",
    :image "",
    :description ""}
   {:name "Commemorative Pavilion",
@@ -215,7 +215,7 @@
    :longitude 114.00812,
    :latitude 4.4262208,
    :source :openstreetmap,
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "Faizy Crystal Glass Blowing",
@@ -277,14 +277,14 @@
    :longitude 101.4492406,
    :latitude 3.0412722,
    :source :openstreetmap,
-   :locality "Klang",
+   :location "Klang",
    :image "",
    :description ""}
   {:name "Galeri DiRaja Tuanku Ja'afar",
    :longitude 101.9460239,
    :latitude 2.7251043,
    :source :openstreetmap,
-   :locality "Seremban",
+   :location "Seremban",
    :image "",
    :description ""}
   {:name "Galeri Interaktif NRE",
@@ -303,7 +303,7 @@
    :longitude 101.1291425,
    :latitude 3.5199813,
    :source :openstreetmap,
-   :locality "Sekinchan",
+   :location "Sekinchan",
    :image "",
    :description ""}
   {:name "Galeri Penjara Ayer Molek",
@@ -422,7 +422,7 @@
    :latitude 4.4195505,
    :source :openstreetmap,
    :homepage "https://malaysia.globalart.world/",
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "Global Art",
@@ -481,7 +481,7 @@
    :latitude 5.412056,
    :source :openstreetmap,
    :homepage "https://hinbusdepot.com/index.html",
-   :locality "George Town",
+   :location "George Town",
    :image "",
    :description ""}
   {:name "House of bees",
@@ -503,7 +503,7 @@
    :latitude 3.1399242,
    :source :openstreetmap,
    :homepage "https://immersifykl.com/",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Indian Heritage Museum",
@@ -516,7 +516,7 @@
    :longitude 103.7564384,
    :latitude 1.4550447,
    :source :openstreetmap,
-   :locality "Johor Bahru",
+   :location "Johor Bahru",
    :image "",
    :description ""}
   {:name "Istana Puteri Bongsu",
@@ -556,7 +556,7 @@
    :longitude 103.7632774,
    :latitude 1.4560242,
    :source :openstreetmap,
-   :locality "Johor Bahru",
+   :location "Johor Bahru",
    :image "",
    :description ""}
   {:name "Johor Lama Museum",
@@ -619,14 +619,14 @@
    :longitude 100.9472327,
    :latitude 4.1728656,
    :source :openstreetmap,
-   :locality "Kampong Gajah",
+   :location "Kampong Gajah",
    :image "",
    :description ""}
   {:name "Kompleks Taman Seni Islam Selangor",
    :longitude 101.5227827,
    :latitude 3.0811975,
    :source :openstreetmap,
-   :locality "Shah Alam",
+   :location "Shah Alam",
    :image "",
    :description ""}
   {:name "Kompleks Tuanku Nur Zahirah",
@@ -741,7 +741,7 @@
    :latitude 5.9737112,
    :source :openstreetmap,
    :homepage "https://www.marimariculturalvillage.my/",
-   :locality "Kota Kinabalu",
+   :location "Kota Kinabalu",
    :image "",
    :description ""}
   {:name "Memorial Lim Lian Geok",
@@ -749,7 +749,7 @@
    :latitude 3.1370454,
    :source :openstreetmap,
    :homepage "https://llgcultural.com/memorialllg/",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Methodist Heritage Gallery Sibu",
@@ -764,7 +764,7 @@
    :source :openstreetmap,
    :homepage
    "https://museum.sarawak.gov.my/web/subpage/webpage_view/97",
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "MS Marvelous Studio",
@@ -795,7 +795,7 @@
    :longitude 101.1350575,
    :latitude 4.5185542,
    :source :openstreetmap,
-   :locality "Kampung Kepayang",
+   :location "Kampung Kepayang",
    :image "",
    :description ""}
   {:name "Muzium Adat",
@@ -834,7 +834,7 @@
    :longitude 100.7801462,
    :latitude 4.5012171,
    :source :openstreetmap,
-   :locality "Beruas",
+   :location "Beruas",
    :image "",
    :description ""}
   {:name "Muzium Bioperubatan",
@@ -881,7 +881,7 @@
    :latitude 3.1325443,
    :source :openstreetmap,
    :homepage "https://www.jmm.gov.my/ms/muzium/muzium-diraja",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Muzium DiRaja Istana Lama Seri Menanti",
@@ -894,7 +894,7 @@
    :longitude 100.9557598,
    :latitude 4.7602391,
    :source :openstreetmap,
-   :locality "Kuala Kangsar",
+   :location "Kuala Kangsar",
    :image "",
    :description ""}
   {:name "Muzium Geologi",
@@ -956,7 +956,7 @@
    :longitude 101.8227892,
    :latitude 2.5681508,
    :source :openstreetmap,
-   :locality "Port Dickson",
+   :location "Port Dickson",
    :image "",
    :description ""}
   {:name "Muzium Kota Tinggi",
@@ -995,7 +995,7 @@
    :latitude 3.137709,
    :source :openstreetmap,
    :homepage "https://www.muziumnegara.gov.my/",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Muzium Negeri Kedah Darul Aman",
@@ -1052,7 +1052,7 @@
    :longitude 100.7453221,
    :latitude 4.860467,
    :source :openstreetmap,
-   :locality "Taiping",
+   :location "Taiping",
    :image "",
    :description ""}
   {:name "Muzium Perang Penang",
@@ -1092,7 +1092,7 @@
    :latitude 3.1409386,
    :source :openstreetmap,
    :homepage "https://www.planetariumnegara.gov.my/",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Muzium Pulau Besar",
@@ -1126,7 +1126,7 @@
    :longitude 103.3903544,
    :latitude 3.4940172,
    :source :openstreetmap,
-   :locality "Pekan",
+   :location "Pekan",
    :image "",
    :description ""}
   {:name "Muzium Tawau",
@@ -1139,14 +1139,14 @@
    :longitude 101.699278,
    :latitude 3.149046,
    :source :openstreetmap,
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Muzium Tentera Darat",
    :longitude 101.8480553,
    :latitude 2.4968002,
    :source :openstreetmap,
-   :locality "Port Dickson",
+   :location "Port Dickson",
    :image "",
    :description ""}
   {:name "Muzium Terusan Wan Mat Saman",
@@ -1160,7 +1160,7 @@
    :latitude 1.4722561,
    :source :openstreetmap,
    :homepage "https://www.ywj.gov.my/muzium-tokoh-johor/",
-   :locality "Johor Bahru",
+   :location "Johor Bahru",
    :image "",
    :description ""}
   {:name "Muzium Tun Mustapha",
@@ -1182,7 +1182,7 @@
    :longitude 101.5059245,
    :latitude 3.0658637,
    :source :openstreetmap,
-   :locality "Shah Alam",
+   :location "Shah Alam",
    :image "",
    :description ""}
   {:name "Muzium Warisan Baba Dan Nyonya",
@@ -1209,7 +1209,7 @@
    :latitude 4.4481789,
    :source :openstreetmap,
    :homepage "https://www.myartstudio.com.my/",
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "My Art Studio",
@@ -1217,7 +1217,7 @@
    :latitude 4.4156232,
    :source :openstreetmap,
    :homepage "https://www.myartstudio.com.my/",
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "One Art Gallery",
@@ -1239,7 +1239,7 @@
    :latitude 4.3722329,
    :source :openstreetmap,
    :homepage "https://www.pakat.org/",
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "Panggung Seni",
@@ -1285,7 +1285,7 @@
    :latitude 2.1945773,
    :source :openstreetmap,
    :homepage "https://smymuseum.org.my/",
-   :locality "Melaka",
+   :location "Melaka",
    :image "",
    :description ""}
   {:name "Petrosains Playsmart Kuantan",
@@ -1299,7 +1299,7 @@
    :latitude 5.4195597,
    :source :openstreetmap,
    :homepage "https://3d.penangtrickart.com/",
-   :locality "George Town",
+   :location "George Town",
    :image "",
    :description ""}
   {:name "Pioneers Of Kuala Lumpur Museum",
@@ -1335,14 +1335,14 @@
    :latitude 3.1413065,
    :source :openstreetmap,
    :homepage "https://www.pkktuankubainun.com",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "Pusat Pembangunan Siswa USM",
    :longitude 100.497485,
    :latitude 5.1492925,
    :source :openstreetmap,
-   :locality "Nibong Tebal",
+   :location "Nibong Tebal",
    :image "",
    :description ""}
   {:name "Pusat Sains Negara",
@@ -1363,7 +1363,7 @@
    :latitude 5.8430507,
    :source :openstreetmap,
    :homepage "https://museum.sabah.gov.my/exhibition/72",
-   :locality "Sandakan",
+   :location "Sandakan",
    :image "",
    :description ""}
   {:name "Rumah Kelahiran & Galeri P. Ramlee",
@@ -1382,7 +1382,7 @@
    :longitude 101.8596292,
    :latitude 2.4463578,
    :source :openstreetmap,
-   :locality "Port Dickson",
+   :location "Port Dickson",
    :image "",
    :description ""}
   {:name "Sabah Art Gallery",
@@ -1390,7 +1390,7 @@
    :latitude 5.9532758,
    :source :openstreetmap,
    :homepage "https://sabahartgallery.com/",
-   :locality "Kota Kinabalu",
+   :location "Kota Kinabalu",
    :image "",
    :description ""}
   {:name "Sabah State Museum & Heritage Village",
@@ -1441,14 +1441,14 @@
    :longitude 114.0306524,
    :latitude 4.4794675,
    :source :openstreetmap,
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "Sun Yat-Sen Memorial Center Penang",
    :longitude 100.3242019,
    :latitude 5.4155318,
    :source :openstreetmap,
-   :locality "George Town",
+   :location "George Town",
    :image "",
    :description ""}
   {:name "Sungai Lembing Museum",
@@ -1474,7 +1474,7 @@
    :longitude 103.7452949,
    :latitude 1.4729698,
    :source :openstreetmap,
-   :locality "Johor Bahru",
+   :location "Johor Bahru",
    :image "",
    :description ""}
   {:name "Tea Museum",
@@ -1507,14 +1507,14 @@
    :latitude 4.4180161,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/theartsschool_miri/",
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "The Art School",
    :longitude 114.0015735,
    :latitude 4.4063474,
    :source :openstreetmap,
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "The Borneo House",
@@ -1546,7 +1546,7 @@
    :longitude 101.3952605,
    :latitude 4.4972912,
    :source :openstreetmap,
-   :locality "Cameron Highlands",
+   :location "Cameron Highlands",
    :image "",
    :description ""}
   {:name "Traditional House",
@@ -1571,7 +1571,7 @@
    :longitude 100.3336047,
    :latitude 5.4157586,
    :source :openstreetmap,
-   :locality "Georgetown",
+   :location "Georgetown",
    :image "",
    :description ""}
   {:name "Ur-Mu",
@@ -1585,7 +1585,7 @@
    :longitude 113.9844197,
    :latitude 4.3933825,
    :source :openstreetmap,
-   :locality "Miri",
+   :location "Miri",
    :image "",
    :description ""}
   {:name "Wei-Ling Gallery",
@@ -1593,14 +1593,14 @@
    :latitude 3.1358904,
    :source :openstreetmap,
    :homepage "https://weiling-gallery.com/",
-   :locality "Kuala Lumpur",
+   :location "Kuala Lumpur",
    :image "",
    :description ""}
   {:name "World's Bee Museum",
    :longitude 102.311448,
    :latitude 2.3000587,
    :source :openstreetmap,
-   :locality "Hang Tuah Jaya",
+   :location "Hang Tuah Jaya",
    :image "",
    :description ""}
   {:name "Yahong Art Gallery",
@@ -1642,7 +1642,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/p/%E6%B3%B0%E5%92%8C%E5%A0%82%E6%B0%91%E4%BF%97%E6%96%87%E5%8C%96%E9%A4%A8-100069921041053/",
-   :locality "Seremban",
+   :location "Seremban",
    :image "",
    :description ""}
   {:name "霹雳洞中山文物馆",

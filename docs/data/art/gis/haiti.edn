@@ -141,7 +141,7 @@
    :longitude -72.385193,
    :latitude 18.2328579,
    :source :openstreetmap,
-   :locality "cayes jacmel"}
+   :location "cayes jacmel"}
   {:name "Salle de rencontre",
    :longitude -71.7852327,
    :latitude 19.5659125,

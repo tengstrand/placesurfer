@@ -20,7 +20,7 @@
    :longitude 55.7608924,
    :latitude 24.2149587,
    :source :openstreetmap,
-   :locality "العين",
+   :location "العين",
    :image "",
    :description ""}
   {:name "Al Marmoom Heritage Village",
@@ -59,7 +59,7 @@
    :longitude 55.3765887,
    :latitude 25.3217905,
    :source :openstreetmap,
-   :locality "Sharjah, UAE",
+   :location "Sharjah, UAE",
    :image "",
    :description ""}
   {:name "Caricature",
@@ -90,7 +90,7 @@
    :longitude 55.2792042,
    :latitude 25.2157301,
    :source :openstreetmap,
-   :locality "Dubai",
+   :location "Dubai",
    :image "",
    :description ""}
   {:name "Dubai Municipality Museum",
@@ -182,7 +182,7 @@
    :longitude 55.3115918,
    :latitude 25.2443258,
    :source :openstreetmap,
-   :locality "دبي",
+   :location "دبي",
    :image "",
    :description ""}
   {:name "Jameel Arts Centre",
@@ -202,7 +202,7 @@
    :latitude 24.5336716,
    :source :openstreetmap,
    :homepage "https://www.louvreabudhabi.ae/",
-   :locality "Abu Dhabi",
+   :location "Abu Dhabi",
    :image "",
    :description ""}
   {:name "Lyon Gallery",
@@ -237,7 +237,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.saadiyatculturaldistrict.ae/en/manarat-al-saadiyat/overview/",
-   :locality "Saadiyat Island, Abu Dhabi",
+   :location "Saadiyat Island, Abu Dhabi",
    :image "",
    :description ""}
   {:name "Masfout Museum / Old Masfout Fort",
@@ -264,7 +264,7 @@
    :longitude 55.2708558,
    :latitude 25.1917092,
    :source :openstreetmap,
-   :locality "دبي",
+   :location "دبي",
    :image "",
    :description ""}
   {:name "Mubarak bin London Exhibition",
@@ -284,7 +284,7 @@
    :latitude 24.5230748,
    :source :openstreetmap,
    :homepage "https://www.nyuad-artgallery.org/",
-   :locality "أبو ظبي",
+   :location "أبو ظبي",
    :image "",
    :description ""}
   {:name "Old Sharjah Planetarium",
@@ -323,7 +323,7 @@
    :latitude 24.5274744,
    :source :openstreetmap,
    :homepage "https://www.teamlababudhabi.com/",
-   :locality "Abu Dhabi",
+   :location "Abu Dhabi",
    :image "",
    :description ""}
   {:name "The Archaeological \"Fort of Maleha\"",
@@ -349,7 +349,7 @@
    :longitude 55.2204859,
    :latitude 25.1206015,
    :source :openstreetmap,
-   :locality "دبي",
+   :location "دبي",
    :image "",
    :description ""}
   {:name "Visitors Center",
@@ -363,7 +363,7 @@
    :latitude 24.5175657,
    :source :openstreetmap,
    :homepage "https://www.warehouse421.ae/",
-   :locality "أبو ظبي",
+   :location "أبو ظبي",
    :image "",
    :description ""}
   {:name "Women's museum",
@@ -404,7 +404,7 @@
    :latitude 25.2354561,
    :source :openstreetmap,
    :homepage "https://www.thedubaiframe.com/",
-   :locality "Zabeel, Dubai",
+   :location "Zabeel, Dubai",
    :image "",
    :description ""}
   {:name "بيت الحرمة",
@@ -516,7 +516,7 @@
    :longitude 55.2815138,
    :latitude 25.2618451,
    :source :openstreetmap,
-   :locality "دبي",
+   :location "دبي",
    :image "",
    :description ""}
   {:name "متحف دبي",
@@ -524,14 +524,14 @@
    :latitude 25.2635211,
    :source :openstreetmap,
    :homepage "https://www.mikearnold.art/",
-   :locality "دبي",
+   :location "دبي",
    :image "",
    :description ""}
   {:name "متحف دبي للصور المتحركة",
    :longitude 55.1789043,
    :latitude 25.0971385,
    :source :openstreetmap,
-   :locality "دبي",
+   :location "دبي",
    :image "",
    :description ""}
   {:name "متحف عجمان",
@@ -557,7 +557,7 @@
    :latitude 24.5335275,
    :source :openstreetmap,
    :homepage "http://www.zayednationalmuseum.ae/",
-   :locality "Abu Dhabi",
+   :location "Abu Dhabi",
    :image "",
    :description ""}
   {:name "هيئة متاحف الشارقة",

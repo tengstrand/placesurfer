@@ -12,13 +12,13 @@
    :longitude -68.2725053,
    :latitude 12.1515814,
    :source :openstreetmap,
-   :locality "Kralendijk"}
+   :location "Kralendijk"}
   {:name "Harry L. Johnson Museum",
    :longitude -63.2323902,
    :latitude 17.6278832,
    :source :openstreetmap,
    :homepage "https://www.museum-saba.com/HLJohnson/index.html",
-   :locality "Windwardside"}
+   :location "Windwardside"}
   {:name "Manganzina di Rei",
    :longitude -68.318819,
    :latitude 12.2438156,
@@ -50,7 +50,7 @@
    :latitude 12.1515097,
    :source :openstreetmap,
    :homepage "https://terramarmuseum.com/",
-   :locality "Kralendijk"}
+   :location "Kralendijk"}
   {:name "Washington Slagbaai National Park",
    :longitude -68.3455109,
    :latitude 12.2698273,

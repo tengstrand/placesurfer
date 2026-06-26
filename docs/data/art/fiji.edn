@@ -8,7 +8,7 @@
    :longitude 178.4270331,
    :latitude -18.1438677,
    :source :openstreetmap,
-   :locality "Suva",
+   :location "Suva",
    :image "",
    :description ""}
   {:name "Fiji Culture Village",

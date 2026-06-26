@@ -9,7 +9,7 @@
    :latitude 15.2158139,
    :source :openstreetmap,
    :homepage "https://www.nps.gov/amme/index.htm",
-   :locality "Garapan",
+   :location "Garapan",
    :image "",
    :description ""}
   {:name "NMI Museum of History and Culture",

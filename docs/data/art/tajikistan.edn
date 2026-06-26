@@ -8,7 +8,7 @@
    :longitude 68.7914702,
    :latitude 38.6050965,
    :source :openstreetmap,
-   :locality "Dushanbe",
+   :location "Dushanbe",
    :image "",
    :description ""}
   {:name "Arts Cente",
@@ -111,7 +111,7 @@
    :longitude 68.9262995,
    :latitude 37.8689169,
    :source :openstreetmap,
-   :locality "Sarband",
+   :location "Sarband",
    :image "",
    :description ""}
   {:name "Historical and cultural museum of Panjakent",
@@ -136,7 +136,7 @@
    :longitude 69.5566417,
    :latitude 37.7756985,
    :source :openstreetmap,
-   :locality "Пингон",
+   :location "Пингон",
    :image "",
    :description ""}
   {:name "Istiklol Monument",
@@ -198,7 +198,7 @@
    :longitude 68.7539212,
    :latitude 38.5771176,
    :source :openstreetmap,
-   :locality "Душанбе",
+   :location "Душанбе",
    :image "",
    :description ""}
   {:name "Архитектурный комплекс Хазрати Баба",
@@ -212,7 +212,7 @@
    :latitude 38.5745037,
    :source :openstreetmap,
    :homepage "http://www.tajik.gallery",
-   :locality "Dushanbe",
+   :location "Dushanbe",
    :image "",
    :description ""}
   {:name "Городcкой музей",
@@ -243,7 +243,7 @@
    :longitude 68.5941629,
    :latitude 38.4821029,
    :source :openstreetmap,
-   :locality "Ҳисор",
+   :location "Ҳисор",
    :image "",
    :description ""}
   {:name "Маркази Фарҳангии Бохтар",
@@ -251,14 +251,14 @@
    :latitude 38.5713434,
    :source :openstreetmap,
    :homepage "https://bactria.tj/",
-   :locality "Душанбе",
+   :location "Душанбе",
    :image "",
    :description ""}
   {:name "Музеи кишваршиносӣ",
    :longitude 69.0149349,
    :latitude 38.5644863,
    :source :openstreetmap,
-   :locality "Ваҳдат",
+   :location "Ваҳдат",
    :image "",
    :description ""}
   {:name "Музей",
@@ -283,7 +283,7 @@
    :longitude 68.2283738,
    :latitude 38.5136783,
    :source :openstreetmap,
-   :locality "Турсунзаде",
+   :location "Турсунзаде",
    :image "",
    :description ""}
   {:name "Музей им. А. Рудаки",
@@ -303,7 +303,7 @@
    :latitude 38.5758554,
    :source :openstreetmap,
    :homepage "http://gurminj.tj/",
-   :locality "Душанбе",
+   :location "Душанбе",
    :image "",
    :description ""}
   {:name "Музей Памир",
@@ -323,7 +323,7 @@
    :latitude 38.5820815,
    :source :openstreetmap,
    :homepage "https://osorkhonaimilliidip.tj",
-   :locality "Душанбе",
+   :location "Душанбе",
    :image "",
    :description ""}
   {:name "Осорхонаи миллии ёдгориҳои бостонии Тоҷикистон",
@@ -349,7 +349,7 @@
    :longitude 68.7755977,
    :latitude 37.8377095,
    :source :openstreetmap,
-   :locality "Қурғонтеппа",
+   :location "Қурғонтеппа",
    :image "",
    :description ""}
   {:name "Хона-осорхона Шоҳқамбари Офтобӣ",
@@ -368,7 +368,7 @@
    :longitude 69.6027324,
    :latitude 40.3020955,
    :source :openstreetmap,
-   :locality "Хучанд",
+   :location "Хучанд",
    :image "",
    :description ""}
   {:name "Этнографический музей",

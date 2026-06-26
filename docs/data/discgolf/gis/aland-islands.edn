@@ -24,7 +24,7 @@
    :latitude 60.216330600865575,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47074",
-   :locality "Hammarland"}
+   :location "Hammarland"}
   {:name "Hasterboda",
    :longitude 19.834678058248073,
    :latitude 61.123506907298946,
@@ -36,12 +36,12 @@
    :source :discgolfapi,
    :homepage "https://www.discgolf.ax/",
    :layout-name "Main Layout",
-   :locality "Sund"}
+   :location "Sund"}
   {:name "Käringsund DiscGolfPark",
    :longitude 19.5493264,
    :latitude 60.2390529,
    :source :openstreetmap}
-  {:locality "Kökar",
+  {:location "Kökar",
    :layout-par 39,
    :homepage "https://frisbeegolfradat.fi/rata/kokar-discgolfpark/",
    :name "Kökar DiscGolfPark",
@@ -57,20 +57,20 @@
    :source :discgolfapi,
    :homepage "https://www.discgolf.ax/",
    :layout-name "Main Layout",
-   :locality "Lappo"}
+   :location "Lappo"}
   {:name "Lions Club Mariehamn DiscGolfPark",
    :longitude 19.925832890573,
    :latitude 60.0981378227401,
    :source :discgolfapi,
    :homepage "https://www.discgolf.ax/",
    :layout-name "Main Layout",
-   :locality "Mariehamn"}
+   :location "Mariehamn"}
   {:name "Soltuna DiscGolfPark",
    :longitude 19.844072813024,
    :latitude 60.3862844265615,
    :source :discgolfapi,
    :layout-name "Main Layout",
-   :locality "Geta"}],
+   :location "Geta"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

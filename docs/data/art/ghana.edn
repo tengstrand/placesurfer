@@ -106,7 +106,7 @@
    :latitude 5.545823,
    :source :openstreetmap,
    :homepage "https://touringghana.com/kwame-nkrumah-mausoleum/",
-   :locality "Accra",
+   :location "Accra",
    :image "",
    :description ""}
   {:name "National Culture",
@@ -145,7 +145,7 @@
    :longitude -1.575277,
    :latitude 6.681865,
    :source :openstreetmap,
-   :locality "Kumasi",
+   :location "Kumasi",
    :image "",
    :description ""}
   {:name "Pachimo Spot Welding and Soldering",
@@ -179,7 +179,7 @@
    :latitude 5.6247183,
    :source :openstreetmap,
    :homepage "https://www.untamedempire.com/",
-   :locality "accra",
+   :location "accra",
    :image "",
    :description ""}
   {:name "Upper East Regional Museum",
@@ -193,14 +193,14 @@
    :latitude 6.6086254,
    :source :openstreetmap,
    :homepage "http://www.voltaregionalmuseum.ghana0.com/",
-   :locality "Ho",
+   :location "Ho",
    :image "",
    :description ""}
   {:name "W.E.B Du Bois Center",
    :longitude -0.1709977,
    :latitude 5.5822107,
    :source :openstreetmap,
-   :locality "Accra",
+   :location "Accra",
    :image "",
    :description ""}
   {:name "West African Historical Museum",

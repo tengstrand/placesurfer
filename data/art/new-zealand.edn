@@ -35,7 +35,7 @@
    :latitude -36.297614,
    :source :openstreetmap,
    :homepage "https://albertlandmuseum.co.nz/",
-   :locality "Wellsford",
+   :location "Wellsford",
    :image "",
    :description ""}
   {:name "Alberton",
@@ -49,7 +49,7 @@
    :latitude -41.1028386,
    :source :openstreetmap,
    :homepage "https://www.alohafridaynz.com/",
-   :locality "Porirua",
+   :location "Porirua",
    :image "",
    :description ""}
   {:name "Alvin Pankhurst Gallery",
@@ -146,7 +146,7 @@
    :latitude -44.9802025,
    :source :openstreetmap,
    :homepage "https://aurumgallery.com/",
-   :locality "Queenstown",
+   :location "Queenstown",
    :image "",
    :description ""}
   {:name "Aviator Guy Menzies Replica Bi-Plane",
@@ -160,7 +160,7 @@
    :latitude -46.5045953,
    :source :openstreetmap,
    :homepage "https://www.awaruamuseum.co.nz/",
-   :locality "Awarua, Invercargill",
+   :location "Awarua, Invercargill",
    :image "",
    :description ""}
   {:name "Bach 38 Museum",
@@ -210,7 +210,7 @@
    :longitude 168.3319507,
    :latitude -46.5962411,
    :source :openstreetmap,
-   :locality "Bluff",
+   :location "Bluff",
    :image "",
    :description ""}
   {:name "Brayshaw Park",
@@ -249,7 +249,7 @@
    :longitude 178.0287839,
    :latitude -38.6640258,
    :source :openstreetmap,
-   :locality "Gisborne",
+   :location "Gisborne",
    :image "",
    :description ""}
   {:name "Cabello",
@@ -263,7 +263,7 @@
    :latitude -37.8963441,
    :source :openstreetmap,
    :homepage "https://www.cambridgemuseum.org.nz/",
-   :locality "Cambridge",
+   :location "Cambridge",
    :image "",
    :description ""}
   {:name "Cardrona Distillery & Museum",
@@ -289,7 +289,7 @@
    :longitude 176.587452,
    :latitude -39.9441149,
    :source :openstreetmap,
-   :locality "Waipawa",
+   :location "Waipawa",
    :image "",
    :description ""}
   {:name "Central Stories",
@@ -315,7 +315,7 @@
    :latitude -35.7251463,
    :source :openstreetmap,
    :homepage "https://www.hundertwasserartcentre.co.nz",
-   :locality "Whangarei",
+   :location "Whangarei",
    :image "",
    :description ""}
   {:name "Classic Boat Museum",
@@ -323,7 +323,7 @@
    :latitude -41.8013095,
    :source :openstreetmap,
    :homepage "http://www.classicboatmuseum.co.nz/",
-   :locality "St. Arnaud",
+   :location "St. Arnaud",
    :image "",
    :description ""}
   {:name "Classic Flyers Aviation Museum",
@@ -331,7 +331,7 @@
    :latitude -37.6678328,
    :source :openstreetmap,
    :homepage "https://www.classicflyersnz.com/",
-   :locality "Mount Maunganui",
+   :location "Mount Maunganui",
    :image "",
    :description ""}
   {:name "Classic Motorcycles Mecca",
@@ -339,7 +339,7 @@
    :latitude -46.4131957,
    :source :openstreetmap,
    :homepage "https://www.hewakatuia.nz/",
-   :locality "Invercargill",
+   :location "Invercargill",
    :image "",
    :description ""}
   {:name "Classics Museum",
@@ -347,7 +347,7 @@
    :latitude -37.7843833,
    :source :openstreetmap,
    :homepage "https://classicsmuseum.co.nz/",
-   :locality "Dinsdale",
+   :location "Dinsdale",
    :image "",
    :description ""}
   {:name "Coach House Museum",
@@ -372,7 +372,7 @@
    :longitude 175.2603249,
    :latitude -38.8829147,
    :source :openstreetmap,
-   :locality "Taumarunui",
+   :location "Taumarunui",
    :image "",
    :description ""}
   {:name "Corban Estate Arts Centre",
@@ -380,7 +380,7 @@
    :latitude -36.8770531,
    :source :openstreetmap,
    :homepage "https://ceac.org.nz",
-   :locality "Henderson",
+   :location "Henderson",
    :image "",
    :description ""}
   {:name "Coromandel School of Mines & Historic Museum",
@@ -389,7 +389,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.nzmuseums.co.nz/collections/3121/coromandel-school-of-mines-and-historical-museum",
-   :locality "Coromandel",
+   :location "Coromandel",
    :image "",
    :description ""}
   {:name "Craft Station",
@@ -416,7 +416,7 @@
    :latitude -35.9591018,
    :source :openstreetmap,
    :homepage "https://www.dargavillemuseum.co.nz/",
-   :locality "Dargaville",
+   :location "Dargaville",
    :image "",
    :description ""}
   {:name "Demant Gallery",
@@ -436,7 +436,7 @@
    :latitude -39.4262213,
    :source :openstreetmap,
    :homepage "https://www.dinosaurhouse.co.nz/",
-   :locality "Raetihi",
+   :location "Raetihi",
    :image "",
    :description ""}
   {:name "Down by the Liffey Gallery",
@@ -470,7 +470,7 @@
    :latitude -38.6467649,
    :source :openstreetmap,
    :homepage "https://www.ecmot.org.nz/",
-   :locality "Makaraka, Gisborne",
+   :location "Makaraka, Gisborne",
    :image "",
    :description ""}
   {:name "Eastern Southland Gallery",
@@ -478,7 +478,7 @@
    :latitude -46.0979982,
    :source :openstreetmap,
    :homepage "https://www.esgallery.co.nz",
-   :locality "Gore",
+   :location "Gore",
    :image "",
    :description ""}
   {:name "Edwin Fox Maritime Museum",
@@ -523,7 +523,7 @@
    :longitude 170.8233575,
    :latitude -44.093813,
    :source :openstreetmap,
-   :locality "Fairlie",
+   :location "Fairlie",
    :image "",
    :description ""}
   {:name "Fell Engine Museum",
@@ -574,7 +574,7 @@
    :latitude -45.1014466,
    :source :openstreetmap,
    :homepage "https://www.victorianoamaru.co.nz/whitestone-city/",
-   :locality "Oamaru",
+   :location "Oamaru",
    :image "",
    :description ""}
   {:name "Fort Taiaroa",
@@ -601,7 +601,7 @@
    :source :openstreetmap,
    :homepage
    "http://www.heritage.org.nz/places/places-to-visit/marlborough-region/fyffe-house",
-   :locality "Kaikōura",
+   :location "Kaikōura",
    :image "",
    :description ""}
   {:name "G Space Gallery G103",
@@ -633,7 +633,7 @@
    :longitude 172.6993364,
    :latitude -43.8252139,
    :source :openstreetmap,
-   :locality "Millers Flat",
+   :location "Millers Flat",
    :image "",
    :description ""}
   {:name "Geology Museum",
@@ -653,7 +653,7 @@
    :latitude -38.6718207,
    :source :openstreetmap,
    :homepage "https://www.gcvr.org.nz/",
-   :locality "Gisborne",
+   :location "Gisborne",
    :image "",
    :description ""}
   {:name "Glentunnel Museum",
@@ -672,7 +672,7 @@
    :longitude 172.626471,
    :latitude -40.7298174,
    :source :openstreetmap,
-   :locality "Rockville",
+   :location "Rockville",
    :image "",
    :description ""}
   {:name "Golden Bay Museum",
@@ -680,14 +680,14 @@
    :latitude -40.8577162,
    :source :openstreetmap,
    :homepage "https://goldenbaymuseum.org.nz/",
-   :locality "Tākaka",
+   :location "Tākaka",
    :image "",
    :description ""}
   {:name "Golder's Cottage",
    :longitude 175.0562891,
    :latitude -41.12555,
    :source :openstreetmap,
-   :locality "Upper Hutt",
+   :location "Upper Hutt",
    :image "",
    :description ""}
   {:name "Goldfields Mining Centre",
@@ -707,7 +707,7 @@
    :latitude -39.0586525,
    :source :openstreetmap,
    :homepage "http://www.govettbrewster.com/",
-   :locality "New Plymouth",
+   :location "New Plymouth",
    :image "",
    :description ""}
   {:name "Gow Langsford Gallery",
@@ -746,14 +746,14 @@
    :latitude -39.6441477,
    :source :openstreetmap,
    :homepage "https://www.hastingscityartgallery.co.nz/",
-   :locality "Hastings",
+   :location "Hastings",
    :image "",
    :description ""}
   {:name "Havelock Heritage Museum",
    :longitude 173.766316,
    :latitude -41.2770872,
    :source :openstreetmap,
-   :locality "Havelock",
+   :location "Havelock",
    :image "",
    :description ""}
   {:name "Hayes Engineering Works Historic Place",
@@ -772,7 +772,7 @@
    :longitude 169.3203076,
    :latitude -45.1876185,
    :source :openstreetmap,
-   :locality "Clyde",
+   :location "Clyde",
    :image "",
    :description ""}
   {:name "Heritage museum",
@@ -818,21 +818,21 @@
    :latitude -41.2971887,
    :source :openstreetmap,
    :homepage "https://www.holocaustcentre.org.nz/",
-   :locality "Wellington",
+   :location "Wellington",
    :image "",
    :description ""}
   {:name "Huakaiwaka Visitor Centre",
    :longitude 174.9077191,
    :latitude -37.0128173,
    :source :openstreetmap,
-   :locality "Auckland",
+   :location "Auckland",
    :image "",
    :description ""}
   {:name "Huia Settlers Museum",
    :longitude 174.562357,
    :latitude -37.0048605,
    :source :openstreetmap,
-   :locality "Huia",
+   :location "Huia",
    :image "",
    :description ""}
   {:name "Hutt Art Centre",
@@ -858,7 +858,7 @@
    :latitude -37.8676372,
    :source :openstreetmap,
    :homepage "https://www.inspirit.co.nz/",
-   :locality "Tamahere",
+   :location "Tamahere",
    :image "",
    :description ""}
   {:name "International Police Museum",
@@ -917,7 +917,7 @@
    :latitude -42.4135003,
    :source :openstreetmap,
    :homepage "marineaquarium.co.nz",
-   :locality "Kaikōura",
+   :location "Kaikōura",
    :image "",
    :description ""}
   {:name "Kaikoura Museum",
@@ -925,7 +925,7 @@
    :latitude -42.4027988,
    :source :openstreetmap,
    :homepage "https://kaikoura-museum.co.nz/",
-   :locality "Kaikoura",
+   :location "Kaikoura",
    :image "",
    :description ""}
   {:name "Kapiti Aviation Museum",
@@ -956,14 +956,14 @@
    :longitude 174.7798512,
    :latitude -41.2701584,
    :source :openstreetmap,
-   :locality "Wellington",
+   :location "Wellington",
    :image "",
    :description ""}
   {:name "Kawhia Regional Museum, Gallery and Information Centre",
    :longitude 174.8231892,
    :latitude -38.0652743,
    :source :openstreetmap,
-   :locality "Kawhia",
+   :location "Kawhia",
    :image "",
    :description ""}
   {:name "Kevs Museum",
@@ -977,14 +977,14 @@
    :latitude -41.0789139,
    :source :openstreetmap,
    :homepage "https://www.kotareart.nz/",
-   :locality "Greytown",
+   :location "Greytown",
    :image "",
    :description ""}
   {:name "Kowai Archives",
    :longitude 172.6956661,
    :latitude -43.2097628,
    :source :openstreetmap,
-   :locality "Balcairn",
+   :location "Balcairn",
    :image "",
    :description ""}
   {:name "Kowhai Art & Craft",
@@ -992,7 +992,7 @@
    :latitude -36.3911203,
    :source :openstreetmap,
    :homepage "https://kac.nz/",
-   :locality "Warkworth",
+   :location "Warkworth",
    :image "",
    :description ""}
   {:name "Kura - Art",
@@ -1077,7 +1077,7 @@
    :longitude 175.7906958,
    :latitude -40.1757796,
    :source :openstreetmap,
-   :locality "Ashhurst",
+   :location "Ashhurst",
    :image "",
    :description ""}
   {:name "Mairangi Arts Centre",
@@ -1128,7 +1128,7 @@
    :latitude -34.9972041,
    :source :openstreetmap,
    :homepage "https://www.matthewsvintage.com",
-   :locality "Kaitaia",
+   :location "Kaitaia",
    :image "",
    :description ""}
   {:name "Matuku Takotako: Sumner Centre",
@@ -1137,7 +1137,7 @@
    :source :openstreetmap,
    :homepage
    "https://my.christchurchcitylibraries.com/locations/sumner/",
-   :locality "Christchurch",
+   :location "Christchurch",
    :image "",
    :description ""}
   {:name "McAtamney Gallery and Design Store",
@@ -1152,7 +1152,7 @@
    :latitude -36.947426,
    :source :openstreetmap,
    :homepage "https://mccahonhouse.org.nz./",
-   :locality "Auckland",
+   :location "Auckland",
    :image "",
    :description ""}
   {:name "McNicol Homestead",
@@ -1178,7 +1178,7 @@
    :longitude 175.0470069,
    :latitude -37.2798668,
    :source :openstreetmap,
-   :locality "Mercer",
+   :location "Mercer",
    :image "",
    :description ""}
   {:name "Mercury Bay Museum",
@@ -1211,7 +1211,7 @@
    :latitude -43.5010253,
    :source :openstreetmap,
    :homepage "https://motorcyclegallery.co.nz/",
-   :locality "Christchurch",
+   :location "Christchurch",
    :image "",
    :description ""}
   {:name "Milford Heritage Photo Exhibition",
@@ -1249,7 +1249,7 @@
    :latitude -36.8611516,
    :source :openstreetmap,
    :homepage "https://motat.nz",
-   :locality "Auckland",
+   :location "Auckland",
    :image "",
    :description ""}
   {:name "Motorsport",
@@ -1264,14 +1264,14 @@
    :source :openstreetmap,
    :homepage
    "https://wairarapanz.com/see-and-do/mt-bruce-pioneer-museum",
-   :locality "Kiriwhakapapa",
+   :location "Kiriwhakapapa",
    :image "",
    :description ""}
   {:name "Munitions Laboratory and Muesum / Public Toilets",
    :longitude 174.9000016,
    :latitude -41.1645412,
    :source :openstreetmap,
-   :locality "Lower Hutt",
+   :location "Lower Hutt",
    :image "",
    :description ""}
   {:name "Muse",
@@ -1292,7 +1292,7 @@
    :source :openstreetmap,
    :homepage
    "https://southlandnz.com/listing/wyndham-historical-museum/954/",
-   :locality "Wyndham",
+   :location "Wyndham",
    :image "",
    :description ""}
   {:name "Museum of New Zealand Te Papa Tongarewa",
@@ -1300,7 +1300,7 @@
    :latitude -41.2903297,
    :source :openstreetmap,
    :homepage "https://tepapa.govt.nz",
-   :locality "Wellington",
+   :location "Wellington",
    :image "",
    :description ""}
   {:name "Museum of Transport and Technology",
@@ -1344,7 +1344,7 @@
    :longitude 174.7029078,
    :latitude -36.8906624,
    :source :openstreetmap,
-   :locality "Auckland",
+   :location "Auckland",
    :image "",
    :description ""}
   {:name "National Army Museum",
@@ -1359,7 +1359,7 @@
    :latitude -36.8288504,
    :source :openstreetmap,
    :homepage "https://navymuseum.co.nz/",
-   :locality "Auckland",
+   :location "Auckland",
    :image "",
    :description ""}
   {:name "National Toy Museum",
@@ -1380,7 +1380,7 @@
    :latitude -41.2980788,
    :source :openstreetmap,
    :homepage "https://nelsonclassiccarmuseum.nz/",
-   :locality "Annesbrook",
+   :location "Annesbrook",
    :image "",
    :description ""}
   {:name "Nelson Provincial Museum",
@@ -1388,7 +1388,7 @@
    :latitude -41.2744464,
    :source :openstreetmap,
    :homepage "https://nelsonmuseum.co.nz",
-   :locality "Nelson",
+   :location "Nelson",
    :image "",
    :description ""}
   {:name "New Brighton Museum",
@@ -1396,7 +1396,7 @@
    :latitude -43.5089313,
    :source :openstreetmap,
    :homepage "https://www.nbmuseum.org.nz/",
-   :locality "Christchurch",
+   :location "Christchurch",
    :image "",
    :description ""}
   {:name "New Zealand Academy of Fine Arts",
@@ -1488,7 +1488,7 @@
    :longitude 173.8773535,
    :latitude -39.1913163,
    :source :openstreetmap,
-   :locality "Okato",
+   :location "Okato",
    :image "",
    :description ""}
   {:name "Old Customs House",
@@ -1508,7 +1508,7 @@
    :latitude -41.5379073,
    :source :openstreetmap,
    :homepage "https://www.omaka.org.nz/",
-   :locality "Blenheim",
+   :location "Blenheim",
    :image "",
    :description ""}
   {:name "Ongaonga Museum",
@@ -1540,7 +1540,7 @@
    :latitude -40.7527174,
    :source :openstreetmap,
    :homepage "http://www.otakimuseum.co.nz/",
-   :locality "Ōtaki",
+   :location "Ōtaki",
    :image "",
    :description ""}
   {:name "oTg Arthouse",
@@ -1635,7 +1635,7 @@
    :latitude -35.2645061,
    :source :openstreetmap,
    :homepage "http://www.pompallier.co.nz/",
-   :locality "Russell",
+   :location "Russell",
    :image "",
    :description ""}
   {:name "Porirua Hospital Museum",
@@ -1674,7 +1674,7 @@
    :longitude 173.1002882,
    :latitude -41.255469,
    :source :openstreetmap,
-   :locality "Māpua",
+   :location "Māpua",
    :image "",
    :description ""}
   {:name "Pātaka Art + Museum",
@@ -1704,7 +1704,7 @@
    :latitude -39.4887322,
    :source :openstreetmap,
    :homepage "https://www.quaygallery.co.nz/",
-   :locality "Napier South",
+   :location "Napier South",
    :image "",
    :description ""}
   {:name "Raglan & District Museum",
@@ -1712,7 +1712,7 @@
    :latitude -37.8021016,
    :source :openstreetmap,
    :homepage "https://www.raglanmuseum.co.nz/",
-   :locality "Raglan",
+   :location "Raglan",
    :image "",
    :description ""}
   {:name "Rai Valley Pioneer Cottage",
@@ -1750,7 +1750,7 @@
    :longitude 172.593193,
    :latitude -43.3006654,
    :source :openstreetmap,
-   :locality "Rangiora",
+   :location "Rangiora",
    :image "",
    :description ""}
   {:name "Real Aotearoa",
@@ -1790,7 +1790,7 @@
    :longitude 174.8984927,
    :latitude -41.2905688,
    :source :openstreetmap,
-   :locality "Lower Hutt",
+   :location "Lower Hutt",
    :image "",
    :description ""}
   {:name "Ross Goldfields Information & Heritage Centre",
@@ -1836,7 +1836,7 @@
    :latitude -39.9342727,
    :source :openstreetmap,
    :homepage "https://www.nzglassworks.com/",
-   :locality "Whanganui",
+   :location "Whanganui",
    :image "",
    :description ""}
   {:name "School of Mines",
@@ -1895,7 +1895,7 @@
    :latitude -44.3182769,
    :source :openstreetmap,
    :homepage "https://sctetm.co.nz",
-   :locality "Levels",
+   :location "Levels",
    :image "",
    :description ""}
   {:name "Southward Car Museum",
@@ -1992,7 +1992,7 @@
    :latitude -38.6873221,
    :source :openstreetmap,
    :homepage "https://www.taupodc.govt.nz/museum",
-   :locality "Taupō",
+   :location "Taupō",
    :image "",
    :description ""}
   {:name "Tauranga Art Gallery",
@@ -2032,7 +2032,7 @@
    :latitude -38.0113782,
    :source :openstreetmap,
    :homepage "https://tamuseum.org.nz/",
-   :locality "Te Awamutu",
+   :location "Te Awamutu",
    :image "",
    :description ""}
   {:name "Te Hikoi Southern Journey Heritage Museum",
@@ -2040,7 +2040,7 @@
    :latitude -46.351979,
    :source :openstreetmap,
    :homepage "https://www.tehikoi.co.nz/",
-   :locality "Riverton/Aparima",
+   :location "Riverton/Aparima",
    :image "",
    :description ""}
   {:name "Te Huanui Art Gallery in Darfield",
@@ -2066,7 +2066,7 @@
    :latitude -36.8788466,
    :source :openstreetmap,
    :homepage "http://Aucklandcouncil.govt.nz/arts",
-   :locality "Glen Innes",
+   :location "Glen Innes",
    :image "",
    :description ""}
   {:name "Te Rahui Center",
@@ -2105,7 +2105,7 @@
    :latitude -43.5466024,
    :source :openstreetmap,
    :homepage "https://airforcemuseum.co.nz",
-   :locality "Christchurch",
+   :location "Christchurch",
    :image "",
    :description ""}
   {:name "Te Wharetaonga Museum and Gallery",
@@ -2157,7 +2157,7 @@
    :latitude -37.6766558,
    :source :openstreetmap,
    :homepage "https://theelms.org.nz/",
-   :locality "Tauranga",
+   :location "Tauranga",
    :image "",
    :description ""}
   {:name "The Fairy Forest",
@@ -2170,7 +2170,7 @@
    :longitude 173.9242893,
    :latitude -41.5367242,
    :source :openstreetmap,
-   :locality "Blenheim",
+   :location "Blenheim",
    :image "",
    :description ""}
   {:name "The Kierunga Gardens Arts & Crafts Society Inc.",
@@ -2183,7 +2183,7 @@
    :longitude 176.1934463,
    :latitude -37.656342,
    :source :openstreetmap,
-   :locality "Tauranga",
+   :location "Tauranga",
    :image "",
    :description ""}
   {:name "The Piano",
@@ -2191,7 +2191,7 @@
    :latitude -43.5290728,
    :source :openstreetmap,
    :homepage "https://thepiano.nz",
-   :locality "Christchurch",
+   :location "Christchurch",
    :image "",
    :description ""}
   {:name "The Plains Museum",
@@ -2253,7 +2253,7 @@
    :latitude -40.9489649,
    :source :openstreetmap,
    :homepage "https://www.thewoolshednz.com/",
-   :locality "Masterton",
+   :location "Masterton",
    :image "",
    :description ""}
   {:name "TheFLOW Gallery",
@@ -2341,7 +2341,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.facebook.com/Tuapeka-Goldfields-Museum-521323161327628/",
-   :locality "Lawrence",
+   :location "Lawrence",
    :image "",
    :description ""}
   {:name "Tui Brewery Museum",
@@ -2355,7 +2355,7 @@
    :latitude -41.3136182,
    :source :openstreetmap,
    :homepage "https://twentysix.co.nz/",
-   :locality "Wellington",
+   :location "Wellington",
    :image "",
    :description ""}
   {:name "Tāmaki Paenga Hira Auckland War Memorial Museum",
@@ -2363,7 +2363,7 @@
    :latitude -36.8607505,
    :source :openstreetmap,
    :homepage "https://www.aucklandmuseum.com/",
-   :locality "Auckland",
+   :location "Auckland",
    :image "",
    :description ""}
   {:name "Vanished World",
@@ -2391,7 +2391,7 @@
    :latitude -37.7897619,
    :source :openstreetmap,
    :homepage "https://waikatomuseum.co.nz/",
-   :locality "Hamilton Central",
+   :location "Hamilton Central",
    :image "",
    :description ""}
   {:name "Waikouaiti Coast Heritage Centre",
@@ -2405,7 +2405,7 @@
    :latitude -44.7322976,
    :source :openstreetmap,
    :homepage "https://www.waimatemuseumandarchives.org.nz/",
-   :locality "Waimate",
+   :location "Waimate",
    :image "",
    :description ""}
   {:name "Waipu Museum",
@@ -2430,7 +2430,7 @@
    :longitude 174.7288961,
    :latitude -37.2472444,
    :source :openstreetmap,
-   :locality "Waiuku",
+   :location "Waiuku",
    :image "",
    :description ""}
   {:name "Wallace Gallery",
@@ -2445,7 +2445,7 @@
    :latitude -44.7243546,
    :source :openstreetmap,
    :homepage "https://warbirdsandwheels.com/",
-   :locality "Wānaka",
+   :location "Wānaka",
    :image "",
    :description ""}
   {:name "Warkworth and District Museum",
@@ -2466,7 +2466,7 @@
    :latitude -41.3176327,
    :source :openstreetmap,
    :homepage "https://www.wellingtonart.co.nz/",
-   :locality "Wellington",
+   :location "Wellington",
    :image "",
    :description ""}
   {:name "Wellington Tramway Museum",
@@ -2489,7 +2489,7 @@
    :latitude -41.757211,
    :source :openstreetmap,
    :homepage "https://whanake.co.nz/",
-   :locality "Westport",
+   :location "Westport",
    :image "",
    :description ""}
   {:name "Whangamata War Memorial Hall",
@@ -2537,7 +2537,7 @@
    :latitude -43.5105786,
    :source :openstreetmap,
    :homepage "http://www.yaldhurstmuseum.co.nz/",
-   :locality "Christchurch",
+   :location "Christchurch",
    :image "",
    :description ""}
   {:name "Ōtorohanga Museum",

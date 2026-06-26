@@ -44,28 +44,28 @@
    :longitude -79.8924352,
    :latitude -2.1649267,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Art Studio",
    :longitude -78.5001332,
    :latitude -0.1034457,
    :source :openstreetmap,
-   :locality "El Condado",
+   :location "El Condado",
    :image "",
    :description ""}
   {:name "Arte Negro \"GAEN\"  Mascarilla",
    :longitude -78.0731551,
    :latitude 0.4851385,
    :source :openstreetmap,
-   :locality "Mira",
+   :location "Mira",
    :image "",
    :description ""}
   {:name "Arte Prado Marcos para cuadros",
    :longitude -78.4801837,
    :latitude -0.1703661,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Artesanía en Jade",
@@ -90,7 +90,7 @@
    :longitude -78.6382697,
    :latitude -1.2519824,
    :source :openstreetmap,
-   :locality "Ambato",
+   :location "Ambato",
    :image "",
    :description ""}
   {:name "Bella de París",
@@ -117,7 +117,7 @@
    :longitude -78.4827617,
    :latitude -0.2053333,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Casa De Artes Enrique Males",
@@ -149,7 +149,7 @@
    :latitude -2.1893128,
    :source :openstreetmap,
    :homepage "http://www.casadelaculturaguayas.org/",
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Casa de la Cultura",
@@ -212,7 +212,7 @@
    :longitude -78.4988753,
    :latitude -0.1854799,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Casa Museo",
@@ -257,7 +257,7 @@
    :longitude -78.4887574,
    :latitude -0.1057102,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Centro Cultural José Mejía Lequerica",
@@ -289,14 +289,14 @@
    :longitude -78.6576489,
    :latitude -1.6663317,
    :source :openstreetmap,
-   :locality "Riobamba",
+   :location "Riobamba",
    :image "",
    :description ""}
   {:name "Centro de Arte y Cultura \"Luz Victoria Rivera de Mora\"",
    :longitude -79.9584241,
    :latitude -3.2597532,
    :source :openstreetmap,
-   :locality "Machala",
+   :location "Machala",
    :image "",
    :description ""}
   {:name "Centro de Artesanía",
@@ -358,7 +358,7 @@
    :latitude -3.0503465,
    :source :openstreetmap,
    :homepage "https://cineartedigitall.blogspot.com/",
-   :locality "Sigsig",
+   :location "Sigsig",
    :image "",
    :description ""}
   {:name "CINEARTEDIGITALL",
@@ -366,7 +366,7 @@
    :latitude -2.8966158,
    :source :openstreetmap,
    :homepage "https://cineartedigitall.blogspot.com/",
-   :locality "Cuenca",
+   :location "Cuenca",
    :image "",
    :description ""}
   {:name "Club Coleccionistas STAR WARS Los CHILLOS",
@@ -415,7 +415,7 @@
    :longitude -79.9028101,
    :latitude -2.1803507,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "D'La Cabeza Estudios",
@@ -423,7 +423,7 @@
    :latitude -0.170216,
    :source :openstreetmap,
    :homepage "https://www.dlacabeza.com/",
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Degat",
@@ -478,7 +478,7 @@
    :longitude -78.4910235,
    :latitude -0.1964663,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Escenario",
@@ -515,7 +515,7 @@
    :longitude -79.8984301,
    :latitude -2.1596429,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Galeria Huellas de la Tierra",
@@ -528,7 +528,7 @@
    :longitude -78.4929648,
    :latitude -0.2028047,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Galeria Pintor de Tigua, Alfredo Toaquiza",
@@ -547,7 +547,7 @@
    :longitude -78.4910274,
    :latitude -0.1566544,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Galería de Arte Miguel Illescas C.",
@@ -567,7 +567,7 @@
    :longitude -78.5037636,
    :latitude -0.2115994,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Hojas Jaboncillo",
@@ -616,7 +616,7 @@
    :longitude -77.6353302,
    :latitude -1.0661226,
    :source :openstreetmap,
-   :locality "Misahualli",
+   :location "Misahualli",
    :image "",
    :description ""}
   {:name "La casa de los sueños",
@@ -653,7 +653,7 @@
    :longitude -79.9067336,
    :latitude -2.174904,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Maqui",
@@ -691,7 +691,7 @@
    :longitude -77.5920157,
    :latitude 0.6704535,
    :source :openstreetmap,
-   :locality "El Carmelo",
+   :location "El Carmelo",
    :image "",
    :description ""}
   {:name "Muestra geográfica casa García Moreno",
@@ -729,14 +729,14 @@
    :longitude -79.875528,
    :latitude -2.184774,
    :source :openstreetmap,
-   :locality "Guayaquil, Guayas, Ecuador",
+   :location "Guayaquil, Guayas, Ecuador",
    :image "",
    :description ""}
   {:name "Museo arqueologico provincia Chinchipe",
    :longitude -79.1314063,
    :latitude -4.86317,
    :source :openstreetmap,
-   :locality "Zumba",
+   :location "Zumba",
    :image "",
    :description ""}
   {:name "Museo Arqueológico",
@@ -763,7 +763,7 @@
    :longitude -77.8542309,
    :latitude 0.8019131,
    :source :openstreetmap,
-   :locality "Tufiño",
+   :location "Tufiño",
    :image "",
    :description ""}
   {:name "Museo Arqueológico y Centro Cultural Orellana (MACCO)",
@@ -808,7 +808,7 @@
    :longitude -78.5132033,
    :latitude -0.0014241,
    :source :openstreetmap,
-   :locality "Calacalí",
+   :location "Calacalí",
    :image "",
    :description ""}
   {:name "Museo Casaleón",
@@ -864,7 +864,7 @@
    :longitude -79.2011531,
    :latitude -3.9814912,
    :source :openstreetmap,
-   :locality "Loja, Ecuador",
+   :location "Loja, Ecuador",
    :image "",
    :description ""}
   {:name "Museo de Ballenas (se necesita previa cita)",
@@ -890,7 +890,7 @@
    :longitude -79.907571,
    :latitude -2.188506,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Museo de la Catedral",
@@ -904,7 +904,7 @@
    :longitude -79.0044142,
    :latitude -2.8960922,
    :source :openstreetmap,
-   :locality "Cuenca",
+   :location "Cuenca",
    :image "",
    :description ""}
   {:name "Museo de la ciudad de Guano",
@@ -917,7 +917,7 @@
    :longitude -79.1476476,
    :latitude -3.159066,
    :source :openstreetmap,
-   :locality "Girón",
+   :location "Girón",
    :image "",
    :description ""}
   {:name "Museo de la Música",
@@ -925,7 +925,7 @@
    :latitude -3.9985353,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/museoconceptasLoja",
-   :locality "Loja, Ecuador",
+   :location "Loja, Ecuador",
    :image "",
    :description ""}
   {:name "Museo de la Virgen de El Quinche",
@@ -938,14 +938,14 @@
    :longitude -79.0025257,
    :latitude -2.900144,
    :source :openstreetmap,
-   :locality "Cuenca",
+   :location "Cuenca",
    :image "",
    :description ""}
   {:name "Museo de los Metales",
    :longitude -79.0096721,
    :latitude -2.913158,
    :source :openstreetmap,
-   :locality "Cuenca",
+   :location "Cuenca",
    :image "",
    :description ""}
   {:name "Museo de Perucho",
@@ -1014,7 +1014,7 @@
    :longitude -79.89738,
    :latitude -2.2040953,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Museo del cacao",
@@ -1124,7 +1124,7 @@
    :longitude -79.0048824,
    :latitude -2.9032455,
    :source :openstreetmap,
-   :locality "Cuenca",
+   :location "Cuenca",
    :image "",
    :description ""}
   {:name "Museo Interactivo de Ciencias",
@@ -1150,21 +1150,21 @@
    :longitude -79.2058538,
    :latitude -3.9943681,
    :source :openstreetmap,
-   :locality "Loja, Ecuador",
+   :location "Loja, Ecuador",
    :image "",
    :description ""}
   {:name "Museo Mindalae",
    :longitude -78.4876633,
    :latitude -0.1989768,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Museo Municipal",
    :longitude -79.9893092,
    :latitude -1.7147958,
    :source :openstreetmap,
-   :locality "Santa Lucá",
+   :location "Santa Lucá",
    :image "",
    :description ""}
   {:name "Museo Municipal",
@@ -1177,7 +1177,7 @@
    :longitude -79.8826065,
    :latitude -2.1958569,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Museo Municipal de Jama",
@@ -1190,7 +1190,7 @@
    :longitude -79.875653,
    :latitude -2.1813136,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Museo Naval Almirante Illingworth",
@@ -1198,7 +1198,7 @@
    :latitude -2.2148518,
    :source :openstreetmap,
    :homepage "https://turismo.guayaquil.gob.ec/",
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Museo Paleontológico",
@@ -1236,21 +1236,21 @@
    :longitude -79.8952953,
    :latitude -2.1876036,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Museo Puerta de la Cuidad",
    :longitude -79.2042649,
    :latitude -3.9896853,
    :source :openstreetmap,
-   :locality "Loja, Ecuador",
+   :location "Loja, Ecuador",
    :image "",
    :description ""}
   {:name "Museo Regional de Arqueologia",
    :longitude -79.6518812,
    :latitude 0.9653938,
    :source :openstreetmap,
-   :locality "Esmeraldas",
+   :location "Esmeraldas",
    :image "",
    :description ""}
   {:name "Museo Salinas Siglo XXI",
@@ -1311,7 +1311,7 @@
    :longitude -78.5133849,
    :latitude -0.2317319,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Museos Casa de la Cultura",
@@ -1362,7 +1362,7 @@
    :longitude -79.8679761,
    :latitude -2.1444721,
    :source :openstreetmap,
-   :locality "Guayaquil",
+   :location "Guayaquil",
    :image "",
    :description ""}
   {:name "Posada de Artes Kingman",
@@ -1411,7 +1411,7 @@
    :longitude -78.4326976,
    :latitude -0.1683878,
    :source :openstreetmap,
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Shaolin",
@@ -1431,7 +1431,7 @@
    :latitude -0.2790368,
    :source :openstreetmap,
    :homepage "http://www.stonedriders.com",
-   :locality "Quito",
+   :location "Quito",
    :image "",
    :description ""}
   {:name "Su Marmoleria Espiritu Santo",
@@ -1474,7 +1474,7 @@
    :longitude -79.2111425,
    :latitude -3.999108,
    :source :openstreetmap,
-   :locality "Loja, Ecuador",
+   :location "Loja, Ecuador",
    :image "",
    :description ""}],
  :source

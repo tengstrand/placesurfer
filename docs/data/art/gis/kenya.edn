@@ -16,7 +16,7 @@
    :longitude 36.9391632,
    :latitude -1.4007172,
    :source :openstreetmap,
-   :locality "Mlolongo"}
+   :location "Mlolongo"}
   {:name "anselm Kitengela Hot Glass",
    :longitude 36.8178198,
    :latitude -1.3922429,
@@ -37,7 +37,7 @@
    :longitude 35.3380003,
    :latitude -1.5203628,
    :source :openstreetmap,
-   :locality "Maasai-Mara"}
+   :location "Maasai-Mara"}
   {:name "Chandaria Centre for Performing Arts",
    :longitude 36.8163078,
    :latitude -1.2790999,
@@ -52,7 +52,7 @@
    :longitude 39.5642141,
    :latitude -4.3465792,
    :source :openstreetmap,
-   :locality "Diani Beach"}
+   :location "Diani Beach"}
   {:name "Creative Garage",
    :longitude 36.7825413,
    :latitude -1.2971535,
@@ -66,12 +66,12 @@
    :latitude 2.7840414,
    :source :openstreetmap,
    :homepage "https://www.museums.or.ke/desert-museum/",
-   :locality "Loiyangalani"}
+   :location "Loiyangalani"}
   {:name "Diani Beach Art Gallery",
    :longitude 39.5808771,
    :latitude -4.2989912,
    :source :openstreetmap,
-   :locality "Kwale"}
+   :location "Kwale"}
   {:name "Elben Historical Site",
    :longitude 40.1855554,
    :latitude 2.3051624,
@@ -100,7 +100,7 @@
    :longitude 40.1248278,
    :latitude -3.2178582,
    :source :openstreetmap,
-   :locality "Malindi"}
+   :location "Malindi"}
   {:name "Hyrax Hill Museum",
    :longitude 36.1054642,
    :latitude -0.2796002,
@@ -121,7 +121,7 @@
    :longitude 36.6806998,
    :latitude -1.330975,
    :source :openstreetmap,
-   :locality "Nairobi"}
+   :location "Nairobi"}
   {:name "Kariandusi Museum",
    :longitude 36.2838847,
    :latitude -0.4514038,
@@ -155,7 +155,7 @@
    :longitude 35.0052964,
    :latitude 1.0135069,
    :source :openstreetmap,
-   :locality "Kitale"}
+   :location "Kitale"}
   {:name "Kwa Waita",
    :longitude 37.5196064,
    :latitude -1.8983626,
@@ -180,7 +180,7 @@
    :longitude 37.6507355,
    :latitude 0.0476226,
    :source :openstreetmap,
-   :locality "Meru"}
+   :location "Meru"}
   {:name "Mukuru Arts",
    :longitude 36.8652014,
    :latitude -1.3116447,
@@ -189,12 +189,12 @@
    :longitude 34.4902073,
    :latitude 0.3446756,
    :source :openstreetmap,
-   :locality "Mumias"}
+   :location "Mumias"}
   {:name "Mumias Cultural Center",
    :longitude 34.4943278,
    :latitude 0.3383446,
    :source :openstreetmap,
-   :locality "Mumias"}
+   :location "Mumias"}
   {:name "Muralpaintings",
    :longitude 36.8129137,
    :latitude -1.2133595,
@@ -207,23 +207,23 @@
    :longitude 36.8178958,
    :latitude -1.2867687,
    :source :openstreetmap,
-   :locality "Nairobi"}
+   :location "Nairobi"}
   {:name "Nairobi National Museum",
    :longitude 36.8149772,
    :latitude -1.273995,
    :source :openstreetmap,
    :homepage "https://www.museums.or.ke/",
-   :locality "Nairobi"}
+   :location "Nairobi"}
   {:name "Nairobi Railway Museum",
    :longitude 36.8225011,
    :latitude -1.2936209,
    :source :openstreetmap,
-   :locality "Nairobi"}
+   :location "Nairobi"}
   {:name "Narok Museum",
    :longitude 35.8743808,
    :latitude -1.0895039,
    :source :openstreetmap,
-   :locality "Narok"}
+   :location "Narok"}
   {:name "National Museum of Kenya- Coastal Forest Conservation Unit",
    :longitude 39.5557306,
    :latitude -4.3039158,
@@ -232,7 +232,7 @@
    :longitude 36.9640498,
    :latitude -0.4400491,
    :source :openstreetmap,
-   :locality "Ruring'u Ward"}
+   :location "Ruring'u Ward"}
   {:name "Nyota Studio",
    :longitude 36.7882047,
    :latitude -1.3116072,
@@ -257,7 +257,7 @@
    :longitude 37.4813435,
    :latitude -2.0900504,
    :source :openstreetmap,
-   :locality "Emali"}
+   :location "Emali"}
   {:name "Shimba Hills National Reserve",
    :longitude 39.3878444,
    :latitude -4.2571024,
@@ -280,7 +280,7 @@
    :longitude 36.8233358,
    :latitude -1.2876028,
    :source :openstreetmap,
-   :locality "Nairobi"}
+   :location "Nairobi"}
   {:name "The Village Exhibition",
    :longitude 36.7992076,
    :latitude -1.3116382,
@@ -289,12 +289,12 @@
    :longitude 36.7657403,
    :latitude -1.250264,
    :source :openstreetmap,
-   :locality "Nairobi"}
+   :location "Nairobi"}
   {:name "Uhuru Park Museum",
    :longitude 36.8164282,
    :latitude -1.2904452,
    :source :openstreetmap,
-   :locality "Nairobi"}
+   :location "Nairobi"}
   {:name "Wajukuuu",
    :longitude 36.8712863,
    :latitude -1.3140606,
@@ -303,7 +303,7 @@
    :longitude 36.6799908,
    :latitude -1.3874194,
    :source :openstreetmap,
-   :locality "Matasia"}
+   :location "Matasia"}
   {:name "Workshop",
    :longitude 39.3124475,
    :latitude -4.1359454,

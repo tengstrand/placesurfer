@@ -12,7 +12,7 @@
    :longitude 15.5009575,
    :latitude 3.9230409,
    :source :openstreetmap,
-   :locality "Sosso-Nakombo"}
+   :location "Sosso-Nakombo"}
   {:name "Musée National Barthélémy Boganda",
    :longitude 18.5770013,
    :latitude 4.3640957,

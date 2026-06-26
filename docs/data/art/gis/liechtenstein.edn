@@ -8,14 +8,14 @@
    :longitude 9.5478277,
    :latitude 47.2327495,
    :source :openstreetmap,
-   :locality "Schellenberg"}
+   :location "Schellenberg"}
   {:name "domus - Galerie und Museum",
    :longitude 9.5094822,
    :latitude 47.1662278,
    :source :openstreetmap,
    :homepage
    "https://www.schaan.li/gemeinde-politik/verwaltung-abteilungen/geschichte-und-kultur",
-   :locality "Schaan"}
+   :location "Schaan"}
   {:name "Erichs Bildergalerie",
    :longitude 9.5502891,
    :latitude 47.1136906,
@@ -34,12 +34,12 @@
    :latitude 47.1974717,
    :source :openstreetmap,
    :homepage "https://www.kunstschule.li/DE/Default.asp",
-   :locality "Nendeln"}
+   :location "Nendeln"}
   {:name "Landweibelhäuser",
    :longitude 9.5087453,
    :latitude 47.1628465,
    :source :openstreetmap,
-   :locality "Schaan"}
+   :location "Schaan"}
   {:name "Lawena Museum (Elektromuseum)",
    :longitude 9.5278752,
    :latitude 47.0859181,
@@ -53,7 +53,7 @@
    :longitude 9.5428822,
    :latitude 47.1184826,
    :source :openstreetmap,
-   :locality "Triesenberg"}],
+   :location "Triesenberg"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

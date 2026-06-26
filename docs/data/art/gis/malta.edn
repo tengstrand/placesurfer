@@ -8,7 +8,7 @@
    :longitude 14.4944107,
    :latitude 35.9016929,
    :source :openstreetmap,
-   :locality "Il-Gżira"}
+   :location "Il-Gżira"}
   {:name "Art by the Seaside Art Gallery",
    :longitude 14.5181817,
    :latitude 35.8875291,
@@ -32,7 +32,7 @@
    :longitude 14.2092717,
    :latitude 36.0597494,
    :source :openstreetmap,
-   :locality "L-Għarb"}
+   :location "L-Għarb"}
   {:name "Fort Rinella",
    :longitude 14.5314719,
    :latitude 35.8937862,
@@ -53,7 +53,7 @@
    :latitude 35.8871922,
    :source :openstreetmap,
    :homepage "https://heritagemalta.org/the-inquisitors-palace/",
-   :locality "Il-Birgu (Vittoriosa)"}
+   :location "Il-Birgu (Vittoriosa)"}
   {:name "It-Tempji tal-Ġgantija",
    :longitude 14.2678466,
    :latitude 36.0489707,
@@ -73,7 +73,7 @@
    :latitude 35.8933902,
    :source :openstreetmap,
    :homepage "https://www.maltaaviationmuseum.com/",
-   :locality "Ħ'Attard"}
+   :location "Ħ'Attard"}
   {:name "Malta Classic Car Museum",
    :longitude 14.420635,
    :latitude 35.95524,
@@ -84,24 +84,24 @@
    :latitude 35.8942188,
    :source :openstreetmap,
    :homepage "https://micas.art/",
-   :locality "Il-Furjana"}
+   :location "Il-Furjana"}
   {:name "Mużew tal-Bambini",
    :longitude 14.4581319,
    :latitude 35.8966256,
    :source :openstreetmap,
-   :locality "Birkirkara"}
+   :location "Birkirkara"}
   {:name "Mużew tal-Ġugarelli",
    :longitude 14.5151917,
    :latitude 35.9000427,
    :source :openstreetmap,
    :homepage "https://heritagemalta.mt/explore/underground-valletta/",
-   :locality "Il-Belt Valletta"}
+   :location "Il-Belt Valletta"}
   {:name "Mużew tal-Ġugarelli",
    :longitude 14.2693907,
    :latitude 36.052299,
    :source :openstreetmap,
    :homepage "https://www.gozotoymuseum.com/",
-   :locality "Ix-Xagħra"}
+   :location "Ix-Xagħra"}
   {:name "Mużew tas-Santwarju tal-Madonna tal-Grazzja",
    :longitude 14.5338561,
    :latitude 35.8748332,
@@ -112,14 +112,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.heritagemalta.org/museums/naturalscience/naturalscienceinfo.html",
-   :locality "Ir-Rabat (Għawdex)"}
+   :location "Ir-Rabat (Għawdex)"}
   {:name "National Museum of Natural History",
    :longitude 14.4038738,
    :latitude 35.8848166,
    :source :openstreetmap,
    :homepage
    "https://heritagemalta.org/museums-sites/national-museum-of-natural-history/",
-   :locality "L-Imdina"}
+   :location "L-Imdina"}
   {:name "National War Museum",
    :longitude 14.5187411,
    :latitude 35.9019705,
@@ -139,7 +139,7 @@
    :longitude 14.4549971,
    :latitude 35.8972087,
    :source :openstreetmap,
-   :locality "Ħal Balzan"}
+   :location "Ħal Balzan"}
   {:name "Saluting Battery",
    :longitude 14.5125464,
    :latitude 35.8946023,
@@ -150,7 +150,7 @@
    :latitude 35.8758916,
    :source :openstreetmap,
    :homepage "https://taxxierfa.com",
-   :locality "Ir-Rabat"}
+   :location "Ir-Rabat"}
   {:name
    "The Fortress Builders - Fortifications Interpretation Centre",
    :longitude 14.5090594,
@@ -161,7 +161,7 @@
    :longitude 14.293135,
    :latitude 36.0371779,
    :source :openstreetmap,
-   :locality "In-Nadur"}
+   :location "In-Nadur"}
   {:name "The Limestone Heritage Park and Gardens",
    :longitude 14.4425157,
    :latitude 35.8528364,
@@ -172,7 +172,7 @@
    :latitude 35.8641908,
    :source :openstreetmap,
    :homepage "https://www.trudygera.com",
-   :locality "Ħal Tarxien"}
+   :location "Ħal Tarxien"}
   {:name "Tunnara Museum",
    :longitude 14.3569812,
    :latitude 35.9666093,
@@ -182,7 +182,7 @@
    :latitude 35.8816458,
    :source :openstreetmap,
    :homepage "https://www.wignacourtmuseum.com/",
-   :locality "Ir-Rabat"}
+   :location "Ir-Rabat"}
   {:name "Ħaġar Qim",
    :longitude 14.4435474,
    :latitude 35.8271978,

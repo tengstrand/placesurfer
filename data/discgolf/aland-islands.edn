@@ -30,7 +30,7 @@
    :latitude 60.216330600865575,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/47074",
-   :locality "Hammarland",
+   :location "Hammarland",
    :image "",
    :description ""}
   {:name "Hasterboda",
@@ -45,7 +45,7 @@
    :latitude 60.2304309303902,
    :source :discgolfapi,
    :homepage "https://www.discgolf.ax/",
-   :locality "Sund",
+   :location "Sund",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -60,7 +60,7 @@
    :latitude 59.9300063,
    :source :discgolfapi,
    :homepage "https://frisbeegolfradat.fi/rata/kokar-discgolfpark/",
-   :locality "Kökar",
+   :location "Kökar",
    :image "",
    :holes 12,
    :layout-holes 12,
@@ -72,7 +72,7 @@
    :latitude 60.3186530340049,
    :source :discgolfapi,
    :homepage "https://www.discgolf.ax/",
-   :locality "Lappo",
+   :location "Lappo",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -81,7 +81,7 @@
    :latitude 60.0981378227401,
    :source :discgolfapi,
    :homepage "https://www.discgolf.ax/",
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :layout-name "Main Layout",
    :description ""}
@@ -89,7 +89,7 @@
    :longitude 19.844072813024,
    :latitude 60.3862844265615,
    :source :discgolfapi,
-   :locality "Geta",
+   :location "Geta",
    :image "",
    :layout-name "Main Layout",
    :description ""}],

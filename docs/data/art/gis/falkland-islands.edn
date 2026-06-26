@@ -13,7 +13,7 @@
    :latitude -51.6911662,
    :source :openstreetmap,
    :homepage "https://falklands-museum.com/",
-   :locality "Port Stanley"}
+   :location "Port Stanley"}
   {:name "Falkland Islands Museum and National Trust",
    :longitude -57.8816197,
    :latitude -51.6909904,

@@ -16,12 +16,12 @@
    :longitude 81.3341736,
    :latitude 6.4186197,
    :source :openstreetmap,
-   :locality "Katharagama UP"}
+   :location "Katharagama UP"}
   {:name "Archaeological Museum",
    :longitude 80.9989762,
    :latitude 7.9418009,
    :source :openstreetmap,
-   :locality "Polonnaruwa"}
+   :location "Polonnaruwa"}
   {:name "Archaeological Museum Mihintale",
    :longitude 80.5132565,
    :latitude 8.355513,
@@ -30,7 +30,7 @@
    :longitude 79.9051742,
    :latitude 6.8932566,
    :source :openstreetmap,
-   :locality "Sri Jayawardenepura Kotte"}
+   :location "Sri Jayawardenepura Kotte"}
   {:name "Archeological Museum",
    :longitude 81.107282,
    :latitude 6.6912811,
@@ -39,7 +39,7 @@
    :longitude 80.0506862,
    :latitude 6.2414013,
    :source :openstreetmap,
-   :locality "Ambalangoda"}
+   :location "Ambalangoda"}
   {:name "Art Gallery",
    :longitude 80.457197,
    :latitude 5.9455014,
@@ -48,7 +48,7 @@
    :longitude 81.0622983,
    :latitude 6.9841404,
    :source :openstreetmap,
-   :locality "Badulla"}
+   :location "Badulla"}
   {:name "Buddhist Museum",
    :longitude 80.6513847,
    :latitude 7.855427,
@@ -82,7 +82,7 @@
    :longitude 79.8516492,
    :latitude 6.9360639,
    :source :openstreetmap,
-   :locality "Colombo"}
+   :location "Colombo"}
   {:name "Elephant Information Centre",
    :longitude 80.8164965,
    :latitude 6.426673,
@@ -105,7 +105,7 @@
    :longitude 80.6106024,
    :latitude 7.2740748,
    :source :openstreetmap,
-   :locality "Kandy"}
+   :location "Kandy"}
   {:name "General Tsunami Photo Museum",
    :longitude 80.0879744,
    :latitude 6.1687924,
@@ -115,12 +115,12 @@
    :latitude 6.9014644,
    :source :openstreetmap,
    :homepage "https://geoffreybawa.com/number-11",
-   :locality "Colombo 7"}
+   :location "Colombo 7"}
   {:name "Goethe Institute",
    :longitude 79.87088,
    :latitude 6.9099345,
    :source :openstreetmap,
-   :locality "Colombo"}
+   :location "Colombo"}
   {:name "Handunugoda Tea Estate",
    :longitude 80.364178,
    :latitude 6.0136418,
@@ -134,7 +134,7 @@
    :longitude 80.5725878,
    :latitude 7.2672828,
    :source :openstreetmap,
-   :locality "Kiribathkumbura"}
+   :location "Kiribathkumbura"}
   {:name "Hoods Tower Naval Museum",
    :longitude 81.2312591,
    :latitude 8.5402451,
@@ -171,12 +171,12 @@
    :longitude 80.766188,
    :latitude 6.972736,
    :source :openstreetmap,
-   :locality "Nuwara Eliya"}
+   :location "Nuwara Eliya"}
   {:name "Maduwanwela Walawwa",
    :longitude 80.7037407,
    :latitude 6.3892301,
    :source :openstreetmap,
-   :locality "Embilipitiya"}
+   :location "Embilipitiya"}
   {:name "Mondigliani Gallery",
    :longitude 79.8730561,
    :latitude 6.8771937,
@@ -214,7 +214,7 @@
    :longitude 79.8434128,
    :latitude 6.9360351,
    :source :openstreetmap,
-   :locality "Colombo"}
+   :location "Colombo"}
   {:name "Orr's Hill Army Museum",
    :longitude 81.2131269,
    :latitude 8.5689424,
@@ -227,7 +227,7 @@
    :longitude 80.12647,
    :latitude 6.1142871,
    :source :openstreetmap,
-   :locality "Hikkaduwa"}
+   :location "Hikkaduwa"}
   {:name "Pallegama Art Center",
    :longitude 81.1526305,
    :latitude 6.946447,
@@ -270,12 +270,12 @@
    :longitude 80.7518029,
    :latitude 7.9569761,
    :source :openstreetmap,
-   :locality "Sigiriya"}
+   :location "Sigiriya"}
   {:name "Sirisuwimala Sinhala Research Center",
    :longitude 80.5957183,
    :latitude 5.9352128,
    :source :openstreetmap,
-   :locality "Dondra"}
+   :location "Dondra"}
   {:name "Sri Lanka Air Force Museum",
    :longitude 79.8916533,
    :latitude 6.824577,
@@ -301,7 +301,7 @@
    :longitude 80.0607882,
    :latitude 6.2295349,
    :source :openstreetmap,
-   :locality "Ambalangoda"}
+   :location "Ambalangoda"}
   {:name "Vadda's Heritage Centre",
    :longitude 81.3808165,
    :latitude 7.2785464,
@@ -310,7 +310,7 @@
    :longitude 80.768913,
    :latitude 6.9673282,
    :source :openstreetmap,
-   :locality "Nuwara Eliya"}
+   :location "Nuwara Eliya"}
   {:name "W A Silva Museum",
    :longitude 79.866842,
    :latitude 6.8766665,

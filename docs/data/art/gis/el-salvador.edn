@@ -8,22 +8,22 @@
    :longitude -89.2371318,
    :latitude 13.6973848,
    :source :openstreetmap,
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Casa Barrientos",
    :longitude -89.6754867,
    :latitude 13.7473062,
    :source :openstreetmap,
-   :locality "Izalco"}
+   :location "Izalco"}
   {:name "Casa de Cultura",
    :longitude -89.0790613,
    :latitude 13.5611747,
    :source :openstreetmap,
-   :locality "Tapalhuaca"}
+   :location "Tapalhuaca"}
   {:name "Casa de La Cultura",
    :longitude -87.696184,
    :latitude 13.1774758,
    :source :openstreetmap,
-   :locality "Meanguera del Golfo"}
+   :location "Meanguera del Golfo"}
   {:name "Casa de la cultura",
    :longitude -89.7391647,
    :latitude 13.7190848,
@@ -32,27 +32,27 @@
    :longitude -89.7980634,
    :latitude 13.7167574,
    :source :openstreetmap,
-   :locality "Santo Domingo de Guzmán"}
+   :location "Santo Domingo de Guzmán"}
   {:name "Casa de la Cultura",
    :longitude -89.1190424,
    :latitude 13.7799842,
    :source :openstreetmap,
-   :locality "Tonacatepeque"}
+   :location "Tonacatepeque"}
   {:name "Casa de la Cultura Ahuachapán",
    :longitude -89.8478924,
    :latitude 13.9215158,
    :source :openstreetmap,
-   :locality "Ahuachapán"}
+   :location "Ahuachapán"}
   {:name "Casa de La Cultura de Chalchuapa",
    :longitude -89.6819213,
    :latitude 13.9828167,
    :source :openstreetmap,
-   :locality "Chalchuapa"}
+   :location "Chalchuapa"}
   {:name "Casa de la Cultura de Ciudad Delgado",
    :longitude -89.1669138,
    :latitude 13.7236673,
    :source :openstreetmap,
-   :locality "Delgado"}
+   :location "Delgado"}
   {:name "Casa de la Cultura de El Paraíso",
    :longitude -89.0686778,
    :latitude 14.1054874,
@@ -61,27 +61,27 @@
    :longitude -89.6077509,
    :latitude 14.1825122,
    :source :openstreetmap,
-   :locality "Santiago de La Frontera"}
+   :location "Santiago de La Frontera"}
   {:name "Casa de la Cultura de Suchitoto",
    :longitude -89.0254547,
    :latitude 13.9370698,
    :source :openstreetmap,
-   :locality "Suchitoto"}
+   :location "Suchitoto"}
   {:name "Casa de La Cultura de Teotepeque",
    :longitude -89.5176845,
    :latitude 13.5855165,
    :source :openstreetmap,
-   :locality "Teotepeque"}
+   :location "Teotepeque"}
   {:name "Casa de la Cultura y la Convivencia",
    :longitude -89.7266221,
    :latitude 13.7216739,
    :source :openstreetmap,
-   :locality "Sonsonate"}
+   :location "Sonsonate"}
   {:name "Casa de la Cultura y Memoria Histórica",
    :longitude -88.1152401,
    :latitude 13.8990614,
    :source :openstreetmap,
-   :locality "El Mozote"}
+   :location "El Mozote"}
   {:name "Casa-Museo Hermanas Chacón",
    :longitude -89.3005006,
    :latitude 13.6727333,
@@ -91,7 +91,7 @@
    :latitude 13.6939296,
    :source :openstreetmap,
    :homepage "https://www.ccesv.org/",
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Centro de Arte para la Paz",
    :longitude -89.028926,
    :latitude 13.9385465,
@@ -104,12 +104,12 @@
    :longitude -89.8511823,
    :latitude 13.8705547,
    :source :openstreetmap,
-   :locality "Concepción de Ataco"}
+   :location "Concepción de Ataco"}
   {:name "Ex Casa Presidencial",
    :longitude -89.1926354,
    :latitude 13.6835697,
    :source :openstreetmap,
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Ferrocarril",
    :longitude -89.5578791,
    :latitude 14.007827,
@@ -118,7 +118,7 @@
    :longitude -89.4437584,
    :latitude 14.3310043,
    :source :openstreetmap,
-   :locality "Metapán"}
+   :location "Metapán"}
   {:name "Galería de Arte Saravia",
    :longitude -89.2103547,
    :latitude 13.7007624,
@@ -135,7 +135,7 @@
    :longitude -89.6744388,
    :latitude 13.9803521,
    :source :openstreetmap,
-   :locality "Chalchuapa"}
+   :location "Chalchuapa"}
   {:name "Museo Ajá",
    :longitude -89.5601682,
    :latitude 13.9980056,
@@ -153,7 +153,7 @@
    :longitude -89.7149235,
    :latitude 13.7040853,
    :source :openstreetmap,
-   :locality "Nahulingo"}
+   :location "Nahulingo"}
   {:name "Museo de Arte Alejandro Coto",
    :longitude -89.0206511,
    :latitude 13.9421172,
@@ -166,7 +166,7 @@
    :longitude -89.1665358,
    :latitude 13.9805821,
    :source :openstreetmap,
-   :locality "Aguilares"}
+   :location "Aguilares"}
   {:name "Museo de Historia Natural de El Salvador",
    :longitude -89.1973462,
    :latitude 13.6755025,
@@ -176,7 +176,7 @@
    :latitude 13.7091109,
    :source :openstreetmap,
    :homepage "https://museo.com.sv/",
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Museo de la Revolución",
    :longitude -88.1634904,
    :latitude 13.9585888,
@@ -201,22 +201,22 @@
    :longitude -89.2256952,
    :latitude 13.7007825,
    :source :openstreetmap,
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Museo Joya De Cerén",
    :longitude -89.3564568,
    :latitude 13.8285459,
    :source :openstreetmap,
-   :locality "Cantón Joya de Cerén"}
+   :location "Cantón Joya de Cerén"}
   {:name "Museo Tecleño",
    :longitude -89.2837339,
    :latitude 13.6735666,
    :source :openstreetmap,
-   :locality "Santa Tecla"}
+   :location "Santa Tecla"}
   {:name "Museo Universitario de Antropología",
    :longitude -89.2001497,
    :latitude 13.7001983,
    :source :openstreetmap,
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Museo Winakirika",
    :longitude -88.0779692,
    :latitude 13.7734994,
@@ -225,7 +225,7 @@
    :longitude -89.1901149,
    :latitude 13.6982153,
    :source :openstreetmap,
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Pinacoteca",
    :longitude -89.1531667,
    :latitude 13.7168498,
@@ -239,7 +239,7 @@
    :latitude 13.6869462,
    :source :openstreetmap,
    :homepage "https://www.premiumartgallery.com",
-   :locality "San Salvador"}
+   :location "San Salvador"}
   {:name "Sala Nacional de Exposiciones Salarrue",
    :longitude -89.2067155,
    :latitude 13.6995282,
@@ -249,7 +249,7 @@
    :latitude 13.7171037,
    :source :openstreetmap,
    :homepage "https://www.uees.edu.sv/arte-y-cultura/",
-   :locality "Distrito Municipal 2"}],
+   :location "Distrito Municipal 2"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

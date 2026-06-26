@@ -72,7 +72,7 @@
    :latitude 47.923435,
    :source :openstreetmap,
    :homepage "https://nhm.gov.mn/",
-   :locality "Улаанбаатар"}
+   :location "Улаанбаатар"}
   {:name "Tsagaandarium",
    :longitude 106.9108555,
    :latitude 47.887812,
@@ -99,7 +99,7 @@
    :longitude 106.9430761,
    :latitude 47.8834642,
    :source :openstreetmap,
-   :locality "Улаанбаатар"}
+   :location "Улаанбаатар"}
   {:name "Байгалийн түүхийн музей",
    :longitude 101.4516703,
    :latitude 47.4968545,
@@ -113,12 +113,12 @@
    :latitude 48.9694575,
    :source :openstreetmap,
    :homepage "https://museum.bo.gov.mn/",
-   :locality "Өлгий"}
+   :location "Өлгий"}
   {:name "Баянхонгор Байгалийн түүхийн музей",
    :longitude 100.7245454,
    :latitude 46.1933367,
    :source :openstreetmap,
-   :locality "Баянхонгор"}
+   :location "Баянхонгор"}
   {:name "Богд хааны ордон музей",
    :longitude 106.9069513,
    :latitude 47.8974231,
@@ -136,13 +136,13 @@
    :longitude 106.2736438,
    :latitude 45.767949,
    :source :openstreetmap,
-   :locality "Мандалговь"}
+   :location "Мандалговь"}
   {:name "Занабазарын музей",
    :longitude 106.9096698,
    :latitude 47.9201719,
    :source :openstreetmap,
    :homepage "http://www.zanabazarfam.mn",
-   :locality "Ulaanbaatar"}
+   :location "Ulaanbaatar"}
   {:name "Монгол улсын Археологын музэй",
    :longitude 106.9729271,
    :latitude 47.9146236,
@@ -151,18 +151,18 @@
    :longitude 106.9089275,
    :latitude 47.9081092,
    :source :openstreetmap,
-   :locality "Улаанбаатар хот"}
+   :location "Улаанбаатар хот"}
   {:name "Монголын үндэсний түүхийн музей",
    :longitude 106.9153548,
    :latitude 47.9208381,
    :source :openstreetmap,
    :homepage "http://nationalmuseum.mn/",
-   :locality "Улаанбаатар"}
+   :location "Улаанбаатар"}
   {:name "Музей",
    :longitude 96.8464488,
    :latitude 47.7418392,
    :source :openstreetmap,
-   :locality "Улиастай"}
+   :location "Улиастай"}
   {:name "Музей",
    :longitude 114.4060032,
    :latitude 49.5465681,
@@ -179,7 +179,7 @@
    :longitude 104.0586238,
    :latitude 49.032321,
    :source :openstreetmap,
-   :locality "Эрдэнэт"}
+   :location "Эрдэнэт"}
   {:name "соёлын төв",
    :longitude 97.7365406,
    :latitude 49.5251468,
@@ -188,12 +188,12 @@
    :longitude 113.2785459,
    :latitude 46.6768618,
    :source :openstreetmap,
-   :locality "Баруун-Урт"}
+   :location "Баруун-Урт"}
   {:name "Төмөр Замын Дуу Бүжгийн Чуулга",
    :longitude 106.8820101,
    :latitude 47.9152262,
    :source :openstreetmap,
-   :locality "улаанбаатар"}
+   :location "улаанбаатар"}
   {:name "Төмөр замын соёлын төв ордон",
    :longitude 108.3636291,
    :latitude 46.3603812,
@@ -247,7 +247,7 @@
    :longitude 102.7796107,
    :latitude 46.2637038,
    :source :openstreetmap,
-   :locality "Арвайхээр"}],
+   :location "Арвайхээр"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",

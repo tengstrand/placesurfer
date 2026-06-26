@@ -41,7 +41,7 @@
    :longitude 74.6138718,
    :latitude 42.8694251,
    :source :openstreetmap,
-   :locality "Бишкек"}
+   :location "Бишкек"}
   {:name "Галерея искусств",
    :longitude 75.9967396,
    :latitude 41.428047,
@@ -54,22 +54,22 @@
    :longitude 74.1258247,
    :latitude 42.9297576,
    :source :openstreetmap,
-   :locality "Сретенка"}
+   :location "Сретенка"}
   {:name "Дом культуры",
    :longitude 74.1196913,
    :latitude 42.8731115,
    :source :openstreetmap,
-   :locality "село Заря"}
+   :location "село Заря"}
   {:name "Дом культуры",
    :longitude 74.0563856,
    :latitude 42.9526564,
    :source :openstreetmap,
-   :locality "Предтеченка"}
+   :location "Предтеченка"}
   {:name "Дом культуры",
    :longitude 74.0733168,
    :latitude 43.0384411,
    :source :openstreetmap,
-   :locality "Кыз-Моло"}
+   :location "Кыз-Моло"}
   {:name "Дом культуры",
    :longitude 74.035317,
    :latitude 42.8406199,
@@ -78,12 +78,12 @@
    :longitude 74.2233772,
    :latitude 42.8544823,
    :source :openstreetmap,
-   :locality "Александровка"}
+   :location "Александровка"}
   {:name "Дом культуры с. Темен-Суу",
    :longitude 74.0267047,
    :latitude 42.6930917,
    :source :openstreetmap,
-   :locality "Темен-Суу"}
+   :location "Темен-Суу"}
   {:name "Дом-музей Абды Суеркулова",
    :longitude 73.1512946,
    :latitude 41.8435801,
@@ -96,7 +96,7 @@
    :longitude 74.6045677,
    :latitude 42.865407,
    :source :openstreetmap,
-   :locality "Бишкек"}
+   :location "Бишкек"}
   {:name "Жайыл баатыра",
    :longitude 73.8806234,
    :latitude 42.8292723,
@@ -123,7 +123,7 @@
    :longitude 73.0107479,
    :latitude 40.9270659,
    :source :openstreetmap,
-   :locality "Жалал-Aбат"}
+   :location "Жалал-Aбат"}
   {:name "Историко-краеведческий музей Каракола",
    :longitude 78.3915768,
    :latitude 42.4894256,
@@ -182,12 +182,12 @@
    :latitude 42.8804588,
    :source :openstreetmap,
    :homepage "https://www.domfrunze.kg/",
-   :locality "Бишкек"}
+   :location "Бишкек"}
   {:name "Мемориальный дом-музей О.М.Мануйловой",
    :longitude 74.6082164,
    :latitude 42.8732876,
    :source :openstreetmap,
-   :locality "Бишкек"}
+   :location "Бишкек"}
   {:name "Музей Абдыкадыра Орозбекова",
    :longitude 71.7219999,
    :latitude 40.1312913,
@@ -209,13 +209,13 @@
    :latitude 42.8029109,
    :source :openstreetmap,
    :homepage "https://www.greatemptiness.net/",
-   :locality "Орто-Сай"}
+   :location "Орто-Сай"}
   {:name "Музей изобразительных искусств имени Гапара Айтиева",
    :longitude 74.6108886,
    :latitude 42.8787134,
    :source :openstreetmap,
    :homepage "https://artmuseum.kg/",
-   :locality "Бишкек"}
+   :location "Бишкек"}
   {:name "Музей им. Ч. Тулебердиева",
    :longitude 71.5201184,
    :latitude 42.6228396,
@@ -232,7 +232,7 @@
    :longitude 74.5872091,
    :latitude 42.8762079,
    :source :openstreetmap,
-   :locality "Бишкек"}
+   :location "Бишкек"}
   {:name "Музей Н.К. Рериха",
    :longitude 74.6231236,
    :latitude 42.8527513,

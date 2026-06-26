@@ -18,7 +18,7 @@
    :longitude 19.2501437,
    :latitude 42.4380793,
    :source :openstreetmap,
-   :locality "Podgorica"}
+   :location "Podgorica"}
   {:name "Crnogorska galerija umjetnosti",
    :longitude 18.9241779,
    :latitude 42.3896468,
@@ -41,7 +41,7 @@
    :latitude 42.4509536,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/photogalleryf64/",
-   :locality "Podgorica"}
+   :location "Podgorica"}
   {:name "Galerija Alexander",
    :longitude 18.5564137,
    :latitude 42.4282609,
@@ -55,7 +55,7 @@
    :latitude 42.0991553,
    :source :openstreetmap,
    :homepage "https://www.artstoyanovic.com/",
-   :locality "Bar"}
+   :location "Bar"}
   {:name "Gallery \"Ratko Art Studio\"",
    :longitude 19.043942,
    :latitude 42.1412308,
@@ -64,7 +64,7 @@
    :longitude 19.7456912,
    :latitude 43.0329428,
    :source :openstreetmap,
-   :locality "Bijelo Polje"}
+   :location "Bijelo Polje"}
   {:name "JU Muzej i galerija Tivat",
    :longitude 18.6964161,
    :latitude 42.4312702,
@@ -140,7 +140,7 @@
    :latitude 42.844056,
    :source :openstreetmap,
    :homepage "https://www.polimskimuzej.me/",
-   :locality "Berane"}
+   :location "Berane"}
   {:name "Popovich",
    :longitude 18.6011506,
    :latitude 42.4343537,
@@ -166,7 +166,7 @@
    :longitude 18.5371111,
    :latitude 42.451042,
    :source :openstreetmap,
-   :locality "Herceg Novi"}
+   :location "Herceg Novi"}
   {:name "Zavičajni muzej",
    :longitude 19.7573378,
    :latitude 42.7343695,

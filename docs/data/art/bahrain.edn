@@ -32,7 +32,7 @@
    :longitude 50.5645157,
    :latitude 26.2094148,
    :source :openstreetmap,
-   :locality "Zinj",
+   :location "Zinj",
    :image "",
    :description ""}
   {:name "Khamis Mosque Visitor Centre",

@@ -14,7 +14,7 @@
    :longitude 96.1660901,
    :latitude 16.7729473,
    :source :openstreetmap,
-   :locality "Yangon",
+   :location "Yangon",
    :image "",
    :description ""}
   {:name "AAPP office and Museum",
@@ -95,7 +95,7 @@
    :longitude 96.9345245,
    :latitude 20.6632925,
    :source :openstreetmap,
-   :locality "Nyaung shwe",
+   :location "Nyaung shwe",
    :image "",
    :description ""}
   {:name "Defense Service Museum",
@@ -126,14 +126,14 @@
    :longitude 95.8190826,
    :latitude 22.4538088,
    :source :openstreetmap,
-   :locality "Hanlin ( Halin )",
+   :location "Hanlin ( Halin )",
    :image "",
    :description ""}
   {:name "Kachin State Cultural Museum",
    :longitude 97.401916,
    :latitude 25.3924169,
    :source :openstreetmap,
-   :locality "မြစ်ကြီးနား",
+   :location "မြစ်ကြီးနား",
    :image "",
    :description ""}
   {:name "Kayin National Museum",
@@ -146,7 +146,7 @@
    :longitude 97.0398918,
    :latitude 20.7701909,
    :source :openstreetmap,
-   :locality "Taunggyi",
+   :location "Taunggyi",
    :image "",
    :description ""}
   {:name "La Mne Voua",
@@ -214,7 +214,7 @@
    :longitude 96.1606701,
    :latitude 16.8213039,
    :source :openstreetmap,
-   :locality "ဗဟန်း",
+   :location "ဗဟန်း",
    :image "",
    :description ""}
   {:name "Orchid Garden Butterfly Museum",
@@ -305,7 +305,7 @@
    :longitude 93.6357493,
    :latitude 22.2532076,
    :source :openstreetmap,
-   :locality "Surkhua",
+   :location "Surkhua",
    :image "",
    :description ""}
   {:name "Yoke Sone Kyaung",
@@ -324,7 +324,7 @@
    :longitude 95.3880146,
    :latitude 21.4718416,
    :source :openstreetmap,
-   :locality "မြင်းခြံ",
+   :location "မြင်းခြံ",
    :image "",
    :description ""}
   {:name "ကျောက်မျက်ရတနာပြတိုက်",
@@ -344,21 +344,21 @@
    :longitude 95.0716305,
    :latitude 22.4222088,
    :source :openstreetmap,
-   :locality "ညောင်ကန်",
+   :location "ညောင်ကန်",
    :image "",
    :description ""}
   {:name "တိပိဋက မင်းကွန်းဆရာတော် ပြတိုက်",
    :longitude 96.0177966,
    :latitude 22.0522493,
    :source :openstreetmap,
-   :locality "မင်းကွန်း",
+   :location "မင်းကွန်း",
    :image "",
    :description ""}
   {:name "နှစ်၁၀၀ ကျော်ကျော် ဟန်ဟန်-သက်စတုဒိသာဇရပ်ကြီး",
    :longitude 94.2947016,
    :latitude 20.5944168,
    :source :openstreetmap,
-   :locality "အလယ်ဟန်ဒေါက်",
+   :location "အလယ်ဟန်ဒေါက်",
    :image "",
    :description ""}
   {:name "ပြတိုက်",
@@ -377,7 +377,7 @@
    :longitude 96.163353,
    :latitude 16.8038331,
    :source :openstreetmap,
-   :locality "Yangon",
+   :location "Yangon",
    :image "",
    :description ""}
   {:name "ဗိဿနိုးရှေးဟောင်းယာဉ်ကျေးမှုပြတိုက်",
@@ -390,14 +390,14 @@
    :longitude 96.0542881,
    :latitude 24.2190578,
    :source :openstreetmap,
-   :locality "တောင်ကုန်း",
+   :location "တောင်ကုန်း",
    :image "",
    :description ""}
   {:name "မွန် ယဉ်ကျေး​မှု",
    :longitude 97.6219837,
    :latitude 16.4808408,
    :source :openstreetmap,
-   :locality "Mawlamying",
+   :location "Mawlamying",
    :image "",
    :description ""}
   {:name "ယဉ်ကျေးမှုပြတိုက်",
@@ -428,7 +428,7 @@
    :longitude 95.8778744,
    :latitude 20.8971382,
    :source :openstreetmap,
-   :locality "မိတ္ထီလာ",
+   :location "မိတ္ထီလာ",
    :image "",
    :description ""}
   {:name "ၵျွင်းၶရိတ်ႉ",

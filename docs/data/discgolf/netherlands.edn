@@ -9,7 +9,7 @@
    :latitude 52.36924143550161,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21950",
-   :locality "Amsterdam",
+   :location "Amsterdam",
    :image "",
    :description ""}
   {:name "Arnhem",
@@ -17,7 +17,7 @@
    :latitude 51.95301970391131,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21896",
-   :locality "Arnhem",
+   :location "Arnhem",
    :image "",
    :description ""}
   {:name "Beilen",
@@ -25,7 +25,7 @@
    :latitude 52.8601145077337,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25599",
-   :locality "Beilen",
+   :location "Beilen",
    :image "",
    :description ""}
   {:name "Disc golf Ouwe Beuk",
@@ -33,7 +33,7 @@
    :latitude 51.455930678465876,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44040",
-   :locality "Mierlo",
+   :location "Mierlo",
    :image "",
    :description ""}
   {:name "Disc Golf Steenwijk",
@@ -41,7 +41,7 @@
    :latitude 52.78837265172106,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/33165",
-   :locality "Steenwijk",
+   :location "Steenwijk",
    :image "",
    :description ""}
   {:name "Discgolf 013",
@@ -56,7 +56,7 @@
    :latitude 52.04906300133311,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/19362",
-   :locality "Zoetermeer",
+   :location "Zoetermeer",
    :image "",
    :description ""}
   {:name "Groet",
@@ -64,7 +64,7 @@
    :latitude 52.72232262014913,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21893",
-   :locality "Groet",
+   :location "Groet",
    :image "",
    :description ""}
   {:name "Groningen Main",
@@ -72,7 +72,7 @@
    :latitude 53.20336064207348,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25611",
-   :locality "Groningen",
+   :location "Groningen",
    :image "",
    :description ""}
   {:name "Heerenveen",
@@ -80,7 +80,7 @@
    :latitude 52.96859454871944,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/32583",
-   :locality "Heerenveen",
+   :location "Heerenveen",
    :image "",
    :description ""}
   {:name "Heritage Park Bakertucky",
@@ -102,7 +102,7 @@
    :latitude 52.71672971747168,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/39470",
-   :locality "Hoogeveen",
+   :location "Hoogeveen",
    :image "",
    :description ""}
   {:name "Park Oudegein",
@@ -110,7 +110,7 @@
    :latitude 52.019390560088084,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/25498",
-   :locality "Nieuwegein",
+   :location "Nieuwegein",
    :image "",
    :description ""}
   {:name "Park van Luna - Heerhugowaard",
@@ -118,7 +118,7 @@
    :latitude 52.638070378698586,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/44071",
-   :locality "Heerhugowaard",
+   :location "Heerhugowaard",
    :image "",
    :description ""}
   {:name "Roellangerak Park",
@@ -126,7 +126,7 @@
    :latitude 51.92282330989636,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/21433",
-   :locality "Rotterdam",
+   :location "Rotterdam",
    :image "",
    :description ""}
   {:name "Sneek",
@@ -134,7 +134,7 @@
    :latitude 53.03315095211698,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40276",
-   :locality "Sneek",
+   :location "Sneek",
    :image "",
    :description ""}
   {:name "STORK 2025",
@@ -156,7 +156,7 @@
    :latitude 53.32447360376355,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/40000",
-   :locality "Winsum",
+   :location "Winsum",
    :image "",
    :description ""}
   {:name "Zuider park rotterdam",
@@ -164,7 +164,7 @@
    :latitude 51.88151831690158,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/26173",
-   :locality "Rotterdam",
+   :location "Rotterdam",
    :image "",
    :description ""}],
  :source

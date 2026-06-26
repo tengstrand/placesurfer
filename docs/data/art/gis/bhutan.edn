@@ -45,13 +45,13 @@
    :longitude 90.5080193,
    :latitude 27.4991618,
    :source :openstreetmap,
-   :locality "Trongsa"}
+   :location "Trongsa"}
   {:name "Zorig Chusum",
    :longitude 89.6316115,
    :latitude 27.4828241,
    :source :openstreetmap,
    :homepage "http://www.nizc.gov.bt/",
-   :locality "Thimphu"}
+   :location "Thimphu"}
   {:name "|White Lotus Art Gallery",
    :longitude 89.4156854,
    :latitude 27.4296882,

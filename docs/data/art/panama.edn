@@ -40,28 +40,28 @@
    :longitude -80.9834529,
    :latitude 8.0967325,
    :source :openstreetmap,
-   :locality "Santiago de Veraguas",
+   :location "Santiago de Veraguas",
    :image "",
    :description ""}
   {:name "Cursos de Teatro",
    :longitude -79.5247851,
    :latitude 8.9870539,
    :source :openstreetmap,
-   :locality "Ciudad de Panamá",
+   :location "Ciudad de Panamá",
    :image "",
    :description ""}
   {:name "Explora",
    :longitude -79.5289645,
    :latitude 9.0338989,
    :source :openstreetmap,
-   :locality "Ciudad de Panama",
+   :location "Ciudad de Panama",
    :image "",
    :description ""}
   {:name "Fort David",
    :longitude -82.4321236,
    :latitude 8.3856755,
    :source :openstreetmap,
-   :locality "Pedregal",
+   :location "Pedregal",
    :image "",
    :description ""}
   {:name "Fundación Museo Arias Madrid",
@@ -117,7 +117,7 @@
    :latitude 8.9609414,
    :source :openstreetmap,
    :homepage "https://macpanama.org/",
-   :locality "Ciudad de Panamá",
+   :location "Ciudad de Panamá",
    :image "",
    :description ""}
   {:name "Museo de Chitre",
@@ -143,7 +143,7 @@
    :longitude -79.7816977,
    :latitude 8.880409,
    :source :openstreetmap,
-   :locality "La Chorrera",
+   :location "La Chorrera",
    :image "",
    :description ""}
   {:name "Museo de la cultura democratica",
@@ -168,7 +168,7 @@
    :longitude -80.539834,
    :latitude 8.2410003,
    :source :openstreetmap,
-   :locality "Aguadulce",
+   :location "Aguadulce",
    :image "",
    :description ""}
   {:name "museo de la villa de los santos",
@@ -187,7 +187,7 @@
    :longitude -82.4241365,
    :latitude 8.4251371,
    :source :openstreetmap,
-   :locality "David",
+   :location "David",
    :image "",
    :description ""}
   {:name "Museo del Parque Arqueológico El Caño",
@@ -200,7 +200,7 @@
    :longitude -80.356663,
    :latitude 8.5250802,
    :source :openstreetmap,
-   :locality "Penonomé",
+   :location "Penonomé",
    :image "",
    :description ""}
   {:name "Museo Manuel Fernando Zárate",
@@ -219,7 +219,7 @@
    :longitude -82.496004,
    :latitude 8.694002,
    :source :openstreetmap,
-   :locality "Potrerillos",
+   :location "Potrerillos",
    :image "",
    :description ""}
   {:name "Museo Regional de Gualaca",
@@ -251,7 +251,7 @@
    :latitude 8.521423,
    :source :openstreetmap,
    :homepage "https://micultura.gob.pa/",
-   :locality "Penonomé",
+   :location "Penonomé",
    :image "",
    :description ""}
   {:name "Parque Residencial Miraflores",

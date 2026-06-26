@@ -9,7 +9,7 @@
    :latitude 15.219241017324805,
    :source :discgolfmetrix,
    :homepage "https://discgolfmetrix.com/course/35680",
-   :locality "Ansongo"}],
+   :location "Ansongo"}],
  :source
  {:attribution
   "Course data from DiscGolfMetrix, DiscGolfAPI, OpenStreetMap and manual curation.",

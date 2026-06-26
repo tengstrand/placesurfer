@@ -22,7 +22,7 @@
    :latitude 37.9796611,
    :source :openstreetmap,
    :homepage "https://museumofillusions.gr",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Amphipolis archeologic",
    :longitude 23.8448336,
    :latitude 40.8285853,
@@ -72,7 +72,7 @@
    :longitude 23.0645561,
    :latitude 36.5120572,
    :source :openstreetmap,
-   :locality "Neapolis Voion"}
+   :location "Neapolis Voion"}
   {:name "Archaeological Museum of Nemea",
    :longitude 22.7112586,
    :latitude 37.8077725,
@@ -82,7 +82,7 @@
    :latitude 37.8175859,
    :source :openstreetmap,
    :homepage "http://odysseus.culture.gr/h/1/gh151.jsp?obj_id=3490",
-   :locality "Palaiopolis / Andros"}
+   :location "Palaiopolis / Andros"}
   {:name "Archaeological Museum of Thera",
    :longitude 25.4310975,
    :latitude 36.420014,
@@ -143,7 +143,7 @@
    :latitude 36.2700576,
    :source :openstreetmap,
    :homepage "https://artisticvillage.gr/",
-   :locality "Afantou - Rhodes"}
+   :location "Afantou - Rhodes"}
   {:name "Asmis Kolaitou",
    :longitude 25.4366916,
    :latitude 36.4036773,
@@ -157,7 +157,7 @@
    :longitude 23.8043797,
    :latitude 38.0549441,
    :source :openstreetmap,
-   :locality "Μαρούσι"}
+   :location "Μαρούσι"}
   {:name "Bakelas",
    :longitude 23.7139721,
    :latitude 37.9097061,
@@ -192,7 +192,7 @@
    :latitude 37.9859195,
    :source :openstreetmap,
    :homepage "https://chimeres.space",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Corfu Art Gallery",
    :longitude 19.9118835,
    :latitude 39.6252578,
@@ -220,7 +220,7 @@
    :latitude 37.9227174,
    :source :openstreetmap,
    :homepage "https://digathens.com",
-   :locality "Παλαιό Φάληρο"}
+   :location "Παλαιό Φάληρο"}
   {:name "El Greco House and Museum",
    :longitude 24.9508591,
    :latitude 35.3855572,
@@ -235,7 +235,7 @@
    :latitude 37.9781176,
    :source :openstreetmap,
    :homepage "https://www.roma-gallery.com/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Faltaits Museum",
    :longitude 24.5681188,
    :latitude 38.9088898,
@@ -297,7 +297,7 @@
    :longitude 19.8732256,
    :latitude 39.4993411,
    :source :openstreetmap,
-   :locality "Agios Matthaios"}
+   :location "Agios Matthaios"}
   {:name "Helmi",
    :longitude 20.7756551,
    :latitude 37.7908082,
@@ -311,7 +311,7 @@
    :longitude 19.8492578,
    :latitude 39.5656288,
    :source :openstreetmap,
-   :locality "Σιναράδες"}
+   :location "Σιναράδες"}
   {:name "History War Museum",
    :longitude 20.8690346,
    :latitude 37.7275437,
@@ -340,7 +340,7 @@
    :latitude 39.6391227,
    :source :openstreetmap,
    :homepage "http://www.ifa.gr/",
-   :locality "Λάρισα"}
+   :location "Λάρισα"}
   {:name "info-point",
    :longitude 24.406905,
    :latitude 38.0386863,
@@ -377,7 +377,7 @@
    :latitude 37.9935646,
    :source :openstreetmap,
    :homepage "http://www.hellenicmotormuseum.gr",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Man and rock",
    :longitude 23.9645761,
    :latitude 35.2381812,
@@ -398,7 +398,7 @@
    :latitude 37.9755243,
    :source :openstreetmap,
    :homepage "https://mariacallasmuseum.gr/en/",
-   :locality "Athens"}
+   :location "Athens"}
   {:name "Maritime and Folklore Museum",
    :longitude 26.9842745,
    :latitude 36.9498312,
@@ -425,7 +425,7 @@
    :latitude 36.4169939,
    :source :openstreetmap,
    :homepage "https://www.geomuseum.gr/",
-   :locality "Ialisos"}
+   :location "Ialisos"}
   {:name "Miro",
    :longitude 22.493446,
    :latitude 38.4790628,
@@ -472,7 +472,7 @@
    :longitude 24.2485452,
    :latitude 40.8202232,
    :source :openstreetmap,
-   :locality "Ελαιοχώρι"}
+   :location "Ελαιοχώρι"}
   {:name "National resistance museum - Municipality of Viannos",
    :longitude 25.4433884,
    :latitude 35.038044,
@@ -525,7 +525,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.onassis.org/el/locations/athens/onassis-ready/",
-   :locality "Άγιος Ιωάννης Ρέντης"}
+   :location "Άγιος Ιωάννης Ρέντης"}
   {:name "Oranje Land",
    :longitude 23.7522686,
    :latitude 37.968537,
@@ -534,7 +534,7 @@
    :longitude 26.1748938,
    :latitude 39.3678977,
    :source :openstreetmap,
-   :locality "Mithymna"}
+   :location "Mithymna"}
   {:name "Palace of Knossos",
    :longitude 25.161437,
    :latitude 35.2980733,
@@ -548,7 +548,7 @@
    :latitude 39.285126,
    :source :openstreetmap,
    :homepage "https://www.paragaea.gr/",
-   :locality "Parga"}
+   :location "Parga"}
   {:name "Paxos Museum",
    :longitude 20.1868166,
    :latitude 39.1962427,
@@ -647,7 +647,7 @@
    :latitude 37.9643093,
    :source :openstreetmap,
    :homepage "https://www.stateofconcept.org/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Stergios Delialis Designer",
    :longitude 22.9647992,
    :latitude 40.5989265,
@@ -657,7 +657,7 @@
    :latitude 37.9846926,
    :source :openstreetmap,
    :homepage "https://thebreedersystem.com",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "The Cretan Runner Museum",
    :longitude 24.2898126,
    :latitude 35.2753062,
@@ -713,7 +713,7 @@
    :latitude 37.9729634,
    :source :openstreetmap,
    :homepage "https://www.instagram.com/weekend.athens/",
-   :locality "Ταύρος"}
+   :location "Ταύρος"}
   {:name "Wine Cellar",
    :longitude 24.6375474,
    :latitude 40.76221,
@@ -732,7 +732,7 @@
    :latitude 39.1632668,
    :source :openstreetmap,
    :homepage "https://matterport.com/discover/space/XDE7hJ9suR5",
-   :locality "Σκιάθος"}
+   :location "Σκιάθος"}
   {:name "zorbas house",
    :longitude 22.1428448,
    :latitude 40.2581037,
@@ -758,30 +758,30 @@
    :latitude 37.9697981,
    :source :openstreetmap,
    :homepage "https://goulandris.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Ίδρυμα Γιάννη Τσαρούχη",
    :longitude 23.8012188,
    :latitude 38.0634137,
    :source :openstreetmap,
    :homepage "http://www.tsarouchis.gr",
-   :locality "Μαρούσι"}
+   :location "Μαρούσι"}
   {:name "Ίδρυμα Εικαστικών Τεχνών Τσιχριτζή",
    :longitude 23.8149018,
    :latitude 38.0716805,
    :source :openstreetmap,
    :homepage "https://iett.gr/",
-   :locality "Κηφισιά"}
+   :location "Κηφισιά"}
   {:name "Ίδρυμα Μιχάλης Κακογιάννης",
    :longitude 23.6964133,
    :latitude 37.9677013,
    :source :openstreetmap,
    :homepage "https://www.mcf.gr/index.php/el/",
-   :locality "Ταύρος"}
+   :location "Ταύρος"}
   {:name "Αίθουσα Εκδηλώσεων Μουσικού Σχολείου Τρίπολης",
    :longitude 22.3644228,
    :latitude 37.5007185,
    :source :openstreetmap,
-   :locality "Tripolis"}
+   :location "Tripolis"}
   {:name "Αίθουσα πολιτιστικών εκδηλώσεων Αντίκυρας",
    :longitude 22.6284084,
    :latitude 38.376213,
@@ -828,7 +828,7 @@
    :latitude 40.484601,
    :source :openstreetmap,
    :homepage "https://limneosoikismos.gr/",
-   :locality "Δισπηλιό"}
+   :location "Δισπηλιό"}
   {:name "Ανοιχτό Μουσείο Λατομείου",
    :longitude 23.8709776,
    :latitude 38.092352,
@@ -838,7 +838,7 @@
    :latitude 36.9137195,
    :source :openstreetmap,
    :homepage "https://pylos-nestor.gr/moyseio-syllogis-rene-puaux/",
-   :locality "Πύλος"}
+   :location "Πύλος"}
   {:name "Αρχ. Μουσείο Πατρών",
    :longitude 21.7520876,
    :latitude 38.2633501,
@@ -867,7 +867,7 @@
    :longitude 22.7658043,
    :latitude 38.628023,
    :source :openstreetmap,
-   :locality "Ελάτεια"}
+   :location "Ελάτεια"}
   {:name "Αρχαιολογική Συλλογή Κάμπου",
    :longitude 26.1588165,
    :latitude 37.6270067,
@@ -880,12 +880,12 @@
    :longitude 23.0554266,
    :latitude 36.6872448,
    :source :openstreetmap,
-   :locality "Monemvasia"}
+   :location "Monemvasia"}
   {:name "Αρχαιολογική Συλλογή Σταυρού",
    :longitude 20.6450241,
    :latitude 38.4527575,
    :source :openstreetmap,
-   :locality "Σταυρός"}
+   :location "Σταυρός"}
   {:name "Αρχαιολογική Συλλογή Τρικάλων",
    :longitude 21.7643961,
    :latitude 39.5569508,
@@ -899,19 +899,19 @@
    :latitude 35.3391377,
    :source :openstreetmap,
    :homepage "https://www.heraklionmuseum.gr/",
-   :locality "Ηράκλειο"}
+   :location "Ηράκλειο"}
   {:name "Αρχαιολογικό Μουσείο",
    :longitude 23.5493654,
    :latitude 41.0909176,
    :source :openstreetmap,
-   :locality "Σέρρες"}
+   :location "Σέρρες"}
   {:name "Αρχαιολογικό Μουσείο",
    :longitude 26.5615461,
    :latitude 39.1068351,
    :source :openstreetmap,
    :homepage
    "https://www.efales.gr/moyseia/neo-ktirio-arhaiologikoy-moyseioy-mytilinis",
-   :locality "Μυτιλήνη"}
+   :location "Μυτιλήνη"}
   {:name "Αρχαιολογικό Μουσείο",
    :longitude 21.255095,
    :latitude 40.457519,
@@ -920,14 +920,14 @@
    :longitude 22.3753005,
    :latitude 38.5296728,
    :source :openstreetmap,
-   :locality "Άμφισσα"}
+   :location "Άμφισσα"}
   {:name "Αρχαιολογικό Μουσείο Άρτας",
    :longitude 20.9794845,
    :latitude 39.1495251,
    :source :openstreetmap,
    :homepage
    "https://discoverarta.gr/destinations/archaiologiko-mouseio-artas/",
-   :locality "Άρτα"}
+   :location "Άρτα"}
   {:name "Αρχαιολογικό Μουσείο Άστρους",
    :longitude 22.7209396,
    :latitude 37.40678,
@@ -951,7 +951,7 @@
    :latitude 40.167322,
    :source :openstreetmap,
    :homepage "https://www.mouseioaianis.gr",
-   :locality "Αιανή"}
+   :location "Αιανή"}
   {:name "Αρχαιολογικό Μουσείο Αλεξανδρούπολης",
    :longitude 25.8569967,
    :latitude 40.8476824,
@@ -967,7 +967,7 @@
    :latitude 37.181455,
    :source :openstreetmap,
    :homepage "https://www.ancientmessene.gr/",
-   :locality "Mavromati Ithomis"}
+   :location "Mavromati Ithomis"}
   {:name "Αρχαιολογικό Μουσείο Αρχαίας Φενεού",
    :longitude 22.2968829,
    :latitude 37.9163792,
@@ -985,14 +985,14 @@
    :latitude 40.5292206,
    :source :openstreetmap,
    :homepage "http://odysseus.culture.gr/h/1/gh151.jsp?obj_id=3298",
-   :locality "Βέροια"}
+   :location "Βέροια"}
   {:name "Αρχαιολογικό Μουσείο Βραυρώνας",
    :longitude 23.9970202,
    :latitude 37.9245365,
    :source :openstreetmap,
    :homepage
    "https://www.markopoulo-mesogeia.com/aksiotheata/mousio-vravronas.html",
-   :locality "Μαρκόπουλο"}
+   :location "Μαρκόπουλο"}
   {:name "Αρχαιολογικό Μουσείο Δίου",
    :longitude 22.4873106,
    :latitude 40.1704038,
@@ -1011,7 +1011,7 @@
    :latitude 38.3958491,
    :source :openstreetmap,
    :homepage "http://odysseus.culture.gr/h/1/eh155.jsp?obj_id=3329",
-   :locality "Eretria"}
+   :location "Eretria"}
   {:name "Αρχαιολογικό Μουσείο Ηγουμενίτσας",
    :longitude 20.2587262,
    :latitude 39.5114538,
@@ -1050,7 +1050,7 @@
    :longitude 24.4037517,
    :latitude 40.9357,
    :source :openstreetmap,
-   :locality "Καβάλα"}
+   :location "Καβάλα"}
   {:name "Αρχαιολογικό μουσείο Καλύμνου",
    :longitude 26.9836969,
    :latitude 36.9544513,
@@ -1063,7 +1063,7 @@
    :source :openstreetmap,
    :homepage
    "https://archaeologicalmuseums.gr/en/museum/5df34af3deca5e2d79e8c12b/archaeological-museum-of-karpathos",
-   :locality "Κάρπαθος"}
+   :location "Κάρπαθος"}
   {:name "Αρχαιολογικό Μουσείο Καρύστου",
    :longitude 24.4223215,
    :latitude 38.0133867,
@@ -1072,7 +1072,7 @@
    :longitude 23.7167664,
    :latitude 37.9779891,
    :source :openstreetmap,
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Αρχαιολογικό Μουσείο Κιλκίς",
    :longitude 22.8776079,
    :latitude 40.9976423,
@@ -1086,18 +1086,18 @@
    :longitude 22.9846888,
    :latitude 36.1515079,
    :source :openstreetmap,
-   :locality "Κύθηρα"}
+   :location "Κύθηρα"}
   {:name "Αρχαιολογικό Μουσείο Κω",
    :longitude 27.2885417,
    :latitude 36.893626,
    :source :openstreetmap,
    :homepage "http://odysseus.culture.gr/h/1/eh155.jsp?obj_id=3410",
-   :locality "Κως"}
+   :location "Κως"}
   {:name "Αρχαιολογικό Μουσείο Κύθνου",
    :longitude 24.4302266,
    :latitude 37.4131168,
    :source :openstreetmap,
-   :locality "Κύθνος"}
+   :location "Κύθνος"}
   {:name "Αρχαιολογικό Μουσείο Λέρου",
    :longitude 26.8536833,
    :latitude 37.155338,
@@ -1123,12 +1123,12 @@
    :latitude 38.1219179,
    :source :openstreetmap,
    :homepage "http://site.marathon.gr/arxaiologiko-mouseio.html",
-   :locality "Βρανάς"}
+   :location "Βρανάς"}
   {:name "Αρχαιολογικό Μουσείο Μεγάρων",
    :longitude 23.3457517,
    :latitude 37.9972491,
    :source :openstreetmap,
-   :locality "Μέγαρα"}
+   :location "Μέγαρα"}
   {:name "Αρχαιολογικό μουσείο Μυκηνών",
    :longitude 22.7565395,
    :latitude 37.7318533,
@@ -1159,22 +1159,22 @@
    :longitude 23.6442109,
    :latitude 37.9371561,
    :source :openstreetmap,
-   :locality "Πειραιάς"}
+   :location "Πειραιάς"}
   {:name "Αρχαιολογικό Μουσείο Πολυγύρου",
    :longitude 23.439673,
    :latitude 40.3806739,
    :source :openstreetmap,
-   :locality "Πολύγυρος"}
+   :location "Πολύγυρος"}
   {:name "Αρχαιολογικό Μουσείο Πόρου",
    :longitude 23.4546717,
    :latitude 37.498439,
    :source :openstreetmap,
-   :locality "Πόρος"}
+   :location "Πόρος"}
   {:name "Αρχαιολογικό Μουσείο Σαλαμίνας",
    :longitude 23.4905189,
    :latitude 37.9634241,
    :source :openstreetmap,
-   :locality "Σαλαμίνα"}
+   :location "Σαλαμίνα"}
   {:name "Αρχαιολογικό Μουσείο Σητείας",
    :longitude 26.1052276,
    :latitude 35.2046261,
@@ -1205,7 +1205,7 @@
    :longitude 21.4137606,
    :latitude 40.7808191,
    :source :openstreetmap,
-   :locality "Φλώρινα"}
+   :location "Φλώρινα"}
   {:name "Αρχαιολογικό Μουσείο Χίου",
    :longitude 26.1390281,
    :latitude 38.3650542,
@@ -1217,12 +1217,12 @@
    :source :openstreetmap,
    :homepage
    "https://www.mthv.gr/el/pera-apo-to-mouseio/peripatos-sti-boiotia/arhaiologiko-mouseio-haironeias-leon-tis-haironeias/",
-   :locality "Χαιρώνεια"}
+   :location "Χαιρώνεια"}
   {:name "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα»",
    :longitude 23.6103055,
    :latitude 38.457472,
    :source :openstreetmap,
-   :locality "Χαλκίδα"}
+   :location "Χαλκίδα"}
   {:name "Αρχαιολογικό Μουσείο Χώρας",
    :longitude 21.7207753,
    :latitude 37.0535572,
@@ -1232,13 +1232,13 @@
    :latitude 39.3631746,
    :source :openstreetmap,
    :homepage "http://ldepka.culture.gr",
-   :locality "Καρδίτσα"}
+   :location "Καρδίτσα"}
   {:name "Αρχείο Καβάφη",
    :longitude 23.7306987,
    :latitude 37.9699304,
    :source :openstreetmap,
    :homepage "https://frissirasmuseum.gr",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Αρχοντικο Βαρελτζίδαινας",
    :longitude 26.1750429,
    :latitude 39.32723,
@@ -1247,7 +1247,7 @@
    :longitude 22.5542279,
    :latitude 39.8527601,
    :source :openstreetmap,
-   :locality "Αμπελάκια"}
+   :location "Αμπελάκια"}
   {:name "Αρχοντικό Γώγου",
    :longitude 26.0512462,
    :latitude 39.2260304,
@@ -1256,17 +1256,17 @@
    :longitude 21.809067,
    :latitude 37.8588588,
    :source :openstreetmap,
-   :locality "Λάμπεια"}
+   :location "Λάμπεια"}
   {:name "Αρχοντικό Τσιατσιαπά",
    :longitude 21.2734407,
    :latitude 40.5214069,
    :source :openstreetmap,
-   :locality "Καστοριά"}
+   :location "Καστοριά"}
   {:name "Αστική Σχολή Κατερίνης",
    :longitude 22.5107066,
    :latitude 40.2704286,
    :source :openstreetmap,
-   :locality "Κατερίνη"}
+   :location "Κατερίνη"}
   {:name "Αχίλλειο",
    :longitude 19.9042057,
    :latitude 39.5627257,
@@ -1285,7 +1285,7 @@
    :latitude 37.4379279,
    :source :openstreetmap,
    :homepage "http://www.ketepo.gr",
-   :locality "Ερμούπολη"}
+   :location "Ερμούπολη"}
   {:name "Βιομηχανικό Μουσείο Τομάτας",
    :longitude 25.4327649,
    :latitude 36.338944,
@@ -1296,12 +1296,12 @@
    :latitude 37.9782437,
    :source :openstreetmap,
    :homepage "http://www.technopolis-athens.com/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Βοτανική Συλλογή",
    :longitude 21.5509843,
    :latitude 40.2612058,
    :source :openstreetmap,
-   :locality "Σιάτιστα"}
+   :location "Σιάτιστα"}
   {:name "Βοτανικό Μουσείο",
    :longitude 23.7389033,
    :latitude 37.9740561,
@@ -1323,7 +1323,7 @@
    :latitude 40.5192864,
    :source :openstreetmap,
    :homepage "https://bmk.gr/",
-   :locality "Καστοριά"}
+   :location "Καστοριά"}
   {:name "Βυζαντινό Μουσείο - Παναγία Αντιβουνιώτισσα",
    :longitude 19.9225243,
    :latitude 39.6271945,
@@ -1339,7 +1339,7 @@
    :latitude 40.5191416,
    :source :openstreetmap,
    :homepage "https://www.byzantine-museum-veria.gr",
-   :locality "Βέροια"}
+   :location "Βέροια"}
   {:name "Βυζαντινό Μουσείο Κέρκυρας",
    :longitude 19.926829,
    :latitude 39.6233412,
@@ -1349,7 +1349,7 @@
    :longitude 22.2371471,
    :latitude 38.8719743,
    :source :openstreetmap,
-   :locality "Υπάτη"}
+   :location "Υπάτη"}
   {:name "Βυρσοδεψείο",
    :longitude 22.0470098,
    :latitude 37.5830273,
@@ -1359,19 +1359,19 @@
    :latitude 37.9822638,
    :source :openstreetmap,
    :homepage "http://www.ifa.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Γαλλικό Ινστιτούτο Θεσσαλονίκης",
    :longitude 22.9568387,
    :latitude 40.6211768,
    :source :openstreetmap,
    :homepage "https://www.ift.gr/",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Γαλλικό Ινστιτούτο Πάτρα",
    :longitude 21.7341629,
    :latitude 38.2436258,
    :source :openstreetmap,
    :homepage "http://www.ifa.gr/",
-   :locality "Πάτρα"}
+   :location "Πάτρα"}
   {:name "Γενί Τζαμί",
    :longitude 22.9567421,
    :latitude 40.6154754,
@@ -1396,7 +1396,7 @@
    :longitude 22.9265172,
    :latitude 40.6726542,
    :source :openstreetmap,
-   :locality "Σταυρούπολη, Θεσσαλονίκη"}
+   :location "Σταυρούπολη, Θεσσαλονίκη"}
   {:name "Δημοτική Επιχείρηση Πολιτιστικής Ανάπτυξης Καλαμάτας",
    :longitude 22.1133639,
    :latitude 37.0261451,
@@ -1418,7 +1418,7 @@
    :longitude 24.8879071,
    :latitude 41.1434152,
    :source :openstreetmap,
-   :locality "Ξάνθη"}
+   :location "Ξάνθη"}
   {:name "Δημοτική πινακοθήκη «Γιάννης Μόραλης»",
    :longitude 20.9828209,
    :latitude 39.1615502,
@@ -1427,23 +1427,23 @@
    :longitude 23.6990392,
    :latitude 37.9568077,
    :source :openstreetmap,
-   :locality "Καλλιθέα"}
+   :location "Καλλιθέα"}
   {:name "Δημοτική Πινακοθήκη Λάρισας – Μουσείο Γ. Ι. Κατσίγρα",
    :longitude 22.3995532,
    :latitude 39.6225135,
    :source :openstreetmap,
    :homepage "http://www.katsigrasmuseum.gr/",
-   :locality "Λάρισα"}
+   :location "Λάρισα"}
   {:name "Δημοτική Πινακοθήκη Μαλεβιζίου",
    :longitude 25.0173836,
    :latitude 35.2997542,
    :source :openstreetmap,
-   :locality "Τύλισος"}
+   :location "Τύλισος"}
   {:name "Δημοτική Πινακοθήκη Πειραιά",
    :longitude 23.6468125,
    :latitude 37.945302,
    :source :openstreetmap,
-   :locality "Πειραιάς"}
+   :location "Πειραιάς"}
   {:name "Δημοτική Πινακοθήκη Χαλίμ Μπέη",
    :longitude 26.5595899,
    :latitude 39.1107562,
@@ -1461,7 +1461,7 @@
    :latitude 40.2990893,
    :source :openstreetmap,
    :homepage "https://cartography.web.auth.gr/Kozani/",
-   :locality "Κοζάνη"}
+   :location "Κοζάνη"}
   {:name "Δημοτικο Μουσειο Πυργου",
    :longitude 21.4405816,
    :latitude 37.6712626,
@@ -1493,7 +1493,7 @@
    :latitude 38.0057929,
    :source :openstreetmap,
    :homepage "https://www.dieleusis.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Διέξοδος Diexodos",
    :longitude 21.4279153,
    :latitude 38.3684049,
@@ -1504,7 +1504,7 @@
    :latitude 38.2219142,
    :source :openstreetmap,
    :homepage "https://mouseio-psomiou.com/ilmb/",
-   :locality "Βαρνάβας"}
+   :location "Βαρνάβας"}
   {:name "Διατηρητέο Σταυροπούλου 15",
    :longitude 23.7304793,
    :latitude 38.0017236,
@@ -1515,13 +1515,13 @@
    :latitude 39.6183997,
    :source :openstreetmap,
    :homepage "http://dml.culture.gr",
-   :locality "Λάρισα"}
+   :location "Λάρισα"}
   {:name
    "Δραματική Σχολή Εθνικού Θεάτρου (Το Σχολείον της Αθήνας - Ειρήνη Παπά)",
    :longitude 23.6708982,
    :latitude 37.9534704,
    :source :openstreetmap,
-   :locality "Πειραιάς"}
+   :location "Πειραιάς"}
   {:name "Ε.Λ.Α.Ι.Α",
    :longitude 19.6614735,
    :latitude 39.7757334,
@@ -1535,7 +1535,7 @@
    :latitude 37.9756194,
    :source :openstreetmap,
    :homepage "https://www.nationalgallery.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Εθνική Χαρτοθήκη",
    :longitude 22.9494803,
    :latitude 40.6431518,
@@ -1549,7 +1549,7 @@
    :latitude 40.8482365,
    :source :openstreetmap,
    :homepage "https://emthrace.org/",
-   :locality "Αλεξανδρούπολη"}
+   :location "Αλεξανδρούπολη"}
   {:name "Εικαστικό Εργαστήρι Καλαμάτας",
    :longitude 22.1168587,
    :latitude 37.0247161,
@@ -1559,7 +1559,7 @@
    :latitude 37.9733731,
    :source :openstreetmap,
    :homepage "http://www.melt.gr/en/visit/the-museum-at-22-panos-str/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Εκκλησία Μύτικα",
    :longitude 20.7095817,
    :latitude 38.9994898,
@@ -1569,12 +1569,12 @@
    :latitude 39.1051686,
    :source :openstreetmap,
    :homepage "www.ebmm.gr",
-   :locality "Μυτιλήνη"}
+   :location "Μυτιλήνη"}
   {:name "Εκκλησιαστικό Μουσείο",
    :longitude 24.5348767,
    :latitude 35.2194968,
    :source :openstreetmap,
-   :locality "Σπήλι"}
+   :location "Σπήλι"}
   {:name "Εκκλησιαστικό Μουσείο Δημητσάνας",
    :longitude 22.0389994,
    :latitude 37.5955815,
@@ -1588,7 +1588,7 @@
    :latitude 36.7254932,
    :source :openstreetmap,
    :homepage "http://www.ecclesiasticalmuseum.org/",
-   :locality "Αδάμαντας"}
+   :location "Αδάμαντας"}
   {:name "Εκκλησιαστικό Μουσείο Ύδρας",
    :longitude 23.4654263,
    :latitude 37.3494437,
@@ -1607,7 +1607,7 @@
    :latitude 40.5739091,
    :source :openstreetmap,
    :homepage "https://www.hepham.gr",
-   :locality "Καλαμαριά"}
+   :location "Καλαμαριά"}
   {:name "Ελληνικός Κόσμος",
    :longitude 23.6882122,
    :latitude 37.9629057,
@@ -1617,7 +1617,7 @@
    :latitude 40.5158862,
    :source :openstreetmap,
    :homepage "https://delinanio.free.nf/",
-   :locality "Καστοριά"}
+   :location "Καστοριά"}
   {:name "Εντομολογικό Mουσείο",
    :longitude 22.9462266,
    :latitude 39.37419,
@@ -1627,7 +1627,7 @@
    :latitude 37.988769,
    :source :openstreetmap,
    :homepage "http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3348",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Επισκέψιμη Μουσειακή Αποθήκη Μακρυγιάλου",
    :longitude 22.60232,
    :latitude 40.4149624,
@@ -1637,7 +1637,7 @@
    :latitude 37.9352737,
    :source :openstreetmap,
    :homepage "http://epm.gr",
-   :locality "Νέα Σμύρνη"}
+   :location "Νέα Σμύρνη"}
   {:name "Εργαστήρι Ζωγραφικής Τάνια Κάκια",
    :longitude 23.7517091,
    :latitude 38.0214839,
@@ -1673,7 +1673,7 @@
    :longitude 22.4151579,
    :latitude 39.6396279,
    :source :openstreetmap,
-   :locality "Λάρισα"}
+   :location "Λάρισα"}
   {:name "Ημιτελές μουσείο σμήριδας",
    :longitude 25.5598994,
    :latitude 37.1222249,
@@ -1687,7 +1687,7 @@
    :longitude 22.7254204,
    :latitude 37.6313995,
    :source :openstreetmap,
-   :locality "Άργος"}
+   :location "Άργος"}
   {:name "Θρύλοι Της Ελληνικής Μυθολογίας",
    :longitude 21.7235553,
    :latitude 38.2239985,
@@ -1698,7 +1698,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.alphapolitismos.gr/el/politistiko-katastima-alpha-bank/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Ιερά Μονή Ουρσουλινών Μοναχών",
    :longitude 25.1602895,
    :latitude 37.5854533,
@@ -1712,7 +1712,7 @@
    :latitude 40.610317,
    :source :openstreetmap,
    :homepage "https://www.goethe.de/thessaloniki",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Ιστορικοπολεμικο Μουσειο Σουσειο",
    :longitude 23.8106113,
    :latitude 35.2495876,
@@ -1730,7 +1730,7 @@
    :longitude 22.4104719,
    :latitude 40.789684,
    :source :openstreetmap,
-   :locality "Γιαννιτσά"}
+   :location "Γιαννιτσά"}
   {:name "Ιστορικό και Λαογραφικό Μουσείο Βαλτετσίου",
    :longitude 22.2832759,
    :latitude 37.4758032,
@@ -1743,12 +1743,12 @@
    :longitude 23.6729793,
    :latitude 40.232705,
    :source :openstreetmap,
-   :locality "Νικήτη"}
+   :location "Νικήτη"}
   {:name "Ιστορικό και Λαογραφικό Μουσείο Παλιού Μικρού Χωριού",
    :longitude 21.7243857,
    :latitude 38.8282937,
    :source :openstreetmap,
-   :locality "Παλιό Μικρό Χωριό"}
+   :location "Παλιό Μικρό Χωριό"}
   {:name "Ιστορικό και Λαογραφικό Μουσείο Πορταριάς",
    :longitude 22.9978628,
    :latitude 39.391286,
@@ -1762,12 +1762,12 @@
    :latitude 40.3013499,
    :source :openstreetmap,
    :homepage "https://mouseio-kozanis.gr/",
-   :locality "Κοζάνη"}
+   :location "Κοζάνη"}
   {:name "Ιστορικό Λαογραφικό Μουσείο Κω",
    :longitude 27.2879992,
    :latitude 36.8906157,
    :source :openstreetmap,
-   :locality "Κως"}
+   :location "Κως"}
   {:name "Ιστορικό Μουσείο Αλεξανδρούπολης",
    :longitude 25.8740869,
    :latitude 40.8447889,
@@ -1777,7 +1777,7 @@
    :latitude 37.4472941,
    :source :openstreetmap,
    :homepage "https://www.hermoupolismuseum.gr/",
-   :locality "Ερμούπολη"}
+   :location "Ερμούπολη"}
   {:name "Ιστορικό Μουσείο Κρήτης",
    :longitude 25.1309384,
    :latitude 35.3418364,
@@ -1799,7 +1799,7 @@
    :longitude 23.705382,
    :latitude 37.9612543,
    :source :openstreetmap,
-   :locality "Καλλιθέα"}
+   :location "Καλλιθέα"}
   {:name "Κέντρο Έρευνας και Πληροφόρησης Σαλαώρας",
    :longitude 20.8677407,
    :latitude 39.0312477,
@@ -1831,7 +1831,7 @@
    :latitude 41.1188119,
    :source :openstreetmap,
    :homepage "https://komotini.gr",
-   :locality "Κομοτηνή"}
+   :location "Κομοτηνή"}
   {:name "Κέντρο πολιτισμού",
    :longitude 23.0448475,
    :latitude 38.8554534,
@@ -1841,7 +1841,7 @@
    :latitude 41.1373145,
    :source :openstreetmap,
    :homepage "https://cultureofxanthi.gr",
-   :locality "Ξάνθη"}
+   :location "Ξάνθη"}
   {:name "Κέντρο Πολιτισμού Ιερισσού",
    :longitude 23.8770978,
    :latitude 40.3972924,
@@ -1855,7 +1855,7 @@
    :latitude 37.9869546,
    :source :openstreetmap,
    :homepage "https://art-tounta.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Κέντρο Τεκμηρίωσης και Εκπαίδευσης Σπηλαίου Θεόπετρας",
    :longitude 21.6804312,
    :latitude 39.6756447,
@@ -1873,7 +1873,7 @@
    :source :openstreetmap,
    :homepage
    "https://dimosmeteoron.com/index.php/toyrismos/plirofories/aksizei-na-episkefteite/mouseia/kentro-psifiakis-provolis-tis-istorias-kai-tou-politismoy-ton-meteoron",
-   :locality "Καλαμπάκα"}
+   :location "Καλαμπάκα"}
   {:name "Καλλιτεχνικό Χωριό «Βερέκυνθος»",
    :longitude 24.0631217,
    :latitude 35.4789254,
@@ -1884,12 +1884,12 @@
    :longitude 20.8210082,
    :latitude 39.9021339,
    :source :openstreetmap,
-   :locality "Τσεπέλοβο"}
+   :location "Τσεπέλοβο"}
   {:name "Καποπουλος",
    :longitude 22.9467007,
    :latitude 40.628562,
    :source :openstreetmap,
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Καστρίτσειο Μουσείο Πολιτισμού Κωνσταντινούπολης",
    :longitude 23.7866466,
    :latitude 38.0251051,
@@ -1915,7 +1915,7 @@
    :latitude 40.6581745,
    :source :openstreetmap,
    :homepage "https://www.greekstatemuseum.com/",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Κρατικό Ωδείο Θεσσαλονίκης",
    :longitude 22.9377368,
    :latitude 40.6376994,
@@ -1937,7 +1937,7 @@
    :longitude 22.5244833,
    :latitude 40.9612595,
    :source :openstreetmap,
-   :locality "Γοργόπη"}
+   :location "Γοργόπη"}
   {:name "Λαογραφική Συλλογή Μάνης",
    :longitude 22.3183718,
    :latitude 36.805579,
@@ -1946,7 +1946,7 @@
    :longitude 23.2039535,
    :latitude 40.8375759,
    :source :openstreetmap,
-   :locality "Όσσα"}
+   :location "Όσσα"}
   {:name "Λαογραφικο Μουσειο Μεσοροπης",
    :longitude 24.0821445,
    :latitude 40.8656845,
@@ -1970,7 +1970,7 @@
    :source :openstreetmap,
    :homepage
    "https://visitkomotini.com/el/sight/folklore-museum-komotini",
-   :locality "Κομοτηνή"}
+   :location "Κομοτηνή"}
   {:name "Λαογραφικό και ιστορικό μουσείο Καλαβρύτων",
    :longitude 22.1117385,
    :latitude 38.0306112,
@@ -2000,7 +2000,7 @@
    :latitude 37.5665168,
    :source :openstreetmap,
    :homepage "https://www.komboloi.gr/",
-   :locality "Ναύπλιο"}
+   :location "Ναύπλιο"}
   {:name "Λαογραφικό Μουσείο",
    :longitude 22.0676701,
    :latitude 40.2562115,
@@ -2041,7 +2041,7 @@
    :longitude 20.973979,
    :latitude 39.1513437,
    :source :openstreetmap,
-   :locality "Άρτα"}
+   :location "Άρτα"}
   {:name "Λαογραφικό μουσείο",
    :longitude 20.7870021,
    :latitude 39.2452959,
@@ -2058,7 +2058,7 @@
    :longitude 23.6423134,
    :latitude 38.5782818,
    :source :openstreetmap,
-   :locality "Ψαχνά"}
+   :location "Ψαχνά"}
   {:name "Λαογραφικό Μουσείο",
    :longitude 21.131355,
    :latitude 40.3945526,
@@ -2084,7 +2084,7 @@
    :latitude 37.7460711,
    :source :openstreetmap,
    :homepage "www.laografiko.gr",
-   :locality "Αίγινα"}
+   :location "Αίγινα"}
   {:name "Λαογραφικό Μουσείο Αγίας Άννας",
    :longitude 23.4018123,
    :latitude 38.8585524,
@@ -2094,12 +2094,12 @@
    :longitude 26.290927,
    :latitude 37.6113898,
    :source :openstreetmap,
-   :locality "Άγιος Κήρυκος"}
+   :location "Άγιος Κήρυκος"}
   {:name "Λαογραφικό Μουσείο Αθύτου",
    :longitude 23.4369716,
    :latitude 40.0996598,
    :source :openstreetmap,
-   :locality "Άφυτος"}
+   :location "Άφυτος"}
   {:name "Λαογραφικό Μουσείο Αιτωλικού",
    :longitude 21.3560445,
    :latitude 38.4373763,
@@ -2149,7 +2149,7 @@
    :longitude 26.491791,
    :latitude 41.3493507,
    :source :openstreetmap,
-   :locality "Διδυμότειχο"}
+   :location "Διδυμότειχο"}
   {:name "Λαογραφικό Μουσείο Δράμας",
    :longitude 24.147689,
    :latitude 41.1448744,
@@ -2207,7 +2207,7 @@
    :longitude 23.1355856,
    :latitude 40.7569761,
    :source :openstreetmap,
-   :locality "Κολχικό"}
+   :location "Κολχικό"}
   {:name "Λαογραφικό Μουσείο Κουλούρας",
    :longitude 22.0866557,
    :latitude 38.2410623,
@@ -2216,7 +2216,7 @@
    :longitude 22.010899,
    :latitude 39.6169198,
    :source :openstreetmap,
-   :locality "Κρήνη"}
+   :location "Κρήνη"}
   {:name "Λαογραφικό Μουσείο Κυδωνιών",
    :longitude 21.2826989,
    :latitude 40.1728539,
@@ -2225,7 +2225,7 @@
    :longitude 21.6797717,
    :latitude 37.2491975,
    :source :openstreetmap,
-   :locality "Κυπαρισσία"}
+   :location "Κυπαρισσία"}
   {:name "Λαογραφικό Μουσείο Κυπαρισσίου",
    :longitude 21.2275602,
    :latitude 40.1386969,
@@ -2293,7 +2293,7 @@
    :longitude 23.8126397,
    :latitude 40.1205116,
    :source :openstreetmap,
-   :locality "Παρθενώνας"}
+   :location "Παρθενώνας"}
   {:name "Λαογραφικό Μουσείο Πετροκέρασων",
    :longitude 23.2839698,
    :latitude 40.5154589,
@@ -2319,7 +2319,7 @@
    :latitude 41.0940161,
    :source :openstreetmap,
    :homepage "http://www.sarakatsani-folk-museum.gr/",
-   :locality "Σέρρες"}
+   :location "Σέρρες"}
   {:name "Λαογραφικό Μουσείο Σελλά",
    :longitude 21.7837107,
    :latitude 37.2082287,
@@ -2336,7 +2336,7 @@
    :longitude 23.7626098,
    :latitude 40.5271099,
    :source :openstreetmap,
-   :locality "Στρατονίκη"}
+   :location "Στρατονίκη"}
   {:name "Λαογραφικό Μουσείο Συκαμινέας",
    :longitude 26.2952712,
    :latitude 39.362246,
@@ -2379,7 +2379,7 @@
    :longitude 22.7427686,
    :latitude 37.5865407,
    :source :openstreetmap,
-   :locality "Νέα Κίος"}
+   :location "Νέα Κίος"}
   {:name "Λαϊκό μουσείο",
    :longitude 26.3724257,
    :latitude 39.0816537,
@@ -2389,7 +2389,7 @@
    :latitude 39.1110156,
    :source :openstreetmap,
    :homepage "https://www.lefkoharti.gr/",
-   :locality "Μυτιλήνη"}
+   :location "Μυτιλήνη"}
   {:name "Λυρικός Μικρός Πλανήτης",
    :longitude 22.9599082,
    :latitude 40.5897483,
@@ -2400,7 +2400,7 @@
    :latitude 38.0032642,
    :source :openstreetmap,
    :homepage "https://www.lofosartproject.com/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Μακεδονικό Μουσείο Σύγχρονης Τέχνης",
    :longitude 22.9548543,
    :latitude 40.627227,
@@ -2410,7 +2410,7 @@
    :longitude 22.423687,
    :latitude 37.0736861,
    :source :openstreetmap,
-   :locality "Σπάρτη"}
+   :location "Σπάρτη"}
   {:name "Μαστιχώνας (μουσείου μαστίχας)",
    :longitude 26.01248,
    :latitude 38.21566,
@@ -2430,7 +2430,7 @@
    :longitude 23.4312525,
    :latitude 37.7430221,
    :source :openstreetmap,
-   :locality "Αίγινα"}
+   :location "Αίγινα"}
   {:name "Μικρασιατικού Ελληνισμού",
    :longitude 23.4896864,
    :latitude 38.7336859,
@@ -2461,7 +2461,7 @@
    :longitude 21.427125,
    :latitude 38.3251438,
    :source :openstreetmap,
-   :locality "Τουρλίδα"}
+   :location "Τουρλίδα"}
   {:name "Μουσείο Άρτου Αμφίκλειας",
    :longitude 22.5913287,
    :latitude 38.6399286,
@@ -2471,7 +2471,7 @@
    :latitude 39.6788922,
    :source :openstreetmap,
    :homepage "https://museumalipasha.gr/",
-   :locality "Νήσος Ιωαννίων"}
+   :location "Νήσος Ιωαννίων"}
   {:name "Μουσείο Αμφίπολης",
    :longitude 23.8488567,
    :latitude 40.8252019,
@@ -2502,7 +2502,7 @@
    :latitude 37.6433556,
    :source :openstreetmap,
    :homepage "https://archimedesmuseum.gr/",
-   :locality "Αρχαία Ολυμπία"}
+   :location "Αρχαία Ολυμπία"}
   {:name "Μουσείο Αφής",
    :longitude 23.7000206,
    :latitude 37.9454565,
@@ -2523,7 +2523,7 @@
    :longitude 23.8475114,
    :latitude 37.9526534,
    :source :openstreetmap,
-   :locality "Παιανία"}
+   :location "Παιανία"}
   {:name "Μουσείο Βρανά",
    :longitude 26.4574366,
    :latitude 39.0412758,
@@ -2536,19 +2536,19 @@
    :longitude 21.6209252,
    :latitude 39.7170804,
    :source :openstreetmap,
-   :locality "Καστράκι"}
+   :location "Καστράκι"}
   {:name "Μουσείο Γιώργου Γουναρόπουλου",
    :longitude 23.7617551,
    :latitude 37.9749423,
    :source :openstreetmap,
    :homepage "https://www.gounaropoulos.gr/",
-   :locality "Ζωγράφος"}
+   :location "Ζωγράφος"}
   {:name "Μουσείο Γλυπτών & Ομοιωμάτων",
    :longitude 23.734421,
    :latitude 37.9661304,
    :source :openstreetmap,
    :homepage "http://www.eilissos.gr",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Μουσείο Γρίφων",
    :longitude 29.5936624,
    :latitude 36.1476285,
@@ -2568,12 +2568,12 @@
    :latitude 39.5398036,
    :source :openstreetmap,
    :homepage "http://www.mouseiodimokratias.gr/english/index.asp",
-   :locality "Agios Efstratios"}
+   :location "Agios Efstratios"}
   {:name "Μουσείο Δημοκρατικού Στρατού Ελλάδος",
    :longitude 20.864876,
    :latitude 40.2372836,
    :source :openstreetmap,
-   :locality "Θεοτόκος"}
+   :location "Θεοτόκος"}
   {:name "Μουσείο ΕΑΜ-ΕΛΑΣ-ΔΣΕ",
    :longitude 21.1540954,
    :latitude 40.799234,
@@ -2582,7 +2582,7 @@
    :longitude 23.7591416,
    :latitude 37.9655188,
    :source :openstreetmap,
-   :locality "Καισαριανή"}
+   :location "Καισαριανή"}
   {:name "Μουσείο Εθνικής Αντίστασης",
    :longitude 23.7552382,
    :latitude 37.9311554,
@@ -2603,7 +2603,7 @@
    :longitude 22.932639,
    :latitude 39.3733907,
    :source :openstreetmap,
-   :locality "Νέα Ιωνία"}
+   :location "Νέα Ιωνία"}
   {:name "Μουσείο Εθνικής Αντίστασης",
    :longitude 21.6892628,
    :latitude 38.9885998,
@@ -2637,7 +2637,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.piop.gr/diktuo-mouseion/mouseio-elias-kai-ellinikou-ladiou/",
-   :locality "Sparta"}
+   :location "Sparta"}
   {:name "Μουσείο Ελιάς και Ελαιολάδου",
    :longitude 24.5927597,
    :latitude 40.7590939,
@@ -2648,14 +2648,14 @@
    :latitude 37.8162363,
    :source :openstreetmap,
    :homepage "https://www.musioelias.gr/",
-   :locality "Άνω Πιτροφός Άνδρου"}
+   :location "Άνω Πιτροφός Άνδρου"}
   {:name
    "Μουσείο Ελληνικής Ιστορίας Παύλου Βρέλλη (Κέρινων Ομοιωμάτων)",
    :longitude 20.8735736,
    :latitude 39.5552498,
    :source :openstreetmap,
    :homepage "http://www.vrellis.gr/",
-   :locality "Μπιζάνι"}
+   :location "Μπιζάνι"}
   {:name "Μουσείο Ελληνικής Παιδείας",
    :longitude 21.6268708,
    :latitude 39.7044553,
@@ -2680,7 +2680,7 @@
    :latitude 37.974961,
    :source :openstreetmap,
    :homepage "https://herakleidon-art.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Μουσείο Θαλάσσης Αχιλλείου",
    :longitude 22.9646467,
    :latitude 39.0058331,
@@ -2693,7 +2693,7 @@
    :longitude 22.9372954,
    :latitude 40.6590519,
    :source :openstreetmap,
-   :locality "Σταυρούπολη Θεσσαλονίκη"}
+   :location "Σταυρούπολη Θεσσαλονίκη"}
   {:name "Μουσείο Θεόφιλου (οικία Κοντού)",
    :longitude 22.9757008,
    :latitude 39.3830674,
@@ -2736,7 +2736,7 @@
    :latitude 35.2349128,
    :source :openstreetmap,
    :homepage "https://www.kazantzaki.gr/",
-   :locality "Μυρτιά"}
+   :location "Μυρτιά"}
   {:name "Μουσείο Καλαθοπλεκτικής των Ρωμά",
    :longitude 25.4797208,
    :latitude 41.0780767,
@@ -2756,26 +2756,26 @@
    :latitude 39.6285566,
    :source :openstreetmap,
    :homepage "https://www.capodistriasmuseum.gr/",
-   :locality "Κέρκυρα"}
+   :location "Κέρκυρα"}
   {:name "Μουσείο Καραθεοδωρή",
    :longitude 25.3982036,
    :latitude 41.1191465,
    :source :openstreetmap,
    :homepage "https://karatheodori.gr",
-   :locality "Κομοτηνή"}
+   :location "Κομοτηνή"}
   {:name "Μουσείο Καραθεοδωρή",
    :longitude 25.3987905,
    :latitude 41.1149997,
    :source :openstreetmap,
    :homepage
    "https://archaeologicalmuseums.gr/el/museum/5df34af3deca5e2d79e8c147/archaeological-museum-of-komotini",
-   :locality "Κομοτηνή"}
+   :location "Κομοτηνή"}
   {:name "Μουσείο Κοσμήματος Ηλία Λαλαούνη",
    :longitude 23.726666,
    :latitude 37.9693199,
    :source :openstreetmap,
    :homepage "https://www.lalaounis-jewelrymuseum.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Μουσείο Κουρή",
    :longitude 20.0739653,
    :latitude 39.4238672,
@@ -2789,7 +2789,7 @@
    :longitude 24.8125212,
    :latitude 35.067037,
    :source :openstreetmap,
-   :locality "Βώροι"}
+   :location "Βώροι"}
   {:name "Μουσείο Κυκλαδικής Λαογραφίας Μπενέτου Σκιαδά",
    :longitude 25.1323413,
    :latitude 37.0060139,
@@ -2799,7 +2799,7 @@
    :longitude 20.774313,
    :latitude 39.870215,
    :source :openstreetmap,
-   :locality "Κουκούλι"}
+   :location "Κουκούλι"}
   {:name "Μουσείο Λέγκως & Δημήτρη Κατσικογιάννη",
    :longitude 21.7548789,
    :latitude 39.5373931,
@@ -2824,7 +2824,7 @@
    :longitude 22.8853202,
    :latitude 39.5010785,
    :source :openstreetmap,
-   :locality "Κανάλια"}
+   :location "Κανάλια"}
   {:name "Μουσείο ΛΥΧΝΟΣΤΑΤΗΣ",
    :longitude 25.4113126,
    :latitude 35.3064294,
@@ -2835,13 +2835,13 @@
    :latitude 36.3736607,
    :source :openstreetmap,
    :homepage "https://mel.gr/",
-   :locality "Παστίδα Ρόδος"}
+   :location "Παστίδα Ρόδος"}
   {:name "Μουσείο Μακεδονικού Αγώνα",
    :longitude 22.943632,
    :latitude 40.630849,
    :source :openstreetmap,
    :homepage "https://www.imma.edu.gr",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Μουσείο Μακεδονικού Αγώνα",
    :longitude 21.7134693,
    :latitude 40.1684539,
@@ -2857,12 +2857,12 @@
    :latitude 37.9791972,
    :source :openstreetmap,
    :homepage "http://www.pekam.org.gr/mouseio-makronhsou.html",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Μουσείο Μαρίκας Κοτοπούλη",
    :longitude 23.7696148,
    :latitude 37.9798281,
    :source :openstreetmap,
-   :locality "Ζωγράφος"}
+   :location "Ζωγράφος"}
   {:name "Μουσείο Μαραθώνιου δρόμου",
    :longitude 23.9612394,
    :latitude 38.1552523,
@@ -2876,7 +2876,7 @@
    :longitude 23.7771426,
    :latitude 35.5507466,
    :source :openstreetmap,
-   :locality "Γωνιά"}
+   :location "Γωνιά"}
   {:name "Μουσείο Μονής Πρεβέλης",
    :longitude 24.4567665,
    :latitude 35.1574633,
@@ -2887,7 +2887,7 @@
    :latitude 37.9744724,
    :source :openstreetmap,
    :homepage "https://www.benaki.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Μουσείο Μύρτου",
    :longitude 25.583478,
    :latitude 35.0041568,
@@ -2898,7 +2898,7 @@
    :longitude 23.9017024,
    :latitude 37.987296,
    :source :openstreetmap,
-   :locality "Σπάτα - Αρτέμιδα"}
+   :location "Σπάτα - Αρτέμιδα"}
   {:name "Μουσείο Νάνων Ελεφάντων",
    :longitude 27.3630717,
    :latitude 36.4413745,
@@ -2920,13 +2920,13 @@
    :longitude 20.7444426,
    :latitude 40.0411032,
    :source :openstreetmap,
-   :locality "Κόνιτσα"}
+   :location "Κόνιτσα"}
   {:name "Μουσείο Οίνου Κώστα Λαζαρίδη",
    :longitude 23.869689,
    :latitude 38.231798,
    :source :openstreetmap,
    :homepage "http://www.domaine-lazaridi.gr/",
-   :locality "Καπανδρίτι"}
+   :location "Καπανδρίτι"}
   {:name "Μουσείο Οδοντωτού",
    :longitude 22.1972549,
    :latitude 38.1920755,
@@ -2991,7 +2991,7 @@
    :longitude 25.3451449,
    :latitude 39.8555636,
    :source :openstreetmap,
-   :locality "Καμίνια"}
+   :location "Καμίνια"}
   {:name "Μουσείο Πολύγνωτου Βαγή",
    :longitude 24.7295126,
    :latitude 40.714957,
@@ -3019,7 +3019,7 @@
    :latitude 35.1584164,
    :source :openstreetmap,
    :homepage "https://www.rodanthi.org/",
-   :locality "Κριτσά"}
+   :location "Κριτσά"}
   {:name "Μουσείο Σαραντοπόρου",
    :longitude 21.8342613,
    :latitude 39.158599,
@@ -3033,7 +3033,7 @@
    :latitude 37.9883172,
    :source :openstreetmap,
    :homepage "https://www.alekosfassianos.gr",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Μουσείο Σπετσών",
    :longitude 23.155864,
    :latitude 37.2642989,
@@ -3044,7 +3044,7 @@
    :longitude 23.1496658,
    :latitude 37.2681544,
    :source :openstreetmap,
-   :locality "Σπέτσες"}
+   :location "Σπέτσες"}
   {:name "Μουσείο Σπηλαίου Λιμνών",
    :longitude 22.1411659,
    :latitude 37.9612446,
@@ -3064,7 +3064,7 @@
    :latitude 35.371025,
    :source :openstreetmap,
    :homepage "https://cca.gr/",
-   :locality "Ρέθυμνο"}
+   :location "Ρέθυμνο"}
   {:name "Μουσείο Σύγχρονης Τέχνης Άνδρου",
    :longitude 24.9392552,
    :latitude 37.8385549,
@@ -3079,7 +3079,7 @@
    :latitude 41.1936193,
    :source :openstreetmap,
    :homepage "https://www.piop.gr/en/diktuo-mouseion/silk-museum/",
-   :locality "Σουφλί"}
+   :location "Σουφλί"}
   {:name "Μουσείο Τεριάντ",
    :longitude 26.5753397,
    :latitude 39.0752693,
@@ -3089,7 +3089,7 @@
    :latitude 38.088257,
    :source :openstreetmap,
    :homepage "https://www.otegroupmuseum.gr/",
-   :locality "Κηφισιά"}
+   :location "Κηφισιά"}
   {:name "Μουσείο του Πάρκου Πάρου",
    :longitude 25.2248371,
    :latitude 37.1452831,
@@ -3181,7 +3181,7 @@
    :latitude 40.6328134,
    :source :openstreetmap,
    :homepage "https://www.thmphoto.gr/",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Μουσείο Χαρίλαου Φλωράκη",
    :longitude 21.81597,
    :latitude 39.2190678,
@@ -3190,12 +3190,12 @@
    :longitude 23.4245741,
    :latitude 37.7652463,
    :source :openstreetmap,
-   :locality "Αίγινα"}
+   :location "Αίγινα"}
   {:name "Μουσείο Ύδρευσης Θεσσαλονίκης",
    :longitude 22.9134015,
    :latitude 40.641813,
    :source :openstreetmap,
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Μουσείου Φυσικής Ιστορίας Αιγαίου",
    :longitude 26.9099834,
    :latitude 37.7226749,
@@ -3234,13 +3234,13 @@
    :latitude 37.9400919,
    :source :openstreetmap,
    :homepage "https://www.eef.edu.gr",
-   :locality "Παλαιό Φάληρο"}
+   :location "Παλαιό Φάληρο"}
   {:name "Ναυτικο Μουσειο",
    :longitude 22.5039346,
    :latitude 40.105711,
    :source :openstreetmap,
    :homepage "http://nmlitohorou.gr/",
-   :locality "Litochoro"}
+   :location "Litochoro"}
   {:name "Ναυτικό Μουσείο",
    :longitude 24.9426691,
    :latitude 37.8399599,
@@ -3249,7 +3249,7 @@
    :longitude 23.6461137,
    :latitude 37.9325798,
    :source :openstreetmap,
-   :locality "Πειραιάς"}
+   :location "Πειραιάς"}
   {:name "Ναυτικό Μουσείο Καρδάμαινας",
    :longitude 27.1429567,
    :latitude 36.781227,
@@ -3264,36 +3264,36 @@
    :latitude 35.5192506,
    :source :openstreetmap,
    :homepage "http://mar-mus-crete.gr/ektheseis/arxaia-naypigiki/",
-   :locality "Chania"}
+   :location "Chania"}
   {:name "Ναυτικό Μουσείο Σάμης",
    :longitude 20.6396982,
    :latitude 38.2355451,
    :source :openstreetmap,
    :homepage "https://nmsamis.gr/",
-   :locality "Sami"}
+   :location "Sami"}
   {:name "Ναυτικό Μουσείο Χίου",
    :longitude 26.1338568,
    :latitude 38.3670669,
    :source :openstreetmap,
    :homepage "https://chiosnauticalmuseum.gr/",
-   :locality "Χίος"}
+   :location "Χίος"}
   {:name "Νομισματικό Μουσείο",
    :longitude 23.7353855,
    :latitude 37.9778271,
    :source :openstreetmap,
    :homepage "https://kotsanas.com/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Ντορ 9",
    :longitude 23.7214905,
    :latitude 37.9625848,
    :source :openstreetmap,
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Νόησις",
    :longitude 22.9953683,
    :latitude 40.5628151,
    :source :openstreetmap,
    :homepage "https://www.noesis.edu.gr/",
-   :locality "Θέρμη"}
+   :location "Θέρμη"}
   {:name "Ξυλαποθήκη",
    :longitude 23.6504842,
    :latitude 37.9468858,
@@ -3316,7 +3316,7 @@
    :longitude 29.5931689,
    :latitude 36.1515401,
    :source :openstreetmap,
-   :locality "Μεγίστη"}
+   :location "Μεγίστη"}
   {:name "Οικία Patrick Leigh Fermor Μουσείο Μπενάκη",
    :longitude 22.240232,
    :latitude 36.8785741,
@@ -3325,7 +3325,7 @@
    :longitude 23.7278304,
    :latitude 39.1225451,
    :source :openstreetmap,
-   :locality "Σκόπελος"}
+   :location "Σκόπελος"}
   {:name "Οικία Ελευθερίου Βενιζέλου",
    :longitude 24.0386972,
    :latitude 35.5183461,
@@ -3340,7 +3340,7 @@
    :latitude 37.2676203,
    :source :openstreetmap,
    :homepage "http://www.bouboulinamuseum-spetses.gr/",
-   :locality "Σπέτσες"}
+   :location "Σπέτσες"}
   {:name "Οικομουσείο \"Μανώλης Μανωλάς\"",
    :longitude 25.5353464,
    :latitude 37.1187773,
@@ -3350,7 +3350,7 @@
    :latitude 40.6274745,
    :source :openstreetmap,
    :homepage "http://www.olympicmuseum-thessaloniki.org",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Ολυμπιακό Μουσείο Αθήνας",
    :longitude 23.7910908,
    :latitude 38.0348034,
@@ -3365,7 +3365,7 @@
    :longitude 24.0132958,
    :latitude 37.7247672,
    :source :openstreetmap,
-   :locality "Άγιος Κωνσταντίνος"}
+   :location "Άγιος Κωνσταντίνος"}
   {:name "Πάρκο Γλυπτικής",
    :longitude 24.5393495,
    :latitude 40.7187761,
@@ -3375,7 +3375,7 @@
    :latitude 40.7017889,
    :source :openstreetmap,
    :homepage "https://parkodeinosauron.gr/",
-   :locality "Ευκαρπία"}
+   :location "Ευκαρπία"}
   {:name "Πάρκο Ελευθερίας",
    :longitude 23.7559528,
    :latitude 38.0047308,
@@ -3389,7 +3389,7 @@
    :latitude 37.9733568,
    :source :openstreetmap,
    :homepage "https://www.hcm.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Παιδικό Μουσείο Θεσσαλονίκης",
    :longitude 22.9571904,
    :latitude 40.6376593,
@@ -3407,12 +3407,12 @@
    :latitude 35.363582,
    :source :openstreetmap,
    :homepage "https://www.gnhm.gr/en/the-museum/branches/",
-   :locality "Ρέθυμνο"}
+   :location "Ρέθυμνο"}
   {:name "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας",
    :longitude 23.5940102,
    :latitude 38.462964,
    :source :openstreetmap,
-   :locality "Χαλκίδα"}
+   :location "Χαλκίδα"}
   {:name "Παλιό αρχαιολογικό μουσείο",
    :longitude 23.4866996,
    :latitude 37.962431,
@@ -3421,7 +3421,7 @@
    :longitude 25.3940417,
    :latitude 41.1189422,
    :source :openstreetmap,
-   :locality "Κομοτηνή"}
+   :location "Κομοτηνή"}
   {:name "Παραδοσιακο Μουσειο",
    :longitude 26.3328602,
    :latitude 41.2694671,
@@ -3447,7 +3447,7 @@
    :longitude 23.7946206,
    :latitude 38.0595621,
    :source :openstreetmap,
-   :locality "Πεύκη"}
+   :location "Πεύκη"}
   {:name "Πειραιώς Τἐχνη",
    :longitude 23.6532444,
    :latitude 37.9368958,
@@ -3456,7 +3456,7 @@
    :longitude 20.8190679,
    :latitude 39.9057322,
    :source :openstreetmap,
-   :locality "Τσεπέλοβο"}
+   :location "Τσεπέλοβο"}
   {:name "Πινακοθήκη Αβέρωφ",
    :longitude 21.1832792,
    :latitude 39.7689854,
@@ -3478,7 +3478,7 @@
    :longitude 22.9577571,
    :latitude 39.3588682,
    :source :openstreetmap,
-   :locality "Βόλος"}
+   :location "Βόλος"}
   {:name "Πλωτό Ναυτικό Μουσείο Θωρηκτό Γεώργιος Αβέρωφ",
    :longitude 23.6844444,
    :latitude 37.9332766,
@@ -3489,7 +3489,7 @@
    :latitude 37.9764436,
    :source :openstreetmap,
    :homepage "http://www.benaki.gr/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Πνευματικό Κέντρο Ερμούπολης",
    :longitude 24.9434404,
    :latitude 37.4452663,
@@ -3504,12 +3504,12 @@
    :longitude 23.2829477,
    :latitude 40.2395633,
    :source :openstreetmap,
-   :locality "Νέα Μουδανιά"}
+   :location "Νέα Μουδανιά"}
   {:name "Πνευματικό Κέντρο Σκύδρας",
    :longitude 22.150917,
    :latitude 40.7682832,
    :source :openstreetmap,
-   :locality "Σκύδρα"}
+   :location "Σκύδρα"}
   {:name "Πολεμικό μουσείο",
    :longitude 24.0250217,
    :latitude 35.5110331,
@@ -3520,7 +3520,7 @@
    :source :openstreetmap,
    :homepage
    "https://warmuseum.gr/en/thessaloniki-war-museum-branch/information-thessaloniki/",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Πολεμικό Μουσείο Ασκύφου",
    :longitude 24.1861237,
    :latitude 35.2957016,
@@ -3551,12 +3551,12 @@
    :latitude 40.5853533,
    :source :openstreetmap,
    :homepage "https://pilea-hortiatis.gr/congress-panorama/",
-   :locality "Πανόραμα"}
+   :location "Πανόραμα"}
   {:name "Πολιτιστικό Κέντρο Φαρσάλων",
    :longitude 22.3859334,
    :latitude 39.2989829,
    :source :openstreetmap,
-   :locality "Φάρσαλα"}
+   :location "Φάρσαλα"}
   {:name "Πολιτιστικός Σύλλογος Λαγυνών",
    :longitude 23.0067803,
    :latitude 40.7207319,
@@ -3575,7 +3575,7 @@
    :longitude 22.8556026,
    :latitude 36.8022112,
    :source :openstreetmap,
-   :locality "Μολάοι"}
+   :location "Μολάοι"}
   {:name "Πρωτότυπο Μουσείο",
    :longitude 24.4528953,
    :latitude 35.1915219,
@@ -3589,7 +3589,7 @@
    :longitude 23.2460771,
    :latitude 39.0029295,
    :source :openstreetmap,
-   :locality "Γούβες"}
+   :location "Γούβες"}
   {:name "Πύργος Μπότσαρη",
    :longitude 21.8268145,
    :latitude 38.3929549,
@@ -3620,7 +3620,7 @@
    :longitude 23.6506883,
    :latitude 37.9527188,
    :source :openstreetmap,
-   :locality "Πειραιάς"}
+   :location "Πειραιάς"}
   {:name "Σιδηροδρομικό Μουσείο",
    :longitude 22.3640363,
    :latitude 38.8568156,
@@ -3634,7 +3634,7 @@
    :latitude 39.6303946,
    :source :openstreetmap,
    :homepage "https://www.ose.gr/",
-   :locality "Λάριασ"}
+   :location "Λάριασ"}
   {:name "Σιδηροδρομικό Πάρκο",
    :longitude 22.1098571,
    :latitude 37.0287333,
@@ -3648,7 +3648,7 @@
    :latitude 37.9755894,
    :source :openstreetmap,
    :homepage "https://www.skironio.gr/",
-   :locality "Μέγαρα"}
+   :location "Μέγαρα"}
   {:name "Σπίτι Κολοκοτρώνη",
    :longitude 22.197048,
    :latitude 37.5832095,
@@ -3658,7 +3658,7 @@
    :latitude 38.0532091,
    :source :openstreetmap,
    :homepage "https://www.karagiozismuseum.gr/index.htm",
-   :locality "Μαρούσι"}
+   :location "Μαρούσι"}
   {:name "Σπύρος Λούης",
    :longitude 23.8083823,
    :latitude 38.0567465,
@@ -3668,19 +3668,19 @@
    :latitude 37.9579528,
    :source :openstreetmap,
    :homepage "https://www.onassis.org/",
-   :locality "Αθήνα"}
+   :location "Αθήνα"}
   {:name "Στρατιωτικό Μουσείο",
    :longitude 25.4076386,
    :latitude 41.1207115,
    :source :openstreetmap,
    :homepage
    "https://army.gr/el/istoria/moyseia/stratiotiko-moyseio-komotinis",
-   :locality "Κομοτηνή"}
+   :location "Κομοτηνή"}
   {:name "Στρατιωτικό Μουσείο Βαλκανικών Πολέμων",
    :longitude 22.6994274,
    :latitude 40.7293717,
    :source :openstreetmap,
-   :locality "Γέφυρα Θεσσαλονίκης"}
+   :location "Γέφυρα Θεσσαλονίκης"}
   {:name "Στρατιωτικό Μουσείο Διδυμοτείχου",
    :longitude 26.4901279,
    :latitude 41.3528553,
@@ -3689,12 +3689,12 @@
    :longitude 22.8521269,
    :latitude 40.977872,
    :source :openstreetmap,
-   :locality "Κιλκίς"}
+   :location "Κιλκίς"}
   {:name "Στρατιωτικό Μουσείο Λαχανά",
    :longitude 23.2048859,
    :latitude 40.9526849,
    :source :openstreetmap,
-   :locality "Λαχανάς"}
+   :location "Λαχανάς"}
   {:name "Στρατιωτικό Μουσείο Πολέμου 1940 - 41",
    :longitude 20.6312451,
    :latitude 39.8847748,
@@ -3710,7 +3710,7 @@
    :latitude 37.0422687,
    :source :openstreetmap,
    :homepage "https://www.vgkareliascollection.com/",
-   :locality "Καλαμάτα"}
+   :location "Καλαμάτα"}
   {:name "Συλλογή Φυσικής Ιστορίας",
    :longitude 26.1989218,
    :latitude 39.0396197,
@@ -3751,28 +3751,28 @@
    :latitude 40.6326323,
    :source :openstreetmap,
    :homepage "https://www.teloglion.gr/",
-   :locality "Θεσσαλονίκη"}
+   :location "Θεσσαλονίκη"}
   {:name "Τεχνολογικό Μουσείο ΦΑΕΘΩΝ",
    :longitude 23.83445,
    :latitude 38.2667424,
    :source :openstreetmap,
-   :locality "ΑΤΤΙΚΗ"}
+   :location "ΑΤΤΙΚΗ"}
   {:name "Τζαμί Χαλίλ Μπέη (Παλιά Μουσική)",
    :longitude 24.4151751,
    :latitude 40.932565,
    :source :openstreetmap,
    :homepage "https://moha.center/",
-   :locality "Καβάλα"}
+   :location "Καβάλα"}
   {:name "Τζιτζιρλί τζαμί",
    :longitude 23.5537394,
    :latitude 41.0880373,
    :source :openstreetmap,
-   :locality "Σέρρες"}
+   :location "Σέρρες"}
   {:name "Το Παλαιό Τσαγκαράδικο",
    :longitude 23.2072309,
    :latitude 40.8372631,
    :source :openstreetmap,
-   :locality "Όσσα"}
+   :location "Όσσα"}
   {:name "Το σπίτι της Ελένης (Νίκος Γκατζογιάννης)",
    :longitude 20.4064691,
    :latitude 39.764095,
@@ -3831,7 +3831,7 @@
    :longitude 22.1089233,
    :latitude 40.0247453,
    :source :openstreetmap,
-   :locality "Elassona"}
+   :location "Elassona"}
   {:name "Χαγιάτι Λαδιά",
    :longitude 24.0011036,
    :latitude 40.9456809,
@@ -3849,7 +3849,7 @@
    :latitude 37.9427799,
    :source :openstreetmap,
    :homepage "https://www.smyrnimuseum.gr/",
-   :locality "Νέα Σμύρνη"}
+   :location "Νέα Σμύρνη"}
   {:name "Ψηφιακό Μουσείο της Ακαδημίας Πλάτωνος",
    :longitude 23.7072931,
    :latitude 37.9944547,

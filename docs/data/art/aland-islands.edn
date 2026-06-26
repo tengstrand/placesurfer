@@ -71,7 +71,7 @@
    :longitude 19.946879,
    :latitude 60.0933982,
    :source :openstreetmap,
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Labbas hembygds- & bankmuseum",
@@ -116,7 +116,7 @@
    :longitude 19.9450784,
    :latitude 60.1048492,
    :source :openstreetmap,
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Skarpnåtö hembygdsmuseum",
@@ -164,7 +164,7 @@
    :latitude 60.2287551,
    :source :openstreetmap,
    :homepage "https://brandkar.ax/museum/",
-   :locality "Hammarland",
+   :location "Hammarland",
    :image "",
    :description ""}
   {:name "Ålands Fotografiska Museum",
@@ -172,7 +172,7 @@
    :latitude 60.2717835,
    :source :openstreetmap,
    :homepage "https://www.cameramuseum.com",
-   :locality "Pålsböle",
+   :location "Pålsböle",
    :image "",
    :description ""}
   {:name "Ålands Jakt- och Fiskemuseum",
@@ -180,7 +180,7 @@
    :latitude 60.2321752,
    :source :openstreetmap,
    :homepage "https://www.jaktfiskemuseum.ax",
-   :locality "Eckerö",
+   :location "Eckerö",
    :image "",
    :description ""}
   {:name "Ålands museum",
@@ -189,7 +189,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museum.ax/museer-sevardheter/alands-kulturhistoriska-museum",
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Ålands Sjöfartsmuseum",
@@ -197,7 +197,7 @@
    :latitude 60.0972474,
    :source :openstreetmap,
    :homepage "https://sjofartsmuseum.ax",
-   :locality "Mariehamn",
+   :location "Mariehamn",
    :image "",
    :description ""}
   {:name "Önningebymuseet",
@@ -205,7 +205,7 @@
    :latitude 60.1182866,
    :source :openstreetmap,
    :homepage "https://www.onningeby.com/",
-   :locality "Jomala",
+   :location "Jomala",
    :image "",
    :description ""}],
  :source

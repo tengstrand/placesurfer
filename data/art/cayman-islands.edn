@@ -26,14 +26,14 @@
    :longitude -79.8327343,
    :latitude 19.7117079,
    :source :openstreetmap,
-   :locality "Stake Bay",
+   :location "Stake Bay",
    :image "",
    :description ""}
   {:name "Cayman Motor Museum",
    :longitude -81.4152625,
    :latitude 19.3823926,
    :source :openstreetmap,
-   :locality "West Bay",
+   :location "West Bay",
    :image "",
    :description ""}
   {:name "Eldemire Historic House",
@@ -46,7 +46,7 @@
    :longitude -81.3794213,
    :latitude 19.3173763,
    :source :openstreetmap,
-   :locality "West Bay",
+   :location "West Bay",
    :image "",
    :description ""}
   {:name "Little Cayman Museum",
@@ -60,7 +60,7 @@
    :latitude 19.294081,
    :source :openstreetmap,
    :homepage "https://www.museum.ky/",
-   :locality "George Town",
+   :location "George Town",
    :image "",
    :description ""}
   {:name "Pedro St. James",

@@ -22,7 +22,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.travelmuse.com/pois/BS/attractions/erickson-museum-and-library",
-   :locality "Matthew Town",
+   :location "Matthew Town",
    :image "",
    :description ""}
   {:name "Heritage Museum",

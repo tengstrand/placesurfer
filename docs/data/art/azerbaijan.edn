@@ -8,7 +8,7 @@
    :longitude 46.7518403,
    :latitude 39.824543,
    :source :openstreetmap,
-   :locality "Xankəndi",
+   :location "Xankəndi",
    :image "",
    :description ""}
   {:name "\"SURAXANI\" Ship Museum",
@@ -64,14 +64,14 @@
    :longitude 49.8427767,
    :latitude 40.4317181,
    :source :openstreetmap,
-   :locality "Rəsulzadə Qəsəbəsi",
+   :location "Rəsulzadə Qəsəbəsi",
    :image "",
    :description ""}
   {:name "14 saylı Musiqi Məktəbi \\ Rirallahı",
    :longitude 50.3352077,
    :latitude 40.4596068,
    :source :openstreetmap,
-   :locality "Pirallahi",
+   :location "Pirallahi",
    :image "",
    :description ""}
   {:name "15 saylı Musiqi Məktəbi",
@@ -150,7 +150,7 @@
    :longitude 50.176882,
    :latitude 40.4858631,
    :source :openstreetmap,
-   :locality "Şüvəlan",
+   :location "Şüvəlan",
    :image "",
    :description ""}
   {:name "3 saylı İncəsənət Məktəbi \\ Bülbülə",
@@ -193,7 +193,7 @@
    :longitude 47.9424289,
    :latitude 40.9464584,
    :source :openstreetmap,
-   :locality "Vəndam",
+   :location "Vəndam",
    :image "",
    :description ""}
   {:name "4 saylı Musiqi Məktəbi \\ Bakıxanov",
@@ -230,14 +230,14 @@
    :longitude 46.3188278,
    :latitude 40.5903338,
    :source :openstreetmap,
-   :locality "Göygöl ş.",
+   :location "Göygöl ş.",
    :image "",
    :description ""}
   {:name "7 saylı Musiqi məktəbi \\ Şamaxı",
    :longitude 48.6328745,
    :latitude 40.6451845,
    :source :openstreetmap,
-   :locality "Şamaxı",
+   :location "Şamaxı",
    :image "",
    :description ""}
   {:name "9 saylı Musiqi Məktəbi \\ Lökbatan",
@@ -257,7 +257,7 @@
    :latitude 40.4790799,
    :source :openstreetmap,
    :homepage "https://www.arifazizbeyaz.com/",
-   :locality "Şüvəlan",
+   :location "Şüvəlan",
    :image "",
    :description ""}
   {:name "Azərbaycan Dəmiryol Muzeyi",
@@ -265,7 +265,7 @@
    :latitude 40.3798144,
    :source :openstreetmap,
    :homepage "https://muzey.ady.az",
-   :locality "Bakı",
+   :location "Bakı",
    :image "",
    :description ""}
   {:name "Ağcabədi Musiqi Məktəbi",
@@ -350,7 +350,7 @@
    :longitude 46.3295316,
    :latitude 40.5783998,
    :source :openstreetmap,
-   :locality "Göygöl ş.",
+   :location "Göygöl ş.",
    :image "",
    :description ""}
   {:name "Berdashen 2nd World War Museum",
@@ -364,7 +364,7 @@
    :latitude 40.3608598,
    :source :openstreetmap,
    :homepage "https://icm.az/",
-   :locality "Bakı",
+   :location "Bakı",
    :image "",
    :description ""}
   {:name "Bio Garden \\ Şəki",
@@ -383,7 +383,7 @@
    :longitude 48.5097155,
    :latitude 41.3674368,
    :source :openstreetmap,
-   :locality "Quba",
+   :location "Quba",
    :image "",
    :description ""}
   {:name "Diyarşünaslıq Evi \\ Əzizbəyli",
@@ -396,7 +396,7 @@
    :longitude 48.8056028,
    :latitude 41.465732,
    :source :openstreetmap,
-   :locality "Xaçmaz",
+   :location "Xaçmaz",
    :image "",
    :description ""}
   {:name "Diyarşünaslıq Muzeyi",
@@ -433,7 +433,7 @@
    :longitude 48.6561137,
    :latitude 40.6220994,
    :source :openstreetmap,
-   :locality "Şamaxı",
+   :location "Şamaxı",
    :image "",
    :description ""}
   {:name "DTX Mədəniyyət Mərkəzi",
@@ -458,7 +458,7 @@
    :longitude 46.7497279,
    :latitude 39.8327027,
    :source :openstreetmap,
-   :locality "Xankəndi",
+   :location "Xankəndi",
    :image "",
    :description ""}
   {:name "Gürgan Mədəniyyət Evi",
@@ -473,7 +473,7 @@
    :source :openstreetmap,
    :homepage
    "http://music.mctgov.az/az/view/366/106/Gedebey-Asiq-Mektebi",
-   :locality "Gədəbəy",
+   :location "Gədəbəy",
    :image "",
    :description ""}
   {:name "Gənclik Mərkəzi",
@@ -510,7 +510,7 @@
    :longitude 45.4067147,
    :latitude 39.2152984,
    :source :openstreetmap,
-   :locality "Naxçıvan",
+   :location "Naxçıvan",
    :image "",
    :description ""}
   {:name "Heydər Əliyev Muzeyi",
@@ -547,14 +547,14 @@
    :longitude 45.4345715,
    :latitude 41.1105126,
    :source :openstreetmap,
-   :locality "Ağstafa",
+   :location "Ağstafa",
    :image "",
    :description ""}
   {:name "Heydər Əliyev Muzeyi \\ Hacıqabul",
    :longitude 48.9355449,
    :latitude 40.0285972,
    :source :openstreetmap,
-   :locality "Hacıqabul",
+   :location "Hacıqabul",
    :image "",
    :description ""}
   {:name "Heydər Əliyev muzeyi \\ İsmayıllı",
@@ -585,7 +585,7 @@
    :longitude 48.6377514,
    :latitude 40.6350298,
    :source :openstreetmap,
-   :locality "Şamaxı",
+   :location "Şamaxı",
    :image "",
    :description ""}
   {:name "Heydər Əliyev Muzeyi \\ Əmircan",
@@ -610,7 +610,7 @@
    :longitude 46.7883602,
    :latitude 40.6091246,
    :source :openstreetmap,
-   :locality "Goranboy",
+   :location "Goranboy",
    :image "",
    :description ""}
   {:name "Heydər Əliyev mərkəzi",
@@ -623,7 +623,7 @@
    :longitude 46.3154559,
    :latitude 40.591756,
    :source :openstreetmap,
-   :locality "Göygöl ş.",
+   :location "Göygöl ş.",
    :image "",
    :description ""}
   {:name "Heydər Əliyev Mərkəzi \\ Mingəçevir",
@@ -660,7 +660,7 @@
    :longitude 48.9451326,
    :latitude 39.9543284,
    :source :openstreetmap,
-   :locality "Şirvan ş.",
+   :location "Şirvan ş.",
    :image "",
    :description ""}
   {:name "Heydər Əliyev Mərkəzi \\ Şəmkir",
@@ -691,7 +691,7 @@
    :longitude 49.874241,
    :latitude 40.3767791,
    :source :openstreetmap,
-   :locality "Bakı",
+   :location "Bakı",
    :image "",
    :description ""}
   {:name "İncəsənət Akademiyası",
@@ -735,14 +735,14 @@
    :longitude 48.6420965,
    :latitude 40.6331206,
    :source :openstreetmap,
-   :locality "Şamaxı",
+   :location "Şamaxı",
    :image "",
    :description ""}
   {:name "İslam Təşkilatı \\ Şamaxı",
    :longitude 48.6657952,
    :latitude 40.6145867,
    :source :openstreetmap,
-   :locality "Şamaxı",
+   :location "Şamaxı",
    :image "",
    :description ""}
   {:name "Kino İttifaqı",
@@ -773,7 +773,7 @@
    :longitude 46.8148302,
    :latitude 40.2149969,
    :source :openstreetmap,
-   :locality "Ağdərə",
+   :location "Ağdərə",
    :image "",
    :description ""}
   {:name "Kənd muzeyi",
@@ -792,7 +792,7 @@
    :longitude 46.7412734,
    :latitude 39.8496853,
    :source :openstreetmap,
-   :locality "Xanyurdu",
+   :location "Xanyurdu",
    :image "",
    :description ""}
   {:name "Kənd muzeyi",
@@ -817,7 +817,7 @@
    :longitude 49.8275089,
    :latitude 40.3696736,
    :source :openstreetmap,
-   :locality "Baku",
+   :location "Baku",
    :image "",
    :description ""}
   {:name "Melik's Palace",
@@ -837,21 +837,21 @@
    :latitude 40.3693478,
    :source :openstreetmap,
    :homepage "https://azhistorymuseum.gov.az/",
-   :locality "Bakı",
+   :location "Bakı",
    :image "",
    :description ""}
   {:name "Milli Konservatoriya",
    :longitude 49.8183795,
    :latitude 40.3658202,
    :source :openstreetmap,
-   :locality "Bakı",
+   :location "Bakı",
    :image "",
    :description ""}
   {:name "Milli Konservatoriya Qəbələ",
    :longitude 47.8814421,
    :latitude 41.0064422,
    :source :openstreetmap,
-   :locality "Qəbələ",
+   :location "Qəbələ",
    :image "",
    :description ""}
   {:name "Mingəçevir şəhərinin tarixi muzeyi",
@@ -1009,7 +1009,7 @@
    :longitude 50.0164014,
    :latitude 40.4755481,
    :source :openstreetmap,
-   :locality "Şuşa Qəsəbəsi \\ Ramana",
+   :location "Şuşa Qəsəbəsi \\ Ramana",
    :image "",
    :description ""}
   {:name "Musiqi Məktəbi",
@@ -1040,7 +1040,7 @@
    :longitude 46.5616786,
    :latitude 40.4187096,
    :source :openstreetmap,
-   :locality "Aşağı Ağcakənd",
+   :location "Aşağı Ağcakənd",
    :image "",
    :description ""}
   {:name "Musiqi məktəbi \\ Bum",
@@ -1287,7 +1287,7 @@
    :longitude 46.8262732,
    :latitude 40.5018456,
    :source :openstreetmap,
-   :locality "Naftalan",
+   :location "Naftalan",
    :image "",
    :description ""}
   {:name "Niyazi adına Mədəniyyət Evi",
@@ -1312,7 +1312,7 @@
    :longitude 46.4317685,
    :latitude 40.6835377,
    :source :openstreetmap,
-   :locality "Gəncə",
+   :location "Gəncə",
    :image "",
    :description ""}
   {:name "NL Rəqs Məktəbi \\ Suraxanı",
@@ -1361,14 +1361,14 @@
    :longitude 45.357583,
    :latitude 41.0892566,
    :source :openstreetmap,
-   :locality "Qazax",
+   :location "Qazax",
    :image "",
    :description ""}
   {:name "Qiraətxana",
    :longitude 46.806168,
    :latitude 40.2128465,
    :source :openstreetmap,
-   :locality "Ağdərə",
+   :location "Ağdərə",
    :image "",
    :description ""}
   {:name "Qobu İncəsənət Məktəbi",
@@ -1387,7 +1387,7 @@
    :longitude 49.3829144,
    :latitude 40.0977597,
    :source :openstreetmap,
-   :locality "Baku",
+   :location "Baku",
    :image "",
    :description ""}
   {:name "Quba Tarix və Etnoqrafiya muzeyi",
@@ -1455,7 +1455,7 @@
    :longitude 45.8103578,
    :latitude 40.6579831,
    :source :openstreetmap,
-   :locality "Slavyanka",
+   :location "Slavyanka",
    :image "",
    :description ""}
   {:name "State flag museum",
@@ -1474,7 +1474,7 @@
    :longitude 45.2642687,
    :latitude 41.238867,
    :source :openstreetmap,
-   :locality "Yuxarı Salahlı",
+   :location "Yuxarı Salahlı",
    :image "",
    :description ""}
   {:name "Səttar Bəhlulzadə Ev Muzeyi \\ Əmircan",
@@ -1487,7 +1487,7 @@
    :longitude 45.1524569,
    :latitude 41.2851965,
    :source :openstreetmap,
-   :locality "Birinci Şıxlı",
+   :location "Birinci Şıxlı",
    :image "",
    :description ""}
   {:name "Tahir Salahovun ev muzeyi",
@@ -1532,7 +1532,7 @@
    :latitude 39.2114044,
    :source :openstreetmap,
    :homepage "http://www.nakhchivan.az/portal-en/muz-ler.htm",
-   :locality "Naxçıvan",
+   :location "Naxçıvan",
    :image "",
    :description ""}
   {:name "Tarix muzeyi",
@@ -1649,7 +1649,7 @@
    :source :openstreetmap,
    :homepage
    "http://music.mctgov.az/az/view/366/105/Gedebey-seher-Usaq-Incesenet-Mektebi",
-   :locality "Gədəbəy",
+   :location "Gədəbəy",
    :image "",
    :description ""}
   {:name "Uşaq İncəsənət Məktəbi \\ Saray",
@@ -1662,7 +1662,7 @@
    :longitude 46.8233444,
    :latitude 40.2119174,
    :source :openstreetmap,
-   :locality "Ağdərə",
+   :location "Ağdərə",
    :image "",
    :description ""}
   {:name "Uşaq Musiqi Məktəbi \\ Qovlar",
@@ -1724,7 +1724,7 @@
    :longitude 48.8004431,
    :latitude 41.4652942,
    :source :openstreetmap,
-   :locality "Xaçmaz",
+   :location "Xaçmaz",
    :image "",
    :description ""}
   {:name "Xalça və Xalq Tətbiqi Sənəti Məktəb Muzeyi",
@@ -1743,21 +1743,21 @@
    :longitude 45.4053473,
    :latitude 39.2039825,
    :source :openstreetmap,
-   :locality "Naxçıvan",
+   :location "Naxçıvan",
    :image "",
    :description ""}
   {:name "Xankəndi Dövlət Muzeyi",
    :longitude 46.7516252,
    :latitude 39.8160185,
    :source :openstreetmap,
-   :locality "Xankəndi",
+   :location "Xankəndi",
    :image "",
    :description ""}
   {:name "Xareoqrafiya məktəbi",
    :longitude 46.7597074,
    :latitude 39.8211973,
    :source :openstreetmap,
-   :locality "Xankəndi",
+   :location "Xankəndi",
    :image "",
    :description ""}
   {:name "Xatirə müzeyi",
@@ -1776,7 +1776,7 @@
    :longitude 46.7518369,
    :latitude 39.8094512,
    :source :openstreetmap,
-   :locality "Xankəndi",
+   :location "Xankəndi",
    :image "",
    :description ""}
   {:name "Xoylu Diyarşünaslıq Muzeyi",
@@ -1802,14 +1802,14 @@
    :latitude 40.3393701,
    :source :openstreetmap,
    :homepage "https://yarat.az",
-   :locality "Bakı",
+   :location "Bakı",
    :image "",
    :description ""}
   {:name "Yeni Yaxın Yaradıcılıq Mərkəzi",
    :longitude 50.010176,
    :latitude 40.4496505,
    :source :openstreetmap,
-   :locality "Yeni Ramana",
+   :location "Yeni Ramana",
    :image "",
    :description ""}
   {:name "YER Photogallery",
@@ -1817,7 +1817,7 @@
    :latitude 41.2551814,
    :source :openstreetmap,
    :homepage "https://sananphotography.com/yer-gallery",
-   :locality "Kiş",
+   :location "Kiş",
    :image "",
    :description ""}
   {:name "Zire Eco Park",
@@ -1842,7 +1842,7 @@
    :longitude 45.3582211,
    :latitude 41.0926879,
    :source :openstreetmap,
-   :locality "Qazax",
+   :location "Qazax",
    :image "",
    :description ""}
   {:name "Çiçəyim\" uşaq teatrı",
@@ -1873,7 +1873,7 @@
    :longitude 48.9383304,
    :latitude 39.9572191,
    :source :openstreetmap,
-   :locality "Şirvan ş.",
+   :location "Şirvan ş.",
    :image "",
    :description ""}
   {:name "Şöhrət muzeyi \\ İsmayıllı",
@@ -1898,7 +1898,7 @@
    :longitude 46.8121981,
    :latitude 40.2114079,
    :source :openstreetmap,
-   :locality "Ağdərə",
+   :location "Ağdərə",
    :image "",
    :description ""}
   {:name "Şəmkir Diyarşünaslıq Muzeyi",

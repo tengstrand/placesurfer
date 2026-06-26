@@ -13,7 +13,7 @@
    :latitude 16.2368753,
    :source :openstreetmap,
    :homepage "http://atelier-odyssee.simplesite.com/",
-   :locality "Pointe-à-Pitre"}
+   :location "Pointe-à-Pitre"}
   {:name "Beauport - Pays de la canne",
    :longitude -61.5158973,
    :latitude 16.4174298,
@@ -22,7 +22,7 @@
    :longitude -61.6173025,
    :latitude 16.2285046,
    :source :openstreetmap,
-   :locality "Baie-Mahault"}
+   :location "Baie-Mahault"}
   {:name "Centre culturel de Sonis",
    :longitude -61.5301002,
    :latitude 16.2431573,
@@ -39,12 +39,12 @@
    :longitude -61.5350021,
    :latitude 16.2427912,
    :source :openstreetmap,
-   :locality "Pointe-à-Pitre"}
+   :location "Pointe-à-Pitre"}
   {:name "Centre des métiers d'arts",
    :longitude -61.53796,
    :latitude 16.2458095,
    :source :openstreetmap,
-   :locality "Pointe-à-Pitre"}
+   :location "Pointe-à-Pitre"}
   {:name "Centre guadeloupéen de la culture indienne",
    :longitude -61.4858393,
    :latitude 16.3739189,
@@ -63,13 +63,13 @@
    :source :openstreetmap,
    :homepage
    "https://www.cg971.fr/lieu/habitation-murat-siege-de-lecomusee/",
-   :locality "Grand-Bourg"}
+   :location "Grand-Bourg"}
   {:name "FelixArt",
    :longitude -61.6985082,
    :latitude 16.3342525,
    :source :openstreetmap,
    :homepage "https://www.facebook.com/felix.christopher.90",
-   :locality "Sainte-Rose"}
+   :location "Sainte-Rose"}
   {:name "Fort L'Olive - centre de broderie",
    :longitude -61.7071852,
    :latitude 15.9500825,
@@ -125,7 +125,7 @@
    :longitude -61.5378958,
    :latitude 16.2376066,
    :source :openstreetmap,
-   :locality "Pointe-à-Pitre"}
+   :location "Pointe-à-Pitre"}
   {:name "Musée Gerty Archimède",
    :longitude -61.7300439,
    :latitude 15.9970121,

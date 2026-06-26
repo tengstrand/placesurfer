@@ -20,7 +20,7 @@
    :latitude 43.7351727,
    :source :openstreetmap,
    :homepage "https://www.mtcc.mc/",
-   :locality "Monaco"}
+   :location "Monaco"}
   {:name "Musée d'Anthropologie Préhistorique",
    :longitude 7.413935,
    :latitude 43.7320036,

@@ -9,7 +9,7 @@
    :latitude -19.5585975,
    :source :openstreetmap,
    :homepage "http://www.altefortmuseum.de/",
-   :locality "Grootfontein",
+   :location "Grootfontein",
    :image "",
    :description ""}
   {:name "American Cultural Centre",
@@ -35,7 +35,7 @@
    :latitude -23.7993711,
    :source :openstreetmap,
    :homepage "https://nhc-nam.org",
-   :locality "Aminuis",
+   :location "Aminuis",
    :image "",
    :description ""}
   {:name "COSDEF",
@@ -43,7 +43,7 @@
    :latitude -22.6679825,
    :source :openstreetmap,
    :homepage "https://www.cosdef.org.na/cosdef-arts-and-crafts-centre",
-   :locality "Swakopmund",
+   :location "Swakopmund",
    :image "",
    :description ""}
   {:name "Damara",
@@ -93,7 +93,7 @@
    :longitude 17.0879914,
    :latitude -22.568721,
    :source :openstreetmap,
-   :locality "Windhoek",
+   :location "Windhoek",
    :image "",
    :description ""}
   {:name "John Muafangejo Art Centre",
@@ -108,14 +108,14 @@
    :source :openstreetmap,
    :homepage
    "https://www.museums.com.na/museums/south/keetmanshoop-museum",
-   :locality "Keetmanshoop",
+   :location "Keetmanshoop",
    :image "",
    :description ""}
   {:name "King Mandume Museum",
    :longitude 15.8637664,
    :latitude -17.4793581,
    :source :openstreetmap,
-   :locality "Omhedi",
+   :location "Omhedi",
    :image "",
    :description ""}
   {:name "Kristall Galerie",
@@ -130,7 +130,7 @@
    :latitude -19.2387891,
    :source :openstreetmap,
    :homepage "https://www.lcfn.info/juhoansi/home",
-   :locality "Grashoek",
+   :location "Grashoek",
    :image "",
    :description ""}
   {:name "Lizauli Historical Village",
@@ -175,7 +175,7 @@
    :latitude -20.4672727,
    :source :openstreetmap,
    :homepage "https://www.namibianfashion.com/",
-   :locality "Otjiwarongo",
+   :location "Otjiwarongo",
    :image "",
    :description ""}
   {:name "Museum of Namibian Music",
@@ -197,7 +197,7 @@
    :latitude -26.6474771,
    :source :openstreetmap,
    :homepage "http://kolmanskuppe.com/goerke-haus",
-   :locality "Lüderitz",
+   :location "Lüderitz",
    :image "",
    :description ""}
   {:name "National Art Gallery of Namibia",
@@ -219,7 +219,7 @@
    :latitude -22.60087,
    :source :openstreetmap,
    :homepage "https://www.mme.gov.na/gsn/museum/",
-   :locality "Windhoek",
+   :location "Windhoek",
    :image "",
    :description ""}
   {:name "Old Location",
@@ -272,7 +272,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museums.com.na/museums/north/outapi-war-museum",
-   :locality "Outapi",
+   :location "Outapi",
    :image "",
    :description ""}
   {:name "Ovahimba Living Museum",
@@ -280,7 +280,7 @@
    :latitude -17.8016835,
    :source :openstreetmap,
    :homepage "https://www.lcfn.info/ovahimba",
-   :locality "Omungunda",
+   :location "Omungunda",
    :image "",
    :description ""}
   {:name "Rehoboth Museum",
@@ -294,7 +294,7 @@
    :latitude -22.6782733,
    :source :openstreetmap,
    :homepage "https://roglsouvenirs.com",
-   :locality "Swakopmund",
+   :location "Swakopmund",
    :image "",
    :description ""}
   {:name "Sam Nujoma Multipurpose Centre",
@@ -320,7 +320,7 @@
    :longitude 14.5634775,
    :latitude -22.6375693,
    :source :openstreetmap,
-   :locality "Swakopmund",
+   :location "Swakopmund",
    :image "",
    :description ""}
   {:name "The Jasper House Museum",
@@ -333,7 +333,7 @@
    :longitude 16.3559181,
    :latitude -26.1834985,
    :source :openstreetmap,
-   :locality "Gundsbewys",
+   :location "Gundsbewys",
    :image "",
    :description ""}
   {:name "TransNamib Railway Museum",
@@ -354,7 +354,7 @@
    :source :openstreetmap,
    :homepage
    "https://www.museums.com.na/museums/coast/walvis-bay-museum",
-   :locality "Walvis Bay",
+   :location "Walvis Bay",
    :image "",
    :description ""}
   {:name "Warmbad Museum",
@@ -375,7 +375,7 @@
    :longitude 16.9740683,
    :latitude -24.8437873,
    :source :openstreetmap,
-   :locality "Maltahöhe",
+   :location "Maltahöhe",
    :image "",
    :description ""}],
  :source

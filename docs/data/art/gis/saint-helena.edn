@@ -16,7 +16,7 @@
    :longitude -12.3137231,
    :latitude -37.0666482,
    :source :openstreetmap,
-   :locality "Edinburgh of the Seven Seas"}
+   :location "Edinburgh of the Seven Seas"}
   {:name "Museum of St Helena",
    :longitude -5.7186106,
    :latitude -15.9250216,
@@ -31,7 +31,7 @@
    :latitude -37.066744,
    :source :openstreetmap,
    :homepage "https://tristandc.com/tourism.php",
-   :locality "Edinburgh of the Seven Seas"}],
+   :location "Edinburgh of the Seven Seas"}],
  :source
  {:attribution
   "Art venue data from OpenStreetMap (museums, galleries, arts centres).",
