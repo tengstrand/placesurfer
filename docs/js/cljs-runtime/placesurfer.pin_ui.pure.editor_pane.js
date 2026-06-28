@@ -24,17 +24,17 @@ return ((edit_mode_QMARK_) || (((new_mode_QMARK_) && (cljs.core.not(inline_QMARK
 })();
 return cljs.core.into.cljs$core$IFn$_invoke$arity$2(new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-editor-form","div.pin-editor-form",452772928)], null),cljs.core.concat.cljs$core$IFn$_invoke$arity$2((cljs.core.truth_(show_form_fields_QMARK_)?placesurfer.pin_ui.pure.form_fields.field_rows(props):null),(cljs.core.truth_(show_search_QMARK_)?new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [placesurfer.pin_ui.pure.search_field.search(props)], null):null)));
 });
-placesurfer.pin_ui.pure.editor_pane.editor_pane = (function placesurfer$pin_ui$pure$editor_pane$editor_pane(p__47781){
-var map__47782 = p__47781;
-var map__47782__$1 = cljs.core.__destructure_map(map__47782);
-var props = map__47782__$1;
-var pin_message = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__47782__$1,new cljs.core.Keyword(null,"pin-message","pin-message",-1508485154));
-var pin_editor_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__47782__$1,new cljs.core.Keyword(null,"pin-editor-mode","pin-editor-mode",-577269186));
-var pin_editor_inline_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__47782__$1,new cljs.core.Keyword(null,"pin-editor-inline?","pin-editor-inline?",766617935));
-var cancel_pin_editor_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__47782__$1,new cljs.core.Keyword(null,"cancel-pin-editor!","cancel-pin-editor!",1051044642));
-var confirm_pin_editor_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__47782__$1,new cljs.core.Keyword(null,"confirm-pin-editor!","confirm-pin-editor!",-1792781208));
-var pin_editor_ok_enabled_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__47782__$1,new cljs.core.Keyword(null,"pin-editor-ok-enabled?","pin-editor-ok-enabled?",1889379090));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__47782__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.editor_pane.editor_pane = (function placesurfer$pin_ui$pure$editor_pane$editor_pane(p__52031){
+var map__52032 = p__52031;
+var map__52032__$1 = cljs.core.__destructure_map(map__52032);
+var props = map__52032__$1;
+var pin_message = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__52032__$1,new cljs.core.Keyword(null,"pin-message","pin-message",-1508485154));
+var pin_editor_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__52032__$1,new cljs.core.Keyword(null,"pin-editor-mode","pin-editor-mode",-577269186));
+var pin_editor_inline_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__52032__$1,new cljs.core.Keyword(null,"pin-editor-inline?","pin-editor-inline?",766617935));
+var cancel_pin_editor_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__52032__$1,new cljs.core.Keyword(null,"cancel-pin-editor!","cancel-pin-editor!",1051044642));
+var confirm_pin_editor_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__52032__$1,new cljs.core.Keyword(null,"confirm-pin-editor!","confirm-pin-editor!",-1792781208));
+var pin_editor_ok_enabled_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__52032__$1,new cljs.core.Keyword(null,"pin-editor-ok-enabled?","pin-editor-ok-enabled?",1889379090));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__52032__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
 var confirm_label = ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"new","new",-2085437848),pin_editor_mode))?(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","add","pin/add",234898530)) : t.call(null,new cljs.core.Keyword("pin","add","pin/add",234898530))):(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","update","pin/update",1046223133)) : t.call(null,new cljs.core.Keyword("pin","update","pin/update",1046223133))));

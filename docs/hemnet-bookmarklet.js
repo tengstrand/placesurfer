@@ -576,8 +576,9 @@
   }
 
   function fetchCoordsFromPhoton(street, city) {
-    var query = street + (city ? ", " + city : "");
-    var url = PHOTON_URL + "?q=" + encodeURIComponent(query) + "&limit=3&lang=sv";
+    var query = street ? (city ? street + ", " + city : street) : (city || "");
+    if (!query) return Promise.resolve(null);
+    var url = PHOTON_URL + "?q=" + encodeURIComponent(query) + "&limit=3";
     return fetch(url)
       .then(function (resp) { return resp.json(); })
       .then(function (body) {
@@ -606,6 +607,10 @@
     var hasCoords = merged && merged.latitude != null && merged.longitude != null;
     if (!hasCoords && merged && listingCompleteAddress(merged)) {
       fetchCoordsFromPhoton(merged.streetAddress, merged.postalCity).then(function (coords) {
+        if (coords) return coords;
+        // Full address not geocoded; fall back to city-level for approximate location
+        return fetchCoordsFromPhoton(null, merged.postalCity);
+      }).then(function (coords) {
         if (coords) {
           merged.latitude = coords.latitude;
           merged.longitude = coords.longitude;

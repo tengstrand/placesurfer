@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="2" />
+    <meta name="app-version" content="4" />
     <!-- Google tag (gtag.js) -->
     <script
       async
@@ -980,6 +980,145 @@
       .pin-group-dropdown-option--selected {
         background: #f3f4f6;
       }
+      .update-panel-tab-bar {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: center;
+        gap: 0;
+        border-bottom: 1px solid #e5e7eb;
+        background: #f8fafc;
+        flex-shrink: 0;
+        padding: 0 0.25rem;
+      }
+      .update-panel-tab {
+        border: none;
+        border-bottom: 3px solid transparent;
+        background: transparent;
+        padding: 0.3rem 0.5rem;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: -1px;
+        line-height: 0;
+      }
+      .update-panel-tab:hover {
+        background: #f1f5f9;
+      }
+      .update-panel-tab--active {
+        border-bottom-color: #2563eb;
+      }
+      .update-panel-tab-icon {
+        display: block;
+        flex-shrink: 0;
+        object-fit: contain;
+        width: 1.3rem;
+        height: 1.3rem;
+      }
+      .update-panel-tab-icon--small {
+        width: 0.9rem;
+        height: 0.9rem;
+      }
+      .app[data-page="update"] .update-section--groups .update-layout {
+        grid-template-columns: minmax(22rem, 1fr);
+        max-width: 30%;
+      }
+      .app[data-page="update"] .update-section--groups .group-list {
+        flex: 1;
+        min-height: 0;
+        overflow-y: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 0.15rem;
+        padding: 0.35rem 0.5rem;
+      }
+      .app[data-page="update"] .update-section--groups .group-list-empty {
+        margin: 0;
+        font-size: 0.82rem;
+        color: #6b7280;
+        text-align: center;
+        padding: 0.35rem 0;
+      }
+      .app[data-page="update"] .update-section--groups .group-ui-panel {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        min-height: 0;
+      }
+      .app[data-page="update"] .update-section--groups .group-ui-panel .update-table-wrap {
+        flex: 1;
+        min-height: 0;
+        display: flex;
+        flex-direction: column;
+      }
+      .app[data-page="update"] .update-section--groups .group-row.update-row {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        padding: 0.35rem 0.5rem;
+        border: 1px solid transparent;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      .app[data-page="update"] .update-section--groups .group-row-edit-btn {
+        border: none;
+        background: transparent;
+        padding: 0.1rem;
+        margin-right: 0.15rem;
+        cursor: pointer;
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        justify-content: center;
+      }
+      .app[data-page="update"] .update-section--groups .group-row-edit-btn img {
+        width: 1rem;
+        height: 1rem;
+        object-fit: contain;
+        display: block;
+        opacity: 0.75;
+      }
+      .app[data-page="update"] .update-section--groups .group-row-edit-btn:hover img {
+        opacity: 1;
+      }
+      .app[data-page="update"] .update-section--groups .group-row-label {
+        flex: 1 1 auto;
+        min-width: 0;
+        font-size: 0.85rem;
+      }
+      .app[data-page="update"] .update-section--groups .group-row-delete {
+        border: none;
+        background: transparent;
+        padding: 0.15rem;
+        cursor: pointer;
+        display: inline-flex;
+        flex-shrink: 0;
+      }
+      .app[data-page="update"] .update-section--groups .group-row-delete img {
+        width: 0.8rem;
+        height: 0.8rem;
+        opacity: 0.65;
+      }
+      .app[data-page="update"] .update-section--groups .group-row.update-row--selected {
+        background: #c8e6c9;
+        outline: 2px solid #43a047;
+        outline-offset: -2px;
+      }
+      .app[data-page="update"] .update-section--groups .group-row.update-row:hover:not(.update-row--selected) {
+        background: #f3f4f6;
+      }
+      .app[data-page="update"] .update-section--groups .group-row.update-row--draggable {
+        cursor: grab;
+      }
+      .app[data-page="update"] .update-section--groups .group-row.pin-row--dragging {
+        opacity: 0.55;
+        cursor: grabbing;
+      }
+      .app[data-page="update"] .update-section--groups .group-row.pin-row--drop-target {
+        outline: 2px dashed #43a047;
+        outline-offset: -2px;
+      }
       .update-section {
         position: relative;
         display: flex;
@@ -1134,11 +1273,16 @@
       .update-map-panel {
         position: relative;
       }
-      .update-map-add-pin-btn {
+      .update-map-pin-controls {
         position: absolute;
         top: 10px;
         left: 10px;
         z-index: 10;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      .update-map-add-pin-btn {
         padding: 3px;
         background: white;
         border: 1px solid #ccc;
@@ -1160,6 +1304,25 @@
         width: 24px;
         height: 24px;
         display: block;
+      }
+      .update-map-pin-controls .update-toolbar-search {
+        background: white;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 2px 6px;
+        box-shadow: 0 1px 4px rgba(0,0,0,.2);
+        min-width: 10rem;
+        max-width: 16rem;
+        margin-left: 0;
+      }
+      .update-map-pin-controls .update-toolbar-search--end {
+        margin-left: 0;
+      }
+      .update-map-pin-controls .update-toolbar-search-icon {
+        display: none;
+      }
+      .update-map-pin-controls .update-toolbar-search-results {
+        z-index: 20;
       }
       .map-add-pin-active .placesurfer-marker {
         cursor: default !important;
@@ -2837,6 +3000,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1782483892144"></script>
+    <script src="js/main.js?v=1782659768804"></script>
   </body>
 </html>

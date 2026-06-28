@@ -23,7 +23,7 @@
       return;
     }
     var s = document.createElement("script");
-    s.src = base + "/" + name;
+    s.src = base + "/" + name + "?t=" + Date.now();
     document.body.appendChild(s);
   }
 
@@ -36,7 +36,11 @@
     loadImplementation("hemnet-bookmarklet.js");
     return;
   }
+  if (/boneo\.se/i.test(href)) {
+    loadImplementation("boneo-bookmarklet.js");
+    return;
+  }
   window.alert(
-    "Open a listing on Hemnet or a place on Google Maps, then click Copy place."
+    "Open a listing on Hemnet or Boneo, or a place on Google Maps, then click Copy place."
   );
 })();
