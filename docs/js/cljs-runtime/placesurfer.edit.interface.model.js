@@ -6,8 +6,8 @@ placesurfer.edit.interface$.model.display_rows = (function placesurfer$edit$inte
 return placesurfer.edit.pure.model.display_rows(state);
 });
 placesurfer.edit.interface$.model.table_model = (function placesurfer$edit$interface$model$table_model(var_args){
-var G__44029 = arguments.length;
-switch (G__44029) {
+var G__58898 = arguments.length;
+switch (G__58898) {
 case 1:
 return placesurfer.edit.interface$.model.table_model.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 

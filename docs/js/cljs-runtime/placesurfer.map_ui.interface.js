@@ -60,14 +60,14 @@ return placesurfer.map_ui.core.center_on_position_BANG_(position);
 });
 placesurfer.map_ui.interface$.popup_html = (function placesurfer$map_ui$interface$popup_html(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___54418 = arguments.length;
-var i__5750__auto___54419 = (0);
+var len__5749__auto___86171 = arguments.length;
+var i__5750__auto___86172 = (0);
 while(true){
-if((i__5750__auto___54419 < len__5749__auto___54418)){
-args__5755__auto__.push((arguments[i__5750__auto___54419]));
+if((i__5750__auto___86172 < len__5749__auto___86171)){
+args__5755__auto__.push((arguments[i__5750__auto___86172]));
 
-var G__54420 = (i__5750__auto___54419 + (1));
-i__5750__auto___54419 = G__54420;
+var G__86173 = (i__5750__auto___86172 + (1));
+i__5750__auto___86172 = G__86173;
 continue;
 } else {
 }
@@ -85,9 +85,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.map_ui.popup.po
 (placesurfer.map_ui.interface$.popup_html.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq54377){
+(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq86124){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq54377));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq86124));
 }));
 
 

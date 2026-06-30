@@ -3,8 +3,8 @@ placesurfer.app_ui.load.locale = (function placesurfer$app_ui$load$locale(s){
 return new cljs.core.Keyword(null,"locale","locale",-2115712697).cljs$core$IFn$_invoke$arity$2(s,new cljs.core.Keyword(null,"en","en",88457073));
 });
 placesurfer.app_ui.load.t_for = (function placesurfer$app_ui$load$t_for(var_args){
-var G__40716 = arguments.length;
-switch (G__40716) {
+var G__78412 = arguments.length;
+switch (G__78412) {
 case 2:
 return placesurfer.app_ui.load.t_for.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -30,24 +30,24 @@ return placesurfer.i18n.interface$.t.cljs$core$IFn$_invoke$arity$variadic(cljs.c
 (placesurfer.app_ui.load.t_for.cljs$lang$maxFixedArity = 3);
 
 placesurfer.app_ui.load.positions_for_topic_QMARK_ = (function placesurfer$app_ui$load$positions_for_topic_QMARK_(positions,topic){
-return cljs.core.boolean$(cljs.core.some((function (p1__40719_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40719_SHARP_));
+return cljs.core.boolean$(cljs.core.some((function (p1__78416_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__78416_SHARP_));
 }),positions));
 });
 placesurfer.app_ui.load.missing_active_topics = (function placesurfer$app_ui$load$missing_active_topics(active_topics,positions){
-return cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.PersistentHashSet.EMPTY,cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__40722_SHARP_){
-return placesurfer.app_ui.load.positions_for_topic_QMARK_(positions,p1__40722_SHARP_);
+return cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.PersistentHashSet.EMPTY,cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__78417_SHARP_){
+return placesurfer.app_ui.load.positions_for_topic_QMARK_(positions,p1__78417_SHARP_);
 }),active_topics));
 });
 placesurfer.app_ui.load.coords_in_slug_bounds_QMARK_ = (function placesurfer$app_ui$load$coords_in_slug_bounds_QMARK_(lon,lat,slug,countries){
 var temp__5823__auto__ = placesurfer.country.interface$.country_bounds_for_slug(slug,countries);
 if(cljs.core.truth_(temp__5823__auto__)){
-var map__40725 = temp__5823__auto__;
-var map__40725__$1 = cljs.core.__destructure_map(map__40725);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40725__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40725__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40725__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40725__$1,new cljs.core.Keyword(null,"north","north",651323902));
+var map__78422 = temp__5823__auto__;
+var map__78422__$1 = cljs.core.__destructure_map(map__78422);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78422__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78422__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78422__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78422__$1,new cljs.core.Keyword(null,"north","north",651323902));
 return ((typeof lon === 'number') && (((typeof lat === 'number') && ((((((west <= lon)) && ((lon <= east)))) && ((((south <= lat)) && ((lat <= north)))))))));
 } else {
 return true;
@@ -64,8 +64,8 @@ placesurfer.app_ui.load.clear_pin_selection_outside_slug = (function placesurfer
 var temp__5823__auto__ = new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(s);
 if(cljs.core.truth_(temp__5823__auto__)){
 var id = temp__5823__auto__;
-var pin = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__40728_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__40728_SHARP_));
+var pin = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__78430_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__78430_SHARP_));
 }),new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100).cljs$core$IFn$_invoke$arity$1(s)));
 if(cljs.core.truth_(placesurfer.app_ui.load.pin_in_slug_country_QMARK_(pin,slug,new cljs.core.Keyword(null,"countries","countries",863192750).cljs$core$IFn$_invoke$arity$1(s)))){
 return s;
@@ -77,8 +77,8 @@ return s;
 }
 });
 placesurfer.app_ui.load.merge_topic_positions_BANG_ = (function placesurfer$app_ui$load$merge_topic_positions_BANG_(topic,positions){
-var merged = cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__40733_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40733_SHARP_));
+var merged = cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__78439_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__78439_SHARP_));
 }),new cljs.core.Keyword(null,"positions","positions",-1380538434).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)))),cljs.core.vec(positions));
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"positions","positions",-1380538434),merged,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"count","count",2139924085),cljs.core.count(merged)], 0));
 
@@ -113,14 +113,14 @@ placesurfer.app_ui.interface$.effects.render_BANG_();
 
 return placesurfer.app_ui.interface$.effects.sync_main_map_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"fit?","fit?",1773758200),false], null)], 0));
 });
-placesurfer.app_ui.load.handle_country_data_BANG_ = (function placesurfer$app_ui$load$handle_country_data_BANG_(load_id,slug,label,fit_QMARK_,animate_QMARK_,p__40753){
-var map__40756 = p__40753;
-var map__40756__$1 = cljs.core.__destructure_map(map__40756);
-var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40756__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
+placesurfer.app_ui.load.handle_country_data_BANG_ = (function placesurfer$app_ui$load$handle_country_data_BANG_(load_id,slug,label,fit_QMARK_,animate_QMARK_,p__78449){
+var map__78450 = p__78449;
+var map__78450__$1 = cljs.core.__destructure_map(map__78450);
+var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78450__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
 if(((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(load_id,cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_load_id))) && (cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(slug,new cljs.core.Keyword(null,"country-slug","country-slug",769681844).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)))))){
 var active = new cljs.core.Keyword(null,"active-topics","active-topics",1278012558).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state));
-var positions__$1 = cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__40749_SHARP_){
-return cljs.core.contains_QMARK_(active,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40749_SHARP_));
+var positions__$1 = cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__78448_SHARP_){
+return cljs.core.contains_QMARK_(active,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__78448_SHARP_));
 }),positions));
 var n = cljs.core.count(positions__$1);
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"status","status",-1997798413),(((n > (0)))?placesurfer.app_ui.load.t_for.cljs$core$IFn$_invoke$arity$3(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state),new cljs.core.Keyword("load","loaded","load/loaded",-1251414611),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"label","label",1718410804),label], null)):placesurfer.app_ui.load.t_for.cljs$core$IFn$_invoke$arity$3(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state),new cljs.core.Keyword("load","no-places","load/no-places",-1347500165),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"label","label",1718410804),label], null))),cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"count","count",2139924085),n,new cljs.core.Keyword(null,"positions","positions",-1380538434),positions__$1,new cljs.core.Keyword(null,"country-loading?","country-loading?",-144475327),false,new cljs.core.Keyword(null,"loading-topics","loading-topics",-224989252),cljs.core.PersistentHashSet.EMPTY], 0));
@@ -141,13 +141,13 @@ return placesurfer.app_ui.interface$.effects.sync_main_map_BANG_.cljs$core$IFn$_
 return null;
 }
 });
-placesurfer.app_ui.load.load_country_BANG_ = (function placesurfer$app_ui$load$load_country_BANG_(slug,p__40777){
-var map__40778 = p__40777;
-var map__40778__$1 = cljs.core.__destructure_map(map__40778);
-var active_topics = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40778__$1,new cljs.core.Keyword(null,"active-topics","active-topics",1278012558));
-var indicator_topics = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40778__$1,new cljs.core.Keyword(null,"indicator-topics","indicator-topics",-605996794));
-var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40778__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200),false);
-var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40778__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
+placesurfer.app_ui.load.load_country_BANG_ = (function placesurfer$app_ui$load$load_country_BANG_(slug,p__78458){
+var map__78459 = p__78458;
+var map__78459__$1 = cljs.core.__destructure_map(map__78459);
+var active_topics = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78459__$1,new cljs.core.Keyword(null,"active-topics","active-topics",1278012558));
+var indicator_topics = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78459__$1,new cljs.core.Keyword(null,"indicator-topics","indicator-topics",-605996794));
+var fit_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__78459__$1,new cljs.core.Keyword(null,"fit?","fit?",1773758200),false);
+var animate_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__78459__$1,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true);
 var load_id = cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interface$.state._BANG_load_id,cljs.core.inc);
 var active = cljs.core.set((function (){var or__5025__auto__ = active_topics;
 if(cljs.core.truth_(or__5025__auto__)){
@@ -184,8 +184,8 @@ return new cljs.core.Keyword(null,"country-iso","country-iso",-1029731117).cljs$
 
 placesurfer.app_ui.interface$.effects.render_BANG_();
 
-var fit_bounds_40879 = (cljs.core.truth_(fit_QMARK_)?placesurfer.country.interface$.country_bounds_for_slug(slug,new cljs.core.Keyword(null,"countries","countries",863192750).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state))):null);
-placesurfer.app_ui.interface$.effects.sync_main_map_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"fit?","fit?",1773758200),(!((fit_bounds_40879 == null))),new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854),fit_bounds_40879,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),animate_QMARK_], null)], 0));
+var fit_bounds_78511 = (cljs.core.truth_(fit_QMARK_)?placesurfer.country.interface$.country_bounds_for_slug(slug,new cljs.core.Keyword(null,"countries","countries",863192750).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state))):null);
+placesurfer.app_ui.interface$.effects.sync_main_map_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"fit?","fit?",1773758200),(!((fit_bounds_78511 == null))),new cljs.core.Keyword(null,"fit-bounds","fit-bounds",456059854),fit_bounds_78511,new cljs.core.Keyword(null,"animate?","animate?",-1559039739),animate_QMARK_], null)], 0));
 
 if(cljs.core.empty_QMARK_(active)){
 var fit_bounds = (cljs.core.truth_(fit_QMARK_)?placesurfer.country.interface$.country_bounds_for_slug(slug,new cljs.core.Keyword(null,"countries","countries",863192750).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state))):null);
@@ -203,10 +203,10 @@ return placesurfer.app_ui.interface$.effects.render_BANG_();
 } else {
 return null;
 }
-}),new cljs.core.Keyword(null,"on-topic-loaded","on-topic-loaded",1836923051),(function (loaded_topic,p__40797){
-var map__40800 = p__40797;
-var map__40800__$1 = cljs.core.__destructure_map(map__40800);
-var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40800__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
+}),new cljs.core.Keyword(null,"on-topic-loaded","on-topic-loaded",1836923051),(function (loaded_topic,p__78462){
+var map__78463 = p__78462;
+var map__78463__$1 = cljs.core.__destructure_map(map__78463);
+var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78463__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
 if(((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(load_id,cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_load_id))) && (((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(slug,new cljs.core.Keyword(null,"country-slug","country-slug",769681844).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)))) && (cljs.core.contains_QMARK_(active,loaded_topic)))))){
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.update,new cljs.core.Keyword(null,"loading-topics","loading-topics",-224989252),cljs.core.disj,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([loaded_topic], 0));
 
@@ -214,8 +214,8 @@ return placesurfer.app_ui.load.merge_topic_positions_BANG_(loaded_topic,position
 } else {
 return null;
 }
-})], null)).then((function (p1__40775_SHARP_){
-return placesurfer.app_ui.load.handle_country_data_BANG_(load_id,slug,label,fit_QMARK_,animate_QMARK_,p1__40775_SHARP_);
+})], null)).then((function (p1__78457_SHARP_){
+return placesurfer.app_ui.load.handle_country_data_BANG_(load_id,slug,label,fit_QMARK_,animate_QMARK_,p1__78457_SHARP_);
 })).catch((function (error){
 if(((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(load_id,cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_load_id))) && (cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(slug,new cljs.core.Keyword(null,"country-slug","country-slug",769681844).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)))))){
 return placesurfer.app_ui.load.set_error_BANG_(placesurfer.app_ui.load.t_for.cljs$core$IFn$_invoke$arity$3(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state),new cljs.core.Keyword("load","error","load/error",-984916742),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"message","message",-406056002),error.message], null)));
@@ -297,8 +297,8 @@ return null;
 }
 });
 placesurfer.app_ui.load.remove_topic_positions_BANG_ = (function placesurfer$app_ui$load$remove_topic_positions_BANG_(topic){
-var positions = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__40830_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40830_SHARP_));
+var positions = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__78472_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__78472_SHARP_));
 }),new cljs.core.Keyword(null,"positions","positions",-1380538434).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state))));
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"positions","positions",-1380538434),positions,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"count","count",2139924085),cljs.core.count(positions)], 0));
 
@@ -315,10 +315,10 @@ cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.int
 
 placesurfer.app_ui.interface$.effects.render_BANG_();
 
-return placesurfer.topic.interface$.load_topic_country_BANG_(topic,slug).then((function (p__40863){
-var map__40864 = p__40863;
-var map__40864__$1 = cljs.core.__destructure_map(map__40864);
-var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40864__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
+return placesurfer.topic.interface$.load_topic_country_BANG_(topic,slug).then((function (p__78473){
+var map__78474 = p__78473;
+var map__78474__$1 = cljs.core.__destructure_map(map__78474);
+var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78474__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
 if(((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(load_id,cljs.core.get.cljs$core$IFn$_invoke$arity$2(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_topic_load_ids),topic))) && (cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(slug,new cljs.core.Keyword(null,"country-slug","country-slug",769681844).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)))))){
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.update,new cljs.core.Keyword(null,"loading-topics","loading-topics",-224989252),cljs.core.disj,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([topic], 0));
 
@@ -337,58 +337,58 @@ return null;
 }));
 });
 placesurfer.app_ui.load.ensure_active_topic_positions_BANG_ = (function placesurfer$app_ui$load$ensure_active_topic_positions_BANG_(){
-var map__40869 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
-var map__40869__$1 = cljs.core.__destructure_map(map__40869);
-var active_topics = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40869__$1,new cljs.core.Keyword(null,"active-topics","active-topics",1278012558));
-var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40869__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
+var map__78475 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
+var map__78475__$1 = cljs.core.__destructure_map(map__78475);
+var active_topics = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78475__$1,new cljs.core.Keyword(null,"active-topics","active-topics",1278012558));
+var positions = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78475__$1,new cljs.core.Keyword(null,"positions","positions",-1380538434));
 if(cljs.core.seq(active_topics)){
-var seq__40870 = cljs.core.seq(placesurfer.app_ui.load.missing_active_topics(active_topics,positions));
-var chunk__40871 = null;
-var count__40872 = (0);
-var i__40873 = (0);
+var seq__78476 = cljs.core.seq(placesurfer.app_ui.load.missing_active_topics(active_topics,positions));
+var chunk__78477 = null;
+var count__78478 = (0);
+var i__78479 = (0);
 while(true){
-if((i__40873 < count__40872)){
-var topic = chunk__40871.cljs$core$IIndexed$_nth$arity$2(null,i__40873);
+if((i__78479 < count__78478)){
+var topic = chunk__78477.cljs$core$IIndexed$_nth$arity$2(null,i__78479);
 placesurfer.app_ui.load.load_topic_positions_BANG_(topic);
 
 
-var G__40880 = seq__40870;
-var G__40881 = chunk__40871;
-var G__40882 = count__40872;
-var G__40883 = (i__40873 + (1));
-seq__40870 = G__40880;
-chunk__40871 = G__40881;
-count__40872 = G__40882;
-i__40873 = G__40883;
+var G__78515 = seq__78476;
+var G__78516 = chunk__78477;
+var G__78517 = count__78478;
+var G__78518 = (i__78479 + (1));
+seq__78476 = G__78515;
+chunk__78477 = G__78516;
+count__78478 = G__78517;
+i__78479 = G__78518;
 continue;
 } else {
-var temp__5825__auto__ = cljs.core.seq(seq__40870);
+var temp__5825__auto__ = cljs.core.seq(seq__78476);
 if(temp__5825__auto__){
-var seq__40870__$1 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(seq__40870__$1)){
-var c__5548__auto__ = cljs.core.chunk_first(seq__40870__$1);
-var G__40884 = cljs.core.chunk_rest(seq__40870__$1);
-var G__40885 = c__5548__auto__;
-var G__40886 = cljs.core.count(c__5548__auto__);
-var G__40887 = (0);
-seq__40870 = G__40884;
-chunk__40871 = G__40885;
-count__40872 = G__40886;
-i__40873 = G__40887;
+var seq__78476__$1 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(seq__78476__$1)){
+var c__5548__auto__ = cljs.core.chunk_first(seq__78476__$1);
+var G__78519 = cljs.core.chunk_rest(seq__78476__$1);
+var G__78520 = c__5548__auto__;
+var G__78521 = cljs.core.count(c__5548__auto__);
+var G__78522 = (0);
+seq__78476 = G__78519;
+chunk__78477 = G__78520;
+count__78478 = G__78521;
+i__78479 = G__78522;
 continue;
 } else {
-var topic = cljs.core.first(seq__40870__$1);
+var topic = cljs.core.first(seq__78476__$1);
 placesurfer.app_ui.load.load_topic_positions_BANG_(topic);
 
 
-var G__40888 = cljs.core.next(seq__40870__$1);
-var G__40889 = null;
-var G__40890 = (0);
-var G__40891 = (0);
-seq__40870 = G__40888;
-chunk__40871 = G__40889;
-count__40872 = G__40890;
-i__40873 = G__40891;
+var G__78523 = cljs.core.next(seq__78476__$1);
+var G__78524 = null;
+var G__78525 = (0);
+var G__78526 = (0);
+seq__78476 = G__78523;
+chunk__78477 = G__78524;
+count__78478 = G__78525;
+i__78479 = G__78526;
 continue;
 }
 } else {
@@ -429,8 +429,8 @@ cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.app_ui.interface$
 placesurfer.app_ui.interface$.effects.render_BANG_();
 
 if(cljs.core.empty_QMARK_(next_active)){
-var positions = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__40876_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40876_SHARP_));
+var positions = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__78482_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__78482_SHARP_));
 }),new cljs.core.Keyword(null,"positions","positions",-1380538434).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state))));
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"status","status",-1997798413),placesurfer.app_ui.load.empty_topics_status(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)),cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"count","count",2139924085),cljs.core.count(positions),new cljs.core.Keyword(null,"positions","positions",-1380538434),positions,new cljs.core.Keyword(null,"country-loading?","country-loading?",-144475327),false,new cljs.core.Keyword(null,"loading-topics","loading-topics",-224989252),cljs.core.PersistentHashSet.EMPTY], 0));
 
@@ -477,8 +477,8 @@ var countries__$1 = countries;
 var active = new cljs.core.Keyword(null,"active-topics","active-topics",1278012558).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state));
 var iso = placesurfer.country.interface$.locale__GT_iso();
 var cookie_slug = placesurfer.browser_storage.interface$.read_country_slug();
-var slug = (function (){var or__5025__auto__ = (cljs.core.truth_(cljs.core.some((function (p1__40877_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(cookie_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__40877_SHARP_));
+var slug = (function (){var or__5025__auto__ = (cljs.core.truth_(cljs.core.some((function (p1__78484_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(cookie_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__78484_SHARP_));
 }),countries__$1))?cookie_slug:null);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;

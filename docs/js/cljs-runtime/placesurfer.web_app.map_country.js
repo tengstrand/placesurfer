@@ -4,11 +4,11 @@ cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.web_app.state._BA
 
 return placesurfer.map_ui.interface$.sync_country_pick_state_BANG_(new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"active?","active?",459499776),false], null));
 });
-placesurfer.web_app.map_country.select_country_at_point_BANG_ = (function placesurfer$web_app$map_country$select_country_at_point_BANG_(p__40892){
-var map__40893 = p__40892;
-var map__40893__$1 = cljs.core.__destructure_map(map__40893);
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40893__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40893__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+placesurfer.web_app.map_country.select_country_at_point_BANG_ = (function placesurfer$web_app$map_country$select_country_at_point_BANG_(p__78423){
+var map__78424 = p__78423;
+var map__78424__$1 = cljs.core.__destructure_map(map__78424);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78424__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78424__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
 placesurfer.app_ui.interface$.load.ensure_countries_loaded_BANG_();
 
 var temp__5825__auto__ = placesurfer.country.interface$.slug_for_point(longitude,latitude,new cljs.core.Keyword(null,"countries","countries",863192750).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state)));
@@ -16,10 +16,10 @@ if(cljs.core.truth_(temp__5825__auto__)){
 var slug = temp__5825__auto__;
 placesurfer.web_app.map_country.disable_country_pick_BANG_();
 
-var temp__5825__auto___40894__$1 = placesurfer.map_ui.interface$.map_view_state();
-if(cljs.core.truth_(temp__5825__auto___40894__$1)){
-var view_40895 = temp__5825__auto___40894__$1;
-cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.web_app.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"map-restore-view","map-restore-view",1509489165),view_40895);
+var temp__5825__auto___78440__$1 = placesurfer.map_ui.interface$.map_view_state();
+if(cljs.core.truth_(temp__5825__auto___78440__$1)){
+var view_78441 = temp__5825__auto___78440__$1;
+cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.web_app.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"map-restore-view","map-restore-view",1509489165),view_78441);
 } else {
 }
 
@@ -40,12 +40,12 @@ return placesurfer.map_ui.interface$.sync_country_pick_state_BANG_(new cljs.core
 });
 placesurfer.web_app.map_country.enable_country_pick_BANG_ = (function placesurfer$web_app$map_country$enable_country_pick_BANG_(){
 if(placesurfer.app_ui.interface$.pages.map_page_QMARK_(new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state)))){
-var temp__5825__auto___40896 = new cljs.core.Keyword(null,"map-restore-view","map-restore-view",1509489165).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state));
-if(cljs.core.truth_(temp__5825__auto___40896)){
-var view_40897 = temp__5825__auto___40896;
+var temp__5825__auto___78444 = new cljs.core.Keyword(null,"map-restore-view","map-restore-view",1509489165).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state));
+if(cljs.core.truth_(temp__5825__auto___78444)){
+var view_78445 = temp__5825__auto___78444;
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$3(placesurfer.web_app.state._BANG_state,cljs.core.dissoc,new cljs.core.Keyword(null,"map-restore-view","map-restore-view",1509489165));
 
-placesurfer.map_ui.interface$.fly_to_view_BANG_(view_40897);
+placesurfer.map_ui.interface$.fly_to_view_BANG_(view_78445);
 } else {
 }
 

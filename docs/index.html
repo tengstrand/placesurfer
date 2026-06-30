@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="4" />
+    <meta name="app-version" content="5" />
     <!-- Google tag (gtag.js) -->
     <script
       async
@@ -471,6 +471,21 @@
         background: rgba(255, 255, 255, 0.92);
         border-radius: 4px;
         pointer-events: none;
+      }
+      .map-home-search {
+        position: absolute;
+        top: 0.5rem;
+        left: 0.5rem;
+        z-index: 2;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        min-width: 10rem;
+        max-width: 16rem;
+        background: rgba(255, 255, 255, 0.96);
+        border-radius: 6px;
+        padding: 0.2rem 0.4rem;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
       }
       .about-page {
         min-height: 40vh;
@@ -1153,7 +1168,7 @@
       }
       .update-layout {
         display: grid;
-        grid-template-columns: minmax(22rem, 32rem) minmax(0, 1fr);
+        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
         gap: 1rem;
         align-items: start;
       }
@@ -1178,7 +1193,7 @@
       }
       .pin-layout {
         display: grid;
-        grid-template-columns: minmax(calc(22rem * 0.7), calc(32rem * 0.7)) minmax(0, 1fr);
+        grid-template-columns: minmax(calc(22rem * 1.05), calc(32rem * 1.05)) minmax(0, 1fr);
         grid-template-rows: minmax(0, 1fr);
         gap: 1rem;
         flex: 1;
@@ -1306,11 +1321,11 @@
         display: block;
       }
       .update-map-pin-controls .update-toolbar-search {
-        background: white;
-        border: 1px solid #ccc;
-        border-radius: 4px;
-        padding: 2px 6px;
-        box-shadow: 0 1px 4px rgba(0,0,0,.2);
+        background: rgba(255, 255, 255, 0.96);
+        border: none;
+        border-radius: 6px;
+        padding: 0.2rem 0.4rem;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
         min-width: 10rem;
         max-width: 16rem;
         margin-left: 0;
@@ -1319,7 +1334,12 @@
         margin-left: 0;
       }
       .update-map-pin-controls .update-toolbar-search-icon {
-        display: none;
+        display: block;
+      }
+      .update-map-pin-controls .update-toolbar-search-input {
+        border: none;
+        background: transparent;
+        padding: 0.1rem 0.2rem;
       }
       .update-map-pin-controls .update-toolbar-search-results {
         z-index: 20;
@@ -1544,6 +1564,43 @@
         flex-direction: column;
         min-width: 0;
       }
+      .update-field-control--with-link {
+        flex-direction: row;
+        align-items: center;
+        gap: 0.4rem;
+      }
+      .update-field-control--with-link .update-input {
+        flex: 1 1 0;
+        width: auto;
+        min-width: 0;
+      }
+      .pin-field-link {
+        display: inline-flex;
+        flex-shrink: 0;
+        align-items: center;
+        justify-content: center;
+        width: 2.2rem;
+        line-height: 0;
+        border-radius: 3px;
+        overflow: hidden;
+        text-decoration: none;
+      }
+      .pin-field-link-icon {
+        height: 1.4rem;
+        width: auto;
+        max-width: 100%;
+        object-fit: contain;
+        display: block;
+      }
+      .pin-field-link--preview {
+        align-self: stretch;
+      }
+      .pin-field-link-preview {
+        height: 100%;
+        width: 100%;
+        object-fit: cover;
+        display: block;
+      }
       .pin-icon-dropdown {
         position: relative;
         width: 100%;
@@ -1603,6 +1660,63 @@
       .pin-icon-dropdown-option img {
         width: 28px;
         height: 28px;
+        display: block;
+        object-fit: contain;
+      }
+      .pin-stars-dropdown {
+        position: relative;
+        width: 100%;
+      }
+      .pin-stars-dropdown-trigger {
+        display: flex;
+        align-items: center;
+        list-style: none;
+        cursor: pointer;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        padding: 0.25rem 0.35rem;
+        background: #fff;
+        min-height: 2rem;
+        box-sizing: border-box;
+      }
+      .pin-stars-dropdown-trigger::-webkit-details-marker {
+        display: none;
+      }
+      .pin-stars-dropdown-trigger img {
+        height: 18px;
+        width: auto;
+        display: block;
+        object-fit: contain;
+      }
+      .pin-stars-dropdown-menu {
+        display: flex;
+        flex-direction: column;
+        gap: 0.25rem;
+        padding: 0.35rem;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        min-width: 7rem;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      }
+      .pin-stars-dropdown-option {
+        border: 2px solid transparent;
+        border-radius: 4px;
+        padding: 0.15rem 0.25rem;
+        background: transparent;
+        cursor: pointer;
+        line-height: 0;
+        display: block;
+        width: 100%;
+        text-align: left;
+      }
+      .pin-stars-dropdown-option--selected {
+        border-color: #2563eb;
+        background: #eff6ff;
+      }
+      .pin-stars-dropdown-option img {
+        height: 18px;
+        width: auto;
         display: block;
         object-fit: contain;
       }
@@ -2243,6 +2357,43 @@
       .update-duplicates-btn--active:hover {
         background: #1d4ed8;
       }
+      .update-invalid-btn {
+        margin-left: 0.25rem;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        padding: 0.35rem 0.45rem;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .update-invalid-btn img {
+        width: 0.95rem;
+        height: 0.95rem;
+        object-fit: contain;
+        display: block;
+        opacity: 0.45;
+        transition: opacity 0.15s ease, filter 0.15s ease;
+      }
+      .update-invalid-btn:hover:not(.update-invalid-btn--active) {
+        background: #f3f4f6;
+      }
+      .update-invalid-btn:hover:not(.update-invalid-btn--active) img {
+        opacity: 0.7;
+      }
+      .update-invalid-btn--active {
+        border-color: #b45309;
+        background: #d97706;
+        box-shadow: inset 0 0 0 1px #b45309;
+      }
+      .update-invalid-btn--active img {
+        opacity: 1;
+        filter: brightness(0) invert(1);
+      }
+      .update-invalid-btn--active:hover {
+        background: #b45309;
+      }
       .pin-topics-toggle-btn,
       .pin-preview-toggle-btn {
         border: 1px solid #d1d5db;
@@ -2289,6 +2440,121 @@
       }
       .pin-preview-toggle-btn--active:hover {
         background: #1d4ed8;
+      }
+      .pin-stars-toggle-btn {
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        padding: 0.35rem 0.45rem;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .pin-stars-toggle-btn img {
+        width: 0.95rem;
+        height: 0.95rem;
+        object-fit: contain;
+        display: block;
+        opacity: 0.45;
+        transition: opacity 0.15s ease, filter 0.15s ease;
+      }
+      .pin-stars-toggle-btn:hover:not(.pin-stars-toggle-btn--active) {
+        background: #f3f4f6;
+      }
+      .pin-stars-toggle-btn:hover:not(.pin-stars-toggle-btn--active) img {
+        opacity: 0.7;
+      }
+      .pin-stars-toggle-btn--active {
+        border-color: #1d4ed8;
+        background: #2563eb;
+        box-shadow: inset 0 0 0 1px #1d4ed8;
+      }
+      .pin-stars-toggle-btn--active img {
+        opacity: 1;
+        filter: brightness(0) invert(1);
+      }
+      .pin-stars-toggle-btn--active:hover {
+        background: #1d4ed8;
+      }
+      .pin-table-scroll--stars {
+        overflow-y: auto;
+      }
+      .stars-grouped-view {
+        padding: 0.5rem;
+        display: flex;
+        flex-direction: column;
+      }
+      .stars-grouped-view .update-row {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.3rem 0.5rem;
+        cursor: pointer;
+        border-radius: 4px;
+        user-select: none;
+      }
+      .stars-grouped-view .update-row:hover {
+        background: #f3f4f6;
+      }
+      .stars-grouped-view .update-row--selected {
+        background: #eff6ff;
+        border-left: 2px solid #2563eb;
+      }
+      .pin-star-row-name {
+        flex: 1;
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        font-size: 0.875rem;
+      }
+      .pin-star-row-stars-img {
+        height: 18px;
+        width: auto;
+        object-fit: contain;
+        margin-right: 0.5em;
+        flex-shrink: 0;
+      }
+      .stars-grouped-view .pin-table-icon {
+        width: 1.5rem;
+        height: 1.5rem;
+        object-fit: contain;
+        flex-shrink: 0;
+      }
+      .pin-sorted-table .pin-table-name-col  { width: auto; }
+      .pin-sorted-table .pin-table-group-col { width: 7rem; }
+      .pin-sorted-table .pin-table-stars-col { width: 5rem; }
+      .pin-sorted-table .pin-table-area-col  { width: 1px; }
+      .pin-sorted-table .pin-table-name-cell,
+      .pin-sorted-table .pin-table-group-cell {
+        max-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .pin-sorted-table .pin-table-stars-cell {
+        padding: 0.2rem 0.5rem;
+        vertical-align: middle;
+      }
+      .pin-table-stars-icon {
+        height: 14px;
+        width: auto;
+        object-fit: contain;
+        display: block;
+      }
+      .pin-sort-header {
+        cursor: pointer;
+        user-select: none;
+        white-space: nowrap;
+      }
+      .pin-sort-header:hover {
+        background: #f1f5f9;
+      }
+      .pin-sort-arrow {
+        display: inline-block;
+        margin-left: 0.2em;
+        font-size: 0.75em;
       }
       .update-save {
         border: none;
@@ -3000,6 +3266,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1782659768804"></script>
+    <script src="js/main.js?v=1782848576900"></script>
   </body>
 </html>

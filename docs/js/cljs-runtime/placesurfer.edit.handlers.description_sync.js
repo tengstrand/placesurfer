@@ -7,7 +7,7 @@ return document.getElementById;
 return and__5023__auto__;
 }
 })());
-}catch (e48695){var _ = e48695;
+}catch (e77946){var _ = e77946;
 return false;
 }});
 placesurfer.edit.handlers.description_sync.description_baseline_canonical = (function placesurfer$edit$handlers$description_sync$description_baseline_canonical(s){

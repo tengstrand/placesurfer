@@ -51,6 +51,18 @@ placesurfer.pin_ui.handlers.map.schedule_pin_map_sync_BANG_.cljs$core$IFn$_invok
 
 return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
 });
+placesurfer.pin_ui.handlers.form.set_pin_stars_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_stars_BANG_(v){
+placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"ranking","ranking",191056920),placesurfer.pin_ui.pure.forms.normalize_stars(v));
+
+return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
+});
+placesurfer.pin_ui.handlers.form.set_pin_radii_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_radii_BANG_(v){
+placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"radii","radii",-39552793),v);
+
+placesurfer.pin_ui.handlers.map.schedule_pin_map_sync_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),false], null)], 0));
+
+return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
+});
 placesurfer.pin_ui.handlers.form.set_pin_url_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_url_BANG_(v){
 placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"url","url",276297046),v);
 
