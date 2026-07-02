@@ -1,0 +1,82 @@
+{:dataset :honey,
+ :country "montenegro",
+ :count 10,
+ :generated-at "2026-07-02T06:45:46.777743Z",
+ :positions
+ [{:name "Dusan Djukanovic   /lukovo",
+   :longitude 19.01205,
+   :latitude 42.78633,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0038267644338 | E-post: dusandjukanovic11@gmail.com | -  prodaja meda na kucnu",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name
+   "Family apiary \"Jokanović\" - Porodični pčelinjak \"Jokanović\"",
+   :longitude 18.91262,
+   :latitude 43.32301,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00382 67 221 145 | E-post: blazo_jokanovic@yahoo.com | Crkvičko Polje,Pivska planina,Crna Gora",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Jovanovic Maja",
+   :longitude 18.88901,
+   :latitude 42.29051,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0038267/365-873 | E-post: jov.cu.maj@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Medo Kajevic",
+   :longitude 19.64767,
+   :latitude 43.34005,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 38162294039 | E-post: kajevicm@hotmail.com | One of the best quality honey from the mountains over 1400 meters above sea level!!!",
+   :homepage "https://www.dreamstudio.com"}
+  {:name "Miloš Popović",
+   :longitude 19.1128,
+   :latitude 42.35832,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00 382 69 171 172 | E-post: milos.popovic@t-com.me",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Nebojša / Veličković",
+   :longitude 19.77914,
+   :latitude 43.09662,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: nebojsavelickovicbp@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pero Vukalović",
+   :longitude 18.43657,
+   :latitude 42.62627,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Radović",
+   :longitude 18.98849,
+   :latitude 43.39134,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 387 65 601 238 | E-post: mrgo@teol.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Vasilije Cancar",
+   :longitude 18.80516,
+   :latitude 43.50376,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 38758213798 | E-post: vrms@teol.net | selo Orahovo,opstina Foca",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Vesko Bošković",
+   :longitude 18.83982,
+   :latitude 42.30175,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0038263289580 | E-post: veskoboskovic888@gmail.com | Budva",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

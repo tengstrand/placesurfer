@@ -1,0 +1,20 @@
+{:dataset :honey,
+ :country "uruguay",
+ :count 2,
+ :generated-at "2026-07-02T06:51:55.618927Z",
+ :positions
+ [{:name "API VIDA 1",
+   :longitude -53.5233,
+   :latitude -31.6563,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: rccharao@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "tec.apicola Fernando Arbiza",
+   :longitude -58.3044,
+   :latitude -33.1375,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: nanoarbiza@hotmail.com | Tecnico en apicultura/Asesor internacional en apicultura.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

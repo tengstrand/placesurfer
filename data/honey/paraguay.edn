@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "paraguay",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.272123Z",
+ :positions
+ [{:name "Ana Mercedes",
+   :longitude -56.8525,
+   :latitude -25.9543,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00595981526143 | E-post: kempfmichael61@yahoos.es",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

@@ -1,0 +1,43 @@
+{:dataset :honey,
+ :country "argentina",
+ :count 5,
+ :generated-at "2026-07-02T06:51:54.405194Z",
+ :positions
+ [{:name "Apicola Yasmin",
+   :longitude -53.789,
+   :latitude -28.9216,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 42-9927-7038 | E-post: apicolayasmin@yahoo.com.br | Produção de mel, cera e própolis.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Beja Alejandro",
+   :longitude -68.4244,
+   :latitude -31.5224,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: alejandrobeja@hotmail.com | Localidad de Alto de Sierra, Departamento de Santa Lucia, provincia de San Juan, Argentina.",
+   :homepage "https://aleabeja.blogspot.com.ar/"}
+  {:name "Colmenares Geissbühler",
+   :longitude -72.8119,
+   :latitude -41.2844,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 56 9 56289390 | E-post: hgs1958@gmail.com | Se vende miel en Puerto Varas",
+   :homepage "https://www.geissbuhler.cl"}
+  {:name "Honey Do Ranch",
+   :longitude -71.1913,
+   :latitude -32.8426,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: robh801@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "La Cecilia",
+   :longitude -59.5822,
+   :latitude -35.8985,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

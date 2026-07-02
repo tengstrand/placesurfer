@@ -1,0 +1,28 @@
+{:dataset :honey,
+ :country "kyrgyzstan",
+ :count 3,
+ :generated-at "2026-07-02T06:51:55.617353Z",
+ :positions
+ [{:name "Sonun Team",
+   :longitude 78.6621,
+   :latitude 42.43082,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 996 559819888,  996 709813888 | E-post: sonunteam@gmail.com | Sonun Team is selling Organic honey from Kyrgzystan.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Sonun Team",
+   :longitude 76.02539,
+   :latitude 42.33344,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 996 559819888,  996 709813888 | E-post: sonunteam@gmail.com | Sonun Team is selling Organic honey from Kyrgzystan.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "The Kyrgyz Union of Beekeepers",
+   :longitude 74.61549,
+   :latitude 42.88795,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 996550267777 | E-post: sp.kg@mail.ru",
+   :homepage "https://www.sp.kg"}]}

@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "zimbabwe",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.925811Z",
+ :positions
+ [{:name "Hatfield",
+   :longitude 31.08122,
+   :latitude -17.88,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 263772215562 | E-post: gtmutsaka@gmail.com",
+   :homepage "https://eldergee.com/"}]}

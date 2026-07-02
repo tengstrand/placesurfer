@@ -1,0 +1,21 @@
+{:dataset :honey,
+ :country "nigeria",
+ :count 2,
+ :generated-at "2026-07-02T06:51:54.577044Z",
+ :positions
+ [{:name "DANIEL ADESINA ODUNTAN/INSTITUTE OF VOCATIONAL BEECRAFT.",
+   :longitude 13.35937,
+   :latitude 13.8051,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 2348035657434 | E-post: invobe@yahoo.co.uk | Located in ogun state, Nigeria, West African.",
+   :homepage "https://www.vocationalbeecraft.com"}
+  {:name "Damzec Agricom",
+   :longitude 7.207031,
+   :latitude 8.059229,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 08038064378 | E-post: ambrosechineke@yahoo.co.uk | I am a novice and want to establish apiary in Abuja environ and to promote beekeeping. I need assistance. You may wish to direct me to a member in Nigeria. I shall be grateful for your kind response.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

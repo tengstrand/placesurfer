@@ -1,0 +1,42 @@
+{:dataset :honey,
+ :country "morocco",
+ :count 5,
+ :generated-at "2026-07-02T06:45:47.323598Z",
+ :positions
+ [{:name "ATLAS ASAL",
+   :longitude -3.44709,
+   :latitude 34.95923,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0534258071 | E-post: sajiaa@live.de | INTERMISSABUCKFASTMAJORsahariensis",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "BREJO",
+   :longitude -3.51562,
+   :latitude 30.6465,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: fmdpisco",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Bouna",
+   :longitude -8.68057,
+   :latitude 31.25272,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 00212665050488 | E-post: bouna@xs4all.nl",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "KHALFI MOHAMED",
+   :longitude -5.60599,
+   :latitude 33.06788,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0618055404 | E-post: feree88@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "hachem abd-rrahim",
+   :longitude -3.72123,
+   :latitude 33.33217,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 212670656557 | E-post: https://www.facebook.com/miel.hachem",
+   :homepage "https://www.facebook.com/miel.hachem"}]}

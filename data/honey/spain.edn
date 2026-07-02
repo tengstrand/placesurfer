@@ -1,0 +1,169 @@
+{:dataset :honey,
+ :country "spain",
+ :count 22,
+ :generated-at "2026-07-02T06:51:54.995450Z",
+ :positions
+ [{:name "5657",
+   :longitude -0.56656,
+   :latitude 43.37304,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Antonio",
+   :longitude 2.807006,
+   :latitude 39.4945,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: alexanderdikkes@aol.com | Queen breeding Apis Mellifera Carnica",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Antonio Dopico López",
+   :longitude -8.14498,
+   :latitude 43.34692,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 34626248890 | E-post: antonio.dopico@hotmail.com | Not yet selling. Experimenting with 1 Warré hive.",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Apiculteur Telagh",
+   :longitude -0.5833,
+   :latitude 34.72976,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: (213)0664889750 | E-post: darkman2013@live.fr",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Apidrera",
+   :longitude 2.097787,
+   :latitude 41.41782,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0034606843982 | E-post: jordicastellon@hotmail.com",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Bolois",
+   :longitude -1.60194,
+   :latitude 41.52091,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Endivia sana",
+   :longitude -3.76556,
+   :latitude 40.84708,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Fernando Ruiz",
+   :longitude -1.03271,
+   :latitude 38.32442,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 660040387 | E-post: fernandormfranchi@hotmail.com",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Henry Jérome",
+   :longitude -0.47829,
+   :latitude 43.31834,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0620163486 | E-post: th1164@gmx.com | We make the Balsamine honey",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Imkerij Elsenbug",
+   :longitude 2.8125,
+   :latitude 43.06888,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: cockhoogeduin@gmail.com",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "JULIO SECO CORRAL",
+   :longitude -5.07377,
+   :latitude 39.29604,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 34 676269978 | E-post: secodeluna@yahoo.es | hola a todos,gracias por aceptarme en vuestro grupo,en la acualidad poseo 27 apiarios y soy catador de miel. gracias otra vez.",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Les Ruches de la Miss",
+   :longitude 1.949241,
+   :latitude 43.38591,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: klb.creation@yahoo.com",
+   :homepage "https://klb-creation11.com"}
+  {:name "Mel",
+   :longitude 2.658691,
+   :latitude 41.84066,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Millerie du Mont MOUZAIA",
+   :longitude 2.683238,
+   :latitude 36.40083,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 213665240840 | E-post: apidz.com@gmail.com | Rucher du NADOR, Route de Talamimoun  Ain-Romana  Wilaya de Blida",
+   :homepage "https://www.apidz.com"}
+  {:name "Philippe",
+   :longitude 4.147338,
+   :latitude 43.76117,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: philippe.trendel@wanadoo.fr",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "Rubén Fernández",
+   :longitude -7.09257,
+   :latitude 43.05299,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: rubenbouza@yahoo.es",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "amoraoro",
+   :longitude -3.2278,
+   :latitude 40.22372,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "apicola perpiñan grau sat.",
+   :longitude -0.92018,
+   :latitude 39.29923,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 676984582 | E-post: ismaelana@yahoo.es | son colmenas trasnhumantes recorremos todas las floraciones españolas",
+   :homepage "https://somosapicultores.com"}
+  {:name "mahieddine beekeeper",
+   :longitude 2.109375,
+   :latitude 31.24952,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00213663813178 | E-post: ourplante@hotmail.com | iam algerian beekeeper",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "obreras del sol",
+   :longitude -2.89116,
+   :latitude 40.67728,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 627549001 | E-post: javier.garciaplaza@gmail.com",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "pacosantiago",
+   :longitude -7.95266,
+   :latitude 42.35714,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 609885342 | E-post: paco-santiago@terra.es",
+   :homepage "https://biodlarkartan.se/es.php"}
+  {:name "teslinjak",
+   :longitude 2.8125,
+   :latitude 38.27268,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/es.php"}]}

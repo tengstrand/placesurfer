@@ -1,0 +1,26 @@
+{:dataset :honey,
+ :country "japan",
+ :count 3,
+ :generated-at "2026-07-02T06:51:53.399204Z",
+ :positions
+ [{:name "6510",
+   :longitude 135.5077,
+   :latitude 34.82988,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "ALEX CHEKATUN",
+   :longitude 133.1103,
+   :latitude 42.88401,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 79143232835 | E-post: chekatun@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Nihonbashi Mitsubachi Kai",
+   :longitude 139.783,
+   :latitude 35.68385,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://d.hatena.ne.jp/nihonbachi/"}]}

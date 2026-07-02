@@ -1,0 +1,20 @@
+{:dataset :honey,
+ :country "mozambique",
+ :count 2,
+ :generated-at "2026-07-02T06:45:48.007510Z",
+ :positions
+ [{:name "African Honey Bee",
+   :longitude 31.01266,
+   :latitude -25.0325,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 27824541028 | E-post: guy@africanhoneybee.co.za | African Honey Bee's mission is to catalyse, support and sustain thousands of viable micro beekeeping businesses spread across southern Africa, by developing a network of interlinked beekeeping incubator farmsthat provide a platform for the beekeepers to access training, mentorship, low cost logistics, equipment and consumables, appropriate technology and access to market.",
+   :homepage "https://www.africanhoneybee.co.za"}
+  {:name "Eugene Kraamwinkel",
+   :longitude 30.47418,
+   :latitude -26.4757,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0833260874 | E-post: poplar@mweb.co.za",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

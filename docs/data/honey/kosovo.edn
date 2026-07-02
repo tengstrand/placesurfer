@@ -1,0 +1,139 @@
+{:dataset :honey,
+ :country "kosovo",
+ :count 18,
+ :generated-at "2026-07-02T06:45:47.775204Z",
+ :positions
+ [{:name "4016",
+   :longitude 21.74561,
+   :latitude 42.40365,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Bletorja '' Canolli ''",
+   :longitude 21.17508,
+   :latitude 42.67441,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 37744112827 | E-post: halil.canolli@ptkonline.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Bojan Maksimović",
+   :longitude 21.58099,
+   :latitude 42.58525,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 38649737062 | E-post: maxbojan@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dejan Dojcinovic",
+   :longitude 21.64241,
+   :latitude 43.03598,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0604107023 | E-post: dojcad@gmail.com | Zivim u Leskovcu ul.Vlajkova br.116 Sve pcelinje proizvode prodajem kod kuce.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dime Najdovski",
+   :longitude 21.4501,
+   :latitude 41.95947,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: dime_najdovski@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Elizabeth Gowing",
+   :longitude 21.36428,
+   :latitude 42.82965,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 377 44661797 | E-post: elizabethgowing@hotmail.com | author of 'Travels in Blood and Honey; becoming a beekeeper in Kosovo' http://www.amazon.co.uk/Travels-Blood-Honey-Becoming-Beekeeper/dp/1904955908/ref=sr_1_1?ie=UTF8",
+   :homepage "https://www.elizabethgowing.com"}
+  {:name "Gruda Company Beekeeping",
+   :longitude 20.33294,
+   :latitude 42.66628,
+   :source :biodlarkartan,
+   :image "",
+   :description "Vitomirica p.n30000Peje, Kosovo",
+   :homepage "https://www.gruda-ks.com"}
+  {:name "Javorac Nikola",
+   :longitude 21.40905,
+   :latitude 42.10949,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Joky",
+   :longitude 21.74713,
+   :latitude 42.03024,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 38971316232 | E-post: fire_joki@yahoo.com | between two villages Pchinja and Vak'v where the Pchinja river flows,municipality Kumanovo,Republic of MACEDONIA",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Milan Janković",
+   :longitude 21.63963,
+   :latitude 42.75207,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0621931743 | E-post: milanjanko91@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Nenad Petrovic",
+   :longitude 21.72153,
+   :latitude 43.01098,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 062321737 | E-post: pnenad29@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Nenad Stevanovic",
+   :longitude 21.74564,
+   :latitude 42.40366,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: ultras.bu@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pcelarstvo Eminovic",
+   :longitude 20.49325,
+   :latitude 43.12132,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 062-573-941 | E-post: fikret_eminovic@hotmail.com | Pcelarstvom se bavim vec 10 godina. Bazni pcelinjak je smesten u Paralovu kod Novog Pazara. Drustva selim na pestersku visoravan na livadsku pasu, odakle dobijam veoma kvalitetan livadski med.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pčelinjak braće Fehratović  ZLATNA  DOLINA",
+   :longitude 20.47193,
+   :latitude 43.04704,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: zlatna.dollina@gmail.com | Pcelarstvom pocinjemo da se bavimo 2007.god. Kada je brat Mirza nabavio prvu kosnicu.Bili su to pocetni koraci. Ljubav prema pcelarstvu polako prelazi i na mene.Tako ja u zimu 2009.god. kupujem 5 kosnica i polako ih sredjujem dok ne stignu pcelice.Zahvaljujuci velikoj i nesebicnoj podrsci Mirka(pcelara iz Ivanjice ) ,koji pravi fantasticne kosnice, nije bilo tesko srediti iste.Uzbudjnje je raslo iz dana u dan , jer se blizio trenutak kada su trebale dastignu pcele, a sa njima i prvi ubodi. Ali t",
+   :homepage "https://zlatna-dolina.moy.su/"}
+  {:name "Rifat Guraziu",
+   :longitude 20.84956,
+   :latitude 42.42264,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: +37744151550 | E-post: rifati-27@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Slave Avramoski",
+   :longitude 21.05469,
+   :latitude 42.08814,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0038970321565 | E-post: avramoskislave@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Valon Mustafi",
+   :longitude 21.02684,
+   :latitude 42.05237,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: valon_87@yahoo.com | Primary honey flora: Robinia pseudoacacia, Castanea sativa.",
+   :homepage "https://bletaria.forumotion.net"}
+  {:name "Vucelic PCELINJAK",
+   :longitude 21.61092,
+   :latitude 43.02977,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

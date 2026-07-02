@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "nicaragua",
+ :count 1,
+ :generated-at "2026-07-02T06:45:45.815613Z",
+ :positions
+ [{:name "ramiro espinosa",
+   :longitude -85.5299,
+   :latitude 12.6217,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 505 86126424 | E-post: rc.ee@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

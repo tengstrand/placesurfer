@@ -1,0 +1,127 @@
+{:dataset :honey,
+ :country "brazil",
+ :count 16,
+ :generated-at "2026-07-02T06:45:45.794052Z",
+ :positions
+ [{:name "APIAMÉRICA O mel da mata Atlântica",
+   :longitude -47.59,
+   :latitude -24.6928,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 13 8156-9108 | E-post: yamerac.america@gmail.com | Apiário localizado em meio a mata atlântica área de preservação,livre de interferência de culturas, caracterizando néctar multifloral silvestre.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Apiario Phenix",
+   :longitude -43.5989,
+   :latitude -19.8436,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 31 92782461 | E-post: oswalney@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Apiario São Miguel",
+   :longitude -39.4796,
+   :latitude -5.31169,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 55.889.8110.1305 | E-post: saomiguelquixeramobim@gmail.com | Quixeramobim-CE, Brazil.BeeVenon, Honey and polen production",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Apiario do Lajedo",
+   :longitude -39.4752,
+   :latitude -5.30803,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 55.889.8110.1305 | E-post: apiariodolajedo@gmail.com | Quixeramobim city, Ceará state, Brazil",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Apiario do Zener",
+   :longitude -39.4804,
+   :latitude -5.30483,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 55.889.8110.1305 | E-post: apiariozener@gmail.com | Apiario Zenér, Quixeramobim-CE, Brazil.Produção de Mel e Pólen..Honey and polen production.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Apiário Béza Flor",
+   :longitude -43.5987,
+   :latitude -19.8208,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 31 9301 1678 | E-post: chicobeloalbum@yahoo.com.br | Localizado a 12 Km de Caeté/MG e a 60 Km de Belo Horizonte/MG, capital da Minas Gerais. Local montanhoso, muito lindo. O apiário está a 930m de altura, em uma região de muita mata nativa.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Apiário Mil Flores®",
+   :longitude -47.4919,
+   :latitude -23.7156,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: apiariomilflores@gmail.com | Localizado a 830 m de altitude, com farta e exuberante flora silvestre e água pura oferecidas como pasto apícola.\n\nApicultor: Luiz Góes",
+   :homepage "https://Facebook: @apiariomilflores"}
+  {:name "Bianca van Ommen",
+   :longitude -40.7812,
+   :latitude -28.9216,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: kadijksplein 18",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Clóves Bernardino da Silva",
+   :longitude -35.6932,
+   :latitude -6.92097,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Edinaldo paes",
+   :longitude -47.8996,
+   :latitude -23.5524,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 015 32741622 | E-post: ednaldo.paes@yahoo.com.br | Fazenda estrela suzano",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Fazenda Floresta Negra",
+   :longitude -46.1096,
+   :latitude -22.8166,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 55 35 9114-8633 | E-post: peter.schues@ecominas.org.br",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Gean Souza apoiario  j g",
+   :longitude -38.1993,
+   :latitude -5.32512,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 085992851844 | E-post: geansouza20@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Luiz Nazareno de Souza - Apiário Gabo Bravo",
+   :longitude -37.2373,
+   :latitude -4.88069,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 55 84 99112-3700 | E-post: luiznazareno@yahoo.com.br | Florada predominante nativa: juazeiro, mameleiro, quixabeira, bambural, cajueiro e outras",
+   :homepage "http://abelhastibau.blogspot.com/"}
+  {:name "Mel da Juquira",
+   :longitude -47.4609,
+   :latitude -5.57224,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 55(99)8159-4922 | E-post: amorato@mac.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Mônica Grohmann",
+   :longitude -47.5488,
+   :latitude -23.5145,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 15 9781 7750 | E-post: grohmann_6@hotmail.com | Located in Sorocaba - São Paulo",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "apiclepardi",
+   :longitude -47.5235,
+   :latitude -23.6136,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 30371631 | E-post: apiclepardi7@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

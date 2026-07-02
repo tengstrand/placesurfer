@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "kuwait",
+ :count 1,
+ :generated-at "2026-07-02T06:45:47.002021Z",
+ :positions
+ [{:name "omar alawadhi",
+   :longitude 48.07445,
+   :latitude 29.19126,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0096599855983 | E-post: kuwaitsos@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

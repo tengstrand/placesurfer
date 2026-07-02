@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "haiti",
+ :count 1,
+ :generated-at "2026-07-02T06:45:47.757906Z",
+ :positions
+ [{:name "Terry McKelvey",
+   :longitude -72.6028,
+   :latitude 18.51642,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 843-817-8004 | E-post: jamesislandhoney@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

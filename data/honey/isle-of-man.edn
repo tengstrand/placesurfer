@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "isle-of-man",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.816425Z",
+ :positions
+ [{:name "Steve Black",
+   :longitude -4.64704,
+   :latitude 54.23831,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: srblack@manx.net",
+   :homepage "https://www.iombeekeepers.com/"}]}

@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "turkmenistan",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.444653Z",
+ :positions
+ [{:name "Alisher",
+   :longitude 65.34878,
+   :latitude 40.13637,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 998-79 228-62-75 | E-post: a_kuziev@yahoo.com | We are looking for beeswax comb foundation producing machine.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

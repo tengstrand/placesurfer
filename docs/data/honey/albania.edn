@@ -1,0 +1,20 @@
+{:dataset :honey,
+ :country "albania",
+ :count 2,
+ :generated-at "2026-07-02T06:45:47.207409Z",
+ :positions
+ [{:name "PASHUN MEMISHA",
+   :longitude 20.13524,
+   :latitude 40.12356,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0696182385 | E-post: pmemisha@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ramazan Demirxhiu",
+   :longitude 19.69612,
+   :latitude 41.41177,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00355672062483 | E-post: r.demirxhiu@gmail.com | This Apiary is founded since 1974.\n\nMr.Ramazan is Head of Beekeepers Association of Tirana Region and Vice President of Beekeepers Association of Albania. Main bee products, Honey, Royal Jelly, Bee wax, Propolis.\n\nfb:\nwww.facebook.com/QumeshtMbretereshe\nwww.facebook.com/BLETA.APIKULTURA",
+   :homepage "https://www.facebook.com/qumeshtmbretereshe"}]}

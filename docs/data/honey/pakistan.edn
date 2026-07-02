@@ -1,0 +1,27 @@
+{:dataset :honey,
+ :country "pakistan",
+ :count 3,
+ :generated-at "2026-07-02T06:45:46.615803Z",
+ :positions
+ [{:name "Gurmeet Dawra",
+   :longitude 76.184,
+   :latitude 30.81844,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: gsdawra@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Gurmeet Dawra",
+   :longitude 76.18548,
+   :latitude 30.8723,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "sameer sharma",
+   :longitude 76.03019,
+   :latitude 30.80142,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 9781990885 | E-post: sameer@samvanduexports.com | we are supplier of Beekeeping equipments and honey seller.",
+   :homepage "https://samvanduexports.com"}]}

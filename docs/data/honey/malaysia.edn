@@ -1,0 +1,20 @@
+{:dataset :honey,
+ :country "malaysia",
+ :count 2,
+ :generated-at "2026-07-02T06:45:45.626966Z",
+ :positions
+ [{:name "Department Of Agriculture Malaysia",
+   :longitude 103.0908,
+   :latitude 1.724593,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 6074291246 | E-post: marfiahdoa@gmail.com",
+   :homepage "https://www.facebook.com/pusatapiarinasional"}
+  {:name "Meldi wahyuda",
+   :longitude 104.4661,
+   :latitude 1.118958,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: meldiwahyuda505@gmail.com | Taman wisata edukasi lebah madu atau Gudem bee farm adalah tempat pembudidaya lebah Trigona S.P",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

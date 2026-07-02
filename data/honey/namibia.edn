@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "namibia",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.578670Z",
+ :positions
+ [{:name "Dieter Radeck/Kameldorn Garten",
+   :longitude 16.64978,
+   :latitude -20.4564,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 264812445967 | E-post: kameldorn.garten@gmail.com | Bienen Rasse:ScutellataHonig zum Kaufen beim Kameldorn Garten Bahnhofstr 48Otjiwarongo Namibia",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

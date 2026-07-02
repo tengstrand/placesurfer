@@ -1,0 +1,14 @@
+{:dataset :honey,
+ :country "somalia",
+ :count 1,
+ :generated-at "2026-07-02T06:45:45.833626Z",
+ :positions
+ [{:name "Hargeisa Bee-keeping association",
+   :longitude 44.07714,
+   :latitude 9.568251,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00252-4485682 | E-post: hargeisahoney@yahoo.com | Hargeisa  bee-keeping association (HBA) is a group of somaliland bee-keepers  trainers and established 1994 currently working bee-keeping and material development to keep bees as a business,pollination, environmental conservation, poverty Alleviation,",
+   :homepage
+   "http://www.linkedin.com/pub/hargeisa-bee-keeping-association-hba/4a/64"}]}

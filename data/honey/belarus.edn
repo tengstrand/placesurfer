@@ -1,0 +1,162 @@
+{:dataset :honey,
+ :country "belarus",
+ :count 21,
+ :generated-at "2026-07-02T06:51:53.409959Z",
+ :positions
+ [{:name "3534",
+   :longitude 29.19496,
+   :latitude 52.07982,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: 375297333058@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "3535",
+   :longitude 29.19496,
+   :latitude 52.07971,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 375297333058 | E-post: 375297333058@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "3734",
+   :longitude 29.19481,
+   :latitude 52.08001,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Alexandr Naumov",
+   :longitude 28.62648,
+   :latitude 53.29493,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: sasha.naumau@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Andrei",
+   :longitude 27.60201,
+   :latitude 54.14013,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: shandrei@yandex.ru | - мед можно купить на песеке. \n- можно позвонить по телефону (+375296336884), решим вопрос по доставке.\n- приезжайте просто в гости, с детьми. пчелы мирные, спокойные.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Budnik",
+   :longitude 31.3597,
+   :latitude 52.3201,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: yabudnik@tut.by",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dolgoe",
+   :longitude 28.13487,
+   :latitude 55.24615,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 37529-345-79-72 | E-post: sustav@tut.by",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Gubii Oleksandr",
+   :longitude 31.19979,
+   :latitude 51.50422,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 380638553001 | E-post: galvit@gmail.com",
+   :homepage "http://pasekavideo.ru/"}
+  {:name "Kulackae padvorje",
+   :longitude 24.82086,
+   :latitude 53.14699,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 375 29 779-72-95 | E-post: info@ikit.by",
+   :homepage "https://apiary.by"}
+  {:name "Maglysheva Anna",
+   :longitude 29.11171,
+   :latitude 52.99291,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: maglysheva@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pasieka \"Orlanski Pasiecznik\"",
+   :longitude 23.35685,
+   :latitude 52.66364,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 48604822733 | E-post: orlanskipasiecznik@gmail.com | Witam serdecznie i zapraszam!!!",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Petrik",
+   :longitude 32.14121,
+   :latitude 51.6453,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380962984784 | E-post: petrik23@inbox.ru | In the future, the creation of industrial apiary.",
+   :homepage "https://sovetyagronoma.ru/"}
+  {:name "Pčelopitomnik «ЯНОВО»",
+   :longitude 29.00047,
+   :latitude 53.80127,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 79675388901 | E-post: apisby@mail.ru | Herstellung und Verkauf von Biene-Pakete und Buckfast, Carnika, Carpatka.",
+   :homepage "https://www.apisby.com"}
+  {:name "Pčelopitomnik «ЯНОВО»",
+   :longitude 25.43884,
+   :latitude 52.19962,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 79675388901 | E-post: apisby@mail.ru | Herstellung und Verkauf von Biene-Pakete und Buckfast, Carnika, Carpatka.",
+   :homepage "https://www.apisby.com"}
+  {:name "Pčelopitomnik «ЯНОВО»",
+   :longitude 25.60913,
+   :latitude 52.30786,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 79675388901 | E-post: apisby@mail.ru | Herstellung und Verkauf von Biene-Pakete und Buckfast, Carnika, Carpatka.",
+   :homepage "https://www.apisby.com"}
+  {:name "Pčelopitomnik «ЯНОВО»",
+   :longitude 25.53482,
+   :latitude 52.14177,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 79675388901 | E-post: apisby@mail.ru | Herstellung und Verkauf von Biene-Pakete und Buckfast, Carnika, Carpatka.",
+   :homepage "https://www.apisby.com"}
+  {:name "Vladimir Ryzhikov",
+   :longitude 30.3841,
+   :latitude 54.43815,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 375297562482 | E-post: ryghik24@tut.by | You can buy bees colonies,queen bees (Buchfast F1),honey here and in Minsk",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Данилов Александр",
+   :longitude 28.29382,
+   :latitude 51.78177,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 375447349276 | E-post: muflon@mail.ru | У нас можно купить:МаткиОтводкиСемьиМед, пергу, прополис, воск.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Семейная пасека \"Медунок\"",
+   :longitude 25.015,
+   :latitude 52.38953,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: bezak6002@gmail.com | Honey is sold in Minsk too.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "виктор67",
+   :longitude 29.15874,
+   :latitude 52.09258,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 375297333058 | E-post: 375297333058@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "виктор67",
+   :longitude 28.83018,
+   :latitude 52.10566,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 375297333058 | E-post: 375297333058@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

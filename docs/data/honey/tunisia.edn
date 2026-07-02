@@ -1,0 +1,27 @@
+{:dataset :honey,
+ :country "tunisia",
+ :count 3,
+ :generated-at "2026-07-02T06:45:46.703042Z",
+ :positions
+ [{:name "Fakhri Boussoffara",
+   :longitude 10.65261,
+   :latitude 36.79198,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0021698362213 | E-post: boussofa@yahoo.fr",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "ariche",
+   :longitude 10.89843,
+   :latitude 32.54681,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 99079139 | E-post: ariana tunisia | Hi I’m a beekeeper from Tunisia I wont to ask about bee venom market and how can i sell my production think you",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "fathi jradi/beit elassal",
+   :longitude 9.980907,
+   :latitude 33.96357,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 97723000",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

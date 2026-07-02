@@ -1,0 +1,27 @@
+{:dataset :honey,
+ :country "jamaica",
+ :count 3,
+ :generated-at "2026-07-02T06:51:54.928348Z",
+ :positions
+ [{:name "Bee O Sphere Technologies",
+   :longitude -77.7708,
+   :latitude 18.36565,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 876 580 3142 | E-post: beeosphere@gmail.com | My company Bee O Sphere technologies is an awarding winning company within Research and development of innovations for apiculture. We also run a farming division and this can be view from the website.",
+   :homepage "https://www.beeopac"}
+  {:name "Calman's Apiary",
+   :longitude -77.4796,
+   :latitude 18.111,
+   :source :biodlarkartan,
+   :image "",
+   :description "call me for honey 876-468-8023",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Lennox Deane",
+   :longitude -76.9921,
+   :latitude 17.97873,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 8768171706 | E-post: lgdeane@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

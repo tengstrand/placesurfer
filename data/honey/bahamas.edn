@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "bahamas",
+ :count 1,
+ :generated-at "2026-07-02T06:51:55.344181Z",
+ :positions
+ [{:name "Brookfield bees",
+   :longitude -73.125,
+   :latitude 26.32206,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 8643505195 | E-post: elliemacfizzle@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

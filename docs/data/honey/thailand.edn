@@ -1,0 +1,27 @@
+{:dataset :honey,
+ :country "thailand",
+ :count 3,
+ :generated-at "2026-07-02T06:45:46.617175Z",
+ :positions
+ [{:name "Oleg Kulikov",
+   :longitude 102.0796,
+   :latitude 13.52977,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: oleg.kulikow@rambler.ru | Apis cerana",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Wetland apiary",
+   :longitude 102.7474,
+   :latitude 5.653739,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 6012-6677361 | E-post: shamsulbahri68@gmail.com | this apiary located on an isolated island. It produces Melaleuca honey (seasonal) and acacia honey.",
+   :homepage "https://www.facebook.com/wetlandhoney"}
+  {:name "imkerij redejo",
+   :longitude 97.73437,
+   :latitude 18.86375,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0620022097 | E-post: fonjon1306@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

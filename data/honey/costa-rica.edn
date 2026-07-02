@@ -1,0 +1,19 @@
+{:dataset :honey,
+ :country "costa-rica",
+ :count 2,
+ :generated-at "2026-07-02T06:51:55.003708Z",
+ :positions
+ [{:name "Costa Rica Apiaries",
+   :longitude -84.1672,
+   :latitude 10.04134,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://www.costaricaapiaries.com/blog"}
+  {:name "Ricardo Tribaldos / Abejas del Barú",
+   :longitude -82.5921,
+   :latitude 8.692693,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 507 65156690 | E-post: trblds@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

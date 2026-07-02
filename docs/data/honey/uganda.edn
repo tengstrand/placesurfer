@@ -1,0 +1,28 @@
+{:dataset :honey,
+ :country "uganda",
+ :count 3,
+ :generated-at "2026-07-02T06:45:46.957453Z",
+ :positions
+ [{:name "Kaizirege Camara",
+   :longitude 31.6449,
+   :latitude -1.14813,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: david@followthehoney.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Phillip Grigg",
+   :longitude 30.531,
+   :latitude 0.603235,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 256 703920152 | E-post: abhuganda@gmail.com | We are west of Kyenjojo, 41 km from Fort Portal...Uganda Our village is called Kaihura on the main road. Im an Australian helping people in beekeeping, engineering and mechanical repairs...Phill, Australia Bringing Hope Inc",
+   :homepage "https://www.abhinc.org.au"}
+  {:name "The Apiary",
+   :longitude 33.75,
+   :latitude -0.12185,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 256787341037 | E-post: emmapolitical1@gmail.com | I love the project and wish to get the sponsor for better  implementation",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

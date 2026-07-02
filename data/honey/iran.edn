@@ -1,0 +1,35 @@
+{:dataset :honey,
+ :country "iran",
+ :count 4,
+ :generated-at "2026-07-02T06:51:54.818253Z",
+ :positions
+ [{:name "Safarpour Hoshang",
+   :longitude 46.19716,
+   :latitude 38.02391,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 984113812491 | E-post: sahooali@gmail.com | The sit of my apiary is seven km far from Tariz in korjan.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "bee",
+   :longitude 50.89159,
+   :latitude 34.07011,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "mehdi nowruzi",
+   :longitude 52.30806,
+   :latitude 30.03835,
+   :source :biodlarkartan,
+   :image "",
+   :description "(Ghoredan)-Ayasjan Honey Bee",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "s.mahdi Esmailzade",
+   :longitude 50.97451,
+   :latitude 35.84583,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 989126660391 | E-post: s.m.esmailzade@gmail.com | Beekeeping",
+   :homepage "https://persicahoney.ir"}]}

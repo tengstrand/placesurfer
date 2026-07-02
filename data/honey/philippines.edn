@@ -1,0 +1,53 @@
+{:dataset :honey,
+ :country "philippines",
+ :count 6,
+ :generated-at "2026-07-02T06:51:55.587767Z",
+ :positions
+ [{:name "Bee Farm Around The Corner",
+   :longitude 121.0396,
+   :latitude 14.72912,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 63920 4232848 | E-post: joeyrsay@yahoo.com | Honey is sold here at: The Flowershop ATC, #28 Mila Holdings Bldg., Jupiter St, Makati City, Philippines\ntel/fax 632-8977150 or 63-5118606",
+   :homepage "https://atcbeefarm.wordpress.com"}
+  {:name "MIDTOWN CHURCH OF GOD BEEKEEPING OUTREACH",
+   :longitude 125.8055,
+   :latitude 7.476906,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 639161626282/  639214672132 | E-post: mcgbeekeepingoutreach@gmail.com | Founded by Pastor Chito Salazar and his brother in Christ, Joshua Travilla. Midtown Church of God Beekeeping Outreach is a community activity under supervision of Midtown Church of God to promote beekeeping, environmental awareness, tent making (livelihood), beekeeping skill enhancement and most of all to fellowship and spread the Word of God. It is non-sectarian and not a Training Center for Beekeepers. The Outreach have Skilled beekeeping volunteers, Bert, Christopher and Jan Mitchel.",
+   :homepage
+   "https://midtownchurchofgodbeekeepingoutreach.weebly.com/"}
+  {:name "Nucopia Apiary",
+   :longitude 121.666,
+   :latitude 16.59364,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0916 171 3931 | E-post: nucopia@yahoo.com.au | Purok 5 Pangal Sur Echague Isabela",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "PJEMs APIARY",
+   :longitude 123.8145,
+   :latitude 10.25266,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 09176029208 | E-post: bee8king@yahoo.com | Various Colonies (NATFAMCO FARM MEMBER)",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "PJEMs APIARY",
+   :longitude 123.855,
+   :latitude 10.2751,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 09176029208 | E-post: bee8king@yahoo.com | Various Colonies",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Tala Beefarms",
+   :longitude 120.4323,
+   :latitude 14.75815,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 63-(0)947-2836770 | E-post: info@apijaja.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

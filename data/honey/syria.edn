@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "syria",
+ :count 1,
+ :generated-at "2026-07-02T06:51:55.118381Z",
+ :positions
+ [{:name "said m",
+   :longitude 35.91842,
+   :latitude 34.82958,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0988729403 | E-post: sidrasster@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

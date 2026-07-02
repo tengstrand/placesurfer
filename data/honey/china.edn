@@ -1,0 +1,33 @@
+{:dataset :honey,
+ :country "china",
+ :count 4,
+ :generated-at "2026-07-02T06:51:54.327590Z",
+ :positions
+ [{:name "Baikalhoney",
+   :longitude 104.568,
+   :latitude 52.26912,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 890251936880 | E-post: katruk@list.ru",
+   :homepage "https://www.baikalhoney.ru"}
+  {:name "BeeK",
+   :longitude 104.1082,
+   :latitude 52.34692,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 79086684693 | E-post: keg.irk@rambler.ru",
+   :homepage "https://beek.ucoz.ru"}
+  {:name "BeeK",
+   :longitude 103.3298,
+   :latitude 53.09237,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 89086684693 | E-post: keg.irk@rambler.ru",
+   :homepage "https://www.beek.ucoz.ru"}
+  {:name "LazyCat",
+   :longitude 104.1482,
+   :latitude 52.33542,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 79149233057 | E-post: korzenikovla@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

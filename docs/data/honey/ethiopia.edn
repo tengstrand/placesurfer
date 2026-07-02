@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "ethiopia",
+ :count 1,
+ :generated-at "2026-07-02T06:45:45.813859Z",
+ :positions
+ [{:name "apinec agro-industry plc",
+   :longitude 35.41992,
+   :latitude 7.557553,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 251911407360 | E-post: apinec@ethionet.et | Apinec’s Hive Products Our honey is natural organic product of the forest. The company is actively helping the local beekeepers move into using improved beekeeping methods where production per beehive can increase three fold and product quality greatly improved compared to the traditional. To speed up the transition from traditional to modern beekeeping, the company are currently manufacturing (on location) modern beehives to avail to farmers on cost recovery basis especially to HHS around the 7",
+   :homepage "https://www.honey-ethiopia.com"}]}

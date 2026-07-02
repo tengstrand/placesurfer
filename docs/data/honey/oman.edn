@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "oman",
+ :count 1,
+ :generated-at "2026-07-02T06:45:46.781966Z",
+ :positions
+ [{:name "Salim AL-Qasmi",
+   :longitude 58.10977,
+   :latitude 23.37007,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 95103790 | E-post: salimalqasmisalim1234@hotmail.co.uk | I am a begnnier in this work and I would like to get mroe experince from the experts we have in the group.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

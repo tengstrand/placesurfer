@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "cambodia",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.272733Z",
+ :positions
+ [{:name "Russian apiary",
+   :longitude 102.6242,
+   :latitude 12.84778,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 85592282801 | E-post: kanter@pochta.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

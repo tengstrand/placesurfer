@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "panama",
+ :count 1,
+ :generated-at "2026-07-02T06:45:46.706072Z",
+ :positions
+ [{:name "Rare Isthmus Honey and Miel Boquetena",
+   :longitude -82.4414,
+   :latitude 8.667918,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 507 67130043 | E-post: mielboquetena@gmail.com | We also keep Melipona bees and Virgincitas",
+   :homepage "https://boquetebees.com"}]}

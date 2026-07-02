@@ -1,0 +1,42 @@
+{:dataset :honey,
+ :country "luxembourg",
+ :count 5,
+ :generated-at "2026-07-02T06:51:55.591874Z",
+ :positions
+ [{:name "Abeille Arlonaise",
+   :longitude 5.820903,
+   :latitude 49.69069,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: abeillearlonaise@gmail.com | Member Arista Bee",
+   :homepage "https://www.abeille-arlonaise.be/"}
+  {:name "Amanda Surbey",
+   :longitude 6.124019,
+   :latitude 49.59695,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: amandarsurbey@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Bio-Hunneg vum Beiemann",
+   :longitude 5.999221,
+   :latitude 49.67362,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: hunneg@gmx.net",
+   :homepage "https://www.molito.net"}
+  {:name "John Park",
+   :longitude 6.219935,
+   :latitude 49.56341,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: john.4ne.park@gmail.com",
+   :homepage
+   "https://www.eventbrite.com/o/bee-together-luxembourg-6875740615"}
+  {:name "pm4",
+   :longitude 5.908316,
+   :latitude 49.49369,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: munier.p@aliceadsl.fr",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

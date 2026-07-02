@@ -1,0 +1,20 @@
+{:dataset :honey,
+ :country "peru",
+ :count 2,
+ :generated-at "2026-07-02T06:51:55.369717Z",
+ :positions
+ [{:name "José Yi",
+   :longitude -79.7167,
+   :latitude -6.17332,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: Int-51-999-850-886 | E-post: joseyiyacila@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "rolando retamozo flores",
+   :longitude -73.3484,
+   :latitude -15.1672,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: arquiestudio-2@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

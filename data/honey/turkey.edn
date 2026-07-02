@@ -1,0 +1,65 @@
+{:dataset :honey,
+ :country "turkey",
+ :count 8,
+ :generated-at "2026-07-02T06:51:54.785734Z",
+ :positions
+ [{:name "Ali KOCA",
+   :longitude 34.78663,
+   :latitude 41.91655,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 03685112200 | E-post: ali_koca_57@hotmail.com | Kestane Balı ÜretimHasbalım Arıcılık\"Chestnut Honey ProductionBeekeeping Hasbalım\"Ali KOCA",
+   :homepage "https://hasbalimaricilik.blogspot.com/"}
+  {:name "Murat Yalova",
+   :longitude 29.28632,
+   :latitude 40.64454,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 90.5531402363 | E-post: testkullanici1@gmail.com | Natural Honey",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ramazan AK",
+   :longitude 35.06988,
+   :latitude 41.99369,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 00905423909787 | E-post: ramazanak@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ramazan AK",
+   :longitude 34.83743,
+   :latitude 41.88331,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 00905423909787 | E-post: ramazanak@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "gakko",
+   :longitude 38.51257,
+   :latitude 38.21714,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 00905302742337 | E-post: gakko44@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "ismail mecitoglu",
+   :longitude 31.51261,
+   :latitude 36.83269,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: +90 545 479 23 82 | E-post: ismailmecitoglu@facebook.com | ismail mecitoglu",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "ismail mecitoglu",
+   :longitude 31.48961,
+   :latitude 36.8014,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: + 90 545 479 23 82 | E-post: ismailmecitoglu@facebook.com | ismail mecitoglu",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "kocum69",
+   :longitude 28.97855,
+   :latitude 41.07824,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 00491722126687 | E-post: sahin.erdogmus@web.de",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

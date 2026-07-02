@@ -1,0 +1,37 @@
+{:dataset :honey,
+ :country "georgia",
+ :count 4,
+ :generated-at "2026-07-02T06:51:54.923285Z",
+ :positions
+ [{:name "Ilia Pavliashvili",
+   :longitude 43.24218,
+   :latitude 42.22851,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 99598376725 | E-post: tapli09@gmail.com | Greeting from Georgia. I use pure Caucasian Queens",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kakha Kepuladze",
+   :longitude 42.59186,
+   :latitude 42.15413,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 995599464671 | E-post: kkaxaberi@yahoo.com | I'm a beginner, but from the outset decided to treat their with  old, not  chemical, natural remedies that remains of my  ancestors.While I have not yet selling honey, but after a year I will  sell .",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Sandro Jinoridze",
+   :longitude 42.15958,
+   :latitude 42.30445,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 995577429245 | E-post: sjinoridze@gmail.com | Please call to order honey!  We produce polyflower honey here",
+   :homepage "https://www.bees.ge"}
+  {:name "Sandro Jinoridze",
+   :longitude 46.18658,
+   :latitude 41.46013,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 995577429245 | E-post: sjinoridze@gmail.com | Please call to order honey!  This is polyflower honey, but majorly sunflower",
+   :homepage "https://www.bees.ge"}]}

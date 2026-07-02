@@ -1,0 +1,21 @@
+{:dataset :honey,
+ :country "afghanistan",
+ :count 2,
+ :generated-at "2026-07-02T06:45:45.628910Z",
+ :positions
+ [{:name "Gul  Honey  Farm",
+   :longitude 71.01562,
+   :latitude 32.74023,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 92915600898 | E-post: dr.iqbalsial@yahoo.com | The apiary is located at Peshawar (Khyber Pakhtunkhwa Province; Pakistan. It is moved in search of pollen and nectar.Main honey flow seasons are Phulai (Acacia modesta) honey in May and Jujuba (Ziziphus jujuba)honey in September/October.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Naveed Ahmad/ Mr Bee Honey Farms",
+   :longitude 73.01101,
+   :latitude 32.34284,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 92 3009563374 | E-post: mrbeehoney@hotmail.com | Placed under bamboo field shade at Phularwan near Salam Interchange Distt. Sargodha. Its over summering time bees collect pollen from maize, millet and vegetables along with wild weeds. Apiary is being developed for the on coming honey flora of Ziziphus, Wild beri or Sidr in Arabic. We aim to build strong hives with at least 10 fr bees by September and brood not less than 7 fr.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

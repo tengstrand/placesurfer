@@ -1,0 +1,29 @@
+{:dataset :honey,
+ :country "azerbaijan",
+ :count 3,
+ :generated-at "2026-07-02T06:51:54.182844Z",
+ :positions
+ [{:name "Jasmin's Bees",
+   :longitude 48.6389,
+   :latitude 40.65379,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: +994503773454 | E-post: jasminsbees@mail.com | Our apiary in the Shemakha city, Azerbaijan Republic country. We are in the centre of Azerbaijan and our apiary 1000m-1100m above sea level in zone Pirqulu. This is zones on mountains with forest.",
+   :homepage "https://www.instagram.com/jasminsbees/"}
+  {:name "Qinyetogullari",
+   :longitude 48.51562,
+   :latitude 40.08571,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 994 55 22 05 007 | E-post: info@azeribal.az | Qinyetogullari",
+   :homepage "https://www.azeribal.az"}
+  {:name "Qırmızı Ayı",
+   :longitude 48.62916,
+   :latitude 40.6347,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 994513822898 | E-post: qirmiziayi@email.com | We are in center of Azerbaijan, about 1000m-1100m above sea level.\n\n\nInstagram: Qirmizi Ayi",
+   :homepage "https://qirmiziayi.tumblr.com"}]}

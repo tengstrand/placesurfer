@@ -1,0 +1,36 @@
+{:dataset :honey,
+ :country "armenia",
+ :count 4,
+ :generated-at "2026-07-02T06:45:46.786017Z",
+ :positions
+ [{:name "Beecity",
+   :longitude 44.6862,
+   :latitude 40.61603,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 37499888410 | E-post: beecityam@gmail.com | Wellcome to our beekeeping farm.",
+   :homepage "https://beecity.am"}
+  {:name "M.Harutyunyan",
+   :longitude 44.14623,
+   :latitude 40.87856,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 37499344937 | E-post: mesrop.harutyunyan@mail.ru | Hi! Our products will be interesting both for beekeepers and bee products for consumers. For beekeepers we make any design hives, frames and more. For consumers, we offer all bee products bee products directly from the apiary. In addition, you can purchase honey royal jelly, pollen, propolis, honeycomb.",
+   :homepage "https://www.facebook.com/groups/166054596938465/"}
+  {:name "Qinyat",
+   :longitude 46.40625,
+   :latitude 39.8162,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: www.azeribal.az | We are in north-west of Azerbaijan, about 900 m above sea level, in the village of Bash Kungut, Sheki",
+   :homepage "https://beekeeping.com"}
+  {:name "mher Kamalyan",
+   :longitude 43.9151,
+   :latitude 40.32665,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: kamalyan@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

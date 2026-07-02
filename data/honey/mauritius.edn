@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "mauritius",
+ :count 1,
+ :generated-at "2026-07-02T06:51:55.369146Z",
+ :positions
+ [{:name "Christopher",
+   :longitude 57.40618,
+   :latitude -20.2167,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: christopher.ecr.durban@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

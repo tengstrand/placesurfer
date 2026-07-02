@@ -1,0 +1,37 @@
+{:dataset :honey,
+ :country "india",
+ :count 4,
+ :generated-at "2026-07-02T06:45:45.772209Z",
+ :positions
+ [{:name "Akshayakalpa Farms And Foods Pvt. Ltd",
+   :longitude 76.43274,
+   :latitude 13.1697,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: suman.gurugadahalli@akshayakalpa.org | Organic Bee Keeping Project \nHoney can be Purchased from https://akshayakalpa.org/",
+   :homepage "https://akshayakalpa.org/"}
+  {:name "Nisarg Apiary",
+   :longitude 75.13487,
+   :latitude 13.11617,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 919422769415 | E-post: info@nisargapiary.com | Looking for international tie up for development of the Apiary. Honey is sold Here",
+   :homepage "https://www.nisargapiary.com"}
+  {:name "Raj Apiaries exim pvt ltd",
+   :longitude 77.71453,
+   :latitude 29.11257,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 911204229989 | E-post: gagan.anand@honeyhut.co.in",
+   :homepage "https://www.honeyhutindia.com"}
+  {:name "sriapiary",
+   :longitude 75.05859,
+   :latitude 13.06877,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 919867100020 | E-post: sridharprasadrao@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

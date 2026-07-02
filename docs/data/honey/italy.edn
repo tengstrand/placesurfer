@@ -1,0 +1,799 @@
+{:dataset :honey,
+ :country "italy",
+ :count 106,
+ :generated-at "2026-07-02T06:45:46.575574Z",
+ :positions
+ [{:name "1377",
+   :longitude 9.052734,
+   :latitude 39.36827,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "2712",
+   :longitude 16.82556,
+   :latitude 40.37924,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: info@mieledettori.it",
+   :homepage "https://www.mieledettori.it"}
+  {:name "3330",
+   :longitude 8.957491,
+   :latitude 44.85375,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "A. AR",
+   :longitude 9.177929,
+   :latitude 45.62745,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Alessandro Mattalia",
+   :longitude 7.641162,
+   :latitude 44.36564,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039 348 590 34 45 | E-post: alessandromattalia@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Alveare di Marialaura",
+   :longitude 16.4096,
+   :latitude 39.56232,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 39 3392866189 | E-post: luigiconelli@libero.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Alveare di Marialaura",
+   :longitude 16.25201,
+   :latitude 39.66137,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 39 3392866189 | E-post: luigiconelli@libero.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Alveare di Marialaura",
+   :longitude 16.41945,
+   :latitude 39.57969,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 39 3392866189 | E-post: luigiconelli@libero.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Andrea",
+   :longitude 11.09282,
+   :latitude 43.9323,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Andrea Masiello",
+   :longitude 12.32803,
+   :latitude 41.73622,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 39 335 5649969 | E-post: andrmas@libero.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Antonio Barletta / URBEES",
+   :longitude 7.604856,
+   :latitude 45.01323,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 328 6684552 | E-post: urbees@hotmail.com | Progetto Urbees is the first project of urban beekeeping in Italy. Follow us on facebook...",
+   :homepage
+   "https://www.facebook.com/pages/progetto-urbees/181768445171407"}
+  {:name "Api di Elena",
+   :longitude 12.36729,
+   :latitude 42.02908,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: olgiata15@gmail.com | +39 366 8121282",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Apicoltura Amorati",
+   :longitude 10.96323,
+   :latitude 44.38635,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 393288876064 | E-post: pieroamorati@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Apicoltura Patalacci",
+   :longitude 12.42869,
+   :latitude 43.12399,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: apicolturapatalacci@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Apicoltura Risoldi",
+   :longitude 12.59923,
+   :latitude 41.59864,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3313755524 | E-post: luigi.ris@alice.it",
+   :homepage "https://www.facebook.com/apicolturarisoldi"}
+  {:name "Apicoltura Risoldi",
+   :longitude 12.80997,
+   :latitude 42.17351,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3313755524 | E-post: luigi.ris@alice.it",
+   :homepage "https://www.facebook.com/apicolturarisoldi"}
+  {:name "Apicoltura Risoldi",
+   :longitude 12.73366,
+   :latitude 41.72328,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 3313755524 | E-post: luigi.ris@alice.it | miele di castagno",
+   :homepage "https://www.facebook.com/apicolturarisoldi"}
+  {:name "Apicoltura Risoldi",
+   :longitude 16.56579,
+   :latitude 38.45778,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: luigi.ris@alice.it",
+   :homepage "https://www.facebook.com/apicolturarisoldi"}
+  {:name "Baglietto Simone / Località Munio",
+   :longitude 8.303217,
+   :latitude 44.18737,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 393470829338 | E-post: bagliosimo@gmail.com | Apiari dislocati in varie zone (località Munio Finale Ligure , Monte Sordo Finale L. , Calvisio Vecchia Finale L. , Isallo Magliolo.) si allevano anche famiglie di razza Carnica.",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "BeeCore",
+   :longitude 12.28906,
+   :latitude 44.23659,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00390547334050 | E-post: landcore@libero.it | Apenet_Cervia_RA_ITA ER-04-05",
+   :homepage "https://www.afapicoltori.com"}
+  {:name "BeeCore Farm",
+   :longitude 12.23411,
+   :latitude 44.16475,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00390547334050 | E-post: landcore@libero.it | original Apiary of my grandfather",
+   :homepage "https://www.arapicoltori.com"}
+  {:name "BeeSources - di Raffaele Dall'Olio",
+   :longitude 11.23591,
+   :latitude 44.51163,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://www.linkedin.com/groups?gid=2865272"}
+  {:name "Bert van Hattem",
+   :longitude 12.20744,
+   :latitude 44.27512,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039 3386003519 | E-post: bertvanhattem@hotmail.com | Beekeeping Equipment",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Bizzarnia",
+   :longitude 11.12846,
+   :latitude 43.44645,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: sonia.angeli@tiscali.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Bizzarnia",
+   :longitude 10.91594,
+   :latitude 44.00296,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: sonia.angeli@tiscali.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Borot",
+   :longitude 6.674194,
+   :latitude 45.19752,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0685397299 | E-post: h73@laposte.net",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Camon Daniele",
+   :longitude 11.46814,
+   :latitude 44.58554,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 339 | E-post: camondaniele@hotmail.fr",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Castelgomberto",
+   :longitude 11.40527,
+   :latitude 45.5804,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "DETTORI ANGELO",
+   :longitude 12.62346,
+   :latitude 43.88356,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039  3398502327 | E-post: info@mieledettori.it | DETTORI ANGELO",
+   :homepage "https://www.mieledettori.it"}
+  {:name "DETTORI ANGELO",
+   :longitude 12.45102,
+   :latitude 43.84476,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039  3398502327 | E-post: info@mieledettori.it | DETTORI ANGELO",
+   :homepage "https://www.mieledettori.it"}
+  {:name "DETTORI ANGELO",
+   :longitude 12.52613,
+   :latitude 43.9347,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039  3398502327 | E-post: info@mieledettori.it | DETTORI ANGELO",
+   :homepage "https://www.mieledettori.it"}
+  {:name "DETTORI ANGELO",
+   :longitude 12.53488,
+   :latitude 43.93298,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039  3398502327 | E-post: info@mieledettori.it | DETTORI ANGELO",
+   :homepage "https://www.mieledettori.it"}
+  {:name "DETTORI ANGELO",
+   :longitude 12.71431,
+   :latitude 43.88724,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039  3398502327 | E-post: info@mieledettori.it | DETTORI ANGELO",
+   :homepage "https://www.mieledettori.it"}
+  {:name "DETTORI ANGELO",
+   :longitude 13.30146,
+   :latitude 43.40272,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: info@mieledettori.it | DETTORI ANGELO",
+   :homepage "https://www.mieledettori.it"}
+  {:name "Damiele",
+   :longitude 8.949995,
+   :latitude 45.54482,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Daniele",
+   :longitude 13.82914,
+   :latitude 41.22395,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 393881095294 | E-post: matteradaniele@gmail.com | nn",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Davide",
+   :longitude 8.396816,
+   :latitude 44.26205,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: rivadufratte@libero.it | Typical local farm firm bases its production mainly on acacia honey and thousand flowers, but also honey-dew and chestnut honey are made.",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Domenico Gallo",
+   :longitude 16.40632,
+   :latitude 38.72267,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0967955525 | E-post: dngallo@tiscali.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "DurHoney",
+   :longitude 14.44496,
+   :latitude 41.65626,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: aleziomanzo@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Etienne",
+   :longitude 7.227287,
+   :latitude 43.7877,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0663784409 | E-post: brennus06@orange.fr",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Fabio",
+   :longitude 12.75465,
+   :latitude 45.75856,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: fagiori@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Filippo Martellacci - Az. Agricola Le Biricoccole",
+   :longitude 10.45321,
+   :latitude 43.36188,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 3351212208 | E-post: filippo.martellacci@gmail.com",
+   :homepage "https://www.biricoccole.com"}
+  {:name "IL BELLO DELLE API",
+   :longitude 10.20678,
+   :latitude 43.94898,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://www.ilbellodelleapi.com"}
+  {:name "IL BELLO DELLE API",
+   :longitude 10.22175,
+   :latitude 43.92197,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://www.ilbellodelleapi.com"}
+  {:name "La Fattoria del Furlo di Gilda Brigidi",
+   :longitude 12.68945,
+   :latitude 43.64919,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: fattoriadelfurlo@furlo.it | Vendita diretta al pubblico in Via 1° Maggio 5 - Acqualagna (PU) Mieli prodotti: Acacia, Tiglio, Millefiori.",
+   :homepage "https://furlo.it"}
+  {:name "La Goccia di Sole",
+   :longitude 14.43411,
+   :latitude 40.86389,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 393336249131 | E-post: info@lagocciadisole.com | \"La Goccia di Sole\" via Rosanea, 63 Somma Vesuviana (NA) 80049 Italy Skype:lagocciadisole Facebook:www.facebook.com/lagocciadisole YouTube:www.youtube.com/lagocciadisole Twitter:www.twitter.com/lagocciadisole",
+   :homepage "https://www.lagocciadisole.com"}
+  {:name "Le Api di Monte Venere",
+   :longitude 12.72994,
+   :latitude 42.08728,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: renato.magliolo@gmail.com | Produzione di Miele e propoli in maniera amatoriale",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Lele",
+   :longitude 7.800743,
+   :latitude 44.29444,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: br1gabriele@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Lorenzo Cantino",
+   :longitude 10.89672,
+   :latitude 44.07416,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: flol@mail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Luca Baldini",
+   :longitude 11.32797,
+   :latitude 43.71777,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Luigi Stara",
+   :longitude 9.157104,
+   :latitude 39.37411,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: luigi.stara@tiscali.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Manuel care",
+   :longitude 10.53872,
+   :latitude 45.80931,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: manuelc270@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Marco - Bumblebee",
+   :longitude 11.41745,
+   :latitude 43.5519,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: orwell1984project@yahoo.it | apiario sperimentale con apiario arnie etc. in materiale trasparente",
+   :homepage "https://xoomer.virgilio.it/orwell_1984/apis.htm"}
+  {:name "Moretti Brothers",
+   :longitude 9.00999,
+   :latitude 44.4758,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: contrepleur@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "PIANTAZZA",
+   :longitude 12.09792,
+   :latitude 45.13886,
+   :source :biodlarkartan,
+   :image "",
+   :description "PRODUZIONE MIELE PER AUTOCONSUMO",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Pagotto Luigino",
+   :longitude 12.21432,
+   :latitude 45.97301,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3480915199 | E-post: pagottoluigino@libero-it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Paolo Basso",
+   :longitude 8.197152,
+   :latitude 44.02949,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 393479113587 | E-post: paolob44@virgilio.it",
+   :homepage "https://caprettetibetane.splinder.com"}
+  {:name "Raffaele Dall'Olio",
+   :longitude 11.16434,
+   :latitude 44.44198,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: raffaele.dallolio@gmail.com",
+   :homepage "https://www.linkedin.com/grp/home?gid=2865272"}
+  {:name "Silvia Marchiol",
+   :longitude 7.705621,
+   :latitude 45.02534,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3477561999 | E-post: scrivi@silviamarchiol.com",
+   :homepage "https://www.silviamarchiol.com"}
+  {:name "Società Agricola Pereto srl",
+   :longitude 12.35747,
+   :latitude 43.38889,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: sandro.ligossi@tiscali.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Stefania",
+   :longitude 8.94978,
+   :latitude 45.54492,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: rockstarz@live.it | Api Buckfast e Ligustiche",
+   :homepage "https://www.ilmondodelleapi.com"}
+  {:name "Tufetto Honey",
+   :longitude 12.59518,
+   :latitude 41.59838,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: luigi.ris@alice.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "Tullio Serra",
+   :longitude 9.165344,
+   :latitude 39.39667,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 393394697199 | E-post: tullio.serra@tiscali.it | Azienda apistica L'Ape Birichina",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "antonio",
+   :longitude 11.86892,
+   :latitude 42.44132,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: ilbuonmiele@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "apiario srg 01 Arlezze Valsesia",
+   :longitude 8.343601,
+   :latitude 45.72014,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: simonerotti@hotmail.com",
+   :homepage "https://arlezze.altervista.org/"}
+  {:name "apiario srg 02 Cantone Valsesia",
+   :longitude 8.340125,
+   :latitude 45.72089,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: simonerotti@hotmail.com",
+   :homepage "https://arlezze.altervista.org/"}
+  {:name "apicoltura cortinovis",
+   :longitude 9.071445,
+   :latitude 45.72655,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: mielecortinovisòhotmail.it | vertemate con minoprio",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "beeitaly",
+   :longitude 7.537307,
+   :latitude 45.17201,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: guidocortese@beeitaly.eu | -what is the most frequent use of honey you do? -are you absolutely sure of the quality you eat?-is the future be dominated by sugar and sinthetic industrial products or can we revamp and rediscover honey in our habits?",
+   :homepage "https://www.beeitaly.eu"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.696665,
+   :latitude 39.53476,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.698167,
+   :latitude 40.19959,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.903818,
+   :latitude 40.3999,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.944973,
+   :latitude 40.37904,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.886888,
+   :latitude 40.35282,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.858971,
+   :latitude 40.34438,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.91489,
+   :latitude 40.38761,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.932013,
+   :latitude 40.42499,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.675851,
+   :latitude 40.24821,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.696107,
+   :latitude 40.18752,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.63373,
+   :latitude 40.13922,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.58545,
+   :latitude 40.18116,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.539209,
+   :latitude 40.15119,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.757433,
+   :latitude 39.75636,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 9.093407,
+   :latitude 39.87972,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 9.088311,
+   :latitude 39.88207,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.655102,
+   :latitude 39.65635,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.875622,
+   :latitude 39.42233,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.878626,
+   :latitude 39.31391,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.785403,
+   :latitude 38.96171,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.804404,
+   :latitude 38.91207,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.834735,
+   :latitude 38.93758,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "cooperativa apistica mediterranea",
+   :longitude 8.992674,
+   :latitude 39.36217,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0709601926 | E-post: gcaboni1969@gmail.com | over 3500 hives",
+   :homepage "https://www.apimed.com"}
+  {:name "enrico burzigotti",
+   :longitude 12.12478,
+   :latitude 43.57243,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 3663281188 | E-post: eburzigotti@aboca.it | treatment free beekeeping",
+   :homepage "https://www.aboca.com"}
+  {:name "gianluca",
+   :longitude 13.29792,
+   :latitude 46.16909,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: gian@estelnet.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "il laghello di amina",
+   :longitude 9.574815,
+   :latitude 44.22045,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0039 336 253133 | E-post: microbyte@tigullio.org",
+   :homepage "https://www.laghello.it"}
+  {:name "jonathan",
+   :longitude 13.53515,
+   :latitude 37.8228,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: labarberajonny@hotmail.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "massimo merola",
+   :longitude 15.18677,
+   :latitude 37.07697,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: maxme2000@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "matteo",
+   :longitude 7.802803,
+   :latitude 45.36349,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "rino vaccaro",
+   :longitude 9.285335,
+   :latitude 44.33146,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0185318190 | E-post: rino.vaccaro@alice.it | 44.552045 9.282443.",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "schutz",
+   :longitude 6.929304,
+   :latitude 43.54312,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: jl0657@laposte.net",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "silvio",
+   :longitude 9.790298,
+   :latitude 44.18518,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3471231610 | E-post: ilaria_s89@alice.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "vincenzino",
+   :longitude 14.6163,
+   :latitude 42.17609,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3407244514 | E-post: m.vincenzino@gmail.com",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "vincenzo",
+   :longitude 14.68597,
+   :latitude 42.12776,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: vinc_93@libero.it",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "vittorio",
+   :longitude 9.1856,
+   :latitude 45.6405,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: vittoriosantambrogio@fastwebnet.it | Cesano Maderno MB",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "vittorio",
+   :longitude 8.964843,
+   :latitude 45.76752,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: vittoriosantambrogio@fastwebnet.it | cesano maderno mb",
+   :homepage "https://biodlarkartan.se/it.php"}
+  {:name "zard",
+   :longitude 8.78005,
+   :latitude 39.52184,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 393475084889 | E-post: info@zard.it",
+   :homepage "https://www.zard.it"}
+  {:name "zoran",
+   :longitude 14.76562,
+   :latitude 37.43997,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: o643911251 | E-post: muzlja_63@hotmail .com",
+   :homepage "https://biodlarkartan.se/it.php"}]}

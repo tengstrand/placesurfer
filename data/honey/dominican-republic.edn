@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "dominican-republic",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.817573Z",
+ :positions
+ [{:name "Gabriel Rosario",
+   :longitude -70.0728,
+   :latitude 18.65347,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 8294705219 | E-post: gabriel-rosario@hotmail.com | 18.653000, -70.068900",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

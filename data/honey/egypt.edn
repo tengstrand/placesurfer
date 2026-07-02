@@ -1,0 +1,133 @@
+{:dataset :honey,
+ :country "egypt",
+ :count 16,
+ :generated-at "2026-07-02T06:51:55.344805Z",
+ :positions
+ [{:name "Ilya Manyk/ MIG apiari",
+   :longitude 33.9093,
+   :latitude 27.96441,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.3458,
+   :latitude 31.14732,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.73925,
+   :latitude 30.94848,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.51953,
+   :latitude 30.34357,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.43164,
+   :latitude 30.53301,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.64587,
+   :latitude 29.80641,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.76123,
+   :latitude 29.63944,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.89306,
+   :latitude 29.31426,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 33.22265,
+   :latitude 28.96882,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.34375,
+   :latitude 30.94848,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 33.00292,
+   :latitude 29.27594,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 32.69531,
+   :latitude 29.9255,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 33.36547,
+   :latitude 28.69934,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 33.9093,
+   :latitude 27.97896,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 33.7042,
+   :latitude 28.21802,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk/ MIG apiari",
+   :longitude 34.21239,
+   :latitude 27.82877,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | A project has been developed to keep bees in the desert by applying the latest technology without bee honeycomb. In the near future, an international project is planned to develop the Sinai for the production of organic food products based on honey products.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

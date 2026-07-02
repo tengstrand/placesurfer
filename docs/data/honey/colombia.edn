@@ -1,0 +1,26 @@
+{:dataset :honey,
+ :country "colombia",
+ :count 3,
+ :generated-at "2026-07-02T06:45:47.366028Z",
+ :positions
+ [{:name "ABUNDANT HONEY GROUP",
+   :longitude -74.0966,
+   :latitude 4.685262,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: abundanthoneygroup@gmail",
+   :homepage "https://www.abundanthoneygroup.com"}
+  {:name "Jairo Amaya/Apiario MC",
+   :longitude -76.1991,
+   :latitude 4.169403,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 573164826355 | E-post: amayajairo@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Jairo Amaya/Apiario Tamboral",
+   :longitude -76.1846,
+   :latitude 4.166492,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 573164826355 | E-post: amayajairo@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

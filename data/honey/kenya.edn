@@ -1,0 +1,33 @@
+{:dataset :honey,
+ :country "kenya",
+ :count 4,
+ :generated-at "2026-07-02T06:51:54.966241Z",
+ :positions
+ [{:name "KWAKWA",
+   :longitude 37.7644,
+   :latitude -1.20181,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 254721381888 | E-post: kwakwagardens@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pearl of Savannah",
+   :longitude 36.76501,
+   :latitude -0.13159,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 254722836469 | E-post: pearlsavannah@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pearl of Savannah Laikipia",
+   :longitude 36.80181,
+   :latitude -0.04995,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 254722836469 | E-post: pearlsavannah@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "onyiego Felix/ Kitutu Central Apiary",
+   :longitude 36.91406,
+   :latitude -2.23066,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0721374411 | E-post: felix.onyiego@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

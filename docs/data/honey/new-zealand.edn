@@ -1,0 +1,64 @@
+{:dataset :honey,
+ :country "new-zealand",
+ :count 8,
+ :generated-at "2026-07-02T06:45:47.517082Z",
+ :positions
+ [{:name "Beewize",
+   :longitude 172.143,
+   :latitude -43.2834,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 02102798656 | E-post: cjsegill@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Beewize",
+   :longitude 172.5107,
+   :latitude -43.3672,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 02102798656 | E-post: cjsegill@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Chris gavin-egan",
+   :longitude 174.6433,
+   :latitude -36.8928,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0064 273855910 | E-post: chris.gavinegan@gmail.com | You can buy honey if available by appointment only.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "City Honey",
+   :longitude 174.298,
+   :latitude -35.7411,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 64 9 4383962 | E-post: chia@ihug.co.nz",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dan Lambert",
+   :longitude 173.8751,
+   :latitude -35.1827,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0064(0)94078226 | E-post: beekeeper266@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Helen Lindsay",
+   :longitude 170.4825,
+   :latitude -45.8542,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 64 3 211649329 | E-post: heleplindsay@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Richard Phillips",
+   :longitude 174.8583,
+   :latitude -36.4309,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 64098367307 | E-post: kawaujaffa@gmail.com | We try for pure manuka honey aquired from tee tree.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "storer apiaries",
+   :longitude 169.4649,
+   :latitude -46.1967,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 64034157256 | E-post: flour-mill@xtra.co.nz",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

@@ -1,0 +1,29 @@
+{:dataset :honey,
+ :country "cyprus",
+ :count 3,
+ :generated-at "2026-07-02T06:45:46.861646Z",
+ :positions
+ [{:name "\"Troodos Mountains Bee Farm\" (Agros)",
+   :longitude 33.02818,
+   :latitude 34.91236,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 35796757576 | E-post: lefteris@ele.com.cy | Face book- \"Troodos Mountains Bee Farm\"",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ilya Manyk",
+   :longitude 33.69717,
+   :latitude 35.00843,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 380674843980 | E-post: mig-aus@ukr.net | We teach beekeeping and apitherapy.    We provide apitherapy services",
+   :homepage "https://www.you-life."}
+  {:name "Roger White",
+   :longitude 33.76098,
+   :latitude 35.003,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00357 99 960828 | E-post: superbee@spidernet.com.cy | WE breed and export queen bees.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

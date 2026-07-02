@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "sri-lanka",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.249461Z",
+ :positions
+ [{:name "Dinal Suaris",
+   :longitude 79.99078,
+   :latitude 6.534307,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0094771300769 | E-post: dinalsuaris86@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

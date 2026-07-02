@@ -1,0 +1,243 @@
+{:dataset :honey,
+ :country "moldova",
+ :count 32,
+ :generated-at "2026-07-02T06:51:53.383679Z",
+ :positions
+ [{:name "5295",
+   :longitude 26.83077,
+   :latitude 45.89328,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "5301",
+   :longitude 27.11228,
+   :latitude 46.0244,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: apivasmob@yahoo.com | Zoma melifera pentru stuparitul stationar. Cules principal este cel de salcam si de tei.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "6667",
+   :longitude 28.93815,
+   :latitude 46.71115,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Api Poney",
+   :longitude 26.87882,
+   :latitude 46.83424,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0752 607 340 | E-post: ionutcristea2006@yahoo.com | Miere, polen, propolis, laptisor de matca, apilarnil, stupi, roiuri, unelte apicole, etc",
+   :homepage
+   "https://www.facebook.com/produse-apicole-roman-649396315163449/"}
+  {:name "Apis World srl",
+   :longitude 28.79755,
+   :latitude 47.69637,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: vitaliemv87@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Apostol",
+   :longitude 27.08139,
+   :latitude 45.50147,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 07687773124 | E-post: apl.ionut@yahoo.com | Com Obrejita.jud Vrancea.focsani",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Brostic",
+   :longitude 27.88089,
+   :latitude 46.35356,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: brostic@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Crama Costel / Gramador",
+   :longitude 27.26007,
+   :latitude 45.60684,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0040766.301.200 | E-post: grama_ionut@yahoo.com | Albinele, fiind harnice, sunt plecate tot sezonul in pastoral, prin imprejurimi. Aici este baza de extractie si procesare a produselor noastre.",
+   :homepage "https://www.gramador.ro"}
+  {:name "Dan Preutu",
+   :longitude 26.93652,
+   :latitude 46.90628,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 40720039799 | E-post: dan.preutu@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dascalu Vasile",
+   :longitude 26.80873,
+   :latitude 46.25173,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0740018679 | E-post: apivasmob@yahoo.com | Zoma melifera pentru stuparitul stationar, multumitoare.Cules principal este cel de salcam si de tei.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dumitru Manea",
+   :longitude 27.41767,
+   :latitude 45.88066,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0748841312 | E-post: dumitrumarian499@yahoo.com",
+   :homepage "https://youtu.be/UmWYOydYjuo"}
+  {:name "II Luchian Vasiilica Lucian",
+   :longitude 27.76382,
+   :latitude 46.49366,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00400766538750 | E-post: lukitza25@yahoo.com | Apis melifera carpatica",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "John Spatari",
+   :longitude 28.50643,
+   :latitude 47.19253,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: spatari_ion@mail.ru",
+   :homepage "https://www.youtube.com/user/johnspatari"}
+  {:name "Lilian Tcaci",
+   :longitude 29.5261,
+   :latitude 46.71938,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 37369668651 | E-post: lilik1@i.ua",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Neamtu Lucian",
+   :longitude 28.05556,
+   :latitude 46.6828,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0040765987808 | E-post: lucianneamtu79@gmail.com | Vindem miere in cantitati mici si industriale",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Nicolai Victor II",
+   :longitude 27.50701,
+   :latitude 47.133,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0371788888 | E-post: apivetsrl@gmail.com | We produce and deliver everywhere in EU mated Queens, swarms, hives, honey and other beekeeping products",
+   :homepage "https://www.albinesimatci.ro"}
+  {:name "Ojoc Mircea",
+   :longitude 27.48796,
+   :latitude 45.71822,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0040752570725 | E-post: mircea_gl_17@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Oleg",
+   :longitude 27.5247,
+   :latitude 47.59806,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 37369510399 | E-post: casap@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Paul Chiratcu's",
+   :longitude 27.71713,
+   :latitude 46.63623,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0040720501026 | E-post: paulchiratcu@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Petre Dogaru",
+   :longitude 26.91101,
+   :latitude 46.41018,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 40234570888 | E-post: zozonicus@yahoo.com | Acacia honey at this area.",
+   :homepage "https://e-miere.ro"}
+  {:name "Poenaru Costica",
+   :longitude 26.80114,
+   :latitude 46.27863,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0744817478 | E-post: cobra_ep2!yahoo.com | Stationar la rapita, salcam, pastoral salcam, tei, faneata.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Prisaca Apydor",
+   :longitude 27.95351,
+   :latitude 45.46952,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: iuliandoru@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Prisaca lui Traian",
+   :longitude 28.62945,
+   :latitude 47.66481,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: prisacaluitraian@gmail.com",
+   :homepage "https://prisacaluitraian.md/"}
+  {:name "Rassew",
+   :longitude 30.05829,
+   :latitude 46.84601,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: rassew@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Relu Cojocar",
+   :longitude 27.51611,
+   :latitude 47.26268,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0740060133 | E-post: cojocar_relu@yahoo.com",
+   :homepage "https://www.prisacamoldova.ro"}
+  {:name "Romulus Dogaru",
+   :longitude 26.7881,
+   :latitude 46.65075,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 744539065 | E-post: zozonicus@yahoo.com | Poly and acacia honey.",
+   :homepage "https://e-miere.ro"}
+  {:name "Toiu Neculai",
+   :longitude 26.66484,
+   :latitude 47.24148,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0721323562 | E-post: neculai.toiu@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Valeriu Capraru",
+   :longitude 27.24472,
+   :latitude 45.99839,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0744858110 | E-post: valeriu71@gmail.com | Poiana, Galati",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "apicus",
+   :longitude 27.51482,
+   :latitude 47.0939,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0748463274 | E-post: vfs_frodo88@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "ioan oprea",
+   :longitude 27.78544,
+   :latitude 46.44783,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: o_nelu@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Сергій",
+   :longitude 29.92751,
+   :latitude 46.91835,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0977146484 | E-post: king-net@ukr.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Сергій",
+   :longitude 29.90642,
+   :latitude 46.94381,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0509886301 | E-post: king-net@ukr.net | багатокорпусні вулики, рамка 145х435мм",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

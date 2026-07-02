@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "tanzania",
+ :count 1,
+ :generated-at "2026-07-02T06:51:53.575008Z",
+ :positions
+ [{:name "Kaizirege Camara",
+   :longitude 39.28974,
+   :latitude -6.89111,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: david@followthehoney.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

@@ -1,0 +1,537 @@
+{:dataset :honey,
+ :country "slovenia",
+ :count 71,
+ :generated-at "2026-07-02T06:45:46.826569Z",
+ :positions
+ [{:name "Albin Reven",
+   :longitude 14.57066,
+   :latitude 46.17374,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: klobasa.klobasar@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Ante -Tonči  pčelinjak \"OSIBAR - I \"",
+   :longitude 15.83418,
+   :latitude 45.77555,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 099/2120206 | E-post: pcelarstvo.bulicic@gmail.com | Drugi pčelinjak je u mariji Bistrici.",
+   :homepage "https://pcelarstvo-bulicic.hr"}
+  {:name "Ante -Tonči  pčelinjak \"OSIBAR - II \"",
+   :longitude 16.14364,
+   :latitude 45.99548,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 099/2120206 | E-post: pcelarstvo.bulicic@gmail.com | Prvi je pčelinjak iza kuče u Ježdovcu.",
+   :homepage "https://pcelarstvo-bulicic.hr"}
+  {:name "Anton Gašparac",
+   :longitude 15.47244,
+   :latitude 45.58168,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0038547415751 ; mob0992391695 | E-post: gaso2hr@yahoo.com | stacionar",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name
+   "Approved breeding station for Apis m. carnica Medokost - Koz",
+   :longitude 15.42755,
+   :latitude 46.1487,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00386 51 325 369 | E-post: cebelarstvo.medokost@gmail.com",
+   :homepage "http://apis-mellifera-carnica.eu/"}
+  {:name "BIORAD vl. Gordana Hegić mag.ing.agr.",
+   :longitude 16.0287,
+   :latitude 45.83161,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 095 910 66 53 | E-post: ghegic@gmail.com | linija prirodne kozmetike na bazi pčelinjih proizvoda i eteričnih ulja APIAROMATERAPIJA",
+   :homepage "https://biorad-apiterapija.hr"}
+  {:name "Beekeeper Tovornik",
+   :longitude 15.08359,
+   :latitude 46.16941,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 38631217811 | E-post: tovornik.bostjan@gmail.com | Honey, propolis, honey in virgin comb (in a jar or plastic packaging), candles, cream honey... biodinamic way of beekeeping",
+   :homepage "https://tovornik.info"}
+  {:name "Beekeeping Tovornik",
+   :longitude 15.40887,
+   :latitude 46.11244,
+   :source :biodlarkartan,
+   :image "",
+   :description "Beekeeping in natural an biodynamic way",
+   :homepage "https://tovornik.info"}
+  {:name "Bzzigi",
+   :longitude 16.11376,
+   :latitude 45.55951,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Consulting",
+   :longitude 16.01806,
+   :latitude 45.58328,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00385(0)98 476548 | E-post: hvranko@gmail.com | kontakt :Hrvoje Vranko, Dr.Vet.Med.Zagreb, Fojnicka 15Tel./Fax : 00385(0)1 6050285http://hr.linkedin.com/pub/vranko-hrvoje/25/120/978",
+   :homepage "https://sites.google.com/site/hvsavjet"}
+  {:name "DRAGUTIN JEZERINAC",
+   :longitude 15.46282,
+   :latitude 45.68195,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 047¸ 412-900 | E-post: dragutin.jezerinac@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Damir Rogulja",
+   :longitude 15.96802,
+   :latitude 45.62958,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 385 98 322413 | E-post: damir.rogulja@gmail.com | Zagreb, Svacicev trg 11",
+   :homepage "https://www.pcelinjak.hr"}
+  {:name "Darko Toplak --Sp. Slemen",
+   :longitude 15.51616,
+   :latitude 46.56207,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 040165813 | E-post: dartoplak@gmail.com | Mariborska c 14 Selnica ob Dravi",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Gornje Mekušje",
+   :longitude 15.57363,
+   :latitude 45.48345,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 385914823726 | E-post: lukic.mato@gmail.com | Karlovac/Croatia",
+   :homepage "https://www.kuzm.hr"}
+  {:name "H.Prinz",
+   :longitude 15.21302,
+   :latitude 46.71765,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: prinz3021@kabsi.at",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Hansjörg Achrainer",
+   :longitude 14.26613,
+   :latitude 46.68154,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: ihwa@gmx.at",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Igor Bilić",
+   :longitude 16.39903,
+   :latitude 46.41797,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00385981718108 | E-post: igorbilic@rocketmail.com | Farrar i LR",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Joe bácsi",
+   :longitude 15.46875,
+   :latitude 46.07323,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3662288999 | E-post: kaptar90@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Josip Cilar",
+   :longitude 16.47041,
+   :latitude 46.46487,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0038540866085 | E-post: cilar.josip@gmail.com",
+   :homepage "https://www.pcelarstvo-cilar.hr"}
+  {:name "Kazimir Gomilsek",
+   :longitude 15.6108,
+   :latitude 46.4316,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 386 31 676 836 | E-post: kazimir.gomilsek@triera.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kenan Ahmetovic",
+   :longitude 15.67396,
+   :latitude 46.59015,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 386 40 802 356 | E-post: kenan.ahmetovic@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kristijan Fabina",
+   :longitude 15.87468,
+   :latitude 45.87987,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: kristijan.fabina@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kristijan Jusic",
+   :longitude 15.99248,
+   :latitude 45.8722,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: kristijan.jusic@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kturky",
+   :longitude 16.05537,
+   :latitude 45.87053,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 38598218602 | E-post: kturky@mail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "LEVSTEK BEEKEEPER",
+   :longitude 13.70198,
+   :latitude 45.84822,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00 386 (0)5 30 80 467 | E-post: levstek008@gmail.com | http://www.youtube.com/user/levstek0081\n\n\n\nLevstek Matej\nLipa8\n5296 Kostanjevica na Krasu\nSlovenija",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Marijan Petrunic",
+   :longitude 15.47252,
+   :latitude 45.43053,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 38598456361 | E-post: marijan.petrunic@gmail.com",
+   :homepage "https://www.pcelarstvo-petrunic.hr"}
+  {:name "Marijan Petrunic",
+   :longitude 15.4892,
+   :latitude 45.45568,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 38598456361 | E-post: marijan.petrunic@gmail.com",
+   :homepage "https://www.pcelarstvo-petrunic.hr"}
+  {:name "Milan Mrcun",
+   :longitude 13.97275,
+   :latitude 45.78113,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 386 41 558384 | E-post: milan.mrcun@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Miljenko Horvatić / Mimi Bee",
+   :longitude 16.14946,
+   :latitude 45.94416,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: horvatic.miljenko@gmail.com",
+   :homepage "https://pcelarstvo-mimi-bee-opg-horvatic.business.site/"}
+  {:name "Miljenko Horvatić / Mimi Bee",
+   :longitude 16.14984,
+   :latitude 45.91518,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: horvatic.miljenko@gmail.com",
+   :homepage
+   "https://pcelarstvo-mimi-bee-opg-horvatic-velimir.business.site/"}
+  {:name "Nataša Cvitanović",
+   :longitude 15.6665,
+   :latitude 45.48709,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0038547431068 | E-post: natasa.cvitanovic@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Neda Šiška",
+   :longitude 14.09254,
+   :latitude 46.19294,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 041/583-760 | Neda ŠiškaZali Log 62, 4228 ŽeleznikiSlovenija",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Nenad",
+   :longitude 15.44974,
+   :latitude 45.5469,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 098 853 159 | E-post: sigma.el@gmail.com | Jaškovo 74a",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Nenad",
+   :longitude 15.47778,
+   :latitude 45.56172,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 098 853 159 | E-post: sigma.el@gmail.com | Jaškovo 74a",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Neno",
+   :longitude 16.11466,
+   :latitude 46.30841,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: neno@hrvatska.com",
+   :homepage "https://cmela.eu"}
+  {:name "Noina Arka",
+   :longitude 16.40755,
+   :latitude 45.6935,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "OPG MED PRODUKT",
+   :longitude 16.19538,
+   :latitude 45.94655,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0981965755 | E-post: hrvojecicko@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pčelarstvo Juratovac",
+   :longitude 16.03905,
+   :latitude 45.87158,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: davor.juratovac@yahoo.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Pčelarstvo-GORAN",
+   :longitude 16.32259,
+   :latitude 46.22084,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 098 1830 456 | E-post: goran.danko@vz.t-com.hr | Pčelarstvo-GORANŽeljeznička 30Sveti Ilija - Krušljevec",
+   :homepage "https://pcelarstvo.hr/goran"}
+  {:name "Rado",
+   :longitude 15.15683,
+   :latitude 45.59308,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 031811911 | E-post: rado.zivanovic@siol.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Samsa Massimiliano",
+   :longitude 13.50764,
+   :latitude 45.8597,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: +39 3396202061 | E-post: massimilianosamsa@gmail.com | We do 3 crops for year on the Land Karst. The our bees are raised with metod of organic farm",
+   :homepage "https://www.parcorurale.it"}
+  {:name "Sergej Lah",
+   :longitude 15.56891,
+   :latitude 46.53696,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 386 31 287 637 | E-post: sergej.lah@gmail.com",
+   :homepage "https://www.cebelar.net"}
+  {:name "Stefano Scanferla",
+   :longitude 13.58983,
+   :latitude 45.9447,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 39 3355206065 | E-post: stefano.scanferla@illy.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Stjepan Herega",
+   :longitude 16.08466,
+   :latitude 46.32489,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0989807307 | E-post: gvoca07@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Tomislav Brkić,MD",
+   :longitude 15.97755,
+   :latitude 45.96833,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 38598278345 | E-post: tomislav.brkic@hotmail.com | Gornje Podgora, Donja STUBICA, Croatia",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Tomislav Kefelja",
+   :longitude 16.32807,
+   :latitude 46.23045,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: tomislav.kefelja@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Vedran Starcevic",
+   :longitude 16.28864,
+   :latitude 46.24842,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 385958585995 | E-post: apidae@hi.t-com.hr",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "ZDRAVKO VLAHEK",
+   :longitude 16.07462,
+   :latitude 46.14281,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 049 430-522  098 1832986 | E-post: vlahek.zdravko@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Zadnikar",
+   :longitude 14.41261,
+   :latitude 46.30015,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: gregor.zadnikar@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Zeljko Gott",
+   :longitude 16.39156,
+   :latitude 46.27635,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00385 98 9876 824 | E-post: zeljko.gott@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "alfred šalamun",
+   :longitude 14.25493,
+   :latitude 45.67416,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 041 796 578 | E-post: alfred.salamun@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "branko",
+   :longitude 15.9336,
+   :latitude 46.02464,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 098/1839571 | E-post: branko.krajacic@kr.t-com.hr | registrirano uzgajalište matica kranjske pčele",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "branko",
+   :longitude 15.93978,
+   :latitude 46.03346,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0981839571 | E-post: branko.krajacic@kr.t-com.hr | registrirano uzgajalište matica kranjske pčele",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "branko",
+   :longitude 15.93841,
+   :latitude 46.03346,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 049221616 | E-post: branko.krajacic@kr.t-com.hr | registrirano uzgajalište matica kranjske pčele",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "branko miletić 220",
+   :longitude 15.36911,
+   :latitude 45.47613,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0911012020",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "edlwolf",
+   :longitude 14.18047,
+   :latitude 46.72559,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 43 680 211 70 69 | E-post: edlingerk@gmx.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "joso",
+   :longitude 15.59709,
+   :latitude 45.4655,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: mbdklc@mail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "mattan",
+   :longitude 15.57236,
+   :latitude 45.48421,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 385914823726 | E-post: lukic.mato@gmail.com | Gornje Mekušje, karlovac, Croatia",
+   :homepage "https://kuzmudruga.hr"}
+  {:name "medovita pčelarstvo (beekeeping)",
+   :longitude 16.25907,
+   :latitude 45.9477,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: info@medovitra.com",
+   :homepage "https://www.medovita.com"}
+  {:name "miro",
+   :longitude 15.55197,
+   :latitude 45.45381,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: mbdklc@mail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "predrag susak",
+   :longitude 15.49896,
+   :latitude 45.43473,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 0977717773 | E-post: pedjo.klc@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "rođo",
+   :longitude 15.40796,
+   :latitude 45.50053,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: mbdklc@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "rođo",
+   :longitude 15.43062,
+   :latitude 45.51289,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: mbdklc@mail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "rođo 1",
+   :longitude 15.53384,
+   :latitude 45.48802,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: mbdklc@mail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "vedran",
+   :longitude 16.04803,
+   :latitude 45.85642,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 385981744921 | E-post: vedra@am-patacic.hr",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "vedran 2",
+   :longitude 16.08431,
+   :latitude 45.84661,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 385981744921 | E-post: vedra@am-patacic.hr",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "vlado augustin",
+   :longitude 15.33966,
+   :latitude 45.69466,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: vlado.augustin@amis.net",
+   :homepage "https://www.augustin.si"}
+  {:name "vojko bojan/Repnic,41,a",
+   :longitude 13.76124,
+   :latitude 45.72491,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: vojko54@vodafone.it | YouTube;vojko54",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Čebelarstvo Kokl",
+   :longitude 14.45626,
+   :latitude 46.29909,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: kokl.tomaz@amis.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Čebelarstvo Mikuš",
+   :longitude 14.58682,
+   :latitude 46.22504,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00386 41 663 903 | E-post: amikus@siol.net | Organic beekeeping",
+   :homepage "https://www.eko-med.si"}
+  {:name "željko šuntić",
+   :longitude 15.9121,
+   :latitude 45.45582,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00385 95 90 24 126 | E-post: zeljkosuntic@tele2.hr",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

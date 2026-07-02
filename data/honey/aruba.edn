@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "aruba",
+ :count 1,
+ :generated-at "2026-07-02T06:51:55.608089Z",
+ :positions
+ [{:name "Eco Living Aruba",
+   :longitude -70.0416,
+   :latitude 12.56184,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: - | E-post: ecolivingaruba@gmail.com | Gasparito, Aruba",
+   :homepage "https://ecolivingaruba.com"}]}

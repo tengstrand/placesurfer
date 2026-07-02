@@ -1,0 +1,21 @@
+{:dataset :honey,
+ :country "ghana",
+ :count 2,
+ :generated-at "2026-07-02T06:45:46.551200Z",
+ :positions
+ [{:name "A.A.B.Bkm Bee Farm Enterprise",
+   :longitude -2.19726,
+   :latitude 7.983077,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 233 208235670 | E-post: entaabbkm@yahoo.com | Location of the farm is in Kwadwo Krom in the Tain District in the Brong-Ahafo Region of Ghana.The district capital is Nesawko.The farm lays between the Nsuhum and Degedege where Kwadwo Krom is located. We sell honey  and beeswax in our shop located at Berekum also in Ghana in the Brong-Ahafo Region.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Jason Stephenson",
+   :longitude -1.39526,
+   :latitude 7.535771,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 00233 205 777629 | E-post: j.stephenson525@gmail.com | Honey is sold only after it has been bottled at our production plant, which is not located near the apiary.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

@@ -1,0 +1,12 @@
+{:dataset :honey,
+ :country "malawi",
+ :count 1,
+ :generated-at "2026-07-02T06:51:53.575671Z",
+ :positions
+ [{:name "Sunset",
+   :longitude 34.10156,
+   :latitude -10.4878,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 265 888049864",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

@@ -1,0 +1,132 @@
+{:dataset :honey,
+ :country "latvia",
+ :count 17,
+ :generated-at "2026-07-02T06:51:54.472598Z",
+ :positions
+ [{:name "3880",
+   :longitude 24.25631,
+   :latitude 57.02438,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Alda Hāne",
+   :longitude 24.84178,
+   :latitude 57.06001,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: pullenudrava@gmail.com",
+   :homepage "https://www.pullenudrava.lv"}
+  {:name "Andris Sneiders",
+   :longitude 23.28985,
+   :latitude 56.98458,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 0037129446828 | E-post: andrissneiders@hotmail.com",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Gundars alodis",
+   :longitude 25.96275,
+   :latitude 57.1055,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: gundars.balodis@gmail.com",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Inesis",
+   :longitude 24.02777,
+   :latitude 56.6043,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 371 27451648 | E-post: pro70@inbox.lv | Medu var pasūtīt pa telefonu, e-pastu, jeb mājaslapā . Ir arī īpašs medus ievākts no pašu sētiem ārstniecības augiem.",
+   :homepage "https://vinogas.lv"}
+  {:name "Inga Bojāre",
+   :longitude 24.2754,
+   :latitude 57.07013,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Janis Trops",
+   :longitude 26.41448,
+   :latitude 56.65028,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: beeman@inbox.lv | Middle of Teici Nature reserve swamp Nordic European black bee (Apis mellifera mellifera) are collecting Honey.",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Juris (mājas \"Rutki\")",
+   :longitude 24.69115,
+   :latitude 56.74399,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 26116445 | E-post: juris.valainis@inbox.lv | Apiterapija, Atpūta- relaksācija guļot uz bišu stropiem speciāli izveidotā mājā. Ir iespēja baudīt medu un dzert pašu lasītu tēju.",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Kuliks Igors",
+   :longitude 24.01367,
+   :latitude 56.88674,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 37125154505 | E-post: kareckij@inbox.lv | Apis mellifera carpatica",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Semenovs",
+   :longitude 23.4882,
+   :latitude 56.94982,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: marina19732@inbox.lv",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Silvestrs Endelis",
+   :longitude 24.975,
+   :latitude 57.01269,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 26605928 | E-post: endelis@inbox.lv",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "Vizes beekeeping",
+   :longitude 23.64095,
+   :latitude 56.71197,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 37129820539 | E-post: maksimsprussakovs@gmail.com | Mūsu dravā, pilnā sparā, sāka strādāt \"Apiterapījas mājiņa\"!  Vieta, kur Jūs varat relaksēties guļot uz speciālām gultām tieši uz bitēm...varat atpūsties, smelt jaunus spēkus un uzlabot veselības stāvokli.",
+   :homepage
+   "https://www.youtube.com/channel/UCwUZS7mjgWZhtgthUIf9Khg"}
+  {:name "Z/S Andulaisi",
+   :longitude 22.73054,
+   :latitude 56.56019,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 37129448203 | E-post: kreicbergsmaris@inbox.lv",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "cimbulu drava",
+   :longitude 25.63021,
+   :latitude 57.16352,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: cimbuli@inbox.lv",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "vesna",
+   :longitude 28.03176,
+   :latitude 56.36848,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 37126485451 | E-post: pol-23@inbox.lv",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "vesna",
+   :longitude 28.14881,
+   :latitude 56.30964,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 37126485451 | E-post: pol-23@inbox.lv",
+   :homepage "https://biodlarkartan.se/lv.php"}
+  {:name "z/s Priežukalns, dravnieks Andrejs Briedis",
+   :longitude 26.3513,
+   :latitude 56.66174,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 371 26309648 | E-post: priezukalns@gmail.com | Bioloģiskā biškopība Teiču rezervāta pievārtē",
+   :homepage "https://www.priezukalns.lv"}]}

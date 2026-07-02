@@ -1,0 +1,43 @@
+{:dataset :honey,
+ :country "indonesia",
+ :count 5,
+ :generated-at "2026-07-02T06:45:47.216113Z",
+ :positions
+ [{:name "FanBin Farm",
+   :longitude 116.1856,
+   :latitude -8.33028,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: fanbin.farm@gmail.com | We have a local stingless bee (Tetragonula) site in the area of ​​the Bugis-Sasak fishermen. Our hive made of petung bamboo.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "HerbaSehat",
+   :longitude 110.7916,
+   :latitude -6.59789,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: muhammadhaekal@herbasehat.id",
+   :homepage "https://herbasehat.id"}
+  {:name "Little Bees Apiary",
+   :longitude 107.4882,
+   :latitude -7.12109,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: subagja.suhud@gmail.com | here sells honey from stingless bees (trigona S.P) and Apis cerana",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Madu kelulut sukadana",
+   :longitude 109.9756,
+   :latitude -1.24387,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: agusmuhammadimran@gmail.com | Ready honey from stinglessbee ( trigona sp ) \"Madu Kelulut Sukadana \"",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Marlon Apiary",
+   :longitude 100.7843,
+   :latitude -1.0744,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: elapegia.marlon@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

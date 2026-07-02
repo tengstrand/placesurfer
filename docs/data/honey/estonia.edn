@@ -1,0 +1,71 @@
+{:dataset :honey,
+ :country "estonia",
+ :count 9,
+ :generated-at "2026-07-02T06:45:47.367418Z",
+ :positions
+ [{:name "Ain  Seeder",
+   :longitude 25.8355,
+   :latitude 58.69052,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3725250204",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Alfalfa",
+   :longitude 26.44894,
+   :latitude 58.22211,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 37256228046 | E-post: jandrys@gmail.com",
+   :homepage "https://www.alfalfa.ee/"}
+  {:name "Gjutåsen Naturprodukter i Lammhult AB",
+   :longitude 26.15296,
+   :latitude 57.63948,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: Info@gjutsasen.se | Honung på på gårdshandeln Långsryds gård och på Asa Herrgård",
+   :homepage "https://gjutasen.se"}
+  {:name "Gunnar Wetterström",
+   :longitude 24.46874,
+   :latitude 58.96875,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 070-2825868 | E-post: gunnar_hampus_@hotmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kopraonu Mesindus",
+   :longitude 28.07656,
+   :latitude 59.44259,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 3725269713 | E-post: trellm@hotmail.com | In the planning prepare more than 50 hives.",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kumalane",
+   :longitude 26.65763,
+   :latitude 58.31129,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: kumalane@hot.ee",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Lauris/    z/s''aboltiņi''",
+   :longitude 26.71875,
+   :latitude 57.63898,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 26751106 | E-post: lkeiss@inbox.lv",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Taavi Tull",
+   :longitude 26.65763,
+   :latitude 58.3112,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 372 52 55 716 | E-post: info@ligustica.ee",
+   :homepage "https://www.ligustica.ee"}
+  {:name "Uuno Piir/ Viinakingu talu",
+   :longitude 26.07828,
+   :latitude 58.40482,
+   :source :biodlarkartan,
+   :image "",
+   :description "+372 517 4924",
+   :homepage "https://www.facebook.com/Viinakingu/?locale=et_EE"}]}

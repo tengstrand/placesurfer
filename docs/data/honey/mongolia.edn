@@ -1,0 +1,20 @@
+{:dataset :honey,
+ :country "mongolia",
+ :count 2,
+ :generated-at "2026-07-02T06:45:46.624794Z",
+ :positions
+ [{:name "MIHACHI LLC",
+   :longitude 105.8235,
+   :latitude 49.67523,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 97699096359 | E-post: mihachi.staff@gmail.com | Mihachi's pure honey",
+   :homepage "https://www.facebook.com/mihachimongolianhoney/"}
+  {:name "Maxim Dedyukhin",
+   :longitude 115.5982,
+   :latitude 51.66751,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 79141233311 | E-post: ixide@mail.ru",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

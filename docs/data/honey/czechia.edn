@@ -1,0 +1,199 @@
+{:dataset :honey,
+ :country "czechia",
+ :count 26,
+ :generated-at "2026-07-02T06:45:45.775544Z",
+ :positions
+ [{:name "Am Malerweg",
+   :longitude 13.95172,
+   :latitude 50.98233,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: matthias@hitschke.de",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "BIO-Imkerei Zimmermann",
+   :longitude 16.02304,
+   :latitude 48.64841,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: bio@imkerei-zimmermann.at",
+   :homepage "https://www.imkerei-zimmermann.at"}
+  {:name "Christian Liegler",
+   :longitude 15.62393,
+   :latitude 48.88187,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: christian.liegler@aon.at",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Czechowski Pasieka Szczawno Zdrój",
+   :longitude 16.24345,
+   :latitude 50.81244,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 665926610 | Najwieksza pasieka w gminie Szczawno Zdrój.",
+   :homepage "https://pszczelarz.za.pl"}
+  {:name "Filip Horak",
+   :longitude 14.14283,
+   :latitude 50.42319,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: horak.f@gmail.com",
+   :homepage "https://www.vcelimed.eu"}
+  {:name "Gerhard und Bettina Fuhrmann",
+   :longitude 16.6498,
+   :latitude 48.65358,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: bettina.fuhrmann@gmx.at",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Gospodarstwo pszczelarskie Adam Woś",
+   :longitude 17.80348,
+   :latitude 50.6462,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 605244258, 608323440 | E-post: b.wos@po.opole.pl",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "IVAN BOHÁTKA",
+   :longitude 16.17388,
+   :latitude 48.83442,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 420608883331 | E-post: ivanbohatka@seznam.cz | Panská 233 Hodonice",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Inge und Franz Hörndl",
+   :longitude 15.32554,
+   :latitude 48.82707,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: franz.hoerndl@gmx.at",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "JR",
+   :longitude 12.95719,
+   :latitude 48.64681,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 08547-7246 | E-post: jr@josef-rosner.de",
+   :homepage "https://www.kalcool.com"}
+  {:name "Jiří Matl",
+   :longitude 14.28127,
+   :latitude 49.92487,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 721232633 | E-post: gegorius@centrum.cz",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Josef Horak",
+   :longitude 14.33005,
+   :latitude 50.4751,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://www.vcelimed.eu"}
+  {:name "Michel Klemm",
+   :longitude 12.80587,
+   :latitude 50.92322,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Miloš Vondruška",
+   :longitude 14.23159,
+   :latitude 49.91856,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 420 737 421 564 | E-post: milos.vondruska@seznam.cz",
+   :homepage "https://www.vcelynastrese.cz"}
+  {:name "Miloš Vondruška",
+   :longitude 14.36854,
+   :latitude 50.08691,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 420 737 421 564 | E-post: milos.vondruska@seznam.cz",
+   :homepage "https://www.vcelynastrese.cz"}
+  {:name "Miloš Vondruška",
+   :longitude 14.43462,
+   :latitude 50.10216,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 420 737 421 564 | E-post: milos.vondruska@seznam.cz",
+   :homepage "https://www.vcelynastrese.cz"}
+  {:name "Petr Cihlář / Včelí farma Cihlářovi",
+   :longitude 14.42152,
+   :latitude 50.24956,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: petr-cihlar@centrum.cz | Family beekeeping farm - 1100 bee colonies - come to us to buy our honey :-)\nAdress: Kopeč 5, Úžice 277 45",
+   :homepage "https://www.med-cihlarovi.cz"}
+  {:name "Petr Machac",
+   :longitude 14.72269,
+   :latitude 50.07295,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://meduvaly.cz"}
+  {:name "VYŠEHRADŠTÍ VČELAŘÍCI - Botanická zahrada",
+   :longitude 14.41703,
+   :latitude 50.12032,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 420 604 739 121 | E-post: vcelarici@seznam.cz | Ring of young beekeepers. Kroužek mladých včelařů.",
+   :homepage "https://www.vcelistraz.cz"}
+  {:name "VYŠEHRADŠTÍ VČELAŘÍCI - Jedličkův ústav",
+   :longitude 14.4233,
+   :latitude 50.06161,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 420 604 739 121 | E-post: vcelarici@seznam.cz | Ring of young beekeeperskroužek mladých včelařů",
+   :homepage "https://wwww.vcelistraz.cz"}
+  {:name "VYŠEHRADŠTÍ VČELAŘÍCI - Obchodní centrum CHODOV",
+   :longitude 14.48939,
+   :latitude 50.03062,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 420 604 739 121 | E-post: vcelarici@seznam.cz | Ring of young beekeeperskroužek mladých včelařů",
+   :homepage "https://www.vcelistraz.cz"}
+  {:name "Vcelnice",
+   :longitude 14.35535,
+   :latitude 50.04578,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 737506175 | E-post: victor.mar@seznam.cz | Vyrabime plasteckovy med - STRDI",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Václav H.",
+   :longitude 13.78773,
+   :latitude 49.76369,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "E-post: vaclavhanton@gmail.com | 15 more hives to populate",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Vít Hejda",
+   :longitude 13.76928,
+   :latitude 50.12641,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 00420602280875 | E-post: 313537785@iol.cz",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Včelařství Cigánek",
+   :longitude 16.76307,
+   :latitude 49.96189,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: vcelarstvi@ciganek.net",
+   :homepage "https://vcelarstvi.ciganek.net"}
+  {:name "przylesie",
+   :longitude 15.42428,
+   :latitude 50.94891,
+   :source :biodlarkartan,
+   :image "",
+   :description "E-post: m.krzysztof@autograf.pl",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

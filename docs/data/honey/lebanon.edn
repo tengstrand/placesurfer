@@ -1,0 +1,19 @@
+{:dataset :honey,
+ :country "lebanon",
+ :count 2,
+ :generated-at "2026-07-02T06:45:46.785067Z",
+ :positions
+ [{:name "Aabdelleh",
+   :longitude 35.77148,
+   :latitude 34.18825,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 96170101936 | E-post: gillesdeclerck@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kfar Aaqab",
+   :longitude 35.73577,
+   :latitude 33.91974,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 96170101936 | E-post: gillesdeclerck@gmail.com",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

@@ -1,0 +1,79 @@
+{:dataset :honey,
+ :country "aland-islands",
+ :count 10,
+ :generated-at "2026-07-02T06:51:54.579554Z",
+ :positions
+ [{:name "Björkqvist",
+   :longitude 19.97314,
+   :latitude 60.23981,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 04573421391 | E-post: carolassommarhonung@aland.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Björstigens honung",
+   :longitude 19.99722,
+   :latitude 60.30432,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3584573749900 | E-post: bjorn@justit.ax",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Borgboda",
+   :longitude 20.09914,
+   :latitude 60.26962,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3581843512 | E-post: erik.borgboda@aland.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dan Mattsson / Långmo",
+   :longitude 19.56551,
+   :latitude 60.1908,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: +358405508250 | E-post: dan.mattsson@aland.net | Biotop tallskog med blåbär, lingon, ljung",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Dan Mattsson / Sandmo Bigård",
+   :longitude 19.55291,
+   :latitude 60.22175,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: +358405508250 | E-post: dan.mattsson@aland.net | Biotop: trädgårdar, skog, ljung",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Johan Rosenberg",
+   :longitude 19.85592,
+   :latitude 60.1768,
+   :source :biodlarkartan,
+   :image "",
+   :description "",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kurt Lindh/Backebo",
+   :longitude 20.07738,
+   :latitude 60.2691,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3581843610 | E-post: klindh@aland.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Kurt Lindh/Strömbergs",
+   :longitude 20.08798,
+   :latitude 60.28536,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: 3581843610 | E-post: klindh@aland.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Söderbacka bigård",
+   :longitude 20.27449,
+   :latitude 60.1347,
+   :source :biodlarkartan,
+   :image "",
+   :description "Tel: +358504630503 | E-post: mauritz@aland.net",
+   :homepage "https://biodlarkartan.se/eng.php"}
+  {:name "Yngve Påvall/Östergeta Bigårdar",
+   :longitude 19.86843,
+   :latitude 60.37399,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 358 457 54 56 103 | E-post: kabelhuset@aland.net",
+   :homepage "https://biodlarkartan.se/eng.php"}]}

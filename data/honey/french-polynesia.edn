@@ -1,0 +1,13 @@
+{:dataset :honey,
+ :country "french-polynesia",
+ :count 1,
+ :generated-at "2026-07-02T06:51:54.399394Z",
+ :positions
+ [{:name "REY PATRICK",
+   :longitude -149.867,
+   :latitude -17.5183,
+   :source :biodlarkartan,
+   :image "",
+   :description
+   "Tel: 689/87382822 | E-post: urufara@gmail.com | very nice apiary in a 200ha valley of the island of Moorea.",
+   :homepage "https://biodlarkartan.se/eng.php"}]}
