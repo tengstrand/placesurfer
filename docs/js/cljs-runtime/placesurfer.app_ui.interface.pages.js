@@ -14,8 +14,14 @@ return placesurfer.app_ui.ui.pages.country_page_QMARK_(page);
 placesurfer.app_ui.interface$.pages.update_page_QMARK_ = (function placesurfer$app_ui$interface$pages$update_page_QMARK_(page){
 return placesurfer.app_ui.ui.pages.update_page_QMARK_(page);
 });
+placesurfer.app_ui.interface$.pages.layers_page_QMARK_ = (function placesurfer$app_ui$interface$pages$layers_page_QMARK_(page){
+return placesurfer.app_ui.ui.pages.layers_page_QMARK_(page);
+});
 placesurfer.app_ui.interface$.pages.groups_page_QMARK_ = (function placesurfer$app_ui$interface$pages$groups_page_QMARK_(page){
 return placesurfer.app_ui.ui.pages.groups_page_QMARK_(page);
+});
+placesurfer.app_ui.interface$.pages.draw_page_QMARK_ = (function placesurfer$app_ui$interface$pages$draw_page_QMARK_(page){
+return placesurfer.app_ui.ui.pages.draw_page_QMARK_(page);
 });
 placesurfer.app_ui.interface$.pages.show_main_map_area_QMARK_ = (function placesurfer$app_ui$interface$pages$show_main_map_area_QMARK_(props){
 return placesurfer.app_ui.ui.pages.show_main_map_area_QMARK_(props);

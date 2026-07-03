@@ -7,12 +7,12 @@ return cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(replicant.asserts.camel__
 });
 replicant.asserts.has_bad_conditional_attrs_QMARK_ = (function replicant$asserts$has_bad_conditional_attrs_QMARK_(vdom,headers){
 if(((((0) < cljs.core.count((headers[(5)])))) || (((0) < cljs.core.count((vdom[(4)])))))){
-var vec__42141 = (headers[(7)]);
-var new_selector = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42141,(0),null);
-var new_attrs = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42141,(1),null);
-var vec__42144 = (vdom[(7)]);
-var old_selector = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42144,(0),null);
-var old_attrs = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42144,(1),null);
+var vec__41774 = (headers[(7)]);
+var new_selector = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41774,(0),null);
+var new_attrs = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41774,(1),null);
+var vec__41777 = (vdom[(7)]);
+var old_selector = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41777,(0),null);
+var old_attrs = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41777,(1),null);
 if(cljs.core.not_EQ_.cljs$core$IFn$_invoke$arity$2(new_selector,old_selector)){
 return false;
 } else {
@@ -32,10 +32,10 @@ return false;
 }
 });
 replicant.asserts.abbreviate_map = (function replicant$asserts$abbreviate_map(m,n){
-return ["{",clojure.string.join.cljs$core$IFn$_invoke$arity$2(", ",cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p__42151){
-var vec__42152 = p__42151;
-var k = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42152,(0),null);
-var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42152,(1),null);
+return ["{",clojure.string.join.cljs$core$IFn$_invoke$arity$2(", ",cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p__41784){
+var vec__41785 = p__41784;
+var k = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41785,(0),null);
+var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41785,(1),null);
 return [cljs.core.str.cljs$core$IFn$_invoke$arity$1(k)," ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(((cljs.core.map_QMARK_(v))?(replicant.asserts.abbreviate_map.cljs$core$IFn$_invoke$arity$2 ? replicant.asserts.abbreviate_map.cljs$core$IFn$_invoke$arity$2(v,n) : replicant.asserts.abbreviate_map.call(null,v,n)):cljs.core.pr_str.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([v], 0))))].join('');
 }),cljs.core.take.cljs$core$IFn$_invoke$arity$2(n,m))),(((n < cljs.core.count(m)))?" ,,,":null),"}"].join('');
 });
@@ -89,15 +89,15 @@ return cljs.core.pr_str.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.
 }
 });
 replicant.asserts.convey_bad_conditional_attributes = (function replicant$asserts$convey_bad_conditional_attributes(vdom,headers){
-var vec__42155 = cljs.core.first((function (){var or__5025__auto__ = cljs.core.not_empty((vdom[(3)]));
+var vec__41788 = cljs.core.first((function (){var or__5025__auto__ = cljs.core.not_empty((vdom[(3)]));
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
 return cljs.core.not_empty((headers[(4)]));
 }
 })());
-var k = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42155,(0),null);
-var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__42155,(1),null);
+var k = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41788,(0),null);
+var v = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__41788,(1),null);
 return ["Replicant treats nils as hints of nodes that come and go. Wrapping ","the entire attribute map in a conditional such that what used to be ",replicant.asserts.format_hiccup_part(cljs.core.second((vdom[(7)])))," is now ",replicant.asserts.format_hiccup_part(cljs.core.second((headers[(7)])))," can impair how well Replicant can match up child nodes without keys, and ","may lead to undesirable behavior for life-cycle events and transitions.\n\n","Instead of:\n[",cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.first((headers[(7)])))," (when something? {",(cljs.core.truth_(k)?[cljs.core.str.cljs$core$IFn$_invoke$arity$1(k)," ",cljs.core.pr_str.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([v], 0))].join(''):null),"}) ,,,]\n\nConsider:\n[",cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.first((headers[(7)]))),(cljs.core.truth_(k)?["\n  ","(cond-> {}\n    something? (assoc ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(k)," ",cljs.core.pr_str.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([v], 0)),"))\n"].join(''):" {}")," ,,,]"].join('');
 });
 

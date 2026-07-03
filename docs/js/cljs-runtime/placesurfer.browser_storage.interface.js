@@ -26,5 +26,11 @@ return placesurfer.browser_storage.core.read_topic_from_url();
 placesurfer.browser_storage.interface$.read_page_from_url = (function placesurfer$browser_storage$interface$read_page_from_url(){
 return placesurfer.browser_storage.core.read_page_from_url();
 });
+placesurfer.browser_storage.interface$.save_page_BANG_ = (function placesurfer$browser_storage$interface$save_page_BANG_(page){
+return placesurfer.browser_storage.core.save_page_BANG_(page);
+});
+placesurfer.browser_storage.interface$.read_saved_page = (function placesurfer$browser_storage$interface$read_saved_page(){
+return placesurfer.browser_storage.core.read_saved_page();
+});
 
 //# sourceMappingURL=placesurfer.browser_storage.interface.js.map

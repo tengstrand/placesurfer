@@ -7,14 +7,14 @@ return placesurfer.pin_ui.pure.storage.save_pins_BANG_(items);
 });
 placesurfer.pin_ui.interface$.storage.new_pin_id = (function placesurfer$pin_ui$interface$storage$new_pin_id(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___95550 = arguments.length;
-var i__5750__auto___95551 = (0);
+var len__5749__auto___40086 = arguments.length;
+var i__5750__auto___40087 = (0);
 while(true){
-if((i__5750__auto___95551 < len__5749__auto___95550)){
-args__5755__auto__.push((arguments[i__5750__auto___95551]));
+if((i__5750__auto___40087 < len__5749__auto___40086)){
+args__5755__auto__.push((arguments[i__5750__auto___40087]));
 
-var G__95552 = (i__5750__auto___95551 + (1));
-i__5750__auto___95551 = G__95552;
+var G__40088 = (i__5750__auto___40087 + (1));
+i__5750__auto___40087 = G__40088;
 continue;
 } else {
 }
@@ -32,9 +32,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.pure.sto
 (placesurfer.pin_ui.interface$.storage.new_pin_id.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.storage.new_pin_id.cljs$lang$applyTo = (function (seq95546){
+(placesurfer.pin_ui.interface$.storage.new_pin_id.cljs$lang$applyTo = (function (seq40078){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq95546));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq40078));
 }));
 
 

@@ -8,8 +8,8 @@ placesurfer.edit.pure.topics.topic_i18n_key = (function placesurfer$edit$pure$to
 return cljs.core.keyword.cljs$core$IFn$_invoke$arity$2("topic",cljs.core.name(topic));
 });
 placesurfer.edit.pure.topics.sorted_topic_options = (function placesurfer$edit$pure$topics$sorted_topic_options(var_args){
-var G__39282 = arguments.length;
-switch (G__39282) {
+var G__39187 = arguments.length;
+switch (G__39187) {
 case 2:
 return placesurfer.edit.pure.topics.sorted_topic_options.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -28,20 +28,20 @@ throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(
 return placesurfer.edit.pure.topics.sorted_topic_options.cljs$core$IFn$_invoke$arity$3(topic_keys,t,cljs.core.PersistentArrayMap.EMPTY);
 }));
 
-(placesurfer.edit.pure.topics.sorted_topic_options.cljs$core$IFn$_invoke$arity$3 = (function (topic_keys,t,p__39285){
-var map__39286 = p__39285;
-var map__39286__$1 = cljs.core.__destructure_map(map__39286);
-var marker_url_fn = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39286__$1,new cljs.core.Keyword(null,"marker-url-fn","marker-url-fn",-1040432635));
-return cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3(new cljs.core.Keyword(null,"label","label",1718410804),(function (p1__39279_SHARP_,p2__39280_SHARP_){
-return cljs.core.compare(clojure.string.lower_case(p1__39279_SHARP_),clojure.string.lower_case(p2__39280_SHARP_));
+(placesurfer.edit.pure.topics.sorted_topic_options.cljs$core$IFn$_invoke$arity$3 = (function (topic_keys,t,p__39188){
+var map__39189 = p__39188;
+var map__39189__$1 = cljs.core.__destructure_map(map__39189);
+var marker_url_fn = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39189__$1,new cljs.core.Keyword(null,"marker-url-fn","marker-url-fn",-1040432635));
+return cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3(new cljs.core.Keyword(null,"label","label",1718410804),(function (p1__39184_SHARP_,p2__39185_SHARP_){
+return cljs.core.compare(clojure.string.lower_case(p1__39184_SHARP_),clojure.string.lower_case(p2__39185_SHARP_));
 }),cljs.core.map.cljs$core$IFn$_invoke$arity$2((function (topic){
-var G__39287 = new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"topic","topic",-1960480691),topic,new cljs.core.Keyword(null,"label","label",1718410804),(function (){var G__39288 = placesurfer.edit.pure.topics.topic_i18n_key(topic);
-return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__39288) : t.call(null,G__39288));
+var G__39190 = new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"topic","topic",-1960480691),topic,new cljs.core.Keyword(null,"label","label",1718410804),(function (){var G__39191 = placesurfer.edit.pure.topics.topic_i18n_key(topic);
+return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__39191) : t.call(null,G__39191));
 })()], null);
 if(cljs.core.truth_(marker_url_fn)){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39287,new cljs.core.Keyword(null,"marker-url","marker-url",153262178),(marker_url_fn.cljs$core$IFn$_invoke$arity$1 ? marker_url_fn.cljs$core$IFn$_invoke$arity$1(topic) : marker_url_fn.call(null,topic)));
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39190,new cljs.core.Keyword(null,"marker-url","marker-url",153262178),(marker_url_fn.cljs$core$IFn$_invoke$arity$1 ? marker_url_fn.cljs$core$IFn$_invoke$arity$1(topic) : marker_url_fn.call(null,topic)));
 } else {
-return G__39287;
+return G__39190;
 }
 }),topic_keys));
 }));
@@ -52,8 +52,8 @@ placesurfer.edit.pure.topics.pins_topic_option = (function placesurfer$edit$pure
 return new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"topic","topic",-1960480691),placesurfer.edit.pure.topics.pins_topic,new cljs.core.Keyword(null,"label","label",1718410804),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("topic","pins","topic/pins",1613571862)) : t.call(null,new cljs.core.Keyword("topic","pins","topic/pins",1613571862))),new cljs.core.Keyword(null,"marker-url","marker-url",153262178),placesurfer.edit.pure.topics.pins_topic_icon_url], null);
 });
 placesurfer.edit.pure.topics.topic_options_for_dropdown = (function placesurfer$edit$pure$topics$topic_options_for_dropdown(var_args){
-var G__39293 = arguments.length;
-switch (G__39293) {
+var G__39193 = arguments.length;
+switch (G__39193) {
 case 2:
 return placesurfer.edit.pure.topics.topic_options_for_dropdown.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -79,17 +79,17 @@ return cljs.core.into.cljs$core$IFn$_invoke$arity$2(new cljs.core.PersistentVect
 (placesurfer.edit.pure.topics.topic_options_for_dropdown.cljs$lang$maxFixedArity = 3);
 
 placesurfer.edit.pure.topics.option_for_topic = (function placesurfer$edit$pure$topics$option_for_topic(options,topic){
-return cljs.core.some((function (p1__39294_SHARP_){
-if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__39294_SHARP_))){
-return p1__39294_SHARP_;
+return cljs.core.some((function (p1__39194_SHARP_){
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__39194_SHARP_))){
+return p1__39194_SHARP_;
 } else {
 return null;
 }
 }),options);
 });
 placesurfer.edit.pure.topics.dataset_topic_options = (function placesurfer$edit$pure$topics$dataset_topic_options(options){
-return cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__39295_SHARP_){
-return placesurfer.edit.pure.topics.pins_topic_QMARK_(new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__39295_SHARP_));
+return cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__39195_SHARP_){
+return placesurfer.edit.pure.topics.pins_topic_QMARK_(new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__39195_SHARP_));
 }),options));
 });
 placesurfer.edit.pure.topics.first_dataset_topic_option = (function placesurfer$edit$pure$topics$first_dataset_topic_option(options){

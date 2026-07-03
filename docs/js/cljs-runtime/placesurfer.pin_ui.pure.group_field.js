@@ -17,38 +17,38 @@ e.preventDefault();
 return placesurfer.pin_ui.pure.group_field.close_group_dropdown_BANG_(e);
 })], null)], null),label], null);
 });
-placesurfer.pin_ui.pure.group_field.group_row = (function placesurfer$pin_ui$pure$group_field$group_row(p__41217){
-var map__41218 = p__41217;
-var map__41218__$1 = cljs.core.__destructure_map(map__41218);
-var group_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41218__$1,new cljs.core.Keyword(null,"group-id","group-id",-1316082778));
-var group_options = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41218__$1,new cljs.core.Keyword(null,"group-options","group-options",-1097886023));
-var selected_label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41218__$1,new cljs.core.Keyword(null,"selected-label","selected-label",-902280703));
-var set_pin_group_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41218__$1,new cljs.core.Keyword(null,"set-pin-group!","set-pin-group!",928267686));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41218__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.group_field.group_row = (function placesurfer$pin_ui$pure$group_field$group_row(p__40853){
+var map__40854 = p__40853;
+var map__40854__$1 = cljs.core.__destructure_map(map__40854);
+var group_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40854__$1,new cljs.core.Keyword(null,"group-id","group-id",-1316082778));
+var group_options = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40854__$1,new cljs.core.Keyword(null,"group-options","group-options",-1097886023));
+var selected_label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40854__$1,new cljs.core.Keyword(null,"selected-label","selected-label",-902280703));
+var set_pin_group_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40854__$1,new cljs.core.Keyword(null,"set-pin-group!","set-pin-group!",928267686));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40854__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","group","pin/group",582469813)) : t.call(null,new cljs.core.Keyword("pin","group","pin/group",582469813)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"details.pin-group-dropdown","details.pin-group-dropdown",353037055),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"summary.pin-group-dropdown-trigger","summary.pin-group-dropdown-trigger",902838109),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.pin-group-dropdown-label","span.pin-group-dropdown-label",1558773940),selected_label], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-group-dropdown-menu","div.pin-group-dropdown-menu",256921007),placesurfer.pin_ui.pure.group_field.group_option(null,"-",(group_id == null),set_pin_group_BANG_),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$group_field$group_row_$_iter__41221(s__41222){
+return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","group","pin/group",582469813)) : t.call(null,new cljs.core.Keyword("pin","group","pin/group",582469813)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"details.pin-group-dropdown","details.pin-group-dropdown",353037055),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"summary.pin-group-dropdown-trigger","summary.pin-group-dropdown-trigger",902838109),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.pin-group-dropdown-label","span.pin-group-dropdown-label",1558773940),selected_label], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-group-dropdown-menu","div.pin-group-dropdown-menu",256921007),placesurfer.pin_ui.pure.group_field.group_option(null,"-",(group_id == null),set_pin_group_BANG_),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$group_field$group_row_$_iter__40856(s__40857){
 return (new cljs.core.LazySeq(null,(function (){
-var s__41222__$1 = s__41222;
+var s__40857__$1 = s__40857;
 while(true){
-var temp__5825__auto__ = cljs.core.seq(s__41222__$1);
+var temp__5825__auto__ = cljs.core.seq(s__40857__$1);
 if(temp__5825__auto__){
-var s__41222__$2 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__41222__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__41222__$2);
+var s__40857__$2 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__40857__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__40857__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__41224 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__41223 = (0);
+var b__40859 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__40858 = (0);
 while(true){
-if((i__41223 < size__5502__auto__)){
-var map__41225 = cljs.core._nth(c__5501__auto__,i__41223);
-var map__41225__$1 = cljs.core.__destructure_map(map__41225);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41225__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41225__$1,new cljs.core.Keyword(null,"label","label",1718410804));
-cljs.core.chunk_append(b__41224,placesurfer.pin_ui.pure.group_field.group_option(id,label,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(group_id,id),set_pin_group_BANG_));
+if((i__40858 < size__5502__auto__)){
+var map__40861 = cljs.core._nth(c__5501__auto__,i__40858);
+var map__40861__$1 = cljs.core.__destructure_map(map__40861);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40861__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40861__$1,new cljs.core.Keyword(null,"label","label",1718410804));
+cljs.core.chunk_append(b__40859,placesurfer.pin_ui.pure.group_field.group_option(id,label,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(group_id,id),set_pin_group_BANG_));
 
-var G__41233 = (i__41223 + (1));
-i__41223 = G__41233;
+var G__40867 = (i__40858 + (1));
+i__40858 = G__40867;
 continue;
 } else {
 return true;
@@ -56,16 +56,16 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__41224),placesurfer$pin_ui$pure$group_field$group_row_$_iter__41221(cljs.core.chunk_rest(s__41222__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__40859),placesurfer$pin_ui$pure$group_field$group_row_$_iter__40856(cljs.core.chunk_rest(s__40857__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__41224),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__40859),null);
 }
 } else {
-var map__41227 = cljs.core.first(s__41222__$2);
-var map__41227__$1 = cljs.core.__destructure_map(map__41227);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41227__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41227__$1,new cljs.core.Keyword(null,"label","label",1718410804));
-return cljs.core.cons(placesurfer.pin_ui.pure.group_field.group_option(id,label,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(group_id,id),set_pin_group_BANG_),placesurfer$pin_ui$pure$group_field$group_row_$_iter__41221(cljs.core.rest(s__41222__$2)));
+var map__40862 = cljs.core.first(s__40857__$2);
+var map__40862__$1 = cljs.core.__destructure_map(map__40862);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40862__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40862__$1,new cljs.core.Keyword(null,"label","label",1718410804));
+return cljs.core.cons(placesurfer.pin_ui.pure.group_field.group_option(id,label,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(group_id,id),set_pin_group_BANG_),placesurfer$pin_ui$pure$group_field$group_row_$_iter__40856(cljs.core.rest(s__40857__$2)));
 }
 } else {
 return null;

@@ -18,14 +18,14 @@ return ((cljs.core.vector_QMARK_(sexp)) && ((((!(cljs.core.map_entry_QMARK_(sexp
  */
 replicant.hiccup.update_attrs = (function replicant$hiccup$update_attrs(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___41680 = arguments.length;
-var i__5750__auto___41681 = (0);
+var len__5749__auto___41496 = arguments.length;
+var i__5750__auto___41497 = (0);
 while(true){
-if((i__5750__auto___41681 < len__5749__auto___41680)){
-args__5755__auto__.push((arguments[i__5750__auto___41681]));
+if((i__5750__auto___41497 < len__5749__auto___41496)){
+args__5755__auto__.push((arguments[i__5750__auto___41497]));
 
-var G__41682 = (i__5750__auto___41681 + (1));
-i__5750__auto___41681 = G__41682;
+var G__41498 = (i__5750__auto___41497 + (1));
+i__5750__auto___41497 = G__41498;
 continue;
 } else {
 }
@@ -47,11 +47,11 @@ return cljs.core.into.cljs$core$IFn$_invoke$arity$2(new cljs.core.PersistentVect
 (replicant.hiccup.update_attrs.cljs$lang$maxFixedArity = (1));
 
 /** @this {Function} */
-(replicant.hiccup.update_attrs.cljs$lang$applyTo = (function (seq41663){
-var G__41664 = cljs.core.first(seq41663);
-var seq41663__$1 = cljs.core.next(seq41663);
+(replicant.hiccup.update_attrs.cljs$lang$applyTo = (function (seq41455){
+var G__41456 = cljs.core.first(seq41455);
+var seq41455__$1 = cljs.core.next(seq41455);
 var self__5734__auto__ = this;
-return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__41664,seq41663__$1);
+return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__41456,seq41455__$1);
 }));
 
 /**

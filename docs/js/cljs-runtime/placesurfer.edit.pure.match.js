@@ -11,8 +11,8 @@ placesurfer.edit.pure.match.coords_exact_match_QMARK_ = (function placesurfer$ed
 return ((typeof lon_a === 'number') && (((typeof lat_a === 'number') && (((typeof lon_b === 'number') && (((typeof lat_b === 'number') && (((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(lon_a,lon_b)) && (cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(lat_a,lat_b)))))))))));
 });
 placesurfer.edit.pure.match.coords_match_QMARK_ = (function placesurfer$edit$pure$match$coords_match_QMARK_(var_args){
-var G__49828 = arguments.length;
-switch (G__49828) {
+var G__39064 = arguments.length;
+switch (G__39064) {
 case 4:
 return placesurfer.edit.pure.match.coords_match_QMARK_.cljs$core$IFn$_invoke$arity$4((arguments[(0)]),(arguments[(1)]),(arguments[(2)]),(arguments[(3)]));
 
@@ -64,13 +64,13 @@ return null;
 }),((cljs.core.sequential_QMARK_(rows))?cljs.core.vec(rows):cljs.core.PersistentVector.EMPTY));
 });
 placesurfer.edit.pure.match.normalized_place_name = (function placesurfer$edit$pure$match$normalized_place_name(name){
-var G__49854 = name;
-var G__49854__$1 = (((G__49854 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__49854));
-var G__49854__$2 = (((G__49854__$1 == null))?null:clojure.string.trim(G__49854__$1));
-if((G__49854__$2 == null)){
+var G__39089 = name;
+var G__39089__$1 = (((G__39089 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__39089));
+var G__39089__$2 = (((G__39089__$1 == null))?null:clojure.string.trim(G__39089__$1));
+if((G__39089__$2 == null)){
 return null;
 } else {
-return clojure.string.lower_case(G__49854__$2);
+return clojure.string.lower_case(G__39089__$2);
 }
 });
 /**
@@ -110,8 +110,8 @@ return null;
 }),placesurfer.edit.pure.match.vec_seq(places)));
 });
 placesurfer.edit.pure.match.closest_row_within_coord_threshold = (function placesurfer$edit$pure$match$closest_row_within_coord_threshold(var_args){
-var G__49860 = arguments.length;
-switch (G__49860) {
+var G__39105 = arguments.length;
+switch (G__39105) {
 case 3:
 return placesurfer.edit.pure.match.closest_row_within_coord_threshold.cljs$core$IFn$_invoke$arity$3((arguments[(0)]),(arguments[(1)]),(arguments[(2)]));
 
@@ -131,8 +131,8 @@ return placesurfer.edit.pure.match.closest_row_within_coord_threshold.cljs$core$
 }));
 
 (placesurfer.edit.pure.match.closest_row_within_coord_threshold.cljs$core$IFn$_invoke$arity$4 = (function (rows,longitude,latitude,threshold_m){
-var G__49861 = rows;
-var G__49861__$1 = (((G__49861 == null))?null:cljs.core.keep.cljs$core$IFn$_invoke$arity$2((function (row){
+var G__39106 = rows;
+var G__39106__$1 = (((G__39106 == null))?null:cljs.core.keep.cljs$core$IFn$_invoke$arity$2((function (row){
 var temp__5825__auto__ = placesurfer.edit.pure.match.row_coord_distance_m(row,longitude,latitude);
 if(cljs.core.truth_(temp__5825__auto__)){
 var distance = temp__5825__auto__;
@@ -144,13 +144,13 @@ return null;
 } else {
 return null;
 }
-}),G__49861));
-var G__49861__$2 = (((G__49861__$1 == null))?null:cljs.core.sort_by.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"distance","distance",-1671893894),G__49861__$1));
-var G__49861__$3 = (((G__49861__$2 == null))?null:cljs.core.first(G__49861__$2));
-if((G__49861__$3 == null)){
+}),G__39106));
+var G__39106__$2 = (((G__39106__$1 == null))?null:cljs.core.sort_by.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"distance","distance",-1671893894),G__39106__$1));
+var G__39106__$3 = (((G__39106__$2 == null))?null:cljs.core.first(G__39106__$2));
+if((G__39106__$3 == null)){
 return null;
 } else {
-return new cljs.core.Keyword(null,"row","row",-570139521).cljs$core$IFn$_invoke$arity$1(G__49861__$3);
+return new cljs.core.Keyword(null,"row","row",-570139521).cljs$core$IFn$_invoke$arity$1(G__39106__$3);
 }
 }));
 
@@ -172,8 +172,8 @@ return null;
 }),cljs.core.concat.cljs$core$IFn$_invoke$arity$2(placesurfer.edit.pure.match.vec_seq(rows),placesurfer.edit.pure.match.vec_seq(places))));
 });
 placesurfer.edit.pure.match.find_display_row_by_coords = (function placesurfer$edit$pure$match$find_display_row_by_coords(var_args){
-var G__49873 = arguments.length;
-switch (G__49873) {
+var G__39114 = arguments.length;
+switch (G__39114) {
 case 4:
 return placesurfer.edit.pure.match.find_display_row_by_coords.cljs$core$IFn$_invoke$arity$4((arguments[(0)]),(arguments[(1)]),(arguments[(2)]),(arguments[(3)]));
 

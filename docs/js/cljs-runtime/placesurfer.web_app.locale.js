@@ -11,8 +11,8 @@ placesurfer.web_app.locale.init_locale_BANG_ = (function placesurfer$web_app$loc
 return cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"locale","locale",-2115712697),placesurfer.i18n.interface$.read_locale_BANG_());
 });
 placesurfer.web_app.locale.t_for_state = (function placesurfer$web_app$locale$t_for_state(var_args){
-var G__78534 = arguments.length;
-switch (G__78534) {
+var G__40533 = arguments.length;
+switch (G__40533) {
 case 2:
 return placesurfer.web_app.locale.t_for_state.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -39,25 +39,25 @@ return placesurfer.i18n.interface$.t.cljs$core$IFn$_invoke$arity$variadic(cljs.c
 
 placesurfer.web_app.locale.make_t = (function placesurfer$web_app$locale$make_t(state){
 return (function() {
-var G__78540 = null;
-var G__78540__1 = (function (key){
+var G__40536 = null;
+var G__40536__1 = (function (key){
 return placesurfer.web_app.locale.t_for_state.cljs$core$IFn$_invoke$arity$2(state,key);
 });
-var G__78540__2 = (function (key,params){
+var G__40536__2 = (function (key,params){
 return placesurfer.web_app.locale.t_for_state.cljs$core$IFn$_invoke$arity$3(state,key,params);
 });
-G__78540 = function(key,params){
+G__40536 = function(key,params){
 switch(arguments.length){
 case 1:
-return G__78540__1.call(this,key);
+return G__40536__1.call(this,key);
 case 2:
-return G__78540__2.call(this,key,params);
+return G__40536__2.call(this,key,params);
 }
 throw(new Error('Invalid arity: ' + arguments.length));
 };
-G__78540.cljs$core$IFn$_invoke$arity$1 = G__78540__1;
-G__78540.cljs$core$IFn$_invoke$arity$2 = G__78540__2;
-return G__78540;
+G__40536.cljs$core$IFn$_invoke$arity$1 = G__40536__1;
+G__40536.cljs$core$IFn$_invoke$arity$2 = G__40536__2;
+return G__40536;
 })()
 });
 

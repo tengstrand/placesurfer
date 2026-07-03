@@ -3,7 +3,7 @@ placesurfer.i18n.pure.storage.storage_key = "settings";
 placesurfer.i18n.pure.storage.parse_settings = (function placesurfer$i18n$pure$storage$parse_settings(raw){
 if(cljs.core.seq(cljs.core.str.cljs$core$IFn$_invoke$arity$1(raw))){
 try{return cljs.reader.read_string.cljs$core$IFn$_invoke$arity$1(raw);
-}catch (e38747){var _ = e38747;
+}catch (e38736){var _ = e38736;
 return null;
 }} else {
 return null;
@@ -25,7 +25,7 @@ return cljs.core.PersistentArrayMap.EMPTY;
 } else {
 return cljs.core.PersistentArrayMap.EMPTY;
 }
-}catch (e38748){var _ = e38748;
+}catch (e38737){var _ = e38737;
 return cljs.core.PersistentArrayMap.EMPTY;
 }});
 /**
@@ -33,7 +33,7 @@ return cljs.core.PersistentArrayMap.EMPTY;
  */
 placesurfer.i18n.pure.storage.save_settings_BANG_ = (function placesurfer$i18n$pure$storage$save_settings_BANG_(settings){
 try{return localStorage.setItem(placesurfer.i18n.pure.storage.storage_key,cljs.core.pr_str.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([settings], 0)));
-}catch (e38753){var _ = e38753;
+}catch (e38738){var _ = e38738;
 return null;
 }});
 

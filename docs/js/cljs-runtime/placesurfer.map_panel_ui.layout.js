@@ -32,10 +32,10 @@ placesurfer.map_panel_ui.layout.observe_nav_BANG_ = (function placesurfer$map_pa
 var temp__5825__auto__ = document.querySelector(".nav-tabs");
 if(cljs.core.truth_(temp__5825__auto__)){
 var nav = temp__5825__auto__;
-var temp__5825__auto___37085__$1 = cljs.core.deref(placesurfer.map_panel_ui.layout._BANG_nav_observer);
-if(cljs.core.truth_(temp__5825__auto___37085__$1)){
-var old_37086 = temp__5825__auto___37085__$1;
-old_37086.disconnect();
+var temp__5825__auto___37048__$1 = cljs.core.deref(placesurfer.map_panel_ui.layout._BANG_nav_observer);
+if(cljs.core.truth_(temp__5825__auto___37048__$1)){
+var old_37049 = temp__5825__auto___37048__$1;
+old_37049.disconnect();
 } else {
 }
 

@@ -78,6 +78,11 @@ placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(
 
 return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
 });
+placesurfer.pin_ui.handlers.form.set_pin_agent_name_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_agent_name_BANG_(v){
+placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),v);
+
+return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
+});
 placesurfer.pin_ui.handlers.form.set_pin_description_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_description_BANG_(v){
 placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"description","description",-1428560544),v);
 

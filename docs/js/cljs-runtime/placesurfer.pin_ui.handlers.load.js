@@ -1,7 +1,7 @@
 goog.provide('placesurfer.pin_ui.handlers.load');
 placesurfer.pin_ui.handlers.load.load_pin_icons_BANG_ = (function placesurfer$pin_ui$handlers$load$load_pin_icons_BANG_(){
-return fetch("/data/pin-icons.json").then((function (p1__95807_SHARP_){
-return p1__95807_SHARP_.json();
+return fetch("/data/pin-icons.json").then((function (p1__40404_SHARP_){
+return p1__40404_SHARP_.json();
 })).then((function (data){
 placesurfer.pin_ui.pure.forms.set_icon_options_BANG_(cljs.core.js__GT_clj.cljs$core$IFn$_invoke$arity$variadic(data,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"keywordize-keys","keywordize-keys",1310784252),false], 0)));
 

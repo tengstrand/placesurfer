@@ -40,7 +40,11 @@
     loadImplementation("boneo-bookmarklet.js");
     return;
   }
+  if (/hemkartan\.se/i.test(href)) {
+    loadImplementation("hemkartan-bookmarklet.js");
+    return;
+  }
   window.alert(
-    "Open a listing on Hemnet or Boneo, or a place on Google Maps, then click Copy place."
+    "Open a listing on Hemnet or Boneo, a place on Google Maps or Hemkartan, then click Copy place."
   );
 })();

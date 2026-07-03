@@ -47,10 +47,10 @@ placesurfer.clipboard_ui.handlers.pin_editor.apply_form_to_editor_BANG_(form);
 if(cljs.core.truth_(placesurfer.pin_ui.interface$.forms.form_valid_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([form], 0)))){
 placesurfer.pin_ui.interface$.handlers.rows.add_pin_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"force-new?","force-new?",-15330180),create_new_QMARK_], null)], 0));
 
-var temp__5825__auto___94903 = new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state));
-if(cljs.core.truth_(temp__5825__auto___94903)){
-var id_94906 = temp__5825__auto___94903;
-placesurfer.pin_ui.interface$.handlers.editor.load_pin_into_inline_editor_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([id_94906], 0));
+var temp__5825__auto___40006 = new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state));
+if(cljs.core.truth_(temp__5825__auto___40006)){
+var id_40007 = temp__5825__auto___40006;
+placesurfer.pin_ui.interface$.handlers.editor.load_pin_into_inline_editor_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([id_40007], 0));
 } else {
 }
 

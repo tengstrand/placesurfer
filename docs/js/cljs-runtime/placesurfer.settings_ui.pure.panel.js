@@ -3,57 +3,57 @@ placesurfer.settings_ui.pure.panel.locales = new cljs.core.PersistentVector(null
 placesurfer.settings_ui.pure.panel.row_class = (function placesurfer$settings_ui$pure$panel$row_class(selected_QMARK_){
 return clojure.string.join.cljs$core$IFn$_invoke$arity$2(" ",cljs.core.remove.cljs$core$IFn$_invoke$arity$2(cljs.core.nil_QMARK_,new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [(cljs.core.truth_(selected_QMARK_)?"settings-language-row--selected":null)], null)));
 });
-placesurfer.settings_ui.pure.panel.language_row = (function placesurfer$settings_ui$pure$panel$language_row(p__78569){
-var map__78570 = p__78569;
-var map__78570__$1 = cljs.core.__destructure_map(map__78570);
-var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78570__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
-var iso = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78570__$1,new cljs.core.Keyword(null,"iso","iso",-1366207543));
-var label_key = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78570__$1,new cljs.core.Keyword(null,"label-key","label-key",1868394642));
-var active_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78570__$1,new cljs.core.Keyword(null,"active?","active?",459499776));
-var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78570__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78570__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+placesurfer.settings_ui.pure.panel.language_row = (function placesurfer$settings_ui$pure$panel$language_row(p__40740){
+var map__40741 = p__40740;
+var map__40741__$1 = cljs.core.__destructure_map(map__40741);
+var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
+var iso = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"iso","iso",-1366207543));
+var label_key = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"label-key","label-key",1868394642));
+var active_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"active?","active?",459499776));
+var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.settings-language-row","button.settings-language-row",1834907204),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"class","class",-2030961996),placesurfer.settings_ui.pure.panel.row_class(active_QMARK_),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
 return (set_locale_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_locale_BANG_.cljs$core$IFn$_invoke$arity$1(locale) : set_locale_BANG_.call(null,locale));
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.settings-language-flag","span.settings-language-flag",946964322),placesurfer.nav_ui.interface$.flags.iso__GT_flag(iso)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.settings-language-label","span.settings-language-label",1781156339),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(label_key) : t.call(null,label_key))], null)], null);
 });
 placesurfer.settings_ui.pure.panel.sorted_locales = (function placesurfer$settings_ui$pure$panel$sorted_locales(t){
-return cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3((function (p1__78571_SHARP_){
-var G__78574 = new cljs.core.Keyword(null,"label-key","label-key",1868394642).cljs$core$IFn$_invoke$arity$1(p1__78571_SHARP_);
-return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__78574) : t.call(null,G__78574));
+return cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3((function (p1__40742_SHARP_){
+var G__40743 = new cljs.core.Keyword(null,"label-key","label-key",1868394642).cljs$core$IFn$_invoke$arity$1(p1__40742_SHARP_);
+return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__40743) : t.call(null,G__40743));
 }),cljs.core.compare,placesurfer.settings_ui.pure.panel.locales);
 });
-placesurfer.settings_ui.pure.panel.panel = (function placesurfer$settings_ui$pure$panel$panel(p__78588){
-var map__78589 = p__78588;
-var map__78589__$1 = cljs.core.__destructure_map(map__78589);
-var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__78589__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697),new cljs.core.Keyword(null,"en","en",88457073));
-var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__78589__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),(function (_){
+placesurfer.settings_ui.pure.panel.panel = (function placesurfer$settings_ui$pure$panel$panel(p__40744){
+var map__40745 = p__40744;
+var map__40745__$1 = cljs.core.__destructure_map(map__40745);
+var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40745__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697),new cljs.core.Keyword(null,"en","en",88457073));
+var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40745__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),(function (_){
 return null;
 }));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__78589__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40745__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-sections","div.settings-sections",-69580065),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-section","div.settings-section",-990734776),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"h2.settings-heading","h2.settings-heading",-1931125326),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","language","settings/language",1923544055)) : t.call(null,new cljs.core.Keyword("settings","language","settings/language",1923544055)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-language-list","div.settings-language-list",2081096249),(function (){var iter__5503__auto__ = (function placesurfer$settings_ui$pure$panel$panel_$_iter__78590(s__78591){
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-sections","div.settings-sections",-69580065),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-section","div.settings-section",-990734776),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"h2.settings-heading","h2.settings-heading",-1931125326),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","language","settings/language",1923544055)) : t.call(null,new cljs.core.Keyword("settings","language","settings/language",1923544055)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-language-list","div.settings-language-list",2081096249),(function (){var iter__5503__auto__ = (function placesurfer$settings_ui$pure$panel$panel_$_iter__40746(s__40747){
 return (new cljs.core.LazySeq(null,(function (){
-var s__78591__$1 = s__78591;
+var s__40747__$1 = s__40747;
 while(true){
-var temp__5825__auto__ = cljs.core.seq(s__78591__$1);
+var temp__5825__auto__ = cljs.core.seq(s__40747__$1);
 if(temp__5825__auto__){
-var s__78591__$2 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__78591__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__78591__$2);
+var s__40747__$2 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__40747__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__40747__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__78593 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__78592 = (0);
+var b__40749 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__40748 = (0);
 while(true){
-if((i__78592 < size__5502__auto__)){
-var map__78597 = cljs.core._nth(c__5501__auto__,i__78592);
-var map__78597__$1 = cljs.core.__destructure_map(map__78597);
-var spec = map__78597__$1;
-var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78597__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
-cljs.core.chunk_append(b__78593,placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))));
+if((i__40748 < size__5502__auto__)){
+var map__40750 = cljs.core._nth(c__5501__auto__,i__40748);
+var map__40750__$1 = cljs.core.__destructure_map(map__40750);
+var spec = map__40750__$1;
+var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40750__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
+cljs.core.chunk_append(b__40749,placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))));
 
-var G__78604 = (i__78592 + (1));
-i__78592 = G__78604;
+var G__40752 = (i__40748 + (1));
+i__40748 = G__40752;
 continue;
 } else {
 return true;
@@ -61,16 +61,16 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__78593),placesurfer$settings_ui$pure$panel$panel_$_iter__78590(cljs.core.chunk_rest(s__78591__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__40749),placesurfer$settings_ui$pure$panel$panel_$_iter__40746(cljs.core.chunk_rest(s__40747__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__78593),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__40749),null);
 }
 } else {
-var map__78598 = cljs.core.first(s__78591__$2);
-var map__78598__$1 = cljs.core.__destructure_map(map__78598);
-var spec = map__78598__$1;
-var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__78598__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
-return cljs.core.cons(placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))),placesurfer$settings_ui$pure$panel$panel_$_iter__78590(cljs.core.rest(s__78591__$2)));
+var map__40751 = cljs.core.first(s__40747__$2);
+var map__40751__$1 = cljs.core.__destructure_map(map__40751);
+var spec = map__40751__$1;
+var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40751__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
+return cljs.core.cons(placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))),placesurfer$settings_ui$pure$panel$panel_$_iter__40746(cljs.core.rest(s__40747__$2)));
 }
 } else {
 return null;

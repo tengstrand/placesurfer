@@ -183,14 +183,44 @@
     return null;
   }
 
+  var _apolloState = null;
+
+  function resolveRef(val) {
+    if (val && typeof val === "object" && val.__ref && _apolloState) {
+      return _apolloState[val.__ref] || val;
+    }
+    return val;
+  }
+
   function agentUrlFromNode(node) {
-    var broker = node.broker || node.brokerFirm || node.agent;
+    var broker = resolveRef(node.broker || node.brokerFirm || node.brokerAgency || node.agent);
     if (!broker || typeof broker !== "object") return null;
     return nonBlank(
       (broker.profilePage && broker.profilePage.href) ||
         broker.profilePageUrl ||
         broker.url
     );
+  }
+
+  function isGenericAgentName(name) {
+    return !name || /^mäklaren$/i.test(name.trim());
+  }
+
+  function nameFromBrokerObject(val) {
+    var broker = resolveRef(val);
+    if (!broker || typeof broker !== "object") return null;
+    var joined = [broker.givenName || broker.firstName, broker.familyName || broker.lastName]
+      .filter(Boolean).join(" ");
+    var name = nonBlank(broker.name || broker.fullName || joined);
+    return isGenericAgentName(name) ? null : name;
+  }
+
+  function agentNameFromNode(node) {
+    // brokerAgency/brokerFirm holds the agency name; prefer over individual broker
+    return nameFromBrokerObject(node.brokerAgency)
+      || nameFromBrokerObject(node.brokerFirm)
+      || nameFromBrokerObject(node.broker)
+      || nameFromBrokerObject(node.agent);
   }
 
   function agentUrlFromPage() {
@@ -204,6 +234,18 @@
           href = href.charAt(0) === "/" ? "https://www.hemnet.se" + href : null;
         }
         if (href) return href;
+      }
+    }
+    return null;
+  }
+
+  function agentNameFromPage() {
+    var anchors = document.querySelectorAll("a");
+    for (var i = 0; i < anchors.length; i++) {
+      var text = (anchors[i].textContent || "").trim();
+      if (text.indexOf("Läs mer hos") !== -1) {
+        var name = text.replace(/^Läs mer hos\s*/i, "").trim();
+        if (name && !isGenericAgentName(name)) return name;
       }
     }
     return null;
@@ -362,7 +404,8 @@
       plotArea: formattedField(node.landArea || node.land_area || node.plotArea),
       askingPrice: formattedField(node.askingPrice || node.asking_price),
       extraValues: extraValuesFrom(node),
-      agentUrl: agentUrlFromNode(node) || agentUrlFromPage()
+      agentUrl: agentUrlFromNode(node) || agentUrlFromPage(),
+      agentName: agentNameFromNode(node) || agentNameFromPage()
     };
   }
 
@@ -422,6 +465,7 @@
 
   function findListingInNextData(data) {
     var pageProps = data && data.props && data.props.pageProps;
+    _apolloState = (pageProps && pageProps.__APOLLO_STATE__) || null;
     var urlId = listingIdFromUrl();
     var direct = directListingPaths(pageProps);
     for (var i = 0; i < direct.length; i++) {
@@ -495,7 +539,8 @@
         graphqlListing.extraValues && graphqlListing.extraValues.length
           ? graphqlListing.extraValues
           : pageListing.extraValues || [],
-      agentUrl: graphqlListing.agentUrl || pageListing.agentUrl
+      agentUrl: graphqlListing.agentUrl || pageListing.agentUrl,
+      agentName: graphqlListing.agentName || pageListing.agentName
     };
   }
 

@@ -24,12 +24,12 @@ return ((edit_mode_QMARK_) || (((new_mode_QMARK_) && (cljs.core.not(inline_QMARK
 })();
 return cljs.core.into.cljs$core$IFn$_invoke$arity$2(new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-editor-form","div.pin-editor-form",452772928)], null),cljs.core.concat.cljs$core$IFn$_invoke$arity$2((cljs.core.truth_(show_form_fields_QMARK_)?placesurfer.pin_ui.pure.form_fields.field_rows(props):null),(cljs.core.truth_(show_search_QMARK_)?new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [placesurfer.pin_ui.pure.search_field.search(props)], null):null)));
 });
-placesurfer.pin_ui.pure.editor_pane.editor_pane = (function placesurfer$pin_ui$pure$editor_pane$editor_pane(p__96201){
-var map__96202 = p__96201;
-var map__96202__$1 = cljs.core.__destructure_map(map__96202);
-var props = map__96202__$1;
-var pin_message = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__96202__$1,new cljs.core.Keyword(null,"pin-message","pin-message",-1508485154));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__96202__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.editor_pane.editor_pane = (function placesurfer$pin_ui$pure$editor_pane$editor_pane(p__41077){
+var map__41078 = p__41077;
+var map__41078__$1 = cljs.core.__destructure_map(map__41078);
+var props = map__41078__$1;
+var pin_message = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41078__$1,new cljs.core.Keyword(null,"pin-message","pin-message",-1508485154));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41078__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-editor-pane","div.pin-editor-pane",646930437),placesurfer.pin_ui.pure.editor_pane.form_content(props),(function (){var temp__5825__auto__ = placesurfer.map_panel_ui.interface$.status.display_status_text(pin_message);

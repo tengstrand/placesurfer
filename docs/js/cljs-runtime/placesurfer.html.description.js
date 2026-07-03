@@ -21,10 +21,10 @@ var after = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(remaining,idx);
 var tag_end = clojure.string.index_of.cljs$core$IFn$_invoke$arity$2(after,">");
 if(cljs.core.truth_(tag_end)){
 var tag = cljs.core.subs.cljs$core$IFn$_invoke$arity$3(after,(0),(tag_end + (1)));
-var G__38813 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(after,(tag_end + (1)));
-var G__38814 = [out,placesurfer.html.description.linkify_text_segment(text),tag].join('');
-remaining = G__38813;
-out = G__38814;
+var G__38803 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(after,(tag_end + (1)));
+var G__38804 = [out,placesurfer.html.description.linkify_text_segment(text),tag].join('');
+remaining = G__38803;
+out = G__38804;
 continue;
 } else {
 return [out,placesurfer.html.description.linkify_text_segment(text),after].join('');

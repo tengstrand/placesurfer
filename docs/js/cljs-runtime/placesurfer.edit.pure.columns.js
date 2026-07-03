@@ -1,8 +1,8 @@
 goog.provide('placesurfer.edit.pure.columns');
 placesurfer.edit.pure.columns.data_column_label = (function placesurfer$edit$pure$columns$data_column_label(k,t){
-var G__49571 = k;
-var G__49571__$1 = (((G__49571 instanceof cljs.core.Keyword))?G__49571.fqn:null);
-switch (G__49571__$1) {
+var G__38843 = k;
+var G__38843__$1 = (((G__38843 instanceof cljs.core.Keyword))?G__38843.fqn:null);
+switch (G__38843__$1) {
 case "name":
 return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","name","common/name",925592102)) : t.call(null,new cljs.core.Keyword("common","name","common/name",925592102)));
 
@@ -37,8 +37,8 @@ return clojure.string.capitalize(cljs.core.name(k));
 }
 });
 placesurfer.edit.pure.columns.column_label = (function placesurfer$edit$pure$columns$column_label(var_args){
-var G__49573 = arguments.length;
-switch (G__49573) {
+var G__38846 = arguments.length;
+switch (G__38846) {
 case 1:
 return placesurfer.edit.pure.columns.column_label.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -58,9 +58,9 @@ return placesurfer.edit.pure.columns.column_label.cljs$core$IFn$_invoke$arity$2(
 }));
 
 (placesurfer.edit.pure.columns.column_label.cljs$core$IFn$_invoke$arity$2 = (function (k,t){
-var G__49574 = k;
-var G__49574__$1 = (((G__49574 instanceof cljs.core.Keyword))?G__49574.fqn:null);
-switch (G__49574__$1) {
+var G__38847 = k;
+var G__38847__$1 = (((G__38847 instanceof cljs.core.Keyword))?G__38847.fqn:null);
+switch (G__38847__$1) {
 case "action-icon":
 return "";
 

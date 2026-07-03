@@ -21,9 +21,9 @@ placesurfer.topic_ui.selection.default_discgolf_fallback = new cljs.core.Persist
  */
 placesurfer.topic_ui.selection.nav_tab_row = (function placesurfer$topic_ui$selection$nav_tab_row(topic_rows){
 var active_rows = cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"active?","active?",459499776),topic_rows));
-var fallback_discgolf = cljs.core.some((function (p1__40659_SHARP_){
-if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"discgolf","discgolf",416907656),new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40659_SHARP_))){
-return p1__40659_SHARP_;
+var fallback_discgolf = cljs.core.some((function (p1__40266_SHARP_){
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"discgolf","discgolf",416907656),new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__40266_SHARP_))){
+return p1__40266_SHARP_;
 } else {
 return null;
 }

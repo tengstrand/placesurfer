@@ -22,8 +22,8 @@ return label_str.toLowerCase().startsWith(q.toLowerCase());
 }
 });
 placesurfer.country_ui.filter.filter_countries = (function placesurfer$country_ui$filter$filter_countries(countries,query){
-return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__41017_SHARP_){
-return placesurfer.country_ui.filter.label_starts_with_QMARK_(new cljs.core.Keyword(null,"label","label",1718410804).cljs$core$IFn$_invoke$arity$1(p1__41017_SHARP_),query);
+return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__40624_SHARP_){
+return placesurfer.country_ui.filter.label_starts_with_QMARK_(new cljs.core.Keyword(null,"label","label",1718410804).cljs$core$IFn$_invoke$arity$1(p1__40624_SHARP_),query);
 }),(function (){var or__5025__auto__ = countries;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -33,11 +33,11 @@ return cljs.core.PersistentVector.EMPTY;
 })()));
 });
 placesurfer.country_ui.filter.order_selected_first = (function placesurfer$country_ui$filter$order_selected_first(countries,selected_slug){
-var selected = cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__41019_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(selected_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__41019_SHARP_));
+var selected = cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__40630_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(selected_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__40630_SHARP_));
 }),countries));
-var rest = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__41021_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(selected_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__41021_SHARP_));
+var rest = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__40631_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(selected_slug,new cljs.core.Keyword(null,"slug","slug",2029314850).cljs$core$IFn$_invoke$arity$1(p1__40631_SHARP_));
 }),countries));
 return cljs.core.into.cljs$core$IFn$_invoke$arity$2(selected,rest);
 });

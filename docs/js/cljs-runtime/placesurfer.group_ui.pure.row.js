@@ -1,14 +1,14 @@
 goog.provide('placesurfer.group_ui.pure.row');
-placesurfer.group_ui.pure.row.row = (function placesurfer$group_ui$pure$row$row(p__41440){
-var map__41441 = p__41440;
-var map__41441__$1 = cljs.core.__destructure_map(map__41441);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41441__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41441__$1,new cljs.core.Keyword(null,"label","label",1718410804));
-var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41441__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
-var select_group_row_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41441__$1,new cljs.core.Keyword(null,"select-group-row!","select-group-row!",-743191727));
-var start_group_row_edit_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41441__$1,new cljs.core.Keyword(null,"start-group-row-edit!","start-group-row-edit!",548705731));
-var delete_group_row_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41441__$1,new cljs.core.Keyword(null,"delete-group-row!","delete-group-row!",-2100724118));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41441__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.group_ui.pure.row.row = (function placesurfer$group_ui$pure$row$row(p__41126){
+var map__41127 = p__41126;
+var map__41127__$1 = cljs.core.__destructure_map(map__41127);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41127__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41127__$1,new cljs.core.Keyword(null,"label","label",1718410804));
+var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41127__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
+var select_group_row_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41127__$1,new cljs.core.Keyword(null,"select-group-row!","select-group-row!",-743191727));
+var start_group_row_edit_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41127__$1,new cljs.core.Keyword(null,"start-group-row-edit!","start-group-row-edit!",548705731));
+var delete_group_row_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__41127__$1,new cljs.core.Keyword(null,"delete-group-row!","delete-group-row!",-2100724118));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__41127__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
 return new cljs.core.PersistentVector(null, 5, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div","div",1057191632),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"data-pin-row-id","data-pin-row-id",-1547753251),id,new cljs.core.Keyword(null,"class","class",-2030961996),["group-row update-row update-row--draggable",(cljs.core.truth_(selected_QMARK_)?" update-row--selected":null)].join(''),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){

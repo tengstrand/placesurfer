@@ -10,15 +10,15 @@ var comma = str.indexOf(",");
 if((((s < (0))) && ((ms < (0))))){
 return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [n,cljs.core.unchecked_int(duration)], null);
 } else {
-var G__42009 = (((comma < (0)))?"":str.substring((comma + (1))).trimLeft());
-var G__42010 = (n + (1));
-var G__42011 = (function (){var x__5110__auto__ = duration;
+var G__41579 = (((comma < (0)))?"":str.substring((comma + (1))).trimLeft());
+var G__41580 = (n + (1));
+var G__41581 = (function (){var x__5110__auto__ = duration;
 var y__5111__auto__ = (((((s < ms)) || ((ms < (0)))))?((1000) * cljs.core.parse_double(str.substring((0),s))):cljs.core.parse_long(str.substring((0),ms)));
 return ((x__5110__auto__ > y__5111__auto__) ? x__5110__auto__ : y__5111__auto__);
 })();
-str = G__42009;
-n = G__42010;
-duration = G__42011;
+str = G__41579;
+n = G__41580;
+duration = G__41581;
 continue;
 }
 break;

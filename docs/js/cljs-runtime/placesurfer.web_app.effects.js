@@ -7,14 +7,14 @@ return placesurfer.app_ui.interface$.effects.render_BANG_();
 });
 placesurfer.web_app.effects.navigate_BANG_ = (function placesurfer$web_app$effects$navigate_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78196 = arguments.length;
-var i__5750__auto___78197 = (0);
+var len__5749__auto___39784 = arguments.length;
+var i__5750__auto___39785 = (0);
 while(true){
-if((i__5750__auto___78197 < len__5749__auto___78196)){
-args__5755__auto__.push((arguments[i__5750__auto___78197]));
+if((i__5750__auto___39785 < len__5749__auto___39784)){
+args__5755__auto__.push((arguments[i__5750__auto___39785]));
 
-var G__78198 = (i__5750__auto___78197 + (1));
-i__5750__auto___78197 = G__78198;
+var G__39786 = (i__5750__auto___39785 + (1));
+i__5750__auto___39785 = G__39786;
 continue;
 } else {
 }
@@ -32,21 +32,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.navigate_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.navigate_BANG_.cljs$lang$applyTo = (function (seq78136){
+(placesurfer.web_app.effects.navigate_BANG_.cljs$lang$applyTo = (function (seq39771){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78136));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39771));
 }));
 
 placesurfer.web_app.effects.select_country_BANG_ = (function placesurfer$web_app$effects$select_country_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78200 = arguments.length;
-var i__5750__auto___78201 = (0);
+var len__5749__auto___39787 = arguments.length;
+var i__5750__auto___39788 = (0);
 while(true){
-if((i__5750__auto___78201 < len__5749__auto___78200)){
-args__5755__auto__.push((arguments[i__5750__auto___78201]));
+if((i__5750__auto___39788 < len__5749__auto___39787)){
+args__5755__auto__.push((arguments[i__5750__auto___39788]));
 
-var G__78202 = (i__5750__auto___78201 + (1));
-i__5750__auto___78201 = G__78202;
+var G__39789 = (i__5750__auto___39788 + (1));
+i__5750__auto___39788 = G__39789;
 continue;
 } else {
 }
@@ -64,21 +64,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.select_country_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.select_country_BANG_.cljs$lang$applyTo = (function (seq78153){
+(placesurfer.web_app.effects.select_country_BANG_.cljs$lang$applyTo = (function (seq39772){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78153));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39772));
 }));
 
 placesurfer.web_app.effects.resolve_update_location_from_coordinates_BANG_ = (function placesurfer$web_app$effects$resolve_update_location_from_coordinates_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78207 = arguments.length;
-var i__5750__auto___78208 = (0);
+var len__5749__auto___39791 = arguments.length;
+var i__5750__auto___39792 = (0);
 while(true){
-if((i__5750__auto___78208 < len__5749__auto___78207)){
-args__5755__auto__.push((arguments[i__5750__auto___78208]));
+if((i__5750__auto___39792 < len__5749__auto___39791)){
+args__5755__auto__.push((arguments[i__5750__auto___39792]));
 
-var G__78210 = (i__5750__auto___78208 + (1));
-i__5750__auto___78208 = G__78210;
+var G__39793 = (i__5750__auto___39792 + (1));
+i__5750__auto___39792 = G__39793;
 continue;
 } else {
 }
@@ -96,9 +96,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.resolve_update_location_from_coordinates_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.resolve_update_location_from_coordinates_BANG_.cljs$lang$applyTo = (function (seq78163){
+(placesurfer.web_app.effects.resolve_update_location_from_coordinates_BANG_.cljs$lang$applyTo = (function (seq39773){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78163));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39773));
 }));
 
 placesurfer.web_app.effects.sync_marker_pick_handler_BANG_ = (function placesurfer$web_app$effects$sync_marker_pick_handler_BANG_(){
@@ -106,14 +106,14 @@ return placesurfer.app_ui.interface$.effects.sync_marker_pick_handler_BANG_();
 });
 placesurfer.web_app.effects.reload_update_dataset_BANG_ = (function placesurfer$web_app$effects$reload_update_dataset_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78211 = arguments.length;
-var i__5750__auto___78212 = (0);
+var len__5749__auto___39794 = arguments.length;
+var i__5750__auto___39795 = (0);
 while(true){
-if((i__5750__auto___78212 < len__5749__auto___78211)){
-args__5755__auto__.push((arguments[i__5750__auto___78212]));
+if((i__5750__auto___39795 < len__5749__auto___39794)){
+args__5755__auto__.push((arguments[i__5750__auto___39795]));
 
-var G__78213 = (i__5750__auto___78212 + (1));
-i__5750__auto___78212 = G__78213;
+var G__39796 = (i__5750__auto___39795 + (1));
+i__5750__auto___39795 = G__39796;
 continue;
 } else {
 }
@@ -131,21 +131,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.reload_update_dataset_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.reload_update_dataset_BANG_.cljs$lang$applyTo = (function (seq78173){
+(placesurfer.web_app.effects.reload_update_dataset_BANG_.cljs$lang$applyTo = (function (seq39774){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78173));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39774));
 }));
 
 placesurfer.web_app.effects.sync_update_map_BANG_ = (function placesurfer$web_app$effects$sync_update_map_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78222 = arguments.length;
-var i__5750__auto___78223 = (0);
+var len__5749__auto___39797 = arguments.length;
+var i__5750__auto___39798 = (0);
 while(true){
-if((i__5750__auto___78223 < len__5749__auto___78222)){
-args__5755__auto__.push((arguments[i__5750__auto___78223]));
+if((i__5750__auto___39798 < len__5749__auto___39797)){
+args__5755__auto__.push((arguments[i__5750__auto___39798]));
 
-var G__78224 = (i__5750__auto___78223 + (1));
-i__5750__auto___78223 = G__78224;
+var G__39799 = (i__5750__auto___39798 + (1));
+i__5750__auto___39798 = G__39799;
 continue;
 } else {
 }
@@ -163,9 +163,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.sync_update_map_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.sync_update_map_BANG_.cljs$lang$applyTo = (function (seq78174){
+(placesurfer.web_app.effects.sync_update_map_BANG_.cljs$lang$applyTo = (function (seq39775){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78174));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39775));
 }));
 
 placesurfer.web_app.effects.load_topic_positions_BANG_ = (function placesurfer$web_app$effects$load_topic_positions_BANG_(topic){
@@ -173,14 +173,14 @@ return placesurfer.app_ui.interface$.effects.load_topic_positions_BANG_(topic);
 });
 placesurfer.web_app.effects.schedule_update_map_pin_sync_BANG_ = (function placesurfer$web_app$effects$schedule_update_map_pin_sync_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78227 = arguments.length;
-var i__5750__auto___78228 = (0);
+var len__5749__auto___39800 = arguments.length;
+var i__5750__auto___39801 = (0);
 while(true){
-if((i__5750__auto___78228 < len__5749__auto___78227)){
-args__5755__auto__.push((arguments[i__5750__auto___78228]));
+if((i__5750__auto___39801 < len__5749__auto___39800)){
+args__5755__auto__.push((arguments[i__5750__auto___39801]));
 
-var G__78229 = (i__5750__auto___78228 + (1));
-i__5750__auto___78228 = G__78229;
+var G__39802 = (i__5750__auto___39801 + (1));
+i__5750__auto___39801 = G__39802;
 continue;
 } else {
 }
@@ -198,21 +198,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.schedule_update_map_pin_sync_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.schedule_update_map_pin_sync_BANG_.cljs$lang$applyTo = (function (seq78179){
+(placesurfer.web_app.effects.schedule_update_map_pin_sync_BANG_.cljs$lang$applyTo = (function (seq39776){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78179));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39776));
 }));
 
 placesurfer.web_app.effects.schedule_center_on_position_BANG_ = (function placesurfer$web_app$effects$schedule_center_on_position_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78230 = arguments.length;
-var i__5750__auto___78231 = (0);
+var len__5749__auto___39804 = arguments.length;
+var i__5750__auto___39805 = (0);
 while(true){
-if((i__5750__auto___78231 < len__5749__auto___78230)){
-args__5755__auto__.push((arguments[i__5750__auto___78231]));
+if((i__5750__auto___39805 < len__5749__auto___39804)){
+args__5755__auto__.push((arguments[i__5750__auto___39805]));
 
-var G__78232 = (i__5750__auto___78231 + (1));
-i__5750__auto___78231 = G__78232;
+var G__39807 = (i__5750__auto___39805 + (1));
+i__5750__auto___39805 = G__39807;
 continue;
 } else {
 }
@@ -230,21 +230,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.schedule_center_on_position_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.schedule_center_on_position_BANG_.cljs$lang$applyTo = (function (seq78181){
+(placesurfer.web_app.effects.schedule_center_on_position_BANG_.cljs$lang$applyTo = (function (seq39777){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78181));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39777));
 }));
 
 placesurfer.web_app.effects.sync_main_map_BANG_ = (function placesurfer$web_app$effects$sync_main_map_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78233 = arguments.length;
-var i__5750__auto___78234 = (0);
+var len__5749__auto___39808 = arguments.length;
+var i__5750__auto___39809 = (0);
 while(true){
-if((i__5750__auto___78234 < len__5749__auto___78233)){
-args__5755__auto__.push((arguments[i__5750__auto___78234]));
+if((i__5750__auto___39809 < len__5749__auto___39808)){
+args__5755__auto__.push((arguments[i__5750__auto___39809]));
 
-var G__78235 = (i__5750__auto___78234 + (1));
-i__5750__auto___78234 = G__78235;
+var G__39810 = (i__5750__auto___39809 + (1));
+i__5750__auto___39809 = G__39810;
 continue;
 } else {
 }
@@ -262,21 +262,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.sync_main_map_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.sync_main_map_BANG_.cljs$lang$applyTo = (function (seq78182){
+(placesurfer.web_app.effects.sync_main_map_BANG_.cljs$lang$applyTo = (function (seq39778){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78182));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39778));
 }));
 
 placesurfer.web_app.effects.check_backend_BANG_ = (function placesurfer$web_app$effects$check_backend_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78237 = arguments.length;
-var i__5750__auto___78238 = (0);
+var len__5749__auto___39813 = arguments.length;
+var i__5750__auto___39814 = (0);
 while(true){
-if((i__5750__auto___78238 < len__5749__auto___78237)){
-args__5755__auto__.push((arguments[i__5750__auto___78238]));
+if((i__5750__auto___39814 < len__5749__auto___39813)){
+args__5755__auto__.push((arguments[i__5750__auto___39814]));
 
-var G__78239 = (i__5750__auto___78238 + (1));
-i__5750__auto___78238 = G__78239;
+var G__39815 = (i__5750__auto___39814 + (1));
+i__5750__auto___39814 = G__39815;
 continue;
 } else {
 }
@@ -294,21 +294,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.check_backend_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.check_backend_BANG_.cljs$lang$applyTo = (function (seq78185){
+(placesurfer.web_app.effects.check_backend_BANG_.cljs$lang$applyTo = (function (seq39781){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78185));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39781));
 }));
 
 placesurfer.web_app.effects.track_page_BANG_ = (function placesurfer$web_app$effects$track_page_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___78240 = arguments.length;
-var i__5750__auto___78241 = (0);
+var len__5749__auto___39816 = arguments.length;
+var i__5750__auto___39817 = (0);
 while(true){
-if((i__5750__auto___78241 < len__5749__auto___78240)){
-args__5755__auto__.push((arguments[i__5750__auto___78241]));
+if((i__5750__auto___39817 < len__5749__auto___39816)){
+args__5755__auto__.push((arguments[i__5750__auto___39817]));
 
-var G__78242 = (i__5750__auto___78241 + (1));
-i__5750__auto___78241 = G__78242;
+var G__39818 = (i__5750__auto___39817 + (1));
+i__5750__auto___39817 = G__39818;
 continue;
 } else {
 }
@@ -326,9 +326,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interfac
 (placesurfer.web_app.effects.track_page_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.web_app.effects.track_page_BANG_.cljs$lang$applyTo = (function (seq78187){
+(placesurfer.web_app.effects.track_page_BANG_.cljs$lang$applyTo = (function (seq39782){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78187));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq39782));
 }));
 
 

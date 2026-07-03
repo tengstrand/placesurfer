@@ -35,8 +35,8 @@ placesurfer.pin_ui.pure.forms.remap_legacy_icon = (function placesurfer$pin_ui$p
 return cljs.core.get.cljs$core$IFn$_invoke$arity$3(placesurfer.pin_ui.pure.forms.legacy_icon_map,v,v);
 });
 placesurfer.pin_ui.pure.forms.normalize_icon = (function placesurfer$pin_ui$pure$forms$normalize_icon(var_args){
-var G__95150 = arguments.length;
-switch (G__95150) {
+var G__39202 = arguments.length;
+switch (G__39202) {
 case 1:
 return placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -80,7 +80,7 @@ placesurfer.pin_ui.pure.forms.icon_url = (function placesurfer$pin_ui$pure$forms
 return [placesurfer.pin_ui.pure.forms.icon_dir,cljs.core.str.cljs$core$IFn$_invoke$arity$1(placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(icon))].join('');
 });
 placesurfer.pin_ui.pure.forms.default_form = (function placesurfer$pin_ui$pure$forms$default_form(){
-return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],["","","","",placesurfer.pin_ui.pure.forms.default_icon,"","",placesurfer.pin_ui.pure.forms.default_stars,"","",""]);
+return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],["","","","",placesurfer.pin_ui.pure.forms.default_icon,"","",placesurfer.pin_ui.pure.forms.default_stars,"","","",""]);
 });
 placesurfer.pin_ui.pure.forms.coerce_text = (function placesurfer$pin_ui$pure$forms$coerce_text(v){
 if(typeof v === 'string'){
@@ -107,11 +107,11 @@ var lon = temp__5825__auto__;
 var temp__5825__auto____$1 = placesurfer.pin_ui.pure.coords.parse_decimal(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form));
 if(cljs.core.truth_(temp__5825__auto____$1)){
 var lat = temp__5825__auto____$1;
-var G__95151 = cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"id","id",-1388402092),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[clojure.string.trim(placesurfer.pin_ui.pure.forms.sanitize_description(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"location","location",1815599388).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(form))),lon,placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(form)),id,clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"url","url",276297046).cljs$core$IFn$_invoke$arity$1(form))),lat,placesurfer.pin_ui.pure.forms.normalize_stars(new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(form)))]);
+var G__39204 = cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"id","id",-1388402092),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[clojure.string.trim(placesurfer.pin_ui.pure.forms.sanitize_description(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"location","location",1815599388).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(form))),lon,placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(form)),id,clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"url","url",276297046).cljs$core$IFn$_invoke$arity$1(form))),lat,placesurfer.pin_ui.pure.forms.normalize_stars(new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-name","agent-name",-916187942).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(form)))]);
 if(cljs.core.seq(clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form))))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__95151,new cljs.core.Keyword(null,"radii","radii",-39552793),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form))));
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__39204,new cljs.core.Keyword(null,"radii","radii",-39552793),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form))));
 } else {
-return G__95151;
+return G__39204;
 }
 } else {
 return null;
@@ -122,7 +122,7 @@ return null;
 });
 placesurfer.pin_ui.pure.forms.item__GT_form = (function placesurfer$pin_ui$pure$forms$item__GT_form(item){
 if(cljs.core.truth_(item)){
-return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(item)),((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item) === 'number')?cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item)):placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item))),placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(item);
+return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(item)),((typeof new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item) === 'number')?cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item)):placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(item))),placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(item);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
@@ -139,7 +139,7 @@ return or__5025__auto____$1;
 return "0-stars.png";
 }
 }
-})()),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"address","address",559499426).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(item))]);
+})()),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-name","agent-name",-916187942).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"address","address",559499426).cljs$core$IFn$_invoke$arity$1(item)),placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(item))]);
 } else {
 return placesurfer.pin_ui.pure.forms.default_form();
 }
@@ -151,8 +151,8 @@ var and__5023__auto____$1 = placesurfer.pin_ui.pure.coords.valid_longitude_QMARK
 if(and__5023__auto____$1){
 var and__5023__auto____$2 = placesurfer.pin_ui.pure.coords.valid_latitude_QMARK_(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form));
 if(and__5023__auto____$2){
-var G__95152 = new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form);
-return (placesurfer.pin_ui.pure.forms.radii_valid_QMARK_.cljs$core$IFn$_invoke$arity$1 ? placesurfer.pin_ui.pure.forms.radii_valid_QMARK_.cljs$core$IFn$_invoke$arity$1(G__95152) : placesurfer.pin_ui.pure.forms.radii_valid_QMARK_.call(null,G__95152));
+var G__39216 = new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form);
+return (placesurfer.pin_ui.pure.forms.radii_valid_QMARK_.cljs$core$IFn$_invoke$arity$1 ? placesurfer.pin_ui.pure.forms.radii_valid_QMARK_.cljs$core$IFn$_invoke$arity$1(G__39216) : placesurfer.pin_ui.pure.forms.radii_valid_QMARK_.call(null,G__39216));
 } else {
 return and__5023__auto____$2;
 }
@@ -167,7 +167,7 @@ return and__5023__auto__;
  * Build edit form values from a Photon result, keeping url/description.
  */
 placesurfer.pin_ui.pure.forms.form_from_search_result = (function placesurfer$pin_ui$pure$forms$form_from_search_result(result,pin_form){
-return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[(function (){var or__5025__auto__ = new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(pin_form);
+return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[(function (){var or__5025__auto__ = new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(pin_form);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
@@ -203,6 +203,12 @@ return or__5025__auto__;
 } else {
 return "";
 }
+})(),(function (){var or__5025__auto__ = new cljs.core.Keyword(null,"agent-name","agent-name",-916187942).cljs$core$IFn$_invoke$arity$1(pin_form);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
 })(),(function (){var or__5025__auto__ = new cljs.core.Keyword(null,"location","location",1815599388).cljs$core$IFn$_invoke$arity$1(pin_form);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -218,7 +224,7 @@ return "";
 })()]);
 });
 placesurfer.pin_ui.pure.forms.form_field_values = (function placesurfer$pin_ui$pure$forms$form_field_values(form){
-return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(form))),placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"url","url",276297046).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form))),placesurfer.pin_ui.pure.forms.normalize_stars(new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"location","location",1815599388).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(form)))]);
+return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"radii","radii",-39552793),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(form))),placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"url","url",276297046).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form))),placesurfer.pin_ui.pure.forms.normalize_stars(new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-name","agent-name",-916187942).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"location","location",1815599388).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(form)))]);
 });
 placesurfer.pin_ui.pure.forms.form_edited_from_baseline_QMARK_ = (function placesurfer$pin_ui$pure$forms$form_edited_from_baseline_QMARK_(form,baseline){
 return (((!((baseline == null)))) && (cljs.core.not_EQ_.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.pure.forms.form_field_values(form),placesurfer.pin_ui.pure.forms.form_field_values(baseline))));
@@ -237,8 +243,8 @@ return "center";
  * Pixel offset [x y] to compensate for whitespace below the visual tip in pin images.
  */
 placesurfer.pin_ui.pure.forms.pin_icon_marker_offset = (function placesurfer$pin_ui$pure$forms$pin_icon_marker_offset(icon){
-var G__95153 = icon;
-switch (G__95153) {
+var G__39234 = icon;
+switch (G__39234) {
 case "pin-orange.png":
 return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [(0),(2)], null);
 
@@ -264,11 +270,11 @@ placesurfer.pin_ui.pure.forms.parse_radii = (function placesurfer$pin_ui$pure$fo
 var trimmed = clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s));
 if(cljs.core.seq(trimmed)){
 var parts = clojure.string.split.cljs$core$IFn$_invoke$arity$2(trimmed,/\s*,\s*/);
-var nums = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__95154_SHARP_){
-return parseFloat(p1__95154_SHARP_);
+var nums = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__39235_SHARP_){
+return parseFloat(p1__39235_SHARP_);
 }),parts);
-if(cljs.core.every_QMARK_((function (p1__95155_SHARP_){
-return ((typeof p1__95155_SHARP_ === 'number') && (((cljs.core.not(isNaN(p1__95155_SHARP_))) && ((((p1__95155_SHARP_ > (0))) && ((p1__95155_SHARP_ <= (20000))))))));
+if(cljs.core.every_QMARK_((function (p1__39236_SHARP_){
+return ((typeof p1__39236_SHARP_ === 'number') && (((cljs.core.not(isNaN(p1__39236_SHARP_))) && ((((p1__39236_SHARP_ > (0))) && ((p1__39236_SHARP_ <= (20000))))))));
 }),nums)){
 return nums;
 } else {

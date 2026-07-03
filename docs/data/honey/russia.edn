@@ -1,7 +1,7 @@
 {:dataset :honey,
  :country "russia",
  :count 93,
- :generated-at "2026-07-02T06:45:46.642109Z",
+ :generated-at "2026-07-02T06:51:54.273569Z",
  :positions
  [{:name "24medok.ru",
    :longitude 90.02314,
