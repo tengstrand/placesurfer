@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="10" />
+    <meta name="app-version" content="12" />
     <!-- Google tag (gtag.js) -->
     <script
       async
@@ -204,18 +204,6 @@
         flex-shrink: 0;
         display: block;
       }
-      .nav-layers-tab::part(base) {
-        min-width: 2.4rem;
-        padding-left: 0.45rem;
-        padding-right: 0.45rem;
-      }
-      .nav-layers-icon {
-        width: 1rem;
-        height: 1rem;
-        object-fit: contain;
-        flex-shrink: 0;
-        display: block;
-      }
       .nav-settings-tab::part(base) {
         min-width: 2.4rem;
         padding-left: 0.45rem;
@@ -280,6 +268,7 @@
       .app[data-page="home"] .workspace,
       .app[data-page="country"] .workspace,
       .app[data-page="topic"] .workspace,
+      .app[data-page="layers"] .workspace,
       .app[data-page="draw"] .workspace {
         height: 0;
         min-height: 0;
@@ -305,7 +294,8 @@
         background: #fff;
       }
       .app[data-page="country"] .country-sidebar-panel,
-      .app[data-page="topic"] .topic-sidebar-panel {
+      .app[data-page="topic"] .topic-sidebar-panel,
+      .app[data-page="layers"] .topic-sidebar-panel {
         position: fixed;
         top: var(--map-top);
         left: var(--map-side);
@@ -313,6 +303,21 @@
         width: var(--sidebar-width);
         overflow-y: auto;
         z-index: 2;
+      }
+      .topic-layers-divider {
+        border: none;
+        border-top: 1px solid #e5e7eb;
+        margin: 0.5rem 0 0;
+      }
+      .layers-section {
+        padding: 0.25rem 0;
+      }
+      .layer-row {
+        padding: 0.1rem 0;
+        font-size: 0.8125rem;
+      }
+      .layer-row sl-checkbox::part(base) {
+        font-size: var(--sl-font-size-x-small);
       }
       .admin-sidebar-panel {
         flex: 0 0 18rem;
@@ -432,6 +437,7 @@
       }
       .app[data-page="country"] .map-area,
       .app[data-page="topic"] .map-area,
+      .app[data-page="layers"] .map-area,
       .app[data-page="draw"] .map-area {
         position: fixed;
         top: var(--map-top);
@@ -3299,6 +3305,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1783090225118"></script>
+    <script src="js/main.js?v=1783170063752"></script>
   </body>
 </html>
