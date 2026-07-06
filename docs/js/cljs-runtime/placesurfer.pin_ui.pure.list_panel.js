@@ -26,12 +26,12 @@ return placesurfer.map_ui.interface$.set_marker_row_emphasis_BANG_(match);
 return placesurfer.map_ui.interface$.clear_marker_row_emphasis_BANG_();
 })], null);
 });
-placesurfer.pin_ui.pure.list_panel.topics_toggle_btn = (function placesurfer$pin_ui$pure$list_panel$topics_toggle_btn(p__63135){
-var map__63136 = p__63135;
-var map__63136__$1 = cljs.core.__destructure_map(map__63136);
-var pin_show_topics_on_map_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63136__$1,new cljs.core.Keyword(null,"pin-show-topics-on-map?","pin-show-topics-on-map?",744248117),true);
-var toggle_pin_topics_on_map_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63136__$1,new cljs.core.Keyword(null,"toggle-pin-topics-on-map!","toggle-pin-topics-on-map!",-1030377050));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63136__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.list_panel.topics_toggle_btn = (function placesurfer$pin_ui$pure$list_panel$topics_toggle_btn(p__65923){
+var map__65924 = p__65923;
+var map__65924__$1 = cljs.core.__destructure_map(map__65924);
+var pin_show_topics_on_map_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65924__$1,new cljs.core.Keyword(null,"pin-show-topics-on-map?","pin-show-topics-on-map?",744248117),true);
+var toggle_pin_topics_on_map_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65924__$1,new cljs.core.Keyword(null,"toggle-pin-topics-on-map!","toggle-pin-topics-on-map!",-1030377050));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65924__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.pin-topics-toggle-btn","button.pin-topics-toggle-btn",1762396473),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"title","title",636505583),(cljs.core.truth_(pin_show_topics_on_map_QMARK_)?(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","hide-topics-on-map","pin/hide-topics-on-map",1109995972)) : t.call(null,new cljs.core.Keyword("pin","hide-topics-on-map","pin/hide-topics-on-map",1109995972))):(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","show-topics-on-map","pin/show-topics-on-map",1838263441)) : t.call(null,new cljs.core.Keyword("pin","show-topics-on-map","pin/show-topics-on-map",1838263441)))),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (e){
@@ -40,12 +40,12 @@ e.stopPropagation();
 return (toggle_pin_topics_on_map_BANG_.cljs$core$IFn$_invoke$arity$0 ? toggle_pin_topics_on_map_BANG_.cljs$core$IFn$_invoke$arity$0() : toggle_pin_topics_on_map_BANG_.call(null));
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img","img",1442687358),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),(cljs.core.truth_(pin_show_topics_on_map_QMARK_)?"/images/visible.png":"/images/hidden.png"),new cljs.core.Keyword(null,"alt","alt",-3214426),(cljs.core.truth_(pin_show_topics_on_map_QMARK_)?(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","hide-topics-on-map","pin/hide-topics-on-map",1109995972)) : t.call(null,new cljs.core.Keyword("pin","hide-topics-on-map","pin/hide-topics-on-map",1109995972))):(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","show-topics-on-map","pin/show-topics-on-map",1838263441)) : t.call(null,new cljs.core.Keyword("pin","show-topics-on-map","pin/show-topics-on-map",1838263441))))], null)], null)], null);
 });
-placesurfer.pin_ui.pure.list_panel.preview_toggle_btn = (function placesurfer$pin_ui$pure$list_panel$preview_toggle_btn(p__63138){
-var map__63139 = p__63138;
-var map__63139__$1 = cljs.core.__destructure_map(map__63139);
-var pin_show_preview_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63139__$1,new cljs.core.Keyword(null,"pin-show-preview?","pin-show-preview?",837912811));
-var toggle_pin_preview_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63139__$1,new cljs.core.Keyword(null,"toggle-pin-preview!","toggle-pin-preview!",-1662221897));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63139__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.list_panel.preview_toggle_btn = (function placesurfer$pin_ui$pure$list_panel$preview_toggle_btn(p__65926){
+var map__65929 = p__65926;
+var map__65929__$1 = cljs.core.__destructure_map(map__65929);
+var pin_show_preview_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65929__$1,new cljs.core.Keyword(null,"pin-show-preview?","pin-show-preview?",837912811));
+var toggle_pin_preview_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65929__$1,new cljs.core.Keyword(null,"toggle-pin-preview!","toggle-pin-preview!",-1662221897));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65929__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.pin-preview-toggle-btn","button.pin-preview-toggle-btn",-940824331),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(pin_show_preview_QMARK_)?"pin-preview-toggle-btn--active":null),new cljs.core.Keyword(null,"aria-pressed","aria-pressed",-1749058631),cljs.core.boolean$(pin_show_preview_QMARK_),new cljs.core.Keyword(null,"title","title",636505583),(cljs.core.truth_(pin_show_preview_QMARK_)?(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","preview-show-table","pin/preview-show-table",1365243492)) : t.call(null,new cljs.core.Keyword("pin","preview-show-table","pin/preview-show-table",1365243492))):(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","preview-show-listing","pin/preview-show-listing",1128674996)) : t.call(null,new cljs.core.Keyword("pin","preview-show-listing","pin/preview-show-listing",1128674996)))),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (e){
@@ -57,22 +57,22 @@ return (toggle_pin_preview_BANG_.cljs$core$IFn$_invoke$arity$0 ? toggle_pin_prev
 placesurfer.pin_ui.pure.list_panel.browse_toolbar_end = (function placesurfer$pin_ui$pure$list_panel$browse_toolbar_end(props){
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-table-toolbar-end","div.update-table-toolbar-end",1563825925),placesurfer.pin_ui.pure.list_panel.topics_toggle_btn(props),placesurfer.pin_ui.pure.list_panel.preview_toggle_btn(props)], null);
 });
-placesurfer.pin_ui.pure.list_panel.toolbar = (function placesurfer$pin_ui$pure$list_panel$toolbar(p__63145){
-var map__63146 = p__63145;
-var map__63146__$1 = cljs.core.__destructure_map(map__63146);
-var props = map__63146__$1;
-var export_pins_to_clipboard_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"export-pins-to-clipboard!","export-pins-to-clipboard!",-1310589031));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63146__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.list_panel.toolbar = (function placesurfer$pin_ui$pure$list_panel$toolbar(p__65930){
+var map__65931 = p__65930;
+var map__65931__$1 = cljs.core.__destructure_map(map__65931);
+var props = map__65931__$1;
+var export_pins_to_clipboard_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"export-pins-to-clipboard!","export-pins-to-clipboard!",-1310589031));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65931__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-var delete_selected_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"delete-selected-pin!","delete-selected-pin!",844028443));
-var pin_export_copied_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"pin-export-copied?","pin-export-copied?",515928541));
-var show_preview_toggle_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63146__$1,new cljs.core.Keyword(null,"show-preview-toggle?","show-preview-toggle?",-1748844803),true);
-var paste_place_from_clipboard_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"paste-place-from-clipboard!","paste-place-from-clipboard!",-1926398880));
-var pin_edit_enabled_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"pin-edit-enabled?","pin-edit-enabled?",-1466005951));
-var create_new_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"create-new-pin!","create-new-pin!",490161225));
-var open_pin_editor_edit_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"open-pin-editor-edit!","open-pin-editor-edit!",1365408522));
-var pin_editor_inline_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63146__$1,new cljs.core.Keyword(null,"pin-editor-inline?","pin-editor-inline?",766617935));
+var delete_selected_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"delete-selected-pin!","delete-selected-pin!",844028443));
+var pin_export_copied_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"pin-export-copied?","pin-export-copied?",515928541));
+var show_preview_toggle_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65931__$1,new cljs.core.Keyword(null,"show-preview-toggle?","show-preview-toggle?",-1748844803),true);
+var paste_place_from_clipboard_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"paste-place-from-clipboard!","paste-place-from-clipboard!",-1926398880));
+var pin_edit_enabled_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"pin-edit-enabled?","pin-edit-enabled?",-1466005951));
+var create_new_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"create-new-pin!","create-new-pin!",490161225));
+var open_pin_editor_edit_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"open-pin-editor-edit!","open-pin-editor-edit!",1365408522));
+var pin_editor_inline_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65931__$1,new cljs.core.Keyword(null,"pin-editor-inline?","pin-editor-inline?",766617935));
 return new cljs.core.PersistentVector(null, 7, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-table-toolbar-controls","div.update-table-toolbar-controls",-1978219037),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.pin-new-btn","button.pin-new-btn",1111220987),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"title","title",636505583),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","new-title","pin/new-title",-2087273511)) : t.call(null,new cljs.core.Keyword("pin","new-title","pin/new-title",-2087273511))),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (e){
 e.stopPropagation();
 
@@ -96,45 +96,45 @@ return (delete_selected_pin_BANG_.cljs$core$IFn$_invoke$arity$0 ? delete_selecte
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img","img",1442687358),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/trash.png",new cljs.core.Keyword(null,"alt","alt",-3214426),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","delete","pin/delete",-1768522691)) : t.call(null,new cljs.core.Keyword("pin","delete","pin/delete",-1768522691)))], null)], null)], null),(cljs.core.truth_(show_preview_toggle_QMARK_)?placesurfer.pin_ui.pure.list_panel.preview_toggle_btn(props):null)], null);
 });
 placesurfer.pin_ui.pure.list_panel.pin_group_map = (function placesurfer$pin_ui$pure$list_panel$pin_group_map(pin_items){
-var G__63175 = pin_items;
-var vec__63178 = G__63175;
-var seq__63179 = cljs.core.seq(vec__63178);
-var first__63180 = cljs.core.first(seq__63179);
-var seq__63179__$1 = cljs.core.next(seq__63179);
-var item = first__63180;
-var rest_items = seq__63179__$1;
+var G__65941 = pin_items;
+var vec__65942 = G__65941;
+var seq__65943 = cljs.core.seq(vec__65942);
+var first__65944 = cljs.core.first(seq__65943);
+var seq__65943__$1 = cljs.core.next(seq__65943);
+var item = first__65944;
+var rest_items = seq__65943__$1;
 var current_group = null;
 var result = cljs.core.PersistentArrayMap.EMPTY;
-var G__63175__$1 = G__63175;
+var G__65941__$1 = G__65941;
 var current_group__$1 = current_group;
 var result__$1 = result;
 while(true){
-var vec__63193 = G__63175__$1;
-var seq__63194 = cljs.core.seq(vec__63193);
-var first__63195 = cljs.core.first(seq__63194);
-var seq__63194__$1 = cljs.core.next(seq__63194);
-var item__$1 = first__63195;
-var rest_items__$1 = seq__63194__$1;
+var vec__65948 = G__65941__$1;
+var seq__65949 = cljs.core.seq(vec__65948);
+var first__65950 = cljs.core.first(seq__65949);
+var seq__65949__$1 = cljs.core.next(seq__65949);
+var item__$1 = first__65950;
+var rest_items__$1 = seq__65949__$1;
 var current_group__$2 = current_group__$1;
 var result__$2 = result__$1;
 if((item__$1 == null)){
 return result__$2;
 } else {
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"separator","separator",-1628749125),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(item__$1))){
-var G__63296 = rest_items__$1;
-var G__63297 = new cljs.core.Keyword(null,"label","label",1718410804).cljs$core$IFn$_invoke$arity$1(item__$1);
-var G__63298 = result__$2;
-G__63175__$1 = G__63296;
-current_group__$1 = G__63297;
-result__$1 = G__63298;
+var G__66020 = rest_items__$1;
+var G__66021 = new cljs.core.Keyword(null,"label","label",1718410804).cljs$core$IFn$_invoke$arity$1(item__$1);
+var G__66022 = result__$2;
+G__65941__$1 = G__66020;
+current_group__$1 = G__66021;
+result__$1 = G__66022;
 continue;
 } else {
-var G__63299 = rest_items__$1;
-var G__63300 = current_group__$2;
-var G__63301 = cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(result__$2,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(item__$1),current_group__$2);
-G__63175__$1 = G__63299;
-current_group__$1 = G__63300;
-result__$1 = G__63301;
+var G__66023 = rest_items__$1;
+var G__66024 = current_group__$2;
+var G__66025 = cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(result__$2,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(item__$1),current_group__$2);
+G__65941__$1 = G__66023;
+current_group__$1 = G__66024;
+result__$1 = G__66025;
 continue;
 }
 }
@@ -142,35 +142,35 @@ break;
 }
 });
 placesurfer.pin_ui.pure.list_panel.stars_sort_key = new cljs.core.PersistentArrayMap(null, 6, ["5-stars.png",(5),"4-stars.png",(4),"3-stars.png",(3),"2-stars.png",(2),"1-star.png",(1),"0-stars.png",(0)], null);
-placesurfer.pin_ui.pure.list_panel.sorted_pin_rows = (function placesurfer$pin_ui$pure$list_panel$sorted_pin_rows(pin_rows,group_map,p__63211){
-var map__63213 = p__63211;
-var map__63213__$1 = cljs.core.__destructure_map(map__63213);
-var col = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63213__$1,new cljs.core.Keyword(null,"col","col",-1959363084),new cljs.core.Keyword(null,"stars","stars",-556837771));
-var dir = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63213__$1,new cljs.core.Keyword(null,"dir","dir",1734754661),new cljs.core.Keyword(null,"desc","desc",2093485764));
-var key_fn = (function (){var G__63214 = col;
-var G__63214__$1 = (((G__63214 instanceof cljs.core.Keyword))?G__63214.fqn:null);
-switch (G__63214__$1) {
+placesurfer.pin_ui.pure.list_panel.sorted_pin_rows = (function placesurfer$pin_ui$pure$list_panel$sorted_pin_rows(pin_rows,group_map,p__65955){
+var map__65956 = p__65955;
+var map__65956__$1 = cljs.core.__destructure_map(map__65956);
+var col = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65956__$1,new cljs.core.Keyword(null,"col","col",-1959363084),new cljs.core.Keyword(null,"stars","stars",-556837771));
+var dir = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65956__$1,new cljs.core.Keyword(null,"dir","dir",1734754661),new cljs.core.Keyword(null,"desc","desc",2093485764));
+var key_fn = (function (){var G__65957 = col;
+var G__65957__$1 = (((G__65957 instanceof cljs.core.Keyword))?G__65957.fqn:null);
+switch (G__65957__$1) {
 case "name":
-return (function (p1__63199_SHARP_){
-return clojure.string.lower_case(cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"values","values",372645556).cljs$core$IFn$_invoke$arity$1(p1__63199_SHARP_))));
+return (function (p1__65951_SHARP_){
+return clojure.string.lower_case(cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"values","values",372645556).cljs$core$IFn$_invoke$arity$1(p1__65951_SHARP_))));
 });
 
 break;
 case "group":
-return (function (p1__63201_SHARP_){
-return clojure.string.lower_case(cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.get.cljs$core$IFn$_invoke$arity$3(group_map,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__63201_SHARP_),"")));
+return (function (p1__65952_SHARP_){
+return clojure.string.lower_case(cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.get.cljs$core$IFn$_invoke$arity$3(group_map,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__65952_SHARP_),"")));
 });
 
 break;
 case "ranking":
-return (function (p1__63202_SHARP_){
-return cljs.core.get.cljs$core$IFn$_invoke$arity$3(placesurfer.pin_ui.pure.list_panel.stars_sort_key,new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"values","values",372645556).cljs$core$IFn$_invoke$arity$1(p1__63202_SHARP_)),(0));
+return (function (p1__65953_SHARP_){
+return cljs.core.get.cljs$core$IFn$_invoke$arity$3(placesurfer.pin_ui.pure.list_panel.stars_sort_key,new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"values","values",372645556).cljs$core$IFn$_invoke$arity$1(p1__65953_SHARP_)),(0));
 });
 
 break;
 default:
-return (function (p1__63203_SHARP_){
-return cljs.core.get.cljs$core$IFn$_invoke$arity$3(placesurfer.pin_ui.pure.list_panel.stars_sort_key,new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"values","values",372645556).cljs$core$IFn$_invoke$arity$1(p1__63203_SHARP_)),(0));
+return (function (p1__65954_SHARP_){
+return cljs.core.get.cljs$core$IFn$_invoke$arity$3(placesurfer.pin_ui.pure.list_panel.stars_sort_key,new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"values","values",372645556).cljs$core$IFn$_invoke$arity$1(p1__65954_SHARP_)),(0));
 });
 
 }
@@ -193,15 +193,15 @@ return null;
 }
 })], null)], null),label,(cljs.core.truth_(arrow)?new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.pin-sort-arrow","span.pin-sort-arrow",-1523156458),arrow], null):null)], null);
 });
-placesurfer.pin_ui.pure.list_panel.pin_sorted_table = (function placesurfer$pin_ui$pure$list_panel$pin_sorted_table(p__63226){
-var map__63227 = p__63226;
-var map__63227__$1 = cljs.core.__destructure_map(map__63227);
-var pin_table_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63227__$1,new cljs.core.Keyword(null,"pin-table-rows","pin-table-rows",729424278));
-var pin_items = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63227__$1,new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100));
-var pin_row_click_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63227__$1,new cljs.core.Keyword(null,"pin-row-click!","pin-row-click!",820497426));
-var pin_list_sort = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63227__$1,new cljs.core.Keyword(null,"pin-list-sort","pin-list-sort",-560539555),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"col","col",-1959363084),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"dir","dir",1734754661),new cljs.core.Keyword(null,"desc","desc",2093485764)], null));
-var set_pin_list_sort_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63227__$1,new cljs.core.Keyword(null,"set-pin-list-sort!","set-pin-list-sort!",-2050449676));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63227__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.list_panel.pin_sorted_table = (function placesurfer$pin_ui$pure$list_panel$pin_sorted_table(p__65969){
+var map__65970 = p__65969;
+var map__65970__$1 = cljs.core.__destructure_map(map__65970);
+var pin_table_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65970__$1,new cljs.core.Keyword(null,"pin-table-rows","pin-table-rows",729424278));
+var pin_items = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65970__$1,new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100));
+var pin_row_click_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65970__$1,new cljs.core.Keyword(null,"pin-row-click!","pin-row-click!",820497426));
+var pin_list_sort = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65970__$1,new cljs.core.Keyword(null,"pin-list-sort","pin-list-sort",-560539555),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"col","col",-1959363084),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"dir","dir",1734754661),new cljs.core.Keyword(null,"desc","desc",2093485764)], null));
+var set_pin_list_sort_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65970__$1,new cljs.core.Keyword(null,"set-pin-list-sort!","set-pin-list-sort!",-2050449676));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65970__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
 var group_map = placesurfer.pin_ui.pure.list_panel.pin_group_map((function (){var or__5025__auto__ = pin_items;
@@ -211,37 +211,37 @@ return or__5025__auto__;
 return cljs.core.PersistentVector.EMPTY;
 }
 })());
-var pin_only = cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__63225_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pin","pin",-2111774834),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(p1__63225_SHARP_));
+var pin_only = cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__65966_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pin","pin",-2111774834),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(p1__65966_SHARP_));
 }),pin_table_rows);
 var sorted_rows = placesurfer.pin_ui.pure.list_panel.sorted_pin_rows(pin_only,group_map,pin_list_sort);
-return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"table.update-table.pin-sorted-table","table.update-table.pin-sorted-table",-50599710),new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"colgroup","colgroup",651118645),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-icon-col","col.pin-table-icon-col",-520600509)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-name-col","col.pin-table-name-col",965303262)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-group-col","col.pin-table-group-col",80192922)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-stars-col","col.pin-table-stars-col",-400354536)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-area-col","col.pin-table-area-col",743941797)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"thead","thead",-291875296),new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.update-table-header-row","tr.update-table-header-row",-1584248135),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th","th",-545608566),""], null),placesurfer.pin_ui.pure.list_panel.sort_header((t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","name","common/name",925592102)) : t.call(null,new cljs.core.Keyword("common","name","common/name",925592102))),new cljs.core.Keyword(null,"name","name",1843675177),pin_list_sort,set_pin_list_sort_BANG_),placesurfer.pin_ui.pure.list_panel.sort_header((t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","group","pin/group",582469813)) : t.call(null,new cljs.core.Keyword("pin","group","pin/group",582469813))),new cljs.core.Keyword(null,"group","group",582596132),pin_list_sort,set_pin_list_sort_BANG_),placesurfer.pin_ui.pure.list_panel.sort_header((t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","ranking","pin/ranking",190912125)) : t.call(null,new cljs.core.Keyword("pin","ranking","pin/ranking",190912125))),new cljs.core.Keyword(null,"ranking","ranking",191056920),pin_list_sort,set_pin_list_sort_BANG_),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th","th",-545608566),""], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tbody","tbody",-80678300),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$list_panel$pin_sorted_table_$_iter__63232(s__63233){
+return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"table.update-table.pin-sorted-table","table.update-table.pin-sorted-table",-50599710),new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"colgroup","colgroup",651118645),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-icon-col","col.pin-table-icon-col",-520600509)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-name-col","col.pin-table-name-col",965303262)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-group-col","col.pin-table-group-col",80192922)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-stars-col","col.pin-table-stars-col",-400354536)], null),new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"col.pin-table-area-col","col.pin-table-area-col",743941797)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"thead","thead",-291875296),new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.update-table-header-row","tr.update-table-header-row",-1584248135),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th","th",-545608566),""], null),placesurfer.pin_ui.pure.list_panel.sort_header((t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","name","common/name",925592102)) : t.call(null,new cljs.core.Keyword("common","name","common/name",925592102))),new cljs.core.Keyword(null,"name","name",1843675177),pin_list_sort,set_pin_list_sort_BANG_),placesurfer.pin_ui.pure.list_panel.sort_header((t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","group","pin/group",582469813)) : t.call(null,new cljs.core.Keyword("pin","group","pin/group",582469813))),new cljs.core.Keyword(null,"group","group",582596132),pin_list_sort,set_pin_list_sort_BANG_),placesurfer.pin_ui.pure.list_panel.sort_header((t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","ranking","pin/ranking",190912125)) : t.call(null,new cljs.core.Keyword("pin","ranking","pin/ranking",190912125))),new cljs.core.Keyword(null,"ranking","ranking",191056920),pin_list_sort,set_pin_list_sort_BANG_),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th","th",-545608566),""], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tbody","tbody",-80678300),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$list_panel$pin_sorted_table_$_iter__65975(s__65976){
 return (new cljs.core.LazySeq(null,(function (){
-var s__63233__$1 = s__63233;
+var s__65976__$1 = s__65976;
 while(true){
-var temp__5825__auto__ = cljs.core.seq(s__63233__$1);
+var temp__5825__auto__ = cljs.core.seq(s__65976__$1);
 if(temp__5825__auto__){
-var s__63233__$2 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__63233__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__63233__$2);
+var s__65976__$2 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__65976__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__65976__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__63235 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__63234 = (0);
+var b__65978 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__65977 = (0);
 while(true){
-if((i__63234 < size__5502__auto__)){
-var map__63238 = cljs.core._nth(c__5501__auto__,i__63234);
-var map__63238__$1 = cljs.core.__destructure_map(map__63238);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63238__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63238__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
-var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63238__$1,new cljs.core.Keyword(null,"values","values",372645556));
-cljs.core.chunk_append(b__63235,cljs.core.with_meta(new cljs.core.PersistentVector(null, 7, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.update-row","tr.update-row",1410940785),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (i__63234,map__63238,map__63238__$1,id,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__63235,s__63233__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__63227,map__63227__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t){
+if((i__65977 < size__5502__auto__)){
+var map__65979 = cljs.core._nth(c__5501__auto__,i__65977);
+var map__65979__$1 = cljs.core.__destructure_map(map__65979);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65979__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65979__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
+var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65979__$1,new cljs.core.Keyword(null,"values","values",372645556));
+cljs.core.chunk_append(b__65978,cljs.core.with_meta(new cljs.core.PersistentVector(null, 7, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.update-row","tr.update-row",1410940785),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (i__65977,map__65979,map__65979__$1,id,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__65978,s__65976__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__65970,map__65970__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t){
 return (function (_){
 if(cljs.core.truth_(pin_row_click_BANG_)){
 return (pin_row_click_BANG_.cljs$core$IFn$_invoke$arity$1 ? pin_row_click_BANG_.cljs$core$IFn$_invoke$arity$1(id) : pin_row_click_BANG_.call(null,id));
 } else {
 return null;
 }
-});})(i__63234,map__63238,map__63238__$1,id,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__63235,s__63233__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__63227,map__63227__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t))
+});})(i__65977,map__65979,map__65979__$1,id,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__65978,s__65976__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__65970,map__65970__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t))
 ], null),placesurfer.pin_ui.pure.list_panel.pin_row_map_hover_handlers(id,values)], 0))], null),placesurfer.pin_ui.pure.list_panel.icon_cell(values),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.pin-table-name-cell","td.pin-table-name-cell",1988325499),cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(values))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.pin-table-group-cell","td.pin-table-group-cell",1261534088),cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.get.cljs$core$IFn$_invoke$arity$3(group_map,id,""))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.pin-table-stars-cell","td.pin-table-stars-cell",-1607215071),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.pin-table-stars-icon","img.pin-table-stars-icon",819553475),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.pin_ui.pure.forms.stars_url((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(values);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -255,8 +255,8 @@ return "0-stars.png";
 }
 })()),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),placesurfer.pin_ui.pure.list_panel.area_cell(values)], null),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"key","key",-1516042587),id], null)));
 
-var G__63314 = (i__63234 + (1));
-i__63234 = G__63314;
+var G__66031 = (i__65977 + (1));
+i__65977 = G__66031;
 continue;
 } else {
 return true;
@@ -264,24 +264,24 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__63235),placesurfer$pin_ui$pure$list_panel$pin_sorted_table_$_iter__63232(cljs.core.chunk_rest(s__63233__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__65978),placesurfer$pin_ui$pure$list_panel$pin_sorted_table_$_iter__65975(cljs.core.chunk_rest(s__65976__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__63235),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__65978),null);
 }
 } else {
-var map__63239 = cljs.core.first(s__63233__$2);
-var map__63239__$1 = cljs.core.__destructure_map(map__63239);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63239__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63239__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
-var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63239__$1,new cljs.core.Keyword(null,"values","values",372645556));
-return cljs.core.cons(cljs.core.with_meta(new cljs.core.PersistentVector(null, 7, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.update-row","tr.update-row",1410940785),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (map__63239,map__63239__$1,id,selected_QMARK_,values,s__63233__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__63227,map__63227__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t){
+var map__65980 = cljs.core.first(s__65976__$2);
+var map__65980__$1 = cljs.core.__destructure_map(map__65980);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65980__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65980__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
+var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65980__$1,new cljs.core.Keyword(null,"values","values",372645556));
+return cljs.core.cons(cljs.core.with_meta(new cljs.core.PersistentVector(null, 7, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.update-row","tr.update-row",1410940785),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (map__65980,map__65980__$1,id,selected_QMARK_,values,s__65976__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__65970,map__65970__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t){
 return (function (_){
 if(cljs.core.truth_(pin_row_click_BANG_)){
 return (pin_row_click_BANG_.cljs$core$IFn$_invoke$arity$1 ? pin_row_click_BANG_.cljs$core$IFn$_invoke$arity$1(id) : pin_row_click_BANG_.call(null,id));
 } else {
 return null;
 }
-});})(map__63239,map__63239__$1,id,selected_QMARK_,values,s__63233__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__63227,map__63227__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t))
+});})(map__65980,map__65980__$1,id,selected_QMARK_,values,s__65976__$2,temp__5825__auto__,group_map,pin_only,sorted_rows,map__65970,map__65970__$1,pin_table_rows,pin_items,pin_row_click_BANG_,pin_list_sort,set_pin_list_sort_BANG_,t))
 ], null),placesurfer.pin_ui.pure.list_panel.pin_row_map_hover_handlers(id,values)], 0))], null),placesurfer.pin_ui.pure.list_panel.icon_cell(values),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.pin-table-name-cell","td.pin-table-name-cell",1988325499),cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(values))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.pin-table-group-cell","td.pin-table-group-cell",1261534088),cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.get.cljs$core$IFn$_invoke$arity$3(group_map,id,""))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.pin-table-stars-cell","td.pin-table-stars-cell",-1607215071),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.pin-table-stars-icon","img.pin-table-stars-icon",819553475),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.pin_ui.pure.forms.stars_url((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(values);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -293,7 +293,7 @@ return or__5025__auto____$1;
 return "0-stars.png";
 }
 }
-})()),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),placesurfer.pin_ui.pure.list_panel.area_cell(values)], null),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"key","key",-1516042587),id], null)),placesurfer$pin_ui$pure$list_panel$pin_sorted_table_$_iter__63232(cljs.core.rest(s__63233__$2)));
+})()),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),placesurfer.pin_ui.pure.list_panel.area_cell(values)], null),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"key","key",-1516042587),id], null)),placesurfer$pin_ui$pure$list_panel$pin_sorted_table_$_iter__65975(cljs.core.rest(s__65976__$2)));
 }
 } else {
 return null;
@@ -305,36 +305,36 @@ break;
 return iter__5503__auto__(sorted_rows);
 })()], null)], null);
 });
-placesurfer.pin_ui.pure.list_panel.preview_list = (function placesurfer$pin_ui$pure$list_panel$preview_list(p__63243){
-var map__63247 = p__63243;
-var map__63247__$1 = cljs.core.__destructure_map(map__63247);
-var props = map__63247__$1;
-var pin_table_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63247__$1,new cljs.core.Keyword(null,"pin-table-rows","pin-table-rows",729424278));
-var pin_row_click_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63247__$1,new cljs.core.Keyword(null,"pin-row-click!","pin-row-click!",820497426));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63247__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.list_panel.preview_list = (function placesurfer$pin_ui$pure$list_panel$preview_list(p__65981){
+var map__65982 = p__65981;
+var map__65982__$1 = cljs.core.__destructure_map(map__65982);
+var props = map__65982__$1;
+var pin_table_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65982__$1,new cljs.core.Keyword(null,"pin-table-rows","pin-table-rows",729424278));
+var pin_row_click_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65982__$1,new cljs.core.Keyword(null,"pin-row-click!","pin-row-click!",820497426));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65982__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-list","div.pin-preview-list",1216848616),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$list_panel$preview_list_$_iter__63254(s__63255){
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-list","div.pin-preview-list",1216848616),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$list_panel$preview_list_$_iter__65983(s__65984){
 return (new cljs.core.LazySeq(null,(function (){
-var s__63255__$1 = s__63255;
+var s__65984__$1 = s__65984;
 while(true){
-var temp__5825__auto__ = cljs.core.seq(s__63255__$1);
+var temp__5825__auto__ = cljs.core.seq(s__65984__$1);
 if(temp__5825__auto__){
-var s__63255__$2 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__63255__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__63255__$2);
+var s__65984__$2 = temp__5825__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__65984__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__65984__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__63257 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__63256 = (0);
+var b__65986 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__65985 = (0);
 while(true){
-if((i__63256 < size__5502__auto__)){
-var map__63260 = cljs.core._nth(c__5501__auto__,i__63256);
-var map__63260__$1 = cljs.core.__destructure_map(map__63260);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63260__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var kind = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63260__$1,new cljs.core.Keyword(null,"kind","kind",-717265803));
-var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63260__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
-var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63260__$1,new cljs.core.Keyword(null,"values","values",372645556));
-cljs.core.chunk_append(b__63257,((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(kind,new cljs.core.Keyword(null,"separator","separator",-1628749125)))?placesurfer.pin_ui.pure.separator_row.preview_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(props,new cljs.core.Keyword(null,"id","id",-1388402092),id,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"selected?","selected?",-742502788),selected_QMARK_,new cljs.core.Keyword(null,"values","values",372645556),values], 0))):new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-row.update-row","div.pin-preview-row.update-row",41520848),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"data-pin-row-id","data-pin-row-id",-1547753251),id,new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (i__63256,map__63260,map__63260__$1,id,kind,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__63257,s__63255__$2,temp__5825__auto__,map__63247,map__63247__$1,props,pin_table_rows,pin_row_click_BANG_,t){
+if((i__65985 < size__5502__auto__)){
+var map__65987 = cljs.core._nth(c__5501__auto__,i__65985);
+var map__65987__$1 = cljs.core.__destructure_map(map__65987);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65987__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var kind = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65987__$1,new cljs.core.Keyword(null,"kind","kind",-717265803));
+var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65987__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
+var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65987__$1,new cljs.core.Keyword(null,"values","values",372645556));
+cljs.core.chunk_append(b__65986,((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(kind,new cljs.core.Keyword(null,"separator","separator",-1628749125)))?placesurfer.pin_ui.pure.separator_row.preview_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(props,new cljs.core.Keyword(null,"id","id",-1388402092),id,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"selected?","selected?",-742502788),selected_QMARK_,new cljs.core.Keyword(null,"values","values",372645556),values], 0))):new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-row.update-row","div.pin-preview-row.update-row",41520848),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"data-pin-row-id","data-pin-row-id",-1547753251),id,new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (i__65985,map__65987,map__65987__$1,id,kind,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__65986,s__65984__$2,temp__5825__auto__,map__65982,map__65982__$1,props,pin_table_rows,pin_row_click_BANG_,t){
 return (function (e){
 if(cljs.core.truth_(e.target.closest("a"))){
 return null;
@@ -345,11 +345,11 @@ return (pin_row_click_BANG_.cljs$core$IFn$_invoke$arity$1 ? pin_row_click_BANG_.
 return null;
 }
 }
-});})(i__63256,map__63260,map__63260__$1,id,kind,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__63257,s__63255__$2,temp__5825__auto__,map__63247,map__63247__$1,props,pin_table_rows,pin_row_click_BANG_,t))
+});})(i__65985,map__65987,map__65987__$1,id,kind,selected_QMARK_,values,c__5501__auto__,size__5502__auto__,b__65986,s__65984__$2,temp__5825__auto__,map__65982,map__65982__$1,props,pin_table_rows,pin_row_click_BANG_,t))
 ], null),placesurfer.pin_ui.pure.list_panel.pin_row_map_hover_handlers(id,values)], 0))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-row-content","div.pin-preview-row-content",1959144822),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"innerHTML","innerHTML",-1856751343),placesurfer.map_ui.interface$.popup_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([values,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"source-label","source-label",585601639),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)) : t.call(null,new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)))], null)], 0))], null)], null)], null)));
 
-var G__63317 = (i__63256 + (1));
-i__63256 = G__63317;
+var G__66035 = (i__65985 + (1));
+i__65985 = G__66035;
 continue;
 } else {
 return true;
@@ -357,18 +357,18 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__63257),placesurfer$pin_ui$pure$list_panel$preview_list_$_iter__63254(cljs.core.chunk_rest(s__63255__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__65986),placesurfer$pin_ui$pure$list_panel$preview_list_$_iter__65983(cljs.core.chunk_rest(s__65984__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__63257),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__65986),null);
 }
 } else {
-var map__63270 = cljs.core.first(s__63255__$2);
-var map__63270__$1 = cljs.core.__destructure_map(map__63270);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63270__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var kind = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63270__$1,new cljs.core.Keyword(null,"kind","kind",-717265803));
-var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63270__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
-var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63270__$1,new cljs.core.Keyword(null,"values","values",372645556));
-return cljs.core.cons(((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(kind,new cljs.core.Keyword(null,"separator","separator",-1628749125)))?placesurfer.pin_ui.pure.separator_row.preview_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(props,new cljs.core.Keyword(null,"id","id",-1388402092),id,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"selected?","selected?",-742502788),selected_QMARK_,new cljs.core.Keyword(null,"values","values",372645556),values], 0))):new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-row.update-row","div.pin-preview-row.update-row",41520848),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"data-pin-row-id","data-pin-row-id",-1547753251),id,new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (map__63270,map__63270__$1,id,kind,selected_QMARK_,values,s__63255__$2,temp__5825__auto__,map__63247,map__63247__$1,props,pin_table_rows,pin_row_click_BANG_,t){
+var map__65988 = cljs.core.first(s__65984__$2);
+var map__65988__$1 = cljs.core.__destructure_map(map__65988);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65988__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var kind = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65988__$1,new cljs.core.Keyword(null,"kind","kind",-717265803));
+var selected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65988__$1,new cljs.core.Keyword(null,"selected?","selected?",-742502788));
+var values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65988__$1,new cljs.core.Keyword(null,"values","values",372645556));
+return cljs.core.cons(((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(kind,new cljs.core.Keyword(null,"separator","separator",-1628749125)))?placesurfer.pin_ui.pure.separator_row.preview_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(props,new cljs.core.Keyword(null,"id","id",-1388402092),id,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"selected?","selected?",-742502788),selected_QMARK_,new cljs.core.Keyword(null,"values","values",372645556),values], 0))):new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-row.update-row","div.pin-preview-row.update-row",41520848),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"data-pin-row-id","data-pin-row-id",-1547753251),id,new cljs.core.Keyword(null,"class","class",-2030961996),(cljs.core.truth_(selected_QMARK_)?"update-row--selected":null),new cljs.core.Keyword(null,"on","on",173873944),cljs.core.merge.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),((function (map__65988,map__65988__$1,id,kind,selected_QMARK_,values,s__65984__$2,temp__5825__auto__,map__65982,map__65982__$1,props,pin_table_rows,pin_row_click_BANG_,t){
 return (function (e){
 if(cljs.core.truth_(e.target.closest("a"))){
 return null;
@@ -379,8 +379,8 @@ return (pin_row_click_BANG_.cljs$core$IFn$_invoke$arity$1 ? pin_row_click_BANG_.
 return null;
 }
 }
-});})(map__63270,map__63270__$1,id,kind,selected_QMARK_,values,s__63255__$2,temp__5825__auto__,map__63247,map__63247__$1,props,pin_table_rows,pin_row_click_BANG_,t))
-], null),placesurfer.pin_ui.pure.list_panel.pin_row_map_hover_handlers(id,values)], 0))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-row-content","div.pin-preview-row-content",1959144822),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"innerHTML","innerHTML",-1856751343),placesurfer.map_ui.interface$.popup_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([values,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"source-label","source-label",585601639),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)) : t.call(null,new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)))], null)], 0))], null)], null)], null)),placesurfer$pin_ui$pure$list_panel$preview_list_$_iter__63254(cljs.core.rest(s__63255__$2)));
+});})(map__65988,map__65988__$1,id,kind,selected_QMARK_,values,s__65984__$2,temp__5825__auto__,map__65982,map__65982__$1,props,pin_table_rows,pin_row_click_BANG_,t))
+], null),placesurfer.pin_ui.pure.list_panel.pin_row_map_hover_handlers(id,values)], 0))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-preview-row-content","div.pin-preview-row-content",1959144822),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"innerHTML","innerHTML",-1856751343),placesurfer.map_ui.interface$.popup_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([values,new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"source-label","source-label",585601639),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)) : t.call(null,new cljs.core.Keyword("popup","source-label","popup/source-label",1481253299)))], null)], 0))], null)], null)], null)),placesurfer$pin_ui$pure$list_panel$preview_list_$_iter__65983(cljs.core.rest(s__65984__$2)));
 }
 } else {
 return null;
@@ -392,21 +392,21 @@ break;
 return iter__5503__auto__(pin_table_rows);
 })()], null);
 });
-placesurfer.pin_ui.pure.list_panel.list_panel = (function placesurfer$pin_ui$pure$list_panel$list_panel(p__63280){
-var map__63281 = p__63280;
-var map__63281__$1 = cljs.core.__destructure_map(map__63281);
-var props = map__63281__$1;
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63281__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.pin_ui.pure.list_panel.list_panel = (function placesurfer$pin_ui$pure$list_panel$list_panel(p__65989){
+var map__65990 = p__65989;
+var map__65990__$1 = cljs.core.__destructure_map(map__65990);
+var props = map__65990__$1;
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65990__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-var toolbar_prefix = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63281__$1,new cljs.core.Keyword(null,"toolbar-prefix","toolbar-prefix",-995925094));
-var show_preview_toggle_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63281__$1,new cljs.core.Keyword(null,"show-preview-toggle?","show-preview-toggle?",-1748844803));
-var show_toolbar_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__63281__$1,new cljs.core.Keyword(null,"show-toolbar?","show-toolbar?",1600777437),true);
-var clear_pin_table_keyboard_focus_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63281__$1,new cljs.core.Keyword(null,"clear-pin-table-keyboard-focus!","clear-pin-table-keyboard-focus!",-1772163170));
-var show_toolbar_search_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63281__$1,new cljs.core.Keyword(null,"show-toolbar-search?","show-toolbar-search?",-1693188066));
-var pin_table_keyboard_focus_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63281__$1,new cljs.core.Keyword(null,"pin-table-keyboard-focus?","pin-table-keyboard-focus?",-1363284319));
-var pin_show_preview_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63281__$1,new cljs.core.Keyword(null,"pin-show-preview?","pin-show-preview?",837912811));
-var show_topics_toggle_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__63281__$1,new cljs.core.Keyword(null,"show-topics-toggle?","show-topics-toggle?",-1672201073));
+var toolbar_prefix = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65990__$1,new cljs.core.Keyword(null,"toolbar-prefix","toolbar-prefix",-995925094));
+var show_preview_toggle_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65990__$1,new cljs.core.Keyword(null,"show-preview-toggle?","show-preview-toggle?",-1748844803));
+var show_toolbar_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65990__$1,new cljs.core.Keyword(null,"show-toolbar?","show-toolbar?",1600777437),true);
+var clear_pin_table_keyboard_focus_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65990__$1,new cljs.core.Keyword(null,"clear-pin-table-keyboard-focus!","clear-pin-table-keyboard-focus!",-1772163170));
+var show_toolbar_search_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65990__$1,new cljs.core.Keyword(null,"show-toolbar-search?","show-toolbar-search?",-1693188066));
+var pin_table_keyboard_focus_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65990__$1,new cljs.core.Keyword(null,"pin-table-keyboard-focus?","pin-table-keyboard-focus?",-1363284319));
+var pin_show_preview_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65990__$1,new cljs.core.Keyword(null,"pin-show-preview?","pin-show-preview?",837912811));
+var show_topics_toggle_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65990__$1,new cljs.core.Keyword(null,"show-topics-toggle?","show-topics-toggle?",-1672201073));
 var show_preview_toggle_QMARK__STAR_ = (((!((show_preview_toggle_QMARK_ == null))))?show_preview_toggle_QMARK_:show_toolbar_QMARK_);
 var show_toolbar_search_QMARK___$1 = new cljs.core.Keyword(null,"show-toolbar-search?","show-toolbar-search?",-1693188066).cljs$core$IFn$_invoke$arity$2(props,false);
 var toolbar_search_end_QMARK_ = new cljs.core.Keyword(null,"toolbar-search-end?","toolbar-search-end?",932086865).cljs$core$IFn$_invoke$arity$2(props,true);

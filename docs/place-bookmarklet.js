@@ -24,6 +24,9 @@
     }
     var s = document.createElement("script");
     s.src = base + "/" + name + "?t=" + Date.now();
+    s.onerror = function () {
+      window.alert("Could not load " + name + " from " + base + ".");
+    };
     document.body.appendChild(s);
   }
 
@@ -44,7 +47,15 @@
     loadImplementation("hemkartan-bookmarklet.js");
     return;
   }
+  if (/widerlov\.se/i.test(href)) {
+    loadImplementation("widerlov-bookmarklet.js");
+    return;
+  }
+  if (/fastighetsbyran\.(com|se)/i.test(href)) {
+    loadImplementation("fastighetsbyran-bookmarklet.js");
+    return;
+  }
   window.alert(
-    "Open a listing on Hemnet or Boneo, a place on Google Maps or Hemkartan, then click Copy place."
+    "Open a listing on Hemnet, Boneo, Widerlöv or Fastighetsbyrån, a place on Google Maps or Hemkartan, then click Copy place."
   );
 })();
