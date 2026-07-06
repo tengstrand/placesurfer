@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="12" />
+    <meta name="app-version" content="14" />
     <!-- Google tag (gtag.js) -->
     <script
       async
@@ -452,6 +452,9 @@
       .app[data-page="draw"] .maplibregl-ctrl-top-left .placesurfer-draw-ctrl {
         display: block;
       }
+      .app[data-page="draw"] {
+        --sidebar-width: 18rem;
+      }
       .draw-layers-panel {
         display: none;
       }
@@ -526,6 +529,64 @@
         border-top: 1px solid #e5e7eb;
         gap: 0.25rem;
         flex-shrink: 0;
+      }
+      .draw-color-picker {
+        position: relative;
+        border-top: 1px solid #e5e7eb;
+        padding: 0.75rem 0.75rem 0.6rem;
+        flex-shrink: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.6rem;
+      }
+      .draw-color-wheel-canvas {
+        border-radius: 50%;
+        display: block;
+        cursor: crosshair;
+      }
+      .draw-wheel-indicator {
+        position: absolute;
+        border-radius: 50%;
+        pointer-events: none;
+      }
+      .draw-color-preview-circle {
+        position: absolute;
+        top: 0.75rem;
+        left: 0.75rem;
+        width: 2.5rem;
+        height: 2.5rem;
+        border-radius: 50%;
+        border: 2px solid white;
+        box-shadow: 0 0 0 1px rgba(0,0,0,0.18);
+        pointer-events: none;
+      }
+      .draw-color-sliders {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+      }
+      .draw-color-row {
+        display: grid;
+        grid-template-columns: 5.5rem 1fr 2.5rem;
+        align-items: center;
+        gap: 0.4rem;
+        font-size: 0.78rem;
+      }
+      .draw-color-label {
+        color: #374151;
+      }
+      .draw-color-slider {
+        width: 100%;
+        cursor: pointer;
+        accent-color: #43a047;
+        height: 4px;
+      }
+      .draw-color-value {
+        text-align: right;
+        color: #6b7280;
+        font-variant-numeric: tabular-nums;
       }
       .map-area #map,
       .map-area .map-root {
@@ -3305,6 +3366,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1783170063752"></script>
+    <script src="js/main.js?v=1783337230560"></script>
   </body>
 </html>

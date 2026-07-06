@@ -67,6 +67,9 @@ return placesurfer.map_ui.core.deactivate_draw_mode_BANG_();
 placesurfer.map_ui.interface$.set_draw_on_save_BANG_ = (function placesurfer$map_ui$interface$set_draw_on_save_BANG_(f){
 return placesurfer.map_ui.core.set_draw_on_save_BANG_(f);
 });
+placesurfer.map_ui.interface$.set_draw_canvas_color_BANG_ = (function placesurfer$map_ui$interface$set_draw_canvas_color_BANG_(color){
+return placesurfer.map_ui.core.set_draw_canvas_color_BANG_(color);
+});
 placesurfer.map_ui.interface$.set_draw_on_map_ready_BANG_ = (function placesurfer$map_ui$interface$set_draw_on_map_ready_BANG_(f){
 return placesurfer.map_ui.core.set_draw_on_map_ready_BANG_(f);
 });
@@ -78,14 +81,14 @@ return placesurfer.map_ui.core.load_draw_layer_BANG_(layer_id);
 });
 placesurfer.map_ui.interface$.popup_html = (function placesurfer$map_ui$interface$popup_html(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___61592 = arguments.length;
-var i__5750__auto___61593 = (0);
+var len__5749__auto___63027 = arguments.length;
+var i__5750__auto___63028 = (0);
 while(true){
-if((i__5750__auto___61593 < len__5749__auto___61592)){
-args__5755__auto__.push((arguments[i__5750__auto___61593]));
+if((i__5750__auto___63028 < len__5749__auto___63027)){
+args__5755__auto__.push((arguments[i__5750__auto___63028]));
 
-var G__61594 = (i__5750__auto___61593 + (1));
-i__5750__auto___61593 = G__61594;
+var G__63029 = (i__5750__auto___63028 + (1));
+i__5750__auto___63028 = G__63029;
 continue;
 } else {
 }
@@ -103,9 +106,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.map_ui.popup.po
 (placesurfer.map_ui.interface$.popup_html.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq61561){
+(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq63026){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq61561));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq63026));
 }));
 
 

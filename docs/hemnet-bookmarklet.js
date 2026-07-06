@@ -20,6 +20,7 @@
     " supplementalArea { formatted value }" +
     " monthlyFee { formatted amount }" +
     " tenure { name }" +
+    " constructionYear" +
     " images { url }" +
     " } }";
 
@@ -251,19 +252,31 @@
     return null;
   }
 
+  function ensureKrPerMan(s) {
+    if (!s) return s;
+    return /kr\/mån/i.test(s) ? s : s + " kr/mån";
+  }
+
+  function ensureKrPerM2(s) {
+    if (!s) return s;
+    return /kr\/m/i.test(s) ? s : s + " kr/m²";
+  }
+
   function extraValuesFrom(node) {
     var extras = [];
     var monthly = formattedField(node.monthlyFee || node.fee);
+    if (monthly) extras.push(ensureKrPerMan(monthly));
     var supplemental = formattedField(node.supplementalArea || node.supplemental_area);
-    var tenure = node.tenure;
-    if (monthly) extras.push(monthly);
     if (supplemental) extras.push(supplemental);
+    var sqm = formattedField(node.square_meter_price);
+    if (sqm) extras.push(ensureKrPerM2(sqm));
+    var tenure = node.tenure;
     if (tenure && tenure.name) {
       var tenureName = nonBlank(tenure.name);
       if (tenureName) extras.push(tenureName);
     }
-    var sqm = formattedField(node.square_meter_price);
-    if (sqm) extras.push(sqm);
+    var year = node.constructionYear;
+    if (year) extras.push("byggår " + year);
     return extras;
   }
 
@@ -403,6 +416,7 @@
       livingArea: formattedField(node.livingArea || node.living_area),
       plotArea: formattedField(node.landArea || node.land_area || node.plotArea),
       askingPrice: formattedField(node.askingPrice || node.asking_price),
+      constructionYear: node.constructionYear || null,
       extraValues: extraValuesFrom(node),
       agentUrl: agentUrlFromNode(node) || agentUrlFromPage(),
       agentName: agentNameFromNode(node) || agentNameFromPage()
@@ -535,6 +549,7 @@
       livingArea: graphqlListing.livingArea || pageListing.livingArea,
       plotArea: graphqlListing.plotArea || pageListing.plotArea,
       askingPrice: graphqlListing.askingPrice || pageListing.askingPrice,
+      constructionYear: graphqlListing.constructionYear || pageListing.constructionYear || null,
       extraValues:
         graphqlListing.extraValues && graphqlListing.extraValues.length
           ? graphqlListing.extraValues
