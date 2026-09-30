@@ -313,13 +313,28 @@
     return nonBlank(location.locality || location.postalCity || location.postal_city);
   }
 
+  function municipalityNameFromNode(node) {
+    // Hemnet's current listing objects carry no flat postalCity - only a
+    // municipality __ref (e.g. "Arboga kommun"). Strip the "kommun" suffix so it
+    // reads like a normal place name and works as a Photon geocoding anchor.
+    if (!node || typeof node !== "object") return null;
+    var municipality = resolveRef(node.municipality);
+    var name =
+      municipality && typeof municipality === "object"
+        ? nonBlank(municipality.fullName || municipality.name)
+        : null;
+    if (!name) return null;
+    return nonBlank(name.replace(/\s+kommun$/i, ""));
+  }
+
   function postalCityFromNode(node) {
     if (!node || typeof node !== "object") return null;
     return (
       nonBlank(node.postalCity || node.postal_city) ||
       localityFromLocation(node.location) ||
       postalCityFromLocationDescription(node.locationDescription || node.location_description) ||
-      nonBlank(node.postalArea || node.postal_area)
+      nonBlank(node.postalArea || node.postal_area) ||
+      municipalityNameFromNode(node)
     );
   }
 
