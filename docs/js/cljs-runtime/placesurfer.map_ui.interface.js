@@ -79,16 +79,31 @@ return placesurfer.map_ui.core.set_draw_t_BANG_(f);
 placesurfer.map_ui.interface$.load_draw_layer_BANG_ = (function placesurfer$map_ui$interface$load_draw_layer_BANG_(layer_id){
 return placesurfer.map_ui.core.load_draw_layer_BANG_(layer_id);
 });
+placesurfer.map_ui.interface$.set_reference_images_BANG_ = (function placesurfer$map_ui$interface$set_reference_images_BANG_(images){
+return placesurfer.map_ui.core.set_reference_images_BANG_(images);
+});
+placesurfer.map_ui.interface$.set_reference_image_adjust_BANG_ = (function placesurfer$map_ui$interface$set_reference_image_adjust_BANG_(id){
+return placesurfer.map_ui.core.set_reference_image_adjust_BANG_(id);
+});
+placesurfer.map_ui.interface$.set_reference_image_opacity_BANG_ = (function placesurfer$map_ui$interface$set_reference_image_opacity_BANG_(id,opacity){
+return placesurfer.map_ui.core.set_reference_image_opacity_BANG_(id,opacity);
+});
+placesurfer.map_ui.interface$.set_reference_image_on_change_BANG_ = (function placesurfer$map_ui$interface$set_reference_image_on_change_BANG_(f){
+return placesurfer.map_ui.core.set_reference_image_on_change_BANG_(f);
+});
+placesurfer.map_ui.interface$.set_reference_image_on_paste_BANG_ = (function placesurfer$map_ui$interface$set_reference_image_on_paste_BANG_(f){
+return placesurfer.map_ui.core.set_reference_image_on_paste_BANG_(f);
+});
 placesurfer.map_ui.interface$.popup_html = (function placesurfer$map_ui$interface$popup_html(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___66458 = arguments.length;
-var i__5750__auto___66459 = (0);
+var len__5749__auto___78372 = arguments.length;
+var i__5750__auto___78373 = (0);
 while(true){
-if((i__5750__auto___66459 < len__5749__auto___66458)){
-args__5755__auto__.push((arguments[i__5750__auto___66459]));
+if((i__5750__auto___78373 < len__5749__auto___78372)){
+args__5755__auto__.push((arguments[i__5750__auto___78373]));
 
-var G__66461 = (i__5750__auto___66459 + (1));
-i__5750__auto___66459 = G__66461;
+var G__78374 = (i__5750__auto___78373 + (1));
+i__5750__auto___78373 = G__78374;
 continue;
 } else {
 }
@@ -106,9 +121,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.map_ui.popup.po
 (placesurfer.map_ui.interface$.popup_html.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq66438){
+(placesurfer.map_ui.interface$.popup_html.cljs$lang$applyTo = (function (seq78346){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq66438));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq78346));
 }));
 
 

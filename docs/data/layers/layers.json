@@ -1,1 +1,1 @@
-[{"id":"flood","label":"Översvämningsområden","color":{"r":255,"g":198,"b":123,"lightness":54,"opacity":59}}]
+[{"id":"flood","label":"Översvämningsområden","color":{"r":255,"g":198,"b":123,"lightness":54,"opacity":59}},{"id":"bild-1783439959425","type":"image","label":"Bild 1","image-url":"https://ext.dn.se/qs/widgets/patron/oneshot/vetenskap/seaMap/local_assets/seaMap/startkarta_mobil.png","bounds":{"west":10.926161337928022,"north":61.377009038151385,"east":19.268473198149394,"south":55.01192971520797},"opacity":50}]
