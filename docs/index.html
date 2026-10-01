@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="19" />
+    <meta name="app-version" content="20" />
     <!-- Filled in at build time from the DROPBOX_APP_KEY env var (scripts/placesurfer_root.clj's
          inject-dropbox-app-key!). Never commit a real key here - this placeholder stays empty. -->
     <meta name="dropbox-app-key" content="o5r1hg4okp65k52" />
@@ -1392,6 +1392,86 @@
         flex-direction: column;
         min-height: 0;
         min-width: 0;
+      }
+      .hemnet-results-panel {
+        flex-shrink: 0;
+        max-height: 40%;
+        display: flex;
+        flex-direction: column;
+        min-height: 0;
+        border-top: 1px solid #d1d5db;
+      }
+      .hemnet-results-panel-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.4rem 0.75rem;
+        font-weight: 600;
+        font-size: 0.85rem;
+        background: #f3f4f6;
+        flex-shrink: 0;
+      }
+      .hemnet-results-clear-btn {
+        font-size: 0.75rem;
+        padding: 0.15rem 0.5rem;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        cursor: pointer;
+      }
+      .hemnet-results-clear-btn:hover {
+        background: #f3f4f6;
+      }
+      .hemnet-results-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        overflow-y: auto;
+        min-height: 0;
+      }
+      .hemnet-results-row {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.35rem 0.75rem;
+        border-bottom: 1px solid #f0f0f0;
+      }
+      .hemnet-results-row-image {
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+        border-radius: 4px;
+        flex-shrink: 0;
+      }
+      .hemnet-results-row-body {
+        flex: 1;
+        min-width: 0;
+      }
+      .hemnet-results-row-name {
+        font-size: 0.85rem;
+        font-weight: 500;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .hemnet-results-row-address {
+        font-size: 0.75rem;
+        color: #6b7280;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .hemnet-results-save-btn {
+        font-size: 0.7rem;
+        padding: 0.2rem 0.5rem;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        cursor: pointer;
+        flex-shrink: 0;
+      }
+      .hemnet-results-save-btn:hover {
+        background: #f3f4f6;
       }
       .pin-map-panel {
         position: relative;
@@ -3382,6 +3462,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1790791867759"></script>
+    <script src="js/main.js?v=1790835849033"></script>
   </body>
 </html>

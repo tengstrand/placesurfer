@@ -3,6 +3,7 @@
 
   var GRAPHQL_URL = "https://www.hemnet.se/graphql";
   var PHOTON_URL = "https://photon.komoot.io/api/";
+  var SEARCH_RESULTS_PATH_PATTERN = /^\/bostader(?:\/karta)?\/?$/;
   var GRAPHQL_QUERY =
     "query PropertyListing($id: ID!) {" +
     " listing(id: $id) {" +
@@ -650,6 +651,129 @@
     return {v: 1, type: "placesurfer/pin-list", pins: [item]};
   }
 
+  // --- Hemnet search-results (map/list) pages ---
+  // A search page (/bostader or /bostader/karta, any query string) lists many
+  // listings at once instead of one. The map view only fetches sparse
+  // coordinate/id data client-side, but the list view's own __NEXT_DATA__
+  // already embeds full ListingCard entries in its Apollo state - so on a map
+  // view we transparently fetch the equivalent list URL (same session cookies)
+  // instead of navigating the user away from the map they're looking at.
+
+  function searchResultsListUrl() {
+    if (!SEARCH_RESULTS_PATH_PATTERN.test(window.location.pathname)) return null;
+    var path = window.location.pathname.replace(/\/karta\/?$/, "");
+    if (!path) path = "/bostader";
+    return window.location.origin + path + window.location.search;
+  }
+
+  function nextDataFromHtml(html) {
+    var match = html && html.match(
+      /<script[^>]*id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/
+    );
+    if (!match) return null;
+    try {
+      return JSON.parse(match[1]);
+    } catch (error) {
+      return null;
+    }
+  }
+
+  function thumbnailsKey(card) {
+    for (var key in card) {
+      if (Object.prototype.hasOwnProperty.call(card, key) && key.indexOf("thumbnails(") === 0) {
+        return key;
+      }
+    }
+    return null;
+  }
+
+  function listingCardToNode(card) {
+    var node = {
+      id: card.id,
+      streetAddress: card.streetAddress,
+      locationDescription: card.locationDescription,
+      coordinates: card.coordinates,
+      askingPrice: card.askingPrice,
+      housingForm: card.housingForm,
+      rooms: card.rooms,
+      // ListingCard has no plain livingArea field - livingAndSupplementalAreas
+      // (e.g. "150+16 m²") is the closest equivalent shown on the card.
+      livingArea: card.livingAndSupplementalAreas,
+      landArea: card.landArea,
+      fee: card.fee
+    };
+    var thumbKey = thumbnailsKey(card);
+    if (thumbKey && card[thumbKey] && card[thumbKey].length) node.thumbnails = card[thumbKey];
+    var agencyName = nonBlank(card.brokerAgencyName) || nonBlank(card.brokerName);
+    if (agencyName) node.brokerAgency = {name: agencyName};
+    return node;
+  }
+
+  function extractSearchResultItems(data) {
+    var pageProps = data && data.props && data.props.pageProps;
+    var apollo = (pageProps && pageProps.__APOLLO_STATE__) || {};
+    _apolloState = apollo;
+    var items = [];
+    for (var key in apollo) {
+      if (!Object.prototype.hasOwnProperty.call(apollo, key)) continue;
+      if (key.indexOf("ListingCard:") !== 0) continue;
+      var card = apollo[key];
+      if (!card || !card.slug) continue;
+      var listingUrl = "https://www.hemnet.se/bostad/" + card.slug;
+      var listing = normalizeListing(listingCardToNode(card), listingUrl);
+      if (!listing || listing.latitude == null || listing.longitude == null) continue;
+      items.push({v: 1, type: "placesurfer/hemnet-listing", url: listingUrl, listing: listing});
+    }
+    return items;
+  }
+
+  function buildSearchResultsPayload(items, sourceUrl, page) {
+    return {
+      v: 1,
+      type: "placesurfer/hemnet-search-results",
+      sourceUrl: sourceUrl,
+      page: page || 1,
+      items: items
+    };
+  }
+
+  function runSearchResults(listUrl) {
+    var onListPage = window.location.pathname.indexOf("/karta") === -1;
+
+    function withData(data) {
+      if (!data) {
+        window.alert("Kunde inte läsa Hemnet-data.");
+        return;
+      }
+      var items = extractSearchResultItems(data);
+      if (!items.length) {
+        window.alert("Hittade inga bostäder i sökningen.");
+        return;
+      }
+      var page = data.props && data.props.pageProps && data.props.pageProps.page;
+      copyToClipboard(JSON.stringify(buildSearchResultsPayload(items, listUrl, page)));
+    }
+
+    if (onListPage) {
+      var script = document.getElementById("__NEXT_DATA__");
+      if (!script) {
+        window.alert("Hittade inte Hemnet-data på sidan.");
+        return;
+      }
+      try {
+        withData(JSON.parse(script.textContent));
+      } catch (error) {
+        window.alert("Kunde inte läsa Hemnet-data.");
+      }
+      return;
+    }
+
+    fetch(listUrl, {credentials: "include"})
+      .then(function (resp) { return resp.text(); })
+      .then(function (html) { withData(nextDataFromHtml(html)); })
+      .catch(function () { window.alert("Kunde inte hämta sökresultaten."); });
+  }
+
   function fetchCoordsFromPhoton(street, city) {
     var query = street ? (city ? street + ", " + city : street) : (city || "");
     if (!query) return Promise.resolve(null);
@@ -698,6 +822,12 @@
   }
 
   function run() {
+    var searchUrl = searchResultsListUrl();
+    if (searchUrl) {
+      runSearchResults(searchUrl);
+      return;
+    }
+
     var script = document.getElementById("__NEXT_DATA__");
     if (!script) {
       window.alert("Hittade inte Hemnet-data på sidan.");
