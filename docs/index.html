@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="21" />
+    <meta name="app-version" content="22" />
     <!-- Filled in at build time from the DROPBOX_APP_KEY env var (scripts/placesurfer_root.clj's
          inject-dropbox-app-key!). Never commit a real key here - this placeholder stays empty. -->
     <meta name="dropbox-app-key" content="o5r1hg4okp65k52" />
@@ -637,6 +637,12 @@
       .placesurfer-marker__visual.placesurfer-marker--row-hover,
       .placesurfer-marker__visual.placesurfer-marker--map-hover {
         transform: scale(1.3);
+      }
+      /* Hemnet-ikonen ska bli ~20% större än övriga markörer vid hover
+         (1.3 * 1.2 = 1.56). */
+      .placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--row-hover,
+      .placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--map-hover {
+        transform: scale(1.56);
       }
       .map-status {
         position: absolute;
@@ -1393,15 +1399,20 @@
         min-height: 0;
         min-width: 0;
       }
-      .hemnet-results-panel {
-        flex-shrink: 0;
-        max-height: 40%;
+      /* Hemnet search-result rows: appended after the saved pins in the
+         SAME list/table (see pin-ui/pure/list_panel.cljs + hemnet_results_panel.cljs)
+         rather than a separate panel - table-mode (<tr>/<td>) rules first,
+         then shared/preview-mode (<div>, flex) rules. */
+      .hemnet-results-divider-row .hemnet-results-divider-cell {
+        padding: 0.4rem 0.75rem;
+        font-weight: 600;
+        font-size: 0.85rem;
+        background: #f3f4f6;
         display: flex;
-        flex-direction: column;
-        min-height: 0;
-        border-top: 1px solid #d1d5db;
+        align-items: center;
+        justify-content: space-between;
       }
-      .hemnet-results-panel-header {
+      .hemnet-results-divider-row--preview {
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -1409,7 +1420,6 @@
         font-weight: 600;
         font-size: 0.85rem;
         background: #f3f4f6;
-        flex-shrink: 0;
       }
       .hemnet-results-clear-btn {
         font-size: 0.75rem;
@@ -1422,40 +1432,55 @@
       .hemnet-results-clear-btn:hover {
         background: #f3f4f6;
       }
-      .hemnet-results-list {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-        overflow-y: auto;
-        min-height: 0;
+      .hemnet-results-table-row:hover {
+        background: #f3f4f6;
       }
-      .hemnet-results-row {
+      .hemnet-results-table-row.hemnet-results-row--selected,
+      .hemnet-results-table-row.hemnet-results-row--selected:hover {
+        background: #c8e6c9;
+      }
+      .hemnet-results-table-row .pin-table-icon-cell {
+        padding-left: 0.3rem;
+      }
+      .hemnet-results-content-cell {
+        white-space: normal;
+        overflow: hidden;
+        vertical-align: middle;
+      }
+      /* Save/discard buttons live in their own cell, flush right (just
+         before the hemnet marker-icon column) rather than crammed in next
+         to the name text - keeps the name/address column's full width free
+         for the text instead of competing with the buttons for space.
+         display:flex must go on the INNER div, not the <td> itself: a
+         colspanned table-cell with display:flex directly on it collapses to
+         the width of just its first spanned column in this browser instead
+         of the full spanned width (confirmed via getBoundingClientRect). */
+      .hemnet-results-actions-cell {
+        padding: 0.2rem 0.3rem;
+        vertical-align: middle;
+      }
+      .hemnet-results-row-actions {
         display: flex;
         align-items: center;
         gap: 0.5rem;
-        padding: 0.35rem 0.75rem;
-        border-bottom: 1px solid #f0f0f0;
-        cursor: pointer;
       }
-      .hemnet-results-row:hover {
-        background: #f3f4f6;
+      /* Preview mode (large-image): Hemnet results render via the same
+         popup-html card pins use (.pin-preview-row/.pin-preview-row-content,
+         styled elsewhere). .pin-preview-row is itself a flex row designed for
+         a single flex child, so content + action bar are nested together in
+         .hemnet-results-preview-card (the actual flex child) to stack them
+         vertically instead of becoming horizontal flex siblings. */
+      .hemnet-results-preview-card {
+        display: flex;
+        flex-direction: column;
+        flex: 1 1 auto;
+        min-width: 0;
       }
-      .hemnet-results-row--selected,
-      .hemnet-results-row--selected:hover {
-        background: #c8e6c9;
-        outline: 2px solid #43a047;
-        outline-offset: -2px;
-      }
-      .hemnet-results-row-image {
-        width: 52px;
-        height: 40px;
-        object-fit: cover;
-        border-radius: 4px;
-        flex-shrink: 0;
-      }
-      .hemnet-results-row--preview .hemnet-results-row-image {
-        width: 120px;
-        height: 92px;
+      .hemnet-results-preview-actions {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0 0 0.35rem;
       }
       .hemnet-results-row-body {
         flex: 1;
@@ -1486,6 +1511,30 @@
       }
       .hemnet-results-save-btn:hover {
         background: #f3f4f6;
+      }
+      .hemnet-results-discard-btn {
+        padding: 0.3rem 0.4rem;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        cursor: pointer;
+        flex-shrink: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .hemnet-results-discard-btn:hover {
+        background: #f3f4f6;
+      }
+      .hemnet-results-discard-btn img {
+        width: 0.8rem;
+        height: 0.8rem;
+        object-fit: contain;
+        display: block;
+        opacity: 0.6;
+      }
+      .hemnet-results-discard-btn:hover img {
+        opacity: 0.9;
       }
       .pin-map-panel {
         position: relative;
@@ -2732,10 +2781,33 @@
         object-fit: contain;
         flex-shrink: 0;
       }
-      .pin-sorted-table .pin-table-name-col  { width: auto; }
-      .pin-sorted-table .pin-table-group-col { width: 7rem; }
-      .pin-sorted-table .pin-table-stars-col { width: 5rem; }
-      .pin-sorted-table .pin-table-area-col  { width: 1px; }
+      /* Column must be wider than the 52px image itself - .pin-table-image-cell's
+         own left/right padding (0.3rem each) would otherwise eat into the 52px,
+         making the fixed-width image overflow the column and bleed into the
+         name column with no visible gap. The extra 1ch on top of that is pure
+         breathing room between the image and the name text that follows. */
+      .pin-sorted-table .pin-table-image-col  { width: calc(52px + 0.6rem + 1ch); }
+      .pin-sorted-table .pin-table-name-col   { width: auto; }
+      .pin-sorted-table .pin-table-group-col  { width: 7rem; }
+      .pin-sorted-table .pin-table-stars-col  { width: 5rem; }
+      /* table-layout: fixed (see below) makes a <col> width authoritative
+         rather than a hint, unlike the auto layout these "width: 1px, let
+         padding/content decide the real size" cells were designed for -
+         give them real widths instead. */
+      .pin-sorted-table .pin-table-area-col   { width: 1.8rem; }
+      .pin-sorted-table .pin-table-delete-col { width: 2.2rem; }
+      .pin-table-image-cell {
+        width: calc(52px + 0.6rem + 1ch);
+        padding: 0.2rem 0.3rem;
+        vertical-align: middle;
+      }
+      .pin-table-image {
+        width: 52px;
+        height: 40px;
+        object-fit: cover;
+        border-radius: 4px;
+        display: block;
+      }
       .pin-sorted-table .pin-table-name-cell,
       .pin-sorted-table .pin-table-group-cell {
         max-width: 0;
@@ -2745,6 +2817,14 @@
       }
       .pin-sorted-table .pin-table-stars-cell {
         padding: 0.2rem 0.5rem;
+        /* Double the usual right-hand cell padding - extra breathing room
+           between the star rating and the delete/marker-icon cluster that
+           follows it. */
+        padding-right: 1rem;
+        vertical-align: middle;
+      }
+      .pin-table-delete-cell {
+        padding: 0.2rem 0.15rem;
         vertical-align: middle;
       }
       .pin-table-stars-icon {
@@ -3241,9 +3321,27 @@
         width: 100%;
         table-layout: auto;
       }
+      /* pin-sorted-table specifically needs fixed layout (overriding the
+         auto layout above): the wide Hemnet-row colspan cells appended at
+         the bottom would otherwise skew auto-layout's column-width
+         calculation for the whole table (including the plain pin rows
+         above them), forcing it wider than the sidebar. With fixed layout,
+         column widths come only from the <colgroup>, independent of any
+         row's (including colspan rows') content. */
+      .app[data-page="pin"] .pin-list-panel .pin-sorted-table {
+        table-layout: fixed;
+      }
       .app[data-page="pin"] .pin-list-panel col.pin-table-icon-col,
       .app[data-page="update"] .update-section--pins col.pin-table-icon-col {
         width: 0;
+      }
+      /* pin-sorted-table uses table-layout: fixed (see above), where a <col>
+         width is authoritative rather than a hint - width:0 above would
+         actually collapse the icon column to nothing instead of just
+         letting the cell's own padding/content size it, as it does under
+         auto layout. Override with a real width here. */
+      .app[data-page="pin"] .pin-list-panel .pin-sorted-table col.pin-table-icon-col {
+        width: calc(0.3rem + 1.1em + 0.15rem);
       }
       .app[data-page="pin"] .pin-list-panel .pin-table-icon-cell,
       .app[data-page="update"] .update-section--pins .pin-table-icon-cell {
@@ -3476,6 +3574,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1790921187352"></script>
+    <script src="js/main.js?v=1790952162695"></script>
   </body>
 </html>
