@@ -604,7 +604,7 @@
     }) < 4;
   }
 
-  function showCopiedToast() {
+  function showCopiedToast(message) {
     var host = document.createElement("div");
     host.style.cssText =
       "position:fixed;top:24px;left:50%;transform:translateX(-50%);" +
@@ -619,7 +619,7 @@
       "width:max-content;max-width:none;height:auto;max-height:none;" +
       "box-sizing:border-box;line-height:1.2;}";
     var el = document.createElement("div");
-    el.textContent = "Copied";
+    el.textContent = message || "Copied";
     el.setAttribute("role", "status");
     shadow.appendChild(style);
     shadow.appendChild(el);
@@ -631,10 +631,10 @@
     }, 1000);
   }
 
-  function copyToClipboard(text) {
+  function copyToClipboard(text, message) {
     if (navigator.clipboard && navigator.clipboard.writeText) {
       return navigator.clipboard.writeText(text).then(function () {
-        showCopiedToast();
+        showCopiedToast(message);
       });
     }
     window.prompt("Kopiera denna text:", text);
@@ -751,7 +751,10 @@
         return;
       }
       var page = data.props && data.props.pageProps && data.props.pageProps.page;
-      copyToClipboard(JSON.stringify(buildSearchResultsPayload(items, listUrl, page)));
+      copyToClipboard(
+        JSON.stringify(buildSearchResultsPayload(items, listUrl, page)),
+        items.length + " listings copied"
+      );
     }
 
     if (onListPage) {

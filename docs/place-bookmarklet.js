@@ -43,6 +43,10 @@
     loadImplementation("boneo-bookmarklet.js");
     return;
   }
+  if (/booli\.se/i.test(href)) {
+    loadImplementation("booli-bookmarklet.js");
+    return;
+  }
   if (/hemkartan\.se/i.test(href)) {
     loadImplementation("hemkartan-bookmarklet.js");
     return;
@@ -56,6 +60,6 @@
     return;
   }
   window.alert(
-    "Open a listing on Hemnet, Boneo, Widerlöv or Fastighetsbyrån, a place on Google Maps or Hemkartan, then click Copy place."
+    "Open a listing or search on Hemnet or Booli, a listing on Boneo, Widerlöv or Fastighetsbyrån, a place on Google Maps or Hemkartan, then click Copy place(s)."
   );
 })();

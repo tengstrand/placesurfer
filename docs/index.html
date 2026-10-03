@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="22" />
+    <meta name="app-version" content="23" />
     <!-- Filled in at build time from the DROPBOX_APP_KEY env var (scripts/placesurfer_root.clj's
          inject-dropbox-app-key!). Never commit a real key here - this placeholder stays empty. -->
     <meta name="dropbox-app-key" content="o5r1hg4okp65k52" />
@@ -153,23 +153,11 @@
         padding-left: 0.45rem;
         padding-right: 0.45rem;
       }
-      .nav-pin-tab::part(base) {
-        min-width: 2.4rem;
-        padding-left: 0.45rem;
-        padding-right: 0.45rem;
-      }
       .nav-update-tab-content {
         display: inline-flex;
         align-items: center;
         gap: 0.4rem;
         max-width: min(22rem, 42vw);
-      }
-      .nav-pin-tab-content {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        height: 1rem;
-        line-height: 0;
       }
       .nav-update-icon {
         width: 1rem;
@@ -188,12 +176,6 @@
         object-fit: contain;
         flex-shrink: 0;
         display: block;
-      }
-      .nav-pin-icon {
-        width: 1.3rem;
-        height: 1.3rem;
-        object-fit: contain;
-        flex-shrink: 0;
       }
       .nav-about-tab::part(base) {
         min-width: 2.4rem;
@@ -643,6 +625,19 @@
       .placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--row-hover,
       .placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--map-hover {
         transform: scale(1.56);
+      }
+      /* While one Hemnet marker is enlarged (hover, from either the list row
+         or the marker itself), dim every OTHER Hemnet marker to 50% opacity
+         so the emphasized one stands out against the rest. :has() lets this
+         react automatically to whichever marker currently carries the
+         hover class, with no extra JS state to keep in sync. */
+      .map-root:has(.placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--row-hover)
+        .placesurfer-marker--hemnet-result:not(:has(.placesurfer-marker__visual.placesurfer-marker--row-hover))
+        .placesurfer-marker__visual,
+      .map-root:has(.placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--map-hover)
+        .placesurfer-marker--hemnet-result:not(:has(.placesurfer-marker__visual.placesurfer-marker--map-hover))
+        .placesurfer-marker__visual {
+        opacity: 0.5;
       }
       .map-status {
         position: absolute;
@@ -1384,6 +1379,12 @@
         min-height: 0;
         align-items: stretch;
       }
+      .pin-layout--list-hidden {
+        grid-template-columns: minmax(0, 1fr);
+      }
+      .pin-layout--list-hidden .pin-list-panel {
+        display: none;
+      }
       .app[data-page="pin"] .pin-list-panel {
         flex: 1;
         min-height: 0;
@@ -1439,8 +1440,13 @@
       .hemnet-results-table-row.hemnet-results-row--selected:hover {
         background: #c8e6c9;
       }
+      /* This cell now holds the discard (trash) button, rightmost - the
+         Hemnet marker icon moved into the actions-cell, just before it (see
+         hemnet_results_panel.cljs's table-rows). More left padding than the
+         pin-row equivalent gives visible breathing room between the icon
+         and the trash button, which previously sat right up against it. */
       .hemnet-results-table-row .pin-table-icon-cell {
-        padding-left: 0.3rem;
+        padding-left: 0.9rem;
       }
       .hemnet-results-content-cell {
         white-space: normal;
@@ -1481,6 +1487,30 @@
         align-items: center;
         gap: 0.5rem;
         padding: 0 0 0.35rem;
+      }
+      /* Dedicated "show on map" button in a preview-card's action row
+         (pin's own marker icon, or the Hemnet marker icon) - same bordered-
+         square look as .hemnet-results-discard-btn, sized for a marker
+         icon rather than a fixed trash glyph. */
+      .pin-preview-marker-btn {
+        padding: 0.3rem 0.4rem;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        cursor: pointer;
+        flex-shrink: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .pin-preview-marker-btn:hover {
+        background: #f3f4f6;
+      }
+      .pin-preview-marker-btn img {
+        width: 0.9rem;
+        height: 0.9rem;
+        object-fit: contain;
+        display: block;
       }
       .hemnet-results-row-body {
         flex: 1;
@@ -1562,6 +1592,16 @@
       .pin-map-panel .maplibregl-canvas {
         width: 100% !important;
         height: 100% !important;
+      }
+      .pin-fullscreen-exit-overlay {
+        position: absolute;
+        top: 0.6rem;
+        left: 0.6rem;
+        z-index: 5;
+      }
+      .pin-fullscreen-exit-overlay .pin-fullscreen-toggle-btn {
+        background: #fff;
+        box-shadow: 0 1px 4px rgba(0, 0, 0, 0.25);
       }
       .update-map-panel {
         position: relative;
@@ -2654,7 +2694,8 @@
         background: #b45309;
       }
       .pin-topics-toggle-btn,
-      .pin-preview-toggle-btn {
+      .pin-preview-toggle-btn,
+      .pin-fullscreen-toggle-btn {
         border: 1px solid #d1d5db;
         border-radius: 4px;
         background: #fff;
@@ -2665,7 +2706,8 @@
         justify-content: center;
       }
       .pin-topics-toggle-btn img,
-      .pin-preview-toggle-btn img {
+      .pin-preview-toggle-btn img,
+      .pin-fullscreen-toggle-btn img {
         width: 0.95rem;
         height: 0.95rem;
         object-fit: contain;
@@ -2682,6 +2724,7 @@
         transition: opacity 0.15s ease, filter 0.15s ease;
       }
       .pin-topics-toggle-btn:hover,
+      .pin-fullscreen-toggle-btn:hover,
       .pin-preview-toggle-btn:hover:not(.pin-preview-toggle-btn--active) {
         background: #f3f4f6;
       }
@@ -2795,7 +2838,13 @@
          padding/content decide the real size" cells were designed for -
          give them real widths instead. */
       .pin-sorted-table .pin-table-area-col   { width: 1.8rem; }
-      .pin-sorted-table .pin-table-delete-col { width: 2.2rem; }
+      /* The icon and delete columns swapped places (icon now 2nd-from-right,
+         delete rightmost) - their width VALUES stay swapped too, so each
+         column keeps the width its actual content needs (narrow for the
+         icon, wider for the delete button), without touching the <colgroup>
+         structure or Hemnet's actions-cell colspan math (see table-rows in
+         hemnet_results_panel.cljs), which spans columns by position. */
+      .pin-sorted-table .pin-table-delete-col { width: calc(0.3rem + 1.1em + 0.15rem); }
       .pin-table-image-cell {
         width: calc(52px + 0.6rem + 1ch);
         padding: 0.2rem 0.3rem;
@@ -2823,7 +2872,15 @@
         padding-right: 1rem;
         vertical-align: middle;
       }
+      /* Now the rightmost column for pin rows (see list_panel.cljs's
+         pin-sorted-table) - matches .pin-table-icon-cell's own right-edge
+         breathing room (1.5ch) instead of its own much tighter default,
+         so the trash button isn't flush against the panel's right edge. */
       .pin-table-delete-cell {
+        padding: 0.2rem 1.5ch 0.2rem 0.15rem;
+        vertical-align: middle;
+      }
+      .pin-table-edit-cell {
         padding: 0.2rem 0.15rem;
         vertical-align: middle;
       }
@@ -3341,13 +3398,26 @@
          letting the cell's own padding/content size it, as it does under
          auto layout. Override with a real width here. */
       .app[data-page="pin"] .pin-list-panel .pin-sorted-table col.pin-table-icon-col {
-        width: calc(0.3rem + 1.1em + 0.15rem);
+        width: 2.2rem;
+      }
+      /* New column between the marker icon and the trash column - only has
+         content (the edit-page jump button) while the backend is online,
+         but the <col> stays in the table either way so the layout doesn't
+         jump when that comes online/offline. */
+      .app[data-page="pin"] .pin-list-panel .pin-sorted-table col.pin-table-edit-col {
+        width: 2.2rem;
       }
       .app[data-page="pin"] .pin-list-panel .pin-table-icon-cell,
       .app[data-page="update"] .update-section--pins .pin-table-icon-cell {
         width: 1%;
         white-space: nowrap;
         padding-right: 1.5ch;
+        /* Hemnet rows (see hemnet_results_panel.cljs's table-rows) let this
+           cell absorb the edit column via colSpan so the discard button
+           stays a fixed, comfortable size - text-align keeps that button
+           flush against the right edge instead of left-aligned mid-cell
+           when it's spanning more than its own one column. */
+        text-align: right;
       }
       .app[data-page="update"] .update-section--pins col.pin-table-address-col {
         width: 99%;
@@ -3430,6 +3500,48 @@
       .map-popup-name {
         font-weight: 600;
         line-height: 1.3;
+      }
+      /* Lives inside .map-popup-name-row's flex row, alongside the
+         listing/agent/google-maps icon links - `order` keeps this cluster
+         rightmost regardless of which of those are present, rather than
+         absolute-positioning it (which overlapped those flex-laid-out
+         icons when both were in the top-right corner). margin-left:auto
+         sits on the first of the two (edit) so it alone absorbs the free
+         space, pulling both it and delete after it to the right edge. */
+      .map-popup-edit-btn,
+      .map-popup-delete-btn {
+        padding: 0.2rem;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        background: #fff;
+        cursor: pointer;
+        flex-shrink: 0;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .map-popup-edit-btn {
+        order: 4;
+        margin-left: auto;
+      }
+      .map-popup-delete-btn {
+        order: 5;
+      }
+      .map-popup-edit-btn:hover,
+      .map-popup-delete-btn:hover {
+        background: #f3f4f6;
+      }
+      .map-popup-edit-btn img,
+      .map-popup-delete-btn img {
+        width: 0.8rem;
+        height: 0.8rem;
+        object-fit: contain;
+        display: block;
+        opacity: 0.6;
+      }
+      .map-popup-edit-btn:hover img,
+      .map-popup-delete-btn:hover img {
+        opacity: 0.9;
       }
       .map-popup-name-row {
         display: flex;
@@ -3574,6 +3686,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1790952162695"></script>
+    <script src="js/main.js?v=1791043343832"></script>
   </body>
 </html>
