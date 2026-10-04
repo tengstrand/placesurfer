@@ -170,6 +170,25 @@
   // skip those keys here so the description doesn't show each one twice.
   var SINGLE_LISTING_DEDICATED_DATA_POINT_KEYS = ["livingArea", "rooms", "plotArea"];
 
+  // Booli's listing objects (single-listing flight payload, and - when
+  // present - search-result items) carry a showingsV2 array of
+  // PropertyShowing entries with ready-made Swedish displayDate/displayTime
+  // strings - no date math needed, unlike Hemnet/Notar's raw timestamps.
+  function viewingTextFromShowings(node) {
+    var showings = node && node.showingsV2;
+    if (!showings || !showings.length) return null;
+    var parts = [];
+    for (var i = 0; i < showings.length && i < 3; i++) {
+      var s = showings[i];
+      if (!s) continue;
+      var date = nonBlank(s.displayDate);
+      var time = nonBlank(s.displayTime);
+      var text = date && time ? date + " " + time : date || time;
+      if (text) parts.push(text);
+    }
+    return parts.length ? "Visning: " + parts.join(", ") : null;
+  }
+
   function subtitleToPostalCity(subtitle, objectType) {
     var s = nonBlank(subtitle);
     if (!s) return null;
@@ -203,7 +222,8 @@
         imageUrl: imageUrlFromId(images.length ? images[0].id : null),
         housingForm: nonBlank(item.objectType),
         extraValues: dataPointTexts(dataPoints),
-        askingPrice: priceText(item.displayPrice)
+        askingPrice: priceText(item.displayPrice),
+        viewing: viewingTextFromShowings(item)
       }
     };
   }
@@ -377,7 +397,8 @@
       constructionYear: node.constructionYear || null,
       extraValues: dataPointTexts(dataPoints, SINGLE_LISTING_DEDICATED_DATA_POINT_KEYS),
       agentName: node.agency ? nonBlank(node.agency.name) : null,
-      agentUrl: null
+      agentUrl: null,
+      viewing: viewingTextFromShowings(node)
     };
   }
 

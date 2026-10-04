@@ -23,6 +23,7 @@
     " tenure { name }" +
     " constructionYear" +
     " images { url }" +
+    " upcomingOpenHouses { start end description isOnlyDate }" +
     " } }";
 
   function nonBlank(value) {
@@ -192,6 +193,58 @@
       return _apolloState[val.__ref] || val;
     }
     return val;
+  }
+
+  var WEEKDAY_NAMES_SV = ["sön", "mån", "tis", "ons", "tor", "fre", "lör"];
+  var MONTH_NAMES_SV = [
+    "jan", "feb", "mar", "apr", "maj", "jun",
+    "jul", "aug", "sep", "okt", "nov", "dec"
+  ];
+
+  function pad2(n) {
+    return n < 10 ? "0" + n : String(n);
+  }
+
+  function formatViewingDateTime(startSeconds, endSeconds, isOnlyDate) {
+    var start = new Date(startSeconds * 1000);
+    var datePart =
+      WEEKDAY_NAMES_SV[start.getDay()] + " " + start.getDate() + " " +
+      MONTH_NAMES_SV[start.getMonth()];
+    if (isOnlyDate) return datePart;
+    var text = datePart + " " + pad2(start.getHours()) + ":" + pad2(start.getMinutes());
+    if (typeof endSeconds === "number" && !isNaN(endSeconds)) {
+      var end = new Date(endSeconds * 1000);
+      text += "–" + pad2(end.getHours()) + ":" + pad2(end.getMinutes());
+    }
+    return text;
+  }
+
+  // Hemnet's listing/ListingCard entities carry upcomingOpenHouses as either
+  // plain objects (GraphQL response) or Apollo-cache refs (page-scrape path,
+  // resolved via resolveRef) pointing at an OpenHouse{start end isOnlyDate}.
+  function openHouseEntries(node) {
+    var raw = node && (node.upcomingOpenHouses || node.upcoming_open_houses);
+    if (!raw || !raw.length) return [];
+    var out = [];
+    for (var i = 0; i < raw.length; i++) {
+      var oh = resolveRef(raw[i]);
+      if (!oh || typeof oh !== "object") continue;
+      var start = parseNumber(oh.start);
+      if (start == null) continue;
+      out.push({ start: start, end: parseNumber(oh.end), isOnlyDate: !!oh.isOnlyDate });
+    }
+    out.sort(function (a, b) { return a.start - b.start; });
+    return out;
+  }
+
+  function viewingTextFromNode(node) {
+    var entries = openHouseEntries(node);
+    if (!entries.length) return null;
+    var parts = [];
+    for (var i = 0; i < entries.length && i < 3; i++) {
+      parts.push(formatViewingDateTime(entries[i].start, entries[i].end, entries[i].isOnlyDate));
+    }
+    return "Visning: " + parts.join(", ");
   }
 
   function agentUrlFromNode(node) {
@@ -435,7 +488,8 @@
       constructionYear: node.constructionYear || null,
       extraValues: extraValuesFrom(node),
       agentUrl: agentUrlFromNode(node) || agentUrlFromPage(),
-      agentName: agentNameFromNode(node) || agentNameFromPage()
+      agentName: agentNameFromNode(node) || agentNameFromPage(),
+      viewing: viewingTextFromNode(node)
     };
   }
 
@@ -571,7 +625,8 @@
           ? graphqlListing.extraValues
           : pageListing.extraValues || [],
       agentUrl: graphqlListing.agentUrl || pageListing.agentUrl,
-      agentName: graphqlListing.agentName || pageListing.agentName
+      agentName: graphqlListing.agentName || pageListing.agentName,
+      viewing: graphqlListing.viewing || pageListing.viewing || null
     };
   }
 
@@ -700,7 +755,8 @@
       // (e.g. "150+16 m²") is the closest equivalent shown on the card.
       livingArea: card.livingAndSupplementalAreas,
       landArea: card.landArea,
-      fee: card.fee
+      fee: card.fee,
+      upcomingOpenHouses: card.upcomingOpenHouses
     };
     var thumbKey = thumbnailsKey(card);
     if (thumbKey && card[thumbKey] && card[thumbKey].length) node.thumbnails = card[thumbKey];

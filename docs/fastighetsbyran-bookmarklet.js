@@ -249,7 +249,9 @@
 
   function fetchCoordsFromPhoton(street, city) {
     var query = street + (city ? ", " + city : "");
-    var url = PHOTON_URL + "?q=" + encodeURIComponent(query) + "&limit=3&lang=sv";
+    // No &lang=sv - Photon's public API now only accepts default/de/en/fr
+    // and 400s (no results) on any other value.
+    var url = PHOTON_URL + "?q=" + encodeURIComponent(query) + "&limit=3";
     return fetch(url)
       .then(function (resp) { return resp.json(); })
       .then(function (body) {

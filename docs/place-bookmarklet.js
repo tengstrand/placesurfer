@@ -59,7 +59,11 @@
     loadImplementation("fastighetsbyran-bookmarklet.js");
     return;
   }
+  if (/notar\.se/i.test(href)) {
+    loadImplementation("notar-bookmarklet.js");
+    return;
+  }
   window.alert(
-    "Open a listing or search on Hemnet or Booli, a listing on Boneo, Widerlöv or Fastighetsbyrån, a place on Google Maps or Hemkartan, then click Copy place(s)."
+    "Open a listing or search on Hemnet, Booli or Notar, a listing on Boneo, Widerlöv or Fastighetsbyrån, a place on Google Maps or Hemkartan, then click Copy place(s)."
   );
 })();

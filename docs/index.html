@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="23" />
+    <meta name="app-version" content="24" />
     <!-- Filled in at build time from the DROPBOX_APP_KEY env var (scripts/placesurfer_root.clj's
          inject-dropbox-app-key!). Never commit a real key here - this placeholder stays empty. -->
     <meta name="dropbox-app-key" content="o5r1hg4okp65k52" />
@@ -218,6 +218,11 @@
         border-radius: 6px;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
         pointer-events: none;
+      }
+      .nav-toast--success {
+        color: #166534;
+        background: #f0fdf4;
+        border-color: #bbf7d0;
       }
       .nav-topic-tab::part(base) {
         min-width: 2.6rem;
@@ -616,15 +621,33 @@
       .map-area .placesurfer-marker {
         z-index: 1;
       }
-      .placesurfer-marker__visual.placesurfer-marker--row-hover,
+      /* Hovering the marker itself (on the map) scales it instantly - a
+         direct, deliberate interaction with that one marker. Hovering its
+         ROW in the list instead pulses it (see the keyframes below): the
+         marker is off-screen from that row, so a slow, repeating size
+         change reads as "look over there" far better than a single static
+         jump to a bigger size would. */
       .placesurfer-marker__visual.placesurfer-marker--map-hover {
         transform: scale(1.3);
       }
+      @keyframes placesurfer-marker-row-hover-pulse {
+        from { transform: scale(1); }
+        to { transform: scale(1.3); }
+      }
+      .placesurfer-marker__visual.placesurfer-marker--row-hover {
+        animation: placesurfer-marker-row-hover-pulse 1.4s ease-in-out infinite alternate;
+      }
       /* Hemnet-ikonen ska bli ~20% större än övriga markörer vid hover
          (1.3 * 1.2 = 1.56). */
-      .placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--row-hover,
       .placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--map-hover {
         transform: scale(1.56);
+      }
+      @keyframes placesurfer-marker-row-hover-pulse-hemnet {
+        from { transform: scale(1); }
+        to { transform: scale(1.56); }
+      }
+      .placesurfer-marker--hemnet-result .placesurfer-marker__visual.placesurfer-marker--row-hover {
+        animation-name: placesurfer-marker-row-hover-pulse-hemnet;
       }
       /* While one Hemnet marker is enlarged (hover, from either the list row
          or the marker itself), dim every OTHER Hemnet marker to 50% opacity
@@ -1413,6 +1436,15 @@
         align-items: center;
         justify-content: space-between;
       }
+      /* One header row per pin group (see list_panel.cljs's group-sections),
+         replacing the old Grupp column - same look as the Hemnet divider row
+         above, just a plain label with no toggle/count on the right. */
+      .pin-group-header-row .pin-group-header-cell {
+        padding: 0.4rem 0.75rem;
+        font-weight: 600;
+        font-size: 0.85rem;
+        background: #f3f4f6;
+      }
       .hemnet-results-divider-row--preview {
         display: flex;
         align-items: center;
@@ -1440,34 +1472,31 @@
       .hemnet-results-table-row.hemnet-results-row--selected:hover {
         background: #c8e6c9;
       }
-      /* This cell now holds the discard (trash) button, rightmost - the
-         Hemnet marker icon moved into the actions-cell, just before it (see
-         hemnet_results_panel.cljs's table-rows). More left padding than the
-         pin-row equivalent gives visible breathing room between the icon
-         and the trash button, which previously sat right up against it. */
-      .hemnet-results-table-row .pin-table-icon-cell {
-        padding-left: 0.9rem;
-      }
       .hemnet-results-content-cell {
         white-space: normal;
         overflow: hidden;
         vertical-align: middle;
       }
-      /* Save/discard buttons live in their own cell, flush right (just
-         before the hemnet marker-icon column) rather than crammed in next
-         to the name text - keeps the name/address column's full width free
-         for the text instead of competing with the buttons for space.
+      /* Save/marker-icon/discard all live together in this one trailing
+         cell (spans every column after the name/address content, see
+         hemnet_results_panel.cljs's table-rows) rather than split across
+         two cells - that previous split made the actions cell too narrow
+         for its own content, so the marker icon overflowed out of it and
+         got clipped behind the discard button at the panel's right edge.
+         Extra right padding (beyond the 1.5ch other pin-row cells use)
+         keeps the discard button clear of the panel's scrollbar.
          display:flex must go on the INNER div, not the <td> itself: a
          colspanned table-cell with display:flex directly on it collapses to
          the width of just its first spanned column in this browser instead
          of the full spanned width (confirmed via getBoundingClientRect). */
       .hemnet-results-actions-cell {
-        padding: 0.2rem 0.3rem;
+        padding: 0.2rem 2ch 0.2rem 0.3rem;
         vertical-align: middle;
       }
       .hemnet-results-row-actions {
         display: flex;
         align-items: center;
+        justify-content: flex-end;
         gap: 0.5rem;
       }
       /* Preview mode (large-image): Hemnet results render via the same
@@ -2831,7 +2860,6 @@
          breathing room between the image and the name text that follows. */
       .pin-sorted-table .pin-table-image-col  { width: calc(52px + 0.6rem + 1ch); }
       .pin-sorted-table .pin-table-name-col   { width: auto; }
-      .pin-sorted-table .pin-table-group-col  { width: 7rem; }
       .pin-sorted-table .pin-table-stars-col  { width: 5rem; }
       /* table-layout: fixed (see below) makes a <col> width authoritative
          rather than a hint, unlike the auto layout these "width: 1px, let
@@ -2857,8 +2885,7 @@
         border-radius: 4px;
         display: block;
       }
-      .pin-sorted-table .pin-table-name-cell,
-      .pin-sorted-table .pin-table-group-cell {
+      .pin-sorted-table .pin-table-name-cell {
         max-width: 0;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -3678,6 +3705,13 @@
       .map-popup-source-link:hover .map-popup-link-icon {
         opacity: 0.85;
       }
+      .map-popup-viewing {
+        margin-top: 0.35rem;
+        font-size: 0.78rem;
+        font-weight: 600;
+        line-height: 1.3;
+        color: #166534;
+      }
       .maplibregl-popup.map-marker-popup {
         z-index: 100;
       }
@@ -3686,6 +3720,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1791043343832"></script>
+    <script src="js/main.js?v=1791127839178"></script>
   </body>
 </html>
