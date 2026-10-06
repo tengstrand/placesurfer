@@ -5,11 +5,11 @@ return (!(((cljs.core.truth_(s)?cljs.core.seq(clojure.string.trim(cljs.core.str.
 placesurfer.map_ui.popup.escape_html = (function placesurfer$map_ui$popup$escape_html(s){
 return clojure.string.replace(clojure.string.replace(clojure.string.replace(clojure.string.replace(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s),"&","&amp;"),"<","&lt;"),">","&gt;"),"\"","&quot;");
 });
-placesurfer.map_ui.popup.popup_page_url = (function placesurfer$map_ui$popup$popup_page_url(p__21802){
-var map__21803 = p__21802;
-var map__21803__$1 = cljs.core.__destructure_map(map__21803);
-var homepage = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21803__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249));
-var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21803__$1,new cljs.core.Keyword(null,"url","url",276297046));
+placesurfer.map_ui.popup.popup_page_url = (function placesurfer$map_ui$popup$popup_page_url(p__20048){
+var map__20049 = p__20048;
+var map__20049__$1 = cljs.core.__destructure_map(map__20049);
+var homepage = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20049__$1,new cljs.core.Keyword(null,"homepage","homepage",-1646828249));
+var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20049__$1,new cljs.core.Keyword(null,"url","url",276297046));
 if(placesurfer.map_ui.popup.non_blank_QMARK_(homepage)){
 return homepage;
 } else {
@@ -22,13 +22,13 @@ return null;
 }
 });
 placesurfer.map_ui.popup.popup_image_html = (function placesurfer$map_ui$popup$popup_image_html(position){
-var temp__5823__auto__ = (function (){var G__21807 = new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position);
-var G__21807__$1 = (((G__21807 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__21807));
-var G__21807__$2 = (((G__21807__$1 == null))?null:clojure.string.trim(G__21807__$1));
-if((G__21807__$2 == null)){
+var temp__5823__auto__ = (function (){var G__20050 = new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position);
+var G__20050__$1 = (((G__20050 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__20050));
+var G__20050__$2 = (((G__20050__$1 == null))?null:clojure.string.trim(G__20050__$1));
+if((G__20050__$2 == null)){
 return null;
 } else {
-return cljs.core.not_empty(G__21807__$2);
+return cljs.core.not_empty(G__20050__$2);
 }
 })();
 if(cljs.core.truth_(temp__5823__auto__)){
@@ -116,21 +116,35 @@ return null;
 }
 });
 /**
- * Transit lines (from Trafiklab, e.g. "4 mot Uppsala C, 805 mot Enköping")
- * and/or a deep link into Samtrafiken's journey planner pre-filled with this
- * stop as the origin (see scripts/trafiklab) - either or both may be absent:
- * :transit-lines needs a Trafiklab API key at data-generation time, while
- * :transit-departures-url needs only a name+coordinates and is set whenever
- * those are. Neither field exists for non-transit markers (pins, other
- * topics), so this renders nothing for them.
+ * Appends the user's configured transit destination (see settings-ui's
+ * "Avgångar" section) as a &Z=<name> param onto the precomputed Samtrafiken
+ * deep link - confirmed empirically that this HAFAS skin accepts
+ * &Z=<urlencoded name> as the destination param. Public: clicking a
+ * train-station/bus-stop marker opens this URL directly (see
+ * map-ui.core/attach-marker-interactions!) rather than going through a
+ * popup link, so this is called from outside this namespace.
  */
-placesurfer.map_ui.popup.popup_transit_html = (function placesurfer$map_ui$popup$popup_transit_html(p__21820,transit_label,departures_label){
-var map__21821 = p__21820;
-var map__21821__$1 = cljs.core.__destructure_map(map__21821);
-var transit_lines = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21821__$1,new cljs.core.Keyword(null,"transit-lines","transit-lines",1220117948));
-var transit_departures_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21821__$1,new cljs.core.Keyword(null,"transit-departures-url","transit-departures-url",367277988));
-if(((cljs.core.seq(transit_lines)) || (placesurfer.map_ui.popup.non_blank_QMARK_(transit_departures_url)))){
-return ["<div class=\"map-popup-transit\">",((cljs.core.seq(transit_lines))?["<div class=\"map-popup-transit-lines\">",placesurfer.map_ui.popup.escape_html(transit_label),placesurfer.map_ui.popup.escape_html(clojure.string.join.cljs$core$IFn$_invoke$arity$2(", ",transit_lines)),"</div>"].join(''):null),((placesurfer.map_ui.popup.non_blank_QMARK_(transit_departures_url))?["<a class=\"map-popup-link map-popup-transit-link\" href=\"",placesurfer.map_ui.popup.escape_html(transit_departures_url),"\" target=\"_blank\" rel=\"noopener noreferrer\">",placesurfer.map_ui.popup.escape_html(departures_label),"</a>"].join(''):null),"</div>"].join('');
+placesurfer.map_ui.popup.departures_url_with_destination = (function placesurfer$map_ui$popup$departures_url_with_destination(transit_departures_url,transit_destination){
+if(placesurfer.map_ui.popup.non_blank_QMARK_(transit_destination)){
+return [cljs.core.str.cljs$core$IFn$_invoke$arity$1(transit_departures_url),"&Z=",cljs.core.str.cljs$core$IFn$_invoke$arity$1(encodeURIComponent(clojure.string.trim(transit_destination)))].join('');
+} else {
+return transit_departures_url;
+}
+});
+/**
+ * Transit lines (from Trafiklab, e.g. "4 mot Uppsala C, 805 mot Enköping"),
+ * when present - needs a Trafiklab API key at data-generation time, so is
+ * absent for many stops and for all non-transit markers (pins, other
+ * topics). The "Show departures" journey-planner link that used to live
+ * here was removed: clicking a train-station/bus-stop marker now opens it
+ * directly instead of requiring the popup (see map-ui.core).
+ */
+placesurfer.map_ui.popup.popup_transit_html = (function placesurfer$map_ui$popup$popup_transit_html(p__20073,transit_label){
+var map__20074 = p__20073;
+var map__20074__$1 = cljs.core.__destructure_map(map__20074);
+var transit_lines = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20074__$1,new cljs.core.Keyword(null,"transit-lines","transit-lines",1220117948));
+if(cljs.core.seq(transit_lines)){
+return ["<div class=\"map-popup-transit\">","<div class=\"map-popup-transit-lines\">",placesurfer.map_ui.popup.escape_html(transit_label),placesurfer.map_ui.popup.escape_html(clojure.string.join.cljs$core$IFn$_invoke$arity$2(", ",transit_lines)),"</div>","</div>"].join('');
 } else {
 return null;
 }
@@ -148,8 +162,8 @@ return null;
  * HTML for a place popup (map marker or pin list preview).
  */
 placesurfer.map_ui.popup.popup_html = (function placesurfer$map_ui$popup$popup_html(var_args){
-var G__21829 = arguments.length;
-switch (G__21829) {
+var G__20076 = arguments.length;
+switch (G__20076) {
 case 1:
 return placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -168,40 +182,39 @@ throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(
 return placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2(position,cljs.core.PersistentArrayMap.EMPTY);
 }));
 
-(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2 = (function (position,p__21835){
-var map__21836 = p__21835;
-var map__21836__$1 = cljs.core.__destructure_map(map__21836);
-var source_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__21836__$1,new cljs.core.Keyword(null,"source-label","source-label",585601639),"Source: ");
-var delete_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__21836__$1,new cljs.core.Keyword(null,"delete-label","delete-label",-713158574),"Delete");
-var edit_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__21836__$1,new cljs.core.Keyword(null,"edit-label","edit-label",47275348),"Edit");
-var editable_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21836__$1,new cljs.core.Keyword(null,"editable?","editable?",-1805477333));
-var transit_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__21836__$1,new cljs.core.Keyword(null,"transit-label","transit-label",-1378562714),"Lines: ");
-var departures_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__21836__$1,new cljs.core.Keyword(null,"departures-label","departures-label",632531740),"Show departures");
-var map__21838 = position;
-var map__21838__$1 = cljs.core.__destructure_map(map__21838);
-var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21838__$1,new cljs.core.Keyword(null,"name","name",1843675177));
-var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21838__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
-var location__$1 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21838__$1,new cljs.core.Keyword(null,"location","location",1815599388));
-var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21838__$1,new cljs.core.Keyword(null,"source","source",-433931539));
-var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21838__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
-var agent_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21838__$1,new cljs.core.Keyword(null,"agent-name","agent-name",-916187942));
-var map__21839 = (function (){var or__5025__auto__ = placesurfer.googlestreetmap.interface$.place_external_links.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([position], 0));
+(placesurfer.map_ui.popup.popup_html.cljs$core$IFn$_invoke$arity$2 = (function (position,p__20077){
+var map__20078 = p__20077;
+var map__20078__$1 = cljs.core.__destructure_map(map__20078);
+var source_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__20078__$1,new cljs.core.Keyword(null,"source-label","source-label",585601639),"Source: ");
+var delete_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__20078__$1,new cljs.core.Keyword(null,"delete-label","delete-label",-713158574),"Delete");
+var edit_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__20078__$1,new cljs.core.Keyword(null,"edit-label","edit-label",47275348),"Edit");
+var editable_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20078__$1,new cljs.core.Keyword(null,"editable?","editable?",-1805477333));
+var transit_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__20078__$1,new cljs.core.Keyword(null,"transit-label","transit-label",-1378562714),"Lines: ");
+var map__20079 = position;
+var map__20079__$1 = cljs.core.__destructure_map(map__20079);
+var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20079__$1,new cljs.core.Keyword(null,"name","name",1843675177));
+var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20079__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
+var location__$1 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20079__$1,new cljs.core.Keyword(null,"location","location",1815599388));
+var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20079__$1,new cljs.core.Keyword(null,"source","source",-433931539));
+var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20079__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
+var agent_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20079__$1,new cljs.core.Keyword(null,"agent-name","agent-name",-916187942));
+var map__20080 = (function (){var or__5025__auto__ = placesurfer.googlestreetmap.interface$.place_external_links.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([position], 0));
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
 return cljs.core.PersistentArrayMap.EMPTY;
 }
 })();
-var map__21839__$1 = cljs.core.__destructure_map(map__21839);
-var listing_site = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21839__$1,new cljs.core.Keyword(null,"listing-site","listing-site",-1805219001));
-var listing_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21839__$1,new cljs.core.Keyword(null,"listing-url","listing-url",-2106536881));
-var google_maps_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21839__$1,new cljs.core.Keyword(null,"google-maps-url","google-maps-url",1524070940));
+var map__20080__$1 = cljs.core.__destructure_map(map__20080);
+var listing_site = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20080__$1,new cljs.core.Keyword(null,"listing-site","listing-site",-1805219001));
+var listing_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20080__$1,new cljs.core.Keyword(null,"listing-url","listing-url",-2106536881));
+var google_maps_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20080__$1,new cljs.core.Keyword(null,"google-maps-url","google-maps-url",1524070940));
 var edit_btn_html = placesurfer.map_ui.popup.popup_edit_btn_html(position,editable_QMARK_,edit_label);
 var delete_btn_html = placesurfer.map_ui.popup.popup_delete_btn_html(position,delete_label);
 var source_html = placesurfer.map_ui.popup.popup_source_html(source,source_label);
 var viewing_html = placesurfer.map_ui.popup.popup_viewing_html(position);
 var address_row_html = placesurfer.map_ui.popup.popup_address_row_html(position);
-var transit_html = placesurfer.map_ui.popup.popup_transit_html(position,transit_label,departures_label);
+var transit_html = placesurfer.map_ui.popup.popup_transit_html(position,transit_label);
 var listing_link_html = (cljs.core.truth_((function (){var and__5023__auto__ = listing_site;
 if(cljs.core.truth_(and__5023__auto__)){
 return listing_url;
@@ -231,17 +244,17 @@ return or__5025__auto__;
 return "Place";
 }
 })()),"</div>"].join(''));
-var parts = (function (){var G__21851 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [name_html], null);
-var G__21851__$1 = ((placesurfer.map_ui.popup.non_blank_QMARK_(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position)))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__21851,["<div class=\"map-popup-image\">",placesurfer.map_ui.popup.popup_image_html(position),"</div>"].join('')):G__21851);
-var G__21851__$2 = (cljs.core.truth_(address_row_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__21851__$1,address_row_html):G__21851__$1);
-var G__21851__$3 = ((placesurfer.map_ui.popup.non_blank_QMARK_(description))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__21851__$2,["<div class=\"map-popup-description\">",cljs.core.str.cljs$core$IFn$_invoke$arity$1(placesurfer.html.interface$.sanitize.sanitize_description_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([description], 0))),"</div>"].join('')):G__21851__$2);
-var G__21851__$4 = ((placesurfer.map_ui.popup.non_blank_QMARK_(location__$1))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__21851__$3,["<div class=\"map-popup-location\">",placesurfer.map_ui.popup.escape_html(location__$1),"</div>"].join('')):G__21851__$3);
-var G__21851__$5 = (cljs.core.truth_(transit_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__21851__$4,transit_html):G__21851__$4);
-var G__21851__$6 = (cljs.core.truth_(source_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__21851__$5,source_html):G__21851__$5);
+var parts = (function (){var G__20081 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [name_html], null);
+var G__20081__$1 = ((placesurfer.map_ui.popup.non_blank_QMARK_(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(position)))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__20081,["<div class=\"map-popup-image\">",placesurfer.map_ui.popup.popup_image_html(position),"</div>"].join('')):G__20081);
+var G__20081__$2 = (cljs.core.truth_(address_row_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__20081__$1,address_row_html):G__20081__$1);
+var G__20081__$3 = ((placesurfer.map_ui.popup.non_blank_QMARK_(description))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__20081__$2,["<div class=\"map-popup-description\">",cljs.core.str.cljs$core$IFn$_invoke$arity$1(placesurfer.html.interface$.sanitize.sanitize_description_html.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([description], 0))),"</div>"].join('')):G__20081__$2);
+var G__20081__$4 = ((placesurfer.map_ui.popup.non_blank_QMARK_(location__$1))?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__20081__$3,["<div class=\"map-popup-location\">",placesurfer.map_ui.popup.escape_html(location__$1),"</div>"].join('')):G__20081__$3);
+var G__20081__$5 = (cljs.core.truth_(transit_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__20081__$4,transit_html):G__20081__$4);
+var G__20081__$6 = (cljs.core.truth_(source_html)?cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__20081__$5,source_html):G__20081__$5);
 if(cljs.core.truth_(viewing_html)){
-return cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__21851__$6,viewing_html);
+return cljs.core.conj.cljs$core$IFn$_invoke$arity$2(G__20081__$6,viewing_html);
 } else {
-return G__21851__$6;
+return G__20081__$6;
 }
 })();
 return ["<div class=\"map-popup\">",clojure.string.join.cljs$core$IFn$_invoke$arity$2("",parts),"</div>"].join('');

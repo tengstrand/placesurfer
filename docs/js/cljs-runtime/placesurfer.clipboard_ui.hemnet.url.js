@@ -20,11 +20,11 @@ placesurfer.clipboard_ui.hemnet.url.listing_id_from_url = (function placesurfer$
 var temp__5823__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(url)));
 if(cljs.core.truth_(temp__5823__auto__)){
 var s = temp__5823__auto__;
-var G__25896 = cljs.core.re_matches(placesurfer.clipboard_ui.hemnet.url.hemnet_listing_pattern,s);
-if((G__25896 == null)){
+var G__25883 = cljs.core.re_matches(placesurfer.clipboard_ui.hemnet.url.hemnet_listing_pattern,s);
+if((G__25883 == null)){
 return null;
 } else {
-return cljs.core.second(G__25896);
+return cljs.core.second(G__25883);
 }
 } else {
 return null;
@@ -42,15 +42,15 @@ if(cljs.core.truth_(temp__5823__auto__)){
 var s = temp__5823__auto__;
 var temp__5823__auto____$1 = cljs.core.re_matches(/https?:\/\/(?:www\.)?hemnet\.se\/bostad\/(.+)-(\d+)\/?$/i,s);
 if(cljs.core.truth_(temp__5823__auto____$1)){
-var vec__25897 = temp__5823__auto____$1;
-var _ = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25897,(0),null);
-var slug = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25897,(1),null);
-var _id = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25897,(2),null);
+var vec__25885 = temp__5823__auto____$1;
+var _ = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25885,(0),null);
+var slug = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25885,(1),null);
+var _id = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25885,(2),null);
 var temp__5823__auto____$2 = cljs.core.re_find(/-kommun-(.+)$/,slug);
 if(cljs.core.truth_(temp__5823__auto____$2)){
-var vec__25900 = temp__5823__auto____$2;
-var ___$1 = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25900,(0),null);
-var title_slug = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25900,(1),null);
+var vec__25888 = temp__5823__auto____$2;
+var ___$1 = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25888,(0),null);
+var title_slug = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__25888,(1),null);
 return cljs.core.not_empty(placesurfer.clipboard_ui.hemnet.url.slug_segment__GT_title_words(title_slug));
 } else {
 return null;

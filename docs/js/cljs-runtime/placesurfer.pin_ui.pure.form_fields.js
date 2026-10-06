@@ -1,14 +1,14 @@
 goog.provide('placesurfer.pin_ui.pure.form_fields');
 placesurfer.pin_ui.pure.form_fields.name_row = (function placesurfer$pin_ui$pure$form_fields$name_row(place_name,set_pin_name_BANG_,t){
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-name"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","name","common/name",925592102)) : t.call(null,new cljs.core.Keyword("common","name","common/name",925592102)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-name.update-input","input#pin-name.update-input",49690443),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(place_name),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26905 = e.target.value;
-return (set_pin_name_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_name_BANG_.cljs$core$IFn$_invoke$arity$1(G__26905) : set_pin_name_BANG_.call(null,G__26905));
+var G__26889 = e.target.value;
+return (set_pin_name_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_name_BANG_.cljs$core$IFn$_invoke$arity$1(G__26889) : set_pin_name_BANG_.call(null,G__26889));
 })], null)], null)], null)], null)], null);
 });
 placesurfer.pin_ui.pure.form_fields.location_row = (function placesurfer$pin_ui$pure$form_fields$location_row(location,set_pin_address_BANG_,t){
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-address"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","location","common/location",1031174855)) : t.call(null,new cljs.core.Keyword("common","location","common/location",1031174855)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-address.update-input","input#pin-address.update-input",1642884030),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(location),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26907 = e.target.value;
-return (set_pin_address_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_address_BANG_.cljs$core$IFn$_invoke$arity$1(G__26907) : set_pin_address_BANG_.call(null,G__26907));
+var G__26893 = e.target.value;
+return (set_pin_address_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_address_BANG_.cljs$core$IFn$_invoke$arity$1(G__26893) : set_pin_address_BANG_.call(null,G__26893));
 })], null)], null)], null)], null)], null);
 });
 placesurfer.pin_ui.pure.form_fields.close_dropdown_BANG_ = (function placesurfer$pin_ui$pure$form_fields$close_dropdown_BANG_(e){
@@ -46,25 +46,25 @@ var selected_icon = placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_
 var selected_ranking = placesurfer.pin_ui.pure.forms.normalize_stars(ranking);
 var radii_str = placesurfer.pin_ui.pure.forms.coerce_text(radii);
 var radii_invalid_QMARK_ = ((cljs.core.seq(clojure.string.trim(radii_str))) && ((!(placesurfer.pin_ui.pure.forms.radii_valid_QMARK_(radii_str)))));
-return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","icon","pin/icon",1679759748)) : t.call(null,new cljs.core.Keyword("pin","icon","pin/icon",1679759748)))], null),new cljs.core.PersistentVector(null, 7, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"flex-direction","flex-direction",364609438),"row",new cljs.core.Keyword(null,"align-items","align-items",-267946462),"center",new cljs.core.Keyword(null,"gap","gap",80255254),"0.5rem",new cljs.core.Keyword(null,"position","position",-2011731912),"relative"], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div","div",1057191632),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"0 0 auto"], null)], null),new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"details.pin-icon-dropdown","details.pin-icon-dropdown",1130622721),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"width","width",-384071477),"auto",new cljs.core.Keyword(null,"position","position",-2011731912),"static"], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"summary.pin-icon-dropdown-trigger","summary.pin-icon-dropdown-trigger",247169410),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img","img",1442687358),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.pin_ui.pure.forms.icon_url(selected_icon),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-icon-dropdown-menu","div.pin-icon-dropdown-menu",144588882),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"position","position",-2011731912),"absolute",new cljs.core.Keyword(null,"left","left",-399115937),"0",new cljs.core.Keyword(null,"right","right",-452581833),"0",new cljs.core.Keyword(null,"z-index","z-index",1892827090),"100",new cljs.core.Keyword(null,"top","top",-1856271961),"100%"], null)], null),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26912(s__26913){
+return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","icon","pin/icon",1679759748)) : t.call(null,new cljs.core.Keyword("pin","icon","pin/icon",1679759748)))], null),new cljs.core.PersistentVector(null, 7, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"flex-direction","flex-direction",364609438),"row",new cljs.core.Keyword(null,"align-items","align-items",-267946462),"center",new cljs.core.Keyword(null,"gap","gap",80255254),"0.5rem",new cljs.core.Keyword(null,"position","position",-2011731912),"relative"], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div","div",1057191632),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"0 0 auto"], null)], null),new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"details.pin-icon-dropdown","details.pin-icon-dropdown",1130622721),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"width","width",-384071477),"auto",new cljs.core.Keyword(null,"position","position",-2011731912),"static"], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"summary.pin-icon-dropdown-trigger","summary.pin-icon-dropdown-trigger",247169410),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img","img",1442687358),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.pin_ui.pure.forms.icon_url(selected_icon),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-icon-dropdown-menu","div.pin-icon-dropdown-menu",144588882),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"position","position",-2011731912),"absolute",new cljs.core.Keyword(null,"left","left",-399115937),"0",new cljs.core.Keyword(null,"right","right",-452581833),"0",new cljs.core.Keyword(null,"z-index","z-index",1892827090),"100",new cljs.core.Keyword(null,"top","top",-1856271961),"100%"], null)], null),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26902(s__26903){
 return (new cljs.core.LazySeq(null,(function (){
-var s__26913__$1 = s__26913;
+var s__26903__$1 = s__26903;
 while(true){
-var temp__5823__auto__ = cljs.core.seq(s__26913__$1);
+var temp__5823__auto__ = cljs.core.seq(s__26903__$1);
 if(temp__5823__auto__){
-var s__26913__$2 = temp__5823__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__26913__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__26913__$2);
+var s__26903__$2 = temp__5823__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__26903__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__26903__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__26915 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__26914 = (0);
+var b__26905 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__26904 = (0);
 while(true){
-if((i__26914 < size__5502__auto__)){
-var filename = cljs.core._nth(c__5501__auto__,i__26914);
-cljs.core.chunk_append(b__26915,placesurfer.pin_ui.pure.form_fields.icon_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_icon),set_pin_icon_BANG_));
+if((i__26904 < size__5502__auto__)){
+var filename = cljs.core._nth(c__5501__auto__,i__26904);
+cljs.core.chunk_append(b__26905,placesurfer.pin_ui.pure.form_fields.icon_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_icon),set_pin_icon_BANG_));
 
-var G__27007 = (i__26914 + (1));
-i__26914 = G__27007;
+var G__27008 = (i__26904 + (1));
+i__26904 = G__27008;
 continue;
 } else {
 return true;
@@ -72,13 +72,13 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__26915),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26912(cljs.core.chunk_rest(s__26913__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__26905),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26902(cljs.core.chunk_rest(s__26903__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__26915),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__26905),null);
 }
 } else {
-var filename = cljs.core.first(s__26913__$2);
-return cljs.core.cons(placesurfer.pin_ui.pure.form_fields.icon_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_icon),set_pin_icon_BANG_),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26912(cljs.core.rest(s__26913__$2)));
+var filename = cljs.core.first(s__26903__$2);
+return cljs.core.cons(placesurfer.pin_ui.pure.form_fields.icon_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_icon),set_pin_icon_BANG_),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26902(cljs.core.rest(s__26903__$2)));
 }
 } else {
 return null;
@@ -88,25 +88,25 @@ break;
 }),null,null));
 });
 return iter__5503__auto__(placesurfer.pin_ui.pure.forms.icon_options());
-})()], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"white-space","white-space",-707351930),"nowrap",new cljs.core.Keyword(null,"margin-left","margin-left",2015598377),"2ch"], null)], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","ranking","pin/ranking",190912125)) : t.call(null,new cljs.core.Keyword("pin","ranking","pin/ranking",190912125)))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div","div",1057191632),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"0 0 auto",new cljs.core.Keyword(null,"position","position",-2011731912),"relative"], null)], null),new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"details.pin-stars-dropdown","details.pin-stars-dropdown",1600749543),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"position","position",-2011731912),"static"], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"summary.pin-stars-dropdown-trigger","summary.pin-stars-dropdown-trigger",152955851),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img","img",1442687358),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.pin_ui.pure.forms.stars_url(selected_ranking),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-stars-dropdown-menu","div.pin-stars-dropdown-menu",-892426689),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"position","position",-2011731912),"absolute",new cljs.core.Keyword(null,"left","left",-399115937),"0",new cljs.core.Keyword(null,"z-index","z-index",1892827090),"200",new cljs.core.Keyword(null,"top","top",-1856271961),"100%"], null)], null),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26920(s__26921){
+})()], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"white-space","white-space",-707351930),"nowrap",new cljs.core.Keyword(null,"margin-left","margin-left",2015598377),"2ch"], null)], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","ranking","pin/ranking",190912125)) : t.call(null,new cljs.core.Keyword("pin","ranking","pin/ranking",190912125)))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div","div",1057191632),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"0 0 auto",new cljs.core.Keyword(null,"position","position",-2011731912),"relative"], null)], null),new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"details.pin-stars-dropdown","details.pin-stars-dropdown",1600749543),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"position","position",-2011731912),"static"], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"summary.pin-stars-dropdown-trigger","summary.pin-stars-dropdown-trigger",152955851),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img","img",1442687358),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.pin_ui.pure.forms.stars_url(selected_ranking),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.pin-stars-dropdown-menu","div.pin-stars-dropdown-menu",-892426689),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"position","position",-2011731912),"absolute",new cljs.core.Keyword(null,"left","left",-399115937),"0",new cljs.core.Keyword(null,"z-index","z-index",1892827090),"200",new cljs.core.Keyword(null,"top","top",-1856271961),"100%"], null)], null),(function (){var iter__5503__auto__ = (function placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26913(s__26914){
 return (new cljs.core.LazySeq(null,(function (){
-var s__26921__$1 = s__26921;
+var s__26914__$1 = s__26914;
 while(true){
-var temp__5823__auto__ = cljs.core.seq(s__26921__$1);
+var temp__5823__auto__ = cljs.core.seq(s__26914__$1);
 if(temp__5823__auto__){
-var s__26921__$2 = temp__5823__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__26921__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__26921__$2);
+var s__26914__$2 = temp__5823__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__26914__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__26914__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__26923 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__26922 = (0);
+var b__26916 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__26915 = (0);
 while(true){
-if((i__26922 < size__5502__auto__)){
-var filename = cljs.core._nth(c__5501__auto__,i__26922);
-cljs.core.chunk_append(b__26923,placesurfer.pin_ui.pure.form_fields.stars_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_ranking),set_pin_stars_BANG_));
+if((i__26915 < size__5502__auto__)){
+var filename = cljs.core._nth(c__5501__auto__,i__26915);
+cljs.core.chunk_append(b__26916,placesurfer.pin_ui.pure.form_fields.stars_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_ranking),set_pin_stars_BANG_));
 
-var G__27012 = (i__26922 + (1));
-i__26922 = G__27012;
+var G__27010 = (i__26915 + (1));
+i__26915 = G__27010;
 continue;
 } else {
 return true;
@@ -114,13 +114,13 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__26923),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26920(cljs.core.chunk_rest(s__26921__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__26916),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26913(cljs.core.chunk_rest(s__26914__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__26923),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__26916),null);
 }
 } else {
-var filename = cljs.core.first(s__26921__$2);
-return cljs.core.cons(placesurfer.pin_ui.pure.form_fields.stars_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_ranking),set_pin_stars_BANG_),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26920(cljs.core.rest(s__26921__$2)));
+var filename = cljs.core.first(s__26914__$2);
+return cljs.core.cons(placesurfer.pin_ui.pure.form_fields.stars_dropdown_option(filename,cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(filename,selected_ranking),set_pin_stars_BANG_),placesurfer$pin_ui$pure$form_fields$icon_and_radii_row_$_iter__26913(cljs.core.rest(s__26914__$2)));
 }
 } else {
 return null;
@@ -131,23 +131,23 @@ break;
 });
 return iter__5503__auto__(placesurfer.pin_ui.pure.forms.stars_options);
 })()], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-radii",new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"white-space","white-space",-707351930),"nowrap",new cljs.core.Keyword(null,"margin-left","margin-left",2015598377),"2ch"], null)], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","radii","pin/radii",-39401394)) : t.call(null,new cljs.core.Keyword("pin","radii","pin/radii",-39401394)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-radii.update-input","input#pin-radii.update-input",1432341335),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"class","class",-2030961996),((radii_invalid_QMARK_)?"update-input--invalid":null),new cljs.core.Keyword(null,"value","value",305978217),radii_str,new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"1",new cljs.core.Keyword(null,"min-width","min-width",1926193728),"0"], null),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26934 = e.target.value;
-return (set_pin_radii_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_radii_BANG_.cljs$core$IFn$_invoke$arity$1(G__26934) : set_pin_radii_BANG_.call(null,G__26934));
+var G__26929 = e.target.value;
+return (set_pin_radii_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_radii_BANG_.cljs$core$IFn$_invoke$arity$1(G__26929) : set_pin_radii_BANG_.call(null,G__26929));
 })], null)], null)], null)], null)], null);
 });
 placesurfer.pin_ui.pure.form_fields.coords_row = (function placesurfer$pin_ui$pure$form_fields$coords_row(longitude,latitude,set_pin_longitude_BANG_,commit_pin_longitude_BANG_,set_pin_latitude_BANG_,commit_pin_latitude_BANG_,t){
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-longitude"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","longitude","common/longitude",-2061610691)) : t.call(null,new cljs.core.Keyword("common","longitude","common/longitude",-2061610691)))], null),new cljs.core.PersistentVector(null, 5, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"flex-direction","flex-direction",364609438),"row",new cljs.core.Keyword(null,"align-items","align-items",-267946462),"center",new cljs.core.Keyword(null,"gap","gap",80255254),"0.5rem"], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-longitude.update-input","input#pin-longitude.update-input",-646842611),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"inputmode","inputmode",118925090),"decimal",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(longitude),new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"1",new cljs.core.Keyword(null,"min-width","min-width",1926193728),"0"], null),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26947 = e.target.value;
-return (set_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26947) : set_pin_longitude_BANG_.call(null,G__26947));
+var G__26931 = e.target.value;
+return (set_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26931) : set_pin_longitude_BANG_.call(null,G__26931));
 }),new cljs.core.Keyword(null,"blur","blur",-453500461),(function (e){
-var G__26948 = e.target.value;
-return (commit_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? commit_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26948) : commit_pin_longitude_BANG_.call(null,G__26948));
+var G__26932 = e.target.value;
+return (commit_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? commit_pin_longitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26932) : commit_pin_longitude_BANG_.call(null,G__26932));
 })], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-latitude",new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"margin-left","margin-left",2015598377),"2rem",new cljs.core.Keyword(null,"white-space","white-space",-707351930),"nowrap"], null)], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","latitude","common/latitude",742931812)) : t.call(null,new cljs.core.Keyword("common","latitude","common/latitude",742931812)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-latitude.update-input","input#pin-latitude.update-input",1257981005),new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"inputmode","inputmode",118925090),"decimal",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(latitude),new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"1",new cljs.core.Keyword(null,"min-width","min-width",1926193728),"0"], null),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26962 = e.target.value;
-return (set_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26962) : set_pin_latitude_BANG_.call(null,G__26962));
+var G__26934 = e.target.value;
+return (set_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26934) : set_pin_latitude_BANG_.call(null,G__26934));
 }),new cljs.core.Keyword(null,"blur","blur",-453500461),(function (e){
-var G__26963 = e.target.value;
-return (commit_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? commit_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26963) : commit_pin_latitude_BANG_.call(null,G__26963));
+var G__26939 = e.target.value;
+return (commit_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1 ? commit_pin_latitude_BANG_.cljs$core$IFn$_invoke$arity$1(G__26939) : commit_pin_latitude_BANG_.call(null,G__26939));
 })], null)], null)], null)], null)], null);
 });
 placesurfer.pin_ui.pure.form_fields.source_icon_url = (function placesurfer$pin_ui$pure$form_fields$source_icon_url(url){
@@ -176,76 +176,76 @@ return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMP
 placesurfer.pin_ui.pure.form_fields.url_row = (function placesurfer$pin_ui$pure$form_fields$url_row(url,set_pin_url_BANG_,t){
 var icon = placesurfer.pin_ui.pure.form_fields.source_icon_url(url);
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-url"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","source","common/source",853668488)) : t.call(null,new cljs.core.Keyword("common","source","common/source",853668488)))], null),placesurfer.pin_ui.pure.form_fields.field_link_control(new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-url.update-input","input#pin-url.update-input",1753839589),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(url),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26983 = e.target.value;
-return (set_pin_url_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_url_BANG_.cljs$core$IFn$_invoke$arity$1(G__26983) : set_pin_url_BANG_.call(null,G__26983));
+var G__26944 = e.target.value;
+return (set_pin_url_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_url_BANG_.cljs$core$IFn$_invoke$arity$1(G__26944) : set_pin_url_BANG_.call(null,G__26944));
 })], null)], null)], null),(cljs.core.truth_(icon)?new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"a.pin-field-link","a.pin-field-link",-257879090),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"href","href",-793805698),url,new cljs.core.Keyword(null,"target","target",253001721),"_blank",new cljs.core.Keyword(null,"rel","rel",1378823488),"noopener noreferrer"], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.pin-field-link-icon","img.pin-field-link-icon",-1559218723),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),icon,new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null):null))], null);
 });
 placesurfer.pin_ui.pure.form_fields.image_row = (function placesurfer$pin_ui$pure$form_fields$image_row(image,set_pin_image_BANG_,t){
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-image"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","image-url","pin/image-url",-1064640565)) : t.call(null,new cljs.core.Keyword("pin","image-url","pin/image-url",-1064640565)))], null),placesurfer.pin_ui.pure.form_fields.field_link_control(new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-image.update-input","input#pin-image.update-input",1123890063),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(image),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26984 = e.target.value;
-return (set_pin_image_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_image_BANG_.cljs$core$IFn$_invoke$arity$1(G__26984) : set_pin_image_BANG_.call(null,G__26984));
+var G__26946 = e.target.value;
+return (set_pin_image_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_image_BANG_.cljs$core$IFn$_invoke$arity$1(G__26946) : set_pin_image_BANG_.call(null,G__26946));
 })], null)], null)], null),((cljs.core.seq(image))?new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"a.pin-field-link.pin-field-link--preview","a.pin-field-link.pin-field-link--preview",-861718741),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"href","href",-793805698),image,new cljs.core.Keyword(null,"target","target",253001721),"_blank",new cljs.core.Keyword(null,"rel","rel",1378823488),"noopener noreferrer"], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.pin-field-link-preview","img.pin-field-link-preview",1252802530),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),image,new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null):null))], null);
 });
 placesurfer.pin_ui.pure.form_fields.agent_url_row = (function placesurfer$pin_ui$pure$form_fields$agent_url_row(agent_url,set_pin_agent_url_BANG_,agent_name,set_pin_agent_name_BANG_,t){
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-row","div.update-field-row",1544435964),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-agent-url"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("pin","agent-url","pin/agent-url",-1203892790)) : t.call(null,new cljs.core.Keyword("pin","agent-url","pin/agent-url",-1203892790)))], null),new cljs.core.PersistentVector(null, 6, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.update-field-control","div.update-field-control",-1454309640),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"flex-direction","flex-direction",364609438),"row",new cljs.core.Keyword(null,"align-items","align-items",-267946462),"center",new cljs.core.Keyword(null,"gap","gap",80255254),"0.5rem"], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-agent-url.update-input","input#pin-agent-url.update-input",805383505),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(agent_url),new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"2",new cljs.core.Keyword(null,"min-width","min-width",1926193728),"0"], null),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26986 = e.target.value;
-return (set_pin_agent_url_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_agent_url_BANG_.cljs$core$IFn$_invoke$arity$1(G__26986) : set_pin_agent_url_BANG_.call(null,G__26986));
+var G__26954 = e.target.value;
+return (set_pin_agent_url_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_agent_url_BANG_.cljs$core$IFn$_invoke$arity$1(G__26954) : set_pin_agent_url_BANG_.call(null,G__26954));
 })], null)], null)], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"label.update-label","label.update-label",1775033508),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"for","for",-1323786319),"pin-agent-name",new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"white-space","white-space",-707351930),"nowrap"], null)], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("common","name","common/name",925592102)) : t.call(null,new cljs.core.Keyword("common","name","common/name",925592102)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"input#pin-agent-name.update-input","input#pin-agent-name.update-input",418288234),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"type","type",1174270348),"text",new cljs.core.Keyword(null,"value","value",305978217),placesurfer.pin_ui.pure.forms.coerce_text(agent_name),new cljs.core.Keyword(null,"style","style",-496642736),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"flex","flex",-1425124628),"1",new cljs.core.Keyword(null,"min-width","min-width",1926193728),"0"], null),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"input","input",556931961),(function (e){
-var G__26987 = e.target.value;
-return (set_pin_agent_name_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_agent_name_BANG_.cljs$core$IFn$_invoke$arity$1(G__26987) : set_pin_agent_name_BANG_.call(null,G__26987));
+var G__26956 = e.target.value;
+return (set_pin_agent_name_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_pin_agent_name_BANG_.cljs$core$IFn$_invoke$arity$1(G__26956) : set_pin_agent_name_BANG_.call(null,G__26956));
 })], null)], null)], null),((cljs.core.seq(agent_url))?new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"a.pin-field-link","a.pin-field-link",-257879090),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"href","href",-793805698),agent_url,new cljs.core.Keyword(null,"target","target",253001721),"_blank",new cljs.core.Keyword(null,"rel","rel",1378823488),"noopener noreferrer"], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.pin-field-link-icon","img.pin-field-link-icon",-1559218723),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/agent.png",new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null):null)], null)], null);
 });
 placesurfer.pin_ui.pure.form_fields.description_row = (function placesurfer$pin_ui$pure$form_fields$description_row(props){
-var map__26988 = props;
-var map__26988__$1 = cljs.core.__destructure_map(map__26988);
-var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26988__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
-var description_edit_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26988__$1,new cljs.core.Keyword(null,"description-edit-mode","description-edit-mode",-1941940982));
-var description_sync_token = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26988__$1,new cljs.core.Keyword(null,"description-sync-token","description-sync-token",-1307199437));
-var set_pin_description_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26988__$1,new cljs.core.Keyword(null,"set-pin-description!","set-pin-description!",-891657600));
-var toggle_description_edit_mode_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26988__$1,new cljs.core.Keyword(null,"toggle-description-edit-mode!","toggle-description-edit-mode!",-361122656));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26988__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+var map__26967 = props;
+var map__26967__$1 = cljs.core.__destructure_map(map__26967);
+var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26967__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
+var description_edit_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26967__$1,new cljs.core.Keyword(null,"description-edit-mode","description-edit-mode",-1941940982));
+var description_sync_token = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26967__$1,new cljs.core.Keyword(null,"description-sync-token","description-sync-token",-1307199437));
+var set_pin_description_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26967__$1,new cljs.core.Keyword(null,"set-pin-description!","set-pin-description!",-891657600));
+var toggle_description_edit_mode_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26967__$1,new cljs.core.Keyword(null,"toggle-description-edit-mode!","toggle-description-edit-mode!",-361122656));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26967__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return placesurfer.html.interface$.description_field.description_field.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 7, [new cljs.core.Keyword(null,"id","id",-1388402092),"pin-description",new cljs.core.Keyword(null,"description","description",-1428560544),description,new cljs.core.Keyword(null,"mode","mode",654403691),description_edit_mode,new cljs.core.Keyword(null,"sync-token","sync-token",-2023041987),description_sync_token,new cljs.core.Keyword(null,"set-description!","set-description!",-1732307848),set_pin_description_BANG_,new cljs.core.Keyword(null,"toggle-mode!","toggle-mode!",953048551),toggle_description_edit_mode_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], null)], 0));
 });
 placesurfer.pin_ui.pure.form_fields.field_rows = (function placesurfer$pin_ui$pure$form_fields$field_rows(props){
-var map__26989 = props;
-var map__26989__$1 = cljs.core.__destructure_map(map__26989);
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26989__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+var map__26974 = props;
+var map__26974__$1 = cljs.core.__destructure_map(map__26974);
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26974__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-var commit_pin_longitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"commit-pin-longitude!","commit-pin-longitude!",-1228268614));
-var pin_items = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100));
-var set_pin_agent_name_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-agent-name!","set-pin-agent-name!",1627505212));
-var pin_editor_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"pin-editor-mode","pin-editor-mode",-577269186));
-var set_pin_url_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-url!","set-pin-url!",-248892450));
-var set_pin_description_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-description!","set-pin-description!",-891657600));
-var set_pin_radii_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-radii!","set-pin-radii!",1761601184));
-var toggle_description_edit_mode_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"toggle-description-edit-mode!","toggle-description-edit-mode!",-361122656));
-var set_pin_address_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-address!","set-pin-address!",943678529));
-var set_pin_name_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-name!","set-pin-name!",-689410779));
-var set_pin_icon_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-icon!","set-pin-icon!",1169299015));
-var set_pin_latitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-latitude!","set-pin-latitude!",1547178985));
-var pin_form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"pin-form","pin-form",1370425130));
-var description_edit_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"description-edit-mode","description-edit-mode",-1941940982));
-var pin_selected_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228));
-var commit_pin_latitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"commit-pin-latitude!","commit-pin-latitude!",-2003886132));
-var set_pin_agent_url_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-agent-url!","set-pin-agent-url!",1449358350));
-var set_pin_longitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-longitude!","set-pin-longitude!",1371393039));
-var set_pin_stars_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-stars!","set-pin-stars!",1351285040));
-var description_sync_token = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"description-sync-token","description-sync-token",-1307199437));
-var set_pin_image_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26989__$1,new cljs.core.Keyword(null,"set-pin-image!","set-pin-image!",1564686327));
-var map__26993 = pin_form;
-var map__26993__$1 = cljs.core.__destructure_map(map__26993);
-var agent_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"agent-name","agent-name",-916187942));
-var location__$1 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"location","location",1815599388));
-var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
-var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
-var radii = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"radii","radii",-39552793));
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var icon = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"icon","icon",1679606541));
-var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"url","url",276297046));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var ranking = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"ranking","ranking",191056920));
-var image = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26993__$1,new cljs.core.Keyword(null,"image","image",-58725096));
+var commit_pin_longitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"commit-pin-longitude!","commit-pin-longitude!",-1228268614));
+var pin_items = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100));
+var set_pin_agent_name_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-agent-name!","set-pin-agent-name!",1627505212));
+var pin_editor_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"pin-editor-mode","pin-editor-mode",-577269186));
+var set_pin_url_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-url!","set-pin-url!",-248892450));
+var set_pin_description_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-description!","set-pin-description!",-891657600));
+var set_pin_radii_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-radii!","set-pin-radii!",1761601184));
+var toggle_description_edit_mode_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"toggle-description-edit-mode!","toggle-description-edit-mode!",-361122656));
+var set_pin_address_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-address!","set-pin-address!",943678529));
+var set_pin_name_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-name!","set-pin-name!",-689410779));
+var set_pin_icon_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-icon!","set-pin-icon!",1169299015));
+var set_pin_latitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-latitude!","set-pin-latitude!",1547178985));
+var pin_form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"pin-form","pin-form",1370425130));
+var description_edit_mode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"description-edit-mode","description-edit-mode",-1941940982));
+var pin_selected_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228));
+var commit_pin_latitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"commit-pin-latitude!","commit-pin-latitude!",-2003886132));
+var set_pin_agent_url_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-agent-url!","set-pin-agent-url!",1449358350));
+var set_pin_longitude_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-longitude!","set-pin-longitude!",1371393039));
+var set_pin_stars_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-stars!","set-pin-stars!",1351285040));
+var description_sync_token = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"description-sync-token","description-sync-token",-1307199437));
+var set_pin_image_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26974__$1,new cljs.core.Keyword(null,"set-pin-image!","set-pin-image!",1564686327));
+var map__26990 = pin_form;
+var map__26990__$1 = cljs.core.__destructure_map(map__26990);
+var agent_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"agent-name","agent-name",-916187942));
+var location__$1 = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"location","location",1815599388));
+var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
+var description = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"description","description",-1428560544));
+var radii = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"radii","radii",-39552793));
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var icon = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"icon","icon",1679606541));
+var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"url","url",276297046));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var ranking = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"ranking","ranking",191056920));
+var image = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26990__$1,new cljs.core.Keyword(null,"image","image",-58725096));
 var place_name = new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(pin_form);
 var selected_icon = placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(icon);
 return cljs.core.remove.cljs$core$IFn$_invoke$arity$2(cljs.core.nil_QMARK_,new cljs.core.PersistentVector(null, 8, 5, cljs.core.PersistentVector.EMPTY_NODE, [placesurfer.pin_ui.pure.form_fields.name_row(place_name,set_pin_name_BANG_,t),placesurfer.pin_ui.pure.form_fields.location_row(location__$1,set_pin_address_BANG_,t),placesurfer.pin_ui.pure.form_fields.icon_and_radii_row(selected_icon,set_pin_icon_BANG_,ranking,set_pin_stars_BANG_,radii,set_pin_radii_BANG_,t),placesurfer.pin_ui.pure.form_fields.coords_row(longitude,latitude,set_pin_longitude_BANG_,commit_pin_longitude_BANG_,set_pin_latitude_BANG_,commit_pin_latitude_BANG_,t),placesurfer.pin_ui.pure.form_fields.url_row(url,set_pin_url_BANG_,t),placesurfer.pin_ui.pure.form_fields.image_row(image,set_pin_image_BANG_,t),placesurfer.pin_ui.pure.form_fields.agent_url_row(agent_url,set_pin_agent_url_BANG_,agent_name,set_pin_agent_name_BANG_,t),placesurfer.pin_ui.pure.form_fields.description_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(props,new cljs.core.Keyword(null,"description","description",-1428560544),description,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"t","t",-1397832519),t], 0)))], null));

@@ -1,10 +1,10 @@
 goog.provide('placesurfer.edit.handlers.topic');
 placesurfer.edit.handlers.topic.dataset_change_counts_dirty_QMARK_ = (function placesurfer$edit$handlers$topic$dataset_change_counts_dirty_QMARK_(s){
-var map__25830 = placesurfer.edit.interface$.model.dataset_change_counts(s);
-var map__25830__$1 = cljs.core.__destructure_map(map__25830);
-var deleted = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25830__$1,new cljs.core.Keyword(null,"deleted","deleted",-510100639));
-var edited = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25830__$1,new cljs.core.Keyword(null,"edited","edited",-262616624));
-var added = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25830__$1,new cljs.core.Keyword(null,"added","added",2057651688));
+var map__20684 = placesurfer.edit.interface$.model.dataset_change_counts(s);
+var map__20684__$1 = cljs.core.__destructure_map(map__20684);
+var deleted = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20684__$1,new cljs.core.Keyword(null,"deleted","deleted",-510100639));
+var edited = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20684__$1,new cljs.core.Keyword(null,"edited","edited",-262616624));
+var added = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20684__$1,new cljs.core.Keyword(null,"added","added",2057651688));
 return (((deleted > (0))) || ((((edited > (0))) || ((added > (0))))));
 });
 placesurfer.edit.handlers.topic.dataset_draft_in_progress_QMARK_ = (function placesurfer$edit$handlers$topic$dataset_draft_in_progress_QMARK_(s){
@@ -55,25 +55,25 @@ return placesurfer.edit.handlers.topic.unsaved_dataset_changes_QMARK_(s);
 placesurfer.edit.handlers.topic.t_for_state = (function placesurfer$edit$handlers$topic$t_for_state(s){
 var locale = new cljs.core.Keyword(null,"locale","locale",-2115712697).cljs$core$IFn$_invoke$arity$2(s,new cljs.core.Keyword(null,"en","en",88457073));
 return (function() { 
-var G__25863__delegate = function (k,args){
+var G__20708__delegate = function (k,args){
 return cljs.core.apply.cljs$core$IFn$_invoke$arity$4(placesurfer.i18n.interface$.t,locale,k,args);
 };
-var G__25863 = function (k,var_args){
+var G__20708 = function (k,var_args){
 var args = null;
 if (arguments.length > 1) {
-var G__25864__i = 0, G__25864__a = new Array(arguments.length -  1);
-while (G__25864__i < G__25864__a.length) {G__25864__a[G__25864__i] = arguments[G__25864__i + 1]; ++G__25864__i;}
-  args = new cljs.core.IndexedSeq(G__25864__a,0,null);
+var G__20709__i = 0, G__20709__a = new Array(arguments.length -  1);
+while (G__20709__i < G__20709__a.length) {G__20709__a[G__20709__i] = arguments[G__20709__i + 1]; ++G__20709__i;}
+  args = new cljs.core.IndexedSeq(G__20709__a,0,null);
 } 
-return G__25863__delegate.call(this,k,args);};
-G__25863.cljs$lang$maxFixedArity = 1;
-G__25863.cljs$lang$applyTo = (function (arglist__25865){
-var k = cljs.core.first(arglist__25865);
-var args = cljs.core.rest(arglist__25865);
-return G__25863__delegate(k,args);
+return G__20708__delegate.call(this,k,args);};
+G__20708.cljs$lang$maxFixedArity = 1;
+G__20708.cljs$lang$applyTo = (function (arglist__20710){
+var k = cljs.core.first(arglist__20710);
+var args = cljs.core.rest(arglist__20710);
+return G__20708__delegate(k,args);
 });
-G__25863.cljs$core$IFn$_invoke$arity$variadic = G__25863__delegate;
-return G__25863;
+G__20708.cljs$core$IFn$_invoke$arity$variadic = G__20708__delegate;
+return G__20708;
 })()
 ;
 });
@@ -120,8 +120,8 @@ return null;
 }
 });
 placesurfer.edit.handlers.topic.request_update_topic_change_BANG_ = (function placesurfer$edit$handlers$topic$request_update_topic_change_BANG_(var_args){
-var G__25833 = arguments.length;
-switch (G__25833) {
+var G__20694 = arguments.length;
+switch (G__20694) {
 case 1:
 return placesurfer.edit.handlers.topic.request_update_topic_change_BANG_.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -163,8 +163,8 @@ return placesurfer.edit.handlers.topic.unsaved_update_changes_QMARK_(cljs.core.d
 }
 })();
 if(cljs.core.truth_(dirty_QMARK_)){
-cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interface$.state._BANG_state,(function (p1__25831_SHARP_){
-return cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(p1__25831_SHARP_,new cljs.core.Keyword(null,"update-topic-switch-pending","update-topic-switch-pending",1022463723),topic__$1,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"update-topic-switch-continuation","update-topic-switch-continuation",826297338),continuation], 0)),new cljs.core.Keyword(null,"update-message","update-message",109684659));
+cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(placesurfer.app_ui.interface$.state._BANG_state,(function (p1__20692_SHARP_){
+return cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(p1__20692_SHARP_,new cljs.core.Keyword(null,"update-topic-switch-pending","update-topic-switch-pending",1022463723),topic__$1,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"update-topic-switch-continuation","update-topic-switch-continuation",826297338),continuation], 0)),new cljs.core.Keyword(null,"update-message","update-message",109684659));
 }));
 
 return placesurfer.app_ui.interface$.effects.render_BANG_();
@@ -298,9 +298,9 @@ return and__5023__auto__;
 }
 }
 })())){
-var G__25842_25871 = mode;
-var G__25842_25872__$1 = (((G__25842_25871 instanceof cljs.core.Keyword))?G__25842_25871.fqn:null);
-switch (G__25842_25872__$1) {
+var G__20706_20721 = mode;
+var G__20706_20722__$1 = (((G__20706_20721 instanceof cljs.core.Keyword))?G__20706_20721.fqn:null);
+switch (G__20706_20722__$1) {
 case "new":
 placesurfer.pin_ui.interface$.handlers.rows.add_pin_BANG_();
 
@@ -310,7 +310,7 @@ placesurfer.pin_ui.interface$.handlers.rows.save_pin_BANG_();
 
 break;
 default:
-throw (new Error(["No matching clause: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__25842_25872__$1)].join('')));
+throw (new Error(["No matching clause: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__20706_20722__$1)].join('')));
 
 }
 } else {

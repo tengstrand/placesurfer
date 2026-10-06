@@ -4,14 +4,14 @@ return placesurfer.pin_ui.handlers.state.render_BANG_();
 });
 placesurfer.pin_ui.interface$.handlers.state.swap_state_BANG_ = (function placesurfer$pin_ui$interface$handlers$state$swap_state_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___25852 = arguments.length;
-var i__5750__auto___25853 = (0);
+var len__5749__auto___20563 = arguments.length;
+var i__5750__auto___20564 = (0);
 while(true){
-if((i__5750__auto___25853 < len__5749__auto___25852)){
-args__5755__auto__.push((arguments[i__5750__auto___25853]));
+if((i__5750__auto___20564 < len__5749__auto___20563)){
+args__5755__auto__.push((arguments[i__5750__auto___20564]));
 
-var G__25854 = (i__5750__auto___25853 + (1));
-i__5750__auto___25853 = G__25854;
+var G__20565 = (i__5750__auto___20564 + (1));
+i__5750__auto___20564 = G__20565;
 continue;
 } else {
 }
@@ -29,21 +29,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.state.swap_state_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.state.swap_state_BANG_.cljs$lang$applyTo = (function (seq25839){
+(placesurfer.pin_ui.interface$.handlers.state.swap_state_BANG_.cljs$lang$applyTo = (function (seq20547){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq25839));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq20547));
 }));
 
 placesurfer.pin_ui.interface$.handlers.state.swap_render_BANG_ = (function placesurfer$pin_ui$interface$handlers$state$swap_render_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___25856 = arguments.length;
-var i__5750__auto___25857 = (0);
+var len__5749__auto___20568 = arguments.length;
+var i__5750__auto___20569 = (0);
 while(true){
-if((i__5750__auto___25857 < len__5749__auto___25856)){
-args__5755__auto__.push((arguments[i__5750__auto___25857]));
+if((i__5750__auto___20569 < len__5749__auto___20568)){
+args__5755__auto__.push((arguments[i__5750__auto___20569]));
 
-var G__25858 = (i__5750__auto___25857 + (1));
-i__5750__auto___25857 = G__25858;
+var G__20570 = (i__5750__auto___20569 + (1));
+i__5750__auto___20569 = G__20570;
 continue;
 } else {
 }
@@ -61,21 +61,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.state.swap_render_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.state.swap_render_BANG_.cljs$lang$applyTo = (function (seq25840){
+(placesurfer.pin_ui.interface$.handlers.state.swap_render_BANG_.cljs$lang$applyTo = (function (seq20554){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq25840));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq20554));
 }));
 
 placesurfer.pin_ui.interface$.handlers.state.clear_search_ui = (function placesurfer$pin_ui$interface$handlers$state$clear_search_ui(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___25859 = arguments.length;
-var i__5750__auto___25860 = (0);
+var len__5749__auto___20571 = arguments.length;
+var i__5750__auto___20572 = (0);
 while(true){
-if((i__5750__auto___25860 < len__5749__auto___25859)){
-args__5755__auto__.push((arguments[i__5750__auto___25860]));
+if((i__5750__auto___20572 < len__5749__auto___20571)){
+args__5755__auto__.push((arguments[i__5750__auto___20572]));
 
-var G__25861 = (i__5750__auto___25860 + (1));
-i__5750__auto___25860 = G__25861;
+var G__20573 = (i__5750__auto___20572 + (1));
+i__5750__auto___20572 = G__20573;
 continue;
 } else {
 }
@@ -93,9 +93,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.handlers
 (placesurfer.pin_ui.interface$.handlers.state.clear_search_ui.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.handlers.state.clear_search_ui.cljs$lang$applyTo = (function (seq25841){
+(placesurfer.pin_ui.interface$.handlers.state.clear_search_ui.cljs$lang$applyTo = (function (seq20560){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq25841));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq20560));
 }));
 
 

@@ -8,10 +8,10 @@ return or__5025__auto__;
 return cljs.core.PersistentVector.EMPTY;
 }
 })();
-var pins = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__27111_SHARP_){
-return clojure.set.rename_keys(cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(p1__27111_SHARP_,new cljs.core.Keyword(null,"id","id",-1388402092)),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"location","location",1815599388)], null));
-}),cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__27110_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"separator","separator",-1628749125),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(p1__27110_SHARP_));
+var pins = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__27129_SHARP_){
+return clojure.set.rename_keys(cljs.core.dissoc.cljs$core$IFn$_invoke$arity$2(p1__27129_SHARP_,new cljs.core.Keyword(null,"id","id",-1388402092)),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"location","location",1815599388)], null));
+}),cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__27128_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"separator","separator",-1628749125),new cljs.core.Keyword(null,"kind","kind",-717265803).cljs$core$IFn$_invoke$arity$1(p1__27128_SHARP_));
 }),items));
 var payload = new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"v","v",21465059),(1),new cljs.core.Keyword(null,"type","type",1174270348),"placesurfer/pin-list",new cljs.core.Keyword(null,"pins","pins",1725193285),pins], null);
 var json = JSON.stringify(cljs.core.clj__GT_js(payload));

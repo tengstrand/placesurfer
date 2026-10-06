@@ -5,14 +5,14 @@ goog.provide('placesurfer.nav_ui.tabs');
  * web-app.nav/open-pin-in-editor! and friends for :pin as the default
  * landing page).
  */
-placesurfer.nav_ui.tabs.nav_home_tab = (function placesurfer$nav_ui$tabs$nav_home_tab(p__26736){
-var map__26737 = p__26736;
-var map__26737__$1 = cljs.core.__destructure_map(map__26737);
-var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26737__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
-var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26737__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
-var navigate_to_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26737__$1,new cljs.core.Keyword(null,"navigate-to-pin!","navigate-to-pin!",2100011720));
-var app_version = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26737__$1,new cljs.core.Keyword(null,"app-version","app-version",361554836));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26737__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+placesurfer.nav_ui.tabs.nav_home_tab = (function placesurfer$nav_ui$tabs$nav_home_tab(p__26754){
+var map__26755 = p__26754;
+var map__26755__$1 = cljs.core.__destructure_map(map__26755);
+var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26755__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
+var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26755__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
+var navigate_to_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26755__$1,new cljs.core.Keyword(null,"navigate-to-pin!","navigate-to-pin!",2100011720));
+var app_version = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26755__$1,new cljs.core.Keyword(null,"app-version","app-version",361554836));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26755__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"sl-tab.nav-home-tab","sl-tab.nav-home-tab",-1764121453),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"slot","slot",240229571),"nav",new cljs.core.Keyword(null,"panel","panel",-558637456),"pin",new cljs.core.Keyword(null,"active","active",1895962068),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pin","pin",-2111774834),active_page),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
 if(cljs.core.truth_(navigate_to_pin_BANG_)){
 return (navigate_to_pin_BANG_.cljs$core$IFn$_invoke$arity$0 ? navigate_to_pin_BANG_.cljs$core$IFn$_invoke$arity$0() : navigate_to_pin_BANG_.call(null));
@@ -34,12 +34,12 @@ return "SE";
 }
 })())], null)], null);
 });
-placesurfer.nav_ui.tabs.nav_layers_tab = (function placesurfer$nav_ui$tabs$nav_layers_tab(p__26738){
-var map__26739 = p__26738;
-var map__26739__$1 = cljs.core.__destructure_map(map__26739);
-var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26739__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
-var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26739__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26739__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+placesurfer.nav_ui.tabs.nav_layers_tab = (function placesurfer$nav_ui$tabs$nav_layers_tab(p__26756){
+var map__26757 = p__26756;
+var map__26757__$1 = cljs.core.__destructure_map(map__26757);
+var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26757__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
+var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26757__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26757__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"sl-tab.nav-layers-tab","sl-tab.nav-layers-tab",1833738504),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"slot","slot",240229571),"nav",new cljs.core.Keyword(null,"panel","panel",-558637456),"layers",new cljs.core.Keyword(null,"active","active",1895962068),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"layers","layers",1944875032),active_page),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
 if(cljs.core.truth_(navigate_BANG_)){
 return (navigate_BANG_.cljs$core$IFn$_invoke$arity$1 ? navigate_BANG_.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"layers","layers",1944875032)) : navigate_BANG_.call(null,new cljs.core.Keyword(null,"layers","layers",1944875032)));
@@ -48,13 +48,13 @@ return null;
 }
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.nav-layers-icon","img.nav-layers-icon",366881438),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/layers.png",new cljs.core.Keyword(null,"alt","alt",-3214426),(cljs.core.truth_(t)?(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("nav","layers-alt","nav/layers-alt",678588401)) : t.call(null,new cljs.core.Keyword("nav","layers-alt","nav/layers-alt",678588401))):null)], null)], null)], null);
 });
-placesurfer.nav_ui.tabs.nav_update_tab = (function placesurfer$nav_ui$tabs$nav_update_tab(p__26740){
-var map__26741 = p__26740;
-var map__26741__$1 = cljs.core.__destructure_map(map__26741);
-var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26741__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
-var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26741__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
-var navigate_to_update_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26741__$1,new cljs.core.Keyword(null,"navigate-to-update!","navigate-to-update!",-1444232757));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26741__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+placesurfer.nav_ui.tabs.nav_update_tab = (function placesurfer$nav_ui$tabs$nav_update_tab(p__26758){
+var map__26759 = p__26758;
+var map__26759__$1 = cljs.core.__destructure_map(map__26759);
+var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26759__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
+var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26759__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
+var navigate_to_update_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26759__$1,new cljs.core.Keyword(null,"navigate-to-update!","navigate-to-update!",-1444232757));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26759__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"sl-tab.nav-update-tab","sl-tab.nav-update-tab",1487570634),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"slot","slot",240229571),"nav",new cljs.core.Keyword(null,"panel","panel",-558637456),"update",new cljs.core.Keyword(null,"active","active",1895962068),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),active_page),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
 if(cljs.core.truth_(navigate_to_update_BANG_)){
 return (navigate_to_update_BANG_.cljs$core$IFn$_invoke$arity$0 ? navigate_to_update_BANG_.cljs$core$IFn$_invoke$arity$0() : navigate_to_update_BANG_.call(null));
@@ -67,12 +67,12 @@ return null;
 }
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.nav-update-tab-content","span.nav-update-tab-content",1752666858),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.nav-update-icon","img.nav-update-icon",139664568),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/edit.png",new cljs.core.Keyword(null,"alt","alt",-3214426),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("nav","update-alt","nav/update-alt",755641998)) : t.call(null,new cljs.core.Keyword("nav","update-alt","nav/update-alt",755641998)))], null)], null)], null)], null);
 });
-placesurfer.nav_ui.tabs.nav_about_tab = (function placesurfer$nav_ui$tabs$nav_about_tab(p__26742){
-var map__26744 = p__26742;
-var map__26744__$1 = cljs.core.__destructure_map(map__26744);
-var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26744__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
-var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26744__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26744__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+placesurfer.nav_ui.tabs.nav_about_tab = (function placesurfer$nav_ui$tabs$nav_about_tab(p__26760){
+var map__26761 = p__26760;
+var map__26761__$1 = cljs.core.__destructure_map(map__26761);
+var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26761__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
+var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26761__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26761__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"sl-tab.nav-about-tab","sl-tab.nav-about-tab",558435029),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"slot","slot",240229571),"nav",new cljs.core.Keyword(null,"panel","panel",-558637456),"about",new cljs.core.Keyword(null,"active","active",1895962068),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"about","about",1423892543),active_page),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
 if(cljs.core.truth_(navigate_BANG_)){
 return (navigate_BANG_.cljs$core$IFn$_invoke$arity$1 ? navigate_BANG_.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"about","about",1423892543)) : navigate_BANG_.call(null,new cljs.core.Keyword(null,"about","about",1423892543)));
@@ -81,12 +81,12 @@ return null;
 }
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.nav-about-icon","img.nav-about-icon",-554221042),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/info.png",new cljs.core.Keyword(null,"alt","alt",-3214426),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("nav","about-alt","nav/about-alt",1953493354)) : t.call(null,new cljs.core.Keyword("nav","about-alt","nav/about-alt",1953493354)))], null)], null)], null);
 });
-placesurfer.nav_ui.tabs.nav_settings_tab = (function placesurfer$nav_ui$tabs$nav_settings_tab(p__26746){
-var map__26747 = p__26746;
-var map__26747__$1 = cljs.core.__destructure_map(map__26747);
-var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26747__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
-var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26747__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26747__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+placesurfer.nav_ui.tabs.nav_settings_tab = (function placesurfer$nav_ui$tabs$nav_settings_tab(p__26762){
+var map__26763 = p__26762;
+var map__26763__$1 = cljs.core.__destructure_map(map__26763);
+var active_page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26763__$1,new cljs.core.Keyword(null,"active-page","active-page",370357330));
+var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26763__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26763__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"sl-tab.nav-settings-tab","sl-tab.nav-settings-tab",1496132548),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"slot","slot",240229571),"nav",new cljs.core.Keyword(null,"panel","panel",-558637456),"settings",new cljs.core.Keyword(null,"active","active",1895962068),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"settings","settings",1556144875),active_page),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
 if(cljs.core.truth_(navigate_BANG_)){
 return (navigate_BANG_.cljs$core$IFn$_invoke$arity$1 ? navigate_BANG_.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"settings","settings",1556144875)) : navigate_BANG_.call(null,new cljs.core.Keyword(null,"settings","settings",1556144875)));
@@ -95,28 +95,28 @@ return null;
 }
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.nav-settings-icon","img.nav-settings-icon",1761717034),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/settings.png",new cljs.core.Keyword(null,"alt","alt",-3214426),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","title","settings/title",-630353462)) : t.call(null,new cljs.core.Keyword("settings","title","settings/title",-630353462)))], null)], null)], null);
 });
-placesurfer.nav_ui.tabs.tabs = (function placesurfer$nav_ui$tabs$tabs(p__26748){
-var map__26749 = p__26748;
-var map__26749__$1 = cljs.core.__destructure_map(map__26749);
-var page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26749__$1,new cljs.core.Keyword(null,"page","page",849072397));
-var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26749__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
-var navigate_to_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26749__$1,new cljs.core.Keyword(null,"navigate-to-pin!","navigate-to-pin!",2100011720));
-var navigate_to_update_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26749__$1,new cljs.core.Keyword(null,"navigate-to-update!","navigate-to-update!",-1444232757));
-var country_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26749__$1,new cljs.core.Keyword(null,"country-code","country-code",-927451124));
-var topic_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26749__$1,new cljs.core.Keyword(null,"topic-rows","topic-rows",1351926944));
-var app_version = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26749__$1,new cljs.core.Keyword(null,"app-version","app-version",361554836));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26749__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+placesurfer.nav_ui.tabs.tabs = (function placesurfer$nav_ui$tabs$tabs(p__26764){
+var map__26765 = p__26764;
+var map__26765__$1 = cljs.core.__destructure_map(map__26765);
+var page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26765__$1,new cljs.core.Keyword(null,"page","page",849072397));
+var navigate_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26765__$1,new cljs.core.Keyword(null,"navigate!","navigate!",79998348));
+var navigate_to_pin_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26765__$1,new cljs.core.Keyword(null,"navigate-to-pin!","navigate-to-pin!",2100011720));
+var navigate_to_update_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26765__$1,new cljs.core.Keyword(null,"navigate-to-update!","navigate-to-update!",-1444232757));
+var country_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26765__$1,new cljs.core.Keyword(null,"country-code","country-code",-927451124));
+var topic_rows = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26765__$1,new cljs.core.Keyword(null,"topic-rows","topic-rows",1351926944));
+var app_version = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26765__$1,new cljs.core.Keyword(null,"app-version","app-version",361554836));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26765__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-return new cljs.core.PersistentVector(null, 14, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"sl-tab-group.nav-tab-group","sl-tab-group.nav-tab-group",-27913728),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword("replicant","on-mount","replicant/on-mount",-1518504162),(function (p__26750){
-var map__26751 = p__26750;
-var map__26751__$1 = cljs.core.__destructure_map(map__26751);
-var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26751__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
+return new cljs.core.PersistentVector(null, 14, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"sl-tab-group.nav-tab-group","sl-tab-group.nav-tab-group",-27913728),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword("replicant","on-mount","replicant/on-mount",-1518504162),(function (p__26766){
+var map__26767 = p__26766;
+var map__26767__$1 = cljs.core.__destructure_map(map__26767);
+var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26767__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
 return placesurfer.nav_ui.sync.sync_tab_group_on_page_BANG_(node,page);
-}),new cljs.core.Keyword("replicant","on-render","replicant/on-render",1674377901),(function (p__26754){
-var map__26755 = p__26754;
-var map__26755__$1 = cljs.core.__destructure_map(map__26755);
-var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26755__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
+}),new cljs.core.Keyword("replicant","on-render","replicant/on-render",1674377901),(function (p__26768){
+var map__26769 = p__26768;
+var map__26769__$1 = cljs.core.__destructure_map(map__26769);
+var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26769__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
 return placesurfer.nav_ui.sync.sync_tab_group_on_page_BANG_(node,page);
 }),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"sl-tab-show","sl-tab-show",1036894026),(function (e){
 var name = e.detail.name;
@@ -142,8 +142,8 @@ return and__5023__auto__;
 })())){
 return (navigate_to_update_BANG_.cljs$core$IFn$_invoke$arity$0 ? navigate_to_update_BANG_.cljs$core$IFn$_invoke$arity$0() : navigate_to_update_BANG_.call(null));
 } else {
-var G__26762 = cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(name);
-return (navigate_BANG_.cljs$core$IFn$_invoke$arity$1 ? navigate_BANG_.cljs$core$IFn$_invoke$arity$1(G__26762) : navigate_BANG_.call(null,G__26762));
+var G__26770 = cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(name);
+return (navigate_BANG_.cljs$core$IFn$_invoke$arity$1 ? navigate_BANG_.cljs$core$IFn$_invoke$arity$1(G__26770) : navigate_BANG_.call(null,G__26770));
 
 }
 }

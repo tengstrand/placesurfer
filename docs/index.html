@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="26" />
+    <meta name="app-version" content="27" />
     <!-- Filled in at build time from the DROPBOX_APP_KEY env var (scripts/placesurfer_root.clj's
          inject-dropbox-app-key!). Never commit a real key here - this placeholder stays empty. -->
     <meta name="dropbox-app-key" content="o5r1hg4okp65k52" />
@@ -821,6 +821,27 @@
       }
       .settings-language-label {
         line-height: 1.3;
+      }
+      .settings-field-row {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        align-items: center;
+        gap: 0.75rem;
+        max-width: 20rem;
+      }
+      .settings-field-label {
+        margin: 0;
+        font-size: 0.85rem;
+        font-weight: 500;
+        color: #374151;
+      }
+      .settings-text-input {
+        width: 100%;
+        box-sizing: border-box;
+        border: 1px solid #d1d5db;
+        border-radius: 4px;
+        padding: 0.35rem 0.45rem;
+        font-size: 0.85rem;
       }
       .topic-page {
         min-height: 40vh;
@@ -2663,6 +2684,7 @@
         height: 1.1em;
         object-fit: contain;
         display: block;
+        cursor: pointer;
       }
       .update-table {
         width: max-content;
@@ -3163,6 +3185,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1791278858498"></script>
+    <script src="js/main.js?v=1791299630225"></script>
   </body>
 </html>

@@ -1,14 +1,14 @@
 goog.provide('placesurfer.clipboard_ui.interface$.handlers.export$');
 placesurfer.clipboard_ui.interface$.handlers.export$.export_pins_to_clipboard_BANG_ = (function placesurfer$clipboard_ui$interface$handlers$export$export_pins_to_clipboard_BANG_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___27128 = arguments.length;
-var i__5750__auto___27129 = (0);
+var len__5749__auto___27138 = arguments.length;
+var i__5750__auto___27139 = (0);
 while(true){
-if((i__5750__auto___27129 < len__5749__auto___27128)){
-args__5755__auto__.push((arguments[i__5750__auto___27129]));
+if((i__5750__auto___27139 < len__5749__auto___27138)){
+args__5755__auto__.push((arguments[i__5750__auto___27139]));
 
-var G__27130 = (i__5750__auto___27129 + (1));
-i__5750__auto___27129 = G__27130;
+var G__27140 = (i__5750__auto___27139 + (1));
+i__5750__auto___27139 = G__27140;
 continue;
 } else {
 }
@@ -26,9 +26,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.ha
 (placesurfer.clipboard_ui.interface$.handlers.export$.export_pins_to_clipboard_BANG_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.interface$.handlers.export$.export_pins_to_clipboard_BANG_.cljs$lang$applyTo = (function (seq27121){
+(placesurfer.clipboard_ui.interface$.handlers.export$.export_pins_to_clipboard_BANG_.cljs$lang$applyTo = (function (seq27133){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq27121));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq27133));
 }));
 
 

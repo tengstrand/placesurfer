@@ -104,8 +104,8 @@ return null;
 }
 });
 placesurfer.html.sanitize.parse_nodes = (function placesurfer$html$sanitize$parse_nodes(var_args){
-var G__21663 = arguments.length;
-switch (G__21663) {
+var G__21656 = arguments.length;
+switch (G__21656) {
 case 1:
 return placesurfer.html.sanitize.parse_nodes.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -142,10 +142,10 @@ return cljs.core.count(rest);
 }
 })();
 var after = (end + (3));
-var G__21727 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,after);
-var G__21728 = nodes;
-remaining = G__21727;
-nodes = G__21728;
+var G__21755 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,after);
+var G__21756 = nodes;
+remaining = G__21755;
+nodes = G__21756;
 continue;
 } else {
 if(cljs.core.truth_((function (){var and__5023__auto__ = parent_tag;
@@ -165,57 +165,57 @@ return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"no
 } else {
 var temp__5821__auto__ = placesurfer.html.sanitize.parse_open_tag(rest);
 if(cljs.core.truth_(temp__5821__auto__)){
-var map__21673 = temp__5821__auto__;
-var map__21673__$1 = cljs.core.__destructure_map(map__21673);
-var tag = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21673__$1,new cljs.core.Keyword(null,"tag","tag",-1290361223));
-var void$ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21673__$1,new cljs.core.Keyword(null,"void","void",-2084626863));
-var href = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21673__$1,new cljs.core.Keyword(null,"href","href",-793805698));
-var src = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21673__$1,new cljs.core.Keyword(null,"src","src",-1651076051));
-var class$ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21673__$1,new cljs.core.Keyword(null,"class","class",-2030961996));
-var len = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21673__$1,new cljs.core.Keyword(null,"len","len",1423657078));
+var map__21665 = temp__5821__auto__;
+var map__21665__$1 = cljs.core.__destructure_map(map__21665);
+var tag = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21665__$1,new cljs.core.Keyword(null,"tag","tag",-1290361223));
+var void$ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21665__$1,new cljs.core.Keyword(null,"void","void",-2084626863));
+var href = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21665__$1,new cljs.core.Keyword(null,"href","href",-793805698));
+var src = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21665__$1,new cljs.core.Keyword(null,"src","src",-1651076051));
+var class$ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21665__$1,new cljs.core.Keyword(null,"class","class",-2030961996));
+var len = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21665__$1,new cljs.core.Keyword(null,"len","len",1423657078));
 if(cljs.core.contains_QMARK_(placesurfer.html.sanitize.blocked_with_content,tag)){
 var inner = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,len);
 var close_match = cljs.core.re_find(cljs.core.re_pattern(["(?i)</",cljs.core.str.cljs$core$IFn$_invoke$arity$1(tag),"\\s*>"].join('')),inner);
 if(cljs.core.truth_(close_match)){
 var close_start = clojure.string.index_of.cljs$core$IFn$_invoke$arity$2(inner,cljs.core.first(close_match));
 var after = ((len + close_start) + cljs.core.count(cljs.core.first(close_match)));
-var G__21729 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,after);
-var G__21730 = nodes;
-remaining = G__21729;
-nodes = G__21730;
+var G__21762 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,after);
+var G__21763 = nodes;
+remaining = G__21762;
+nodes = G__21763;
 continue;
 } else {
-var G__21731 = "";
-var G__21732 = nodes;
-remaining = G__21731;
-nodes = G__21732;
+var G__21764 = "";
+var G__21765 = nodes;
+remaining = G__21764;
+nodes = G__21765;
 continue;
 }
 } else {
 if(cljs.core.truth_(void$)){
-var G__21733 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,len);
-var G__21734 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 6, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"element","element",1974019749),new cljs.core.Keyword(null,"tag","tag",-1290361223),tag,new cljs.core.Keyword(null,"href","href",-793805698),href,new cljs.core.Keyword(null,"src","src",-1651076051),src,new cljs.core.Keyword(null,"class","class",-2030961996),class$,new cljs.core.Keyword(null,"children","children",-940561982),cljs.core.PersistentVector.EMPTY], null));
-remaining = G__21733;
-nodes = G__21734;
+var G__21766 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,len);
+var G__21767 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 6, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"element","element",1974019749),new cljs.core.Keyword(null,"tag","tag",-1290361223),tag,new cljs.core.Keyword(null,"href","href",-793805698),href,new cljs.core.Keyword(null,"src","src",-1651076051),src,new cljs.core.Keyword(null,"class","class",-2030961996),class$,new cljs.core.Keyword(null,"children","children",-940561982),cljs.core.PersistentVector.EMPTY], null));
+remaining = G__21766;
+nodes = G__21767;
 continue;
 } else {
 var inner = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,len);
 var parsed = placesurfer.html.sanitize.parse_nodes.cljs$core$IFn$_invoke$arity$2(inner,tag);
 var child_nodes = new cljs.core.Keyword(null,"nodes","nodes",-2099585805).cljs$core$IFn$_invoke$arity$1(parsed);
 var child_rest = new cljs.core.Keyword(null,"rest","rest",-1241696419).cljs$core$IFn$_invoke$arity$1(parsed);
-var G__21735 = child_rest;
-var G__21736 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 6, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"element","element",1974019749),new cljs.core.Keyword(null,"tag","tag",-1290361223),tag,new cljs.core.Keyword(null,"href","href",-793805698),href,new cljs.core.Keyword(null,"src","src",-1651076051),src,new cljs.core.Keyword(null,"class","class",-2030961996),class$,new cljs.core.Keyword(null,"children","children",-940561982),child_nodes], null));
-remaining = G__21735;
-nodes = G__21736;
+var G__21772 = child_rest;
+var G__21773 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 6, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"element","element",1974019749),new cljs.core.Keyword(null,"tag","tag",-1290361223),tag,new cljs.core.Keyword(null,"href","href",-793805698),href,new cljs.core.Keyword(null,"src","src",-1651076051),src,new cljs.core.Keyword(null,"class","class",-2030961996),class$,new cljs.core.Keyword(null,"children","children",-940561982),child_nodes], null));
+remaining = G__21772;
+nodes = G__21773;
 continue;
 
 }
 }
 } else {
-var G__21741 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,(1));
-var G__21742 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"text","text",-1790561697),new cljs.core.Keyword(null,"content","content",15833224),"<"], null));
-remaining = G__21741;
-nodes = G__21742;
+var G__21775 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(rest,(1));
+var G__21776 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"text","text",-1790561697),new cljs.core.Keyword(null,"content","content",15833224),"<"], null));
+remaining = G__21775;
+nodes = G__21776;
 continue;
 }
 
@@ -225,10 +225,10 @@ continue;
 var idx = clojure.string.index_of.cljs$core$IFn$_invoke$arity$2(remaining,"<");
 var text = (cljs.core.truth_(idx)?cljs.core.subs.cljs$core$IFn$_invoke$arity$3(remaining,(0),idx):remaining);
 var after = (cljs.core.truth_(idx)?cljs.core.subs.cljs$core$IFn$_invoke$arity$2(remaining,idx):"");
-var G__21749 = after;
-var G__21750 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"text","text",-1790561697),new cljs.core.Keyword(null,"content","content",15833224),text], null));
-remaining = G__21749;
-nodes = G__21750;
+var G__21781 = after;
+var G__21782 = cljs.core.conj.cljs$core$IFn$_invoke$arity$2(nodes,new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"type","type",1174270348),new cljs.core.Keyword(null,"text","text",-1790561697),new cljs.core.Keyword(null,"content","content",15833224),text], null));
+remaining = G__21781;
+nodes = G__21782;
 continue;
 
 }
@@ -239,19 +239,19 @@ break;
 
 (placesurfer.html.sanitize.parse_nodes.cljs$lang$maxFixedArity = 2);
 
-placesurfer.html.sanitize.render_node = (function placesurfer$html$sanitize$render_node(p__21678){
-var map__21681 = p__21678;
-var map__21681__$1 = cljs.core.__destructure_map(map__21681);
-var type = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21681__$1,new cljs.core.Keyword(null,"type","type",1174270348));
-var tag = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21681__$1,new cljs.core.Keyword(null,"tag","tag",-1290361223));
-var href = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21681__$1,new cljs.core.Keyword(null,"href","href",-793805698));
-var src = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21681__$1,new cljs.core.Keyword(null,"src","src",-1651076051));
-var class$ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21681__$1,new cljs.core.Keyword(null,"class","class",-2030961996));
-var children = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21681__$1,new cljs.core.Keyword(null,"children","children",-940561982));
-var content = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21681__$1,new cljs.core.Keyword(null,"content","content",15833224));
-var G__21683 = type;
-var G__21683__$1 = (((G__21683 instanceof cljs.core.Keyword))?G__21683.fqn:null);
-switch (G__21683__$1) {
+placesurfer.html.sanitize.render_node = (function placesurfer$html$sanitize$render_node(p__21675){
+var map__21676 = p__21675;
+var map__21676__$1 = cljs.core.__destructure_map(map__21676);
+var type = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21676__$1,new cljs.core.Keyword(null,"type","type",1174270348));
+var tag = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21676__$1,new cljs.core.Keyword(null,"tag","tag",-1290361223));
+var href = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21676__$1,new cljs.core.Keyword(null,"href","href",-793805698));
+var src = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21676__$1,new cljs.core.Keyword(null,"src","src",-1651076051));
+var class$ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21676__$1,new cljs.core.Keyword(null,"class","class",-2030961996));
+var children = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21676__$1,new cljs.core.Keyword(null,"children","children",-940561982));
+var content = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21676__$1,new cljs.core.Keyword(null,"content","content",15833224));
+var G__21678 = type;
+var G__21678__$1 = (((G__21678 instanceof cljs.core.Keyword))?G__21678.fqn:null);
+switch (G__21678__$1) {
 case "text":
 return placesurfer.html.sanitize.postprocess_br_tags(placesurfer.html.sanitize.text_with_breaks(content));
 
@@ -300,15 +300,15 @@ return inner;
 
 break;
 default:
-throw (new Error(["No matching clause: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__21683__$1)].join('')));
+throw (new Error(["No matching clause: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__21678__$1)].join('')));
 
 }
 });
 placesurfer.html.sanitize.sanitize_html_content = (function placesurfer$html$sanitize$sanitize_html_content(s){
 var cleaned = placesurfer.html.sanitize.strip_void_blocked_tags(placesurfer.html.sanitize.strip_dangerous_blocks(placesurfer.html.sanitize.remove_comments(placesurfer.html.sanitize.preprocess_br_tags(s))));
-var map__21686 = placesurfer.html.sanitize.parse_nodes.cljs$core$IFn$_invoke$arity$1(cleaned);
-var map__21686__$1 = cljs.core.__destructure_map(map__21686);
-var nodes = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21686__$1,new cljs.core.Keyword(null,"nodes","nodes",-2099585805));
+var map__21682 = placesurfer.html.sanitize.parse_nodes.cljs$core$IFn$_invoke$arity$1(cleaned);
+var map__21682__$1 = cljs.core.__destructure_map(map__21682);
+var nodes = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21682__$1,new cljs.core.Keyword(null,"nodes","nodes",-2099585805));
 return clojure.string.join.cljs$core$IFn$_invoke$arity$2("",cljs.core.map.cljs$core$IFn$_invoke$arity$2(placesurfer.html.sanitize.render_node,nodes));
 });
 /**

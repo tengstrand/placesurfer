@@ -25,31 +25,31 @@ placesurfer.pin_ui.handlers.hemnet_search.upsert_results_BANG_ = (function place
 var total = cljs.core.count(results);
 var visible = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(total);
 if(cljs.core.seq(results)){
-var merged_26083 = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(null);
+var merged_20652 = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(null);
 placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (s){
 var existing = new cljs.core.Keyword(null,"search-results","search-results",306464634).cljs$core$IFn$_invoke$arity$2(s,cljs.core.PersistentVector.EMPTY);
 var existing_by_id = cljs.core.into.cljs$core$IFn$_invoke$arity$3(cljs.core.PersistentArrayMap.EMPTY,cljs.core.map.cljs$core$IFn$_invoke$arity$1(cljs.core.juxt.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092),cljs.core.identity)),existing);
 var incoming_ids = cljs.core.into.cljs$core$IFn$_invoke$arity$3(cljs.core.PersistentHashSet.EMPTY,cljs.core.map.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"id","id",-1388402092)),results);
-var kept = cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__26068_SHARP_){
-return cljs.core.contains_QMARK_(incoming_ids,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26068_SHARP_));
+var kept = cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__20639_SHARP_){
+return cljs.core.contains_QMARK_(incoming_ids,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__20639_SHARP_));
 }),existing);
 var updated = cljs.core.map.cljs$core$IFn$_invoke$arity$2((function (r){
-var G__26073 = r;
+var G__20643 = r;
 if(cljs.core.truth_(new cljs.core.Keyword(null,"deleted","deleted",-510100639).cljs$core$IFn$_invoke$arity$1(cljs.core.get.cljs$core$IFn$_invoke$arity$2(existing_by_id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(r))))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__26073,new cljs.core.Keyword(null,"deleted","deleted",-510100639),true);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__20643,new cljs.core.Keyword(null,"deleted","deleted",-510100639),true);
 } else {
-return G__26073;
+return G__20643;
 }
 }),results);
 var next_results = cljs.core.into.cljs$core$IFn$_invoke$arity$2(cljs.core.vec(kept),updated);
-cljs.core.reset_BANG_(merged_26083,next_results);
+cljs.core.reset_BANG_(merged_20652,next_results);
 
 cljs.core.reset_BANG_(visible,cljs.core.count(cljs.core.remove.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"deleted","deleted",-510100639),updated)));
 
 return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"search-results","search-results",306464634),next_results);
 }));
 
-placesurfer.pin_ui.handlers.hemnet_search.persist_and_push_BANG_(cljs.core.deref(merged_26083));
+placesurfer.pin_ui.handlers.hemnet_search.persist_and_push_BANG_(cljs.core.deref(merged_20652));
 
 placesurfer.pin_ui.handlers.map.schedule_pin_map_sync_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),false], null)], 0));
 } else {
@@ -58,8 +58,8 @@ placesurfer.pin_ui.handlers.map.schedule_pin_map_sync_BANG_.cljs$core$IFn$_invok
 return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"total","total",1916810418),total,new cljs.core.Keyword(null,"visible","visible",-1024216805),cljs.core.deref(visible)], null);
 });
 placesurfer.pin_ui.handlers.hemnet_search.clear_results_BANG_ = (function placesurfer$pin_ui$handlers$hemnet_search$clear_results_BANG_(){
-placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__26074_SHARP_){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(p1__26074_SHARP_,new cljs.core.Keyword(null,"search-results","search-results",306464634),cljs.core.PersistentVector.EMPTY,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),null], 0));
+placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__20644_SHARP_){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(p1__20644_SHARP_,new cljs.core.Keyword(null,"search-results","search-results",306464634),cljs.core.PersistentVector.EMPTY,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),null], 0));
 }));
 
 placesurfer.pin_ui.handlers.hemnet_search.persist_and_push_BANG_(cljs.core.PersistentVector.EMPTY);
@@ -78,7 +78,7 @@ return placesurfer.pin_ui.handlers.map.schedule_pin_map_sync_BANG_.cljs$core$IFn
  * undo button works for either kind of row.
  */
 placesurfer.pin_ui.handlers.hemnet_search.discard_result_BANG_ = (function placesurfer$pin_ui$handlers$hemnet_search$discard_result_BANG_(id){
-var next_results_26088 = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(null);
+var next_results_20653 = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(null);
 placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (s){
 var updated = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (r){
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(r))){
@@ -87,26 +87,26 @@ return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(r,new cljs.core.Keyword(nul
 return r;
 }
 }),new cljs.core.Keyword(null,"search-results","search-results",306464634).cljs$core$IFn$_invoke$arity$2(s,cljs.core.PersistentVector.EMPTY));
-cljs.core.reset_BANG_(next_results_26088,updated);
+cljs.core.reset_BANG_(next_results_20653,updated);
 
-var G__26076 = cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(s,new cljs.core.Keyword(null,"search-results","search-results",306464634),updated,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"pin-delete-undo","pin-delete-undo",-1970125853),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"kind","kind",-717265803),new cljs.core.Keyword(null,"search-result","search-result",528142443),new cljs.core.Keyword(null,"id","id",-1388402092),id], null)], 0));
+var G__20646 = cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(s,new cljs.core.Keyword(null,"search-results","search-results",306464634),updated,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"pin-delete-undo","pin-delete-undo",-1970125853),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"kind","kind",-717265803),new cljs.core.Keyword(null,"search-result","search-result",528142443),new cljs.core.Keyword(null,"id","id",-1388402092),id], null)], 0));
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098).cljs$core$IFn$_invoke$arity$1(s))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__26076,new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),null);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__20646,new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),null);
 } else {
-return G__26076;
+return G__20646;
 }
 }));
 
-if(cljs.core.truth_(cljs.core.deref(next_results_26088))){
-placesurfer.pin_ui.handlers.hemnet_search.persist_and_push_BANG_(cljs.core.deref(next_results_26088));
+if(cljs.core.truth_(cljs.core.deref(next_results_20653))){
+placesurfer.pin_ui.handlers.hemnet_search.persist_and_push_BANG_(cljs.core.deref(next_results_20653));
 } else {
 }
 
 return placesurfer.pin_ui.handlers.map.schedule_pin_map_sync_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"recenter?","recenter?",-1643219315),false], null)], 0));
 });
 placesurfer.pin_ui.handlers.hemnet_search.find_result = (function placesurfer$pin_ui$handlers$hemnet_search$find_result(id){
-return cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__26077_SHARP_){
-return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26077_SHARP_))) && (cljs.core.not(new cljs.core.Keyword(null,"deleted","deleted",-510100639).cljs$core$IFn$_invoke$arity$1(p1__26077_SHARP_))));
+return cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__20647_SHARP_){
+return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__20647_SHARP_))) && (cljs.core.not(new cljs.core.Keyword(null,"deleted","deleted",-510100639).cljs$core$IFn$_invoke$arity$1(p1__20647_SHARP_))));
 }),new cljs.core.Keyword(null,"search-results","search-results",306464634).cljs$core$IFn$_invoke$arity$2(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state),cljs.core.PersistentVector.EMPTY)));
 });
 /**
@@ -117,8 +117,8 @@ placesurfer.pin_ui.handlers.hemnet_search.select_result_row_BANG_ = (function pl
 var temp__5823__auto__ = placesurfer.pin_ui.handlers.hemnet_search.find_result(id);
 if(cljs.core.truth_(temp__5823__auto__)){
 var item = temp__5823__auto__;
-placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__26078_SHARP_){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__26078_SHARP_,new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),id);
+placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__20649_SHARP_){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__20649_SHARP_,new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),id);
 }));
 
 return placesurfer.pin_ui.handlers.map.focus_hemnet_result_on_map_BANG_(item);
@@ -140,8 +140,8 @@ var temp__5823__auto__ = new cljs.core.Keyword(null,"id","id",-1388402092).cljs$
 if(cljs.core.truth_(temp__5823__auto__)){
 var id = temp__5823__auto__;
 if(cljs.core.truth_(placesurfer.pin_ui.handlers.hemnet_search.find_result(id))){
-return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__26079_SHARP_){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__26079_SHARP_,new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),id);
+return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__20650_SHARP_){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__20650_SHARP_,new cljs.core.Keyword(null,"hemnet-selected-id","hemnet-selected-id",-673719098),id);
 }));
 } else {
 return null;
@@ -162,8 +162,8 @@ placesurfer.pin_ui.handlers.rows.import_pin_items_BANG_(new cljs.core.Persistent
 
 var remaining = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(null);
 placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (s){
-var next_results = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__26080_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26080_SHARP_));
+var next_results = cljs.core.vec(cljs.core.remove.cljs$core$IFn$_invoke$arity$2((function (p1__20651_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__20651_SHARP_));
 }),new cljs.core.Keyword(null,"search-results","search-results",306464634).cljs$core$IFn$_invoke$arity$2(s,cljs.core.PersistentVector.EMPTY)));
 cljs.core.reset_BANG_(remaining,next_results);
 

@@ -1,14 +1,14 @@
 goog.provide('placesurfer.pin_ui.interface$.editor_pane');
 placesurfer.pin_ui.interface$.editor_pane.editor_pane = (function placesurfer$pin_ui$interface$editor_pane$editor_pane(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___27038 = arguments.length;
-var i__5750__auto___27039 = (0);
+var len__5749__auto___27089 = arguments.length;
+var i__5750__auto___27090 = (0);
 while(true){
-if((i__5750__auto___27039 < len__5749__auto___27038)){
-args__5755__auto__.push((arguments[i__5750__auto___27039]));
+if((i__5750__auto___27090 < len__5749__auto___27089)){
+args__5755__auto__.push((arguments[i__5750__auto___27090]));
 
-var G__27043 = (i__5750__auto___27039 + (1));
-i__5750__auto___27039 = G__27043;
+var G__27092 = (i__5750__auto___27090 + (1));
+i__5750__auto___27090 = G__27092;
 continue;
 } else {
 }
@@ -26,9 +26,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.pure.edi
 (placesurfer.pin_ui.interface$.editor_pane.editor_pane.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.editor_pane.editor_pane.cljs$lang$applyTo = (function (seq27019){
+(placesurfer.pin_ui.interface$.editor_pane.editor_pane.cljs$lang$applyTo = (function (seq27086){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq27019));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq27086));
 }));
 
 

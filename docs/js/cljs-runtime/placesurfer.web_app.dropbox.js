@@ -25,7 +25,7 @@ placesurfer.web_app.dropbox.init_BANG_ = (function placesurfer$web_app$dropbox$i
 placesurfer.dropbox.interface$.set_on_push_error_BANG_(placesurfer.web_app.dropbox.show_sync_error_BANG_);
 
 placesurfer.dropbox.interface$.register_sync_doc_BANG_(new cljs.core.Keyword(null,"prefs","prefs",-1818938470),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"remote-path","remote-path",-1354459447),"/prefs.edn",new cljs.core.Keyword(null,"read","read",1140058661),(function (){
-return new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"active-topics","active-topics",1278012558),cljs.core.vec(placesurfer.browser_storage.interface$.read_active_topics(cljs.core.constantly(cljs.core.PersistentHashSet.EMPTY))),new cljs.core.Keyword(null,"country-slug","country-slug",769681844),placesurfer.browser_storage.interface$.read_country_slug(),new cljs.core.Keyword(null,"page","page",849072397),placesurfer.browser_storage.interface$.read_saved_page()], null);
+return new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"active-topics","active-topics",1278012558),cljs.core.vec(placesurfer.browser_storage.interface$.read_active_topics(cljs.core.constantly(cljs.core.PersistentHashSet.EMPTY))),new cljs.core.Keyword(null,"country-slug","country-slug",769681844),placesurfer.browser_storage.interface$.read_country_slug(),new cljs.core.Keyword(null,"page","page",849072397),placesurfer.browser_storage.interface$.read_saved_page(),new cljs.core.Keyword(null,"transit-destination","transit-destination",1279718214),new cljs.core.Keyword(null,"transit-destination","transit-destination",1279718214).cljs$core$IFn$_invoke$arity$2(placesurfer.i18n.interface$.read_settings_BANG_(),"")], null);
 }),new cljs.core.Keyword(null,"write","write",-1857649168),(function (data){
 if(cljs.core.seq(new cljs.core.Keyword(null,"active-topics","active-topics",1278012558).cljs$core$IFn$_invoke$arity$1(data))){
 placesurfer.browser_storage.interface$.save_active_topics_BANG_(cljs.core.set(new cljs.core.Keyword(null,"active-topics","active-topics",1278012558).cljs$core$IFn$_invoke$arity$1(data)));
@@ -38,7 +38,14 @@ placesurfer.browser_storage.interface$.save_country_slug_BANG_(new cljs.core.Key
 }
 
 if(cljs.core.truth_(new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(data))){
-return placesurfer.browser_storage.interface$.save_page_BANG_(new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(data));
+placesurfer.browser_storage.interface$.save_page_BANG_(new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(data));
+} else {
+}
+
+if(cljs.core.truth_(new cljs.core.Keyword(null,"transit-destination","transit-destination",1279718214).cljs$core$IFn$_invoke$arity$1(data))){
+placesurfer.i18n.interface$.save_settings_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(placesurfer.i18n.interface$.read_settings_BANG_(),new cljs.core.Keyword(null,"transit-destination","transit-destination",1279718214),new cljs.core.Keyword(null,"transit-destination","transit-destination",1279718214).cljs$core$IFn$_invoke$arity$1(data))], 0));
+
+return cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"transit-destination","transit-destination",1279718214),new cljs.core.Keyword(null,"transit-destination","transit-destination",1279718214).cljs$core$IFn$_invoke$arity$1(data));
 } else {
 return null;
 }

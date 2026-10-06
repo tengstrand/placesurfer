@@ -24,7 +24,7 @@ return cljs.reader.read_string.cljs$core$IFn$_invoke$arity$1(raw);
 } else {
 return null;
 }
-}catch (e25003){var _ = e25003;
+}catch (e24663){var _ = e24663;
 return null;
 }} else {
 return null;
@@ -33,7 +33,7 @@ return null;
 placesurfer.dropbox.auth_storage.write_edn_BANG_ = (function placesurfer$dropbox$auth_storage$write_edn_BANG_(storage,k,v){
 if(cljs.core.truth_(storage)){
 try{return storage.setItem(k,cljs.core.pr_str.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([v], 0)));
-}catch (e25004){var _ = e25004;
+}catch (e24666){var _ = e24666;
 return null;
 }} else {
 return null;
@@ -42,7 +42,7 @@ return null;
 placesurfer.dropbox.auth_storage.clear_BANG_ = (function placesurfer$dropbox$auth_storage$clear_BANG_(storage,k){
 if(cljs.core.truth_(storage)){
 try{return storage.removeItem(k);
-}catch (e25007){var _ = e25007;
+}catch (e24673){var _ = e24673;
 return null;
 }} else {
 return null;

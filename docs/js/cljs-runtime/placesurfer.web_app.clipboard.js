@@ -1,12 +1,12 @@
 goog.provide('placesurfer.web_app.clipboard');
 placesurfer.web_app.clipboard.typing_in_field_element_QMARK_ = (function placesurfer$web_app$clipboard$typing_in_field_element_QMARK_(el){
 if(cljs.core.truth_(el)){
-var tag = (function (){var G__26246 = el;
-var G__26246__$1 = (((G__26246 == null))?null:G__26246.tagName);
-if((G__26246__$1 == null)){
+var tag = (function (){var G__20854 = el;
+var G__20854__$1 = (((G__20854 == null))?null:G__20854.tagName);
+if((G__20854__$1 == null)){
 return null;
 } else {
-return G__26246__$1.toUpperCase();
+return G__20854__$1.toUpperCase();
 }
 })();
 return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"INPUT")) || (((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"TEXTAREA")) || (el.isContentEditable === true))));
@@ -31,12 +31,12 @@ return placesurfer.web_app.clipboard.update_pins_mode_QMARK_(s);
 }
 });
 placesurfer.web_app.clipboard.clear_clipboard_BANG_ = (function placesurfer$web_app$clipboard$clear_clipboard_BANG_(){
-var temp__5823__auto__ = (function (){var G__26247 = navigator;
-var G__26247__$1 = (((G__26247 == null))?null:G__26247.clipboard);
-if((G__26247__$1 == null)){
+var temp__5823__auto__ = (function (){var G__20859 = navigator;
+var G__20859__$1 = (((G__20859 == null))?null:G__20859.clipboard);
+if((G__20859__$1 == null)){
 return null;
 } else {
-return G__26247__$1.writeText;
+return G__20859__$1.writeText;
 }
 })();
 if(cljs.core.truth_(temp__5823__auto__)){
@@ -54,10 +54,10 @@ if(cljs.core.truth_(temp__5823__auto__)){
 var payload = temp__5823__auto__;
 var temp__5823__auto____$1 = placesurfer.clipboard_ui.interface$.payload.payload__GT_coordinates.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0));
 if(cljs.core.truth_(temp__5823__auto____$1)){
-var map__26256 = temp__5823__auto____$1;
-var map__26256__$1 = cljs.core.__destructure_map(map__26256);
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26256__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26256__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var map__20862 = temp__5823__auto____$1;
+var map__20862__$1 = cljs.core.__destructure_map(map__20862);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20862__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__20862__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
 placesurfer.edit.interface$.handlers.form.apply_pasted_decimal_coordinates_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([longitude,latitude], 0));
 
 placesurfer.web_app.clipboard.clear_clipboard_BANG_();

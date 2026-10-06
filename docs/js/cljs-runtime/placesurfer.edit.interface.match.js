@@ -3,8 +3,8 @@ placesurfer.edit.interface$.match.coords_exact_match_QMARK_ = (function placesur
 return placesurfer.edit.pure.match.coords_exact_match_QMARK_(lon_a,lat_a,lon_b,lat_b);
 });
 placesurfer.edit.interface$.match.coords_match_QMARK_ = (function placesurfer$edit$interface$match$coords_match_QMARK_(var_args){
-var G__24733 = arguments.length;
-switch (G__24733) {
+var G__20564 = arguments.length;
+switch (G__20564) {
 case 4:
 return placesurfer.edit.interface$.match.coords_match_QMARK_.cljs$core$IFn$_invoke$arity$4((arguments[(0)]),(arguments[(1)]),(arguments[(2)]),(arguments[(3)]));
 
@@ -45,8 +45,8 @@ placesurfer.edit.interface$.match.find_pending_place_index = (function placesurf
 return placesurfer.edit.pure.match.find_pending_place_index(places,longitude,latitude);
 });
 placesurfer.edit.interface$.match.closest_row_within_coord_threshold = (function placesurfer$edit$interface$match$closest_row_within_coord_threshold(var_args){
-var G__24744 = arguments.length;
-switch (G__24744) {
+var G__20571 = arguments.length;
+switch (G__20571) {
 case 3:
 return placesurfer.edit.interface$.match.closest_row_within_coord_threshold.cljs$core$IFn$_invoke$arity$3((arguments[(0)]),(arguments[(1)]),(arguments[(2)]));
 
@@ -75,8 +75,8 @@ placesurfer.edit.interface$.match.coords_match_deleted_row_at_QMARK_ = (function
 return placesurfer.edit.pure.match.coords_match_deleted_row_at_QMARK_(rows,places,longitude,latitude,row_pred_QMARK_);
 });
 placesurfer.edit.interface$.match.find_display_row_by_coords = (function placesurfer$edit$interface$match$find_display_row_by_coords(var_args){
-var G__24748 = arguments.length;
-switch (G__24748) {
+var G__20573 = arguments.length;
+switch (G__20573) {
 case 4:
 return placesurfer.edit.interface$.match.find_display_row_by_coords.cljs$core$IFn$_invoke$arity$4((arguments[(0)]),(arguments[(1)]),(arguments[(2)]),(arguments[(3)]));
 

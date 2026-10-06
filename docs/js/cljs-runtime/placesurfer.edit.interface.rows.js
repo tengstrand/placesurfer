@@ -91,14 +91,14 @@ return placesurfer.edit.pure.rows.display_rows(saved_rows,pending_places);
 });
 placesurfer.edit.interface$.rows.row_field_patch_from_form = (function placesurfer$edit$interface$rows$row_field_patch_from_form(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___24718 = arguments.length;
-var i__5750__auto___24719 = (0);
+var len__5749__auto___20440 = arguments.length;
+var i__5750__auto___20441 = (0);
 while(true){
-if((i__5750__auto___24719 < len__5749__auto___24718)){
-args__5755__auto__.push((arguments[i__5750__auto___24719]));
+if((i__5750__auto___20441 < len__5749__auto___20440)){
+args__5755__auto__.push((arguments[i__5750__auto___20441]));
 
-var G__24720 = (i__5750__auto___24719 + (1));
-i__5750__auto___24719 = G__24720;
+var G__20442 = (i__5750__auto___20441 + (1));
+i__5750__auto___20441 = G__20442;
 continue;
 } else {
 }
@@ -116,13 +116,13 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$4(placesurfer.edit.pure.rows.
 (placesurfer.edit.interface$.rows.row_field_patch_from_form.cljs$lang$maxFixedArity = (2));
 
 /** @this {Function} */
-(placesurfer.edit.interface$.rows.row_field_patch_from_form.cljs$lang$applyTo = (function (seq24654){
-var G__24655 = cljs.core.first(seq24654);
-var seq24654__$1 = cljs.core.next(seq24654);
-var G__24656 = cljs.core.first(seq24654__$1);
-var seq24654__$2 = cljs.core.next(seq24654__$1);
+(placesurfer.edit.interface$.rows.row_field_patch_from_form.cljs$lang$applyTo = (function (seq20423){
+var G__20424 = cljs.core.first(seq20423);
+var seq20423__$1 = cljs.core.next(seq20423);
+var G__20425 = cljs.core.first(seq20423__$1);
+var seq20423__$2 = cljs.core.next(seq20423__$1);
 var self__5734__auto__ = this;
-return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__24655,G__24656,seq24654__$2);
+return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__20424,G__20425,seq20423__$2);
 }));
 
 

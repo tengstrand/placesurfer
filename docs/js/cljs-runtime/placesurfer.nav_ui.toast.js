@@ -71,8 +71,8 @@ return null;
  * Dropbox sync.
  */
 placesurfer.nav_ui.toast.show_BANG_ = (function placesurfer$nav_ui$toast$show_BANG_(var_args){
-var G__26082 = arguments.length;
-switch (G__26082) {
+var G__26100 = arguments.length;
+switch (G__26100) {
 case 1:
 return placesurfer.nav_ui.toast.show_BANG_.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -91,20 +91,20 @@ throw (new Error(["Invalid arity: ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(
 return placesurfer.nav_ui.toast.show_BANG_.cljs$core$IFn$_invoke$arity$2(message,cljs.core.PersistentArrayMap.EMPTY);
 }));
 
-(placesurfer.nav_ui.toast.show_BANG_.cljs$core$IFn$_invoke$arity$2 = (function (message,p__26087){
-var map__26089 = p__26087;
-var map__26089__$1 = cljs.core.__destructure_map(map__26089);
-var duration_ms = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26089__$1,new cljs.core.Keyword(null,"duration-ms","duration-ms",1993555055),(3200));
-var kind = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26089__$1,new cljs.core.Keyword(null,"kind","kind",-717265803),new cljs.core.Keyword(null,"error","error",-978969032));
+(placesurfer.nav_ui.toast.show_BANG_.cljs$core$IFn$_invoke$arity$2 = (function (message,p__26110){
+var map__26111 = p__26110;
+var map__26111__$1 = cljs.core.__destructure_map(map__26111);
+var duration_ms = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26111__$1,new cljs.core.Keyword(null,"duration-ms","duration-ms",1993555055),(3200));
+var kind = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26111__$1,new cljs.core.Keyword(null,"kind","kind",-717265803),new cljs.core.Keyword(null,"error","error",-978969032));
 var el = placesurfer.nav_ui.toast.toast_element_BANG_();
 (el.textContent = cljs.core.str.cljs$core$IFn$_invoke$arity$1(message));
 
 (el.className = ["nav-toast",((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(kind,new cljs.core.Keyword(null,"success","success",1890645906)))?" nav-toast--success":null)].join(''));
 
-var temp__5823__auto___26109 = cljs.core.deref(placesurfer.nav_ui.toast._BANG_hide_timer);
-if(cljs.core.truth_(temp__5823__auto___26109)){
-var timer_26111 = temp__5823__auto___26109;
-clearTimeout(timer_26111);
+var temp__5823__auto___26116 = cljs.core.deref(placesurfer.nav_ui.toast._BANG_hide_timer);
+if(cljs.core.truth_(temp__5823__auto___26116)){
+var timer_26117 = temp__5823__auto___26116;
+clearTimeout(timer_26117);
 } else {
 }
 
@@ -125,10 +125,10 @@ placesurfer.nav_ui.toast.hide_BANG_ = (function placesurfer$nav_ui$toast$hide_BA
 var temp__5823__auto__ = cljs.core.deref(placesurfer.nav_ui.toast._BANG_toast_el);
 if(cljs.core.truth_(temp__5823__auto__)){
 var el = temp__5823__auto__;
-var temp__5823__auto___26112__$1 = cljs.core.deref(placesurfer.nav_ui.toast._BANG_hide_timer);
-if(cljs.core.truth_(temp__5823__auto___26112__$1)){
-var timer_26113 = temp__5823__auto___26112__$1;
-clearTimeout(timer_26113);
+var temp__5823__auto___26119__$1 = cljs.core.deref(placesurfer.nav_ui.toast._BANG_hide_timer);
+if(cljs.core.truth_(temp__5823__auto___26119__$1)){
+var timer_26120 = temp__5823__auto___26119__$1;
+clearTimeout(timer_26120);
 } else {
 }
 
@@ -138,12 +138,12 @@ return null;
 }
 });
 placesurfer.nav_ui.toast.toast = (function placesurfer$nav_ui$toast$toast(message){
-var temp__5823__auto__ = (function (){var G__26100 = message;
-var G__26100__$1 = (((G__26100 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__26100));
-if((G__26100__$1 == null)){
+var temp__5823__auto__ = (function (){var G__26112 = message;
+var G__26112__$1 = (((G__26112 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__26112));
+if((G__26112__$1 == null)){
 return null;
 } else {
-return cljs.core.not_empty(G__26100__$1);
+return cljs.core.not_empty(G__26112__$1);
 }
 })();
 if(cljs.core.truth_(temp__5823__auto__)){

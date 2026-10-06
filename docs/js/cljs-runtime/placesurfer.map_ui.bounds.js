@@ -74,13 +74,13 @@ return null;
  * country yields a degenerate point box (west=east, south=north); that is still
  * valid - MapLibre centers on it at maxZoom - so use <= not <.
  */
-placesurfer.map_ui.bounds.valid_lng_lat_box_QMARK_ = (function placesurfer$map_ui$bounds$valid_lng_lat_box_QMARK_(p__21540){
-var map__21541 = p__21540;
-var map__21541__$1 = cljs.core.__destructure_map(map__21541);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21541__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21541__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21541__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21541__$1,new cljs.core.Keyword(null,"north","north",651323902));
+placesurfer.map_ui.bounds.valid_lng_lat_box_QMARK_ = (function placesurfer$map_ui$bounds$valid_lng_lat_box_QMARK_(p__21542){
+var map__21543 = p__21542;
+var map__21543__$1 = cljs.core.__destructure_map(map__21543);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21543__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21543__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21543__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21543__$1,new cljs.core.Keyword(null,"north","north",651323902));
 return ((typeof west === 'number') && (((typeof east === 'number') && (((typeof south === 'number') && (((typeof north === 'number') && ((((west <= east)) && ((south <= north)))))))))));
 });
 /**
@@ -118,26 +118,26 @@ return new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"we
 return box;
 }
 });
-placesurfer.map_ui.bounds.bounds_center = (function placesurfer$map_ui$bounds$bounds_center(p__21548){
-var map__21549 = p__21548;
-var map__21549__$1 = cljs.core.__destructure_map(map__21549);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21549__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21549__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21549__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21549__$1,new cljs.core.Keyword(null,"north","north",651323902));
+placesurfer.map_ui.bounds.bounds_center = (function placesurfer$map_ui$bounds$bounds_center(p__21546){
+var map__21547 = p__21546;
+var map__21547__$1 = cljs.core.__destructure_map(map__21547);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21547__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21547__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21547__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21547__$1,new cljs.core.Keyword(null,"north","north",651323902));
 return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"lng","lng",1667213918),((west + east) / 2.0),new cljs.core.Keyword(null,"lat","lat",-580793929),((south + north) / 2.0)], null);
 });
-placesurfer.map_ui.bounds.view_center_in_bounds_QMARK_ = (function placesurfer$map_ui$bounds$view_center_in_bounds_QMARK_(p__21550,p__21551){
-var map__21552 = p__21550;
-var map__21552__$1 = cljs.core.__destructure_map(map__21552);
-var lng = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21552__$1,new cljs.core.Keyword(null,"lng","lng",1667213918));
-var lat = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21552__$1,new cljs.core.Keyword(null,"lat","lat",-580793929));
+placesurfer.map_ui.bounds.view_center_in_bounds_QMARK_ = (function placesurfer$map_ui$bounds$view_center_in_bounds_QMARK_(p__21551,p__21552){
 var map__21553 = p__21551;
 var map__21553__$1 = cljs.core.__destructure_map(map__21553);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21553__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21553__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21553__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21553__$1,new cljs.core.Keyword(null,"north","north",651323902));
+var lng = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21553__$1,new cljs.core.Keyword(null,"lng","lng",1667213918));
+var lat = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21553__$1,new cljs.core.Keyword(null,"lat","lat",-580793929));
+var map__21554 = p__21552;
+var map__21554__$1 = cljs.core.__destructure_map(map__21554);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21554__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21554__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21554__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21554__$1,new cljs.core.Keyword(null,"north","north",651323902));
 return (((((west <= lng)) && ((lng <= east)))) && ((((south <= lat)) && ((lat <= north)))));
 });
 placesurfer.map_ui.bounds.sweden_zoomed_view = (function placesurfer$map_ui$bounds$sweden_zoomed_view(){

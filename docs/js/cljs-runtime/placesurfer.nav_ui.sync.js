@@ -11,7 +11,7 @@ placesurfer.nav_ui.sync.show_tab_panel_BANG_ = (function placesurfer$nav_ui$sync
 cljs.core.reset_BANG_(placesurfer.nav_ui.sync._BANG_suppress_tab_show_navigation_QMARK_,true);
 
 try{group.show(name);
-}catch (e26730){var __26734 = e26730;
+}catch (e26746){var __26753 = e26746;
 }
 return setTimeout((function (){
 return cljs.core.reset_BANG_(placesurfer.nav_ui.sync._BANG_suppress_tab_show_navigation_QMARK_,false);
