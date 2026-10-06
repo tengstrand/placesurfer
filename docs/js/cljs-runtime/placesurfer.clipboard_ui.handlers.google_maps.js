@@ -6,9 +6,9 @@ return placesurfer.clipboard_ui.pure.browser.trimmed_text(text);
  * Apply Google Maps bookmarklet payload to the pin editor.
  */
 placesurfer.clipboard_ui.handlers.google_maps.apply_payload_BANG_ = (function placesurfer$clipboard_ui$handlers$google_maps$apply_payload_BANG_(payload){
-var temp__5825__auto__ = placesurfer.clipboard_ui.google_maps.payload.payload__GT_place(payload);
-if(cljs.core.truth_(temp__5825__auto__)){
-var place = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.clipboard_ui.google_maps.payload.payload__GT_place(payload);
+if(cljs.core.truth_(temp__5823__auto__)){
+var place = temp__5823__auto__;
 var source_url = cljs.core.not_empty(placesurfer.clipboard_ui.handlers.google_maps.trimmed_text(new cljs.core.Keyword(null,"url","url",276297046).cljs$core$IFn$_invoke$arity$1(payload)));
 var form = placesurfer.clipboard_ui.google_maps.place.place__GT_pin_form(place,source_url);
 placesurfer.clipboard_ui.handlers.pin_editor.apply_resolved_place_form_BANG_(form);

@@ -1,12 +1,12 @@
 goog.provide('placesurfer.web_app.clipboard');
 placesurfer.web_app.clipboard.typing_in_field_element_QMARK_ = (function placesurfer$web_app$clipboard$typing_in_field_element_QMARK_(el){
 if(cljs.core.truth_(el)){
-var tag = (function (){var G__40244 = el;
-var G__40244__$1 = (((G__40244 == null))?null:G__40244.tagName);
-if((G__40244__$1 == null)){
+var tag = (function (){var G__22069 = el;
+var G__22069__$1 = (((G__22069 == null))?null:G__22069.tagName);
+if((G__22069__$1 == null)){
 return null;
 } else {
-return G__40244__$1.toUpperCase();
+return G__22069__$1.toUpperCase();
 }
 })();
 return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"INPUT")) || (((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"TEXTAREA")) || (el.isContentEditable === true))));
@@ -31,16 +31,16 @@ return placesurfer.web_app.clipboard.update_pins_mode_QMARK_(s);
 }
 });
 placesurfer.web_app.clipboard.clear_clipboard_BANG_ = (function placesurfer$web_app$clipboard$clear_clipboard_BANG_(){
-var temp__5825__auto__ = (function (){var G__40260 = navigator;
-var G__40260__$1 = (((G__40260 == null))?null:G__40260.clipboard);
-if((G__40260__$1 == null)){
+var temp__5823__auto__ = (function (){var G__22083 = navigator;
+var G__22083__$1 = (((G__22083 == null))?null:G__22083.clipboard);
+if((G__22083__$1 == null)){
 return null;
 } else {
-return G__40260__$1.writeText;
+return G__22083__$1.writeText;
 }
 })();
-if(cljs.core.truth_(temp__5825__auto__)){
-var write_text = temp__5825__auto__;
+if(cljs.core.truth_(temp__5823__auto__)){
+var write_text = temp__5823__auto__;
 return (write_text.cljs$core$IFn$_invoke$arity$1 ? write_text.cljs$core$IFn$_invoke$arity$1("") : write_text.call(null,"")).catch((function (_){
 return null;
 }));
@@ -49,15 +49,15 @@ return null;
 }
 });
 placesurfer.web_app.clipboard.apply_topic_place_coords_from_text_BANG_ = (function placesurfer$web_app$clipboard$apply_topic_place_coords_from_text_BANG_(text){
-var temp__5825__auto__ = placesurfer.clipboard_ui.interface$.payload.parse_bookmarklet_text.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(text))], 0));
-if(cljs.core.truth_(temp__5825__auto__)){
-var payload = temp__5825__auto__;
-var temp__5825__auto____$1 = placesurfer.clipboard_ui.interface$.payload.payload__GT_coordinates.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0));
-if(cljs.core.truth_(temp__5825__auto____$1)){
-var map__40265 = temp__5825__auto____$1;
-var map__40265__$1 = cljs.core.__destructure_map(map__40265);
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40265__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40265__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var temp__5823__auto__ = placesurfer.clipboard_ui.interface$.payload.parse_bookmarklet_text.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(text))], 0));
+if(cljs.core.truth_(temp__5823__auto__)){
+var payload = temp__5823__auto__;
+var temp__5823__auto____$1 = placesurfer.clipboard_ui.interface$.payload.payload__GT_coordinates.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0));
+if(cljs.core.truth_(temp__5823__auto____$1)){
+var map__22088 = temp__5823__auto____$1;
+var map__22088__$1 = cljs.core.__destructure_map(map__22088);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22088__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22088__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
 placesurfer.edit.interface$.handlers.form.apply_pasted_decimal_coordinates_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([longitude,latitude], 0));
 
 placesurfer.web_app.clipboard.clear_clipboard_BANG_();
@@ -77,6 +77,9 @@ placesurfer.web_app.clipboard.on_document_paste_BANG_ = (function placesurfer$we
 var s = cljs.core.deref(placesurfer.web_app.state._BANG_state);
 var text = e.clipboardData.getData("text");
 var in_field_QMARK_ = placesurfer.web_app.clipboard.typing_in_field_element_QMARK_(e.target);
+if(cljs.core.truth_(placesurfer.clipboard_ui.interface$.handlers.paste.apply_search_results_clipboard_text_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([text], 0)))){
+return e.preventDefault();
+} else {
 if(cljs.core.truth_((function (){var and__5023__auto__ = placesurfer.web_app.clipboard.full_place_paste_context_QMARK_(s);
 if(cljs.core.truth_(and__5023__auto__)){
 return placesurfer.clipboard_ui.interface$.handlers.paste.apply_place_clipboard_text_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([text], 0));
@@ -126,6 +129,7 @@ return e.preventDefault();
 } else {
 return null;
 
+}
 }
 }
 }

@@ -13,18 +13,18 @@ placesurfer.html.description.linkify_bare_urls = (function placesurfer$html$desc
 var remaining = cljs.core.str.cljs$core$IFn$_invoke$arity$1(s);
 var out = "";
 while(true){
-var temp__5823__auto__ = clojure.string.index_of.cljs$core$IFn$_invoke$arity$2(remaining,"<");
-if(cljs.core.truth_(temp__5823__auto__)){
-var idx = temp__5823__auto__;
+var temp__5821__auto__ = clojure.string.index_of.cljs$core$IFn$_invoke$arity$2(remaining,"<");
+if(cljs.core.truth_(temp__5821__auto__)){
+var idx = temp__5821__auto__;
 var text = cljs.core.subs.cljs$core$IFn$_invoke$arity$3(remaining,(0),idx);
 var after = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(remaining,idx);
 var tag_end = clojure.string.index_of.cljs$core$IFn$_invoke$arity$2(after,">");
 if(cljs.core.truth_(tag_end)){
 var tag = cljs.core.subs.cljs$core$IFn$_invoke$arity$3(after,(0),(tag_end + (1)));
-var G__38803 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(after,(tag_end + (1)));
-var G__38804 = [out,placesurfer.html.description.linkify_text_segment(text),tag].join('');
-remaining = G__38803;
-out = G__38804;
+var G__24073 = cljs.core.subs.cljs$core$IFn$_invoke$arity$2(after,(tag_end + (1)));
+var G__24074 = [out,placesurfer.html.description.linkify_text_segment(text),tag].join('');
+remaining = G__24073;
+out = G__24074;
 continue;
 } else {
 return [out,placesurfer.html.description.linkify_text_segment(text),after].join('');

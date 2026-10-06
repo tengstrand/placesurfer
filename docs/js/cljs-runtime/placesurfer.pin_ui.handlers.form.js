@@ -14,36 +14,6 @@ placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(
 
 return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
 });
-placesurfer.pin_ui.handlers.form.set_pin_group_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_group_BANG_(group_id){
-var saved = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(null);
-placesurfer.pin_ui.handlers.state.swap_state_BANG_((function (s){
-var temp__5823__auto__ = new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(s);
-if(cljs.core.truth_(temp__5823__auto__)){
-var pin_id = temp__5823__auto__;
-var temp__5823__auto____$1 = placesurfer.pin_ui.pure.rows.move_pin_to_group(new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100).cljs$core$IFn$_invoke$arity$1(s),pin_id,group_id);
-if(cljs.core.truth_(temp__5823__auto____$1)){
-var next_items = temp__5823__auto____$1;
-cljs.core.reset_BANG_(saved,next_items);
-
-return placesurfer.pin_ui.handlers.rows.refresh_table_rows.cljs$core$IFn$_invoke$arity$2(cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100),next_items),pin_id);
-} else {
-return s;
-}
-} else {
-return s;
-}
-}));
-
-if(cljs.core.truth_(cljs.core.deref(saved))){
-placesurfer.pin_ui.pure.storage.save_pins_BANG_(cljs.core.deref(saved));
-
-placesurfer.pin_ui.handlers.state.render_BANG_();
-
-return placesurfer.pin_ui.handlers.form.notify_inline_edit_BANG_();
-} else {
-return null;
-}
-});
 placesurfer.pin_ui.handlers.form.set_pin_icon_BANG_ = (function placesurfer$pin_ui$handlers$form$set_pin_icon_BANG_(v){
 placesurfer.pin_ui.handlers.state.update_form_field_BANG_(new cljs.core.Keyword(null,"icon","icon",1679606541),placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(v));
 

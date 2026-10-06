@@ -6,10 +6,10 @@ placesurfer.pin_ui.handlers.interaction.pin_browse_mode_QMARK_ = (function place
 return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pin","pin",-2111774834),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(s));
 });
 placesurfer.pin_ui.handlers.interaction.selected_row_index = (function placesurfer$pin_ui$handlers$interaction$selected_row_index(table_rows,selected_id){
-return cljs.core.first(cljs.core.keep_indexed.cljs$core$IFn$_invoke$arity$2((function (idx,p__74702){
-var map__74703 = p__74702;
-var map__74703__$1 = cljs.core.__destructure_map(map__74703);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__74703__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+return cljs.core.first(cljs.core.keep_indexed.cljs$core$IFn$_invoke$arity$2((function (idx,p__21573){
+var map__21574 = p__21573;
+var map__21574__$1 = cljs.core.__destructure_map(map__21574);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21574__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,selected_id)){
 return idx;
 } else {
@@ -17,7 +17,7 @@ return null;
 }
 }),table_rows));
 });
-placesurfer.pin_ui.handlers.interaction.navigate_pin_row_BANG_ = (function placesurfer$pin_ui$handlers$interaction$navigate_pin_row_BANG_(target_id,editor_open_QMARK_,separator_open_QMARK_){
+placesurfer.pin_ui.handlers.interaction.navigate_pin_row_BANG_ = (function placesurfer$pin_ui$handlers$interaction$navigate_pin_row_BANG_(target_id,editor_open_QMARK_){
 if(cljs.core.truth_((function (){var and__5023__auto__ = target_id;
 if(cljs.core.truth_(and__5023__auto__)){
 return cljs.core.not_EQ_.cljs$core$IFn$_invoke$arity$2(target_id,new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)));
@@ -32,11 +32,6 @@ placesurfer.pin_ui.handlers.editor.maybe_save_inline_pin_before_switch_BANG_();
 
 if(cljs.core.truth_(editor_open_QMARK_)){
 placesurfer.pin_ui.handlers.editor.cancel_pin_editor_BANG_();
-} else {
-}
-
-if(cljs.core.truth_(separator_open_QMARK_)){
-placesurfer.pin_ui.handlers.separator.cancel_pin_separator_overlay_BANG_();
 } else {
 }
 
@@ -67,14 +62,14 @@ return null;
 }
 });
 placesurfer.pin_ui.handlers.interaction.set_pin_table_keyboard_focus_BANG_ = (function placesurfer$pin_ui$handlers$interaction$set_pin_table_keyboard_focus_BANG_(){
-return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__74715_SHARP_){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__74715_SHARP_,new cljs.core.Keyword(null,"pin-table-keyboard-focus?","pin-table-keyboard-focus?",-1363284319),true);
+return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__21582_SHARP_){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__21582_SHARP_,new cljs.core.Keyword(null,"pin-table-keyboard-focus?","pin-table-keyboard-focus?",-1363284319),true);
 }));
 });
 placesurfer.pin_ui.handlers.interaction.clear_pin_table_keyboard_focus_BANG_ = (function placesurfer$pin_ui$handlers$interaction$clear_pin_table_keyboard_focus_BANG_(){
 if(cljs.core.truth_(new cljs.core.Keyword(null,"pin-table-keyboard-focus?","pin-table-keyboard-focus?",-1363284319).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state)))){
-return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__74716_SHARP_){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__74716_SHARP_,new cljs.core.Keyword(null,"pin-table-keyboard-focus?","pin-table-keyboard-focus?",-1363284319),false);
+return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__21585_SHARP_){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__21585_SHARP_,new cljs.core.Keyword(null,"pin-table-keyboard-focus?","pin-table-keyboard-focus?",-1363284319),false);
 }));
 } else {
 return null;
@@ -109,23 +104,23 @@ placesurfer.pin_ui.handlers.interaction.normalize_map_click_position = (function
 var position = ((cljs.core.map_QMARK_(raw_position))?raw_position:cljs.core.js__GT_clj.cljs$core$IFn$_invoke$arity$variadic(raw_position,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"keywordize-keys","keywordize-keys",1310784252),true], 0)));
 var lon = placesurfer.pin_ui.handlers.interaction.numeric_coord(new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position));
 var lat = placesurfer.pin_ui.handlers.interaction.numeric_coord(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position));
-var G__74721 = position;
-var G__74721__$1 = (cljs.core.truth_(lon)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__74721,new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon):G__74721);
+var G__21595 = position;
+var G__21595__$1 = (cljs.core.truth_(lon)?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__21595,new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon):G__21595);
 if(cljs.core.truth_(lat)){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__74721__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__21595__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat);
 } else {
-return G__74721__$1;
+return G__21595__$1;
 }
 });
 placesurfer.pin_ui.handlers.interaction.find_pin_by_id = (function placesurfer$pin_ui$handlers$interaction$find_pin_by_id(items,id){
-return cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__74723_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(cljs.core.str.cljs$core$IFn$_invoke$arity$1(id),cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__74723_SHARP_)));
+return cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__21596_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(cljs.core.str.cljs$core$IFn$_invoke$arity$1(id),cljs.core.str.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21596_SHARP_)));
 }),items));
 });
 placesurfer.pin_ui.handlers.interaction.pin_item_for_map_position = (function placesurfer$pin_ui$handlers$interaction$pin_item_for_map_position(position,items){
-var or__5025__auto__ = (function (){var temp__5825__auto__ = new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(position);
-if(cljs.core.truth_(temp__5825__auto__)){
-var id = temp__5825__auto__;
+var or__5025__auto__ = (function (){var temp__5823__auto__ = new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(position);
+if(cljs.core.truth_(temp__5823__auto__)){
+var id = temp__5823__auto__;
 return placesurfer.pin_ui.handlers.interaction.find_pin_by_id(items,id);
 } else {
 return null;
@@ -134,12 +129,12 @@ return null;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
-var temp__5825__auto__ = new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position);
-if(cljs.core.truth_(temp__5825__auto__)){
-var lon = temp__5825__auto__;
-var temp__5825__auto____$1 = new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position);
-if(cljs.core.truth_(temp__5825__auto____$1)){
-var lat = temp__5825__auto____$1;
+var temp__5823__auto__ = new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(position);
+if(cljs.core.truth_(temp__5823__auto__)){
+var lon = temp__5823__auto__;
+var temp__5823__auto____$1 = new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(position);
+if(cljs.core.truth_(temp__5823__auto____$1)){
+var lat = temp__5823__auto____$1;
 return placesurfer.pin_ui.pure.rows.find_by_coords(items,lon,lat);
 } else {
 return null;
@@ -151,13 +146,13 @@ return null;
 });
 placesurfer.pin_ui.handlers.interaction.pin_marker_position_QMARK_ = (function placesurfer$pin_ui$handlers$interaction$pin_marker_position_QMARK_(position){
 var topic = placesurfer.pin_ui.handlers.interaction.explicit_marker_topic(position);
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pin","pin",-2111774834),(((topic instanceof cljs.core.Keyword))?topic:(function (){var G__74724 = topic;
-var G__74724__$1 = (((G__74724 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__74724));
-var G__74724__$2 = (((G__74724__$1 == null))?null:cljs.core.not_empty(G__74724__$1));
-if((G__74724__$2 == null)){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pin","pin",-2111774834),(((topic instanceof cljs.core.Keyword))?topic:(function (){var G__21605 = topic;
+var G__21605__$1 = (((G__21605 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__21605));
+var G__21605__$2 = (((G__21605__$1 == null))?null:cljs.core.not_empty(G__21605__$1));
+if((G__21605__$2 == null)){
 return null;
 } else {
-return cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(G__74724__$2);
+return cljs.core.keyword.cljs$core$IFn$_invoke$arity$1(G__21605__$2);
 }
 })()));
 });
@@ -168,9 +163,9 @@ placesurfer.pin_ui.handlers.interaction.pick_pin_from_map_BANG_ = (function plac
 var position = placesurfer.pin_ui.handlers.interaction.normalize_map_click_position(raw_position);
 var s = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
 var items = new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100).cljs$core$IFn$_invoke$arity$1(s);
-var item = (function (){var or__5025__auto__ = (function (){var temp__5825__auto__ = placesurfer.pin_ui.handlers.interaction.pin_item_for_map_position(position,items);
-if(cljs.core.truth_(temp__5825__auto__)){
-var match = temp__5825__auto__;
+var item = (function (){var or__5025__auto__ = (function (){var temp__5823__auto__ = placesurfer.pin_ui.handlers.interaction.pin_item_for_map_position(position,items);
+if(cljs.core.truth_(temp__5823__auto__)){
+var match = temp__5823__auto__;
 if(placesurfer.pin_ui.pure.rows.separator_item_QMARK_(match)){
 return null;
 } else {
@@ -196,14 +191,14 @@ return ((placesurfer.pin_ui.handlers.interaction.pin_marker_position_QMARK_(posi
 placesurfer.map_ui.interface$.close_all_popups_BANG_();
 
 if(cljs.core.truth_(item)){
-var id_74729 = new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(item);
-var already_selected_QMARK__74730 = cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id_74729,new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(s));
-if(already_selected_QMARK__74730){
+var id_21676 = new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(item);
+var already_selected_QMARK__21677 = cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id_21676,new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(s));
+if(already_selected_QMARK__21677){
 } else {
-placesurfer.pin_ui.handlers.rows.select_pin_row_BANG_(id_74729);
+placesurfer.pin_ui.handlers.rows.select_pin_row_BANG_(id_21676);
 
 if(placesurfer.pin_ui.handlers.interaction.update_pins_mode_QMARK_(s)){
-placesurfer.pin_ui.handlers.editor.load_pin_into_inline_editor_BANG_(id_74729);
+placesurfer.pin_ui.handlers.editor.load_pin_into_inline_editor_BANG_(id_21676);
 } else {
 }
 }
@@ -235,9 +230,9 @@ var or__5025__auto____$1 = placesurfer.pin_ui.handlers.map.saved_pin_on_main_map
 if(or__5025__auto____$1){
 return or__5025__auto____$1;
 } else {
-var temp__5825__auto__ = placesurfer.pin_ui.handlers.interaction.pin_item_for_map_position(position,new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100).cljs$core$IFn$_invoke$arity$1(s));
-if(cljs.core.truth_(temp__5825__auto__)){
-var item = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.pin_ui.handlers.interaction.pin_item_for_map_position(position,new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100).cljs$core$IFn$_invoke$arity$1(s));
+if(cljs.core.truth_(temp__5823__auto__)){
+var item = temp__5823__auto__;
 return (!(placesurfer.pin_ui.pure.rows.separator_item_QMARK_(item)));
 } else {
 return null;
@@ -246,23 +241,23 @@ return null;
 }
 });
 placesurfer.pin_ui.handlers.interaction.toggle_pin_preview_BANG_ = (function placesurfer$pin_ui$handlers$interaction$toggle_pin_preview_BANG_(){
-return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__74725_SHARP_){
-return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__74725_SHARP_,new cljs.core.Keyword(null,"pin-show-preview?","pin-show-preview?",837912811),cljs.core.not);
+return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__21614_SHARP_){
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__21614_SHARP_,new cljs.core.Keyword(null,"pin-show-preview?","pin-show-preview?",837912811),cljs.core.not);
 }));
 });
 placesurfer.pin_ui.handlers.interaction.toggle_pin_stars_BANG_ = (function placesurfer$pin_ui$handlers$interaction$toggle_pin_stars_BANG_(){
-return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__74726_SHARP_){
-return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__74726_SHARP_,new cljs.core.Keyword(null,"pin-show-stars?","pin-show-stars?",-1433649687),cljs.core.not);
+return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__21619_SHARP_){
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__21619_SHARP_,new cljs.core.Keyword(null,"pin-show-stars?","pin-show-stars?",-1433649687),cljs.core.not);
 }));
 });
 placesurfer.pin_ui.handlers.interaction.toggle_update_stars_BANG_ = (function placesurfer$pin_ui$handlers$interaction$toggle_update_stars_BANG_(){
-return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__74727_SHARP_){
-return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__74727_SHARP_,new cljs.core.Keyword(null,"update-show-stars?","update-show-stars?",-280328914),cljs.core.not);
+return placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__21624_SHARP_){
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__21624_SHARP_,new cljs.core.Keyword(null,"update-show-stars?","update-show-stars?",-280328914),cljs.core.not);
 }));
 });
 placesurfer.pin_ui.handlers.interaction.toggle_pin_topics_on_map_BANG_ = (function placesurfer$pin_ui$handlers$interaction$toggle_pin_topics_on_map_BANG_(){
-placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__74728_SHARP_){
-return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__74728_SHARP_,new cljs.core.Keyword(null,"pin-show-topics-on-map?","pin-show-topics-on-map?",744248117),cljs.core.not);
+placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__21626_SHARP_){
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__21626_SHARP_,new cljs.core.Keyword(null,"pin-show-topics-on-map?","pin-show-topics-on-map?",744248117),cljs.core.not);
 }));
 
 if(placesurfer.pin_ui.handlers.interaction.pin_browse_mode_QMARK_(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state))){
@@ -270,6 +265,21 @@ return placesurfer.pin_ui.handlers.map.schedule_pin_map_sync_BANG_.cljs$core$IFn
 } else {
 return null;
 }
+});
+/**
+ * Fullscreen toggle for the pin page - hides/shows the saved-pin list panel
+ * so the map can fill the full width. MapLibre needs an explicit resize
+ * call once the layout settles after the list panel's width changes (same
+ * pattern as web-app.nav's post-navigate map resize).
+ */
+placesurfer.pin_ui.handlers.interaction.toggle_pin_list_hidden_BANG_ = (function placesurfer$pin_ui$handlers$interaction$toggle_pin_list_hidden_BANG_(){
+placesurfer.pin_ui.handlers.state.swap_render_BANG_((function (p1__21637_SHARP_){
+return cljs.core.update.cljs$core$IFn$_invoke$arity$3(p1__21637_SHARP_,new cljs.core.Keyword(null,"pin-list-hidden?","pin-list-hidden?",-1239457246),cljs.core.not);
+}));
+
+return setTimeout((function (){
+return placesurfer.map_ui.interface$.resize_map_BANG_();
+}),(50));
 });
 placesurfer.pin_ui.handlers.interaction.open_selected_pin_row_BANG_ = (function placesurfer$pin_ui$handlers$interaction$open_selected_pin_row_BANG_(){
 if(cljs.core.truth_((function (){var and__5023__auto__ = new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state));
@@ -298,23 +308,17 @@ return and__5023__auto__;
 })();
 var already_selected_QMARK_ = cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(id,new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(s));
 var editor_open_QMARK_ = new cljs.core.Keyword(null,"pin-editor-open?","pin-editor-open?",1076821159).cljs$core$IFn$_invoke$arity$1(s);
-var separator_open_QMARK_ = new cljs.core.Keyword(null,"pin-separator-overlay-open?","pin-separator-overlay-open?",-1998521386).cljs$core$IFn$_invoke$arity$1(s);
 if(cljs.core.truth_(separator_QMARK_)){
 if(cljs.core.truth_(editor_open_QMARK_)){
-placesurfer.pin_ui.handlers.editor.cancel_pin_editor_BANG_();
-} else {
-}
-
-if(cljs.core.truth_(separator_open_QMARK_)){
-return placesurfer.pin_ui.handlers.separator.cancel_pin_separator_overlay_BANG_();
+return placesurfer.pin_ui.handlers.editor.cancel_pin_editor_BANG_();
 } else {
 return null;
 }
 } else {
 if(placesurfer.pin_ui.handlers.interaction.pin_browse_mode_QMARK_(s)){
-var temp__5825__auto__ = placesurfer.pin_ui.handlers.rows.find_display_item(s,id);
-if(cljs.core.truth_(temp__5825__auto__)){
-var display_item = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.pin_ui.handlers.rows.find_display_item(s,id);
+if(cljs.core.truth_(temp__5823__auto__)){
+var display_item = temp__5823__auto__;
 if(placesurfer.pin_ui.pure.rows.separator_item_QMARK_(display_item)){
 return null;
 } else {
@@ -332,11 +336,6 @@ if(placesurfer.pin_ui.handlers.interaction.update_pins_mode_QMARK_(s)){
 if(cljs.core.truth_(separator_QMARK_)){
 return null;
 } else {
-if(cljs.core.truth_(separator_open_QMARK_)){
-placesurfer.pin_ui.handlers.separator.cancel_pin_separator_overlay_BANG_();
-} else {
-}
-
 if(already_selected_QMARK_){
 } else {
 placesurfer.pin_ui.handlers.editor.maybe_save_inline_pin_before_switch_BANG_();
@@ -346,9 +345,9 @@ placesurfer.pin_ui.handlers.rows.select_pin_row_BANG_(id);
 placesurfer.pin_ui.handlers.editor.load_pin_into_inline_editor_BANG_(id);
 }
 
-var temp__5825__auto__ = placesurfer.pin_ui.pure.rows.find_by_id(new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100).cljs$core$IFn$_invoke$arity$1(s),id);
-if(cljs.core.truth_(temp__5825__auto__)){
-var item__$1 = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.pin_ui.pure.rows.find_by_id(new cljs.core.Keyword(null,"pin-items","pin-items",-1214148100).cljs$core$IFn$_invoke$arity$1(s),id);
+if(cljs.core.truth_(temp__5823__auto__)){
+var item__$1 = temp__5823__auto__;
 return placesurfer.pin_ui.handlers.interaction.focus_selected_pin_on_map_BANG_(item__$1);
 } else {
 return null;
@@ -367,11 +366,6 @@ placesurfer.pin_ui.handlers.editor.cancel_pin_editor_BANG_();
 } else {
 }
 
-if(cljs.core.truth_(separator_open_QMARK_)){
-placesurfer.pin_ui.handlers.separator.cancel_pin_separator_overlay_BANG_();
-} else {
-}
-
 return placesurfer.pin_ui.handlers.rows.select_pin_row_BANG_(id);
 
 }
@@ -387,7 +381,6 @@ var n = cljs.core.count(table_rows);
 if((n > (0))){
 var selected_id = new cljs.core.Keyword(null,"pin-selected-id","pin-selected-id",261877228).cljs$core$IFn$_invoke$arity$1(s);
 var editor_open_QMARK_ = new cljs.core.Keyword(null,"pin-editor-open?","pin-editor-open?",1076821159).cljs$core$IFn$_invoke$arity$1(s);
-var separator_open_QMARK_ = new cljs.core.Keyword(null,"pin-separator-overlay-open?","pin-separator-overlay-open?",-1998521386).cljs$core$IFn$_invoke$arity$1(s);
 var current_idx = (function (){var or__5025__auto__ = placesurfer.pin_ui.handlers.interaction.selected_row_index(table_rows,selected_id);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -407,7 +400,7 @@ var y__5114__auto__ = (n - (1));
 return ((x__5113__auto__ < y__5114__auto__) ? x__5113__auto__ : y__5114__auto__);
 })();
 var next_id = new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(cljs.core.nth.cljs$core$IFn$_invoke$arity$2(table_rows,next_idx));
-placesurfer.pin_ui.handlers.interaction.navigate_pin_row_BANG_(next_id,editor_open_QMARK_,separator_open_QMARK_);
+placesurfer.pin_ui.handlers.interaction.navigate_pin_row_BANG_(next_id,editor_open_QMARK_);
 
 return placesurfer.pin_ui.handlers.interaction.set_pin_table_keyboard_focus_BANG_();
 } else {

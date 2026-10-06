@@ -1,19 +1,19 @@
 goog.provide('placesurfer.clipboard_ui.google_maps.place');
 placesurfer.clipboard_ui.google_maps.place.non_blank = (function placesurfer$clipboard_ui$google_maps$place$non_blank(s){
-var temp__5825__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s)));
-if(cljs.core.truth_(temp__5825__auto__)){
-var t = temp__5825__auto__;
+var temp__5823__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s)));
+if(cljs.core.truth_(temp__5823__auto__)){
+var t = temp__5823__auto__;
 return t;
 } else {
 return null;
 }
 });
 placesurfer.clipboard_ui.google_maps.place.coord_text = (function placesurfer$clipboard_ui$google_maps$place$coord_text(v){
-var G__39922 = placesurfer.clipboard_ui.pure.numbers.parse_number(v);
-if((G__39922 == null)){
+var G__25869 = placesurfer.clipboard_ui.pure.numbers.parse_number(v);
+if((G__25869 == null)){
 return null;
 } else {
-return cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__39922);
+return cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__25869);
 }
 });
 /**
@@ -56,12 +56,12 @@ return ((cljs.core.map_QMARK_(place)) && (((typeof new cljs.core.Keyword(null,"l
  * Map normalized Google Maps place + source url to pin editor form.
  */
 placesurfer.clipboard_ui.google_maps.place.place__GT_pin_form = (function placesurfer$clipboard_ui$google_maps$place$place__GT_pin_form(place,source_url){
-var map__39924 = place;
-var map__39924__$1 = cljs.core.__destructure_map(map__39924);
-var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39924__$1,new cljs.core.Keyword(null,"name","name",1843675177));
-var address = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39924__$1,new cljs.core.Keyword(null,"address","address",559499426));
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39924__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__39924__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var map__25874 = place;
+var map__25874__$1 = cljs.core.__destructure_map(map__25874);
+var name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25874__$1,new cljs.core.Keyword(null,"name","name",1843675177));
+var address = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25874__$1,new cljs.core.Keyword(null,"address","address",559499426));
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25874__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25874__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
 return new cljs.core.PersistentArrayMap(null, 8, [new cljs.core.Keyword(null,"name","name",1843675177),(function (){var or__5025__auto__ = name;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;

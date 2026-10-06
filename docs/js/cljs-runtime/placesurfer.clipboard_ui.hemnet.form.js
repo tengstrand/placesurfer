@@ -1,34 +1,34 @@
 goog.provide('placesurfer.clipboard_ui.hemnet.form');
 placesurfer.clipboard_ui.hemnet.form.non_blank = (function placesurfer$clipboard_ui$hemnet$form$non_blank(s){
-var temp__5825__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s)));
-if(cljs.core.truth_(temp__5825__auto__)){
-var t = temp__5825__auto__;
+var temp__5823__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s)));
+if(cljs.core.truth_(temp__5823__auto__)){
+var t = temp__5823__auto__;
 return t;
 } else {
 return null;
 }
 });
 placesurfer.clipboard_ui.hemnet.form.coord_text = (function placesurfer$clipboard_ui$hemnet$form$coord_text(v){
-var G__65424 = placesurfer.clipboard_ui.hemnet.listing.parse_number(v);
-if((G__65424 == null)){
+var G__26087 = placesurfer.clipboard_ui.hemnet.listing.parse_number(v);
+if((G__26087 == null)){
 return null;
 } else {
-return cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__65424);
+return cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__26087);
 }
 });
 placesurfer.clipboard_ui.hemnet.form.labeled_part = (function placesurfer$clipboard_ui$hemnet$form$labeled_part(v){
-var temp__5825__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(v);
-if(cljs.core.truth_(temp__5825__auto__)){
-var t = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(v);
+if(cljs.core.truth_(temp__5823__auto__)){
+var t = temp__5823__auto__;
 return t;
 } else {
 return null;
 }
 });
 placesurfer.clipboard_ui.hemnet.form.normalize_area = (function placesurfer$clipboard_ui$hemnet$form$normalize_area(s){
-var temp__5825__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(s);
-if(cljs.core.truth_(temp__5825__auto__)){
-var t = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(s);
+if(cljs.core.truth_(temp__5823__auto__)){
+var t = temp__5823__auto__;
 var converted = clojure.string.replace(clojure.string.replace(t,/\bkvm\b/i,"m\u00B2"),"m2","m\u00B2");
 if(((clojure.string.includes_QMARK_(converted,"m\u00B2")) || (cljs.core.not(cljs.core.re_find(/\d/,converted))))){
 return converted;
@@ -40,9 +40,9 @@ return null;
 }
 });
 placesurfer.clipboard_ui.hemnet.form.plot_area_part = (function placesurfer$clipboard_ui$hemnet$form$plot_area_part(plot_area,plot_label){
-var temp__5825__auto__ = placesurfer.clipboard_ui.hemnet.form.labeled_part(placesurfer.clipboard_ui.hemnet.form.normalize_area(plot_area));
-if(cljs.core.truth_(temp__5825__auto__)){
-var plot = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.clipboard_ui.hemnet.form.labeled_part(placesurfer.clipboard_ui.hemnet.form.normalize_area(plot_area));
+if(cljs.core.truth_(temp__5823__auto__)){
+var plot = temp__5823__auto__;
 return [cljs.core.str.cljs$core$IFn$_invoke$arity$1(plot)," ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(plot_label)].join('');
 } else {
 return null;
@@ -95,10 +95,13 @@ return placesurfer.clipboard_ui.hemnet.url.listing_title_from_url(source_url);
 }
 });
 placesurfer.clipboard_ui.hemnet.form.parse_amount = (function placesurfer$clipboard_ui$hemnet$form$parse_amount(s){
-var temp__5825__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(s);
-if(cljs.core.truth_(temp__5825__auto__)){
-var t = temp__5825__auto__;
-var cleaned = clojure.string.replace(clojure.string.replace(clojure.string.replace(t," ",""),",","."),/[^\d.]/,"");
+var temp__5823__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(s);
+if(cljs.core.truth_(temp__5823__auto__)){
+var t = temp__5823__auto__;
+var temp__5823__auto____$1 = cljs.core.re_find(/[\d\s]+(?:[.,]\d+)?/,t);
+if(cljs.core.truth_(temp__5823__auto____$1)){
+var m = temp__5823__auto____$1;
+var cleaned = clojure.string.replace(clojure.string.replace(clojure.string.trim(m),/\s/,""),",",".");
 if(cljs.core.seq(cleaned)){
 var n = parseFloat(cleaned);
 if(cljs.core.truth_(isNaN(n))){
@@ -112,21 +115,24 @@ return null;
 } else {
 return null;
 }
+} else {
+return null;
+}
 });
 placesurfer.clipboard_ui.hemnet.form.format_amount_se = (function placesurfer$clipboard_ui$hemnet$form$format_amount_se(n){
 var s = cljs.core.str.cljs$core$IFn$_invoke$arity$1(Math.round(n));
-var groups = cljs.core.map.cljs$core$IFn$_invoke$arity$2((function (p1__65425_SHARP_){
-return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(cljs.core.str,cljs.core.reverse(p1__65425_SHARP_));
+var groups = cljs.core.map.cljs$core$IFn$_invoke$arity$2((function (p1__26120_SHARP_){
+return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(cljs.core.str,cljs.core.reverse(p1__26120_SHARP_));
 }),cljs.core.partition_all.cljs$core$IFn$_invoke$arity$2((3),cljs.core.reverse(s)));
 return clojure.string.join.cljs$core$IFn$_invoke$arity$2(" ",cljs.core.reverse(groups));
 });
 placesurfer.clipboard_ui.hemnet.form.calc_sqm_price = (function placesurfer$clipboard_ui$hemnet$form$calc_sqm_price(asking_price_str,living_area_str){
-var temp__5825__auto__ = placesurfer.clipboard_ui.hemnet.form.parse_amount(asking_price_str);
-if(cljs.core.truth_(temp__5825__auto__)){
-var price = temp__5825__auto__;
-var temp__5825__auto____$1 = placesurfer.clipboard_ui.hemnet.form.parse_amount(living_area_str);
-if(cljs.core.truth_(temp__5825__auto____$1)){
-var area = temp__5825__auto____$1;
+var temp__5823__auto__ = placesurfer.clipboard_ui.hemnet.form.parse_amount(asking_price_str);
+if(cljs.core.truth_(temp__5823__auto__)){
+var price = temp__5823__auto__;
+var temp__5823__auto____$1 = placesurfer.clipboard_ui.hemnet.form.parse_amount(living_area_str);
+if(cljs.core.truth_(temp__5823__auto____$1)){
+var area = temp__5823__auto____$1;
 if((((price > (0))) && ((area > (1))))){
 return [placesurfer.clipboard_ui.hemnet.form.format_amount_se((price / area))," kr/m\u00B2"].join('');
 } else {
@@ -143,8 +149,8 @@ placesurfer.clipboard_ui.hemnet.form.kr_per_man_QMARK_ = (function placesurfer$c
 return clojure.string.includes_QMARK_(clojure.string.lower_case(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s)),"kr/m\u00E5n");
 });
 placesurfer.clipboard_ui.hemnet.form.has_sqm_price_QMARK_ = (function placesurfer$clipboard_ui$hemnet$form$has_sqm_price_QMARK_(extras){
-return cljs.core.some((function (p1__65428_SHARP_){
-var lc = clojure.string.lower_case(cljs.core.str.cljs$core$IFn$_invoke$arity$1(p1__65428_SHARP_));
+return cljs.core.some((function (p1__26121_SHARP_){
+var lc = clojure.string.lower_case(cljs.core.str.cljs$core$IFn$_invoke$arity$1(p1__26121_SHARP_));
 return ((clojure.string.includes_QMARK_(lc,"kr/m")) && ((!(clojure.string.includes_QMARK_(lc,"m\u00E5n")))));
 }),extras);
 });
@@ -156,16 +162,16 @@ return ((clojure.string.includes_QMARK_(lc,"kr/m")) && ((!(clojure.string.includ
  *   2. Housing form, rooms, living area, plot area, monthly fee
  *   3. Square meter price, tenure, build year (when present)
  */
-placesurfer.clipboard_ui.hemnet.form.build_description = (function placesurfer$clipboard_ui$hemnet$form$build_description(p__65430){
-var map__65431 = p__65430;
-var map__65431__$1 = cljs.core.__destructure_map(map__65431);
-var housing_form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65431__$1,new cljs.core.Keyword(null,"housing-form","housing-form",-1885695809));
-var rooms = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65431__$1,new cljs.core.Keyword(null,"rooms","rooms",1196158176));
-var living_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65431__$1,new cljs.core.Keyword(null,"living-area","living-area",1377243120));
-var plot_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65431__$1,new cljs.core.Keyword(null,"plot-area","plot-area",98036883));
-var asking_price = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65431__$1,new cljs.core.Keyword(null,"asking-price","asking-price",1304329161));
-var extra_values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65431__$1,new cljs.core.Keyword(null,"extra-values","extra-values",1671557498));
-var plot_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__65431__$1,new cljs.core.Keyword(null,"plot-label","plot-label",1776911128),"tomt");
+placesurfer.clipboard_ui.hemnet.form.build_description = (function placesurfer$clipboard_ui$hemnet$form$build_description(p__26122){
+var map__26123 = p__26122;
+var map__26123__$1 = cljs.core.__destructure_map(map__26123);
+var housing_form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26123__$1,new cljs.core.Keyword(null,"housing-form","housing-form",-1885695809));
+var rooms = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26123__$1,new cljs.core.Keyword(null,"rooms","rooms",1196158176));
+var living_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26123__$1,new cljs.core.Keyword(null,"living-area","living-area",1377243120));
+var plot_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26123__$1,new cljs.core.Keyword(null,"plot-area","plot-area",98036883));
+var asking_price = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26123__$1,new cljs.core.Keyword(null,"asking-price","asking-price",1304329161));
+var extra_values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26123__$1,new cljs.core.Keyword(null,"extra-values","extra-values",1671557498));
+var plot_label = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26123__$1,new cljs.core.Keyword(null,"plot-label","plot-label",1776911128),"tomt");
 var details = cljs.core.remove.cljs$core$IFn$_invoke$arity$2(cljs.core.nil_QMARK_,new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [placesurfer.clipboard_ui.hemnet.form.labeled_part(housing_form),placesurfer.clipboard_ui.hemnet.form.labeled_part(rooms),placesurfer.clipboard_ui.hemnet.form.labeled_part(placesurfer.clipboard_ui.hemnet.form.normalize_area(living_area)),placesurfer.clipboard_ui.hemnet.form.plot_area_part(plot_area,plot_label)], null));
 var all_extras = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.hemnet.form.non_blank,(function (){var or__5025__auto__ = extra_values;
 if(cljs.core.truth_(or__5025__auto__)){
@@ -186,11 +192,11 @@ return clojure.string.join.cljs$core$IFn$_invoke$arity$2("\n",lines);
 /**
  * Build a geocoding query from listing address fields.
  */
-placesurfer.clipboard_ui.hemnet.form.address_line_for_geocoding = (function placesurfer$clipboard_ui$hemnet$form$address_line_for_geocoding(p__65433){
-var map__65434 = p__65433;
-var map__65434__$1 = cljs.core.__destructure_map(map__65434);
-var street_address = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65434__$1,new cljs.core.Keyword(null,"street-address","street-address",1974914551));
-var postal_city = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65434__$1,new cljs.core.Keyword(null,"postal-city","postal-city",2130329622));
+placesurfer.clipboard_ui.hemnet.form.address_line_for_geocoding = (function placesurfer$clipboard_ui$hemnet$form$address_line_for_geocoding(p__26125){
+var map__26126 = p__26125;
+var map__26126__$1 = cljs.core.__destructure_map(map__26126);
+var street_address = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26126__$1,new cljs.core.Keyword(null,"street-address","street-address",1974914551));
+var postal_city = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26126__$1,new cljs.core.Keyword(null,"postal-city","postal-city",2130329622));
 var or__5025__auto__ = placesurfer.clipboard_ui.hemnet.form.format_address_line(street_address,postal_city);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -202,8 +208,8 @@ return "";
  * Map normalized listing + source url to pin editor form.
  */
 placesurfer.clipboard_ui.hemnet.form.listing__GT_pin_form = (function placesurfer$clipboard_ui$hemnet$form$listing__GT_pin_form(var_args){
-var G__65437 = arguments.length;
-switch (G__65437) {
+var G__26128 = arguments.length;
+switch (G__26128) {
 case 2:
 return placesurfer.clipboard_ui.hemnet.form.listing__GT_pin_form.cljs$core$IFn$_invoke$arity$2((arguments[(0)]),(arguments[(1)]));
 
@@ -223,21 +229,23 @@ return placesurfer.clipboard_ui.hemnet.form.listing__GT_pin_form.cljs$core$IFn$_
 }));
 
 (placesurfer.clipboard_ui.hemnet.form.listing__GT_pin_form.cljs$core$IFn$_invoke$arity$3 = (function (listing,source_url,plot_label){
-var map__65439 = listing;
-var map__65439__$1 = cljs.core.__destructure_map(map__65439);
-var agent_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"agent-name","agent-name",-916187942));
-var extra_values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"extra-values","extra-values",1671557498));
-var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
-var housing_form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"housing-form","housing-form",-1885695809));
-var image_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"image-url","image-url",-1064784064));
-var rooms = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"rooms","rooms",1196158176));
-var asking_price = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"asking-price","asking-price",1304329161));
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var living_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"living-area","living-area",1377243120));
-var plot_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"plot-area","plot-area",98036883));
-var postal_city = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"postal-city","postal-city",2130329622));
-var street_address = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"street-address","street-address",1974914551));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__65439__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var map__26129 = listing;
+var map__26129__$1 = cljs.core.__destructure_map(map__26129);
+var agent_name = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"agent-name","agent-name",-916187942));
+var extra_values = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"extra-values","extra-values",1671557498));
+var viewing = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"viewing","viewing",1058577980));
+var agent_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259));
+var housing_form = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"housing-form","housing-form",-1885695809));
+var image_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"image-url","image-url",-1064784064));
+var rooms = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"rooms","rooms",1196158176));
+var asking_price = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"asking-price","asking-price",1304329161));
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var source = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"source","source",-433931539));
+var living_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"living-area","living-area",1377243120));
+var plot_area = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"plot-area","plot-area",98036883));
+var postal_city = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"postal-city","postal-city",2130329622));
+var street_address = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"street-address","street-address",1974914551));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26129__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
 var address = (function (){var or__5025__auto__ = placesurfer.clipboard_ui.hemnet.form.format_address_line(street_address,postal_city);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
@@ -246,7 +254,7 @@ return "";
 }
 })();
 var description = placesurfer.clipboard_ui.hemnet.form.build_description(new cljs.core.PersistentArrayMap(null, 7, [new cljs.core.Keyword(null,"housing-form","housing-form",-1885695809),housing_form,new cljs.core.Keyword(null,"rooms","rooms",1196158176),rooms,new cljs.core.Keyword(null,"living-area","living-area",1377243120),living_area,new cljs.core.Keyword(null,"plot-area","plot-area",98036883),plot_area,new cljs.core.Keyword(null,"asking-price","asking-price",1304329161),asking_price,new cljs.core.Keyword(null,"extra-values","extra-values",1671557498),extra_values,new cljs.core.Keyword(null,"plot-label","plot-label",1776911128),plot_label], null));
-return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[(function (){var or__5025__auto__ = description;
+return cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"source","source",-433931539),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"location","location",1815599388),new cljs.core.Keyword(null,"viewing","viewing",1058577980),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[(function (){var or__5025__auto__ = description;
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
@@ -263,6 +271,12 @@ if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
 return "";
+}
+})(),(function (){var or__5025__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(source);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "hemnet";
 }
 })(),(function (){var or__5025__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(listing));
 if(cljs.core.truth_(or__5025__auto__)){
@@ -294,7 +308,13 @@ return or__5025__auto__;
 } else {
 return "";
 }
-})(),address,(function (){var or__5025__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(agent_url);
+})(),address,(function (){var or__5025__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(viewing);
+if(cljs.core.truth_(or__5025__auto__)){
+return or__5025__auto__;
+} else {
+return "";
+}
+})(),(function (){var or__5025__auto__ = placesurfer.clipboard_ui.hemnet.form.non_blank(agent_url);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {

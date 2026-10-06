@@ -3,15 +3,15 @@ placesurfer.clipboard_ui.pure.browser.trimmed_text = (function placesurfer$clipb
 return clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(text));
 });
 placesurfer.clipboard_ui.pure.browser.clipboard_read_available_QMARK_ = (function placesurfer$clipboard_ui$pure$browser$clipboard_read_available_QMARK_(){
-return cljs.core.boolean$((function (){var temp__5825__auto__ = (function (){var and__5023__auto__ = navigator;
+return cljs.core.boolean$((function (){var temp__5823__auto__ = (function (){var and__5023__auto__ = navigator;
 if(cljs.core.truth_(and__5023__auto__)){
 return navigator.clipboard;
 } else {
 return and__5023__auto__;
 }
 })();
-if(cljs.core.truth_(temp__5825__auto__)){
-var cb = temp__5825__auto__;
+if(cljs.core.truth_(temp__5823__auto__)){
+var cb = temp__5823__auto__;
 return cb.readText;
 } else {
 return null;
@@ -19,15 +19,15 @@ return null;
 })());
 });
 placesurfer.clipboard_ui.pure.browser.clipboard_write_available_QMARK_ = (function placesurfer$clipboard_ui$pure$browser$clipboard_write_available_QMARK_(){
-return cljs.core.boolean$((function (){var temp__5825__auto__ = (function (){var and__5023__auto__ = navigator;
+return cljs.core.boolean$((function (){var temp__5823__auto__ = (function (){var and__5023__auto__ = navigator;
 if(cljs.core.truth_(and__5023__auto__)){
 return navigator.clipboard;
 } else {
 return and__5023__auto__;
 }
 })();
-if(cljs.core.truth_(temp__5825__auto__)){
-var cb = temp__5825__auto__;
+if(cljs.core.truth_(temp__5823__auto__)){
+var cb = temp__5823__auto__;
 return cb.writeText;
 } else {
 return null;
@@ -51,8 +51,8 @@ if((!(placesurfer.clipboard_ui.pure.browser.clipboard_read_available_QMARK_())))
 return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(null) : then_BANG_.call(null,null));
 } else {
 return navigator.clipboard.readText().then((function (text){
-var G__39939 = placesurfer.clipboard_ui.pure.browser.trimmed_text(text);
-return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(G__39939) : then_BANG_.call(null,G__39939));
+var G__25886 = placesurfer.clipboard_ui.pure.browser.trimmed_text(text);
+return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(G__25886) : then_BANG_.call(null,G__25886));
 })).catch((function (_){
 return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(null) : then_BANG_.call(null,null));
 }));

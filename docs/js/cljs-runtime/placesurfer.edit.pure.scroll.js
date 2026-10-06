@@ -35,9 +35,9 @@ cljs.core.reset_BANG_(placesurfer.edit.pure.scroll.preserved_scroll_pos,null);
 
 return (node.scrollLeft = (0));
 } else {
-var temp__5825__auto__ = cljs.core.deref(placesurfer.edit.pure.scroll.preserved_scroll_pos);
-if(cljs.core.truth_(temp__5825__auto__)){
-var pos = temp__5825__auto__;
+var temp__5823__auto__ = cljs.core.deref(placesurfer.edit.pure.scroll.preserved_scroll_pos);
+if(cljs.core.truth_(temp__5823__auto__)){
+var pos = temp__5823__auto__;
 (node.scrollTop = pos.top);
 
 return (node.scrollLeft = pos.left);

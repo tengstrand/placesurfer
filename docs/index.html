@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="app-version" content="24" />
+    <meta name="app-version" content="25" />
     <!-- Filled in at build time from the DROPBOX_APP_KEY env var (scripts/placesurfer_root.clj's
          inject-dropbox-app-key!). Never commit a real key here - this placeholder stays empty. -->
     <meta name="dropbox-app-key" content="o5r1hg4okp65k52" />
@@ -164,18 +164,6 @@
         height: 1rem;
         object-fit: contain;
         flex-shrink: 0;
-      }
-      .nav-groups-tab::part(base) {
-        min-width: 2.4rem;
-        padding-left: 0.45rem;
-        padding-right: 0.45rem;
-      }
-      .nav-groups-icon {
-        width: 1rem;
-        height: 1rem;
-        object-fit: contain;
-        flex-shrink: 0;
-        display: block;
       }
       .nav-about-tab::part(base) {
         min-width: 2.4rem;
@@ -972,230 +960,23 @@
         width: 100%;
         min-width: 0;
       }
-      .groups-page {
-        width: 100%;
-        min-width: 0;
-        flex: 1;
-        min-height: 0;
-        display: flex;
-        flex-direction: column;
-      }
       .app[data-page="update"] .workspace,
-      .app[data-page="pin"] .workspace,
-      .app[data-page="groups"] .workspace {
+      .app[data-page="pin"] .workspace {
         flex: 1;
         min-height: 0;
         overflow: hidden;
       }
       .app[data-page="update"] .update-page,
-      .app[data-page="pin"] .pin-page,
-      .app[data-page="groups"] .groups-page {
+      .app[data-page="pin"] .pin-page {
         flex: 1;
         min-height: 0;
         display: flex;
         flex-direction: column;
       }
       .app[data-page="update"] .update-section,
-      .app[data-page="pin"] .update-section,
-      .app[data-page="groups"] .group-ui-panel {
+      .app[data-page="pin"] .update-section {
         flex: 1;
         min-height: 0;
-      }
-      .app[data-page="groups"] .groups-page {
-        align-items: flex-start;
-        padding-left: 2ch;
-      }
-      .app[data-page="groups"] .group-ui-panel {
-        display: flex;
-        flex-direction: column;
-        width: min(100%, calc(32rem * 0.7));
-        min-width: min(100%, calc(22rem * 0.7));
-        max-width: calc(32rem * 0.7);
-      }
-      .app[data-page="groups"] .group-ui-panel .update-table-wrap {
-        flex: 1;
-        min-height: 0;
-        display: flex;
-        flex-direction: column;
-      }
-      .app[data-page="groups"] .group-list {
-        flex: 1;
-        min-height: 0;
-        overflow-y: auto;
-        display: flex;
-        flex-direction: column;
-        gap: 0.15rem;
-        padding: 0.35rem 0.5rem;
-      }
-      .app[data-page="groups"] .group-list-empty {
-        margin: 0;
-        font-size: 0.82rem;
-        color: #6b7280;
-        text-align: center;
-        padding: 0.35rem 0;
-      }
-      .app[data-page="groups"] .group-row.update-row {
-        display: flex;
-        align-items: center;
-        gap: 0.4rem;
-        padding: 0.35rem 0.5rem;
-        border: 1px solid transparent;
-        border-radius: 4px;
-        cursor: pointer;
-      }
-      .app[data-page="groups"] .group-row-edit-btn {
-        border: none;
-        background: transparent;
-        padding: 0.1rem;
-        margin-right: 0.15rem;
-        cursor: pointer;
-        display: inline-flex;
-        flex-shrink: 0;
-        align-items: center;
-        justify-content: center;
-      }
-      .app[data-page="groups"] .group-row-edit-btn img {
-        width: 1rem;
-        height: 1rem;
-        object-fit: contain;
-        display: block;
-        opacity: 0.75;
-      }
-      .app[data-page="groups"] .group-row-edit-btn:hover img {
-        opacity: 1;
-      }
-      .app[data-page="groups"] .group-row-label {
-        flex: 1 1 auto;
-        min-width: 0;
-        font-size: 0.85rem;
-      }
-      .app[data-page="groups"] .group-row-delete {
-        border: none;
-        background: transparent;
-        padding: 0.15rem;
-        cursor: pointer;
-        display: inline-flex;
-        flex-shrink: 0;
-      }
-      .app[data-page="groups"] .group-row-delete img {
-        width: 0.8rem;
-        height: 0.8rem;
-        opacity: 0.65;
-      }
-      .app[data-page="groups"] .group-row.update-row--selected {
-        background: #c8e6c9;
-        outline: 2px solid #43a047;
-        outline-offset: -2px;
-      }
-      .app[data-page="groups"] .group-row.update-row:hover:not(.update-row--selected) {
-        background: #f3f4f6;
-      }
-      .app[data-page="groups"] .group-row.update-row--draggable {
-        cursor: grab;
-      }
-      .app[data-page="groups"] .group-row.pin-row--dragging {
-        opacity: 0.55;
-        cursor: grabbing;
-      }
-      .app[data-page="groups"] .group-row.pin-row--drop-target {
-        outline: 2px dashed #43a047;
-        outline-offset: -2px;
-      }
-      .group-draft-row {
-        display: flex;
-        align-items: center;
-        gap: 0.4rem;
-        padding: 0.35rem 0.5rem;
-        border-top: 1px solid #e5e7eb;
-        flex-shrink: 0;
-      }
-      .group-draft-input {
-        flex: 1 1 auto;
-        min-width: 0;
-        box-sizing: border-box;
-        border: 1px solid #d1d5db;
-        border-radius: 4px;
-        padding: 0.35rem 0.45rem;
-        font-size: 0.85rem;
-      }
-      .group-draft-submit-btn {
-        border: 1px solid #2563eb;
-        border-radius: 4px;
-        background: #2563eb;
-        color: #fff;
-        padding: 0.3rem 0.65rem;
-        font-size: 0.82rem;
-        cursor: pointer;
-        flex-shrink: 0;
-      }
-      .group-draft-submit-btn:hover:not(:disabled) {
-        background: #1d4ed8;
-      }
-      .group-draft-submit-btn:disabled {
-        opacity: 0.45;
-        cursor: default;
-      }
-      .pin-groups-toolbar {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        width: 100%;
-        gap: 0.5rem;
-      }
-      .pin-groups-toolbar-actions {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.45rem;
-        margin-left: auto;
-      }
-      .pin-group-dropdown {
-        position: relative;
-        width: 100%;
-      }
-      .pin-group-dropdown-trigger {
-        list-style: none;
-        cursor: pointer;
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        width: 100%;
-        box-sizing: border-box;
-        border: 1px solid #d1d5db;
-        border-radius: 4px;
-        padding: 0.35rem 0.45rem;
-        font-size: 0.85rem;
-        background: #fff;
-      }
-      .pin-group-dropdown-trigger::-webkit-details-marker {
-        display: none;
-      }
-      .pin-group-dropdown-menu {
-        position: absolute;
-        z-index: 20;
-        top: calc(100% + 2px);
-        left: 0;
-        right: 0;
-        display: flex;
-        flex-direction: column;
-        gap: 0.15rem;
-        padding: 0.25rem;
-        border: 1px solid #d1d5db;
-        border-radius: 4px;
-        background: #fff;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-      }
-      .pin-group-dropdown-option {
-        border: none;
-        background: transparent;
-        text-align: left;
-        padding: 0.3rem 0.45rem;
-        border-radius: 3px;
-        font-size: 0.85rem;
-        cursor: pointer;
-      }
-      .pin-group-dropdown-option:hover,
-      .pin-group-dropdown-option--selected {
-        background: #f3f4f6;
       }
       .update-panel-tab-bar {
         display: flex;
@@ -1236,105 +1017,6 @@
       .update-panel-tab-icon--small {
         width: 0.9rem;
         height: 0.9rem;
-      }
-      .app[data-page="update"] .update-section--groups .update-layout {
-        grid-template-columns: minmax(22rem, 1fr);
-        max-width: 30%;
-      }
-      .app[data-page="update"] .update-section--groups .group-list {
-        flex: 1;
-        min-height: 0;
-        overflow-y: auto;
-        display: flex;
-        flex-direction: column;
-        gap: 0.15rem;
-        padding: 0.35rem 0.5rem;
-      }
-      .app[data-page="update"] .update-section--groups .group-list-empty {
-        margin: 0;
-        font-size: 0.82rem;
-        color: #6b7280;
-        text-align: center;
-        padding: 0.35rem 0;
-      }
-      .app[data-page="update"] .update-section--groups .group-ui-panel {
-        display: flex;
-        flex-direction: column;
-        flex: 1;
-        min-height: 0;
-      }
-      .app[data-page="update"] .update-section--groups .group-ui-panel .update-table-wrap {
-        flex: 1;
-        min-height: 0;
-        display: flex;
-        flex-direction: column;
-      }
-      .app[data-page="update"] .update-section--groups .group-row.update-row {
-        display: flex;
-        align-items: center;
-        gap: 0.4rem;
-        padding: 0.35rem 0.5rem;
-        border: 1px solid transparent;
-        border-radius: 4px;
-        cursor: pointer;
-      }
-      .app[data-page="update"] .update-section--groups .group-row-edit-btn {
-        border: none;
-        background: transparent;
-        padding: 0.1rem;
-        margin-right: 0.15rem;
-        cursor: pointer;
-        display: inline-flex;
-        flex-shrink: 0;
-        align-items: center;
-        justify-content: center;
-      }
-      .app[data-page="update"] .update-section--groups .group-row-edit-btn img {
-        width: 1rem;
-        height: 1rem;
-        object-fit: contain;
-        display: block;
-        opacity: 0.75;
-      }
-      .app[data-page="update"] .update-section--groups .group-row-edit-btn:hover img {
-        opacity: 1;
-      }
-      .app[data-page="update"] .update-section--groups .group-row-label {
-        flex: 1 1 auto;
-        min-width: 0;
-        font-size: 0.85rem;
-      }
-      .app[data-page="update"] .update-section--groups .group-row-delete {
-        border: none;
-        background: transparent;
-        padding: 0.15rem;
-        cursor: pointer;
-        display: inline-flex;
-        flex-shrink: 0;
-      }
-      .app[data-page="update"] .update-section--groups .group-row-delete img {
-        width: 0.8rem;
-        height: 0.8rem;
-        opacity: 0.65;
-      }
-      .app[data-page="update"] .update-section--groups .group-row.update-row--selected {
-        background: #c8e6c9;
-        outline: 2px solid #43a047;
-        outline-offset: -2px;
-      }
-      .app[data-page="update"] .update-section--groups .group-row.update-row:hover:not(.update-row--selected) {
-        background: #f3f4f6;
-      }
-      .app[data-page="update"] .update-section--groups .group-row.update-row--draggable {
-        cursor: grab;
-      }
-      .app[data-page="update"] .update-section--groups .group-row.pin-row--dragging {
-        opacity: 0.55;
-        cursor: grabbing;
-      }
-      .app[data-page="update"] .update-section--groups .group-row.pin-row--drop-target {
-        outline: 2px dashed #43a047;
-        outline-offset: -2px;
       }
       .update-section {
         position: relative;
@@ -1435,15 +1117,6 @@
         display: flex;
         align-items: center;
         justify-content: space-between;
-      }
-      /* One header row per pin group (see list_panel.cljs's group-sections),
-         replacing the old Grupp column - same look as the Hemnet divider row
-         above, just a plain label with no toggle/count on the right. */
-      .pin-group-header-row .pin-group-header-cell {
-        padding: 0.4rem 0.75rem;
-        font-weight: 600;
-        font-size: 0.85rem;
-        background: #f3f4f6;
       }
       .hemnet-results-divider-row--preview {
         display: flex;
@@ -2446,6 +2119,9 @@
         background: #f8fafc;
         flex-shrink: 0;
       }
+      .update-table-toolbar .pin-fullscreen-toggle-btn {
+        margin-right: 0.75rem;
+      }
       .update-table-toolbar .update-topic-dropdown {
         flex: 0 1 auto;
         width: auto;
@@ -2628,25 +2304,6 @@
       .update-delete-btn:disabled {
         opacity: 0.45;
         cursor: not-allowed;
-      }
-      .pin-separator-btn {
-        border: 1px solid #d1d5db;
-        border-radius: 4px;
-        background: #fff;
-        padding: 0.35rem 0.45rem;
-        cursor: pointer;
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-      }
-      .pin-separator-btn img {
-        width: 0.95rem;
-        height: 0.95rem;
-        object-fit: contain;
-        display: block;
-      }
-      .pin-separator-btn:hover {
-        background: #f3f4f6;
       }
       .update-duplicates-btn {
         margin-left: 2.25rem;
@@ -3160,19 +2817,13 @@
         max-width: 100%;
       }
       .app[data-page="pin"] .pin-table-scroll .update-row--draggable,
-      .app[data-page="pin"] .pin-table-scroll .pin-separator-row.update-row--draggable,
       .app[data-page="pin"] .pin-preview-list .update-row--draggable,
-      .app[data-page="pin"] .pin-preview-list .pin-separator-row.update-row--draggable,
-      .app[data-page="update"] .update-section--pins .update-row--draggable,
-      .app[data-page="update"] .update-section--pins .pin-separator-row.update-row--draggable {
+      .app[data-page="update"] .update-section--pins .update-row--draggable {
         cursor: grab;
       }
       .app[data-page="pin"] .pin-table-scroll .update-row--draggable.pin-row--dragging,
-      .app[data-page="pin"] .pin-table-scroll .pin-separator-row.update-row--draggable.pin-row--dragging,
       .app[data-page="pin"] .pin-preview-list .update-row--draggable.pin-row--dragging,
-      .app[data-page="pin"] .pin-preview-list .pin-separator-row.update-row--draggable.pin-row--dragging,
-      .app[data-page="update"] .update-section--pins .update-row--draggable.pin-row--dragging,
-      .app[data-page="update"] .update-section--pins .pin-separator-row.update-row--draggable.pin-row--dragging {
+      .app[data-page="update"] .update-section--pins .update-row--draggable.pin-row--dragging {
         cursor: grabbing;
       }
       .app[data-page="pin"] .pin-table-drag-header,
@@ -3221,184 +2872,6 @@
       .app[data-page="pin"] .pin-row--drop-target,
       .app[data-page="update"] .update-section--pins .pin-row--drop-target {
         box-shadow: inset 0 2px 0 #2563eb;
-      }
-      .pin-separator-overlay {
-        position: relative;
-        flex: 0 0 auto;
-        z-index: 1;
-        padding: 0.75rem;
-        box-sizing: border-box;
-        background: transparent;
-        pointer-events: none;
-      }
-      .app[data-page="update"] .update-section--pins .pin-separator-overlay,
-      .app[data-page="pin"] .pin-list-panel .pin-separator-overlay {
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        flex: none;
-        z-index: 3;
-        max-height: 100%;
-        overflow-y: auto;
-        background: linear-gradient(to top, rgba(255, 255, 255, 0.98) 85%, rgba(255, 255, 255, 0));
-      }
-      .app[data-page="update"] .update-section--pins .update-table-wrap:has(.pin-separator-overlay) .pin-table-scroll,
-      .app[data-page="pin"] .pin-list-panel .update-table-wrap:has(.pin-separator-overlay) .pin-table-scroll {
-        padding-bottom: min(18rem, 55vh);
-      }
-      .pin-separator-sheet {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        gap: 0.45rem;
-        background: #fff;
-        border: 1px solid #d1d5db;
-        border-radius: 6px;
-        padding: 0.55rem 0.65rem;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-        pointer-events: auto;
-      }
-      .pin-separator-input {
-        width: 100%;
-        box-sizing: border-box;
-        border: 1px solid #d1d5db;
-        border-radius: 4px;
-        padding: 0.35rem 0.45rem;
-        font-size: 0.85rem;
-      }
-      .pin-separator-manage-sheet {
-        gap: 0.55rem;
-      }
-      .pin-separator-manage-title {
-        margin: 0;
-        font-size: 0.9rem;
-        font-weight: 600;
-        color: #374151;
-      }
-      .pin-separator-manage-list {
-        display: flex;
-        flex-direction: column;
-        gap: 0.35rem;
-        max-height: 14rem;
-        overflow-y: auto;
-      }
-      .pin-separator-manage-empty {
-        margin: 0;
-        font-size: 0.82rem;
-        color: #6b7280;
-        text-align: center;
-        padding: 0.35rem 0;
-      }
-      .pin-separator-manage-row {
-        display: flex;
-        align-items: center;
-        gap: 0.4rem;
-        padding: 0.25rem 0.35rem;
-        border: 1px solid #e5e7eb;
-        border-radius: 4px;
-        cursor: pointer;
-      }
-      .pin-separator-manage-row--selected {
-        border-color: #9ca3af;
-        background: #f9fafb;
-      }
-      .pin-separator-manage-delete {
-        border: none;
-        background: transparent;
-        padding: 0.15rem;
-        cursor: pointer;
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        flex-shrink: 0;
-      }
-      .pin-separator-manage-delete img {
-        width: 0.8rem;
-        height: 0.8rem;
-        object-fit: contain;
-        display: block;
-        opacity: 0.65;
-      }
-      .pin-separator-manage-delete:hover img {
-        opacity: 1;
-      }
-      .pin-separator-manage-input {
-        flex: 1 1 auto;
-        min-width: 0;
-        box-sizing: border-box;
-        border: 1px solid #d1d5db;
-        border-radius: 4px;
-        padding: 0.3rem 0.45rem;
-        font-size: 0.82rem;
-        text-align: center;
-      }
-      .pin-separator-manage-actions {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 0.5rem;
-        padding-top: 0.15rem;
-      }
-      .pin-separator-manage-actions-right {
-        display: flex;
-        align-items: center;
-        gap: 0.45rem;
-      }
-      .pin-separator-manage-add {
-        border: 1px solid #2563eb;
-        border-radius: 4px;
-        background: #2563eb;
-        color: #fff;
-        padding: 0.3rem 0.65rem;
-        font-size: 0.82rem;
-        cursor: pointer;
-      }
-      .pin-separator-manage-add:hover {
-        background: #1d4ed8;
-      }
-      .pin-separator-manage-cancel {
-        border: 1px solid #d1d5db;
-        border-radius: 4px;
-        background: #fff;
-        padding: 0.3rem 0.65rem;
-        font-size: 0.82rem;
-        cursor: pointer;
-      }
-      .pin-separator-manage-cancel:hover {
-        background: #f3f4f6;
-      }
-      .pin-separator-ok-btn {
-        border: 1px solid #2563eb;
-        border-radius: 4px;
-        background: #2563eb;
-        color: #fff;
-        padding: 0.3rem 0.65rem;
-        font-size: 0.82rem;
-        cursor: pointer;
-      }
-      .pin-separator-ok-btn:hover {
-        background: #1d4ed8;
-      }
-      .app[data-page="pin"] .pin-separator-row.update-row,
-      .app[data-page="update"] .update-section--pins .pin-separator-row.update-row {
-        background: transparent;
-      }
-      .app[data-page="pin"] .pin-separator-row.update-row:hover,
-      .app[data-page="update"] .update-section--pins .pin-separator-row.update-row:hover,
-      .app[data-page="pin"] .pin-preview-list .pin-separator-row:hover,
-      .app[data-page="update"] .update-section--pins .pin-preview-list .pin-separator-row:hover {
-        background: #f3f4f6;
-      }
-      .app[data-page="pin"] .pin-table-scroll--keyboard-nav .pin-separator-row.update-row:hover:not(.update-row--selected),
-      .app[data-page="update"] .update-section--pins .pin-table-scroll--keyboard-nav .pin-separator-row.update-row:hover:not(.update-row--selected) {
-        background: #f3f4f6;
-      }
-      .app[data-page="pin"] .pin-separator-row.update-row--selected,
-      .app[data-page="update"] .update-section--pins .pin-separator-row.update-row--selected {
-        background: #f3f4f6;
-        outline: 2px solid #9ca3af;
-        outline-offset: -2px;
       }
       .app[data-page="pin"] .pin-list-panel .update-table,
       .app[data-page="update"] .update-section--pins .update-table {
@@ -3457,57 +2930,6 @@
       .app[data-page="update"] .update-section--pins .update-table thead th:nth-child(2),
       .app[data-page="update"] .update-section--pins .update-table tbody td:nth-child(2) {
         padding-left: 0;
-      }
-      .app[data-page="pin"] .pin-separator-cell,
-      .app[data-page="update"] .update-section--pins .pin-separator-cell {
-        padding: calc(0.15rem + 1em) 0.35rem 0.15rem;
-        vertical-align: middle;
-        width: 100%;
-      }
-      .app[data-page="pin"] .pin-list-panel .pin-separator-cell {
-        padding-left: calc(0.3rem + 1.1em + 1.5ch);
-      }
-      .app[data-page="update"] .update-section--pins .pin-separator-cell {
-        padding-left: calc(0.3rem + 1.1em + 1.5ch);
-      }
-      .app[data-page="pin"] .update-table td.pin-separator-cell,
-      .app[data-page="update"] .update-section--pins .update-table td.pin-separator-cell {
-        text-align: left;
-      }
-      .app[data-page="pin"] .pin-separator-content,
-      .app[data-page="update"] .update-section--pins .pin-separator-content {
-        display: flex;
-        align-items: center;
-        justify-content: flex-start;
-        width: 100%;
-        box-sizing: border-box;
-        padding: 0.1rem 0;
-      }
-      .app[data-page="pin"] .pin-separator-label,
-      .app[data-page="update"] .update-section--pins .pin-separator-label {
-        padding: 0;
-        font-size: 0.875rem;
-        font-weight: 700;
-        line-height: 1.2;
-        color: #374151;
-        text-align: left;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        max-width: 100%;
-      }
-      .app[data-page="pin"] .pin-preview-list .pin-separator-row,
-      .app[data-page="update"] .update-section--pins .pin-preview-list .pin-separator-row {
-        display: flex;
-        align-items: center;
-        gap: 0.35rem;
-        padding: calc(0.15rem + 1em) 0.35rem 0.15rem;
-        border-bottom: 1px solid #e5e7eb;
-        justify-content: flex-start;
-      }
-      .app[data-page="pin"] .pin-preview-list .pin-separator-row .pin-separator-content,
-      .app[data-page="update"] .update-section--pins .pin-preview-list .pin-separator-row .pin-separator-content {
-        flex: 1;
       }
       .update-source-icon {
         width: 0.95rem;
@@ -3614,6 +3036,16 @@
         align-items: center;
         line-height: 0;
         text-decoration: none;
+        outline: none;
+        border: none;
+        box-shadow: none;
+      }
+      .place-external-link:focus,
+      .place-external-link:focus-visible,
+      .place-external-link:active {
+        outline: none;
+        border: none;
+        box-shadow: none;
       }
       .place-external-link--hemnet {
         order: 1;
@@ -3687,6 +3119,17 @@
         height: 1em;
         flex-shrink: 0;
       }
+      .map-popup-transit {
+        margin-top: 0.35rem;
+      }
+      .map-popup-transit-lines {
+        font-size: 0.8125rem;
+        line-height: 1.4;
+        color: #374151;
+      }
+      .map-popup-transit-link {
+        margin-top: 0.15rem;
+      }
       .map-popup-source {
         margin-top: 0.35rem;
         font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
@@ -3720,6 +3163,6 @@
   <body>
     <div id="app"></div>
     <script src="https://unpkg.com/maplibre-gl@5.6.2/dist/maplibre-gl.js"></script>
-    <script src="js/main.js?v=1791127839178"></script>
+    <script src="js/main.js?v=1791278064750"></script>
   </body>
 </html>

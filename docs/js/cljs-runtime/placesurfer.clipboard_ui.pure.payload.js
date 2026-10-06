@@ -1,14 +1,14 @@
 goog.provide('placesurfer.clipboard_ui.pure.payload');
 placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$hemnet_bookmarklet_payload_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___65440 = arguments.length;
-var i__5750__auto___65441 = (0);
+var len__5749__auto___26143 = arguments.length;
+var i__5750__auto___26144 = (0);
 while(true){
-if((i__5750__auto___65441 < len__5749__auto___65440)){
-args__5755__auto__.push((arguments[i__5750__auto___65441]));
+if((i__5750__auto___26144 < len__5749__auto___26143)){
+args__5755__auto__.push((arguments[i__5750__auto___26144]));
 
-var G__65442 = (i__5750__auto___65441 + (1));
-i__5750__auto___65441 = G__65442;
+var G__26145 = (i__5750__auto___26144 + (1));
+i__5750__auto___26144 = G__26145;
 continue;
 } else {
 }
@@ -26,21 +26,53 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.he
 (placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq65426){
+(placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26133){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq65426));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26133));
+}));
+
+placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$hemnet_search_results_payload_QMARK_(var_args){
+var args__5755__auto__ = [];
+var len__5749__auto___26146 = arguments.length;
+var i__5750__auto___26147 = (0);
+while(true){
+if((i__5750__auto___26147 < len__5749__auto___26146)){
+args__5755__auto__.push((arguments[i__5750__auto___26147]));
+
+var G__26148 = (i__5750__auto___26147 + (1));
+i__5750__auto___26147 = G__26148;
+continue;
+} else {
+}
+break;
+}
+
+var argseq__5756__auto__ = ((((0) < args__5755__auto__.length))?(new cljs.core.IndexedSeq(args__5755__auto__.slice((0)),(0),null)):null);
+return placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$core$IFn$_invoke$arity$variadic(argseq__5756__auto__);
+});
+
+(placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$core$IFn$_invoke$arity$variadic = (function (args){
+return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.hemnet.payload.hemnet_search_results_payload_QMARK_,args);
+}));
+
+(placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$lang$maxFixedArity = (0));
+
+/** @this {Function} */
+(placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$lang$applyTo = (function (seq26134){
+var self__5735__auto__ = this;
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26134));
 }));
 
 placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$place_bookmarklet_payload_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___65443 = arguments.length;
-var i__5750__auto___65444 = (0);
+var len__5749__auto___26152 = arguments.length;
+var i__5750__auto___26153 = (0);
 while(true){
-if((i__5750__auto___65444 < len__5749__auto___65443)){
-args__5755__auto__.push((arguments[i__5750__auto___65444]));
+if((i__5750__auto___26153 < len__5749__auto___26152)){
+args__5755__auto__.push((arguments[i__5750__auto___26153]));
 
-var G__65445 = (i__5750__auto___65444 + (1));
-i__5750__auto___65444 = G__65445;
+var G__26154 = (i__5750__auto___26153 + (1));
+i__5750__auto___26153 = G__26154;
 continue;
 } else {
 }
@@ -58,21 +90,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.go
 (placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq65427){
+(placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26136){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq65427));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26136));
 }));
 
 placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$google_maps_bookmarklet_payload_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___65446 = arguments.length;
-var i__5750__auto___65447 = (0);
+var len__5749__auto___26155 = arguments.length;
+var i__5750__auto___26156 = (0);
 while(true){
-if((i__5750__auto___65447 < len__5749__auto___65446)){
-args__5755__auto__.push((arguments[i__5750__auto___65447]));
+if((i__5750__auto___26156 < len__5749__auto___26155)){
+args__5755__auto__.push((arguments[i__5750__auto___26156]));
 
-var G__65448 = (i__5750__auto___65447 + (1));
-i__5750__auto___65447 = G__65448;
+var G__26157 = (i__5750__auto___26156 + (1));
+i__5750__auto___26156 = G__26157;
 continue;
 } else {
 }
@@ -90,9 +122,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.go
 (placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq65429){
+(placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26137){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq65429));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26137));
 }));
 
 /**
@@ -109,11 +141,16 @@ var or__5025__auto__ = placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;
 } else {
-var or__5025__auto____$1 = placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([data], 0));
+var or__5025__auto____$1 = placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([data], 0));
 if(cljs.core.truth_(or__5025__auto____$1)){
 return or__5025__auto____$1;
 } else {
+var or__5025__auto____$2 = placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([data], 0));
+if(cljs.core.truth_(or__5025__auto____$2)){
+return or__5025__auto____$2;
+} else {
 return placesurfer.clipboard_ui.pure.payload.pin_list_payload_QMARK_(data);
+}
 }
 }
 });
@@ -121,9 +158,9 @@ return placesurfer.clipboard_ui.pure.payload.pin_list_payload_QMARK_(data);
  * Parse clipboard text into a bookmarklet payload map, or nil.
  */
 placesurfer.clipboard_ui.pure.payload.parse_bookmarklet_text = (function placesurfer$clipboard_ui$pure$payload$parse_bookmarklet_text(text){
-var temp__5825__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(text)));
-if(cljs.core.truth_(temp__5825__auto__)){
-var trimmed = temp__5825__auto__;
+var temp__5823__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(text)));
+if(cljs.core.truth_(temp__5823__auto__)){
+var trimmed = temp__5823__auto__;
 try{var raw = JSON.parse(trimmed);
 var data = cljs.core.js__GT_clj.cljs$core$IFn$_invoke$arity$variadic(raw,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"keywordize-keys","keywordize-keys",1310784252),true], 0));
 if(cljs.core.truth_(placesurfer.clipboard_ui.pure.payload.bookmarklet_payload_QMARK_(data))){
@@ -131,7 +168,7 @@ return data;
 } else {
 return null;
 }
-}catch (e65432){var _ = e65432;
+}catch (e26138){var _ = e26138;
 return null;
 }} else {
 return null;
@@ -139,14 +176,14 @@ return null;
 });
 placesurfer.clipboard_ui.pure.payload.payload__GT_listing = (function placesurfer$clipboard_ui$pure$payload$payload__GT_listing(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___65449 = arguments.length;
-var i__5750__auto___65450 = (0);
+var len__5749__auto___26158 = arguments.length;
+var i__5750__auto___26159 = (0);
 while(true){
-if((i__5750__auto___65450 < len__5749__auto___65449)){
-args__5755__auto__.push((arguments[i__5750__auto___65450]));
+if((i__5750__auto___26159 < len__5749__auto___26158)){
+args__5755__auto__.push((arguments[i__5750__auto___26159]));
 
-var G__65451 = (i__5750__auto___65450 + (1));
-i__5750__auto___65450 = G__65451;
+var G__26160 = (i__5750__auto___26159 + (1));
+i__5750__auto___26159 = G__26160;
 continue;
 } else {
 }
@@ -164,21 +201,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.he
 (placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$lang$applyTo = (function (seq65435){
+(placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$lang$applyTo = (function (seq26139){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq65435));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26139));
 }));
 
 placesurfer.clipboard_ui.pure.payload.payload__GT_place = (function placesurfer$clipboard_ui$pure$payload$payload__GT_place(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___65452 = arguments.length;
-var i__5750__auto___65453 = (0);
+var len__5749__auto___26162 = arguments.length;
+var i__5750__auto___26163 = (0);
 while(true){
-if((i__5750__auto___65453 < len__5749__auto___65452)){
-args__5755__auto__.push((arguments[i__5750__auto___65453]));
+if((i__5750__auto___26163 < len__5749__auto___26162)){
+args__5755__auto__.push((arguments[i__5750__auto___26163]));
 
-var G__65454 = (i__5750__auto___65453 + (1));
-i__5750__auto___65453 = G__65454;
+var G__26164 = (i__5750__auto___26163 + (1));
+i__5750__auto___26163 = G__26164;
 continue;
 } else {
 }
@@ -196,9 +233,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.go
 (placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$lang$applyTo = (function (seq65438){
+(placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$lang$applyTo = (function (seq26140){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq65438));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26140));
 }));
 
 /**
@@ -206,9 +243,9 @@ return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq
  */
 placesurfer.clipboard_ui.pure.payload.payload__GT_coordinates = (function placesurfer$clipboard_ui$pure$payload$payload__GT_coordinates(payload){
 if(cljs.core.truth_(placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0)))){
-var temp__5825__auto__ = placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0));
-if(cljs.core.truth_(temp__5825__auto__)){
-var listing = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0));
+if(cljs.core.truth_(temp__5823__auto__)){
+var listing = temp__5823__auto__;
 if(placesurfer.clipboard_ui.hemnet.listing.listing_has_coords_QMARK_(listing)){
 return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(listing),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(listing)], null);
 } else {
@@ -219,9 +256,9 @@ return null;
 }
 } else {
 if(cljs.core.truth_(placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0)))){
-var temp__5825__auto__ = placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0));
-if(cljs.core.truth_(temp__5825__auto__)){
-var place = temp__5825__auto__;
+var temp__5823__auto__ = placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([payload], 0));
+if(cljs.core.truth_(temp__5823__auto__)){
+var place = temp__5823__auto__;
 if(placesurfer.clipboard_ui.google_maps.place.place_has_coords_QMARK_(place)){
 return new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(place),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(place)], null);
 } else {

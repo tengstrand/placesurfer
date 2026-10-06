@@ -25,22 +25,22 @@ return "";
 }
 })();
 if(((typeof lon === 'number') && (((typeof lat === 'number') && (cljs.core.seq(clojure.string.trim(place_name))))))){
-return new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"name","name",1843675177),clojure.string.trim(place_name),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat,new cljs.core.Keyword(null,"countrycode","countrycode",-1191088449),(function (){var G__40012 = props.countrycode;
-if((G__40012 == null)){
+return new cljs.core.PersistentArrayMap(null, 5, [new cljs.core.Keyword(null,"name","name",1843675177),clojure.string.trim(place_name),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),lon,new cljs.core.Keyword(null,"latitude","latitude",394867543),lat,new cljs.core.Keyword(null,"countrycode","countrycode",-1191088449),(function (){var G__25987 = props.countrycode;
+if((G__25987 == null)){
 return null;
 } else {
-return clojure.string.upper_case(G__40012);
+return clojure.string.upper_case(G__25987);
 }
-})(),new cljs.core.Keyword(null,"label","label",1718410804),[cljs.core.str.cljs$core$IFn$_invoke$arity$1(place_name),(function (){var temp__5825__auto__ = props.city;
-if(cljs.core.truth_(temp__5825__auto__)){
-var city = temp__5825__auto__;
+})(),new cljs.core.Keyword(null,"label","label",1718410804),[cljs.core.str.cljs$core$IFn$_invoke$arity$1(place_name),(function (){var temp__5823__auto__ = props.city;
+if(cljs.core.truth_(temp__5823__auto__)){
+var city = temp__5823__auto__;
 return [", ",cljs.core.str.cljs$core$IFn$_invoke$arity$1(city)].join('');
 } else {
 return null;
 }
-})(),(function (){var temp__5825__auto__ = props.countrycode;
-if(cljs.core.truth_(temp__5825__auto__)){
-var cc = temp__5825__auto__;
+})(),(function (){var temp__5823__auto__ = props.countrycode;
+if(cljs.core.truth_(temp__5823__auto__)){
+var cc = temp__5823__auto__;
 return [" (",clojure.string.upper_case(cc),")"].join('');
 } else {
 return null;
@@ -67,14 +67,14 @@ return null;
 placesurfer.pin_ui.pure.photon.min_search_chars = (1);
 placesurfer.pin_ui.pure.photon.build_search_url = (function placesurfer$pin_ui$pure$photon$build_search_url(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___40026 = arguments.length;
-var i__5750__auto___40027 = (0);
+var len__5749__auto___26039 = arguments.length;
+var i__5750__auto___26040 = (0);
 while(true){
-if((i__5750__auto___40027 < len__5749__auto___40026)){
-args__5755__auto__.push((arguments[i__5750__auto___40027]));
+if((i__5750__auto___26040 < len__5749__auto___26039)){
+args__5755__auto__.push((arguments[i__5750__auto___26040]));
 
-var G__40028 = (i__5750__auto___40027 + (1));
-i__5750__auto___40027 = G__40028;
+var G__26042 = (i__5750__auto___26040 + (1));
+i__5750__auto___26040 = G__26042;
 continue;
 } else {
 }
@@ -85,11 +85,11 @@ var argseq__5756__auto__ = ((((2) < args__5755__auto__.length))?(new cljs.core.I
 return placesurfer.pin_ui.pure.photon.build_search_url.cljs$core$IFn$_invoke$arity$variadic((arguments[(0)]),(arguments[(1)]),argseq__5756__auto__);
 });
 
-(placesurfer.pin_ui.pure.photon.build_search_url.cljs$core$IFn$_invoke$arity$variadic = (function (query,limit,p__40017){
-var map__40018 = p__40017;
-var map__40018__$1 = cljs.core.__destructure_map(map__40018);
-var countries = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40018__$1,new cljs.core.Keyword(null,"countries","countries",863192750));
-var country_slug = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40018__$1,new cljs.core.Keyword(null,"country-slug","country-slug",769681844));
+(placesurfer.pin_ui.pure.photon.build_search_url.cljs$core$IFn$_invoke$arity$variadic = (function (query,limit,p__25994){
+var map__25995 = p__25994;
+var map__25995__$1 = cljs.core.__destructure_map(map__25995);
+var countries = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25995__$1,new cljs.core.Keyword(null,"countries","countries",863192750));
+var country_slug = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25995__$1,new cljs.core.Keyword(null,"country-slug","country-slug",769681844));
 var trimmed = clojure.string.trim(query);
 var base = [placesurfer.pin_ui.pure.photon.api_base,"?q=",cljs.core.str.cljs$core$IFn$_invoke$arity$1(encodeURIComponent(trimmed)),"&limit=",cljs.core.str.cljs$core$IFn$_invoke$arity$1(limit),"&lang=en"].join('');
 var bbox = (cljs.core.truth_((function (){var and__5023__auto__ = cljs.core.seq(countries);
@@ -98,15 +98,15 @@ return country_slug;
 } else {
 return and__5023__auto__;
 }
-})())?(function (){var temp__5825__auto__ = placesurfer.country.interface$.country_bounds_for_slug(country_slug,countries);
-if(cljs.core.truth_(temp__5825__auto__)){
-var bounds = temp__5825__auto__;
-var map__40019 = bounds;
-var map__40019__$1 = cljs.core.__destructure_map(map__40019);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40019__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40019__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40019__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40019__$1,new cljs.core.Keyword(null,"north","north",651323902));
+})())?(function (){var temp__5823__auto__ = placesurfer.country.interface$.country_bounds_for_slug(country_slug,countries);
+if(cljs.core.truth_(temp__5823__auto__)){
+var bounds = temp__5823__auto__;
+var map__25999 = bounds;
+var map__25999__$1 = cljs.core.__destructure_map(map__25999);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25999__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25999__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25999__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__25999__$1,new cljs.core.Keyword(null,"north","north",651323902));
 return ["&bbox=",cljs.core.str.cljs$core$IFn$_invoke$arity$1(west),",",cljs.core.str.cljs$core$IFn$_invoke$arity$1(south),",",cljs.core.str.cljs$core$IFn$_invoke$arity$1(east),",",cljs.core.str.cljs$core$IFn$_invoke$arity$1(north)].join('');
 } else {
 return null;
@@ -124,25 +124,25 @@ return "";
 (placesurfer.pin_ui.pure.photon.build_search_url.cljs$lang$maxFixedArity = (2));
 
 /** @this {Function} */
-(placesurfer.pin_ui.pure.photon.build_search_url.cljs$lang$applyTo = (function (seq40014){
-var G__40015 = cljs.core.first(seq40014);
-var seq40014__$1 = cljs.core.next(seq40014);
-var G__40016 = cljs.core.first(seq40014__$1);
-var seq40014__$2 = cljs.core.next(seq40014__$1);
+(placesurfer.pin_ui.pure.photon.build_search_url.cljs$lang$applyTo = (function (seq25991){
+var G__25992 = cljs.core.first(seq25991);
+var seq25991__$1 = cljs.core.next(seq25991);
+var G__25993 = cljs.core.first(seq25991__$1);
+var seq25991__$2 = cljs.core.next(seq25991__$1);
 var self__5734__auto__ = this;
-return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__40015,G__40016,seq40014__$2);
+return self__5734__auto__.cljs$core$IFn$_invoke$arity$variadic(G__25992,G__25993,seq25991__$2);
 }));
 
 placesurfer.pin_ui.pure.photon.point_in_country_bounds_QMARK_ = (function placesurfer$pin_ui$pure$photon$point_in_country_bounds_QMARK_(lon,lat,countries,country_slug){
-var temp__5823__auto__ = placesurfer.country.interface$.country_bounds_for_slug(country_slug,countries);
-if(cljs.core.truth_(temp__5823__auto__)){
-var bounds = temp__5823__auto__;
-var map__40020 = bounds;
-var map__40020__$1 = cljs.core.__destructure_map(map__40020);
-var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40020__$1,new cljs.core.Keyword(null,"west","west",708776677));
-var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40020__$1,new cljs.core.Keyword(null,"east","east",1189821678));
-var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40020__$1,new cljs.core.Keyword(null,"south","south",1586796293));
-var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40020__$1,new cljs.core.Keyword(null,"north","north",651323902));
+var temp__5821__auto__ = placesurfer.country.interface$.country_bounds_for_slug(country_slug,countries);
+if(cljs.core.truth_(temp__5821__auto__)){
+var bounds = temp__5821__auto__;
+var map__26005 = bounds;
+var map__26005__$1 = cljs.core.__destructure_map(map__26005);
+var west = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26005__$1,new cljs.core.Keyword(null,"west","west",708776677));
+var east = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26005__$1,new cljs.core.Keyword(null,"east","east",1189821678));
+var south = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26005__$1,new cljs.core.Keyword(null,"south","south",1586796293));
+var north = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26005__$1,new cljs.core.Keyword(null,"north","north",651323902));
 return ((typeof west === 'number') && (((typeof east === 'number') && (((typeof south === 'number') && (((typeof north === 'number') && ((((((west <= lon)) && ((lon <= east)))) && ((((south <= lat)) && ((lat <= north)))))))))))));
 } else {
 return true;
@@ -151,12 +151,12 @@ return true;
 /**
  * Relaxed filter for Photon suggestions: ISO match plus in-country bounds when known.
  */
-placesurfer.pin_ui.pure.photon.result_in_search_country_QMARK_ = (function placesurfer$pin_ui$pure$photon$result_in_search_country_QMARK_(p__40021,country_iso,countries,country_slug){
-var map__40022 = p__40021;
-var map__40022__$1 = cljs.core.__destructure_map(map__40022);
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40022__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40022__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var countrycode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40022__$1,new cljs.core.Keyword(null,"countrycode","countrycode",-1191088449));
+placesurfer.pin_ui.pure.photon.result_in_search_country_QMARK_ = (function placesurfer$pin_ui$pure$photon$result_in_search_country_QMARK_(p__26014,country_iso,countries,country_slug){
+var map__26015 = p__26014;
+var map__26015__$1 = cljs.core.__destructure_map(map__26015);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26015__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26015__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var countrycode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26015__$1,new cljs.core.Keyword(null,"countrycode","countrycode",-1191088449));
 var and__5023__auto__ = country_iso;
 if(cljs.core.truth_(and__5023__auto__)){
 return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(countrycode,country_iso)) && (((cljs.core.not(cljs.core.seq(countries))) || (((cljs.core.not(country_slug)) || (placesurfer.pin_ui.pure.photon.point_in_country_bounds_QMARK_(longitude,latitude,countries,country_slug)))))));
@@ -164,18 +164,18 @@ return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(countrycode,country_iso)) 
 return and__5023__auto__;
 }
 });
-placesurfer.pin_ui.pure.photon.result_in_current_country_QMARK_ = (function placesurfer$pin_ui$pure$photon$result_in_current_country_QMARK_(p__40023,country_iso,countries,country_slug){
-var map__40024 = p__40023;
-var map__40024__$1 = cljs.core.__destructure_map(map__40024);
-var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40024__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
-var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40024__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
-var countrycode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40024__$1,new cljs.core.Keyword(null,"countrycode","countrycode",-1191088449));
+placesurfer.pin_ui.pure.photon.result_in_current_country_QMARK_ = (function placesurfer$pin_ui$pure$photon$result_in_current_country_QMARK_(p__26021,country_iso,countries,country_slug){
+var map__26023 = p__26021;
+var map__26023__$1 = cljs.core.__destructure_map(map__26023);
+var longitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26023__$1,new cljs.core.Keyword(null,"longitude","longitude",-1268876372));
+var latitude = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26023__$1,new cljs.core.Keyword(null,"latitude","latitude",394867543));
+var countrycode = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26023__$1,new cljs.core.Keyword(null,"countrycode","countrycode",-1191088449));
 return placesurfer.pin_ui.pure.photon.result_in_search_country_QMARK_(new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),longitude,new cljs.core.Keyword(null,"latitude","latitude",394867543),latitude,new cljs.core.Keyword(null,"countrycode","countrycode",-1191088449),countrycode], null),country_iso,countries,country_slug);
 });
 placesurfer.pin_ui.pure.photon.filter_results_for_country = (function placesurfer$pin_ui$pure$photon$filter_results_for_country(results,country_iso,countries,country_slug){
 if(cljs.core.truth_(country_iso)){
-return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__40025_SHARP_){
-return placesurfer.pin_ui.pure.photon.result_in_search_country_QMARK_(p1__40025_SHARP_,country_iso,countries,country_slug);
+return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__26024_SHARP_){
+return placesurfer.pin_ui.pure.photon.result_in_search_country_QMARK_(p1__26024_SHARP_,country_iso,countries,country_slug);
 }),results));
 } else {
 return cljs.core.vec(results);

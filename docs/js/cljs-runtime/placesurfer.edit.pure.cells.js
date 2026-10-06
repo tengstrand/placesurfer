@@ -28,16 +28,16 @@ return null;
 }
 });
 placesurfer.edit.pure.cells.source_icon_src = (function placesurfer$edit$pure$cells$source_icon_src(source){
-var temp__5825__auto__ = (function (){var G__40816 = placesurfer.edit.pure.cells.source_label(source);
-var G__40816__$1 = (((G__40816 == null))?null:clojure.string.lower_case(G__40816));
-if((G__40816__$1 == null)){
+var temp__5823__auto__ = (function (){var G__27018 = placesurfer.edit.pure.cells.source_label(source);
+var G__27018__$1 = (((G__27018 == null))?null:clojure.string.lower_case(G__27018));
+if((G__27018__$1 == null)){
 return null;
 } else {
-return cljs.core.not_empty(G__40816__$1);
+return cljs.core.not_empty(G__27018__$1);
 }
 })();
-if(cljs.core.truth_(temp__5825__auto__)){
-var source_name = temp__5825__auto__;
+if(cljs.core.truth_(temp__5823__auto__)){
+var source_name = temp__5823__auto__;
 return ["/images/source/",cljs.core.str.cljs$core$IFn$_invoke$arity$1(source_name),".png"].join('');
 } else {
 return null;
@@ -93,9 +93,9 @@ if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(key,new cljs.core.Keyword(null,"
 return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.update-action-cell","td.update-action-cell",-1989597990),((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"deleted","deleted",-510100639),new cljs.core.Keyword(null,"action","action",-811238024).cljs$core$IFn$_invoke$arity$1(values)))?new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.update-row-action-icon","img.update-row-action-icon",-921848571),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/removed.png",new cljs.core.Keyword(null,"alt","alt",-3214426),"deleted"], null)], null):((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"added","added",2057651688),new cljs.core.Keyword(null,"action","action",-811238024).cljs$core$IFn$_invoke$arity$1(values)))?new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.update-row-action-icon","img.update-row-action-icon",-921848571),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/added.png",new cljs.core.Keyword(null,"alt","alt",-3214426),"added"], null)], null):((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"edited","edited",-262616624),new cljs.core.Keyword(null,"action","action",-811238024).cljs$core$IFn$_invoke$arity$1(values)))?new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.update-row-action-icon","img.update-row-action-icon",-921848571),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/edited.png",new cljs.core.Keyword(null,"alt","alt",-3214426),"edited"], null)], null):(cljs.core.truth_(new cljs.core.Keyword(null,"form-validation-warning?","form-validation-warning?",1321400166).cljs$core$IFn$_invoke$arity$1(values))?new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.update-row-action-icon","img.update-row-action-icon",-921848571),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),"/images/warning.png",new cljs.core.Keyword(null,"alt","alt",-3214426),"validation warning"], null)], null):null))))], null);
 } else {
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(key,new cljs.core.Keyword(null,"source-icon","source-icon",-769874141))){
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.update-source-cell","td.update-source-cell",-441082677),(function (){var temp__5825__auto__ = placesurfer.edit.pure.cells.source_cell_icon_src(values);
-if(cljs.core.truth_(temp__5825__auto__)){
-var src = temp__5825__auto__;
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.update-source-cell","td.update-source-cell",-441082677),(function (){var temp__5823__auto__ = placesurfer.edit.pure.cells.source_cell_icon_src(values);
+if(cljs.core.truth_(temp__5823__auto__)){
+var src = temp__5823__auto__;
 return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.update-source-icon","img.update-source-icon",1825880713),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"src","src",-1651076051),src,new cljs.core.Keyword(null,"alt","alt",-3214426),placesurfer.edit.pure.cells.display_cell_value((function (){var or__5025__auto__ = new cljs.core.Keyword(null,"source","source",-433931539).cljs$core$IFn$_invoke$arity$1(values);
 if(cljs.core.truth_(or__5025__auto__)){
 return or__5025__auto__;

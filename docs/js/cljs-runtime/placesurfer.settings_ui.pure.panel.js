@@ -3,57 +3,87 @@ placesurfer.settings_ui.pure.panel.locales = new cljs.core.PersistentVector(null
 placesurfer.settings_ui.pure.panel.row_class = (function placesurfer$settings_ui$pure$panel$row_class(selected_QMARK_){
 return clojure.string.join.cljs$core$IFn$_invoke$arity$2(" ",cljs.core.remove.cljs$core$IFn$_invoke$arity$2(cljs.core.nil_QMARK_,new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [(cljs.core.truth_(selected_QMARK_)?"settings-language-row--selected":null)], null)));
 });
-placesurfer.settings_ui.pure.panel.language_row = (function placesurfer$settings_ui$pure$panel$language_row(p__40740){
-var map__40741 = p__40740;
-var map__40741__$1 = cljs.core.__destructure_map(map__40741);
-var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
-var iso = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"iso","iso",-1366207543));
-var label_key = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"label-key","label-key",1868394642));
-var active_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"active?","active?",459499776));
-var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40741__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+placesurfer.settings_ui.pure.panel.language_row = (function placesurfer$settings_ui$pure$panel$language_row(p__26928){
+var map__26929 = p__26928;
+var map__26929__$1 = cljs.core.__destructure_map(map__26929);
+var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26929__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
+var iso = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26929__$1,new cljs.core.Keyword(null,"iso","iso",-1366207543));
+var label_key = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26929__$1,new cljs.core.Keyword(null,"label-key","label-key",1868394642));
+var active_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26929__$1,new cljs.core.Keyword(null,"active?","active?",459499776));
+var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26929__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26929__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
 return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.settings-language-row","button.settings-language-row",1834907204),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"class","class",-2030961996),placesurfer.settings_ui.pure.panel.row_class(active_QMARK_),new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
 return (set_locale_BANG_.cljs$core$IFn$_invoke$arity$1 ? set_locale_BANG_.cljs$core$IFn$_invoke$arity$1(locale) : set_locale_BANG_.call(null,locale));
 })], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.settings-language-flag","span.settings-language-flag",946964322),placesurfer.nav_ui.interface$.flags.iso__GT_flag(iso)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"span.settings-language-label","span.settings-language-label",1781156339),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(label_key) : t.call(null,label_key))], null)], null);
 });
 placesurfer.settings_ui.pure.panel.sorted_locales = (function placesurfer$settings_ui$pure$panel$sorted_locales(t){
-return cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3((function (p1__40742_SHARP_){
-var G__40743 = new cljs.core.Keyword(null,"label-key","label-key",1868394642).cljs$core$IFn$_invoke$arity$1(p1__40742_SHARP_);
-return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__40743) : t.call(null,G__40743));
+return cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3((function (p1__26932_SHARP_){
+var G__26933 = new cljs.core.Keyword(null,"label-key","label-key",1868394642).cljs$core$IFn$_invoke$arity$1(p1__26932_SHARP_);
+return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__26933) : t.call(null,G__26933));
 }),cljs.core.compare,placesurfer.settings_ui.pure.panel.locales);
 });
-placesurfer.settings_ui.pure.panel.panel = (function placesurfer$settings_ui$pure$panel$panel(p__40744){
-var map__40745 = p__40744;
-var map__40745__$1 = cljs.core.__destructure_map(map__40745);
-var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40745__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697),new cljs.core.Keyword(null,"en","en",88457073));
-var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40745__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),(function (_){
+placesurfer.settings_ui.pure.panel.dropbox_section = (function placesurfer$settings_ui$pure$panel$dropbox_section(p__26934){
+var map__26937 = p__26934;
+var map__26937__$1 = cljs.core.__destructure_map(map__26937);
+var dropbox_configured_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26937__$1,new cljs.core.Keyword(null,"dropbox-configured?","dropbox-configured?",-1672215925));
+var dropbox_connected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26937__$1,new cljs.core.Keyword(null,"dropbox-connected?","dropbox-connected?",-1052021943));
+var dropbox_account_email = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26937__$1,new cljs.core.Keyword(null,"dropbox-account-email","dropbox-account-email",-1050755345));
+var dropbox_sync_error = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26937__$1,new cljs.core.Keyword(null,"dropbox-sync-error","dropbox-sync-error",526332698));
+var connect_dropbox_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26937__$1,new cljs.core.Keyword(null,"connect-dropbox!","connect-dropbox!",-1870840475));
+var disconnect_dropbox_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26937__$1,new cljs.core.Keyword(null,"disconnect-dropbox!","disconnect-dropbox!",324541913));
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26937__$1,new cljs.core.Keyword(null,"t","t",-1397832519));
+return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-section","div.settings-section",-990734776),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"h2.settings-heading","h2.settings-heading",-1931125326),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","dropbox-heading","settings/dropbox-heading",-4508629)) : t.call(null,new cljs.core.Keyword("settings","dropbox-heading","settings/dropbox-heading",-4508629)))], null),((cljs.core.not(dropbox_configured_QMARK_))?new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.settings-dropbox-status","p.settings-dropbox-status",925357184),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","dropbox-not-configured","settings/dropbox-not-configured",-395245474)) : t.call(null,new cljs.core.Keyword("settings","dropbox-not-configured","settings/dropbox-not-configured",-395245474)))], null):(cljs.core.truth_(dropbox_connected_QMARK_)?new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-dropbox-connected","div.settings-dropbox-connected",1079441264),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.settings-dropbox-status","p.settings-dropbox-status",925357184),(cljs.core.truth_(dropbox_account_email)?(function (){var G__26938 = new cljs.core.Keyword("settings","dropbox-connected-as","settings/dropbox-connected-as",1338592409);
+var G__26939 = new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"email","email",1415816706),dropbox_account_email], null);
+return (t.cljs$core$IFn$_invoke$arity$2 ? t.cljs$core$IFn$_invoke$arity$2(G__26938,G__26939) : t.call(null,G__26938,G__26939));
+})():(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","dropbox-connected","settings/dropbox-connected",1400683233)) : t.call(null,new cljs.core.Keyword("settings","dropbox-connected","settings/dropbox-connected",1400683233))))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.settings-dropbox-disconnect","button.settings-dropbox-disconnect",-1297865210),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
+return (disconnect_dropbox_BANG_.cljs$core$IFn$_invoke$arity$0 ? disconnect_dropbox_BANG_.cljs$core$IFn$_invoke$arity$0() : disconnect_dropbox_BANG_.call(null));
+})], null)], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","dropbox-disconnect","settings/dropbox-disconnect",-776086756)) : t.call(null,new cljs.core.Keyword("settings","dropbox-disconnect","settings/dropbox-disconnect",-776086756)))], null)], null):new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-dropbox-disconnected","div.settings-dropbox-disconnected",-1578518148),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.settings-dropbox-status","p.settings-dropbox-status",925357184),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","dropbox-not-connected","settings/dropbox-not-connected",2002335829)) : t.call(null,new cljs.core.Keyword("settings","dropbox-not-connected","settings/dropbox-not-connected",2002335829)))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.settings-dropbox-connect","button.settings-dropbox-connect",804222957),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"on","on",173873944),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"click","click",1912301393),(function (_){
+return (connect_dropbox_BANG_.cljs$core$IFn$_invoke$arity$0 ? connect_dropbox_BANG_.cljs$core$IFn$_invoke$arity$0() : connect_dropbox_BANG_.call(null));
+})], null)], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","dropbox-connect","settings/dropbox-connect",272531532)) : t.call(null,new cljs.core.Keyword("settings","dropbox-connect","settings/dropbox-connect",272531532)))], null)], null)
+)),(cljs.core.truth_(dropbox_sync_error)?new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.settings-dropbox-error","p.settings-dropbox-error",-83620746),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","dropbox-error","settings/dropbox-error",1243841821)) : t.call(null,new cljs.core.Keyword("settings","dropbox-error","settings/dropbox-error",1243841821)))], null):null)], null);
+});
+placesurfer.settings_ui.pure.panel.panel = (function placesurfer$settings_ui$pure$panel$panel(p__26945){
+var map__26946 = p__26945;
+var map__26946__$1 = cljs.core.__destructure_map(map__26946);
+var disconnect_dropbox_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26946__$1,new cljs.core.Keyword(null,"disconnect-dropbox!","disconnect-dropbox!",324541913),(function (){
 return null;
 }));
-var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__40745__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
+var t = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26946__$1,new cljs.core.Keyword(null,"t","t",-1397832519),(function (k){
 return cljs.core.name(k);
 }));
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-sections","div.settings-sections",-69580065),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-section","div.settings-section",-990734776),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"h2.settings-heading","h2.settings-heading",-1931125326),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","language","settings/language",1923544055)) : t.call(null,new cljs.core.Keyword("settings","language","settings/language",1923544055)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-language-list","div.settings-language-list",2081096249),(function (){var iter__5503__auto__ = (function placesurfer$settings_ui$pure$panel$panel_$_iter__40746(s__40747){
+var dropbox_sync_error = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26946__$1,new cljs.core.Keyword(null,"dropbox-sync-error","dropbox-sync-error",526332698));
+var set_locale_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26946__$1,new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),(function (_){
+return null;
+}));
+var connect_dropbox_BANG_ = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26946__$1,new cljs.core.Keyword(null,"connect-dropbox!","connect-dropbox!",-1870840475),(function (){
+return null;
+}));
+var locale = cljs.core.get.cljs$core$IFn$_invoke$arity$3(map__26946__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697),new cljs.core.Keyword(null,"en","en",88457073));
+var dropbox_connected_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26946__$1,new cljs.core.Keyword(null,"dropbox-connected?","dropbox-connected?",-1052021943));
+var dropbox_configured_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26946__$1,new cljs.core.Keyword(null,"dropbox-configured?","dropbox-configured?",-1672215925));
+var dropbox_account_email = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26946__$1,new cljs.core.Keyword(null,"dropbox-account-email","dropbox-account-email",-1050755345));
+return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-sections","div.settings-sections",-69580065),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-section","div.settings-section",-990734776),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"h2.settings-heading","h2.settings-heading",-1931125326),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("settings","language","settings/language",1923544055)) : t.call(null,new cljs.core.Keyword("settings","language","settings/language",1923544055)))], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"div.settings-language-list","div.settings-language-list",2081096249),(function (){var iter__5503__auto__ = (function placesurfer$settings_ui$pure$panel$panel_$_iter__26947(s__26948){
 return (new cljs.core.LazySeq(null,(function (){
-var s__40747__$1 = s__40747;
+var s__26948__$1 = s__26948;
 while(true){
-var temp__5825__auto__ = cljs.core.seq(s__40747__$1);
-if(temp__5825__auto__){
-var s__40747__$2 = temp__5825__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__40747__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__40747__$2);
+var temp__5823__auto__ = cljs.core.seq(s__26948__$1);
+if(temp__5823__auto__){
+var s__26948__$2 = temp__5823__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__26948__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__26948__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__40749 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__40748 = (0);
+var b__26950 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__26949 = (0);
 while(true){
-if((i__40748 < size__5502__auto__)){
-var map__40750 = cljs.core._nth(c__5501__auto__,i__40748);
-var map__40750__$1 = cljs.core.__destructure_map(map__40750);
-var spec = map__40750__$1;
-var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40750__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
-cljs.core.chunk_append(b__40749,placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))));
+if((i__26949 < size__5502__auto__)){
+var map__26951 = cljs.core._nth(c__5501__auto__,i__26949);
+var map__26951__$1 = cljs.core.__destructure_map(map__26951);
+var spec = map__26951__$1;
+var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26951__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
+cljs.core.chunk_append(b__26950,placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))));
 
-var G__40752 = (i__40748 + (1));
-i__40748 = G__40752;
+var G__26966 = (i__26949 + (1));
+i__26949 = G__26966;
 continue;
 } else {
 return true;
@@ -61,16 +91,16 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__40749),placesurfer$settings_ui$pure$panel$panel_$_iter__40746(cljs.core.chunk_rest(s__40747__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__26950),placesurfer$settings_ui$pure$panel$panel_$_iter__26947(cljs.core.chunk_rest(s__26948__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__40749),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__26950),null);
 }
 } else {
-var map__40751 = cljs.core.first(s__40747__$2);
-var map__40751__$1 = cljs.core.__destructure_map(map__40751);
-var spec = map__40751__$1;
-var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__40751__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
-return cljs.core.cons(placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))),placesurfer$settings_ui$pure$panel$panel_$_iter__40746(cljs.core.rest(s__40747__$2)));
+var map__26952 = cljs.core.first(s__26948__$2);
+var map__26952__$1 = cljs.core.__destructure_map(map__26952);
+var spec = map__26952__$1;
+var locale_code = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26952__$1,new cljs.core.Keyword(null,"locale","locale",-2115712697));
+return cljs.core.cons(placesurfer.settings_ui.pure.panel.language_row(cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(spec,new cljs.core.Keyword(null,"locale","locale",-2115712697),locale_code,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"active?","active?",459499776),cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(locale_code,locale),new cljs.core.Keyword(null,"set-locale!","set-locale!",136598172),set_locale_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], 0))),placesurfer$settings_ui$pure$panel$panel_$_iter__26947(cljs.core.rest(s__26948__$2)));
 }
 } else {
 return null;
@@ -80,7 +110,7 @@ break;
 }),null,null));
 });
 return iter__5503__auto__(placesurfer.settings_ui.pure.panel.sorted_locales(t));
-})()], null)], null)], null);
+})()], null)], null),placesurfer.settings_ui.pure.panel.dropbox_section(new cljs.core.PersistentArrayMap(null, 7, [new cljs.core.Keyword(null,"dropbox-configured?","dropbox-configured?",-1672215925),dropbox_configured_QMARK_,new cljs.core.Keyword(null,"dropbox-connected?","dropbox-connected?",-1052021943),dropbox_connected_QMARK_,new cljs.core.Keyword(null,"dropbox-account-email","dropbox-account-email",-1050755345),dropbox_account_email,new cljs.core.Keyword(null,"dropbox-sync-error","dropbox-sync-error",526332698),dropbox_sync_error,new cljs.core.Keyword(null,"connect-dropbox!","connect-dropbox!",-1870840475),connect_dropbox_BANG_,new cljs.core.Keyword(null,"disconnect-dropbox!","disconnect-dropbox!",324541913),disconnect_dropbox_BANG_,new cljs.core.Keyword(null,"t","t",-1397832519),t], null))], null);
 });
 
 //# sourceMappingURL=placesurfer.settings_ui.pure.panel.js.map

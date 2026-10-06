@@ -1,12 +1,12 @@
 goog.provide('placesurfer.web_app.keyboard');
 placesurfer.web_app.keyboard.typing_in_field_QMARK_ = (function placesurfer$web_app$keyboard$typing_in_field_QMARK_(e){
 var el = e.target;
-var tag = (function (){var G__46413 = el;
-var G__46413__$1 = (((G__46413 == null))?null:G__46413.tagName);
-if((G__46413__$1 == null)){
+var tag = (function (){var G__22408 = el;
+var G__22408__$1 = (((G__22408 == null))?null:G__22408.tagName);
+if((G__22408__$1 == null)){
 return null;
 } else {
-return G__46413__$1.toUpperCase();
+return G__22408__$1.toUpperCase();
 }
 })();
 return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"INPUT")) || (((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(tag,"TEXTAREA")) || (el.isContentEditable === true))));
@@ -28,8 +28,8 @@ placesurfer.web_app.keyboard.update_pins_mode_QMARK_ = (function placesurfer$web
 return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"update","update",1045576396),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(s))) && (cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pins","pins",1725193285),new cljs.core.Keyword(null,"update-topic","update-topic",-406732688).cljs$core$IFn$_invoke$arity$1(s))));
 });
 placesurfer.web_app.keyboard.pin_row_nav_delta = (function placesurfer$web_app$keyboard$pin_row_nav_delta(e){
-var G__46417 = e.key;
-switch (G__46417) {
+var G__22409 = e.key;
+switch (G__22409) {
 case "ArrowDown":
 return (1);
 
@@ -46,9 +46,6 @@ return null;
 placesurfer.web_app.keyboard.pin_row_nav_key_QMARK_ = (function placesurfer$web_app$keyboard$pin_row_nav_key_QMARK_(e){
 return ((((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"pin","pin",-2111774834),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state)))) || (placesurfer.web_app.keyboard.update_pins_mode_QMARK_(cljs.core.deref(placesurfer.web_app.state._BANG_state))))) && ((((!((placesurfer.web_app.keyboard.pin_row_nav_delta(e) == null)))) && ((((!(placesurfer.web_app.keyboard.typing_in_field_QMARK_(e)))) && (cljs.core.not(placesurfer.web_app.keyboard.modifier_key_held_QMARK_(e))))))));
 });
-placesurfer.web_app.keyboard.group_row_nav_key_QMARK_ = (function placesurfer$web_app$keyboard$group_row_nav_key_QMARK_(e){
-return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"groups","groups",-136896102),new cljs.core.Keyword(null,"page","page",849072397).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state)))) && ((((!((placesurfer.web_app.keyboard.pin_row_nav_delta(e) == null)))) && ((((!(placesurfer.web_app.keyboard.typing_in_field_QMARK_(e)))) && (cljs.core.not(placesurfer.web_app.keyboard.modifier_key_held_QMARK_(e))))))));
-});
 placesurfer.web_app.keyboard.on_document_keydown_BANG_ = (function placesurfer$web_app$keyboard$on_document_keydown_BANG_(e){
 if(cljs.core.truth_(e.repeat)){
 return null;
@@ -57,11 +54,6 @@ if(placesurfer.web_app.keyboard.pin_row_nav_key_QMARK_(e)){
 e.preventDefault();
 
 return placesurfer.pin_ui.interface$.handlers.interaction.select_adjacent_pin_row_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([placesurfer.web_app.keyboard.pin_row_nav_delta(e)], 0));
-} else {
-if(placesurfer.web_app.keyboard.group_row_nav_key_QMARK_(e)){
-e.preventDefault();
-
-return placesurfer.group_ui.interface$.handlers.select_adjacent_group_row_BANG_.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([placesurfer.web_app.keyboard.pin_row_nav_delta(e)], 0));
 } else {
 if((((!(placesurfer.web_app.keyboard.typing_in_field_QMARK_(e)))) && (cljs.core.not(placesurfer.web_app.keyboard.modifier_key_held_QMARK_(e))))){
 var key = e.key.toLowerCase();
@@ -73,7 +65,7 @@ return placesurfer.web_app.nav.navigate_BANG_(new cljs.core.Keyword(null,"topic"
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("h",key)){
 e.preventDefault();
 
-return placesurfer.web_app.nav.navigate_BANG_(new cljs.core.Keyword(null,"home","home",-74557309));
+return placesurfer.web_app.nav.navigate_to_pin_BANG_();
 } else {
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("c",key)){
 e.preventDefault();
@@ -90,11 +82,6 @@ e.preventDefault();
 
 return placesurfer.web_app.nav.navigate_to_pin_BANG_();
 } else {
-if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("g",key)){
-e.preventDefault();
-
-return placesurfer.web_app.nav.navigate_BANG_(new cljs.core.Keyword(null,"groups","groups",-136896102));
-} else {
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("a",key)){
 e.preventDefault();
 
@@ -107,10 +94,8 @@ return null;
 }
 }
 }
-}
 } else {
 return null;
-}
 }
 }
 }

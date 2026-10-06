@@ -4,9 +4,9 @@ if((typeof placesurfer !== 'undefined') && (typeof placesurfer.map_panel_ui !== 
 placesurfer.map_panel_ui.layout._BANG_nav_observer = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(null);
 }
 placesurfer.map_panel_ui.layout.sync_layout_BANG_ = (function placesurfer$map_panel_ui$layout$sync_layout_BANG_(){
-var temp__5825__auto__ = document.querySelector(".nav-tabs");
-if(cljs.core.truth_(temp__5825__auto__)){
-var nav = temp__5825__auto__;
+var temp__5823__auto__ = document.querySelector(".nav-tabs");
+if(cljs.core.truth_(temp__5823__auto__)){
+var nav = temp__5823__auto__;
 var root_style = document.documentElement.style;
 var app = document.querySelector(".app");
 var nav_bottom = nav.getBoundingClientRect().bottom;
@@ -29,13 +29,13 @@ return null;
  *   elements after first paint) and re-run sync-layout! + the provided callback.
  */
 placesurfer.map_panel_ui.layout.observe_nav_BANG_ = (function placesurfer$map_panel_ui$layout$observe_nav_BANG_(on_resize_BANG_){
-var temp__5825__auto__ = document.querySelector(".nav-tabs");
-if(cljs.core.truth_(temp__5825__auto__)){
-var nav = temp__5825__auto__;
-var temp__5825__auto___37048__$1 = cljs.core.deref(placesurfer.map_panel_ui.layout._BANG_nav_observer);
-if(cljs.core.truth_(temp__5825__auto___37048__$1)){
-var old_37049 = temp__5825__auto___37048__$1;
-old_37049.disconnect();
+var temp__5823__auto__ = document.querySelector(".nav-tabs");
+if(cljs.core.truth_(temp__5823__auto__)){
+var nav = temp__5823__auto__;
+var temp__5823__auto___21542__$1 = cljs.core.deref(placesurfer.map_panel_ui.layout._BANG_nav_observer);
+if(cljs.core.truth_(temp__5823__auto___21542__$1)){
+var old_21543 = temp__5823__auto___21542__$1;
+old_21543.disconnect();
 } else {
 }
 
