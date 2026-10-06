@@ -1,14 +1,14 @@
 goog.provide('placesurfer.clipboard_ui.pure.payload');
 placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$hemnet_bookmarklet_payload_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___26143 = arguments.length;
-var i__5750__auto___26144 = (0);
+var len__5749__auto___26084 = arguments.length;
+var i__5750__auto___26085 = (0);
 while(true){
-if((i__5750__auto___26144 < len__5749__auto___26143)){
-args__5755__auto__.push((arguments[i__5750__auto___26144]));
+if((i__5750__auto___26085 < len__5749__auto___26084)){
+args__5755__auto__.push((arguments[i__5750__auto___26085]));
 
-var G__26145 = (i__5750__auto___26144 + (1));
-i__5750__auto___26144 = G__26145;
+var G__26086 = (i__5750__auto___26085 + (1));
+i__5750__auto___26085 = G__26086;
 continue;
 } else {
 }
@@ -26,21 +26,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.he
 (placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26133){
+(placesurfer.clipboard_ui.pure.payload.hemnet_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26012){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26133));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26012));
 }));
 
 placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$hemnet_search_results_payload_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___26146 = arguments.length;
-var i__5750__auto___26147 = (0);
+var len__5749__auto___26091 = arguments.length;
+var i__5750__auto___26092 = (0);
 while(true){
-if((i__5750__auto___26147 < len__5749__auto___26146)){
-args__5755__auto__.push((arguments[i__5750__auto___26147]));
+if((i__5750__auto___26092 < len__5749__auto___26091)){
+args__5755__auto__.push((arguments[i__5750__auto___26092]));
 
-var G__26148 = (i__5750__auto___26147 + (1));
-i__5750__auto___26147 = G__26148;
+var G__26093 = (i__5750__auto___26092 + (1));
+i__5750__auto___26092 = G__26093;
 continue;
 } else {
 }
@@ -58,21 +58,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.he
 (placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$lang$applyTo = (function (seq26134){
+(placesurfer.clipboard_ui.pure.payload.hemnet_search_results_payload_QMARK_.cljs$lang$applyTo = (function (seq26013){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26134));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26013));
 }));
 
 placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$place_bookmarklet_payload_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___26152 = arguments.length;
-var i__5750__auto___26153 = (0);
+var len__5749__auto___26094 = arguments.length;
+var i__5750__auto___26095 = (0);
 while(true){
-if((i__5750__auto___26153 < len__5749__auto___26152)){
-args__5755__auto__.push((arguments[i__5750__auto___26153]));
+if((i__5750__auto___26095 < len__5749__auto___26094)){
+args__5755__auto__.push((arguments[i__5750__auto___26095]));
 
-var G__26154 = (i__5750__auto___26153 + (1));
-i__5750__auto___26153 = G__26154;
+var G__26096 = (i__5750__auto___26095 + (1));
+i__5750__auto___26095 = G__26096;
 continue;
 } else {
 }
@@ -90,21 +90,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.go
 (placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26136){
+(placesurfer.clipboard_ui.pure.payload.place_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26014){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26136));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26014));
 }));
 
 placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_ = (function placesurfer$clipboard_ui$pure$payload$google_maps_bookmarklet_payload_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___26155 = arguments.length;
-var i__5750__auto___26156 = (0);
+var len__5749__auto___26097 = arguments.length;
+var i__5750__auto___26098 = (0);
 while(true){
-if((i__5750__auto___26156 < len__5749__auto___26155)){
-args__5755__auto__.push((arguments[i__5750__auto___26156]));
+if((i__5750__auto___26098 < len__5749__auto___26097)){
+args__5755__auto__.push((arguments[i__5750__auto___26098]));
 
-var G__26157 = (i__5750__auto___26156 + (1));
-i__5750__auto___26156 = G__26157;
+var G__26099 = (i__5750__auto___26098 + (1));
+i__5750__auto___26098 = G__26099;
 continue;
 } else {
 }
@@ -122,9 +122,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.go
 (placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26137){
+(placesurfer.clipboard_ui.pure.payload.google_maps_bookmarklet_payload_QMARK_.cljs$lang$applyTo = (function (seq26061){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26137));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26061));
 }));
 
 /**
@@ -168,7 +168,7 @@ return data;
 } else {
 return null;
 }
-}catch (e26138){var _ = e26138;
+}catch (e26063){var _ = e26063;
 return null;
 }} else {
 return null;
@@ -176,14 +176,14 @@ return null;
 });
 placesurfer.clipboard_ui.pure.payload.payload__GT_listing = (function placesurfer$clipboard_ui$pure$payload$payload__GT_listing(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___26158 = arguments.length;
-var i__5750__auto___26159 = (0);
+var len__5749__auto___26101 = arguments.length;
+var i__5750__auto___26102 = (0);
 while(true){
-if((i__5750__auto___26159 < len__5749__auto___26158)){
-args__5755__auto__.push((arguments[i__5750__auto___26159]));
+if((i__5750__auto___26102 < len__5749__auto___26101)){
+args__5755__auto__.push((arguments[i__5750__auto___26102]));
 
-var G__26160 = (i__5750__auto___26159 + (1));
-i__5750__auto___26159 = G__26160;
+var G__26103 = (i__5750__auto___26102 + (1));
+i__5750__auto___26102 = G__26103;
 continue;
 } else {
 }
@@ -201,21 +201,21 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.he
 (placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$lang$applyTo = (function (seq26139){
+(placesurfer.clipboard_ui.pure.payload.payload__GT_listing.cljs$lang$applyTo = (function (seq26066){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26139));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26066));
 }));
 
 placesurfer.clipboard_ui.pure.payload.payload__GT_place = (function placesurfer$clipboard_ui$pure$payload$payload__GT_place(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___26162 = arguments.length;
-var i__5750__auto___26163 = (0);
+var len__5749__auto___26104 = arguments.length;
+var i__5750__auto___26105 = (0);
 while(true){
-if((i__5750__auto___26163 < len__5749__auto___26162)){
-args__5755__auto__.push((arguments[i__5750__auto___26163]));
+if((i__5750__auto___26105 < len__5749__auto___26104)){
+args__5755__auto__.push((arguments[i__5750__auto___26105]));
 
-var G__26164 = (i__5750__auto___26163 + (1));
-i__5750__auto___26163 = G__26164;
+var G__26106 = (i__5750__auto___26105 + (1));
+i__5750__auto___26105 = G__26106;
 continue;
 } else {
 }
@@ -233,9 +233,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.clipboard_ui.go
 (placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$lang$applyTo = (function (seq26140){
+(placesurfer.clipboard_ui.pure.payload.payload__GT_place.cljs$lang$applyTo = (function (seq26067){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26140));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq26067));
 }));
 
 /**

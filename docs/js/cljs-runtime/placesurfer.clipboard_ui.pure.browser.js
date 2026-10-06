@@ -51,8 +51,8 @@ if((!(placesurfer.clipboard_ui.pure.browser.clipboard_read_available_QMARK_())))
 return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(null) : then_BANG_.call(null,null));
 } else {
 return navigator.clipboard.readText().then((function (text){
-var G__25886 = placesurfer.clipboard_ui.pure.browser.trimmed_text(text);
-return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(G__25886) : then_BANG_.call(null,G__25886));
+var G__25811 = placesurfer.clipboard_ui.pure.browser.trimmed_text(text);
+return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(G__25811) : then_BANG_.call(null,G__25811));
 })).catch((function (_){
 return (then_BANG_.cljs$core$IFn$_invoke$arity$1 ? then_BANG_.cljs$core$IFn$_invoke$arity$1(null) : then_BANG_.call(null,null));
 }));

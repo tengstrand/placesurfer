@@ -21,11 +21,11 @@ cljs.core.reset_BANG_(placesurfer.web_app.backend._BANG_consecutive_health_failu
 cljs.core.reset_BANG_(placesurfer.web_app.state._BANG_backend_health_online_QMARK_,true);
 
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(placesurfer.web_app.state._BANG_state,(function (s){
-var G__21970 = cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"backend-online?","backend-online?",-200708729),true);
+var G__25885 = cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"backend-online?","backend-online?",-200708729),true);
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("Backend service is not running",new cljs.core.Keyword(null,"update-error","update-error",-572386700).cljs$core$IFn$_invoke$arity$1(s))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__21970,new cljs.core.Keyword(null,"update-error","update-error",-572386700),null);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__25885,new cljs.core.Keyword(null,"update-error","update-error",-572386700),null);
 } else {
-return G__21970;
+return G__25885;
 }
 }));
 
@@ -54,11 +54,11 @@ if((failures >= (2))){
 cljs.core.reset_BANG_(placesurfer.web_app.state._BANG_backend_health_online_QMARK_,false);
 
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(placesurfer.web_app.state._BANG_state,(function (s){
-var G__21974 = placesurfer.web_app.backend.mark_backend_offline_BANG_(s);
+var G__25891 = placesurfer.web_app.backend.mark_backend_offline_BANG_(s);
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("Backend service is not running",new cljs.core.Keyword(null,"update-error","update-error",-572386700).cljs$core$IFn$_invoke$arity$1(s))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__21974,new cljs.core.Keyword(null,"update-error","update-error",-572386700),null);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__25891,new cljs.core.Keyword(null,"update-error","update-error",-572386700),null);
 } else {
-return G__21974;
+return G__25891;
 }
 }));
 

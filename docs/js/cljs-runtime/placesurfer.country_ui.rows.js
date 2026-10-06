@@ -2,16 +2,16 @@ goog.provide('placesurfer.country_ui.rows');
 placesurfer.country_ui.rows.row_class = (function placesurfer$country_ui$rows$row_class(selected_QMARK_,keyboard_highlight_QMARK_){
 return clojure.string.join.cljs$core$IFn$_invoke$arity$2(" ",cljs.core.remove.cljs$core$IFn$_invoke$arity$2(cljs.core.nil_QMARK_,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [(cljs.core.truth_(selected_QMARK_)?"country-row--selected":null),(cljs.core.truth_(keyboard_highlight_QMARK_)?"country-row--keyboard-focus":null)], null)));
 });
-placesurfer.country_ui.rows.row = (function placesurfer$country_ui$rows$row(p__26789,selected_QMARK_,keyboard_highlight_QMARK_,select_country_BANG_){
-var map__26790 = p__26789;
-var map__26790__$1 = cljs.core.__destructure_map(map__26790);
-var iso = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26790__$1,new cljs.core.Keyword(null,"iso","iso",-1366207543));
-var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26790__$1,new cljs.core.Keyword(null,"label","label",1718410804));
-var slug = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26790__$1,new cljs.core.Keyword(null,"slug","slug",2029314850));
-return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.country-row","button.country-row",-827615663),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"class","class",-2030961996),placesurfer.country_ui.rows.row_class(selected_QMARK_,keyboard_highlight_QMARK_),new cljs.core.Keyword("replicant","on-render","replicant/on-render",1674377901),(function (p__26792){
-var map__26793 = p__26792;
-var map__26793__$1 = cljs.core.__destructure_map(map__26793);
-var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26793__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
+placesurfer.country_ui.rows.row = (function placesurfer$country_ui$rows$row(p__26628,selected_QMARK_,keyboard_highlight_QMARK_,select_country_BANG_){
+var map__26629 = p__26628;
+var map__26629__$1 = cljs.core.__destructure_map(map__26629);
+var iso = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26629__$1,new cljs.core.Keyword(null,"iso","iso",-1366207543));
+var label = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26629__$1,new cljs.core.Keyword(null,"label","label",1718410804));
+var slug = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26629__$1,new cljs.core.Keyword(null,"slug","slug",2029314850));
+return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"button.country-row","button.country-row",-827615663),new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"type","type",1174270348),"button",new cljs.core.Keyword(null,"class","class",-2030961996),placesurfer.country_ui.rows.row_class(selected_QMARK_,keyboard_highlight_QMARK_),new cljs.core.Keyword("replicant","on-render","replicant/on-render",1674377901),(function (p__26630){
+var map__26631 = p__26630;
+var map__26631__$1 = cljs.core.__destructure_map(map__26631);
+var node = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26631__$1,new cljs.core.Keyword("replicant","node","replicant/node",1306451380));
 if(cljs.core.truth_((function (){var and__5023__auto__ = keyboard_highlight_QMARK_;
 if(cljs.core.truth_(and__5023__auto__)){
 return node;

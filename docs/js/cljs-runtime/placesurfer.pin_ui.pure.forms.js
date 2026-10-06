@@ -35,8 +35,8 @@ placesurfer.pin_ui.pure.forms.remap_legacy_icon = (function placesurfer$pin_ui$p
 return cljs.core.get.cljs$core$IFn$_invoke$arity$3(placesurfer.pin_ui.pure.forms.legacy_icon_map,v,v);
 });
 placesurfer.pin_ui.pure.forms.normalize_icon = (function placesurfer$pin_ui$pure$forms$normalize_icon(var_args){
-var G__24625 = arguments.length;
-switch (G__24625) {
+var G__24970 = arguments.length;
+switch (G__24970) {
 case 1:
 return placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -107,12 +107,12 @@ var lon = temp__5823__auto__;
 var temp__5823__auto____$1 = placesurfer.pin_ui.pure.coords.parse_decimal(new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(form));
 if(cljs.core.truth_(temp__5823__auto____$1)){
 var lat = temp__5823__auto____$1;
-var G__24642 = cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"id","id",-1388402092),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[clojure.string.trim(placesurfer.pin_ui.pure.forms.sanitize_description(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"location","location",1815599388).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(form))),lon,placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(form)),id,clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"url","url",276297046).cljs$core$IFn$_invoke$arity$1(form))),lat,placesurfer.pin_ui.pure.forms.normalize_stars(new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-name","agent-name",-916187942).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(form)))]);
-var G__24642__$1 = ((cljs.core.seq(clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form)))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__24642,new cljs.core.Keyword(null,"radii","radii",-39552793),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form)))):G__24642);
+var G__24972 = cljs.core.PersistentHashMap.fromArrays([new cljs.core.Keyword(null,"description","description",-1428560544),new cljs.core.Keyword(null,"address","address",559499426),new cljs.core.Keyword(null,"name","name",1843675177),new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"icon","icon",1679606541),new cljs.core.Keyword(null,"id","id",-1388402092),new cljs.core.Keyword(null,"url","url",276297046),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"ranking","ranking",191056920),new cljs.core.Keyword(null,"image","image",-58725096),new cljs.core.Keyword(null,"agent-name","agent-name",-916187942),new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259)],[clojure.string.trim(placesurfer.pin_ui.pure.forms.sanitize_description(new cljs.core.Keyword(null,"description","description",-1428560544).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"location","location",1815599388).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"name","name",1843675177).cljs$core$IFn$_invoke$arity$1(form))),lon,placesurfer.pin_ui.pure.forms.normalize_icon.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword(null,"icon","icon",1679606541).cljs$core$IFn$_invoke$arity$1(form)),id,clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"url","url",276297046).cljs$core$IFn$_invoke$arity$1(form))),lat,placesurfer.pin_ui.pure.forms.normalize_stars(new cljs.core.Keyword(null,"ranking","ranking",191056920).cljs$core$IFn$_invoke$arity$1(form)),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"image","image",-58725096).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-name","agent-name",-916187942).cljs$core$IFn$_invoke$arity$1(form))),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"agent-url","agent-url",-1202660259).cljs$core$IFn$_invoke$arity$1(form)))]);
+var G__24972__$1 = ((cljs.core.seq(clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form)))))?cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__24972,new cljs.core.Keyword(null,"radii","radii",-39552793),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"radii","radii",-39552793).cljs$core$IFn$_invoke$arity$1(form)))):G__24972);
 if(cljs.core.seq(clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"viewing","viewing",1058577980).cljs$core$IFn$_invoke$arity$1(form))))){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__24642__$1,new cljs.core.Keyword(null,"viewing","viewing",1058577980),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"viewing","viewing",1058577980).cljs$core$IFn$_invoke$arity$1(form))));
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(G__24972__$1,new cljs.core.Keyword(null,"viewing","viewing",1058577980),clojure.string.trim(placesurfer.pin_ui.pure.forms.coerce_text(new cljs.core.Keyword(null,"viewing","viewing",1058577980).cljs$core$IFn$_invoke$arity$1(form))));
 } else {
-return G__24642__$1;
+return G__24972__$1;
 }
 } else {
 return null;
@@ -153,11 +153,11 @@ placesurfer.pin_ui.pure.forms.parse_radii = (function placesurfer$pin_ui$pure$fo
 var trimmed = clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(s));
 if(cljs.core.seq(trimmed)){
 var parts = clojure.string.split.cljs$core$IFn$_invoke$arity$2(trimmed,/\s*,\s*/);
-var nums = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__24649_SHARP_){
-return parseFloat(p1__24649_SHARP_);
+var nums = cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__24984_SHARP_){
+return parseFloat(p1__24984_SHARP_);
 }),parts);
-if(cljs.core.every_QMARK_((function (p1__24650_SHARP_){
-return ((typeof p1__24650_SHARP_ === 'number') && (((cljs.core.not(isNaN(p1__24650_SHARP_))) && ((((p1__24650_SHARP_ > (0))) && ((p1__24650_SHARP_ <= (20000))))))));
+if(cljs.core.every_QMARK_((function (p1__24985_SHARP_){
+return ((typeof p1__24985_SHARP_ === 'number') && (((cljs.core.not(isNaN(p1__24985_SHARP_))) && ((((p1__24985_SHARP_ > (0))) && ((p1__24985_SHARP_ <= (20000))))))));
 }),nums)){
 return nums;
 } else {
@@ -257,8 +257,8 @@ return "center";
  * Pixel offset [x y] to compensate for whitespace below the visual tip in pin images.
  */
 placesurfer.pin_ui.pure.forms.pin_icon_marker_offset = (function placesurfer$pin_ui$pure$forms$pin_icon_marker_offset(icon){
-var G__24661 = icon;
-switch (G__24661) {
+var G__24995 = icon;
+switch (G__24995) {
 case "pin-orange.png":
 return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [(0),(2)], null);
 

@@ -20,12 +20,12 @@ placesurfer.clipboard_ui.booli.url.listing_id_from_url = (function placesurfer$c
 var temp__5823__auto__ = cljs.core.not_empty(clojure.string.trim(cljs.core.str.cljs$core$IFn$_invoke$arity$1(url)));
 if(cljs.core.truth_(temp__5823__auto__)){
 var s = temp__5823__auto__;
-var G__26000 = cljs.core.re_matches(placesurfer.clipboard_ui.booli.url.booli_listing_pattern,s);
-var G__26000__$1 = (((G__26000 == null))?null:cljs.core.second(G__26000));
-if((G__26000__$1 == null)){
+var G__25992 = cljs.core.re_matches(placesurfer.clipboard_ui.booli.url.booli_listing_pattern,s);
+var G__25992__$1 = (((G__25992 == null))?null:cljs.core.second(G__25992));
+if((G__25992__$1 == null)){
 return null;
 } else {
-return ["booli:",cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__26000__$1)].join('');
+return ["booli:",cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__25992__$1)].join('');
 }
 } else {
 return null;

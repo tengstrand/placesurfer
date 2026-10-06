@@ -56,13 +56,13 @@ placesurfer.app_ui.state.clear_update_status_BANG_ = (function placesurfer$app_u
 return cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"update-error","update-error",-572386700),null,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"update-message","update-message",109684659),null], 0));
 });
 placesurfer.app_ui.state.normalize_country_code = (function placesurfer$app_ui$state$normalize_country_code(s){
-var G__20072 = s;
-var G__20072__$1 = (((G__20072 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__20072));
-var G__20072__$2 = (((G__20072__$1 == null))?null:clojure.string.trim(G__20072__$1));
-if((G__20072__$2 == null)){
+var G__24254 = s;
+var G__24254__$1 = (((G__24254 == null))?null:cljs.core.str.cljs$core$IFn$_invoke$arity$1(G__24254));
+var G__24254__$2 = (((G__24254__$1 == null))?null:clojure.string.trim(G__24254__$1));
+if((G__24254__$2 == null)){
 return null;
 } else {
-return clojure.string.upper_case(G__20072__$2);
+return clojure.string.upper_case(G__24254__$2);
 }
 });
 placesurfer.app_ui.state.non_empty_js_string_QMARK_ = (function placesurfer$app_ui$state$non_empty_js_string_QMARK_(v){
@@ -109,8 +109,8 @@ return ((cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(topic,new cljs.core.Keywor
 });
 placesurfer.app_ui.state.visible_positions = (function placesurfer$app_ui$state$visible_positions(s){
 var active = cljs.core.set(new cljs.core.Keyword(null,"active-topics","active-topics",1278012558).cljs$core$IFn$_invoke$arity$1(s));
-return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__20078_SHARP_){
-return cljs.core.contains_QMARK_(active,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__20078_SHARP_));
+return cljs.core.vec(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__24262_SHARP_){
+return cljs.core.contains_QMARK_(active,new cljs.core.Keyword(null,"topic","topic",-1960480691).cljs$core$IFn$_invoke$arity$1(p1__24262_SHARP_));
 }),new cljs.core.Keyword(null,"positions","positions",-1380538434).cljs$core$IFn$_invoke$arity$1(s)));
 });
 placesurfer.app_ui.state.bump_description_sync_token = (function placesurfer$app_ui$state$bump_description_sync_token(s){

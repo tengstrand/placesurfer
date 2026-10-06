@@ -43,8 +43,8 @@ return null;
  * resolvable listing id or coordinates.
  */
 placesurfer.clipboard_ui.hemnet.search_results.payload__GT_results = (function placesurfer$clipboard_ui$hemnet$search_results$payload__GT_results(payload,locale){
-return cljs.core.vec(cljs.core.keep.cljs$core$IFn$_invoke$arity$2((function (p1__21821_SHARP_){
-return placesurfer.clipboard_ui.hemnet.search_results.item__GT_result(p1__21821_SHARP_,locale);
+return cljs.core.vec(cljs.core.keep.cljs$core$IFn$_invoke$arity$2((function (p1__26110_SHARP_){
+return placesurfer.clipboard_ui.hemnet.search_results.item__GT_result(p1__26110_SHARP_,locale);
 }),new cljs.core.Keyword(null,"items","items",1031954938).cljs$core$IFn$_invoke$arity$2(payload,cljs.core.PersistentVector.EMPTY)));
 });
 

@@ -26,11 +26,11 @@ return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(page,new cljs.core.Keyword(n
 placesurfer.app_ui.ui.pages.layers_page_QMARK_ = (function placesurfer$app_ui$ui$pages$layers_page_QMARK_(page){
 return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(page,new cljs.core.Keyword(null,"layers","layers",1944875032));
 });
-placesurfer.app_ui.ui.pages.show_main_map_area_QMARK_ = (function placesurfer$app_ui$ui$pages$show_main_map_area_QMARK_(p__21148){
-var map__21149 = p__21148;
-var map__21149__$1 = cljs.core.__destructure_map(map__21149);
-var page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21149__$1,new cljs.core.Keyword(null,"page","page",849072397));
-var mobile_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21149__$1,new cljs.core.Keyword(null,"mobile?","mobile?",1358664528));
+placesurfer.app_ui.ui.pages.show_main_map_area_QMARK_ = (function placesurfer$app_ui$ui$pages$show_main_map_area_QMARK_(p__26304){
+var map__26305 = p__26304;
+var map__26305__$1 = cljs.core.__destructure_map(map__26305);
+var page = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26305__$1,new cljs.core.Keyword(null,"page","page",849072397));
+var mobile_QMARK_ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26305__$1,new cljs.core.Keyword(null,"mobile?","mobile?",1358664528));
 return ((placesurfer.app_ui.ui.pages.map_page_QMARK_(page)) && (cljs.core.not((function (){var and__5023__auto____$1 = mobile_QMARK_;
 if(cljs.core.truth_(and__5023__auto____$1)){
 return ((placesurfer.app_ui.ui.pages.topic_page_QMARK_(page)) || (placesurfer.app_ui.ui.pages.country_page_QMARK_(page)));

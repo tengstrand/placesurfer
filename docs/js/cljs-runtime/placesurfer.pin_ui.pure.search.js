@@ -30,9 +30,9 @@ var and__5023__auto____$3 = cljs.core.not(e.metaKey);
 if(and__5023__auto____$3){
 var and__5023__auto____$4 = cljs.core.not(e.altKey);
 if(and__5023__auto____$4){
-var G__26561 = e.key;
-var fexpr__26560 = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 2, ["NumpadEnter",null,"Enter",null], null), null);
-return (fexpr__26560.cljs$core$IFn$_invoke$arity$1 ? fexpr__26560.cljs$core$IFn$_invoke$arity$1(G__26561) : fexpr__26560.call(null,G__26561));
+var G__26391 = e.key;
+var fexpr__26390 = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 2, ["NumpadEnter",null,"Enter",null], null), null);
+return (fexpr__26390.cljs$core$IFn$_invoke$arity$1 ? fexpr__26390.cljs$core$IFn$_invoke$arity$1(G__26391) : fexpr__26390.call(null,G__26391));
 } else {
 return and__5023__auto____$4;
 }

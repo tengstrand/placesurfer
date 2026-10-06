@@ -51,19 +51,19 @@ return null;
 } else {
 return null;
 }
-}catch (e20033){var _ = e20033;
+}catch (e21620){var _ = e21620;
 return null;
 }});
 placesurfer.about_ui.sources.attribution_link = (function placesurfer$about_ui$sources$attribution_link(href,text){
 return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"a.about-link","a.about-link",790916619),new cljs.core.PersistentArrayMap(null, 3, [new cljs.core.Keyword(null,"href","href",-793805698),href,new cljs.core.Keyword(null,"target","target",253001721),"_blank",new cljs.core.Keyword(null,"rel","rel",1378823488),"noopener noreferrer"], null),text], null);
 });
 placesurfer.about_ui.sources.description_content = (function placesurfer$about_ui$sources$description_content(t,source_id){
-var G__20034 = source_id;
-var G__20034__$1 = (((G__20034 instanceof cljs.core.Keyword))?G__20034.fqn:null);
-switch (G__20034__$1) {
+var G__21632 = source_id;
+var G__21632__$1 = (((G__21632 instanceof cljs.core.Keyword))?G__21632.fqn:null);
+switch (G__21632__$1) {
 case "manual":
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.about-source-description","p.about-source-description",2129742191),(function (){var G__20035 = placesurfer.about_ui.sources.description_key(source_id);
-return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__20035) : t.call(null,G__20035));
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.about-source-description","p.about-source-description",2129742191),(function (){var G__21633 = placesurfer.about_ui.sources.description_key(source_id);
+return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__21633) : t.call(null,G__21633));
 })()], null);
 
 break;
@@ -88,8 +88,8 @@ return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMP
 
 break;
 default:
-return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.about-source-description","p.about-source-description",2129742191),(function (){var G__20036 = placesurfer.about_ui.sources.description_key(source_id);
-return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__20036) : t.call(null,G__20036));
+return new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"p.about-source-description","p.about-source-description",2129742191),(function (){var G__21634 = placesurfer.about_ui.sources.description_key(source_id);
+return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__21634) : t.call(null,G__21634));
 })()], null);
 
 }
@@ -97,27 +97,27 @@ return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__200
 placesurfer.about_ui.sources.section = (function placesurfer$about_ui$sources$section(t){
 return new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"motion.about-section#about-sources","motion.about-section#about-sources",-1314255486),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword("replicant","on-render","replicant/on-render",1674377901),(function (_){
 return placesurfer.about_ui.sources.scroll_to_location_hash_BANG_();
-})], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"h2.about-heading","h2.about-heading",349183154),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("about","sources-heading","about/sources-heading",-657448527)) : t.call(null,new cljs.core.Keyword("about","sources-heading","about/sources-heading",-657448527)))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"table.about-sources-table","table.about-sources-table",1767722909),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"thead","thead",-291875296),new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr","tr",-1424774646),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th.about-sources-icon-col","th.about-sources-icon-col",2074312589),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"scope","scope",-439358418),"col",new cljs.core.Keyword(null,"aria-hidden","aria-hidden",399337029),"true"], null),""], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th.about-sources-name-col","th.about-sources-name-col",-1405107523),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"scope","scope",-439358418),"col"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("about","sources-column-source","about/sources-column-source",1869286869)) : t.call(null,new cljs.core.Keyword("about","sources-column-source","about/sources-column-source",1869286869)))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th.about-sources-desc-col","th.about-sources-desc-col",-1700280012),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"scope","scope",-439358418),"col"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("about","sources-column-description","about/sources-column-description",155263730)) : t.call(null,new cljs.core.Keyword("about","sources-column-description","about/sources-column-description",155263730)))], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tbody","tbody",-80678300),(function (){var iter__5503__auto__ = (function placesurfer$about_ui$sources$section_$_iter__20037(s__20038){
+})], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"h2.about-heading","h2.about-heading",349183154),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("about","sources-heading","about/sources-heading",-657448527)) : t.call(null,new cljs.core.Keyword("about","sources-heading","about/sources-heading",-657448527)))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"table.about-sources-table","table.about-sources-table",1767722909),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"thead","thead",-291875296),new cljs.core.PersistentVector(null, 4, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr","tr",-1424774646),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th.about-sources-icon-col","th.about-sources-icon-col",2074312589),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"scope","scope",-439358418),"col",new cljs.core.Keyword(null,"aria-hidden","aria-hidden",399337029),"true"], null),""], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th.about-sources-name-col","th.about-sources-name-col",-1405107523),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"scope","scope",-439358418),"col"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("about","sources-column-source","about/sources-column-source",1869286869)) : t.call(null,new cljs.core.Keyword("about","sources-column-source","about/sources-column-source",1869286869)))], null),new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"th.about-sources-desc-col","th.about-sources-desc-col",-1700280012),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"scope","scope",-439358418),"col"], null),(t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(new cljs.core.Keyword("about","sources-column-description","about/sources-column-description",155263730)) : t.call(null,new cljs.core.Keyword("about","sources-column-description","about/sources-column-description",155263730)))], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tbody","tbody",-80678300),(function (){var iter__5503__auto__ = (function placesurfer$about_ui$sources$section_$_iter__21648(s__21650){
 return (new cljs.core.LazySeq(null,(function (){
-var s__20038__$1 = s__20038;
+var s__21650__$1 = s__21650;
 while(true){
-var temp__5823__auto__ = cljs.core.seq(s__20038__$1);
+var temp__5823__auto__ = cljs.core.seq(s__21650__$1);
 if(temp__5823__auto__){
-var s__20038__$2 = temp__5823__auto__;
-if(cljs.core.chunked_seq_QMARK_(s__20038__$2)){
-var c__5501__auto__ = cljs.core.chunk_first(s__20038__$2);
+var s__21650__$2 = temp__5823__auto__;
+if(cljs.core.chunked_seq_QMARK_(s__21650__$2)){
+var c__5501__auto__ = cljs.core.chunk_first(s__21650__$2);
 var size__5502__auto__ = cljs.core.count(c__5501__auto__);
-var b__20040 = cljs.core.chunk_buffer(size__5502__auto__);
-if((function (){var i__20039 = (0);
+var b__21658 = cljs.core.chunk_buffer(size__5502__auto__);
+if((function (){var i__21656 = (0);
 while(true){
-if((i__20039 < size__5502__auto__)){
-var source_id = cljs.core._nth(c__5501__auto__,i__20039);
-cljs.core.chunk_append(b__20040,cljs.core.with_meta(new cljs.core.PersistentVector(null, 5, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.about-sources-row","tr.about-sources-row",-299469007),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"id","id",-1388402092),placesurfer.about_ui.sources.anchor_id(source_id)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-sources-icon-cell","td.about-sources-icon-cell",-295087593),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.about-source-icon","img.about-source-icon",344345395),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.about_ui.sources.icon_src(source_id),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-source-name","td.about-source-name",-1954395605),(function (){var G__20047 = placesurfer.about_ui.sources.name_key(source_id);
-return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__20047) : t.call(null,G__20047));
+if((i__21656 < size__5502__auto__)){
+var source_id = cljs.core._nth(c__5501__auto__,i__21656);
+cljs.core.chunk_append(b__21658,cljs.core.with_meta(new cljs.core.PersistentVector(null, 5, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.about-sources-row","tr.about-sources-row",-299469007),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"id","id",-1388402092),placesurfer.about_ui.sources.anchor_id(source_id)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-sources-icon-cell","td.about-sources-icon-cell",-295087593),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.about-source-icon","img.about-source-icon",344345395),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.about_ui.sources.icon_src(source_id),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-source-name","td.about-source-name",-1954395605),(function (){var G__21664 = placesurfer.about_ui.sources.name_key(source_id);
+return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__21664) : t.call(null,G__21664));
 })()], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-sources-desc-cell","td.about-sources-desc-cell",-2052394090),placesurfer.about_ui.sources.description_content(t,source_id)], null)], null),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"key","key",-1516042587),cljs.core.name(source_id)], null)));
 
-var G__20067 = (i__20039 + (1));
-i__20039 = G__20067;
+var G__21693 = (i__21656 + (1));
+i__21656 = G__21693;
 continue;
 } else {
 return true;
@@ -125,15 +125,15 @@ return true;
 break;
 }
 })()){
-return cljs.core.chunk_cons(cljs.core.chunk(b__20040),placesurfer$about_ui$sources$section_$_iter__20037(cljs.core.chunk_rest(s__20038__$2)));
+return cljs.core.chunk_cons(cljs.core.chunk(b__21658),placesurfer$about_ui$sources$section_$_iter__21648(cljs.core.chunk_rest(s__21650__$2)));
 } else {
-return cljs.core.chunk_cons(cljs.core.chunk(b__20040),null);
+return cljs.core.chunk_cons(cljs.core.chunk(b__21658),null);
 }
 } else {
-var source_id = cljs.core.first(s__20038__$2);
-return cljs.core.cons(cljs.core.with_meta(new cljs.core.PersistentVector(null, 5, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.about-sources-row","tr.about-sources-row",-299469007),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"id","id",-1388402092),placesurfer.about_ui.sources.anchor_id(source_id)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-sources-icon-cell","td.about-sources-icon-cell",-295087593),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.about-source-icon","img.about-source-icon",344345395),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.about_ui.sources.icon_src(source_id),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-source-name","td.about-source-name",-1954395605),(function (){var G__20057 = placesurfer.about_ui.sources.name_key(source_id);
-return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__20057) : t.call(null,G__20057));
-})()], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-sources-desc-cell","td.about-sources-desc-cell",-2052394090),placesurfer.about_ui.sources.description_content(t,source_id)], null)], null),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"key","key",-1516042587),cljs.core.name(source_id)], null)),placesurfer$about_ui$sources$section_$_iter__20037(cljs.core.rest(s__20038__$2)));
+var source_id = cljs.core.first(s__21650__$2);
+return cljs.core.cons(cljs.core.with_meta(new cljs.core.PersistentVector(null, 5, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"tr.about-sources-row","tr.about-sources-row",-299469007),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"id","id",-1388402092),placesurfer.about_ui.sources.anchor_id(source_id)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-sources-icon-cell","td.about-sources-icon-cell",-295087593),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"img.about-source-icon","img.about-source-icon",344345395),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"src","src",-1651076051),placesurfer.about_ui.sources.icon_src(source_id),new cljs.core.Keyword(null,"alt","alt",-3214426),""], null)], null)], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-source-name","td.about-source-name",-1954395605),(function (){var G__21666 = placesurfer.about_ui.sources.name_key(source_id);
+return (t.cljs$core$IFn$_invoke$arity$1 ? t.cljs$core$IFn$_invoke$arity$1(G__21666) : t.call(null,G__21666));
+})()], null),new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"td.about-sources-desc-cell","td.about-sources-desc-cell",-2052394090),placesurfer.about_ui.sources.description_content(t,source_id)], null)], null),new cljs.core.PersistentArrayMap(null, 1, [new cljs.core.Keyword(null,"key","key",-1516042587),cljs.core.name(source_id)], null)),placesurfer$about_ui$sources$section_$_iter__21648(cljs.core.rest(s__21650__$2)));
 }
 } else {
 return null;

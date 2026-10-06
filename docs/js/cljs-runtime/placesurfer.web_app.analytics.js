@@ -7,7 +7,7 @@ return gtag.call(window,"event","page_view",({"page_path": ["/",cljs.core.name(p
 } else {
 return null;
 }
-}catch (e26406){var _ = e26406;
+}catch (e26309){var _ = e26309;
 return null;
 }});
 

@@ -30,10 +30,10 @@ cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.app_ui.interface$
 
 placesurfer.app_ui.interface$.effects.render_BANG_();
 
-var map__22421 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
-var map__22421__$1 = cljs.core.__destructure_map(map__22421);
-var countries = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22421__$1,new cljs.core.Keyword(null,"countries","countries",863192750));
-var country_slug = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22421__$1,new cljs.core.Keyword(null,"country-slug","country-slug",769681844));
+var map__26841 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
+var map__26841__$1 = cljs.core.__destructure_map(map__26841);
+var countries = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26841__$1,new cljs.core.Keyword(null,"countries","countries",863192750));
+var country_slug = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26841__$1,new cljs.core.Keyword(null,"country-slug","country-slug",769681844));
 var url = placesurfer.pin_ui.interface$.photon.build_search_url.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([trimmed,(8),new cljs.core.PersistentArrayMap(null, 2, [new cljs.core.Keyword(null,"countries","countries",863192750),countries,new cljs.core.Keyword(null,"country-slug","country-slug",769681844),country_slug], null)], 0));
 return fetch(url).then((function (resp){
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(request_id,cljs.core.deref(placesurfer.web_app.home_search._BANG_search_request_id))){
@@ -57,10 +57,10 @@ return placesurfer.web_app.home_search.finish_search_BANG_(request_id,cljs.core.
 placesurfer.web_app.home_search.set_home_search_query_BANG_ = (function placesurfer$web_app$home_search$set_home_search_query_BANG_(query){
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$variadic(placesurfer.app_ui.interface$.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"home-search-query","home-search-query",1117256691),query,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([new cljs.core.Keyword(null,"home-search-highlight-index","home-search-highlight-index",-1709760590),null], 0));
 
-var temp__5823__auto___22429 = cljs.core.deref(placesurfer.web_app.home_search._BANG_search_timeout);
-if(cljs.core.truth_(temp__5823__auto___22429)){
-var t_22431 = temp__5823__auto___22429;
-clearTimeout(t_22431);
+var temp__5823__auto___26853 = cljs.core.deref(placesurfer.web_app.home_search._BANG_search_timeout);
+if(cljs.core.truth_(temp__5823__auto___26853)){
+var t_26855 = temp__5823__auto___26853;
+clearTimeout(t_26855);
 } else {
 }
 
@@ -83,10 +83,10 @@ placesurfer.app_ui.interface$.effects.render_BANG_();
 return placesurfer.map_ui.interface$.center_on_position_BANG_(new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"longitude","longitude",-1268876372),new cljs.core.Keyword(null,"longitude","longitude",-1268876372).cljs$core$IFn$_invoke$arity$1(result),new cljs.core.Keyword(null,"latitude","latitude",394867543),new cljs.core.Keyword(null,"latitude","latitude",394867543).cljs$core$IFn$_invoke$arity$1(result),new cljs.core.Keyword(null,"zoom","zoom",-1827487038),(12),new cljs.core.Keyword(null,"animate?","animate?",-1559039739),true], null));
 });
 placesurfer.web_app.home_search.home_search_enter_BANG_ = (function placesurfer$web_app$home_search$home_search_enter_BANG_(){
-var map__22427 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
-var map__22427__$1 = cljs.core.__destructure_map(map__22427);
-var home_search_results = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22427__$1,new cljs.core.Keyword(null,"home-search-results","home-search-results",556485744));
-var home_search_highlight_index = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22427__$1,new cljs.core.Keyword(null,"home-search-highlight-index","home-search-highlight-index",-1709760590));
+var map__26848 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
+var map__26848__$1 = cljs.core.__destructure_map(map__26848);
+var home_search_results = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26848__$1,new cljs.core.Keyword(null,"home-search-results","home-search-results",556485744));
+var home_search_highlight_index = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26848__$1,new cljs.core.Keyword(null,"home-search-highlight-index","home-search-highlight-index",-1709760590));
 var action = placesurfer.pin_ui.interface$.search.enter_action.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([home_search_results,null,home_search_highlight_index], 0));
 if(cljs.core.vector_QMARK_(action)){
 var temp__5823__auto__ = placesurfer.pin_ui.interface$.search.highlighted_result.cljs$core$IFn$_invoke$arity$variadic(cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([home_search_results,cljs.core.second(action)], 0));
@@ -101,10 +101,10 @@ return null;
 }
 });
 placesurfer.web_app.home_search.home_search_keydown_BANG_ = (function placesurfer$web_app$home_search$home_search_keydown_BANG_(e){
-var map__22428 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
-var map__22428__$1 = cljs.core.__destructure_map(map__22428);
-var home_search_results = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22428__$1,new cljs.core.Keyword(null,"home-search-results","home-search-results",556485744));
-var home_search_highlight_index = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22428__$1,new cljs.core.Keyword(null,"home-search-highlight-index","home-search-highlight-index",-1709760590));
+var map__26852 = cljs.core.deref(placesurfer.app_ui.interface$.state._BANG_state);
+var map__26852__$1 = cljs.core.__destructure_map(map__26852);
+var home_search_results = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26852__$1,new cljs.core.Keyword(null,"home-search-results","home-search-results",556485744));
+var home_search_highlight_index = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26852__$1,new cljs.core.Keyword(null,"home-search-highlight-index","home-search-highlight-index",-1709760590));
 var n = cljs.core.count(home_search_results);
 var key = e.key;
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2("ArrowDown",key)){

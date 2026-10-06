@@ -15,18 +15,18 @@ placesurfer.web_app.draw_layers.sync_reference_images_BANG_ = (function placesur
 var s = cljs.core.deref(placesurfer.web_app.state._BANG_state);
 var images = cljs.core.filterv(placesurfer.web_app.draw_layers.image_layer_QMARK_,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771).cljs$core$IFn$_invoke$arity$1(s));
 var sel = new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411).cljs$core$IFn$_invoke$arity$1(s);
-placesurfer.map_ui.interface$.set_reference_images_BANG_(cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p__21989){
-var map__21990 = p__21989;
-var map__21990__$1 = cljs.core.__destructure_map(map__21990);
-var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21990__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
-var image_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21990__$1,new cljs.core.Keyword(null,"image-url","image-url",-1064784064));
-var bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21990__$1,new cljs.core.Keyword(null,"bounds","bounds",1691609455));
-var opacity = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21990__$1,new cljs.core.Keyword(null,"opacity","opacity",397153780));
+placesurfer.map_ui.interface$.set_reference_images_BANG_(cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p__26295){
+var map__26296 = p__26295;
+var map__26296__$1 = cljs.core.__destructure_map(map__26296);
+var id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26296__$1,new cljs.core.Keyword(null,"id","id",-1388402092));
+var image_url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26296__$1,new cljs.core.Keyword(null,"image-url","image-url",-1064784064));
+var bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26296__$1,new cljs.core.Keyword(null,"bounds","bounds",1691609455));
+var opacity = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26296__$1,new cljs.core.Keyword(null,"opacity","opacity",397153780));
 return new cljs.core.PersistentArrayMap(null, 4, [new cljs.core.Keyword(null,"id","id",-1388402092),id,new cljs.core.Keyword(null,"image-url","image-url",-1064784064),image_url,new cljs.core.Keyword(null,"bounds","bounds",1691609455),bounds,new cljs.core.Keyword(null,"opacity","opacity",397153780),opacity], null);
 }),images));
 
-return placesurfer.map_ui.interface$.set_reference_image_adjust_BANG_((cljs.core.truth_(cljs.core.some((function (p1__21988_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21988_SHARP_),sel);
+return placesurfer.map_ui.interface$.set_reference_image_adjust_BANG_((cljs.core.truth_(cljs.core.some((function (p1__26294_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26294_SHARP_),sel);
 }),images))?sel:null));
 });
 /**
@@ -35,12 +35,12 @@ return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"
  * via sync-reference-images!.
  */
 placesurfer.web_app.draw_layers.enter_draw_page_BANG_ = (function placesurfer$web_app$draw_layers$enter_draw_page_BANG_(){
-var map__21992 = cljs.core.deref(placesurfer.web_app.state._BANG_state);
-var map__21992__$1 = cljs.core.__destructure_map(map__21992);
-var draw_layers = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21992__$1,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771));
-var draw_selected_layer_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21992__$1,new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411));
-var selected = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__21991_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21991_SHARP_),draw_selected_layer_id);
+var map__26298 = cljs.core.deref(placesurfer.web_app.state._BANG_state);
+var map__26298__$1 = cljs.core.__destructure_map(map__26298);
+var draw_layers = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26298__$1,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771));
+var draw_selected_layer_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26298__$1,new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411));
+var selected = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__26297_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26297_SHARP_),draw_selected_layer_id);
 }),draw_layers));
 if(cljs.core.truth_((function (){var and__5023__auto__ = selected;
 if(cljs.core.truth_(and__5023__auto__)){
@@ -67,8 +67,8 @@ return placesurfer.web_app.draw_layers.sync_reference_images_BANG_();
 placesurfer.web_app.draw_layers.select_layer_BANG_ = (function placesurfer$web_app$draw_layers$select_layer_BANG_(layer_id){
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.web_app.state._BANG_state,cljs.core.assoc,new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411),layer_id);
 
-var layer = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__21993_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21993_SHARP_),layer_id);
+var layer = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__26299_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26299_SHARP_),layer_id);
 }),new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state))));
 if(placesurfer.web_app.draw_layers.image_layer_QMARK_(layer)){
 } else {
@@ -90,11 +90,11 @@ return placesurfer.app_ui.interface$.effects.render_BANG_();
 /**
  * Add a pasted reference image as a layer, select it and persist the config.
  */
-placesurfer.web_app.draw_layers.add_image_layer_BANG_ = (function placesurfer$web_app$draw_layers$add_image_layer_BANG_(p__21994){
-var map__21995 = p__21994;
-var map__21995__$1 = cljs.core.__destructure_map(map__21995);
-var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21995__$1,new cljs.core.Keyword(null,"url","url",276297046));
-var bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__21995__$1,new cljs.core.Keyword(null,"bounds","bounds",1691609455));
+placesurfer.web_app.draw_layers.add_image_layer_BANG_ = (function placesurfer$web_app$draw_layers$add_image_layer_BANG_(p__26300){
+var map__26301 = p__26300;
+var map__26301__$1 = cljs.core.__destructure_map(map__26301);
+var url = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26301__$1,new cljs.core.Keyword(null,"url","url",276297046));
+var bounds = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26301__$1,new cljs.core.Keyword(null,"bounds","bounds",1691609455));
 var layers = new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state));
 var n = (cljs.core.count(cljs.core.filter.cljs$core$IFn$_invoke$arity$2(placesurfer.web_app.draw_layers.image_layer_QMARK_,layers)) + (1));
 var id = ["bild-",cljs.core.str.cljs$core$IFn$_invoke$arity$1(Date.now())].join('');
@@ -114,11 +114,11 @@ return placesurfer.app_ui.interface$.effects.render_BANG_();
  */
 placesurfer.web_app.draw_layers.image_bounds_changed_BANG_ = (function placesurfer$web_app$draw_layers$image_bounds_changed_BANG_(id,bounds){
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.web_app.state._BANG_state,cljs.core.update,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771),(function (layers){
-return cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__21996_SHARP_){
-if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21996_SHARP_),id)){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__21996_SHARP_,new cljs.core.Keyword(null,"bounds","bounds",1691609455),bounds);
+return cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__26302_SHARP_){
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26302_SHARP_),id)){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__26302_SHARP_,new cljs.core.Keyword(null,"bounds","bounds",1691609455),bounds);
 } else {
-return p1__21996_SHARP_;
+return p1__26302_SHARP_;
 }
 }),layers);
 }));
@@ -131,11 +131,11 @@ return placesurfer.web_app.draw_layers.save_config_BANG_();
 placesurfer.web_app.draw_layers.set_image_opacity_BANG_ = (function placesurfer$web_app$draw_layers$set_image_opacity_BANG_(opacity){
 var id = new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411).cljs$core$IFn$_invoke$arity$1(cljs.core.deref(placesurfer.web_app.state._BANG_state));
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(placesurfer.web_app.state._BANG_state,cljs.core.update,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771),(function (layers){
-return cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__21997_SHARP_){
-if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21997_SHARP_),id)){
-return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__21997_SHARP_,new cljs.core.Keyword(null,"opacity","opacity",397153780),opacity);
+return cljs.core.mapv.cljs$core$IFn$_invoke$arity$2((function (p1__26303_SHARP_){
+if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26303_SHARP_),id)){
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(p1__26303_SHARP_,new cljs.core.Keyword(null,"opacity","opacity",397153780),opacity);
 } else {
-return p1__21997_SHARP_;
+return p1__26303_SHARP_;
 }
 }),layers);
 }));
@@ -146,19 +146,19 @@ return placesurfer.app_ui.interface$.effects.render_BANG_();
 });
 placesurfer.web_app.draw_layers.delete_layer_BANG_ = (function placesurfer$web_app$draw_layers$delete_layer_BANG_(layer_id){
 cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$2(placesurfer.web_app.state._BANG_state,(function (s){
-var remaining = cljs.core.filterv((function (p1__21998_SHARP_){
-return cljs.core.not_EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21998_SHARP_),layer_id);
+var remaining = cljs.core.filterv((function (p1__26306_SHARP_){
+return cljs.core.not_EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26306_SHARP_),layer_id);
 }),new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771).cljs$core$IFn$_invoke$arity$1(s));
 var new_sel = ((cljs.core.seq(remaining))?new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(cljs.core.first(remaining)):null);
 return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(s,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771),remaining),new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411),new_sel);
 }));
 
-var map__22000 = cljs.core.deref(placesurfer.web_app.state._BANG_state);
-var map__22000__$1 = cljs.core.__destructure_map(map__22000);
-var draw_layers = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22000__$1,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771));
-var draw_selected_layer_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__22000__$1,new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411));
-var selected = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__21999_SHARP_){
-return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__21999_SHARP_),draw_selected_layer_id);
+var map__26308 = cljs.core.deref(placesurfer.web_app.state._BANG_state);
+var map__26308__$1 = cljs.core.__destructure_map(map__26308);
+var draw_layers = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26308__$1,new cljs.core.Keyword(null,"draw-layers","draw-layers",-897746771));
+var draw_selected_layer_id = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__26308__$1,new cljs.core.Keyword(null,"draw-selected-layer-id","draw-selected-layer-id",-1205706411));
+var selected = cljs.core.first(cljs.core.filter.cljs$core$IFn$_invoke$arity$2((function (p1__26307_SHARP_){
+return cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(new cljs.core.Keyword(null,"id","id",-1388402092).cljs$core$IFn$_invoke$arity$1(p1__26307_SHARP_),draw_selected_layer_id);
 }),draw_layers));
 if(cljs.core.truth_((function (){var and__5023__auto__ = selected;
 if(cljs.core.truth_(and__5023__auto__)){

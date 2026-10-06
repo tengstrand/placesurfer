@@ -18,8 +18,8 @@ var visible = placesurfer.edit.pure.table.visible_data_column_keys(update_column
 return cljs.core.vec(cljs.core.concat.cljs$core$IFn$_invoke$arity$variadic(new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword(null,"action-icon","action-icon",-355725910),new cljs.core.Keyword(null,"source-icon","source-icon",-769874141),new cljs.core.Keyword(null,"meters","meters",-1644078545)], null),cljs.core.filter.cljs$core$IFn$_invoke$arity$2(cljs.core.set(visible),placesurfer.edit.pure.table.lead_order),cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([cljs.core.remove.cljs$core$IFn$_invoke$arity$2(cljs.core.set(placesurfer.edit.pure.table.lead_order),visible)], 0)));
 });
 placesurfer.edit.pure.table.table_columns = (function placesurfer$edit$pure$table$table_columns(var_args){
-var G__24187 = arguments.length;
-switch (G__24187) {
+var G__24393 = arguments.length;
+switch (G__24393) {
 case 1:
 return placesurfer.edit.pure.table.table_columns.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -81,14 +81,14 @@ return cljs.core.vec(cljs.core.cons(new cljs.core.Keyword(null,"name","name",184
 return all_cols;
 }
 });
-placesurfer.edit.pure.table.sort_update_table_rows = (function placesurfer$edit$pure$table$sort_update_table_rows(rows,p__24207,pin_row_QMARK_){
-var map__24208 = p__24207;
-var map__24208__$1 = cljs.core.__destructure_map(map__24208);
-var sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__24208__$1,new cljs.core.Keyword(null,"sort-field","sort-field",-941433793));
-var sort_dir = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__24208__$1,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757));
+placesurfer.edit.pure.table.sort_update_table_rows = (function placesurfer$edit$pure$table$sort_update_table_rows(rows,p__24413,pin_row_QMARK_){
+var map__24414 = p__24413;
+var map__24414__$1 = cljs.core.__destructure_map(map__24414);
+var sort_field = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__24414__$1,new cljs.core.Keyword(null,"sort-field","sort-field",-941433793));
+var sort_dir = cljs.core.get.cljs$core$IFn$_invoke$arity$2(map__24414__$1,new cljs.core.Keyword(null,"sort-dir","sort-dir",35994757));
 var sortable_rows = cljs.core.remove.cljs$core$IFn$_invoke$arity$2(pin_row_QMARK_,rows);
-var sorted_sortable = cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3((function (p1__24203_SHARP_){
-return cljs.core.get.cljs$core$IFn$_invoke$arity$2(p1__24203_SHARP_,sort_field);
+var sorted_sortable = cljs.core.sort_by.cljs$core$IFn$_invoke$arity$3((function (p1__24412_SHARP_){
+return cljs.core.get.cljs$core$IFn$_invoke$arity$2(p1__24412_SHARP_,sort_field);
 }),(function (a,b){
 var cmp = placesurfer.edit.pure.sort.compare_field_values(a,b);
 if(cljs.core._EQ_.cljs$core$IFn$_invoke$arity$2(sort_dir,new cljs.core.Keyword(null,"asc","asc",356854569))){

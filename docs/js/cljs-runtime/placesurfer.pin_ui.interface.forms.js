@@ -4,14 +4,14 @@ return placesurfer.pin_ui.pure.forms.default_form();
 });
 placesurfer.pin_ui.interface$.forms.form_valid_QMARK_ = (function placesurfer$pin_ui$interface$forms$form_valid_QMARK_(var_args){
 var args__5755__auto__ = [];
-var len__5749__auto___25690 = arguments.length;
-var i__5750__auto___25692 = (0);
+var len__5749__auto___25422 = arguments.length;
+var i__5750__auto___25423 = (0);
 while(true){
-if((i__5750__auto___25692 < len__5749__auto___25690)){
-args__5755__auto__.push((arguments[i__5750__auto___25692]));
+if((i__5750__auto___25423 < len__5749__auto___25422)){
+args__5755__auto__.push((arguments[i__5750__auto___25423]));
 
-var G__25693 = (i__5750__auto___25692 + (1));
-i__5750__auto___25692 = G__25693;
+var G__25424 = (i__5750__auto___25423 + (1));
+i__5750__auto___25423 = G__25424;
 continue;
 } else {
 }
@@ -29,9 +29,9 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(placesurfer.pin_ui.pure.for
 (placesurfer.pin_ui.interface$.forms.form_valid_QMARK_.cljs$lang$maxFixedArity = (0));
 
 /** @this {Function} */
-(placesurfer.pin_ui.interface$.forms.form_valid_QMARK_.cljs$lang$applyTo = (function (seq25671){
+(placesurfer.pin_ui.interface$.forms.form_valid_QMARK_.cljs$lang$applyTo = (function (seq25418){
 var self__5735__auto__ = this;
-return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq25671));
+return self__5735__auto__.cljs$core$IFn$_invoke$arity$variadic(cljs.core.seq(seq25418));
 }));
 
 
